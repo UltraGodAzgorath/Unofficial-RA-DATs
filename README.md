@@ -1,6 +1,6 @@
 Hey Everyone.
 
-These are DATs meant to be used with rom managers such as ClrMamePro and RomVault for RetroAchievement rom collections. All the games that are listed in official DATs, such as No-Intro and Redump, are RA-linked are in these DATs. 
+These are DATs meant to be used with rom managers such as ClrMamePro and RomVault for RetroAchievement rom collections. All the games that are listed in official DATs, such as No-Intro and Redump, that are RA-linked are in these DATs. 
 Any roms that aren’t in any official DATs, such as translations, subsets, hacks, homebrews etc, are named as close to No-intro and Redump naming standards as possible. 
 These DATs are meant to be TRUE 1G1R DATs with every single RA-supported linked rom, including all versions, languages and regions, added to them and are all selectable in the “REGIONS” drop-down menu option in ClrMamePro. 
 Make sure to tick every single region listed so that you keep 1 rom of each game but just put the regions you want the most on the top of the list for high priority and make sure “1G1R Mode” is selected as well.
