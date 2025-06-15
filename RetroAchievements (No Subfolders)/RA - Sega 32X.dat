@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>RA - Sega 32X</name>
+		<description>Sega 32X</description>
+		<category>1G1R</category>
+		<version>20250529</version>
+		<date>29 May 2025</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
+		<homepage>https://retroachievements.org</homepage>
+		<url>https://retroachievements.org/system/10/games</url>
+		<titlecount>24</titlecount>
+		<hashcount>26</hashcount>
+	</header>
+	<game name="Doom (Europe) 32X Resurrection (v2.2b) (D32XR Team) (Hack)">
+		<category>Hack</category>
+		<description>Doom (Europe) 32X Resurrection (v2.2b) (D32XR Team) (Hack)</description>
+		<release name="Doom (Europe) 32X Resurrection (v2.2b) (D32XR Team) (Hack)" region="World"/>
+		<rom name="Doom (Europe) 32X Resurrection (v2.2b) (D32XR Team) (Hack).32x" size="4194304" crc="c7d37f52" md5="49134106e611839a28caf94a1ddd783d" sha1="99fa677969b937ee20ee778d25aed6d9f3e9ea7e"/>
+		<url>https://retroachievements.org/game/18179/hashes</url>
+		<hash>49134106e611839a28caf94a1ddd783d</hash>
+	</game>
+	
+	<game name="Doom - Sigil (John Romero) (Hack)">
+		<category>Hack</category>
+		<description>Doom - Sigil (John Romero) (Hack)</description>
+		<release name="Doom - Sigil (John Romero) (Hack)" region="World"/>
+		<rom name="Doom - Sigil (John Romero) (Hack).32x" size="4194304" crc="e47779e5" md5="f891f45238cf4a8a0956196d665612b8" sha1="b0cea0cee52ff09892fe2d0483c68a05d849a5f0"/>
+		<url>https://retroachievements.org/game/17681/hashes</url>
+		<hash>f891f45238cf4a8a0956196d665612b8</hash>
+	</game>
+	
+	<game name="xRick (USA) (v2011-04-30) (Aftermarket) (Unl) (Chilly Willy) (Homebrew)">
+		<category>Homebrew</category>
+		<description>xRick (USA) (v2011-04-30) (Aftermarket) (Unl) (Chilly Willy) (Homebrew)</description>
+		<release name="xRick (USA) (v2011-04-30) (Aftermarket) (Unl) (Chilly Willy) (Homebrew)" region="World"/>
+		<rom name="xRick (USA) (v2011-04-30) (Aftermarket) (Unl) (Chilly Willy) (Homebrew).bin" size="4194304" crc="fd07db46" md5="f642e289bfb670022e0ae001786bdf94" sha1="f951890e6cd3cfd5e4cba13be8c8aea4f70d36a5"/>
+		<url>https://retroachievements.org/game/17682/hashes</url>
+		<hash>f642e289bfb670022e0ae001786bdf94</hash>
+	</game>
+	
+	<game name="ClayFighter 2 (USA) (Proto) (1995-04-28)">
+		<category>Prototype</category>
+		<description>ClayFighter 2 (USA) (Proto) (1995-04-28)</description>
+		<release name="ClayFighter 2 (USA) (Proto) (1995-04-28)" region="USA"/>
+		<rom name="ClayFighter 2 (USA) (Proto) (1995-04-28).32x" size="1048576" crc="59701755" md5="dee27ac83240ddebdcaa92e9f58fde4f" sha1="1d3c372b55fa1418556aea1949995f997227b5fa"/>
+		<url>https://retroachievements.org/game/16794/hashes</url>
+		<hash>dee27ac83240ddebdcaa92e9f58fde4f</hash>
+	</game>
+	
+	<game name="Pinocchio (Europe) (Proto) (1995-12-06)">
+		<category>Prototype</category>
+		<description>Pinocchio (Europe) (Proto) (1995-12-06)</description>
+		<release name="Pinocchio (Europe) (Proto) (1995-12-06)" region="Europe"/>
+		<rom name="Pinocchio (Europe) (Proto) (1995-12-06).32x" size="4194304" crc="390a90f9" md5="406ab3e46797d8459c3d9efbbc044282" sha1="39ccf67e516bdaec879f1e30b23d5f253e82b6c8"/>
+		<url>https://retroachievements.org/game/16800/hashes</url>
+		<hash>406ab3e46797d8459c3d9efbbc044282</hash>
+	</game>
+	
+	<game name="Soulstar X (USA) (Proto)">
+		<category>Prototype</category>
+		<description>Soulstar X (USA) (Proto)</description>
+		<release name="Soulstar X (USA) (Proto)" region="USA"/>
+		<rom name="Soulstar X (USA) (Proto).32x" size="2097152" crc="5ea52f22" md5="4e9d4bd4122fbe72d6f6918e55a58a35" sha1="4726988f28c5e49971e1f38e335fecc3f9dd6c1f"/>
+		<url>https://retroachievements.org/game/15989/hashes</url>
+		<hash>4e9d4bd4122fbe72d6f6918e55a58a35</hash>
+	</game>
+	
+	<game name="Spot Goes to Hollywood (USA) (Proto)">
+		<category>Prototype</category>
+		<description>Spot Goes to Hollywood (USA) (Proto)</description>
+		<release name="Spot Goes to Hollywood (USA) (Proto)" region="USA"/>
+		<rom name="Spot Goes to Hollywood (USA) (Proto).32x" size="3145728" crc="ce6c4b99" md5="11caaeaa76ac810400e9a08985e0eb29" sha1="f233175e65928727a789b89850702af43fa8d4a4"/>
+		<url>https://retroachievements.org/game/23739/hashes</url>
+		<hash>11caaeaa76ac810400e9a08985e0eb29</hash>
+	</game>
+	
+	<game name="Virtua Hamster (USA) (Proto)">
+		<category>Prototype</category>
+		<description>Virtua Hamster (USA) (Proto)</description>
+		<release name="Virtua Hamster (USA) (Proto)" region="USA"/>
+		<rom name="Virtua Hamster (USA) (Proto).32x" size="2097152" crc="cd54ac37" md5="b3a4929fcb61bc9ecdfd9ac453860fc1" sha1="c10f98d9db73ae90be5e5d556b663a5aff015cef"/>
+		<url>https://retroachievements.org/game/14207/hashes</url>
+		<hash>b3a4929fcb61bc9ecdfd9ac453860fc1</hash>
+	</game>
+	
+	<game name="After Burner Complete (Japan, USA) (En)">
+		<category>Retail</category>
+		<description>After Burner Complete (Japan, USA) (En)</description>
+		<release name="After Burner Complete (Japan, USA) (En)" region="Japan"/>
+		<release name="After Burner Complete (Japan, USA) (En)" region="USA"/>
+		<rom name="After Burner Complete (Japan, USA) (En).32x" size="2097152" crc="204044c4" md5="ec9529858cc7961b39f5382b2f657b8f" sha1="9cf575feb036e2f26e78350154d5eb2fd3825325"/>
+		<url>https://retroachievements.org/game/14303/hashes</url>
+		<hash>ec9529858cc7961b39f5382b2f657b8f</hash>
+	</game>
+	
+	<game name="Brutal - Above the Claw (USA)">
+		<category>Retail</category>
+		<description>Brutal - Above the Claw (USA)</description>
+		<release name="Brutal - Above the Claw (USA)" region="USA"/>
+		<rom name="Brutal - Above the Claw (USA).32x" size="3145728" crc="7a72c939" md5="1738a479b0253bcb0bcfb7bf09c03add" sha1="40aa2c787f37772cdbd7280b8be06b15421fabae"/>
+		<url>https://retroachievements.org/game/16793/hashes</url>
+		<hash>1738a479b0253bcb0bcfb7bf09c03add</hash>
+	</game>
+	
+	<game name="Cosmic Carnage (Japan, USA) (En)">
+		<category>Retail</category>
+		<description>Cosmic Carnage (Japan, USA) (En)</description>
+		<release name="Cosmic Carnage (Japan, USA) (En)" region="Japan"/>
+		<release name="Cosmic Carnage (Japan, USA) (En)" region="USA"/>
+		<rom name="Cosmic Carnage (Japan, USA) (En).32x" size="3145728" crc="7c7be6a2" md5="32f3002a46a462735aa12ca856cb7652" sha1="9a563ed821b483148339561ebd2b876efa58847b"/>
+		<url>https://retroachievements.org/game/14306/hashes</url>
+		<hash>32f3002a46a462735aa12ca856cb7652</hash>
+	</game>
+	
+	<game name="Doom (Japan, USA) (En)">
+		<category>Retail</category>
+		<description>Doom (Japan, USA) (En)</description>
+		<release name="Doom (Japan, USA) (En)" region="Japan"/>
+		<release name="Doom (Japan, USA) (En)" region="USA"/>
+		<rom name="Doom (Japan, USA) (En).32x" size="3145728" crc="208332fd" md5="79339867d9d4f58b169753d9a29ea1a5" sha1="b68e9c7af81853b8f05b8696033dfe4c80327e38"/>
+		<url>https://retroachievements.org/game/12777/hashes</url>
+		<hash>79339867d9d4f58b169753d9a29ea1a5</hash>
+	</game>
+	
+	<game name="Knuckles' Chaotix (Japan, USA) (En)">
+		<category>Retail</category>
+		<description>Knuckles' Chaotix (Japan, USA) (En)</description>
+		<release name="Knuckles' Chaotix (Japan, USA) (En)" region="Japan"/>
+		<release name="Knuckles' Chaotix (Japan, USA) (En)" region="USA"/>
+		<rom name="Knuckles' Chaotix (Japan, USA) (En).32x" size="3145728" crc="d0b0b842" md5="47b1095e68b053125cd2cd5b1ac4eb50" sha1="0c2fff7bc79ed26507c08ac47464c3af19f7ced7"/>
+		<url>https://retroachievements.org/game/10023/hashes</url>
+		<hash>47b1095e68b053125cd2cd5b1ac4eb50</hash>
+	</game>
+	
+	<game name="Kolibri (USA, Europe)">
+		<category>Retail</category>
+		<description>Kolibri (USA, Europe)</description>
+		<release name="Kolibri (USA, Europe)" region="Europe"/>
+		<release name="Kolibri (USA, Europe)" region="USA"/>
+		<rom name="Kolibri (USA, Europe).32x" size="3145728" crc="20ca53ef" md5="6af6207b1e67072a9104178130c61712" sha1="191ae0b525ecf32664086d8d748e0b35f776ddfe"/>
+		<url>https://retroachievements.org/game/14308/hashes</url>
+		<hash>6af6207b1e67072a9104178130c61712</hash>
+	</game>
+	
+	<game name="Mortal Kombat II (Japan, USA) (En)">
+		<category>Retail</category>
+		<description>Mortal Kombat II (Japan, USA) (En)</description>
+		<release name="Mortal Kombat II (Japan, USA) (En)" region="Japan"/>
+		<release name="Mortal Kombat II (Japan, USA) (En)" region="USA"/>
+		<rom name="Mortal Kombat II (Japan, USA) (En).32x" size="4194304" crc="773c0a85" md5="a95c0e7c1d35fd42cd2e3eb7b06cb6d0" sha1="d55964bd935110ac2d9cbd3b085b7e8b71b11df2"/>
+		<url>https://retroachievements.org/game/13377/hashes</url>
+		<hash>a95c0e7c1d35fd42cd2e3eb7b06cb6d0</hash>
+	</game>
+	
+	<game name="Motocross Championship (USA)" cloneof="Motocross Championship (Europe)">
+		<category>Retail</category>
+		<description>Motocross Championship (USA)</description>
+		<release name="Motocross Championship (USA)" region="USA"/>
+		<rom name="Motocross Championship (USA).32x" size="2097152" crc="a21c5761" md5="2c4a934985021624d48725b8d7b039e8" sha1="5f1a107991aaf9eff0b3ce864b2e3151f56abe7b"/>
+		<url>https://retroachievements.org/game/16604/hashes</url>
+		<hash>2c4a934985021624d48725b8d7b039e8</hash>
+	</game>
+	<game name="Motocross Championship (Europe)">
+		<category>Retail</category>
+		<description>Motocross Championship (Europe)</description>
+		<release name="Motocross Championship (Europe)" region="Europe"/>
+		<rom name="Motocross Championship (Europe).32x" size="2097152" crc="ae3364e9" md5="6bc365808a00b8a640dd86ccb5a0ea24" sha1="af0cb8626825e1b431eba07b8a9b571186745c16"/>
+		<url>https://retroachievements.org/game/16604/hashes</url>
+		<hash>6bc365808a00b8a640dd86ccb5a0ea24</hash>
+	</game>
+	
+	<game name="NBA Jam - Tournament Edition (World)">
+		<category>Retail</category>
+		<description>NBA Jam - Tournament Edition (World)</description>
+		<release name="NBA Jam - Tournament Edition (World)" region="World"/>
+		<rom name="NBA Jam - Tournament Edition (World).32x" size="4194304" crc="6b7994aa" md5="966a5e00dd7bcdc70b05c5a0c0e8f7aa" sha1="c8af3e74c49514669ba6652ec0c81bccf77873b6"/>
+		<url>https://retroachievements.org/game/16062/hashes</url>
+		<hash>966a5e00dd7bcdc70b05c5a0c0e8f7aa</hash>
+	</game>
+	
+	<game name="Space Harrier (Japan, USA) (En)">
+		<category>Retail</category>
+		<description>Space Harrier (Japan, USA) (En)</description>
+		<release name="Space Harrier (Japan, USA) (En)" region="Japan"/>
+		<release name="Space Harrier (Japan, USA) (En)" region="USA"/>
+		<rom name="Space Harrier (Japan, USA) (En).32x" size="2097152" crc="86e7f989" md5="6180e973f678bfc96705e8be4e0783f1" sha1="f32a52a7082761982024e40291dbd962a835b231"/>
+		<url>https://retroachievements.org/game/10565/hashes</url>
+		<hash>6180e973f678bfc96705e8be4e0783f1</hash>
+	</game>
+	
+	<game name="Star Wars Arcade (USA)">
+		<category>Retail</category>
+		<description>Star Wars Arcade (USA)</description>
+		<release name="Star Wars Arcade (USA)" region="USA"/>
+		<rom name="Star Wars Arcade (USA).32x" size="2621440" crc="2f16b44a" md5="ae3a42c6297ef25c6018a209fda0194e" sha1="f4ffaaf1d8330ea971643021be3f3203e1ea065d"/>
+		<url>https://retroachievements.org/game/14206/hashes</url>
+		<hash>ae3a42c6297ef25c6018a209fda0194e</hash>
+	</game>
+	<game name="Star Wars Arcade (Europe)" cloneof="Star Wars Arcade (USA)">
+		<category>Retail</category>
+		<description>Star Wars Arcade (Europe)</description>
+		<release name="Star Wars Arcade (Europe)" region="Europe"/>
+		<rom name="Star Wars Arcade (Europe).32x" size="2621440" crc="82e82660" md5="bfaa6fd031490c26e25f3d59d9c37497" sha1="a877cbf704fe7480966fd88a3c39efb6a39392ac"/>
+		<url>https://retroachievements.org/game/14206/hashes</url>
+		<hash>bfaa6fd031490c26e25f3d59d9c37497</hash>
+	</game>
+	
+	<game name="Tempo (Japan, USA) (En)">
+		<category>Retail</category>
+		<description>Tempo (Japan, USA) (En)</description>
+		<release name="Tempo (Japan, USA) (En)" region="Japan"/>
+		<release name="Tempo (Japan, USA) (En)" region="USA"/>
+		<rom name="Tempo (Japan, USA) (En).32x" size="3145728" crc="14e5c575" md5="30989c83d4e4ea3c35a1f3e2620b8465" sha1="6673ba83570b4f2c1b4a22415a56594c3cc6c6a9"/>
+		<url>https://retroachievements.org/game/14307/hashes</url>
+		<hash>30989c83d4e4ea3c35a1f3e2620b8465</hash>
+	</game>
+	
+	<game name="Amazing Spider-Man, The - Web of Fire (USA)">
+		<category>Retail</category>
+		<description>Amazing Spider-Man, The - Web of Fire (USA)</description>
+		<release name="Amazing Spider-Man, The - Web of Fire (USA)" region="USA"/>
+		<rom name="Amazing Spider-Man, The - Web of Fire (USA).32x" size="3145728" crc="29dce257" md5="a60b0838a776966e17a8f10b94baddef" sha1="7cc2ea1e10f110338ad880bd3e7ff3bce72e7e9e"/>
+		<url>https://retroachievements.org/game/14844/hashes</url>
+		<hash>a60b0838a776966e17a8f10b94baddef</hash>
+	</game>
+	
+	<game name="Virtua Fighter (Japan, USA) (En)">
+		<category>Retail</category>
+		<description>Virtua Fighter (Japan, USA) (En)</description>
+		<release name="Virtua Fighter (Japan, USA) (En)" region="Japan"/>
+		<release name="Virtua Fighter (Japan, USA) (En)" region="USA"/>
+		<rom name="Virtua Fighter (Japan, USA) (En).32x" size="4194304" crc="b5de9626" md5="901e97c9f731fbdf1f1ead0fbf58249a" sha1="f35754f4bfe3a53722d7a799f88face0fd13c424"/>
+		<url>https://retroachievements.org/game/14304/hashes</url>
+		<hash>901e97c9f731fbdf1f1ead0fbf58249a</hash>
+	</game>
+	
+	<game name="Virtua Racing Deluxe (Japan)">
+		<category>Retail</category>
+		<description>Virtua Racing Deluxe (Japan)</description>
+		<release name="Virtua Racing Deluxe (Japan)" region="Japan"/>
+		<rom name="Virtua Racing Deluxe (Japan).32x" size="3145728" crc="0908e888" md5="08cae0a96d9ee07001c6e1c247d407c6" sha1="1c64e80eb164ca8d6c6587a55ad60385ba1daf27"/>
+		<url>https://retroachievements.org/game/11823/hashes</url>
+		<hash>08cae0a96d9ee07001c6e1c247d407c6</hash>
+	</game>
+	
+	<game name="WWF WrestleMania - The Arcade Game (USA)">
+		<category>Retail</category>
+		<description>WWF WrestleMania - The Arcade Game (USA)</description>
+		<release name="WWF WrestleMania - The Arcade Game (USA)" region="USA"/>
+		<rom name="WWF WrestleMania - The Arcade Game (USA).32x" size="4194304" crc="61833503" md5="8456cae9975ba6cb041c4ef2be54b1a1" sha1="551eedc963cba0e1410b3d229b332ef9ea061469"/>
+		<url>https://retroachievements.org/game/14831/hashes</url>
+		<hash>8456cae9975ba6cb041c4ef2be54b1a1</hash>
+	</game>
+</datafile>

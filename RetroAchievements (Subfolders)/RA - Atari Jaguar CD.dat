@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>RA - Atari Jaguar CD</name>
+		<description>Atari Jaguar CD</description>
+		<category>1G1R</category>
+		<version>20250522</version>
+		<date>22 May 2025</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
+		<homepage>https://retroachievements.org</homepage>
+		<url>https://retroachievements.org/system/77/games</url>
+		<titlecount>17</titlecount>
+		<hashcount>18</hashcount>
+	</header>
+	<game name="Home Run Derby (World) (v2.0) (Aftermarket) (Unl) (MGNS8M)">
+		<category>Homebrew</category>
+		<description>Home Run Derby (World) (v2.0) (Aftermarket) (Unl) (MGNS8M)</description>
+		<rom name="Home Run Derby (World) (v2.0) (Aftermarket) (Unl) (MGNS8M).cdi" size="16334440" crc="37dcea03" md5="82aede01ec23dd9f4a8c9131c439a6c8" sha1="5934c163cde32b46f531413b26c009a4c8dc9e2f"/>
+		<url>https://retroachievements.org/game/26665/hashes</url>
+		<hash>BC696313D459A3829C209C81A04E5F6A</hash>
+	</game>
+	<game name="Home Run Derby (World) (v1.0) (Aftermarket) (Unl) (MGNS8M)">
+		<category>Homebrew</category>
+		<description>Home Run Derby (World) (v1.0) (Aftermarket) (Unl) (MGNS8M)</description>
+		<rom name="Home Run Derby (World) (v1.0) (Aftermarket) (Unl) (MGNS8M).cdi" size="16334440" crc="5df9cee0" md5="8a202ef9ce960d36232ca00bd8dd0e5e" sha1="50ce7774a4df542b251f850a50f9611e867cf518"/>
+		<url>https://retroachievements.org/game/26665/hashes</url>
+		<hash>89C1DE1195D7F25BDA63875201445F25</hash>
+	</game>
+	
+	<game name="Alice's Mom's Rescue (World) (Aftermarket) (Unl) (OrionSoft)">
+		<category>Homebrew</category>
+		<description>Alice's Mom's Rescue (World) (Aftermarket) (Unl) (OrionSoft)</description>
+		<rom name="Alice's Mom's Rescue (World) (Aftermarket) (Unl) (OrionSoft).cdi" size="40635552" crc="6129069f" md5="a1c193c1cfd73378835851bf88f0d79a" sha1="5b72dff04d71a85776e50c3b5c4829f7c9835bed"/>
+		<url>https://retroachievements.org/game/22942/hashes</url>
+		<hash>7A3837F8D61C7E60D09E7E3864195C0B</hash>
+	</game>
+	
+	<game name="Downfall (World) (Aftermarket) (Unl) (Reboot)">
+		<category>Homebrew</category>
+		<description>Downfall (World) (Aftermarket) (Unl) (Reboot)</description>
+		<rom name="Downfall (World) (Aftermarket) (Unl) (Reboot).cdi" size="16334440" crc="8bed0f08" md5="51a69397824d347e67ec8f0efc69f6f5" sha1="bb3f3205853263b9929a28ef19844f9462953acd"/>
+		<url>https://retroachievements.org/game/24459/hashes</url>
+		<hash>EF4B4B04E5857BB172E5DC804F075EA1</hash>
+	</game>
+	
+	<game name="Elansar (World) (Aftermarket) (Unl) (OrionSoft)">
+		<category>Homebrew</category>
+		<description>Elansar (World) (Aftermarket) (Unl) (OrionSoft)</description>
+		<rom name="Elansar (World) (Aftermarket) (Unl) (OrionSoft).cdi" size="52705749" crc="7f5723e2" md5="efccb8ad7c1c395e4aecd9e653348173" sha1="47591e96a7ca152d2f851050ebfa0d2e1a81c269"/>
+		<url>https://retroachievements.org/game/24515/hashes</url>
+		<hash>87A5B4EECD0B5EBD56A44D924FA54077</hash>
+	</game>
+
+	<game name="Full Circle - Rocketeer (World) (Promo) (Aftermarket) (Unl) (Reboot)">
+		<category>Homebrew</category>
+		<description>Full Circle - Rocketeer (World) (Promo) (Aftermarket) (Unl) (Reboot)</description>
+		<rom name="Full Circle - Rocketeer (World) (Promo) (Aftermarket) (Unl) (Reboot).cdi" size="16334440" crc="67b0c629" md5="651f6076fe47024f1e64944ab27b8ff7" sha1="75f0fe79d6662e96fc2b56983f7cbea40e07d2d7"/>
+		<url>https://retroachievements.org/game/24462/hashes</url>
+		<hash>97F5012D44F6332AD2E3C020715787B7</hash>
+	</game>
+
+	<game name="Jagmatch (World) (Aftermarket) (Unl) (Sebastian Mihai)">
+		<category>Homebrew</category>
+		<description>Jagmatch (World) (Aftermarket) (Unl) (Sebastian Mihai)</description>
+		<rom name="Jagmatch (World) (Aftermarket) (Unl) (Sebastian Mihai).cdi" size="16334440" crc="ee114035" md5="7f7eb633f7415703b83620af49449bed" sha1="8254706690c7bf411973f3894e0430aff0dde2a5"/>
+		<url>https://retroachievements.org/game/24304/hashes</url>
+		<hash>B406A7402A14C406E26AA21F4E4B8817</hash>
+	</game>
+
+	<game name="Kobayashi Maru (World) (Promo-Final) (Aftermarket) (Unl) (Reboot)">
+		<category>Homebrew</category>
+		<description>Kobayashi Maru (World) (Promo-Final) (Aftermarket) (Unl) (Reboot)</description>
+		<rom name="Kobayashi Maru (World) (Promo-Final) (Aftermarket) (Unl) (Reboot).cdi" size="16334440" crc="efbbe60b" md5="e796fc84fdb4f4b2e5ea94c98a83bd51" sha1="188d60d8ced4440a93bde68990d31853e97a59bb"/>
+		<url>https://retroachievements.org/game/24385/hashes</url>
+		<hash>1AFCFA7CC6565E8B774AC2556CE8D8CA</hash>
+	</game>
+
+	<game name="SuperFly DX (World) (v1.1) (Aftermarket) (Unl) (Reboot)">
+		<category>Homebrew</category>
+		<description>SuperFly DX (World) (v1.1) (Aftermarket) (Unl) (Reboot)</description>
+		<rom name="SuperFly DX (World) (v1.1) (Aftermarket) (Unl) (Reboot).cdi" size="16334440" crc="6abbf100" md5="dd749830a6e7447f23a7f1f3a85803d3" sha1="7cf73aa7420bf8837aae735ec777bb2a0a2d8852"/>
+		<url>https://retroachievements.org/game/24088/hashes</url>
+		<hash>B7A6DDB06827FC8CBAA3FEE0369E6FDA</hash>
+	</game>
+
+	<game name="Ants (USA) (Unl)">
+		<category>Unlicensed</category>
+		<description>Ants (USA) (Unl)</description>
+		<rom name="Ants (USA) (Unl).cue" size="554" crc="84044a57" md5="b331911add5c680cb060b8a0ef44b164" sha1="b6e43f2dbf7c6c4395590425cb768044c8530362"/>
+		<rom name="Ants (USA) (Unl) (Track 1).bin" size="7869792" crc="4782c4bf" md5="618c389f3e8f90c30d54362beca164e0" sha1="8c0b136243a96d22a10b7179e4ee9c9b0737b976"/>
+		<rom name="Ants (USA) (Unl) (Track 2).bin" size="2102688" crc="3e02cd04" md5="13087672c23c8d07559b067742db577e" sha1="851433eba82512c5538ffc7362016aab8e9c2b2f"/>
+		<rom name="Ants (USA) (Unl) (Track 3).bin" size="1453536" crc="4db9f0cd" md5="43d6701a4d2cfbc99a1e5f3300b38d39" sha1="92d55fdfe9c6a8b43aa4eae821506040e203510e"/>
+		<rom name="Ants (USA) (Unl) (Track 4).bin" size="1573488" crc="1c4dbd90" md5="b5e3335303c4b1c74483f23beb8baa0b" sha1="f917542afadbfa3df274df2ecb904b33deddda11"/>
+		<rom name="Ants (USA) (Unl) (Track 5).bin" size="1573488" crc="1c4dbd90" md5="b5e3335303c4b1c74483f23beb8baa0b" sha1="f917542afadbfa3df274df2ecb904b33deddda11"/>
+		<rom name="Ants (USA) (Unl) (Track 6).bin" size="1053696" crc="9ace9519" md5="21d6abec8bbaacf8744fc964420d3b11" sha1="22d76652ec5d0b957bdd5cb788d071cca0a9f771"/>
+		<url>https://retroachievements.org/game/24303/hashes</url>
+		<hash>00E51A104D12AC1B6B3738A4553C3A06</hash>
+	</game>
+
+	<game name="Fast Food 64 (USA) (Unl)">
+		<category>Unlicensed</category>
+		<description>Fast Food 64 (USA) (Unl)</description>
+		<rom name="Fast Food 64 (USA) (Unl).cue" size="602" crc="dec9a5f5" md5="9ffb00bf79c1906c95bd9def64805f0c" sha1="e14fac54208d78dcfd42e8960bcb066326cd3bf3"/>
+		<rom name="Fast Food 64 (USA) (Unl) (Track 1).bin" size="7869792" crc="4782c4bf" md5="618c389f3e8f90c30d54362beca164e0" sha1="8c0b136243a96d22a10b7179e4ee9c9b0737b976"/>
+		<rom name="Fast Food 64 (USA) (Unl) (Track 2).bin" size="2102688" crc="31e77d84" md5="71e481b26d0627dfa154d08772dc5779" sha1="e3219057afbd0b1407ef1a6fc1ab7eac905f5bc9"/>
+		<rom name="Fast Food 64 (USA) (Unl) (Track 3).bin" size="1453536" crc="4db9f0cd" md5="43d6701a4d2cfbc99a1e5f3300b38d39" sha1="92d55fdfe9c6a8b43aa4eae821506040e203510e"/>
+		<rom name="Fast Food 64 (USA) (Unl) (Track 4).bin" size="1573488" crc="1c4dbd90" md5="b5e3335303c4b1c74483f23beb8baa0b" sha1="f917542afadbfa3df274df2ecb904b33deddda11"/>
+		<rom name="Fast Food 64 (USA) (Unl) (Track 5).bin" size="1573488" crc="1c4dbd90" md5="b5e3335303c4b1c74483f23beb8baa0b" sha1="f917542afadbfa3df274df2ecb904b33deddda11"/>
+		<rom name="Fast Food 64 (USA) (Unl) (Track 6).bin" size="1053696" crc="9ace9519" md5="21d6abec8bbaacf8744fc964420d3b11" sha1="22d76652ec5d0b957bdd5cb788d071cca0a9f771"/>
+		<url>https://retroachievements.org/game/24307/hashes</url>
+		<hash>88B332A84C80BE1981BBC784C09ABA2C</hash>
+	</game>
+
+	<game name="Fast Food 64 - Holiday Snacks (USA) (Unl)">
+		<category>Unlicensed</category>
+		<description>Fast Food 64 - Holiday Snacks (USA) (Unl)</description>
+		<rom name="Fast Food 64 - Holiday Snacks (USA) (Unl).cue" size="704" crc="0a29abd4" md5="b8c65faf8e0718b13551b59807366ac0" sha1="2f52700f105735c05ad76f645e81a202b69d0cbc"/>
+		<rom name="Fast Food 64 - Holiday Snacks (USA) (Unl) (Track 1).bin" size="7869792" crc="4782c4bf" md5="618c389f3e8f90c30d54362beca164e0" sha1="8c0b136243a96d22a10b7179e4ee9c9b0737b976"/>
+		<rom name="Fast Food 64 - Holiday Snacks (USA) (Unl) (Track 2).bin" size="2102688" crc="7600649d" md5="30c52c24f548a2015ffaf715c92991b6" sha1="6ed4da55a40fe6db9eda1f303b5c60960f24df15"/>
+		<rom name="Fast Food 64 - Holiday Snacks (USA) (Unl) (Track 3).bin" size="1453536" crc="4db9f0cd" md5="43d6701a4d2cfbc99a1e5f3300b38d39" sha1="92d55fdfe9c6a8b43aa4eae821506040e203510e"/>
+		<rom name="Fast Food 64 - Holiday Snacks (USA) (Unl) (Track 4).bin" size="1573488" crc="1c4dbd90" md5="b5e3335303c4b1c74483f23beb8baa0b" sha1="f917542afadbfa3df274df2ecb904b33deddda11"/>
+		<rom name="Fast Food 64 - Holiday Snacks (USA) (Unl) (Track 5).bin" size="1573488" crc="1c4dbd90" md5="b5e3335303c4b1c74483f23beb8baa0b" sha1="f917542afadbfa3df274df2ecb904b33deddda11"/>
+		<rom name="Fast Food 64 - Holiday Snacks (USA) (Unl) (Track 6).bin" size="1053696" crc="9ace9519" md5="21d6abec8bbaacf8744fc964420d3b11" sha1="22d76652ec5d0b957bdd5cb788d071cca0a9f771"/>
+		<url>https://retroachievements.org/game/24306/hashes</url>
+		<hash>C58A8131DCD07BD60146D675C10B5D0F</hash>
+	</game>
+
+	<game name="Frog Feast (USA) (Unl)">
+		<category>Unlicensed</category>
+		<description>Frog Feast (USA) (Unl)</description>
+		<rom name="Frog Feast (USA) (Unl).cue" size="497" crc="8e2e8279" md5="68fde5d866a41000c133fd0978cd90aa" sha1="ede9381168b61bea057ad8a6485a809c0da03bd2"/>
+		<rom name="Frog Feast (USA) (Unl) (Track 1).bin" size="24425520" crc="64d04668" md5="b05ef491bd4ada9392fedb65a3354345" sha1="8db71d935ffdf59f8655ddddd68a5a842ef2115c"/>
+		<rom name="Frog Feast (USA) (Unl) (Track 2).bin" size="2203824" crc="d122dae7" md5="c4d641e16c6bc57242444d77a28db5d7" sha1="b7e8ec7fda0b91a417e6c8bd67dfed5336eba141"/>
+		<rom name="Frog Feast (USA) (Unl) (Track 3).bin" size="1895712" crc="733b3c78" md5="7a1d5215fd838e72635da3e24cd246c4" sha1="4ee0d9ff7bbcbab78a5932fd26f3ff5ac7daa8a8"/>
+		<rom name="Frog Feast (USA) (Unl) (Track 4).bin" size="1669920" crc="4afabdc6" md5="57712d252b92a4f336a4aa1489c9bcd2" sha1="d955ae4d3fb01c1cad483eee8e4e153ebb3f0a3b"/>
+		<rom name="Frog Feast (USA) (Unl) (Track 5).bin" size="1053696" crc="884020fb" md5="68d74d08e192ce74c9be887adc2962d0" sha1="dd50175be6b8b2b5e0513376038caf778eab3c5b"/>
+		<url>https://retroachievements.org/game/22996/hashes</url>
+		<hash>623BFAD5A4CE40BACF4520AD66697B34</hash>
+	</game>
+
+	<game name="Klax (USA) (Unl)">
+		<category>Unlicensed</category>
+		<description>Klax (USA) (Unl)</description>
+		<rom name="Klax (USA) (Unl).cue" size="554" crc="3c092a9f" md5="d620933bbabb38a0437b1e4b78b06fa6" sha1="ad1c49d88937f6a8c7be5f15757f91be2a7ea01d"/>
+		<rom name="Klax (USA) (Unl) (Track 1).bin" size="7869792" crc="4782c4bf" md5="618c389f3e8f90c30d54362beca164e0" sha1="8c0b136243a96d22a10b7179e4ee9c9b0737b976"/>
+		<rom name="Klax (USA) (Unl) (Track 2).bin" size="2102688" crc="5689b8ad" md5="9c9d53541f3ba5655e18143ce51d74ca" sha1="70315cb154d30c56e3e33c030e22a4cab06f56bf"/>
+		<rom name="Klax (USA) (Unl) (Track 3).bin" size="1453536" crc="7538de5a" md5="b66b51c54bc7f1b083facdb5ba51ed17" sha1="46f4f0a39d52506954aee4038e578ec9a255592a"/>
+		<rom name="Klax (USA) (Unl) (Track 4).bin" size="1573488" crc="eeb39c32" md5="91e3d44dd96c4050e8840f7cbec9eb33" sha1="148e648838e85638b83b7887d5492a602a538d5e"/>
+		<rom name="Klax (USA) (Unl) (Track 5).bin" size="1573488" crc="eeb39c32" md5="91e3d44dd96c4050e8840f7cbec9eb33" sha1="148e648838e85638b83b7887d5492a602a538d5e"/>
+		<rom name="Klax (USA) (Unl) (Track 6).bin" size="1053696" crc="9b268f13" md5="cb104b2174af1b10544b69f9f0f83d20" sha1="6a1feddc80e8884a7102c4fb68d766523459364c"/>
+		<url>https://retroachievements.org/game/21667/hashes</url>
+		<hash>B3EC00D298651570D2C6B9E63724ED92</hash>
+	</game>
+	
+	<game name="Baldies (USA) (Rev 1)">
+		<category>Retail</category>
+		<description>Baldies (USA) (Rev 1)</description>
+		<rom name="Baldies (USA) (Rev 1).cue" size="1427" crc="5e339c95" md5="e1c27147817a1df2a0d1b2d8dc27d2ba" sha1="f2f7b80b12e8cdf83307c412c386d2e0012b85dd"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 01).bin" size="11207280" crc="2b34a071" md5="fb178fd05481b3b15bb703895248f5fd" sha1="e4144cede37559516685d96c383b66af51db0814"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 02).bin" size="1046640" crc="ac17fdbf" md5="0cba9f573eda197cd4c4814d5aebfb40" sha1="c96e7ed4b24700130afc601f9f8ba0f4f2891c75"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 03).bin" size="11110848" crc="131f1a0a" md5="1eef178c2057f10ed6dc273add8a1ad7" sha1="2a162bc77500972930c68944ed4448f8ed5d8ec6"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 04).bin" size="3499776" crc="c708eddc" md5="da27b1adda3683b1c183866ee9e6037d" sha1="b1d58ff0610479fd6a0f00dc2dd82743bb038501"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 05).bin" size="28146384" crc="f6d1f0f1" md5="00d46d85ab9d651deda0582c0577c1b1" sha1="4cc6f255881fad91bef8fcc5371a7481bae2bdfc"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 06).bin" size="1404144" crc="d05b4cb1" md5="2b6141aea180f2f288188f05fc458236" sha1="840937d7963b8c35eb5198b784c7574f18d59a00"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 07).bin" size="1404144" crc="dbcf41bd" md5="d30acf246f357baae11daed2f9b25bf9" sha1="fb36558e5022aed6d6a43f5264ade68386170414"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 08).bin" size="1406496" crc="01083da4" md5="c974c3a06fdfb5b4fcf411fed5efbe99" sha1="3bd09d62db1dd7d7397071e65ff55c76c3fed486"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 09).bin" size="1401792" crc="00750774" md5="7450c076f927488142fead50eadcb16a" sha1="c214f9f57a310f610c39b61c506f6e3c7d9a24f9"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 10).bin" size="2667168" crc="311c1b15" md5="db7d667eb3e04e793145e9ab07e04a01" sha1="c55b4545c5391a1815df39c9bf7313a422a0ee26"/>
+		<rom name="Baldies (USA) (Rev 1) (Track 11).bin" size="1401792" crc="722de216" md5="ff70371271b8200300a3587449c5df75" sha1="3ec5923eaff3115c4ea6cc68fe77bf2760ac0841"/>
+		<url>https://retroachievements.org/game/21663/hashes</url>
+		<hash>76AF127FBB4F621D9C128DF809B27D4C</hash>
+	</game>
+
+	<game name="BrainDead 13 (USA)">
+		<category>Retail</category>
+		<description>BrainDead 13 (USA)</description>
+		<rom name="BrainDead 13 (USA).cue" size="1002" crc="24f2be93" md5="c19d96e1b0e0708abbd22b8e58e5729f" sha1="a5a484bcb4600f7bdf995d919abf5216908cde85"/>
+		<rom name="BrainDead 13 (USA) (Track 1).bin" size="25084080" crc="c6f08c03" md5="17a9427a682d93f186ed4bdeb5fb48cd" sha1="e8a4d60be6fcb3d7c788242a998f991aae23b476"/>
+		<rom name="BrainDead 13 (USA) (Track 2).bin" size="1053696" crc="c674fde4" md5="4e5149ba4148ead9c33179df9f4bacd2" sha1="d39174d749b6c6be3e432296e113c0d6e1d42528"/>
+		<rom name="BrainDead 13 (USA) (Track 3).bin" size="1404144" crc="43ea308d" md5="d2a456125256984c4f62e57624be77c9" sha1="8cdfe44b62c62728132025d5208692a6417c15fc"/>
+		<rom name="BrainDead 13 (USA) (Track 4).bin" size="382783296" crc="3168e398" md5="ea8a2cf7aff9af09d7a166af5c82181e" sha1="0b14795db09eddf9beaa44ac126e9c015c6a462e"/>
+		<rom name="BrainDead 13 (USA) (Track 5).bin" size="1665216" crc="8dac5b90" md5="e4059010fadd799830a9b3b459e3476f" sha1="afe3c5203e5e1eaa1b2fc399d77a9342f9df1c25"/>
+		<rom name="BrainDead 13 (USA) (Track 6).bin" size="1665216" crc="12f3d53b" md5="8add6372c92cec3d050980506e26ff4c" sha1="ce4e7d3be7d350bfcd14cb4d07fb254c17000a03"/>
+		<rom name="BrainDead 13 (USA) (Track 7).bin" size="1665216" crc="65f674c1" md5="ffde5ee2b807344095d3ad0b87e494fa" sha1="8bffb07a51a41b7a8d91da6c64a5b04e2bd55bca"/>
+		<rom name="BrainDead 13 (USA) (Track 8).bin" size="1401792" crc="4db9875e" md5="c185d0f677ebf6fef3a2b9c737a070ce" sha1="6e7bbbe385bae192cb3039d5d9c55e49b4618d17"/>
+		<url>https://retroachievements.org/game/21671/hashes</url>
+		<hash>6516D3FE6BE7F24AC4364F518B6BADF6</hash>
+	</game>
+
+	<game name="Dragon's Lair (USA)">
+		<category>Retail</category>
+		<description>Dragon's Lair (USA)</description>
+		<rom name="Dragon's Lair (USA).cue" size="626" crc="8bf20213" md5="e810eec5a5dafcc19b04b29c28feacdb" sha1="3a78de5d2482c36fa345a309caefb6e9f4e85d7a"/>
+		<rom name="Dragon's Lair (USA) (Track 1).bin" size="7632240" crc="be54594c" md5="fc010e837e536b60f2cbec07d7aebdfd" sha1="9bf40cd54f72f93befdf0e0e5c1d409467f8153a"/>
+		<rom name="Dragon's Lair (USA) (Track 2).bin" size="1053696" crc="f8b3497d" md5="b4ee6f7bddb9fff4bdb742efd26fd372" sha1="d4759021e99f85ebcc52eb30231386346a3e9cc7"/>
+		<rom name="Dragon's Lair (USA) (Track 3).bin" size="327203184" crc="ea651ff0" md5="5a1ef8088d6773de9b7e0d4eda44381d" sha1="76696b120b9febe47c644b82e7736df6273eccd3"/>
+		<rom name="Dragon's Lair (USA) (Track 4).bin" size="1404144" crc="a0653d3d" md5="20950479d6c67a0beb9111630407bb24" sha1="75eb95021beef98dce9bb3e830237dff2ebc62f2"/>
+		<rom name="Dragon's Lair (USA) (Track 5).bin" size="1401792" crc="569b54ba" md5="8a4dd8e9c7679721f6145db162987d7d" sha1="3013720892e42025ea78f0ce54866d461993d143"/>
+		<url>https://retroachievements.org/game/24065/hashes</url>
+		<hash>D068B02BD51D0548FD3740D3E02F3D56</hash>
+	</game>
+
+	<game name="Space Ace (USA)">
+		<category>Retail</category>
+		<description>Space Ace (USA)</description>
+		<rom name="Space Ace (USA).cue" size="606" crc="43efa04e" md5="76f8deae0c769f981df06e2363c6795b" sha1="a465bd341fc386c4e489ba184e52cafdfe04f897"/>
+		<rom name="Space Ace (USA) (Track 1).bin" size="8203776" crc="e61e9c4e" md5="b65a45956142703f5de8eae17079b1ba" sha1="ce641e55105786e39f4a4ce3ce156ac09253e812"/>
+		<rom name="Space Ace (USA) (Track 2).bin" size="1053696" crc="276320bc" md5="804b2487ec58987ec53fa862b24a5b7d" sha1="11f550361bbe5680cecb44af9f02bd2c163be8cb"/>
+		<rom name="Space Ace (USA) (Track 3).bin" size="495684000" crc="a2a0a4b4" md5="8809145e0445a23c388b814c74b2356b" sha1="6cf6e0f432fea30ca6ff9db6fafb6e2902ed214d"/>
+		<rom name="Space Ace (USA) (Track 4).bin" size="1404144" crc="649c0e24" md5="96e879c31a0c6c843f37e504677ef350" sha1="9515080c7a945a798f4f0ed687c352cd40452aa5"/>
+		<rom name="Space Ace (USA) (Track 5).bin" size="1401792" crc="4a742ec5" md5="8e9f34c74d2f0c4abd68d6f9aca35009" sha1="a3102a157b403620295c7bc2c9d95cf5bb3c1b6e"/>
+		<url>https://retroachievements.org/game/24063/hashes</url>
+		<hash>857CCE0C114FF8975348D98E1E17D8F1</hash>
+	</game>
+</datafile>

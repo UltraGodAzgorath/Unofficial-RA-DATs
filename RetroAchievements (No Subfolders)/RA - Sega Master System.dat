@@ -1,0 +1,1823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>RA - Sega Master System</name>
+		<description>Sega Master System</description>
+		<category>1G1R</category>
+		<version>20250601</version>
+		<date>01 June 2025</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
+		<homepage>https://retroachievements.org</homepage>
+		<url>https://retroachievements.org/system/11/games</url>
+		<titlecount>142</titlecount>
+		<hashcount>195/197</hashcount>
+	</header>
+	<game name="Alex Kidd 3 - Curse in Miracle World (World) (En) (v1.1) (Aftermarket) (Unl) (Hack)">
+		<category>Hack</category>
+		<description>Alex Kidd 3 - Curse in Miracle World (World) (En) (v1.1) (Aftermarket) (Unl) (Hack)</description>
+		<release name="Alex Kidd 3 - Curse in Miracle World (World) (En) (v1.1) (Aftermarket) (Unl) (Hack)" region="English"/>
+		<rom name="Alex Kidd 3 - Curse in Miracle World (World) (En) (v1.1) (Aftermarket) (Unl) (Hack).sms" size="524288" crc="4c405d68" md5="39ff2e03c88a57cc284a01760bccb36c" sha1="1038be5ef313883af317853d2dd6248edc16b405"/>
+		<url>https://retroachievements.org/game/18048/hashes</url>
+		<hash>39ff2e03c88a57cc284a01760bccb36c</hash>
+	</game>
+	<game name="Alex Kidd 3 - Curse in Miracle World (World) (Fr) (v1.1) (Aftermarket) (Unl) (Hack)" cloneof="Alex Kidd 3 - Curse in Miracle World (World) (En) (v1.1) (Aftermarket) (Unl) (Hack)">
+		<category>Hack</category>
+		<description>Alex Kidd 3 - Curse in Miracle World (World) (Fr) (v1.1) (Aftermarket) (Unl) (Hack)</description>
+		<release name="Alex Kidd 3 - Curse in Miracle World (World) (Fr) (v1.1) (Aftermarket) (Unl) (Hack)" region="France"/>
+		<rom name="Alex Kidd 3 - Curse in Miracle World (World) (Fr) (v1.1) (Aftermarket) (Unl) (Hack).sms" size="524288" crc="d7eed482" md5="ad971958b58f6c40797bd6a87fa143eb" sha1="48a12bbcf63f9162e2f19076e36d586b80f29211"/>
+		<url>https://retroachievements.org/game/18048/hashes</url>
+		<hash>ad971958b58f6c40797bd6a87fa143eb</hash>
+	</game>
+	<game name="Alex Kidd 3 - Curse in Miracle World (World) (Pt) (v1.1) (Aftermarket) (Unl) (Hack)" cloneof="Alex Kidd 3 - Curse in Miracle World (World) (En) (v1.1) (Aftermarket) (Unl) (Hack)">
+		<category>Hack</category>
+		<description>Alex Kidd 3 - Curse in Miracle World (World) (Pt) (v1.1) (Aftermarket) (Unl) (Hack)</description>
+		<release name="Alex Kidd 3 - Curse in Miracle World (World) (Fr) (v1.1) (Aftermarket) (Unl) (Hack)" region="Portugal"/>
+		<rom name="Alex Kidd 3 - Curse in Miracle World (World) (Pt) (v1.1) (Aftermarket) (Unl) (Hack).sms" size="524288" crc="7369853e" md5="7c8909766ceffe4cb2c823a165f27ceb" sha1="5a70cbf12d4a1af3e5e38a7fbab60251225049e0"/>
+		<url>https://retroachievements.org/game/18048/hashes</url>
+		<hash>7c8909766ceffe4cb2c823a165f27ceb</hash>
+	</game>
+	<game name="Alex Kidd 3 - Curse in Miracle World (World) (De) (v1.2) (Aftermarket) (Unl) (Hack)" cloneof="Alex Kidd 3 - Curse in Miracle World (World) (En) (v1.1) (Aftermarket) (Unl) (Hack)">
+		<category>Hack</category>
+		<description>Alex Kidd 3 - Curse in Miracle World (World) (De) (v1.2) (Aftermarket) (Unl) (Hack)</description>
+		<release name="Alex Kidd 3 - Curse in Miracle World (World) (De) (v1.2) (Aftermarket) (Unl) (Hack)" region="Germany"/>
+		<rom name="Alex Kidd 3 - Curse in Miracle World (World) (De) (v1.2) (Aftermarket) (Unl) (Hack).sms" size="524288" crc="42472435" md5="76e6ecb5a9ecc3365ef38bad00113c92" sha1="f7d54f8305363eec77b34937f6887b148587c8c6"/>
+		<url>https://retroachievements.org/game/18048/hashes</url>
+		<hash>76e6ecb5a9ecc3365ef38bad00113c92</hash>
+	</game>
+	<game name="Alex Kidd 3 - Curse in Miracle World (World) (Es) (v1.1) (Aftermarket) (Unl) (Hack)" cloneof="Alex Kidd 3 - Curse in Miracle World (World) (En) (v1.1) (Aftermarket) (Unl) (Hack)">
+		<category>Hack</category>
+		<description>Alex Kidd 3 - Curse in Miracle World (World) (Es) (v1.1) (Aftermarket) (Unl) (Hack)</description>
+		<release name="Alex Kidd 3 - Curse in Miracle World (World) (Es) (v1.1) (Aftermarket) (Unl) (Hack)" region="Spain"/>
+		<rom name="Alex Kidd 3 - Curse in Miracle World (World) (Es) (v1.1) (Aftermarket) (Unl) (Hack).sms" size="524288" crc="97d77051" md5="7b8297ebee031bd6ec6bf245c6c33b1c" sha1="69bc807c329ee05ba5b095d79c2a8df7401448bb"/>
+		<url>https://retroachievements.org/game/18048/hashes</url>
+		<hash>7b8297ebee031bd6ec6bf245c6c33b1c</hash>
+	</game>
+
+	<game name="Sonic 1 - Triple Trouble (GG Conversion) (v0.4) (Glitch) (Hack)">
+		<category>Hack</category>
+		<description>Sonic 1 - Triple Trouble (GG Conversion) (v0.4) (Glitch) (Hack)</description>
+		<release name="Sonic 1 - Triple Trouble (GG Conversion) (v0.4) (Glitch) (Hack)" region="World"/>
+		<rom name="Sonic 1 - Triple Trouble (GG Conversion) (v0.4) (Glitch) (Hack).sms" size="524288" crc="1e40e1ea" md5="2c57e3ab6dc8711c6705df0fb7516983" sha1="4e3cb96724e353f8744fa3f46b39d73324456f93"/>
+		<url>https://retroachievements.org/game/10922/hashes</url>
+		<hash>2c57e3ab6dc8711c6705df0fb7516983</hash>
+	</game>
+	
+	<game name="Extreme Volleyball - Infernal League (World) (v1.06) (Aftermarket) (Unl) (Homebrew)">
+		<category>Homebrew</category>
+		<description>Extreme Volleyball - Infernal League (World) (v1.06) (Aftermarket) (Unl) (Homebrew)</description>
+		<release name="Extreme Volleyball - Infernal League (World) (v1.06) (Aftermarket) (Unl) (Homebrew)" region="World"/>
+		<rom name="Extreme Volleyball - Infernal League (World) (v1.06) (Aftermarket) (Unl) (Homebrew).sms" size="524288" crc="82ef4bda" md5="8b12cc57e9e1baf8cc4165d7f8a210fe" sha1="fab2398562886662775d413ee8457231b9bd7660"/>
+		<url>https://retroachievements.org/game/24230/hashes</url>
+		<hash>8b12cc57e9e1baf8cc4165d7f8a210fe</hash>
+	</game>
+	
+	<game name="2048 (World) (v1.02) (Aftermarket) (Unl) (Homebrew)">
+		<category>Homebrew</category>
+		<description>2048 (World) (v1.02) (Aftermarket) (Unl) (Homebrew)</description>
+		<release name="Sonic The Hedgehog - Triple Trouble (v0.4) (Homebrew)" region="World"/>
+		<rom name="2048 (World) (v1.02) (Aftermarket) (Unl) (Homebrew).sms" size="32768" crc="8bafc771" md5="bf9eb8c06389d211cb71e0408a86677d" sha1="fe9587cd88338c4a3b1d0b6b06c9aba4dae96096"/>
+		<url>https://retroachievements.org/game/22555/hashes</url>
+		<hash>bf9eb8c06389d211cb71e0408a86677d</hash>
+	</game>
+	
+	<game name="Donkey (World) (v1.2) (Aftermarket) (Unl) (Homebrew)">
+		<category>Homebrew</category>
+		<description>Donkey (World) (v1.2) (Aftermarket) (Unl) (Homebrew)</description>
+		<release name="Donkey (World) (v1.2) (Aftermarket) (Unl) (Homebrew)" region="World"/>
+		<rom name="Donkey (World) (v1.2) (Aftermarket) (Unl) (Homebrew).sms" size="65536" crc="bf929653" md5="026f5013a431bdd5903506b7c43df84b" sha1="b84e2101c2e60a2a309de87243eef689d05af99f"/>
+		<url>https://retroachievements.org/game/20489/hashes</url>
+		<hash>026f5013a431bdd5903506b7c43df84b</hash>
+	</game>
+	
+	<game name="Flight of Pigarus (World) (v1.11) (Aftermarket) (Unl) (Homebrew)">
+		<category>Homebrew</category>
+		<description>Flight of Pigarus (World) (v1.11) (Aftermarket) (Unl) (Homebrew)</description>
+		<release name="Flight of Pigarus (World) (v1.11) (Aftermarket) (Unl) (Homebrew)" region="World"/>
+		<rom name="Flight of Pigarus (World) (v1.11) (Aftermarket) (Unl) (Homebrew).sms" size="262144" crc="60b86f18" md5="42b79384a1352b47b9ea32d6d3ec6849" sha1="46941b6ca4c38b07fa55987d3f30c249d5674e2a"/>
+		<url>https://retroachievements.org/game/14687/hashes</url>
+		<hash>42b79384a1352b47b9ea32d6d3ec6849</hash>
+	</game>
+	
+	<game name="Flip Flap (World) (v2.10) (Proto) (Aftermarket) (Unl) (Homebrew)">
+		<category>Homebrew</category>
+		<description>Flip Flap (World) (v2.10) (Proto) (Aftermarket) (Unl) (Homebrew)</description>
+		<release name="Flip Flap (World) (v2.10) (Proto) (Aftermarket) (Unl) (Homebrew)" region="World"/>
+		<rom name="Flip Flap (World) (v2.10) (Proto) (Aftermarket) (Unl) (Homebrew).sms" size="32768" crc="459357df" md5="b636a2f6d538b583bbd48397031dd606" sha1="1d83657d81608cb64c6cd29f196a832b2357626c"/>
+		<url>https://retroachievements.org/game/14673/hashes</url>
+		<hash>b636a2f6d538b583bbd48397031dd606</hash>
+	</game>
+	
+	<game name="Heroes Against Demons (World) (v1.04b) (Aftermarket) (Unl) (Homebrew)">
+		<category>Homebrew</category>
+		<description>Heroes Against Demons (World) (v1.04b) (Aftermarket) (Unl) (Homebrew)</description>
+		<release name="Heroes Against Demons (World) (v1.04b) (Aftermarket) (Unl) (Homebrew)" region="World"/>
+		<rom name="Heroes Against Demons (World) (v1.04b) (Aftermarket) (Unl) (Homebrew).sms" size="262144" crc="8c77f8bf" md5="c61595a365ac3a92410220d868ca0564" sha1="95bec2ea672024162653fa8657e6f3344b7260cc"/>
+		<url>https://retroachievements.org/game/22138/hashes</url>
+		<hash>c61595a365ac3a92410220d868ca0564</hash>
+	</game>
+	
+	<game name="Lucky Penguin (World) (v1.1) (Aftermarket) (Unl) (Homebrew)">
+		<category>Homebrew</category>
+		<description>Lucky Penguin (World) (v1.1) (Aftermarket) (Unl) (Homebrew)</description>
+		<release name="Lucky Penguin (World) (v1.1) (Aftermarket) (Unl) (Homebrew)" region="World"/>
+		<rom name="Lucky Penguin (World) (v1.1) (Aftermarket) (Unl) (Homebrew).sms" size="49152" crc="69699887" md5="79def75be0b980752dec8526f84cd2b8" sha1="897e8c831847892c01e0563d8c78e07a4f357373"/>
+		<url>https://retroachievements.org/game/14729/hashes</url>
+		<hash>79def75be0b980752dec8526f84cd2b8</hash>
+	</game>
+	
+	<game name="Mini MSX (World) (Aftermarket) (Unl) (Homebrew)">
+		<category>Homebrew</category>
+		<description>Mini MSX (World) (Aftermarket) (Unl) (Homebrew)</description>
+		<release name="Mini MSX (World) (Aftermarket) (Unl) (Homebrew)" region="World"/>
+		<rom name="Mini MSX (World) (Aftermarket) (Unl) (Homebrew).sms" size="131072" crc="eb6c0944" md5="f8be953adda3e9088739b6086e3bf59d" sha1="b92e7a947734ed20efc1d2a8fbcc8983d24639c6"/>
+		<url>https://retroachievements.org/game/26008/hashes</url>
+		<hash>f8be953adda3e9088739b6086e3bf59d</hash>
+	</game>
+	
+	<game name="Monaco Master (World) (v2.9.1) (Aftermarket) (Unl) (Homebrew)">
+		<category>Homebrew</category>
+		<description>Monaco Master (World) (v2.9.1) (Aftermarket) (Unl) (Homebrew)</description>
+		<release name="Monaco Master (World) (v2.9.1) (Aftermarket) (Unl) (Homebrew)" region="World"/>
+		<rom name="Monaco Master (World) (v2.9.1) (Aftermarket) (Unl) (Homebrew).sms" size="65536" crc="91604eca" md5="12b2db71b0b8202d471a70116fae61fe" sha1="62302abf38daaa8b7ede7abfc28ecb33cf75ecde"/>
+		<url>https://retroachievements.org/game/25809/hashes</url>
+		<hash>12b2db71b0b8202d471a70116fae61fe</hash>
+	</game>
+	
+	<game name="Picross (World) (v1.01) (Aftermarket) (Unl) (Homebrew)">
+		<category>Homebrew</category>
+		<description>Picross (World) (v1.01) (Aftermarket) (Unl) (Homebrew)</description>
+		<release name="Picross (World) (v1.01) (Aftermarket) (Unl) (Homebrew)" region="World"/>
+		<rom name="Picross (World) (v1.01) (Aftermarket) (Unl) (Homebrew).sms" size="49152" crc="1f0d38c1" md5="880815f8e899055e536b3a987c92855e" sha1="d3d1a3e187724cb23fc2a142b3723dfe7124ae5e"/>
+		<url>https://retroachievements.org/game/14469/hashes</url>
+		<hash>880815f8e899055e536b3a987c92855e</hash>
+	</game>
+	
+	<game name="Segle (World) (Proto) (Aftermarket) (Unl) (Homebrew)">
+		<category>Homebrew</category>
+		<description>Segle (World) (Proto) (Aftermarket) (Unl) (Homebrew)</description>
+		<release name="Segle (World) (Proto) (Aftermarket) (Unl) (Homebrew)" region="World"/>
+		<rom name="Segle (World) (Proto) (Aftermarket) (Unl) (Homebrew).sms" size="32768" crc="6992073d" md5="a39acdd53659f85fbe4b252939ba5dae" sha1="0ebace0d69ae5c164d9c30f6a7fd88e46c1651ec"/>
+		<url>https://retroachievements.org/game/25342/hashes</url>
+		<hash>a39acdd53659f85fbe4b252939ba5dae</hash>
+	</game>
+	
+	<game name="Shootagem (World) (Aftermarket) (Unl) (Homebrew)">
+		<category>Homebrew</category>
+		<description>Shootagem (World) (Aftermarket) (Unl) (Homebrew)</description>
+		<release name="Shootagem (World) (Aftermarket) (Unl) (Homebrew)" region="World"/>
+		<rom name="Shootagem (World) (Aftermarket) (Unl) (Homebrew).sms" size="49152" crc="ef2d3069" md5="4fbf47c238dce9672cac6bbdc164d60d" sha1="2236e240dfef9e2c960fc92e97fbc3783ab9dd6d"/>
+		<url>https://retroachievements.org/game/28167/hashes</url>
+		<hash>4fbf47c238dce9672cac6bbdc164d60d</hash>
+	</game>
+	
+	<game name="Sudoku (World) (v0.2) (Proto) (Aftermarket) (Unl) (Homebrew)">
+		<category>Homebrew</category>
+		<description>Sudoku (World) (v0.2) (Proto) (Aftermarket) (Unl) (Homebrew)</description>
+		<release name="Sudoku (World) (v0.2) (Proto) (Aftermarket) (Unl) (Homebrew)" region="World"/>
+		<rom name="Sudoku (World) (v0.2) (Proto) (Aftermarket) (Unl) (Homebrew).sms" size="32768" crc="b4f2a97e" md5="5de9ac0bee8b66d590e4ae3503b36053" sha1="7340855912180e6b5790ff7c2f60d719763a9c85"/>
+		<url>https://retroachievements.org/game/14468/hashes</url>
+		<hash>5de9ac0bee8b66d590e4ae3503b36053</hash>
+	</game>
+	
+	<game name="Simpsons Trivia (World) (v1.02) (Aftermarket) (Unl) (Homebrew)">
+		<category>Homebrew</category>
+		<description>Simpsons Trivia (World) (v1.02) (Aftermarket) (Unl) (Homebrew)</description>
+		<release name="Simpsons Trivia (World) (v1.02) (Aftermarket) (Unl) (Homebrew)" region="World"/>
+		<rom name="Simpsons Trivia (World) (v1.02) (Aftermarket) (Unl) (Homebrew).sms" size="131072" crc="8a915056" md5="ea829c4a6e9c4f05362979c9b1f3d7be" sha1="5cb7c3fa57359dde2954b6a9f0ffecc3ed4b71c9"/>
+		<url>https://retroachievements.org/game/14672/hashes</url>
+		<hash>ea829c4a6e9c4f05362979c9b1f3d7be</hash>
+	</game>
+	
+	<game name="Vexed (USA) (v1.15) (Aftermarket) (Unl) (Homebrew)">
+		<category>Homebrew</category>
+		<description>Vexed (USA) (v1.15) (Aftermarket) (Unl) (Homebrew)</description>
+		<release name="Vexed (USA) (v1.15) (Aftermarket) (Unl) (Homebrew)" region="World"/>
+		<rom name="Vexed (USA) (v1.15) (Aftermarket) (Unl) (Homebrew).sms" size="32768" crc="47c39bac" md5="2cde86c5890081de8c16ff598a756be3" sha1="de0059bbd7b11bb29ca690a1e9e5ed9e0fc89943"/>
+		<url>https://retroachievements.org/game/25324/hashes</url>
+		<hash>2cde86c5890081de8c16ff598a756be3</hash>
+	</game>
+	
+	<game name="Weka Invaders (World) (Aftermarket) (Unl) (Homebrew)">
+		<category>Homebrew</category>
+		<description>Weka Invaders (World) (Aftermarket) (Unl) (Homebrew)</description>
+		<release name="Weka Invaders (World) (Aftermarket) (Unl) (Homebrew)" region="World"/>
+		<rom name="Weka Invaders (World) (Aftermarket) (Unl) (Homebrew).sms" size="294912" crc="54b2fcf8" md5="7d95d302d5d5029d402e51e359d25a89" sha1="4848d5a50267a1f59f80984e971945d08ced4265"/>
+		<url>https://retroachievements.org/game/22140/hashes</url>
+		<hash>7d95d302d5d5029d402e51e359d25a89</hash>
+	</game>
+	
+	<game name="Sonic's Edusoft (Europe) (Proto)">
+		<category>Prototype</category>
+		<description>Sonic's Edusoft (Europe) (Proto)</description>
+		<release name="Sonic's Edusoft (Europe) (Proto)" region="USA"/>
+		<rom name="Sonic's Edusoft (Europe) (Proto).sms" size="262144" crc="d9096263" md5="5919b101624d4710a10825c34e753ba2" sha1="f1357505cbcebfab52327a5fc9c3437f54d8da40"/>
+		<url>https://retroachievements.org/game/14394/hashes</url>
+		<hash>5919b101624d4710a10825c34e753ba2</hash>
+	</game>
+	
+	<game name="Super Boy 4 (Korea) (En) (Unl)">
+		<category>Unlicensed</category>
+		<description>Super Boy 4 (Korea) (En) (Unl)</description>
+		<release name="Super Boy 4 (Korea) (En) (Unl)" region="Korea"/>
+		<rom name="Super Boy 4 (Korea) (En) (Unl).sms" size="262144" crc="b995b4f0" md5="eb7d7db5ab98b0b7812552644fb95fe8" sha1="9b4be448b81f96391ef9667b1923abc53a9c59d9"/>
+		<url>https://retroachievements.org/game/16375/hashes</url>
+		<hash>eb7d7db5ab98b0b7812552644fb95fe8</hash>
+	</game>
+	
+	<game name="Super Boy II (Korea) (En) (Unl)">
+		<category>Unlicensed</category>
+		<description>Super Boy II (Korea) (En) (Unl)</description>
+		<release name="Super Boy II (Korea) (En) (Unl)" region="Korea"/>
+		<rom name="Super Boy II (Korea) (En) (Unl).sms" size="49152" crc="67c2f0ff" md5="6120c9ba0f2c24031c9a836035060717" sha1="f0c239e4cf90cd4c699889792f811717670ac85c"/>
+		<url>https://retroachievements.org/game/11667/hashes</url>
+		<hash>6120c9ba0f2c24031c9a836035060717</hash>
+	</game>
+	
+	<game name="Dinosaur Dooley, The (Korea) (En) (Unl)">
+		<category>Unlicensed</category>
+		<description>Dinosaur Dooley, The (Korea) (En) (Unl)</description>
+		<release name="Dinosaur Dooley, The (Korea) (En) (Unl)" region="Korea"/>
+		<rom name="Dinosaur Dooley, The (Korea) (En) (Unl).sms" size="131072" crc="32f4b791" md5="e5c7ba1a2a6e1e9de597479add641d1d" sha1="f9e14ea9ce5f11ca5cb831f3eaf87609d7aea8f2"/>
+		<url>https://retroachievements.org/game/24004/hashes</url>
+		<hash>e5c7ba1a2a6e1e9de597479add641d1d</hash>
+	</game>
+	
+	<game name="Xyzolog (Korea) (En) (Unl)">
+		<category>Unlicensed</category>
+		<description>Xyzolog (Korea) (En) (Unl)</description>
+		<release name="Xyzolog (Korea) (En) (Unl)" region="Korea"/>
+		<rom name="Xyzolog (Korea) (En) (Unl).sms" size="49152" crc="565c799f" md5="21b563031bb035f117d15dc53f406c2d" sha1="202cc058ba46cc466387a67cce2ab7f5f55977d0"/>
+		<url>https://retroachievements.org/game/14174/hashes</url>
+		<hash>21b563031bb035f117d15dc53f406c2d</hash>
+	</game>
+	
+	<game name="20 em 1 (Brazil)">
+		<category>Retail</category>
+		<description>20 em 1 (Brazil)</description>
+		<release name="20 em 1 (Brazil)" region="Brazil"/>
+		<rom name="20 em 1 (Brazil).sms" size="262144" crc="f0f35c22" md5="91a9dcd4f59c29db72c931be2fe60b51" sha1="2012763dc08dedc68af8538698bd66618212785d"/>
+		<url>https://retroachievements.org/game/10690/hashes</url>
+		<hash>91a9dcd4f59c29db72c931be2fe60b51</hash>
+	</game>
+	
+	<game name="Aerial Assault (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Aerial Assault (Europe, Brazil) (En)</description>
+		<release name="Aerial Assault (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Aerial Assault (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Aerial Assault (Europe, Brazil) (En).sms" size="262144" crc="ecf491cf" md5="0713f2e55a1eea0d9e2fb7044740261b" sha1="2a9090ed365e7425ca7a59f87b942c16b376f0a3"/>
+		<url>https://retroachievements.org/game/10745/hashes</url>
+		<hash>0713f2e55a1eea0d9e2fb7044740261b</hash>
+	</game>
+	<game name="Aerial Assault (USA, Brazil) (En)" cloneof="Aerial Assault (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Aerial Assault (USA, Brazil) (En)</description>
+		<release name="Aerial Assault (USA, Brazil) (En)" region="USA"/>
+		<rom name="Aerial Assault (USA, Brazil) (En).sms" size="262144" crc="15576613" md5="8b603c931418a3680b8723861f55a7b5" sha1="e57b1d4476ca33d18d9071e022ddc9cc702d6497"/>
+		<url>https://retroachievements.org/game/10745/hashes</url>
+		<hash>8b603c931418a3680b8723861f55a7b5</hash>
+	</game>
+	
+	<game name="After Burner (World)">
+		<category>Retail</category>
+		<description>After Burner (World)</description>
+		<release name="After Burner (World)" region="World"/>
+		<rom name="After Burner (World).sms" size="524288" crc="1c951f8e" md5="6271c183513e0be0543e326419ee989e" sha1="51531df038783c84640a0cab93122e0b59e3b69a"/>
+		<url>https://retroachievements.org/game/10051/hashes</url>
+		<hash>6271c183513e0be0543e326419ee989e</hash>
+	</game>
+	
+	<game name="Air Rescue (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Air Rescue (Europe, Brazil) (En)</description>
+		<release name="Air Rescue (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Air Rescue (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Air Rescue (Europe, Brazil) (En).sms" size="262144" crc="8b43d21d" md5="4f145d617b9191cbc0e005786ca993f6" sha1="4edd1b62abbbf2220961a06eb139db1838fb700b"/>
+		<url>https://retroachievements.org/game/10754/hashes</url>
+		<hash>4f145d617b9191cbc0e005786ca993f6</hash>
+	</game>
+	
+	<game name="Aladdin (Europe, Brazil, Korea) (Pt) (v1.0) (Imp4444)" cloneof="Aladdin (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Aladdin (Europe, Brazil, Korea) (Pt) (v1.0) (Imp4444)</description>
+		<release name="Aladdin (Europe, Brazil, Korea) (Pt) (v1.0) (Imp4444)" region="Portugal"/>
+		<rom name="Aladdin (Europe, Brazil, Korea) (Pt) (v1.0) (Imp4444).sms" size="524288" crc="f69c331a" md5="c4f138c72f100f6ff721ac05673c6fac" sha1="eaad554efad3728b930e638a0780a4bf3ee17c0e"/>
+		<url>https://retroachievements.org/game/10016/hashes</url>
+		<hash>c4f138c72f100f6ff721ac05673c6fac</hash>
+	</game>
+	<game name="Aladdin (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Aladdin (Europe, Brazil) (En)</description>
+		<release name="Aladdin (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Aladdin (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Aladdin (Europe, Brazil) (En).sms" size="524288" crc="c8718d40" md5="e3f60072028eb6f02c2b0558804aed83" sha1="585967f400473e289cda611e7686ae98ae43172e"/>
+		<url>https://retroachievements.org/game/10016/hashes</url>
+		<hash>e3f60072028eb6f02c2b0558804aed83</hash>
+	</game>
+	
+	<game name="Aleste (Japan) (En)" cloneof="Power Strike (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Aleste (Japan) (En)</description>
+		<release name="Aleste (Japan) (En)" region="Japan"/>
+		<rom name="Aleste (Japan) (En).sms" size="131072" crc="d8c4165b" md5="810f65d7a7a8462c40c01bea3d5d7d01" sha1="cba75b0d54df3c9a8e399851a05c194c7a05fbfe"/>
+		<url>https://retroachievements.org/game/10000/hashes</url>
+		<hash>810f65d7a7a8462c40c01bea3d5d7d01</hash>
+	</game>
+	<game name="Power Strike (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Power Strike (USA, Europe, Brazil) (En)</description>
+		<release name="Power Strike (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Power Strike (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Power Strike (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Power Strike (USA, Europe, Brazil) (En).sms" size="131072" crc="4077efd9" md5="8d9f02dcfea8f9728a3665ca12b044d1" sha1="f6f245c41163b15bce95368e4684b045790a1148"/>
+		<url>https://retroachievements.org/game/10000/hashes</url>
+		<hash>8d9f02dcfea8f9728a3665ca12b044d1</hash>
+	</game>
+	
+	<game name="Alex Kidd in Miracle World (USA, Europe)" cloneof="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1)">
+		<category>Retail</category>
+		<description>Alex Kidd in Miracle World (USA, Europe)</description>
+		<rom name="Alex Kidd in Miracle World (USA, Europe).sms" size="131072" crc="17a40e29" md5="3d9a8d5c2d6d3f8ff63a8f7c77ffa983" sha1="8cecf8ed0f765163b2657be1b0a3ce2a9cb767f4"/>
+		<url>https://retroachievements.org/game/9998/hashes</url>
+		<hash>3d9a8d5c2d6d3f8ff63a8f7c77ffa983</hash>
+	</game>
+	<game name="Alex Kidd no Miracle World (Japan)" cloneof="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1)">
+		<category>Retail</category>
+		<description>Alex Kidd no Miracle World (Japan)</description>
+		<release name="Alex Kidd no Miracle World (Japan)" region="Japan"/>
+		<rom name="Alex Kidd no Miracle World (Japan).sms" size="131072" crc="08c9ec91" md5="6e8e702e1d8a893ee698b93f5807972a" sha1="62fdc25501e17b87c355378562c3b1966e5f9008"/>
+		<url>https://retroachievements.org/game/9998/hashes</url>
+		<hash>6e8e702e1d8a893ee698b93f5807972a</hash>
+	</game>
+	<game name="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1) (Es) (v1.0) (Wave Trans)" cloneof="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1)">
+		<category>Retail</category>
+		<description>Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1) (Es) (v1.0) (Wave Trans)</description>
+		<release name="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1) (Es) (v1.0) (Wave Trans)" region="Spain"/>
+		<rom name="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1) (Es) (v1.0) (Wave Trans).sms" size="131072" crc="c4f6b99d" md5="8d3df8d20e5beb5682c44bc2e2da16fa" sha1="59b08665d95c4ccf68329eeb0ad1221232a610bb"/>
+		<url>https://retroachievements.org/game/9998/hashes</url>
+		<hash>8d3df8d20e5beb5682c44bc2e2da16fa</hash>
+	</game>
+	<game name="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1) (Pt) (v1.0) (CBT)" cloneof="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1)">
+		<category>Retail</category>
+		<description>Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1) (Pt) (v1.0) (CBT)</description>
+		<release name="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1) (Pt) (v1.0) (CBT)" region="Portugal"/>
+		<rom name="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1) (Pt) (v1.0) (CBT).sms" size="131072" crc="8938b5c8" md5="ba4e6991da1b864b24089e2ea642cce6" sha1="1f500a381cb2322fc3b13d0e9e2e766d31c5043b"/>
+		<url>https://retroachievements.org/game/9998/hashes</url>
+		<hash>ba4e6991da1b864b24089e2ea642cce6</hash>
+	</game>
+	<game name="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1) (It) (v1.0)" cloneof="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1)">
+		<category>Retail</category>
+		<description>Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1) (It) (v1.0)</description>
+		<release name="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1) (It) (v1.0)" region="Italy"/>
+		<rom name="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1) (It) (v1.0).sms" size="258486" crc="5bcd77ed" md5="e53f30ba87d1efeb8c5652e2d29737cb" sha1="7ca11ce9aff9c14e1ad61fcf17caa91237f34935"/>
+		<url>https://retroachievements.org/game/9998/hashes</url>
+		<hash>e53f30ba87d1efeb8c5652e2d29737cb</hash>
+	</game>
+	<game name="[BIOS] Alex Kidd in Miracle World (USA, Europe, Brazil) (En)" cloneof="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1)">
+		<category>Retail</category>
+		<description>[BIOS] Alex Kidd in Miracle World (USA, Europe, Brazil) (En)</description>
+		<release name="[BIOS] Alex Kidd in Miracle World (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="[BIOS] Alex Kidd in Miracle World (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="[BIOS] Alex Kidd in Miracle World (USA, Europe, Brazil) (En).sms" size="131072" crc="cf4a09ea" md5="e8b26871629b938887757a64798df6dc" sha1="3af7b66248d34eb26da40c92bf2fa4c73a46a051"/>
+		<url>https://retroachievements.org/game/9998/hashes</url>
+		<hash>e8b26871629b938887757a64798df6dc</hash>
+	</game>
+	<game name="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1)">
+		<category>Retail</category>
+		<description>Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1)</description>
+		<release name="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1)" region="Brazil"/>
+		<release name="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1)" region="Europe"/>
+		<release name="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1)" region="USA"/>
+		<rom name="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1).sms" size="131072" crc="aed9aac4" md5="f43e74ffec58ddf62f0b8667d31f22c0" sha1="6d052e0cca3f2712434efd856f733c03011be41c"/>
+		<url>https://retroachievements.org/game/9998/hashes</url>
+		<hash>f43e74ffec58ddf62f0b8667d31f22c0</hash>
+	</game>
+	<game name="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1) (Fr) (v1.0)" cloneof="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1)">
+		<category>Retail</category>
+		<description>Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1) (Fr) (v1.0)</description>
+		<release name="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1) (Fr) (v1.0)" region="France"/>
+		<rom name="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1) (Fr) (v1.0).sms" size="195674" crc="944bed08" md5="f69a7b54835381e7a91333c4d78a51f2" sha1="de4a12603bc721551caeced7fa83ca3a46130697"/>
+		<url>https://retroachievements.org/game/9998/hashes</url>
+		<hash>f69a7b54835381e7a91333c4d78a51f2</hash>
+	</game>
+	
+	<game name="Alex Kidd in Shinobi World (USA, Europe, Brazil) (Es) (v1.1) (Wave)" cloneof="Alex Kidd in Shinobi World (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Alex Kidd in Shinobi World (USA, Europe, Brazil) (Es) (v1.1) (Wave)</description>
+		<release name="Alex Kidd in Shinobi World (USA, Europe, Brazil) (Es) (v1.1) (Wave)" region="Spain"/>
+		<rom name="Alex Kidd in Shinobi World (USA, Europe, Brazil) (Es) (v1.1) (Wave).sms" size="262144" crc="738f1504" md5="1f37b9cb35366dec83bf8fe222ee1bdd" sha1="c10e73a09532b069aa1e1f412dcbb32beca22416"/>
+		<url>https://retroachievements.org/game/10005/hashes</url>
+		<hash>1f37b9cb35366dec83bf8fe222ee1bdd</hash>
+	</game>
+	<game name="Alex Kidd in Shinobi World (USA, Europe, Brazil) (Fr) (Terminus)" cloneof="Alex Kidd in Shinobi World (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Alex Kidd in Shinobi World (USA, Europe, Brazil) (Fr) (Terminus)</description>
+		<release name="Alex Kidd in Shinobi World (USA, Europe, Brazil) (Fr) (Terminus)" region="France"/>
+		<rom name="Alex Kidd in Shinobi World (USA, Europe, Brazil) (Fr) (Terminus).sms" size="262144" crc="587e41d5" md5="295320f6e9f4b98b57ae65b5ff820b96" sha1="83ccf0b391dc3322c7a0d8a7b652ec0e8d9688b5"/>
+		<url>https://retroachievements.org/game/10005/hashes</url>
+		<hash>295320f6e9f4b98b57ae65b5ff820b96</hash>
+	</game>
+	<game name="Alex Kidd in Shinobi World (USA, Europe, Brazil) (Pt) (URBANO SLV)" cloneof="Alex Kidd in Shinobi World (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Alex Kidd in Shinobi World (USA, Europe, Brazil) (Pt) (URBANO SLV)</description>
+		<release name="Alex Kidd in Shinobi World (USA, Europe, Brazil) (Pt) (URBANO SLV)" region="Portugal"/>
+		<rom name="Alex Kidd in Shinobi World (USA, Europe, Brazil) (Pt) (URBANO SLV).sms" size="262144" crc="c4ca84a3" md5="453e0d6d283377ece3f366616a2c4154" sha1="e7f5ba8446c46bd37a9d71ca9a09b4417e2211f7"/>
+		<url>https://retroachievements.org/game/10005/hashes</url>
+		<hash>453e0d6d283377ece3f366616a2c4154</hash>
+	</game>
+	<game name="Alex Kidd in Shinobi World (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Alex Kidd in Shinobi World (USA, Europe, Brazil) (En)</description>
+		<release name="Alex Kidd in Shinobi World (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Alex Kidd in Shinobi World (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Alex Kidd in Shinobi World (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Alex Kidd in Shinobi World (USA, Europe, Brazil) (En).sms" size="262144" crc="d2417ed7" md5="d62b631506913712a2103f54912458a5" sha1="e7c7c24e208afb986ab389883f98a1b5a8249fea"/>
+		<url>https://retroachievements.org/game/10005/hashes</url>
+		<hash>d62b631506913712a2103f54912458a5</hash>
+	</game>
+	
+	<game name="BMX Trial - Alex Kidd (Japan) (En)">
+		<category>Retail</category>
+		<description>BMX Trial - Alex Kidd (Japan) (En)</description>
+		<release name="BMX Trial - Alex Kidd (Japan) (En)" region="Japan"/>
+		<rom name="BMX Trial - Alex Kidd (Japan) (En).sms" size="131072" crc="f9dbb533" md5="571f18f49e679a128b4a237001760d6c" sha1="77cc767bfae01e9cc81612c780c939ed954a6312"/>
+		<url>https://retroachievements.org/game/11522/hashes</url>
+		<hash>571f18f49e679a128b4a237001760d6c</hash>
+	</game>
+	
+	<game name="Alex Kidd - High-Tech World (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Alex Kidd - High-Tech World (USA, Europe, Brazil) (En)</description>
+		<release name="Alex Kidd - High-Tech World (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Alex Kidd - High-Tech World (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Alex Kidd - High-Tech World (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Alex Kidd - High-Tech World (USA, Europe, Brazil) (En).sms" size="131072" crc="013c0a94" md5="0f6ebfa2b24bb99dbea1142312fd33c9" sha1="2d0a581da1c787b1407fb1cfefd0571e37899978"/>
+		<url>https://retroachievements.org/game/10221/hashes</url>
+		<hash>0f6ebfa2b24bb99dbea1142312fd33c9</hash>
+	</game>
+	<game name="Anmitsu Hime (Japan)" cloneof="Alex Kidd - High-Tech World (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Anmitsu Hime (Japan)</description>
+		<release name="Anmitsu Hime (Japan)" region="Japan"/>
+		<rom name="Anmitsu Hime (Japan).sms" size="131072" crc="fff63b0b" md5="c6e271132566b4dd03981dcf2f8a6477" sha1="74057d3b7f384c91871a2db2fbc86d3e700c45e5"/>
+		<url>https://retroachievements.org/game/10221/hashes</url>
+		<hash>c6e271132566b4dd03981dcf2f8a6477</hash>
+	</game>
+	
+	<game name="Alex Kidd - The Lost Stars (World)">
+		<category>Retail</category>
+		<description>Alex Kidd - The Lost Stars (World)</description>
+		<release name="Alex Kidd - The Lost Stars (World)" region="World"/>
+		<rom name="Alex Kidd - The Lost Stars (World).sms" size="262144" crc="c13896d5" md5="ea50dcdd1241667f32d39d606a9f7083" sha1="6dbf2684c3dfea7442d0b40a9ff7c8b8fc9b1b98"/>
+		<url>https://retroachievements.org/game/10044/hashes</url>
+		<hash>ea50dcdd1241667f32d39d606a9f7083</hash>
+	</game>
+	
+	<game name="Alf (USA)">
+		<category>Retail</category>
+		<description>Alf (USA)</description>
+		<release name="Alf (USA)" region="USA"/>
+		<rom name="Alf (USA).sms" size="131072" crc="82038ad4" md5="bc1360afa99cd89fbab4ea55bef08aae" sha1="7706485b735f5d7f7a59c7d626b13b23e8696087"/>
+		<url>https://retroachievements.org/game/10257/hashes</url>
+		<hash>bc1360afa99cd89fbab4ea55bef08aae</hash>
+	</game>
+	
+	<game name="Alien 3 (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Alien 3 (Europe, Brazil) (En)</description>
+		<release name="Alien 3 (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Alien 3 (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Alien 3 (Europe, Brazil) (En).sms" size="262144" crc="b618b144" md5="7d6b3351e820b6afa7cf80713dc139e3" sha1="be40ffc72ee19620a8bac89d5d96bbafcefc74e7"/>
+		<url>https://retroachievements.org/game/11660/hashes</url>
+		<hash>7d6b3351e820b6afa7cf80713dc139e3</hash>
+	</game>
+	
+	<game name="Alien Syndrome (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Alien Syndrome (USA, Europe, Brazil) (En)</description>
+		<release name="Alien Syndrome (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Alien Syndrome (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Alien Syndrome (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Alien Syndrome (USA, Europe, Brazil) (En).sms" size="262144" crc="5cbfe997" md5="732808a44a90b780454a1eb6adbf3957" sha1="0da0b9755b6a6ef145ec3b95e651d2a384b3f7f9"/>
+		<url>https://retroachievements.org/game/10747/hashes</url>
+		<hash>732808a44a90b780454a1eb6adbf3957</hash>
+	</game>
+	<game name="Alien Syndrome (Japan) (En)" cloneof="Alien Syndrome (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Alien Syndrome (Japan) (En)</description>
+		<release name="Alien Syndrome (Japan) (En)" region="Japan"/>
+		<rom name="Alien Syndrome (Japan) (En).sms" size="262144" crc="4cc11df9" md5="c352bd773dc9cd909a8c1707ccb54d40" sha1="5d786476b275de34efb95f576dd556cf4b335a83"/>
+		<url>https://retroachievements.org/game/10747/hashes</url>
+		<hash>c352bd773dc9cd909a8c1707ccb54d40</hash>
+	</game>
+	
+	<game name="Altered Beast (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Altered Beast (USA, Europe, Brazil) (En)</description>
+		<release name="Altered Beast (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Altered Beast (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Altered Beast (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Altered Beast (USA, Europe, Brazil) (En).sms" size="262144" crc="bba2fe98" md5="24618ca4a223a36d2bfda10f42454687" sha1="413986f174799f094a8dd776d91dcf018ee17290"/>
+		<url>https://retroachievements.org/game/10748/hashes</url>
+		<hash>24618ca4a223a36d2bfda10f42454687</hash>
+	</game>
+	
+	<game name="Argos no Juujiken (Japan) (En)">
+		<category>Retail</category>
+		<description>Argos no Juujiken (Japan) (En)</description>
+		<release name="Argos no Juujiken (Japan) (En)" region="Japan"/>
+		<rom name="Argos no Juujiken (Japan) (En).sms" size="131072" crc="bae75805" md5="8e8b04b5a9fe7b6cdb25b6550e7a831e" sha1="a4b63ed417380f8170091e66c0417123799a731f"/>
+		<url>https://retroachievements.org/game/14730/hashes</url>
+		<hash>8e8b04b5a9fe7b6cdb25b6550e7a831e</hash>
+	</game>
+	
+	<game name="Asterix (Europe, Brazil) (En,Fr)">
+		<category>Retail</category>
+		<description>Asterix (Europe, Brazil) (En,Fr)</description>
+		<release name="Asterix (Europe, Brazil) (En,Fr)" region="Brazil"/>
+		<release name="Asterix (Europe, Brazil) (En,Fr)" region="Europe"/>
+		<rom name="Asterix (Europe, Brazil) (En,Fr).sms" size="524288" crc="147e02fa" md5="0feb52e9b0a8cd378fb38902eb4b4100" sha1="70e311421467acd01e55f1908eae653bf20de175"/>
+		<url>https://retroachievements.org/game/10750/hashes</url>
+		<hash>0feb52e9b0a8cd378fb38902eb4b4100</hash>
+	</game>
+	
+	<game name="Asterix and the Great Rescue (Europe, Brazil) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Asterix and the Great Rescue (Europe, Brazil) (En,Fr,De,Es,It)</description>
+		<release name="Asterix and the Great Rescue (Europe, Brazil) (En,Fr,De,Es,It)" region="Brazil"/>
+		<release name="Asterix and the Great Rescue (Europe, Brazil) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="Asterix and the Great Rescue (Europe, Brazil) (En,Fr,De,Es,It).sms" size="524288" crc="f9b7d26b" md5="36bd5fe2e4d1620f5a43ea610c458c86" sha1="5e409247f6a611437380b7a9f0e3cccab5dd1987"/>
+		<url>https://retroachievements.org/game/10751/hashes</url>
+		<hash>36bd5fe2e4d1620f5a43ea610c458c86</hash>
+	</game>
+	
+	<game name="Astro Warrior (Japan, USA, Brazil) (En)">
+		<category>Retail</category>
+		<description>Astro Warrior (Japan, USA, Brazil) (En)</description>
+		<release name="Astro Warrior (Japan, USA, Brazil) (En)" region="Brazil"/>
+		<release name="Astro Warrior (Japan, USA, Brazil) (En)" region="Japan"/>
+		<release name="Astro Warrior (Japan, USA, Brazil) (En)" region="USA"/>
+		<rom name="Astro Warrior (Japan, USA, Brazil) (En).sms" size="131072" crc="299cbb74" md5="e645faa5628caab5129383fdbf4df090" sha1="901697a3535ad70190647f34ad5b30b695d54542"/>
+		<url>https://retroachievements.org/game/10753/hashes</url>
+		<hash>e645faa5628caab5129383fdbf4df090</hash>
+	</game>
+	
+	<game name="Ayrton Senna's Super Monaco GP II (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Ayrton Senna's Super Monaco GP II (Europe, Brazil) (En)</description>
+		<release name="Ayrton Senna's Super Monaco GP II (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Ayrton Senna's Super Monaco GP II (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Ayrton Senna's Super Monaco GP II (Europe, Brazil) (En).sms" size="524288" crc="e890331d" md5="04abc524a3b7f7e2e96eb910490e77ec" sha1="b6819b014168aaa03b65dae97ba6cd5fa0d7f0d9"/>
+		<url>https://retroachievements.org/game/10039/hashes</url>
+		<hash>04abc524a3b7f7e2e96eb910490e77ec</hash>
+	</game>
+	<game name="Ayrton Senna's Super Monaco GP II (Europe, Brazil) (Pt) (v1.0) (Traducoes)" cloneof="Ayrton Senna's Super Monaco GP II (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Ayrton Senna's Super Monaco GP II (Europe, Brazil) (Pt) (v1.0) (Traducoes)</description>
+		<release name="Ayrton Senna's Super Monaco GP II (Europe, Brazil) (Pt) (v1.0) (Traducoes)" region="Portugal"/>
+		<rom name="Ayrton Senna's Super Monaco GP II (Europe, Brazil) (Pt) (v1.0) (Traducoes).sms" size="524288" crc="c6ce4cce" md5="39e3928058c18dc6c4055d8d240b2e74" sha1="5b743e8dd59e58ab45ecf47371b365a0cb33cee5"/>
+		<url>https://retroachievements.org/game/10039/hashes</url>
+		<hash>39e3928058c18dc6c4055d8d240b2e74</hash>
+	</game>
+	
+	<game name="Aztec Adventure (World)">
+		<category>Retail</category>
+		<description>Aztec Adventure (World)</description>
+		<release name="Aztec Adventure (World)" region="World"/>
+		<rom name="Aztec Adventure (World).sms" size="131072" crc="ff614eb3" md5="12ce04ff557a96add46f04b12b0d47cc" sha1="317775a17867530a8fe3a5b17b681d5ada351432"/>
+		<url>https://retroachievements.org/game/11559/hashes</url>
+		<hash>12ce04ff557a96add46f04b12b0d47cc</hash>
+	</game>
+	
+	<game name="Baku Baku (Brazil) (En)">
+		<category>Retail</category>
+		<description>Baku Baku (Brazil) (En)</description>
+		<release name="Baku Baku (Brazil) (En)" region="Brazil"/>
+		<rom name="Baku Baku (Brazil) (En).sms" size="262144" crc="35d84dc2" md5="8a94ded3d95aa46dae8800b92e66d3ee" sha1="07d8f300b3a3542734fcd24fa8312fe99fbfef0e"/>
+		<url>https://retroachievements.org/game/10755/hashes</url>
+		<hash>8a94ded3d95aa46dae8800b92e66d3ee</hash>
+	</game>
+	
+	<game name="Bank Panic (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Bank Panic (Europe, Brazil) (En)</description>
+		<release name="Bank Panic (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Bank Panic (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Bank Panic (Europe, Brazil) (En).sms" size="32768" crc="655fb1f4" md5="7a5d3b9963e316cb7f73bbdc2a7311c6" sha1="661bbe20f01b7afb242936d409fdd30420c6de5f"/>
+		<url>https://retroachievements.org/game/10756/hashes</url>
+		<hash>7a5d3b9963e316cb7f73bbdc2a7311c6</hash>
+	</game>
+	
+	<game name="Basketball Nightmare (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Basketball Nightmare (Europe, Brazil) (En)</description>
+		<release name="Basketball Nightmare (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Basketball Nightmare (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Basketball Nightmare (Europe, Brazil) (En).sms" size="262144" crc="0df8597f" md5="0069b1bd9c5b6b88ace6324d7e61539f" sha1="0fa1156931c83763bc6906efce75045327cdd7aa"/>
+		<url>https://retroachievements.org/game/11016/hashes</url>
+		<hash>0069b1bd9c5b6b88ace6324d7e61539f</hash>
+	</game>
+	
+	<game name="Batman Returns (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Batman Returns (Europe, Brazil) (En)</description>
+		<release name="Batman Returns (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Batman Returns (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Batman Returns (Europe, Brazil) (En).sms" size="262144" crc="b154ec38" md5="215876a62d3ca48d28e98cd8a2c70a15" sha1="0ccc0e2d91a345c39a7406e148da147a2edce979"/>
+		<url>https://retroachievements.org/game/11657/hashes</url>
+		<hash>215876a62d3ca48d28e98cd8a2c70a15</hash>
+	</game>
+	
+	<game name="Black Belt (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Black Belt (USA, Europe, Brazil) (En)</description>
+		<release name="Black Belt (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Black Belt (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Black Belt (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Black Belt (USA, Europe, Brazil) (En).sms" size="131072" crc="da3a2f57" md5="16e6b4a1d71960d64bd20aaf7024e8ac" sha1="7c5524cff2de9b694e925297e8e74c7c8d292e46"/>
+		<url>https://retroachievements.org/game/10757/hashes</url>
+		<hash>16e6b4a1d71960d64bd20aaf7024e8ac</hash>
+	</game>
+	
+	<game name="Bomber Raid (World)">
+		<category>Retail</category>
+		<description>Bomber Raid (World)</description>
+		<release name="Bomber Raid (World)" region="World"/>
+		<rom name="Bomber Raid (World).sms" size="262144" crc="3084cf11" md5="d1151de6ea0a2547f047ce31b22fe18f" sha1="d754ef2b6e05c76502c02c71dbfcf6150ee12f6f"/>
+		<url>https://retroachievements.org/game/10760/hashes</url>
+		<hash>d1151de6ea0a2547f047ce31b22fe18f</hash>
+	</game>
+	
+	<game name="Bonanza Bros. (Europe, Brazil) (Pt) (v1.1) (Patryck)" cloneof="Bonanza Bros. (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Bonanza Bros. (Europe, Brazil) (Pt) (v1.1) (Patryck)</description>
+		<release name="Bonanza Bros. (Europe, Brazil) (Pt) (v1.1) (Patryck)" region="Portugal"/>
+		<rom name="Bonanza Bros. (Europe, Brazil) (Pt) (v1.1) (Patryck).sms" size="262144" crc="42d741a1" md5="d7237c790fa6afc0fcf5164b88cbb2e5" sha1="f817f612e291e33859fd0114b556b3945c44aaf2"/>
+		<url>https://retroachievements.org/game/10205/hashes</url>
+		<hash>d7237c790fa6afc0fcf5164b88cbb2e5</hash>
+	</game>
+	<game name="Bonanza Bros. (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Bonanza Bros. (Europe, Brazil) (En)</description>
+		<release name="Bonanza Bros. (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Bonanza Bros. (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Bonanza Bros. (Europe, Brazil) (En).sms" size="262144" crc="caea8002" md5="e58f6f374b3405fd2a5e5b80e639a980" sha1="bbaedefa0bb489ece4bbd965f09a417be4b76cc7"/>
+		<url>https://retroachievements.org/game/10205/hashes</url>
+		<hash>e58f6f374b3405fd2a5e5b80e639a980</hash>
+	</game>
+	
+	<game name="California Games (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>California Games (USA, Europe, Brazil) (En)</description>
+		<release name="California Games (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="California Games (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="California Games (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="California Games (USA, Europe, Brazil) (En).sms" size="262144" crc="ac6009a7" md5="182b179a1226fb5b1e1cf6bb2f351c50" sha1="d0f8298bb2a30a3569c65372a959612df3b608db"/>
+		<url>https://retroachievements.org/game/10691/hashes</url>
+		<hash>182b179a1226fb5b1e1cf6bb2f351c50</hash>
+	</game>
+	<game name="California Games (USA, Europe, Brazil) (Pt) (TMT)" cloneof="California Games (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>California Games (USA, Europe, Brazil) (Pt) (TMT)</description>
+		<release name="California Games (USA, Europe, Brazil) (Pt) (TMT)" region="Portugal"/>
+		<rom name="California Games (USA, Europe, Brazil) (Pt) (TMT).sms" size="262144" crc="86c1320a" md5="f90e2f4a29838d22ec8aec48b7c9ab48" sha1="bb6dc8612deb4924c59ae42a2bbcf85c83e6fa73"/>
+		<url>https://retroachievements.org/game/10691/hashes</url>
+		<hash>f90e2f4a29838d22ec8aec48b7c9ab48</hash>
+	</game>
+	
+	<game name="Castelo Ra-Tim-Bum (Brazil)">
+		<category>Retail</category>
+		<description>Castelo Ra-Tim-Bum (Brazil)</description>
+		<release name="Castelo Ra-Tim-Bum (Brazil)" region="Brazil"/>
+		<rom name="Castelo Ra-Tim-Bum (Brazil).sms" size="524288" crc="31ffd7c3" md5="47f513d0f9d2896bf1a87254337d5b29" sha1="4e40155720957a0ca7cf67d7c99bbc178e2f0fd4"/>
+		<url>https://retroachievements.org/game/13481/hashes</url>
+		<hash>47f513d0f9d2896bf1a87254337d5b29</hash>
+	</game>
+	
+	<game name="Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)</description>
+		<release name="Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En).sms" size="262144" crc="b9db4282" md5="e9b4b92bc29ca8fbe9978da6720bd1eb" sha1="c31d80429801e8c927cb0536d66a16d51788ff4f"/>
+		<url>https://retroachievements.org/game/10554/hashes</url>
+		<hash>e9b4b92bc29ca8fbe9978da6720bd1eb</hash>
+	</game>
+	
+	<game name="Choplifter (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Choplifter (USA, Europe, Brazil) (En)</description>
+		<release name="Choplifter (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Choplifter (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Choplifter (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Choplifter (USA, Europe, Brazil) (En).sms" size="131072" crc="4a21c15f" md5="747a206eaaadf48714695e8b4ccead7e" sha1="856e741eec9692fcc3b22c5c5642f54482e6e00b"/>
+		<url>https://retroachievements.org/game/10020/hashes</url>
+		<hash>747a206eaaadf48714695e8b4ccead7e</hash>
+	</game>
+	
+	<game name="Cool Spot (Europe)">
+		<category>Retail</category>
+		<description>Cool Spot (Europe)</description>
+		<release name="Cool Spot (Europe)" region="Europe"/>
+		<rom name="Cool Spot (Europe).sms" size="262144" crc="13ac9023" md5="b4c33bdba2472003f87ed193e51b2c9b" sha1="cf36c1900d1c658cbfd974464761d145af3467c8"/>
+		<url>https://retroachievements.org/game/10763/hashes</url>
+		<hash>b4c33bdba2472003f87ed193e51b2c9b</hash>
+	</game>
+	
+	<game name="Cyborg Hunter (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Cyborg Hunter (USA, Europe, Brazil) (En)</description>
+		<release name="Cyborg Hunter (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Cyborg Hunter (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Cyborg Hunter (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Cyborg Hunter (USA, Europe, Brazil) (En).sms" size="131072" crc="908e7524" md5="ac90d79743cac1afcd7049f7b4e73bc4" sha1="b6131585cb944d7fae69ad609802a1b5d51b442f"/>
+		<url>https://retroachievements.org/game/10696/hashes</url>
+		<hash>ac90d79743cac1afcd7049f7b4e73bc4</hash>
+	</game>
+	<game name="Cyborg Hunter (USA, Europe, Brazil) (Fr) (Terminus)" cloneof="Cyborg Hunter (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Cyborg Hunter (USA, Europe, Brazil) (Fr) (Terminus)</description>
+		<release name="Cyborg Hunter (USA, Europe, Brazil) (Fr) (Terminus)" region="France"/>
+		<rom name="Cyborg Hunter (USA, Europe, Brazil) (Fr) (Terminus).sms" size="131072" crc="0f2e4f1e" md5="d104f53494a3d5847a1320faf38e8bc5" sha1="de871501d86c48fdc4b86cbd215e7be4ec047631"/>
+		<url>https://retroachievements.org/game/10696/hashes</url>
+		<hash>d104f53494a3d5847a1320faf38e8bc5</hash>
+	</game>
+	
+	<game name="Deep Duck Trouble Starring Donald Duck (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Deep Duck Trouble Starring Donald Duck (Europe, Brazil) (En)</description>
+		<release name="Deep Duck Trouble Starring Donald Duck (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Deep Duck Trouble Starring Donald Duck (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Deep Duck Trouble Starring Donald Duck (Europe, Brazil) (En).sms" size="524288" crc="42fc3a6e" md5="05e3071aad9c36b6e18f1656592eeb3d" sha1="26ec82b96650a7329b66bf90b54b869c1ec12f6b"/>
+		<url>https://retroachievements.org/game/10443/hashes</url>
+		<hash>05e3071aad9c36b6e18f1656592eeb3d</hash>
+	</game>
+	
+	<game name="Double Dragon (World)">
+		<category>Retail</category>
+		<description>Double Dragon (World)</description>
+		<release name="Double Dragon (World)" region="World"/>
+		<rom name="Double Dragon (World).sms" size="262144" crc="a55d89f3" md5="fe9aa8044951b10f876b15f4456161a9" sha1="cad5532af94ed75c0ada8820a83fa04d22f7bef5"/>
+		<url>https://retroachievements.org/game/10426/hashes</url>
+		<hash>fe9aa8044951b10f876b15f4456161a9</hash>
+	</game>
+	
+	<game name="Dr. Robotnik's Mean Bean Machine (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Dr. Robotnik's Mean Bean Machine (Europe, Brazil) (En)</description>
+		<release name="Dr. Robotnik's Mean Bean Machine (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Dr. Robotnik's Mean Bean Machine (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Dr. Robotnik's Mean Bean Machine (Europe, Brazil) (En).sms" size="262144" crc="6c696221" md5="03d03f1e816d137fe6a1f5fe45fee82d" sha1="89df035da8de68517f82bdf176d3b3f2edcd9e31"/>
+		<url>https://retroachievements.org/game/14364/hashes</url>
+		<hash>03d03f1e816d137fe6a1f5fe45fee82d</hash>
+	</game>
+	
+	<game name="Dragon Crystal (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Dragon Crystal (Europe, Brazil) (En)</description>
+		<release name="Dragon Crystal (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Dragon Crystal (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Dragon Crystal (Europe, Brazil) (En).sms" size="131072" crc="9549fce4" md5="e05484f93011055c5b76ffabfea84367" sha1="021c6983fdab4b0215ca324734deef0d32c29562"/>
+		<url>https://retroachievements.org/game/11586/hashes</url>
+		<hash>e05484f93011055c5b76ffabfea84367</hash>
+	</game>
+	
+	<game name="E-SWAT (USA, Europe, Brazil) (En) (Rev A)">
+		<category>Retail</category>
+		<description>E-SWAT (USA, Europe, Brazil) (En) (Rev A)</description>
+		<release name="E-SWAT (USA, Europe, Brazil) (En) (Rev A)" region="Brazil"/>
+		<release name="E-SWAT (USA, Europe, Brazil) (En) (Rev A)" region="Europe"/>
+		<release name="E-SWAT (USA, Europe, Brazil) (En) (Rev A)" region="USA"/>
+		<rom name="E-SWAT (USA, Europe, Brazil) (En) (Rev A).sms" size="262144" crc="c10fce39" md5="36a5339cef97d0a5757db4fd81b4abf3" sha1="c481b4e5ca136fbb4105ae465259125392faffd3"/>
+		<url>https://retroachievements.org/game/10880/hashes</url>
+		<hash>36a5339cef97d0a5757db4fd81b4abf3</hash>
+	</game>
+	
+	<game name="Ecco The Dolphin (Europe, Brazil) (Es) (v1.0) (Wave)" cloneof="Ecco the Dolphin (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Ecco The Dolphin (Europe, Brazil) (Es) (v1.0) (Wave)</description>
+		<release name="Ecco The Dolphin (Europe, Brazil) (Es) (v1.0) (Wave)" region="Spain"/>
+		<rom name="Ecco The Dolphin (Europe, Brazil) (Es) (v1.0) (Wave).sms" size="524288" crc="98eda4da" md5="4ce5c749b2710698a97d851552b5a404" sha1="9abb38b958811b05a1ca694786eaf2d931032cfa"/>
+		<url>https://retroachievements.org/game/13228/hashes</url>
+		<hash>4ce5c749b2710698a97d851552b5a404</hash>
+	</game>
+	<game name="Ecco the Dolphin (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Ecco the Dolphin (Europe, Brazil) (En)</description>
+		<release name="Ecco the Dolphin (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Ecco the Dolphin (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Ecco the Dolphin (Europe, Brazil) (En).sms" size="524288" crc="6687fab9" md5="bea00f9b73ac248bafa7e406a5489b32" sha1="3bfdef48f27f2e53e2c31cb9626606a1541889dd"/>
+		<url>https://retroachievements.org/game/13228/hashes</url>
+		<hash>bea00f9b73ac248bafa7e406a5489b32</hash>
+	</game>
+
+	<game name="Enduro Racer (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Enduro Racer (USA, Europe, Brazil) (En)</description>
+		<release name="Enduro Racer (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Enduro Racer (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Enduro Racer (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Enduro Racer (USA, Europe, Brazil) (En).sms" size="131072" crc="00e73541" md5="06779a1a9dbada60efb1f37e37040a5b" sha1="10dc132166c1aa47ca7b89fbb1f0a4e56b428359"/>
+		<url>https://retroachievements.org/game/10698/hashes</url>
+		<hash>06779a1a9dbada60efb1f37e37040a5b</hash>
+	</game>
+	
+	<game name="Fantasy Zone (Japan) (En)" cloneof="Fantasy Zone (World) (Rev 1)">
+		<category>Retail</category>
+		<description>Fantasy Zone (Japan) (En)</description>
+		<rom name="Fantasy Zone (Japan) (En).sms" size="131072" crc="0ffbcaa3" md5="3a1dfad2cea111d0dbfb4a545bf3f87e" sha1="b486d8be0cf669117e134f9e53a452bf71097479"/>
+		<url>https://retroachievements.org/game/10025/hashes</url>
+		<hash>3a1dfad2cea111d0dbfb4a545bf3f87e</hash>
+	</game>
+	<game name="Fantasy Zone (Taiwan) (En) (Unl)" cloneof="Fantasy Zone (World) (Rev 1)">
+		<category>Retail</category>
+		<description>Fantasy Zone (Taiwan) (En) (Unl)</description>
+		<release name="Fantasy Zone (Taiwan) (En) (Unl)" region="Taiwan"/>
+		<rom name="Fantasy Zone (Taiwan) (En) (Unl).sms" size="131072" crc="5fd48352" md5="e4497d344386a9fe0826e6d166e0f2b3" sha1="5162cd4923cdcad66fee0aa18d5e63fcf5259c00"/>
+		<url>https://retroachievements.org/game/10025/hashes</url>
+		<hash>e4497d344386a9fe0826e6d166e0f2b3</hash>
+	</game>
+	<game name="Fantasy Zone (World) (Rev 1)">
+		<category>Retail</category>
+		<description>Fantasy Zone (World) (Rev 1)</description>
+		<release name="Fantasy Zone (World) (Rev 1)" region="World"/>
+		<rom name="Fantasy Zone (World) (Rev 1).sms" size="131072" crc="65d7e4e0" md5="fed8690ee5fb895c09caa8e2b879ebd6" sha1="0278cd120dc3a7707eda9314c46c7f27f9e8fdda"/>
+		<url>https://retroachievements.org/game/10025/hashes</url>
+		<hash>fed8690ee5fb895c09caa8e2b879ebd6</hash>
+	</game>
+	
+	<game name="Fantasy Zone II (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Fantasy Zone II (USA, Europe, Brazil) (En)</description>
+		<release name="Fantasy Zone II (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Fantasy Zone II (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Fantasy Zone II (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Fantasy Zone II (USA, Europe, Brazil) (En).sms" size="262144" crc="b8b141f9" md5="481a01c4e768c535ee18d6d78815fc89" sha1="b84831378c7c19798b6fd560647e2941842bb80a"/>
+		<url>https://retroachievements.org/game/10191/hashes</url>
+		<hash>481a01c4e768c535ee18d6d78815fc89</hash>
+	</game>
+	
+	<game name="Fire &amp; Ice (Brazil) (En)">
+		<category>Retail</category>
+		<description>Fire &amp; Ice (Brazil) (En)</description>
+		<release name="Fire &amp; Ice (Brazil) (En)" region="Brazil"/>
+		<rom name="Fire &amp; Ice (Brazil) (En).sms" size="262144" crc="8b24a640" md5="85acf93edba54485466aeb840966082b" sha1="0e12ce919cda400b8681e18bdad31ba74f07a92b"/>
+		<url>https://retroachievements.org/game/10231/hashes</url>
+		<hash>85acf93edba54485466aeb840966082b</hash>
+	</game>
+	
+	<game name="Gain Ground (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Gain Ground (Europe, Brazil) (En)</description>
+		<release name="Gain Ground (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Gain Ground (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Gain Ground (Europe, Brazil) (En).sms" size="262144" crc="3ec5e627" md5="7d54230748fa41bb62b6f08e5dcede08" sha1="62c0ca61ad8f679f90f253ab6bbffd0c7737a8c0"/>
+		<url>https://retroachievements.org/game/11659/hashes</url>
+		<hash>7d54230748fa41bb62b6f08e5dcede08</hash>
+	</game>
+	
+	<game name="Golden Axe (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Golden Axe (USA, Europe, Brazil) (En)</description>
+		<release name="Golden Axe (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Golden Axe (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Golden Axe (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Golden Axe (USA, Europe, Brazil) (En).sms" size="524288" crc="c08132fb" md5="b4911ad6a9d2ba56497cd5b01da3938a" sha1="d92538cb16a7a456255fa0da2bd8d0f588cd12ab"/>
+		<url>https://retroachievements.org/game/10705/hashes</url>
+		<hash>b4911ad6a9d2ba56497cd5b01da3938a</hash>
+	</game>
+	
+	<game name="Golden Axe Warrior (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Golden Axe Warrior (USA, Europe, Brazil) (En)</description>
+		<release name="Golden Axe Warrior (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Golden Axe Warrior (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Golden Axe Warrior (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Golden Axe Warrior (USA, Europe, Brazil) (En).sms" size="262144" crc="c7ded988" md5="d46e40bbb729ba233f171ad7bf6169f5" sha1="fbda0486b393708a89756bb57d116ad6007484e4"/>
+		<url>https://retroachievements.org/game/10004/hashes</url>
+		<hash>d46e40bbb729ba233f171ad7bf6169f5</hash>
+	</game>
+	
+	<game name="Golvellius - Valley of Doom (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Golvellius - Valley of Doom (USA, Europe, Brazil) (En)</description>
+		<release name="Golvellius - Valley of Doom (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Golvellius - Valley of Doom (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Golvellius - Valley of Doom (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Golvellius - Valley of Doom (USA, Europe, Brazil) (En).sms" size="262144" crc="a51376fe" md5="2101295c258cb6b845bdb72be617691d" sha1="cb8c2de9a8e91c0e4e60e5d4d9958e671d84da4c"/>
+		<url>https://retroachievements.org/game/10001/hashes</url>
+		<hash>2101295c258cb6b845bdb72be617691d</hash>
+	</game>
+	
+	<game name="Great Volleyball (Japan) (En)" cloneof="Great Volleyball (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Great Volleyball (Japan) (En)</description>
+		<release name="Great Volleyball (Japan) (En)" region="Japan"/>
+		<rom name="Great Volleyball (Japan) (En).sms" size="131072" crc="6819b0c0" md5="03d6e8450a74ac09e47ae9bf210cfe17" sha1="b9e3284c7b557eed84661c98bc733d32b46c7a07"/>
+		<url>https://retroachievements.org/game/10439/hashes</url>
+		<hash>03d6e8450a74ac09e47ae9bf210cfe17</hash>
+	</game>
+	<game name="Great Volleyball (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Great Volleyball (USA, Europe, Brazil) (En)</description>
+		<release name="Great Volleyball (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Great Volleyball (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Great Volleyball (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Great Volleyball (USA, Europe, Brazil) (En).sms" size="131072" crc="8d43ea95" md5="382b627efa06c958b8ec5c85e964bf10" sha1="133ffdde0a5a0ce951c667a4c5d7f9d9f35e9658"/>
+		<url>https://retroachievements.org/game/10439/hashes</url>
+		<hash>382b627efa06c958b8ec5c85e964bf10</hash>
+	</game>
+	
+	<game name="Hang On (Japan) (En)">
+		<category>Retail</category>
+		<description>Hang On (Japan) (En)</description>
+		<release name="Hang On (Japan) (En)" region="Japan"/>
+		<rom name="Hang On (Japan) (En).sms" size="32768" crc="5c01adf9" md5="67849e734a1304799606ba5a22f840d2" sha1="43552f58f0c0c292f3e4c1b1525fd0344dc220c6"/>
+		<url>https://retroachievements.org/game/10219/hashes</url>
+		<hash>67849e734a1304799606ba5a22f840d2</hash>
+	</game>
+	
+	<game name="Hokuto no Ken (Japan)">
+		<category>Retail</category>
+		<description>Hokuto no Ken (Japan)</description>
+		<release name="Hokuto no Ken (Japan)" region="Japan"/>
+		<rom name="Hokuto no Ken (Japan).sms" size="131072" crc="24f5fe8c" md5="ddd6b56e864a7dfd74a9e04bc4407f41" sha1="26c5da3ee48bc0f8fd3d20f9408e584242edcd9d"/>
+		<url>https://retroachievements.org/game/18772/hashes</url>
+		<hash>ddd6b56e864a7dfd74a9e04bc4407f41</hash>
+	</game>
+	
+	<game name="James Bond 007 - The Duel (Europe)">
+		<category>Retail</category>
+		<description>James Bond 007 - The Duel (Europe)</description>
+		<release name="James Bond 007 - The Duel (Europe)" region="Europe"/>
+		<rom name="James Bond 007 - The Duel (Europe).sms" size="262144" crc="8d23587f" md5="c52e496c497d427747769aaedfbb8dab" sha1="89f86869b90af986bee2acff44defe420e405a1e"/>
+		<url>https://retroachievements.org/game/17799/hashes</url>
+		<hash>c52e496c497d427747769aaedfbb8dab</hash>
+	</game>
+	
+	<game name="Jurassic Park (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Jurassic Park (Europe, Brazil) (En)</description>
+		<release name="Jurassic Park (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Jurassic Park (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Jurassic Park (Europe, Brazil) (En).sms" size="524288" crc="0667ed9f" md5="b05014defe8d0c3d0ad6f67851ca15d7" sha1="67a6e6c132362f3d9263dda68d77c279b08f1fde"/>
+		<url>https://retroachievements.org/game/11534/hashes</url>
+		<hash>b05014defe8d0c3d0ad6f67851ca15d7</hash>
+	</game>
+	
+	<game name="Kenseiden (USA, Europe, Brazil) (Fr)" cloneof="Kenseiden (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Kenseiden (USA, Europe, Brazil) (Fr)</description>
+		<release name="Kenseiden (USA, Europe, Brazil) (Fr)" region="France"/>
+		<rom name="Kenseiden (USA, Europe, Brazil) (Fr).sms" size="262144" crc="a28218fe" md5="64218d035be5988fb5ef023b70955ac3" sha1="51605e388a4860f2faaa8df4d09bc4daafd36d1d"/>
+		<url>https://retroachievements.org/game/10011/hashes</url>
+		<hash>64218d035be5988fb5ef023b70955ac3</hash>
+	</game>
+	<game name="Kenseiden (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Kenseiden (USA, Europe, Brazil) (En)</description>
+		<release name="Kenseiden (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Kenseiden (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Kenseiden (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Kenseiden (USA, Europe, Brazil) (En).sms" size="262144" crc="516ed32e" md5="6ae8f011701608ae8b765a26eb0b7ce1" sha1="3fce661d57e8bc764e7190ddbee4bf3d3e214c6c"/>
+		<url>https://retroachievements.org/game/10011/hashes</url>
+		<hash>6ae8f011701608ae8b765a26eb0b7ce1</hash>
+	</game>
+	<game name="Kenseiden (Japan)" cloneof="Kenseiden (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Kenseiden (Japan)</description>
+		<release name="Kenseiden (Japan)" region="Japan"/>
+		<rom name="Kenseiden (Japan).sms" size="262144" crc="05ea5353" md5="f4c3327b0f92e09b21f59e90fd273c2f" sha1="cd349833ff41821635c6242a0b8cef7e071103d5"/>
+		<url>https://retroachievements.org/game/10011/hashes</url>
+		<hash>f4c3327b0f92e09b21f59e90fd273c2f</hash>
+	</game>
+	
+	<game name="King's Quest - Quest for the Crown (USA)">
+		<category>Retail</category>
+		<description>King's Quest - Quest for the Crown (USA)</description>
+		<release name="King's Quest - Quest for the Crown (USA)" region="USA"/>
+		<rom name="King's Quest - Quest for the Crown (USA).sms" size="131072" crc="f8d33bc4" md5="2f579f5a3216dfc77aea636930376ba7" sha1="d05ae9652b85c858f4e7db0b7b7c457a4e0a6a49"/>
+		<url>https://retroachievements.org/game/9996/hashes</url>
+		<hash>2f579f5a3216dfc77aea636930376ba7</hash>
+	</game>
+	
+	<game name="Kung Fu Kid (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Kung Fu Kid (USA, Europe, Brazil) (En)</description>
+		<release name="Kung Fu Kid (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Kung Fu Kid (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Kung Fu Kid (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Kung Fu Kid (USA, Europe, Brazil) (En).sms" size="131072" crc="1e949d1f" md5="126687037bf172174f697d16cd7e7296" sha1="7e1c32f5abf9ff906ffe113ffab6eecd1c86b381"/>
+		<url>https://retroachievements.org/game/10203/hashes</url>
+		<hash>126687037bf172174f697d16cd7e7296</hash>
+	</game>
+	<game name="Sapo Xule - O Mestre do Kung Fu (Brazil)" cloneof="Kung Fu Kid (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Sapo Xule - O Mestre do Kung Fu (Brazil)</description>
+		<release name="Sapo Xule - O Mestre do Kung Fu (Brazil)" region="Brazil"/>
+		<rom name="Sapo Xule - O Mestre do Kung Fu (Brazil).sms" size="262144" crc="890e83e4" md5="387983a020328f52b42293b308562eb8" sha1="f14a7448f38766640c0bc9ea3410eb55194da58f"/>
+		<url>https://retroachievements.org/game/10203/hashes</url>
+		<hash>387983a020328f52b42293b308562eb8</hash>
+	</game>
+	
+	<game name="Land of Illusion Starring Mickey Mouse (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Land of Illusion Starring Mickey Mouse (Europe, Brazil) (En)</description>
+		<release name="Land of Illusion Starring Mickey Mouse (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Land of Illusion Starring Mickey Mouse (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Land of Illusion Starring Mickey Mouse (Europe, Brazil) (En).sms" size="524288" crc="24e97200" md5="07fac1d61bc20cf6eb298f66ec2ffe49" sha1="a120f29c6bf2e733775d5b984bd3a156682699c6"/>
+		<url>https://retroachievements.org/game/10013/hashes</url>
+		<hash>07fac1d61bc20cf6eb298f66ec2ffe49</hash>
+	</game>
+	
+	<game name="Legend of Illusion Starring Mickey Mouse (Brazil) (En)">
+		<category>Retail</category>
+		<description>Legend of Illusion Starring Mickey Mouse (Brazil) (En)</description>
+		<release name="Legend of Illusion Starring Mickey Mouse (Brazil) (En)" region="Brazil"/>
+		<rom name="Legend of Illusion Starring Mickey Mouse (Brazil) (En).sms" size="524288" crc="6350e649" md5="4a69a56a8efff7863feca11f1d6547e3" sha1="62adbd8e5a41d08c4745e9fbb1c51f0091c9dea6"/>
+		<url>https://retroachievements.org/game/12653/hashes</url>
+		<hash>4a69a56a8efff7863feca11f1d6547e3</hash>
+	</game>
+	
+	<game name="Lemmings (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Lemmings (Europe, Brazil) (En)</description>
+		<release name="Lemmings (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Lemmings (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Lemmings (Europe, Brazil) (En).sms" size="262144" crc="f369b2d8" md5="b190f17a46ba9cc66676e7174209c24e" sha1="f3a853cce1249a0848bfc0344f3ee2db6efa4c01"/>
+		<url>https://retroachievements.org/game/10711/hashes</url>
+		<hash>b190f17a46ba9cc66676e7174209c24e</hash>
+	</game>
+	
+	<game name="Lord of Sword (Japan)" cloneof="Lord of the Sword (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Lord of Sword (Japan)</description>
+		<release name="Lord of Sword (Japan)" region="Japan"/>
+		<rom name="Lord of Sword (Japan).sms" size="262144" crc="aa7d6f45" md5="a5736126ed7e8569a189065ec20adf72" sha1="6a08d913fd92a213b1ecf5aa7c5630362cccc6b4"/>
+		<url>https://retroachievements.org/game/10712/hashes</url>
+		<hash>a5736126ed7e8569a189065ec20adf72</hash>
+	</game>
+	<game name="Lord of the Sword (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Lord of the Sword (USA, Europe, Brazil) (En)</description>
+		<release name="Lord of the Sword (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Lord of the Sword (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Lord of the Sword (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Lord of the Sword (USA, Europe, Brazil) (En).sms" size="262144" crc="e8511b08" md5="b80f87887881343e5705ff3cce93c5f1" sha1="a5326a0029f7c3101add3335a599a01ccd7634c5"/>
+		<url>https://retroachievements.org/game/10712/hashes</url>
+		<hash>b80f87887881343e5705ff3cce93c5f1</hash>
+	</game>
+	
+	<game name="Maze Hunter 3-D (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Maze Hunter 3-D (USA, Europe, Brazil) (En)</description>
+		<release name="Maze Hunter 3-D (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Maze Hunter 3-D (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Maze Hunter 3-D (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Maze Hunter 3-D (USA, Europe, Brazil) (En).sms" size="131072" crc="31b8040b" md5="2349ee42a09088a4a590e2c65474cdaf" sha1="6d94c2159a67f3140d0c9158b58aa8f0474eaaba"/>
+		<url>https://retroachievements.org/game/10770/hashes</url>
+		<hash>2349ee42a09088a4a590e2c65474cdaf</hash>
+	</game>
+	
+	<game name="Michael Jackson's Moonwalker (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Michael Jackson's Moonwalker (USA, Europe, Brazil) (En)</description>
+		<release name="Michael Jackson's Moonwalker (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Michael Jackson's Moonwalker (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Michael Jackson's Moonwalker (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Michael Jackson's Moonwalker (USA, Europe, Brazil) (En).sms" size="262144" crc="56cc906b" md5="aa3bc8467e80a6aaab02051818ecb035" sha1="939416cebb381458d28ff628afb3d1f80293afa9"/>
+		<url>https://retroachievements.org/game/14363/hashes</url>
+		<hash>aa3bc8467e80a6aaab02051818ecb035</hash>
+	</game>
+	
+	<game name="Mickey's Ultimate Challenge (Brazil) (En)">
+		<category>Retail</category>
+		<description>Mickey's Ultimate Challenge (Brazil) (En)</description>
+		<release name="Mickey's Ultimate Challenge (Brazil) (En)" region="Brazil"/>
+		<rom name="Mickey's Ultimate Challenge (Brazil) (En).sms" size="524288" crc="2b86bcd7" md5="7ffa8a70ce7bfc8aabfe10e206df2c29" sha1="0b46e31f656fee2ac8d947ca9bb91881d1c72428"/>
+		<url>https://retroachievements.org/game/20601/hashes</url>
+		<hash>7ffa8a70ce7bfc8aabfe10e206df2c29</hash>
+	</game>
+	
+	<game name="Micro Machines (Europe)">
+		<category>Retail</category>
+		<description>Micro Machines (Europe)</description>
+		<release name="Micro Machines (Europe)" region="Europe"/>
+		<rom name="Micro Machines (Europe).sms" size="262144" crc="a577ce46" md5="a90cf8d68fa8b1f0ba00f0ddb9d547b7" sha1="425621f350d011fd021850238c6de9999625fd69"/>
+		<url>https://retroachievements.org/game/13231/hashes</url>
+		<hash>a90cf8d68fa8b1f0ba00f0ddb9d547b7</hash>
+	</game>
+	
+	<game name="Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En)</description>
+		<release name="Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Miracle Warriors - Seal of The Dark Lord (USA, Europe, Brazil) (En).sms" size="262144" crc="0e333b6e" md5="e0a9cf889c27f3cb14903288f646d183" sha1="f952406bca4918ee91a89b27e949e224eae96d85"/>
+		<url>https://retroachievements.org/game/12843/hashes</url>
+		<hash>e0a9cf889c27f3cb14903288f646d183</hash>
+	</game>
+	
+	<game name="Monopoly (USA, Europe)">
+		<category>Retail</category>
+		<description>Monopoly (USA, Europe)</description>
+		<release name="Monopoly (USA, Europe)" region="Europe"/>
+		<release name="Monopoly (USA, Europe)" region="USA"/>
+		<rom name="Monopoly (USA, Europe).sms" size="131072" crc="69538469" md5="b887836983fccb5ec706630cf835939f" sha1="8dd7bb4f666f70f7f57687823d0068c9100af8e5"/>
+		<url>https://retroachievements.org/game/10212/hashes</url>
+		<hash>b887836983fccb5ec706630cf835939f</hash>
+	</game>
+	
+	<game name="Montezuma's Revenge Featuring Panama Joe (USA)">
+		<category>Retail</category>
+		<description>Montezuma's Revenge Featuring Panama Joe (USA)</description>
+		<release name="Montezuma's Revenge Featuring Panama Joe (USA)" region="USA"/>
+		<rom name="Montezuma's Revenge Featuring Panama Joe (USA).sms" size="131072" crc="82fda895" md5="fe20d983d1b18ff1986c376489843f32" sha1="a2665093b8588d5d6f24c6b329080fb3ebee896e"/>
+		<url>https://retroachievements.org/game/10817/hashes</url>
+		<hash>fe20d983d1b18ff1986c376489843f32</hash>
+	</game>
+	
+	<game name="Mortal Kombat (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Mortal Kombat (Europe, Brazil) (En)</description>
+		<release name="Mortal Kombat (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Mortal Kombat (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Mortal Kombat (Europe, Brazil) (En).sms" size="524288" crc="302dc686" md5="a429ed37b51cc9f46c943f968d88e29f" sha1="3f67e0e702f391839b51a43125f971ae1c5fad92"/>
+		<url>https://retroachievements.org/game/11947/hashes</url>
+		<hash>a429ed37b51cc9f46c943f968d88e29f</hash>
+	</game>
+	
+	<game name="Mortal Kombat 3 (Brazil) (En)">
+		<category>Retail</category>
+		<description>Mortal Kombat 3 (Brazil) (En)</description>
+		<release name="Mortal Kombat 3 (Brazil) (En)" region="Brazil"/>
+		<rom name="Mortal Kombat 3 (Brazil) (En).sms" size="524288" crc="395ae757" md5="3ba73c09f35ea91bf36cd0b01bc1c044" sha1="f1f43f57982dd22caa8869a85b1a05fa61c349dd"/>
+		<url>https://retroachievements.org/game/20289/hashes</url>
+		<hash>3ba73c09f35ea91bf36cd0b01bc1c044</hash>
+	</game>
+	
+	<game name="My Hero (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>My Hero (USA, Europe, Brazil) (En)</description>
+		<release name="My Hero (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="My Hero (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="My Hero (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="My Hero (USA, Europe, Brazil) (En).sms" size="32768" crc="62f0c23d" md5="efef7361c9c37bcd6a7b84bc121af5f2" sha1="7583c5fb1963c070b7bda72b447cc3fd611ddf1a"/>
+		<url>https://retroachievements.org/game/10771/hashes</url>
+		<hash>efef7361c9c37bcd6a7b84bc121af5f2</hash>
+	</game>
+	
+	<game name="Ninja Gaiden (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Ninja Gaiden (Europe, Brazil) (En)</description>
+		<release name="Ninja Gaiden (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Ninja Gaiden (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Ninja Gaiden (Europe, Brazil) (En).sms" size="262144" crc="1b1d8cc2" md5="2cd25b3d9a1ced329a551d7fc3c0f01e" sha1="4c65db563e8407444020ab7fd93fc45193ae923a"/>
+		<url>https://retroachievements.org/game/10014/hashes</url>
+		<hash>2cd25b3d9a1ced329a551d7fc3c0f01e</hash>
+	</game>
+	<game name="Ninja Gaiden (Europe, Brazil) (En) (Beta)" cloneof="Ninja Gaiden (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Ninja Gaiden (Europe, Brazil) (En) (Beta)</description>
+		<rom name="Ninja Gaiden (Europe, Brazil) (En) (Beta).sms" size="262144" crc="761e9396" md5="b070dc2ba3f106e89d1e9551f49a0027" sha1="c67db6539dc609b08d3ca6f9e6f8f41daf150743"/>
+		<url>https://retroachievements.org/game/10014/hashes</url>
+		<hash>b070dc2ba3f106e89d1e9551f49a0027</hash>
+	</game>
+	
+	<game name="OutRun (World)">
+		<category>Retail</category>
+		<description>OutRun (World)</description>
+		<release name="OutRun (World)" region="World"/>
+		<rom name="OutRun (World).sms" size="262144" crc="5589d8d2" md5="029ee92155247f8a282d63b8a6dd23c4" sha1="4f9b61b24f0d9fee0448cdbbe8fc05411dbb1102"/>
+		<url>https://retroachievements.org/game/10042/hashes</url>
+		<hash>029ee92155247f8a282d63b8a6dd23c4</hash>
+	</game>
+	
+	<game name="Phantasy Star (USA, Europe) (Rev A)">
+		<category>Retail</category>
+		<description>Phantasy Star (USA, Europe) (Rev A)</description>
+		<release name="Phantasy Star (USA, Europe) (Rev A)" region="Europe"/>
+		<release name="Phantasy Star (USA, Europe) (Rev A)" region="USA"/>
+		<rom name="Phantasy Star (USA, Europe) (Rev A).sms" size="524288" crc="00bef1d7" md5="1110938df80f4e44c8213d7f85cfb5e6" sha1="07fcf297be4f4c9d92cd3f119a7ac48467e06838"/>
+		<url>https://retroachievements.org/game/9999/hashes</url>
+		<hash>1110938df80f4e44c8213d7f85cfb5e6</hash>
+	</game>
+	<game name="Phantasy Star (Brazil)" cloneof="Phantasy Star (USA, Europe) (Rev A)">
+		<category>Retail</category>
+		<description>Phantasy Star (Brazil)</description>
+		<release name="Phantasy Star (Brazil)" region="Brazil"/>
+		<rom name="Phantasy Star (Brazil).sms" size="524288" crc="75971bef" md5="1b69716f9f4053e1533f654c091ae410" sha1="fd8dad6acb6fa75dc8e9bbaea2a7e9fd486fc2dd"/>
+		<url>https://retroachievements.org/game/9999/hashes</url>
+		<hash>1b69716f9f4053e1533f654c091ae410</hash>
+	</game>
+	<game name="Phantasy Star (USA, Europe)" cloneof="Phantasy Star (USA, Europe) (Rev A)">
+		<category>Retail</category>
+		<description>Phantasy Star (USA, Europe)</description>
+		<rom name="Phantasy Star (USA, Europe).sms" size="524288" crc="e4a65e79" md5="5ba9114edea5deb5282fd9ad7d4b2d62" sha1="257ca76ebcd54c75a414ca7ce968fa59ea42f150"/>
+		<url>https://retroachievements.org/game/9999/hashes</url>
+		<hash>5ba9114edea5deb5282fd9ad7d4b2d62</hash>
+	</game>
+	<game name="Phantasy Star (USA, Europe) (Ru) (v1.02) (Chief-Net)" cloneof="Phantasy Star (USA, Europe) (Rev A)">
+		<category>Retail</category>
+		<description>Phantasy Star (USA, Europe) (Ru) (v1.02) (Chief-Net)</description>
+		<release name="Phantasy Star (USA, Europe) (Ru) (v1.02) (Chief-Net)" region="Russia"/>
+		<rom name="Phantasy Star (USA, Europe) (Ru) (v1.02) (Chief-Net).sms" size="524288" crc="73ce0028" md5="5ecb5172f7b1b88da6221fb2f8da6ba6" sha1="527c43c2913a4102a05fd52ca9dff5dda1db36b3"/>
+		<url>https://retroachievements.org/game/9999/hashes</url>
+		<hash>5ecb5172f7b1b88da6221fb2f8da6ba6</hash>
+	</game>
+	<game name="Phantasy Star (USA, Europe) (En) (v1.02) (SMS Power)" cloneof="Phantasy Star (USA, Europe) (Rev A)">
+		<category>Retail</category>
+		<description>Phantasy Star (USA, Europe) (En) (v1.02) (SMS Power)</description>
+		<release name="Phantasy Star (USA, Europe) (En) (v1.02) (SMS Power)" region="English"/>
+		<rom name="Phantasy Star (USA, Europe) (En) (v1.02) (SMS Power).sms" size="524288" crc="70e89681" md5="a0f614f26e99633493e3a3339bc85586" sha1="82067c389b26f65f5a1106a9894a0b19dd3c54f9"/>
+		<url>https://retroachievements.org/game/9999/hashes</url>
+		<hash>a0f614f26e99633493e3a3339bc85586</hash>
+	</game>
+	
+	<game name="Power Strike II (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Power Strike II (Europe, Brazil) (En)</description>
+		<release name="Power Strike II (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Power Strike II (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Power Strike II (Europe, Brazil) (En).sms" size="524288" crc="a109a6fe" md5="bd7898393b716aff69132934bf7dccb8" sha1="3bcffd47294f25b25cccb7f42c3a9c3f74333d73"/>
+		<url>https://retroachievements.org/game/10045/hashes</url>
+		<hash>bd7898393b716aff69132934bf7dccb8</hash>
+	</game>
+	
+	<game name="Psychic World (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Psychic World (Europe, Brazil) (En)</description>
+		<release name="Psychic World (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Psychic World (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Psychic World (Europe, Brazil) (En).sms" size="262144" crc="5c0b1f0f" md5="1076f6358527d1cec1e1e75143997293" sha1="5fa54329692e680a190291d0744580968aa8b3fe"/>
+		<url>https://retroachievements.org/game/12417/hashes</url>
+		<hash>1076f6358527d1cec1e1e75143997293</hash>
+	</game>
+	
+	<game name="Psycho Fox (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Psycho Fox (USA, Europe, Brazil) (En)</description>
+		<release name="Psycho Fox (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Psycho Fox (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Psycho Fox (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Psycho Fox (USA, Europe, Brazil) (En).sms" size="262144" crc="97993479" md5="a9c2facf9ef536d095414ce2e7ce2f4f" sha1="278cc3853905626138e83b6cfa39c26ba8e4f632"/>
+		<url>https://retroachievements.org/game/10046/hashes</url>
+		<hash>a9c2facf9ef536d095414ce2e7ce2f4f</hash>
+	</game>
+	
+	<game name="Quartet (USA, Europe)">
+		<category>Retail</category>
+		<description>Quartet (USA, Europe)</description>
+		<release name="Quartet (USA, Europe)" region="Europe"/>
+		<release name="Quartet (USA, Europe)" region="USA"/>
+		<rom name="Quartet (USA, Europe).sms" size="131072" crc="e0f34fa6" md5="63af7fce5106cc3de1e1b116c112095b" sha1="08a3484e862a284f6038b7cd0dfc745a8b7c6c51"/>
+		<url>https://retroachievements.org/game/10035/hashes</url>
+		<hash>63af7fce5106cc3de1e1b116c112095b</hash>
+	</game>
+	
+	<game name="R-Type (World) (Pt) (Emuboarding)" cloneof="R-Type (World)">
+		<category>Retail</category>
+		<description>R-Type (World) (Pt) (Emuboarding)</description>
+		<release name="R-Type (World) (Pt) (Emuboarding)" region="Portugal"/>
+		<rom name="R-Type (World) (Pt) (Emuboarding).sms" size="524288" crc="7510bce3" md5="61189f69342288aa032c66f6e2a1214d" sha1="7c16f916b8b134a2a254a6513e8a4d0a638b6cef"/>
+		<url>https://retroachievements.org/game/10058/hashes</url>
+		<hash>61189f69342288aa032c66f6e2a1214d</hash>
+	</game>
+	<game name="R-Type (World) (Pt) (Emuboarding) (Alt)" cloneof="R-Type (World)">
+		<category>Retail</category>
+		<description>R-Type (World) (Pt) (Emuboarding) (Alt)</description>
+		<rom name="R-Type (World) (Pt) (Emuboarding) (Alt).sms" size="524288" crc="a3c80ee3" md5="694ee2b237d266c46e7abe5afdba528a" sha1="6fa3c84c3ff65e6d7f044d206bc6d819c6cb7cf1"/>
+		<url>https://retroachievements.org/game/10058/hashes</url>
+		<hash>694ee2b237d266c46e7abe5afdba528a</hash>
+	</game>
+	<game name="R-Type (World)">
+		<category>Retail</category>
+		<description>R-Type (World)</description>
+		<release name="R-Type (World)" region="World"/>
+		<rom name="R-Type (World).sms" size="524288" crc="bb54b6b0" md5="9e5507d51ac6f24c702a52a7abce0d3c" sha1="08ec70a2cd98fcb2645f59857f845d41b0045115"/>
+		<url>https://retroachievements.org/game/10058/hashes</url>
+		<hash>9e5507d51ac6f24c702a52a7abce0d3c</hash>
+	</game>
+
+	<game name="Secret Command (Europe)">
+		<category>Retail</category>
+		<description>Secret Command (Europe)</description>
+		<release name="Secret Command (Europe)" region="Europe"/>
+		<rom name="Secret Command (Europe).sms" size="131072" crc="00529114" md5="3f6c5515a2e39826fbf816780298701c" sha1="e7a952f8bd6dddbb365870e906801021b240a533"/>
+		<url>https://retroachievements.org/game/10440/hashes</url>
+		<hash>3f6c5515a2e39826fbf816780298701c</hash>
+	</game>
+	<game name="Rambo - First Blood Part II (USA)" cloneof="Secret Command (Europe)">
+		<category>Retail</category>
+		<description>Rambo - First Blood Part II (USA)</description>
+		<release name="Rambo - First Blood Part II (USA)" region="USA"/>
+		<rom name="Rambo - First Blood Part II (USA).sms" size="131072" crc="bbda65f0" md5="7a080a155ad6a806da88aa1d3576d78c" sha1="dc44b090a01d6a4d9b5700ada764b00c62c00e91"/>
+		<url>https://retroachievements.org/game/10440/hashes</url>
+		<hash>7a080a155ad6a806da88aa1d3576d78c</hash>
+	</game>
+	
+	<game name="Rastan (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Rastan (USA, Europe, Brazil) (En)</description>
+		<release name="Rastan (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Rastan (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Rastan (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Rastan (USA, Europe, Brazil) (En).sms" size="262144" crc="c547eb1b" md5="5b3a785de403c311db7f17eae27caae6" sha1="90f9ccf516db2a1cf20e199cfd5d31d4cfce0f1f"/>
+		<url>https://retroachievements.org/game/10898/hashes</url>
+		<hash>5b3a785de403c311db7f17eae27caae6</hash>
+	</game>
+	
+	<game name="Rescue Mission (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Rescue Mission (USA, Europe, Brazil) (En)</description>
+		<release name="Rescue Mission (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Rescue Mission (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Rescue Mission (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Rescue Mission (USA, Europe, Brazil) (En).sms" size="131072" crc="79ac8e7f" md5="717fdf868c8f11a712697260eb7db670" sha1="6a561bff2f8022261708b91722caf1ec0e63f9c4"/>
+		<url>https://retroachievements.org/game/10006/hashes</url>
+		<hash>717fdf868c8f11a712697260eb7db670</hash>
+	</game>
+	
+	<game name="Road Rash (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Road Rash (Europe, Brazil) (En)</description>
+		<release name="Road Rash (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Road Rash (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Road Rash (Europe, Brazil) (En).sms" size="524288" crc="b876fc74" md5="325575374d2db3755f83bba728990ebe" sha1="7976e717125757b1900a540a68e0ef3083839f85"/>
+		<url>https://retroachievements.org/game/10813/hashes</url>
+		<hash>325575374d2db3755f83bba728990ebe</hash>
+	</game>
+	
+	<game name="Rocky (World)">
+		<category>Retail</category>
+		<description>Rocky (World)</description>
+		<release name="Rocky (World)" region="World"/>
+		<rom name="Rocky (World).sms" size="262144" crc="1bcc7be3" md5="582d58d95c9774cd50555366c253a050" sha1="8601927ca17419f5d61f757e9371ce533228f7bb"/>
+		<url>https://retroachievements.org/game/10012/hashes</url>
+		<hash>582d58d95c9774cd50555366c253a050</hash>
+	</game>
+	
+	<game name="Running Battle (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Running Battle (Europe, Brazil) (En)</description>
+		<release name="Running Battle (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Running Battle (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Running Battle (Europe, Brazil) (En).sms" size="262144" crc="1fdae719" md5="c32c95222ce705c0c93732a8922f7453" sha1="8f680b3a9782304a2f879f6590dc78ea4e366163"/>
+		<url>https://retroachievements.org/game/10814/hashes</url>
+		<hash>c32c95222ce705c0c93732a8922f7453</hash>
+	</game>
+	
+	<game name="Shinobi (USA, Europe, Brazil) (En) (Rev 1)">
+		<category>Retail</category>
+		<description>Shinobi (USA, Europe, Brazil) (En) (Rev 1)</description>
+		<release name="Shinobi (USA, Europe, Brazil) (En) (Rev 1)" region="Brazil"/>
+		<release name="Shinobi (USA, Europe, Brazil) (En) (Rev 1)" region="Europe"/>
+		<release name="Shinobi (USA, Europe, Brazil) (En) (Rev 1)" region="USA"/>
+		<rom name="Shinobi (USA, Europe, Brazil) (En) (Rev 1).sms" size="262144" crc="0c6fac4e" md5="3dd2c025185e19ac9bf1ed16b695c629" sha1="7c0778c055dc9c2b0aae1d166dbdb4734e55b9d1"/>
+		<url>https://retroachievements.org/game/10034/hashes</url>
+		<hash>3dd2c025185e19ac9bf1ed16b695c629</hash>
+	</game>
+	
+	<game name="Snail Maze - SMS BIOS (v1.3) (USA, Europe)">
+		<category>Retail</category>
+		<description>Snail Maze - SMS BIOS (v1.3) (USA, Europe)</description>
+		<release name="Snail Maze - SMS BIOS (v1.3) (USA, Europe)" region="Europe"/>
+		<release name="Snail Maze - SMS BIOS (v1.3) (USA, Europe)" region="USA"/>
+		<rom name="Snail Maze - SMS BIOS (v1.3) (USA, Europe).sms" size="8192" crc="5ad6edac" md5="4f47e48248f6498bff9018789f26c9f8" sha1="083ce08bff13b3530371c6021dc740f1cfc78e0c"/>
+		<url>https://retroachievements.org/game/11612/hashes</url>
+		<hash>4f47e48248f6498bff9018789f26c9f8</hash>
+	</game>
+	<game name="[BIOS] Sega Master System (USA, Europe) (v1.3)" cloneof="Snail Maze - SMS BIOS (v1.3) (USA, Europe)">
+		<category>Retail</category>
+		<description>[BIOS] Sega Master System (USA, Europe) (v1.3)</description>
+		<rom name="[BIOS] Sega Master System (USA, Europe) (v1.3).sms" size="8192" crc="0072ed54" md5="840481177270d5642a14ca71ee72844c" sha1="c315672807d8ddb8d91443729405c766dd95cae7"/>
+		<url>https://retroachievements.org/game/11612/hashes</url>
+		<hash>840481177270d5642a14ca71ee72844c</hash>
+	</game>
+	<game name="Snail Maze - Music Demo (USA, Europe)" cloneof="Snail Maze - SMS BIOS (v1.3) (USA, Europe)">
+		<category>Retail</category>
+		<description>Snail Maze - Music Demo (USA, Europe)</description>
+		<rom name="Snail Maze - Music Demo (USA, Europe).sms" size="32768" crc="304fe02b" md5="ffcb0fedde6b7f8377ca99232c123597" sha1="499ac51501035b5ec5a993c0c9c0163d8a49e35c"/>
+		<url>https://retroachievements.org/game/11612/hashes</url>
+		<hash>ffcb0fedde6b7f8377ca99232c123597</hash>
+	</game>
+	
+	<game name="Solomon no Kagi - Oujo Rihita no Namida (Japan)">
+		<category>Retail</category>
+		<description>Solomon no Kagi - Oujo Rihita no Namida (Japan)</description>
+		<release name="Solomon no Kagi - Oujo Rihita no Namida (Japan)" region="Japan"/>
+		<rom name="Solomon no Kagi - Oujo Rihita no Namida (Japan).sms" size="131072" crc="11645549" md5="cfa84806075e017e29ffcdd0127fe647" sha1="875f35d0775609776ec75ea2a8fa2297643e906c"/>
+		<url>https://retroachievements.org/game/11629/hashes</url>
+		<hash>cfa84806075e017e29ffcdd0127fe647</hash>
+	</game>
+	
+	<game name="Sonic Blast (Brazil) (En)">
+		<category>Retail</category>
+		<description>Sonic Blast (Brazil) (En)</description>
+		<release name="Sonic Blast (Brazil) (En)" region="Brazil"/>
+		<rom name="Sonic Blast (Brazil) (En).sms" size="1048576" crc="96b3f29e" md5="ce7f314a657e0f0fe506fb7aea016f31" sha1="4ad77a472e98002dc0d5c1463965720a257e1b8f"/>
+		<url>https://retroachievements.org/game/10736/hashes</url>
+		<hash>ce7f314a657e0f0fe506fb7aea016f31</hash>
+	</game>
+	
+	<game name="Sonic Chaos (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Sonic Chaos (Europe, Brazil) (En)</description>
+		<release name="Sonic Chaos (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Sonic Chaos (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Sonic Chaos (Europe, Brazil) (En).sms" size="524288" crc="aedf3bdf" md5="1d661134b14eedf6b4ae1c907581fd96" sha1="f64c8eea26a103582f09831c3e02c6045a6aff94"/>
+		<url>https://retroachievements.org/game/10010/hashes</url>
+		<hash>1d661134b14eedf6b4ae1c907581fd96</hash>
+	</game>
+	
+	<game name="Sonic The Hedgehog (USA, Europe, Brazil) (Fr) (Final) (Terminus)" cloneof="Sonic The Hedgehog (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Sonic The Hedgehog (USA, Europe, Brazil) (Fr) (Final) (Terminus)</description>
+		<release name="Sonic The Hedgehog (USA, Europe, Brazil) (Fr) (Final) (Terminus)" region="France"/>
+		<rom name="Sonic The Hedgehog (USA, Europe, Brazil) (Fr) (Final) (Terminus).sms" size="262144" crc="48806ff7" md5="28110d3027da306210a9d1fb41010bbf" sha1="4a257cbad310adcf32bb483c5647753068ddaf01"/>
+		<url>https://retroachievements.org/game/9962/hashes</url>
+		<hash>28110d3027da306210a9d1fb41010bbf</hash>
+	</game>
+	<game name="Sonic The Hedgehog (USA, Europe, Brazil) (En) (FM Hack) (v1.00) (Valleybell)" cloneof="Sonic The Hedgehog (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Sonic The Hedgehog (USA, Europe, Brazil) (En) (FM Hack) (v1.00) (Valleybell)</description>
+		<rom name="Sonic The Hedgehog (USA, Europe, Brazil) (En) (FM Hack) (v1.00) (Valleybell).sms" size="262144" crc="5e6e50c2" md5="287c73df22264483efb3434b7d58908a" sha1="d99bf44208d4e6ee9040857d1880142c304dea64"/>
+		<url>https://retroachievements.org/game/9962/hashes</url>
+		<hash>287c73df22264483efb3434b7d58908a</hash>
+	</game>
+	<game name="Sonic The Hedgehog (USA, Europe, Brazil) (En) (FM Hack) (v1.02) (Valleybell)" cloneof="Sonic The Hedgehog (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Sonic The Hedgehog (USA, Europe, Brazil) (En) (FM Hack) (v1.02) (Valleybell)</description>
+		<rom name="Sonic The Hedgehog (USA, Europe, Brazil) (En) (FM Hack) (v1.02) (Valleybell).sms" size="262144" crc="7c077b38" md5="624d2e4fb85dc714f34a7c6e80035a7f" sha1="a8706fae2780be127d86b735e530e897448c9df1"/>
+		<url>https://retroachievements.org/game/9962/hashes</url>
+		<hash>624d2e4fb85dc714f34a7c6e80035a7f</hash>
+	</game>
+	<game name="Sonic The Hedgehog (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Sonic The Hedgehog (USA, Europe, Brazil) (En)</description>
+		<release name="Sonic The Hedgehog (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Sonic The Hedgehog (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Sonic The Hedgehog (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Sonic The Hedgehog (USA, Europe, Brazil) (En).sms" size="262144" crc="b519e833" md5="dc13a61eafe75c13c15b5ece419ac57b" sha1="6b9677e4a9abb37765d6db4658f4324251807e07"/>
+		<url>https://retroachievements.org/game/9962/hashes</url>
+		<hash>dc13a61eafe75c13c15b5ece419ac57b</hash>
+	</game>
+	
+	<game name="Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1)">
+		<category>Retail</category>
+		<description>Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1)</description>
+		<release name="Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1)" region="Brazil"/>
+		<release name="Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1)" region="Europe"/>
+		<rom name="Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1).sms" size="524288" crc="d6f2bfca" md5="0ac157b6b7e839953fc8eba7538fb74a" sha1="689339bac11c3565dd774f8cd4d8ea1b27831118"/>
+		<url>https://retroachievements.org/game/9997/hashes</url>
+		<hash>0ac157b6b7e839953fc8eba7538fb74a</hash>
+	</game>
+	<game name="Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1) (Sonic 2 Rebirth)" cloneof="Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1)">
+		<category>Retail</category>
+		<description>Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1) (Sonic 2 Rebirth)</description>
+		<rom name="Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1) (Sonic 2 Rebirth).sms" size="524288" crc="54f91cba" md5="32c109864dbe2c2644b6090def5e82b9" sha1="452f12cd054f278048fa6bc5a3d6f610d0dc7d0a"/>
+		<url>https://retroachievements.org/game/9997/hashes</url>
+		<hash>32c109864dbe2c2644b6090def5e82b9</hash>
+	</game>
+	<game name="Sonic The Hedgehog 2 (Europe, Brazil) (En)" cloneof="Sonic The Hedgehog 2 (Europe, Brazil) (En) (Rev 1)">
+		<category>Retail</category>
+		<description>Sonic The Hedgehog 2 (Europe, Brazil) (En)</description>
+		<rom name="Sonic The Hedgehog 2 (Europe, Brazil) (En).sms" size="524288" crc="5b3b922c" md5="bf3b7a41e7da9de23416473a33c6ac2b" sha1="acdb0b5e8bf9c1e9c9d1a8ac6d282cb8017d091c"/>
+		<url>https://retroachievements.org/game/9997/hashes</url>
+		<hash>bf3b7a41e7da9de23416473a33c6ac2b</hash>
+	</game>
+	
+	<game name="Space Harrier (Japan, USA) (En)">
+		<category>Retail</category>
+		<description>Space Harrier (Japan, USA) (En)</description>
+		<release name="Space Harrier (Japan, USA) (En)" region="Japan"/>
+		<release name="Space Harrier (Japan, USA) (En)" region="USA"/>
+		<rom name="Space Harrier (Japan, USA) (En).sms" size="262144" crc="beddf80e" md5="b2e5047df186af7c02da17f1b285ae4f" sha1="51ba2185a2b93957c1c51b0a2e2b80394463bed8"/>
+		<url>https://retroachievements.org/game/10033/hashes</url>
+		<hash>b2e5047df186af7c02da17f1b285ae4f</hash>
+	</game>
+	
+	<game name="Spider-Man (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Spider-Man (USA, Europe, Brazil) (En)</description>
+		<release name="Spider-Man (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Spider-Man (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Spider-Man (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Spider-Man (USA, Europe, Brazil) (En).sms" size="262144" crc="908ff25c" md5="fa10ee70e43385e88e5d1a008716668b" sha1="02ebee891d88bacdadd37a3e75e05763b7ad3c9b"/>
+		<url>https://retroachievements.org/game/14849/hashes</url>
+		<hash>fa10ee70e43385e88e5d1a008716668b</hash>
+	</game>
+	
+	<game name="Street Fighter II' (Brazil) (En)">
+		<category>Retail</category>
+		<description>Street Fighter II' (Brazil) (En)</description>
+		<release name="Street Fighter II' (Brazil) (En)" region="Brazil"/>
+		<rom name="Street Fighter II' (Brazil) (En).sms" size="819200" crc="0f8287ec" md5="7a4cda14dd38a48fc36bcc6e104cf5d7" sha1="1866752a92abbf0eb55fbf9de1cd1b731ec62a54"/>
+		<url>https://retroachievements.org/game/10733/hashes</url>
+		<hash>7a4cda14dd38a48fc36bcc6e104cf5d7</hash>
+	</game>
+	
+	<game name="Streets of Rage (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Streets of Rage (Europe, Brazil) (En)</description>
+		<release name="Streets of Rage (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Streets of Rage (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Streets of Rage (Europe, Brazil) (En).sms" size="524288" crc="4ab3790f" md5="29a5195d57a82fb1349a7403f1d65d7e" sha1="5bdec24d9ba0f6ed359dcb3b11910ec86866ec98"/>
+		<url>https://retroachievements.org/game/14622/hashes</url>
+		<hash>29a5195d57a82fb1349a7403f1d65d7e</hash>
+	</game>
+	
+	<game name="Streets of Rage II (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Streets of Rage II (Europe, Brazil) (En)</description>
+		<release name="Streets of Rage II (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Streets of Rage II (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Streets of Rage II (Europe, Brazil) (En).sms" size="524288" crc="04e9c089" md5="e680b108e67caf02e4fb77d419f48358" sha1="cc18171a860711f6ad18ff89254dd7bd05c54654"/>
+		<url>https://retroachievements.org/game/11585/hashes</url>
+		<hash>e680b108e67caf02e4fb77d419f48358</hash>
+	</game>
+	
+	<game name="Sudoku (Brazil) (Mega Drive 4)">
+		<category>Retail</category>
+		<description>Sudoku (Brazil) (Mega Drive 4)</description>
+		<release name="Sudoku (Brazil) (Mega Drive 4)" region="Brazil"/>
+		<rom name="Sudoku (Brazil) (Mega Drive 4).sms" size="131072" crc="814c08d1" md5="1ef2a7240551c4666b47a72e4fc6c473" sha1="8d865f82ec8c7731bd9acd0275257cdd876654e7"/>
+		<url>https://retroachievements.org/game/16057/hashes</url>
+		<hash>1ef2a7240551c4666b47a72e4fc6c473</hash>
+	</game>
+	
+	<game name="Tangram (Brazil) (Mega Drive 4)">
+		<category>Retail</category>
+		<description>Tangram (Brazil) (Mega Drive 4)</description>
+		<release name="Tangram (Brazil) (Mega Drive 4)" region="Brazil"/>
+		<rom name="Tangram (Brazil) (Mega Drive 4).sms" size="131072" crc="d72eaea6" md5="03e1482ad2ee6f77399a1c5c647dba5e" sha1="2a07fd4c2639b7b9dc88234070b971f4ec90b791"/>
+		<url>https://retroachievements.org/game/16306/hashes</url>
+		<hash>03e1482ad2ee6f77399a1c5c647dba5e</hash>
+	</game>
+	
+	<game name="Taz-Mania (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Taz-Mania (Europe, Brazil) (En)</description>
+		<release name="Taz-Mania (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Taz-Mania (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Taz-Mania (Europe, Brazil) (En).sms" size="262144" crc="7cc3e837" md5="cfc878f0163933fcfcc89e134fbeb31f" sha1="ac98f23ddc24609cb77bb13102e0386f8c2a4a76"/>
+		<url>https://retroachievements.org/game/10076/hashes</url>
+		<hash>cfc878f0163933fcfcc89e134fbeb31f</hash>
+	</game>
+	
+	<game name="Tecmo World Cup '93 (Europe)">
+		<category>Retail</category>
+		<description>Tecmo World Cup '93 (Europe)</description>
+		<release name="Tecmo World Cup '93 (Europe)" region="Europe"/>
+		<rom name="Tecmo World Cup '93 (Europe).sms" size="262144" crc="5a1c3dde" md5="81f530d169c5c04c8faf8db367bbcd63" sha1="43a30da241f57cf086ab9b2ed25fe018171f2908"/>
+		<url>https://retroachievements.org/game/24990/hashes</url>
+		<hash>81f530d169c5c04c8faf8db367bbcd63</hash>
+	</game>
+	
+	<game name="Addams Family, The (Europe)">
+		<category>Retail</category>
+		<description>Addams Family, The (Europe)</description>
+		<release name="Addams Family, The (Europe)" region="Europe"/>
+		<rom name="Addams Family, The (Europe).sms" size="262144" crc="72420f38" md5="09202bc26fcf19ebd3ffcbd80e23ed9d" sha1="3fc6ccc556a1e4eb376f77eef8f16b1ff76a17d0"/>
+		<url>https://retroachievements.org/game/14726/hashes</url>
+		<hash>09202bc26fcf19ebd3ffcbd80e23ed9d</hash>
+	</game>
+	
+	<game name="Flintstones, The (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Flintstones, The (Europe, Brazil) (En)</description>
+		<release name="Flintstones, The (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Flintstones, The (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Flintstones, The (Europe, Brazil) (En).sms" size="262144" crc="ca5c78a5" md5="23a5a42c0a4a4bceffbd1869192f329d" sha1="a0aa76d89f6831999c328877057a99e72c6b533b"/>
+		<url>https://retroachievements.org/game/12897/hashes</url>
+		<hash>23a5a42c0a4a4bceffbd1869192f329d</hash>
+	</game>
+	
+	<game name="Lion King, The (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Lion King, The (Europe, Brazil) (En)</description>
+		<release name="Lion King, The (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Lion King, The (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Lion King, The (Europe, Brazil) (En).sms" size="524288" crc="c352c7eb" md5="e50336c0d146e8a341c7ae198a016527" sha1="3a64657e3523a5da1b99db9d89b1a48ed4ccc5ed"/>
+		<url>https://retroachievements.org/game/20480/hashes</url>
+		<hash>e50336c0d146e8a341c7ae198a016527</hash>
+	</game>
+	
+	<game name="Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En)</description>
+		<release name="Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En).sms" size="262144" crc="a1710f13" md5="653f10042a5ee5854ccf971456641a4d" sha1="a08815d27e431f0bee70b4ebfb870a3196c2a732"/>
+		<url>https://retroachievements.org/game/10714/hashes</url>
+		<hash>653f10042a5ee5854ccf971456641a4d</hash>
+	</game>
+	<game name="Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (Pt)" cloneof="Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (Pt)</description>
+		<release name="Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (Pt)" region="Portugal"/>
+		<rom name="Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (Pt).sms" size="262144" crc="d79e51a8" md5="7de76abf927d6fec98d46e28de054e36" sha1="65a94f09a278b74052ae1cea009b0f97d6c4e8a8"/>
+		<url>https://retroachievements.org/game/10714/hashes</url>
+		<hash>7de76abf927d6fec98d46e28de054e36</hash>
+	</game>
+	
+	<game name="Ninja, The (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Ninja, The (USA, Europe, Brazil) (En)</description>
+		<release name="Ninja, The (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Ninja, The (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Ninja, The (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Ninja, The (USA, Europe, Brazil) (En).sms" size="131072" crc="66a15bd9" md5="2c620ba64fcaac940b4b1566733037b3" sha1="76396a25902700e18adf6bc5c8668e2a8bdf03a9"/>
+		<url>https://retroachievements.org/game/10773/hashes</url>
+		<hash>2c620ba64fcaac940b4b1566733037b3</hash>
+	</game>
+	
+	<game name="Terminator, The (Europe)">
+		<category>Retail</category>
+		<description>Terminator, The (Europe)</description>
+		<release name="Terminator, The (Europe)" region="Europe"/>
+		<rom name="Terminator, The (Europe).sms" size="262144" crc="edc5c012" md5="f224907676a09c7f0404c95c316f1503" sha1="eaf733d385e61526b90c1b194bf605078d43e2d3"/>
+		<url>https://retroachievements.org/game/11698/hashes</url>
+		<hash>f224907676a09c7f0404c95c316f1503</hash>
+	</game>
+	
+	<game name="Time Soldiers (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Time Soldiers (USA, Europe, Brazil) (En)</description>
+		<release name="Time Soldiers (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Time Soldiers (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Time Soldiers (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Time Soldiers (USA, Europe, Brazil) (En).sms" size="262144" crc="51bd14be" md5="dbc9260009dd0838d0e31de51d57d078" sha1="89842cb30cc3ba626901a5da41481f6d157ebd15"/>
+		<url>https://retroachievements.org/game/11662/hashes</url>
+		<hash>dbc9260009dd0838d0e31de51d57d078</hash>
+	</game>
+	
+	<game name="Tom and Jerry - The Movie (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Tom and Jerry - The Movie (Europe, Brazil) (En)</description>
+		<release name="Tom and Jerry - The Movie (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Tom and Jerry - The Movie (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Tom and Jerry - The Movie (Europe, Brazil) (En).sms" size="262144" crc="bf7b7285" md5="965e5576d569794aa27e89048855615f" sha1="30224286c65beddf37dc83f688f1bd362f325227"/>
+		<url>https://retroachievements.org/game/10028/hashes</url>
+		<hash>965e5576d569794aa27e89048855615f</hash>
+	</game>
+	
+	<game name="Ultima IV - Quest of the Avatar (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Ultima IV - Quest of the Avatar (Europe, Brazil) (En)</description>
+		<release name="Ultima IV - Quest of the Avatar (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Ultima IV - Quest of the Avatar (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Ultima IV - Quest of the Avatar (Europe, Brazil) (En).sms" size="524288" crc="b52d60c8" md5="c54c1a2559cec189f53e794177d002af" sha1="a90e21e5961bcf2e10b715a009c04e7c2017a3b1"/>
+		<url>https://retroachievements.org/game/10032/hashes</url>
+		<hash>c54c1a2559cec189f53e794177d002af</hash>
+	</game>
+	
+	<game name="Master of Darkness (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Master of Darkness (Europe, Brazil) (En)</description>
+		<release name="Master of Darkness (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Master of Darkness (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Master of Darkness (Europe, Brazil) (En).sms" size="262144" crc="96fb4d4b" md5="8354932a7f20e84a808471b3724a56f8" sha1="ed3569be5d5a49ff5a09b2b04ec0101d4edfa81e"/>
+		<url>https://retroachievements.org/game/10015/hashes</url>
+		<hash>8354932a7f20e84a808471b3724a56f8</hash>
+	</game>
+	
+	<game name="Vigilante (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Vigilante (USA, Europe, Brazil) (En)</description>
+		<release name="Vigilante (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Vigilante (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Vigilante (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Vigilante (USA, Europe, Brazil) (En).sms" size="262144" crc="dfb0b161" md5="6deabfc15d9aeb4c8ed1b641fb950de5" sha1="0dc37f1104508c2c0e2593b10dffc3f268ae8ff9"/>
+		<url>https://retroachievements.org/game/10427/hashes</url>
+		<hash>6deabfc15d9aeb4c8ed1b641fb950de5</hash>
+	</game>
+	
+	<game name="Virtua Fighter Animation (Brazil) (En)">
+		<category>Retail</category>
+		<description>Virtua Fighter Animation (Brazil) (En)</description>
+		<release name="Virtua Fighter Animation (Brazil) (En)" region="Brazil"/>
+		<rom name="Virtua Fighter Animation (Brazil) (En).sms" size="1048576" crc="57f1545b" md5="fdc90edb44d2a2236ab9c29d2f073d3c" sha1="ee24af11f2066dc8ffbefb72a5048a2471576229"/>
+		<url>https://retroachievements.org/game/10723/hashes</url>
+		<hash>fdc90edb44d2a2236ab9c29d2f073d3c</hash>
+	</game>
+	
+	<game name="Where in the World is Carmen Sandiego (USA)">
+		<category>Retail</category>
+		<description>Where in the World is Carmen Sandiego (USA)</description>
+		<release name="Where in the World is Carmen Sandiego (USA)" region="USA"/>
+		<rom name="Where in the World is Carmen Sandiego (USA).sms" size="131072" crc="428b1e7c" md5="29dcfcf773ceb9ef29b524183ad89d8c" sha1="683317c8d7d8b974066d7ddb3ed64f99801aa9de"/>
+		<url>https://retroachievements.org/game/10122/hashes</url>
+		<hash>29dcfcf773ceb9ef29b524183ad89d8c</hash>
+	</game>
+	
+	<game name="Wonder Boy (USA, Europe, Brazil) (En) (Rev 1)">
+		<category>Retail</category>
+		<description>Wonder Boy (USA, Europe, Brazil) (En) (Rev 1)</description>
+		<release name="Wonder Boy (USA, Europe, Brazil) (En) (Rev 1)" region="Brazil"/>
+		<release name="Wonder Boy (USA, Europe, Brazil) (En) (Rev 1)" region="Europe"/>
+		<release name="Wonder Boy (USA, Europe, Brazil) (En) (Rev 1)" region="USA"/>
+		<rom name="Wonder Boy (USA, Europe, Brazil) (En) (Rev 1).sms" size="131072" crc="73705c02" md5="7e805aa51bfb5f206c950a32ebcdab7c" sha1="63149f20bf69cd2f24d0e58841fcfcdace972f49"/>
+		<url>https://retroachievements.org/game/10009/hashes</url>
+		<hash>7e805aa51bfb5f206c950a32ebcdab7c</hash>
+	</game>
+	
+	<game name="Wonder Boy III - The Dragon's Trap (USA, Europe, Korea) (Fr)" cloneof="Wonder Boy III - The Dragon's Trap (USA, Europe)">
+		<category>Retail</category>
+		<description>Wonder Boy III - The Dragon's Trap (USA, Europe, Korea) (Fr)</description>
+		<release name="Wonder Boy III - The Dragon's Trap (USA, Europe, Korea) (Fr)" region="France"/>
+		<rom name="Wonder Boy III - The Dragon's Trap (USA, Europe, Korea) (Fr).sms" size="262144" crc="79ec738b" md5="3f780a4b30384578c27157dbf5c21713" sha1="d7fc428a33487ff581a1135c16ebb034991bb1ec"/>
+		<url>https://retroachievements.org/game/10007/hashes</url>
+		<hash>3f780a4b30384578c27157dbf5c21713</hash>
+	</game>
+	<game name="Turma da Monica em - O Resgate (Brazil)" cloneof="Wonder Boy III - The Dragon's Trap (USA, Europe)">
+		<category>Retail</category>
+		<description>Turma da Monica em - O Resgate (Brazil)</description>
+		<release name="Turma da Monica em - O Resgate (Brazil)" region="Brazil"/>
+		<rom name="Turma da Monica em - O Resgate (Brazil).sms" size="262144" crc="22cca9bb" md5="56b3436304b8cecfe4e321ca029d5e80" sha1="77b4ec8086d81029b596020f202df3e210df985d"/>
+		<url>https://retroachievements.org/game/10007/hashes</url>
+		<hash>56b3436304b8cecfe4e321ca029d5e80</hash>
+	</game>
+	<game name="Wonder Boy III - The Dragon's Trap (USA, Europe) (SRAM and Pad Detect) (v1.2) (Ichigobankai)" cloneof="Wonder Boy III - The Dragon's Trap (USA, Europe)">
+		<category>Retail</category>
+		<description>Wonder Boy III - The Dragon's Trap (USA, Europe) (SRAM and Pad Detect) (v1.2) (Ichigobankai)</description>
+		<release name="Wonder Boy III - The Dragon's Trap (USA, Europe) (SRAM and Pad Detect) (v1.2) (Ichigobankai)" region="Europe"/>
+		<release name="Wonder Boy III - The Dragon's Trap (USA, Europe) (SRAM and Pad Detect) (v1.2) (Ichigobankai)" region="USA"/>
+		<rom name="Wonder Boy III - The Dragon's Trap (USA, Europe) (SRAM and Pad Detect) (v1.2) (Ichigobankai).sms" size="262144" crc="725132ae" md5="c7e1464e9ac0805f08ae7151796f69da" sha1="d27fd069a244d2496e156c41d5b3fca4fe27649e"/>
+		<url>https://retroachievements.org/game/10007/hashes</url>
+		<hash>c7e1464e9ac0805f08ae7151796f69da</hash>
+	</game>
+	<game name="Wonder Boy III - The Dragon's Trap (USA, Europe)">
+		<category>Retail</category>
+		<description>Wonder Boy III - The Dragon's Trap (USA, Europe)</description>
+		<rom name="Wonder Boy III - The Dragon's Trap (USA, Europe).sms" size="262144" crc="679e1676" md5="e7f86c049e4bd8b26844ff62bd067d57" sha1="99e73de2ffe5ea5d40998faec16504c226f4c1ba"/>
+		<url>https://retroachievements.org/game/10007/hashes</url>
+		<hash>e7f86c049e4bd8b26844ff62bd067d57</hash>
+	</game>
+	<game name="Wonder Boy III - The Dragon's Trap (USA, Europe, Korea) (Sw) (v0.7b) (Metalhead)" cloneof="Wonder Boy III - The Dragon's Trap (USA, Europe)">
+		<category>Retail</category>
+		<description>Wonder Boy III - The Dragon's Trap (USA, Europe, Korea) (Sw) (v0.7b) (Metalhead)</description>
+		<release name="Wonder Boy III - The Dragon's Trap (USA, Europe, Korea) (Sw) (v0.7b) (Metalhead)" region="Sweden"/>
+		<rom name="Wonder Boy III - The Dragon's Trap (USA, Europe, Korea) (Sw) (v0.7b) (Metalhead).sms" size="262144" crc="42012b7d" md5="e91a4da4f53b214704b3a99c4982f58e" sha1="46e5e7c6c4a730bcd257f1537fdc3da4b8c3d10a"/>
+		<url>https://retroachievements.org/game/10007/hashes</url>
+		<hash>e91a4da4f53b214704b3a99c4982f58e</hash>
+	</game>
+	
+	<game name="Wonder Boy in Monster Land (USA, Europe)">
+		<category>Retail</category>
+		<description>Wonder Boy in Monster Land (USA, Europe)</description>
+		<release name="Wonder Boy in Monster Land (USA, Europe)" region="Europe"/>
+		<release name="Wonder Boy in Monster Land (USA, Europe)" region="USA"/>
+		<rom name="Wonder Boy in Monster Land (USA, Europe).sms" size="262144" crc="8cbef0c1" md5="8f8aaac492de96f2cfddb9d1a57dd979" sha1="51715db7a49a18452292dadb2bba0108aa6d6402"/>
+		<url>https://retroachievements.org/game/10777/hashes</url>
+		<hash>8f8aaac492de96f2cfddb9d1a57dd979</hash>
+	</game>
+	<game name="Monica no Castelo do Dragao (Brazil)" cloneof="Wonder Boy in Monster Land (USA, Europe)">
+		<category>Retail</category>
+		<description>Monica no Castelo do Dragao (Brazil)</description>
+		<release name="Monica no Castelo do Dragao (Brazil)" region="Brazil"/>
+		<rom name="Monica no Castelo do Dragao (Brazil).sms" size="262144" crc="01d67c0b" md5="d649ce52d05d88efdaca81d2ccc57d2d" sha1="e05953a3772452f821c3815231a25940a1d93803"/>
+		<url>https://retroachievements.org/game/10777/hashes</url>
+		<hash>d649ce52d05d88efdaca81d2ccc57d2d</hash>
+	</game>
+	
+	<game name="Wonder Boy in Monster World (Europe)">
+		<category>Retail</category>
+		<description>Wonder Boy in Monster World (Europe)</description>
+		<release name="Wonder Boy in Monster World (Europe)" region="Europe"/>
+		<rom name="Wonder Boy in Monster World (Europe).sms" size="524288" crc="7d7ce80b" md5="5837764c172c8c43c8c7b21f2144cf27" sha1="da0acdb1b9e806aa67a0216a675cb02ed24abf8b"/>
+		<url>https://retroachievements.org/game/10776/hashes</url>
+		<hash>5837764c172c8c43c8c7b21f2144cf27</hash>
+	</game>
+	
+	<game name="Ys - The Vanished Omens (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Ys - The Vanished Omens (USA, Europe, Brazil) (En)</description>
+		<release name="Ys - The Vanished Omens (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<rom name="Ys - The Vanished Omens (USA, Europe, Brazil) (En).sms" size="262144" crc="b33e2827" md5="77d2ff054429f7970134e67800539a78" sha1="e73e836c353543e9f48315410b0d72278899ff59"/>
+		<url>https://retroachievements.org/game/10717/hashes</url>
+		<hash>77d2ff054429f7970134e67800539a78</hash>
+	</game>
+	<game name="Ys - The Vanished Omens (USA, Europe) (FM Sound Restoration) (v1.2) (Hungdongs)" cloneof="Ys - The Vanished Omens (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Ys - The Vanished Omens (USA, Europe) (FM Sound Restoration) (v1.2) (Hungdongs)</description>
+		<release name="Ys - The Vanished Omens (USA, Europe) (FM Sound Restoration) (v1.2) (Hungdongs)" region="Europe"/>
+		<release name="Ys - The Vanished Omens (USA, Europe) (FM Sound Restoration) (v1.2) (Hungdongs)" region="USA"/>
+		<rom name="Ys - The Vanished Omens (USA, Europe) (FM Sound Restoration) (v1.2) (Hungdongs).sms" size="262144" crc="7ed5dca2" md5="dd5d01d4e1fe7d275f95ac95dc63b04f" sha1="c61f4302a6ca6ccd1e79c5174bcefaf0c94f6c41"/>
+		<url>https://retroachievements.org/game/10717/hashes</url>
+		<hash>dd5d01d4e1fe7d275f95ac95dc63b04f</hash>
+	</game>
+	
+	<game name="Zillion (USA, Europe) (Rev 1)">
+		<category>Retail</category>
+		<description>Zillion (USA, Europe) (Rev 1)</description>
+		<release name="Zillion (USA, Europe) (Rev 1)" region="Europe"/>
+		<release name="Zillion (USA, Europe) (Rev 1)" region="USA"/>
+		<rom name="Zillion (USA, Europe) (Rev 1).sms" size="131072" crc="5718762c" md5="d4bf9e7bcf9a48da53785d2ae7bc4270" sha1="3aab3e95dac0fa93612da20cf525dba4dc4ca6ba"/>
+		<url>https://retroachievements.org/game/10969/hashes</url>
+		<hash>d4bf9e7bcf9a48da53785d2ae7bc4270</hash>
+	</game>
+</datafile>

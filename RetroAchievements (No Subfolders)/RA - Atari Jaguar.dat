@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>RA - Atari Jaguar</name>
+		<description>Atari Jaguar</description>
+		<category>1G1R</category>
+		<version>20250529</version>
+		<date>29 May 2025</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
+		<homepage>https://retroachievements.org</homepage>
+		<url>https://retroachievements.org/system/17/games</url>
+		<titlecount>20</titlecount>
+		<hashcount>20</hashcount>
+	</header>
+	<game name="OSMOZYS (World) (Demo) (Aftermarket) (Unl) (Homebrew)">
+		<category>Homebrew</category>
+		<description>OSMOZYS (World) (Demo) (Aftermarket) (Unl) (Homebrew)</description>
+		<rom name="OSMOZYS (World) (Demo) (Aftermarket) (Unl) (Homebrew).j64" size="2097152" crc="3463527f" md5="985bd1236c3c416381240fb537e86536" sha1="d9626311fe481b1bdb22de9b750e122061412a20"/>
+		<url>https://retroachievements.org/game/20427/hashes</url>
+		<hash>985BD1236C3C416381240FB537E86536</hash>
+	</game>
+	
+	<game name="Alice's Mom's Rescue (World) (En,Fr,De,Es,It) (Aftermarket) (Unl) (Homebrew)">
+		<category>Homebrew</category>
+		<description>Alice's Mom's Rescue (World) (En,Fr,De,Es,It) (Aftermarket) (Unl) (Homebrew)</description>
+		<rom name="Alice's Mom's Rescue (World) (En,Fr,De,Es,It) (Aftermarket) (Unl) (Homebrew).j64" size="4194304" crc="d47bb973" md5="4d18fba4b15fda9e5ed96f4f18427a2d" sha1="e09c3447e61791f514ffddec1cd47d1fcb7f1fa8"/>
+		<url>https://retroachievements.org/game/24630/hashes</url>
+		<hash>4D18FBA4B15FDA9E5ED96F4F18427A2D</hash>
+	</game>
+	
+	<game name="Black Out! (World) (Aftermarket) (Unl) (Homebrew)">
+		<category>Homebrew</category>
+		<description>Black Out! (World) (Aftermarket) (Unl) (Homebrew)</description>
+		<rom name="Black Out! (World) (Aftermarket) (Unl) (Homebrew).j64" size="1963132" crc="2e793832" md5="f3f81e5c5ab19410d683d11d1cbb85f2" sha1="318fc3e305449535ff7a3cffe2445ed47c1e3ac3"/>
+		<url>https://retroachievements.org/game/20634/hashes</url>
+		<hash>F3F81E5C5AB19410D683D11D1CBB85F2</hash>
+	</game>
+	
+	<game name="Downfall (World) (Aftermarket) (Unl) (Homebrew)">
+		<category>Homebrew</category>
+		<description>Downfall (World) (Aftermarket) (Unl) (Homebrew)</description>
+		<rom name="Downfall (World) (Aftermarket) (Unl) (Homebrew).j64" size="2097152" crc="acfceabd" md5="4206ec6abeee07b9525fdda9925f3e55" sha1="8939ba84cf27e7c4bc659f6d61c07c5b03ccdc9d"/>
+		<url>https://retroachievements.org/game/22522/hashes</url>
+		<hash>4206EC6ABEEE07B9525FDDA9925F3E55</hash>
+	</game>
+	
+	<game name="Frog Feast (World) (Aftermarket) (Unl) (Homebrew)">
+    	<category>Homebrew</category>
+		<description>Frog Feast (World) (Aftermarket) (Unl) (Homebrew)</description>
+    	<rom name="Frog Feast (World) (Aftermarket) (Unl) (Homebrew).j64" size="1048576" crc="6038e95f" md5="54af14494cb3b9d584adcbd2d1a5216e" sha1="5b2295907f6fdadf5f44b1e392dcd6f5471fd095"/>
+    	<url>https://retroachievements.org/game/16892/hashes</url>
+		<hash>54AF14494CB3B9D584ADCBD2D1A5216E</hash>
+	</game>
+	
+	<game name="Tiny Toon Adventures (USA) (Proto)">
+    	<category>Prototype</category>
+		<description>Tiny Toon Adventures (USA) (Proto)</description>
+    	<rom name="Tiny Toon Adventures (USA) (Proto).j64" size="2097152" crc="f4acbb04" md5="322e89a674a188f8fddd313d6fe7bf80" sha1="841ce8ae1b71955d9b8df3b80da11fd40308ef5f"/>
+    	<url>https://retroachievements.org/game/16912/hashes</url>
+		<hash>322E89A674A188F8FDDD313D6FE7BF80</hash>
+	</game>
+	
+	<game name="Alien vs Predator (World)">
+		<category>Retail</category>
+		<description>Alien vs Predator (World)</description>
+		<rom name="Alien vs Predator (World).j64" size="4194304" crc="dc187f82" md5="96bc77cfd1b2df85b5e6ae05594e74b0" sha1="fd8c89250ebc1e403838b2e589d1f69e3fe2fe02"/>
+		<url>https://retroachievements.org/game/5221/hashes</url>
+		<hash>96bc77cfd1b2df85b5e6ae05594e74b0</hash>
+	</game>
+	
+	<game name="Breakout 2000 (USA, Europe)">
+		<category>Retail</category>
+		<description>Breakout 2000 (USA, Europe)</description>
+		<rom name="Breakout 2000 (USA, Europe).j64" size="2097152" crc="b5604d40" md5="73a03ac854e2e87ee7ca1c42ef64a301" sha1="fe4c35c24be8df92f867b4fb42eb75a3fcc875e8"/>
+		<url>https://retroachievements.org/game/7904/hashes</url>
+		<hash>73A03AC854E2E87EE7CA1C42EF64A301</hash>
+	</game>
+	
+	<game name="Bubsy in Fractured Furry Tales (World)">
+		<category>Retail</category>
+		<description>Bubsy in Fractured Furry Tales (World)</description>
+		<rom name="Bubsy in Fractured Furry Tales (World).j64" size="2097152" crc="2e17d5da" md5="c3ad2c75c5339125661845720da3895d" sha1="752d6e1ed185f9db49230f42319a573a44e32397"/>
+		<url>https://retroachievements.org/game/16880/hashes</url>
+		<hash>C3AD2C75C5339125661845720DA3895D</hash>
+	</game>
+	
+	<game name="Doom (World)">
+		<category>Retail</category>
+		<description>Doom (World)</description>
+		<rom name="Doom (World).j64" size="4194304" crc="5e2cdbc0" md5="3a5878ea3f391174becc37b037318804" sha1="20ddf412e42a50d526cbbb6411bf0ec4516db283"/>
+		<url>https://retroachievements.org/game/16675/hashes</url>
+		<hash>3A5878EA3F391174BECC37B037318804</hash>
+	</game>
+	
+	<game name="Flip Out! (World) (Fix)">
+		<category>Retail</category>
+		<description>Flip Out! (World) (Fix)</description>
+		<rom name="Flip Out! (World) (Fix).j64" size="4194304" crc="fae31dd0" md5="c43b914dde64b514e137852f56b415b1" sha1="61d4db841c090ae3104eb20b6087160ff80e7a12"/>
+		<url>https://retroachievements.org/game/19558/hashes</url>
+		<hash>C43B914DDE64B514E137852F56B415B1</hash>
+	</game>
+	
+	<game name="Fever Pitch Soccer (World) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Fever Pitch Soccer (World) (En,Fr,De,Es,It)</description>
+		<rom name="Fever Pitch Soccer (World) (En,Fr,De,Es,It).j64" size="2097152" crc="3615af6a" md5="86c5cb8ac559b4f3a1e9aa883b06f98c" sha1="5be3da69a64b779d064d139968fadbe1c475c715"/>
+		<url>https://retroachievements.org/game/16888/hashes</url>
+		<hash>86c5cb8ac559b4f3a1e9aa883b06f98c</hash>
+	</game>
+	
+	<game name="Kasumi Ninja (World)">
+		<category>Retail</category>
+		<description>Kasumi Ninja (World)</description>
+		<rom name="Kasumi Ninja (World).rom" size="4186112" crc="38cc27d8" md5="079b8059f4fc99a0e7a4c929c13f0f00" sha1="989d6170cd4e7f7d2cbf097e0f531063c6d511a6"/>
+		<url>https://retroachievements.org/game/8150/hashes</url>
+		<hash>079B8059F4FC99A0E7A4C929C13F0F00</hash>
+	</game>
+	
+	<game name="Pinball Fantasies (World)">
+		<category>Retail</category>
+		<description>Pinball Fantasies (World)</description>
+		<rom name="Pinball Fantasies (World).j64" size="2097152" crc="5cff14ab" md5="94583ce1270f05f13b32a9ff0e8909db" sha1="4733cf2ede2713467f2a80b052ab94edf6dfe534"/>
+		<url>https://retroachievements.org/game/16678/hashes</url>
+		<hash>94583CE1270F05F13B32A9FF0E8909DB</hash>
+	</game>
+	
+	<game name="Raiden (World) (Rev A)">
+		<category>Retail</category>
+		<description>Raiden (World) (Rev A)</description>
+		<rom name="Raiden (World) (Rev A).j64" size="2097152" crc="31812799" md5="126e966e6eab39f72a24a16cc75e5c7f" sha1="50ccf7043a702531a0e9ef86d629d5ede5255c13"/>
+		<url>https://retroachievements.org/game/16904/hashes</url>
+		<hash>126E966E6EAB39F72A24A16CC75E5C7F</hash>
+	</game>
+	
+	<game name="Rayman (World)">
+		<category>Retail</category>
+		<description>Rayman (World)</description>
+		<rom name="Rayman (World).j64" size="4194304" crc="a9f8a00e" md5="c0ebfa0c65145bc59ca3bad632d85a39" sha1="d22912992fd966365a1221886e0fc5303ef04a59"/>
+		<url>https://retroachievements.org/game/12684/hashes</url>
+		<hash>C0EBFA0C65145BC59CA3BAD632D85A39</hash>
+	</game>
+	
+	<game name="Tempest 2000 (World)">
+		<category>Retail</category>
+		<description>Tempest 2000 (World)</description>
+		<rom name="Tempest 2000 (World).j64" size="2097152" crc="6b2b95ad" md5="602bc9953d3737b1ba52b2a0d9932f7c" sha1="3828d2f953224d06b5fe7ab3644d6a75fdfe79e3"/>
+		<url>https://retroachievements.org/game/834/hashes</url>
+		<hash>602BC9953D3737B1BA52B2A0D9932F7C</hash>
+	</game>
+	
+	<game name="Ultra Vortek (World)">
+		<category>Retail</category>
+		<description>Ultra Vortek (World)</description>
+		<rom name="Ultra Vortek (World).j64" size="4194304" crc="0f6a1c2c" md5="5f2115d0bdcae4f3aa8e832f23f4ebdd" sha1="311e41ebba1b78f514bf16789ddb7e7e8dfb47ff"/>
+		<url>https://retroachievements.org/game/16916/hashes</url>
+		<hash>5F2115D0BDCAE4F3AA8E832F23F4EBDD</hash>
+	</game>
+	
+	<game name="Zero 5 (World) (Aftermarket) (Unl)">
+		<category>Retail</category>
+		<description>Zero 5 (World) (Aftermarket) (Unl)</description>
+		<rom name="Zero 5 (World) (Aftermarket) (Unl).j64" size="2097152" crc="61c7eec0" md5="08b31fae8cbd44ac65d44baf1a0545a2" sha1="b68de2cd49cb70e92f2415837edfa7ab46770a78"/>
+		<url>https://retroachievements.org/game/16922/hashes</url>
+		<hash>08B31FAE8CBD44AC65D44BAF1A0545A2</hash>
+	</game>
+	
+	<game name="Zool 2 (World)">
+		<category>Retail</category>
+		<description>Zool 2 (World)</description>
+		<rom name="Zool 2 (World).j64" size="2097152" crc="8975f48b" md5="780c0dd04407145b1c436adea406b5ac" sha1="32ff3811f8f6df8a2bb56165c62227a3a480e55c"/>
+		<url>https://retroachievements.org/game/16923/hashes</url>
+		<hash>780C0DD04407145B1C436ADEA406B5AC</hash>
+	</game>
+</datafile>
