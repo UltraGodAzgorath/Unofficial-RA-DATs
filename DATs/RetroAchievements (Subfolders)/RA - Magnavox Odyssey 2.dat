@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>RA - Magnavox Odyssey 2</name>
+		<description>Magnavox Odyssey 2</description>
+		<category>1G1R</category>
+		<version>20250522</version>
+		<date>22 May 2025</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
+		<homepage>https://retroachievements.org</homepage>
+		<url>https://retroachievements.org/system/23/games</url>
+		<titlecount>28</titlecount>
+		<hashcount>35</hashcount>
+	</header>
+	<game name="Boobs (Homebrew) (v1.3a) (Chris Read)">
+		<category>Homebrew</category>
+		<description>Boobs (Homebrew) (v1.3a) (Chris Read)</description>
+		<rom name="Boobs (Homebrew) (v1.3a) (Chris Read).bin" size="2048" crc="9847f5d0" md5="2ff854e7bdaf79ebacc70610d7129a63" sha1="0d6b44e2445dbb3bf70c4e05f222822845c29762"/>
+		<url>https://retroachievements.org/game/20059/hashes</url>
+		<hash>2FF854E7BDAF79EBACC70610D7129A63</hash>
+	</game>
+	
+	<game name="Happy Bird (Homebrew) (Rafael Cardoso-2600 Connection)">
+		<category>Homebrew</category>
+		<description>Happy Bird (Homebrew) (Rafael Cardoso-2600 Connection)</description>
+		<rom name="Happy Bird (Homebrew) (Rafael Cardoso-2600 Connection).bin" size="4096" crc="28e6901b" md5="449661989f35b981901fef21330e005c" sha1="2b34ef0e1a8c0371f00a33d6950e0807f3cb886e"/>
+		<url>https://retroachievements.org/game/20039/hashes</url>
+		<hash>449661989F35B981901FEF21330E005C</hash>
+	</game>
+	
+	<game name="Loony Balloon (Europe) (Proto)">
+		<category>Prototype</category>
+		<description>Loony Balloon (Europe) (Proto)</description>
+		<rom name="Loony Balloon (Europe) (Proto).bin" size="4096" crc="ca23f40c" md5="f7a034b2fca71a6d1a4ebba0b7af5870" sha1="3cb324b047cbac8ec4381150b1c2aee98573841b"/>
+		<url>https://retroachievements.org/game/22662/hashes</url>
+		<hash>F7A034B2FCA71A6D1A4EBBA0B7AF5870</hash>
+	</game>
+	
+	<game name="Pinball (USA) (Proto)">
+		<category>Prototype</category>
+		<description>Pinball (USA) (Proto)</description>
+		<rom name="Pinball (USA) (Proto).bin" size="2048" crc="6ef2471a" md5="b93f4ce768cf934774fdd895eab59323" sha1="350a9e3f95dbf2d5e7aa1ddbd5e531300ddeeee4"/>
+		<url>https://retroachievements.org/game/18533/hashes</url>
+		<hash>B93F4CE768CF934774FDD895EAB59323</hash>
+	</game>
+	
+	<game name="Spider-Man (Europe) (Proto)">
+		<category>Prototype</category>
+		<description>Spider-Man (Europe) (Proto)</description>
+		<rom name="Spider-Man (Europe) (Proto).bin" size="8192" crc="35ace4e8" md5="263b77aa79980bd0cb53a0625a2637eb" sha1="4b1d675cb1fbf72ed35681e2b2e6e99fed7154cd"/>
+		<url>https://retroachievements.org/game/18460/hashes</url>
+		<hash>263B77AA79980BD0CB53A0625A2637EB</hash>
+	</game>
+	
+	<game name="Alien Invaders - Plus (USA, Europe)">
+		<category>Retail</category>
+		<description>Alien Invaders - Plus (USA, Europe)</description>
+		<rom name="Alien Invaders - Plus (USA, Europe).bin" size="2048" crc="71ae8533" md5="4d6cfb7da66c8d9327b3ccdce9852509" sha1="9ba0737fdee2918375725bb5230d075a2f847159"/>
+		<url>https://retroachievements.org/game/16957/hashes</url>
+		<hash>4D6CFB7DA66C8D9327B3CCDCE9852509</hash>
+	</game>
+	
+	<game name="Attack of the Timelord (USA)">
+		<category>Retail</category>
+		<description>Attack of the Timelord (USA)</description>
+		<rom name="Attack of the Timelord (USA).bin" size="4096" crc="fc5a7f08" md5="4ac71dcc25881bf4d34d0a3c385568c8" sha1="c63ad4e9aaa903ded9fcf185caf24e76f8aaf3a9"/>
+		<url>https://retroachievements.org/game/16960/hashes</url>
+		<hash>4AC71DCC25881BF4D34D0A3C385568C8</hash>
+	</game>
+	
+	<game name="Mur Magique, Le (France)">
+		<category>Retail</category>
+		<description>Mur Magique, Le (France)</description>
+		<rom name="Mur Magique, Le (France).bin" size="2048" crc="d38153f6" md5="02cf18672c21e2d0e68d331507be9de1" sha1="ff0ebe9efc275011a0534fd98ca1f4112dae3dab"/>
+		<url>https://retroachievements.org/game/22631/hashes</url>
+		<hash>02CF18672C21E2D0E68D331507BE9DE1</hash>
+	</game>
+	<game name="Blockout + Breakdown (USA, Europe)">
+		<category>Retail</category>
+		<description>Blockout + Breakdown (USA, Europe)</description>
+		<rom name="Blockout + Breakdown (USA, Europe).bin" size="2048" crc="fb83171e" md5="5f36eba1efe84cd06012c0b8bf4c05cb" sha1="00ef6868724a6826534da620f34dad207fcb3800"/>
+		<url>https://retroachievements.org/game/22631/hashes</url>
+		<hash>5F36EBA1EFE84CD06012C0B8BF4C05CB</hash>
+	</game>
+	
+	<game name="Bowling + Basketball (USA, Europe)">
+		<category>Retail</category>
+		<description>Bowling + Basketball (USA, Europe)</description>
+		<rom name="Bowling + Basketball (USA, Europe).bin" size="2048" crc="084ee035" md5="16652634e75560dc830a0c38d7fe1711" sha1="2630c304b6beb0f8021578277be68e837202895d"/>
+		<url>https://retroachievements.org/game/22633/hashes</url>
+		<hash>16652634E75560DC830A0C38D7FE1711</hash>
+	</game>
+	
+	<game name="Computer Golf (USA)">
+		<category>Retail</category>
+		<description>Computer Golf (USA)</description>
+		<rom name="Computer Golf (USA).bin" size="2048" crc="0f870806" md5="8b1b91361f92725b7587ed41fac6d3e0" sha1="c8736250ebf376543256d85cf853e825475e0af6"/>
+		<url>https://retroachievements.org/game/22643/hashes</url>
+		<hash>8B1B91361F92725B7587ED41FAC6D3E0</hash>
+	</game>
+	<game name="Golf (Europe)">
+		<category>Retail</category>
+		<description>Golf (Europe)</description>
+		<rom name="Golf (Europe).bin" size="2048" crc="14b6cc76" md5="a251791690a6f2efdd26f924dcf45928" sha1="c2bf8d92b8827e3071d6ce4c43e34b21afc54f8d"/>
+		<url>https://retroachievements.org/game/22643/hashes</url>
+		<hash>A251791690A6F2EFDD26F924DCF45928</hash>
+	</game>
+	
+	<game name="Computer Intro (USA)">
+		<category>Retail</category>
+		<description>Computer Intro (USA)</description>
+		<rom name="Computer Intro (USA).bin" size="2048" crc="95efa98b" md5="1e7035584d19aaa53eb3795d92fa6215" sha1="f93c448243db428a4c9e2354596844ed07bb7530"/>
+		<url>https://retroachievements.org/game/22644/hashes</url>
+		<hash>1E7035584D19AAA53EB3795D92FA6215</hash>
+	</game>
+	
+	<game name="Freedom Fighters (USA, Europe)">
+		<category>Retail</category>
+		<description>Freedom Fighters (USA, Europe)</description>
+		<rom name="Freedom Fighters (USA, Europe).bin" size="4096" crc="54736b74" md5="d85945b5e8c37e4298bd962d87728580" sha1="ad11f3fad2dfd3716445fef3b7d83d479edee0ed"/>
+		<url>https://retroachievements.org/game/22648/hashes</url>
+		<hash>D85945B5E8C37E4298BD962D87728580</hash>
+	</game>
+	
+	<game name="Frogger (Europe)">
+		<category>Retail</category>
+		<description>Frogger (Europe)</description>
+		<rom name="Frogger (Europe).bin" size="8192" crc="d0bc4ee6" md5="88fb5e81bf58bc1195b31906ccebeff8" sha1="0beda7b36259b3be84d34206a77a35cd3f04892f"/>
+		<url>https://retroachievements.org/game/16964/hashes</url>
+		<hash>88fb5e81bf58bc1195b31906ccebeff8</hash>
+	</game>
+	<game name="Frogger (Brazil) (En)">
+		<category>Retail</category>
+		<description>Frogger (Brazil) (En)</description>
+		<rom name="Frogger (Brazil) (En).bin" size="8192" crc="a57d84f3" md5="893cec7b572160e81eab8a6dad37f7d3" sha1="bedb714c88b9aa7a02da9ebcde12446ec8350d18"/>
+		<url>https://retroachievements.org/game/16964/hashes</url>
+		<hash>893cec7b572160e81eab8a6dad37f7d3</hash>
+	</game>
+	
+	<game name="K.C.'s Krazy Chase (USA, Europe)">
+		<category>Retail</category>
+		<description>K.C.'s Krazy Chase (USA, Europe)</description>
+		<rom name="K.C.'s Krazy Chase (USA, Europe).bin" size="4096" crc="a6909a8b" md5="27eaddeda2f30ad4a5310c6e9bdd9dc2" sha1="3391e48c0048a2f588d8238bb202e2ec346a6ad4"/>
+		<url>https://retroachievements.org/game/17722/hashes</url>
+		<hash>27EADDEDA2F30AD4A5310C6E9BDD9DC2</hash>
+	</game>
+	
+	<game name="Killer Bees (USA)">
+		<category>Retail</category>
+		<description>Killer Bees (USA)</description>
+		<rom name="Killer Bees (USA).bin" size="8192" crc="b096654e" md5="5e7a037e1aa1f59ad2be80452f81cc38" sha1="b446a2730aefafe71394dbb9850d43c5cf01d367"/>
+		<url>https://retroachievements.org/game/17525/hashes</url>
+		<hash>5E7A037E1AA1F59AD2BE80452F81CC38</hash>
+	</game>
+	
+	<game name="Blackjack (France)">
+		<category>Retail</category>
+		<description>Blackjack (France)</description>
+		<rom name="Blackjack (France).bin" size="2048" crc="6381e402" md5="3430691fb9c0367505634909be0297be" sha1="9ec331ce8e50ef60de93e615c18327f08b4a24fb"/>
+		<url>https://retroachievements.org/game/22628/hashes</url>
+		<hash>3430691FB9C0367505634909BE0297BE</hash>
+	</game>
+	<game name="Las Vegas Blackjack (USA, Europe)">
+		<category>Retail</category>
+		<description>Las Vegas Blackjack (USA, Europe)</description>
+		<rom name="Las Vegas Blackjack (USA, Europe).bin" size="2048" crc="6f66b1f7" md5="972d38914e5aa8e80460b7d32c7c94b5" sha1="3e10fc687b1d07612305f680f24590f99842e62b"/>
+		<url>https://retroachievements.org/game/22628/hashes</url>
+		<hash>972D38914E5AA8E80460B7D32C7C94B5</hash>
+	</game>
+	
+	<game name="Matchmaker + Logix + Buzzword (USA)">
+		<category>Retail</category>
+		<description>Matchmaker + Logix + Buzzword (USA)</description>
+		<rom name="Matchmaker + Logix + Buzzword (USA).bin" size="2048" crc="bbf276a0" md5="73a584ca53fad9289ca01a58eccc52b5" sha1="908387d2446f4c62019017fe262b412dfa040d10"/>
+		<url>https://retroachievements.org/game/22664/hashes</url>
+		<hash>73a584ca53fad9289ca01a58eccc52b5</hash>
+	</game>
+	
+	<game name="Math-A-Magic + Echo (USA, Europe)">
+		<category>Retail</category>
+		<description>Math-A-Magic + Echo (USA, Europe)</description>
+		<rom name="Math-A-Magic + Echo (USA, Europe).bin" size="2048" crc="dc5afaa2" md5="9aa512409f1e3d10bfe2c2f2924c7a31" sha1="4dac55de1afadc1af2ac9166d7d47c462a8e797a"/>
+		<url>https://retroachievements.org/game/17314/hashes</url>
+		<hash>9AA512409F1E3D10BFE2C2F2924C7A31</hash>
+	</game>
+	
+	<game name="Nimble Numbers Ned (USA)">
+		<category>Retail</category>
+		<description>Nimble Numbers Ned (USA)</description>
+		<rom name="Nimble Numbers Ned (USA).bin" size="4096" crc="cf2f8e7a" md5="98b2ed525aa9c060e8be6c6210d16e41" sha1="01dd021a1bcdafb58cb2bcca051934f05e978c53"/>
+		<url>https://retroachievements.org/game/22670/hashes</url>
+		<hash>98b2ed525aa9c060e8be6c6210d16e41</hash>
+	</game>
+	
+	<game name="Pick Axe Pete (USA, Europe)">
+		<category>Retail</category>
+		<description>Pick Axe Pete (USA, Europe)</description>
+		<rom name="Pick Axe Pete (USA, Europe).bin" size="4096" crc="d62814a3" md5="ffa665173861c544219565e000f79173" sha1="b979ed0c2b8947f764786fcf4444463b3d3ae87d"/>
+		<url>https://retroachievements.org/game/18377/hashes</url>
+		<hash>FFA665173861C544219565E000F79173</hash>
+	</game>
+	
+	<game name="Pocket Billiards (USA, Europe)">
+		<category>Retail</category>
+		<description>Pocket Billiards (USA, Europe)</description>
+		<rom name="Pocket Billiards (USA, Europe).bin" size="2048" crc="24d53e2c" md5="3f0223dd8609fe320264e45eeeefe367" sha1="8abd1057202ebac12acf3822ed4d965bba02b7de"/>
+		<url>https://retroachievements.org/game/22627/hashes</url>
+		<hash>3F0223DD8609FE320264E45EEEEFE367</hash>
+	</game>
+	<game name="Billiard Americain (France)">
+		<category>Retail</category>
+		<description>Billiard Americain (France)</description>
+		<rom name="Billiard Americain (France).bin" size="2048" crc="a674ea27" md5="7bf1a49928971514a73e674ff0356e02" sha1="283ae5fa1d6e89a5ac921c7f2e21a89a67dd138c"/>
+		<url>https://retroachievements.org/game/22627/hashes</url>
+		<hash>7BF1A49928971514A73E674FF0356E02</hash>
+	</game>
+	
+	<game name="Quest for the Rings (USA, Europe)">
+		<category>Retail</category>
+		<description>Quest for the Rings (USA, Europe)</description>
+		<rom name="Quest for the Rings (USA, Europe).bin" size="4096" crc="9451be1e" md5="0b105a40c8ff6ae7728006cf80c4ddb7" sha1="32759c8d502cd8b959da5f03351db7cd46c8f96a"/>
+		<url>https://retroachievements.org/game/16564/hashes</url>
+		<hash>0B105A40C8FF6AE7728006CF80C4DDB7</hash>
+	</game>
+	<game name="La Quete des Anneaux (France)">
+		<category>Retail</category>
+		<description>La Quete des Anneaux (France)</description>
+		<rom name="La Quete des Anneaux (France).bin" size="4096" crc="a21da732" md5="331b299e3b041884bd59c3bad2d3f507" sha1="04543bdbea8112f7cc55caef5da9445d08d65e46"/>
+		<url>https://retroachievements.org/game/16564/hashes</url>
+		<hash>331B299E3B041884BD59C3BAD2D3F507</hash>
+	</game>
+	
+	<game name="Showdown in 2100 A.D. (USA)">
+		<category>Retail</category>
+		<description>Showdown in 2100 A.D. (USA)</description>
+		<rom name="Showdown in 2100 A.D. (USA).bin" size="2048" crc="9487c920" md5="add9a7cfac93608db1845e49f3594964" sha1="7163c3e0d0e926287df670bfa5d5d5c42b5b3cf6"/>
+		<url>https://retroachievements.org/game/16965/hashes</url>
+		<hash>ADD9A7CFAC93608DB1845E49F3594964</hash>
+	</game>
+	
+	<game name="Stone Sling (Europe)">
+		<category>Retail</category>
+		<description>Stone Sling (Europe)</description>
+		<rom name="Stone Sling (Europe).bin" size="2048" crc="44d1a8a5" md5="a7bfd5fa3233a3df36742a368736727d" sha1="50763429d12206d7bf9fad6a6bd6076a34d54b51"/>
+		<url>https://retroachievements.org/game/22679/hashes</url>
+		<hash>A7BFD5FA3233A3DF36742A368736727D</hash>
+	</game>
+	<game name="Smithereens (USA)">
+		<category>Retail</category>
+		<description>Smithereens (USA)</description>
+		<rom name="Smithereens (USA).bin" size="4096" crc="67069924" md5="ed77beeb30711f8ee03a23a4577f403a" sha1="fc798f3cf770e8bf5f9a4064b6a4ca66e5a4eb71"/>
+		<url>https://retroachievements.org/game/22679/hashes</url>
+		<hash>ED77BEEB30711F8EE03A23A4577F403A</hash>
+	</game>
+	
+	<game name="Speedway + Spin-out + Crypto-logic (USA, Europe)">
+		<category>Retail</category>
+		<description>Speedway + Spin-out + Crypto-logic (USA, Europe)</description>
+		<rom name="Speedway + Spin-out + Crypto-logic (USA, Europe).bin" size="2048" crc="4eda4917" md5="bc66ab63fb5ce04a79aef9e8fa445225" sha1="29d078f587be2afa4612800c64a5af72705e5681"/>
+		<url>https://retroachievements.org/game/22680/hashes</url>
+		<hash>BC66AB63FB5CE04A79AEF9E8FA445225</hash>
+	</game>
+	
+	<game name="Take the Money and Run (USA, Europe)">
+		<category>Retail</category>
+		<description>Take the Money and Run (USA, Europe)</description>
+		<rom name="Take the Money and Run (USA, Europe).bin" size="2048" crc="11ff50ad" md5="b2d810dcb97e38192a6dd3d213dbce10" sha1="8c181f4835d53a358ecb8e4385e087ee942b4b4f"/>
+		<url>https://retroachievements.org/game/22683/hashes</url>
+		<hash>B2D810DCB97E38192A6DD3D213DBCE10</hash>
+	</game>
+	
+	<game name="Thunderball (USA, Europe)">
+		<category>Retail</category>
+		<description>Thunderball (USA, Europe)</description>
+		<rom name="Thunderball (USA, Europe).bin" size="2048" crc="2c9d1715" md5="0602fd990f5e43bbab23004286319b60" sha1="d0070e12d6b0f406dab6e1fa550ab01509c9362e"/>
+		<url>https://retroachievements.org/game/17523/hashes</url>
+		<hash>0602FD990F5E43BBAB23004286319B60</hash>
+	</game>
+	
+	<game name="Turtles (USA)">
+		<category>Retail</category>
+		<description>Turtles (USA)</description>
+		<rom name="Turtles (USA).bin" size="8192" crc="9e42e766" md5="07737e70c041742dbcd8c52efda4edab" sha1="ee456305397ecbd54fffa0bb7a894f53976d2a7c"/>
+		<url>https://retroachievements.org/game/16607/hashes</url>
+		<hash>07737E70C041742DBCD8C52EFDA4EDAB</hash>
+	</game>
+</datafile>

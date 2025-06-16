@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>RA - Emerson Arcadia 2001</name>
+		<description>Emerson Arcadia 2001</description>
+		<category>1G1R</category>
+		<version>20250529</version>
+		<date>29 May 2025</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
+		<homepage>https://retroachievements.org</homepage>
+		<url>https://retroachievements.org/system/73/games</url>
+		<titlecount>29</titlecount>
+		<hashcount>31</hashcount>
+	</header>
+	<game name="JTron (World) (2003) (Amigan Software) (Homebrew)">
+		<category>Homebrew</category>
+		<description>JTron (World) (2003) (Amigan Software) (Homebrew)</description>
+		<release name="JTron (World) (2003) (Amigan Software) (Homebrew)" region="World"/>
+		<rom name="JTron (World) (2003) (Amigan Software) (Homebrew).bin" size="2048" crc="a768c764" md5="906040af349e793bae5b062f3074e71e" sha1="9f6ace424cfbba87eaf06c165fa561099f8d8634"/>
+		<url>https://retroachievements.org/game/24924/hashes</url>
+		<hash>906040AF349E793BAE5B062F3074E71E</hash>
+	</game>
+	
+	<game name="Tetris (Austria) (2003) (Peter Trauner) (Homebrew)">
+		<category>Homebrew</category>
+		<description>Tetris (Austria) (2003) (Peter Trauner) (Homebrew)</description>
+		<release name="Tetris (Austria) (2003) (Peter Trauner) (Homebrew)" region="World"/>
+		<rom name="Tetris (Austria) (2003) (Peter Trauner) (Homebrew).bin" size="4096" crc="296c8465" md5="69cf3728f7db96c311bc8b3b8917baff" sha1="ee910ce4753986989ac44fc9ead97920f14d1571"/>
+		<url>https://retroachievements.org/game/24691/hashes</url>
+		<hash>69CF3728F7DB96C311BC8B3B8917BAFF</hash>
+	</game>
+	
+	<game name="Autorace (Europe)">
+		<category>Retail</category>
+		<description>Autorace (Europe)</description>
+		<release name="Autorace (Europe)" region="Europe"/>
+		<rom name="Autorace (Europe).bin" size="4096" crc="99ac48ca" md5="2cec32c8e2be01b2b8dd193a915a84ec" sha1="6182219b2b8c8747f67d627a056ac947754f0978"/>
+		<url>https://retroachievements.org/game/21577/hashes</url>
+		<hash>2CEC32C8E2BE01B2B8DD193A915A84EC</hash>
+	</game>
+	
+	<game name="Blackjack and Poker (Europe)">
+		<category>Retail</category>
+		<description>Blackjack and Poker (Europe)</description>
+		<release name="Blackjack and Poker (Europe)" region="Europe"/>
+		<rom name="Blackjack and Poker (Europe).bin" size="4096" crc="0930ce04" md5="7391a9bd972e5eeaaeeeca76879abda4" sha1="a8afadfcaea847c2e998005652ace36803d6601b"/>
+		<url>https://retroachievements.org/game/21580/hashes</url>
+		<hash>7391A9BD972E5EEAAEEECA76879ABDA4</hash>
+	</game>
+	
+	<game name="Brain Quiz (USA, Europe)">
+		<category>Retail</category>
+		<description>Brain Quiz (USA, Europe)</description>
+		<release name="Brain Quiz (USA, Europe)" region="Europe"/>
+		<release name="Brain Quiz (USA, Europe)" region="USA"/>
+		<rom name="Brain Quiz (USA, Europe).bin" size="4096" crc="ca58b3f8" md5="e9f1f348ebd4fa5400f895a7a15637c6" sha1="e9560e064043946b6bc0a88087d4164adf62e773"/>
+		<url>https://retroachievements.org/game/21582/hashes</url>
+		<hash>E9F1F348EBD4FA5400F895A7A15637C6</hash>
+	</game>
+	
+	<game name="Breakaway (USA, Europe)">
+		<category>Retail</category>
+		<description>Breakaway (USA, Europe)</description>
+		<release name="Breakaway (USA, Europe)" region="Europe"/>
+		<release name="Breakaway (USA, Europe)" region="USA"/>
+		<rom name="Breakaway (USA, Europe).bin" size="4096" crc="33c348c1" md5="4fa044f9c77f5f442e0af786f8f502f6" sha1="396fe12bd34cc7cd555ad3b9b66f20e56e862385"/>
+		<url>https://retroachievements.org/game/21583/hashes</url>
+		<hash>4FA044F9C77F5F442E0AF786F8F502F6</hash>
+	</game>
+	
+	<game name="Cat Trax (USA, Europe)">
+		<category>Retail</category>
+		<description>Cat Trax (USA, Europe)</description>
+		<release name="Cat Trax (USA, Europe)" region="Europe"/>
+		<release name="Cat Trax (USA, Europe)" region="USA"/>
+		<rom name="Cat Trax (USA, Europe).bin" size="4096" crc="fd2cf496" md5="d7e9ec7f57d9951dd5b4456f1929f0d0" sha1="b0982ed95d92a4d97a5451acbee36af10ff99a3f"/>
+		<url>https://retroachievements.org/game/21585/hashes</url>
+		<hash>D7E9EC7F57D9951DD5B4456F1929F0D0</hash>
+	</game>
+	
+	<game name="Crazy Climber (Europe)">
+		<category>Retail</category>
+		<description>Crazy Climber (Europe)</description>
+		<release name="Crazy Climber (Europe)" region="Europe"/>
+		<rom name="Crazy Climber (Europe).bin" size="4096" crc="76e773fa" md5="2b682f2e0b2545a0867f8e7bf0a6d919" sha1="0c6ce7577a121e7810ec54c5dd180a55dd0ace17"/>
+		<url>https://retroachievements.org/game/21588/hashes</url>
+		<hash>2B682F2E0B2545A0867F8E7BF0A6D919</hash>
+	</game>
+	
+	<game name="Doraemon (Japan) (1983) (Bandai)">
+		<category>Retail</category>
+		<description>Doraemon (Japan) (1983) (Bandai)</description>
+		<release name="Doraemon (Japan) (1983) (Bandai)" region="Japan"/>
+		<rom name="Doraemon (Japan) (1983) (Bandai).bin" size="8192" crc="62c45881" md5="2938509d9c2a2316b460b2a617581771" sha1="a16fda96d00c8b08bb362f2573a45939aa6be051"/>
+		<url>https://retroachievements.org/game/24686/hashes</url>
+		<hash>FBB02515F81F6E163E0AD74085CCD0E8</hash>
+	</game>
+	
+	<game name="Escape (USA, Europe)">
+		<category>Retail</category>
+		<description>Escape (USA, Europe)</description>
+		<release name="Escape (USA, Europe)" region="Europe"/>
+		<release name="Escape (USA, Europe)" region="USA"/>
+		<rom name="Escape (USA, Europe).bin" size="4096" crc="fc7eba76" md5="cac0be0920cce44838ca998b52b7f5ca" sha1="87f81511ea5b7a9671fb945cb22bb578bedb47c9"/>
+		<url>https://retroachievements.org/game/21591/hashes</url>
+		<hash>CAC0BE0920CCE44838CA998B52B7F5CA</hash>
+	</game>
+	
+	<game name="Funky Fish (Europe)">
+		<category>Retail</category>
+		<description>Funky Fish (Europe)</description>
+		<release name="Funky Fish (Europe)" region="Europe"/>
+		<rom name="Funky Fish (Europe).bin" size="8192" crc="77c19320" md5="668af35d78d4c4286ada370013a4fc54" sha1="e56be2ecd8284cd43a44620d56d6615766f45451"/>
+		<url>https://retroachievements.org/game/21592/hashes</url>
+		<hash>03103A22374C20E9FC642798AF14DA19</hash>
+	</game>
+	
+	<game name="Hobo (Europe)">
+		<category>Retail</category>
+		<description>Hobo (Europe)</description>
+		<release name="Hobo (Europe)" region="Europe"/>
+		<rom name="Hobo (Europe).bin" size="8192" crc="1cec4b21" md5="9640b53728b797b11f90c912a8ccadaf" sha1="cebb340cb0a50b2815dafc6df8f46d814015a49f"/>
+		<url>https://retroachievements.org/game/21595/hashes</url>
+		<hash>8F9E596C87BB930E8A6C9E11AD19F9DE</hash>
+	</game>
+	
+	<game name="Jump Bug (1982)(UA)(DE)" cloneof="Jump Bug (Europe)">
+		<category>Retail</category>
+		<description>Jump Bug (1982)(UA)(DE)</description>
+		<release name="Jump Bug (1982)(UA)(DE)" region="Germany"/>
+		<rom name="Jump Bug (1982)(UA)(DE).bin" size="8192" crc="dc0264b8" md5="6f2cfbf3c07d1b096f096fc8a763e500" sha1="bf3ccf7a54409f22ca4295b1df1c01bfbbe9f0a2"/>
+		<url>https://retroachievements.org/game/21597/hashes</url>
+		<hash>15DFAF2EBE12EED5BB7CA8166D75944A</hash>
+	</game>
+	<game name="Jump Bug (Europe)">
+		<category>Retail</category>
+		<description>Jump Bug (Europe)</description>
+		<release name="Jump Bug (Europe)" region="Europe"/>
+		<rom name="Jump Bug (Europe).bin" size="8192" crc="97060a54" md5="78574f28c2cb0d19f2656925fa048042" sha1="d0ace24fd1f3805e46b077e8a4770f922157c8c4"/>
+		<url>https://retroachievements.org/game/21597/hashes</url>
+		<hash>CB45418FB2F287D0AEC2F760E5835B70</hash>
+	</game>
+	
+	<game name="Jungler (USA, Europe)">
+		<category>Retail</category>
+		<description>Jungler (USA, Europe)</description>
+		<release name="Jungler (USA, Europe)" region="Europe"/>
+		<release name="Jungler (USA, Europe)" region="USA"/>
+		<rom name="Jungler (USA, Europe).bin" size="8192" crc="dfb5dd55" md5="bf10520aef366afdcf6c29e1c97afefe" sha1="8d6e32ab3cc872017c597e61c076330015411435"/>
+		<url>https://retroachievements.org/game/21598/hashes</url>
+		<hash>168093F68509335F26196F44694D7D44</hash>
+	</game>
+	
+	<game name="Missile War (USA, Europe)">
+		<category>Retail</category>
+		<description>Missile War (USA, Europe)</description>
+		<release name="Missile War (USA, Europe)" region="Europe"/>
+		<release name="Missile War (USA, Europe)" region="USA"/>
+		<rom name="Missile War (USA, Europe).bin" size="4096" crc="a615f068" md5="4a9404e44df9a747549f7af0b18df632" sha1="cc3e46adc8a3ed2cbfd5f9bbbf96f61f4e2ecebe"/>
+		<url>https://retroachievements.org/game/21599/hashes</url>
+		<hash>4A9404E44DF9A747549F7AF0B18DF632</hash>
+	</game>
+	
+	<game name="Mobile Soldier Gundam (1983)(Bandai)(JP)">
+		<category>Retail</category>
+		<description>Mobile Soldier Gundam (1983)(Bandai)(JP)</description>
+		<release name="Mobile Soldier Gundam (1983)(Bandai)(JP)" region="Japan"/>
+		<rom name="Mobile Soldier Gundam (1983)(Bandai)(JP).bin" size="8192" crc="1241f128" md5="eca02a18e0ff4222283ab16947fe6911" sha1="4b07a88b06008ddfc3676983e826e107caf3ba0f"/>
+		<url>https://retroachievements.org/game/24688/hashes</url>
+		<hash>8F368ED8A1B8F8272846A96878FF5C14</hash>
+	</game>
+	
+	<game name="Nibblemen (Europe)">
+		<category>Retail</category>
+		<description>Nibblemen (Europe)</description>
+		<release name="Nibblemen (Europe)" region="Europe"/>
+		<rom name="Nibblemen (Europe).bin" size="4096" crc="7832f7ad" md5="8439bf67c48282bcb5ad1894610eec86" sha1="a2f3d269e422e6ee89d58f001d39438704178e17"/>
+		<url>https://retroachievements.org/game/21601/hashes</url>
+		<hash>8439BF67C48282BCB5AD1894610EEC86</hash>
+	</game>
+	<game name="Super Gobbler (Europe)" cloneof="Nibblemen (Europe)">
+		<category>Retail</category>
+		<description>Super Gobbler (Europe)</description>
+		<rom name="Super Gobbler (Europe).bin" size="4096" crc="08d8b186" md5="8bb0dac6f843a021c323c73f2e9210fa" sha1="ca2efbcb1f1f580b7995aa47ab7da09fa4a1b9e2"/>
+		<url>https://retroachievements.org/game/21601/hashes</url>
+		<hash>8BB0DAC6F843A021C323C73F2E9210FA</hash>
+	</game>
+	
+	<game name="Pleiades (Europe)">
+		<category>Retail</category>
+		<description>Pleiades (Europe)</description>
+		<release name="Pleiades (Europe)" region="Europe"/>
+		<rom name="Pleiades (Europe).bin" size="8192" crc="4f19fd9b" md5="a9bc2c25fd1c4cd8024b2c69939252b0" sha1="bdb7ce3d4552c82be3cf8db43d5ad103f9d9cc91"/>
+		<url>https://retroachievements.org/game/21604/hashes</url>
+		<hash>760DF0E156FC41AEDB5DDC5B0FDAA96D</hash>
+	</game>
+	
+	<game name="R2D Tank (Europe)">
+		<category>Retail</category>
+		<description>R2D Tank (Europe)</description>
+		<release name="R2D Tank (Europe)" region="Europe"/>
+		<rom name="R2D Tank (Europe).bin" size="4096" crc="a0626e23" md5="815b06b2cbaebfad332683febbdccdb3" sha1="e1daef4cc1e8c51cf542d900ba7139f5f472f2c8"/>
+		<url>https://retroachievements.org/game/21605/hashes</url>
+		<hash>815B06B2CBAEBFAD332683FEBBDCCDB3</hash>
+	</game>
+	
+	<game name="Red Clash (USA, Europe)">
+		<category>Retail</category>
+		<description>Red Clash (USA, Europe)</description>
+		<release name="Red Clash (USA, Europe)" region="Europe"/>
+		<release name="Red Clash (USA, Europe)" region="USA"/>
+		<rom name="Red Clash (USA, Europe).bin" size="4096" crc="a06f284b" md5="7cd3db82543cb0fdd72638d397ef29d6" sha1="7a94f4f1768e4c62209cc03adc0fbadb954d2c24"/>
+		<url>https://retroachievements.org/game/21606/hashes</url>
+		<hash>7CD3DB82543CB0FDD72638D397EF29D6</hash>
+	</game>
+	
+	<game name="Robot Killer (Europe)">
+		<category>Retail</category>
+		<description>Robot Killer (Europe)</description>
+		<release name="Robot Killer (Europe)" region="Europe"/>
+		<rom name="Robot Killer (Europe).bin" size="4096" crc="4671b7f7" md5="8b580a9e3d4d9695e2f594a61afd8892" sha1="acb45a8314fe531390d1c58be23ae860fa344c94"/>
+		<url>https://retroachievements.org/game/21607/hashes</url>
+		<hash>8B580A9E3D4D9695E2F594A61AFD8892</hash>
+	</game>
+	
+	<game name="Route 16 (Europe)">
+		<category>Retail</category>
+		<description>Route 16 (Europe)</description>
+		<release name="Route 16 (Europe)" region="Europe"/>
+		<rom name="Route 16 (Europe).bin" size="8192" crc="8169864e" md5="376d97f9f74ab1c64fc888385506027b" sha1="6f6d0c0e2ae06112643c63cb6892f8c7269c98a6"/>
+		<url>https://retroachievements.org/game/21608/hashes</url>
+		<hash>4BBAB011CC65DE8BCAD882BEFC616207</hash>
+	</game>
+	
+	<game name="Space Mission (USA, Europe)">
+		<category>Retail</category>
+		<description>Space Mission (USA, Europe)</description>
+		<release name="Space Mission (USA, Europe)" region="Europe"/>
+		<release name="Space Mission (USA, Europe)" region="USA"/>
+		<rom name="Space Mission (USA, Europe).bin" size="4096" crc="3ff224e5" md5="bcb44b9296aad132d54d6e3a362131e6" sha1="a46fa9cbc12cb83218d3936ec3f4d0a4aff8cd60"/>
+		<url>https://retroachievements.org/game/21611/hashes</url>
+		<hash>BCB44B9296AAD132D54D6E3A362131E6</hash>
+	</game>
+	
+	<game name="Space Squadron (Europe)">
+		<category>Retail</category>
+		<description>Space Squadron (Europe)</description>
+		<release name="Space Squadron (Europe)" region="Europe"/>
+		<rom name="Space Squadron (Europe).bin" size="4096" crc="caa5f449" md5="02683cdc4732d02a4ed8a8e14723aef4" sha1="e76efb5f2707f67775d09d2d1547a4af0254b7b1"/>
+		<url>https://retroachievements.org/game/21613/hashes</url>
+		<hash>02683CDC4732D02A4ED8A8E14723AEF4</hash>
+	</game>
+	
+	<game name="Spiders (USA, Europe)">
+		<category>Retail</category>
+		<description>Spiders (USA, Europe)</description>
+		<release name="Spiders (USA, Europe)" region="Europe"/>
+		<release name="Spiders (USA, Europe)" region="USA"/>
+		<rom name="Spiders (USA, Europe).bin" size="4096" crc="bb88daea" md5="463fcdc2f5667e23700e6c8f75495fa9" sha1="e2fe75ec968a586a9c4885df02481b00abef2bc7"/>
+		<url>https://retroachievements.org/game/21615/hashes</url>
+		<hash>463FCDC2F5667E23700E6C8F75495FA9</hash>
+	</game>
+	
+	<game name="Super Bug (Europe)">
+		<category>Retail</category>
+		<description>Super Bug (Europe)</description>
+		<release name="Super Bug (Europe)" region="Europe"/>
+		<rom name="Super Bug (Europe).bin" size="4096" crc="fef2aae9" md5="40c65c30b00b8458d3567389d777a47a" sha1="1e7f7b81ecd2f766c94bd5ff17763374fb0318f1"/>
+		<url>https://retroachievements.org/game/24923/hashes</url>
+		<hash>40C65C30B00B8458D3567389D777A47A</hash>
+	</game>
+	
+	<game name="Super Dimension Fortress Macross (1983)(Bandai)(JP)">
+		<category>Retail</category>
+		<description>Super Dimension Fortress Macross (1983)(Bandai)(JP)</description>
+		<release name="Super Dimension Fortress Macross (1983)(Bandai)(JP)" region="Japan"/>
+		<rom name="Super Dimension Fortress Macross (1983)(Bandai)(JP).bin" size="8192" crc="4c885af2" md5="60ee33a137802d27b5b0567ff4de52ae" sha1="3d24ab9e42ff44a223bb53c5491dea7f41691df2"/>
+		<url>https://retroachievements.org/game/24689/hashes</url>
+		<hash>01E8AF7A69BEB5632C8EDC157C7F50AE</hash>
+	</game>
+	
+	<game name="Tanks a Lot (USA, Europe)">
+		<category>Retail</category>
+		<description>Tanks a Lot (USA, Europe)</description>
+		<release name="Tanks a Lot (USA, Europe)" region="Europe"/>
+		<release name="Tanks a Lot (USA, Europe)" region="USA"/>
+		<rom name="Tanks a Lot (USA, Europe).bin" size="4096" crc="0076422e" md5="3bc3df43b6d82f10cf9651372a784f9b" sha1="c431d5190e86f3dfbb3e8b1a3b9bec82bb5014ae"/>
+		<url>https://retroachievements.org/game/21618/hashes</url>
+		<hash>06692F79DE7DCB0BE79D4468E26EB72E</hash>
+	</game>
+	
+	<game name="The End (Europe)">
+		<category>Retail</category>
+		<description>The End (Europe)</description>
+		<release name="The End (Europe)" region="Europe"/>
+		<rom name="The End (Europe).bin" size="4096" crc="e66f362d" md5="f0a5e571220685d852e64bb217c8eae8" sha1="1148aa1525d7b46640babb50b004c79abec45d3a"/>
+		<url>https://retroachievements.org/game/21590/hashes</url>
+		<hash>F0A5E571220685D852E64BB217C8EAE8</hash>
+	</game>
+</datafile>

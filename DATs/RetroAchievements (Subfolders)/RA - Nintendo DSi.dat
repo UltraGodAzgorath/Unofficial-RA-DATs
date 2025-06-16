@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>RA - Nintendo DSi</name>
+		<description>Nintendo DSi</description>
+		<category>1G1R</category>
+		<version>20250413</version>
+		<date>13 April 2025</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
+		<homepage>https://retroachievements.org</homepage>
+		<url>https://retroachievements.org/system/78/games</url>
+		<titlecount>66</titlecount>
+		<hashcount>72</hashcount>
+	</header>
+	<game name="1001 Crystal Mazes Collection (Europe) (En,Fr,De,Es)">
+		<category>Retail</category>
+		<description>1001 Crystal Mazes Collection (Europe) (En,Fr,De,Es)</description>
+		<rom name="1001 Crystal Mazes Collection (Europe) (En,Fr,De,Es).nds" size="11330560" crc="43bd1ddd" md5="f35ac528070bd9eb07272b91c6e0f7ab" sha1="1740d785bed0720e718dc8fe4fa92c5b32b70650"/>
+		<url>https://retroachievements.org/game/22458/hashes</url>
+		<hash>e3573da3f2a082048c7b9cdbdd4c7456</hash>
+	</game>
+	
+	<game name="101 MiniGolf World (USA)">
+		<category>Retail</category>
+		<description>101 MiniGolf World (USA)</description>
+		<rom name="101 MiniGolf World (USA).nds" size="8728576" crc="4f1c744a" md5="70b1be47c367ac000a76f55fdc5a5c9e" sha1="53f97e8469b29adfe8124da44318621ad82243b1"/>
+		<url>https://retroachievements.org/game/22621/hashes</url>
+		<hash>2a40edea9a842ede6307af7f7d2b6265</hash>
+	</game>
+	
+	<game name="99 Moves (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>99 Moves (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="99 Moves (Europe) (En,Fr,De,Es,It).nds" size="5302272" crc="a579d095" md5="4973cf1b5630561ad944ac48a83a887d" sha1="ba6a4da1afde3832b5b769a3f156b04c10469695"/>
+		<url>https://retroachievements.org/game/27683/hashes</url>
+		<hash>83ffd48c3fc6fc45ea4e59455ab78c60</hash>
+	</game>
+	
+	<game name="Airport Mania - First Flight (Europe, Australia) (En,Fr,De,Es,It,Nl)">
+		<category>Retail</category>
+		<description>Airport Mania - First Flight (Europe, Australia) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Airport Mania - First Flight (Europe, Australia) (En,Fr,De,Es,It,Nl).nds" size="6060032" crc="b863c40d" md5="f0c90017723e7f3ca2a86cfd90f42401" sha1="02b1774d2ac91909d240158c86d6f15fd6b1a5d2"/>
+		<url>https://retroachievements.org/game/22352/hashes</url>
+		<hash>1013f21e5385d3085139c1693fbaad79</hash>
+	</game>
+	
+	<game name="All-Star Air Hockey (USA)">
+		<category>Retail</category>
+		<description>All-Star Air Hockey (USA)</description>
+		<rom name="All-Star Air Hockey (USA).nds" size="3636224" crc="3373ff75" md5="66ab39977214649965fe765eec8b73cf" sha1="d3ba9dbf1f4bffc8615fbc323e5c087bf6908c65"/>
+		<url>https://retroachievements.org/game/24496/hashes</url>
+		<hash>d75252cb6a369981e5a69ab68850373d</hash>
+	</game>
+	
+	<game name="Alt-Play - Jason Rohrer Anthology (Europe) (En,Fr,De,Es)">
+		<category>Retail</category>
+		<description>Alt-Play - Jason Rohrer Anthology (Europe) (En,Fr,De,Es)</description>
+		<rom name="Alt-Play - Jason Rohrer Anthology (Europe) (En,Fr,De,Es).nds" size="5825536" crc="bc141b9e" md5="66b12f9e7ac6c34f23c53c126e4e7298" sha1="4b6c74eef7a9328a39ac7a5cf149752f623a2143"/>
+		<url>https://retroachievements.org/game/22382/hashes</url>
+		<hash>ba408a3795871d4342070ca928bf49ba</hash>
+	</game>
+	
+	<game name="Ancient Tribe (USA)">
+		<category>Retail</category>
+		<description>Ancient Tribe (USA)</description>
+		<rom name="Ancient Tribe (USA).nds" size="6257664" crc="9c44f709" md5="f62da13c444d6dc6e444473b0e3e23c8" sha1="99be3cb9f3d67c21edad57444ad4b4fcea26308f"/>
+		<url>https://retroachievements.org/game/22375/hashes</url>
+		<hash>a356faede1ade29f93e060f2e9ce485a</hash>
+	</game>
+	
+	<game name="Anonymous Notes 1 - From the Abyss (Europe)">
+		<category>Retail</category>
+		<description>Anonymous Notes 1 - From the Abyss (Europe)</description>
+		<rom name="Anonymous Notes 1 - From the Abyss (Europe).nds" size="6049792" crc="4b4f584f" md5="eb361dc455f0ce8f4895523e69579327" sha1="8a1483d3ad18857da8fa6909d46cfa9bea304cef"/>
+		<url>https://retroachievements.org/game/24086/hashes</url>
+		<hash>d1ea047fd7be153a008d559bffd2b59d</hash>
+	</game>
+	
+	<game name="Antipole (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Antipole (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Antipole (Europe) (En,Fr,De,Es,It).nds" size="11044864" crc="d2ad4b24" md5="12037698b345987a60c47b10e7272c09" sha1="b9b80676779883dc108be62ebd3a40d981b016ea"/>
+		<url>https://retroachievements.org/game/22391/hashes</url>
+		<hash>2de6cc9f639c629887ceda8ef8c8bcdf</hash>
+	</game>
+	
+	<game name="Arcade Bowling (USA)">
+		<category>Retail</category>
+		<description>Arcade Bowling (USA)</description>
+		<rom name="Arcade Bowling (USA).nds" size="3397632" crc="392ffa85" md5="57fbdb0a24a97a6a81fe07a0c0d4c3c6" sha1="ba9977fae0a62fdd19a882ac6c4b208ebfcb8ffd"/>
+		<url>https://retroachievements.org/game/22403/hashes</url>
+		<hash>65078c5be2cc9adc9274587a50975495</hash>
+	</game>
+	
+	<game name="Arcade Hoops (USA)">
+		<category>Retail</category>
+		<description>Arcade Hoops (USA)</description>
+		<rom name="Arcade Hoops (USA).nds" size="3377152" crc="c88152aa" md5="ea4d7afb0f22ca00747795c8bf1c31dd" sha1="90f6c3d7fd40e4cfedf3a6ab27a4001500513ce5"/>
+		<url>https://retroachievements.org/game/22351/hashes</url>
+		<hash>73ec3f9a93899f986af39426a6beb644</hash>
+	</game>
+	
+	<game name="Pictobits - Art Style Series (USA)">
+		<category>Retail</category>
+		<description>Pictobits - Art Style Series (USA)</description>
+		<rom name="Pictobits - Art Style Series (USA).nds" size="5683200" crc="50bc058a" md5="f56ec1c1129fb1da05dbca22588a9231" sha1="5c6a82e83068c06a226e8920ff2f6c1cbadfc99f"/>
+		<url>https://retroachievements.org/game/26203/hashes</url>
+		<hash>968900ff60b70a3e9cd42a39330b5a62</hash>
+	</game>
+	
+	<game name="Asphalt 4 Elite Racing (Europe, Australia)">
+		<category>Retail</category>
+		<description>Asphalt 4 Elite Racing (Europe, Australia)</description>
+		<rom name="Asphalt 4 Elite Racing (Europe, Australia).nds" size="14448640" crc="5676f49f" md5="4aa27ce0355978d5263d99cf7980a851" sha1="f47c6ee13ce75fb3fb9b73f1525498f255f80347"/>
+		<url>https://retroachievements.org/game/22331/hashes</url>
+		<hash>132b0607deb94845dfc9bd30665170a6</hash>
+	</game>
+	
+	<game name="Aura-Aura Climber (USA)">
+		<category>Retail</category>
+		<description>Aura-Aura Climber (USA)</description>
+		<rom name="Aura-Aura Climber (USA).nds" size="4862976" crc="8815c8a4" md5="2e57607d40ed18bca0e7144667e4bfc1" sha1="919f94298ad28c09cd69823ffd86325fc8d4e81f"/>
+		<url>https://retroachievements.org/game/22313/hashes</url>
+		<hash>992b1835d9fb677b89ab50e4724ac1df</hash>
+	</game>
+	
+	<game name="Bejeweled Twist (Europe, Australia) (En,Fr,De,Es,Nl)">
+		<category>Retail</category>
+		<description>Bejeweled Twist (Europe, Australia) (En,Fr,De,Es,Nl)</description>
+		<rom name="Bejeweled Twist (Europe, Australia) (En,Fr,De,Es,Nl).nds" size="11963392" crc="84fc9a00" md5="47c6d5e1f11b1a1b67b9f47b39788b3d" sha1="d933564f5c35c75758891ba6e0423fd74df24fd6"/>
+		<url>https://retroachievements.org/game/22843/hashes</url>
+		<hash>e4ba6958b04c0e076790b291d844122e</hash>
+	</game>
+	
+	<game name="Bloons (USA)">
+		<category>Retail</category>
+		<description>Bloons (USA)</description>
+		<rom name="Bloons (USA).nds" size="6693888" crc="fbfab256" md5="5565ef606a048118b155f2d2f634af01" sha1="807a7860fc8208c125e3595c317290692a94ae9c"/>
+		<url>https://retroachievements.org/game/22322/hashes</url>
+		<hash>a127c3e097c358c7ee99628da826bbb8</hash>
+	</game>
+	
+	<game name="Bloons TD (USA)">
+		<category>Retail</category>
+		<description>Bloons TD (USA)</description>
+		<rom name="Bloons TD (USA).nds" size="4332544" crc="8a09185c" md5="b4eb7753e8f4cb2ffa2b6afe384fe2d2" sha1="b452adf42dc4be8b13ff32fb6c1bc76a4790f68d"/>
+		<url>https://retroachievements.org/game/22321/hashes</url>
+		<hash>57f68bce367094b601266709ab9afa3a</hash>
+	</game>
+	
+	<game name="Bloons TD 4 (USA)">
+		<category>Retail</category>
+		<description>Bloons TD 4 (USA)</description>
+		<rom name="Bloons TD 4 (USA).nds" size="7064576" crc="88e11699" md5="b4fe096cfa6077566f9d6e4cc8860069" sha1="5afc7e2323fd0bcc28ca9aae437f8b8c7efbb7a2"/>
+		<url>https://retroachievements.org/game/22319/hashes</url>
+		<hash>02c77141174b9239e92c964d9e1a740a</hash>
+	</game>
+	
+	<game name="Cave Story (USA)">
+		<category>Retail</category>
+		<description>Cave Story (USA)</description>
+		<rom name="Cave Story (USA).nds" size="5972992" crc="fe96d488" md5="f18811731c26a6aad35b4b47a4da5518" sha1="1dbd52c55092484cb01d51520d4fb560fb579924"/>
+		<url>https://retroachievements.org/game/2902/hashes</url>
+		<hash>03754af05487d3dd1914d641051e4a2c</hash>
+	</game>
+	<game name="Doukutsu Monogatari (Japan)">
+		<category>Retail</category>
+		<description>Doukutsu Monogatari (Japan)</description>
+		<rom name="Doukutsu Monogatari (Japan).nds" size="6350848" crc="f90a1cc9" md5="9f92deaf4f8151b00b38a398aacce2a6" sha1="2106a64ef22bbd4039d9af4b5052e2dc74a29999"/>
+		<url>https://retroachievements.org/game/2902/hashes</url>
+		<hash>35565430303b9af0cb351189ac033812</hash>
+	</game>
+	
+	<game name="Cut the Rope (Europe, Australia)">
+		<category>Retail</category>
+		<description>Cut the Rope (Europe, Australia)</description>
+		<rom name="Cut the Rope (Europe, Australia).nds" size="12132352" crc="b7833d51" md5="7fe65324bd66984f2c9c310ea8daf071" sha1="8f4a417b3881286332749ac15df35f9849835556"/>
+		<url>https://retroachievements.org/game/22343/hashes</url>
+		<hash>147f3580409372d0b39bb45d6bf95c41</hash>
+	</game>
+	
+	<game name="Dark Void Zero (Europe, Australia) (En,Fr,De,Es)">
+		<category>Retail</category>
+		<description>Dark Void Zero (Europe, Australia) (En,Fr,De,Es)</description>
+		<rom name="Dark Void Zero (Europe, Australia) (En,Fr,De,Es).nds" size="9525248" crc="d3efccc3" md5="c2b23281d1089509514b7b012f272e08" sha1="e1539ae3b724307e5e747fcd23ac1d338b09b3fd"/>
+		<url>https://retroachievements.org/game/22311/hashes</url>
+		<hash>d080287ca99643c37f9b956f0797e6c4</hash>
+	</game>
+	
+	<game name="Decathlon 2012 (Europe)">
+		<category>Retail</category>
+		<description>Decathlon 2012 (Europe)</description>
+		<rom name="Decathlon 2012 (Europe).nds" size="8884224" crc="9ffb1702" md5="a0e1d2359f1e7d62e77ce7cfddf88408" sha1="8c3c50add3db20d92c4865fe95d9be95e0a8f8f8"/>
+		<url>https://retroachievements.org/game/22405/hashes</url>
+		<hash>b66369245b60f0809da4b7013a6c1866</hash>
+	</game>
+	
+	<game name="Divergent Shift (USA)">
+		<category>Retail</category>
+		<description>Divergent Shift (USA)</description>
+		<rom name="Divergent Shift (USA).nds" size="12811264" crc="214596c0" md5="d4a9bd5074a9bd477ee10e1509dc4a88" sha1="3c84264e218d8a8e6269cec7d4cc3fae8162c841"/>
+		<url>https://retroachievements.org/game/22451/hashes</url>
+		<hash>5f92173efbd602df8ce06ab9bc3b6b98</hash>
+	</game>
+	
+	<game name="Dr. Mario Express (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<description>Dr. Mario Express (USA) (En,Fr,Es)</description>
+		<rom name="Dr. Mario Express (USA) (En,Fr,Es).nds" size="3900416" crc="faeb9b63" md5="3b5c3d7efb502d78ed02d14f88ce144b" sha1="be973da1c3d95dc8331148d69bcd9ee199aea8c8"/>
+		<url>https://retroachievements.org/game/22374/hashes</url>
+		<hash>cfe479031963a1be99838cbb01043c39</hash>
+	</game>
+	
+	<game name="Dragon Quest Wars (Europe, Australia) (En,Fr,De,Es)">
+		<category>Retail</category>
+		<description>Dragon Quest Wars (Europe, Australia) (En,Fr,De,Es)</description>
+		<rom name="Dragon Quest Wars (Europe, Australia) (En,Fr,De,Es).nds" size="11000832" crc="fb024049" md5="95b7a00cf6ecd8eb2f27c00ce2db0a2f" sha1="3a86869a0432e3438e4e33b154789062f987413d"/>
+		<url>https://retroachievements.org/game/22308/hashes</url>
+		<hash>07fc48817993b858c091899aa6ceb9a6</hash>
+	</game>
+	
+	<game name="Escapee GO! (USA)">
+		<category>Retail</category>
+		<description>Escapee GO! (USA)</description>
+		<rom name="Escapee GO! (USA).nds" size="5484544" crc="eb7b2674" md5="d1b498be049fba1f901ad48da28f9a31" sha1="8b88caeb45e8523e222b74d451e81261006ab7da"/>
+		<url>https://retroachievements.org/game/22336/hashes</url>
+		<hash>44649fe05642011e4cc407c8aa510c1d</hash>
+	</game>
+	
+	<game name="G.G Series - All Breaker (USA)">
+		<category>Retail</category>
+		<description>G.G Series - All Breaker (USA)</description>
+		<rom name="G.G Series - All Breaker (USA).nds" size="4742144" crc="2700eb15" md5="b6e004ca57171c0cec12f9e1bad2de2e" sha1="0afb1ebee5cb5de271950a858531f31c5909bb75"/>
+		<url>https://retroachievements.org/game/22314/hashes</url>
+		<hash>e9a94a993ec3de2c3e4a4df8381cfc30</hash>
+	</game>
+	
+	<game name="G.G Series - Ninja Karakuri Den (USA)">
+		<category>Retail</category>
+		<description>G.G Series - Ninja Karakuri Den (USA)</description>
+		<rom name="G.G Series - Ninja Karakuri Den (USA).nds" size="2909184" crc="4519148b" md5="42b7d27e5f05985ed1293a8f4c7f8d52" sha1="2ced848bf23a9b8478cf901e674b384b5ac48668"/>
+		<url>https://retroachievements.org/game/22377/hashes</url>
+		<hash>fe0018b106e9371b2183bb16af3829f8</hash>
+	</game>
+	
+	<game name="G.G Series - The Last Knight (USA)">
+		<category>Retail</category>
+		<description>G.G Series - The Last Knight (USA)</description>
+		<rom name="G.G Series - The Last Knight (USA).nds" size="5127168" crc="172b5d7f" md5="2ff8e5c4823dc61424fe69d492828722" sha1="2cd393c9eaba1a13645a3b68d10349953255596f"/>
+		<url>https://retroachievements.org/game/22330/hashes</url>
+		<hash>ad29ae723acee0ff5c52cd988344ae18</hash>
+	</game>
+	
+	<game name="Game + Watch - Ball (USA, Europe)">
+		<category>Retail</category>
+		<description>Game + Watch - Ball (USA, Europe)</description>
+		<rom name="Game + Watch - Ball (USA, Europe).nds" size="1550336" crc="b90286ed" md5="53528fbc90c389b43c1fc6665f93ba5d" sha1="d17d261cc73490387faf2d408148a7ff7778d6ef"/>
+		<url>https://retroachievements.org/game/22397/hashes</url>
+		<hash>18e953f94d43fdf5cfe79df9b8976ae3</hash>
+	</game>
+	
+	<game name="Game + Watch - Chef (USA, Europe)">
+		<category>Retail</category>
+		<description>Game + Watch - Chef (USA, Europe)</description>
+		<rom name="Game + Watch - Chef (USA, Europe).nds" size="1713152" crc="bdc410c7" md5="d094745ba23676bcb92e328e73e2082e" sha1="53241deb0cb707b505804d7607077f2159738e82"/>
+		<url>https://retroachievements.org/game/22400/hashes</url>
+		<hash>f3f883708b030d052c443bd67e271599</hash>
+	</game>
+	
+	<game name="Game + Watch - Donkey Kong Jr (USA, Europe)">
+		<category>Retail</category>
+		<description>Game + Watch - Donkey Kong Jr (USA, Europe)</description>
+		<rom name="Game + Watch - Donkey Kong Jr (USA, Europe).nds" size="1775616" crc="7466c798" md5="4e9783feb7aa34003ef63dd129393b38" sha1="7fd4b4f69d780561a3d9007ef14b4eea329e5edc"/>
+		<url>https://retroachievements.org/game/22410/hashes</url>
+		<hash>bae780bb33e992a7641becacdd8d9c5e</hash>
+	</game>
+	
+	<game name="Game + Watch - Flagman (USA, Europe)">
+		<category>Retail</category>
+		<description>Game + Watch - Flagman (USA, Europe)</description>
+		<rom name="Game + Watch - Flagman (USA, Europe).nds" size="1679360" crc="740219c3" md5="79ec581cfe13896b68b200c311249c3d" sha1="19775ceae005c49e774df617910928b28abd27d3"/>
+		<url>https://retroachievements.org/game/22433/hashes</url>
+		<hash>5122a78057b582e9e31e96794fc74fa6</hash>
+	</game>
+	
+	<game name="Game + Watch - Helmet (USA, Europe)">
+		<category>Retail</category>
+		<description>Game + Watch - Helmet (USA, Europe)</description>
+		<rom name="Game + Watch - Helmet (USA, Europe).nds" size="1639424" crc="5dd8a0f3" md5="a279ecba06cde09bf555039c3453fe53" sha1="701ab85b4f0173a0910f8c8f4c2c673d4c039619"/>
+		<url>https://retroachievements.org/game/25415/hashes</url>
+		<hash>e501bf3d9f768bfbefcd14d0be76b7f4</hash>
+	</game>
+	
+	<game name="Game + Watch - Manhole (USA, Europe)">
+		<category>Retail</category>
+		<description>Game + Watch - Manhole (USA, Europe)</description>
+		<rom name="Game + Watch - Manhole (USA, Europe).nds" size="1697792" crc="558c0829" md5="5e09c25539a3eb9a6ecba33806beebfc" sha1="feed99bfc504345bba80484b40fb55744f7324d2"/>
+		<url>https://retroachievements.org/game/26329/hashes</url>
+		<hash>a98bd543991cf386dde97adf215f64cb</hash>
+	</game>
+	<game name="Game + Watch - Manhole (Japan)">
+		<category>Retail</category>
+		<description>Game + Watch - Manhole (Japan)</description>
+		<rom name="Game + Watch - Manhole (Japan).nds" size="1530880" crc="47ceb3b5" md5="cbee48b9367801c0b9003a1dd19ce9e0" sha1="956884730a33fbb6ab3e0215e541b7f9837fd04e"/>
+		<url>https://retroachievements.org/game/26329/hashes</url>
+		<hash>1b531477db8691487f562c321d6bad66</hash>
+	</game>
+	
+	<game name="Game + Watch - Vermin (USA, Europe)">
+		<category>Retail</category>
+		<description>Game + Watch - Vermin (USA, Europe)</description>
+		<rom name="Game + Watch - Vermin (USA, Europe).nds" size="1593344" crc="2030b307" md5="f33881a314ac069110f32bea28a25643" sha1="9618b5956895ab1893778240741feefde92b919b"/>
+		<url>https://retroachievements.org/game/22437/hashes</url>
+		<hash>6d9eabaaccbaf0766b47bec5d28cb195</hash>
+	</game>
+	
+	<game name="10 Second Run - GO Series (Europe)">
+		<category>Retail</category>
+		<description>10 Second Run - GO Series (Europe)</description>
+		<rom name="10 Second Run - GO Series (Europe).nds" size="5472256" crc="7156ebae" md5="6792b876dbdde2f12b359f48701ecd3f" sha1="6177b7c816226362021fc11f3c04ff97b5c2d7d5"/>
+		<url>https://retroachievements.org/game/22435/hashes</url>
+		<hash>37d3d4190bfc1db0b6e5f3b742b1f432</hash>
+	</game>
+	<game name="10 Second Run - GO Series (USA)">
+		<category>Retail</category>
+		<description>10 Second Run - GO Series (USA)</description>
+		<rom name="10 Second Run - GO Series (USA).nds" size="5444608" crc="a90bd7e3" md5="b0ccd02835db83bb16d52e89eb55e0de" sha1="4b7ac9bd326564c91765687c559e9f18b554df44"/>
+		<url>https://retroachievements.org/game/22435/hashes</url>
+		<hash>58f1510467ca214fa88e4dcf58dc2218</hash>
+	</game>
+	
+	<game name="Fishing Resort - GO Series (Europe)">
+		<category>Retail</category>
+		<description>Fishing Resort - GO Series (Europe)</description>
+		<rom name="Fishing Resort - GO Series (Europe).nds" size="5745664" crc="bd44df79" md5="a1db279bd9318383957ddd96d364a678" sha1="5983f34175e99c629b546ed823195497c0015185"/>
+		<url>https://retroachievements.org/game/22363/hashes</url>
+		<hash>9f0b3fb9e208a349c79428702d6cdf03</hash>
+	</game>
+	
+	<game name="Hero of Sparta (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<description>Hero of Sparta (USA) (En,Fr,Es)</description>
+		<rom name="Hero of Sparta (USA) (En,Fr,Es).nds" size="12452864" crc="e2f98f33" md5="1ff4491f38cbfce1c4f66a16b55ce8f9" sha1="64f02374b336b00b35f702c8b361a786d3190df4"/>
+		<url>https://retroachievements.org/game/22381/hashes</url>
+		<hash>78b5ac3ea83f524e90bcc69e263394c6</hash>
+	</game>
+	
+	<game name="Ike! Ike!! Hamusuta (Japan)">
+		<category>Retail</category>
+		<description>Ike! Ike!! Hamusuta (Japan)</description>
+		<rom name="Ike! Ike!! Hamusuta (Japan).nds" size="4490240" crc="b192cc6f" md5="bff23f6fe4c4eb78db06f762af883f3a" sha1="765a552725ba760ec8f448b365dcc3d330cd09b4"/>
+		<url>https://retroachievements.org/game/25319/hashes</url>
+		<hash>f917b92a7bf2b661e28e2038d47712d3</hash>
+	</game>
+	
+	<game name="Jump Trials (USA)">
+		<category>Retail</category>
+		<description>Jump Trials (USA)</description>
+		<rom name="Jump Trials (USA).nds" size="1988608" crc="bd8e4120" md5="1a7394fff05a2be6803b63015fd47dfe" sha1="85e5fad5e5577ec09b529a8fa15d7158d79325e3"/>
+		<url>https://retroachievements.org/game/22440/hashes</url>
+		<hash>153fd66b8e37d4d282d9b7cbc97f08a7</hash>
+	</game>
+	
+	<game name="Jump Trials Extreme (USA)">
+		<category>Retail</category>
+		<description>Jump Trials Extreme (USA)</description>
+		<rom name="Jump Trials Extreme (USA).nds" size="2661376" crc="7ac678d4" md5="d77c4566b5c602084166ea1f3c595558" sha1="08c0c5c25756607c75e8c50e085871242df3efde"/>
+		<url>https://retroachievements.org/game/22412/hashes</url>
+		<hash>89a8a23905ccdb4560e4c84f26d49cc9</hash>
+	</game>
+	
+	<game name="Mario Calculator (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<description>Mario Calculator (USA) (En,Fr,Es)</description>
+		<rom name="Mario Calculator (USA) (En,Fr,Es).nds" size="1724416" crc="1a01a40c" md5="3e9952d252877a1bfaba5146346923a6" sha1="f6c0e21cb4142ff61eae312528edffe5a664fe29"/>
+		<url>https://retroachievements.org/game/27462/hashes</url>
+		<hash>88f5aa28c7651767625844636c5a1190</hash>
+	</game>
+	
+	<game name="Mario Clock (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<description>Mario Clock (USA) (En,Fr,Es)</description>
+		<rom name="Mario Clock (USA) (En,Fr,Es).nds" size="2795520" crc="74dbcf24" md5="5e3a2d90fb04a2f54f6b51e2196e2486" sha1="74d2c303aae8d06d29326d9ab5bb8b9d5850baea"/>
+		<url>https://retroachievements.org/game/27461/hashes</url>
+		<hash>ae99967fa0fce79072f2567330baf05b</hash>
+	</game>
+	
+	<game name="Mario vs. Donkey Kong - Minis March Again! (Europe, Australia) (En,Ja,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Mario vs. Donkey Kong - Minis March Again! (Europe, Australia) (En,Ja,Fr,De,Es,It)</description>
+		<rom name="Mario vs. Donkey Kong - Minis March Again! (Europe, Australia) (En,Ja,Fr,De,Es,It).nds" size="16011264" crc="b6862e23" md5="eb65b06136ee43512c7c9aa695a7236a" sha1="12cfd4fa75f34cbcfe9163b68d2bb7dfdbd5f3f9"/>
+		<url>https://retroachievements.org/game/22373/hashes</url>
+		<hash>9e3a586a6944c28ff6711dca35c0b34a</hash>
+	</game>
+	
+	<game name="Mighty Flip Champs! (Europe, Australia)">
+		<category>Retail</category>
+		<description>Mighty Flip Champs! (Europe, Australia)</description>
+		<rom name="Mighty Flip Champs! (Europe, Australia).nds" size="6898688" crc="0ece6de1" md5="97818e5178b0247bb296cdf10033f522" sha1="7c1cf00f91251ff522ffeaae7ab3110a3e1e97ee"/>
+		<url>https://retroachievements.org/game/22325/hashes</url>
+		<hash>d3c9ba3d3337f3460892bd0748a9258a</hash>
+	</game>
+	<game name="Mighty Flip Champs! (USA)">
+		<category>Retail</category>
+		<description>Mighty Flip Champs! (USA)</description>
+		<rom name="Mighty Flip Champs! (USA).nds" size="6190080" crc="b9cc5e05" md5="02db79a454c0478a5fff4db0b87f1da6" sha1="db8d16dc9df0babbc0d1ed23ff8facf6e686591b"/>
+		<url>https://retroachievements.org/game/22325/hashes</url>
+		<hash>f74228eaef50fe46a6f48b7775ef4ae2</hash>
+	</game>
+	
+	<game name="Mighty Milky Way (Europe)">
+		<category>Retail</category>
+		<description>Mighty Milky Way (Europe)</description>
+		<rom name="Mighty Milky Way (Europe).nds" size="11446272" crc="44ed6d43" md5="45a5c6ff7b550ae50e4e747d2471e4f1" sha1="cd5a883961d7bf9b732de9e073eb9c4226aa346c"/>
+		<url>https://retroachievements.org/game/22326/hashes</url>
+		<hash>bad2c9414eed3355ce3c55b1d4a5e23e</hash>
+	</game>
+	<game name="Mighty Milky Way (USA)">
+		<category>Retail</category>
+		<description>Mighty Milky Way (USA)</description>
+		<rom name="Mighty Milky Way (USA).nds" size="11380736" crc="8c1a3abc" md5="3f02b267d76c0637bd77ea4720a1c590" sha1="e9c848963939d09c4656f7939ff6968fc90846d4"/>
+		<url>https://retroachievements.org/game/22326/hashes</url>
+		<hash>cdde7773f99c10386a3bf4d066cec2e0</hash>
+	</game>
+	
+	<game name="Mr. Driller - Drill Till You Drop (USA)">
+		<category>Retail</category>
+		<description>Mr. Driller - Drill Till You Drop (USA)</description>
+		<rom name="Mr. Driller - Drill Till You Drop (USA).nds" size="7400448" crc="1bd29f53" md5="c3b6050a70e01064517151cde8c3a934" sha1="79e14da943333e98f31060a8a0c8bf1c4610372a"/>
+		<url>https://retroachievements.org/game/22323/hashes</url>
+		<hash>5c537864829f61a4d391f34ac777f47f</hash>
+	</game>
+	
+	<game name="Mr. Driller - Drill Till You Drop (Europe, Australia) (En,Fr,De,Es)">
+		<category>Subset</category>
+		<description>Mr. Driller - Drill Till You Drop (Europe, Australia) (En,Fr,De,Es)</description>
+		<rom name="Mr. Driller - Drill Till You Drop (Europe, Australia) (En,Fr,De,Es).nds" size="7465984" crc="d144ee7f" md5="6ef5d7ed7d518a751272b39120316763" sha1="c046851399120646b9c5ed45fcf8f74044123bc6"/>
+		<url>https://retroachievements.org/game/23906/hashes</url>
+		<hash>bbbe5cd3b730cada651922b4683823da</hash>
+	</game>
+	
+	<game name="Learning Piano (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<description>Learning Piano (USA) (En,Fr,Es)</description>
+		<rom name="Learning Piano (USA) (En,Fr,Es).nds" size="4448256" crc="27f6a5cd" md5="d8e2466ba98edfe53ffc36c0570b389f" sha1="195eff9069c6538266111315af4b3eac669a224e"/>
+		<url>https://retroachievements.org/game/22332/hashes</url>
+		<hash>bedf9644597131aae9497c7b9be6b6ac</hash>
+	</game>
+	
+	<game name="Paper Airplane Chase (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<description>Paper Airplane Chase (USA) (En,Fr,Es)</description>
+		<rom name="Paper Airplane Chase (USA) (En,Fr,Es).nds" size="1386496" crc="8729aa36" md5="38424ee14eb4c88a459c1a7194a097d0" sha1="4783384e5f66b0f2958ac86b7c74e5763a62fec5"/>
+		<url>https://retroachievements.org/game/22358/hashes</url>
+		<hash>c1308667040f474c56969ff3e59f26c4</hash>
+	</game>
+	
+	<game name="Penguin Patrol (USA)">
+		<category>Retail</category>
+		<description>Penguin Patrol (USA)</description>
+		<rom name="Penguin Patrol (USA).nds" size="5724160" crc="f34315f9" md5="3c2e8ce0bbae3357adb203622cb6f953" sha1="6d2e65f287e9b6c193c7554659d473e7bcbe156a"/>
+		<url>https://retroachievements.org/game/22356/hashes</url>
+		<hash>ae3386d1c9ed8669edbd310d6accfdb7</hash>
+	</game>
+	
+	<game name="Plants vs. Zombies (USA)">
+		<category>Retail</category>
+		<description>Plants vs. Zombies (USA)</description>
+		<rom name="Plants vs. Zombies (USA).nds" size="15739904" crc="1d3e83af" md5="d376dc3adb86c4ba467278eebd7d04df" sha1="d92a5d620338dcb0866513ce2fd973afeb9487d1"/>
+		<url>https://retroachievements.org/game/23795/hashes</url>
+		<hash>a80d1a69655bb39105781abe4dc18c3a</hash>
+	</game>
+	
+	<game name="Pop Island (USA)">
+		<category>Retail</category>
+		<description>Pop Island (USA)</description>
+		<rom name="Pop Island (USA).nds" size="12530688" crc="4bcb4677" md5="0be83af942f8b6c97240735f16b96053" sha1="528cd969ecd5763e571a4a1870e17b274e99ac46"/>
+		<url>https://retroachievements.org/game/23789/hashes</url>
+		<hash>e121b8db4b42cad3372ae00800daae16</hash>
+	</game>
+	
+	<game name="Pro-Jumper! - Guilty Gear Tangent! (USA)">
+		<category>Retail</category>
+		<description>Pro-Jumper! - Guilty Gear Tangent! (USA)</description>
+		<rom name="Pro-Jumper! - Guilty Gear Tangent! (USA).nds" size="9734144" crc="68bc6dcd" md5="b4c79fcce2e136594b818f9084a7340b" sha1="748d23800cc7c0dce022633051e3474a5ea11fce"/>
+		<url>https://retroachievements.org/game/22455/hashes</url>
+		<hash>f5bbbbbc8bc8f1c22308bb6e51b9b376</hash>
+	</game>
+	
+	<game name="Rabi Laby (USA)">
+		<category>Retail</category>
+		<description>Rabi Laby (USA)</description>
+		<rom name="Rabi Laby (USA).nds" size="4185088" crc="871dc604" md5="2b89da80380e16f9d9bcea8e685dc2f7" sha1="0b1adc909b3eb307f9b7e1460b764bd7932e9af1"/>
+		<url>https://retroachievements.org/game/22376/hashes</url>
+		<hash>e7dc7701c07a96634a3c551711ab0383</hash>
+	</game>
+	
+	<game name="Shantae - Risky's Revenge (USA)">
+		<category>Retail</category>
+		<description>Shantae - Risky's Revenge (USA)</description>
+		<rom name="Shantae - Risky's Revenge (USA).nds" size="16728064" crc="d479b709" md5="ef14ed36436ff95197fdff8c6e9a61f2" sha1="f984c96e72913e1bdfc31e9ffa8b377c7af5e016"/>
+		<url>https://retroachievements.org/game/2258/hashes</url>
+		<hash>be4022d83390cdf8905dd1c9bf947342</hash>
+	</game>
+	
+	<game name="Simply Mahjong (USA)">
+		<category>Retail</category>
+		<description>Simply Mahjong (USA)</description>
+		<rom name="Simply Mahjong (USA).nds" size="3590144" crc="df4aa7c2" md5="3a1b79b505dcdec714f1d1bda9486977" sha1="01473e4831f08b2080e07e6268a5be13615ba21e"/>
+		<url>https://retroachievements.org/game/22392/hashes</url>
+		<hash>de9a5a6ce3c4f3f115535666c237a022</hash>
+	</game>
+	
+	<game name="Soul of Darkness (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<description>Soul of Darkness (USA) (En,Fr,Es)</description>
+		<rom name="Soul of Darkness (USA) (En,Fr,Es).nds" size="9934848" crc="4e63db87" md5="746ca2cb5755f153496582750e4198b5" sha1="ac557a884473f1eddc02afa2100ecff5648b03c1"/>
+		<url>https://retroachievements.org/game/22338/hashes</url>
+		<hash>1c7720fe169f414f2948323396b45fd8</hash>
+	</game>
+	
+	<game name="Starship Patrol (Europe, Australia)">
+		<category>Retail</category>
+		<description>Starship Patrol (Europe, Australia)</description>
+		<rom name="Starship Patrol (Europe, Australia).nds" size="9558016" crc="5d11f20e" md5="406e60a525935d1a6f8c48d8008d340c" sha1="a3c6ab030cc6a53afd961808e77c1e07e58a901c"/>
+		<url>https://retroachievements.org/game/22327/hashes</url>
+		<hash>a82346fa9ea262226df45ba9cbf82517</hash>
+	</game>
+	
+	<game name="SteamWorld Tower Defense (Europe, Australia)">
+		<category>Retail</category>
+		<description>SteamWorld Tower Defense (Europe, Australia)</description>
+		<rom name="SteamWorld Tower Defense (Europe, Australia).nds" size="6305792" crc="122562ae" md5="4a0ae273994563051ededadd6c7decaa" sha1="0d7a5b5a66aa51ff77b46beffdd52b4235190c61"/>
+		<url>https://retroachievements.org/game/22307/hashes</url>
+		<hash>1af6aeaa79b6bf73870105700b7b6612</hash>
+	</game>
+	<game name="SteamWorld Tower Defense (USA)">
+		<category>Retail</category>
+		<description>SteamWorld Tower Defense (USA)</description>
+		<rom name="SteamWorld Tower Defense (USA).nds" size="6305792" crc="e8748919" md5="ef03f36de9a2c878fde1e1e7f2985f47" sha1="961f4871ede03d5b467483814ad614b1edec2944"/>
+		<url>https://retroachievements.org/game/22307/hashes</url>
+		<hash>2a845e9cc96489c7e68f88124c25387a</hash>
+	</game>
+	
+	<game name="Legend of Zelda, The - Four Swords Anniversary Edition (Europe, Australia) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Legend of Zelda, The - Four Swords Anniversary Edition (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<rom name="Legend of Zelda, The - Four Swords Anniversary Edition (Europe, Australia) (En,Fr,De,Es,It).nds" size="14848000" crc="d5b25cc5" md5="017874c19380006fc5e540588f2c8c5d" sha1="f151325756b6804d5c27e20ab8e70fe69239cbbf"/>
+		<url>https://retroachievements.org/game/22310/hashes</url>
+		<hash>57eb7cc1ab11830977ea252e65c04753</hash>
+	</game>
+	
+	<game name="UNO (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<description>UNO (USA) (En,Fr,Es)</description>
+		<rom name="UNO (USA) (En,Fr,Es).nds" size="8342528" crc="07ab7f1f" md5="7db6e699ab8b43359ce146630f88691a" sha1="b0d951375f31d41bc85c80ed2cb08772ba3b4e66"/>
+		<url>https://retroachievements.org/game/22379/hashes</url>
+		<hash>3ddd206593aaa95991568cff7c142215</hash>
+	</game>
+	
+	<game name="Word Searcher (USA)">
+		<category>Retail</category>
+		<description>Word Searcher (USA)</description>
+		<rom name="Word Searcher (USA).nds" size="4971520" crc="ceea65e0" md5="6705f14725d6bb078980aba684d749d3" sha1="8c58f897874f6e412178950200ead88798a38931"/>
+		<url>https://retroachievements.org/game/22369/hashes</url>
+		<hash>4411b1b83184976fe32264de70717de0</hash>
+	</game>
+	
+	<game name="Zuma's Revenge! (Europe, Australia)">
+		<category>Retail</category>
+		<description>Zuma's Revenge! (Europe, Australia)</description>
+		<rom name="Zuma's Revenge! (Europe, Australia).nds" size="15055872" crc="04248613" md5="2b479f7e0fb4b540db90e405ac738471" sha1="20c978f1bd9785f3f897eaa414b58eb210ed8d3a"/>
+		<url>https://retroachievements.org/game/18547/hashes</url>
+		<hash>cbca9974e4795e31435e1b57c877805f</hash>
+	</game>
+	
+	<game name="Zuma's Revenge! (USA)">
+		<category>Subset</category>
+		<description>Zuma's Revenge! (USA)</description>
+		<rom name="Zuma's Revenge! (USA).nds" size="14892032" crc="c37ecd69" md5="f810cfc600afcac8a585440d46f6046c" sha1="86c9d256350eebca5005873ffac21e0e3d0d81fd"/>
+		<url>https://retroachievements.org/game/22525/hashes</url>
+		<hash>0ece7a385b2620de0413c0d748f80e60</hash>
+	</game>
+</datafile>
