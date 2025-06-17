@@ -5,8 +5,8 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>1G1R</category>
-		<version>20250612</version>
-		<date>12 June 2025</date>
+		<version>20250617</version>
+		<date>17 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/2/games</url>
@@ -4279,6 +4279,15 @@
 		<rom name="Earthworm Jim 3D (Europe) (En,Fr,De,Es,It).z64" size="16777216" crc="61a56330" md5="bf2df4b86faa2181a7acfe2643fa2293" sha1="f02c1afd18c1cbe309472cbe5b3b3f04b22db7ee"/>
 		<url>https://retroachievements.org/game/10348/hashes</url>
 		<hash>bf2df4b86faa2181a7acfe2643fa2293</hash>
+	</game>
+	
+	<game name="Retail/Excitebike 64 (USA) (Rev 1)">
+		<category>Nintendo 64</category>
+		<description>Excitebike 64 (USA) (Rev 1)</description>
+		<release name="Excitebike 64 (USA) (Rev 1)" region="USA"/>
+		<rom name="Excitebike 64 (USA) (Rev 1).z64" size="16777216" crc="143926ce" md5="21954e4e404d9e87dbdb87dd309f3e94" sha1="c2fac422af135409c1b38569b309f9d452c81c35"/>
+		<url>https://retroachievements.org/game/10869/hashes</url>
+		<hash>21954e4e404d9e87dbdb87dd309f3e94</hash>
 	</game>
 	
 	<game name="Retail/Extreme-G (USA)">

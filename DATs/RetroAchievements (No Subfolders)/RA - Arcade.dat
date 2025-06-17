@@ -5,8 +5,8 @@
 		<name>RA - Arcade</name>
 		<description>Arcade</description>
 		<category>1G1R</category>
-		<version>20250608</version>
-		<date>08 June 2025</date>
+		<version>20250617</version>
+		<date>17 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/27/games</url>
@@ -14135,6 +14135,75 @@
 		<hash>EA90A0EFD09C640E72AA2B6F2E13EBFE</hash>
 	</game>
 	
+	<game name="rayforcej" cloneof="gunlock">
+		<description>Ray Force (Ver 2.3J 1994/01/20)</description>
+		<category>Retail</category>
+		<release name="rayforcej" region="Japan"/>
+		<rom name="d66-18.ic24" merge="d66-18.ic24" size="262144" crc="8418513e"/>
+		<rom name="d66-19.ic26" merge="d66-19.ic26" size="262144" crc="95731473"/>
+		<rom name="d66-21.ic37" merge="d66-21.ic37" size="262144" crc="bd0d60f2"/>
+		<rom name="d66-20.ic35" size="262144" crc="798f0254"/>
+		<rom name="d66-03.ic45" merge="d66-03.ic45" size="1048576" crc="e7a4a491"/>
+		<rom name="d66-04.ic46" merge="d66-04.ic46" size="1048576" crc="c1c7aaa7"/>
+		<rom name="d66-05.ic47" merge="d66-05.ic47" size="1048576" crc="a3cefe04"/>
+		<rom name="d66-06.ic48" merge="d66-06.ic48" size="1048576" crc="b3d8126d"/>
+		<rom name="d66-07.ic49" merge="d66-07.ic49" size="1048576" crc="a6da9be7"/>
+		<rom name="d66-08.ic49" merge="d66-08.ic50" size="1048576" crc="9959f30b"/>
+		<rom name="d66-23.ic10" merge="d66-23.ic10" size="262144" crc="57fb7c49"/>
+		<rom name="d66-22.ic23" merge="d66-22.ic23" size="262144" crc="83dd7f9b"/>
+		<rom name="d66-01.ic2" merge="d66-01.ic2" size="2097152" crc="58c92efa"/>
+		<rom name="d66-02.ic3" merge="d66-02.ic3" size="2097152" crc="dcdafaab"/>
+		<video type="raster" orientation="vertical" width="224" height="320" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/13588/hashes</url>
+		<hash>1eafd4d8a6fa3544819b4fdb9c7768d2</hash>
+	</game>
+	<game name="gunlock">
+		<description>Gunlock (Ver 2.3O 1994/01/20)</description>
+		<category>Retail</category>
+		<release name="gunlock" region="World"/>
+		<rom name="d66-18.ic24" size="262144" crc="8418513e"/>
+		<rom name="d66-19.ic26" size="262144" crc="95731473"/>
+		<rom name="d66-21.ic37" size="262144" crc="bd0d60f2"/>
+		<rom name="d66-24.ic35" size="262144" crc="97816378"/>
+		<rom name="d66-03.ic45" size="1048576" crc="e7a4a491"/>
+		<rom name="d66-04.ic46" size="1048576" crc="c1c7aaa7"/>
+		<rom name="d66-05.ic47" size="1048576" crc="a3cefe04"/>
+		<rom name="d66-06.ic48" size="1048576" crc="b3d8126d"/>
+		<rom name="d66-07.ic49" size="1048576" crc="a6da9be7"/>
+		<rom name="d66-08.ic50" size="1048576" crc="9959f30b"/>
+		<rom name="d66-23.ic10" size="262144" crc="57fb7c49"/>
+		<rom name="d66-22.ic23" size="262144" crc="83dd7f9b"/>
+		<rom name="d66-01.ic2" size="2097152" crc="58c92efa"/>
+		<rom name="d66-02.ic3" size="2097152" crc="dcdafaab"/>
+		<video type="raster" orientation="vertical" width="224" height="320" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/13588/hashes</url>
+		<hash>bac7d1ac90de58d5afc9d76026f16eaf</hash>
+	</game>
+	<game name="rayforce" cloneof="gunlock">
+		<description>Ray Force (Ver 2.3A 1994/01/20)</description>
+		<category>Retail</category>
+		<rom name="d66-18.ic24" merge="d66-18.ic24" size="262144" crc="8418513e"/>
+		<rom name="d66-19.ic26" merge="d66-19.ic26" size="262144" crc="95731473"/>
+		<rom name="d66-21.ic37" merge="d66-21.ic37" size="262144" crc="bd0d60f2"/>
+		<rom name="d66-25.ic35" size="262144" crc="e08653ee"/>
+		<rom name="d66-03.ic45" merge="d66-03.ic45" size="1048576" crc="e7a4a491"/>
+		<rom name="d66-04.ic46" merge="d66-04.ic46" size="1048576" crc="c1c7aaa7"/>
+		<rom name="d66-05.ic47" merge="d66-05.ic47" size="1048576" crc="a3cefe04"/>
+		<rom name="d66-06.ic48" merge="d66-06.ic48" size="1048576" crc="b3d8126d"/>
+		<rom name="d66-07.ic49" merge="d66-07.ic49" size="1048576" crc="a6da9be7"/>
+		<rom name="d66-08.ic49" merge="d66-08.ic50" size="1048576" crc="9959f30b"/>
+		<rom name="d66-23.ic10" merge="d66-23.ic10" size="262144" crc="57fb7c49"/>
+		<rom name="d66-22.ic23" merge="d66-22.ic23" size="262144" crc="83dd7f9b"/>
+		<rom name="d66-01.ic2" merge="d66-01.ic2" size="2097152" crc="58c92efa"/>
+		<rom name="d66-02.ic3" merge="d66-02.ic3" size="2097152" crc="dcdafaab"/>
+		<video type="raster" orientation="vertical" width="224" height="320" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/13588/hashes</url>
+		<hash>eda1ae4204bdc9068ae02162015e84d7</hash>
+	</game>
+	
 	<game name="rbff1">
 		<description>Real Bout Fatal Fury / Real Bout Garou Densetsu (NGM-095 ~ NGH-095)</description>
 		<category>Retail</category>
@@ -16433,6 +16502,68 @@
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/15868/hashes</url>
 		<hash>523BFAE43809C4B9C59664CDD0D88E3A</hash>
+	</game>
+	
+	<game name="sharrier">
+		<description>Space Harrier (Rev A, 8751 315-5163A)</description>
+		<category>Retail</category>
+		<release name="sharrier" region="World"/>
+		<rom name="epr-7188a.ic97" size="32768" crc="45e173c3"/>
+		<rom name="epr-7184a.ic84" size="32768" crc="e1934a51"/>
+		<rom name="epr-7189.ic98" size="32768" crc="40b1309f"/>
+		<rom name="epr-7185.ic85" size="32768" crc="ce78045c"/>
+		<rom name="epr-7190.ic99" size="32768" crc="f6391091"/>
+		<rom name="epr-7186.ic86" size="32768" crc="79b367d7"/>
+		<rom name="epr-7191.ic100" size="32768" crc="6171e9d3"/>
+		<rom name="epr-7187.ic87" size="32768" crc="70cb72ef"/>
+		<rom name="epr-7182.ic54" size="32768" crc="d7c535b6"/>
+		<rom name="epr-7183.ic67" size="32768" crc="a6153af8"/>
+		<rom name="epr-7196.ic31" size="32768" crc="347fa325"/>
+		<rom name="epr-7197.ic46" size="32768" crc="39d98bd1"/>
+		<rom name="epr-7198.ic60" size="32768" crc="3da3ea6b"/>
+		<rom name="epr-7230.ic36" size="32768" crc="93e2d264"/>
+		<rom name="epr-7222.ic28" size="32768" crc="edbf5fc3"/>
+		<rom name="epr-7214.ic18" size="32768" crc="e8c537d8"/>
+		<rom name="epr-7206.ic8" size="32768" crc="22844fa4"/>
+		<rom name="epr-7229.ic35" size="32768" crc="cd6e7500"/>
+		<rom name="epr-7221.ic27" size="32768" crc="41f25a9c"/>
+		<rom name="epr-7213.ic17" size="32768" crc="5bb09a67"/>
+		<rom name="epr-7205.ic7" size="32768" crc="dcaa2ebf"/>
+		<rom name="epr-7228.ic34" size="32768" crc="d5e15e66"/>
+		<rom name="epr-7220.ic26" size="32768" crc="ac62ae2e"/>
+		<rom name="epr-7212.ic16" size="32768" crc="9c782295"/>
+		<rom name="epr-7204.ic6" size="32768" crc="3711105c"/>
+		<rom name="epr-7227.ic33" size="32768" crc="60d7c1bb"/>
+		<rom name="epr-7219.ic25" size="32768" crc="f6330038"/>
+		<rom name="epr-7211.ic15" size="32768" crc="60737b98"/>
+		<rom name="epr-7203.ic5" size="32768" crc="70fb5ebb"/>
+		<rom name="epr-7226.ic32" size="32768" crc="6d7b5c97"/>
+		<rom name="epr-7218.ic24" size="32768" crc="cebf797c"/>
+		<rom name="epr-7210.ic14" size="32768" crc="24596a8b"/>
+		<rom name="epr-7202.ic4" size="32768" crc="b537d082"/>
+		<rom name="epr-7225.ic31" size="32768" crc="5e784271"/>
+		<rom name="epr-7217.ic23" size="32768" crc="510e5e10"/>
+		<rom name="epr-7209.ic13" size="32768" crc="7a2dad15"/>
+		<rom name="epr-7201.ic3" size="32768" crc="f5ba4e08"/>
+		<rom name="epr-7224.ic30" size="32768" crc="ec42c9ef"/>
+		<rom name="epr-7216.ic22" size="32768" crc="6d4a7d7a"/>
+		<rom name="epr-7208.ic12" size="32768" crc="0f732717"/>
+		<rom name="epr-7200.ic2" size="32768" crc="fc3bf8f3"/>
+		<rom name="epr-7223.ic29" size="32768" crc="ed51fdc4"/>
+		<rom name="epr-7215.ic21" size="32768" crc="dfe75f3d"/>
+		<rom name="epr-7207.ic11" size="32768" crc="a2c07741"/>
+		<rom name="epr-7199.ic1" size="32768" crc="b191e22f"/>
+		<rom name="epr-7181.ic2" size="32768" crc="b4740419"/>
+		<rom name="epr-7234.ic73" size="16384" crc="d6397933"/>
+		<rom name="epr-7233.ic72" size="16384" crc="504e76d9"/>
+		<rom name="epr-7231.ic5" size="32768" crc="871c6b14"/>
+		<rom name="epr-7232.ic6" size="32768" crc="4b59340c"/>
+		<rom name="epr-6844.ic123" size="8192" crc="e3ec7bd6"/>
+		<rom name="315-5163a.ic32" size="4096" crc="203dffeb"/>
+		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12407/hashes</url>
+		<hash>3548f065b58393d52a24761ee87937bf</hash>
 	</game>
 	
 	<game name="invaders">

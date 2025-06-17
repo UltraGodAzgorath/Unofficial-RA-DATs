@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>1G1R</category>
-		<version>20250603</version>
-		<date>03 June 2025</date>
+		<version>20250617</version>
+		<date>17 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/4/games</url>
@@ -1937,21 +1937,6 @@
 		<hash>7d776329212fa7cc2b00c5a46f06dd92</hash>
 	</game>
 	
-	<game name="Meitantei Conan - Chika Yuuenchi Satsujin Jiken (Japan) (SGB Enhanced)">
-		<category>Retail</category>
-		<description>Meitantei Conan - Chika Yuuenchi Satsujin Jiken (Japan) (SGB Enhanced)</description>
-		<rom name="Meitantei Conan - Chika Yuuenchi Satsujin Jiken (Japan) (SGB Enhanced).gb" size="262144" crc="3945bc0d" md5="7ab8eb19c5356f62bcc3fa2a8f1aba1f" sha1="2ab6749d2abaf3fc3cb9317f64cec78e0184ff6b"/>
-		<url>https://retroachievements.org/game/5215/hashes</url>
-		<hash>7ab8eb19c5356f62bcc3fa2a8f1aba1f</hash>
-	</game>
-	<game name="Detective Conan - The Underground Amusement Park Murder Case (Japan) (Fr) (kerneloops) (v1.0)">
-		<category>Retail</category>
-		<description>Detective Conan - The Underground Amusement Park Murder Case (Japan) (Fr) (kerneloops) (v1.0)</description>
-		<rom name="Detective Conan - The Underground Amusement Park Murder Case (Japan) (Fr) (kerneloops) (v1.0).gb" size="524288" crc="c0edcbc0" md5="b6db91e62c675f165d9243426437dc50" sha1="a6e8787fcb3b87ef9106585f7fc2ff218585a775"/>
-		<url>https://retroachievements.org/game/5215/hashes</url>
-		<hash>b6db91e62c675f165d9243426437dc50</hash>
-	</game>
-	
 	<game name="Donkey Kong (World) (Rev 1) (SGB Enhanced)">
 		<category>Retail</category>
 		<description>Donkey Kong (World) (Rev 1) (SGB Enhanced)</description>
@@ -3105,6 +3090,21 @@
 		<rom name="Megalit (USA, Europe).gb" size="65536" crc="f315b842" md5="45b5142059907dbd92aaf3f8d003721b" sha1="7f3f6b1cc543228bcdd336dfcd1865a3c8d7d177"/>
 		<url>https://retroachievements.org/game/2454/hashes</url>
 		<hash>45b5142059907dbd92aaf3f8d003721b</hash>
+	</game>
+	
+	<game name="Meitantei Conan - Chika Yuuenchi Satsujin Jiken (Japan) (SGB Enhanced)">
+		<category>Retail</category>
+		<description>Meitantei Conan - Chika Yuuenchi Satsujin Jiken (Japan) (SGB Enhanced)</description>
+		<rom name="Meitantei Conan - Chika Yuuenchi Satsujin Jiken (Japan) (SGB Enhanced).gb" size="262144" crc="3945bc0d" md5="7ab8eb19c5356f62bcc3fa2a8f1aba1f" sha1="2ab6749d2abaf3fc3cb9317f64cec78e0184ff6b"/>
+		<url>https://retroachievements.org/game/5215/hashes</url>
+		<hash>7ab8eb19c5356f62bcc3fa2a8f1aba1f</hash>
+	</game>
+	<game name="Detective Conan - The Underground Amusement Park Murder Case (Japan) (Fr) (kerneloops) (v1.0)">
+		<category>Retail</category>
+		<description>Detective Conan - The Underground Amusement Park Murder Case (Japan) (Fr) (kerneloops) (v1.0)</description>
+		<rom name="Detective Conan - The Underground Amusement Park Murder Case (Japan) (Fr) (kerneloops) (v1.0).gb" size="524288" crc="c0edcbc0" md5="b6db91e62c675f165d9243426437dc50" sha1="a6e8787fcb3b87ef9106585f7fc2ff218585a775"/>
+		<url>https://retroachievements.org/game/5215/hashes</url>
+		<hash>b6db91e62c675f165d9243426437dc50</hash>
 	</game>
 	
 	<game name="Mercenary Force (USA, Europe)">

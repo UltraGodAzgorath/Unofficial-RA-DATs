@@ -5,8 +5,8 @@
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
 		<category>1G1R</category>
-		<version>20250601</version>
-		<date>01 June 2025</date>
+		<version>20250617</version>
+		<date>17 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/16/games</url>
@@ -493,6 +493,14 @@
 		<rom name="Dragon Ball Z - Budokai 2 (USA) (Subset - World Tournament).rvz" size="790412644" crc="d98992b9" md5="e7e4a6b02c934a8db77978907a69cb6d" sha1="fe020d6a6d813c34c10debe38a2e3b9d2b993c55"/>
 		<url>https://retroachievements.org/game/30720/hashes</url>
 		<hash>94E6534230A5A2D60F140759E6B712ED</hash>
+	</game>
+	
+	<game name="Ed, Edd n Eddy - The Mis-Edventures (USA) (En,Fr)">
+		<category>Retail</category>
+		<description>Ed, Edd n Eddy - The Mis-Edventures (USA) (En,Fr)</description>
+		<rom name="Ed, Edd n Eddy - The Mis-Edventures (USA) (En,Fr).rvz" size="508836868" crc="241215d7" md5="dc5c79b7ef6a64be4c503938371229b5" sha1="aa9beeaf54396ad7a7d1599fb70087fb5fc8830b"/>
+		<url>https://retroachievements.org/game/30245/hashes</url>
+		<hash>09be56dcfe7a43b9ff185f0a57b74026</hash>
 	</game>
 	
 	<game name="Egg Mania - Eggstreme Madness (USA) (Rev 1)">

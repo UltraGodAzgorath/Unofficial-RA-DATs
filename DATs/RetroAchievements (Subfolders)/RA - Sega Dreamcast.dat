@@ -1118,31 +1118,6 @@
 		<hash>710963461fcb3c5ca76cdd758e097744</hash>
 	</game>
 	
-	<game name="Shin Seiki Evangelion - Typing Hokan Keikaku (Japan)">
-		<category>Retail</category>
-		<description>Shin Seiki Evangelion - Typing Hokan Keikaku (Japan)</description>
-		<rom name="Shin Seiki Evangelion - Typing Hokan Keikaku (Japan).cue" size="747" crc="de0b7ee1" md5="73ea0e04bdffa1784f2590f74492fb14" sha1="b15153028603c50c4875480b54761e5565f85a0c"/>
-		<rom name="Shin Seiki Evangelion - Typing Hokan Keikaku (Japan) (Track 1).bin" size="1989792" crc="eac516b3" md5="4f6fce2a315b27deece0196041996ab4" sha1="74dd9036ac9a85172d98f32fa4fabdce4a2a7963"/>
-		<rom name="Shin Seiki Evangelion - Typing Hokan Keikaku (Japan) (Track 2).bin" size="2215584" crc="7c4c093f" md5="d30b8f1b4b4bcde1f1af459eff9b4f56" sha1="76d884c59c6198a54bd0daf13d80241a659f1354"/>
-		<rom name="Shin Seiki Evangelion - Typing Hokan Keikaku (Japan) (Track 3).bin" size="1180708704" crc="0be084c4" md5="6adf1819e0d861358a8c56e73a670945" sha1="31e46deb60d2c82918be85ac44f3df115fc5b9d7"/>
-		<rom name="Shin Seiki Evangelion - Typing Hokan Keikaku (Japan) (Track 4).bin" size="1735776" crc="5794831d" md5="0e5ffc3bb7e5718fd8c6461cda47c4c8" sha1="7655dc694846b27043e13ccb1044ac9e79f00669"/>
-		<rom name="Shin Seiki Evangelion - Typing Hokan Keikaku (Japan) (Track 5).bin" size="3316320" crc="b9ffab7d" md5="a3dce4b884a100db91efa7686fe30d1c" sha1="27e2a8f1b64d173aed6485cc947d6809cfc97e56"/>
-		<url>https://retroachievements.org/game/10837/hashes</url>
-		<hash>37ffaf4e5e755f120b88bcefbe53f291</hash>
-	</game>
-	<game name="Neon Genesis Evangelion - Typing Project Advanced (Japan) (En) (Derek Pascarella) (v1.0)">
-		<category>Retail</category>
-		<description>Neon Genesis Evangelion - Typing Project Advanced (Japan) (En) (Derek Pascarella) (v1.0)</description>
-		<rom name="Neon Genesis Evangelion - Typing Project Advanced (Japan) (En) (Derek Pascarella) (v1.0).gdi" size="604" crc="ecc19e44" md5="078f232c4b9088b15f9eb5afe73ce0da" sha1="9e8cbad938a982ef05d6be1fc0e407b12e688bda"/>
-		<rom name="Neon_Genesis_Evangelion_-_Typing_Project_Advanced_(Japan)_(En)_(Derek_Pascarella)_(v1.0)_(Track_1).bin" size="1989792" crc="eac516b3" md5="4f6fce2a315b27deece0196041996ab4" sha1="74dd9036ac9a85172d98f32fa4fabdce4a2a7963"/>
-		<rom name="Neon_Genesis_Evangelion_-_Typing_Project_Advanced_(Japan)_(En)_(Derek_Pascarella)_(v1.0)_(Track_2).raw" size="1862784" crc="0474c91b" md5="7a7e3566586d34a159edb15d26c934e5" sha1="c281493191ff4c128673b28f3796ecbf343ac017"/>
-		<rom name="Neon_Genesis_Evangelion_-_Typing_Project_Advanced_(Japan)_(En)_(Derek_Pascarella)_(v1.0)_(Track_3).bin" size="1079932560" crc="3c43243b" md5="e1feabbdc86da1c9feded2c436ebf4db" sha1="292cb050d640c3044d6c27ad4142d0d5a0fe98ce"/>
-		<rom name="Neon_Genesis_Evangelion_-_Typing_Project_Advanced_(Japan)_(En)_(Derek_Pascarella)_(v1.0)_(Track_4).raw" size="1382976" crc="d87b5dc8" md5="16c462acfd85f109645ce7cb9a3d693c" sha1="b93dfa19b31c6b4eff435131757f57071b5dfd0c"/>
-		<rom name="Neon_Genesis_Evangelion_-_Typing_Project_Advanced_(Japan)_(En)_(Derek_Pascarella)_(v1.0)_(Track_5).bin" size="103739664" crc="a3699099" md5="f3c8c53841e63b27de94b0d22b003cd9" sha1="57457451f9753c9da54ec74be62820fe6fcd881d"/>
-		<url>https://retroachievements.org/game/10837/hashes</url>
-		<hash>740f7b62a860aa25cb078486fd1a8343</hash>
-	</game>
-	
 	<game name="PenPen (Europe) (En,Fr,De,Es,It,Nl)">
 		<category>Retail</category>
 		<description>PenPen (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -1998,6 +1973,31 @@
 		<rom name="Shin Seiki Evangelion - Typing E Keikaku (Japan) (Track 5).bin" size="3316320" crc="90eb6673" md5="f8739a539c2c6a4cecdb968532d8a454" sha1="c45c96a186051602b010d15db9072f23cfd89f91"/>
 		<url>https://retroachievements.org/game/10830/hashes</url>
 		<hash>723a43a6749749c72724eca18d7f70b7</hash>
+	</game>
+	
+	<game name="Shin Seiki Evangelion - Typing Hokan Keikaku (Japan)">
+		<category>Retail</category>
+		<description>Shin Seiki Evangelion - Typing Hokan Keikaku (Japan)</description>
+		<rom name="Shin Seiki Evangelion - Typing Hokan Keikaku (Japan).cue" size="747" crc="de0b7ee1" md5="73ea0e04bdffa1784f2590f74492fb14" sha1="b15153028603c50c4875480b54761e5565f85a0c"/>
+		<rom name="Shin Seiki Evangelion - Typing Hokan Keikaku (Japan) (Track 1).bin" size="1989792" crc="eac516b3" md5="4f6fce2a315b27deece0196041996ab4" sha1="74dd9036ac9a85172d98f32fa4fabdce4a2a7963"/>
+		<rom name="Shin Seiki Evangelion - Typing Hokan Keikaku (Japan) (Track 2).bin" size="2215584" crc="7c4c093f" md5="d30b8f1b4b4bcde1f1af459eff9b4f56" sha1="76d884c59c6198a54bd0daf13d80241a659f1354"/>
+		<rom name="Shin Seiki Evangelion - Typing Hokan Keikaku (Japan) (Track 3).bin" size="1180708704" crc="0be084c4" md5="6adf1819e0d861358a8c56e73a670945" sha1="31e46deb60d2c82918be85ac44f3df115fc5b9d7"/>
+		<rom name="Shin Seiki Evangelion - Typing Hokan Keikaku (Japan) (Track 4).bin" size="1735776" crc="5794831d" md5="0e5ffc3bb7e5718fd8c6461cda47c4c8" sha1="7655dc694846b27043e13ccb1044ac9e79f00669"/>
+		<rom name="Shin Seiki Evangelion - Typing Hokan Keikaku (Japan) (Track 5).bin" size="3316320" crc="b9ffab7d" md5="a3dce4b884a100db91efa7686fe30d1c" sha1="27e2a8f1b64d173aed6485cc947d6809cfc97e56"/>
+		<url>https://retroachievements.org/game/10837/hashes</url>
+		<hash>37ffaf4e5e755f120b88bcefbe53f291</hash>
+	</game>
+	<game name="Neon Genesis Evangelion - Typing Project Advanced (Japan) (En) (Derek Pascarella) (v1.0)">
+		<category>Retail</category>
+		<description>Neon Genesis Evangelion - Typing Project Advanced (Japan) (En) (Derek Pascarella) (v1.0)</description>
+		<rom name="Neon Genesis Evangelion - Typing Project Advanced (Japan) (En) (Derek Pascarella) (v1.0).gdi" size="604" crc="ecc19e44" md5="078f232c4b9088b15f9eb5afe73ce0da" sha1="9e8cbad938a982ef05d6be1fc0e407b12e688bda"/>
+		<rom name="Neon_Genesis_Evangelion_-_Typing_Project_Advanced_(Japan)_(En)_(Derek_Pascarella)_(v1.0)_(Track_1).bin" size="1989792" crc="eac516b3" md5="4f6fce2a315b27deece0196041996ab4" sha1="74dd9036ac9a85172d98f32fa4fabdce4a2a7963"/>
+		<rom name="Neon_Genesis_Evangelion_-_Typing_Project_Advanced_(Japan)_(En)_(Derek_Pascarella)_(v1.0)_(Track_2).raw" size="1862784" crc="0474c91b" md5="7a7e3566586d34a159edb15d26c934e5" sha1="c281493191ff4c128673b28f3796ecbf343ac017"/>
+		<rom name="Neon_Genesis_Evangelion_-_Typing_Project_Advanced_(Japan)_(En)_(Derek_Pascarella)_(v1.0)_(Track_3).bin" size="1079932560" crc="3c43243b" md5="e1feabbdc86da1c9feded2c436ebf4db" sha1="292cb050d640c3044d6c27ad4142d0d5a0fe98ce"/>
+		<rom name="Neon_Genesis_Evangelion_-_Typing_Project_Advanced_(Japan)_(En)_(Derek_Pascarella)_(v1.0)_(Track_4).raw" size="1382976" crc="d87b5dc8" md5="16c462acfd85f109645ce7cb9a3d693c" sha1="b93dfa19b31c6b4eff435131757f57071b5dfd0c"/>
+		<rom name="Neon_Genesis_Evangelion_-_Typing_Project_Advanced_(Japan)_(En)_(Derek_Pascarella)_(v1.0)_(Track_5).bin" size="103739664" crc="a3699099" md5="f3c8c53841e63b27de94b0d22b003cd9" sha1="57457451f9753c9da54ec74be62820fe6fcd881d"/>
+		<url>https://retroachievements.org/game/10837/hashes</url>
+		<hash>740f7b62a860aa25cb078486fd1a8343</hash>
 	</game>
 	
 	<game name="Silent Scope (Europe) (En,Fr,De,Es,It)">

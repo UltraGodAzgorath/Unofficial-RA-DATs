@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation 2</name>
 		<description>Sony Playstation 2</description>
 		<category>1G1R</category>
-		<version>20250616</version>
-		<date>16 June 2025</date>
+		<version>20250617</version>
+		<date>17 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -3485,6 +3485,15 @@
 		<rom name="Hot Wheels - Velocity X - Maximum Justice (USA) (Widescreen) (v1.0) (Souzooka).iso" size="1674903552" crc="82525a5f" md5="f509d66edce0a0a5b5980db5567b1abf" sha1="c159195e85af709d9c3706131a359efaae606585"/>
 		<url>https://retroachievements.org/game/20583/hashes</url>
 		<hash>6ca84579c9f55b72eeb03ee42a1ba9dc</hash>
+	</game>
+	
+	<game name="Hyper Street Fighter II - The Anniversary Edition (Europe)">
+		<category>Retail</category>
+		<description>Hyper Street Fighter II - The Anniversary Edition (Europe)</description>
+		<release name="Hyper Street Fighter II - The Anniversary Edition (Europe)" region="Europe"/>
+		<rom name="Hyper Street Fighter II - The Anniversary Edition (Europe).iso" size="2488598528" crc="c27a8b15" md5="7e728fdebb77ab6b6683b783810fd629" sha1="b6bbdc82c4f8d14fbb5760046d70ac1cb8277d2d"/>
+		<url>https://retroachievements.org/game/24042/hashes</url>
+		<hash>483027f51667988a8ce553a124eca27e</hash>
 	</game>
 	
 	<game name="I-Ninja (Europe) (En,Fr,De,Es,It) (Anti-Cheat) (v1.0) (Souzooka)" cloneof="I-Ninja (Europe) (En,Fr,De,Es,It) (Anti-Cheat + Progressive) (v1.0) (Souzooka)">
@@ -7601,6 +7610,25 @@
 		<rom name="Zombie Zone - Other Side (Europe).bin" size="542126592" crc="408ddbce" md5="9c6a7abeea539dc0d15c2d00a08bee67" sha1="fdaccd409fb2ed22f7019057956f87bb9d21ce44"/>
 		<url>https://retroachievements.org/game/28922/hashes</url>
 		<hash>71a9533cab9af87dd43abab083d60669</hash>
+	</game>
+	
+	<game name="Zombie Hunters 2 (Europe)">
+		<category>Retail</category>
+		<description>Zombie Hunters 2 (Europe)</description>
+		<release name="Zombie Hunters 2 (Europe)" region="Europe"/>
+		<rom name="Zombie Hunters 2 (Europe).cue" size="91" crc="8994a69a" md5="39321ea21cd2c4e9e3eb3bab043c0fa3" sha1="e794941b726479aed0807a50d58e24610890fc67"/>
+		<rom name="Zombie Hunters 2 (Europe).bin" size="745134768" crc="85317258" md5="ef2edf595373981a0b812e53d55c369b" sha1="e5fac475bc5d814c37a21e63d0ef3f15b8e78a6d"/>
+		<url>https://retroachievements.org/game/28925/hashes</url>
+		<hash>f027ffce9dd5932da49e1c447d2b3965</hash>
+	</game>
+	<game name="Simple 2000 Series Vol. 101 - The OneeChampon - The Nee-chan 2 Tokubetsu-hen (Japan)" cloneof="Zombie Hunters 2 (Europe)">
+		<category>Retail</category>
+		<description>Simple 2000 Series Vol. 101 - The OneeChampon - The Nee-chan 2 Tokubetsu-hen (Japan)</description>
+		<release name="Simple 2000 Series Vol. 101 - The OneeChampon - The Nee-chan 2 Tokubetsu-hen (Japan)" region="Japan"/>
+		<rom name="Simple 2000 Series Vol. 101 - The OneeChampon - The Nee-chan 2 Tokubetsu-hen (Japan).cue" size="150" crc="0aedfa95" md5="1b1d1f5a47ce374f870037cd3dea2251" sha1="1226c2ce129151b4a0f34819a43c1c9d7f7c5c91"/>
+		<rom name="Simple 2000 Series Vol. 101 - The OneeChampon - The Nee-chan 2 Tokubetsu-hen (Japan).bin" size="744600864" crc="4b8c67f2" md5="a840fb500e80cc45ac117a377c21da5d" sha1="d999704577c6bf73fe2a30c5c89f6b92f9562371"/>
+		<url>https://retroachievements.org/game/28925/hashes</url>
+		<hash>58aec712b1b539f396ad81f2bb726169</hash>
 	</game>
 	
 	<game name="Polar Express, The (USA)">

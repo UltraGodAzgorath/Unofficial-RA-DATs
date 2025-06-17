@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Color</name>
 		<description>Nintendo Game Boy Color</description>
 		<category>1G1R</category>
-		<version>20250612</version>
-		<date>12 June 2025</date>
+		<version>20250617</version>
+		<date>17 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/6/games</url>
@@ -1672,40 +1672,6 @@
 		<hash>11d3ca80ad24431babbec7a675d83bed</hash>
 	</game>
 	
-	<game name="Meitantei Conan - Kigantou Hihou Densetsu (Japan) (En) (mz) (v0.04) (SGB Enhanced) (GB Compatible)" cloneof="Meitantei Conan - Kigantou Hihou Densetsu (Japan) (SGB Enhanced) (GB Compatible)">
-		<category>Retail</category>
-		<description>Meitantei Conan - Kigantou Hihou Densetsu (Japan) (En) (mz) (v0.04) (SGB Enhanced) (GB Compatible)</description>
-		<release name="Meitantei Conan - Kigantou Hihou Densetsu (Japan) (En) (mz) (v0.04) (SGB Enhanced) (GB Compatible)" region="English"/>
-		<rom name="Meitantei Conan - Kigantou Hihou Densetsu (Japan) (En) (mz) (v0.04) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="194921e5" md5="09f6430f0847ec793ff95057fdacac1d" sha1="7ca15cd02a440b9bb9435ae443ffee578f9a5a2e"/>
-		<url>https://retroachievements.org/game/12864/hashes</url>
-		<hash>09f6430f0847ec793ff95057fdacac1d</hash>
-	</game>
-	<game name="Meitantei Conan - Kigantou Hihou Densetsu (Japan) (SGB Enhanced) (GB Compatible)">
-		<category>Retail</category>
-		<description>Meitantei Conan - Kigantou Hihou Densetsu (Japan) (SGB Enhanced) (GB Compatible)</description>
-		<release name="Meitantei Conan - Kigantou Hihou Densetsu (Japan) (SGB Enhanced) (GB Compatible)" region="Japan"/>
-		<rom name="Meitantei Conan - Kigantou Hihou Densetsu (Japan) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="e620fae2" md5="f5325eaf1ecbf7cd6e1e561a3b5d77f7" sha1="cd3f8015e5b708f1eb14c374042a1701eeaafc4f"/>
-		<url>https://retroachievements.org/game/12864/hashes</url>
-		<hash>f5325eaf1ecbf7cd6e1e561a3b5d77f7</hash>
-	</game>
-	
-	<game name="Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (En) (Psyklax) (v1.0) (SGB Enhanced)" cloneof="Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (SGB Enhanced) (GB Compatible)">
-		<category>Retail</category>
-		<description>Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (En) (Psyklax) (v1.0) (SGB Enhanced)</description>
-		<release name="Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (En) (Psyklax) (v1.0) (SGB Enhanced)" region="English"/>
-		<rom name="Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (En) (Psyklax) (v1.0) (SGB Enhanced).gbc" size="1048576" crc="4a586ad3" md5="1689c2205cc7b3bd020e85d2ea73fdf7" sha1="27185599dd6f0da93464a729306db1ac10818ae0"/>
-		<url>https://retroachievements.org/game/12804/hashes</url>
-		<hash>1689c2205cc7b3bd020e85d2ea73fdf7</hash>
-	</game>
-	<game name="Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (SGB Enhanced) (GB Compatible)">
-		<category>Retail</category>
-		<description>Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (SGB Enhanced) (GB Compatible)</description>
-		<release name="Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (SGB Enhanced) (GB Compatible)" region="Japan"/>
-		<rom name="Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="3b5f24fc" md5="3a3e92c106a8674642e0ee3c0c793a9f" sha1="a418ff2f97536e105b4f0a1bd4bb3fa31f911a7d"/>
-		<url>https://retroachievements.org/game/12804/hashes</url>
-		<hash>3a3e92c106a8674642e0ee3c0c793a9f</hash>
-	</game>
-	
 	<game name="Dexter's Laboratory - Robot Rampage (USA, Europe)">
 		<category>Retail</category>
 		<description>Dexter's Laboratory - Robot Rampage (USA, Europe)</description>
@@ -2690,6 +2656,40 @@
 		<rom name="Megami Tensei Gaiden - Last Bible II (Japan) (En) (v1.0) (EsperKnight).gbc" size="1048576" crc="007b4804" md5="5c426fda8368066cf7e30587876af631" sha1="6f2ba0de137cfc3be136f6477dd84873663745a0"/>
 		<url>https://retroachievements.org/game/8009/hashes</url>
 		<hash>5c426fda8368066cf7e30587876af631</hash>
+	</game>
+	
+	<game name="Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (En) (Psyklax) (v1.0) (SGB Enhanced)" cloneof="Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (SGB Enhanced) (GB Compatible)">
+		<category>Retail</category>
+		<description>Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (En) (Psyklax) (v1.0) (SGB Enhanced)</description>
+		<release name="Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (En) (Psyklax) (v1.0) (SGB Enhanced)" region="English"/>
+		<rom name="Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (En) (Psyklax) (v1.0) (SGB Enhanced).gbc" size="1048576" crc="4a586ad3" md5="1689c2205cc7b3bd020e85d2ea73fdf7" sha1="27185599dd6f0da93464a729306db1ac10818ae0"/>
+		<url>https://retroachievements.org/game/12804/hashes</url>
+		<hash>1689c2205cc7b3bd020e85d2ea73fdf7</hash>
+	</game>
+	<game name="Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (SGB Enhanced) (GB Compatible)">
+		<category>Retail</category>
+		<description>Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (SGB Enhanced) (GB Compatible)</description>
+		<release name="Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (SGB Enhanced) (GB Compatible)" region="Japan"/>
+		<rom name="Meitantei Conan - Karakuri Jiin Satsujin Jiken (Japan) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="3b5f24fc" md5="3a3e92c106a8674642e0ee3c0c793a9f" sha1="a418ff2f97536e105b4f0a1bd4bb3fa31f911a7d"/>
+		<url>https://retroachievements.org/game/12804/hashes</url>
+		<hash>3a3e92c106a8674642e0ee3c0c793a9f</hash>
+	</game>
+	
+	<game name="Meitantei Conan - Kigantou Hihou Densetsu (Japan) (En) (mz) (v0.04) (SGB Enhanced) (GB Compatible)" cloneof="Meitantei Conan - Kigantou Hihou Densetsu (Japan) (SGB Enhanced) (GB Compatible)">
+		<category>Retail</category>
+		<description>Meitantei Conan - Kigantou Hihou Densetsu (Japan) (En) (mz) (v0.04) (SGB Enhanced) (GB Compatible)</description>
+		<release name="Meitantei Conan - Kigantou Hihou Densetsu (Japan) (En) (mz) (v0.04) (SGB Enhanced) (GB Compatible)" region="English"/>
+		<rom name="Meitantei Conan - Kigantou Hihou Densetsu (Japan) (En) (mz) (v0.04) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="194921e5" md5="09f6430f0847ec793ff95057fdacac1d" sha1="7ca15cd02a440b9bb9435ae443ffee578f9a5a2e"/>
+		<url>https://retroachievements.org/game/12864/hashes</url>
+		<hash>09f6430f0847ec793ff95057fdacac1d</hash>
+	</game>
+	<game name="Meitantei Conan - Kigantou Hihou Densetsu (Japan) (SGB Enhanced) (GB Compatible)">
+		<category>Retail</category>
+		<description>Meitantei Conan - Kigantou Hihou Densetsu (Japan) (SGB Enhanced) (GB Compatible)</description>
+		<release name="Meitantei Conan - Kigantou Hihou Densetsu (Japan) (SGB Enhanced) (GB Compatible)" region="Japan"/>
+		<rom name="Meitantei Conan - Kigantou Hihou Densetsu (Japan) (SGB Enhanced) (GB Compatible).gbc" size="1048576" crc="e620fae2" md5="f5325eaf1ecbf7cd6e1e561a3b5d77f7" sha1="cd3f8015e5b708f1eb14c374042a1701eeaafc4f"/>
+		<url>https://retroachievements.org/game/12864/hashes</url>
+		<hash>f5325eaf1ecbf7cd6e1e561a3b5d77f7</hash>
 	</game>
 	
 	<game name="Metal Gear Solid (Europe) (En,Fr,De,Es,It)">

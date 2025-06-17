@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>1G1R</category>
-		<version>20250603</version>
-		<date>03 June 2025</date>
+		<version>20250617</version>
+		<date>17 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -633,6 +633,22 @@
 		<rom name="Pokemon FR - Liquid Crystal Version (Hack).gba" size="16777216" crc="6a761d9f" md5="e2cf937901114df0928ea29443525986" sha1="7acf9d4c14b570a375402cb4dd2619f910a8a45b"/>
 		<url>https://retroachievements.org/game/4964/hashes</url>
 		<hash>e2cf937901114df0928ea29443525986</hash>
+	</game>
+	
+	<game name="Pokemon FR - Pokemon Odyssey (v4.0) (Yggdrasil Project) (Hack)" cloneof="Pokemon FR - Pokemon Odyssey (v4.0.1) (Yggdrasil Project) (Hack)">
+		<category>Hack</category>
+		<description>Pokemon FR - Pokemon Odyssey (v4.0) (Yggdrasil Project) (Hack)</description>
+		<rom name="Pokemon FR - Pokemon Odyssey (v4.0) (Yggdrasil Project) (Hack).gba" size="33554432" crc="89edb0b7" md5="6074f5ee69d1af489a48cfa3d9492ceb" sha1="6436fb76cc1a99b7cbafbe84a5240e2192f16dcf"/>
+		<url>https://retroachievements.org/game/33063/hashes</url>
+		<hash>6074f5ee69d1af489a48cfa3d9492ceb</hash>
+	</game>
+	<game name="Pokemon FR - Pokemon Odyssey (v4.0.1) (Yggdrasil Project) (Hack)">
+		<category>Hack</category>
+		<description>Pokemon FR - Pokemon Odyssey (v4.0.1) (Yggdrasil Project) (Hack)</description>
+		<release name="Pokemon FR - Pokemon Odyssey (v4.0.1) (Yggdrasil Project) (Hack)" region="World"/>
+		<rom name="Pokemon FR - Pokemon Odyssey (v4.0.1) (Yggdrasil Project) (Hack).gba" size="33554432" crc="af0d9f56" md5="f08d1b00fdd11bbb7a0a7b26b1e34e3f" sha1="47d86103576f4d8f35e49b8fca4f133c72c2417c"/>
+		<url>https://retroachievements.org/game/33063/hashes</url>
+		<hash>f08d1b00fdd11bbb7a0a7b26b1e34e3f</hash>
 	</game>
 	
 	<game name="Pokemon FR - Radical Red (Hack)">
@@ -3103,6 +3119,13 @@
 		<url>https://retroachievements.org/game/750/hashes</url>
 		<hash>c1fb9badf816b6d7836f4990f8119815</hash>
 	</game>
+	<game name="Donkey Kong Country (Europe) (Palette Restoration) (v1.1) (marc_max)" cloneof="Donkey Kong Country (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Donkey Kong Country (Europe) (Palette Restoration) (v1.1) (marc_max)</description>
+		<rom name="Donkey Kong Country (Europe) (Palette Restoration) (v1.1) (marc_max).gba" size="8388608" crc="c05c1406" md5="484221c32a7fb6c5baf21e4d34ada297" sha1="005b5571e169c45a0649fdb2cc52729f9d6b4116"/>
+		<url>https://retroachievements.org/game/750/hashes</url>
+		<hash>484221c32a7fb6c5baf21e4d34ada297</hash>
+	</game>
 	
 	<game name="Donkey Kong Country 2 (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
@@ -3242,6 +3265,14 @@
 		<rom name="Dragon Ball Z - Buu's Fury (USA).gba" size="8388608" crc="01c1707f" md5="3a74fce97f1ea2b28c2a50ec3df0acee" sha1="f1c4b07554d2a3b1ad2f325307051e775ce68087"/>
 		<url>https://retroachievements.org/game/754/hashes</url>
 		<hash>3a74fce97f1ea2b28c2a50ec3df0acee</hash>
+	</game>
+	<game name="Dragon Ball Z - A Fúria de Boo (Pt) (v1.0)" cloneof="Dragon Ball Z - Buu's Fury (USA)">
+		<category>Retail</category>
+		<description>Dragon Ball Z - A Fúria de Boo (Pt) (v1.0)</description>
+		<release name="Dragon Ball Z - A Fúria de Boo (Pt) (v1.0)" region="Portugal"/>
+		<rom name="Dragon Ball Z - A Fúria de Boo (Pt) (v1.0).gba" size="16777219" crc="8a5ad904" md5="15213777d023172ae282eed0482d09d6" sha1="b50b91867d8084bcfb9389fede8c4473b95eb32a"/>
+		<url>https://retroachievements.org/game/754/hashes</url>
+		<hash>15213777d023172ae282eed0482d09d6</hash>
 	</game>
 	
 	<game name="Dragon Ball Z - Collectible Card Game (USA)">
@@ -7222,6 +7253,22 @@
 		<rom name="Shaman King - Master of Spirits 2 (USA) (Pt) (Trans-Center).gba" size="16777216" crc="10b40348" md5="f2c6cd5ee767f6f623874a54371fbb78" sha1="728350c166f86dd940239b78ad67735e34c2ceb6"/>
 		<url>https://retroachievements.org/game/4092/hashes</url>
 		<hash>f2c6cd5ee767f6f623874a54371fbb78</hash>
+	</game>
+	
+	<game name="Shantae Advance - Risky Revolution (World) (Limited Run Games)" cloneof="Shantae Advance - Risky Revolution (EEPROM &amp; SRAM Save Fix) (v1.0) (Wokann)">
+		<category>Retail</category>
+		<description>Shantae Advance - Risky Revolution (World) (Limited Run Games)</description>
+		<rom name="Shantae Advance - Risky Revolution (World) (Limited Run Games).gba" size="16777216" crc="31265c5d" md5="a82bd152baf314b0d69a12a47c38e60f" sha1="13ba1ab9af37fe874bb8a7c34c7597fa8554a241"/>
+		<url>https://retroachievements.org/game/33567/hashes</url>
+		<hash>a82bd152baf314b0d69a12a47c38e60f</hash>
+	</game>
+	<game name="Shantae Advance - Risky Revolution (EEPROM &amp; SRAM Save Fix) (v1.0) (Wokann)">
+		<category>Retail</category>
+		<description>Shantae Advance - Risky Revolution (EEPROM &amp; SRAM Save Fix) (v1.0) (Wokann)</description>
+		<release name="Shantae Advance - Risky Revolution (EEPROM &amp; SRAM Save Fix) (v1.0) (Wokann)" region="World"/>
+		<rom name="Shantae Advance - Risky Revolution (EEPROM &amp; SRAM Save Fix) (v1.0) (Wokann).gba" size="16777216" crc="38f5d059" md5="d791ac71aca5dfb8725a0668d3757a41" sha1="40ec2ba9edf6969af6d34b71f2cdbbb549846c3e"/>
+		<url>https://retroachievements.org/game/33567/hashes</url>
+		<hash>d791ac71aca5dfb8725a0668d3757a41</hash>
 	</game>
 	
 	<game name="Shark Tale (Europe) (Fr,De,Es)" cloneof="Shark Tale (USA, Europe)">

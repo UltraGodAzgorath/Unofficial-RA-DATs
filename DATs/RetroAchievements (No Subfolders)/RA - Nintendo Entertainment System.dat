@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>1G1R</category>
-		<version>20250615</version>
-		<date>15 June 2025</date>
+		<version>20250617</version>
+		<date>17 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/7/games</url>
@@ -3244,6 +3244,15 @@
 		<hash>9a6d634b0d6ffda513339f8e7ce0d2f5</hash>
 	</game>
 	
+	<game name="Shenqi Baobei (China) (Aftermarket) (Pirate)">
+		<category>Unlicensed</category>
+		<description>Shenqi Baobei (China) (Aftermarket) (Pirate)</description>
+		<release name="Shenqi Baobei (China) (Aftermarket) (Pirate)" region="China"/>
+		<rom name="Shenqi Baobei (China) (Aftermarket) (Pirate).nes" size="1048592" crc="a4b14134" md5="108cb1bd7fef68ea43c2f3040bca3c1e" sha1="4a18c80bd2b62fc00fd9006acba514ecbaffba0a"/>
+		<url>https://retroachievements.org/game/27588/hashes</url>
+		<hash>e6561131d4bda3409012b3da0379ba80</hash>
+	</game>
+	
 	<game name="Kou Dai Guai Shou II (China) (Bootleg)">
 		<category>Unlicensed</category>
 		<description>Kou Dai Guai Shou II (China) (Bootleg)</description>
@@ -3721,15 +3730,6 @@
 		<rom name="Sexy Invaders (Japan) (Unl).fds" size="131000" crc="413e49da" md5="ff65350d6e949a28b83c65943ecb27a3" sha1="f5948681a77ba264842fff4e30272147f1e15711"/>
 		<url>https://retroachievements.org/game/14319/hashes</url>
 		<hash>ff65350d6e949a28b83c65943ecb27a3</hash>
-	</game>
-	
-	<game name="Shenqi Baobei (China) (Aftermarket) (Pirate)">
-		<category>Unlicensed</category>
-		<description>Shenqi Baobei (China) (Aftermarket) (Pirate)</description>
-		<release name="Shenqi Baobei (China) (Aftermarket) (Pirate)" region="China"/>
-		<rom name="Shenqi Baobei (China) (Aftermarket) (Pirate).nes" size="1048592" crc="a4b14134" md5="108cb1bd7fef68ea43c2f3040bca3c1e" sha1="4a18c80bd2b62fc00fd9006acba514ecbaffba0a"/>
-		<url>https://retroachievements.org/game/27588/hashes</url>
-		<hash>e6561131d4bda3409012b3da0379ba80</hash>
 	</game>
 	
 	<game name="Shudu (Unl)">
@@ -9802,6 +9802,15 @@
 		<hash>7b1016f649a7f21e6c27f3f69904218d</hash>
 	</game>
 	
+	<game name="Kinnikuman - Kinnikusei Oui Soudatsusen (Japan) (Rev 1) (Disk Writer)">
+		<category>Retail</category>
+		<description>Kinnikuman - Kinnikusei Oui Soudatsusen (Japan) (Rev 1) (Disk Writer)</description>
+		<release name="Kinnikuman - Kinnikusei Oui Soudatsusen (Japan) (Rev 1) (Disk Writer)" region="Japan"/>
+		<rom name="Kinnikuman - Kinnikusei Oui Soudatsusen (Japan) (Rev 1) (Disk Writer).nes" size="131000" crc="39e05966" md5="e5237686150960dd8817bacb7fb34f9b" sha1="c05052aa34ade9b7b2f869cc582d0ea623947876"/>
+		<url>https://retroachievements.org/game/33409/hashes</url>
+		<hash>e5237686150960dd8817bacb7fb34f9b</hash>
+	</game>
+	
 	<game name="M.U.S.C.L.E. - Tag Team Match (USA)">
 		<category>Retail</category>
 		<description>M.U.S.C.L.E. - Tag Team Match (USA)</description>
@@ -13170,15 +13179,6 @@
 		<hash>27a6724ab63764edfe0f50be8ae8a9ac</hash>
 	</game>
 	
-	<game name="Family Trainer 8 - Showdown! Takeshi's Castle (Japan) (En) (v1.01) (AgentOrange)">
-		<category>Retail</category>
-		<description>Family Trainer 8 - Showdown! Takeshi's Castle (Japan) (En) (v1.01) (AgentOrange)</description>
-		<release name="Family Trainer 8 - Showdown! Takeshi's Castle (Japan) (En) (v1.01) (AgentOrange)" region="English"/>
-		<rom name="Family Trainer 8 - Showdown! Takeshi's Castle (Japan) (En) (v1.01) (AgentOrange).nes" size="65552" crc="047b56f8" md5="a6bc0bcf4beb18008e471b366b574eac" sha1="c8a2e26443ad37bd4fd758e3874afa20de048d37"/>
-		<url>https://retroachievements.org/game/5169/hashes</url>
-		<hash>038d434ee670d561059c48be87831ddd</hash>
-	</game>
-	
 	<game name="Shufflepuck Cafe (Japan)">
 		<category>Retail</category>
 		<description>Shufflepuck Cafe (Japan)</description>
@@ -15357,6 +15357,15 @@
 		<hash>41b86cdb730f66b1143e61d1bf03ed11</hash>
 	</game>
 	
+	<game name="Family Trainer 8 - Showdown! Takeshi's Castle (Japan) (En) (v1.01) (AgentOrange)">
+		<category>Retail</category>
+		<description>Family Trainer 8 - Showdown! Takeshi's Castle (Japan) (En) (v1.01) (AgentOrange)</description>
+		<release name="Family Trainer 8 - Showdown! Takeshi's Castle (Japan) (En) (v1.01) (AgentOrange)" region="English"/>
+		<rom name="Family Trainer 8 - Showdown! Takeshi's Castle (Japan) (En) (v1.01) (AgentOrange).nes" size="65552" crc="047b56f8" md5="a6bc0bcf4beb18008e471b366b574eac" sha1="c8a2e26443ad37bd4fd758e3874afa20de048d37"/>
+		<url>https://retroachievements.org/game/5169/hashes</url>
+		<hash>038d434ee670d561059c48be87831ddd</hash>
+	</game>
+	
 	<game name="Town &amp; Country Surf Designs - Wood &amp; Water Rage (USA)">
 		<category>Retail</category>
 		<description>Town &amp; Country Surf Designs - Wood &amp; Water Rage (USA)</description>
@@ -15423,6 +15432,15 @@
 		<rom name="Track &amp; Field II (Europe).nes" size="262160" crc="fd4b1cf6" md5="85dbfe0c2f3246c92a0b5c008b34de3f" sha1="7474f5ade01e26413fe1c98f51445dfe2dec0076"/>
 		<url>https://retroachievements.org/game/2044/hashes</url>
 		<hash>ae233a5ff570e664adfbba502c67488e</hash>
+	</game>
+	
+	<game name="Treasure Master (USA)">
+		<category>Retail</category>
+		<description>Treasure Master (USA)</description>
+		<release name="Treasure Master (USA)" region="USA"/>
+		<rom name="Treasure Master (USA).nes" size="262160" crc="4581938a" md5="863fb61a4d6e93b56158bbaa1a297417" sha1="ec3b58678d089375113a33aa3ac8c9f9195c0cca"/>
+		<url>https://retroachievements.org/game/2046/hashes</url>
+		<hash>3ecce238af49ae27804d17e71a4aa958</hash>
 	</game>
 	
 	<game name="Trog! (USA)">
