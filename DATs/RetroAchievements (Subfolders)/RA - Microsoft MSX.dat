@@ -5,8 +5,8 @@
 		<name>RA - Microsoft MSX</name>
 		<description>Microsoft MSX</description>
 		<category>1G1R</category>
-		<version>20250609</version>
-		<date>09 June 2025</date>
+		<version>20250619</version>
+		<date>19 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/29/games</url>
@@ -192,21 +192,21 @@
 		<hash>CA1E0E7BDD2A0BE70129B1DE97746E40</hash>
 	</game>
 	
-	<game name="Aleste (Japan) (Alt)">
+	<game name="Retail/Aleste (Japan) (Alt)">
 		<category>MSX2</category>
 		<description>Aleste (Japan) (Alt)</description>
 		<rom name="Aleste (Japan) (Alt).rom" size="368640" crc="73aed1b4" md5="28427cfe955f65c6ec8ef2bdd35ff6a7" sha1="655989b36f291d7ad2e8a1bb7711ec32287363c8"/>
 		<url>https://retroachievements.org/game/7578/hashes</url>
 		<hash>28427CFE955F65C6EC8EF2BDD35FF6A7</hash>
 	</game>
-	<game name="Aleste (Japan) (En) (v1.0) (Sargon)">
+	<game name="Retail/Aleste (Japan) (En) (v1.0) (Sargon)">
 		<category>MSX2</category>
 		<description>Aleste (Japan) (En) (v1.0) (Sargon)</description>
 		<rom name="Aleste (Japan) (En) (v1.0) (Sargon).rom" size="368640" crc="0ada0f34" md5="2ebb5484e112b0c41fa0d392da9a9bf1" sha1="48ffd7c57ed5ec521a276edd52cfb9de20ee8930"/>
 		<url>https://retroachievements.org/game/7578/hashes</url>
 		<hash>2EBB5484E112B0C41FA0D392DA9A9BF1</hash>
 	</game>
-	<game name="Aleste (Japan)">
+	<game name="Retail/Aleste (Japan)">
 		<category>MSX2</category>
 		<description>Aleste (Japan)</description>
 		<rom name="Aleste (Japan).rom" size="262144" crc="c29edd84" md5="7087b51f3ccfdf314ce60d5d8aaf644a" sha1="12f6f31f495bfb384c9ca9067bfbf8f98af6adf9"/>
@@ -305,21 +305,21 @@
 		<hash>a05839977faccd697c4f5c93ccd3c005</hash>
 	</game>
 	
-	<game name="Dragon Quest (Japan) (MSX2) (En) (v201804xx) (Django)">
+	<game name="Retail/Dragon Quest (Japan) (MSX2) (En) (v201804xx) (Django)">
 		<category>MSX2</category>
 		<description>Dragon Quest (Japan) (MSX2) (En) (v201804xx) (Django)</description>
 		<rom name="Dragon Quest (Japan) (MSX2) (En) (v201804xx) (Django).rom" size="131072" crc="37e616f3" md5="32d02eee52a1bce4f21958d98571140b" sha1="cae1f38614fac53c414bd515d8c7a6be29a81525"/>
 		<url>https://retroachievements.org/game/16400/hashes</url>
 		<hash>32D02EEE52A1BCE4F21958D98571140B</hash>
 	</game>
-	<game name="Dragon Quest (Japan) (MSX2) (Alt)">
+	<game name="Retail/Dragon Quest (Japan) (MSX2) (Alt)">
 		<category>MSX2</category>
 		<description>Dragon Quest (Japan) (MSX2) (Alt)</description>
 		<rom name="Dragon Quest (Japan) (MSX2) (Alt).rom" size="131072" crc="0c48ff9e" md5="63672a3fdc8a481e3ac38ab1a36b5167" sha1="27f9144fb24b434f7a75737aa694283084782766"/>
 		<url>https://retroachievements.org/game/16400/hashes</url>
 		<hash>63672A3FDC8A481E3AC38AB1A36B5167</hash>
 	</game>
-	<game name="Dragon Quest (Japan) (MSX2)">
+	<game name="Retail/Dragon Quest (Japan) (MSX2)">
 		<category>MSX2</category>
 		<description>Dragon Quest (Japan) (MSX2)</description>
 		<rom name="Dragon Quest (Japan) (MSX2).rom" size="131072" crc="7729e7a9" md5="b6a39a89fb0df0be5dff7d64f5fe8900" sha1="5577e483caca553cfbfc0cba26f3ab2444569f81"/>
@@ -327,14 +327,14 @@
 		<hash>B6A39A89FB0DF0BE5DFF7D64F5FE8900</hash>
 	</game>
 	
-	<game name="Final Fantasy (Japan) (En) (v20221212) (FCC Translation)">
+	<game name="Retail/Final Fantasy (Japan) (En) (v20221212) (FCC Translation)">
 		<category>MSX2</category>
 		<description>Final Fantasy (Japan) (En) (v20221212) (FCC Translation)</description>
 		<rom name="Final Fantasy (Japan) (En) (v20221212) (FCC Translation).rom" size="737280" crc="909121ff" md5="8d5579c594f69858514f8b8d9fc793fc" sha1="67ebadcc59684b936a6627a9caad24b5b41e6a22"/>
 		<url>https://retroachievements.org/game/16403/hashes</url>
 		<hash>8D5579C594F69858514F8B8D9FC793FC</hash>
 	</game>
-	<game name="Final Fantasy (Japan)">
+	<game name="Retail/Final Fantasy (Japan)">
 		<category>MSX2</category>
 		<description>Final Fantasy (Japan)</description>
 		<rom name="Final Fantasy (Japan).rom" size="737280" crc="4cfd3a9e" md5="d280e5d6e58ab80430dafd57b515ec81" sha1="7a90593367351303ec95f3ddc5da4ebbadebe00c"/>
@@ -419,63 +419,63 @@
 		<hash>AC32E186DA2C5CEDC5ABBDCABE7575FF</hash>
 	</game>
 	
-	<game name="Metal Gear (Japan)">
+	<game name="Retail/Metal Gear (Japan)">
 		<category>MSX2</category>
 		<description>Metal Gear (Japan)</description>
 		<rom name="Metal Gear (Japan).rom" size="131072" crc="fafe1303" md5="12e302954fa9b23c11ce7c8f5770b82a" sha1="a52021f1b257c7c35d626d5d642134091c45e4f4"/>
 		<url>https://retroachievements.org/game/10501/hashes</url>
 		<hash>12E302954FA9B23C11CE7C8F5770B82A</hash>
 	</game>
-	<game name="Metal Gear (Japan) (En) (v1.0a) (TyrannoRanger) (Improvements) (v1.0) (FRS)">
+	<game name="Retail/Metal Gear (Japan) (En) (v1.0a) (TyrannoRanger) (Improvements) (v1.0) (FRS)">
 		<category>MSX2</category>
 		<description>Metal Gear (Japan) (En) (v1.0a) (TyrannoRanger) (Improvements) (v1.0) (FRS)</description>
 		<rom name="Metal Gear (Japan) (En) (v1.0a) (TyrannoRanger) (Improvements) (v1.0) (FRS).mx2" size="163840" crc="ca7f257d" md5="191509df8f8abdc824ea396dfdb96271" sha1="d4761818ac8a25d4a149955fdaf798de7e7905b1"/>
 		<url>https://retroachievements.org/game/10501/hashes</url>
 		<hash>191509DF8F8ABDC824EA396DFDB96271</hash>
 	</game>
-	<game name="Metal Gear (Japan) (Es) (Unknown)">
+	<game name="Retail/Metal Gear (Japan) (Es) (Unknown)">
 		<category>MSX2</category>
 		<description>Metal Gear (Japan) (Es) (Unknown)</description>
 		<rom name="Metal Gear (Japan) (Es) (Unknown).rom" size="131072" crc="ac4c7fe2" md5="384689388dcc00d4e01804664acf5989" sha1="aa881a2936f368ab887c296b837a8f7f553a3fb2"/>
 		<url>https://retroachievements.org/game/10501/hashes</url>
 		<hash>384689388DCC00D4E01804664ACF5989</hash>
 	</game>
-	<game name="Metal Gear (Japan) (En) (v1.995) (Nekura Hoka) (Improvements) (v1.0) (FRS)">
+	<game name="Retail/Metal Gear (Japan) (En) (v1.995) (Nekura Hoka) (Improvements) (v1.0) (FRS)">
 		<category>MSX2</category>
 		<description>Metal Gear (Japan) (En) (v1.995) (Nekura Hoka) (Improvements) (v1.0) (FRS)</description>
 		<rom name="Metal Gear (Japan) (En) (v1.995) (Nekura Hoka) (Improvements) (v1.0) (FRS).rom" size="163840" crc="0694b93d" md5="5430986efba9f8ba62d84937e652ece6" sha1="111e73b545c7893f69b270be847e22103eb5fd30"/>
 		<url>https://retroachievements.org/game/10501/hashes</url>
 		<hash>5430986EFBA9F8BA62D84937E652ECE6</hash>
 	</game>
-	<game name="Metal Gear (Japan) (En) (v1.0a) (Mr.Dude, TyrannoRanger)">
+	<game name="Retail/Metal Gear (Japan) (En) (v1.0a) (Mr.Dude, TyrannoRanger)">
 		<category>MSX2</category>
 		<description>Metal Gear (Japan) (En) (v1.0a) (Mr.Dude, TyrannoRanger)</description>
 		<rom name="Metal Gear (Japan) (En) (v1.0a) (Mr.Dude, TyrannoRanger).rom" size="131072" crc="8477c6f3" md5="5645ce31982b99ec8ec79f0696e1bd7a" sha1="242b695ff183d72856453b7188ebabf3b233fce5"/>
 		<url>https://retroachievements.org/game/10501/hashes</url>
 		<hash>5645CE31982B99EC8EC79F0696E1BD7A</hash>
 	</game>
-	<game name="Metal Gear (Japan) (En) (v1.995c) (Nekura Hoka)">
+	<game name="Retail/Metal Gear (Japan) (En) (v1.995c) (Nekura Hoka)">
 		<category>MSX2</category>
 		<description>Metal Gear (Japan) (En) (v1.995c) (Nekura Hoka)</description>
 		<rom name="Metal Gear (Japan) (En) (v1.995c) (Nekura Hoka).rom" size="131072" crc="1f5803d5" md5="56a32f310765e54101a10001d28344b6" sha1="836ce9432d7625aa4af6c95d87c38a00910186b7"/>
 		<url>https://retroachievements.org/game/10501/hashes</url>
 		<hash>56A32F310765E54101A10001D28344B6</hash>
 	</game>
-	<game name="Metal Gear (Japan) (Improvements) (v1.0) (FRS)">
+	<game name="Retail/Metal Gear (Japan) (Improvements) (v1.0) (FRS)">
 		<category>MSX2</category>
 		<description>Metal Gear (Japan) (Improvements) (v1.0) (FRS)</description>
 		<rom name="Metal Gear (Japan) (Improvements) (v1.0) (FRS).rom" size="163840" crc="bcc722fd" md5="5a09109f46817935a1562f425c54c92a" sha1="bd819202a90aae4d5ef0c590757db34e47a74234"/>
 		<url>https://retroachievements.org/game/10501/hashes</url>
 		<hash>5A09109F46817935A1562F425C54C92A</hash>
 	</game>
-	<game name="Metal Gear (Japan) (Zh) (Unknown)">
+	<game name="Retail/Metal Gear (Japan) (Zh) (Unknown)">
 		<category>MSX2</category>
 		<description>Metal Gear (Japan) (Zh) (Unknown)</description>
 		<rom name="Metal Gear (Japan) (Zh) (Unknown).rom" size="262144" crc="c44f4efc" md5="ba87c854efeba531e1f4a730f617578c" sha1="008384ead47744f8bf3b9714063a140588569e0a"/>
 		<url>https://retroachievements.org/game/10501/hashes</url>
 		<hash>BA87C854EFEBA531E1F4A730F617578C</hash>
 	</game>
-	<game name="Metal Gear (Japan) (Zh) (Unknown) (Improvements) (v1.0) (FRS)">
+	<game name="Retail/Metal Gear (Japan) (Zh) (Unknown) (Improvements) (v1.0) (FRS)">
 		<category>MSX2</category>
 		<description>Metal Gear (Japan) (Zh) (Unknown) (Improvements) (v1.0) (FRS)</description>
 		<rom name="Metal Gear (Japan) (Zh) (Unknown) (Improvements) (v1.0) (FRS).rom" size="262144" crc="54bf17ef" md5="7cb48e546c65623092bd3f65319117ac" sha1="995c9c8c7f8580ad9b251423146c047e0ed73d76"/>
@@ -483,91 +483,91 @@
 		<hash>7CB48E546C65623092BD3F65319117AC</hash>
 	</game>
 		
-	<game name="Metal Gear 2 - Solid Snake (Japan) (RC-767) (En) (v1.4) (BiFi)">
+	<game name="Retail/Metal Gear 2 - Solid Snake (Japan) (RC-767) (En) (v1.4) (BiFi)">
 		<category>MSX2</category>
 		<description>Metal Gear 2 - Solid Snake (Japan) (RC-767) (En) (v1.4) (BiFi)</description>
 		<rom name="Metal Gear 2 - Solid Snake (Japan) (RC-767) (En) (v1.4) (BiFi).rom" size="524288" crc="09a5bbc6" md5="01ec86d19248514baf263f0b60df4d0c" sha1="7681b0dde4d2c40512e33afe9abc72b7ef591294"/>
 		<url>https://retroachievements.org/game/10504/hashes</url>
 		<hash>01EC86D19248514BAF263F0B60DF4D0C</hash>
 	</game>
-	<game name="Metal Gear 2 - Solid Snake (Japan) (Pt) (v1.0) (Andre Possebon)">
+	<game name="Retail/Metal Gear 2 - Solid Snake (Japan) (Pt) (v1.0) (Andre Possebon)">
 		<category>MSX2</category>
 		<description>Metal Gear 2 - Solid Snake (Japan) (Pt) (v1.0) (Andre Possebon)</description>
 		<rom name="Metal Gear 2 - Solid Snake (Japan) (Pt) (v1.0) (Andre Possebon).rom" size="524288" crc="51f5c5df" md5="614c03a00bfee70c581f759e96cdc099" sha1="c18adae0ca1243e13a15d381a431cc0dfc68223b"/>
 		<url>https://retroachievements.org/game/10504/hashes</url>
 		<hash>614C03A00BFEE70C581F759E96CDC099</hash>
 	</game>
-	<game name="Metal Gear 2 - Solid Snake (Japan) (En) (v1.2) (Maarten ter Huurne, Takamichi Suzukawa)">
+	<game name="Retail/Metal Gear 2 - Solid Snake (Japan) (En) (v1.2) (Maarten ter Huurne, Takamichi Suzukawa)">
 		<category>MSX2</category>
 		<description>Metal Gear 2 - Solid Snake (Japan) (En) (v1.2) (Maarten ter Huurne, Takamichi Suzukawa)</description>
 		<rom name="Metal Gear 2 - Solid Snake (Japan) (En) (v1.2) (Maarten ter Huurne, Takamichi Suzukawa).rom" size="524288" crc="5c4f98d9" md5="668217f475619500c87f136949267b6d" sha1="a7b196f7e934faa76602c8c00bd2f6e6d2d70787"/>
 		<url>https://retroachievements.org/game/10504/hashes</url>
 		<hash>668217F475619500C87F136949267B6D</hash>
 	</game>
-	<game name="Metal Gear 2 - Solid Snake (Japan) (Pt) (v1.0) (Andre Possebon) (TurboFix) (v1.1) (FRS)">
+	<game name="Retail/Metal Gear 2 - Solid Snake (Japan) (Pt) (v1.0) (Andre Possebon) (TurboFix) (v1.1) (FRS)">
 		<category>MSX2</category>
 		<description>Metal Gear 2 - Solid Snake (Japan) (Pt) (v1.0) (Andre Possebon) (TurboFix) (v1.1) (FRS)</description>
 		<rom name="Metal Gear 2 - Solid Snake (Japan) (Pt) (v1.0) (Andre Possebon) (TurboFix) (v1.1) (FRS).rom" size="524288" crc="9c422b83" md5="70e3d3dd66a97aeef6a87db23fadfc32" sha1="a5245bf246e42a17dc5825a2337c45293fad29e4"/>
 		<url>https://retroachievements.org/game/10504/hashes</url>
 		<hash>70E3D3DD66A97AEEF6A87DB23FADFC32</hash>
 	</game>
-	<game name="Metal Gear 2 - Solid Snake (Japan) (Turbo Fix) (v1.1) (FRS)">
+	<game name="Retail/Metal Gear 2 - Solid Snake (Japan) (Turbo Fix) (v1.1) (FRS)">
 		<category>MSX2</category>
 		<description>Metal Gear 2 - Solid Snake (Japan) (Turbo Fix) (v1.1) (FRS)</description>
 		<rom name="Metal Gear 2 - Solid Snake (Japan) (Turbo Fix) (v1.1) (FRS).rom" size="524288" crc="d5061d17" md5="72e813494dcacde3029a07db1ecca934" sha1="8cc81bb1e5d9477e08b2a4728eb997c5890f405d"/>
 		<url>https://retroachievements.org/game/10504/hashes</url>
 		<hash>72E813494DCACDE3029A07DB1ECCA934</hash>
 	</game>
-	<game name="Metal Gear 2 - Solid Snake (Japan) (En) (v1.2) (Maarten ter Huurne, Takamichi Suzukawa) (TurboFix) (v1.1) (FRS)">
+	<game name="Retail/Metal Gear 2 - Solid Snake (Japan) (En) (v1.2) (Maarten ter Huurne, Takamichi Suzukawa) (TurboFix) (v1.1) (FRS)">
 		<category>MSX2</category>
 		<description>Metal Gear 2 - Solid Snake (Japan) (En) (v1.2) (Maarten ter Huurne, Takamichi Suzukawa) (TurboFix) (v1.1) (FRS)</description>
 		<rom name="Metal Gear 2 - Solid Snake (Japan) (En) (v1.2) (Maarten ter Huurne, Takamichi Suzukawa) (TurboFix) (v1.1) (FRS).rom" size="524288" crc="91f87685" md5="8fe72857b748852cec910345ce7a2b73" sha1="360fe420d71dabfacbf8855ae92ea6b6e4c0d2ae"/>
 		<url>https://retroachievements.org/game/10504/hashes</url>
 		<hash>8FE72857B748852CEC910345CE7A2B73</hash>
 	</game>
-	<game name="Metal Gear 2 - Solid Snake (Japan)">
+	<game name="Retail/Metal Gear 2 - Solid Snake (Japan)">
 		<category>MSX2</category>
 		<description>Metal Gear 2 - Solid Snake (Japan)</description>
 		<rom name="Metal Gear 2 - Solid Snake (Japan).rom" size="524288" crc="18b1f34b" md5="9f50d92d35e19d5de37d75a36a410588" sha1="af567ea6e27912d6d5bf1c8e9bc18e9b393fd1ab"/>
 		<url>https://retroachievements.org/game/10504/hashes</url>
 		<hash>9F50D92D35E19D5DE37D75A36A410588</hash>
 	</game>
-	<game name="Metal Gear 2 - Solid Snake (Japan) (En) (Addendum) (TurboFix) (v1.1) (FRS)">
+	<game name="Retail/Metal Gear 2 - Solid Snake (Japan) (En) (Addendum) (TurboFix) (v1.1) (FRS)">
 		<category>MSX2</category>
 		<description>Metal Gear 2 - Solid Snake (Japan) (En) (Addendum) (TurboFix) (v1.1) (FRS)</description>
 		<rom name="Metal Gear 2 - Solid Snake (Japan) (En) (Addendum) (TurboFix) (v1.1) (FRS).rom" size="524288" crc="6f23b91c" md5="a501ffaf9fb30c3a68c0c4c803fba341" sha1="3033225b0895bf552b2160eb4dd826056a4fd5ec"/>
 		<url>https://retroachievements.org/game/10504/hashes</url>
 		<hash>A501FFAF9FB30C3A68C0C4C803FBA341</hash>
 	</game>
-	<game name="Metal Gear 2 - Solid Snake (Japan) (En) (Addendum)">
+	<game name="Retail/Metal Gear 2 - Solid Snake (Japan) (En) (Addendum)">
 		<category>MSX2</category>
 		<description>Metal Gear 2 - Solid Snake (Japan) (En) (Addendum)</description>
 		<rom name="Metal Gear 2 - Solid Snake (Japan) (En) (Addendum).rom" size="524288" crc="a2945740" md5="c54d3657e78b1ecc7cfe4f641158fbff" sha1="b0ac664a2d5619097c0ab95989b886823f5eeb3f"/>
 		<url>https://retroachievements.org/game/10504/hashes</url>
 		<hash>C54D3657E78B1ECC7CFE4F641158FBFF</hash>
 	</game>
-	<game name="Metal Gear 2 - Solid Snake (Japan) (RC-767) (En) (v1.4) (BiFi) (TurboFix) (v1.1) (FRS)">
+	<game name="Retail/Metal Gear 2 - Solid Snake (Japan) (RC-767) (En) (v1.4) (BiFi) (TurboFix) (v1.1) (FRS)">
 		<category>MSX2</category>
 		<description>Metal Gear 2 - Solid Snake (Japan) (RC-767) (En) (v1.4) (BiFi) (TurboFix) (v1.1) (FRS)</description>
 		<rom name="Metal Gear 2 - Solid Snake (Japan) (RC-767) (En) (v1.4) (BiFi) (TurboFix) (v1.1) (FRS).rom" size="524288" crc="c412559a" md5="da8047597419d24897d8a43c0056876e" sha1="644ee67d4e32060354f4f858cc6da7749f2adf1c"/>
 		<url>https://retroachievements.org/game/10504/hashes</url>
 		<hash>DA8047597419D24897D8A43C0056876E</hash>
 	</game>
-	<game name="Metal Gear 2 - Solid Snake (Japan) (Es) (Unknown)">
+	<game name="Retail/Metal Gear 2 - Solid Snake (Japan) (Es) (Unknown)">
 		<category>MSX2</category>
 		<description>Metal Gear 2 - Solid Snake (Japan) (Es) (Unknown)</description>
 		<rom name="Metal Gear 2 - Solid Snake (Japan) (Es) (Unknown).rom" size="524288" crc="52513d60" md5="ef8ea24cf592cf24eb18c64ef7e2c25a" sha1="09b74937fa52a7c18d3c66362801427b9cc99c63"/>
 		<url>https://retroachievements.org/game/10504/hashes</url>
 		<hash>EF8EA24CF592CF24EB18C64EF7E2C25A</hash>
 	</game>
-	<game name="Metal Gear 2 - Solid Snake (Japan) (Zh) (Unknown)">
+	<game name="Retail/Metal Gear 2 - Solid Snake (Japan) (Zh) (Unknown)">
 		<category>MSX2</category>
 		<description>Metal Gear 2 - Solid Snake (Japan) (Zh) (Unknown)</description>
 		<rom name="Metal Gear 2 - Solid Snake (Japan) (Zh) (Unknown).rom" size="1048576" crc="c3b9af8a" md5="30f075748c6274e0e97740f5768b7738" sha1="d5a2b277bbe6c419ead5daa2ed6e560cbbbc0e5c"/>
 		<url>https://retroachievements.org/game/10504/hashes</url>
 		<hash>30F075748C6274E0E97740F5768B7738</hash>
 	</game>
-	<game name="Metal Gear 2 - Solid Snake (Japan) (Zh) (Unknown) (Turbo Fix) (v1.0) (FRS)">
+	<game name="Retail/Metal Gear 2 - Solid Snake (Japan) (Zh) (Unknown) (Turbo Fix) (v1.0) (FRS)">
 		<category>MSX2</category>
 		<description>Metal Gear 2 - Solid Snake (Japan) (Zh) (Unknown) (Turbo Fix) (v1.0) (FRS)</description>
 		<rom name="Metal Gear 2 - Solid Snake (Japan) (Zh) (Unknown) (Turbo Fix) (v1.0) (FRS).rom" size="1048576" crc="5a1eb01a" md5="c5608ca985c415e52bf202e679446330" sha1="9eab209920e78e05746e5a3e74fe452f289c2cfe"/>
@@ -575,7 +575,7 @@
 		<hash>C5608CA985C415E52BF202E679446330</hash>
 	</game>
 	
-	<game name="Oh Shit! (World)">
+	<game name="Retail/Oh Shit! (World)">
 		<category>MSX2</category>
 		<description>Oh Shit! (World)</description>
 		<rom name="Oh Shit! (World).rom" size="32768" crc="1d34e4e0" md5="1721862f3f033e74607af9e26688403d" sha1="9a369b52f92269073dd7b7e72919d6b1d19fe63d"/>
@@ -583,7 +583,7 @@
 		<hash>1721862F3F033E74607AF9E26688403D</hash>
 	</game>
 	
-	<game name="Out Run (Japan)">
+	<game name="Retail/Out Run (Japan)">
 		<category>MSX2</category>
 		<description>Out Run (Japan)</description>
 		<rom name="Out Run (Japan).rom" size="262144" crc="0a9f8d6c" md5="eff230804098ffe4d342f389b5209eac" sha1="0f10d77d1536993b8455b3b47278ca5782ef9275"/>
@@ -645,21 +645,21 @@
 		<hash>24977e1834d83be97998d118c384ac24</hash>
 	</game>
 	
-	<game name="SD Snatcher (Japan) (En) (Melancholia) (Disk 1)">
+	<game name="Retail/SD Snatcher (Japan) (En) (Melancholia) (Disk 1)">
 		<category>MSX2</category>
 		<description>SD Snatcher (Japan) (En) (Melancholia) (Disk 1)</description>
 		<rom name="SD Snatcher (Japan) (En) (Melancholia) (Disk 1).dsk" size="737280" crc="1b3d3c89" md5="3bcf74b40f15eef5aab22a49781f9f1a" sha1="9d12c20f71c4049f8a8b65cc4f13fd7b54affadc"/>
 		<url>https://retroachievements.org/game/10505/hashes</url>
 		<hash>3BCF74B40F15EEF5AAB22A49781F9F1A</hash>
 	</game>
-	<game name="SD Snatcher (Japan) (En) (Melancholia) (Disk 2)">
+	<game name="Retail/SD Snatcher (Japan) (En) (Melancholia) (Disk 2)">
 		<category>MSX2</category>
 		<description>SD Snatcher (Japan) (En) (Melancholia) (Disk 2)</description>
 		<rom name="SD Snatcher (Japan) (En) (Melancholia) (Disk 2).dsk" size="737280" crc="ac407e31" md5="6d1990d36783caf8b6e4d73ae22c98b1" sha1="4983041e918acd599e65c70de3101011c43b059a"/>
 		<url>https://retroachievements.org/game/10505/hashes</url>
 		<hash>6d1990d36783caf8b6e4d73ae22c98b1</hash>
 	</game>
-	<game name="SD Snatcher (Japan) (En) (Melancholia) (Disk 3)">
+	<game name="Retail/SD Snatcher (Japan) (En) (Melancholia) (Disk 3)">
 		<category>MSX2</category>
 		<description>SD Snatcher (Japan) (En) (Melancholia) (Disk 3)</description>
 		<rom name="SD Snatcher (Japan) (En) (Melancholia) (Disk 3).dsk" size="737280" crc="f626f02e" md5="e4d3e483964c62ade5f07afdd81dd64b" sha1="0c4c993758e69a8f8fd79fbc4eef4cecdc156f32"/>
@@ -675,7 +675,7 @@
 		<hash>068D5CA06CF8149DAF6BAC0CDE9F9938</hash>
 	</game>
 	
-	<game name="Space Manbow (Japan) (Wii U Virtual Console)">
+	<game name="Retail/Space Manbow (Japan) (Wii U Virtual Console)">
 		<category>MSX2</category>
 		<description>Space Manbow (Japan) (Wii U Virtual Console)</description>
 		<rom name="Space Manbow (Japan) (Wii U Virtual Console).rom" size="262144" crc="27405eed" md5="f78b9f4ea885cf072e5b41dce9f15436" sha1="f6199f48ff994fc9a8e33a8581bb3bb16dd301ab"/>
@@ -699,14 +699,14 @@
 		<hash>9AAB75984B06C21ED8E6214474D3A68E</hash>
 	</game>
 	
-	<game name="Vampire Killer (Japan, Europe) (En) (Alt) (Improvements) (v1.0) (FRS)">
+	<game name="Retail/Vampire Killer (Japan, Europe) (En) (Alt) (Improvements) (v1.0) (FRS)">
 		<category>MSX2</category>
 		<description>Vampire Killer (Japan, Europe) (En) (Alt) (Improvements) (v1.0) (FRS)</description>
 		<rom name="Vampire Killer (Japan, Europe) (En) (Alt) (Improvements) (v1.0) (FRS).rom" size="131072" crc="d7f3caca" md5="66da3107684286d1eba45efb8eae9113" sha1="971241cc529d06281f26c3b7438ed59a3d63aa4f"/>
 		<url>https://retroachievements.org/game/3289/hashes</url>
 		<hash>66DA3107684286D1EBA45EFB8EAE9113</hash>
 	</game>
-	<game name="Vampire Killer (Japan, Europe) (En)">
+	<game name="Retail/Vampire Killer (Japan, Europe) (En)">
 		<category>MSX2</category>
 		<description>Vampire Killer (Japan, Europe) (En)</description>
 		<rom name="Vampire Killer (Japan, Europe) (En).rom" size="131072" crc="5953d084" md5="92ba9dab3c7a4ac6c8a130f6ccbac91c" sha1="5ef7d03b138a2023f6def241b671c666f97ed83b"/>
@@ -714,35 +714,35 @@
 		<hash>92BA9DAB3C7A4AC6C8A130F6CCBAC91C</hash>
 	</game>
 	
-	<game name="Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 3 of 5) (Data Disk 2)">
+	<game name="Retail/Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 3 of 5) (Data Disk 2)">
 		<category>MSX2</category>
 		<description>Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 3 of 5) (Data Disk 2)</description>
 		<rom name="Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 3 of 5) (Data Disk 2).rom" size="737280" crc="8dceb3d2" md5="0705e4bc427ee6efc95a0d86a2be8113" sha1="55c64d109f5fa479b0a7145102aa197906fbace1"/>
 		<url>https://retroachievements.org/game/17365/hashes</url>
 		<hash>0705e4bc427ee6efc95a0d86a2be8113</hash>
 	</game>
-	<game name="Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 2 of 5) (Data Disk 1)">
+	<game name="Retail/Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 2 of 5) (Data Disk 1)">
 		<category>MSX2</category>
 		<description>Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 2 of 5) (Data Disk 1)</description>
 		<rom name="Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 2 of 5) (Data Disk 1).rom" size="737280" crc="cffb1c38" md5="230a2be93d991a5a8b899004f22cff4a" sha1="639b3a95d98a389b3986d4bd59afaf9171dbc64a"/>
 		<url>https://retroachievements.org/game/17365/hashes</url>
 		<hash>230a2be93d991a5a8b899004f22cff4a</hash>
 	</game>
-	<game name="Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 4 of 5) (Data Disk 3)">
+	<game name="Retail/Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 4 of 5) (Data Disk 3)">
 		<category>MSX2</category>
 		<description>Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 4 of 5) (Data Disk 3)</description>
 		<rom name="Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 4 of 5) (Data Disk 3).rom" size="737280" crc="e8484fd8" md5="2f34a6b207c333856d82165ef8876f21" sha1="7e4ceffd3777a90c4e2b5a89d6d3300ae543afaf"/>
 		<url>https://retroachievements.org/game/17365/hashes</url>
 		<hash>2f34a6b207c333856d82165ef8876f21</hash>
 	</game>
-	<game name="Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 1 of 5) (Game Disk)">
+	<game name="Retail/Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 1 of 5) (Game Disk)">
 		<category>MSX2</category>
 		<description>Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 1 of 5) (Game Disk)</description>
 		<rom name="Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 1 of 5) (Game Disk).rom" size="737280" crc="9c6e61a8" md5="bb13dde11d1a493c6b51d2efecc23093" sha1="f7b5aa0db294f6194a93e7db7e54e94721571b00"/>
 		<url>https://retroachievements.org/game/17365/hashes</url>
 		<hash>BB13DDE11D1A493C6B51D2EFECC23093</hash>
 	</game>
-	<game name="Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 5 of 5) (User Disk)">
+	<game name="Retail/Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 5 of 5) (User Disk)">
 		<category>MSX2</category>
 		<description>Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 5 of 5) (User Disk)</description>
 		<rom name="Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 5 of 5) (User Disk).rom" size="737280" crc="81303a96" md5="ffc6e9f31fd867e1cec2185aada9b7e7" sha1="0040e4397ee10d7085e4842b5fed95c6e078bcc3"/>
@@ -750,14 +750,14 @@
 		<hash>ffc6e9f31fd867e1cec2185aada9b7e7</hash>
 	</game>
 	
-	<game name="Ancient Ys Vanished - Omen (Japan)">
+	<game name="Retail/Ancient Ys Vanished - Omen (Japan)">
 		<category>MSX2</category>
 		<description>Ancient Ys Vanished - Omen (Japan)</description>
 		<rom name="Ancient Ys Vanished - Omen (Japan).rom" size="737280" crc="7bb17eed" md5="c4060a8ec561305decef0814581deba2" sha1="f2071f6f7e8fb96a7fb3a3daa69a46be82347255"/>
 		<url>https://retroachievements.org/game/17363/hashes</url>
 		<hash>C4060A8EC561305DECEF0814581DEBA2</hash>
 	</game>
-	<game name="Ancient Ys Vanished - Omen (Japan) (Alt)">
+	<game name="Retail/Ancient Ys Vanished - Omen (Japan) (Alt)">
 		<category>MSX2</category>
 		<description>Ancient Ys Vanished - Omen (Japan) (Alt)</description>
 		<rom name="Ancient Ys Vanished - Omen (Japan) (Alt).rom" size="737280" crc="dce166b2" md5="c52e2ea87b469952ad4817a0196bd010" sha1="6c7672ba7602e2e1c7e09309b7fa8776b1b5a904"/>

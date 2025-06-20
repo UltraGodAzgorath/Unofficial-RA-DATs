@@ -5,16 +5,16 @@
 		<name>RA - SNK Neo Geo CD</name>
 		<description>SNK Neo Geo CD</description>
 		<category>1G1R</category>
-		<version>20250604</version>
-		<date>04 June 2025</date>
+		<version>20250620</version>
+		<date>20 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/56/games</url>
 		<titlecount>36</titlecount>
 		<hashcount>39/44</hashcount>
 	</header>
-	<game name="Last Hope (Germany) (Unl) (Homebrew)">
-		<category>Homebrew</category>
+	<game name="Homebrew/Last Hope (Germany) (Unl) (Homebrew)">
+		<category></category>
 		<description>Last Hope (Germany) (Unl) (Homebrew)</description>
 		<rom name="Last Hope (Germany) (Unl) (Homebrew).cue" size="1292" crc="a8c7b74a" md5="795f9fdc4c82bc8220ebba966d1d10ee" sha1="2135743af836f9cd5d7f5640e1a7bcb10f687b00"/>
 		<rom name="Last Hope (Germany) (Unl) (Homebrew) (Track 01).bin" size="15102192" crc="29a98350" md5="159d6e17106f6491e15404c95ed37e66" sha1="53c4f93bef464ab2f17650e91fc4af17818a8174"/>
@@ -31,43 +31,43 @@
 		<hash>2c60bac28fb31d6a1347e60e880867d6</hash>
 	</game>
 	
-	<game name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Homebrew)">
-		<category>Homebrew</category>
-		<description>Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Homebrew)</description>
-		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Homebrew).cue" size="1483" crc="60c6d867" md5="7e9d9b037ff85f4202e15298321eeb64" sha1="9996085e8b598f688050cf9d35db5d63812f4e4b"/>
-		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Homebrew) (Track 01).bin" size="3379824" crc="4494c53e" md5="84d2108cc683378b04a4cd7a1ba5b562" sha1="8117a2e3aadddb435f2db8adef9078094d87b48f"/>
-		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Homebrew) (Track 02).wav" size="38208664" crc="01c4bcc9" md5="547a7cad783ecab76164a7140fa8923d" sha1="28b81460bb9fb0654848425e9975e34b0345696b"/>
-		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Homebrew) (Track 03).wav" size="37766466" crc="cb2360d3" md5="cbeb08a08722b16a0286fd5b57e43418" sha1="1d33c21a1a039eac733555c9c7d2dc521b1289a3"/>
-		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Homebrew) (Track 04).wav" size="37636566" crc="6bcde1a1" md5="81f33df058d3127d2bf7b5c36b370037" sha1="88b753a170d591b7c279250e7356d0c1f7626769"/>
-		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Homebrew) (Track 05).wav" size="38182890" crc="f6456b49" md5="4a0a023288f0214718478fe75510a108" sha1="31b0bcedfa854b6ba0f29d14c2c3acb7efc0f9d6"/>
-		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Homebrew) (Track 06).wav" size="39670190" crc="387ade76" md5="a703f9ddcf95ae234bc16a4f0dcaf4c8" sha1="e3a098cb0386463f2fcf2f54cea0d016bccf3ad0"/>
-		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Homebrew) (Track 07).wav" size="39542450" crc="cfc12765" md5="1a5f460677fc359ee3457283dd8d952a" sha1="901bec4cef1b848f34b26ba269129368a9729a05"/>
-		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Homebrew) (Track 08).wav" size="18483482" crc="7a018043" md5="ebb2b2e43ae58ee0ee25833ac1c1abe9" sha1="18b276479d297ec77a3af6f500d48813f2174b9c"/>
-		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Homebrew) (Track 09).wav" size="5450646" crc="e22f622f" md5="e36cc50cbedc784633e943925c297f75" sha1="44fc196a5401f81019c1349acee2ed0eab212a9a"/>
-		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Homebrew) (Track 10).wav" size="28651464" crc="9a284eb7" md5="97431a62ce3ea90936d301887a215069" sha1="4ee6e5c96d10f90634a8951e18f6d948be2fbd1a"/>
+	<game name="Homebrew/Shinobi (World) (v1.0) (Aftermarket) (Hoffman)">
+		<category></category>
+		<description>Shinobi (World) (v1.0) (Aftermarket) (Hoffman)</description>
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman).cue" size="1483" crc="60c6d867" md5="7e9d9b037ff85f4202e15298321eeb64" sha1="9996085e8b598f688050cf9d35db5d63812f4e4b"/>
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Track 01).bin" size="3379824" crc="4494c53e" md5="84d2108cc683378b04a4cd7a1ba5b562" sha1="8117a2e3aadddb435f2db8adef9078094d87b48f"/>
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Track 02).wav" size="38208664" crc="01c4bcc9" md5="547a7cad783ecab76164a7140fa8923d" sha1="28b81460bb9fb0654848425e9975e34b0345696b"/>
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Track 03).wav" size="37766466" crc="cb2360d3" md5="cbeb08a08722b16a0286fd5b57e43418" sha1="1d33c21a1a039eac733555c9c7d2dc521b1289a3"/>
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Track 04).wav" size="37636566" crc="6bcde1a1" md5="81f33df058d3127d2bf7b5c36b370037" sha1="88b753a170d591b7c279250e7356d0c1f7626769"/>
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Track 05).wav" size="38182890" crc="f6456b49" md5="4a0a023288f0214718478fe75510a108" sha1="31b0bcedfa854b6ba0f29d14c2c3acb7efc0f9d6"/>
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Track 06).wav" size="39670190" crc="387ade76" md5="a703f9ddcf95ae234bc16a4f0dcaf4c8" sha1="e3a098cb0386463f2fcf2f54cea0d016bccf3ad0"/>
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Track 07).wav" size="39542450" crc="cfc12765" md5="1a5f460677fc359ee3457283dd8d952a" sha1="901bec4cef1b848f34b26ba269129368a9729a05"/>
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Track 08).wav" size="18483482" crc="7a018043" md5="ebb2b2e43ae58ee0ee25833ac1c1abe9" sha1="18b276479d297ec77a3af6f500d48813f2174b9c"/>
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Track 09).wav" size="5450646" crc="e22f622f" md5="e36cc50cbedc784633e943925c297f75" sha1="44fc196a5401f81019c1349acee2ed0eab212a9a"/>
+		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Track 10).wav" size="28651464" crc="9a284eb7" md5="97431a62ce3ea90936d301887a215069" sha1="4ee6e5c96d10f90634a8951e18f6d948be2fbd1a"/>
 		<url>https://retroachievements.org/game/32801/hashes</url>
 		<hash>d94f736035e14939185fb9a8af4012f8</hash>
 	</game>
-	<game name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Homebrew)">
-		<category>Homebrew</category>
-		<description>Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Homebrew)</description>
-		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Homebrew).cue" size="1483" crc="19f4bc76" md5="a8582caf369169a14dac699a55040359" sha1="6396e51425ab43014b1832eca6cb1b24e1ded745"/>
-		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Homebrew) (Track 01).bin" size="3379824" crc="2dd7edf9" md5="5fd77983f3cb0909e67c26f80bd9b642" sha1="363ea94f8af260d1ed9bd47de2e4c2ff6cd2ce26"/>
-		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Homebrew) (Track 02).wav" size="38208664" crc="01c4bcc9" md5="547a7cad783ecab76164a7140fa8923d" sha1="28b81460bb9fb0654848425e9975e34b0345696b"/>
-		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Homebrew) (Track 03).wav" size="37766466" crc="cb2360d3" md5="cbeb08a08722b16a0286fd5b57e43418" sha1="1d33c21a1a039eac733555c9c7d2dc521b1289a3"/>
-		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Homebrew) (Track 04).wav" size="37636566" crc="6bcde1a1" md5="81f33df058d3127d2bf7b5c36b370037" sha1="88b753a170d591b7c279250e7356d0c1f7626769"/>
-		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Homebrew) (Track 05).wav" size="38182890" crc="f6456b49" md5="4a0a023288f0214718478fe75510a108" sha1="31b0bcedfa854b6ba0f29d14c2c3acb7efc0f9d6"/>
-		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Homebrew) (Track 06).wav" size="39670190" crc="387ade76" md5="a703f9ddcf95ae234bc16a4f0dcaf4c8" sha1="e3a098cb0386463f2fcf2f54cea0d016bccf3ad0"/>
-		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Homebrew) (Track 07).wav" size="39542450" crc="cfc12765" md5="1a5f460677fc359ee3457283dd8d952a" sha1="901bec4cef1b848f34b26ba269129368a9729a05"/>
-		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Homebrew) (Track 08).wav" size="18483482" crc="7a018043" md5="ebb2b2e43ae58ee0ee25833ac1c1abe9" sha1="18b276479d297ec77a3af6f500d48813f2174b9c"/>
-		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Homebrew) (Track 09).wav" size="5450646" crc="e22f622f" md5="e36cc50cbedc784633e943925c297f75" sha1="44fc196a5401f81019c1349acee2ed0eab212a9a"/>
-		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Homebrew) (Track 10).wav" size="28651464" crc="9a284eb7" md5="97431a62ce3ea90936d301887a215069" sha1="4ee6e5c96d10f90634a8951e18f6d948be2fbd1a"/>
+	<game name="Homebrew/Shinobi (World) (v1.1) (Aftermarket) (Hoffman)">
+		<category></category>
+		<description>Shinobi (World) (v1.1) (Aftermarket) (Hoffman)</description>
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman).cue" size="1483" crc="19f4bc76" md5="a8582caf369169a14dac699a55040359" sha1="6396e51425ab43014b1832eca6cb1b24e1ded745"/>
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 01).bin" size="3379824" crc="2dd7edf9" md5="5fd77983f3cb0909e67c26f80bd9b642" sha1="363ea94f8af260d1ed9bd47de2e4c2ff6cd2ce26"/>
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 02).wav" size="38208664" crc="01c4bcc9" md5="547a7cad783ecab76164a7140fa8923d" sha1="28b81460bb9fb0654848425e9975e34b0345696b"/>
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 03).wav" size="37766466" crc="cb2360d3" md5="cbeb08a08722b16a0286fd5b57e43418" sha1="1d33c21a1a039eac733555c9c7d2dc521b1289a3"/>
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 04).wav" size="37636566" crc="6bcde1a1" md5="81f33df058d3127d2bf7b5c36b370037" sha1="88b753a170d591b7c279250e7356d0c1f7626769"/>
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 05).wav" size="38182890" crc="f6456b49" md5="4a0a023288f0214718478fe75510a108" sha1="31b0bcedfa854b6ba0f29d14c2c3acb7efc0f9d6"/>
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 06).wav" size="39670190" crc="387ade76" md5="a703f9ddcf95ae234bc16a4f0dcaf4c8" sha1="e3a098cb0386463f2fcf2f54cea0d016bccf3ad0"/>
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 07).wav" size="39542450" crc="cfc12765" md5="1a5f460677fc359ee3457283dd8d952a" sha1="901bec4cef1b848f34b26ba269129368a9729a05"/>
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 08).wav" size="18483482" crc="7a018043" md5="ebb2b2e43ae58ee0ee25833ac1c1abe9" sha1="18b276479d297ec77a3af6f500d48813f2174b9c"/>
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 09).wav" size="5450646" crc="e22f622f" md5="e36cc50cbedc784633e943925c297f75" sha1="44fc196a5401f81019c1349acee2ed0eab212a9a"/>
+		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Track 10).wav" size="28651464" crc="9a284eb7" md5="97431a62ce3ea90936d301887a215069" sha1="4ee6e5c96d10f90634a8951e18f6d948be2fbd1a"/>
 		<url>https://retroachievements.org/game/32801/hashes</url>
 		<hash>fafac288db61100b8ce57086d3b5a6ab</hash>
 	</game>
 	
-	<game name="Xeno Crisis (World) (Unl) (Homebrew)">
-		<category>Homebrew</category>
+	<game name="Homebrew/Xeno Crisis (World) (Unl) (Homebrew)">
+		<category></category>
 		<description>Xeno Crisis (World) (Unl) (Homebrew)</description>
 		<rom name="Xeno Crisis (World) (Unl) (Homebrew).cue" size="5883" crc="5683a7df" md5="f2678f2c08469f94b66f5acaa9146592" sha1="bcb6c920ee35f7e863f6488347d8f94f72b62393"/>
 		<rom name="Xeno Crisis (World) (Unl) (Homebrew) (Track 01).bin" size="8069712" crc="97db440b" md5="c2c501cd243c8c6100acc73afcdc062e" sha1="11c58e0271e88e92c100211b512bd03c88a0818c"/>
@@ -128,8 +128,8 @@
 		<hash>1d232e073b335d96cfef64bad118065c</hash>
 	</game>
 	
-	<game name="Bang^2 Busters (France) (En,Ja) (Unl)">
-		<category>Unlicensed</category>
+	<game name="Unlicensed/Bang^2 Busters (France) (En,Ja) (Unl)">
+		<category></category>
 		<description>Bang^2 Busters (France) (En,Ja) (Unl)</description>
 		<rom name="Bang^2 Busters (France) (En,Ja) (Unl).cue" size="339" crc="6e420f96" md5="971c5e9cb5f397fc24a18e01b07a0ab4" sha1="5e26f9c70009278f74bbd9f5db9cb5cdc4f2ef77"/>
 		<rom name="Bang^2 Busters (France) (En,Ja) (Unl) (Track 1).bin" size="7883904" crc="f555da2f" md5="8cbcf21e5a999392695c6f595c4da507" sha1="d9e54974652b9fbbe6c3ac82a70e9c06cc16700f"/>
@@ -139,8 +139,8 @@
 		<hash>5577aa46a71bede62cda49284e903b22</hash>
 	</game>
 	
-	<game name="Treasure of the Caribbean (France) (En,Ja) (Unl)">
-		<category>Unlicensed</category>
+	<game name="Unlicensed/Treasure of the Caribbean (France) (En,Ja) (Unl)">
+		<category></category>
 		<description>Treasure of the Caribbean (France) (En,Ja) (Unl)</description>
 		<rom name="Treasure of the Caribbean (France) (En,Ja) (Unl).cue" size="1828" crc="64712025" md5="05a2fcd50f15beefcaad1e163cc3eaf8" sha1="8ad9ffc3e6e4fe46a1e0f9e040c4123bb32276d8"/>
 		<rom name="Treasure of the Caribbean (France) (En,Ja) (Unl) (Track 01).bin" size="7813344" crc="454756ff" md5="ceabc4fb8ce9a1ec9139dda316400e73" sha1="e4a4ef277903dc87ef9dc9bc0c5dda4061c9cf4f"/>
@@ -162,8 +162,8 @@
 		<hash>d70f51d47d7774290bc6343223cb3f9d</hash>
 	</game>
 	
-	<game name="ADK World (Japan)">
-		<category>Retail</category>
+	<game name="Retail/ADK World (Japan)">
+		<category></category>
 		<description>ADK World (Japan)</description>
 		<rom name="ADK World (Japan).cue" size="4798" crc="05080a77" md5="04f4ada74c7411d8b5ef3c1ab7d2275c" sha1="da4aebfce559d2d5700aea0e874268bfadce355e"/>
 		<rom name="ADK World (Japan) (Track 01).bin" size="20878704" crc="07c1453d" md5="c9ac2cff3cf4be5d4d55970b13efbe5f" sha1="7a70edb5ded975bcaed220889e8688b03f2b50bb"/>
@@ -213,8 +213,8 @@
 		<hash>0fd821fdb242210f87e33f8ff921ef6d</hash>
 	</game>
 	
-	<game name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja)">
-		<category>Retail</category>
+	<game name="Retail/Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja)">
+		<category></category>
 		<description>Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja)</description>
 		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja).cue" size="4837" crc="daee4486" md5="20bf67fc8f53c39b6e2e4d6708677662" sha1="53c3b8b441bbc64f27a2175a8beac50a63b0a7ed"/>
 		<rom name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja) (Track 01).bin" size="22259328" crc="bbb2f599" md5="7688fc3d710c3df5509bbdd137c7e282" sha1="a684a6a330e882989a3618f54c5c08a181ca096f"/>
@@ -255,8 +255,8 @@
 		<hash>1ac941c2d26e1d60e8e25e44eec64a90</hash>
 	</game>
 	
-	<game name="Breakers (Japan) (En,Ja)">
-		<category>Retail</category>
+	<game name="Retail/Breakers (Japan) (En,Ja)">
+		<category></category>
 		<description>Breakers (Japan) (En,Ja)</description>
 		<rom name="Breakers (Japan) (En,Ja).cue" size="3790" crc="89b57c53" md5="fc0e297e8272e93d43c9eef4154fdff3" sha1="470a09d3ea06c31deb642491e21f739720de911a"/>
 		<rom name="Breakers (Japan) (En,Ja) (Track 01).bin" size="25415712" crc="ea61f50b" md5="db55c22ef9473d655822a5c2dd22db9c" sha1="362d954b78a3e6c4fd56ea20913bcfe009209514"/>
@@ -295,8 +295,8 @@
 		<hash>ed337bd2fda55c3df53b9950a7259872</hash>
 	</game>
 	
-	<game name="Crossed Swords (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Crossed Swords (Japan)">
+		<category></category>
 		<description>Crossed Swords (Japan)</description>
 		<rom name="Crossed Swords (Japan).cue" size="2971" crc="721fbb1b" md5="3d23ffa2283a4689fd9630763873df95" sha1="71628172db1d53ce785a3f01ca535e41f646d7c1"/>
 		<rom name="Crossed Swords (Japan) (Track 01).bin" size="7437024" crc="0a7b7dc8" md5="0a7a502ecb94fbbe027b0db0b2590df5" sha1="f7a462b3ea15d1249dc90f0f4f0c334188e09604"/>
@@ -330,8 +330,8 @@
 		<hash>0258c9e246d4a11743fe05069b14c929</hash>
 	</game>
 	
-	<game name="Crossed Swords II (Japan) (En,Ja)">
-		<category>Retail</category>
+	<game name="Retail/Crossed Swords II (Japan) (En,Ja)">
+		<category></category>
 		<description>Crossed Swords II (Japan) (En,Ja)</description>
 		<rom name="Crossed Swords II (Japan) (En,Ja).cue" size="2926" crc="a515bda1" md5="1d06c1552c00acb8959979664e14326c" sha1="44ecdedf058d433763fc32b49678cf8dfa19f1cd"/>
 		<rom name="Crossed Swords II (Japan) (En,Ja) (Track 01).bin" size="10139472" crc="a1b2684c" md5="b00ce436433384cde93123dc0e34b7ab" sha1="2ece2bc117448c29f003132a7ceb311bcef67ce0"/>
@@ -361,8 +361,8 @@
 		<hash>6bf57922ef3e8b35a69e10379b0d9862</hash>
 	</game>
 	
-	<game name="Double Dragon (Japan) (En,Ja) (Rev 1)">
-		<category>Retail</category>
+	<game name="Retail/Double Dragon (Japan) (En,Ja) (Rev 1)">
+		<category></category>
 		<description>Double Dragon (Japan) (En,Ja) (Rev 1)</description>
 		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1).cue" size="2622" crc="713f879b" md5="22ab76620e78705b608a7f0badd1a6e1" sha1="69d3036e3a4df79c907247b086e201120b6e5dc2"/>
 		<rom name="Double Dragon (Japan) (En,Ja) (Rev 1) (Track 01).bin" size="22988448" crc="3bddb81a" md5="3f6119a8c0fa4bdd18da8636f1dee440" sha1="a9d3a27bdbd533279368cdac7f83ece312235f56"/>
@@ -390,8 +390,8 @@
 		<legacyhash>d94a0a87aa7b26032d49e94bd3837fd8</legacyhash>
 	</game>
 	
-	<game name="Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja)">
-		<category>Retail</category>
+	<game name="Retail/Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja)">
+		<category></category>
 		<description>Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja)</description>
 		<rom name="Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja).cue" size="5671" crc="26ecc358" md5="25066e136c39f02cb592a4e814371898" sha1="3306e844ce4cfd018d23109b8f7cfd7ad16d2d0f"/>
 		<rom name="Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja) (Track 01).bin" size="9130464" crc="b90dfb6b" md5="7d4ea66a5cc2c1082c60ab29ee401354" sha1="f3e2db57336122d4d1cc9d1e1205cd0a7ec586cc"/>
@@ -431,8 +431,8 @@
 		<hash>fda4c1804f3ce9723db4ed2ad38ef269</hash>
 	</game>
 	
-	<game name="Choutetsu Brikin'ger ~ Ironclad - Tesshou Rusha (Japan) (En,Ja)">
-		<category>Retail</category>
+	<game name="Retail/Choutetsu Brikin'ger ~ Ironclad - Tesshou Rusha (Japan) (En,Ja)">
+		<category></category>
 		<description>Choutetsu Brikin'ger ~ Ironclad - Tesshou Rusha (Japan) (En,Ja)</description>
 		<rom name="Choutetsu Brikin'ger ~ Ironclad - Tesshou Rusha (Japan) (En,Ja).cue" size="3142" crc="c10d0bcf" md5="5f16a24ccdc4d59b5714df7cc52f3165" sha1="029c58ad37d2f19d80fcb11bacb56b8c66e46ec7"/>
 		<rom name="Choutetsu Brikin'ger ~ Ironclad - Tesshou Rusha (Japan) (En,Ja) (Track 01).bin" size="46891824" crc="b72555cf" md5="f65f886df22598ee940d8948bb010139" sha1="651ccf13b3ddea544fe7a08a2660ed30515925ad"/>
@@ -459,8 +459,8 @@
 		<hash>da499334bc3673fdcad7b2337653088a</hash>
 	</game>
 	
-	<game name="Next Thing, The - King of the Monsters 2 (World) (En,Ja)">
-		<category>Retail</category>
+	<game name="Retail/Next Thing, The - King of the Monsters 2 (World) (En,Ja)">
+		<category></category>
 		<description>Next Thing, The - King of the Monsters 2 (World) (En,Ja)</description>
 		<rom name="Next Thing, The - King of the Monsters 2 (World) (En,Ja).cue" size="4890" crc="53874385" md5="523f963c26c9861cc2923cc998f9f812" sha1="25d75c9999174d8e59209d054d2fa7b8e1b476eb"/>
 		<rom name="Next Thing, The - King of the Monsters 2 (World) (En,Ja) (Track 01).bin" size="18900672" crc="4115937c" md5="fcdaea883d8154eaf056ebeac7412404" sha1="e35567fcb0e7c838f65557c560bd5a00d5d97deb"/>
@@ -501,8 +501,8 @@
 		<hash>cb4d84873734317306f930a638536529</hash>
 	</game>
 	
-	<game name="Magician Lord (Japan) (En,Ja)">
-		<category>Retail</category>
+	<game name="Retail/Magician Lord (Japan) (En,Ja)">
+		<category></category>
 		<description>Magician Lord (Japan) (En,Ja)</description>
 		<rom name="Magician Lord (Japan) (En,Ja).cue" size="4088" crc="d0e2ce57" md5="98afde720a8810db92516c205683c45f" sha1="4c4cea13296048dd95042c38554e5c64f35e2d79"/>
 		<rom name="Magician Lord (Japan) (En,Ja) (Track 01).bin" size="5630688" crc="523bbcdf" md5="149a9d6af84e47b277c9dde4fed20a20" sha1="87fa01b271c5f57223d2ddf78bae66feca175ab7"/>
@@ -544,8 +544,8 @@
 		<hash>a617e93e3693660c8d986a2eee6904cb</hash>
 	</game>
 	
-	<game name="Metal Slug 2 (World) (En,Ja)">
-		<category>Retail</category>
+	<game name="Retail/Metal Slug 2 (World) (En,Ja)">
+		<category></category>
 		<description>Metal Slug 2 (World) (En,Ja)</description>
 		<rom name="Metal Slug 2 (World) (En,Ja).cue" size="2028" crc="2be8974f" md5="a5d317d04efc0947e0075f51a1536b1d" sha1="71dcffaa3c2960204e6551c4cb11b313676ca6d3"/>
 		<rom name="Metal Slug 2 (World) (En,Ja) (Track 01).bin" size="48067824" crc="3806511e" md5="b37467fd27269b3d5b41fff642f2da87" sha1="7545874e448fe49d13f30b8b00b2c4291bc79795"/>
@@ -571,8 +571,8 @@
 		<url>https://retroachievements.org/game/9103/hashes</url>
 		<hash>1122a5c4348616c4e94b1ba9eeb9c87d</hash>
 	</game>
-	<game name="Metal Slug 2 (World) (En,Ja) (Slowdown Reduction Patch) (v1.0) (system11, SmokeMonster)">
-		<category>Retail</category>
+	<game name="Retail/Metal Slug 2 (World) (En,Ja) (Slowdown Reduction Patch) (v1.0) (system11, SmokeMonster)">
+		<category></category>
 		<description>Metal Slug 2 (World) (En,Ja) (Slowdown Reduction Patch) (v1.0) (system11, SmokeMonster)</description>
 		<rom name="Metal Slug 2 (World) (En,Ja) (Slowdown Reduction Patch) (v1.0) (system11, SmokeMonster).cue" size="953" crc="38fbcf22" md5="ae99bf33af61381e10f172dd4f18a839" sha1="07b88578d1b479b24988b20b8bb35f764fec8a75"/>
 		<rom name="Metal Slug 2 (World) (En,Ja) (Slowdown Reduction Patch) (v1.0) (system11, SmokeMonster).bin" size="719038112" crc="6176265a" md5="8efaa16bce7cdb1c35048b4f049ce4d7" sha1="72606100a70a0dea7d9796f1cf0035bf90176c01"/>
@@ -580,8 +580,8 @@
 		<hash>2da3c9c727df44e16a8c8a31ee7cb7e2</hash>
 	</game>
 	
-	<game name="Mutation Nation (Japan) (En,Ja)">
-		<category>Retail</category>
+	<game name="Retail/Mutation Nation (Japan) (En,Ja)">
+		<category></category>
 		<description>Mutation Nation (Japan) (En,Ja)</description>
 		<rom name="Mutation Nation (Japan) (En,Ja).cue" size="2978" crc="a065606e" md5="65d9f6016a42cf5e841f488116413fd8" sha1="12a34db55325726268d9866e7b831dde8e388ce5"/>
 		<rom name="Mutation Nation (Japan) (En,Ja) (Track 01).bin" size="9273936" crc="61ee4822" md5="041207e4e4f9ab70e8d0084f9e48d52c" sha1="c86046c7b15fd101f2b8d25bd3077744991a270c"/>
@@ -613,8 +613,8 @@
 		<hash>0ec42cc0f6f6041699fa0456d72295c4</hash>
 	</game>
 	
-	<game name="Mutation Nation (Subset - Multi)">
-		<category>Subset</category>
+	<game name="Subset/Mutation Nation (Subset - Multi)">
+		<category></category>
 		<description>Mutation Nation (Subset - Multi)</description>
 		<rom name="Mutation Nation (Subset - Multi).cue" size="3003" crc="216b0c4d" md5="242c07b9396708fc46d7cd83502361c2" sha1="cea8c6b1cb1771e5407377081237f15aaac3b9f0"/>
 		<rom name="Mutation Nation (Subset - Multi) (Track 01).bin" size="9273936" crc="dce92037" md5="1d5d94fed6c28ec5cc2930fc1a0ce253" sha1="99b40e309a8725303a6e5d0da51b7d56e54bd8a1"/>
@@ -646,8 +646,8 @@
 		<hash>293fc12273f61e9681ccaece7d56a814</hash>
 	</game>
 	
-	<game name="Neo Drift Out - New Technology (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Neo Drift Out - New Technology (Japan)">
+		<category></category>
 		<description>Neo Drift Out - New Technology (Japan)</description>
 		<rom name="Neo Drift Out - New Technology (Japan).cue" size="1170" crc="3e7cd503" md5="955d79c10b5038a5d4bc06eb9cbaaa7c" sha1="79c82f4b99d39a4ccfd2f01444e016047ad78090"/>
 		<rom name="Neo Drift Out - New Technology (Japan) (Track 1).bin" size="13905024" crc="d2dc97cd" md5="ec16dacaf4c14cce80a3c08f9ff32880" sha1="9403e89f77a0c52511e11be01718660f3081a47f"/>
@@ -663,8 +663,8 @@
 		<hash>a47063094fdb29d6de7d0f414254a089</hash>
 	</game>
 	
-	<game name="Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja)">
-		<category>Retail</category>
+	<game name="Retail/Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja)">
+		<category></category>
 		<description>Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja)</description>
 		<rom name="Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja).cue" size="3111" crc="13e860a5" md5="0011a4c8ebb87c3ad1972c5fb177e83d" sha1="064e766997ad9d76d5624de2e5ca2f802c2b5601"/>
 		<rom name="Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja) (Track 01).bin" size="44466912" crc="8c380e33" md5="cfef6bd1e352e0a7d223e90f05b3b5c1" sha1="8c8ecf715ffd46c9832d19c4f3ee420cde6c8883"/>
@@ -692,8 +692,8 @@
 		<hash>6afe4c4108f34914cac0274f1e49c294</hash>
 	</game>
 	
-	<game name="OverTop (Japan) (En,Ja)">
-		<category>Retail</category>
+	<game name="Retail/OverTop (Japan) (En,Ja)">
+		<category></category>
 		<description>OverTop (Japan) (En,Ja)</description>
 		<rom name="OverTop (Japan) (En,Ja).cue" size="1752" crc="e63800eb" md5="12fb6316ebe4599f380e6b4acae5e9df" sha1="fa147ce3609d43f3cfa453f83bddf64aefaecf52"/>
 		<rom name="OverTop (Japan) (En,Ja) (Track 01).bin" size="30952320" crc="e7c225a6" md5="3adb762e6b01866afc9ad6088d84284a" sha1="9db04589fa2e1f39dab2bbe9d57b2b7c8e6fd46b"/>
@@ -715,8 +715,8 @@
 		<hash>21edf7674a0d6ca1ee8fc71b0331b010</hash>
 	</game>
 	
-	<game name="Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja)">
-		<category>Retail</category>
+	<game name="Retail/Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja)">
+		<category></category>
 		<description>Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja)</description>
 		<rom name="Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja).cue" size="5898" crc="35436260" md5="89fba78ec38e97f0d195a442616bacd9" sha1="0e4d04d7c2be81264b59b13887ad5c10cd05f3a1"/>
 		<rom name="Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja) (Track 01).bin" size="20580000" crc="ae80b704" md5="4bc96642054d1492634fd83742cf63f2" sha1="77ff2f6c45fb9c112467c996fe6066a2c6735692"/>
@@ -757,8 +757,8 @@
 		<hash>66ec949bde009681484d2cd7158873d8</hash>
 	</game>
 	
-	<game name="Pulstar (Japan) (En,Ja)">
-		<category>Retail</category>
+	<game name="Retail/Pulstar (Japan) (En,Ja)">
+		<category></category>
 		<description>Pulstar (Japan) (En,Ja)</description>
 		<rom name="Pulstar (Japan) (En,Ja).cue" size="2460" crc="fcdf8214" md5="c43cf4315feb238f0b98adb6965a615d" sha1="f44348dc2ce99f0f8d8454cf25028d1b014ae235"/>
 		<rom name="Pulstar (Japan) (En,Ja) (Track 01).bin" size="146005104" crc="922b2afb" md5="f9b26de3ae4a3a777f401077ed3de791" sha1="476f2454dfce5c9df605e3ac7e4957b8936e1b79"/>
@@ -786,8 +786,8 @@
 		<hash>cd9c3d37408c31eaaf72a1e10f69fbc4</hash>
 	</game>
 	
-	<game name="Puzzle Bobble ~ Bust-A-Move (Japan) (En,Ja)">
-		<category>Retail</category>
+	<game name="Retail/Puzzle Bobble ~ Bust-A-Move (Japan) (En,Ja)">
+		<category></category>
 		<description>Puzzle Bobble ~ Bust-A-Move (Japan) (En,Ja)</description>
 		<rom name="Puzzle Bobble ~ Bust-A-Move (Japan) (En,Ja).cue" size="109" crc="d5c3b173" md5="948fcfe2b540b13e6f394b0f9e92108b" sha1="e42b4f915ed0d88376e50afe269c04a089f608df"/>
 		<rom name="Puzzle Bobble ~ Bust-A-Move (Japan) (En,Ja).bin" size="2740080" crc="e951c6be" md5="ae9eeff58f32e86375af017ce984af04" sha1="f1764842973d087963a69c80160619002b5366ca"/>
@@ -795,8 +795,8 @@
 		<hash>282ffc9411808cd514c092d2772b5163</hash>
 	</game>
 	
-	<game name="Rally Chase (Japan) (En,Ja)">
-		<category>Retail</category>
+	<game name="Retail/Rally Chase (Japan) (En,Ja)">
+		<category></category>
 		<description>Rally Chase (Japan) (En,Ja)</description>
 		<rom name="Rally Chase (Japan) (En,Ja).cue" size="1852" crc="5f5c7f9b" md5="20d23e72c9bc19af3bf9b1e21fb4c435" sha1="bf563d1e89d37ffb98996ba1030b478112f17efa"/>
 		<rom name="Rally Chase (Japan) (En,Ja) (Track 01).bin" size="6684384" crc="b36554d1" md5="ef0f2bfb8b8301a4102d241ebd642799" sha1="16b3c3dcce97d793b07d23722c132fc4d5ddf705"/>
@@ -819,8 +819,8 @@
 		<hash>8dc5545bde96a4debfc6deae3f20aa86</hash>
 	</game>
 	
-	<game name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt)">
-		<category>Retail</category>
+	<game name="Retail/Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt)">
+		<category></category>
 		<description>Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt)</description>
 		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt).cue" size="7490" crc="fc133bae" md5="e5e4da207c25a9dc26c43cfc67e80f24" sha1="045b90c0d3432a60b3f0c4ca3a2517486f5ad431"/>
 		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Track 01).bin" size="59562048" crc="89074587" md5="ed12060f02e8347ce639261943d2ad27" sha1="610515a22118f4c2593969cf39531c2ec8569c93"/>
@@ -862,8 +862,8 @@
 		<hash>1d59cdd9af0f82cd89c4a7a7594f1422</hash>
 		<legacyhash>3df0fc10d4fac02904487e58588b5737</legacyhash>
 	</game>
-	<game name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Rev 1)">
-		<category>Retail</category>
+	<game name="Retail/Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Rev 1)">
+		<category></category>
 		<description>Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Rev 1)</description>
 		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Rev 1).cue" size="7770" crc="fbfaa724" md5="19f5afb5adb247373886efa136b0db48" sha1="876b5d7ae3dcd396d958b347aafb408b3da2e7aa"/>
 		<rom name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Rev 1) (Track 01).bin" size="59627904" crc="f98a5a3a" md5="2b6aadeffbdb147da973e336da465feb" sha1="8980f5f091030510679271d0e304d8e6f398db5e"/>
@@ -906,8 +906,8 @@
 		<legacyhash>4f84cf59f190dc881c1916ef5d9ab600</legacyhash>
 	</game>
 	
-	<game name="Shougi no Tatsujin - Master of Syougi (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Shougi no Tatsujin - Master of Syougi (Japan)">
+		<category></category>
 		<description>Shougi no Tatsujin - Master of Syougi (Japan)</description>
 		<rom name="Shougi no Tatsujin - Master of Syougi (Japan).cue" size="1802" crc="eb0ca3c1" md5="d75397423c3ca5da26b411fb6ffaaecb" sha1="40b394d789db1c6622fcd2886903495bcc80ab08"/>
 		<rom name="Shougi no Tatsujin - Master of Syougi (Japan) (Track 01).bin" size="7335888" crc="2c170257" md5="32e6eaa25d3d7d1ed2c8a8856420a2f8" sha1="34eac00b4cb8f96d98036b023128a447fe0cf928"/>
@@ -927,8 +927,8 @@
 		<hash>26e2b6677508159f29b408f143ae5b03</hash>
 	</game>
 	
-	<game name="Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (World) (En,Ja,Fr,Es,It,Pt)">
-		<category>Retail</category>
+	<game name="Retail/Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (World) (En,Ja,Fr,Es,It,Pt)">
+		<category></category>
 		<description>Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (World) (En,Ja,Fr,Es,It,Pt)</description>
 		<rom name="Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (World) (En,Ja,Fr,Es,It,Pt).cue" size="6076" crc="1222e8b5" md5="4f55893ac098fb24aeb8afc4a57058ee" sha1="fb9c2faf96c79a2d8b633f3af20d150e0e1f01d5"/>
 		<rom name="Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (World) (En,Ja,Fr,Es,It,Pt) (Track 01).bin" size="60942672" crc="69ccae9b" md5="db1372dec6f64d6512284609dbcd58cd" sha1="7a42ec163527906da5e1aefafbc40b11a118de86"/>
@@ -957,8 +957,8 @@
 		<hash>4c8fe6d79fb876a41e5c1609267366d4</hash>
 	</game>
 	
-	<game name="Super Sidekicks 3 - The Next Glory (Subset - Post '98 Champions)">
-		<category>Subset</category>
+	<game name="Subset/Super Sidekicks 3 - The Next Glory (Subset - Post '98 Champions)">
+		<category></category>
 		<description>Super Sidekicks 3 - The Next Glory (Subset - Post '98 Champions)</description>
 		<rom name="Super Sidekicks 3 - The Next Glory (Subset - Post '98 Champions).cue" size="5328" crc="7fc1f531" md5="238743824e77440fb6fe831bceb03a4f" sha1="8a466eda012dbe75dec7cdb55fa0d6a955d4cd4d"/>
 		<rom name="Super Sidekicks 3 - The Next Glory (Subset - Post '98 Champions) (Track 01).bin" size="60942672" crc="de609c4b" md5="fe407ae70404bf423175ff656ad429a9" sha1="18e8198a0d2723a482304e55663f3467a5d8d674"/>
@@ -987,8 +987,8 @@
 		<hash>1d357cec975d46eacaff931520ad8fc5</hash>
 	</game>
 	
-	<game name="Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja)">
-		<category>Retail</category>
+	<game name="Retail/Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja)">
+		<category></category>
 		<description>Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja)</description>
 		<rom name="Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja).cue" size="6272" crc="ea698ec9" md5="2b6b9431e582313988a174484bda6580" sha1="58ec9bba54060dbe0d0b60ce60a007dc93dca91c"/>
 		<rom name="Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja) (Track 01).bin" size="28746144" crc="b2787182" md5="05b28a8ad96b11542b04dcebd11e07d0" sha1="09d5d70fa28c890c990313314398ff480a6d3fed"/>
@@ -1029,8 +1029,8 @@
 		<hash>ead8565baa2255f3273e1996a0666c13</hash>
 	</game>
 	
-	<game name="King of Fighters '97, The (Japan) (En,Ja)">
-		<category>Retail</category>
+	<game name="Retail/King of Fighters '97, The (Japan) (En,Ja)">
+		<category></category>
 		<description>King of Fighters '97, The (Japan) (En,Ja)</description>
 		<rom name="King of Fighters '97, The (Japan) (En,Ja).cue" size="8492" crc="afe9c910" md5="548bf4afa8d8a94362b5b6b381a242d3" sha1="c15642f57b769e64d8eede19c46a10d503521f96"/>
 		<rom name="King of Fighters '97, The (Japan) (En,Ja) (Track 01).bin" size="83098512" crc="5bb54eb2" md5="a1011bfbbf0cedc873b38e2b6cef9aeb" sha1="2b3be63026e336d910d9950b7c8e7b39521d4f6c"/>
@@ -1084,8 +1084,8 @@
 		<legacyhash>7d92140289b4fb7be1b8924ed53f8504</legacyhash>
 	</game>
 	
-	<game name="Top Hunter - Roddy &amp; Cathy (World) (En,Ja)">
-		<category>Retail</category>
+	<game name="Retail/Top Hunter - Roddy &amp; Cathy (World) (En,Ja)">
+		<category></category>
 		<description>Top Hunter - Roddy &amp; Cathy (World) (En,Ja)</description>
 		<rom name="Top Hunter - Roddy &amp; Cathy (World) (En,Ja).cue" size="4801" crc="bd21ee23" md5="e032d0283190e9a21cb9ad569933d755" sha1="c3fca41b2fa421981458f8837dd07de56fcda41c"/>
 		<rom name="Top Hunter - Roddy &amp; Cathy (World) (En,Ja) (Track 01).bin" size="21934752" crc="c21bc460" md5="3c1679603d587ce5fa71738d52064188" sha1="aeafea12a19ce8caf25de9f95d5a4739703ecbad"/>
@@ -1129,8 +1129,8 @@
 		<hash>ec04ad9093243f662b7d3dde8005a165</hash>
 	</game>
 	
-	<game name="Top Player's Golf (Japan) (En,Ja)">
-		<category>Retail</category>
+	<game name="Retail/Top Player's Golf (Japan) (En,Ja)">
+		<category></category>
 		<description>Top Player's Golf (Japan) (En,Ja)</description>
 		<rom name="Top Player's Golf (Japan) (En,Ja).cue" size="2068" crc="9978bca5" md5="68493a8023c922674ac3ce14f381eb6e" sha1="5637b0dcea94ff53b044ee43191244ac30552f04"/>
 		<rom name="Top Player's Golf (Japan) (En,Ja) (Track 01).bin" size="11388384" crc="7963deaf" md5="d8d96280cc70547ea365ee554b7a20a6" sha1="18cf70673a0a45718161547e22b9d355223d1174"/>
@@ -1155,8 +1155,8 @@
 		<legacyhash>28f4d7d34fef1e844c97648e055fedf8</legacyhash>
 	</game>
 	
-	<game name="Twinkle Star Sprites (Japan) (En,Ja)">
-		<category>Retail</category>
+	<game name="Retail/Twinkle Star Sprites (Japan) (En,Ja)">
+		<category></category>
 		<description>Twinkle Star Sprites (Japan) (En,Ja)</description>
 		<rom name="Twinkle Star Sprites (Japan) (En,Ja).cue" size="3519" crc="9a9b8b05" md5="6eed0dded594bdc988be561411e7e6e2" sha1="e28668a8d665bb8ef6602440332aeb48dd44b6e3"/>
 		<rom name="Twinkle Star Sprites (Japan) (En,Ja) (Track 01).bin" size="19563936" crc="f3c46209" md5="b5fedf427eee159e57deaf3c6cbca731" sha1="90cef41dc9bf31d971361192ff47310e26c063be"/>
@@ -1190,8 +1190,8 @@
 		<hash>7c03d6fc2f2c3c121d3ae6cd37905455</hash>
 	</game>
 	
-	<game name="Flying Power Disc ~ Windjammers (Japan) (En,Ja)">
-		<category>Retail</category>
+	<game name="Retail/Flying Power Disc ~ Windjammers (Japan) (En,Ja)">
+		<category></category>
 		<description>Flying Power Disc ~ Windjammers (Japan) (En,Ja)</description>
 		<rom name="Flying Power Disc ~ Windjammers (Japan) (En,Ja).cue" size="2822" crc="c50e976f" md5="6948c52abed83f97b7e08375f248af51" sha1="a7f54fc932945e18d659a1945c1d6a570ef7cc89"/>
 		<rom name="Flying Power Disc ~ Windjammers (Japan) (En,Ja) (Track 01).bin" size="7766304" crc="abcf10f8" md5="6d5afc44826c5ad1c5eaa1fec5d09629" sha1="15481015cf9192a1f86d39b5f86ba1f881f65f3f"/>
@@ -1218,8 +1218,8 @@
 		<hash>27d27af1ca0945dfac6e8cb9c75c6d62</hash>
 	</game>
 	
-	<game name="World Heroes Perfect (Export) (En,Ja) (Rev 1)">
-		<category>Retail</category>
+	<game name="Retail/World Heroes Perfect (Export) (En,Ja) (Rev 1)">
+		<category></category>
 		<description>World Heroes Perfect (Export) (En,Ja) (Rev 1)</description>
 		<rom name="World Heroes Perfect (Export) (En,Ja) (Rev 1).cue" size="6562" crc="b2a3891f" md5="1e0bbf148879e6257318e8c4f932e75d" sha1="99550a7885055be8bd7152f80404250044c7d81d"/>
 		<rom name="World Heroes Perfect (Export) (En,Ja) (Rev 1) (Track 01).bin" size="29969184" crc="0a3a9568" md5="6431f0e5eba3d9fbab9334ee6f7b5679" sha1="65bdf8970b73a029c814d570470cf863d4f5e6a6"/>

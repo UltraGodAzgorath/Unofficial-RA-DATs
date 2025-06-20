@@ -5,326 +5,326 @@
 		<name>RA - Colecovision</name>
 		<description>Colecovision</description>
 		<category>1G1R</category>
-		<version>20250612</version>
-		<date>12 June 2025</date>
+		<version>20250619</version>
+		<date>19 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/44/games</url>
 		<titlecount>37</titlecount>
 		<hashcount>39</hashcount>
 	</header>
-	<game name="Dragon's Lair (World) (Aftermarket) (Unl) (Homebrew)">
-		<category>Homebrew</category>
+	<game name="Homebrew/Dragon's Lair (World) (Aftermarket) (Unl) (Homebrew)">
+		<category></category>
 		<description>Dragon's Lair (World) (Aftermarket) (Unl) (Homebrew)</description>
 		<rom name="Dragon's Lair (World) (Aftermarket) (Unl) (Homebrew).col" size="262144" crc="12ceee08" md5="3568ed427a9e33de164b44402103ae64" sha1="e74f80fef5276ee6d58b2ed6ee8ebeec668db324"/>
 		<url>https://retroachievements.org/game/33722/hashes</url>
 		<hash>3568ed427a9e33de164b44402103ae64</hash>
 	</game>
 	
-	<game name="Frostbite (World) (Aftermarket) (Unl)">
-		<category>Homebrew</category>
+	<game name="Homebrew/Frostbite (World) (Aftermarket) (Unl)">
+		<category></category>
 		<description>Frostbite (World) (Aftermarket) (Unl)</description>
 		<rom name="Frostbite (World) (Aftermarket) (Unl).col" size="32768" crc="b3212318" md5="9c3a581843ce1efe220e7e726cadb9ea" sha1="92ed60d081e192053823b62b90a647279b241dd5"/>
 		<url>https://retroachievements.org/game/25263/hashes</url>
 		<hash>9C3A581843CE1EFE220E7E726CADB9EA</hash>
 	</game>
 	
-	<game name="Ice Muncher (World) (v1.0) (Aftermarket) (Unl)">
-		<category>Homebrew</category>
+	<game name="Homebrew/Ice Muncher (World) (v1.0) (Aftermarket) (Unl)">
+		<category></category>
 		<description>Ice Muncher (World) (v1.0) (Aftermarket) (Unl)</description>
 		<rom name="Ice Muncher (World) (v1.0) (Aftermarket) (Unl).col" size="29615" crc="8cf16f2f" md5="d0c499b2af27b4d717de879f47607625" sha1="e15b10be51112035fe69ed84f260b2bbe192d3b7"/>
 		<url>https://retroachievements.org/game/25104/hashes</url>
 		<hash>D0C499B2AF27B4D717DE879F47607625</hash>
 	</game>
-	<game name="Ice Muncher (World) (v1.1) (Aftermarket) (Unl)">
-		<category>Homebrew</category>
+	<game name="Homebrew/Ice Muncher (World) (v1.1) (Aftermarket) (Unl)">
+		<category></category>
 		<description>Ice Muncher (World) (v1.1) (Aftermarket) (Unl)</description>
 		<rom name="Ice Muncher (World) (v1.1) (Aftermarket) (Unl).col" size="29580" crc="9be9516f" md5="47210914b12d9bd06c15d9f5f9e896fe" sha1="e9296cabf5b0054a710e1c54df920131bde36e1b"/>
 		<url>https://retroachievements.org/game/25104/hashes</url>
 		<hash>47210914B12D9BD06C15D9F5F9E896FE</hash>
 	</game>
 	
-	<game name="Minesweeper (World) (Aftermarket) (Unl)">
-		<category>Homebrew</category>
+	<game name="Homebrew/Minesweeper (World) (Aftermarket) (Unl)">
+		<category></category>
 		<description>Minesweeper (World) (Aftermarket) (Unl)</description>
 		<rom name="Minesweeper (World) (Aftermarket) (Unl).col" size="13604" crc="5cd9d34a" md5="53021bab905ed4bc85a00ccc0e2bf595" sha1="f8eb14dd0916042028907477997ab9ee44655208"/>
 		<url>https://retroachievements.org/game/22414/hashes</url>
 		<hash>53021BAB905ED4BC85A00CCC0E2BF595</hash>
 	</game>
 	
-	<game name="Multiverse (World) (Aftermarket) (Unl)">
-		<category>Homebrew</category>
+	<game name="Homebrew/Multiverse (World) (Aftermarket) (Unl)">
+		<category></category>
 		<description>Multiverse (World) (Aftermarket) (Unl)</description>
 		<rom name="Multiverse (World) (Aftermarket) (Unl).col" size="32768" crc="d45475ac" md5="f8f57b1c5171a771b3987be56ef9f0ff" sha1="86cd2a4011957f417d50c3de8dd52c4c14e8e52a"/>
 		<url>https://retroachievements.org/game/29939/hashes</url>
 		<hash>f8f57b1c5171a771b3987be56ef9f0ff</hash>
 	</game>
 	
-	<game name="Pac-Man Collection (World) (Aftermarket) (Unl)">
-		<category>Homebrew</category>
+	<game name="Homebrew/Pac-Man Collection (World) (Aftermarket) (Unl)">
+		<category></category>
 		<description>Pac-Man Collection (World) (Aftermarket) (Unl)</description>
 		<rom name="Pac-Man Collection (World) (Aftermarket) (Unl).col" size="131072" crc="f3ccacb3" md5="9cebe6571aa12803eadcefd9cde6b1b6" sha1="b88ea5f1b052a224068bcc920c6a18760f263c8f"/>
 		<url>https://retroachievements.org/game/29868/hashes</url>
 		<hash>9CEBE6571AA12803EADCEFD9CDE6B1B6</hash>
 	</game>
 	
-	<game name="Quest for the Golden Chalice (World) (Aftermarket) (Unl)">
-		<category>Homebrew</category>
+	<game name="Homebrew/Quest for the Golden Chalice (World) (Aftermarket) (Unl)">
+		<category></category>
 		<description>Quest for the Golden Chalice (World) (Aftermarket) (Unl)</description>
 		<rom name="Quest for the Golden Chalice (World) (Aftermarket) (Unl).col" size="32768" crc="6da37da8" md5="eabcb4a9a1eac2c6f8a7d002987d9e55" sha1="21398973ba4ebd563ccfb0f3c1c03c6a447f4eea"/>
 		<url>https://retroachievements.org/game/24468/hashes</url>
 		<hash>EABCB4A9A1EAC2C6F8A7D002987D9E55</hash>
 	</game>
 	
-	<game name="Sega Flipper (SG-1000 Conversion) (World) (Aftermarket) (Unl)">
-		<category>Homebrew</category>
+	<game name="Homebrew/Sega Flipper (SG-1000 Conversion) (World) (Aftermarket) (Unl)">
+		<category></category>
 		<description>Sega Flipper (SG-1000 Conversion) (World) (Aftermarket) (Unl)</description>
 		<rom name="Sega Flipper (SG-1000 Conversion) (World) (Aftermarket) (Unl).col" size="16384" crc="e7739f82" md5="e61ca91de0e9591fb16204e8a626923a" sha1="4a6d106f0fe36ed9dbe7823f1c9044e17aeea181"/>
 		<url>https://retroachievements.org/game/25957/hashes</url>
 		<hash>E61CA91DE0E9591FB16204E8A626923A</hash>
 	</game>
 	
-	<game name="Sudoku (World) (v1.0) (Aftermarket) (Unl)">
-		<category>Homebrew</category>
+	<game name="Homebrew/Sudoku (World) (v1.0) (Aftermarket) (Unl)">
+		<category></category>
 		<description>Sudoku (World) (v1.0) (Aftermarket) (Unl)</description>
 		<rom name="Sudoku (World) (v1.0) (Aftermarket) (Unl).col" size="10496" crc="12144312" md5="94476e431aca0f9590964d6797d5dee9" sha1="0124ba683340188c7a9a89122af7a54db07e1edb"/>
 		<url>https://retroachievements.org/game/14471/hashes</url>
 		<hash>94476E431ACA0F9590964D6797D5DEE9</hash>
 	</game>
-	<game name="Sudoku (World) (v2.0) (Aftermarket) (Unl)">
-		<category>Homebrew</category>
+	<game name="Homebrew/Sudoku (World) (v2.0) (Aftermarket) (Unl)">
+		<category></category>
 		<description>Sudoku (World) (v2.0) (Aftermarket) (Unl)</description>
 		<rom name="Sudoku (World) (v2.0) (Aftermarket) (Unl).col" size="10496" crc="2aa3abb2" md5="e34e775b40367815197dc4086aab2f89" sha1="499c9746f0dacab59a3fb23f80169df34cfbb91a"/>
 		<url>https://retroachievements.org/game/14471/hashes</url>
 		<hash>E34E775B40367815197DC4086AAB2F89</hash>
 	</game>
 
-	<game name="Pac-Man (USA) (Proto)">
-		<category>Prototype</category>
+	<game name="Prototype/Pac-Man (USA) (Proto)">
+		<category></category>
 		<description>Pac-Man (USA) (Proto)</description>
 		<rom name="Pac-Man (USA) (Proto).col" size="16384" crc="a40a07e8" md5="70432c26c3e9ff2be98eff4401923e3c" sha1="4d724d40c389cdb62929aa69bc76466c3bcb5bcd"/>
 		<url>https://retroachievements.org/game/17175/hashes</url>
 		<hash>70432C26C3E9FF2BE98EFF4401923E3C</hash>
 	</game>
 	
-	<game name="Antarctic Adventure (USA, Europe)">
-		<category>Retail</category>
+	<game name="Retail/Antarctic Adventure (USA, Europe)">
+		<category></category>
 		<description>Antarctic Adventure (USA, Europe)</description>
 		<rom name="Antarctic Adventure (USA, Europe).col" size="16384" crc="275c800e" md5="1ea45edc04bc4df444a38e50f8a75d5d" sha1="00db7cf9bd66aecac3d9368dd205680781b2e542"/>
 		<url>https://retroachievements.org/game/14003/hashes</url>
 		<hash>1EA45EDC04BC4DF444A38E50F8A75D5D</hash>
 	</game>
 	
-	<game name="Artillery Duel (USA)">
-		<category>Retail</category>
+	<game name="Retail/Artillery Duel (USA)">
+		<category></category>
 		<description>Artillery Duel (USA)</description>
 		<rom name="Artillery Duel (USA).col" size="16384" crc="6f88fcf0" md5="fabbbf6dfcb0628fa33b476750a492f8" sha1="a2494b1ade772fe45779bd500139ff847dfe7afa"/>
 		<url>https://retroachievements.org/game/17275/hashes</url>
 		<hash>FABBBF6DFCB0628FA33B476750A492F8</hash>
 	</game>
 	
-	<game name="Carnival (USA, Europe)">
-		<category>Retail</category>
+	<game name="Retail/Carnival (USA, Europe)">
+		<category></category>
 		<description>Carnival (USA, Europe)</description>
 		<rom name="Carnival (USA, Europe).col" size="16384" crc="70f315c2" md5="f44e87fd71785824ac2ffb9927337886" sha1="d4f34382d43897774101e3620384a402dd3d2ec1"/>
 		<url>https://retroachievements.org/game/14066/hashes</url>
 		<hash>F44E87FD71785824AC2FFB9927337886</hash>
 	</game>
 	
-	<game name="Cosmic Avenger (USA, Europe)">
-		<category>Retail</category>
+	<game name="Retail/Cosmic Avenger (USA, Europe)">
+		<category></category>
 		<description>Cosmic Avenger (USA, Europe)</description>
 		<rom name="Cosmic Avenger (USA, Europe).col" size="16384" crc="39d4215b" md5="cfbd4a478e7019422c306837444d2e46" sha1="c8c2a70d3eab8a68ab1db04e766a6c70f02f02ca"/>
 		<url>https://retroachievements.org/game/14067/hashes</url>
 		<hash>cfbd4a478e7019422c306837444d2e46</hash>
 	</game>
 	
-	<game name="Donkey Kong (USA, Europe) (v1.1)">
-		<category>Retail</category>
+	<game name="Retail/Donkey Kong (USA, Europe) (v1.1)">
+		<category></category>
 		<description>Donkey Kong (USA, Europe) (v1.1)</description>
 		<rom name="Donkey Kong (USA, Europe) (v1.1).col" size="16384" crc="3c77198c" md5="613a3e457758e274a0e0819ff6aa2d43" sha1="46b7aa1cedac273f2b96bad4a0768554733972bf"/>
 		<url>https://retroachievements.org/game/14068/hashes</url>
 		<hash>613A3E457758E274A0E0819FF6AA2D43</hash>
 	</game>
 	
-	<game name="Donkey Kong Junior (USA, Europe)">
-		<category>Retail</category>
+	<game name="Retail/Donkey Kong Junior (USA, Europe)">
+		<category></category>
 		<description>Donkey Kong Junior (USA, Europe)</description>
 		<rom name="Donkey Kong Junior (USA, Europe).col" size="16384" crc="fd11508d" md5="1eb2b9c2d1d113f3860f345a07baeb42" sha1="113c1ead67b2679ddad9b99506e801526245af05"/>
 		<url>https://retroachievements.org/game/21428/hashes</url>
 		<hash>1EB2B9C2D1D113F3860F345A07BAEB42</hash>
 	</game>
 	
-	<game name="Dragonfire (USA)">
-		<category>Retail</category>
+	<game name="Retail/Dragonfire (USA)">
+		<category></category>
 		<description>Dragonfire (USA)</description>
 		<rom name="Dragonfire (USA).col" size="16384" crc="dcb8f9e8" md5="37c56fabd85c91f365bf2f1152f59081" sha1="b623a970164d9739c0135d0cf37f9f0b3c67b17c"/>
 		<url>https://retroachievements.org/game/13486/hashes</url>
 		<hash>37C56FABD85C91F365BF2F1152F59081</hash>
 	</game>
 	
-	<game name="Evolution (USA) (Unl)">
-		<category>Retail</category>
+	<game name="Retail/Evolution (USA) (Unl)">
+		<category></category>
 		<description>Evolution (USA) (Unl)</description>
 		<rom name="Evolution (USA) (Unl).col" size="16384" crc="4c933007" md5="e0d1ff37974fa017a6c78c174925643a" sha1="809befaad2bb341241d58fcd4e0409d690e4b6ce"/>
 		<url>https://retroachievements.org/game/17472/hashes</url>
 		<hash>E0D1FF37974FA017A6C78C174925643A</hash>
 	</game>
 	
-	<game name="Frenzy (USA, Europe)">
-		<category>Retail</category>
+	<game name="Retail/Frenzy (USA, Europe)">
+		<category></category>
 		<description>Frenzy (USA, Europe)</description>
 		<rom name="Frenzy (USA, Europe).col" size="20480" crc="3cacddfb" md5="ec8f7fea2f00df94ded932d49bd8a7f9" sha1="9fae20696149c1dba5203e1600565917c8981d81"/>
 		<url>https://retroachievements.org/game/14000/hashes</url>
 		<hash>ec8f7fea2f00df94ded932d49bd8a7f9</hash>
 	</game>
 	
-	<game name="Frogger (USA)">
-		<category>Retail</category>
+	<game name="Retail/Frogger (USA)">
+		<category></category>
 		<description>Frogger (USA)</description>
 		<rom name="Frogger (USA).col" size="12288" crc="798002a2" md5="ade03210d571409ecb18d5bfaefdad03" sha1="c808284b8a161e8405da093884e861fcde4220e9"/>
 		<url>https://retroachievements.org/game/14275/hashes</url>
 		<hash>ADE03210D571409ECB18D5BFAEFDAD03</hash>
 	</game>
 	
-	<game name="Gateway to Apshai (USA, Europe)">
-		<category>Retail</category>
+	<game name="Retail/Gateway to Apshai (USA, Europe)">
+		<category></category>
 		<description>Gateway to Apshai (USA, Europe)</description>
 		<rom name="Gateway to Apshai (USA, Europe).col" size="12288" crc="fdb75be6" md5="7262176bb5917af526243438f6c8d9e4" sha1="837a192ee27ab78c4ab914b45b9ba55e5847cf37"/>
 		<url>https://retroachievements.org/game/22417/hashes</url>
 		<hash>7262176BB5917AF526243438F6C8D9E4</hash>
 	</game>
 	
-	<game name="Gorf (USA, Europe)">
-		<category>Retail</category>
+	<game name="Retail/Gorf (USA, Europe)">
+		<category></category>
 		<description>Gorf (USA, Europe)</description>
 		<rom name="Gorf (USA, Europe).col" size="16384" crc="ff46becc" md5="e751e5d60a2259334b80ce63d2b69c3a" sha1="f0406171923072e75d89ae43621ec18bbd9f154c"/>
 		<url>https://retroachievements.org/game/14001/hashes</url>
 		<hash>E751E5D60A2259334B80CE63D2B69C3A</hash>
 	</game>
 	
-	<game name="Gyruss (USA)">
-		<category>Retail</category>
+	<game name="Retail/Gyruss (USA)">
+		<category></category>
 		<description>Gyruss (USA)</description>
 		<rom name="Gyruss (USA).col" size="16384" crc="27cbf26d" md5="fd499d2d7ed864f81c6f01a9ad4b4442" sha1="9d34b9a55f9b6c8443696114a8e69724e5106b5a"/>
 		<url>https://retroachievements.org/game/17289/hashes</url>
 		<hash>FD499D2D7ED864F81C6F01A9AD4B4442</hash>
 	</game>
 	
-	<game name="James Bond 007 (USA)">
-		<category>Retail</category>
+	<game name="Retail/James Bond 007 (USA)">
+		<category></category>
 		<description>James Bond 007 (USA)</description>
 		<rom name="James Bond 007 (USA).col" size="12288" crc="561f2530" md5="c7ea91d9ac4d4a104d8e7832f8db3962" sha1="22ee76c680e94fa016263473d0ffdbed1ea5ab7b"/>
 		<url>https://retroachievements.org/game/17290/hashes</url>
 		<hash>C7EA91D9AC4D4A104D8E7832F8DB3962</hash>
 	</game>
 	
-	<game name="Jumpman Junior (USA, Europe)">
-		<category>Retail</category>
+	<game name="Retail/Jumpman Junior (USA, Europe)">
+		<category></category>
 		<description>Jumpman Junior (USA, Europe)</description>
 		<rom name="Jumpman Junior (USA, Europe).col" size="16384" crc="060c69e8" md5="5454538f617f2ccf56cb7e0f5a45d11b" sha1="b79d4312e2d5fc30e37ee46916dc31908c84590e"/>
 		<url>https://retroachievements.org/game/6339/hashes</url>
 		<hash>5454538F617F2CCF56CB7E0F5A45D11B</hash>
 	</game>
 	
-	<game name="Jungle Hunt (USA)">
-		<category>Retail</category>
+	<game name="Retail/Jungle Hunt (USA)">
+		<category></category>
 		<description>Jungle Hunt (USA)</description>
 		<rom name="Jungle Hunt (USA).col" size="24576" crc="58e886d2" md5="d6f4df2726159c5aedae9efd21307f09" sha1="8271203fa88e36dbee9423981f580c11b110001a"/>
 		<url>https://retroachievements.org/game/14281/hashes</url>
 		<hash>D6F4DF2726159C5AEDAE9EFD21307F09</hash>
 	</game>
 	
-	<game name="Monkey Academy (USA)">
-		<category>Retail</category>
+	<game name="Retail/Monkey Academy (USA)">
+		<category></category>
 		<description>Monkey Academy (USA)</description>
 		<rom name="Monkey Academy (USA).col" size="20480" crc="d92b09c8" md5="6cd6a23e951c0ec6da23d1335812bff2" sha1="ac51f1a107b962e9322411d6233b3ce922e0fc15"/>
 		<url>https://retroachievements.org/game/17292/hashes</url>
 		<hash>6cd6a23e951c0ec6da23d1335812bff2</hash>
 	</game>
 	
-	<game name="Montezuma's Revenge (USA)">
-		<category>Retail</category>
+	<game name="Retail/Montezuma's Revenge (USA)">
+		<category></category>
 		<description>Montezuma's Revenge (USA)</description>
 		<rom name="Montezuma's Revenge (USA).col" size="12288" crc="ced0d16e" md5="f7f5da82e247df6f5097755deffde0ed" sha1="44862334e171bccd80d41a2afbc5d7af46d68d07"/>
 		<url>https://retroachievements.org/game/21994/hashes</url>
 		<hash>F7F5DA82E247DF6F5097755DEFFDE0ED</hash>
 	</game>
 	
-	<game name="Mountain King (USA)">
-		<category>Retail</category>
+	<game name="Retail/Mountain King (USA)">
+		<category></category>
 		<description>Mountain King (USA)</description>
 		<rom name="Mountain King (USA).col" size="16384" crc="c173bbec" md5="bb79207c51e772fd26276712cc4e6927" sha1="46602df46117513d7166eba81e2e3546246adf94"/>
 		<url>https://retroachievements.org/game/24996/hashes</url>
 		<hash>BB79207C51E772FD26276712CC4E6927</hash>
 	</game>
 	
-	<game name="Mouse Trap (USA, Europe)">
-		<category>Retail</category>
+	<game name="Retail/Mouse Trap (USA, Europe)">
+		<category></category>
 		<description>Mouse Trap (USA, Europe)</description>
 		<rom name="Mouse Trap (USA, Europe).col" size="12288" crc="de47c29f" md5="c8f0d1ee5494dab146c82a4ebecaff4a" sha1="36686b5f84c8ecfe9e6468ca0f2402ce0c03150c"/>
 		<url>https://retroachievements.org/game/14071/hashes</url>
 		<hash>C8F0D1EE5494DAB146C82A4EBECAFF4A</hash>
 	</game>
 	
-	<game name="Pepper II (USA, Europe)">
-		<category>Retail</category>
+	<game name="Retail/Pepper II (USA, Europe)">
+		<category></category>
 		<description>Pepper II (USA, Europe)</description>
 		<rom name="Pepper II (USA, Europe).col" size="16384" crc="53b85e20" md5="679f02b1d1a7d68af42735d67cbccaff" sha1="0983d0a562ccb3d4ac88d8ae26cf29a465075067"/>
 		<url>https://retroachievements.org/game/14002/hashes</url>
 		<hash>679F02B1D1A7D68AF42735D67CBCCAFF</hash>
 	</game>
 	
-	<game name="Popeye (USA)">
-		<category>Retail</category>
+	<game name="Retail/Popeye (USA)">
+		<category></category>
 		<description>Popeye (USA)</description>
 		<rom name="Popeye (USA).col" size="16384" crc="a095454d" md5="a7773e1265e0089bc8f148527256a20e" sha1="f54f110ba5864bb3418f84e1c2cdc5c856dda771"/>
 		<url>https://retroachievements.org/game/18259/hashes</url>
 		<hash>A7773E1265E0089BC8F148527256A20E</hash>
 	</game>
 	
-	<game name="Spy Hunter (USA)">
-		<category>Retail</category>
+	<game name="Retail/Spy Hunter (USA)">
+		<category></category>
 		<description>Spy Hunter (USA)</description>
 		<rom name="Spy Hunter (USA).col" size="32768" crc="36478923" md5="f96a21f920e889d1e21abbf00f4d381d" sha1="97865d067bd531209857c3c8502c1260e0a30366"/>
 		<url>https://retroachievements.org/game/22895/hashes</url>
 		<hash>F96A21F920E889D1E21ABBF00F4D381D</hash>
 	</game>
 	
-	<game name="Smurf - Rescue in Gargamel's Castle (USA, Europe)">
-		<category>Retail</category>
+	<game name="Retail/Smurf - Rescue in Gargamel's Castle (USA, Europe)">
+		<category></category>
 		<description>Smurf - Rescue in Gargamel's Castle (USA, Europe)</description>
 		<rom name="Smurf - Rescue in Gargamel's Castle (USA, Europe).col" size="16384" crc="42850379" md5="c29e282c81ce9b40f39f493f51725d3c" sha1="f0740e1916d2351537c6725b37ba3c1b321f15eb"/>
 		<url>https://retroachievements.org/game/14072/hashes</url>
 		<hash>C29E282C81CE9B40F39F493F51725D3C</hash>
 	</game>
 	
-	<game name="Time Pilot (USA, Europe)">
-		<category>Retail</category>
+	<game name="Retail/Time Pilot (USA, Europe)">
+		<category></category>
 		<description>Time Pilot (USA, Europe)</description>
 		<rom name="Time Pilot (USA, Europe).col" size="16384" crc="b3a1eacb" md5="91c7b5d4ea94092f6e18da4775656d4b" sha1="3b7cbc5c0d47027ecd5e6f5d1485af436ab02ad1"/>
 		<url>https://retroachievements.org/game/12769/hashes</url>
 		<hash>91C7B5D4EA94092F6E18DA4775656D4B</hash>
 	</game>
 	
-	<game name="Up 'n Down (USA)">
-		<category>Retail</category>
+	<game name="Retail/Up 'n Down (USA)">
+		<category></category>
 		<description>Up 'n Down (USA)</description>
 		<rom name="Up 'n Down (USA).col" size="16384" crc="fdd52ca0" md5="90e261510765deecaeac8283aa88d815" sha1="96d83945d041f6f795a3107904a9986de86df8a6"/>
 		<url>https://retroachievements.org/game/9323/hashes</url>
 		<hash>90E261510765DEECAEAC8283AA88D815</hash>
 	</game>
 	
-	<game name="Venture (USA, Europe)">
-		<category>Retail</category>
+	<game name="Retail/Venture (USA, Europe)">
+		<category></category>
 		<description>Venture (USA, Europe)</description>
 		<rom name="Venture (USA, Europe).col" size="16384" crc="8e5a4aa3" md5="ad22023a11a3bcb107610d2af5a6be77" sha1="9cf7e7439d1719152ed28c1123ae8ad68175412f"/>
 		<url>https://retroachievements.org/game/13488/hashes</url>
 		<hash>AD22023A11A3BCB107610D2AF5A6BE77</hash>
 	</game>
 	
-	<game name="Zaxxon (USA, Europe)">
-		<category>Retail</category>
+	<game name="Retail/Zaxxon (USA, Europe)">
+		<category></category>
 		<description>Zaxxon (USA, Europe)</description>
 		<rom name="Zaxxon (USA, Europe).col" size="24576" crc="8cb0891a" md5="7c677f80c4ee957559d7abebd8ee1be1" sha1="1733b3407939f5c37e39d5494abfa4137f500707"/>
 		<url>https://retroachievements.org/game/14076/hashes</url>

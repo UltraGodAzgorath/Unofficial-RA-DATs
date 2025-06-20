@@ -5,16 +5,16 @@
 		<name>RA - Sega CD</name>
 		<description>Sega CD</description>
 		<category>1G1R</category>
-		<version>20250601</version>
-		<date>01 June 2025</date>
+		<version>20250619</version>
+		<date>19 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/9/games</url>
 		<titlecount>52</titlecount>
 		<hashcount>63</hashcount>
 	</header>
-	<game name="Sonic MegaMix (USA) (Unl) (Hack)">
-		<category>Hack</category>
+	<game name="Hack/Sonic MegaMix (USA) (Unl) (Hack)">
+		<category></category>
 		<description>Sonic MegaMix (USA) (Unl) (Hack)</description>
 		<rom name="Sonic MegaMix (USA) (Unl) (Hack).cue" size="98" crc="baa0ca75" md5="790678768b4b751f6cc9d8d2b4064204" sha1="94ac456d6ed1475097e61e852db71fdbd8e9683b"/>
 		<rom name="Sonic MegaMix (USA) (Unl) (Hack).bin" size="16946160" crc="227348ac" md5="58863ba94a5484f25e73e2d0c6696d56" sha1="b5137e3ca9a4e3fb0d4c052a5d0bd48b76714a80"/>
@@ -22,8 +22,8 @@
 		<hash>3c12feaa765ff91a126aa62c7eb24de7</hash>
 	</game>
 	
-	<game name="Mighty Mighty Missile (USA) (Unl) (Homebrew)">
-		<category>Homebrew</category>
+	<game name="Homebrew/Mighty Mighty Missile (USA) (Unl) (Homebrew)">
+		<category></category>
 		<description>Mighty Mighty Missile (USA) (Unl) (Homebrew)</description>
 		<rom name="Mighty Mighty Missile (USA) (Unl) (Homebrew).cue" size="2116" crc="e6a7e961" md5="756d72ba9d614f324ccdf8b041ee5322" sha1="e357bf66d9ab90b018430345c89e354ffda9e354"/>
 		<rom name="Mighty Mighty Missile (USA) (Unl) (Homebrew) (Track 01).bin" size="24891216" crc="28a717a1" md5="3757aca090e13ea5c93f68e4f5eee54d" sha1="bc47bb9fdf729e7de34bcc7ec97cad146779cd85"/>
@@ -48,24 +48,24 @@
 		<hash>c3f476595c1151bde8b87e7a8e2c5c30</hash>
 	</game>
 
-	<game name="Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur) (Homebrew)">
-		<category>Homebrew</category>
+	<game name="Homebrew/Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur) (Homebrew)">
+		<category></category>
 		<description>Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur) (Homebrew)</description>
 		<rom name="Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur) (Homebrew).iso" size="1095680" crc="eb76c863" md5="eda749827f62224eddf8c17f3f5e2558" sha1="c0520e63d7791e07e7d6abeb2ae61d2a05c31ca6"/>
 		<url>https://retroachievements.org/game/14766/hashes</url>
 		<hash>85fce84ca1245733aac68a1ec28041e4</hash>
 	</game>
 
-	<game name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1)">
-		<category>Prototype</category>
+	<game name="Prototype/Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1)">
+		<category></category>
 		<description>Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1)</description>
 		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1).cue" size="106" crc="8b25e882" md5="6f4b3ce059a91539c0ccd5fe75b9487e" sha1="9d8de750edc30da8ff58b9f65ec57a47a9878e89"/>
 		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1).bin" size="599524800" crc="8b463a50" md5="f7f03eca47b955a014f691b8a18aebb7" sha1="409adb01fad4bbc2e3bda1d91dc8dbb43fe1d90c"/>
 		<url>https://retroachievements.org/game/10096/hashes</url>
 		<hash>3366c149ddd7b8266deb4a729e804118</hash>
 	</game>
-	<game name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 2)">
-		<category>Prototype</category>
+	<game name="Prototype/Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 2)">
+		<category></category>
 		<description>Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 2)</description>
 		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 2).cue" size="106" crc="89cb1258" md5="702d2bfbe49e310e351a8e25a2a15e28" sha1="02f10913a4cc08f447a5a2295453e6ba310a6410"/>
 		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 2).bin" size="248851008" crc="0e4029db" md5="5122b5784bfd0f9a485d724578b74bd2" sha1="282db5786d3e284ab85643e3ae744be4149edad1"/>
@@ -73,8 +73,8 @@
 		<hash>b27c343ec2d3baba714a3667017c290c</hash>
 	</game>
 	
-	<game name="Android Assault - The Revenge of Bari-Arm (USA)">
-		<category>Retail</category>
+	<game name="Retail/Android Assault - The Revenge of Bari-Arm (USA)">
+		<category></category>
 		<description>Android Assault - The Revenge of Bari-Arm (USA)</description>
 		<rom name="Android Assault - The Revenge of Bari-Arm (USA).cue" size="2703" crc="63303b57" md5="645f59dcbeb34a942e4f9f912f5ad39e" sha1="cc313056e942bd5c650c8afcff527735dbfc6ddb"/>
 		<rom name="Android Assault - The Revenge of Bari-Arm (USA) (Track 01).bin" size="16823856" crc="6d7cda97" md5="7a67979a025a3ca884a0bff22a62ab61" sha1="f96822a16ea451a26ea2b64672b63de20bbf0fd4"/>
@@ -100,8 +100,8 @@
 		<hash>e6432a363b5e4c5fcd0b1901faf1a3c2</hash>
 	</game>
 	
-	<game name="BC Racers (USA)">
-		<category>Retail</category>
+	<game name="Retail/BC Racers (USA)">
+		<category></category>
 		<description>BC Racers (USA)</description>
 		<rom name="BC Racers (USA).cue" size="1356" crc="53959ce3" md5="851c8e55c19580505e6c50196d20399d" sha1="fb8392dd223721905cb6210e5e11f4b5d156fcf8"/>
 		<rom name="BC Racers (USA) (Track 01).bin" size="90215664" crc="58713826" md5="7c621bc9c9e26089fb415b1a157e3ad7" sha1="127c3dc4d0bcb69d1528ce760604d8ec9820028c"/>
@@ -123,8 +123,8 @@
 		<hash>6d14797a2108c284e27dfac0657b6692</hash>
 	</game>
 
-	<game name="Crime Patrol (USA)">
-		<category>Retail</category>
+	<game name="Retail/Crime Patrol (USA)">
+		<category></category>
 		<description>Crime Patrol (USA)</description>
 		<rom name="Crime Patrol (USA).cue" size="229" crc="46c09477" md5="373d02c7f0d0d2d42abbe6fc5c305df1" sha1="1b6ba5b7eedd6d02cbde6faa891ba5325fadf0cd"/>
 		<rom name="Crime Patrol (USA) (Track 1).bin" size="280433664" crc="29322c5a" md5="cebbabbc9842d61a4a686c49d024f82b" sha1="ae44d212c8006bf7a316f5e79221201b165b7c9e"/>
@@ -133,8 +133,8 @@
 		<hash>7f39d78927c00bc6859bad1953643b54</hash>
 	</game>
 	
-	<game name="Dracula Unleashed (USA) (Disc 1)">
-		<category>Retail</category>
+	<game name="Retail/Dracula Unleashed (USA) (Disc 1)">
+		<category></category>
 		<description>Dracula Unleashed (USA) (Disc 1)</description>
 		<rom name="Dracula Unleashed (USA) (Disc 1).cue" size="257" crc="93ade26e" md5="fa725eb12ee7eb683144986261c33bf1" sha1="fdb6ad28c7fc21f99e35684502bcd32dfc1abb1b"/>
 		<rom name="Dracula Unleashed (USA) (Disc 1) (Track 1).bin" size="544372752" crc="0e728a6c" md5="282a9be8157a6167a389c7fff475ed3a" sha1="927b6d0525010265059ab1ee4d23c6a0598b7fb8"/>
@@ -142,8 +142,8 @@
 		<url>https://retroachievements.org/game/10022/hashes</url>
 		<hash>1e5609b304f3b0b023caac37b2f995f0</hash>
 	</game>
-	<game name="Dracula Unleashed (USA) (Disc 2)">
-		<category>Retail</category>
+	<game name="Retail/Dracula Unleashed (USA) (Disc 2)">
+		<category></category>
 		<description>Dracula Unleashed (USA) (Disc 2)</description>
 		<rom name="Dracula Unleashed (USA) (Disc 2).cue" size="234" crc="c464d858" md5="dc484097b4c2f2f0536f8f22f3a54c2b" sha1="b9d2dbf101195dcaacacd3049e3aebe397cdd5be"/>
 		<rom name="Dracula Unleashed (USA) (Disc 2) (Track 1).bin" size="599428368" crc="2fc70577" md5="b5e16ae813c649f8dbaa4e5a97d293e4" sha1="f6a8c90a517285d7763c72b881a5d2ace99d4403"/>
@@ -152,8 +152,8 @@
 		<hash>8309d2aed7f5bcac384ab5a5913cb5c0</hash>
 	</game>
 	
-	<game name="Dungeon Explorer (USA)">
-		<category>Retail</category>
+	<game name="Retail/Dungeon Explorer (USA)">
+		<category></category>
 		<description>Dungeon Explorer (USA)</description>
 		<rom name="Dungeon Explorer (USA).cue" size="1503" crc="7a681bba" md5="93b8fbc288447e4be4b93dcbb2ed1b4a" sha1="9cc6e6ee394496295eb111ca3118a5d24e18ba8a"/>
 		<rom name="Dungeon Explorer (USA) (Track 01).bin" size="5040336" crc="a6ad97e9" md5="340cb44b351a60f904d387c34af085cc" sha1="6254f8f20f82071c712d616d99bacdf9ccc8ff18"/>
@@ -173,8 +173,8 @@
 		<hash>6a5efcaf25d32a8330fd623f21f7a00d</hash>
 	</game>
 	
-	<game name="Earnest Evans (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Earnest Evans (Japan)">
+		<category></category>
 		<description>Earnest Evans (Japan)</description>
 		<rom name="Earnest Evans (Japan).cue" size="2905" crc="6916b850" md5="df52d967a8fea2d1ad802f3c5fca3625" sha1="7df815bfe309c2654afb8a9f893a633a7f5d7366"/>
 		<rom name="Earnest Evans (Japan) (Track 01).bin" size="5207328" crc="8438f16a" md5="bed5df283f0eef75864bf0e3118a8130" sha1="deaea82171091cce66b1e72212d02b7c692a480d"/>
@@ -206,8 +206,8 @@
 		<hash>d9fb5e8f32e161bc62d52c9bea7a9ca1</hash>
 	</game>
 
-	<game name="Earthworm Jim - Special Edition (USA) (RE)">
-		<category>Retail</category>
+	<game name="Retail/Earthworm Jim - Special Edition (USA) (RE)">
+		<category></category>
 		<description>Earthworm Jim - Special Edition (USA) (RE)</description>
 		<rom name="Earthworm Jim - Special Edition (USA) (RE).cue" size="3841" crc="bc038d92" md5="501e8720cc132115c81c9da657ebc494" sha1="af467932e4ad564f0182815fe1cf302c17f7ef43"/>
 		<rom name="Earthworm Jim - Special Edition (USA) (RE) (Track 01).bin" size="16085328" crc="67e68b91" md5="a28d6d4389ff8b4484f7f1a08d7ac9ff" sha1="f3469e17f786178838c8d59f202fd9781ec444c7"/>
@@ -242,8 +242,8 @@
 		<hash>fbd25c6c1f42973b214ace4646c8632a</hash>
 	</game>
 
-	<game name="Eternal Champions - Challenge from the Dark Side (USA) (RE)">
-		<category>Retail</category>
+	<game name="Retail/Eternal Champions - Challenge from the Dark Side (USA) (RE)">
+		<category></category>
 		<description>Eternal Champions - Challenge from the Dark Side (USA) (RE)</description>
 		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (RE).cue" size="2931" crc="c9279545" md5="bad0ff27158810a9b22d5ddeef28b172" sha1="58140771e4544b19bd29e8c979640272593df22f"/>
 		<rom name="Eternal Champions - Challenge from the Dark Side (USA) (RE) (Track 01).bin" size="155641248" crc="4a5ecc21" md5="44a65c6270861647d8711a8006209c02" sha1="06ccf19a9d84ed0efc4e8a0a40c22252411f6fe6"/>
@@ -269,8 +269,8 @@
 		<hash>59f664ff7637ce4f8fbbe2b77c66c487</hash>
 	</game>
 
-	<game name="Final Fight CD (USA)">
-		<category>Retail</category>
+	<game name="Retail/Final Fight CD (USA)">
+		<category></category>
 		<description>Final Fight CD (USA)</description>
 		<rom name="Final Fight CD (USA).cue" size="2995" crc="373e90e0" md5="a30822b3bd9cb5a808a2cce8a689bcf5" sha1="81d2203d2c95114f42301540363edb741268ca0a"/>
 		<rom name="Final Fight CD (USA) (Track 01).bin" size="28565040" crc="a32905c4" md5="93322f05d9b7ee4a3257980ccde7b47d" sha1="bdc5727461cf685b734709b04ef344a3d05c53ef"/>
@@ -303,8 +303,8 @@
 		<hash>26ae70cce7a0e7f4b2b2e9edb78a399c</hash>
 	</game>
 
-	<game name="Flashback - The Quest for Identity (USA)">
-		<category>Retail</category>
+	<game name="Retail/Flashback - The Quest for Identity (USA)">
+		<category></category>
 		<description>Flashback - The Quest for Identity (USA)</description>
 		<rom name="Flashback - The Quest for Identity (USA).cue" size="1188" crc="1d940871" md5="a60aba9ec5eb1917bc12a16697860c99" sha1="0cdbf4db63c1898f04a9dc350100902ed0d14487"/>
 		<rom name="Flashback - The Quest for Identity (USA) (Track 1).bin" size="268678368" crc="515f013c" md5="62b393dded79aee9a862e8025835d5a3" sha1="32599a4e68abad0af9e6ef368d62fe9e960489eb"/>
@@ -320,8 +320,8 @@
 		<hash>9e622c639d62cebd0a027ff788fb820d</hash>
 	</game>
 
-	<game name="Ground Zero Texas (USA) (Disc 2)">
-		<category>Retail</category>
+	<game name="Retail/Ground Zero Texas (USA) (Disc 2)">
+		<category></category>
 		<description>Ground Zero Texas (USA) (Disc 2)</description>
 		<rom name="Ground Zero Texas (USA) (Disc 2).cue" size="257" crc="67c4ee28" md5="cd2402ce5cf06aed8bebd05837185fe2" sha1="055ff36efb360b9189542402e06da4181640d687"/>
 		<rom name="Ground Zero Texas (USA) (Disc 2) (Track 1).bin" size="599743536" crc="455bacbf" md5="f59e2dbadd6ff65c67344d598ae71dc2" sha1="2bb503b604403528f7971bc23cb48ca790e80c3e"/>
@@ -329,8 +329,8 @@
 		<url>https://retroachievements.org/game/17008/hashes</url>
 		<hash>0a3b03f3aa306bf76ee78dc1ee130712</hash>
 	</game>
-	<game name="Ground Zero Texas (USA) (Disc 1)">
-		<category>Retail</category>
+	<game name="Retail/Ground Zero Texas (USA) (Disc 1)">
+		<category></category>
 		<description>Ground Zero Texas (USA) (Disc 1)</description>
 		<rom name="Ground Zero Texas (USA) (Disc 1).cue" size="257" crc="d0c584c7" md5="113dd7490af1f86d08f70448d443ed93" sha1="2041c4c954bb0b19ede6dbef1190836c9f2c72b7"/>
 		<rom name="Ground Zero Texas (USA) (Disc 1) (Track 1).bin" size="629355216" crc="20b937a8" md5="27eac38ea6f5deee11367f0062f55608" sha1="d151430da0d6e25af45ecd0a9133dea9a1d1d285"/>
@@ -339,8 +339,8 @@
 		<hash>ce35f52d95bfc57be16a2b03f741e146</hash>
 	</game>
 
-	<game name="Jeopardy! (USA)">
-		<category>Retail</category>
+	<game name="Retail/Jeopardy! (USA)">
+		<category></category>
 		<description>Jeopardy! (USA)</description>
 		<rom name="Jeopardy! (USA).cue" size="309" crc="6c28da39" md5="43ccd1f797fb9d76824fcec13693f90d" sha1="d6cac996cac2f558349818e901dfbd38731d6156"/>
 		<rom name="Jeopardy! (USA) (Track 1).bin" size="95540592" crc="ea4c7949" md5="679d176e4f96fd7413beb7fc8986a0e7" sha1="e2efaf03f631e5e623db94ff66a44c33642fcd0f"/>
@@ -350,8 +350,8 @@
 		<hash>9a163ef05322da9dd903e282c139e18e</hash>
 	</game>
 
-	<game name="Jurassic Park (USA) (RE)">
-		<category>Retail</category>
+	<game name="Retail/Jurassic Park (USA) (RE)">
+		<category></category>
 		<description>Jurassic Park (USA) (RE)</description>
 		<rom name="Jurassic Park (USA) (RE).cue" size="3813" crc="4f6937aa" md5="ef4d8c68f82f0d84cfcff1994d0781ba" sha1="4a3ae1f58d930c55510809f98a815941f24dfb79"/>
 		<rom name="Jurassic Park (USA) (RE) (Track 01).bin" size="190462608" crc="2094023a" md5="846ee8de2377cabbe1e7a9e0057ad56b" sha1="5df256c66c455c707a26dd3a050e926a2ca3d9e8"/>
@@ -390,8 +390,8 @@
 		<hash>11ed30d2074ccd20ac6187d8271ca6e8</hash>
 	</game>
 
-	<game name="Keio Flying Squadron (USA)">
-		<category>Retail</category>
+	<game name="Retail/Keio Flying Squadron (USA)">
+		<category></category>
 		<description>Keio Flying Squadron (USA)</description>
 		<rom name="Keio Flying Squadron (USA).cue" size="3151" crc="d88a2e61" md5="370fe141b62822356776b349b5864227" sha1="6ba9dfe03fe7fc00ab5e561e57b1e742a0440be5"/>
 		<rom name="Keio Flying Squadron (USA) (Track 01).bin" size="77853552" crc="cbc93f57" md5="9a87f531e32485bddda653e9a791f40b" sha1="24a29df8aab6af15388cae4363e21828029ac369"/>
@@ -424,8 +424,8 @@
 		<hash>4e68b8b035ac1821a71089bda99625a6</hash>
 	</game>
 	
-	<game name="Lords of Thunder (USA)">
-		<category>Retail</category>
+	<game name="Retail/Lords of Thunder (USA)">
+		<category></category>
 		<description>Lords of Thunder (USA)</description>
 		<rom name="Lords of Thunder (USA).cue" size="2462" crc="fa2e14b7" md5="b671665459694ea092d0300f27060952" sha1="e5dc85ec465196a5c430fd764366781c2b27c9a6"/>
 		<rom name="Lords of Thunder (USA) (Track 01).bin" size="8311968" crc="3eb3c77c" md5="315ee58885b83a9a3d4d0969f048a609" sha1="be3933bb3b4522223c9662909aa77e98095dcd04"/>
@@ -453,8 +453,8 @@
 		<hash>9d7b20d30326563892681ebc0ad0af7e</hash>
 	</game>
 
-	<game name="Lunar - Eternal Blue (USA) (RE)">
-		<category>Retail</category>
+	<game name="Retail/Lunar - Eternal Blue (USA) (RE)">
+		<category></category>
 		<description>Lunar - Eternal Blue (USA) (RE)</description>
 		<rom name="Lunar - Eternal Blue (USA) (RE).cue" size="380" crc="f16ca9f3" md5="66b7d2b8739e7a8bff0fd30ef93783c1" sha1="9949286a95910990427ddfd5073cdfef8ab9053f"/>
 		<rom name="Lunar - Eternal Blue (USA) (RE) (Track 1).bin" size="469555632" crc="430af523" md5="951e0f07f310276a5151eba189ad53e8" sha1="5db76e9307269827ed64ec06838800a241cd7c79"/>
@@ -464,8 +464,8 @@
 		<hash>9f173a8aedd5cca2667dba81ddaddae5</hash>
 	</game>
 
-	<game name="Lunar - The Silver Star (USA)">
-		<category>Retail</category>
+	<game name="Retail/Lunar - The Silver Star (USA)">
+		<category></category>
 		<description>Lunar - The Silver Star (USA)</description>
 		<rom name="Lunar - The Silver Star (USA).cue" size="6453" crc="db8d4f87" md5="aa17769d90cee6b8f6ab2db748f06cf6" sha1="c88041fd9d4ab4afc7aeeafa40d237768757ec6d"/>
 		<rom name="Lunar - The Silver Star (USA) (Track 01).bin" size="12752544" crc="079e5831" md5="ec85bcde9653b540ac7c24b797058b10" sha1="cc24840fc1009cf513465280dc254ad78bbf23ea"/>
@@ -524,8 +524,8 @@
 		<hash>e4255ce2c677003b33e4d7798b27cacd</hash>
 	</game>
 
-	<game name="Mad Dog McCree (USA)">
-		<category>Retail</category>
+	<game name="Retail/Mad Dog McCree (USA)">
+		<category></category>
 		<description>Mad Dog McCree (USA)</description>
 		<rom name="Mad Dog McCree (USA).cue" size="803" crc="4251b074" md5="e51a141b968be4d4cd6e7a4f19142826" sha1="c7c3b770b43b05c28758165a47514bef1daf0da0"/>
 		<rom name="Mad Dog McCree (USA) (Track 1).bin" size="242677008" crc="662784f2" md5="5cd92d667e9d71251441950f505c1414" sha1="add89b1c071c9ba60d75f1a864e54b7da542fb81"/>
@@ -539,8 +539,8 @@
 		<hash>69dc2a80594b0242e282a3b5ea99b6a6</hash>
 	</game>
 
-	<game name="Mansion of Hidden Souls (USA)">
-		<category>Retail</category>
+	<game name="Retail/Mansion of Hidden Souls (USA)">
+		<category></category>
 		<description>Mansion of Hidden Souls (USA)</description>
 		<rom name="Mansion of Hidden Souls (USA).cue" size="251" crc="4a02627d" md5="2ccf56d8598133d732b2691a76bb8ab2" sha1="ede5614d1016ccca056656fbc126f0353fad3309"/>
 		<rom name="Mansion of Hidden Souls (USA) (Track 1).bin" size="605141376" crc="6576ae2c" md5="90832a0c0817f7e9c0da99e11be352cc" sha1="746769901e168e4df2ac1e90e43cd4566b601f74"/>
@@ -549,8 +549,8 @@
 		<hash>51b18d3e4a6581d667a467bf1c9fc406</hash>
 	</game>
 	
-	<game name="Mighty Morphin Power Rangers (USA)">
-		<category>Retail</category>
+	<game name="Retail/Mighty Morphin Power Rangers (USA)">
+		<category></category>
 		<description>Mighty Morphin Power Rangers (USA)</description>
 		<rom name="Mighty Morphin Power Rangers (USA).cue" size="261" crc="bd9ee789" md5="99b64ed4df709f6c01076333c506bc6b" sha1="87262cbc791ef6018748ac2b654c5f56b50f59e6"/>
 		<rom name="Mighty Morphin Power Rangers (USA) (Track 1).bin" size="465155040" crc="a7cf6c1b" md5="8ce1c15622e66652b85efdd7732f16bc" sha1="a93a3d0e8d065909dbe5b657796642b88dfc0d3b"/>
@@ -559,8 +559,8 @@
 		<hash>85c428698e2155b5c27d33726a829253</hash>
 	</game>
 	
-	<game name="Mortal Kombat (USA)">
-		<category>Retail</category>
+	<game name="Retail/Mortal Kombat (USA)">
+		<category></category>
 		<description>Mortal Kombat (USA)</description>
 		<rom name="Mortal Kombat (USA).cue" size="2376" crc="4e47aa2c" md5="96bf1a9061c27317920b9beffa9c0418" sha1="c5ed1880d4b61dde2acc06cca19bb275af5dbcea"/>
 		<rom name="Mortal Kombat (USA) (Track 01).bin" size="37516752" crc="a14a402f" md5="ec127f58037b9861f8bcee7758b16a9d" sha1="79e0dd945681f8ed25fa6857dcac6a3fc8bb3d5f"/>
@@ -588,16 +588,16 @@
 		<hash>42f6c9c6512d0262392d4be743d9ea11</hash>
 	</game>
 
-	<game name="Night Trap (USA) (Disc 1)">
-		<category>Retail</category>
+	<game name="Retail/Night Trap (USA) (Disc 1)">
+		<category></category>
 		<description>Night Trap (USA) (Disc 1)</description>
 		<rom name="Night Trap (USA) (Disc 1).cue" size="91" crc="b5fae72b" md5="ffa171a71a90baf0a6cc6a6717c9209d" sha1="ca092e38457e7fc1b11e90ab0cd6c93627c3de9b"/>
 		<rom name="Night Trap (USA) (Disc 1).bin" size="616997808" crc="900cf0aa" md5="25013fdfa2b64bd86bd9c1e209c28406" sha1="dedac7306250a549784a7f0c370ecd567246b00f"/>
 		<url>https://retroachievements.org/game/17011/hashes</url>
 		<hash>3110d9f656697adb3cbf5f1cb0d77e6f</hash>
 	</game>
-	<game name="Night Trap (USA) (Disc 2)">
-		<category>Retail</category>
+	<game name="Retail/Night Trap (USA) (Disc 2)">
+		<category></category>
 		<description>Night Trap (USA) (Disc 2)</description>
 		<rom name="Night Trap (USA) (Disc 2).cue" size="114" crc="6bf8d43b" md5="59258dbc6176050aecea81d1d920c0e6" sha1="43295d218e1b3fc1f388b3b58fae0856a08d54b5"/>
 		<rom name="Night Trap (USA) (Disc 2).bin" size="515351424" crc="7c560ae9" md5="3976df829ecd93297b56ad44ebeb001a" sha1="fd9c547646ce18c26bff42526aeb4204f3cef85e"/>
@@ -605,8 +605,8 @@
 		<note>Hash is the same as Disc 1's hash</note>
 	</game>
 	
-	<game name="Popful Mail (USA) (RE)">
-		<category>Retail</category>
+	<game name="Retail/Popful Mail (USA) (RE)">
+		<category></category>
 		<description>Popful Mail (USA) (RE)</description>
 		<rom name="Popful Mail (USA) (RE).cue" size="469" crc="60a6e916" md5="e179c37ed7d94e51230decc1245c34b1" sha1="411e5add7b607187b978a1e3f29442ffbb23710d"/>
 		<rom name="Popful Mail (USA) (RE) (Track 1).bin" size="421130304" crc="f17b5750" md5="1d583f4bbcdfc73f5686a6824c782494" sha1="00c67d62649bdc936da87e3218f7fd7c081df549"/>
@@ -617,8 +617,8 @@
 		<hash>9e155928a45983bb845f800ba6908f96</hash>
 	</game>
 
-	<game name="Prince of Persia (USA)">
-		<category>Retail</category>
+	<game name="Retail/Prince of Persia (USA)">
+		<category></category>
 		<description>Prince of Persia (USA)</description>
 		<rom name="Prince of Persia (USA).cue" size="2930" crc="e0a8ba4d" md5="e2e318720feab6ea25aec8d782e59985" sha1="a9ef705c0a2bfb73dff30a783d8e0e0e66f877f4"/>
 		<rom name="Prince of Persia (USA) (Track 01).bin" size="2641296" crc="e085f060" md5="752e0cbcff2894b2e4f4f1c0dc671789" sha1="a7fdd6e7a65c4e630681a6c17d0fc97743ad2010"/>
@@ -650,8 +650,8 @@
 		<hash>8ed2c4e438e1ce4019e186120aa77840</hash>
 	</game>
 
-	<game name="Radical Rex (USA)">
-		<category>Retail</category>
+	<game name="Retail/Radical Rex (USA)">
+		<category></category>
 		<description>Radical Rex (USA)</description>
 		<rom name="Radical Rex (USA).cue" size="1214" crc="afd3f47e" md5="11a38f10bf5f0759b18aea8abb4c214a" sha1="73507d3802711c00558893f67ed19c329faa754f"/>
 		<rom name="Radical Rex (USA) (Track 01).bin" size="10925040" crc="567dbc64" md5="cd07e294108dc7a7bfddb188d9ddd35d" sha1="0699d59cfc5cbe0f4ad638374b49706bfbb8d39b"/>
@@ -669,8 +669,8 @@
 		<hash>b4f33dda22f00c5b6c4017bcbe5a4641</hash>
 	</game>
 	
-	<game name="Rise of the Dragon (USA) (Rerelease) (RE)">
-		<category>Retail</category>
+	<game name="Retail/Rise of the Dragon (USA) (Rerelease) (RE)">
+		<category></category>
 		<description>Rise of the Dragon (USA) (Rerelease) (RE)</description>
 		<rom name="Rise of the Dragon (USA) (Rerelease) (RE).cue" size="680" crc="4607b32a" md5="114fb14119586cfc94501ebeeddd1c9a" sha1="7d3208b17ef2a532b78bc89dcee444c44c2a7a2f"/>
 		<rom name="Rise of the Dragon (USA) (Rerelease) (RE) (Track 1).bin" size="129028368" crc="e2d7b047" md5="a469b7fcb595abcc3d14a85d6165536e" sha1="0b0c8f0007912bf523879736b26218118e25d9e6"/>
@@ -682,8 +682,8 @@
 		<hash>367a921f8d55f1a4693389a33bd1fcac</hash>
 	</game>
 
-	<game name="Road Avenger (USA)">
-		<category>Retail</category>
+	<game name="Retail/Road Avenger (USA)">
+		<category></category>
 		<description>Road Avenger (USA)</description>
 		<rom name="Road Avenger (USA).cue" size="453" crc="9e7d5e08" md5="840ebb398cce8d27cf3a5d253d8b575d" sha1="cd2b55540b911786886f43aae99e228d9f85efc5"/>
 		<rom name="Road Avenger (USA) (Track 1).bin" size="317816352" crc="cf3bd177" md5="71e1578e091e0d5df4b07f4f26e4d2c9" sha1="9cf7095ab8f7a5aa5df046d0b665263f4f506f19"/>
@@ -694,8 +694,8 @@
 		<hash>c12b678530e73402d3cb83d6e3eabdde</hash>
 	</game>
 
-	<game name="Road Rash (USA)">
-		<category>Retail</category>
+	<game name="Retail/Road Rash (USA)">
+		<category></category>
 		<description>Road Rash (USA)</description>
 		<rom name="Road Rash (USA).cue" size="200" crc="5581093a" md5="815f641c86fc1c3d2dd3ed2f0f24531d" sha1="278e44db3c5f346f1aec5a034cec464a36727a9e"/>
 		<rom name="Road Rash (USA) (Track 1).bin" size="624799392" crc="2b9a3535" md5="2ded7861e91654e30c23c616e647b6c3" sha1="84e80e20ebf9afc7c381e341faefd3b4f5595089"/>
@@ -704,8 +704,8 @@
 		<hash>211ade60b28992129345fa065dd869c1</hash>
 	</game>
 
-	<game name="Dennin Aleste - Nobunaga and His Ninja Force (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Dennin Aleste - Nobunaga and His Ninja Force (Japan)">
+		<category></category>
 		<description>Dennin Aleste - Nobunaga and His Ninja Force (Japan)</description>
 		<rom name="Dennin Aleste - Nobunaga and His Ninja Force (Japan).cue" size="3680" crc="0acc1179" md5="fa0abc62a682cd2b831e6b79973949c8" sha1="622089a7abb84e7531d2f9fa8d604b2da2104267"/>
 		<rom name="Dennin Aleste - Nobunaga and His Ninja Force (Japan) (Track 01).bin" size="15005760" crc="2bba56f5" md5="05a96a84ad6979212f70d88fa9d1b78d" sha1="af3f90534f5da5feb7ea385c8e4c2c59a0083b07"/>
@@ -736,8 +736,8 @@
 		<url>https://retroachievements.org/game/10068/hashes</url>
 		<hash>71967ae1a3446731e64ca18a5539191d</hash>
 	</game>
-	<game name="Robo Aleste (USA)">
-		<category>Retail</category>
+	<game name="Retail/Robo Aleste (USA)">
+		<category></category>
 		<description>Robo Aleste (USA)</description>
 		<rom name="Robo Aleste (USA).cue" size="1909" crc="3a19e3c6" md5="e7a682258f58e339cb33e1f45376497b" sha1="9b8267ecfae6cdb97429c5c56adca3db3fcfe6c8"/>
 		<rom name="Robo Aleste (USA) (Track 01).bin" size="14932848" crc="82c1a032" md5="5fff29647b669a348059cdcfb02127b0" sha1="030aa41cf2603d622565fe66a5fe69e5b99f8de6"/>
@@ -761,8 +761,8 @@
 		<hash>96128820faad3fc8e5d06e0f0b4ae378</hash>
 	</game>
 	
-	<game name="Samurai Shodown (USA) (RE)">
-		<category>Retail</category>
+	<game name="Retail/Samurai Shodown (USA) (RE)">
+		<category></category>
 		<description>Samurai Shodown (USA) (RE)</description>
 		<rom name="Samurai Shodown (USA) (RE).cue" size="3635" crc="dc3a5a01" md5="2d8bccd0d7dda22d09fce6bd5e7b853a" sha1="808214bd77b1baa5c9ae6f77d74f417f5885475d"/>
 		<rom name="Samurai Shodown (USA) (RE) (Track 01).bin" size="15527904" crc="80a7d139" md5="d7306e3782b8c24090f12a69e0846635" sha1="5e5ce4a8854b6263a8297dd8b9061bef7a82014e"/>
@@ -799,8 +799,8 @@
 		<hash>88a45e257d08dd7eec466a1994bbb596</hash>
 	</game>
 
-	<game name="Sewer Shark (USA) (Not for Resale)">
-		<category>Retail</category>
+	<game name="Retail/Sewer Shark (USA) (Not for Resale)">
+		<category></category>
 		<description>Sewer Shark (USA) (Not for Resale)</description>
 		<rom name="Sewer Shark (USA) (Not for Resale).cue" size="238" crc="1fffc42a" md5="28eb4aa448575aceca765187cc075a66" sha1="203a719dbce668fa88c4481edf05991f1ff2f731"/>
 		<rom name="Sewer Shark (USA) (Not for Resale) (Track 1).bin" size="487360272" crc="57b21ebe" md5="b05ca93f4b221bee8b206b6e368bc699" sha1="a14d881c0956434ccd04b0b86f8afe6b214f1f8a"/>
@@ -808,8 +808,8 @@
 		<url>https://retroachievements.org/game/10583/hashes</url>
 		<hash>76745a0f053dfb1f06ffd5d27639e88e</hash>
 	</game>
-	<game name="Sewer Shark (USA) (Rev 1)">
-		<category>Retail</category>
+	<game name="Retail/Sewer Shark (USA) (Rev 1)">
+		<category></category>
 		<description>Sewer Shark (USA) (Rev 1)</description>
 		<rom name="Sewer Shark (USA) (Rev 1).cue" size="91" crc="745f05f2" md5="485cc697039decb27bac812bcf619460" sha1="d4a266544930bcf9c6fcb812e23f5cbc82527d3e"/>
 		<rom name="Sewer Shark (USA) (Rev 1).bin" size="488418672" crc="19f2fe42" md5="7af698764697605cb32dfe93358e0145" sha1="b3f903587b3cedcb2949fc8109b4ea7f047fd270"/>
@@ -817,8 +817,8 @@
 		<hash>e3e0b93a9e1a945fad7b99a520cd0cbd</hash>
 	</game>
 	
-	<game name="Shining Force CD (USA) (3R)">
-		<category>Retail</category>
+	<game name="Retail/Shining Force CD (USA) (3R)">
+		<category></category>
 		<description>Shining Force CD (USA) (3R)</description>
 		<rom name="Shining Force CD (USA) (3R).cue" size="4275" crc="b3894603" md5="9d7d59b2a9d8778f975a64feb2b69c25" sha1="a44e3210079c3bf25a854656f8b83f5227596a1c"/>
 		<rom name="Shining Force CD (USA) (3R) (Track 01).bin" size="68666640" crc="a85fa1a0" md5="8854c5e7ac82d05cb1a723f8dc4fa083" sha1="a1a16248337919f9f2b99149a975b54489b9592a"/>
@@ -860,8 +860,8 @@
 		<hash>3d13caa66daad4cc3fffa47f066710a5</hash>
 	</game>
 
-	<game name="Silpheed (USA)">
-		<category>Retail</category>
+	<game name="Retail/Silpheed (USA)">
+		<category></category>
 		<description>Silpheed (USA)</description>
 		<rom name="Silpheed (USA).cue" size="869" crc="cf49bdcb" md5="175ed28a29f9091dcb6d582b97103431" sha1="acbdc673a2a430b879cda9e91978061fea79662a"/>
 		<rom name="Silpheed (USA) (Track 1).bin" size="369233424" crc="bddb8612" md5="1f342e85e6fbafa98e3ddc4619c02807" sha1="3bcaeabf76ae76435091325275d831f50af08521"/>
@@ -876,8 +876,8 @@
 		<hash>260a58e3f33816178e0a9a632af9d188</hash>
 	</game>
 
-	<game name="Snatcher (USA)">
-		<category>Retail</category>
+	<game name="Retail/Snatcher (USA)">
+		<category></category>
 		<description>Snatcher (USA)</description>
 		<rom name="Snatcher (USA).cue" size="2271" crc="13845fdf" md5="fe305d5467811e10fee501bc9135efb5" sha1="c6bdafb2bdb8b2558c8104549cbfdd9ef9a1817f"/>
 		<rom name="Snatcher (USA) (Track 01).bin" size="131744928" crc="13ad0387" md5="8a4f5185fa0754e073e331bebd91bbb4" sha1="1f4164205ed736a0d9a03eb7972868e9aa737d35"/>
@@ -904,8 +904,8 @@
 		<url>https://retroachievements.org/game/10067/hashes</url>
 		<hash>38318ed1f6f7732a3fa2495288f6da24</hash>
 	</game>
-	<game name="Snatcher (USA) (Es) (3lm4dn0)">
-		<category>Retail</category>
+	<game name="Retail/Snatcher (USA) (Es) (3lm4dn0)">
+		<category></category>
 		<description>Snatcher (USA) (Es) (3lm4dn0)</description>
 		<rom name="Snatcher (USA) (Es) (3lm4dn0).cue" size="2586" crc="6d5d01e3" md5="f1c1c0b6fa9636098716aa19080405b0" sha1="1c66d7effcfdc8b12e796de2f75d637b058416b0"/>
 		<rom name="Snatcher (USA) (Es) (3lm4dn0) (Track 01).bin" size="131744928" crc="b0d28132" md5="b202edccd68dc254536672eff83cb826" sha1="2b21370b58edca3f580279b6e8daacb0cb35b56c"/>
@@ -933,8 +933,8 @@
 		<hash>125672bbd8581cdccb9ac51ea46cc3e1</hash>
 	</game>
 
-	<game name="Sol-Feace (Europe)">
-		<category>Retail</category>
+	<game name="Retail/Sol-Feace (Europe)">
+		<category></category>
 		<description>Sol-Feace (Europe)</description>
 		<rom name="Sol-Feace (Europe).cue" size="2016" crc="cfc94dfb" md5="b4632bd0b374dc04e816f0e906b7bc59" sha1="f6c9c3835bcbc85c6f1f62232f9d10ed3dff39d5"/>
 		<rom name="Sol-Feace (Europe) (Track 01).bin" size="6319824" crc="46429d5f" md5="c6ba5f8ea59eae16c63b1d37f47b33ab" sha1="b094647c8f5bbb5ec79612e450609fb53159657b"/>
@@ -959,8 +959,8 @@
 		<hash>931219b53e97b86e8f18cf4c112c8500</hash>
 	</game>
 
-	<game name="Sonic the Hedgehog CD (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Sonic the Hedgehog CD (Japan)">
+		<category></category>
 		<description>Sonic the Hedgehog CD (Japan)</description>
 		<rom name="Sonic the Hedgehog CD (Japan).cue" size="4345" crc="cc61c1b8" md5="25016447dddc5197b4345d321ee8049f" sha1="6e16287bd223d822252de80dc02e69e68874593d"/>
 		<rom name="Sonic the Hedgehog CD (Japan) (Track 01).bin" size="129592848" crc="4c9fb365" md5="5595a2f1bc28f045fee385ffc074581b" sha1="bd33f07167eb25372975143483b27927cf13e2db"/>
@@ -1001,8 +1001,8 @@
 		<url>https://retroachievements.org/game/10062/hashes</url>
 		<hash>204f8d81ecf13aa7dc75cbafaf4c4ca3</hash>
 	</game>
-	<game name="Sonic CD (Europe) (60Hz Patch) (v1.0) (RoberMC)">
-		<category>Retail</category>
+	<game name="Retail/Sonic CD (Europe) (60Hz Patch) (v1.0) (RoberMC)">
+		<category></category>
 		<description>Sonic CD (Europe) (60Hz Patch) (v1.0) (RoberMC)</description>
 		<rom name="Sonic CD (Europe) (60Hz Patch) (v1.0) (RoberMC).cue" size="4952" crc="54fc7c5a" md5="de7ae26b74558967a1982be4e4613c8b" sha1="6ebb6863099ed9a2b0ada6e746801570735eaf4e"/>
 		<rom name="Sonic CD (Europe) (60Hz Patch) (v1.0) (RoberMC) (Track 01).bin" size="129590496" crc="131998b5" md5="781473cbe63c9267ad8950629a642b4d" sha1="f33105ef3e659194cad539035a640713303e85b2"/>
@@ -1043,8 +1043,8 @@
 		<url>https://retroachievements.org/game/10062/hashes</url>
 		<hash>9098e511e738cc6492989342562d36b6</hash>
 	</game>
-	<game name="Sonic CD (USA)">
-		<category>Retail</category>
+	<game name="Retail/Sonic CD (USA)">
+		<category></category>
 		<description>Sonic CD (USA)</description>
 		<rom name="Sonic CD (USA).cue" size="3820" crc="33b99240" md5="638f1e41830319de1914772076096626" sha1="5b085f78a6904d275715dcfeb454ecc262e704e5"/>
 		<rom name="Sonic CD (USA) (Track 01).bin" size="139381872" crc="a6184e05" md5="ed96420538f989e94480f810d5f90685" sha1="3c316af52cc9ee8c30976a1cdb66339545dda3bd"/>
@@ -1086,8 +1086,8 @@
 		<hash>a17215f3dafcc420ef25a1d1fc65c2e8</hash>
 	</game>
 	
-	<game name="Adventures of Willy Beamish, The (USA)">
-		<category>Retail</category>
+	<game name="Retail/Adventures of Willy Beamish, The (USA)">
+		<category></category>
 		<description>Adventures of Willy Beamish, The (USA)</description>
 		<rom name="Adventures of Willy Beamish, The (USA).cue" size="2000" crc="7e070f1f" md5="1c01a036318fae087eaca07502699c3e" sha1="ad68b3e076259b7f34ae99622472c5dd115857fd"/>
 		<rom name="Adventures of Willy Beamish, The (USA) (Track 01).bin" size="233269008" crc="abe534e3" md5="c5caa37328f05e17d9401c48cf08de99" sha1="14639e1596ac00f4b3d9aa141e2f4ea78ebb2575"/>
@@ -1109,8 +1109,8 @@
 		<hash>88e929c3c9db840c2f784d16398651d8</hash>
 	</game>
 
-	<game name="Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1)">
-		<category>Retail</category>
+	<game name="Retail/Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1)">
+		<category></category>
 		<description>Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1)</description>
 		<rom name="Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1).cue" size="1929" crc="76c2fb46" md5="85d1f2a74d277b7730387fbdc580c2d0" sha1="a29a4cc1c39a3f7769318b740872e808250eabc0"/>
 		<rom name="Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1) (Track 01).bin" size="155330784" crc="792d2bf6" md5="a62cb5e2f1a22fef1aa91c3892470658" sha1="92ab5f04b311d7b4c14714241ba89c8fb54c4e31"/>
@@ -1129,8 +1129,8 @@
 		<url>https://retroachievements.org/game/14852/hashes</url>
 		<hash>03cc7766d9738f00820f52b7563a8dd5</hash>
 	</game>
-	<game name="Amazing Spider-Man vs. The Kingpin, The (Europe)">
-		<category>Retail</category>
+	<game name="Retail/Amazing Spider-Man vs. The Kingpin, The (Europe)">
+		<category></category>
 		<description>Amazing Spider-Man vs. The Kingpin, The (Europe)</description>
 		<rom name="Amazing Spider-Man vs. The Kingpin, The (Europe).cue" size="1841" crc="0c2c6c1a" md5="8d45abbb85b09ffdbfdc66d595dc7d51" sha1="c8b4bb9b88f2f891ba9c3de946326514df5c4786"/>
 		<rom name="Amazing Spider-Man vs. The Kingpin, The (Europe) (Track 01).bin" size="155330784" crc="61d60f64" md5="10ceaf0ed9b1899cda907d61a30dd5b4" sha1="b5d67e08f5b71e766ab9bc07bf459eb461a31f5e"/>
@@ -1150,8 +1150,8 @@
 		<hash>dde3d8f861c8e1a65c737ab454d13be4</hash>
 	</game>
 
-	<game name="Lawnmower Man, The (Europe)">
-		<category>Retail</category>
+	<game name="Retail/Lawnmower Man, The (Europe)">
+		<category></category>
 		<description>Lawnmower Man, The (Europe)</description>
 		<rom name="Lawnmower Man, The (Europe).cue" size="247" crc="f244ac52" md5="c9aa895f30f6785c0610189fe934993d" sha1="0852a282f694f5adcd7088bc8d22917d33d99cae"/>
 		<rom name="Lawnmower Man, The (Europe) (Track 1).bin" size="607973184" crc="2484c3af" md5="9a5b81ceff32f1822f5d953c3aec033a" sha1="16b9bdcdb6f9d36964004f1719f5498ca9bc2ed4"/>
@@ -1160,8 +1160,8 @@
 		<hash>8b4d90416e102bfee7449d5e18947030</hash>
 	</game>
 	
-	<game name="Masked Rider, The - Kamen Rider ZO (USA)">
-		<category>Retail</category>
+	<game name="Retail/Masked Rider, The - Kamen Rider ZO (USA)">
+		<category></category>
 		<description>Masked Rider, The - Kamen Rider ZO (USA)</description>
 		<rom name="Masked Rider, The - Kamen Rider ZO (USA).cue" size="675" crc="94cf59c9" md5="bdd0770730b35ca1628a9d0080b0aa84" sha1="4ae349c8ab1b9c3e4bb69598df4d98c4fbd772a3"/>
 		<rom name="Masked Rider, The - Kamen Rider ZO (USA) (Track 1).bin" size="441108192" crc="bf3d4d83" md5="9594cfb87491ea14fd314ccea0abf060" sha1="294a8994ce8b361d9d659831d84eed97ade54cb9"/>
@@ -1172,8 +1172,8 @@
 		<url>https://retroachievements.org/game/15705/hashes</url>
 		<hash>04521eb3a053f158715230281083e812</hash>
 	</game>
-	<game name="Kamen Rider ZO (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Kamen Rider ZO (Japan)">
+		<category></category>
 		<description>Kamen Rider ZO (Japan)</description>
 		<rom name="Kamen Rider ZO (Japan).cue" size="585" crc="780c5c99" md5="d1f098e1781cad6b08f4983cb4d6fc71" sha1="215d1646403df5bcd4a3f94193d880ac3ce1b083"/>
 		<rom name="Kamen Rider ZO (Japan) (Track 1).bin" size="449996400" crc="a21571de" md5="27d6778504375d324b1a267813ecd4fa" sha1="1e9f137b00fffd580ef38bb52db47684a7f610d6"/>
@@ -1185,8 +1185,8 @@
 		<hash>a4b82ee01e942c71bd45c890063fe808</hash>
 	</game>
 	
-	<game name="Flink (USA) (En,Fr,De,Es,Nl)">
-		<category>Retail</category>
+	<game name="Retail/Flink (USA) (En,Fr,De,Es,Nl)">
+		<category></category>
 		<description>Flink (USA) (En,Fr,De,Es,Nl)</description>
 		<rom name="Flink (USA) (En,Fr,De,Es,Nl).cue" size="2196" crc="90bc0ba7" md5="e6520173ad90c38b9dc5b3f333df33e7" sha1="0bf33b05f162d4ea30a1b35be87b21939ddf9460"/>
 		<rom name="Flink (USA) (En,Fr,De,Es,Nl) (Track 01).bin" size="2700096" crc="0e1abe3d" md5="96efe78da52b88aee903b324203d815e" sha1="b5194b6bacfcb5668e5df1b6b6927fe1d5064267"/>
@@ -1211,8 +1211,8 @@
 		<hash>fac65e7678169ca057e6f5538758c1c4</hash>
 	</game>
 
-	<game name="Ninja Warriors, The (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Ninja Warriors, The (Japan)">
+		<category></category>
 		<description>Ninja Warriors, The (Japan)</description>
 		<rom name="Ninja Warriors, The (Japan).cue" size="2445" crc="7ec8186f" md5="73bbf1e92e64032862f84060feac7dfd" sha1="896257a65e23f62f7ff8a037c4bb7c3fd4316088"/>
 		<rom name="Ninja Warriors, The (Japan) (Track 01).bin" size="14253120" crc="8a73fefe" md5="1f97984bb3db90c0ae2bbe9ceae0ca4a" sha1="9413f576d603be6407398a756d8ab84e67b504b1"/>
@@ -1239,8 +1239,8 @@
 		<hash>1aeafb0b8ab68fb4fb199c3c8d39e757</hash>
 	</game>
 	
-	<game name="Secret of Monkey Island, The (USA) (RE)">
-		<category>Retail</category>
+	<game name="Retail/Secret of Monkey Island, The (USA) (RE)">
+		<category></category>
 		<description>Secret of Monkey Island, The (USA) (RE)</description>
 		<rom name="Secret of Monkey Island, The (USA) (RE).cue" size="3623" crc="ab245a82" md5="64044a593eff2dcc0396aaec1c027843" sha1="5b0fea32268233459a8a1b3f848408657d127d50"/>
 		<rom name="Secret of Monkey Island, The (USA) (RE) (Track 01).bin" size="13063008" crc="8a9c032d" md5="9efbaf7fa3ebe088db4deb78f93f05e4" sha1="a63fc8aad1001064f16fda2f57c4c59eb7994908"/>
@@ -1274,8 +1274,8 @@
 		<hash>798cf8e84327135049a465d647485435</hash>
 	</game>
 	
-	<game name="Terminator, The (USA)">
-		<category>Retail</category>
+	<game name="Retail/Terminator, The (USA)">
+		<category></category>
 		<description>Terminator, The (USA)</description>
 		<rom name="Terminator, The (USA).cue" size="1165" crc="5f9f4e4b" md5="68a66526821f2ca794cc1f8a4e489dcc" sha1="0523868e28061d3d02ec488ed1b37b8bc0c4ff92"/>
 		<rom name="Terminator, The (USA) (Track 01).bin" size="123449424" crc="ae8dbaab" md5="6b52ac74ebbe7593901caf2d5bfae219" sha1="049a79e3ba42aaa4f42747442272ab269ae91b40"/>
@@ -1292,8 +1292,8 @@
 		<hash>4b64f8013a066feb347c427778013947</hash>
 	</game>
 
-	<game name="Time Gal (USA)">
-		<category>Retail</category>
+	<game name="Retail/Time Gal (USA)">
+		<category></category>
 		<description>Time Gal (USA)</description>
 		<rom name="Time Gal (USA).cue" size="221" crc="014bd3e0" md5="27a44c1344def701bfbc9b08b7b6ee7c" sha1="a5d0045c36ba17ee1e31b8eb58c39ec0886f0c2d"/>
 		<rom name="Time Gal (USA) (Track 1).bin" size="298936848" crc="2941c00f" md5="4002e973efb2812d2c793068d86c4833" sha1="d57b76bd9f3f51ae78796a92e60f150c7d5b32be"/>
@@ -1301,8 +1301,8 @@
 		<url>https://retroachievements.org/game/12875/hashes</url>
 		<hash>5f51a8eb2e5d1aa016d7b995e964d84f</hash>
 	</game>
-	<game name="Time Gal (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Time Gal (Japan)">
+		<category></category>
 		<description>Time Gal (Japan)</description>
 		<rom name="Time Gal (Japan).cue" size="202" crc="a50da29e" md5="e4e0d8624d52bdaae35caeef7e06d83e" sha1="c5f080dd05a0254926a9c4f61178d5348341611d"/>
 		<rom name="Time Gal (Japan) (Track 1).bin" size="304652208" crc="1a756c12" md5="93c8bf9ec9c731617b7731ca683dbde5" sha1="a9b32854daf11d8cd1701f009dda7e3205c81531"/>
@@ -1311,8 +1311,8 @@
 		<hash>b19158cea7aa429b4a2fba9832050954</hash>
 	</game>
 	
-	<game name="Vay (USA)">
-		<category>Retail</category>
+	<game name="Retail/Vay (USA)">
+		<category></category>
 		<description>Vay (USA)</description>
 		<rom name="Vay (USA).cue" size="2293" crc="47a228e8" md5="b3a9694fcfa531bbcabeb4a5c2d372d2" sha1="0ac359d68e4f54a8279ef9a1a2209744dcaab364"/>
 		<rom name="Vay (USA) (Track 01).bin" size="137883648" crc="1d9be2b9" md5="71ffefc6efc3760ab205bab471462f00" sha1="e2c9d8438cef364d31d7ffee2df5894e09168572"/>
@@ -1341,8 +1341,8 @@
 		<hash>6b77f65a5a6a31c376623b629995312e</hash>
 	</game>
 
-	<game name="Wheel of Fortune (USA)">
-		<category>Retail</category>
+	<game name="Retail/Wheel of Fortune (USA)">
+		<category></category>
 		<description>Wheel of Fortune (USA)</description>
 		<rom name="Wheel of Fortune (USA).cue" size="910" crc="a383dffe" md5="4ac0d254922af7ad392ca55b0be35baa" sha1="a5182cf7743562cef80696553595cf58bcd46618"/>
 		<rom name="Wheel of Fortune (USA) (Track 1).bin" size="58670640" crc="54163db9" md5="02af039f827e20e2240b1d5150bf6017" sha1="84dc69134110c692dfefba46b41e05a76acd925d"/>
@@ -1357,8 +1357,8 @@
 		<hash>e799f31379929fc058bb3c20928d3e7c</hash>
 	</game>
 
-	<game name="Wing Commander (USA)">
-		<category>Retail</category>
+	<game name="Retail/Wing Commander (USA)">
+		<category></category>
 		<description>Wing Commander (USA)</description>
 		<rom name="Wing Commander (USA).cue" size="804" crc="47b303b2" md5="e284ba5630e5fe637c75a23dcae937ef" sha1="0384cbd28a94e93e4a26561329e7c86e61f45721"/>
 		<rom name="Wing Commander (USA) (Track 1).bin" size="385394016" crc="df21b6e3" md5="1677878b98ccd075792c6b2906879010" sha1="89863d46871fd6a0f46c98b2bd5a9a8a8ff041f2"/>

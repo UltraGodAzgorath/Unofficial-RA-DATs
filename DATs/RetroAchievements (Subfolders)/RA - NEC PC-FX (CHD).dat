@@ -5,8 +5,8 @@
 		<name>RA - NEC PC-FX (CHD)</name>
 		<description>NEC PC-FX (CHD)</description>
 		<category>1G1R</category>
-		<version>20250601</version>
-		<date>01 June 2025</date>
+		<version>20250619</version>
+		<date>19 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/49/games</url>
@@ -15,180 +15,180 @@
 		<clrmamepro forcepacking="unzip"/>
 		<romvault forcepacking="unzip"/>
 	</header>
-	<game name="Simple Battle FX (World) (Aftermarket) (gameblabla)">
-		<category>Homebrew</category>
+	<game name="Homebrew/Simple Battle FX (World) (Aftermarket) (gameblabla)">
+		<category></category>
 		<description>Simple Battle FX (World) (Aftermarket) (gameblabla)</description>
 		<rom name="Simple Battle FX (World) (Aftermarket) (gameblabla).chd" size="8585" crc="56b25e52" md5="b1805c20a48eba78900e6d662b218679" sha1="867a576d68d1c8834ae2fcd060e4fc87f75ce899"/>
 		<url>https://retroachievements.org/game/19912/hashes</url>
 		<hash>3C576145AEE0C0B78245BBAE4870BE8A</hash>
 	</game>
 
-	<game name="Soviet Union 2010 (World) (Aftermarket) (Matej Horvat)">
-		<category>Homebrew</category>
+	<game name="Homebrew/Soviet Union 2010 (World) (Aftermarket) (Matej Horvat)">
+		<category></category>
 		<description>Soviet Union 2010 (World) (Aftermarket) (Matej Horvat)</description>
 		<rom name="Soviet Union 2010 (World) (Aftermarket) (Matej Horvat).chd" size="12094" crc="7dd2f8b5" md5="6a900e349741208c7ca6bd6006e712e5" sha1="bb7bdee06e74c07efc22fcfb5f0ae9b094865173"/>
 		<url>https://retroachievements.org/game/16462/hashes</url>
 		<hash>770AAF1214A145BA2B1511B0DE752A24</hash>
 	</game>
 	
-	<game name="Battle Heat (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Battle Heat (Japan)">
+		<category></category>
 		<description>Battle Heat (Japan)</description>
 		<rom name="Battle Heat (Japan).chd" size="596623761" crc="30fb1bfc" md5="077a4469dc282b1abd36e91bf6996439" sha1="7d5ebf438881d124fc40c585e94534113178371e"/>
 		<url>https://retroachievements.org/game/13339/hashes</url>
 		<hash>7511F808929B912962E468DABA4FE844</hash>
 	</game>
 	
-	<game name="Chip-chan Kick! (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Chip-chan Kick! (Japan)">
+		<category></category>
 		<description>Chip-chan Kick! (Japan)</description>
 		<rom name="Chip-chan Kick! (Japan).chd" size="425773992" crc="1755e1b6" md5="4605432fbe8288eb567878143a03ad5a" sha1="f876623656dfe2f57b866c8c68870ad0092362ff"/>
 		<url>https://retroachievements.org/game/9961/hashes</url>
 		<hash>A83A3F08D17C4DA8AC8F8E8E370C7B53</hash>
 	</game>
 	
-	<game name="Choujin Heiki Zeroigar (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Choujin Heiki Zeroigar (Japan)">
+		<category></category>
 		<description>Choujin Heiki Zeroigar (Japan)</description>
 		<rom name="Choujin Heiki Zeroigar (Japan).chd" size="388355118" crc="1f6c8c2e" md5="7873373388a1b34fd09a445ba678db80" sha1="c3aab902198d3215f874c32f37b9a35db2ae2c24"/>
 		<url>https://retroachievements.org/game/9940/hashes</url>
 		<hash>980B1C05FFA2A6C388D4364F29A758C9</hash>
 	</game>
-	<game name="Choujin Heiki Zeroigar (Japan) (En) (v1.0.1) (SamIAm)">
-		<category>Retail</category>
+	<game name="Retail/Choujin Heiki Zeroigar (Japan) (En) (v1.0.1) (SamIAm)">
+		<category></category>
 		<description>Choujin Heiki Zeroigar (Japan) (En) (v1.0.1) (SamIAm)</description>
 		<rom name="Choujin Heiki Zeroigar (Japan) (En) (v1.0.1) (SamIAm).chd" size="396533331" crc="d2f3b82c" md5="c8d642a10781c8ba5568745dd47aba6e" sha1="9d91d335e5c73b4dd35e88ed21b3307662fde0af"/>
 		<url>https://retroachievements.org/game/9940/hashes</url>
 		<hash>B4AA155AB9B800311EFB3D70631189ED</hash>
 	</game>
 	
-	<game name="Farland Story FX (Japan) (En) (v2.0) (Djlpap)">
-		<category>Retail</category>
+	<game name="Retail/Farland Story FX (Japan) (En) (v2.0) (Djlpap)">
+		<category></category>
 		<description>Farland Story FX (Japan) (En) (v2.0) (Djlpap)</description>
 		<rom name="Farland Story FX (Japan) (En) (v2.0) (Djlpap).chd" size="430200082" crc="4f5a00db" md5="320a9ea20802706c365b4190c5e03cab" sha1="688b070fb73d99c2452b5737183cf6fbe7bcdf7a"/>
 		<url>https://retroachievements.org/game/8112/hashes</url>
 		<hash>33CEED42DBA0B58BEC1E0E1249CD4582</hash>
 	</game>
-	<game name="Farland Story FX (Japan) (En) (v1.0) (Djlpap)">
-		<category>Retail</category>
+	<game name="Retail/Farland Story FX (Japan) (En) (v1.0) (Djlpap)">
+		<category></category>
 		<description>Farland Story FX (Japan) (En) (v1.0) (Djlpap)</description>
 		<rom name="Farland Story FX (Japan) (En) (v1.0) (Djlpap).chd" size="430200108" crc="9dee64bf" md5="ba9e4c92d8ba1481f3d9b4a2333f486d" sha1="3ee98267ade78d2f7065a93c3b8dc265c7f0970c"/>
 		<url>https://retroachievements.org/game/8112/hashes</url>
 		<hash>6BE42CBB531A2102B275CCF9E9007322</hash>
 	</game>
 	
-	<game name="Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan)">
+		<category></category>
 		<description>Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan)</description>
 		<rom name="Ginga Ojousama Densetsu Yuna FX - Kanashimi no Selene (Japan).chd" size="567501239" crc="4ec697f6" md5="739f86fe3ea74341de69b54e49479c51" sha1="f3bee42ae75945bb3b7667f0542935928b59eb09"/>
 		<url>https://retroachievements.org/game/16434/hashes</url>
 		<hash>D193DEE874BAFBDA2122340BFB7CD715</hash>
 	</game>
 
-	<game name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)">
-		<category>Retail</category>
+	<game name="Retail/J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)">
+		<category></category>
 		<description>J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)</description>
 		<rom name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 1).chd" size="372409299" crc="68deb7c6" md5="4f7e93f3a632323a2c0f48d0ecb32b71" sha1="ff4c0368e5b9ae158877ba94f9380c28bef601f0"/>
 		<url>https://retroachievements.org/game/16436/hashes</url>
 		<hash>4EAAAD6532C74A9FFDFF85A971AFE43C</hash>
 	</game>
 	
-	<game name="Kishin Douji Zenki FX - Vajra Fight (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Kishin Douji Zenki FX - Vajra Fight (Japan)">
+		<category></category>
 		<description>Kishin Douji Zenki FX - Vajra Fight (Japan)</description>
 		<rom name="Kishin Douji Zenki FX - Vajra Fight (Japan).chd" size="517336361" crc="6845d580" md5="020792ff0bca81e8ab18a2e4fc49664e" sha1="42a9eb8ee24e8b739b3c3095b0d17467479aa286"/>
 		<url>https://retroachievements.org/game/9525/hashes</url>
 		<hash>75B75E4BB1337E55BA75AC3CEFC24844</hash>
 	</game>
 
-	<game name="Last Imperial Prince (Japan) (Disc A)">
-		<category>Retail</category>
+	<game name="Retail/Last Imperial Prince (Japan) (Disc A)">
+		<category></category>
 		<description>Last Imperial Prince (Japan) (Disc A)</description>
 		<rom name="Last Imperial Prince (Japan) (Disc A).chd" size="374317414" crc="c8f6d391" md5="746300e22424a1411358d6735266bf8f" sha1="62bfa7ba5e6cc9b565ad795ec447e809aa518360"/>
 		<url>https://retroachievements.org/game/9373/hashes</url>
 		<hash>B62AAD2FB95226BF6AE234A0DEB9B53F</hash>
 	</game>
-	<game name="Last Imperial Prince (Japan) (Disc B)">
-		<category>Retail</category>
+	<game name="Retail/Last Imperial Prince (Japan) (Disc B)">
+		<category></category>
 		<description>Last Imperial Prince (Japan) (Disc B)</description>
 		<rom name="Last Imperial Prince (Japan) (Disc B).chd" size="404165232" crc="a1033218" md5="aa6a229e39688323005fad735fab67df" sha1="8939b6304ccdc69c09b739b2a2d7bb3eef1e72fd"/>
 		<url>https://retroachievements.org/game/9373/hashes</url>
 		<hash>C434170699BFD0273842CE563E9C42E0</hash>
 	</game>
 
-	<game name="Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan)">
+		<category></category>
 		<description>Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan)</description>
 		<rom name="Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan).chd" size="402022517" crc="44341281" md5="ea48b7938af08dfa8013dcfa22f26019" sha1="8129352f17a54ac60df1e43d35f9b10c7b22c628"/>
 		<url>https://retroachievements.org/game/16450/hashes</url>
 		<hash>9C79291556D0B54A88C27420ECED095A</hash>
 	</game>
 
-	<game name="Power DoLLS FX (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Power DoLLS FX (Japan)">
+		<category></category>
 		<description>Power DoLLS FX (Japan)</description>
 		<rom name="Power DoLLS FX (Japan).chd" size="354007126" crc="694c5f65" md5="11afa1169b6a7645e9658e6db9257f68" sha1="e9489e3f0cbcb7eaa6906e4dbbeb54042d544430"/>
 		<url>https://retroachievements.org/game/16454/hashes</url>
 		<hash>1982933E6620687F0BF5B90F7A38DFDC</hash>
 	</game>
 
-	<game name="Return to Zork (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Return to Zork (Japan)">
+		<category></category>
 		<description>Return to Zork (Japan)</description>
 		<rom name="Return to Zork (Japan).chd" size="293232287" crc="56c5cbbe" md5="8a63d6bf59af8dfe5d260b0dfb35a08c" sha1="0269d9de9634bbff9e60dc7404e6b6e110871475"/>
 		<url>https://retroachievements.org/game/16455/hashes</url>
 		<hash>52edc3b3b0998ff36fd43c55dcdbc968</hash>
 	</game>
 	
-	<game name="Ruruli Ra Rura (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Ruruli Ra Rura (Japan)">
+		<category></category>
 		<description>Ruruli Ra Rura (Japan)</description>
 		<rom name="Ruruli Ra Rura (Japan).chd" size="517858944" crc="be12aeba" md5="2f7e7a41e9328af867e9805ab3eaaccc" sha1="6be0b89ee81f14e69692888b81f2d934049f1254"/>
 		<url>https://retroachievements.org/game/16456/hashes</url>
 		<hash>2D67B1F38DD790B291B4909D81BBA85B</hash>
 	</game>
-	<game name="Ruruli Ra Rura (Japan) (En) (v1.0) (Nekozomb)">
-		<category>Retail</category>
+	<game name="Retail/Ruruli Ra Rura (Japan) (En) (v1.0) (Nekozomb)">
+		<category></category>
 		<description>Ruruli Ra Rura (Japan) (En) (v1.0) (Nekozomb)</description>
 		<rom name="Ruruli Ra Rura (Japan) (En) (v1.0) (Nekozomb).chd" size="510882139" crc="8e85b1a7" md5="051697c7f1812d0ec5032eb328ca5547" sha1="7d1d40935aa8d02729fd767c2d2058299fb62e93"/>
 		<url>https://retroachievements.org/game/16456/hashes</url>
 		<hash>C363414552441E754F484D7FDF6A4381</hash>
 	</game>
 
-	<game name="Shanghai - Banri no Choujou (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Shanghai - Banri no Choujou (Japan)">
+		<category></category>
 		<description>Shanghai - Banri no Choujou (Japan)</description>
 		<rom name="Shanghai - Banri no Choujou (Japan).chd" size="164122568" crc="15f9a905" md5="c61cdf1ddbf71f3c3e825166a00156b3" sha1="e926c86170caf43d45b7e9bd23c76ce1f149d627"/>
 		<url>https://retroachievements.org/game/16458/hashes</url>
 		<hash>B66C6490791269A180FF82097EE762A0</hash>
 	</game>
 
-	<game name="Super Power League FX (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Super Power League FX (Japan)">
+		<category></category>
 		<description>Super Power League FX (Japan)</description>
 		<rom name="Super Power League FX (Japan).chd" size="263650227" crc="05757c12" md5="84f1fdee9e05bd314c976ee8985f4ad1" sha1="670376c5f206ca35d983843b10ba7454b6d4a169"/>
 		<url>https://retroachievements.org/game/16463/hashes</url>
 		<hash>8DB3639A1AEDAECF03BC90A3830DDE43</hash>
 	</game>
 
-	<game name="Super Real Mahjong P.V FX (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Super Real Mahjong P.V FX (Japan)">
+		<category></category>
 		<description>Super Real Mahjong P.V FX (Japan)</description>
 		<rom name="Super Real Mahjong P.V FX (Japan).chd" size="261838145" crc="7e8b8335" md5="928084339aac852be32f444f88abe114" sha1="a063e06521a6afef049b23b08f9cc67eee6f3fe1"/>
 		<url>https://retroachievements.org/game/16464/hashes</url>
 		<hash>DE08E432AE7CCFC242587893C7409530</hash>
 	</game>
 
-	<game name="Tengai Makyou - Dennou Karakuri Kakutouden (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Tengai Makyou - Dennou Karakuri Kakutouden (Japan)">
+		<category></category>
 		<description>Tengai Makyou - Dennou Karakuri Kakutouden (Japan)</description>
 		<rom name="Tengai Makyou - Dennou Karakuri Kakutouden (Japan).chd" size="556953207" crc="1bfab464" md5="817f8934eac7f18f6316f6a6de03a0f4" sha1="913addaf40b5c9873ac79447f6b51cfec135255a"/>
 		<url>https://retroachievements.org/game/9995/hashes</url>
 		<hash>8CF787A9459F25DEF0245B5BCEE16BFD</hash>
 	</game>
 
-	<game name="Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan)">
+		<category></category>
 		<description>Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan)</description>
 		<rom name="Tokimeki Card Paradise - Koi no Royal Straight Flush (Japan).chd" size="218973922" crc="eeaeb802" md5="90924227d5d207fb6a9461aa1ad9ba4c" sha1="0107b2b0df85fb4108dddfe3aa3211f9d899bad6"/>
 		<url>https://retroachievements.org/game/16467/hashes</url>

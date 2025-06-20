@@ -5,16 +5,16 @@
 		<name>RA - NEC TurboGrafx-CD</name>
 		<description>NEC TurboGrafx-CD</description>
 		<category>1G1R</category>
-		<version>20250608</version>
-		<date>08 June 2025</date>
+		<version>20250620</version>
+		<date>20 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/76/games</url>
 		<titlecount>71</titlecount>
 		<hashcount>76</hashcount>
 	</header>
-	<game name="Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Homebrew)">
-		<category>Homebrew</category>
+	<game name="Homebrew/Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Homebrew)">
+		<category></category>
 		<description>Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Homebrew)</description>
 		<rom name="Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Homebrew).cue" size="2016" crc="d1a38f92" md5="3d655a532d933c8efc460d8ed8777eb1" sha1="252472ac763d5ef2d3d78000feac651c9b4e2e0b"/>
 		<rom name="Jessie Jaeger in Cleopatra's Curse (World) (Unl) (Homebrew) (Track 01).bin" size="910224" crc="ecd234b8" md5="6d76d1791a86a50eb78644c12736eccd" sha1="80baf55be618f17a73fac830b64d3d2c23d631cd"/>
@@ -36,8 +36,8 @@
 		<hash>298734ae483ac59e9f3c37aa1c1b090d</hash>
 	</game>
 	
-	<game name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Homebrew)">
-		<category>Homebrew</category>
+	<game name="Homebrew/Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Homebrew)">
+		<category></category>
 		<description>Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Homebrew)</description>
 		<release name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Homebrew)" region="World"/>
 		<rom name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Homebrew).cue" size="825" crc="ceb16eac" md5="f605e0cb9d22540334fe2026c4b0954e" sha1="13788452c7039332804ca41d6d9f819ad14df06f"/>
@@ -51,8 +51,8 @@
 		<hash>f33ed08d643f41b4ec2764d095b61a06</hash>
 	</game>
 	
-	<game name="Xump 2 - Back To Space (USA) (v1.0) (Aftermarket) (Retroguru) (Homebrew)">
-		<category>Homebrew</category>
+	<game name="Homebrew/Xump 2 - Back To Space (USA) (v1.0) (Aftermarket) (Retroguru) (Homebrew)">
+		<category></category>
 		<description>Xump 2 - Back To Space (USA) (v1.0) (Aftermarket) (Retroguru) (Homebrew)</description>
 		<release name="Xump 2 - Back To Space (USA) (v1.0) (Aftermarket) (Retroguru) (Homebrew)" region="World"/>
 		<rom name="Xump 2 - Back To Space (USA) (v1.0) (Aftermarket) (Retroguru) (Homebrew).cue" size="1102" crc="156d9aa3" md5="bff751b6a16b31d08a1c11ae061a33ae" sha1="b42088e0655352d8bed207e1fdefeaf35551db18"/>
@@ -68,8 +68,8 @@
 		<hash>42f5fb0c0af9a5f590286850028de9e8</hash>
 	</game>
 	
-	<game name="Hi-Leg Fantasy (Japan) (Unl)">
-		<category>Unlicensed</category>
+	<game name="Unlicensed/Hi-Leg Fantasy (Japan) (Unl)">
+		<category></category>
 		<description>Hi-Leg Fantasy (Japan) (Unl)</description>
 		<release name="Hi-Leg Fantasy (Japan) (Unl)" region="Japan"/>
 		<rom name="Hi-Leg Fantasy (Japan) (Unl).cue" size="1581" crc="e5857401" md5="280a5235c6bfbc71ada141c577f3fb91" sha1="5326c8a4044caf0639f6c090ef48a5cc0ee0150f"/>
@@ -90,8 +90,8 @@
 		<hash>ed4c95b232098f09ed58c0182fd84f2d</hash>
 	</game>
 	
-	<game name="Advanced V.G. (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Advanced V.G. (Japan)">
+		<category></category>
 		<description>Advanced V.G. (Japan)</description>
 		<release name="Advanced V.G. (Japan)" region="Japan"/>
 		<rom name="Advanced V.G. (Japan).cue" size="3543" crc="08fb23e6" md5="39b67de686bdea7f25cb17bb5dd59bf3" sha1="e957bd617790e9942879f5f866778b85cefeea12"/>
@@ -136,8 +136,8 @@
 		<hash>17f2a62623bf1091f286c92eda4ddf43</hash>
 	</game>
 	
-	<game name="Ai Chou Aniki (Japan) (SADS, SAES)">
-		<category>Retail</category>
+	<game name="Retail/Ai Chou Aniki (Japan) (SADS, SAES)">
+		<category></category>
 		<description>Ai Chou Aniki (Japan) (SADS, SAES)</description>
 		<release name="Ai Chou Aniki (Japan) (SADS, SAES)" region="Japan"/>
 		<rom name="Ai Chou Aniki (Japan) (SADS, SAES).cue" size="2305" crc="694a0c77" md5="c62e00a58c31144362f673a973e16b03" sha1="33077f8f395f4b6fea4f33b42f63878d453dd75e"/>
@@ -166,8 +166,8 @@
 		<hash>e4245d36bee00016808bf295996aa3ef</hash>
 	</game>
 	
-	<game name="Akumajou Dracula X - Chi no Rondo (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Akumajou Dracula X - Chi no Rondo (Japan)">
+		<category></category>
 		<description>Akumajou Dracula X - Chi no Rondo (Japan)</description>
 		<release name="Akumajou Dracula X - Chi no Rondo (Japan)" region="Japan"/>
 		<rom name="Akumajou Dracula X - Chi no Rondo (Japan).cue" size="2565" crc="521384d0" md5="427a232865bd56d9e41f54914b59a9a7" sha1="ebb1350121815493f7179556ca81b8a904a4b05f"/>
@@ -197,8 +197,8 @@
 		<hash>dc5a0e432c9e8a9ab9f514b729b574f3</hash>
 	</game>
 	
-	<game name="Ane-san (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Ane-san (Japan)">
+		<category></category>
 		<description>Ane-san (Japan)</description>
 		<release name="Ane-san (Japan)" region="Japan"/>
 		<rom name="Ane-san (Japan).cue" size="2597" crc="2d2fb7a9" md5="8d461d9a22036b71c0d572f53378eeb4" sha1="0f6847247d818e4599cea411c312a3349f233786"/>
@@ -235,8 +235,8 @@
 		<hash>fce863b48e727c35d495194a8a0f0c45</hash>
 	</game>
 	
-	<game name="Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan)">
+		<category></category>
 		<description>Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan)</description>
 		<release name="Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan)" region="Japan"/>
 		<rom name="Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan).cue" size="1782" crc="de6a2ae7" md5="6c99f3b313864669d3931034244b75f0" sha1="6fbd581406dcf697a51337b0926875580b4c547a"/>
@@ -256,8 +256,8 @@
 		<hash>fb24b18c853d867ef9aecd5125e37e83</hash>
 	</game>
 	
-	<game name="Bazar de Gozarre no Game de Gozarre (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Bazar de Gozarre no Game de Gozarre (Japan)">
+		<category></category>
 		<description>Bazar de Gozarre no Game de Gozarre (Japan)</description>
 		<release name="Bazar de Gozarre no Game de Gozarre (Japan)" region="Japan"/>
 		<rom name="Bazar de Gozarre no Game de Gozarre (Japan).cue" size="3294" crc="1d21fd4f" md5="59b57966710ee91f17da6931ade4a7e1" sha1="1316d440c9a6aba05e7560e5f5b1f8152f9a7cc5"/>
@@ -293,8 +293,8 @@
 		<hash>141d90fa244e3d90c03bb2d735afdaaf</hash>
 	</game>
 	
-	<game name="Beyond Shadowgate (USA)">
-		<category>Retail</category>
+	<game name="Retail/Beyond Shadowgate (USA)">
+		<category></category>
 		<description>Beyond Shadowgate (USA)</description>
 		<release name="Beyond Shadowgate (USA)" region="USA"/>
 		<rom name="Beyond Shadowgate (USA).cue" size="4253" crc="eed69b57" md5="6e982cf5753e27bf2b937be8bf3d35a9" sha1="f4b2f4cf19074916f3c52933fc9d18cd13c79223"/>
@@ -338,8 +338,8 @@
 		<hash>a9bb49d6cbb338e2195d8735097ccf87</hash>
 	</game>
 	
-	<game name="Bishoujo Senshi Sailor Moon (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Bishoujo Senshi Sailor Moon (Japan)">
+		<category></category>
 		<description>Bishoujo Senshi Sailor Moon (Japan)</description>
 		<release name="Bishoujo Senshi Sailor Moon (Japan)" region="Japan"/>
 		<rom name="Bishoujo Senshi Sailor Moon (Japan).cue" size="2619" crc="0542f068" md5="a75f79125e4e30f19fcdc61ad4cd727f" sha1="e24d584d81aba54e2aeb55feb71aa2ee069bb053"/>
@@ -370,8 +370,8 @@
 		<url>https://retroachievements.org/game/18279/hashes</url>
 		<hash>4e578af4d6439c42c4f59ff25b7997d4</hash>
 	</game>
-	<game name="Bishoujo Senshi Sailor Moon (Japan) (En) (v1.1)">
-		<category>Retail</category>
+	<game name="Retail/Bishoujo Senshi Sailor Moon (Japan) (En) (v1.1)">
+		<category></category>
 		<description>Bishoujo Senshi Sailor Moon (Japan) (En) (v1.1)</description>
 		<release name="Bishoujo Senshi Sailor Moon (Japan) (En) (v1.1)" region="English"/>
 		<rom name="Bishoujo Senshi Sailor Moon (Japan) (En) (v1.1).cue" size="1029" crc="268fb6c9" md5="4e237b51c712518bda5871bab3d7a883" sha1="f5c7a0155cf96a4ff19f953d9a612bbd541a3d85"/>
@@ -380,8 +380,8 @@
 		<hash>fe14d7bb1b96753954cc7cdab3577d00</hash>
 	</game>
 	
-	<game name="Brandish (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Brandish (Japan)">
+		<category></category>
 		<description>Brandish (Japan)</description>
 		<release name="Brandish (Japan)" region="Japan"/>
 		<rom name="Brandish (Japan).cue" size="2918" crc="8e801ad3" md5="5ab4c2f7e1999b722d778b43a6e200f5" sha1="40cee51a5906df481d8fc903ccf2348655a3ccac"/>
@@ -421,8 +421,8 @@
 		<hash>eefcabb4e6b5aba08615cfc84519b1c4</hash>
 	</game>
 	
-	<game name="Buster Bros. (USA)">
-		<category>Retail</category>
+	<game name="Retail/Buster Bros. (USA)">
+		<category></category>
 		<description>Buster Bros. (USA)</description>
 		<release name="Buster Bros. (USA)" region="USA"/>
 		<rom name="Buster Bros. (USA).cue" size="2262" crc="611eda79" md5="a958f232f77503e63c07df7c06d16e54" sha1="1353074ea838c9f7a12a4bbc4d182c9e474d0804"/>
@@ -454,8 +454,8 @@
 		<hash>1cb4520e76f34ede3dd46833183a139f</hash>
 	</game>
 	
-	<game name="Chou Aniki (Japan) (FAAT, FACT)">
-		<category>Retail</category>
+	<game name="Retail/Chou Aniki (Japan) (FAAT, FACT)">
+		<category></category>
 		<description>Chou Aniki (Japan) (FAAT, FACT)</description>
 		<release name="Chou Aniki (Japan) (FAAT, FACT)" region="Japan"/>
 		<rom name="Chou Aniki (Japan) (FAAT, FACT).cue" size="2935" crc="25ab985f" md5="d427311936b2a48f88dbd54cbcad636a" sha1="0ff9b74729957b2b210491b7c973098cf4541a19"/>
@@ -491,8 +491,8 @@
 		<hash>45fd2a4d3922dd40d3852d42a0140e84</hash>
 	</game>
 	
-	<game name="Chou Jikuu Yousai Macross 2036 (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Chou Jikuu Yousai Macross 2036 (Japan)">
+		<category></category>
 		<description>Chou Jikuu Yousai Macross 2036 (Japan)</description>
 		<release name="Chou Jikuu Yousai Macross 2036 (Japan)" region="Japan"/>
 		<rom name="Chou Jikuu Yousai Macross 2036 (Japan).cue" size="3975" crc="8a4c3e28" md5="ec5c52970db184e7d5831c20ed39ab30" sha1="b413b6fb68d18f236bd9c0effd28817c4635e75f"/>
@@ -535,8 +535,8 @@
 		<hash>55eb44cb8b534a2431a494b7b1b38403</hash>
 	</game>
 	
-	<game name="Chou Jikuu Yousai Macross - Eien no Love Song (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Chou Jikuu Yousai Macross - Eien no Love Song (Japan)">
+		<category></category>
 		<description>Chou Jikuu Yousai Macross - Eien no Love Song (Japan)</description>
 		<release name="Chou Jikuu Yousai Macross - Eien no Love Song (Japan)" region="Japan"/>
 		<rom name="Chou Jikuu Yousai Macross - Eien no Love Song (Japan).cue" size="5824" crc="f60f840d" md5="9f2e2e1590195b83a6154fc18ba5ee9a" sha1="b637dcec81961a2588923ccaac026fdafaed3173"/>
@@ -590,8 +590,8 @@
 		<hash>99a5972efda850ed1ad0df1e1036d353</hash>
 	</game>
 	
-	<game name="Cosmic Fantasy 2 (USA)">
-		<category>Retail</category>
+	<game name="Retail/Cosmic Fantasy 2 (USA)">
+		<category></category>
 		<description>Cosmic Fantasy 2 (USA)</description>
 		<release name="Cosmic Fantasy 2 (USA)" region="USA"/>
 		<rom name="Cosmic Fantasy 2 (USA).cue" size="11660" crc="cc257aa0" md5="12c6579fa5ad516893e9ddca506daf1a" sha1="17b8d7af3b3b1c691cd5c3bce6eb58c685a255d8"/>
@@ -697,8 +697,8 @@
 		<hash>029acd762699125e33d7f795eb688969</hash>
 	</game>
 	
-	<game name="Cosmic Fantasy - Bouken Shounen Yuu (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Cosmic Fantasy - Bouken Shounen Yuu (Japan)">
+		<category></category>
 		<description>Cosmic Fantasy - Bouken Shounen Yuu (Japan)</description>
 		<release name="Cosmic Fantasy - Bouken Shounen Yuu (Japan)" region="Japan"/>
 		<rom name="Cosmic Fantasy - Bouken Shounen Yuu (Japan).cue" size="11464" crc="c53df0b9" md5="f79003716a6bc53ffe320674aa52294e" sha1="0002d3938f85ddf04bb3dc23906eb1429365fda3"/>
@@ -805,8 +805,8 @@
 		<hash>7d0a680f3759ca0ab44a1dcae7828716</hash>
 	</game>
 	
-	<game name="Fantastic Night Dreams - Cotton (USA)">
-		<category>Retail</category>
+	<game name="Retail/Fantastic Night Dreams - Cotton (USA)">
+		<category></category>
 		<description>Fantastic Night Dreams - Cotton (USA)</description>
 		<release name="Fantastic Night Dreams - Cotton (USA)" region="USA"/>
 		<rom name="Fantastic Night Dreams - Cotton (USA).cue" size="3045" crc="31d6f660" md5="38514d361500c7819cf473eedf9ba89c" sha1="0aba9e5aae72cd635373c6a02ddcd7bb681fb857"/>
@@ -841,8 +841,8 @@
 		<hash>1e17a1196f3ba16a35c4dbce71071306</hash>
 	</game>
 	
-	<game name="Dead of the Brain 1 and 2 (Japan) (En) (v1.0e) (Dave Shadoff)">
-		<category>Retail</category>
+	<game name="Retail/Dead of the Brain 1 and 2 (Japan) (En) (v1.0e) (Dave Shadoff)">
+		<category></category>
 		<description>Dead of the Brain 1 and 2 (Japan) (En) (v1.0e) (Dave Shadoff)</description>
 		<release name="Dead of the Brain 1 and 2 (Japan) (En) (v1.0e) (Dave Shadoff)" region="English"/>
 		<rom name="Dead of the Brain 1 and 2 (Japan) (En) (v1.0e) (Dave Shadoff).cue" size="4624" crc="81d9e55d" md5="0e9f46b4ae46b89cb9309b9164c85975" sha1="a41989310b4a62c18c041e71009fe5f6220d9ee1"/>
@@ -884,8 +884,8 @@
 		<hash>e441fad7de8fdc71d25b104ae45d90fb</hash>
 	</game>
 	
-	<game name="Double Dragon II - The Revenge (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Double Dragon II - The Revenge (Japan)">
+		<category></category>
 		<description>Double Dragon II - The Revenge (Japan)</description>
 		<release name="Double Dragon II - The Revenge (Japan)" region="Japan"/>
 		<rom name="Double Dragon II - The Revenge (Japan).cue" size="2939" crc="675186d5" md5="b2bd3caefc88f7eb2bb2d32fc26da7d6" sha1="a6fee1a484a74d8b4dd18e89d2cffb230bf661ab"/>
@@ -919,8 +919,8 @@
 		<hash>c1ab1e21cd2db6c241235196ab2908e5</hash>
 	</game>
 	
-	<game name="Dragon Knight &amp; Graffiti (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Dragon Knight &amp; Graffiti (Japan)">
+		<category></category>
 		<description>Dragon Knight &amp; Graffiti (Japan)</description>
 		<release name="Dragon Knight &amp; Graffiti (Japan)" region="Japan"/>
 		<rom name="Dragon Knight &amp; Graffiti (Japan).cue" size="1350" crc="291bf9ec" md5="43223e6718e9d092b39459108013761c" sha1="6780053e5c758b7cdb60a88f200f069de522f07e"/>
@@ -940,8 +940,8 @@
 		<hash>f59130faf3ba7ee26aff9ec7214aed1a</hash>
 	</game>
 	
-	<game name="Dragon Knight II (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Dragon Knight II (Japan)">
+		<category></category>
 		<description>Dragon Knight II (Japan)</description>
 		<release name="Dragon Knight II (Japan)" region="Japan"/>
 		<rom name="Dragon Knight II (Japan).cue" size="3558" crc="de5ab8bc" md5="cba357eae910318c0cbc902fba83d872" sha1="482890d74e6483550ffbd77516a0e429cf9badde"/>
@@ -985,8 +985,8 @@
 		<hash>14a0319e0b87b67cb97523dd1a87b9be</hash>
 	</game>
 	
-	<game name="Dragon Slayer - The Legend of Heroes (USA)">
-		<category>Retail</category>
+	<game name="Retail/Dragon Slayer - The Legend of Heroes (USA)">
+		<category></category>
 		<description>Dragon Slayer - The Legend of Heroes (USA)</description>
 		<release name="Dragon Slayer - The Legend of Heroes (USA)" region="USA"/>
 		<rom name="Dragon Slayer - The Legend of Heroes (USA).cue" size="2610" crc="221e5ee2" md5="cae6cf0267bb3a070e6ab976334819fc" sha1="f7b2df26d8c68bde3b3c5f18af80659dafe14cdf"/>
@@ -1016,8 +1016,8 @@
 		<hash>1154e293ff16c1bc4f2a52027760a639</hash>
 	</game>
 	
-	<game name="Faussete Amour (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Faussete Amour (Japan)">
+		<category></category>
 		<description>Faussete Amour (Japan)</description>
 		<release name="Faussete Amour (Japan)" region="Japan"/>
 		<rom name="Faussete Amour (Japan).cue" size="4426" crc="5002af0e" md5="81069a14dc5c30198119cbf65bdca4c2" sha1="607143514cc234f8243ea9701f5ed7c6aee6f63e"/>
@@ -1071,8 +1071,8 @@
 		<hash>a85ef88465f287c7095ad9a6a1c26ce6</hash>
 	</game>
 	
-	<game name="Fighting Street (Japan) (Rev 4)">
-		<category>Retail</category>
+	<game name="Retail/Fighting Street (Japan) (Rev 4)">
+		<category></category>
 		<description>Fighting Street (Japan) (Rev 4)</description>
 		<release name="Fighting Street (Japan) (Rev 4)" region="Japan"/>
 		<rom name="Fighting Street (Japan) (Rev 4).cue" size="2780" crc="46f26a8a" md5="f05d8acce68a995c24df9a3b2dcca19b" sha1="62a94da7c5f5b35f9e361666c78b436538391b43"/>
@@ -1106,8 +1106,8 @@
 		<hash>1f674638e2aa39c45a955a608b90181a</hash>
 	</game>
 	
-	<game name="Final Zone II (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Final Zone II (Japan)">
+		<category></category>
 		<description>Final Zone II (Japan)</description>
 		<release name="Final Zone II (Japan)" region="Japan"/>
 		<rom name="Final Zone II (Japan).cue" size="5189" crc="7c68cc77" md5="8535e314ad1d4af4297ef276d940f035" sha1="c962492ac09f271f4dac4f50b84716032087edc2"/>
@@ -1170,8 +1170,8 @@
 		<hash>8eee6c4f0210aec421fbb1b0fc767b78</hash>
 	</game>
 	
-	<game name="Gate of Thunder (Japan) (FACT, FADT)">
-		<category>Retail</category>
+	<game name="Retail/Gate of Thunder (Japan) (FACT, FADT)">
+		<category></category>
 		<description>Gate of Thunder (Japan) (FACT, FADT)</description>
 		<release name="Gate of Thunder (Japan) (FACT, FADT)" region="Japan"/>
 		<rom name="Gate of Thunder (Japan) (FACT, FADT).cue" size="2023" crc="b5cc9fd7" md5="eb0cf042644ad5a78a9805a84fc6b133" sha1="fc69ecb3d387ec671bcf1d038e57c6d155cb2377"/>
@@ -1197,8 +1197,8 @@
 		<hash>2fa9f811db92264e29d00135d265e431</hash>
 	</game>
 	
-	<game name="Ginga Fukei Densetsu Sapphire (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Ginga Fukei Densetsu Sapphire (Japan)">
+		<category></category>
 		<description>Ginga Fukei Densetsu Sapphire (Japan)</description>
 		<release name="Ginga Fukei Densetsu Sapphire (Japan)" region="Japan"/>
 		<rom name="Ginga Fukei Densetsu Sapphire (Japan).cue" size="1955" crc="f63cbcbd" md5="e007c0ec81fe2e5e99902aea6a892bcb" sha1="61d8b5fd0958c1b8c7acdddb4f916522c1b926cc"/>
@@ -1223,8 +1223,8 @@
 		<hash>b01d1404a3a2370e2099a4cf68b5a99f</hash>
 	</game>
 	
-	<game name="Godzilla (USA)">
-		<category>Retail</category>
+	<game name="Retail/Godzilla (USA)">
+		<category></category>
 		<description>Godzilla (USA)</description>
 		<release name="Godzilla (USA)" region="USA"/>
 		<rom name="Godzilla (USA).cue" size="2166" crc="6d3b4228" md5="e29de356146dcf96020999c042f6720f" sha1="4d47605bae22c2cefd85c6d5f5f2a9d0afac6bd7"/>
@@ -1256,8 +1256,8 @@
 		<hash>06d22a4f258f931d4e2c8783fa484906</hash>
 	</game>
 	
-	<game name="Golden Axe (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Golden Axe (Japan)">
+		<category></category>
 		<description>Golden Axe (Japan)</description>
 		<release name="Golden Axe (Japan)" region="Japan"/>
 		<rom name="Golden Axe (Japan).cue" size="6441" crc="0119a5bd" md5="9c9045a3875bd3adf788354e08417670" sha1="f600ab5c92122d62ae40b826d41d4e8b56ec62c6"/>
@@ -1336,8 +1336,8 @@
 		<hash>ed4644e14ad30b9eb22569b9c73a50e9</hash>
 	</game>
 	
-	<game name="Goetzendiener (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Goetzendiener (Japan)">
+		<category></category>
 		<description>Goetzendiener (Japan)</description>
 		<release name="Goetzendiener (Japan)" region="Japan"/>
 		<rom name="Goetzendiener (Japan).cue" size="1283" crc="4450f28d" md5="46785608f2213d722fa78958c9302f35" sha1="6bfd90ccf98c0eea9a110bfe26faa833451dbd9e"/>
@@ -1358,8 +1358,8 @@
 		<hash>ac3500d1a4cd9efc7fe97a3bbb120ad0</hash>
 	</game>
 	
-	<game name="Gradius II - Gofer no Yabou (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Gradius II - Gofer no Yabou (Japan)">
+		<category></category>
 		<description>Gradius II - Gofer no Yabou (Japan)</description>
 		<release name="Gradius II - Gofer no Yabou (Japan)" region="Japan"/>
 		<rom name="Gradius II - Gofer no Yabou (Japan).cue" size="3098" crc="00738bf2" md5="c350d8caedf75342e6bc90f971ef8bd8" sha1="5ee196838abcab72fca933849f76d6091c00f069"/>
@@ -1395,8 +1395,8 @@
 		<hash>190ac11eb121e8a47b26dc09502cc0f3</hash>
 	</game>
 	
-	<game name="Juuouki (Japan) (Rev 5)">
-		<category>Retail</category>
+	<game name="Retail/Juuouki (Japan) (Rev 5)">
+		<category></category>
 		<description>Juuouki (Japan) (Rev 5)</description>
 		<release name="Juuouki (Japan) (Rev 5)" region="Japan"/>
 		<rom name="Juuouki (Japan) (Rev 5).cue" size="1029" crc="492519a0" md5="f7c69dae6641ae8676b301700e4fb5d6" sha1="4ccfe8287796c1e64421596034a34401613c951f"/>
@@ -1414,8 +1414,8 @@
 		<hash>27fb01740a50bcd3c67564946ec7dee0</hash>
 	</game>
 	
-	<game name="L-Dis (Japan)">
-		<category>Retail</category>
+	<game name="Retail/L-Dis (Japan)">
+		<category></category>
 		<description>L-Dis (Japan)</description>
 		<rom name="L-Dis (Japan).cue" size="5021" crc="0fdcb743" md5="328c32422ddfbe2eac7223ed40f9806c" sha1="579e5be4f21c1c74a3f82fb25ea14821f4d772d1"/>
 		<rom name="L-Dis (Japan) (Track 01).bin" size="7916832" crc="be128779" md5="94b35e830f55eb6ec03222eb081b6763" sha1="373442f6e448f60db2e0093b31e9c62da9bab999"/>
@@ -1470,8 +1470,8 @@
 		<hash>1c2f4cd16cc7f711e5d0ab87fb96f2b0</hash>
 	</game>
 	
-	<game name="Loom (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Loom (Japan)">
+		<category></category>
 		<description>Loom (Japan)</description>
 		<release name="Loom (Japan)" region="Japan"/>
 		<rom name="Loom (Japan).cue" size="2034" crc="e9cb3a32" md5="94563d46ba5839dc0513312716ee52ca" sha1="f8673546c37b4712d8f4f837dae6eaea3b18cfe0"/>
@@ -1502,8 +1502,8 @@
 		<hash>c2d6798a81893b3003b5e96a343789be</hash>
 	</game>
 	
-	<game name="Lords of Thunder (USA)">
-		<category>Retail</category>
+	<game name="Retail/Lords of Thunder (USA)">
+		<category></category>
 		<description>Lords of Thunder (USA)</description>
 		<release name="Lords of Thunder (USA)" region="USA"/>
 		<rom name="Lords of Thunder (USA).cue" size="2264" crc="21b7921d" md5="6d3048fa92edbffb53fb278b3544000e" sha1="97ba44a16452777d9d35a70e2e3f05b412680e3c"/>
@@ -1534,8 +1534,8 @@
 		<hash>e89383d69ad11d101a6897e11d1754b4</hash>
 	</game>
 	
-	<game name="Might and Magic III - Isles of Terra (USA)">
-		<category>Retail</category>
+	<game name="Retail/Might and Magic III - Isles of Terra (USA)">
+		<category></category>
 		<description>Might and Magic III - Isles of Terra (USA)</description>
 		<release name="Might and Magic III - Isles of Terra (USA)" region="USA"/>
 		<rom name="Might and Magic III - Isles of Terra (USA).cue" size="1926" crc="f69ff8cf" md5="42b151168146430e8f4da26a309748a0" sha1="82c0305bc0cb0cb2869b88eb3bf37686d46ae4a1"/>
@@ -1559,8 +1559,8 @@
 		<hash>9a5a705b23f4a9ab99a3d372eec24b83</hash>
 	</game>
 	
-	<game name="Monster Lair (USA)">
-		<category>Retail</category>
+	<game name="Retail/Monster Lair (USA)">
+		<category></category>
 		<description>Monster Lair (USA)</description>
 		<release name="Monster Lair (USA)" region="USA"/>
 		<rom name="Monster Lair (USA).cue" size="1542" crc="28353ce6" md5="c42bebb3cf6d4af22c41127a4fca769f" sha1="7383b3da5c0e6525d8c8925f37d3ab37cca56684"/>
@@ -1584,8 +1584,8 @@
 		<hash>387a34b07aeb78b01fa43af74467cd40</hash>
 	</game>
 	
-	<game name="Monster Lair (Subset - Multi)">
-		<category>Subset</category>
+	<game name="Subset/Monster Lair (Subset - Multi)">
+		<category></category>
 		<description>Monster Lair (Subset - Multi)</description>
 		<release name="Monster Lair (Subset - Multi)" region="World"/>
 		<rom name="Monster Lair (Subset - Multi).cue" size="1718" crc="612b5079" md5="6bf9fbf2b13548c6357356687c45962e" sha1="b2a3e5d63fcbe34f4ba8cf0b2a97147cc21b0890"/>
@@ -1609,8 +1609,8 @@
 		<hash>fba17fbdac86949f29b0741eec404fd3</hash>
 	</game>
 	
-	<game name="Motteke Tamago (Japan) (En) (v1.0) (Dave Shadoff)">
-		<category>Retail</category>
+	<game name="Retail/Motteke Tamago (Japan) (En) (v1.0) (Dave Shadoff)">
+		<category></category>
 		<description>Motteke Tamago (Japan) (En) (v1.0) (Dave Shadoff)</description>
 		<release name="Motteke Tamago (Japan) (En) (v1.0) (Dave Shadoff)" region="English"/>
 		<rom name="Motteke Tamago (Japan) (En) (v1.0) (Dave Shadoff).cue" size="511" crc="0ffcdd70" md5="df4cfa29a06ef3fe0ef06944502e89e9" sha1="186fc346cb5fcdc6314a5ce93084240258809deb"/>
@@ -1619,8 +1619,8 @@
 		<hash>caecf273fe97d88aeb6d0c8c9fd43cb9</hash>
 	</game>
 	
-	<game name="Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan)">
+		<category></category>
 		<description>Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan)</description>
 		<release name="Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan)" region="Japan"/>
 		<rom name="Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan).cue" size="3902" crc="d2257f54" md5="1dff437d5b0cc6a3861b7554322f5839" sha1="e6a2a8a04bb6db99eaf8d1799385cb75ec9a4b77"/>
@@ -1657,8 +1657,8 @@
 		<hash>06f0e44efa25ba6e6a9cf7f5b08ec782</hash>
 	</game>
 	
-	<game name="PopfulMail (Japan)">
-		<category>Retail</category>
+	<game name="Retail/PopfulMail (Japan)">
+		<category></category>
 		<description>PopfulMail (Japan)</description>
 		<release name="PopfulMail (Japan)" region="Japan"/>
 		<rom name="PopfulMail (Japan).cue" size="3044" crc="680e3625" md5="645d72f52579fa1fcb4f6e1b4fae1cc3" sha1="510affe91bb94db03e88be646ed56b95610e3eb2"/>
@@ -1699,8 +1699,8 @@
 		<hash>a0fef3e9b4f74bf51c4cc6dd6b7f9ff7</hash>
 	</game>
 	
-	<game name="Puyo Puyo CD (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Puyo Puyo CD (Japan)">
+		<category></category>
 		<description>Puyo Puyo CD (Japan)</description>
 		<release name="Puyo Puyo CD (Japan)" region="Japan"/>
 		<rom name="Puyo Puyo CD (Japan).cue" size="3506" crc="7773aa51" md5="858e5d2a3f78c509475a4bb2d20fe4c9" sha1="99b133283d53cd50968e28581243532e83a96cb3"/>
@@ -1745,8 +1745,8 @@
 		<hash>c9d0afcd0f73b7d718de90aeac84fa68</hash>
 	</game>
 	
-	<game name="R-Type Complete CD (Japan)">
-		<category>Retail</category>
+	<game name="Retail/R-Type Complete CD (Japan)">
+		<category></category>
 		<description>R-Type Complete CD (Japan)</description>
 		<release name="R-Type Complete CD (Japan)" region="Japan"/>
 		<rom name="R-Type Complete CD (Japan).cue" size="4610" crc="c1b63c0c" md5="3de60653f3bc7214b036298766fc6440" sha1="ab66fb02e69e26cc834d842411d63eec7ec70ff9"/>
@@ -1800,8 +1800,8 @@
 		<hash>f36f5b025322dd874f0d0fc5f109c615</hash>
 	</game>
 	
-	<game name="Seirei Senshi Spriggan (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Seirei Senshi Spriggan (Japan)">
+		<category></category>
 		<description>Seirei Senshi Spriggan (Japan)</description>
 		<release name="Seirei Senshi Spriggan (Japan)" region="Japan"/>
 		<rom name="Seirei Senshi Spriggan (Japan).cue" size="2856" crc="c9e4556c" md5="11894de1a875670a71e1506db5244822" sha1="bc6b59bc688e25e82c2b8025ecd744f8485a655b"/>
@@ -1836,8 +1836,8 @@
 		<hash>fd49772941ca4e58b06b9bea02f588df</hash>
 	</game>
 	
-	<game name="Shadow of the Beast (USA)">
-		<category>Retail</category>
+	<game name="Retail/Shadow of the Beast (USA)">
+		<category></category>
 		<description>Shadow of the Beast (USA)</description>
 		<release name="Shadow of the Beast (USA)" region="USA"/>
 		<rom name="Shadow of the Beast (USA).cue" size="1072" crc="ffc33cff" md5="00ca39c9d066a57ef58446c751d9e873" sha1="ef1b2d76c97b5ea0d86c0a456f5ccf51a924f11d"/>
@@ -1854,8 +1854,8 @@
 		<url>https://retroachievements.org/game/12841/hashes</url>
 		<hash>bd5f54e4403f76846c4970f93d5056cf</hash>
 	</game>
-	<game name="Shadow of the Beast - Mashou no Okite (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Shadow of the Beast - Mashou no Okite (Japan)">
+		<category></category>
 		<description>Shadow of the Beast - Mashou no Okite (Japan)</description>
 		<release name="Shadow of the Beast - Mashou no Okite (Japan)" region="Japan"/>
 		<rom name="Shadow of the Beast - Mashou no Okite (Japan).cue" size="1272" crc="e1dd0e3a" md5="6d7968eb6f2c122d50cb8398b67712f0" sha1="43861a111fce05918e6fc728fa0dca71eca1e7ac"/>
@@ -1873,8 +1873,8 @@
 		<hash>26c91b29ae514cac6acb50b420fb26a9</hash>
 	</game>
 	
-	<game name="Shanghai II (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Shanghai II (Japan)">
+		<category></category>
 		<description>Shanghai II (Japan)</description>
 		<release name="Shanghai II (Japan)" region="Japan"/>
 		<rom name="Shanghai II (Japan).cue" size="1285" crc="67d67b8d" md5="9f10648d3d83bfb7d06f061be8bb6d41" sha1="18fd14366abfd2bbdf393eba4d1846384b493ffb"/>
@@ -1895,8 +1895,8 @@
 		<hash>1062a9cbaebf758318892535432d9525</hash>
 	</game>
 	
-	<game name="Shape Shifter (USA)">
-		<category>Retail</category>
+	<game name="Retail/Shape Shifter (USA)">
+		<category></category>
 		<description>Shape Shifter (USA)</description>
 		<release name="Shape Shifter (USA)" region="USA"/>
 		<rom name="Shape Shifter (USA).cue" size="11177" crc="b58706bd" md5="1ac8272b4caa158da94838a1ba36d367" sha1="2de7879eb1c069788c389f9767b5d84ca51af734"/>
@@ -2002,8 +2002,8 @@
 		<hash>a2fe587695345dd0251b371856278ddf</hash>
 	</game>
 	
-	<game name="Splash Lake - Ostrich Daibouken (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Splash Lake - Ostrich Daibouken (Japan)">
+		<category></category>
 		<description>Splash Lake - Ostrich Daibouken (Japan)</description>
 		<release name="Splash Lake - Ostrich Daibouken (Japan)" region="Japan"/>
 		<rom name="Splash Lake - Ostrich Daibouken (Japan).cue" size="1628" crc="18481697" md5="944efec36ade6a3097b29f1b858340d8" sha1="9e852a918ecd436366fca179a62107dbfd0b5dfd"/>
@@ -2025,8 +2025,8 @@
 		<hash>e6910e893ba3028336254113113850a9</hash>
 	</game>
 	
-	<game name="Star Parodier (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Star Parodier (Japan)">
+		<category></category>
 		<description>Star Parodier (Japan)</description>
 		<release name="Star Parodier (Japan)" region="Japan"/>
 		<rom name="Star Parodier (Japan).cue" size="2334" crc="e3f111b3" md5="7f1d43d4dbf48389bca903d664b6ec33" sha1="74c764edc206956dfc5b0db40ef2203528594f33"/>
@@ -2058,8 +2058,8 @@
 		<hash>a99711ee026979c45612fc3918509e30</hash>
 	</game>
 	
-	<game name="Startling Odyssey II - Maryuu Sensou (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Startling Odyssey II - Maryuu Sensou (Japan)">
+		<category></category>
 		<description>Startling Odyssey II - Maryuu Sensou (Japan)</description>
 		<release name="Startling Odyssey II - Maryuu Sensou (Japan)" region="Japan"/>
 		<rom name="Startling Odyssey II - Maryuu Sensou (Japan).cue" size="6134" crc="f08773b2" md5="acc043f8f82ce5c31a7f000e98074bf1" sha1="240862c1e38a201f25276af4d57c09ac8e35edfd"/>
@@ -2119,8 +2119,8 @@
 		<hash>8f8783064f8e97d0ebf437c00aad39fa</hash>
 	</game>
 	
-	<game name="Steam-Heart's (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Steam-Heart's (Japan)">
+		<category></category>
 		<description>Steam-Heart's (Japan)</description>
 		<release name="Steam-Heart's (Japan)" region="Japan"/>
 		<rom name="Steam-Heart's (Japan).cue" size="3422" crc="a235b1fc" md5="e3acc82a87145c4eaf642a110a859c00" sha1="9530ca265f659f207778d5f9e679c684293e0084"/>
@@ -2164,8 +2164,8 @@
 		<hash>8c6b0f93db82c2de485e8c63cd65570f</hash>
 	</game>
 	
-	<game name="Summer Carnival '92 - Alzadick (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Summer Carnival '92 - Alzadick (Japan)">
+		<category></category>
 		<description>Summer Carnival '92 - Alzadick (Japan)</description>
 		<release name="Summer Carnival '92 - Alzadick (Japan)" region="Japan"/>
 		<rom name="Summer Carnival '92 - Alzadick (Japan).cue" size="1944" crc="7b9c0c5a" md5="c9891e992195d22275ea822131567fd0" sha1="54e35edf6dea91b2a2a1fa2805bd4eec252f554a"/>
@@ -2190,8 +2190,8 @@
 		<hash>c279f880841ca158769beb6de6098959</hash>
 	</game>
 	
-	<game name="Summer Carnival '93 - NEXZR Special (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Summer Carnival '93 - NEXZR Special (Japan)">
+		<category></category>
 		<description>Summer Carnival '93 - NEXZR Special (Japan)</description>
 		<release name="Summer Carnival '93 - NEXZR Special (Japan)" region="Japan"/>
 		<rom name="Summer Carnival '93 - NEXZR Special (Japan).cue" size="2747" crc="3c6cf86e" md5="d05dc1317ea146d4a6070dc9aad92225" sha1="c6aebc057975e1e55418b4eabba6f13da358e8a7"/>
@@ -2222,8 +2222,8 @@
 		<hash>471054c4638ecd62b358ca1e1d4e1773</hash>
 	</game>
 	
-	<game name="Sylphia (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Sylphia (Japan)">
+		<category></category>
 		<description>Sylphia (Japan)</description>
 		<release name="Sylphia (Japan)" region="Japan"/>
 		<rom name="Sylphia (Japan).cue" size="1617" crc="d661c25c" md5="195a39571c0801788c09c0dd6ee058b4" sha1="7422c17ca5e4dff966eb6f310a430e87cfadca67"/>
@@ -2249,8 +2249,8 @@
 		<hash>979c98d2ab744520ba3a8a8d93c0571b</hash>
 	</game>
 	
-	<game name="Tengai Makyou - Ziria (Japan) (Rev 7)">
-		<category>Retail</category>
+	<game name="Retail/Tengai Makyou - Ziria (Japan) (Rev 7)">
+		<category></category>
 		<description>Tengai Makyou - Ziria (Japan) (Rev 7)</description>
 		<release name="Tengai Makyou - Ziria (Japan) (Rev 7)" region="Japan"/>
 		<rom name="Tengai Makyou - Ziria (Japan) (Rev 7).cue" size="750" crc="579f4e45" md5="bcf74986b588d7c0f0d7912612e7dfc3" sha1="0cbf79b124eebd7c1704e52f062e83feffc19754"/>
@@ -2263,16 +2263,16 @@
 		<url>https://retroachievements.org/game/27679/hashes</url>
 		<hash>6a5357c92dd8313ca3ebc80593f77cea</hash>
 	</game>
-	<game name="Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.0) (LIPEMCO! Translations)">
-		<category>Retail</category>
+	<game name="Retail/Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.0) (LIPEMCO! Translations)">
+		<category></category>
 		<description>Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.0) (LIPEMCO! Translations)</description>
 		<rom name="Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.0) (LIPEMCO! Translations).cue" size="418" crc="e2010bcc" md5="1972a9ba7cdf88bf5a5134f6958f6d0e" sha1="8b2155f026e1d7011acba735ef7c28a1969f9576"/>
 		<rom name="Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.0) (LIPEMCO! Translations).bin" size="370047216" crc="4d64f346" md5="f58e5e6eb2b498206485092cef3fc1bd" sha1="5b7a40a99c295937e503b677a0c3594e5cf8afb6"/>
 		<url>https://retroachievements.org/game/27679/hashes</url>
 		<hash>80703df09e4bfb3f46fabd4cc1c359ce</hash>
 	</game>
-	<game name="Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.2) (LIPEMCO! Translations)">
-		<category>Retail</category>
+	<game name="Retail/Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.2) (LIPEMCO! Translations)">
+		<category></category>
 		<description>Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.2) (LIPEMCO! Translations)</description>
 		<release name="Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.2) (LIPEMCO! Translations)" region="English"/>
 		<rom name="Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.2) (LIPEMCO! Translations).cue" size="943" crc="a5628294" md5="c60e1fcce368a75e698fcd3edb236935" sha1="57f4e5688cda72cbc7220ea141cca2b19239eb60"/>
@@ -2286,8 +2286,8 @@
 		<hash>0ad5651a92e838d5174ebc3078440200</hash>
 	</game>
 	
-	<game name="Dynastic Hero, The (USA)">
-		<category>Retail</category>
+	<game name="Retail/Dynastic Hero, The (USA)">
+		<category></category>
 		<description>Dynastic Hero, The (USA)</description>
 		<release name="Dynastic Hero, The (USA)" region="USA"/>
 		<rom name="Dynastic Hero, The (USA).cue" size="2762" crc="4830eda9" md5="bfbebf89223c22e988a6816d9a40a06e" sha1="72984bda58472bbb4baf552727eb58359173fdc0"/>
@@ -2323,8 +2323,8 @@
 		<hash>d120a2d1099b1101a1897b8cb3996f83</hash>
 	</game>
 	
-	<game name="Manhole, The (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Manhole, The (Japan)">
+		<category></category>
 		<description>Manhole, The (Japan)</description>
 		<release name="Manhole, The (Japan)" region="Japan"/>
 		<rom name="Manhole, The (Japan).cue" size="3414" crc="e0e87ac8" md5="e6176bfb94fe9d8c7f7da4a48b143cff" sha1="4601dd264da00e1ee0bdc98ae3c29ea1d6cf4699"/>
@@ -2368,8 +2368,8 @@
 		<hash>d676d3db9c23c506048e9980d7c627db</hash>
 	</game>
 	
-	<game name="Travel Eple (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Travel Eple (Japan)">
+		<category></category>
 		<description>Travel Eple (Japan)</description>
 		<release name="Travel Eple (Japan)" region="Japan"/>
 		<rom name="Travel Eple (Japan).cue" size="7306" crc="a629cb5c" md5="e0c72f613c128a30b6b2d91db316a578" sha1="599ed66494386267088cb7055574c623770a62aa"/>
@@ -2450,8 +2450,8 @@
 		<hash>65ae6e2d2122b1465b6c0694e861a4fe</hash>
 	</game>
 	
-	<game name="Valis II (USA)">
-		<category>Retail</category>
+	<game name="Retail/Valis II (USA)">
+		<category></category>
 		<description>Valis II (USA)</description>
 		<release name="Valis II (USA)" region="USA"/>
 		<rom name="Valis II (USA).cue" size="4804" crc="603bd404" md5="652f35d905a8bf00c52eb59e6ecfb1d6" sha1="bff61b418beed0a2932c4104455bb8c32c6bd6a8"/>
@@ -2514,8 +2514,8 @@
 		<hash>8c5932e35676429dcf9ed7331b941f58</hash>
 	</game>
 	
-	<game name="Valis III (USA)">
-		<category>Retail</category>
+	<game name="Retail/Valis III (USA)">
+		<category></category>
 		<description>Valis III (USA)</description>
 		<release name="Valis III (USA)" region="USA"/>
 		<rom name="Valis III (USA).cue" size="6399" crc="930bb40e" md5="63ad5c1d2b9bdf365a7763ba5b15e6bb" sha1="14b8a547b128e1f240e9ecaf037ad5eb0861a6de"/>
@@ -2586,8 +2586,8 @@
 		<hash>4dcba80f9d31634d90447c66e033d062</hash>
 	</game>
 	
-	<game name="Valis IV (Japan)">
-		<category>Retail</category>
+	<game name="Retail/Valis IV (Japan)">
+		<category></category>
 		<description>Valis IV (Japan)</description>
 		<release name="Valis IV (Japan)" region="Japan"/>
 		<rom name="Valis IV (Japan).cue" size="9853" crc="9595e237" md5="e071f86c70fbef65aa098e0f1084f496" sha1="13c332870c27fdd5e5b30c578b690da78f7baef7"/>
@@ -2689,8 +2689,8 @@
 		<hash>22a58f0f9169be2f9d18634d7c0234b9</hash>
 	</game>
 	
-	<game name="Vasteel (USA)">
-		<category>Retail</category>
+	<game name="Retail/Vasteel (USA)">
+		<category></category>
 		<description>Vasteel (USA)</description>
 		<release name="Vasteel (USA)" region="USA"/>
 		<rom name="Vasteel (USA).cue" size="2794" crc="3f9a8a1a" md5="542a1e082d43ffd2e158ae7b7131d29a" sha1="18de9f5617f097999b5251555e050d1b94e620da"/>
@@ -2730,8 +2730,8 @@
 		<hash>f4e63bd19d179d54a1d4417781a1aacf</hash>
 	</game>
 	
-	<game name="Xak III - The Eternal Recurrence (Japan) (En) (v1.00) (Xak III De-Japanization)">
-		<category>Retail</category>
+	<game name="Retail/Xak III - The Eternal Recurrence (Japan) (En) (v1.00) (Xak III De-Japanization)">
+		<category></category>
 		<description>Xak III - The Eternal Recurrence (Japan) (En) (v1.00) (Xak III De-Japanization)</description>
 		<release name="Xak III - The Eternal Recurrence (Japan) (En) (v1.00) (Xak III De-Japanization)" region="English"/>
 		<rom name="Xak III - The Eternal Recurrence (Japan) (En) (v1.00) (Xak III De-Japanization).cue" size="1581" crc="7454d6b8" md5="7de80db51c6aeb99c83ccd1145769cd5" sha1="611bdd0b0b8d548c4e3d90f75f64dba82ae6eee3"/>
@@ -2740,8 +2740,8 @@
 		<hash>4a172b994fbb95dbf5e34256b86aeacb</hash>
 	</game>
 	
-	<game name="Ys III - Wanderers from Ys (USA)">
-		<category>Retail</category>
+	<game name="Retail/Ys III - Wanderers from Ys (USA)">
+		<category></category>
 		<description>Ys III - Wanderers from Ys (USA)</description>
 		<release name="Ys III - Wanderers from Ys (USA)" region="USA"/>
 		<rom name="Ys III - Wanderers from Ys (USA).cue" size="2674" crc="d9dbba77" md5="2d221bf9c1ac24aa1c8a4606ff3e7c04" sha1="e0dca97387666d24346c9d13b05321d7d8e597d0"/>
@@ -2774,8 +2774,8 @@
 		<hash>5f00e6cf276b34927c819b376ba27cc4</hash>
 	</game>
 	
-	<game name="Ys IV - The Dawn of Ys (Japan) (Rev 3)">
-		<category>Retail</category>
+	<game name="Retail/Ys IV - The Dawn of Ys (Japan) (Rev 3)">
+		<category></category>
 		<description>Ys IV - The Dawn of Ys (Japan) (Rev 3)</description>
 		<release name="Ys IV - The Dawn of Ys (Japan) (Rev 3)" region="Japan"/>
 		<rom name="Ys IV - The Dawn of Ys (Japan) (Rev 3).cue" size="3622" crc="fa7ea57e" md5="e42f62d283c5e29bf32ab5c3d1d71f05" sha1="2ac8f48485162cfc7cfab55273abeffc6b865009"/>
@@ -2814,8 +2814,8 @@
 		<url>https://retroachievements.org/game/8839/hashes</url>
 		<hash>b77ae59195812ed30d1d5dd29cee1510</hash>
 	</game>
-	<game name="Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve)">
-		<category>Retail</category>
+	<game name="Retail/Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve)">
+		<category></category>
 		<description>Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve)</description>
 		<release name="Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve)" region="English"/>
 		<rom name="Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve).cue" size="2373" crc="e23f0dbf" md5="4b625ac139f399a35fa18084d4bb7643" sha1="6d6a364434ecaac19ee203709a7533e74f9996f0"/>
@@ -2824,8 +2824,8 @@
 		<hash>f17f1c4108d55ca132515fa0bab27088</hash>
 	</game>
 	
-	<game name="Ys Book I &amp; II (USA)">
-		<category>Retail</category>
+	<game name="Retail/Ys Book I &amp; II (USA)">
+		<category></category>
 		<description>Ys Book I &amp; II (USA)</description>
 		<release name="Ys Book I &amp; II (USA)" region="USA"/>
 		<rom name="Ys Book I &amp; II (USA).cue" size="4030" crc="b48cd34a" md5="fb84af710dce14c3befdf7a5e020f7f2" sha1="ee92126ae3d8c3013c4d91b24320e2120fb217f3"/>

@@ -5,8 +5,8 @@
 		<name>RA - Apple II</name>
 		<description>Apple II</description>
 		<category>1G1R</category>
-		<version>20250610</version>
-		<date>10 June 2025</date>
+		<version>20250619</version>
+		<date>19 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/38/games</url>
@@ -22,11 +22,11 @@
 		<hash>A317E53A10A9DB16D7471B23907116C9</hash>
 	</game>
 	
-	<game name="Portal (Homebrew) (Tosec) (Homebrew)">
+	<game name="Portal (Homebrew) (Tosec)">
 		<category>Homebrew</category>
-		<description>Portal (Homebrew) (Tosec) (Homebrew)</description>
-		<release name="Portal (Homebrew) (Tosec) (Homebrew)" region="World"/>
-		<rom name="Portal (Homebrew) (Tosec) (Homebrew).dsk" size="143360" crc="df8ffed6" md5="a375198073297139a26db57347f93e90" sha1="489b385bbcfe9ce7287b98ad7bd4c36f03f07618"/>
+		<description>Portal (Homebrew) (Tosec)</description>
+		<release name="Portal (Homebrew) (Tosec)" region="World"/>
+		<rom name="Portal (Homebrew) (Tosec).dsk" size="143360" crc="df8ffed6" md5="a375198073297139a26db57347f93e90" sha1="489b385bbcfe9ce7287b98ad7bd4c36f03f07618"/>
 		<url>https://retroachievements.org/game/16129/hashes</url>
 		<hash>A375198073297139A26DB57347F93E90</hash>
 	</game>
@@ -40,11 +40,11 @@
 		<hash>20b0f9a506f759ea815dbacd3eadcd7d</hash>
 	</game>
 	
-	<game name="Sudoku (Homebrew) (Tosec) (Homebrew)">
+	<game name="Sudoku (Homebrew) (Tosec)">
 		<category>Homebrew</category>
-		<description>Sudoku (Homebrew) (Tosec) (Homebrew)</description>
-		<release name="Sudoku (Homebrew) (Tosec) (Homebrew)" region="World"/>
-		<rom name="Sudoku (Homebrew) (Tosec) (Homebrew).dsk" size="143360" crc="5cf5c66d" md5="bd92a051c2098b3090b865365caa3571" sha1="bfdb8e741988f2439ba91cddc318d5cf88387e47"/>
+		<description>Sudoku (Homebrew) (Tosec)</description>
+		<release name="Sudoku (Homebrew) (Tosec)" region="World"/>
+		<rom name="Sudoku (Homebrew) (Tosec).dsk" size="143360" crc="5cf5c66d" md5="bd92a051c2098b3090b865365caa3571" sha1="bfdb8e741988f2439ba91cddc318d5cf88387e47"/>
 		<url>https://retroachievements.org/game/14674/hashes</url>
 		<hash>BD92A051C2098B3090B865365CAA3571</hash>
 	</game>
@@ -442,7 +442,7 @@
 		<category>Retail</category>
 		<description>Gold Rush! (World) (Disk 1A) (WozADay)</description>
 		<release name="Gold Rush! (World) (Disk 1A) (WozADay)" region="World"/>
-		<rom name="Gold Rush! (World) (Disk 1A) (WozADay).woz" merge="Gold Rush! (World) (Disk 1A) (WozADay).woz" size="234823" crc="353becc5" md5="0c21eeed49f7eaa4ad68948626639b03" sha1="4017229d3201a124fd6e3279e5636a22f1db2ed4"/>
+		<rom name="Gold Rush! (World) (Disk 1A) (WozADay).woz" size="234823" crc="353becc5" md5="0c21eeed49f7eaa4ad68948626639b03" sha1="4017229d3201a124fd6e3279e5636a22f1db2ed4"/>
 		<url>https://retroachievements.org/game/18959/hashes</url>
 		<hash>0C21EEED49F7EAA4AD68948626639B03</hash>
 	</game>
@@ -450,7 +450,7 @@
 		<category>Retail</category>
 		<description>Gold Rush! (World) (Disk 1B) (WozADay)</description>
 		<release name="Gold Rush! (World) (Disk 1B) (WozADay)" region="World"/>
-		<rom name="Gold Rush! (World) (Disk 1B) (WozADay).woz" merge="Gold Rush! (World) (Disk 1B) (WozADay).woz" size="234823" crc="65579b17" md5="d09912eede9424eafc4ad463fee93eba" sha1="719361e313bdbec9750d905cc9e6df1fcd0b4309"/>
+		<rom name="Gold Rush! (World) (Disk 1B) (WozADay).woz" size="234823" crc="65579b17" md5="d09912eede9424eafc4ad463fee93eba" sha1="719361e313bdbec9750d905cc9e6df1fcd0b4309"/>
 		<url>https://retroachievements.org/game/18959/hashes</url>
 		<hash>D09912EEDE9424EAFC4AD463FEE93EBA</hash>
 	</game>
@@ -458,7 +458,7 @@
 		<category>Retail</category>
 		<description>Gold Rush! (World) (Disk 2A) (WozADay)</description>
 		<release name="Gold Rush! (World) (Disk 2A) (WozADay)" region="World"/>
-		<rom name="Gold Rush! (World) (Disk 2A) (WozADay).woz" merge="Gold Rush! (World) (Disk 2A) (WozADay).woz" size="234823" crc="402a1809" md5="bdcfed7a8d7d3146cf061a45fa2c84d8" sha1="e7bfc6707a0dc06a3a056e65ff97e98ba5c832f6"/>
+		<rom name="Gold Rush! (World) (Disk 2A) (WozADay).woz" size="234823" crc="402a1809" md5="bdcfed7a8d7d3146cf061a45fa2c84d8" sha1="e7bfc6707a0dc06a3a056e65ff97e98ba5c832f6"/>
 		<url>https://retroachievements.org/game/18959/hashes</url>
 		<hash>BDCFED7A8D7D3146CF061A45FA2C84D8</hash>
 	</game>
@@ -466,7 +466,7 @@
 		<category>Retail</category>
 		<description>Gold Rush! (World) (Disk 2B) (WozADay)</description>
 		<release name="Gold Rush! (World) (Disk 2B) (WozADay)" region="World"/>
-		<rom name="Gold Rush! (World) (Disk 2B) (WozADay).woz" merge="Gold Rush! (World) (Disk 2B) (WozADay).woz" size="234823" crc="00c89187" md5="53ce40c404777fb07d6797b27a13d81b" sha1="851bd9fba6b918fa53db274f02325d8e3940609b"/>
+		<rom name="Gold Rush! (World) (Disk 2B) (WozADay).woz" size="234823" crc="00c89187" md5="53ce40c404777fb07d6797b27a13d81b" sha1="851bd9fba6b918fa53db274f02325d8e3940609b"/>
 		<url>https://retroachievements.org/game/18959/hashes</url>
 		<hash>53CE40C404777FB07D6797B27A13D81B</hash>
 	</game>
@@ -474,7 +474,7 @@
 		<category>Retail</category>
 		<description>Gold Rush! (World) (Disk 3A) (WozADay)</description>
 		<release name="Gold Rush! (World) (Disk 3A) (WozADay)" region="World"/>
-		<rom name="Gold Rush! (World) (Disk 3A) (WozADay).woz" merge="Gold Rush! (World) (Disk 3A) (WozADay).woz" size="234823" crc="b1f9a9cf" md5="cc578760f16cf582da130725016c4244" sha1="a3c335e3dcdcaa46a0a98f709f64fbdef4cfaf0b"/>
+		<rom name="Gold Rush! (World) (Disk 3A) (WozADay).woz" size="234823" crc="b1f9a9cf" md5="cc578760f16cf582da130725016c4244" sha1="a3c335e3dcdcaa46a0a98f709f64fbdef4cfaf0b"/>
 		<url>https://retroachievements.org/game/18959/hashes</url>
 		<hash>CC578760F16CF582DA130725016C4244</hash>
 	</game>
@@ -482,7 +482,7 @@
 		<category>Retail</category>
 		<description>Gold Rush! (World) (Disk 3B) (WozADay)</description>
 		<release name="Gold Rush! (World) (Disk 3B) (WozADay)" region="World"/>
-		<rom name="Gold Rush! (World) (Disk 3B) (WozADay).woz" merge="Gold Rush! (World) (Disk 3B) (WozADay).woz" size="234823" crc="846d5ff7" md5="c0f155abf5cab2b5f3d3258d69f63547" sha1="11d4faa4492c0bb7fe6bc444b4ff7426aec449c3"/>
+		<rom name="Gold Rush! (World) (Disk 3B) (WozADay).woz" size="234823" crc="846d5ff7" md5="c0f155abf5cab2b5f3d3258d69f63547" sha1="11d4faa4492c0bb7fe6bc444b4ff7426aec449c3"/>
 		<url>https://retroachievements.org/game/18959/hashes</url>
 		<hash>C0F155ABF5CAB2B5F3D3258D69F63547</hash>
 	</game>
@@ -490,7 +490,7 @@
 		<category>Retail</category>
 		<description>Gold Rush! (World) (Disk 4A) (WozADay)</description>
 		<release name="Gold Rush! (World) (Disk 4A) (WozADay)" region="World"/>
-		<rom name="Gold Rush! (World) (Disk 4A) (WozADay).woz" merge="Gold Rush! (World) (Disk 4A) (WozADay).woz" size="234823" crc="aa7a4cd6" md5="7b523fd100e14f721c9cdc548ebd48bb" sha1="c6487a07ca5841aafcaa3674dfe3a7e695b66fc3"/>
+		<rom name="Gold Rush! (World) (Disk 4A) (WozADay).woz" size="234823" crc="aa7a4cd6" md5="7b523fd100e14f721c9cdc548ebd48bb" sha1="c6487a07ca5841aafcaa3674dfe3a7e695b66fc3"/>
 		<url>https://retroachievements.org/game/18959/hashes</url>
 		<hash>7B523FD100E14F721C9CDC548EBD48BB</hash>
 	</game>
@@ -498,7 +498,7 @@
 		<category>Retail</category>
 		<description>Gold Rush! (World) (Disk 4B) (WozADay)</description>
 		<release name="Gold Rush! (World) (Disk 4B) (WozADay)" region="World"/>
-		<rom name="Gold Rush! (World) (Disk 4B) (WozADay).woz" merge="Gold Rush! (World) (Disk 4B) (WozADay).woz" size="234823" crc="98a27bfc" md5="5afa32799f94e53cb3825d49adff8a45" sha1="bb7bb6bcf6fd0e25007ebd179c2cc9f8b321d4b7"/>
+		<rom name="Gold Rush! (World) (Disk 4B) (WozADay).woz" size="234823" crc="98a27bfc" md5="5afa32799f94e53cb3825d49adff8a45" sha1="bb7bb6bcf6fd0e25007ebd179c2cc9f8b321d4b7"/>
 		<url>https://retroachievements.org/game/18959/hashes</url>
 		<hash>5AFA32799F94E53CB3825D49ADFF8A45</hash>
 	</game>
@@ -506,7 +506,7 @@
 		<category>Retail</category>
 		<description>Gold Rush! (World) (Disk 5A) (WozADay)</description>
 		<release name="Gold Rush! (World) (Disk 5A) (WozADay)" region="World"/>
-		<rom name="Gold Rush! (World) (Disk 5A) (WozADay).woz" merge="Gold Rush! (World) (Disk 5A) (WozADay).woz" size="234823" crc="52f1b57d" md5="434a9d62a1577e21d362ba56d6445f9f" sha1="70a2741ef18489ccb8b9e219e9d7a2092a7ab02d"/>
+		<rom name="Gold Rush! (World) (Disk 5A) (WozADay).woz" size="234823" crc="52f1b57d" md5="434a9d62a1577e21d362ba56d6445f9f" sha1="70a2741ef18489ccb8b9e219e9d7a2092a7ab02d"/>
 		<url>https://retroachievements.org/game/18959/hashes</url>
 		<hash>434A9D62A1577E21D362BA56D6445F9F</hash>
 	</game>
@@ -514,7 +514,7 @@
 		<category>Retail</category>
 		<description>Gold Rush! (World) (Disk 5B) (WozADay)</description>
 		<release name="Gold Rush! (World) (Disk 5B) (WozADay)" region="World"/>
-		<rom name="Gold Rush! (World) (Disk 5B) (WozADay).woz" merge="Gold Rush! (World) (Disk 5B) (WozADay).woz" size="234823" crc="5c286071" md5="e7f0f9f6f27fe2ee535a8a187fa5994b" sha1="fbfa17119806934af718514aa6622861c2d7b16c"/>
+		<rom name="Gold Rush! (World) (Disk 5B) (WozADay).woz" size="234823" crc="5c286071" md5="e7f0f9f6f27fe2ee535a8a187fa5994b" sha1="fbfa17119806934af718514aa6622861c2d7b16c"/>
 		<url>https://retroachievements.org/game/18959/hashes</url>
 		<hash>E7F0F9F6F27FE2EE535A8A187FA5994B</hash>
 	</game>
@@ -522,7 +522,7 @@
 		<category>Retail</category>
 		<description>Gold Rush! (World) (Disk 6A) (WozADay)</description>
 		<release name="Gold Rush! (World) (Disk 6A) (WozADay)" region="World"/>
-		<rom name="Gold Rush! (World) (Disk 6A) (WozADay).woz" merge="Gold Rush! (World) (Disk 6A) (WozADay).woz" size="234823" crc="3308207f" md5="af9f48002cf9412fb346912669a55de6" sha1="41aff7efcf1775f675ada82eccb89fe7fc19e981"/>
+		<rom name="Gold Rush! (World) (Disk 6A) (WozADay).woz" size="234823" crc="3308207f" md5="af9f48002cf9412fb346912669a55de6" sha1="41aff7efcf1775f675ada82eccb89fe7fc19e981"/>
 		<url>https://retroachievements.org/game/18959/hashes</url>
 		<hash>AF9F48002CF9412FB346912669A55DE6</hash>
 	</game>
@@ -530,7 +530,7 @@
 		<category>Retail</category>
 		<description>Gold Rush! (World) (Disk 6B) (WozADay)</description>
 		<release name="Gold Rush! (World) (Disk 6B) (WozADay)" region="World"/>
-		<rom name="Gold Rush! (World) (Disk 6B) (WozADay).woz" merge="Gold Rush! (World) (Disk 6B) (WozADay).woz" size="234823" crc="51bd3df5" md5="ca650f407d3bd06d400c10342d3853bb" sha1="124f7cba9bef89e63674209ff44f30207f405ade"/>
+		<rom name="Gold Rush! (World) (Disk 6B) (WozADay).woz" size="234823" crc="51bd3df5" md5="ca650f407d3bd06d400c10342d3853bb" sha1="124f7cba9bef89e63674209ff44f30207f405ade"/>
 		<url>https://retroachievements.org/game/18959/hashes</url>
 		<hash>CA650F407D3BD06D400C10342D3853BB</hash>
 	</game>
@@ -538,7 +538,7 @@
 		<category>Retail</category>
 		<description>Gold Rush! (World) (Disk 7A) (WozADay)</description>
 		<release name="Gold Rush! (World) (Disk 7A) (WozADay)" region="World"/>
-		<rom name="Gold Rush! (World) (Disk 7A) (WozADay).woz" merge="Gold Rush! (World) (Disk 7A) (WozADay).woz" size="234823" crc="ba529141" md5="bb76158b741ed7d5e9c403858149ecbe" sha1="eaadffc83064fc9f709f79fbb47a63569b96e8d1"/>
+		<rom name="Gold Rush! (World) (Disk 7A) (WozADay).woz" size="234823" crc="ba529141" md5="bb76158b741ed7d5e9c403858149ecbe" sha1="eaadffc83064fc9f709f79fbb47a63569b96e8d1"/>
 		<url>https://retroachievements.org/game/18959/hashes</url>
 		<hash>BB76158B741ED7D5E9C403858149ECBE</hash>
 	</game>
@@ -546,7 +546,7 @@
 		<category>Retail</category>
 		<description>Gold Rush! (World) (Disk 7B) (WozADay)</description>
 		<release name="Gold Rush! (World) (Disk 7B) (WozADay)" region="World"/>
-		<rom name="Gold Rush! (World) (Disk 7B) (WozADay).woz" merge="Gold Rush! (World) (Disk 7B) (WozADay).woz" size="234823" crc="a985bb4d" md5="0ed1ef9c085aca863340ea948449e847" sha1="c10dbcc84e67fccd627a17a0e7a1f86a38463162"/>
+		<rom name="Gold Rush! (World) (Disk 7B) (WozADay).woz" size="234823" crc="a985bb4d" md5="0ed1ef9c085aca863340ea948449e847" sha1="c10dbcc84e67fccd627a17a0e7a1f86a38463162"/>
 		<url>https://retroachievements.org/game/18959/hashes</url>
 		<hash>0ED1EF9C085ACA863340EA948449E847</hash>
 	</game>
@@ -554,7 +554,7 @@
 		<category>Retail</category>
 		<description>Gold Rush! (World) (Disk 8A) (WozADay)</description>
 		<release name="Gold Rush! (World) (Disk 8A) (WozADay)" region="World"/>
-		<rom name="Gold Rush! (World) (Disk 8A) (WozADay).woz" merge="Gold Rush! (World) (Disk 8A) (WozADay).woz" size="234823" crc="0d6cd2e5" md5="18df775193b32eab624b8bf1cbc39e61" sha1="5fd0a83ea530e010a34353f3a663887aa16c3964"/>
+		<rom name="Gold Rush! (World) (Disk 8A) (WozADay).woz" size="234823" crc="0d6cd2e5" md5="18df775193b32eab624b8bf1cbc39e61" sha1="5fd0a83ea530e010a34353f3a663887aa16c3964"/>
 		<url>https://retroachievements.org/game/18959/hashes</url>
 		<hash>18DF775193B32EAB624B8BF1CBC39E61</hash>
 	</game>
@@ -562,7 +562,7 @@
 		<category>Retail</category>
 		<description>Gold Rush! (World) (Disk 8B) (WozADay)</description>
 		<release name="Gold Rush! (World) (Disk 8B) (WozADay)" region="World"/>
-		<rom name="Gold Rush! (World) (Disk 8B) (WozADay).woz" merge="Gold Rush! (World) (Disk 8B) (WozADay).woz" size="234823" crc="9894e285" md5="9b9a67399b2cb7ff3dd4e9d2270a2321" sha1="63a441f0bee1b130b7883e2bbfc20882884c40ef"/>
+		<rom name="Gold Rush! (World) (Disk 8B) (WozADay).woz" size="234823" crc="9894e285" md5="9b9a67399b2cb7ff3dd4e9d2270a2321" sha1="63a441f0bee1b130b7883e2bbfc20882884c40ef"/>
 		<url>https://retroachievements.org/game/18959/hashes</url>
 		<hash>9B9A67399B2CB7FF3DD4E9D2270A2321</hash>
 	</game>
