@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation</name>
 		<description>Sony Playstation</description>
 		<category>1G1R</category>
-		<version>20250620</version>
-		<date>20 June 2025</date>
+		<version>20250621</version>
+		<date>21 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -1928,7 +1928,6 @@
 	<game name="Retail/Captain Commando (Japan)">
 		<category></category>
 		<description>Captain Commando (Japan)</description>
-		<release name="Captain Commando (Japan)" region="USA"/>
 		<rom name="Captain Commando (Japan).cue" size="90" crc="bf1712d6" md5="ef46feabbf7e0a7b1d76601ddc909cd4" sha1="5e1e81a280d095e0494e2c9980e8b8d02b66bf99"/>
 		<rom name="Captain Commando (Japan).bin" size="658153104" crc="8e345234" md5="6c1c1ea5b222e0c08fe208517d51af2f" sha1="9fff49e4ed813054daa997d47d8284fe95c46bf3"/>
 		<url>https://retroachievements.org/game/18998/hashes</url>
@@ -5649,7 +5648,6 @@
 	<game name="Retail/LEGO Rock Raiders (USA)">
 		<category></category>
 		<description>LEGO Rock Raiders (USA)</description>
-		<release name="LEGO Rock Raiders (USA)" region="USA"/>
 		<rom name="LEGO Rock Raiders (USA).cue" size="1280" crc="bf82b258" md5="04264e388659a7ba1dcc96d47aba0f8d" sha1="fb9b74c5beddc3d81fd8d521b68a693f277d7a24"/>
 		<rom name="LEGO Rock Raiders (USA) (Track 01).bin" size="382371696" crc="882d6f1d" md5="52585e57167913722b42a5535e08c073" sha1="54da67bc0827b1fa4304f50f9d6a3e744bd4cd7c"/>
 		<rom name="LEGO Rock Raiders (USA) (Track 02).bin" size="24775968" crc="7b715a33" md5="97d74646b59fdefb04aedefbc26a81c4" sha1="60e2d4cf2fc718b87fa74cc047aea2242d72310e"/>
@@ -7679,7 +7677,6 @@
 	<game name="Retail/Pandemonium 2 (USA)">
 		<category></category>
 		<description>Pandemonium 2 (USA)</description>
-		<release name="Pandemonium 2 (USA)" region="USA"/>
 		<rom name="Pandemonium 2 (USA).cue" size="85" crc="5516e73d" md5="97a5cb68a6b51039b5f939e1937550c3" sha1="e72c207c71df468c6a901615016b96c5abf96a81"/>
 		<rom name="Pandemonium 2 (USA).bin" size="341903184" crc="d2bd3672" md5="d78e8d2ac522b91693ad248f7dda5551" sha1="18b38e14d21c8c04a51ebde84ff0ced2938e2180"/>
 		<url>https://retroachievements.org/game/16309/hashes</url>

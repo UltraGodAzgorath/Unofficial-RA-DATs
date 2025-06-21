@@ -5,18 +5,18 @@
 		<name>RA - Colecovision</name>
 		<description>Colecovision</description>
 		<category>1G1R</category>
-		<version>20250619</version>
-		<date>19 June 2025</date>
+		<version>20250621</version>
+		<date>21 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/44/games</url>
 		<titlecount>37</titlecount>
 		<hashcount>39</hashcount>
 	</header>
-	<game name="Homebrew/Dragon's Lair (World) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Homebrew/Dragon's Lair (World) (Aftermarket) (Unl)">
 		<category></category>
-		<description>Dragon's Lair (World) (Aftermarket) (Unl) (Homebrew)</description>
-		<rom name="Dragon's Lair (World) (Aftermarket) (Unl) (Homebrew).col" size="262144" crc="12ceee08" md5="3568ed427a9e33de164b44402103ae64" sha1="e74f80fef5276ee6d58b2ed6ee8ebeec668db324"/>
+		<description>Dragon's Lair (World) (Aftermarket) (Unl)</description>
+		<rom name="Dragon's Lair (World) (Aftermarket) (Unl).col" size="262144" crc="12ceee08" md5="3568ed427a9e33de164b44402103ae64" sha1="e74f80fef5276ee6d58b2ed6ee8ebeec668db324"/>
 		<url>https://retroachievements.org/game/33722/hashes</url>
 		<hash>3568ed427a9e33de164b44402103ae64</hash>
 	</game>

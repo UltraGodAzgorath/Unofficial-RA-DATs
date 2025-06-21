@@ -5,8 +5,8 @@
 		<name>RA - NEC TurboGrafx-CD</name>
 		<description>NEC TurboGrafx-CD</description>
 		<category>1G1R</category>
-		<version>20250620</version>
-		<date>20 June 2025</date>
+		<version>20250621</version>
+		<date>21 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/76/games</url>
@@ -39,7 +39,6 @@
 	<game name="Homebrew/Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Homebrew)">
 		<category></category>
 		<description>Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Homebrew)</description>
-		<release name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Homebrew)" region="World"/>
 		<rom name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Homebrew).cue" size="825" crc="ceb16eac" md5="f605e0cb9d22540334fe2026c4b0954e" sha1="13788452c7039332804ca41d6d9f819ad14df06f"/>
 		<rom name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Homebrew).iso" size="530432" crc="f3e2af75" md5="6a49370f8a93d06937b3fb92512ae413" sha1="fefe08ca8f3723b45e099533f82d723b87ec06a5"/>
 		<rom name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft) (Homebrew) (Track 1).wav" size="35910188" crc="8c3d4001" md5="d3d558be9c624df1817f4f47feecf5cf" sha1="e38be5267dbde66ee3bd6ab14717fe08d4a919e4"/>
@@ -54,7 +53,6 @@
 	<game name="Homebrew/Xump 2 - Back To Space (USA) (v1.0) (Aftermarket) (Retroguru) (Homebrew)">
 		<category></category>
 		<description>Xump 2 - Back To Space (USA) (v1.0) (Aftermarket) (Retroguru) (Homebrew)</description>
-		<release name="Xump 2 - Back To Space (USA) (v1.0) (Aftermarket) (Retroguru) (Homebrew)" region="World"/>
 		<rom name="Xump 2 - Back To Space (USA) (v1.0) (Aftermarket) (Retroguru) (Homebrew).cue" size="1102" crc="156d9aa3" md5="bff751b6a16b31d08a1c11ae061a33ae" sha1="b42088e0655352d8bed207e1fdefeaf35551db18"/>
 		<rom name="Xump 2 - Back To Space (USA) (v1.0) (Aftermarket) (Retroguru) (Homebrew).iso" size="1067008" crc="f6d559ce" md5="a2117631a7795aaadc068133809f05ea" sha1="04ef982af01ad4e5ba4ee41c91b8a3f36052da63"/>
 		<rom name="Xump 2 - Back To Space (USA) (v1.0) (Aftermarket) (Retroguru) (Homebrew) (InGame 1).wav" size="47416364" crc="deb5da89" md5="b280a3eed1923697b4ecda4ac97cb0db" sha1="2b7a09f36952cc5a08b772456da5ba3ed738e101"/>
@@ -71,7 +69,6 @@
 	<game name="Unlicensed/Hi-Leg Fantasy (Japan) (Unl)">
 		<category></category>
 		<description>Hi-Leg Fantasy (Japan) (Unl)</description>
-		<release name="Hi-Leg Fantasy (Japan) (Unl)" region="Japan"/>
 		<rom name="Hi-Leg Fantasy (Japan) (Unl).cue" size="1581" crc="e5857401" md5="280a5235c6bfbc71ada141c577f3fb91" sha1="5326c8a4044caf0639f6c090ef48a5cc0ee0150f"/>
 		<rom name="Hi-Leg Fantasy (Japan) (Unl) (Track 01).bin" size="9678480" crc="f7bb332c" md5="ff311fc71f0fb0379436d82fd618a9d0" sha1="c9c862eab7fcb1e0edeaae566b3ec79f65897028"/>
 		<rom name="Hi-Leg Fantasy (Japan) (Unl) (Track 02).bin" size="20490624" crc="2f6aa10f" md5="671ef580dd0b85ffb8fa0ff553d36ab4" sha1="532a66c9d5bd053144b4e18b492e92f1fe7764ab"/>
@@ -93,7 +90,6 @@
 	<game name="Retail/Advanced V.G. (Japan)">
 		<category></category>
 		<description>Advanced V.G. (Japan)</description>
-		<release name="Advanced V.G. (Japan)" region="Japan"/>
 		<rom name="Advanced V.G. (Japan).cue" size="3543" crc="08fb23e6" md5="39b67de686bdea7f25cb17bb5dd59bf3" sha1="e957bd617790e9942879f5f866778b85cefeea12"/>
 		<rom name="Advanced V.G. (Japan) (Track 01).bin" size="15680784" crc="72e44eb0" md5="ae8f132c707a4f109d3ff12a33fbb6d6" sha1="00bdb89d6796e38a659e7c42d020d8e1846e2fd3"/>
 		<rom name="Advanced V.G. (Japan) (Track 02).bin" size="59446800" crc="a3b2b524" md5="c7a2efa1eebecd0c2645d3ecb6f3ca20" sha1="4896c4d0d3892553b090c6ebdc2ac79326c50624"/>
@@ -139,7 +135,6 @@
 	<game name="Retail/Ai Chou Aniki (Japan) (SADS, SAES)">
 		<category></category>
 		<description>Ai Chou Aniki (Japan) (SADS, SAES)</description>
-		<release name="Ai Chou Aniki (Japan) (SADS, SAES)" region="Japan"/>
 		<rom name="Ai Chou Aniki (Japan) (SADS, SAES).cue" size="2305" crc="694a0c77" md5="c62e00a58c31144362f673a973e16b03" sha1="33077f8f395f4b6fea4f33b42f63878d453dd75e"/>
 		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Ai Chou Aniki (Japan) (SADS, SAES) (Track 02).bin" size="5821200" crc="35689ce2" md5="bc9a7f74ebaafecca8828724c7ac4370" sha1="40891269d184f4527fcb6cf7e18313189f5fdd5d"/>
@@ -169,7 +164,6 @@
 	<game name="Retail/Akumajou Dracula X - Chi no Rondo (Japan)">
 		<category></category>
 		<description>Akumajou Dracula X - Chi no Rondo (Japan)</description>
-		<release name="Akumajou Dracula X - Chi no Rondo (Japan)" region="Japan"/>
 		<rom name="Akumajou Dracula X - Chi no Rondo (Japan).cue" size="2565" crc="521384d0" md5="427a232865bd56d9e41f54914b59a9a7" sha1="ebb1350121815493f7179556ca81b8a904a4b05f"/>
 		<rom name="Akumajou Dracula X - Chi no Rondo (Japan) (Track 01).bin" size="8620080" crc="edf3d17e" md5="2d0a0010d6f56be991d6ffe1a7e6e5df" sha1="db237c0efed295e8c2b92707de56c30d3c765047"/>
 		<rom name="Akumajou Dracula X - Chi no Rondo (Japan) (Track 02).bin" size="24399648" crc="c681f9da" md5="4cb1cb4858b88122fe4ea413050fd012" sha1="c9b092fb15af2a7436f425bf29ed5d948f9c9640"/>
@@ -200,7 +194,6 @@
 	<game name="Retail/Ane-san (Japan)">
 		<category></category>
 		<description>Ane-san (Japan)</description>
-		<release name="Ane-san (Japan)" region="Japan"/>
 		<rom name="Ane-san (Japan).cue" size="2597" crc="2d2fb7a9" md5="8d461d9a22036b71c0d572f53378eeb4" sha1="0f6847247d818e4599cea411c312a3349f233786"/>
 		<rom name="Ane-san (Japan) (Track 01).bin" size="5637744" crc="06aa732e" md5="3ce4111c3d3aa5849fe7e93bfdc22899" sha1="20645341b83187ac2c65b50767a76d2f65ccf290"/>
 		<rom name="Ane-san (Japan) (Track 02).bin" size="39497136" crc="49071ded" md5="6d3c8b85c433f7758a86a807c3afba59" sha1="256331ad0dd3e71308c3229726e719fd880c153f"/>
@@ -238,7 +231,6 @@
 	<game name="Retail/Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan)">
 		<category></category>
 		<description>Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan)</description>
-		<release name="Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan)" region="Japan"/>
 		<rom name="Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan).cue" size="1782" crc="de6a2ae7" md5="6c99f3b313864669d3931034244b75f0" sha1="6fbd581406dcf697a51337b0926875580b4c547a"/>
 		<rom name="Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan) (Track 01).bin" size="7916832" crc="22144d0f" md5="ad1067d0bcc2ffeea540d3b985c51188" sha1="3b472f5e80bbf8259e09f8e4f547567bddb02490"/>
 		<rom name="Battle Shanghai - Dragon's Eye ~ Shanghai III - Dragon's Eye (Japan) (Track 02).bin" size="4379424" crc="74475bf0" md5="ebc7f7753ed51839b76a93a7d6d76e91" sha1="aec0bd8ce5e44149180731da3df7a551ee28550e"/>
@@ -259,7 +251,6 @@
 	<game name="Retail/Bazar de Gozarre no Game de Gozarre (Japan)">
 		<category></category>
 		<description>Bazar de Gozarre no Game de Gozarre (Japan)</description>
-		<release name="Bazar de Gozarre no Game de Gozarre (Japan)" region="Japan"/>
 		<rom name="Bazar de Gozarre no Game de Gozarre (Japan).cue" size="3294" crc="1d21fd4f" md5="59b57966710ee91f17da6931ade4a7e1" sha1="1316d440c9a6aba05e7560e5f5b1f8152f9a7cc5"/>
 		<rom name="Bazar de Gozarre no Game de Gozarre (Japan) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Bazar de Gozarre no Game de Gozarre (Japan) (Track 02).bin" size="4238304" crc="b94ed469" md5="0d1cf7f122311978fcda66ce2fbda964" sha1="6f3405324cc47b46c562603cb77ac0eb5d4a5b52"/>
@@ -296,7 +287,6 @@
 	<game name="Retail/Beyond Shadowgate (USA)">
 		<category></category>
 		<description>Beyond Shadowgate (USA)</description>
-		<release name="Beyond Shadowgate (USA)" region="USA"/>
 		<rom name="Beyond Shadowgate (USA).cue" size="4253" crc="eed69b57" md5="6e982cf5753e27bf2b937be8bf3d35a9" sha1="f4b2f4cf19074916f3c52933fc9d18cd13c79223"/>
 		<rom name="Beyond Shadowgate (USA) (Track 01).bin" size="2573088" crc="8b250736" md5="c66fd0d378c0c3b0f8a342f4a2150330" sha1="f0513a548aeb57804d390169296daa9a4834a924"/>
 		<rom name="Beyond Shadowgate (USA) (Track 02).bin" size="80857056" crc="e50fd945" md5="339e62f107dcea811356fb5b567d4cca" sha1="adba598b83038e38de4e598bb3fd78619e1e4e6b"/>
@@ -341,7 +331,6 @@
 	<game name="Retail/Bishoujo Senshi Sailor Moon (Japan)">
 		<category></category>
 		<description>Bishoujo Senshi Sailor Moon (Japan)</description>
-		<release name="Bishoujo Senshi Sailor Moon (Japan)" region="Japan"/>
 		<rom name="Bishoujo Senshi Sailor Moon (Japan).cue" size="2619" crc="0542f068" md5="a75f79125e4e30f19fcdc61ad4cd727f" sha1="e24d584d81aba54e2aeb55feb71aa2ee069bb053"/>
 		<rom name="Bishoujo Senshi Sailor Moon (Japan) (Track 01).bin" size="12585552" crc="82afb4db" md5="e345e7faa22f0278ac11a8ec278dff7b" sha1="4336ad49784b201a516997616b4da753a7dc6c5b"/>
 		<rom name="Bishoujo Senshi Sailor Moon (Japan) (Track 02).bin" size="7561680" crc="fa79dc83" md5="c8d40a20a360a91f00bc8d539a0f05c3" sha1="03d75d832d153d3cbfb812e974936eaeffe37909"/>
@@ -373,7 +362,6 @@
 	<game name="Retail/Bishoujo Senshi Sailor Moon (Japan) (En) (v1.1)">
 		<category></category>
 		<description>Bishoujo Senshi Sailor Moon (Japan) (En) (v1.1)</description>
-		<release name="Bishoujo Senshi Sailor Moon (Japan) (En) (v1.1)" region="English"/>
 		<rom name="Bishoujo Senshi Sailor Moon (Japan) (En) (v1.1).cue" size="1029" crc="268fb6c9" md5="4e237b51c712518bda5871bab3d7a883" sha1="f5c7a0155cf96a4ff19f953d9a612bbd541a3d85"/>
 		<rom name="Bishoujo Senshi Sailor Moon (Japan) (En) (v1.1).bin" size="403066944" crc="77e48642" md5="1a9b77b6881bd4708ccca5fe32de331f" sha1="de58d5cdb18941109bfe858c04b0ca571105086a"/>
 		<url>https://retroachievements.org/game/18279/hashes</url>
@@ -383,7 +371,6 @@
 	<game name="Retail/Brandish (Japan)">
 		<category></category>
 		<description>Brandish (Japan)</description>
-		<release name="Brandish (Japan)" region="Japan"/>
 		<rom name="Brandish (Japan).cue" size="2918" crc="8e801ad3" md5="5ab4c2f7e1999b722d778b43a6e200f5" sha1="40cee51a5906df481d8fc903ccf2348655a3ccac"/>
 		<rom name="Brandish (Japan) (Track 01).bin" size="7914480" crc="3c73890d" md5="d80510a2348091411a158397e14a6fc2" sha1="334c39e04eecd1db16868aaa63dcfa5146eac073"/>
 		<rom name="Brandish (Japan) (Track 02).bin" size="16078272" crc="375adfb5" md5="595d323fa3bfa073a8a006acb06757f1" sha1="2bbf830f88a728b1062b483f85e46f2dc7dea322"/>
@@ -424,7 +411,6 @@
 	<game name="Retail/Buster Bros. (USA)">
 		<category></category>
 		<description>Buster Bros. (USA)</description>
-		<release name="Buster Bros. (USA)" region="USA"/>
 		<rom name="Buster Bros. (USA).cue" size="2262" crc="611eda79" md5="a958f232f77503e63c07df7c06d16e54" sha1="1353074ea838c9f7a12a4bbc4d182c9e474d0804"/>
 		<rom name="Buster Bros. (USA) (Track 01).bin" size="7914480" crc="16841024" md5="c7ec65c2c430ec5e01ea1e781b5fb933" sha1="2e5a9235aaa4c04baefb8a5104fa2c2977869191"/>
 		<rom name="Buster Bros. (USA) (Track 02).bin" size="6143424" crc="035dd9b3" md5="a078c0c9e5cc0536670ce503ca033d25" sha1="49a095b1b013254866be16eef76b83cd47b0878b"/>
@@ -457,7 +443,6 @@
 	<game name="Retail/Chou Aniki (Japan) (FAAT, FACT)">
 		<category></category>
 		<description>Chou Aniki (Japan) (FAAT, FACT)</description>
-		<release name="Chou Aniki (Japan) (FAAT, FACT)" region="Japan"/>
 		<rom name="Chou Aniki (Japan) (FAAT, FACT).cue" size="2935" crc="25ab985f" md5="d427311936b2a48f88dbd54cbcad636a" sha1="0ff9b74729957b2b210491b7c973098cf4541a19"/>
 		<rom name="Chou Aniki (Japan) (FAAT, FACT) (Track 01).bin" size="8090880" crc="81d96e54" md5="3c465815f77d7cf5066862609e75e397" sha1="a28a22d4e31b74623ec332e0165a88c21db594d5"/>
 		<rom name="Chou Aniki (Japan) (FAAT, FACT) (Track 02).bin" size="7785120" crc="8eb7cfd6" md5="77e15021e9e7d0c6b007aa2a62a43b3e" sha1="78faa63bf5acbb5c6d921f31dbcba217b42ba7f3"/>
@@ -494,7 +479,6 @@
 	<game name="Retail/Chou Jikuu Yousai Macross 2036 (Japan)">
 		<category></category>
 		<description>Chou Jikuu Yousai Macross 2036 (Japan)</description>
-		<release name="Chou Jikuu Yousai Macross 2036 (Japan)" region="Japan"/>
 		<rom name="Chou Jikuu Yousai Macross 2036 (Japan).cue" size="3975" crc="8a4c3e28" md5="ec5c52970db184e7d5831c20ed39ab30" sha1="b413b6fb68d18f236bd9c0effd28817c4635e75f"/>
 		<rom name="Chou Jikuu Yousai Macross 2036 (Japan) (Track 01).bin" size="7914480" crc="c7cab4c2" md5="8bada8b83d8c2be7e722a5862fa2cc3a" sha1="70bbea3e66ca23bfef0787834dbea9bb0b70e01c"/>
 		<rom name="Chou Jikuu Yousai Macross 2036 (Japan) (Track 02).bin" size="12173952" crc="88c16b9e" md5="226c8c6745c99d3dc8b2d1efcbc59c44" sha1="1f98e2c507dcf1a1cc86c3a1496d1a03d739ee3d"/>
@@ -538,7 +522,6 @@
 	<game name="Retail/Chou Jikuu Yousai Macross - Eien no Love Song (Japan)">
 		<category></category>
 		<description>Chou Jikuu Yousai Macross - Eien no Love Song (Japan)</description>
-		<release name="Chou Jikuu Yousai Macross - Eien no Love Song (Japan)" region="Japan"/>
 		<rom name="Chou Jikuu Yousai Macross - Eien no Love Song (Japan).cue" size="5824" crc="f60f840d" md5="9f2e2e1590195b83a6154fc18ba5ee9a" sha1="b637dcec81961a2588923ccaac026fdafaed3173"/>
 		<rom name="Chou Jikuu Yousai Macross - Eien no Love Song (Japan) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Chou Jikuu Yousai Macross - Eien no Love Song (Japan) (Track 02).bin" size="6046992" crc="45e47313" md5="88d131e08dfe98bc3c06e5a534b1056e" sha1="12f5937b6608c850de3e68f426bd1fa51f83e49a"/>
@@ -593,7 +576,6 @@
 	<game name="Retail/Cosmic Fantasy 2 (USA)">
 		<category></category>
 		<description>Cosmic Fantasy 2 (USA)</description>
-		<release name="Cosmic Fantasy 2 (USA)" region="USA"/>
 		<rom name="Cosmic Fantasy 2 (USA).cue" size="11660" crc="cc257aa0" md5="12c6579fa5ad516893e9ddca506daf1a" sha1="17b8d7af3b3b1c691cd5c3bce6eb58c685a255d8"/>
 		<rom name="Cosmic Fantasy 2 (USA) (Track 01).bin" size="7914480" crc="b84be20d" md5="721f21767788eb1a81705ebf2ad27398" sha1="94f3bdfb229a736a7897e4080e3caf069e576d2b"/>
 		<rom name="Cosmic Fantasy 2 (USA) (Track 02).bin" size="8199072" crc="8547a932" md5="80b96f99508df4b6f271a36180e3abce" sha1="c7b266e513a186160b5bb74db1aac602e6fd4791"/>
@@ -700,7 +682,6 @@
 	<game name="Retail/Cosmic Fantasy - Bouken Shounen Yuu (Japan)">
 		<category></category>
 		<description>Cosmic Fantasy - Bouken Shounen Yuu (Japan)</description>
-		<release name="Cosmic Fantasy - Bouken Shounen Yuu (Japan)" region="Japan"/>
 		<rom name="Cosmic Fantasy - Bouken Shounen Yuu (Japan).cue" size="11464" crc="c53df0b9" md5="f79003716a6bc53ffe320674aa52294e" sha1="0002d3938f85ddf04bb3dc23906eb1429365fda3"/>
 		<rom name="Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Cosmic Fantasy - Bouken Shounen Yuu (Japan) (Track 02).bin" size="20210736" crc="46885bfa" md5="4aafcc88b57ff3ef68e78d3cc6a34935" sha1="5c1e06e5207627e91038bf1795ac1915464c5e34"/>
@@ -808,7 +789,6 @@
 	<game name="Retail/Fantastic Night Dreams - Cotton (USA)">
 		<category></category>
 		<description>Fantastic Night Dreams - Cotton (USA)</description>
-		<release name="Fantastic Night Dreams - Cotton (USA)" region="USA"/>
 		<rom name="Fantastic Night Dreams - Cotton (USA).cue" size="3045" crc="31d6f660" md5="38514d361500c7819cf473eedf9ba89c" sha1="0aba9e5aae72cd635373c6a02ddcd7bb681fb857"/>
 		<rom name="Fantastic Night Dreams - Cotton (USA) (Track 01).bin" size="7914480" crc="16841024" md5="c7ec65c2c430ec5e01ea1e781b5fb933" sha1="2e5a9235aaa4c04baefb8a5104fa2c2977869191"/>
 		<rom name="Fantastic Night Dreams - Cotton (USA) (Track 02).bin" size="5642448" crc="4572910c" md5="ad1a8daa0aff0cd9130f719d99767b47" sha1="8e7de2506de6dd7fc6ed322e0c47d4c4c5663d15"/>
@@ -844,7 +824,6 @@
 	<game name="Retail/Dead of the Brain 1 and 2 (Japan) (En) (v1.0e) (Dave Shadoff)">
 		<category></category>
 		<description>Dead of the Brain 1 and 2 (Japan) (En) (v1.0e) (Dave Shadoff)</description>
-		<release name="Dead of the Brain 1 and 2 (Japan) (En) (v1.0e) (Dave Shadoff)" region="English"/>
 		<rom name="Dead of the Brain 1 and 2 (Japan) (En) (v1.0e) (Dave Shadoff).cue" size="4624" crc="81d9e55d" md5="0e9f46b4ae46b89cb9309b9164c85975" sha1="a41989310b4a62c18c041e71009fe5f6220d9ee1"/>
 		<rom name="Dead of the Brain 1 and 2 (Japan) (En) (v1.0e) (Dave Shadoff) (Track 01).bin" size="4407648" crc="adfa6919" md5="ea6dcc7cdd02ea34bf8d92a6bd82058f" sha1="70d8d81f90f9d11b35858430a791db9b60b792d6"/>
 		<rom name="Dead of the Brain 1 and 2 (Japan) (En) (v1.0e) (Dave Shadoff) (Track 02).bin" size="24453744" crc="8d6231a4" md5="a1a5931ebda48e610ebff7f6c80d137a" sha1="927b701a7860ea5e90f0e5a2de525d70a561ecb5"/>
@@ -887,7 +866,6 @@
 	<game name="Retail/Double Dragon II - The Revenge (Japan)">
 		<category></category>
 		<description>Double Dragon II - The Revenge (Japan)</description>
-		<release name="Double Dragon II - The Revenge (Japan)" region="Japan"/>
 		<rom name="Double Dragon II - The Revenge (Japan).cue" size="2939" crc="675186d5" md5="b2bd3caefc88f7eb2bb2d32fc26da7d6" sha1="a6fee1a484a74d8b4dd18e89d2cffb230bf661ab"/>
 		<rom name="Double Dragon II - The Revenge (Japan) (Track 01).bin" size="7914480" crc="9ab2ee6a" md5="d224496caf839813ca17017f4c08bfa8" sha1="5dfd1d3520ec9d03e14d808e264a56b4e5773393"/>
 		<rom name="Double Dragon II - The Revenge (Japan) (Track 02).bin" size="18122160" crc="c5169657" md5="bad1a198431d391264e183678dff0096" sha1="4522259bf2e01e1d5d9aa0f4dbd6583b39b66769"/>
@@ -919,10 +897,32 @@
 		<hash>c1ab1e21cd2db6c241235196ab2908e5</hash>
 	</game>
 	
+	<game name="Retail/Down Load 2 (Japan)">
+		<category></category>
+		<description>Down Load 2 (Japan)</description>
+		<rom name="Down Load 2 (Japan).cue" size="1558" crc="a9fac156" md5="b98188491128697a2bea24bb9e53e5b4" sha1="5d47773e23e97163cfbabc3720a1a37e2c2a9f75"/>
+		<rom name="Down Load 2 (Japan) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
+		<rom name="Down Load 2 (Japan) (Track 02).bin" size="20154288" crc="aa238d8d" md5="7fc1f6465357247a3901b22dea492640" sha1="32c53b29ce8b65f510d299b4964a87502a8d0e07"/>
+		<rom name="Down Load 2 (Japan) (Track 03).bin" size="24536064" crc="148f430b" md5="1ce363c9cdaa2256978cf9e1b95a1eaf" sha1="de36f071bd7fcce7de2866d99e3ae8ce66f7df16"/>
+		<rom name="Down Load 2 (Japan) (Track 04).bin" size="20775216" crc="51ef6581" md5="fd5db3f0e07f513f59c031868466fe85" sha1="a1fca605b29dc51d2883c2ca9d6b202654782c78"/>
+		<rom name="Down Load 2 (Japan) (Track 05).bin" size="25215792" crc="bc91e7b9" md5="b059bc46003b50b766bfaf2614d4a284" sha1="a6faedcc1ba3d8c756e433718b5d71a3dbc488c1"/>
+		<rom name="Down Load 2 (Japan) (Track 06).bin" size="22513344" crc="c4cb6314" md5="58d6cc88116eef5ffc3e04d487705e40" sha1="38a5515127cdff20c6df2e9e1454d9ecbabcd94f"/>
+		<rom name="Down Load 2 (Japan) (Track 07).bin" size="21283248" crc="934f8c38" md5="7b1787783c8321e9d9d7eb0ff5d3a64f" sha1="ec26b9e4ec7a69fdb4bc897448f43f187bf59243"/>
+		<rom name="Down Load 2 (Japan) (Track 08).bin" size="20678784" crc="4137108e" md5="091273d372d9867845821a621aa83ba7" sha1="255dc0907e22ef5a72634a6fbba0f26dd60fae2b"/>
+		<rom name="Down Load 2 (Japan) (Track 09).bin" size="22332240" crc="b06956f4" md5="3dd74b9f6ded8764805e2b7c71c67929" sha1="b5c41a39635c17e2131a59effa5c17c76d936117"/>
+		<rom name="Down Load 2 (Japan) (Track 10).bin" size="19825008" crc="8ef5b5aa" md5="61285294579858c0d27db2bb7390893b" sha1="08bae64bbebed64868b628884bc4b820328d3fab"/>
+		<rom name="Down Load 2 (Japan) (Track 11).bin" size="19432224" crc="a44f0c23" md5="78019b87664e7a930e9849ae2cc1045b" sha1="c4c001dbe75a71a79952447c6f9043b48e866711"/>
+		<rom name="Down Load 2 (Japan) (Track 12).bin" size="20283648" crc="aced47da" md5="1424a9498d5542e85bc7fd0f3dd8c72a" sha1="f0122bf03eedd8f1215236d590e7c97996cd2868"/>
+		<rom name="Down Load 2 (Japan) (Track 13).bin" size="6980736" crc="fba60497" md5="03ebcbf15ce27b473d01fdab6a21bf49" sha1="dce17add3a0e2879108f1b595b761d65e22cabeb"/>
+		<rom name="Down Load 2 (Japan) (Track 14).bin" size="21955920" crc="f6c72876" md5="07c73b91be29662efb5333c40bca6571" sha1="261591d2ab5a0946cd1a0f621d4bcf840e471cce"/>
+		<rom name="Down Load 2 (Japan) (Track 15).bin" size="34931904" crc="3a04a578" md5="8be2d20f00cd9e433a1cf1b5e5832b86" sha1="71d252f7716ce861568cf1e7f7f102724a2f4a02"/>
+		<rom name="Down Load 2 (Japan) (Track 16).bin" size="19808544" crc="3afa5ea2" md5="a4beb27661ff23199daf516a5fb1d4d8" sha1="8dc85b46746f33a66afaaff0014cbfb51612248f"/>
+		<url>https://retroachievements.org/game/13189/hashes</url>
+		<hash>9eb8f91f467550acdbf77e9f5ad20115</hash>
+	</game>
 	<game name="Retail/Dragon Knight &amp; Graffiti (Japan)">
 		<category></category>
 		<description>Dragon Knight &amp; Graffiti (Japan)</description>
-		<release name="Dragon Knight &amp; Graffiti (Japan)" region="Japan"/>
 		<rom name="Dragon Knight &amp; Graffiti (Japan).cue" size="1350" crc="291bf9ec" md5="43223e6718e9d092b39459108013761c" sha1="6780053e5c758b7cdb60a88f200f069de522f07e"/>
 		<rom name="Dragon Knight &amp; Graffiti (Japan) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Dragon Knight &amp; Graffiti (Japan) (Track 02).bin" size="126137760" crc="df164c6e" md5="266d3fbfc66138a7c4ab5486b60b2dc0" sha1="05b949be2ac65bff97929c0805800ba03c110b63"/>
@@ -943,7 +943,6 @@
 	<game name="Retail/Dragon Knight II (Japan)">
 		<category></category>
 		<description>Dragon Knight II (Japan)</description>
-		<release name="Dragon Knight II (Japan)" region="Japan"/>
 		<rom name="Dragon Knight II (Japan).cue" size="3558" crc="de5ab8bc" md5="cba357eae910318c0cbc902fba83d872" sha1="482890d74e6483550ffbd77516a0e429cf9badde"/>
 		<rom name="Dragon Knight II (Japan) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Dragon Knight II (Japan) (Track 02).bin" size="88310544" crc="1064923e" md5="50a80737994e56adb5150ed9181f81eb" sha1="78c726b172d9ed3823c95a92cb91ac04382edf4e"/>
@@ -988,7 +987,6 @@
 	<game name="Retail/Dragon Slayer - The Legend of Heroes (USA)">
 		<category></category>
 		<description>Dragon Slayer - The Legend of Heroes (USA)</description>
-		<release name="Dragon Slayer - The Legend of Heroes (USA)" region="USA"/>
 		<rom name="Dragon Slayer - The Legend of Heroes (USA).cue" size="2610" crc="221e5ee2" md5="cae6cf0267bb3a070e6ab976334819fc" sha1="f7b2df26d8c68bde3b3c5f18af80659dafe14cdf"/>
 		<rom name="Dragon Slayer - The Legend of Heroes (USA) (Track 01).bin" size="7914480" crc="16841024" md5="c7ec65c2c430ec5e01ea1e781b5fb933" sha1="2e5a9235aaa4c04baefb8a5104fa2c2977869191"/>
 		<rom name="Dragon Slayer - The Legend of Heroes (USA) (Track 02).bin" size="24218544" crc="b0020b64" md5="cb5af40867c7071fd9ee7638191c6299" sha1="56657baa6f14f36a950065dd367be62c3ce97a71"/>
@@ -1019,7 +1017,6 @@
 	<game name="Retail/Faussete Amour (Japan)">
 		<category></category>
 		<description>Faussete Amour (Japan)</description>
-		<release name="Faussete Amour (Japan)" region="Japan"/>
 		<rom name="Faussete Amour (Japan).cue" size="4426" crc="5002af0e" md5="81069a14dc5c30198119cbf65bdca4c2" sha1="607143514cc234f8243ea9701f5ed7c6aee6f63e"/>
 		<rom name="Faussete Amour (Japan) (Track 01).bin" size="4739280" crc="97e2fab1" md5="a0a3f81d5881bfdf64d612a688ad2c10" sha1="ea7fbb6152eb9a212214ebf5676ca0b3109edf4c"/>
 		<rom name="Faussete Amour (Japan) (Track 02).bin" size="10492272" crc="d9b71310" md5="abdb184da3ec769c56228f1a6c18cfbc" sha1="e2868d6f0bd171b697f5c7ed5f2b215fd53c635f"/>
@@ -1074,7 +1071,6 @@
 	<game name="Retail/Fighting Street (Japan) (Rev 4)">
 		<category></category>
 		<description>Fighting Street (Japan) (Rev 4)</description>
-		<release name="Fighting Street (Japan) (Rev 4)" region="Japan"/>
 		<rom name="Fighting Street (Japan) (Rev 4).cue" size="2780" crc="46f26a8a" md5="f05d8acce68a995c24df9a3b2dcca19b" sha1="62a94da7c5f5b35f9e361666c78b436538391b43"/>
 		<rom name="Fighting Street (Japan) (Rev 4) (Track 01).bin" size="7914480" crc="3ae91d8d" md5="e9dd10bbe517245bc71e75162a08d34e" sha1="a1139f80da805f94e5a57aab605418e4c98e2aec"/>
 		<rom name="Fighting Street (Japan) (Rev 4) (Track 02).bin" size="18733680" crc="4d17273e" md5="82d81c36884feba395503212be580b08" sha1="6a6963bbd6effd7c7e0710fe7170f7c08be7a077"/>
@@ -1109,7 +1105,6 @@
 	<game name="Retail/Final Zone II (Japan)">
 		<category></category>
 		<description>Final Zone II (Japan)</description>
-		<release name="Final Zone II (Japan)" region="Japan"/>
 		<rom name="Final Zone II (Japan).cue" size="5189" crc="7c68cc77" md5="8535e314ad1d4af4297ef276d940f035" sha1="c962492ac09f271f4dac4f50b84716032087edc2"/>
 		<rom name="Final Zone II (Japan) (Track 01).bin" size="7914480" crc="72ce0add" md5="2c94aea56477e826cf4d40df1600406f" sha1="e1f81a1490a92637e1a6dee26d73d664df3d3771"/>
 		<rom name="Final Zone II (Japan) (Track 02).bin" size="12296256" crc="57ae43b3" md5="286755bdd8d1ecda1da488b3654d47ac" sha1="991851c74f362a78c0b8700da4f791768bffa610"/>
@@ -1173,7 +1168,6 @@
 	<game name="Retail/Gate of Thunder (Japan) (FACT, FADT)">
 		<category></category>
 		<description>Gate of Thunder (Japan) (FACT, FADT)</description>
-		<release name="Gate of Thunder (Japan) (FACT, FADT)" region="Japan"/>
 		<rom name="Gate of Thunder (Japan) (FACT, FADT).cue" size="2023" crc="b5cc9fd7" md5="eb0cf042644ad5a78a9805a84fc6b133" sha1="fc69ecb3d387ec671bcf1d038e57c6d155cb2377"/>
 		<rom name="Gate of Thunder (Japan) (FACT, FADT) (Track 01).bin" size="8090880" crc="81d96e54" md5="3c465815f77d7cf5066862609e75e397" sha1="a28a22d4e31b74623ec332e0165a88c21db594d5"/>
 		<rom name="Gate of Thunder (Japan) (FACT, FADT) (Track 02).bin" size="4779264" crc="2adc5dd4" md5="b081f9b01c518050b2171c638fc88fae" sha1="aef97cf3bd2a3d8b8d5700024f5217d119c909ca"/>
@@ -1200,7 +1194,6 @@
 	<game name="Retail/Ginga Fukei Densetsu Sapphire (Japan)">
 		<category></category>
 		<description>Ginga Fukei Densetsu Sapphire (Japan)</description>
-		<release name="Ginga Fukei Densetsu Sapphire (Japan)" region="Japan"/>
 		<rom name="Ginga Fukei Densetsu Sapphire (Japan).cue" size="1955" crc="f63cbcbd" md5="e007c0ec81fe2e5e99902aea6a892bcb" sha1="61d8b5fd0958c1b8c7acdddb4f916522c1b926cc"/>
 		<rom name="Ginga Fukei Densetsu Sapphire (Japan) (Track 01).bin" size="7914480" crc="f43498c3" md5="a0e4160a51ea1335b7a268c2b40f7bb5" sha1="66940b3369f008f3a21c7029e785d12ac0392907"/>
 		<rom name="Ginga Fukei Densetsu Sapphire (Japan) (Track 02).bin" size="18402048" crc="6ed2b189" md5="0c9c93e0bd8fedadb3e5b3cc08cc07d4" sha1="43c85bf6a9a71cd2ffd8cb71ec3296fbc73172d1"/>
@@ -1226,7 +1219,6 @@
 	<game name="Retail/Godzilla (USA)">
 		<category></category>
 		<description>Godzilla (USA)</description>
-		<release name="Godzilla (USA)" region="USA"/>
 		<rom name="Godzilla (USA).cue" size="2166" crc="6d3b4228" md5="e29de356146dcf96020999c042f6720f" sha1="4d47605bae22c2cefd85c6d5f5f2a9d0afac6bd7"/>
 		<rom name="Godzilla (USA) (Track 01).bin" size="7914480" crc="16841024" md5="c7ec65c2c430ec5e01ea1e781b5fb933" sha1="2e5a9235aaa4c04baefb8a5104fa2c2977869191"/>
 		<rom name="Godzilla (USA) (Track 02).bin" size="20154288" crc="705035fb" md5="4064c180dace25101a559443f5b9baf8" sha1="50c95ae0b67f29157c0816621a479616326d0e23"/>
@@ -1259,7 +1251,6 @@
 	<game name="Retail/Golden Axe (Japan)">
 		<category></category>
 		<description>Golden Axe (Japan)</description>
-		<release name="Golden Axe (Japan)" region="Japan"/>
 		<rom name="Golden Axe (Japan).cue" size="6441" crc="0119a5bd" md5="9c9045a3875bd3adf788354e08417670" sha1="f600ab5c92122d62ae40b826d41d4e8b56ec62c6"/>
 		<rom name="Golden Axe (Japan) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Golden Axe (Japan) (Track 02).bin" size="15245664" crc="4a182523" md5="492e288fb2d4d489ccdfec5369ac9279" sha1="48e1cd1b9225989718b6f16d09682adf4c65a64c"/>
@@ -1339,7 +1330,6 @@
 	<game name="Retail/Goetzendiener (Japan)">
 		<category></category>
 		<description>Goetzendiener (Japan)</description>
-		<release name="Goetzendiener (Japan)" region="Japan"/>
 		<rom name="Goetzendiener (Japan).cue" size="1283" crc="4450f28d" md5="46785608f2213d722fa78958c9302f35" sha1="6bfd90ccf98c0eea9a110bfe26faa833451dbd9e"/>
 		<rom name="Goetzendiener (Japan) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Goetzendiener (Japan) (Track 02).bin" size="19253472" crc="fbcd3b21" md5="c7b3d7df218b2606f8d0b491cca0554c" sha1="e39b201a39b97908c33d8adc18ef837cafb15c0f"/>
@@ -1361,7 +1351,6 @@
 	<game name="Retail/Gradius II - Gofer no Yabou (Japan)">
 		<category></category>
 		<description>Gradius II - Gofer no Yabou (Japan)</description>
-		<release name="Gradius II - Gofer no Yabou (Japan)" region="Japan"/>
 		<rom name="Gradius II - Gofer no Yabou (Japan).cue" size="3098" crc="00738bf2" md5="c350d8caedf75342e6bc90f971ef8bd8" sha1="5ee196838abcab72fca933849f76d6091c00f069"/>
 		<rom name="Gradius II - Gofer no Yabou (Japan) (Track 01).bin" size="7916832" crc="be128779" md5="94b35e830f55eb6ec03222eb081b6763" sha1="373442f6e448f60db2e0093b31e9c62da9bab999"/>
 		<rom name="Gradius II - Gofer no Yabou (Japan) (Track 02).bin" size="8523648" crc="7d7dbfb4" md5="751e3e4cd68daa06901d3087bc3d68f8" sha1="673bfdcab4e0aadb31ea7cc680223fb1d26aa30a"/>
@@ -1398,7 +1387,6 @@
 	<game name="Retail/Juuouki (Japan) (Rev 5)">
 		<category></category>
 		<description>Juuouki (Japan) (Rev 5)</description>
-		<release name="Juuouki (Japan) (Rev 5)" region="Japan"/>
 		<rom name="Juuouki (Japan) (Rev 5).cue" size="1029" crc="492519a0" md5="f7c69dae6641ae8676b301700e4fb5d6" sha1="4ccfe8287796c1e64421596034a34401613c951f"/>
 		<rom name="Juuouki (Japan) (Rev 5) (Track 01).bin" size="7914480" crc="bdce14bb" md5="9f7e4482bdc9bbadd25b223cf9fb37a2" sha1="0ccc2f76981e95c9078ae9e0f312f3f70ad93e9e"/>
 		<rom name="Juuouki (Japan) (Rev 5) (Track 02).bin" size="4936848" crc="8ca6923b" md5="22c49e09d4b4e1f64f0a7bee35b2e6a9" sha1="fe78ad7fc7b441eaab2e7938b7a76b523e5bc233"/>
@@ -1473,7 +1461,6 @@
 	<game name="Retail/Loom (Japan)">
 		<category></category>
 		<description>Loom (Japan)</description>
-		<release name="Loom (Japan)" region="Japan"/>
 		<rom name="Loom (Japan).cue" size="2034" crc="e9cb3a32" md5="94563d46ba5839dc0513312716ee52ca" sha1="f8673546c37b4712d8f4f837dae6eaea3b18cfe0"/>
 		<rom name="Loom (Japan) (Track 01).bin" size="7916832" crc="22144d0f" md5="ad1067d0bcc2ffeea540d3b985c51188" sha1="3b472f5e80bbf8259e09f8e4f547567bddb02490"/>
 		<rom name="Loom (Japan) (Track 02).bin" size="8025024" crc="8c1a2dce" md5="99ff89a71712ad1bbe19c8e21c31536e" sha1="d5250d246589d0aae0f1eb3436af71d79412e000"/>
@@ -1505,7 +1492,6 @@
 	<game name="Retail/Lords of Thunder (USA)">
 		<category></category>
 		<description>Lords of Thunder (USA)</description>
-		<release name="Lords of Thunder (USA)" region="USA"/>
 		<rom name="Lords of Thunder (USA).cue" size="2264" crc="21b7921d" md5="6d3048fa92edbffb53fb278b3544000e" sha1="97ba44a16452777d9d35a70e2e3f05b412680e3c"/>
 		<rom name="Lords of Thunder (USA) (Track 01).bin" size="7914480" crc="16841024" md5="c7ec65c2c430ec5e01ea1e781b5fb933" sha1="2e5a9235aaa4c04baefb8a5104fa2c2977869191"/>
 		<rom name="Lords of Thunder (USA) (Track 02).bin" size="9320976" crc="73cd08ea" md5="b539880fe8e0bc5d3100e842395b415e" sha1="3bca72e6bca5a2c36268d2d66c54143860d208e5"/>
@@ -1537,7 +1523,6 @@
 	<game name="Retail/Might and Magic III - Isles of Terra (USA)">
 		<category></category>
 		<description>Might and Magic III - Isles of Terra (USA)</description>
-		<release name="Might and Magic III - Isles of Terra (USA)" region="USA"/>
 		<rom name="Might and Magic III - Isles of Terra (USA).cue" size="1926" crc="f69ff8cf" md5="42b151168146430e8f4da26a309748a0" sha1="82c0305bc0cb0cb2869b88eb3bf37686d46ae4a1"/>
 		<rom name="Might and Magic III - Isles of Terra (USA) (Track 01).bin" size="7914480" crc="16841024" md5="c7ec65c2c430ec5e01ea1e781b5fb933" sha1="2e5a9235aaa4c04baefb8a5104fa2c2977869191"/>
 		<rom name="Might and Magic III - Isles of Terra (USA) (Track 02).bin" size="29284752" crc="6fcac619" md5="c7e2810276bd7a5f4d97369fa6bba3c7" sha1="b55124c3772df9e4bf2ce8bbd41d147102196551"/>
@@ -1562,7 +1547,6 @@
 	<game name="Retail/Monster Lair (USA)">
 		<category></category>
 		<description>Monster Lair (USA)</description>
-		<release name="Monster Lair (USA)" region="USA"/>
 		<rom name="Monster Lair (USA).cue" size="1542" crc="28353ce6" md5="c42bebb3cf6d4af22c41127a4fca769f" sha1="7383b3da5c0e6525d8c8925f37d3ab37cca56684"/>
 		<rom name="Monster Lair (USA) (Track 01).bin" size="7914480" crc="17623548" md5="77232c745e40cc155ad72c1b79780986" sha1="e1baaf01eee215def8bd6f6aa080e3a41ffc74f4"/>
 		<rom name="Monster Lair (USA) (Track 02).bin" size="20163696" crc="5e46ab78" md5="3f3dfb767630c469fe7747ceef1e9797" sha1="456b64de05699e3431d14e76a71cdb9ea7cbad4c"/>
@@ -1587,7 +1571,6 @@
 	<game name="Subset/Monster Lair (Subset - Multi)">
 		<category></category>
 		<description>Monster Lair (Subset - Multi)</description>
-		<release name="Monster Lair (Subset - Multi)" region="World"/>
 		<rom name="Monster Lair (Subset - Multi).cue" size="1718" crc="612b5079" md5="6bf9fbf2b13548c6357356687c45962e" sha1="b2a3e5d63fcbe34f4ba8cf0b2a97147cc21b0890"/>
 		<rom name="Monster Lair (Subset - Multi) (Track 01).bin" size="7914480" crc="17623548" md5="77232c745e40cc155ad72c1b79780986" sha1="e1baaf01eee215def8bd6f6aa080e3a41ffc74f4"/>
 		<rom name="Monster Lair (Subset - Multi) (Track 02).bin" size="20163696" crc="eb5213a9" md5="346a291e6f1dc8ebc27bde6929b4100a" sha1="b1a789368d33c1246328db3220e9f9d96f796a37"/>
@@ -1612,7 +1595,6 @@
 	<game name="Retail/Motteke Tamago (Japan) (En) (v1.0) (Dave Shadoff)">
 		<category></category>
 		<description>Motteke Tamago (Japan) (En) (v1.0) (Dave Shadoff)</description>
-		<release name="Motteke Tamago (Japan) (En) (v1.0) (Dave Shadoff)" region="English"/>
 		<rom name="Motteke Tamago (Japan) (En) (v1.0) (Dave Shadoff).cue" size="511" crc="0ffcdd70" md5="df4cfa29a06ef3fe0ef06944502e89e9" sha1="186fc346cb5fcdc6314a5ce93084240258809deb"/>
 		<rom name="Motteke Tamago (Japan) (En) (v1.0) (Dave Shadoff).bin" size="391285776" crc="b1ff439d" md5="47ac6f05ad096a18d63e1f77b5fe00b4" sha1="1cb3502d2ecdaf1805259174ee56bbe5b125c6cd"/>
 		<url>https://retroachievements.org/game/13188/hashes</url>
@@ -1622,7 +1604,6 @@
 	<game name="Retail/Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan)">
 		<category></category>
 		<description>Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan)</description>
-		<release name="Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan)" region="Japan"/>
 		<rom name="Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan).cue" size="3902" crc="d2257f54" md5="1dff437d5b0cc6a3861b7554322f5839" sha1="e6a2a8a04bb6db99eaf8d1799385cb75ec9a4b77"/>
 		<rom name="Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan) (Track 01).bin" size="7914480" crc="3c73890d" md5="d80510a2348091411a158397e14a6fc2" sha1="334c39e04eecd1db16868aaa63dcfa5146eac073"/>
 		<rom name="Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan) (Track 02).bin" size="30997008" crc="8e2fde43" md5="826832739a80b23608beb20269f56d10" sha1="f9d6cfbe999d53d09d7868102ec8ba3a213153c9"/>
@@ -1660,7 +1641,6 @@
 	<game name="Retail/PopfulMail (Japan)">
 		<category></category>
 		<description>PopfulMail (Japan)</description>
-		<release name="PopfulMail (Japan)" region="Japan"/>
 		<rom name="PopfulMail (Japan).cue" size="3044" crc="680e3625" md5="645d72f52579fa1fcb4f6e1b4fae1cc3" sha1="510affe91bb94db03e88be646ed56b95610e3eb2"/>
 		<rom name="PopfulMail (Japan) (Track 01).bin" size="10504032" crc="b6d94e80" md5="e6eaf5c3b87fda064be1bdbd8c89aac9" sha1="c933ee28beb9d22a7cb51416b08b909cc61678f0"/>
 		<rom name="PopfulMail (Japan) (Track 02).bin" size="95060784" crc="69369b77" md5="b5e67391d5e256ef638382bc453c9909" sha1="93a0ea78232fa78edc67788398219dc2906c5613"/>
@@ -1699,10 +1679,35 @@
 		<hash>a0fef3e9b4f74bf51c4cc6dd6b7f9ff7</hash>
 	</game>
 	
+	<game name="Retail/Prince of Persia (USA)">
+		<category></category>
+		<description>Prince of Persia (USA)</description>
+		<rom name="Prince of Persia (USA).cue" size="1888" crc="34c6967d" md5="9d6668b3f3060c33ccfe050bc18cb482" sha1="b92091355ed5ebd00b83cd777004c649e245f0ba"/>
+		<rom name="Prince of Persia (USA) (Track 01).bin" size="7077168" crc="e84baae9" md5="ce7570578f3d4dd611996b681471a8b2" sha1="cea5135e07ffde45628028ebece5261ce01da965"/>
+		<rom name="Prince of Persia (USA) (Track 02).bin" size="6919584" crc="69f569df" md5="95d25c0fd9850ed0673e6e207b987ba3" sha1="8c8e590c6d04ae87bb309de268e113537299069a"/>
+		<rom name="Prince of Persia (USA) (Track 03).bin" size="59362128" crc="9c1ae311" md5="9599df03bdf7aaf1b6da6622107f60cd" sha1="2f471ec1fea8563f4da3cb12ea36cce3be44a777"/>
+		<rom name="Prince of Persia (USA) (Track 04).bin" size="22797936" crc="984316b5" md5="41b92bbb0581657d925e6fb6eec2fe53" sha1="a2c38de7d136e658bf21440018a061b101922282"/>
+		<rom name="Prince of Persia (USA) (Track 05).bin" size="62850144" crc="01ff3d39" md5="17539f1f31d2937a9759224cc404e6d9" sha1="ec3b236f04506e487ac049de894e154428d2d75d"/>
+		<rom name="Prince of Persia (USA) (Track 06).bin" size="11190816" crc="ecc5e1c6" md5="97c10e16bf38a208ef2a3077807cb492" sha1="bf14f0a8a416ceacdccb8b446bbed693a25179e3"/>
+		<rom name="Prince of Persia (USA) (Track 07).bin" size="29802192" crc="0015ae56" md5="2ef1a9172be8a68c0eb7ead01548ceb1" sha1="a82190a71129c2c977c2c6a1d3518da07548dc8f"/>
+		<rom name="Prince of Persia (USA) (Track 08).bin" size="15429120" crc="cfd8552e" md5="75bad8fabc0bec791d43379c41a4bc0f" sha1="fd74e41e0c06557387a45ffcf76f7052e46092a4"/>
+		<rom name="Prince of Persia (USA) (Track 09).bin" size="11381328" crc="8ce3a689" md5="4098b2a6921c506a317f73b26cb996f7" sha1="aaf41c90ee1e1e0feed02fa7457e4ff492201388"/>
+		<rom name="Prince of Persia (USA) (Track 10).bin" size="26309472" crc="e2672d43" md5="3fe9f550500ef82e427c4727cea698b8" sha1="be551333a09631ffad01b30f9f0f48102c180ea7"/>
+		<rom name="Prince of Persia (USA) (Track 11).bin" size="3640896" crc="6877b39e" md5="5d70b638730f304404c78cac92873b58" sha1="7b24b394066c8b77b84453f049684262c06e89a3"/>
+		<rom name="Prince of Persia (USA) (Track 12).bin" size="10400544" crc="3a191575" md5="7ec1077c211dbabbbaefaacc20ef0ce1" sha1="887cf16567abd5bf7816f582bed818bab1bc5bbb"/>
+		<rom name="Prince of Persia (USA) (Track 13).bin" size="2758896" crc="8e9abd13" md5="8ee4dba6726cae3a4c5d1fdcab3f3b3e" sha1="28872418dd9121cd499c34e7a1715ab20b1a9605"/>
+		<rom name="Prince of Persia (USA) (Track 14).bin" size="24336144" crc="71389286" md5="8f033aa7dd9234d4cd823072052ced1e" sha1="ea94aa223ea235dbec44ada4aa760b27f9b16c20"/>
+		<rom name="Prince of Persia (USA) (Track 15).bin" size="12004608" crc="72ecc978" md5="4f5b9a5d715ec575cd82d7a4a59037bf" sha1="a30bfc180b054dc0bdd0ed897eff9e30854e3295"/>
+		<rom name="Prince of Persia (USA) (Track 16).bin" size="30063264" crc="bb7837c7" md5="8ce5fd198309a98327a7ea171636c901" sha1="e7636e789068cdbbeb0cf08fea5851e985c47e87"/>
+		<rom name="Prince of Persia (USA) (Track 17).bin" size="69285216" crc="16bc043b" md5="c5425ec268fc0a1cddce0bc7ad042d9b" sha1="a0c5951e7c907373d5c255ba95d5c23a2da0cc49"/>
+		<rom name="Prince of Persia (USA) (Track 18).bin" size="40452048" crc="679c7100" md5="be6302519091b7ad9e7162bbdc870cae" sha1="41eba2800dd594571dd7c298b70464666d7eef88"/>
+		<rom name="Prince of Persia (USA) (Track 19).bin" size="6569136" crc="86c29a26" md5="81cd36651a664c95e9d70a4c05bdbe3b" sha1="b1400c4fec8c3eb0ef764395e144f3a4beb684a8"/>
+		<url>https://retroachievements.org/game/9021/hashes</url>
+		<hash>197a96c252a12ba83c3770914aa1b81f</hash>
+	</game>
 	<game name="Retail/Puyo Puyo CD (Japan)">
 		<category></category>
 		<description>Puyo Puyo CD (Japan)</description>
-		<release name="Puyo Puyo CD (Japan)" region="Japan"/>
 		<rom name="Puyo Puyo CD (Japan).cue" size="3506" crc="7773aa51" md5="858e5d2a3f78c509475a4bb2d20fe4c9" sha1="99b133283d53cd50968e28581243532e83a96cb3"/>
 		<rom name="Puyo Puyo CD (Japan) (Track 01).bin" size="19662720" crc="f0dd2da9" md5="7c8efe78d5c2c85bab7543d3cedf9937" sha1="4d8591bf748d09e910ee2d263a278e1e6662d6ca"/>
 		<rom name="Puyo Puyo CD (Japan) (Track 02).bin" size="16052400" crc="79e17a26" md5="2796c6ba662e99332695533c6bbbbb8c" sha1="28aeac16f55df6a5cccfc2c8d6780b0dc38f9d44"/>
@@ -1748,7 +1753,6 @@
 	<game name="Retail/R-Type Complete CD (Japan)">
 		<category></category>
 		<description>R-Type Complete CD (Japan)</description>
-		<release name="R-Type Complete CD (Japan)" region="Japan"/>
 		<rom name="R-Type Complete CD (Japan).cue" size="4610" crc="c1b63c0c" md5="3de60653f3bc7214b036298766fc6440" sha1="ab66fb02e69e26cc834d842411d63eec7ec70ff9"/>
 		<rom name="R-Type Complete CD (Japan) (Track 01).bin" size="7916832" crc="22144d0f" md5="ad1067d0bcc2ffeea540d3b985c51188" sha1="3b472f5e80bbf8259e09f8e4f547567bddb02490"/>
 		<rom name="R-Type Complete CD (Japan) (Track 02).bin" size="6778464" crc="54ac2f6b" md5="7438d42d7e0fcd196810e0fee9ba6cbd" sha1="bd9116f32bbc531f9721cbc72b7385655bce6ed6"/>
@@ -1803,7 +1807,6 @@
 	<game name="Retail/Seirei Senshi Spriggan (Japan)">
 		<category></category>
 		<description>Seirei Senshi Spriggan (Japan)</description>
-		<release name="Seirei Senshi Spriggan (Japan)" region="Japan"/>
 		<rom name="Seirei Senshi Spriggan (Japan).cue" size="2856" crc="c9e4556c" md5="11894de1a875670a71e1506db5244822" sha1="bc6b59bc688e25e82c2b8025ecd744f8485a655b"/>
 		<rom name="Seirei Senshi Spriggan (Japan) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Seirei Senshi Spriggan (Japan) (Track 02).bin" size="4969776" crc="14db03f6" md5="b954963517d3f32e7bf32b853eb08b49" sha1="b2de7d99dd68593a23b7baed3966c3e599f0ee4b"/>
@@ -1839,7 +1842,6 @@
 	<game name="Retail/Shadow of the Beast (USA)">
 		<category></category>
 		<description>Shadow of the Beast (USA)</description>
-		<release name="Shadow of the Beast (USA)" region="USA"/>
 		<rom name="Shadow of the Beast (USA).cue" size="1072" crc="ffc33cff" md5="00ca39c9d066a57ef58446c751d9e873" sha1="ef1b2d76c97b5ea0d86c0a456f5ccf51a924f11d"/>
 		<rom name="Shadow of the Beast (USA) (Track 01).bin" size="7914480" crc="16841024" md5="c7ec65c2c430ec5e01ea1e781b5fb933" sha1="2e5a9235aaa4c04baefb8a5104fa2c2977869191"/>
 		<rom name="Shadow of the Beast (USA) (Track 02).bin" size="11188464" crc="41d74c5d" md5="1521cbc5fee0448c89a0d681cf9013ca" sha1="6faf1f59b0cb279cae8ee559b4742c2356d0819d"/>
@@ -1857,7 +1859,6 @@
 	<game name="Retail/Shadow of the Beast - Mashou no Okite (Japan)">
 		<category></category>
 		<description>Shadow of the Beast - Mashou no Okite (Japan)</description>
-		<release name="Shadow of the Beast - Mashou no Okite (Japan)" region="Japan"/>
 		<rom name="Shadow of the Beast - Mashou no Okite (Japan).cue" size="1272" crc="e1dd0e3a" md5="6d7968eb6f2c122d50cb8398b67712f0" sha1="43861a111fce05918e6fc728fa0dca71eca1e7ac"/>
 		<rom name="Shadow of the Beast - Mashou no Okite (Japan) (Track 01).bin" size="7916832" crc="22144d0f" md5="ad1067d0bcc2ffeea540d3b985c51188" sha1="3b472f5e80bbf8259e09f8e4f547567bddb02490"/>
 		<rom name="Shadow of the Beast - Mashou no Okite (Japan) (Track 02).bin" size="7065408" crc="8adb820b" md5="9544f3f0c4894e5ec41c2cbd69ef84b3" sha1="8071eb81e268cb08db147b6097830e9e985c7bbe"/>
@@ -1876,7 +1877,6 @@
 	<game name="Retail/Shanghai II (Japan)">
 		<category></category>
 		<description>Shanghai II (Japan)</description>
-		<release name="Shanghai II (Japan)" region="Japan"/>
 		<rom name="Shanghai II (Japan).cue" size="1285" crc="67d67b8d" md5="9f10648d3d83bfb7d06f061be8bb6d41" sha1="18fd14366abfd2bbdf393eba4d1846384b493ffb"/>
 		<rom name="Shanghai II (Japan) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Shanghai II (Japan) (Track 02).bin" size="1651104" crc="06e8ef12" md5="14cd93fdf32196b39aa5ccde0d9b69f1" sha1="4e8ca9417d7e6c434c2bc5b89a8dc61be0ababa8"/>
@@ -1898,7 +1898,6 @@
 	<game name="Retail/Shape Shifter (USA)">
 		<category></category>
 		<description>Shape Shifter (USA)</description>
-		<release name="Shape Shifter (USA)" region="USA"/>
 		<rom name="Shape Shifter (USA).cue" size="11177" crc="b58706bd" md5="1ac8272b4caa158da94838a1ba36d367" sha1="2de7879eb1c069788c389f9767b5d84ca51af734"/>
 		<rom name="Shape Shifter (USA) (Track 01).bin" size="6806688" crc="2a49f11e" md5="f49a0922d189f2c07b169d8600469f85" sha1="5b87a9bad26d4391e7059acce258f48c18e0efef"/>
 		<rom name="Shape Shifter (USA) (Track 02).bin" size="29468208" crc="8f535b5d" md5="d49bdbf4c47d975afc7c0e34c56b430d" sha1="56925741996992d295184958c6c6ad7b4e8a8262"/>
@@ -2005,7 +2004,6 @@
 	<game name="Retail/Splash Lake - Ostrich Daibouken (Japan)">
 		<category></category>
 		<description>Splash Lake - Ostrich Daibouken (Japan)</description>
-		<release name="Splash Lake - Ostrich Daibouken (Japan)" region="Japan"/>
 		<rom name="Splash Lake - Ostrich Daibouken (Japan).cue" size="1628" crc="18481697" md5="944efec36ade6a3097b29f1b858340d8" sha1="9e852a918ecd436366fca179a62107dbfd0b5dfd"/>
 		<rom name="Splash Lake - Ostrich Daibouken (Japan) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Splash Lake - Ostrich Daibouken (Japan) (Track 02).bin" size="9622032" crc="68d322db" md5="ac5e8600dcb58e7b82125d5986139cc5" sha1="b522e9aa5468e6fa256ab2efa58655b45face592"/>
@@ -2028,7 +2026,6 @@
 	<game name="Retail/Star Parodier (Japan)">
 		<category></category>
 		<description>Star Parodier (Japan)</description>
-		<release name="Star Parodier (Japan)" region="Japan"/>
 		<rom name="Star Parodier (Japan).cue" size="2334" crc="e3f111b3" md5="7f1d43d4dbf48389bca903d664b6ec33" sha1="74c764edc206956dfc5b0db40ef2203528594f33"/>
 		<rom name="Star Parodier (Japan) (Track 01).bin" size="7916832" crc="22144d0f" md5="ad1067d0bcc2ffeea540d3b985c51188" sha1="3b472f5e80bbf8259e09f8e4f547567bddb02490"/>
 		<rom name="Star Parodier (Japan) (Track 02).bin" size="5550720" crc="06be5b63" md5="212df6a72ce8018c32227a8ac779e5fa" sha1="53ed1e9c05cbc863405ca7d75e267468ad63189c"/>
@@ -2061,7 +2058,6 @@
 	<game name="Retail/Startling Odyssey II - Maryuu Sensou (Japan)">
 		<category></category>
 		<description>Startling Odyssey II - Maryuu Sensou (Japan)</description>
-		<release name="Startling Odyssey II - Maryuu Sensou (Japan)" region="Japan"/>
 		<rom name="Startling Odyssey II - Maryuu Sensou (Japan).cue" size="6134" crc="f08773b2" md5="acc043f8f82ce5c31a7f000e98074bf1" sha1="240862c1e38a201f25276af4d57c09ac8e35edfd"/>
 		<rom name="Startling Odyssey II - Maryuu Sensou (Japan) (Track 01).bin" size="6416256" crc="b69bf971" md5="29cd88635a3e9dfb6aa6663e59333323" sha1="6d31ff2be9d327e3ad7b839a62ce11f7b91361d2"/>
 		<rom name="Startling Odyssey II - Maryuu Sensou (Japan) (Track 02).bin" size="51327696" crc="86465bd6" md5="eb2b5d88d62a5c8c8d9e03271e0d16eb" sha1="2c6e03007bd33bcfb215e944cfe140bce7224b5a"/>
@@ -2122,7 +2118,6 @@
 	<game name="Retail/Steam-Heart's (Japan)">
 		<category></category>
 		<description>Steam-Heart's (Japan)</description>
-		<release name="Steam-Heart's (Japan)" region="Japan"/>
 		<rom name="Steam-Heart's (Japan).cue" size="3422" crc="a235b1fc" md5="e3acc82a87145c4eaf642a110a859c00" sha1="9530ca265f659f207778d5f9e679c684293e0084"/>
 		<rom name="Steam-Heart's (Japan) (Track 01).bin" size="9462096" crc="2d3d7ff5" md5="93fd08e914931e96c9b3f9ad540649e4" sha1="ced3d60759347fe4989f220e4b12ffa72428235b"/>
 		<rom name="Steam-Heart's (Japan) (Track 02).bin" size="41769168" crc="87008723" md5="2d7fa500c54d974068ee52b01d302988" sha1="140f9a4992f61512c55312a1e682256daeef6d8c"/>
@@ -2167,7 +2162,6 @@
 	<game name="Retail/Summer Carnival '92 - Alzadick (Japan)">
 		<category></category>
 		<description>Summer Carnival '92 - Alzadick (Japan)</description>
-		<release name="Summer Carnival '92 - Alzadick (Japan)" region="Japan"/>
 		<rom name="Summer Carnival '92 - Alzadick (Japan).cue" size="1944" crc="7b9c0c5a" md5="c9891e992195d22275ea822131567fd0" sha1="54e35edf6dea91b2a2a1fa2805bd4eec252f554a"/>
 		<rom name="Summer Carnival '92 - Alzadick (Japan) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Summer Carnival '92 - Alzadick (Japan) (Track 02).bin" size="3488016" crc="4f0782d7" md5="b4e56acb475caa3bae416d64e394f101" sha1="d65baf987d4011918c91e27ee3811d26bdb82e3f"/>
@@ -2193,7 +2187,6 @@
 	<game name="Retail/Summer Carnival '93 - NEXZR Special (Japan)">
 		<category></category>
 		<description>Summer Carnival '93 - NEXZR Special (Japan)</description>
-		<release name="Summer Carnival '93 - NEXZR Special (Japan)" region="Japan"/>
 		<rom name="Summer Carnival '93 - NEXZR Special (Japan).cue" size="2747" crc="3c6cf86e" md5="d05dc1317ea146d4a6070dc9aad92225" sha1="c6aebc057975e1e55418b4eabba6f13da358e8a7"/>
 		<rom name="Summer Carnival '93 - NEXZR Special (Japan) (Track 01).bin" size="6799632" crc="3f4c3861" md5="23349c320dd4cb03d7ea7905cc987cdd" sha1="8b2834b753a8380683956951651351e87132d415"/>
 		<rom name="Summer Carnival '93 - NEXZR Special (Japan) (Track 02).bin" size="6380976" crc="fe62915c" md5="4986b11b412384bd3fc1520e28a5bd4d" sha1="531947b9d60aa95e87076e586cea8e787226fdc5"/>
@@ -2225,7 +2218,6 @@
 	<game name="Retail/Sylphia (Japan)">
 		<category></category>
 		<description>Sylphia (Japan)</description>
-		<release name="Sylphia (Japan)" region="Japan"/>
 		<rom name="Sylphia (Japan).cue" size="1617" crc="d661c25c" md5="195a39571c0801788c09c0dd6ee058b4" sha1="7422c17ca5e4dff966eb6f310a430e87cfadca67"/>
 		<rom name="Sylphia (Japan) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Sylphia (Japan) (Track 02).bin" size="20158992" crc="92038a9a" md5="2f5a69675e80b410cd1682ffc8785b6f" sha1="c801f7685106884b6654f79f41fc237242b6064b"/>
@@ -2252,7 +2244,6 @@
 	<game name="Retail/Tengai Makyou - Ziria (Japan) (Rev 7)">
 		<category></category>
 		<description>Tengai Makyou - Ziria (Japan) (Rev 7)</description>
-		<release name="Tengai Makyou - Ziria (Japan) (Rev 7)" region="Japan"/>
 		<rom name="Tengai Makyou - Ziria (Japan) (Rev 7).cue" size="750" crc="579f4e45" md5="bcf74986b588d7c0f0d7912612e7dfc3" sha1="0cbf79b124eebd7c1704e52f062e83feffc19754"/>
 		<rom name="Tengai Makyou - Ziria (Japan) (Rev 7) (Track 1).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Tengai Makyou - Ziria (Japan) (Rev 7) (Track 2).bin" size="148653456" crc="84472b6a" md5="37a81f21cd4c085fbe0817b40a42b6eb" sha1="e60e2ff70c7cdfb3b2afb3fe35f1fc54d558cb49"/>
@@ -2274,7 +2265,6 @@
 	<game name="Retail/Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.2) (LIPEMCO! Translations)">
 		<category></category>
 		<description>Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.2) (LIPEMCO! Translations)</description>
-		<release name="Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.2) (LIPEMCO! Translations)" region="English"/>
 		<rom name="Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.2) (LIPEMCO! Translations).cue" size="943" crc="a5628294" md5="c60e1fcce368a75e698fcd3edb236935" sha1="57f4e5688cda72cbc7220ea141cca2b19239eb60"/>
 		<rom name="Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.2) (LIPEMCO! Translations) (Track 1).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.2) (LIPEMCO! Translations) (Track 2).bin" size="148653456" crc="5955c658" md5="52050995a4f0dabc32e9ee800067252c" sha1="e4c7817774e801d175ed79dcdf55a5fcf1b3d40e"/>
@@ -2289,7 +2279,6 @@
 	<game name="Retail/Dynastic Hero, The (USA)">
 		<category></category>
 		<description>Dynastic Hero, The (USA)</description>
-		<release name="Dynastic Hero, The (USA)" region="USA"/>
 		<rom name="Dynastic Hero, The (USA).cue" size="2762" crc="4830eda9" md5="bfbebf89223c22e988a6816d9a40a06e" sha1="72984bda58472bbb4baf552727eb58359173fdc0"/>
 		<rom name="Dynastic Hero, The (USA) (Track 01).bin" size="7916832" crc="ecf8b16b" md5="e25cf5e45442703396a239611ea901be" sha1="9a8ba8d225d9575ab09b8a612cb86164c4902cac"/>
 		<rom name="Dynastic Hero, The (USA) (Track 02).bin" size="10536960" crc="f80b5080" md5="ce6b03fbcd0b1630f78cdb6057735669" sha1="3159d603ec5b86d8f6aed1b053a908faa1a4778d"/>
@@ -2326,7 +2315,6 @@
 	<game name="Retail/Manhole, The (Japan)">
 		<category></category>
 		<description>Manhole, The (Japan)</description>
-		<release name="Manhole, The (Japan)" region="Japan"/>
 		<rom name="Manhole, The (Japan).cue" size="3414" crc="e0e87ac8" md5="e6176bfb94fe9d8c7f7da4a48b143cff" sha1="4601dd264da00e1ee0bdc98ae3c29ea1d6cf4699"/>
 		<rom name="Manhole, The (Japan) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Manhole, The (Japan) (Track 02).bin" size="11129664" crc="87e408b8" md5="09064278040cbd8dc58cf0cada1e51bf" sha1="93abe2c78d5ee991dea69f36a982f3bf178eec27"/>
@@ -2371,7 +2359,6 @@
 	<game name="Retail/Travel Eple (Japan)">
 		<category></category>
 		<description>Travel Eple (Japan)</description>
-		<release name="Travel Eple (Japan)" region="Japan"/>
 		<rom name="Travel Eple (Japan).cue" size="7306" crc="a629cb5c" md5="e0c72f613c128a30b6b2d91db316a578" sha1="599ed66494386267088cb7055574c623770a62aa"/>
 		<rom name="Travel Eple (Japan) (Track 01).bin" size="7916832" crc="be128779" md5="94b35e830f55eb6ec03222eb081b6763" sha1="373442f6e448f60db2e0093b31e9c62da9bab999"/>
 		<rom name="Travel Eple (Japan) (Track 02).bin" size="1684032" crc="ef9fdc70" md5="fe0bc67b1e672f53769654d7547d1762" sha1="1e09e8e921fc2c5c238ff7d349bd6ca3b079b0f8"/>
@@ -2453,7 +2440,6 @@
 	<game name="Retail/Valis II (USA)">
 		<category></category>
 		<description>Valis II (USA)</description>
-		<release name="Valis II (USA)" region="USA"/>
 		<rom name="Valis II (USA).cue" size="4804" crc="603bd404" md5="652f35d905a8bf00c52eb59e6ecfb1d6" sha1="bff61b418beed0a2932c4104455bb8c32c6bd6a8"/>
 		<rom name="Valis II (USA) (Track 01).bin" size="7914480" crc="17623548" md5="77232c745e40cc155ad72c1b79780986" sha1="e1baaf01eee215def8bd6f6aa080e3a41ffc74f4"/>
 		<rom name="Valis II (USA) (Track 02).bin" size="6185760" crc="228168ad" md5="5f6846f935a8b9a463adebf0967c501e" sha1="4baae7579a51a54d959212e81a1432c7e6ff83e0"/>
@@ -2517,7 +2503,6 @@
 	<game name="Retail/Valis III (USA)">
 		<category></category>
 		<description>Valis III (USA)</description>
-		<release name="Valis III (USA)" region="USA"/>
 		<rom name="Valis III (USA).cue" size="6399" crc="930bb40e" md5="63ad5c1d2b9bdf365a7763ba5b15e6bb" sha1="14b8a547b128e1f240e9ecaf037ad5eb0861a6de"/>
 		<rom name="Valis III (USA) (Track 01).bin" size="7916832" crc="22144d0f" md5="ad1067d0bcc2ffeea540d3b985c51188" sha1="3b472f5e80bbf8259e09f8e4f547567bddb02490"/>
 		<rom name="Valis III (USA) (Track 02).bin" size="4078368" crc="1fea3963" md5="2aa65497cb619031070e59b79caec968" sha1="ce47a755d8919847b97d1f4d71dec19a839fc1bf"/>
@@ -2589,7 +2574,6 @@
 	<game name="Retail/Valis IV (Japan)">
 		<category></category>
 		<description>Valis IV (Japan)</description>
-		<release name="Valis IV (Japan)" region="Japan"/>
 		<rom name="Valis IV (Japan).cue" size="9853" crc="9595e237" md5="e071f86c70fbef65aa098e0f1084f496" sha1="13c332870c27fdd5e5b30c578b690da78f7baef7"/>
 		<rom name="Valis IV (Japan) (Track 01).bin" size="7914480" crc="b979500c" md5="a25a2c129b7100092cc40e9b6e176a63" sha1="9ac3f1a11d434d186466917f1c7955bf7670c910"/>
 		<rom name="Valis IV (Japan) (Track 02).bin" size="2375520" crc="742a6a56" md5="c3c025b53c4c5b5762963e0e0caa2993" sha1="a9aa35c307adf4862450d8418956f00e32f6743d"/>
@@ -2692,7 +2676,6 @@
 	<game name="Retail/Vasteel (USA)">
 		<category></category>
 		<description>Vasteel (USA)</description>
-		<release name="Vasteel (USA)" region="USA"/>
 		<rom name="Vasteel (USA).cue" size="2794" crc="3f9a8a1a" md5="542a1e082d43ffd2e158ae7b7131d29a" sha1="18de9f5617f097999b5251555e050d1b94e620da"/>
 		<rom name="Vasteel (USA) (Track 01).bin" size="7914480" crc="e5b26abf" md5="3b58c6a0ab8977325ea05ed3af1adb7c" sha1="bff6315bf0bc04dacd3cf943f30e6a7555bcbaf2"/>
 		<rom name="Vasteel (USA) (Track 02).bin" size="127231440" crc="4a7e4a7b" md5="681f42cc06e9793777e94571c7288861" sha1="a1949b411eaef375115713f14c79c956e78998ad"/>
@@ -2733,7 +2716,6 @@
 	<game name="Retail/Xak III - The Eternal Recurrence (Japan) (En) (v1.00) (Xak III De-Japanization)">
 		<category></category>
 		<description>Xak III - The Eternal Recurrence (Japan) (En) (v1.00) (Xak III De-Japanization)</description>
-		<release name="Xak III - The Eternal Recurrence (Japan) (En) (v1.00) (Xak III De-Japanization)" region="English"/>
 		<rom name="Xak III - The Eternal Recurrence (Japan) (En) (v1.00) (Xak III De-Japanization).cue" size="1581" crc="7454d6b8" md5="7de80db51c6aeb99c83ccd1145769cd5" sha1="611bdd0b0b8d548c4e3d90f75f64dba82ae6eee3"/>
 		<rom name="Xak III - The Eternal Recurrence (Japan) (En) (v1.00) (Xak III De-Japanization).bin" size="567664608" crc="47333dec" md5="0569ecec1791011f44b2e7b94f79161b" sha1="ca54ef739f57f9ca0cb11c0cc325f461cb74b497"/>
 		<url>https://retroachievements.org/game/13415/hashes</url>
@@ -2743,7 +2725,6 @@
 	<game name="Retail/Ys III - Wanderers from Ys (USA)">
 		<category></category>
 		<description>Ys III - Wanderers from Ys (USA)</description>
-		<release name="Ys III - Wanderers from Ys (USA)" region="USA"/>
 		<rom name="Ys III - Wanderers from Ys (USA).cue" size="2674" crc="d9dbba77" md5="2d221bf9c1ac24aa1c8a4606ff3e7c04" sha1="e0dca97387666d24346c9d13b05321d7d8e597d0"/>
 		<rom name="Ys III - Wanderers from Ys (USA) (Track 01).bin" size="7916832" crc="808d9f0d" md5="d86aa8050da37330834a332f92555366" sha1="e7378abbc613e76c9470d33f1f2affdf0b3b5b99"/>
 		<rom name="Ys III - Wanderers from Ys (USA) (Track 02).bin" size="58701216" crc="2438e447" md5="10ddbd55a98baf64df1c64064ef17242" sha1="fda4ecab121db0ab443956dcdf236a0f38868f73"/>
@@ -2777,7 +2758,6 @@
 	<game name="Retail/Ys IV - The Dawn of Ys (Japan) (Rev 3)">
 		<category></category>
 		<description>Ys IV - The Dawn of Ys (Japan) (Rev 3)</description>
-		<release name="Ys IV - The Dawn of Ys (Japan) (Rev 3)" region="Japan"/>
 		<rom name="Ys IV - The Dawn of Ys (Japan) (Rev 3).cue" size="3622" crc="fa7ea57e" md5="e42f62d283c5e29bf32ab5c3d1d71f05" sha1="2ac8f48485162cfc7cfab55273abeffc6b865009"/>
 		<rom name="Ys IV - The Dawn of Ys (Japan) (Rev 3) (Track 01).bin" size="7916832" crc="22144d0f" md5="ad1067d0bcc2ffeea540d3b985c51188" sha1="3b472f5e80bbf8259e09f8e4f547567bddb02490"/>
 		<rom name="Ys IV - The Dawn of Ys (Japan) (Rev 3) (Track 02).bin" size="77954688" crc="1baf2525" md5="cd294cc0fa003a030fb388450177fd8f" sha1="0f721f8877c18f3c9a488fe25f42a9806c275813"/>
@@ -2817,7 +2797,6 @@
 	<game name="Retail/Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve)">
 		<category></category>
 		<description>Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve)</description>
-		<release name="Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve)" region="English"/>
 		<rom name="Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve).cue" size="2373" crc="e23f0dbf" md5="4b625ac139f399a35fa18084d4bb7643" sha1="6d6a364434ecaac19ee203709a7533e74f9996f0"/>
 		<rom name="Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve).bin" size="774045552" crc="1289455e" md5="b71a468ba67b436f8c0a4f3cb8fbdf11" sha1="4493b03e9112c03e202c57f7a22a23de3cb10472"/>
 		<url>https://retroachievements.org/game/8839/hashes</url>
@@ -2827,7 +2806,6 @@
 	<game name="Retail/Ys Book I &amp; II (USA)">
 		<category></category>
 		<description>Ys Book I &amp; II (USA)</description>
-		<release name="Ys Book I &amp; II (USA)" region="USA"/>
 		<rom name="Ys Book I &amp; II (USA).cue" size="4030" crc="b48cd34a" md5="fb84af710dce14c3befdf7a5e020f7f2" sha1="ee92126ae3d8c3013c4d91b24320e2120fb217f3"/>
 		<rom name="Ys Book I &amp; II (USA) (Track 01).bin" size="7914480" crc="17623548" md5="77232c745e40cc155ad72c1b79780986" sha1="e1baaf01eee215def8bd6f6aa080e3a41ffc74f4"/>
 		<rom name="Ys Book I &amp; II (USA) (Track 02).bin" size="20307168" crc="8e029ac2" md5="e8db8109220893ad3aa9506cf7f13c23" sha1="d0498146b90725fee8fc2b00b2aa1ce47973549e"/>

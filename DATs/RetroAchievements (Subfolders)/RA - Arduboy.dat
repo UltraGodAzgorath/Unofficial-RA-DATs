@@ -5,8 +5,8 @@
 		<name>RA - Arduboy</name>
 		<description>Arduboy</description>
 		<category>1G1R</category>
-		<version>20250612</version>
-		<date>12 June 2025</date>
+		<version>20250621</version>
+		<date>21 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/71/games</url>
@@ -198,7 +198,6 @@
 	<game name="Retail/Cat Mines (World)">
 		<category></category>
 		<description>Cat Mines (World)</description>
-		<release name="Cat Mines (World)" region="World"/>
 		<rom name="Cat Mines (World).hex" size="41467" crc="1cde637e" md5="284c0d59e371d8c25ea3f8fe540b78c3" sha1="d3d6d0c41f2890e51634587e16a3aa40483eadf7"/>
 		<url>https://retroachievements.org/game/21381/hashes</url>
 		<hash>5c49a9f8bd8eb721d1195399e160d7d4</hash>

@@ -5,8 +5,8 @@
 		<name>RA - Mega Duck</name>
 		<description>Mega Duck</description>
 		<category>1G1R</category>
-		<version>20250619</version>
-		<date>19 June 2025</date>
+		<version>20250621</version>
+		<date>21 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/69/games</url>
@@ -29,11 +29,10 @@
 		<hash>0B41FFAD1C44A3252F2ECE6EE0F502F3</hash>
 	</game>
 	
-	<game name="Homebrew/Cacorm Mini (World) (v20241020) (Aftermarket) (Inufuto) (Homebrew)">
+	<game name="Homebrew/Cacorm Mini (World) (v20241020) (Aftermarket) (Inufuto)">
 		<category></category>
-		<description>Cacorm Mini (World) (v20241020) (Aftermarket) (Inufuto) (Homebrew)</description>
-		<release name="Cacorm Mini (World) (v20241020) (Aftermarket) (Inufuto) (Homebrew)" region="World"/>
-		<rom name="Cacorm Mini (World) (v20241020) (Aftermarket) (Inufuto) (Homebrew).bin" size="16384" crc="58c63d67" md5="30fd14ff650d9d77a601ec4ce21b6f52" sha1="e929debce85d951da3ab5302f58ba75615e4e066"/>
+		<description>Cacorm Mini (World) (v20241020) (Aftermarket) (Inufuto)</description>
+		<rom name="Cacorm Mini (World) (v20241020) (Aftermarket) (Inufuto).bin" size="16384" crc="58c63d67" md5="30fd14ff650d9d77a601ec4ce21b6f52" sha1="e929debce85d951da3ab5302f58ba75615e4e066"/>
 		<url>https://retroachievements.org/game/33639/hashes</url>
 		<hash>30fd14ff650d9d77a601ec4ce21b6f52</hash>
 	</game>

@@ -5,28 +5,28 @@
 		<name>RA - NEC PC-FX</name>
 		<description>NEC PC-FX</description>
 		<category>1G1R</category>
-		<version>20250619</version>
-		<date>19 June 2025</date>
+		<version>20250621</version>
+		<date>21 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/49/games</url>
 		<titlecount>19</titlecount>
 		<hashcount>23</hashcount>
 	</header>
-	<game name="Homebrew/Simple Battle FX (World) (Aftermarket) (gameblabla) (Homebrew)">
+	<game name="Homebrew/Simple Battle FX (World) (Aftermarket) (gameblabla)">
 		<category></category>
-		<description>Simple Battle FX (World) (Aftermarket) (gameblabla) (Homebrew)</description>
-		<rom name="Simple Battle FX (World) (Aftermarket) (gameblabla) (Homebrew).cue" size="125" crc="23041584" md5="bd34aea6ba466e71e474395f59ef55e0" sha1="3b423b37a4705a78d9d9720d072cc068e877d2f0"/>
-		<rom name="Simple Battle FX (World) (Aftermarket) (gameblabla) (Homebrew).bin" size="614400" crc="51110f24" md5="2e58ca80e9a452a184621a61c20c278b" sha1="53df48c43aeb68bdc87800e20e00a21a0f8c86bf"/>
+		<description>Simple Battle FX (World) (Aftermarket) (gameblabla)</description>
+		<rom name="Simple Battle FX (World) (Aftermarket) (gameblabla).cue" size="125" crc="23041584" md5="bd34aea6ba466e71e474395f59ef55e0" sha1="3b423b37a4705a78d9d9720d072cc068e877d2f0"/>
+		<rom name="Simple Battle FX (World) (Aftermarket) (gameblabla).bin" size="614400" crc="51110f24" md5="2e58ca80e9a452a184621a61c20c278b" sha1="53df48c43aeb68bdc87800e20e00a21a0f8c86bf"/>
 		<url>https://retroachievements.org/game/19912/hashes</url>
 		<hash>3C576145AEE0C0B78245BBAE4870BE8A</hash>
 	</game>
 
-	<game name="Homebrew/Soviet Union 2010 (World) (Aftermarket) (Matej Horvat) (Homebrew)">
+	<game name="Homebrew/Soviet Union 2010 (World) (Aftermarket) (Matej Horvat)">
 		<category></category>
-		<description>Soviet Union 2010 (World) (Aftermarket) (Matej Horvat) (Homebrew)</description>
-		<rom name="Soviet Union 2010 (World) (Aftermarket) (Matej Horvat) (Homebrew).cue" size="128" crc="e775ab7b" md5="c5acb6fc5441311e3b37d34906b6a41f" sha1="45078fba02dc5ce3b0b6c0717a3304a5fed6b4b8"/>
-		<rom name="Soviet Union 2010 (World) (Aftermarket) (Matej Horvat) (Homebrew).bin" size="614400" crc="aaa0317d" md5="2df43f2f303fc5546b1059120d98e4f0" sha1="2bebe1600f933713f86e117bcc4016e0a2a98504"/>
+		<description>Soviet Union 2010 (World) (Aftermarket) (Matej Horvat)</description>
+		<rom name="Soviet Union 2010 (World) (Aftermarket) (Matej Horvat).cue" size="128" crc="e775ab7b" md5="c5acb6fc5441311e3b37d34906b6a41f" sha1="45078fba02dc5ce3b0b6c0717a3304a5fed6b4b8"/>
+		<rom name="Soviet Union 2010 (World) (Aftermarket) (Matej Horvat).bin" size="614400" crc="aaa0317d" md5="2df43f2f303fc5546b1059120d98e4f0" sha1="2bebe1600f933713f86e117bcc4016e0a2a98504"/>
 		<url>https://retroachievements.org/game/16462/hashes</url>
 		<hash>770AAF1214A145BA2B1511B0DE752A24</hash>
 	</game>

@@ -5,88 +5,88 @@
 		<name>RA - Atari Lynx</name>
 		<description>Atari Lynx</description>
 		<category>1G1R</category>
-		<version>20250529</version>
-		<date>29 May 2025</date>
+		<version>20250621</version>
+		<date>21 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/13/games</url>
 		<titlecount>38</titlecount>
 		<hashcount>39</hashcount>
 	</header>
-	<game name="CHIP-8 Emulator (World) (Aftermarket) (Unl) (Homebrew)">
+	<game name="CHIP-8 Emulator (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>CHIP-8 Emulator (World) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="CHIP-8 Emulator (World) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="CHIP-8 Emulator (World) (Aftermarket) (Unl) (Homebrew).lyx" size="23511" crc="ed70fbcc" md5="3d4c70cba51a5c1f0e2fc3c1acb4be50" sha1="27e4cf003e98bc8a66c3627976b18e33fa820b12"/>
+		<description>CHIP-8 Emulator (World) (Aftermarket) (Unl)</description>
+		<release name="CHIP-8 Emulator (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="CHIP-8 Emulator (World) (Aftermarket) (Unl).lyx" size="23511" crc="ed70fbcc" md5="3d4c70cba51a5c1f0e2fc3c1acb4be50" sha1="27e4cf003e98bc8a66c3627976b18e33fa820b12"/>
 		<url>https://retroachievements.org/game/25950/hashes</url>
 		<hash>3D4C70CBA51A5C1F0E2FC3C1ACB4BE50</hash>
 	</game>
 	
-	<game name="Flappy Bird (86) (World) (Aftermarket) (tonma) (Homebrew)">
+	<game name="Flappy Bird (86) (World) (Aftermarket) (tonma)">
 		<category>Homebrew</category>
-		<description>Flappy Bird (86) (World) (Aftermarket) (tonma) (Homebrew)</description>
-		<release name="Flappy Bird (86) (World) (Aftermarket) (tonma) (Homebrew)" region="World"/>
-		<rom name="Flappy Bird - Testing (Homebrew) (86) (Homebrew).lyx" size="32111" crc="c61f1606" md5="85e80cae6da0cbced0d409a48a49c33e" sha1="eae69daddb1a9de53fc45755af135dd25d185c2a"/>
+		<description>Flappy Bird (86) (World) (Aftermarket) (tonma)</description>
+		<release name="Flappy Bird (86) (World) (Aftermarket) (tonma)" region="World"/>
+		<rom name="Flappy Bird (86) (World) (Aftermarket) (tonma).lyx" size="32111" crc="c61f1606" md5="85e80cae6da0cbced0d409a48a49c33e" sha1="eae69daddb1a9de53fc45755af135dd25d185c2a"/>
 		<url>https://retroachievements.org/game/19508/hashes</url>
 		<hash>0173EC92E8E8A0359901F310C5F12BB1</hash>
 	</game>
-	<game name="Flappy Bird (EE) (World) (Aftermarket) (tonma) (Homebrew)" cloneof="Flappy Bird (86) (World) (Aftermarket) (tonma) (Homebrew)">
+	<game name="Flappy Bird (EE) (World) (Aftermarket) (tonma)" cloneof="Flappy Bird (86) (World) (Aftermarket) (tonma)">
 		<category>Homebrew</category>
-		<description>Flappy Bird (EE) (World) (Aftermarket) (tonma) (Homebrew)</description>
-		<rom name="Flappy Bird (EE) (World) (Aftermarket) (tonma) (Homebrew).lyx" size="32073" crc="e6787336" md5="84d02bc4f902462f654216007a379fbb" sha1="da3ca5809a475f70a2275ceac43198f98dbe0b79"/>
+		<description>Flappy Bird (EE) (World) (Aftermarket) (tonma)</description>
+		<rom name="Flappy Bird (EE) (World) (Aftermarket) (tonma).lyx" size="32073" crc="e6787336" md5="84d02bc4f902462f654216007a379fbb" sha1="da3ca5809a475f70a2275ceac43198f98dbe0b79"/>
 		<url>https://retroachievements.org/game/19508/hashes</url>
 		<hash>8F05D2FFDADFFDBCE7A1040A9AA0F8E7</hash>
 	</game>
 	
-	<game name="Critter Championship (World) (Demo) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Critter Championship (World) (Demo) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Critter Championship (World) (Demo) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Critter Championship (World) (Demo) (Aftermarket) (Unl) (Homebrew)" region="World"/>
+		<description>Critter Championship (World) (Demo) (Aftermarket) (Unl)</description>
+		<release name="Critter Championship (World) (Demo) (Aftermarket) (Unl)" region="World"/>
 		<rom name="Critter Championship (World) (Demo) (Aftermarket) (Unl).lnx" size="82289" crc="1785665b" md5="e138c8c988b6ed948e33af73eae1764f" sha1="c3399a6ac822ff3de2659de5894df505a08e7a90"/>
 		<url>https://retroachievements.org/game/19715/hashes</url>
 		<hash>757852D987DB4CC79A1A81EADC9DD821</hash>
 	</game>
 	
-	<game name="Running Knight (World) (LynxJam 2023) (Aftermarket) (Unl) (Dr. Ludos) (Homebrew)">
+	<game name="Running Knight (World) (LynxJam 2023) (Aftermarket) (Unl) (Dr. Ludos)">
 		<category>Homebrew</category>
-		<description>Running Knight (World) (LynxJam 2023) (Aftermarket) (Unl) (Dr. Ludos) (Homebrew)</description>
-		<release name="Running Knight (World) (LynxJam 2023) (Aftermarket) (Unl) (Dr. Ludos) (Homebrew)" region="World"/>
+		<description>Running Knight (World) (LynxJam 2023) (Aftermarket) (Unl) (Dr. Ludos)</description>
+		<release name="Running Knight (World) (LynxJam 2023) (Aftermarket) (Unl) (Dr. Ludos)" region="World"/>
 		<rom name="Running Knight (World) (LynxJam 2023) (Aftermarket) (Unl) (Dr. Ludos).lnx" size="262208" crc="482719d8" md5="f3663cf094ca1ab6883d6b3c03e7429d" sha1="f826cecb0e2ddc3620d6509b821591aa11d0ec4e"/>
 		<url>https://retroachievements.org/game/29053/hashes</url>
 		<hash>24077AB7BF46300FF02AA4CA78A81C2C</hash>
 	</game>
 	
-	<game name="Scooternia (World) (Demo) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Scooternia (World) (Demo) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Scooternia (World) (Demo) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Scooternia (World) (Demo) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Scooternia (World) (Demo) (Aftermarket) (Unl) (Homebrew).lyx" size="262144" crc="7606dcac" md5="459aaf1e66384ea3534e3ce2149a1718" sha1="93e228f35b5b38f1d5bfac0fbb934ea5fbc98263"/>
+		<description>Scooternia (World) (Demo) (Aftermarket) (Unl)</description>
+		<release name="Scooternia (World) (Demo) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Scooternia (World) (Demo) (Aftermarket) (Unl).lyx" size="262144" crc="7606dcac" md5="459aaf1e66384ea3534e3ce2149a1718" sha1="93e228f35b5b38f1d5bfac0fbb934ea5fbc98263"/>
 		<url>https://retroachievements.org/game/24300/hashes</url>
 		<hash>459AAF1E66384EA3534E3CE2149A1718</hash>
 	</game>
 	
-	<game name="T-Tris (World) (Pirate) (Alt) (Homebrew)">
+	<game name="T-Tris (World) (Pirate) (Alt)">
 		<category>Homebrew</category>
-		<description>T-Tris (World) (Pirate) (Alt) (Homebrew)</description>
-		<release name="T-Tris (World) (Pirate) (Alt) (Homebrew)" region="World"/>
+		<description>T-Tris (World) (Pirate) (Alt)</description>
+		<release name="T-Tris (World) (Pirate) (Alt)" region="World"/>
 		<rom name="T-Tris (World) (Pirate) (Alt).bll" size="15700" crc="a261fcbc" md5="1b6a8a0b7f80332e9c7dfecaded8683e" sha1="d337d0b38e22f42c92691ad2a80d48125d908b7f"/>
 		<url>https://retroachievements.org/game/24898/hashes</url>
 		<hash>1B6A8A0B7F80332E9C7DFECADED8683E</hash>
 	</game>
 	
-	<game name="Timeloop (World) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Timeloop (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Timeloop (World) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Timeloop (World) (Aftermarket) (Unl) (Homebrew)" region="World"/>
+		<description>Timeloop (World) (Aftermarket) (Unl)</description>
+		<release name="Timeloop (World) (Aftermarket) (Unl)" region="World"/>
 		<rom name="Timeloop (World) (Aftermarket) (Unl).lnx" size="262208" crc="5508e5f5" md5="dc0919e6666a61b11a0f904b543a7518" sha1="7c30f02e6a908b1c93e8251e0ed3f96234ebe72f"/>
 		<url>https://retroachievements.org/game/27007/hashes</url>
 		<hash>749F3E82357BAB232731F0E56F97569C</hash>
 	</game>
 	
-	<game name="Z.A.P. (World) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Z.A.P. (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Z.A.P. (World) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Z.A.P. (World) (Aftermarket) (Unl) (Homebrew)" region="World"/>
+		<description>Z.A.P. (World) (Aftermarket) (Unl)</description>
+		<release name="Z.A.P. (World) (Aftermarket) (Unl)" region="World"/>
 		<rom name="Z.A.P. (World) (Aftermarket) (Unl).lnx" size="24873" crc="6b51794e" md5="fb84478cb62f47c0773996515ada47c9" sha1="7cd0c413e12c812fdb6476f7ed661111fe90bec1"/>
 		<url>https://retroachievements.org/game/19714/hashes</url>
 		<hash>D5079E2E6E1AD9C2B730E47C240A4DA0</hash>

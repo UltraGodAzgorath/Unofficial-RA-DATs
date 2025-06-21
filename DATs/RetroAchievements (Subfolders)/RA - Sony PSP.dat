@@ -5,8 +5,8 @@
 		<name>RA - Sony PSP</name>
 		<description>Sony PSP</description>
 		<category>1G1R</category>
-		<version>20250620</version>
-		<date>20 June 2025</date>
+		<version>20250621</version>
+		<date>21 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/41/games</url>
@@ -3352,7 +3352,6 @@
 	<game name="Retail/Worms - Open Warfare 2 (Europe) (En,Fr,De,Es,It)">
 		<category>PSP</category>
 		<description>Worms - Open Warfare 2 (Europe) (En,Fr,De,Es,It)</description>
-		<release name="Worms - Open Warfare 2 (Europe) (En,Fr,De,Es,It)" region="Europe"/>
 		<rom name="Worms - Open Warfare 2 (Europe) (En,Fr,De,Es,It).iso" size="196870144" crc="d9bbf442" md5="4e7b222c959a801c9a68a10fe5343387" sha1="bef541d1865f8cb3d09fbc5ace66fa986432122a"/>
 		<url>https://retroachievements.org/game/6054/hashes</url>
 		<hash>b261aa8286529faa67e5e8383e5425ed</hash>

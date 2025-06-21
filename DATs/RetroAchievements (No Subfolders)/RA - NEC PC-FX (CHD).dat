@@ -5,8 +5,8 @@
 		<name>RA - NEC PC-FX (CHD)</name>
 		<description>NEC PC-FX (CHD)</description>
 		<category>1G1R</category>
-		<version>20250529</version>
-		<date>29 May 2025</date>
+		<version>20250621</version>
+		<date>21 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/49/games</url>
@@ -15,20 +15,20 @@
 		<clrmamepro forcepacking="unzip"/>
 		<romvault forcepacking="unzip"/>
 	</header>
-	<game name="Simple Battle FX (World) (Aftermarket) (gameblabla) (Homebrew)">
+	<game name="Simple Battle FX (World) (Aftermarket) (gameblabla)">
 		<category>Homebrew</category>
-		<description>Simple Battle FX (World) (Aftermarket) (gameblabla) (Homebrew)</description>
-		<release name="Simple Battle FX (World) (Aftermarket) (gameblabla) (Homebrew)" region="World"/>
-		<rom name="Simple Battle FX (World) (Aftermarket) (gameblabla) (Homebrew).chd" size="8585" crc="56b25e52" md5="b1805c20a48eba78900e6d662b218679" sha1="867a576d68d1c8834ae2fcd060e4fc87f75ce899"/>
+		<description>Simple Battle FX (World) (Aftermarket) (gameblabla)</description>
+		<release name="Simple Battle FX (World) (Aftermarket) (gameblabla)" region="World"/>
+		<rom name="Simple Battle FX (World) (Aftermarket) (gameblabla).chd" size="8585" crc="56b25e52" md5="b1805c20a48eba78900e6d662b218679" sha1="867a576d68d1c8834ae2fcd060e4fc87f75ce899"/>
 		<url>https://retroachievements.org/game/19912/hashes</url>
 		<hash>3C576145AEE0C0B78245BBAE4870BE8A</hash>
 	</game>
 
-	<game name="Soviet Union 2010 (World) (Aftermarket) (Matej Horvat) (Homebrew)">
+	<game name="Soviet Union 2010 (World) (Aftermarket) (Matej Horvat)">
 		<category>Homebrew</category>
-		<description>Soviet Union 2010 (World) (Aftermarket) (Matej Horvat) (Homebrew)</description>
-		<release name="Soviet Union 2010 (World) (Aftermarket) (Matej Horvat) (Homebrew)" region="World"/>
-		<rom name="Soviet Union 2010 (World) (Aftermarket) (Matej Horvat) (Homebrew).chd" size="12094" crc="7dd2f8b5" md5="6a900e349741208c7ca6bd6006e712e5" sha1="bb7bdee06e74c07efc22fcfb5f0ae9b094865173"/>
+		<description>Soviet Union 2010 (World) (Aftermarket) (Matej Horvat)</description>
+		<release name="Soviet Union 2010 (World) (Aftermarket) (Matej Horvat)" region="World"/>
+		<rom name="Soviet Union 2010 (World) (Aftermarket) (Matej Horvat).chd" size="12094" crc="7dd2f8b5" md5="6a900e349741208c7ca6bd6006e712e5" sha1="bb7bdee06e74c07efc22fcfb5f0ae9b094865173"/>
 		<url>https://retroachievements.org/game/16462/hashes</url>
 		<hash>770AAF1214A145BA2B1511B0DE752A24</hash>
 	</game>

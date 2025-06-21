@@ -5,53 +5,53 @@
 		<name>RA - NEC TurboGrafx-16</name>
 		<description>NEC TurboGrafx-16</description>
 		<category>1G1R</category>
-		<version>20250614</version>
-		<date>14 June 2025</date>
+		<version>20250621</version>
+		<date>21 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/8/games</url>
 		<titlecount>135</titlecount>
 		<hashcount>174/225</hashcount>
 	</header>
-	<game name="Atlantean (World) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Atlantean (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Atlantean (World) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Atlantean (World) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Atlantean (World) (Aftermarket) (Unl) (Homebrew).pce" size="524800" crc="ef596649" md5="b407192527c9472a489fea0aeac00f8d" sha1="d76f867256c3ff192b0cde8a1c685d558c2066c2"/>
+		<description>Atlantean (World) (Aftermarket) (Unl)</description>
+		<release name="Atlantean (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Atlantean (World) (Aftermarket) (Unl).pce" size="524800" crc="ef596649" md5="b407192527c9472a489fea0aeac00f8d" sha1="d76f867256c3ff192b0cde8a1c685d558c2066c2"/>
 		<url>https://retroachievements.org/game/18084/hashes</url>
 		<hash>29ABB6671FC4A4217473CD955CB76AE8</hash>
 	</game>
 	
-	<game name="HuZERO (World) (Aftermarket) (Unl) (Homebrew)">
+	<game name="HuZERO (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>HuZERO (World) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="HuZERO (World) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="HuZERO (World) (Aftermarket) (Unl) (Homebrew).pce" size="262144" crc="2871c4c0" md5="b14e14493c7c45b8d61c160236ac0f85" sha1="4328878a56f4cf34a9b62f6a4a2982bb57d695e8"/>
+		<description>HuZERO (World) (Aftermarket) (Unl)</description>
+		<release name="HuZERO (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="HuZERO (World) (Aftermarket) (Unl).pce" size="262144" crc="2871c4c0" md5="b14e14493c7c45b8d61c160236ac0f85" sha1="4328878a56f4cf34a9b62f6a4a2982bb57d695e8"/>
 		<url>https://retroachievements.org/game/20488/hashes</url>
 		<hash>B14E14493C7C45B8D61C160236AC0F85</hash>
 	</game>
 	
-	<game name="Maria (World) (Aftermarket) (Unl) (No-Intro) (Homebrew)">
+	<game name="Maria (World) (Aftermarket) (Unl) (No-Intro)">
 		<category>Homebrew</category>
-		<description>Maria (World) (Aftermarket) (Unl) (No-Intro) (Homebrew)</description>
-		<rom name="Maria (World) (Aftermarket) (Unl) (No-Intro) (Homebrew).pce" size="491520" crc="192a5924" md5="de25a604c8f59525ef061ac5bb3567bd" sha1="cf64c8cf29c11310924362ff03dd7d8120debf8f"/>
+		<description>Maria (World) (Aftermarket) (Unl) (No-Intro)</description>
+		<rom name="Maria (World) (Aftermarket) (Unl) (No-Intro).pce" size="491520" crc="192a5924" md5="de25a604c8f59525ef061ac5bb3567bd" sha1="cf64c8cf29c11310924362ff03dd7d8120debf8f"/>
 		<url>https://retroachievements.org/game/13669/hashes</url>
 		<hash>de25a604c8f59525ef061ac5bb3567bd</hash>
 	</game>
-	<game name="Maria (World) (Aftermarket) (Unl) (Itch.io) (Homebrew)" cloneof="Maria (World) (Aftermarket) (Unl) (No-Intro) (Homebrew)">
+	<game name="Maria (World) (Aftermarket) (Unl) (Itch.io)" cloneof="Maria (World) (Aftermarket) (Unl) (No-Intro)">
 		<category>Homebrew</category>
-		<description>Maria (World) (Aftermarket) (Unl) (Itch.io) (Homebrew)</description>
-		<release name="Maria (World) (Aftermarket) (Unl) (Itch.io) (Homebrew)" region="World"/>
-		<rom name="Maria (World) (Aftermarket) (Unl) (Itch.io) (Homebrew).pce" size="492032" crc="e1f8d959" md5="79e74b94605e3842fe5958bc0e37cc3f" sha1="26850be8cec77f072082e91c200f552f788c11cd"/>
+		<description>Maria (World) (Aftermarket) (Unl) (Itch.io)</description>
+		<release name="Maria (World) (Aftermarket) (Unl) (Itch.io)" region="World"/>
+		<rom name="Maria (World) (Aftermarket) (Unl) (Itch.io).pce" size="492032" crc="e1f8d959" md5="79e74b94605e3842fe5958bc0e37cc3f" sha1="26850be8cec77f072082e91c200f552f788c11cd"/>
 		<url>https://retroachievements.org/game/13669/hashes</url>
 		<hash>79e74b94605e3842fe5958bc0e37cc3f</hash>
 	</game>
 	
-	<game name="Mega Man 2 (World) (v0.87) (Proto) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Mega Man 2 (World) (v0.87) (Proto) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Mega Man 2 (World) (v0.87) (Proto) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Mega Man 2 (World) (v0.87) (Proto) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Mega Man 2 (World) (v0.87) (Proto) (Aftermarket) (Unl) (Homebrew).pce" size="524288" crc="2fc86aff" md5="83079124c8efce1eee4c3a34a89441a5" sha1="3bad484a43682a11b79bb5e3ca39755922807e19"/>
+		<description>Mega Man 2 (World) (v0.87) (Proto) (Aftermarket) (Unl)</description>
+		<release name="Mega Man 2 (World) (v0.87) (Proto) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Mega Man 2 (World) (v0.87) (Proto) (Aftermarket) (Unl).pce" size="524288" crc="2fc86aff" md5="83079124c8efce1eee4c3a34a89441a5" sha1="3bad484a43682a11b79bb5e3ca39755922807e19"/>
 		<url>https://retroachievements.org/game/18611/hashes</url>
 		<hash>83079124C8EFCE1EEE4C3A34A89441A5</hash>
 	</game>
@@ -65,47 +65,47 @@
 		<hash>E68B97F12B236E7B827DC77F98D29CD5</hash>
 	</game>
 	
-	<game name="Nantettatte Engine (World) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Nantettatte Engine (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Nantettatte Engine (World) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Nantettatte Engine (World) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Nantettatte Engine (World) (Aftermarket) (Unl) (Homebrew).pce" size="262144" crc="3974fb41" md5="a8264f87f8c2a9a97fe46c2fa3249deb" sha1="4b9cd0d86b6406142a306adcafe6ae9efbcd9b6b"/>
+		<description>Nantettatte Engine (World) (Aftermarket) (Unl)</description>
+		<release name="Nantettatte Engine (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Nantettatte Engine (World) (Aftermarket) (Unl).pce" size="262144" crc="3974fb41" md5="a8264f87f8c2a9a97fe46c2fa3249deb" sha1="4b9cd0d86b6406142a306adcafe6ae9efbcd9b6b"/>
 		<url>https://retroachievements.org/game/28326/hashes</url>
 		<hash>A8264F87F8C2A9A97FE46C2FA3249DEB</hash>
 	</game>
 	
-	<game name="Reflectron (World) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Reflectron (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Reflectron (World) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Reflectron (World) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Reflectron (World) (Aftermarket) (Unl) (Homebrew).pce" size="262144" crc="6a3727e2" md5="40540be45e4f802344cfcb9f43b527b0" sha1="982a7627233c30cc23b85c666536d69faf3c2dbc"/>
+		<description>Reflectron (World) (Aftermarket) (Unl)</description>
+		<release name="Reflectron (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Reflectron (World) (Aftermarket) (Unl).pce" size="262144" crc="6a3727e2" md5="40540be45e4f802344cfcb9f43b527b0" sha1="982a7627233c30cc23b85c666536d69faf3c2dbc"/>
 		<url>https://retroachievements.org/game/26878/hashes</url>
 		<hash>40540BE45E4F802344CFCB9F43B527B0</hash>
 	</game>
 	
-	<game name="Santatlantean (World) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Santatlantean (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Santatlantean (World) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Santatlantean (World) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Santatlantean (World) (Aftermarket) (Unl) (Homebrew).pce" size="524288" crc="f436b4ac" md5="12c9cb92855185a15b315435ec8eadf7" sha1="9e79251dc99a24ea03a2a431cac26a66e6c6a543"/>
+		<description>Santatlantean (World) (Aftermarket) (Unl)</description>
+		<release name="Santatlantean (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Santatlantean (World) (Aftermarket) (Unl).pce" size="524288" crc="f436b4ac" md5="12c9cb92855185a15b315435ec8eadf7" sha1="9e79251dc99a24ea03a2a431cac26a66e6c6a543"/>
 		<url>https://retroachievements.org/game/18085/hashes</url>
 		<hash>12C9CB92855185A15B315435EC8EADF7</hash>
 	</game>
 	
-	<game name="Great Fumo Binning, The (World) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Great Fumo Binning, The (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Great Fumo Binning, The (World) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Great Fumo Binning, The (World) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Great Fumo Binning, The (World) (Aftermarket) (Unl) (Homebrew).pce" size="73728" crc="8f92ac67" md5="de60a6746244d36a1bc9b8cc0abc481b" sha1="f81162d7eee56ab1e69abc33d7048e8ad127f11f"/>
+		<description>Great Fumo Binning, The (World) (Aftermarket) (Unl)</description>
+		<release name="Great Fumo Binning, The (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Great Fumo Binning, The (World) (Aftermarket) (Unl).pce" size="73728" crc="8f92ac67" md5="de60a6746244d36a1bc9b8cc0abc481b" sha1="f81162d7eee56ab1e69abc33d7048e8ad127f11f"/>
 		<url>https://retroachievements.org/game/25183/hashes</url>
 		<hash>DE60A6746244D36A1BC9B8CC0ABC481B</hash>
 	</game>
 	
-	<game name="Tongueman's Logic (World) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Tongueman's Logic (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Tongueman's Logic (World) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Tongueman's Logic (World) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Tongueman's Logic (World) (Aftermarket) (Unl) (Homebrew).pce" size="524288" crc="fe451c22" md5="15107f07c3b7a65a7e784add44349961" sha1="456c4a07b6e5d0a4e231aad3a479f97f3df02e21"/>
+		<description>Tongueman's Logic (World) (Aftermarket) (Unl)</description>
+		<release name="Tongueman's Logic (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Tongueman's Logic (World) (Aftermarket) (Unl).pce" size="524288" crc="fe451c22" md5="15107f07c3b7a65a7e784add44349961" sha1="456c4a07b6e5d0a4e231aad3a479f97f3df02e21"/>
 		<url>https://retroachievements.org/game/14467/hashes</url>
 		<hash>15107F07C3B7A65A7E784ADD44349961</hash>
 	</game>

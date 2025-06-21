@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>1G1R</category>
-		<version>20250620</version>
-		<date>20 June 2025</date>
+		<version>20250621</version>
+		<date>21 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
@@ -665,17 +665,17 @@
 		<hash>5d0a86e9a98c8f551f64f4b63a68a065</hash>
 	</game>
 	
-	<game name="Homebrew/Lone Wolf DS I - Huida de la Oscuridad (World) (Es) (v1.51) (Homebrew)">
+	<game name="Homebrew/Lone Wolf DS I - Huida de la Oscuridad (World) (Es) (v1.51)">
 		<category></category>
-		<description>Lone Wolf DS I - Huida de la Oscuridad (World) (Es) (v1.51) (Homebrew)</description>
-		<rom name="Lone Wolf DS I - Huida de la Oscuridad (World) (Es) (v1.51) (Homebrew).nds" size="15276040" crc="69a806a9" md5="aee33886c76506ad3fb6905298e0775e" sha1="1030bd43f63b2870b8a134d52f7ec519b53ebbb8"/>
+		<description>Lone Wolf DS I - Huida de la Oscuridad (World) (Es) (v1.51)</description>
+		<rom name="Lone Wolf DS I - Huida de la Oscuridad (World) (Es) (v1.51).nds" size="15276040" crc="69a806a9" md5="aee33886c76506ad3fb6905298e0775e" sha1="1030bd43f63b2870b8a134d52f7ec519b53ebbb8"/>
 		<url>https://retroachievements.org/game/19159/hashes</url>
 		<hash>48936a73600f7ed217bd3ced478b38df</hash>
 	</game>
-	<game name="Homebrew/Lone Wolf DS I - Flight From The Dark (World) (En) (v1.51) (Homebrew)">
+	<game name="Homebrew/Lone Wolf DS I - Flight From The Dark (World) (En) (v1.51)">
 		<category></category>
-		<description>Lone Wolf DS I - Flight From The Dark (World) (En) (v1.51) (Homebrew)</description>
-		<rom name="Lone Wolf DS I - Flight From The Dark (World) (En) (v1.51) (Homebrew).nds" size="15272456" crc="94248726" md5="fbbb2181054301b9e6932fc261f77367" sha1="ffed0b0bf23878a6c5de56a2ec2e820cdc1d76a5"/>
+		<description>Lone Wolf DS I - Flight From The Dark (World) (En) (v1.51)</description>
+		<rom name="Lone Wolf DS I - Flight From The Dark (World) (En) (v1.51).nds" size="15272456" crc="94248726" md5="fbbb2181054301b9e6932fc261f77367" sha1="ffed0b0bf23878a6c5de56a2ec2e820cdc1d76a5"/>
 		<url>https://retroachievements.org/game/19159/hashes</url>
 		<hash>ef8a012358052d264e3485fdd7fbc9c1</hash>
 	</game>
@@ -5327,7 +5327,6 @@
 	<game name="Retail/TrackMania Turbo (Europe) (En,Fr,De,Es,It)">
 		<category></category>
 		<description>TrackMania Turbo (Europe) (En,Fr,De,Es,It)</description>
-		<release name="TrackMania Turbo (Europe) (En,Fr,De,Es,It)" region="Europe"/>
 		<rom name="TrackMania Turbo (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="dafdb6fe" md5="673212c6e98e90750e24c7772585e8d9" sha1="857b8f5f5ce9b91eaa04e35b99a591243672e51c"/>
 		<url>https://retroachievements.org/game/20897/hashes</url>
 		<hash>4526abf8b3344ec64a05879d49c67936</hash>

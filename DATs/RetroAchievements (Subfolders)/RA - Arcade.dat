@@ -5,8 +5,8 @@
 		<name>RA - Arcade</name>
 		<description>Arcade</description>
 		<category>1G1R</category>
-		<version>20250620</version>
-		<date>20 June 2025</date>
+		<version>20250621</version>
+		<date>21 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/27/games</url>
@@ -102,7 +102,7 @@
 	</game>
 	
 	<game name="Hack/dkchrmx">
-		<description>Donkey Kong Christmas Remix (Hack)</description>
+		<description>Donkey Kong Christmas Remix</description>
 		<category>FBNeo</category>
 		<rom name="c_5et_g.bin" size="4096" crc="ba70b88b"/>
 		<rom name="c_5ct_g.bin" size="4096" crc="5ec461ec"/>
@@ -336,7 +336,7 @@
 	</game>
 	
 	<game name="Hack/galagawm">
-		<description>Galaga Wave Mixer (Hack)</description>
+		<description>Galaga Wave Mixer</description>
 		<category>FBNeo</category>
 		<rom name="wmgg1_1b.3p" size="4096" crc="d7dffd9c"/>
 		<rom name="wmgg1_2b.3m" size="4096" crc="ab7cbd28"/>
@@ -1985,7 +1985,7 @@
 		<hash>7E665C8CC6D9A3003CC878390E03EAA8</hash>
 	</game>
 	
-	<game name="azumanga">
+	<game name="Retail/azumanga">
 		<description>Azumanga Daioh Puzzle Bobble (GDL-0018)</description>
 		<category>Flycast</category>
 		<biosset name="bios0" description="epr-21576e (Japan)"/>
@@ -3600,7 +3600,7 @@
 		<hash>5F0DEFD4CA6E5801B29AD9DF6C3887D3</hash>
 	</game>
 	
-	<game name="cvs2">
+	<game name="Retail/cvs2">
 		<description>Capcom Vs. SNK 2: Mark Of The Millennium 2001 (USA) (GDL-0008)</description>
 		<category>Flycast</category>
 		<biosset name="bios0" description="epr-21576e (Japan)"/>
@@ -5038,7 +5038,7 @@
 		<hash>c1f4ac0d770177f38db970f826d20a0f</hash>
 	</game>
 	
-	<game name="dolphin">
+	<game name="Retail/dolphin">
 		<description>Dolphin Blue</description>
 		<category>Flycast</category>
 		<biosset name="bios0" description="Sammy BIOS"/>
@@ -6025,7 +6025,7 @@
 		<hash>946E902AA8B913F8E972A64B5133C522</hash>
 	</game>
 	
-	<game name="fotns">
+	<game name="Retail/fotns">
 		<description>Fist Of The North Star / Hokuto no Ken</description>
 		<category>Flycast</category>
 		<biosset name="bios0" description="Sammy BIOS"/>
@@ -7012,7 +7012,7 @@
 		<hash>B4AE17B03EE911865A62F681F7C612FD</hash>
 	</game>
 	
-	<game name="ggx15">
+	<game name="Retail/ggx15">
 		<description>Guilty Gear X ver. 1.5</description>
 		<category>Flycast</category>
 		<biosset name="bios0" description="Sammy BIOS"/>
@@ -7049,7 +7049,7 @@
 		<hash>2b1e95198076f50452a48de4da0d1be1</hash>
 	</game>
 		
-	<game name="ggxxac">
+	<game name="Retail/ggxxac">
 		<description>Guilty Gear XX Accent Core (Japan) (GDL-0041)</description>
 		<category>Flycast</category>
 		<biosset name="bios0" description="epr-21576e (Japan)"/>
@@ -7117,7 +7117,7 @@
 		<hash>5648f05c564835fc91e702ca5ff0f437</hash>
 	</game>
 		
-	<game name="gunsur2">
+	<game name="Retail/gunsur2">
 		<description>Gun Survivor 2 Biohazard Code: Veronica (World, BHF2 Ver.E)</description>
 		<category>Flycast</category>
 		<biosset name="bios0" description="epr-21576h (Japan)"/>
@@ -7889,7 +7889,7 @@
 		<hash>F9F78F8432452A24447903CB07884316</hash>
 	</game>
 	
-	<game name="initdv2e">
+	<game name="Retail/initdv2e">
 		<description>Initial D Arcade Stage Ver. 2 (Export) (GDS-0027)</description>
 		<category>Flycast</category>
 		<biosset name="bios0" description="epr-23605c (Japan)"/>
@@ -7966,7 +7966,7 @@
 		<hash>3e1dda9b1af930b1cf66b3ac58a5ee9b</hash>
 	</game>
 	
-	<game name="initdv3e">
+	<game name="Retail/initdv3e">
 		<description>Initial D Arcade Stage Ver. 3 (Export) (GDS-0033)</description>
 		<category>Flycast</category>
 		<biosset name="bios0" description="epr-23605c (Japan)"/>
@@ -8074,7 +8074,7 @@
 		<hash>4ce640569efb4a867fe7d700a231a6e9</hash>
 	</game>
 	
-	<game name="jambo">
+	<game name="Retail/jambo">
 		<description>Jambo! Safari (Rev A)</description>
 		<category>Flycast</category>
 		<biosset name="bios0" description="epr-21576h (Japan)"/>
@@ -9669,7 +9669,7 @@
 		<hash>80CF81BA256B82569D3702508D430CB7</hash>
 	</game>
 	
-	<game name="mbaa">
+	<game name="Retail/mbaa">
 		<description>Melty Blood Actress Again Version A (Japan, Rev A)</description>
 		<category>Flycast</category>
 		<biosset name="bios0" description="epr-21576h (Japan)"/>
@@ -9846,7 +9846,7 @@
 		<hash>B1475B391AD385C16FEAE3A2BFBFC2A0</hash>
 	</game>
 	<game name="Retail/mslug2t">
-		<description>Metal Slug 2 Turbo (NGM-9410) (hack)</description>
+		<description>Metal Slug 2 Turbo (NGM-9410)</description>
 		<category>FBNeo</category>
 		<rom name="941-p1.p1" size="1048576" crc="df5d6fbc"/>
 		<rom name="241-p2.sp2" size="2097152" crc="38883f44"/>
@@ -10142,7 +10142,7 @@
 		<hash>AC81F93F04BE5D5A385F8E97EA595DBC</hash>
 	</game>
 	
-	<game name="mslug6">
+	<game name="Retail/mslug6">
 		<description>Metal Slug 6</description>
 		<category>Flycast</category>
 		<biosset name="bios0" description="Sammy BIOS"/>
@@ -10483,7 +10483,7 @@
 		<hash>D2B5DB2B9C36E4CAA37ED7EEA04ECDF9</hash>
 	</game>
 	
-	<game name="monkeyba">
+	<game name="Retail/monkeyba">
 		<description>Monkey Ball (GDS-0008)</description>
 		<category>Flycast</category>
 		<biosset name="bios0" description="epr-21576e (Japan)"/>
@@ -11159,7 +11159,7 @@
 		<hash>86A5E87842B12616C52F467F5693348F</hash>
 	</game>
 	
-	<game name="ngbc">
+	<game name="Retail/ngbc">
 		<description>NeoGeo Battle Coliseum</description>
 		<category>Flycast</category>
 		<biosset name="bios0" description="Sammy BIOS"/>
@@ -14329,7 +14329,7 @@
 		<hash>9B17D9B51D0D090939CA6FF11C7D8C1B</hash>
 	</game>
 	
-	<game name="rhytngk">
+	<game name="Retail/rhytngk">
 		<description>Rhythm Tengoku (Japan)</description>
 		<category>Flycast</category>
 		<biosset name="bios0" description="epr-21576h (Japan)"/>
@@ -18942,7 +18942,7 @@
 		<hash>8DB1903D29DEAE4B52B4CBDCAA48C3C7</hash>
 	</game>
 	
-	<game name="hotd2">
+	<game name="Retail/hotd2">
 		<description>The House of the Dead 2 (USA)</description>
 		<category>Flycast</category>
 		<biosset name="bios0" description="HOTD2 (Export)"/>
@@ -20600,7 +20600,7 @@
 		<hash>CCEC478698513CD9BC8C7DD6D33D58D6</hash>
 	</game>
 	
-	<game name="kofxi">
+	<game name="Retail/kofxi">
 		<description>The King of Fighters XI</description>
 		<category>Flycast</category>
 		<biosset name="bios0" description="Sammy BIOS"/>
@@ -20637,7 +20637,7 @@
 		<hash>f2ed49032b7ea11ca6dbde32d0b07654</hash>
 	</game>
 	
-	<game name="kofnw">
+	<game name="Retail/kofnw">
 		<description>The King of Fighters Neowave</description>
 		<category>Flycast</category>
 		<biosset name="bios0" description="Sammy BIOS"/>
@@ -21949,7 +21949,7 @@
 		<hash>EA64EE242AF91A7CBEA4FC772304D406</hash>
 	</game>
 	
-	<game name="waidrive">
+	<game name="Retail/waidrive">
 		<description>WaiWai Drive</description>
 		<category>Flycast</category>
 		<biosset name="bios0" description="Sammy BIOS"/>
@@ -22124,7 +22124,7 @@
 		<hash>DA5C580BFA56914EF2E260F2C3483602</hash>
 	</game>
 	
-	<game name="wldrider">
+	<game name="Retail/wldrider">
 		<description>Wild Riders</description>
 		<category>Flycast</category>
 		<biosset name="bios0" description="epr-23605c (Japan)"/>

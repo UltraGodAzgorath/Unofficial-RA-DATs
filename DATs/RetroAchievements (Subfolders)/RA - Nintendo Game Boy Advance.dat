@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>1G1R</category>
-		<version>20250620</version>
-		<date>20 June 2025</date>
+		<version>20250621</version>
+		<date>21 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -582,7 +582,6 @@
 	<game name="Hack/Pokemon FR - Pokemon Odyssey (v4.0.1) (Yggdrasil Project) (Hack)">
 		<category></category>
 		<description>Pokemon FR - Pokemon Odyssey (v4.0.1) (Yggdrasil Project) (Hack)</description>
-		<release name="Pokemon FR - Pokemon Odyssey (v4.0.1) (Yggdrasil Project) (Hack)" region="World"/>
 		<rom name="Pokemon FR - Pokemon Odyssey (v4.0.1) (Yggdrasil Project) (Hack).gba" size="33554432" crc="af0d9f56" md5="f08d1b00fdd11bbb7a0a7b26b1e34e3f" sha1="47d86103576f4d8f35e49b8fca4f133c72c2417c"/>
 		<url>https://retroachievements.org/game/33063/hashes</url>
 		<hash>f08d1b00fdd11bbb7a0a7b26b1e34e3f</hash>
@@ -4105,7 +4104,6 @@
 	<game name="Retail/Jurassic Park Institute Tour - Dinosaur Rescue (Japan)">
 		<category></category>
 		<description>Jurassic Park Institute Tour - Dinosaur Rescue (Japan)</description>
-		<release name="Jurassic Park Institute Tour - Dinosaur Rescue (Japan)" region="Japan"/>
 		<rom name="Jurassic Park Institute Tour - Dinosaur Rescue (Japan).gba" size="4194304" crc="7c75555e" md5="8ce34b50e1b658b4c69e6ba4a100f71e" sha1="318a581595e0571eff70baed3e0d86b7dcd70242"/>
 		<url>https://retroachievements.org/game/8149/hashes</url>
 		<hash>8ce34b50e1b658b4c69e6ba4a100f71e</hash>

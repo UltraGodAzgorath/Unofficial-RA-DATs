@@ -5,8 +5,8 @@
 		<name>RA - Fairchild Channel F</name>
 		<description>Fairchild Channel F</description>
 		<category>1G1R</category>
-		<version>20250619</version>
-		<date>19 June 2025</date>
+		<version>20250621</version>
+		<date>21 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/57/games</url>
@@ -108,10 +108,10 @@
 		<hash>2AEBEDA05478E8B7F5C1ECA037AC6C2F</hash>
 	</game>
 	
-	<game name="Homebrew/wrdl-f (World) (Aftermarket) (Homebrew)">
+	<game name="Homebrew/wrdl-f (World) (Aftermarket)">
 		<category></category>
-		<description>wrdl-f (World) (Aftermarket) (Homebrew)</description>
-		<rom name="wrdl-f (World) (Aftermarket) (Homebrew).rom" size="8161" crc="0ae07b86" md5="745479a23fb09dda3df3179c56719ca8" sha1="cbe3eef9b8de73f600f704b381b594be29c1f345"/>
+		<description>wrdl-f (World) (Aftermarket)</description>
+		<rom name="wrdl-f (World) (Aftermarket).rom" size="8161" crc="0ae07b86" md5="745479a23fb09dda3df3179c56719ca8" sha1="cbe3eef9b8de73f600f704b381b594be29c1f345"/>
 		<url>https://retroachievements.org/game/20231/hashes</url>
 		<hash>745479A23FB09DDA3DF3179C56719CA8</hash>
 	</game>

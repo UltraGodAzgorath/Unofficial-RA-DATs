@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation 2</name>
 		<description>Sony Playstation 2</description>
 		<category>1G1R</category>
-		<version>20250620</version>
-		<date>20 June 2025</date>
+		<version>20250621</version>
+		<date>21 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -3133,7 +3133,6 @@
 	<game name="Retail/Hyper Street Fighter II - The Anniversary Edition (Europe)">
 		<category></category>
 		<description>Hyper Street Fighter II - The Anniversary Edition (Europe)</description>
-		<release name="Hyper Street Fighter II - The Anniversary Edition (Europe)" region="Europe"/>
 		<rom name="Hyper Street Fighter II - The Anniversary Edition (Europe).iso" size="2488598528" crc="c27a8b15" md5="7e728fdebb77ab6b6683b783810fd629" sha1="b6bbdc82c4f8d14fbb5760046d70ac1cb8277d2d"/>
 		<url>https://retroachievements.org/game/24042/hashes</url>
 		<hash>483027f51667988a8ce553a124eca27e</hash>
@@ -3349,7 +3348,6 @@
 	<game name="Retail/Killzone (USA)">
 		<category></category>
 		<description>Killzone (USA)</description>
-			<release name="Killzone (USA)" region="USA"/>
 		<rom name="Killzone (USA).iso" size="4624285696" crc="c15a46ee" md5="537fee8c62b53841d7f700d6ea724686" sha1="53aad9cf5ef00ed3ca4989bc123baf0228f3921c"/>
 		<url>https://retroachievements.org/game/19056/hashes</url>
 		<hash>20b538d9c53c3e76d20119e1b25e98fc</hash>
@@ -5053,7 +5051,6 @@
 	<game name="Retail/Rocky Legends (USA)">
 		<category></category>
 		<description>Rocky Legends (USA)</description>
-		<release name="Rocky Legends (USA)" region="USA"/>
 		<rom name="Rocky Legends (USA).iso" size="2345205760" crc="87acfabb" md5="05369bff0e31049e52137931aaabae6e" sha1="7724e1428e702257c1fc9fa37e0c0f8eb9149cf1"/>
 		<url>https://retroachievements.org/game/24505/hashes</url>
 		<hash>8200b7b8efa230dfd38d3140bdd7734f</hash>
@@ -6725,7 +6722,6 @@
 	<game name="Retail/Seigneur des Anneaux, Le - Les Deux Tours (France)">
 		<category></category>
 		<description>Seigneur des Anneaux, Le - Les Deux Tours (France)</description>
-		v<release name="Seigneur des Anneaux, Le - Les Deux Tours (France)" region="France"/>
 		<rom name="Seigneur des Anneaux, Le - Les Deux Tours (France).iso" size="3995598848" crc="096d1de9" md5="2f70ffdc67cb9e093e351a998f183a77" sha1="bad8e1155319a3d4613612a6b2ebd0af841bb4d5"/>
 		<url>https://retroachievements.org/game/19265/hashes</url>
 		<hash>09cb061c2706c06ec6651a8d70d7ed91</hash>
@@ -6811,7 +6807,6 @@
 	<game name="Retail/Zombie Hunters 2 (Europe)">
 		<category></category>
 		<description>Zombie Hunters 2 (Europe)</description>
-		<release name="Zombie Hunters 2 (Europe)" region="Europe"/>
 		<rom name="Zombie Hunters 2 (Europe).cue" size="91" crc="8994a69a" md5="39321ea21cd2c4e9e3eb3bab043c0fa3" sha1="e794941b726479aed0807a50d58e24610890fc67"/>
 		<rom name="Zombie Hunters 2 (Europe).bin" size="745134768" crc="85317258" md5="ef2edf595373981a0b812e53d55c369b" sha1="e5fac475bc5d814c37a21e63d0ef3f15b8e78a6d"/>
 		<url>https://retroachievements.org/game/28925/hashes</url>

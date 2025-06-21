@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>1G1R</category>
-		<version>20250620</version>
-		<date>20 June 2025</date>
+		<version>20250621</version>
+		<date>21 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/4/games</url>
@@ -332,7 +332,6 @@
 	<game name="Homebrew/Persona 5 Pocket Edition (Homebrew) (Demo)">
 		<category></category>
 		<description>Persona 5 Pocket Edition (Homebrew) (Demo)</description>
-   		<release name="Persona 5 Pocket Edition (Homebrew) (Demo)" region="World"/>
    		<rom name="Persona 5 Pocket Edition (Homebrew) (Demo).gb" size="262144" crc="29660898" md5="583ff1d2f95c6237fc0929dad27f5e2d" sha1="431170eb6b677d07f54558121f78110d59670d6a"/>
    		<url>https://retroachievements.org/game/31314/hashes</url>
 		<hash>583ff1d2f95c6237fc0929dad27f5e2d</hash>
@@ -713,7 +712,6 @@
 	<game name="Homebrew/Impossible Gameboy (World) (Aftermarket) (Unl)">
     	<category></category>
 		<description>Impossible Gameboy (World) (Aftermarket) (Unl)</description>
-    	<release name="Impossible Gameboy (World) (Aftermarket) (Unl)" region="World"/>
     	<rom name="Impossible Gameboy (World) (Aftermarket) (Unl).gb" size="131072" crc="ab65b738" md5="dd83f27a43bc5d571c86f979aac2e1dd" sha1="d31cedd6227b23cf3d8ef81c73f133ab0b57e4f4"/>
     	<url>https://retroachievements.org/game/7395/hashes</url>
 		<hash>dd83f27a43bc5d571c86f979aac2e1dd</hash>
@@ -746,7 +744,6 @@
 	<game name="Homebrew/Magipanels (World) (Aftermarket) (Unl)">
     	<category></category>
 		<description>Magipanels (World) (Aftermarket) (Unl)</description>
-    	<release name="Magipanels (World) (Aftermarket) (Unl)" region="World"/>
     	<rom name="Magipanels (World) (Aftermarket) (Unl).gb" size="131072" crc="0b66561b" md5="75e4ced55fe6dc29561c54e613848b23" sha1="c9513f6769098f2185f632f87386788f0f0b6ad8"/>
    		<url>https://retroachievements.org/game/27387/hashes</url>
 		<hash>75e4ced55fe6dc29561c54e613848b23</hash>
@@ -755,7 +752,6 @@
 	<game name="Homebrew/Marzipan Beef Reverser (World) (v2.0) (Aftermarket) (Unl)">
     	<category></category>
 		<description>Marzipan Beef Reverser (World) (v2.0) (Aftermarket) (Unl)</description>
-    	<release name="Marzipan Beef Reverser (World) (v2.0) (Aftermarket) (Unl)" region="World"/>
     	<rom name="Marzipan Beef Reverser (World) (v2.0) (Aftermarket) (Unl).gb" size="262144" crc="dccaeb60" md5="1a583eda068a03bab68786f0d8f70597" sha1="1e4fc83bfe9c9063975a3862770e4afee3f947a4"/>
     	<url>https://retroachievements.org/game/19272/hashes</url>
 		<hash>1a583eda068a03bab68786f0d8f70597</hash>
@@ -811,7 +807,6 @@
 	<game name="Homebrew/Phobos Dere .GB (World) (Aftermarket) (Unl)">
 		<category></category>
 		<description>Phobos Dere .GB (World) (Aftermarket) (Unl)</description>
-   		<release name="Phobos Dere .GB (World) (Aftermarket) (Unl)" region="World"/>
    		<rom name="Phobos Dere .GB (World) (Aftermarket) (Unl).gb" size="1048576" crc="ae97f4f8" md5="a1d55314d4d98e93eaf8de42e1ac5bc8" sha1="e541505078ee5e7e5c897b4621cc693ce71e35ba"/>
    		<url>https://retroachievements.org/game/22395/hashes</url>
 		<hash>a1d55314d4d98e93eaf8de42e1ac5bc8</hash>
@@ -820,7 +815,6 @@
 	<game name="Homebrew/Porklike (World) (v1.05) (SGB Enhanced) (Aftermarket) (Unl)">
     	<category></category>
 		<description>Porklike (World) (v1.05) (SGB Enhanced) (Aftermarket) (Unl)</description>
-    	<release name="Porklike (World) (v1.05) (SGB Enhanced) (Aftermarket) (Unl)" region="World"/>
     	<rom name="Porklike (World) (v1.05) (SGB Enhanced) (Aftermarket) (Unl).gb" size="65536" crc="801f097b" md5="654615505816982cdc6446d5af319d6b" sha1="5da110a88799765707e027bcedec0875a637509b"/>
     	<url>https://retroachievements.org/game/19576/hashes</url>
 		<hash>654615505816982cdc6446d5af319d6b</hash>
@@ -869,7 +863,6 @@
 	<game name="Homebrew/Sacred Meat (World) (v1.3) (Aftermarket) (Unl)">
     	<category></category>
 		<description>Sacred Meat (World) (v1.3) (Aftermarket) (Unl)</description>
-    	<release name="Sacred Meat (World) (v1.3) (Aftermarket) (Unl)" region="World"/>
     	<rom name="Sacred Meat (World) (v1.3) (Aftermarket) (Unl).gb" size="2097152" crc="6669f0be" md5="3ba766a3d32b765bb038d2ef6b49ead4" sha1="25bcf936e8dadb10d288473989891e4f2ec6c605"/>
     	<url>https://retroachievements.org/game/29783/hashes</url>
 		<hash>3ba766a3d32b765bb038d2ef6b49ead4</hash>
@@ -878,7 +871,6 @@
 	<game name="Homebrew/Sam Mallard - The Case of the Missing Swan (World) (SGB Enhanced) (Aftermarket) (Unl)">
     	<category></category>
 		<description>Sam Mallard - The Case of the Missing Swan (World) (SGB Enhanced) (Aftermarket) (Unl)</description>
-    	<release name="Sam Mallard - The Case of the Missing Swan (World) (SGB Enhanced) (Aftermarket) (Unl)" region="World"/>
     	<rom name="Sam Mallard - The Case of the Missing Swan (World) (SGB Enhanced) (Aftermarket) (Unl).gb" size="1048576" crc="994a2edd" md5="83fc53defeb7b05ac619c9918797ee83" sha1="0132f0311d8478d4f45b3b8e2728698570091d69"/>
     	<url>https://retroachievements.org/game/6479/hashes</url>
 		<hash>83fc53defeb7b05ac619c9918797ee83</hash>
@@ -895,7 +887,6 @@
 	<game name="Homebrew/Shock Lobster (World) (v1.3) (Aftermarket) (Unl)">
     	<category></category>
 		<description>Shock Lobster (World) (v1.3) (Aftermarket) (Unl)</description>
-    	<release name="Shock Lobster (World) (v1.3) (Aftermarket) (Unl)" region="World"/>
     	<rom name="Shock Lobster (World) (v1.3) (Aftermarket) (Unl).gb" size="32768" crc="8f244e86" md5="214f8ac98a8c9d78359d71c47cf46df5" sha1="7b8c8a9ec4758c6880598b9d508bc5805293dd87"/>
     	<url>https://retroachievements.org/game/18810/hashes</url>
 		<hash>214f8ac98a8c9d78359d71c47cf46df5</hash>
@@ -943,7 +934,6 @@
 	<game name="Homebrew/Sushi Gun (World) (Aftermarket) (Unl)">
 		<category></category>
 		<description>Sushi Gun (World) (Aftermarket) (Unl)</description>
-   		<release name="Sushi Gun (World) (Aftermarket) (Unl)" region="World"/>
    		<rom name="Sushi Gun (World) (Aftermarket) (Unl).gb" size="262144" crc="a9d405d6" md5="b150ebb4eef4643b9a392f41a0cd62e5" sha1="c075856939d4fe3cd250083b527b3e09be70052d"/>
    		<url>https://retroachievements.org/game/18806/hashes</url>
 		<hash>b150ebb4eef4643b9a392f41a0cd62e5</hash>
@@ -976,7 +966,6 @@
 	<game name="Homebrew/There's Nothing to Do in This Town (World) (Aftermarket) (Unl)">
 		<category></category>
 		<description>There's Nothing to Do in This Town (World) (Aftermarket) (Unl)</description>
-   		<release name="There's Nothing to Do in This Town (World) (Aftermarket) (Unl)" region="World"/>
    		<rom name="There's Nothing to Do in This Town (World) (Aftermarket) (Unl).gb" size="1048576" crc="173b549a" md5="d44041e733ffa73dea5613f62f8e064b" sha1="e000fbecda9ea6bbbd0c0370cf8c3faaa54bf64e"/>
    		<url>https://retroachievements.org/game/7224/hashes</url>
 		<hash>d44041e733ffa73dea5613f62f8e064b</hash>
@@ -985,7 +974,6 @@
 	<game name="Homebrew/Tobu Tobu Girl (World) (Aftermarket) (Unl)">
 		<category></category>
 		<description>Tobu Tobu Girl (World) (Aftermarket) (Unl)</description>
-   		<release name="Tobu Tobu Girl (World) (Aftermarket) (Unl)" region="World"/>
    		<rom name="Tobu Tobu Girl (World) (Aftermarket) (Unl).gb" size="262144" crc="ed12be6c" md5="48ea776eace6f2582b70dc965cf2df1f" sha1="8a8f3c1f21f903ea5a7df8fc8b0a6aa5a602e150"/>
    		<url>https://retroachievements.org/game/13411/hashes</url>
 		<hash>48ea776eace6f2582b70dc965cf2df1f</hash>
@@ -994,7 +982,6 @@
 	<game name="Homebrew/Traumatarium (World) (Demo) (2021-12-09) (Aftermarket) (Unl)">
 		<category></category>
 		<description>Traumatarium (World) (Demo) (2021-12-09) (Aftermarket) (Unl)</description>
-   		<release name="Traumatarium (World) (Demo) (2021-12-09) (Aftermarket) (Unl)" region="World"/>
    		<rom name="Traumatarium (World) (Demo) (2021-12-09) (Aftermarket) (Unl).gb" size="2097152" crc="15afd765" md5="0aea35682c6853ec1f36f69a999ae2cb" sha1="c12e603492f8bcfffd28dd4733c7bc445c507642"/>
    		<url>https://retroachievements.org/game/22572/hashes</url>
 		<hash>0aea35682c6853ec1f36f69a999ae2cb</hash>
@@ -1003,7 +990,6 @@
 	<game name="Homebrew/UNPAN (World) (Aftermarket) (GB Studio)">
 		<category></category>
 		<description>UNPAN (World) (Aftermarket) (GB Studio)</description>
-   		<release name="UNPAN (World) (Aftermarket) (GB Studio)" region="World"/>
    		<rom name="UNPAN (World) (Aftermarket) (GB Studio).gb" size="262144" crc="bd297a42" md5="6e684f059d3228b0c99e59cb69c3ee10" sha1="cb25e38391f733fa44d39edcbf12f6861ac70031"/>
    		<url>https://retroachievements.org/game/33115/hashes</url>
 		<hash>6e684f059d3228b0c99e59cb69c3ee10</hash>
@@ -1012,7 +998,6 @@
 	<game name="Homebrew/Waifu Clicker (World) (Aftermarket) (Unl)">
 		<category></category>
 		<description>Waifu Clicker (World) (Aftermarket) (Unl)</description>
-   		<release name="Waifu Clicker (World) (Aftermarket) (Unl)" region="World"/>
    		<rom name="Waifu Clicker (World) (Aftermarket) (Unl).gb" size="65536" crc="155f85dc" md5="fd72131f46eaccd71e987489f834c630" sha1="bb571ed69c3a33e45ba33fbb03a066ba98ae0b20"/>
    		<url>https://retroachievements.org/game/3821/hashes</url>
 		<hash>fd72131f46eaccd71e987489f834c630</hash>
@@ -1083,7 +1068,6 @@
 	<game name="Homebrew/Zelda's Adventure (World) (v1.3.0) (Aftermarket) (Unl)">
     	<category></category>
 		<description>Zelda's Adventure (World) (v1.3.0) (Aftermarket) (Unl)</description>
-    	<release name="Zelda's Adventure (World) (v1.3.0) (Aftermarket) (Unl)" region="World"/>
     	<rom name="Zelda's Adventure (World) (v1.3.0) (Aftermarket) (Unl).gb" size="2097152" crc="0b10adaf" md5="8b4d9ea149c4cd156bd4ce0db1127943" sha1="12f9ba0a4673dd2f59ba38e636332333a199dea5"/>
     	<url>https://retroachievements.org/game/24177/hashes</url>
 		<hash>8b4d9ea149c4cd156bd4ce0db1127943</hash>

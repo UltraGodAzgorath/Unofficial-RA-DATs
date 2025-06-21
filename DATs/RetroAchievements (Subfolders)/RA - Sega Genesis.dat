@@ -5,8 +5,8 @@
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
 		<category>1G1R</category>
-		<version>20250620</version>
-		<date>20 June 2025</date>
+		<version>20250621</version>
+		<date>21 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/1/games</url>
@@ -874,7 +874,6 @@
 	<game name="Prototype/Time Trax (USA) (Proto)">
 		<category></category>
 		<description>Time Trax (USA) (Proto)</description>
-		<release name="Time Trax (USA) (Proto)" region="USA"/>
 		<rom name="Time Trax (USA) (Proto).md" size="1048576" crc="dff045eb" md5="d45f98bea74f605640fd8e9e9eb578ce" sha1="d7eb65f67ebb89a85c25a3accf06368554a13834"/>
 		<url>https://retroachievements.org/game/2394/hashes</url>
 		<hash>d45f98bea74f605640fd8e9e9eb578ce</hash>

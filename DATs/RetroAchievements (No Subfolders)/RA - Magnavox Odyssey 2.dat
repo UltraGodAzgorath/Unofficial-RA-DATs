@@ -5,28 +5,28 @@
 		<name>RA - Magnavox Odyssey 2</name>
 		<description>Magnavox Odyssey 2</description>
 		<category>1G1R</category>
-		<version>20250529</version>
-		<date>29 May 2025</date>
+		<version>20250621</version>
+		<date>21 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/23/games</url>
 		<titlecount>28</titlecount>
 		<hashcount>35</hashcount>
 	</header>
-	<game name="Boobs (Homebrew) (v1.3a) (Chris Read) (Homebrew)">
+	<game name="Boobs (v1.3a) (Chris Read)">
 		<category>Homebrew</category>
-		<description>Boobs (Homebrew) (v1.3a) (Chris Read) (Homebrew)</description>
-		<release name="Boobs (Homebrew) (v1.3a) (Chris Read) (Homebrew)" region="World"/>
-		<rom name="Boobs (Homebrew) (v1.3a) (Chris Read) (Homebrew).bin" size="2048" crc="9847f5d0" md5="2ff854e7bdaf79ebacc70610d7129a63" sha1="0d6b44e2445dbb3bf70c4e05f222822845c29762"/>
+		<description>Boobs (v1.3a) (Chris Read)</description>
+		<release name="Boobs (v1.3a) (Chris Read)" region="World"/>
+		<rom name="Boobs (v1.3a) (Chris Read).bin" size="2048" crc="9847f5d0" md5="2ff854e7bdaf79ebacc70610d7129a63" sha1="0d6b44e2445dbb3bf70c4e05f222822845c29762"/>
 		<url>https://retroachievements.org/game/20059/hashes</url>
 		<hash>2FF854E7BDAF79EBACC70610D7129A63</hash>
 	</game>
 	
-	<game name="Happy Bird (Homebrew) (Rafael Cardoso-2600 Connection) (Homebrew)">
+	<game name="Happy Bird (Rafael Cardoso-2600 Connection)">
 		<category>Homebrew</category>
-		<description>Happy Bird (Homebrew) (Rafael Cardoso-2600 Connection) (Homebrew)</description>
-		<release name="Happy Bird (Homebrew) (Rafael Cardoso-2600 Connection) (Homebrew)" region="World"/>
-		<rom name="Happy Bird (Homebrew) (Rafael Cardoso-2600 Connection) (Homebrew).bin" size="4096" crc="28e6901b" md5="449661989f35b981901fef21330e005c" sha1="2b34ef0e1a8c0371f00a33d6950e0807f3cb886e"/>
+		<description>Happy Bird (Rafael Cardoso-2600 Connection)</description>
+		<release name="Happy Bird (Rafael Cardoso-2600 Connection)" region="World"/>
+		<rom name="Happy Bird (Rafael Cardoso-2600 Connection).bin" size="4096" crc="28e6901b" md5="449661989f35b981901fef21330e005c" sha1="2b34ef0e1a8c0371f00a33d6950e0807f3cb886e"/>
 		<url>https://retroachievements.org/game/20039/hashes</url>
 		<hash>449661989F35B981901FEF21330E005C</hash>
 	</game>
