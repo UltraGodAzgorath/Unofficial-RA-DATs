@@ -4,132 +4,132 @@
 	<header>
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
-		<category>1G1R</category>
-		<version>20250621</version>
-		<date>21 June 2025</date>
+		<category>No Subfolders</category>
+		<version>20250623</version>
+		<date>23 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
 		<titlecount>652</titlecount>
 		<hashcount>1071/1076</hashcount>
 	</header>
-	<game name="WarioWare, Inc. - Trial Version (Demo) (USA)">
+	<game name="WarioWare, Inc. - Trial Version (USA) (Demo)">
 		<category>Demo</category>
-		<description>WarioWare, Inc. - Trial Version (Demo) (USA)</description>
-		<release name="WarioWare, Inc. - Trial Version (Demo) (USA)" region="USA"/>
-		<rom name="WarioWare, Inc. - Trial Version (Demo) (USA).gba" size="249848" crc="cc86e7c2" md5="39891f6dc6233821d27e3319095de733" sha1="ca4ae225f2f758ed84cef9a3c8490efd4b5a0a7c"/>
+		<description>WarioWare, Inc. - Trial Version (USA) (Demo)</description>
+		<release name="WarioWare, Inc. - Trial Version (USA) (Demo)" region="USA"/>
+		<rom name="WarioWare, Inc. - Trial Version (USA) (Demo).gba" size="249848" crc="cc86e7c2" md5="39891f6dc6233821d27e3319095de733" sha1="ca4ae225f2f758ed84cef9a3c8490efd4b5a0a7c"/>
 		<url>https://retroachievements.org/game/29874/hashes</url>
 		<hash>39891f6dc6233821d27e3319095de733</hash>
 	</game>
-	<game name="WarioWare, Inc. - Trial Version (Demo) (Japan)" cloneof="WarioWare, Inc. - Trial Version (Demo) (USA)">
+	<game name="WarioWare, Inc. - Trial Version (Japan) (Demo)" cloneof="WarioWare, Inc. - Trial Version (USA) (Demo)">
 		<category>Demo</category>
-		<description>WarioWare, Inc. - Trial Version (Demo) (Japan)</description>
-		<release name="WarioWare, Inc. - Trial Version (Demo) (Japan)" region="Japan"/>
-		<rom name="WarioWare, Inc. - Trial Version (Demo) (Japan).gba" size="248108" crc="57da69a6" md5="7a856c8add82abb0e70e33d5d67411de" sha1="e3e66739303aae3abab7dbd54f5645e7d484a5f6"/>
+		<description>WarioWare, Inc. - Trial Version (Japan) (Demo)</description>
+		<release name="WarioWare, Inc. - Trial Version (Japan) (Demo)" region="Japan"/>
+		<rom name="WarioWare, Inc. - Trial Version (Japan) (Demo).gba" size="248108" crc="57da69a6" md5="7a856c8add82abb0e70e33d5d67411de" sha1="e3e66739303aae3abab7dbd54f5645e7d484a5f6"/>
 		<url>https://retroachievements.org/game/29874/hashes</url>
 		<hash>7a856c8add82abb0e70e33d5d67411de</hash>
 	</game>
 	
-	<game name="Pokemon FR - Zelda - Sacred Paradox (Hack)">
+	<game name="Pokemon - Zelda - Sacred Paradox (Demo) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Zelda - Sacred Paradox (Hack)</description>
-		<release name="Pokemon FR - Zelda - Sacred Paradox (Hack)" region="World"/>
-		<rom name="Pokemon FR - Zelda - Sacred Paradox (Hack).gba" size="33554432" crc="4094fcc7" md5="afb458a7e60113c702d864388bd4be5c" sha1="b81d966e436b81624616fe85f3cd1e78d0524b47"/>
+		<description>Pokemon - Zelda - Sacred Paradox (Demo) (Hack)</description>
+		<release name="Pokemon - Zelda - Sacred Paradox (Demo) (Hack)" region="World"/>
+		<rom name="Pokemon - Zelda - Sacred Paradox (Demo) (Hack).gba" size="33554432" crc="4094fcc7" md5="afb458a7e60113c702d864388bd4be5c" sha1="b81d966e436b81624616fe85f3cd1e78d0524b47"/>
 		<url>https://retroachievements.org/game/9977/hashes</url>
 		<hash>afb458a7e60113c702d864388bd4be5c</hash>
 	</game>
 	
-	<game name="Pokemon LG - Grand Day Out, A (Cutlerine) (Hack)">
+	<game name="Pokemon - Grand Day Out, A (Cutlerine) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon LG - Grand Day Out, A (Cutlerine) (Hack)</description>
-		<release name="Pokemon LG - Grand Day Out, A (Cutlerine) (Hack)" region="World"/>
-		<rom name="Pokemon LG - Grand Day Out, A (Cutlerine) (Hack).gba" size="16777216" crc="76c12f9c" md5="45487c50d750d30f4f465f6ed3fb6d31" sha1="c4309fe57ef0546ad819a58206293be6f6f6f5a4"/>
+		<description>Pokemon - Grand Day Out, A (Cutlerine) (Hack)</description>
+		<release name="Pokemon - Grand Day Out, A (Cutlerine) (Hack)" region="World"/>
+		<rom name="Pokemon - Grand Day Out, A (Cutlerine) (Hack).gba" size="16777216" crc="76c12f9c" md5="45487c50d750d30f4f465f6ed3fb6d31" sha1="c4309fe57ef0546ad819a58206293be6f6f6f5a4"/>
 		<url>https://retroachievements.org/game/14655/hashes</url>
 		<hash>45487c50d750d30f4f465f6ed3fb6d31</hash>
 	</game>
 	
-	<game name="Pokemon Emerald - Acko's Mach-Bike Race (ackolade) (v1.1) (Hack)">
+	<game name="Pokemon - Acko's Mach-Bike Race (ackolade) (v1.1) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Emerald - Acko's Mach-Bike Race (ackolade) (v1.1) (Hack)</description>
-		<release name="Pokemon Emerald - Acko's Mach-Bike Race (ackolade) (v1.1) (Hack)" region="World"/>
-		<rom name="Pokemon Emerald - Acko's Mach-Bike Race (ackolade) (v1.1) (Hack).gba" size="33554432" crc="7ee7bf49" md5="47d9c4f0caf302994998de362006905c" sha1="ef7895d86ab3f20e0a57b289a76aa88849ac17f3"/>
+		<description>Pokemon - Acko's Mach-Bike Race (ackolade) (v1.1) (Hack)</description>
+		<release name="Pokemon - Acko's Mach-Bike Race (ackolade) (v1.1) (Hack)" region="World"/>
+		<rom name="Pokemon - Acko's Mach-Bike Race (ackolade) (v1.1) (Hack).gba" size="33554432" crc="7ee7bf49" md5="47d9c4f0caf302994998de362006905c" sha1="ef7895d86ab3f20e0a57b289a76aa88849ac17f3"/>
 		<url>https://retroachievements.org/game/33618/hashes</url>
 		<hash>47d9c4f0caf302994998de362006905c</hash>
 	</game>
 	
-	<game name="FE8 - Andaron Saga (v20240803) (Hack)">
+	<game name="Fire Emblem - Andaron Saga (v20240803) (Hack)">
 		<category>Hack</category>
-		<description>FE8 - Andaron Saga (v20240803) (Hack)</description>
-		<rom name="FE8 - Andaron Saga (v20240803) (Hack).gba" size="33546512" crc="59cf72f2" md5="8daa19fb099c4d726fb440d5b8caf518" sha1="d9fe11680bd162648004013588e7bec216742517"/>
+		<description>Fire Emblem - Andaron Saga (v20240803) (Hack)</description>
+		<rom name="Fire Emblem - Andaron Saga (v20240803) (Hack).gba" size="33546512" crc="59cf72f2" md5="8daa19fb099c4d726fb440d5b8caf518" sha1="d9fe11680bd162648004013588e7bec216742517"/>
 		<url>https://retroachievements.org/game/26735/hashes</url>
 		<hash>8daa19fb099c4d726fb440d5b8caf518</hash>
 	</game>
-	<game name="FE8 - Andaron Saga (v20250228) (Hack)" cloneof="FE8 - Andaron Saga (v20240803) (Hack)">
+	<game name="Fire Emblem - Andaron Saga (v20250228) (Hack)" cloneof="Fire Emblem - Andaron Saga (v20240803) (Hack)">
 		<category>Hack</category>
-		<description>FE8 - Andaron Saga (v20250228) (Hack)</description>
-		<release name="FE8 - Andaron Saga (v20250228) (Hack)" region="World"/>
-		<rom name="FE8 - Andaron Saga (v20250228) (Hack).gba" size="28995224" crc="a3b9cd19" md5="6f6536584bcbf4c2d887086ed3606595" sha1="2d7f255e848e5921d9c62680718598814d8258a0"/>
+		<description>Fire Emblem - Andaron Saga (v20250228) (Hack)</description>
+		<release name="Fire Emblem - Andaron Saga (v20250228) (Hack)" region="World"/>
+		<rom name="Fire Emblem - Andaron Saga (v20250228) (Hack).gba" size="28995224" crc="a3b9cd19" md5="6f6536584bcbf4c2d887086ed3606595" sha1="2d7f255e848e5921d9c62680718598814d8258a0"/>
 		<url>https://retroachievements.org/game/26735/hashes</url>
 		<hash>6f6536584bcbf4c2d887086ed3606595</hash>
 	</game>
 	
-	<game name="FE8 - Andaron Saga (Subset - Secrets Hunt)">
+	<game name="Fire Emblem - Andaron Saga (Subset - Secrets Hunt)">
 		<category>Subset</category>
-		<description>FE8 - Andaron Saga (Subset - Secrets Hunt) (Hack)</description>
-		<release name="FE8 - Andaron Saga (Subset - Secrets Hunt) (Hack)" region="World"/>
-		<rom name="FE8 - Andaron Saga (Subset - Secrets Hunt) (Hack).gba" size="33546512" crc="eeaf1f6d" md5="de1cac0525eb163f0860586f15658d15" sha1="520365f46374f0a3df585de64eb4c7fcbf9f7e0a"/>
+		<description>Fire Emblem - Andaron Saga (Subset - Secrets Hunt)</description>
+		<release name="Fire Emblem - Andaron Saga (Subset - Secrets Hunt)" region="World"/>
+		<rom name="Fire Emblem - Andaron Saga (Subset - Secrets Hunt).gba" size="33546512" crc="eeaf1f6d" md5="de1cac0525eb163f0860586f15658d15" sha1="520365f46374f0a3df585de64eb4c7fcbf9f7e0a"/>
 		<url>https://retroachievements.org/game/30883/hashes</url>
 		<hash>de1cac0525eb163f0860586f15658d15</hash>
 	</game>
 	
-	<game name="FE8 - Andaron Saga - Randomizer (Hack)">
+	<game name="Fire Emblem - Andaron Saga - Randomizer (Hack)">
 		<category>Hack</category>
-		<description>FE8 - Andaron Saga - Randomizer (Hack)</description>
-		<release name="FE8 - Andaron Saga - Randomizer (Hack)" region="World"/>
-		<rom name="FE8 - Andaron Saga - Randomizer (Hack).gba" size="33546464" crc="cfba26bd" md5="e31c36f4243e3da477a2594ff73f2e4d" sha1="9fb71c60d50fc3b1e3127c900a818cca893e374c"/>
+		<description>Fire Emblem - Andaron Saga - Randomizer (Hack)</description>
+		<release name="Fire Emblem - Andaron Saga - Randomizer (Hack)" region="World"/>
+		<rom name="Fire Emblem - Andaron Saga - Randomizer (Hack).gba" size="33546464" crc="cfba26bd" md5="e31c36f4243e3da477a2594ff73f2e4d" sha1="9fb71c60d50fc3b1e3127c900a818cca893e374c"/>
 		<url>https://retroachievements.org/game/30881/hashes</url>
 		<hash>e31c36f4243e3da477a2594ff73f2e4d</hash>
 	</game>
 	
-	<game name="FESS - Bandit Emblem (Hack)">
+	<game name="Fire Emblem - Bandit Emblem (Hack)">
 		<category>Hack</category>
-		<description>FESS - Bandit Emblem (Hack)</description>
-		<release name="FESS - Bandit Emblem (Hack)" region="World"/>
-		<rom name="FESS - Bandit Emblem (Hack).gba" size="17645508" crc="4c0a42a1" md5="998551e09734c3000a9ad3a7ae9612dc" sha1="6f762b53e692e5abc821166a57678daf71815c0b"/>
+		<description>Fire Emblem - Bandit Emblem (Hack)</description>
+		<release name="Fire Emblem - Bandit Emblem (Hack)" region="World"/>
+		<rom name="Fire Emblem - Bandit Emblem (Hack).gba" size="17645508" crc="4c0a42a1" md5="998551e09734c3000a9ad3a7ae9612dc" sha1="6f762b53e692e5abc821166a57678daf71815c0b"/>
 		<url>https://retroachievements.org/game/18820/hashes</url>
 		<hash>998551e09734c3000a9ad3a7ae9612dc</hash>
 	</game>
 	
-	<game name="FESS - Bases and Bandits (Hack)">
+	<game name="Fire Emblem - Bases and Bandits (Hack)">
 		<category>Hack</category>
-		<description>FESS - Bases and Bandits (Hack)</description>
-		<release name="FESS - Bases and Bandits (Hack)" region="World"/>
-		<rom name="FESS - Bases and Bandits (Hack).gba" size="18763176" crc="dd587477" md5="34d0cf3cadfc01c41ab0b90dabf37782" sha1="3042bf94e855e888e232f2061e5f5d3e5d248d3a"/>
+		<description>Fire Emblem - Bases and Bandits (Hack)</description>
+		<release name="Fire Emblem - Bases and Bandits (Hack)" region="World"/>
+		<rom name="Fire Emblem - Bases and Bandits (Hack).gba" size="18763176" crc="dd587477" md5="34d0cf3cadfc01c41ab0b90dabf37782" sha1="3042bf94e855e888e232f2061e5f5d3e5d248d3a"/>
 		<url>https://retroachievements.org/game/18821/hashes</url>
 		<hash>34d0cf3cadfc01c41ab0b90dabf37782</hash>
 	</game>
 	
-	<game name="Castlevania - Aria of Sorrow - Magician Mode (Hack)">
+	<game name="Castlevania - Magician Mode (Hack)">
 		<category>Hack</category>
-		<description>Castlevania - Aria of Sorrow - Magician Mode (Hack)</description>
-		<release name="Castlevania - Aria of Sorrow - Magician Mode (Hack)" region="World"/>
-		<rom name="Castlevania - Aria of Sorrow - Magician Mode (Hack).gba" size="8388608" crc="e9d45899" md5="edeb0f1da95dc68efb6eeb17f02fabc2" sha1="d39869bd2e5ccba7d0c259a81c429b7c693f4bfd"/>
+		<description>Castlevania - Magician Mode (Hack)</description>
+		<release name="Castlevania - Magician Mode (Hack)" region="World"/>
+		<rom name="Castlevania - Magician Mode (Hack).gba" size="8388608" crc="e9d45899" md5="edeb0f1da95dc68efb6eeb17f02fabc2" sha1="d39869bd2e5ccba7d0c259a81c429b7c693f4bfd"/>
 		<url>https://retroachievements.org/game/24089/hashes</url>
 		<hash>edeb0f1da95dc68efb6eeb17f02fabc2</hash>
 	</game>
 	
-	<game name="Castlevania - Aria of Sorrow - Persephone (PoR Colors) (Hack)" cloneof="Castlevania - Aria of Sorrow - Persephone (Hack)">
+	<game name="Castlevania - Persephone (PoR Colors) (Hack)" cloneof="Castlevania - Persephone (Hack)">
 		<category>Hack</category>
-		<description>Castlevania - Aria of Sorrow - Persephone (PoR Colors) (Hack)</description>
-		<rom name="Castlevania - Aria of Sorrow - Persephone (PoR Colors) (Hack).gba" size="8388608" crc="d1edcc49" md5="44214175b0dc0b57adb93f6622bdc869" sha1="bddf228327bcb03b5f4093826e2923a955b45898"/>
+		<description>Castlevania - Persephone (PoR Colors) (Hack)</description>
+		<rom name="Castlevania - Persephone (PoR Colors) (Hack).gba" size="8388608" crc="d1edcc49" md5="44214175b0dc0b57adb93f6622bdc869" sha1="bddf228327bcb03b5f4093826e2923a955b45898"/>
 		<url>https://retroachievements.org/game/14177/hashes</url>
 		<hash>44214175b0dc0b57adb93f6622bdc869</hash>
 	</game>
-	<game name="Castlevania - Aria of Sorrow - Persephone (Hack)">
+	<game name="Castlevania - Persephone (Hack)">
 		<category>Hack</category>
-		<description>Castlevania - Aria of Sorrow - Persephone (Hack)</description>
-		<release name="Castlevania - Aria of Sorrow - Persephone (Hack)" region="World"/>
-		<rom name="Castlevania - Aria of Sorrow - Persephone (Hack).gba" size="8388608" crc="c647e8a8" md5="763ba9a7e7f3bd1f95ce50db328bdd38" sha1="937134c88503cb3659c6b3cc1695488a04137dfb"/>
+		<description>Castlevania - Persephone (Hack)</description>
+		<release name="Castlevania - Persephone (Hack)" region="World"/>
+		<rom name="Castlevania - Persephone (Hack).gba" size="8388608" crc="c647e8a8" md5="763ba9a7e7f3bd1f95ce50db328bdd38" sha1="937134c88503cb3659c6b3cc1695488a04137dfb"/>
 		<url>https://retroachievements.org/game/14177/hashes</url>
 		<hash>763ba9a7e7f3bd1f95ce50db328bdd38</hash>
 	</game>
@@ -202,11 +202,11 @@
 		<hash>7543ad7a40fe8fe5ac00468bef30e095</hash>
 	</game>
 	
-	<game name="Pokemon FR - Dragon Ball Z Team Training (Z-Max) (v7.0) (Hack)">
+	<game name="Pokemon - Dragon Ball Z Team Training (Z-Max) (v7.0) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Dragon Ball Z Team Training (Z-Max) (v7.0) (Hack)</description>
-		<release name="Pokemon FR - Dragon Ball Z Team Training (Z-Max) (v7.0) (Hack)" region="World"/>
-		<rom name="Pokemon FR - Dragon Ball Z Team Training (Z-Max) (v7.0) (Hack).gba" size="16777216" crc="94b85d5f" md5="a75cc0c8d8c8aca6ccf1bf3abf7a1c95" sha1="32173c7456243de750430362eb3576ead8cef56d"/>
+		<description>Pokemon - Dragon Ball Z Team Training (Z-Max) (v7.0) (Hack)</description>
+		<release name="Pokemon - Dragon Ball Z Team Training (Z-Max) (v7.0) (Hack)" region="World"/>
+		<rom name="Pokemon - Dragon Ball Z Team Training (Z-Max) (v7.0) (Hack).gba" size="16777216" crc="94b85d5f" md5="a75cc0c8d8c8aca6ccf1bf3abf7a1c95" sha1="32173c7456243de750430362eb3576ead8cef56d"/>
 		<url>https://retroachievements.org/game/7825/hashes</url>
 		<hash>a75cc0c8d8c8aca6ccf1bf3abf7a1c95</hash>
 	</game>
@@ -220,128 +220,128 @@
 		<hash>ddfa04a34631c179f897ed7169e782f0</hash>
 	</game>
 	
-	<game name="AW2 - Fire Emblem Wars (Hack)">
+	<game name="Advanced Wars 2 - Fire Emblem Wars (Hack)">
 		<category>Hack</category>
-		<description>AW2 - Fire Emblem Wars (Hack)</description>
-		<release name="AW2 - Fire Emblem Wars (Hack)" region="World"/>
-		<rom name="AW2 - Fire Emblem Wars (Hack).gba" size="16777216" crc="a8160d6d" md5="113061a5ee4a0831c287ab258f7b2b19" sha1="2b97f6d06c95a2fbcb2831f10de80c514e733451"/>
+		<description>Advanced Wars 2 - Fire Emblem Wars (Hack)</description>
+		<release name="Advanced Wars 2 - Fire Emblem Wars (Hack)" region="World"/>
+		<rom name="Advanced Wars 2 - Fire Emblem Wars (Hack).gba" size="16777216" crc="a8160d6d" md5="113061a5ee4a0831c287ab258f7b2b19" sha1="2b97f6d06c95a2fbcb2831f10de80c514e733451"/>
 		<url>https://retroachievements.org/game/22571/hashes</url>
 		<hash>113061a5ee4a0831c287ab258f7b2b19</hash>
 	</game>
 	
-	<game name="FESS - Gilmore Girls (Hack)">
+	<game name="Fire Emblem - Gilmore Girls (Hack)">
 		<category>Hack</category>
-		<description>FESS - Gilmore Girls (Hack)</description>
-		<release name="FESS - Gilmore Girls (Hack)" region="World"/>
-		<rom name="FESS - Gilmore Girls (Hack).gba" size="17205936" crc="1a6576b4" md5="d6204bcfc68a8332a975905a77931869" sha1="a059ec169e427a8b256713c855b121829296d38a"/>
+		<description>Fire Emblem - Gilmore Girls (Hack)</description>
+		<release name="Fire Emblem - Gilmore Girls (Hack)" region="World"/>
+		<rom name="Fire Emblem - Gilmore Girls (Hack).gba" size="17205936" crc="1a6576b4" md5="d6204bcfc68a8332a975905a77931869" sha1="a059ec169e427a8b256713c855b121829296d38a"/>
 		<url>https://retroachievements.org/game/7762/hashes</url>
 		<hash>d6204bcfc68a8332a975905a77931869</hash>
 	</game>
 	
-	<game name="FE6 - Project Ember (Brunhilda) (v1.85) (Hack)">
+	<game name="Fire Emblem - Project Ember (Brunhilda) (v1.85) (Hack)">
 		<category>Hack</category>
-		<description>FE6 - Project Ember (Brunhilda) (v1.85) (Hack)</description>
-		<release name="FE6 - Project Ember (Brunhilda) (v1.85) (Hack)" region="World"/>
-		<rom name="FE6 - Project Ember (Brunhilda) (v1.85) (Hack).gba" size="25355392" crc="636f7b05" md5="861a0c1d7c5c7fa3dcaaf4a400743461" sha1="6f2ca015fa35c54b3ec67265e487b58711e426b3"/>
+		<description>Fire Emblem - Project Ember (Brunhilda) (v1.85) (Hack)</description>
+		<release name="Fire Emblem - Project Ember (Brunhilda) (v1.85) (Hack)" region="World"/>
+		<rom name="Fire Emblem - Project Ember (Brunhilda) (v1.85) (Hack).gba" size="25355392" crc="636f7b05" md5="861a0c1d7c5c7fa3dcaaf4a400743461" sha1="6f2ca015fa35c54b3ec67265e487b58711e426b3"/>
 		<url>https://retroachievements.org/game/22464/hashes</url>
 		<hash>861a0c1d7c5c7fa3dcaaf4a400743461</hash>
 	</game>
 	
-	<game name="FE6 - Project Ember (Subset - Reverse Recruitment) (Brunhilda) (v1.85)">
+	<game name="Fire Emblem - Project Ember (Brunhilda) (v1.85) (Subset - Reverse Recruitment)">
 		<category>Subset</category>
-		<description>FE6 - Project Ember (Subset - Reverse Recruitment) (Brunhilda) (v1.85) (Hack)</description>
-		<release name="FE6 - Project Ember (Subset - Reverse Recruitment) (Brunhilda) (v1.85) (Hack)" region="World"/>
-		<rom name="FE6 - Project Ember (Subset - Reverse Recruitment) (Brunhilda) (v1.85) (Hack).gba" size="24475812" crc="29bc2257" md5="5c8332940eba2d9ccf36a1ed4b0800dc" sha1="f4b222e8c1536203799134125ecb45e8f1dda1d3"/>
+		<description>Fire Emblem - Project Ember (Brunhilda) (v1.85) (Subset - Reverse Recruitment)</description>
+		<release name="Fire Emblem - Project Ember (Brunhilda) (v1.85) (Subset - Reverse Recruitment)" region="World"/>
+		<rom name="Fire Emblem - Project Ember (Brunhilda) (v1.85) (Subset - Reverse Recruitment).gba" size="24475812" crc="29bc2257" md5="5c8332940eba2d9ccf36a1ed4b0800dc" sha1="f4b222e8c1536203799134125ecb45e8f1dda1d3"/>
 		<url>https://retroachievements.org/game/32931/hashes</url>
 		<hash>5c8332940eba2d9ccf36a1ed4b0800dc</hash>
 	</game>
 	
-	<game name="FE8 - Storge (Hack)">
+	<game name="Fire Emblem - Storge (Hack)">
 		<category>Hack</category>
-		<description>FE8 - Storge (Hack)</description>
-		<release name="FE8 - Storge (Hack)" region="World"/>
-		<rom name="FE8 - Storge (Hack).gba" size="20034916" crc="079106d8" md5="d004c8f14aceb1f861f7277ca3df5cc3" sha1="28ec1fd8f8450670286bcfacc0bf437272fddfb7"/>
+		<description>Fire Emblem - Storge (Hack)</description>
+		<release name="Fire Emblem - Storge (Hack)" region="World"/>
+		<rom name="Fire Emblem - Storge (Hack).gba" size="20034916" crc="079106d8" md5="d004c8f14aceb1f861f7277ca3df5cc3" sha1="28ec1fd8f8450670286bcfacc0bf437272fddfb7"/>
 		<url>https://retroachievements.org/game/26633/hashes</url>
 		<hash>d004c8f14aceb1f861f7277ca3df5cc3</hash>
 	</game>
 	
-	<game name="FESS - Vision Quest (v3) (Hack)">
+	<game name="Fire Emblem - Vision Quest (v3) (Hack)">
 		<category>Hack</category>
-		<description>FESS - Vision Quest (v3) (Hack)</description>
-		<release name="FESS - Vision Quest (v3) (Hack)" region="World"/>
-		<rom name="FESS - Vision Quest (v3) (Hack).gba" size="28947180" crc="2bcfec83" md5="39050bd4b968b5cb1cd3067e9290cea2" sha1="16d772195bd3b6a561595ecb71be7bef1185e7ea"/>
+		<description>Fire Emblem - Vision Quest (v3) (Hack)</description>
+		<release name="Fire Emblem - Vision Quest (v3) (Hack)" region="World"/>
+		<rom name="Fire Emblem - Vision Quest (v3) (Hack).gba" size="28947180" crc="2bcfec83" md5="39050bd4b968b5cb1cd3067e9290cea2" sha1="16d772195bd3b6a561595ecb71be7bef1185e7ea"/>
 		<url>https://retroachievements.org/game/4873/hashes</url>
 		<hash>39050bd4b968b5cb1cd3067e9290cea2</hash>
 	</game>
 	
-	<game name="FESS - Void's Blitzarre Adventure (Hack)">
+	<game name="Fire Emblem - Void's Blitzarre Adventure (Hack)">
 		<category>Hack</category>
-		<description>FESS - Void's Blitzarre Adventure (Hack)</description>
-		<release name="FESS - Void's Blitzarre Adventure (Hack)" region="World"/>
-		<rom name="FESS - Void's Blitzarre Adventure (Hack).gba" size="18641452" crc="9d22107c" md5="4a991060c2c3284e76b02b2ea08b3c1c" sha1="8ae8ff3045f5815a9ed973121767b6b2f1462b86"/>
+		<description>Fire Emblem - Void's Blitzarre Adventure (Hack)</description>
+		<release name="Fire Emblem - Void's Blitzarre Adventure (Hack)" region="World"/>
+		<rom name="Fire Emblem - Void's Blitzarre Adventure (Hack).gba" size="18641452" crc="9d22107c" md5="4a991060c2c3284e76b02b2ea08b3c1c" sha1="8ae8ff3045f5815a9ed973121767b6b2f1462b86"/>
 		<url>https://retroachievements.org/game/7066/hashes</url>
 		<hash>4a991060c2c3284e76b02b2ea08b3c1c</hash>
 	</game>
 	
-	<game name="Freezai's Mountain (Hack)">
+	<game name="Pokemon - Freezai's Mountain (Hack)">
 		<category>Hack</category>
-		<description>Freezai's Mountain (Hack)</description>
-		<release name="Freezai's Mountain (Hack)" region="World"/>
-		<rom name="Freezai's Mountain (Hack).gba" size="33554432" crc="babba90f" md5="d2709a71366331d363f79f9e93624abe" sha1="f6607d4e31cd1b26915660f7914b528284d95efd"/>
+		<description>Pokemon - Freezai's Mountain (Hack)</description>
+		<release name="Pokemon - Freezai's Mountain (Hack)" region="World"/>
+		<rom name="Pokemon - Freezai's Mountain (Hack).gba" size="33554432" crc="babba90f" md5="d2709a71366331d363f79f9e93624abe" sha1="f6607d4e31cd1b26915660f7914b528284d95efd"/>
 		<url>https://retroachievements.org/game/33583/hashes</url>
 		<hash>d2709a71366331d363f79f9e93624abe</hash>
 	</game>
 	
-	<game name="FESS - Gacha Hack (Hack)">
+	<game name="Fire Emblem - Gacha (Hack)">
 		<category>Hack</category>
-		<description>FESS - Gacha Hack (Hack)</description>
-		<release name="FESS - Gacha Hack (Hack)" region="World"/>
-		<rom name="FESS - Gacha Hack (Hack).gba" size="16777216" crc="35c74672" md5="7ca4962646a3b9f42dfcee0f385cb217" sha1="a9b5ccc92634bfc97ec53fa1956b4fb346c2dec4"/>
+		<description>Fire Emblem - Gacha (Hack)</description>
+		<release name="Fire Emblem - Gacha (Hack)" region="World"/>
+		<rom name="Fire Emblem - Gacha (Hack).gba" size="16777216" crc="35c74672" md5="7ca4962646a3b9f42dfcee0f385cb217" sha1="a9b5ccc92634bfc97ec53fa1956b4fb346c2dec4"/>
 		<url>https://retroachievements.org/game/21683/hashes</url>
 		<hash>7ca4962646a3b9f42dfcee0f385cb217</hash>
 	</game>
 	
-	<game name="GS - Dawn of Djinn (Hack)">
+	<game name="Golden Sun - Dawn of Djinn (Hack)">
 		<category>Hack</category>
-		<description>GS - Dawn of Djinn (Hack)</description>
-		<release name="GS - Dawn of Djinn (Hack)" region="World"/>
-		<rom name="GS - Dawn of Djinn (Hack).gba" size="16777216" crc="f31f4244" md5="2a01b36959c9a024531b87a016aea3aa" sha1="f0e4e26017b46a0b5f6f02f931f7067da902e7ca"/>
+		<description>Golden Sun - Dawn of Djinn (Hack)</description>
+		<release name="Golden Sun - Dawn of Djinn (Hack)" region="World"/>
+		<rom name="Golden Sun - Dawn of Djinn (Hack).gba" size="16777216" crc="f31f4244" md5="2a01b36959c9a024531b87a016aea3aa" sha1="f0e4e26017b46a0b5f6f02f931f7067da902e7ca"/>
 		<url>https://retroachievements.org/game/21686/hashes</url>
 		<hash>2a01b36959c9a024531b87a016aea3aa</hash>
 	</game>
 	
-	<game name="Metroid ZM - GRAVITY - Sylux's Crusade (Hack)">
+	<game name="Metroid - GRAVITY - Sylux's Crusade (Hack)">
 		<category>Hack</category>
-		<description>Metroid ZM - GRAVITY - Sylux's Crusade (Hack)</description>
-		<release name="Metroid ZM - GRAVITY - Sylux's Crusade (Hack)" region="World"/>
-		<rom name="Metroid ZM - GRAVITY - Sylux's Crusade (Hack).gba" size="33554432" crc="2aabd811" md5="a6d7a4dcdb9751b6092cf81de5301aef" sha1="300c1c1e93d76eb4a88da7475e402e5b55150e02"/>
+		<description>Metroid - GRAVITY - Sylux's Crusade (Hack)</description>
+		<release name="Metroid - GRAVITY - Sylux's Crusade (Hack)" region="World"/>
+		<rom name="Metroid - GRAVITY - Sylux's Crusade (Hack).gba" size="33554432" crc="2aabd811" md5="a6d7a4dcdb9751b6092cf81de5301aef" sha1="300c1c1e93d76eb4a88da7475e402e5b55150e02"/>
 		<url>https://retroachievements.org/game/33038/hashes</url>
 		<hash>a6d7a4dcdb9751b6092cf81de5301aef</hash>
 	</game>
 	
-	<game name="Pokemon FR - Hypno's Lullaby (Hack)">
+	<game name="Pokemon - Hypno's Lullaby (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Hypno's Lullaby (Hack)</description>
-		<release name="Pokemon FR - Hypno's Lullaby (Hack)" region="World"/>
-		<rom name="Pokemon FR - Hypno's Lullaby (Hack).gba" size="16777216" crc="e658a829" md5="219ec41d577ce72612fb010ecaff7577" sha1="88405cd0d43d25c7f7e08c45bb8f4b259a79be82"/>
+		<description>Pokemon - Hypno's Lullaby (Hack)</description>
+		<release name="Pokemon - Hypno's Lullaby (Hack)" region="World"/>
+		<rom name="Pokemon - Hypno's Lullaby (Hack).gba" size="16777216" crc="e658a829" md5="219ec41d577ce72612fb010ecaff7577" sha1="88405cd0d43d25c7f7e08c45bb8f4b259a79be82"/>
 		<url>https://retroachievements.org/game/16160/hashes</url>
 		<hash>219ec41d577ce72612fb010ecaff7577</hash>
 	</game>
 	
-	<game name="FESS - Iron Emblem (Hack)">
+	<game name="Fire Emblem - Iron Emblem (Hack)">
 		<category>Hack</category>
-		<description>FESS - Iron Emblem (Hack)</description>
-		<release name="FESS - Iron Emblem (Hack)" region="World"/>
-		<rom name="FESS - Iron Emblem (Hack).gba" size="18033892" crc="141ff3aa" md5="c17c11ca978c60b98009b49f6818e237" sha1="f5f95c99c58052f71f177b951825c23aeb33f077"/>
+		<description>Fire Emblem - Iron Emblem (Hack)</description>
+		<release name="Fire Emblem - Iron Emblem (Hack)" region="World"/>
+		<rom name="Fire Emblem - Iron Emblem (Hack).gba" size="18033892" crc="141ff3aa" md5="c17c11ca978c60b98009b49f6818e237" sha1="f5f95c99c58052f71f177b951825c23aeb33f077"/>
 		<url>https://retroachievements.org/game/11737/hashes</url>
 		<hash>c17c11ca978c60b98009b49f6818e237</hash>
 	</game>
 	
-	<game name="FE - Last Promise, The (Hack)">
+	<game name="Fire Emblem - Last Promise, The (Hack)">
 		<category>Hack</category>
-		<description>FE - Last Promise, The (Hack)</description>
-		<release name="FE - Last Promise, The (Hack)" region="World"/>
-		<rom name="FE - Last Promise, The (Hack).gba" size="32505856" crc="d1c6e5d5" md5="485740f0f0036d32bdf7369334be13e0" sha1="1c09cbe7f5d23a37ad2404efb4f2b536943f8cd5"/>
+		<description>Fire Emblem - Last Promise, The (Hack)</description>
+		<release name="Fire Emblem - Last Promise, The (Hack)" region="World"/>
+		<rom name="Fire Emblem - Last Promise, The (Hack).gba" size="32505856" crc="d1c6e5d5" md5="485740f0f0036d32bdf7369334be13e0" sha1="1c09cbe7f5d23a37ad2404efb4f2b536943f8cd5"/>
 		<url>https://retroachievements.org/game/15933/hashes</url>
 		<hash>485740f0f0036d32bdf7369334be13e0</hash>
 	</game>
@@ -409,47 +409,47 @@
 		<hash>8a03684226ddd357a030c25e552f40b4</hash>
 	</game>
 	
-	<game name="Metroid ZM - Mintroid (Hack)">
+	<game name="Metroid - Mintroid (Hack)">
 		<category>Hack</category>
-		<description>Metroid ZM - Mintroid (Hack)</description>
-		<release name="Metroid ZM - Mintroid (Hack)" region="World"/>
-		<rom name="Metroid ZM - Mintroid (Hack).gba" size="8388608" crc="5b1c1ee6" md5="bd7ce8d3f5a6531e7facdad696385080" sha1="f14f0e4475a8fe6379dd54682333e0a721e7ae08"/>
+		<description>Metroid - Mintroid (Hack)</description>
+		<release name="Metroid - Mintroid (Hack)" region="World"/>
+		<rom name="Metroid - Mintroid (Hack).gba" size="8388608" crc="5b1c1ee6" md5="bd7ce8d3f5a6531e7facdad696385080" sha1="f14f0e4475a8fe6379dd54682333e0a721e7ae08"/>
 		<url>https://retroachievements.org/game/17853/hashes</url>
 		<hash>bd7ce8d3f5a6531e7facdad696385080</hash>
 	</game>
 	
-	<game name="Pokemon FR - PokeEscape (SmallAnt, Atsign) (v2023-10-06) (Hack)">
+	<game name="Pokemon - PokeEscape (SmallAnt, Atsign) (v2023-10-06) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - PokeEscape (SmallAnt, Atsign) (v2023-10-06) (Hack)</description>
-		<release name="Pokemon FR - PokeEscape (SmallAnt, Atsign) (v2023-10-06) (Hack)" region="World"/>
-		<rom name="Pokemon FR - PokeEscape (SmallAnt, Atsign) (v2023-10-06) (Hack).gba" size="16777216" crc="5904f257" md5="dae21f7a64bd9a36720632df56bbb72e" sha1="09b669bea3c1c37bd88d7370082e77a27cfc04bf"/>
+		<description>Pokemon - PokeEscape (SmallAnt, Atsign) (v2023-10-06) (Hack)</description>
+		<release name="Pokemon - PokeEscape (SmallAnt, Atsign) (v2023-10-06) (Hack)" region="World"/>
+		<rom name="Pokemon - PokeEscape (SmallAnt, Atsign) (v2023-10-06) (Hack).gba" size="16777216" crc="5904f257" md5="dae21f7a64bd9a36720632df56bbb72e" sha1="09b669bea3c1c37bd88d7370082e77a27cfc04bf"/>
 		<url>https://retroachievements.org/game/33582/hashes</url>
 		<hash>dae21f7a64bd9a36720632df56bbb72e</hash>
 	</game>
 	
-	<game name="Pokemon FR - Pokemon Adventure - Red Chapter (Expansion Fix) (Hack)">
+	<game name="Pokemon - Pokemon Adventure - Red Chapter (Expansion Fix) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Pokemon Adventure - Red Chapter (Expansion Fix) (Hack)</description>
-		<release name="Pokemon FR - Pokemon Adventure - Red Chapter (Expansion Fix) (Hack)" region="World"/>
-		<rom name="Pokemon FR - Pokemon Adventure - Red Chapter (Expansion Fix) (Hack).gba" size="33555563" crc="ead08e28" md5="4b866d832fbc58a1575de9475c6003c4" sha1="b787edeb95f8b606ff33caaab3b257f24db6825c"/>
+		<description>Pokemon - Pokemon Adventure - Red Chapter (Expansion Fix) (Hack)</description>
+		<release name="Pokemon - Pokemon Adventure - Red Chapter (Expansion Fix) (Hack)" region="World"/>
+		<rom name="Pokemon - Pokemon Adventure - Red Chapter (Expansion Fix) (Hack).gba" size="33555563" crc="ead08e28" md5="4b866d832fbc58a1575de9475c6003c4" sha1="b787edeb95f8b606ff33caaab3b257f24db6825c"/>
 		<url>https://retroachievements.org/game/9595/hashes</url>
 		<hash>4b866d832fbc58a1575de9475c6003c4</hash>
 	</game>
 	
-	<game name="Pokemon FR - Pokemon AshGray Version (Hack)">
+	<game name="Pokemon - Pokemon AshGray Version (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Pokemon AshGray Version (Hack)</description>
-		<release name="Pokemon FR - Pokemon AshGray Version (Hack)" region="World"/>
-		<rom name="Pokemon FR - Pokemon AshGray Version (Hack).gba" size="16777216" crc="10ef71a7" md5="92262059190c05a5615be6b98612fb14" sha1="1ee1557db1e4c2e0e94c6306efcc40506bc40cc9"/>
+		<description>Pokemon - Pokemon AshGray Version (Hack)</description>
+		<release name="Pokemon - Pokemon AshGray Version (Hack)" region="World"/>
+		<rom name="Pokemon - Pokemon AshGray Version (Hack).gba" size="16777216" crc="10ef71a7" md5="92262059190c05a5615be6b98612fb14" sha1="1ee1557db1e4c2e0e94c6306efcc40506bc40cc9"/>
 		<url>https://retroachievements.org/game/5245/hashes</url>
 		<hash>92262059190c05a5615be6b98612fb14</hash>
 	</game>
 	
-	<game name="Pokemon FR - Pokemon Battle Ultimate (Hack)">
+	<game name="Pokemon - Battle Ultimate (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Pokemon Battle Ultimate (Hack)</description>
-		<release name="Pokemon FR - Pokemon Battle Ultimate (Hack)" region="World"/>
-		<rom name="Pokemon FR - Pokemon Battle Ultimate (Hack).gba" size="33554432" crc="82084add" md5="dab9c501b5f278fb1ec48a2b53615754" sha1="436a607878240b869f887bc0e499b6ce1d0531a2"/>
+		<description>Pokemon - Battle Ultimate (Hack)</description>
+		<release name="Pokemon - Battle Ultimate (Hack)" region="World"/>
+		<rom name="Pokemon - Battle Ultimate (Hack).gba" size="33554432" crc="82084add" md5="dab9c501b5f278fb1ec48a2b53615754" sha1="436a607878240b869f887bc0e499b6ce1d0531a2"/>
 		<url>https://retroachievements.org/game/30709/hashes</url>
 		<hash>dab9c501b5f278fb1ec48a2b53615754</hash>
 	</game>
@@ -463,256 +463,256 @@
 		<hash>bfc7ae79445c34c44bc1ffb144049be4</hash>
 	</game>
 	
-	<game name="Pokemon FR - Pokemon DarkViolet Version (Hack)">
+	<game name="Pokemon - Pokemon DarkViolet Version (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Pokemon DarkViolet Version (Hack)</description>
-		<release name="Pokemon FR - Pokemon DarkViolet Version (Hack)" region="World"/>
-		<rom name="Pokemon FR - Pokemon DarkViolet Version (Hack).gba" size="16777216" crc="6b2b571b" md5="47f9eeb51ffe48a8c28636f25a9543e8" sha1="b9522a282db43b3a9f78a7e71fa8433a49c49484"/>
+		<description>Pokemon - DarkViolet Version (Hack)</description>
+		<release name="Pokemon - DarkViolet Version (Hack)" region="World"/>
+		<rom name="Pokemon - DarkViolet Version (Hack).gba" size="16777216" crc="6b2b571b" md5="47f9eeb51ffe48a8c28636f25a9543e8" sha1="b9522a282db43b3a9f78a7e71fa8433a49c49484"/>
 		<url>https://retroachievements.org/game/2224/hashes</url>
 		<hash>47f9eeb51ffe48a8c28636f25a9543e8</hash>
 	</game>
 	
-	<game name="Pokemon FR - Pokemon DerErif (Hack)">
+	<game name="Pokemon - DerErif (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Pokemon DerErif (Hack)</description>
-		<release name="Pokemon FR - Pokemon DerErif (Hack)" region="World"/>
-		<rom name="Pokemon FR - Pokemon DerErif (Hack).gba" size="16777216" crc="195a86df" md5="1983512180b60115cf8c04b5c1affbec" sha1="0f503d042c88a979d30349c72d62eaba9a34f9e2"/>
+		<description>Pokemon - DerErif (Hack)</description>
+		<release name="Pokemon - DerErif (Hack)" region="World"/>
+		<rom name="Pokemon - DerErif (Hack).gba" size="16777216" crc="195a86df" md5="1983512180b60115cf8c04b5c1affbec" sha1="0f503d042c88a979d30349c72d62eaba9a34f9e2"/>
 		<url>https://retroachievements.org/game/15623/hashes</url>
 		<hash>1983512180b60115cf8c04b5c1affbec</hash>
 	</game>
 	
-	<game name="Pokemon FR - Pokemon Dreams (Hack)">
+	<game name="Pokemon - Dreams (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Pokemon Dreams (Hack)</description>
-		<release name="Pokemon FR - Pokemon Dreams (Hack)" region="World"/>
-		<rom name="Pokemon FR - Pokemon Dreams (Hack).gba" size="33554432" crc="8bac1400" md5="bb1c6e460919eee53bdae344585796c7" sha1="4822f3ee2b5747420a856f3ed7840df3a1199373"/>
+		<description>Pokemon - Dreams (Hack)</description>
+		<release name="Pokemon - Dreams (Hack)" region="World"/>
+		<rom name="Pokemon - Dreams (Hack).gba" size="33554432" crc="8bac1400" md5="bb1c6e460919eee53bdae344585796c7" sha1="4822f3ee2b5747420a856f3ed7840df3a1199373"/>
 		<url>https://retroachievements.org/game/14776/hashes</url>
 		<hash>bb1c6e460919eee53bdae344585796c7</hash>
 	</game>
 	
-	<game name="Pokemon Ruby - Pokemon Edicion Naranja (Hack)">
+	<game name="Pokemon - Edicion Naranja (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Ruby - Pokemon Edicion Naranja (Hack)</description>
-		<release name="Pokemon Ruby - Pokemon Edicion Naranja (Hack)" region="World"/>
-		<rom name="Pokemon Ruby - Pokemon Edicion Naranja (Hack).gba" size="16777216" crc="5f0f5d23" md5="44b5e18bb226cc98c2fbb0ea5be32484" sha1="74c2ef8f38e14a760899a266853f453dd25f0359"/>
+		<description>Pokemon - Edicion Naranja (Hack)</description>
+		<release name="Pokemon - Edicion Naranja (Hack)" region="World"/>
+		<rom name="Pokemon - Edicion Naranja (Hack).gba" size="16777216" crc="5f0f5d23" md5="44b5e18bb226cc98c2fbb0ea5be32484" sha1="74c2ef8f38e14a760899a266853f453dd25f0359"/>
 		<url>https://retroachievements.org/game/9045/hashes</url>
 		<hash>44b5e18bb226cc98c2fbb0ea5be32484</hash>
 	</game>
 	
-	<game name="Pokemon Emerald - Kaizo (Hack)">
+	<game name="Pokemon - Emerald Kaizo (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Emerald - Kaizo (Hack)</description>
-		<release name="Pokemon Emerald - Kaizo (Hack)" region="World"/>
-		<rom name="Pokemon Emerald - Kaizo (Hack).gba" size="16777216" crc="66c1cce7" md5="b48a5df9dfa88ce7cf0465bee8bbff94" sha1="a7c4e34fafb53f2d5283eb6d43dad285c0dd40a8"/>
+		<description>Pokemon - Emerald Kaizo (Hack)</description>
+		<release name="Pokemon - Emerald - Kaizo (Hack)" region="World"/>
+		<rom name="Pokemon - Emerald Kaizo (Hack).gba" size="16777216" crc="66c1cce7" md5="b48a5df9dfa88ce7cf0465bee8bbff94" sha1="a7c4e34fafb53f2d5283eb6d43dad285c0dd40a8"/>
 		<url>https://retroachievements.org/game/15621/hashes</url>
 		<hash>b48a5df9dfa88ce7cf0465bee8bbff94</hash>
 	</game>
 	
-	<game name="Pokemon Emerald - Rogue (Hack)">
+	<game name="Pokemon - Emerald Rogue (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Emerald - Rogue (Hack)</description>
-		<release name="Pokemon Emerald - Rogue (Hack)" region="World"/>
-		<rom name="Pokemon Emerald - Rogue (Hack).gba" size="33554432" crc="97a5a625" md5="5edcf2af8c466f414abe5fc1240c39d9" sha1="9b638028939260a8d93e5f2bd464c0e93b7e49d9"/>
+		<description>Pokemon - Emerald Rogue (Hack)</description>
+		<release name="Pokemon - Emerald Rogue (Hack)" region="World"/>
+		<rom name="Pokemon - Emerald Rogue (Hack).gba" size="33554432" crc="97a5a625" md5="5edcf2af8c466f414abe5fc1240c39d9" sha1="9b638028939260a8d93e5f2bd464c0e93b7e49d9"/>
 		<url>https://retroachievements.org/game/21360/hashes</url>
 		<hash>5edcf2af8c466f414abe5fc1240c39d9</hash>
 	</game>
 	
-	<game name="Pokemon Emerald - Rogue V2 (v2.0) (Hack)" cloneof="Pokemon Emerald - Rogue V2 (v2.0.1a) (Hack)">
+	<game name="Pokemon - Emerald Rogue V2 (v2.0) (Hack)" cloneof="Pokemon - Emerald Rogue V2 (v2.0.1a) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Emerald - Rogue V2 (v2.0) (Hack)</description>
-		<rom name="Pokemon Emerald - Rogue V2 (v2.0) (Hack).gba" size="33554432" crc="4d54980f" md5="d433c84e2a0d267cd2e30bb15fdbfcce" sha1="f010da361800ad209be4e75a66d39692800eda2b"/>
+		<description>Pokemon - Emerald Rogue V2 (v2.0) (Hack)</description>
+		<rom name="Pokemon - Emerald Rogue V2 (v2.0) (Hack).gba" size="33554432" crc="4d54980f" md5="d433c84e2a0d267cd2e30bb15fdbfcce" sha1="f010da361800ad209be4e75a66d39692800eda2b"/>
 		<url>https://retroachievements.org/game/30137/hashes</url>
 		<hash>d433c84e2a0d267cd2e30bb15fdbfcce</hash>
 	</game>
-	<game name="Pokemon Emerald - Rogue V2 (v2.0.1) (Hack)" cloneof="Pokemon Emerald - Rogue V2 (v2.0.1a) (Hack)">
+	<game name="Pokemon - Emerald Rogue V2 (v2.0.1) (Hack)" cloneof="Pokemon - Emerald Rogue V2 (v2.0.1a) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Emerald - Rogue V2 (v2.0.1) (Hack)</description>
-		<rom name="Pokemon Emerald - Rogue V2 (v2.0.1) (Hack).gba" size="33554432" crc="5a9b07b9" md5="a0992265d19175678b2ed4e61c522500" sha1="4ee92882485252885697db2ba10ff21ff1f67303"/>
+		<description>Pokemon - Emerald Rogue V2 (v2.0.1) (Hack)</description>
+		<rom name="Pokemon - Emerald Rogue V2 (v2.0.1) (Hack).gba" size="33554432" crc="5a9b07b9" md5="a0992265d19175678b2ed4e61c522500" sha1="4ee92882485252885697db2ba10ff21ff1f67303"/>
 		<url>https://retroachievements.org/game/30137/hashes</url>
 		<hash>a0992265d19175678b2ed4e61c522500</hash>
 	</game>
-	<game name="Pokemon Emerald - Rogue V2 (v2.0.1a) (Hack)">
+	<game name="Pokemon - Emerald Rogue V2 (v2.0.1a) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Emerald - Rogue V2 (v2.0.1a) (Hack)</description>
-		<release name="Pokemon Emerald - Rogue V2 (v2.0.1a) (Hack)" region="World"/>
-		<rom name="Pokemon Emerald - Rogue V2 (v2.0.1a) (Hack).gba" size="33554432" crc="90ac3af7" md5="f595619a4920fc30d65bb31fdcd6b59b" sha1="08a03c4be7b359024c44add7c11a4996babceaa0"/>
+		<description>Pokemon - Emerald Rogue V2 (v2.0.1a) (Hack)</description>
+		<release name="Pokemon - Emerald Rogue V2 (v2.0.1a) (Hack)" region="World"/>
+		<rom name="Pokemon - Emerald Rogue V2 (v2.0.1a) (Hack).gba" size="33554432" crc="90ac3af7" md5="f595619a4920fc30d65bb31fdcd6b59b" sha1="08a03c4be7b359024c44add7c11a4996babceaa0"/>
 		<url>https://retroachievements.org/game/30137/hashes</url>
 		<hash>f595619a4920fc30d65bb31fdcd6b59b</hash>
 	</game>
 	
-	<game name="Pokemon Emerald - Rogue V2 (Subset - Bonus)">
+	<game name="Pokemon - Emerald Rogue V2 (Subset - Bonus)">
 		<category>Subset</category>
-		<description>Pokemon Emerald - Rogue V2 (Subset - Bonus) (Hack)</description>
-		<release name="Pokemon Emerald - Rogue V2 (Subset - Bonus) (Hack)" region="World"/>
-		<rom name="Pokemon Emerald - Rogue V2 (Subset - Bonus) (Hack).gba" size="33554432" crc="e698e547" md5="c544bd31b7b7f81622ed0c516d788f6d" sha1="cc5df5a412de5c14bcc855b1fe14dfa7c166ce0b"/>
+		<description>Pokemon - Emerald Rogue V2 (Subset - Bonus)</description>
+		<release name="Pokemon - Emerald Rogue V2 (Subset - Bonus)" region="World"/>
+		<rom name="Pokemon - Emerald Rogue V2 (Subset - Bonus).gba" size="33554432" crc="e698e547" md5="c544bd31b7b7f81622ed0c516d788f6d" sha1="cc5df5a412de5c14bcc855b1fe14dfa7c166ce0b"/>
 		<url>https://retroachievements.org/game/32921/hashes</url>
 		<hash>c544bd31b7b7f81622ed0c516d788f6d</hash>
 	</game>
 	
-	<game name="Pokemon Emerald - Seaglass (Hack)">
+	<game name="Pokemon - Emerald Seaglass (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Emerald - Seaglass (Hack)</description>
-		<release name="Pokemon Emerald - Seaglass (Hack)" region="World"/>
-		<rom name="Pokemon Emerald - Seaglass (Hack).gba" size="16777216" crc="14465a33" md5="fe5f3a1995ca8bb26c68b5f74360d798" sha1="b9f4d332d30fc88c379f9e037f9eae3b2755ead4"/>
+		<description>Pokemon - Emerald Seaglass (Hack)</description>
+		<release name="Pokemon - Emerald Seaglass (Hack)" region="World"/>
+		<rom name="Pokemon - Emerald Seaglass (Hack).gba" size="16777216" crc="14465a33" md5="fe5f3a1995ca8bb26c68b5f74360d798" sha1="b9f4d332d30fc88c379f9e037f9eae3b2755ead4"/>
 		<url>https://retroachievements.org/game/30894/hashes</url>
 		<hash>fe5f3a1995ca8bb26c68b5f74360d798</hash>
 	</game>
 	
-	<game name="Pokemon Emerald - Party Randomizer Plus (Hack)">
+	<game name="Pokemon - Party Randomizer Plus (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Emerald - Party Randomizer Plus (Hack)</description>
-		<release name="Pokemon Emerald - Party Randomizer Plus (Hack)" region="World"/>
-		<rom name="Pokemon Emerald - Party Randomizer Plus (Hack).gba" size="16777216" crc="62ed2106" md5="7e319f61dc68fc37223d5ac17f012356" sha1="55f48d02a46d389b168440f8f955c0e237f95f85"/>
+		<description>Pokemon - Party Randomizer Plus (Hack)</description>
+		<release name="Pokemon - Party Randomizer Plus (Hack)" region="World"/>
+		<rom name="Pokemon - Party Randomizer Plus (Hack).gba" size="16777216" crc="62ed2106" md5="7e319f61dc68fc37223d5ac17f012356" sha1="55f48d02a46d389b168440f8f955c0e237f95f85"/>
 		<url>https://retroachievements.org/game/17757/hashes</url>
 		<hash>7e319f61dc68fc37223d5ac17f012356</hash>
 	</game>
 	
-	<game name="Pokemon Emerald - Party Randomizer Plus (Subset - Battle Frontier)">
+	<game name="Pokemon - Party Randomizer Plus (Hack) (Subset - Battle Frontier)">
 		<category>Subset</category>
-		<description>Pokemon Emerald - Party Randomizer Plus (Subset - Battle Frontier) (Hack)</description>
-		<release name="Pokemon Emerald - Party Randomizer Plus (Subset - Battle Frontier) (Hack)" region="World"/>
-		<rom name="Pokemon Emerald - Party Randomizer Plus (Subset - Battle Frontier) (Hack).gba" size="16777216" crc="019164cd" md5="fa6e5e03d041501c72db930474754305" sha1="28b9f9d4db2226b09b2bde629ff42f4b19ebf597"/>
+		<description>Pokemon - Party Randomizer Plus (Hack) (Subset - Battle Frontier)</description>
+		<release name="Pokemon - Party Randomizer Plus (Hack) (Subset - Battle Frontier)" region="World"/>
+		<rom name="Pokemon - Party Randomizer Plus (Hack) (Subset - Battle Frontier).gba" size="16777216" crc="019164cd" md5="fa6e5e03d041501c72db930474754305" sha1="28b9f9d4db2226b09b2bde629ff42f4b19ebf597"/>
 		<url>https://retroachievements.org/game/20222/hashes</url>
 		<hash>fa6e5e03d041501c72db930474754305</hash>
 	</game>
 	
-	<game name="Pokemon FR - Rocket Edition (v1.0) (Hack)" cloneof="Pokemon FR - Rocket Edition (v1.0.2) (Hack)">
+	<game name="Pokemon - Rocket Edition (v1.0) (Hack)" cloneof="Pokemon - Rocket Edition (v1.0.2) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Rocket Edition (v1.0) (Hack)</description>
-		<rom name="Pokemon FR - Rocket Edition (v1.0) (Hack).gba" size="16777216" crc="1a4ffbbe" md5="08dec67ed4d8305d45c575050b2efd7a" sha1="3600d17ec8f0e2ab346571f6fab250567f388f5e"/>
+		<description>Pokemon - Rocket Edition (v1.0) (Hack)</description>
+		<rom name="Pokemon - Rocket Edition (v1.0) (Hack).gba" size="16777216" crc="1a4ffbbe" md5="08dec67ed4d8305d45c575050b2efd7a" sha1="3600d17ec8f0e2ab346571f6fab250567f388f5e"/>
 		<url>https://retroachievements.org/game/14408/hashes</url>
 		<hash>08dec67ed4d8305d45c575050b2efd7a</hash>
 	</game>
-	<game name="Pokemon FR - Rocket Edition (v1.0.2) (Hack)">
+	<game name="Pokemon - Rocket Edition (v1.0.2) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Rocket Edition (v1.0.2) (Hack)</description>
-		<release name="Pokemon FR - Rocket Edition (v1.0.2) (Hack)" region="World"/>
-		<rom name="Pokemon FR - Rocket Edition (v1.0.2) (Hack).gba" size="16777216" crc="f2d16ebd" md5="e58d5080fb5728d14a2b73f4af487ffa" sha1="033d05374ae34eb84fae62c693ca8f3da23dd1bd"/>
+		<description>Pokemon - Rocket Edition (v1.0.2) (Hack)</description>
+		<release name="Pokemon - Rocket Edition (v1.0.2) (Hack)" region="World"/>
+		<rom name="Pokemon - Rocket Edition (v1.0.2) (Hack).gba" size="16777216" crc="f2d16ebd" md5="e58d5080fb5728d14a2b73f4af487ffa" sha1="033d05374ae34eb84fae62c693ca8f3da23dd1bd"/>
 		<url>https://retroachievements.org/game/14408/hashes</url>
 		<hash>e58d5080fb5728d14a2b73f4af487ffa</hash>
 	</game>
 	
-	<game name="Pokemon FR - VR Missions (Hack)">
+	<game name="Pokemon - VR Missions (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - VR Missions (Hack)</description>
-		<release name="Pokemon FR - VR Missions (Hack)" region="World"/>
-		<rom name="Pokemon FR - VR Missions (Hack).gba" size="33554432" crc="d9c7ff8e" md5="acc02c922ab999609c1e50ffdb934df3" sha1="3f5a9f85699d396eb88848e98c02d67f3d08462d"/>
+		<description>Pokemon - VR Missions (Hack)</description>
+		<release name="Pokemon - VR Missions (Hack)" region="World"/>
+		<rom name="Pokemon - VR Missions (Hack).gba" size="33554432" crc="d9c7ff8e" md5="acc02c922ab999609c1e50ffdb934df3" sha1="3f5a9f85699d396eb88848e98c02d67f3d08462d"/>
 		<url>https://retroachievements.org/game/15988/hashes</url>
 		<hash>acc02c922ab999609c1e50ffdb934df3</hash>
 	</game>
 	
-	<game name="Pokemon Emerald - Glazed (v7.0) (Hack)">
+	<game name="Pokemon - Glazed (v7.0) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Emerald - Glazed (v7.0) (Hack)</description>
-		<release name="Pokemon Emerald - Glazed (v7.0) (Hack)" region="World"/>
-		<rom name="Pokemon Emerald - Glazed (v7.0) (Hack).gba" size="33554432" crc="1288c0dd" md5="6279166857cea1b52eb93543c6668ff1" sha1="df35172a17b62ebaf622790c6cd1e143b6647b33"/>
+		<description>Pokemon - Glazed (v7.0) (Hack)</description>
+		<release name="Pokemon - Glazed (v7.0) (Hack)" region="World"/>
+		<rom name="Pokemon - Glazed (v7.0) (Hack).gba" size="33554432" crc="1288c0dd" md5="6279166857cea1b52eb93543c6668ff1" sha1="df35172a17b62ebaf622790c6cd1e143b6647b33"/>
 		<url>https://retroachievements.org/game/6353/hashes</url>
 		<hash>6279166857cea1b52eb93543c6668ff1</hash>
 	</game>
-	<game name="Pokemon Emerald - Glazed (Beta 7b) (Hack)" cloneof="Pokemon Emerald - Glazed (v7.0) (Hack)">
+	<game name="Pokemon - Glazed (Beta 7b) (Hack)" cloneof="Pokemon - Glazed (v7.0) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Emerald - Glazed (Beta 7b) (Hack)</description>
-		<rom name="Pokemon Emerald - Glazed (Beta 7b) (Hack).gba" size="33554432" crc="c60f6b66" md5="c381103f45cba2c5357150292b1be794" sha1="90ff827498eed38067a101697e5da1fa3f731ef5"/>
+		<description>Pokemon - Glazed (Beta 7b) (Hack)</description>
+		<rom name="Pokemon - Glazed (Beta 7b) (Hack).gba" size="33554432" crc="c60f6b66" md5="c381103f45cba2c5357150292b1be794" sha1="90ff827498eed38067a101697e5da1fa3f731ef5"/>
 		<url>https://retroachievements.org/game/6353/hashes</url>
 		<hash>c381103f45cba2c5357150292b1be794</hash>
 	</game>
 	
-	<game name="Pokemon FR - Grand Dad Version (Hack)">
+	<game name="Pokemon - Grand Dad Version (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Grand Dad Version (Hack)</description>
-		<release name="Pokemon FR - Grand Dad Version (Hack)" region="World"/>
-		<rom name="Pokemon FR - Grand Dad Version (Hack).gba" size="16777216" crc="c383f1e5" md5="f421d0eafcb2ff9d286157a84ac91f53" sha1="cdce775f4f02ebfed3c7bfa6304805d146196c24"/>
+		<description>Pokemon - Grand Dad Version (Hack)</description>
+		<release name="Pokemon - Grand Dad Version (Hack)" region="World"/>
+		<rom name="Pokemon - Grand Dad Version (Hack).gba" size="16777216" crc="c383f1e5" md5="f421d0eafcb2ff9d286157a84ac91f53" sha1="cdce775f4f02ebfed3c7bfa6304805d146196c24"/>
 		<url>https://retroachievements.org/game/16222/hashes</url>
 		<hash>f421d0eafcb2ff9d286157a84ac91f53</hash>
 	</game>
 	
-	<game name="Pokemon FR - Liquid Crystal Version (Hack)">
+	<game name="Pokemon - Liquid Crystal Version (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Liquid Crystal Version (Hack)</description>
-		<release name="Pokemon FR - Liquid Crystal Version (Hack)" region="World"/>
-		<rom name="Pokemon FR - Liquid Crystal Version (Hack).gba" size="16777216" crc="6a761d9f" md5="e2cf937901114df0928ea29443525986" sha1="7acf9d4c14b570a375402cb4dd2619f910a8a45b"/>
+		<description>Pokemon - Liquid Crystal Version (Hack)</description>
+		<release name="Pokemon - Liquid Crystal Version (Hack)" region="World"/>
+		<rom name="Pokemon - Liquid Crystal Version (Hack).gba" size="16777216" crc="6a761d9f" md5="e2cf937901114df0928ea29443525986" sha1="7acf9d4c14b570a375402cb4dd2619f910a8a45b"/>
 		<url>https://retroachievements.org/game/4964/hashes</url>
 		<hash>e2cf937901114df0928ea29443525986</hash>
 	</game>
 	
-	<game name="Pokemon FR - Pokemon Odyssey (v4.0) (Yggdrasil Project) (Hack)" cloneof="Pokemon FR - Pokemon Odyssey (v4.0.1) (Yggdrasil Project) (Hack)">
+	<game name="Pokemon - Odyssey (v4.0) (Yggdrasil Project) (Hack)" cloneof="Pokemon - Odyssey (v4.0.1) (Yggdrasil Project) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Pokemon Odyssey (v4.0) (Yggdrasil Project) (Hack)</description>
-		<rom name="Pokemon FR - Pokemon Odyssey (v4.0) (Yggdrasil Project) (Hack).gba" size="33554432" crc="89edb0b7" md5="6074f5ee69d1af489a48cfa3d9492ceb" sha1="6436fb76cc1a99b7cbafbe84a5240e2192f16dcf"/>
+		<description>Pokemon - Odyssey (v4.0) (Yggdrasil Project) (Hack)</description>
+		<rom name="Pokemon - Odyssey (v4.0) (Yggdrasil Project) (Hack).gba" size="33554432" crc="89edb0b7" md5="6074f5ee69d1af489a48cfa3d9492ceb" sha1="6436fb76cc1a99b7cbafbe84a5240e2192f16dcf"/>
 		<url>https://retroachievements.org/game/33063/hashes</url>
 		<hash>6074f5ee69d1af489a48cfa3d9492ceb</hash>
 	</game>
-	<game name="Pokemon FR - Pokemon Odyssey (v4.0.1) (Yggdrasil Project) (Hack)">
+	<game name="Pokemon - Odyssey (v4.0.1) (Yggdrasil Project) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Pokemon Odyssey (v4.0.1) (Yggdrasil Project) (Hack)</description>
-		<release name="Pokemon FR - Pokemon Odyssey (v4.0.1) (Yggdrasil Project) (Hack)" region="World"/>
-		<rom name="Pokemon FR - Pokemon Odyssey (v4.0.1) (Yggdrasil Project) (Hack).gba" size="33554432" crc="af0d9f56" md5="f08d1b00fdd11bbb7a0a7b26b1e34e3f" sha1="47d86103576f4d8f35e49b8fca4f133c72c2417c"/>
+		<description>Pokemon - Odyssey (v4.0.1) (Yggdrasil Project) (Hack)</description>
+		<release name="Pokemon - Odyssey (v4.0.1) (Yggdrasil Project) (Hack)" region="World"/>
+		<rom name="Pokemon - Odyssey (v4.0.1) (Yggdrasil Project) (Hack).gba" size="33554432" crc="af0d9f56" md5="f08d1b00fdd11bbb7a0a7b26b1e34e3f" sha1="47d86103576f4d8f35e49b8fca4f133c72c2417c"/>
 		<url>https://retroachievements.org/game/33063/hashes</url>
 		<hash>f08d1b00fdd11bbb7a0a7b26b1e34e3f</hash>
 	</game>
 	
-	<game name="Pokemon FR - Radical Red (Hack)">
+	<game name="Pokemon - Radical Red (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Radical Red (Hack)</description>
-		<release name="Pokemon FR - Radical Red (Hack)" region="World"/>
-		<rom name="Pokemon FR - Radical Red (Hack).gba" size="33554432" crc="fba55dd8" md5="8529f3a45d32bce4da637976fcf269d4" sha1="964f951a0fdaf209e4ea1344883ef0d557bb3a80"/>
+		<description>Pokemon - Radical Red (Hack)</description>
+		<release name="Pokemon - Radical Red (Hack)" region="World"/>
+		<rom name="Pokemon - Radical Red (Hack).gba" size="33554432" crc="fba55dd8" md5="8529f3a45d32bce4da637976fcf269d4" sha1="964f951a0fdaf209e4ea1344883ef0d557bb3a80"/>
 		<url>https://retroachievements.org/game/17361/hashes</url>
 		<hash>8529f3a45d32bce4da637976fcf269d4</hash>
 	</game>
 	
-	<game name="Pokemon Emerald - Recharged Yellow (Jaizu) (v1.8.0) (Hack)">
+	<game name="Pokemon - Recharged Yellow (Jaizu) (v1.8.0) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Emerald - Recharged Yellow (Jaizu) (v1.8.0) (Hack)</description>
-		<release name="Pokemon Emerald - Recharged Yellow (Jaizu) (v1.8.0) (Hack)" region="World"/>
-		<rom name="Pokemon Emerald - Recharged Yellow (Jaizu) (v1.8.0) (Hack).gba" size="16777216" crc="ceffa1f8" md5="9d54170472e5a37fc92602b838fe754e" sha1="be5033598e91d0e80fa93e551406f02a7876d7c2"/>
+		<description>Pokemon - Recharged Yellow (Jaizu) (v1.8.0) (Hack)</description>
+		<release name="Pokemon - Recharged Yellow (Jaizu) (v1.8.0) (Hack)" region="World"/>
+		<rom name="Pokemon - Recharged Yellow (Jaizu) (v1.8.0) (Hack).gba" size="16777216" crc="ceffa1f8" md5="9d54170472e5a37fc92602b838fe754e" sha1="be5033598e91d0e80fa93e551406f02a7876d7c2"/>
 		<url>https://retroachievements.org/game/29758/hashes</url>
 		<hash>9d54170472e5a37fc92602b838fe754e</hash>
 	</game>
 	
-	<game name="Pokemon Ruby - Snakewood (Alt) (Hack)" cloneof="Pokemon Ruby - Snakewood (Hack)">
+	<game name="Pokemon - Snakewood (Alt) (Cutlerine) (Hack)" cloneof="Pokemon - Snakewood (Cutlerine) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Ruby - Snakewood (Alt) (Hack)</description>
-		<rom name="Pokemon Ruby - Snakewood (Alt) (Hack).gba" size="16777216" crc="09d13fbb" md5="3e18faadb97ea0dc129240fca69f8336" sha1="a7210846ea96a043e8e437c8e8eae4b752941584"/>
+		<description>Pokemon - Snakewood (Alt) (Cutlerine) (Hack)</description>
+		<rom name="Pokemon - Snakewood (Alt) (Cutlerine) (Hack).gba" size="16777216" crc="09d13fbb" md5="3e18faadb97ea0dc129240fca69f8336" sha1="a7210846ea96a043e8e437c8e8eae4b752941584"/>
 		<url>https://retroachievements.org/game/5106/hashes</url>
 		<hash>3e18faadb97ea0dc129240fca69f8336</hash>
 	</game>
-	<game name="Pokemon Ruby - Snakewood (Hack)">
+	<game name="Pokemon - Snakewood (Cutlerine) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Ruby - Snakewood (Hack)</description>
-		<release name="Pokemon Ruby - Snakewood (Hack)" region="World"/>
-		<rom name="Pokemon Ruby - Snakewood (Hack).gba" size="16777216" crc="07001014" md5="617a3839430fd88dab62265b82dae9d5" sha1="3f87cd2bf7d5cfc4affc12aceef797e885e500cf"/>
+		<description>Pokemon - Snakewood (Cutlerine) (Hack)</description>
+		<release name="Pokemon - Snakewood (Cutlerine) (Hack)" region="World"/>
+		<rom name="Pokemon - Snakewood (Cutlerine) (Hack).gba" size="16777216" crc="07001014" md5="617a3839430fd88dab62265b82dae9d5" sha1="3f87cd2bf7d5cfc4affc12aceef797e885e500cf"/>
 		<url>https://retroachievements.org/game/5106/hashes</url>
 		<hash>617a3839430fd88dab62265b82dae9d5</hash>
 	</game>
 	
-	<game name="Pokemon FR - Sweet Version (Hack)">
+	<game name="Pokemon - Sweet Version (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Sweet Version (Hack)</description>
-		<release name="Pokemon FR - Sweet Version (Hack)" region="World"/>
-		<rom name="Pokemon FR - Sweet Version (Hack).gba" size="16777216" crc="326f3c55" md5="d1e174606ac4404499087626e8b60a7d" sha1="f8bccede866f4e8f5a2e3b567a2f2f45aa666c88"/>
+		<description>Pokemon - Sweet Version (Hack)</description>
+		<release name="Pokemon - Sweet Version (Hack)" region="World"/>
+		<rom name="Pokemon - Sweet Version (Hack).gba" size="16777216" crc="326f3c55" md5="d1e174606ac4404499087626e8b60a7d" sha1="f8bccede866f4e8f5a2e3b567a2f2f45aa666c88"/>
 		<url>https://retroachievements.org/game/5552/hashes</url>
 		<hash>d1e174606ac4404499087626e8b60a7d</hash>
 	</game>
 	
-	<game name="Pokemon FR - Sword and Shield Ultimate Plus (v1.1.8) (Hack)" cloneof="Pokemon FR - Sword and Shield Ultimate Plus (PCL.G) (v1.2.1.2) (Hack)">
+	<game name="Pokemon - Sword and Shield Ultimate Plus (v1.1.8) (Hack)" cloneof="Pokemon - Sword and Shield Ultimate Plus (PCL.G) (v1.2.1.2) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Sword and Shield Ultimate Plus (v1.1.8) (Hack)</description>
-		<rom name="Pokemon FR - Sword and Shield Ultimate Plus (v1.1.8) (Hack).gba" size="33554432" crc="e200222a" md5="de1b1692ed257bf933a83f64dac96b1b" sha1="1374abc3b92d3b2a32e48ef1a1383a3b4c2111b8"/>
+		<description>Pokemon - Sword and Shield Ultimate Plus (v1.1.8) (Hack)</description>
+		<rom name="Pokemon - Sword and Shield Ultimate Plus (v1.1.8) (Hack).gba" size="33554432" crc="e200222a" md5="de1b1692ed257bf933a83f64dac96b1b" sha1="1374abc3b92d3b2a32e48ef1a1383a3b4c2111b8"/>
 		<url>https://retroachievements.org/game/18985/hashes</url>
 		<hash>de1b1692ed257bf933a83f64dac96b1b</hash>
 	</game>
-	<game name="Pokemon FR - Sword and Shield Ultimate Plus (PCL.G) (v1.1.8) (Performance Patch) (Hack)" cloneof="Pokemon FR - Sword and Shield Ultimate Plus (PCL.G) (v1.2.1.2) (Hack)">
+	<game name="Pokemon - Sword and Shield Ultimate Plus (PCL.G) (v1.1.8) (Performance Patch) (Hack)" cloneof="Pokemon - Sword and Shield Ultimate Plus (PCL.G) (v1.2.1.2) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Sword and Shield Ultimate Plus (PCL.G) (v1.1.8) (Performance Patch) (Hack)</description>
-		<rom name="Pokemon FR - Sword and Shield Ultimate Plus (PCL.G) (v1.1.8) (Performance Patch) (Hack).gba" size="33554432" crc="deadcce3" md5="0d257b305b1a017ebc5c5764470a556e" sha1="5436cec2d56987208d1daf9eb403288096a70776"/>
+		<description>Pokemon - Sword and Shield Ultimate Plus (PCL.G) (v1.1.8) (Performance Patch) (Hack)</description>
+		<rom name="Pokemon - Sword and Shield Ultimate Plus (PCL.G) (v1.1.8) (Performance Patch) (Hack).gba" size="33554432" crc="deadcce3" md5="0d257b305b1a017ebc5c5764470a556e" sha1="5436cec2d56987208d1daf9eb403288096a70776"/>
 		<url>https://retroachievements.org/game/18985/hashes</url>
 		<hash>0d257b305b1a017ebc5c5764470a556e</hash>
 	</game>
-	<game name="Pokemon FR - Sword and Shield Ultimate Plus (PCL.G) (v1.2.1.2) (Hack)">
+	<game name="Pokemon - Sword and Shield Ultimate Plus (PCL.G) (v1.2.1.2) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Sword and Shield Ultimate Plus (PCL.G) (v1.2.1.2) (Hack)</description>
-		<release name="Pokemon FR - Sword and Shield Ultimate Plus (PCL.G) (v1.2.1.2) (Hack)" region="World"/>
-		<rom name="Pokemon FR - Sword and Shield Ultimate Plus (PCL.G) (v1.2.1.2) (Hack).gba" size="33554432" crc="d854eb09" md5="63940c626d3b31a3da42e7531f8b43de" sha1="afe4c8e0f9c7186860fcea5f25d8318f5d7929b9"/>
+		<description>Pokemon - Sword and Shield Ultimate Plus (PCL.G) (v1.2.1.2) (Hack)</description>
+		<release name="Pokemon - Sword and Shield Ultimate Plus (PCL.G) (v1.2.1.2) (Hack)" region="World"/>
+		<rom name="Pokemon - Sword and Shield Ultimate Plus (PCL.G) (v1.2.1.2) (Hack).gba" size="33554432" crc="d854eb09" md5="63940c626d3b31a3da42e7531f8b43de" sha1="afe4c8e0f9c7186860fcea5f25d8318f5d7929b9"/>
 		<url>https://retroachievements.org/game/18985/hashes</url>
 		<hash>63940c626d3b31a3da42e7531f8b43de</hash>
 	</game>
@@ -726,115 +726,115 @@
 		<hash>463515a7c47e716cb66c92b5d8857cf2</hash>
 	</game>
 	
-	<game name="Pokemon FR - Ultra Violet Version (Hack)">
+	<game name="Pokemon - Ultra Violet Version (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Ultra Violet Version (Hack)</description>
-		<release name="Pokemon FR - Ultra Violet Version (Hack)" region="World"/>
-		<rom name="Pokemon FR - Ultra Violet Version (Hack).gba" size="16777216" crc="ee742896" md5="48f5c9500f409dd2e14e297e81aa764c" sha1="3b6c51d8fb6b513bdd01b7bda3ed8965bc985d58"/>
+		<description>Pokemon - Ultra Violet Version (Hack)</description>
+		<release name="Pokemon - Ultra Violet Version (Hack)" region="World"/>
+		<rom name="Pokemon - Ultra Violet Version (Hack).gba" size="16777216" crc="ee742896" md5="48f5c9500f409dd2e14e297e81aa764c" sha1="3b6c51d8fb6b513bdd01b7bda3ed8965bc985d58"/>
 		<url>https://retroachievements.org/game/6643/hashes</url>
 		<hash>48f5c9500f409dd2e14e297e81aa764c</hash>
 	</game>
 	
-	<game name="Pokemon FR - Unbound (v2.1.0) (Hack)" cloneof="Pokemon FR - Unbound (v2.1.1) (Hack)">
+	<game name="Pokemon - Unbound (v2.1.0) (Hack)" cloneof="Pokemon - Unbound (v2.1.1) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Unbound (v2.1.0) (Hack)</description>
-		<rom name="Pokemon FR - Unbound (v2.1.0) (Hack).gba" size="33554432" crc="5e95edec" md5="6dc50eda0c537b60c0163be3591773dd" sha1="7c5b9d0ded9c6dcd46899949dbf909692d549fdf"/>
+		<description>Pokemon - Unbound (v2.1.0) (Hack)</description>
+		<rom name="Pokemon - Unbound (v2.1.0) (Hack).gba" size="33554432" crc="5e95edec" md5="6dc50eda0c537b60c0163be3591773dd" sha1="7c5b9d0ded9c6dcd46899949dbf909692d549fdf"/>
 		<url>https://retroachievements.org/game/17530/hashes</url>
 		<hash>6dc50eda0c537b60c0163be3591773dd</hash>
 	</game>
-	<game name="Pokemon FR - Unbound (v2.1.1) (Hack)">
+	<game name="Pokemon - Unbound (v2.1.1) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Unbound (v2.1.1) (Hack)</description>
-		<release name="Pokemon FR - Unbound (v2.1.1) (Hack)" region="World"/>
-		<rom name="Pokemon FR - Unbound (v2.1.1) (Hack).gba" size="33554432" crc="4b3d4957" md5="9cad8e771940e7f7094d13911552cef0" sha1="b4776b82a4c7915d0fadeaa27e013523f99dfd94"/>
+		<description>Pokemon - Unbound (v2.1.1) (Hack)</description>
+		<release name="Pokemon - Unbound (v2.1.1) (Hack)" region="World"/>
+		<rom name="Pokemon - Unbound (v2.1.1) (Hack).gba" size="33554432" crc="4b3d4957" md5="9cad8e771940e7f7094d13911552cef0" sha1="b4776b82a4c7915d0fadeaa27e013523f99dfd94"/>
 		<url>https://retroachievements.org/game/17530/hashes</url>
 		<hash>9cad8e771940e7f7094d13911552cef0</hash>
 	</game>
 	
-	<game name="Pokemon FR - Unbound (Subset - Professor Oak Challenge)">
+	<game name="Pokemon - Unbound (Subset - Professor Oak Challenge)">
 		<category>Subset</category>
-		<description>Pokemon FR - Unbound (Subset - Professor Oak Challenge) (Hack)</description>
-		<release name="Pokemon FR - Unbound (Subset - Professor Oak Challenge) (Hack)" region="World"/>
-		<rom name="Pokemon FR - Unbound (Subset - Professor Oak Challenge) (Hack).gba" size="33554432" crc="d8900587" md5="ba7c443cf7da00e1bbf7d3ffce305dcf" sha1="3a003104a9c467d5438547ff54366bc1991b43a6"/>
+		<description>Pokemon - Unbound (Subset - Professor Oak Challenge)</description>
+		<release name="Pokemon - Unbound (Subset - Professor Oak Challenge)" region="World"/>
+		<rom name="Pokemon - Unbound (Subset - Professor Oak Challenge).gba" size="33554432" crc="d8900587" md5="ba7c443cf7da00e1bbf7d3ffce305dcf" sha1="3a003104a9c467d5438547ff54366bc1991b43a6"/>
 		<url>https://retroachievements.org/game/24224/hashes</url>
 		<hash>ba7c443cf7da00e1bbf7d3ffce305dcf</hash>
 	</game>
 	
-	<game name="Pokemon FR - Vega (Hack)">
+	<game name="Pokemon - Vega (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Vega (Hack)</description>
-		<release name="Pokemon FR - Vega (Hack)" region="World"/>
-		<rom name="Pokemon FR - Vega (Hack).gba" size="16777216" crc="ea87bd6e" md5="07c35fe1c718fb92c80797c0d449455b" sha1="fc5d3f5f24f33b8e595ae2fbe1afded740ed19bb"/>
+		<description>Pokemon - Vega (Hack)</description>
+		<release name="Pokemon - Vega (Hack)" region="World"/>
+		<rom name="Pokemon - Vega (Hack).gba" size="16777216" crc="ea87bd6e" md5="07c35fe1c718fb92c80797c0d449455b" sha1="fc5d3f5f24f33b8e595ae2fbe1afded740ed19bb"/>
 		<url>https://retroachievements.org/game/11613/hashes</url>
 		<hash>07c35fe1c718fb92c80797c0d449455b</hash>
 	</game>
 	
-	<game name="Pokemon FR - WaterBlue Version (v1.0) (Hack)" cloneof="Pokemon FR - WaterBlue Version (v1.5) (Hack)">
+	<game name="Pokemon - WaterBlue Version (v1.0) (Hack)" cloneof="Pokemon - WaterBlue Version (v1.5) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - WaterBlue Version (v1.0) (Hack)</description>
-		<rom name="Pokemon FR - WaterBlue Version (v1.0) (Hack).gba" size="16777216" crc="030af139" md5="51709fdb15ddc75b0023f28502b2db93" sha1="210719922be6fd681fd89a021d4783996b8857e3"/>
+		<description>Pokemon - WaterBlue Version (v1.0) (Hack)</description>
+		<rom name="Pokemon - WaterBlue Version (v1.0) (Hack).gba" size="16777216" crc="030af139" md5="51709fdb15ddc75b0023f28502b2db93" sha1="210719922be6fd681fd89a021d4783996b8857e3"/>
 		<url>https://retroachievements.org/game/16195/hashes</url>
 		<hash>51709fdb15ddc75b0023f28502b2db93</hash>
 	</game>
-	<game name="Pokemon FR - WaterBlue Version (v1.5) (Hack)">
+	<game name="Pokemon - WaterBlue Version (v1.5) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - WaterBlue Version (v1.5) (Hack)</description>
-		<release name="Pokemon FR - WaterBlue Version (v1.5) (Hack)" region="World"/>
-		<rom name="Pokemon FR - WaterBlue Version (v1.5) (Hack).gba" size="16777216" crc="9cbe08c5" md5="df52f58b944ef96a9a5ed350972c1ca6" sha1="50055f8ada821fe6470d1a921ffd56f089c48245"/>
+		<description>Pokemon - WaterBlue Version (v1.5) (Hack)</description>
+		<release name="Pokemon - WaterBlue Version (v1.5) (Hack)" region="World"/>
+		<rom name="Pokemon - WaterBlue Version (v1.5) (Hack).gba" size="16777216" crc="9cbe08c5" md5="df52f58b944ef96a9a5ed350972c1ca6" sha1="50055f8ada821fe6470d1a921ffd56f089c48245"/>
 		<url>https://retroachievements.org/game/16195/hashes</url>
 		<hash>df52f58b944ef96a9a5ed350972c1ca6</hash>
 	</game>
 	
-	<game name="Pokemon Emerald - Cave Escape (Hack)">
+	<game name="Pokemon - Cave Escape (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Emerald - Cave Escape (Hack)</description>
-		<release name="Pokemon Emerald - Cave Escape (Hack)" region="World"/>
-		<rom name="Pokemon Emerald - Cave Escape (Hack).gba" size="33554432" crc="bb00d994" md5="6a99e07b9baf09d68d24bacc49293c4c" sha1="a3eb5356e69de0283e7d940099aa5d9f8c9673ef"/>
+		<description>Pokemon - Cave Escape (Hack)</description>
+		<release name="Pokemon - Cave Escape (Hack)" region="World"/>
+		<rom name="Pokemon - Cave Escape (Hack).gba" size="33554432" crc="bb00d994" md5="6a99e07b9baf09d68d24bacc49293c4c" sha1="a3eb5356e69de0283e7d940099aa5d9f8c9673ef"/>
 		<url>https://retroachievements.org/game/33566/hashes</url>
 		<hash>6a99e07b9baf09d68d24bacc49293c4c</hash>
 	</game>
 	
-	<game name="Pokemon Emerald - Maxie's Island (Hack)">
+	<game name="Pokemon - Maxie's Island (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Emerald - Maxie's Island (Hack)</description>
-		<release name="Pokemon Emerald - Maxie's Island (Hack)" region="World"/>
-		<rom name="Pokemon Emerald - Maxie's Island (Hack).gba" size="33554432" crc="ccc1cdb5" md5="fda6da784e212eee9d6dc7c1314b7509" sha1="cac2affbf84256e741b95dfa095fed9d3ab1e69e"/>
+		<description>Pokemon - Maxie's Island (Hack)</description>
+		<release name="Pokemon - Maxie's Island (Hack)" region="World"/>
+		<rom name="Pokemon - Maxie's Island (Hack).gba" size="33554432" crc="ccc1cdb5" md5="fda6da784e212eee9d6dc7c1314b7509" sha1="cac2affbf84256e741b95dfa095fed9d3ab1e69e"/>
 		<url>https://retroachievements.org/game/33574/hashes</url>
 		<hash>fda6da784e212eee9d6dc7c1314b7509</hash>
 	</game>
 	
-	<game name="Pokemon Emerald - National History Museum (Hack)">
+	<game name="Pokemon - National History Museum (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Emerald - National History Museum (Hack)</description>
-		<release name="Pokemon Emerald - National History Museum (Hack)" region="World"/>
-		<rom name="Pokemon Emerald - National History Museum (Hack).gba" size="33554432" crc="ffbd7306" md5="7f6cc86de572a068ae03b63c926716ca" sha1="3fa84a38282d0344aca21460d4d6740b90c64c2f"/>
+		<description>Pokemon - National History Museum (Hack)</description>
+		<release name="Pokemon - National History Museum (Hack)" region="World"/>
+		<rom name="Pokemon - National History Museum (Hack).gba" size="33554432" crc="ffbd7306" md5="7f6cc86de572a068ae03b63c926716ca" sha1="3fa84a38282d0344aca21460d4d6740b90c64c2f"/>
 		<url>https://retroachievements.org/game/28319/hashes</url>
 		<hash>7f6cc86de572a068ae03b63c926716ca</hash>
 	</game>
 	
-	<game name="Pokemon FR - Orange Islands (Hack)">
+	<game name="Pokemon - Orange Islands (Hack)">
 		<category>Hack</category>
-		<description>Pokemon FR - Orange Islands (Hack)</description>
-		<release name="Pokemon FR - Orange Islands (Hack)" region="World"/>
-		<rom name="Pokemon FR - Orange Islands (Hack).gba" size="16777216" crc="de228cd3" md5="a9ab32e8aa66acf206fb19c3764f29ce" sha1="d2e3800e69e44c9649c3d9a15dc1cd12c1d90501"/>
+		<description>Pokemon - Orange Islands (Hack)</description>
+		<release name="Pokemon - Orange Islands (Hack)" region="World"/>
+		<rom name="Pokemon - Orange Islands (Hack).gba" size="16777216" crc="de228cd3" md5="a9ab32e8aa66acf206fb19c3764f29ce" sha1="d2e3800e69e44c9649c3d9a15dc1cd12c1d90501"/>
 		<url>https://retroachievements.org/game/14483/hashes</url>
 		<hash>a9ab32e8aa66acf206fb19c3764f29ce</hash>
 	</game>
 	
-	<game name="Pokemon Emerald - Pit of 100 Trials (Hack)">
+	<game name="Pokemon - Pit of 100 Trials (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Emerald - Pit of 100 Trials (Hack)</description>
-		<release name="Pokemon Emerald - Pit of 100 Trials (Hack)" region="World"/>
-		<rom name="Pokemon Emerald - Pit of 100 Trials (Hack).gba" size="33554432" crc="a03780df" md5="63af39f8aca4b554de5ab19a9be82b85" sha1="305cfe21eb2b290b397109d87ccb28e6bfeec326"/>
+		<description>Pokemon - Pit of 100 Trials (Hack)</description>
+		<release name="Pokemon - Pit of 100 Trials (Hack)" region="World"/>
+		<rom name="Pokemon - Pit of 100 Trials (Hack).gba" size="33554432" crc="a03780df" md5="63af39f8aca4b554de5ab19a9be82b85" sha1="305cfe21eb2b290b397109d87ccb28e6bfeec326"/>
 		<url>https://retroachievements.org/game/30146/hashes</url>
 		<hash>63af39f8aca4b554de5ab19a9be82b85</hash>
 	</game>
 	
-	<game name="Pokemon Emerald - Pokescape - A Pokémon Escape Room (Hack)">
+	<game name="Pokemon - Pokescape - A Pokémon Escape Room (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Emerald - Pokescape - A Pokémon Escape Room (Hack)</description>
-		<release name="Pokemon Emerald - Pokescape - A Pokémon Escape Room (Hack)" region="World"/>
-		<rom name="Pokemon Emerald - Pokescape - A Pokémon Escape Room (Hack).gba" size="33554432" crc="c199e0fa" md5="b63b62b3aa0c8940ef61f16402739a8c" sha1="4969b174e0535643ecfb306894705f5c7b439de7"/>
+		<description>Pokemon - Pokescape - A Pokémon Escape Room (Hack)</description>
+		<release name="Pokemon - Pokescape - A Pokémon Escape Room (Hack)" region="World"/>
+		<rom name="Pokemon - Pokescape - A Pokémon Escape Room (Hack).gba" size="33554432" crc="c199e0fa" md5="b63b62b3aa0c8940ef61f16402739a8c" sha1="4969b174e0535643ecfb306894705f5c7b439de7"/>
 		<url>https://retroachievements.org/game/28320/hashes</url>
 		<hash>b63b62b3aa0c8940ef61f16402739a8c</hash>
 	</game>
@@ -865,18 +865,18 @@
 		<hash>ba993aee48b12e9e5761ae15bf19876b</hash>
 	</game>
 	
-	<game name="Pokemon Emerald - Super Mariomon (v1.4.1) (Hack)" cloneof="Pokemon Emerald - Super Mariomon (v1.4.2) (Hack)">
+	<game name="Pokemon - Super Mariomon (v1.4.1) (Hack)" cloneof="Pokemon - Super Mariomon (v1.4.2) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Emerald - Super Mariomon (v1.4.1) (Hack)</description>
-		<rom name="Pokemon Emerald - Super Mariomon (v1.4.1) (Hack).gba" size="33554432" crc="d55e4990" md5="90490aa75c2884914d0c13fb94277e04" sha1="03434374e9af96fdc556a9307789a1411363a39d"/>
+		<description>Pokemon - Super Mariomon (v1.4.1) (Hack)</description>
+		<rom name="Pokemon - Super Mariomon (v1.4.1) (Hack).gba" size="33554432" crc="d55e4990" md5="90490aa75c2884914d0c13fb94277e04" sha1="03434374e9af96fdc556a9307789a1411363a39d"/>
 		<url>https://retroachievements.org/game/33398/hashes</url>
 		<hash>90490aa75c2884914d0c13fb94277e04</hash>
 	</game>
-	<game name="Pokemon Emerald - Super Mariomon (v1.4.2) (Hack)">
+	<game name="Pokemon - Super Mariomon (v1.4.2) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Emerald - Super Mariomon (v1.4.2) (Hack)</description>
-		<release name="Pokemon Emerald - Super Mariomon (v1.4.2) (Hack)" region="World"/>
-		<rom name="Pokemon Emerald - Super Mariomon (v1.4.2) (Hack).gba" size="33554432" crc="4dc11401" md5="8e186ba96a5589890cffdf18a27b1209" sha1="c2ee8cc6b0a80bde0f4fb0d4a2e1fb984bccec77"/>
+		<description>Pokemon - Super Mariomon (v1.4.2) (Hack)</description>
+		<release name="Pokemon - Super Mariomon (v1.4.2) (Hack)" region="World"/>
+		<rom name="Pokemon - Super Mariomon (v1.4.2) (Hack).gba" size="33554432" crc="4dc11401" md5="8e186ba96a5589890cffdf18a27b1209" sha1="c2ee8cc6b0a80bde0f4fb0d4a2e1fb984bccec77"/>
 		<url>https://retroachievements.org/game/33398/hashes</url>
 		<hash>8e186ba96a5589890cffdf18a27b1209</hash>
 	</game>
@@ -933,59 +933,59 @@
 		<hash>76b3b3df5a69481847c008ec51552a23</hash>
 	</game>
 	
-	<game name="Goodboy Galaxy - Chapter Zero (World) (Es) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)" cloneof="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Goodboy Galaxy - Chapter Zero (World) (Es) (v1.0.6) (Aftermarket)" cloneof="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Goodboy Galaxy - Chapter Zero (World) (Es) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Goodboy Galaxy - Chapter Zero (World) (Es) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)" region="Spain"/>
-		<rom name="Goodboy Galaxy - Chapter Zero (World) (Es) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew).gba" size="13223944" crc="c1811c9b" md5="0281c499edb85107920a73f50e1a2412" sha1="9d413bce82708df137215a2968306a5196b1638b"/>
+		<description>Goodboy Galaxy - Chapter Zero (World) (Es) (v1.0.6) (Aftermarket)</description>
+		<release name="Goodboy Galaxy - Chapter Zero (World) (Es) (v1.0.6) (Aftermarket)" region="Spain"/>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (Es) (v1.0.6) (Aftermarket).gba" size="13223944" crc="c1811c9b" md5="0281c499edb85107920a73f50e1a2412" sha1="9d413bce82708df137215a2968306a5196b1638b"/>
 		<url>https://retroachievements.org/game/10577/hashes</url>
 		<hash>0281c499edb85107920a73f50e1a2412</hash>
 	</game>
-	<game name="Goodboy Galaxy - Chapter Zero (World) (Zh) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)" cloneof="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Goodboy Galaxy - Chapter Zero (World) (Zh) (v1.0.6) (Aftermarket)" cloneof="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Goodboy Galaxy - Chapter Zero (World) (Zh) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Goodboy Galaxy - Chapter Zero (World) (Zh) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)" region="China"/>
-		<rom name="Goodboy Galaxy - Chapter Zero (World) (Zh) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew).gba" size="13269108" crc="3360e114" md5="30f60f6ed1faa92d0d9acc8bc5d70616" sha1="50186922ff77714b9ac638948b464cdbf80ab5fb"/>
+		<description>Goodboy Galaxy - Chapter Zero (World) (Zh) (v1.0.6) (Aftermarket)</description>
+		<release name="Goodboy Galaxy - Chapter Zero (World) (Zh) (v1.0.6) (Aftermarket)" region="China"/>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (Zh) (v1.0.6) (Aftermarket).gba" size="13269108" crc="3360e114" md5="30f60f6ed1faa92d0d9acc8bc5d70616" sha1="50186922ff77714b9ac638948b464cdbf80ab5fb"/>
 		<url>https://retroachievements.org/game/10577/hashes</url>
 		<hash>30f60f6ed1faa92d0d9acc8bc5d70616</hash>
 	</game>
-	<game name="Goodboy Galaxy - Chapter Zero (World) (Pt) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)" cloneof="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Goodboy Galaxy - Chapter Zero (World) (Pt) (v1.0.6) (Aftermarket)" cloneof="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Goodboy Galaxy - Chapter Zero (World) (Pt) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Goodboy Galaxy - Chapter Zero (World) (Pt) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)" region="Portugal"/>
-		<rom name="Goodboy Galaxy - Chapter Zero (World) (Pt) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew).gba" size="13223696" crc="3477ef15" md5="9abe602980d9bab6a3c8e4f12895c07a" sha1="4b447de09a23fbfdaa6d640824f8ceb5bbe56fab"/>
+		<description>Goodboy Galaxy - Chapter Zero (World) (Pt) (v1.0.6) (Aftermarket)</description>
+		<release name="Goodboy Galaxy - Chapter Zero (World) (Pt) (v1.0.6) (Aftermarket)" region="Portugal"/>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (Pt) (v1.0.6) (Aftermarket).gba" size="13223696" crc="3477ef15" md5="9abe602980d9bab6a3c8e4f12895c07a" sha1="4b447de09a23fbfdaa6d640824f8ceb5bbe56fab"/>
 		<url>https://retroachievements.org/game/10577/hashes</url>
 		<hash>9abe602980d9bab6a3c8e4f12895c07a</hash>
 	</game>
-	<game name="Goodboy Galaxy - Chapter Zero (World) (Ar) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)" cloneof="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Goodboy Galaxy - Chapter Zero (World) (Ar) (v1.0.6) (Aftermarket)" cloneof="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Goodboy Galaxy - Chapter Zero (World) (Ar) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Goodboy Galaxy - Chapter Zero (World) (Ar) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)" region="Argentina"/>
-		<rom name="Goodboy Galaxy - Chapter Zero (World) (Ar) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew).gba" size="13250016" crc="a4054c2b" md5="b9e34ed53b8c74e23c55d1f60dcb7379" sha1="c3cd833b9bdf87a8481c9b05251bba782bc3527e"/>
+		<description>Goodboy Galaxy - Chapter Zero (World) (Ar) (v1.0.6) (Aftermarket)</description>
+		<release name="Goodboy Galaxy - Chapter Zero (World) (Ar) (v1.0.6) (Aftermarket)" region="Argentina"/>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (Ar) (v1.0.6) (Aftermarket).gba" size="13250016" crc="a4054c2b" md5="b9e34ed53b8c74e23c55d1f60dcb7379" sha1="c3cd833b9bdf87a8481c9b05251bba782bc3527e"/>
 		<url>https://retroachievements.org/game/10577/hashes</url>
 		<hash>b9e34ed53b8c74e23c55d1f60dcb7379</hash>
 	</game>
-	<game name="Goodboy Galaxy - Chapter Zero (World) (Fr) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)" cloneof="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Goodboy Galaxy - Chapter Zero (World) (Fr) (v1.0.6) (Aftermarket)" cloneof="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Goodboy Galaxy - Chapter Zero (World) (Fr) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Goodboy Galaxy - Chapter Zero (World) (Fr) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)" region="France"/>
-		<rom name="Goodboy Galaxy - Chapter Zero (World) (Fr) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew).gba" size="13225068" crc="21512022" md5="c2d4eb09f51e13a7ec4968e198f323c7" sha1="8832d38f787f3e1da620fcae7514d7387445ccf2"/>
+		<description>Goodboy Galaxy - Chapter Zero (World) (Fr) (v1.0.6) (Aftermarket)</description>
+		<release name="Goodboy Galaxy - Chapter Zero (World) (Fr) (v1.0.6) (Aftermarket)" region="France"/>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (Fr) (v1.0.6) (Aftermarket).gba" size="13225068" crc="21512022" md5="c2d4eb09f51e13a7ec4968e198f323c7" sha1="8832d38f787f3e1da620fcae7514d7387445ccf2"/>
 		<url>https://retroachievements.org/game/10577/hashes</url>
 		<hash>c2d4eb09f51e13a7ec4968e198f323c7</hash>
 	</game>
-	<game name="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)" region="English"/>
-		<rom name="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew).gba" size="13224124" crc="19ba7d80" md5="c94f9c68bdda0a027367e49d67becdd9" sha1="1bf95f8730ecdfa6665b85bea8764f42a88e8e3d"/>
+		<description>Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Aftermarket)</description>
+		<release name="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Aftermarket)" region="English"/>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Aftermarket).gba" size="13224124" crc="19ba7d80" md5="c94f9c68bdda0a027367e49d67becdd9" sha1="1bf95f8730ecdfa6665b85bea8764f42a88e8e3d"/>
 		<url>https://retroachievements.org/game/10577/hashes</url>
 		<hash>c94f9c68bdda0a027367e49d67becdd9</hash>
 	</game>
-	<game name="Goodboy Galaxy - Chapter Zero (World) (Ja) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)" cloneof="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Goodboy Galaxy - Chapter Zero (World) (Ja) (v1.0.6) (Aftermarket)" cloneof="Goodboy Galaxy - Chapter Zero (World) (En) (v1.0.6) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Goodboy Galaxy - Chapter Zero (World) (Ja) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Goodboy Galaxy - Chapter Zero (World) (Ja) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew)" region="Japan"/>
-		<rom name="Goodboy Galaxy - Chapter Zero (World) (Ja) (v1.0.6) (Demo) (Aftermarket) (Unl) (Homebrew).gba" size="13219728" crc="d4621e3e" md5="e5e47dc93685ab0e7299526864d4b450" sha1="5bd59fac58c5f9a375216e9d1cf85fa5262f21f7"/>
+		<description>Goodboy Galaxy - Chapter Zero (World) (Ja) (v1.0.6) (Aftermarket)</description>
+		<release name="Goodboy Galaxy - Chapter Zero (World) (Ja) (v1.0.6) (Aftermarket)" region="Japan"/>
+		<rom name="Goodboy Galaxy - Chapter Zero (World) (Ja) (v1.0.6) (Aftermarket).gba" size="13219728" crc="d4621e3e" md5="e5e47dc93685ab0e7299526864d4b450" sha1="5bd59fac58c5f9a375216e9d1cf85fa5262f21f7"/>
 		<url>https://retroachievements.org/game/10577/hashes</url>
 		<hash>e5e47dc93685ab0e7299526864d4b450</hash>
 	</game>
@@ -999,441 +999,441 @@
 		<hash>2dfeaaab827614e32b8868e522be4783</hash>
 	</game>
 	
-	<game name="Apotris (World) (v4.0.2) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Apotris (World) (v4.0.2) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Apotris (World) (v4.0.2) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Apotris (World) (v4.0.2) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Apotris (World) (v4.0.2) (Aftermarket) (Unl) (Homebrew).gba" size="4194304" crc="107f69e0" md5="cbbb81a27188b76d68374ec7ef888329" sha1="7b4be37971335759ecc828b290338ab35e047017"/>
+		<description>Apotris (World) (v4.0.2) (Aftermarket)</description>
+		<release name="Apotris (World) (v4.0.2) (Aftermarket)" region="World"/>
+		<rom name="Apotris (World) (v4.0.2) (Aftermarket).gba" size="4194304" crc="107f69e0" md5="cbbb81a27188b76d68374ec7ef888329" sha1="7b4be37971335759ecc828b290338ab35e047017"/>
 		<url>https://retroachievements.org/game/29025/hashes</url>
 		<hash>cbbb81a27188b76d68374ec7ef888329</hash>
 	</game>
-	<game name="Apotris (Homebrew) (Ultimate Remix Soundpack) (Tudd) (v1.1) (Homebrew)" cloneof="Apotris (World) (v4.0.2) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Apotris (Ultimate Remix Soundpack) (Tudd) (v1.1) (Aftermarket)" cloneof="Apotris (World) (v4.0.2) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Apotris (Homebrew) (Ultimate Remix Soundpack) (Tudd) (v1.1) (Homebrew)</description>
-		<rom name="Apotris (Homebrew) (Ultimate Remix Soundpack) (Tudd) (v1.1) (Homebrew).gba" size="33554432" crc="17e5586a" md5="885afa63766831dae4f8379999d99bdc" sha1="1151d4df2761384528fecd47a7ef1a32de93fb44"/>
+		<description>Apotris (Ultimate Remix Soundpack) (Tudd) (v1.1) (Aftermarket)</description>
+		<rom name="Apotris (Ultimate Remix Soundpack) (Tudd) (v1.1) (Aftermarket).gba" size="33554432" crc="17e5586a" md5="885afa63766831dae4f8379999d99bdc" sha1="1151d4df2761384528fecd47a7ef1a32de93fb44"/>
 		<url>https://retroachievements.org/game/29025/hashes</url>
 		<hash>885afa63766831dae4f8379999d99bdc</hash>
 	</game>
 	
-	<game name="Battle Picross (World) (Unl) (Homebrew)">
+	<game name="Battle Picross (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Battle Picross (World) (Unl) (Homebrew)</description>
-		<release name="Battle Picross (World) (Unl) (Homebrew)" region="World"/>
-		<rom name="Battle Picross (World) (Unl) (Homebrew).gba" size="194784" crc="7f36d6f0" md5="9307c9034ab5e6effa2323297e493363" sha1="7431f36c68bba7ad42301b395e1237445f059a9e"/>
+		<description>Battle Picross (World) (Aftermarket)</description>
+		<release name="Battle Picross (World) (Aftermarket)" region="World"/>
+		<rom name="Battle Picross (World) (Aftermarket).gba" size="194784" crc="7f36d6f0" md5="9307c9034ab5e6effa2323297e493363" sha1="7431f36c68bba7ad42301b395e1237445f059a9e"/>
 		<url>https://retroachievements.org/game/14458/hashes</url>
 		<hash>9307c9034ab5e6effa2323297e493363</hash>
 	</game>
 	
-	<game name="Bridge Quest (Homebrew)">
+	<game name="Bridge Quest (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Bridge Quest (Homebrew)</description>
-		<release name="Bridge Quest (Homebrew)" region="World"/>
-		<rom name="Bridge Quest (Homebrew).gba" size="1694728" crc="5116e31b" md5="0493453a2ed93db06e3f98225ec255d3" sha1="5642358e2ee6095da4827143ab10a6e459a9ea67"/>
+		<description>Bridge Quest (World) (Aftermarket)</description>
+		<release name="Bridge Quest (World) (Aftermarket)" region="World"/>
+		<rom name="Bridge Quest (World) (Aftermarket).gba" size="1694728" crc="5116e31b" md5="0493453a2ed93db06e3f98225ec255d3" sha1="5642358e2ee6095da4827143ab10a6e459a9ea67"/>
 		<url>https://retroachievements.org/game/27590/hashes</url>
 		<hash>0493453a2ed93db06e3f98225ec255d3</hash>
 	</game>
 	
-	<game name="BulletGBA (Homebrew)">
+	<game name="BulletGBA (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>BulletGBA (Homebrew)</description>
-		<release name="BulletGBA (Homebrew)" region="World"/>
-		<rom name="BulletGBA (Homebrew).gba" size="8388608" crc="70cc879d" md5="02b9f72c129f6349306925b794200b54" sha1="b52f5461c1e2c5df6821176cb7e85eb3534e0c11"/>
+		<description>BulletGBA (World) (Aftermarket)</description>
+		<release name="BulletGBA (World) (Aftermarket)" region="World"/>
+		<rom name="BulletGBA (World) (Aftermarket).gba" size="8388608" crc="70cc879d" md5="02b9f72c129f6349306925b794200b54" sha1="b52f5461c1e2c5df6821176cb7e85eb3534e0c11"/>
 		<url>https://retroachievements.org/game/7447/hashes</url>
 		<hash>02b9f72c129f6349306925b794200b54</hash>
 	</game>
 	
-	<game name="Butano Fighter (World) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Butano Fighter (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Butano Fighter (World) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Butano Fighter (World) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Butano Fighter (World) (Aftermarket) (Unl) (Homebrew).gba" size="3482456" crc="3c31501c" md5="5174f0efdb27136a8d2df79e8b932219" sha1="36efe397badf199c0339222dc825013c06b86423"/>
+		<description>Butano Fighter (World) (Aftermarket)</description>
+		<release name="Butano Fighter (World) (Aftermarket)" region="World"/>
+		<rom name="Butano Fighter (World) (Aftermarket).gba" size="3482456" crc="3c31501c" md5="5174f0efdb27136a8d2df79e8b932219" sha1="36efe397badf199c0339222dc825013c06b86423"/>
 		<url>https://retroachievements.org/game/9331/hashes</url>
 		<hash>5174f0efdb27136a8d2df79e8b932219</hash>
 	</game>
 	
-	<game name="Celeste Classic (World) (v1.0) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Celeste Classic (World) (v1.0) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Celeste Classic (World) (v1.0) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Celeste Classic (World) (v1.0) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Celeste Classic (World) (v1.0) (Aftermarket) (Unl) (Homebrew).gba" size="5416932" crc="f79b0d53" md5="d5b7c99707098401f12f6e4dfac87c9f" sha1="756f02396a150698e695ad4afd24445e2af70576"/>
+		<description>Celeste Classic (World) (v1.0) (Aftermarket)</description>
+		<release name="Celeste Classic (World) (v1.0) (Aftermarket)" region="World"/>
+		<rom name="Celeste Classic (World) (v1.0) (Aftermarket).gba" size="5416932" crc="f79b0d53" md5="d5b7c99707098401f12f6e4dfac87c9f" sha1="756f02396a150698e695ad4afd24445e2af70576"/>
 		<url>https://retroachievements.org/game/16209/hashes</url>
 		<hash>d5b7c99707098401f12f6e4dfac87c9f</hash>
 	</game>
 	
-	<game name="Coin Fall (Homebrew)">
+	<game name="Coin Fall (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Coin Fall (Homebrew)</description>
-		<release name="Coin Fall (Homebrew)" region="World"/>
-		<rom name="Coin Fall (Homebrew).gba" size="138820" crc="320f75b2" md5="08373925ffbf4332a5cac38496f8167b" sha1="d60945a9c0ebfca06de339002bb2655dd6a04f0c"/>
+		<description>Coin Fall (World) (Aftermarket)</description>
+		<release name="Coin Fall (World) (Aftermarket)" region="World"/>
+		<rom name="Coin Fall (World) (Aftermarket).gba" size="138820" crc="320f75b2" md5="08373925ffbf4332a5cac38496f8167b" sha1="d60945a9c0ebfca06de339002bb2655dd6a04f0c"/>
 		<url>https://retroachievements.org/game/25945/hashes</url>
 		<hash>08373925ffbf4332a5cac38496f8167b</hash>
 	</game>
 	
-	<game name="Discrete Orange (Homebrew)">
+	<game name="Discrete Orange (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Discrete Orange (Homebrew)</description>
-		<release name="Discrete Orange (Homebrew)" region="World"/>
-		<rom name="Discrete Orange (Homebrew).gba" size="2059172" crc="8515069c" md5="0f424c61285bfee9a940bc9aa47c61bf" sha1="d2546be26c1e902e09cbb288ff9e4f654ae5194b"/>
+		<description>Discrete Orange (World) (Aftermarket)</description>
+		<release name="Discrete Orange (World) (Aftermarket)" region="World"/>
+		<rom name="Discrete Orange (World) (Aftermarket).gba" size="2059172" crc="8515069c" md5="0f424c61285bfee9a940bc9aa47c61bf" sha1="d2546be26c1e902e09cbb288ff9e4f654ae5194b"/>
 		<url>https://retroachievements.org/game/30462/hashes</url>
 		<hash>0f424c61285bfee9a940bc9aa47c61bf</hash>
 	</game>
 	
-	<game name="Flappy Bird (World) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Flappy Bird (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Flappy Bird (World) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Flappy Bird (World) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Flappy Bird (World) (Aftermarket) (Unl) (Homebrew).gba" size="575204" crc="4d099541" md5="38f78ab97bbbb9bd210d8c96497f788a" sha1="55f611567e7ac2ad8f96529f4d7eac70ad283601"/>
+		<description>Flappy Bird (World) (Aftermarket)</description>
+		<release name="Flappy Bird (World) (Aftermarket)" region="World"/>
+		<rom name="Flappy Bird (World) (Aftermarket).gba" size="575204" crc="4d099541" md5="38f78ab97bbbb9bd210d8c96497f788a" sha1="55f611567e7ac2ad8f96529f4d7eac70ad283601"/>
 		<url>https://retroachievements.org/game/8010/hashes</url>
 		<hash>38f78ab97bbbb9bd210d8c96497f788a</hash>
 	</game>
 	
-	<game name="Funny Bird Game 2 (Homebrew)">
+	<game name="Funny Bird Game 2 (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Funny Bird Game 2 (Homebrew)</description>
-		<release name="Funny Bird Game 2 (Homebrew)" region="World"/>
-		<rom name="Funny Bird Game 2 (Homebrew).gba" size="98200" crc="a3738e60" md5="609b56cf77e11f798f2913efbef0d94f" sha1="ee613ccdde3aa09aeb9ec3058bef830df0d9dee8"/>
+		<description>Funny Bird Game 2 (World) (Aftermarket)</description>
+		<release name="Funny Bird Game 2 (World) (Aftermarket)" region="World"/>
+		<rom name="Funny Bird Game 2 (World) (Aftermarket).gba" size="98200" crc="a3738e60" md5="609b56cf77e11f798f2913efbef0d94f" sha1="ee613ccdde3aa09aeb9ec3058bef830df0d9dee8"/>
 		<url>https://retroachievements.org/game/24138/hashes</url>
 		<hash>609b56cf77e11f798f2913efbef0d94f</hash>
 	</game>
 	
-	<game name="GBA Microjam '23 (Homebrew)">
+	<game name="GBA Microjam '23 (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>GBA Microjam '23 (Homebrew)</description>
-		<release name="GBA Microjam '23 (Homebrew)" region="World"/>
-		<rom name="GBA Microjam '23 (Homebrew).gba" size="11166812" crc="dd16556a" md5="0eaffe3960f85cbda916d30662f36d5e" sha1="75f3c1e25a6d5929cefa45d83484e5870ee96cd6"/>
+		<description>GBA Microjam '23 (World) (Aftermarket)</description>
+		<release name="GBA Microjam '23 (World) (Aftermarket)" region="World"/>
+		<rom name="GBA Microjam '23 (World) (Aftermarket).gba" size="11166812" crc="dd16556a" md5="0eaffe3960f85cbda916d30662f36d5e" sha1="75f3c1e25a6d5929cefa45d83484e5870ee96cd6"/>
 		<url>https://retroachievements.org/game/28158/hashes</url>
 		<hash>0eaffe3960f85cbda916d30662f36d5e</hash>
 	</game>
 	
-	<game name="Getting Around It with Pheasant Birdy (Homebrew)">
+	<game name="Getting Around It with Pheasant Birdy (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Getting Around It with Pheasant Birdy (Homebrew)</description>
-		<release name="Getting Around It with Pheasant Birdy (Homebrew)" region="World"/>
-		<rom name="Getting Around It with Pheasant Birdy (Homebrew).gba" size="4770080" crc="cd007dbd" md5="e391eed848ae680be93bba1d691bd55b" sha1="d1886668327f4f691fb7bc935d1b2b43adba61f6"/>
+		<description>Getting Around It with Pheasant Birdy (World) (Aftermarket)</description>
+		<release name="Getting Around It with Pheasant Birdy (World) (Aftermarket)" region="World"/>
+		<rom name="Getting Around It with Pheasant Birdy (World) (Aftermarket).gba" size="4770080" crc="cd007dbd" md5="e391eed848ae680be93bba1d691bd55b" sha1="d1886668327f4f691fb7bc935d1b2b43adba61f6"/>
 		<url>https://retroachievements.org/game/33564/hashes</url>
 		<hash>e391eed848ae680be93bba1d691bd55b</hash>
 	</game>
 	
-	<game name="Goodboy Galaxy (World) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (v1.2) (Aftermarket) (Unl) (Homebrew)" cloneof="Goodboy Galaxy (Homebrew) (v1.3) (Homebrew)">
+	<game name="Goodboy Galaxy (World) (v1.2) (Aftermarket)" cloneof="Goodboy Galaxy (World) (v1.3) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Goodboy Galaxy (World) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (v1.2) (Aftermarket) (Unl) (Homebrew)</description>
-		<rom name="Goodboy Galaxy (World) (En,Ja,Fr,De,Es,Pt-BR,Zh,Ar) (v1.2) (Aftermarket) (Unl) (Homebrew).gba" size="33554432" crc="a4a932b1" md5="4cbe14d525a54f745523a6fb45f81aef" sha1="d5574e9180967a323243bde6c90c431ecdd27061"/>
+		<description>Goodboy Galaxy (World) (v1.2) (Aftermarket)</description>
+		<rom name="Goodboy Galaxy (World) (v1.2) (Aftermarket).gba" size="33554432" crc="a4a932b1" md5="4cbe14d525a54f745523a6fb45f81aef" sha1="d5574e9180967a323243bde6c90c431ecdd27061"/>
 		<url>https://retroachievements.org/game/27584/hashes</url>
 		<hash>4cbe14d525a54f745523a6fb45f81aef</hash>
 	</game>
-	<game name="Starbi Daytrip Cassettedisk (World) (Album) (Aftermarket) (Unl) (Homebrew)" cloneof="Goodboy Galaxy (Homebrew) (v1.3) (Homebrew)">
+	<game name="Starbi Daytrip Cassettedisk (World) (Album) (Aftermarket)" cloneof="Goodboy Galaxy (World) (v1.3) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Starbi Daytrip Cassettedisk (World) (Album) (Aftermarket) (Unl) (Homebrew)</description>
-		<rom name="Starbi Daytrip Cassettedisk (World) (Album) (Aftermarket) (Unl) (Homebrew).gba" size="33415924" crc="868370f1" md5="0ab3b3ffa752d2e151da824c541a0eeb" sha1="11387f95e77a02fe0c9f4da1ec7794a5df3531b6"/>
+		<description>Starbi Daytrip Cassettedisk (World) (Album) (Aftermarket)</description>
+		<rom name="Starbi Daytrip Cassettedisk (World) (Album) (Aftermarket).gba" size="33415924" crc="868370f1" md5="0ab3b3ffa752d2e151da824c541a0eeb" sha1="11387f95e77a02fe0c9f4da1ec7794a5df3531b6"/>
 		<url>https://retroachievements.org/game/27584/hashes</url>
 		<hash>0ab3b3ffa752d2e151da824c541a0eeb</hash>
 	</game>
-	<game name="Goodboy Galaxy (Homebrew) (Rumble) (v1.2) (Homebrew)" cloneof="Goodboy Galaxy (Homebrew) (v1.3) (Homebrew)">
+	<game name="Goodboy Galaxy (World) (Rumble) (v1.2) (Aftermarket)" cloneof="Goodboy Galaxy (World) (v1.3) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Goodboy Galaxy (Homebrew) (Rumble) (v1.2) (Homebrew)</description>
-		<rom name="Goodboy Galaxy (Homebrew) (Rumble) (v1.2) (Homebrew).gba" size="33554432" crc="71ea7d97" md5="9c7b11ea67d07798602d3ff791f797e4" sha1="fff4c3f8dc3fd8e57b0ea5a23f1430fa93d8950a"/>
+		<description>Goodboy Galaxy (World) (Rumble) (v1.2) (Aftermarket)</description>
+		<rom name="Goodboy Galaxy (World) (Rumble) (v1.2) (Aftermarket).gba" size="33554432" crc="71ea7d97" md5="9c7b11ea67d07798602d3ff791f797e4" sha1="fff4c3f8dc3fd8e57b0ea5a23f1430fa93d8950a"/>
 		<url>https://retroachievements.org/game/27584/hashes</url>
 		<hash>9c7b11ea67d07798602d3ff791f797e4</hash>
 	</game>
-	<game name="Goodboy Galaxy (Homebrew) (v1.3) (Homebrew)">
+	<game name="Goodboy Galaxy (World) (v1.3) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Goodboy Galaxy (Homebrew) (v1.3) (Homebrew)</description>
-		<release name="Goodboy Galaxy (Homebrew) (v1.3) (Homebrew)" region="World"/>
-		<rom name="Goodboy Galaxy (Homebrew) (v1.3) (Homebrew).gba" size="33554432" crc="159ff629" md5="bb9368a99e87251d9323a54841045914" sha1="df5473dbb005816293238095076e8f8c75484f93"/>
+		<description>Goodboy Galaxy (World) (v1.3) (Aftermarket)</description>
+		<release name="Goodboy Galaxy (World) (v1.3) (Aftermarket)" region="World"/>
+		<rom name="Goodboy Galaxy (World) (v1.3) (Aftermarket).gba" size="33554432" crc="159ff629" md5="bb9368a99e87251d9323a54841045914" sha1="df5473dbb005816293238095076e8f8c75484f93"/>
 		<url>https://retroachievements.org/game/27584/hashes</url>
 		<hash>bb9368a99e87251d9323a54841045914</hash>
 	</game>
-	<game name="Goodboy Galaxy (Homebrew) (Rumble) (v1.3) (Homebrew)" cloneof="Goodboy Galaxy (Homebrew) (v1.3) (Homebrew)">
+	<game name="Goodboy Galaxy (World) (Rumble) (v1.3) (Aftermarket)" cloneof="Goodboy Galaxy (World) (v1.3) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Goodboy Galaxy (Homebrew) (Rumble) (v1.3) (Homebrew)</description>
-		<rom name="Goodboy Galaxy (Homebrew) (Rumble) (v1.3) (Homebrew).gba" size="33554432" crc="c0dcb90f" md5="8d4ca206cbfebee1653ca2a3c7df3e79" sha1="bfd9804c1b67f2101295e8ca6fc6a731f4ddacc3"/>
+		<description>Goodboy Galaxy (World) (Rumble) (v1.3) (Aftermarket)</description>
+		<rom name="Goodboy Galaxy (World) (Rumble) (v1.3) (Aftermarket).gba" size="33554432" crc="c0dcb90f" md5="8d4ca206cbfebee1653ca2a3c7df3e79" sha1="bfd9804c1b67f2101295e8ca6fc6a731f4ddacc3"/>
 		<url>https://retroachievements.org/game/27584/hashes</url>
 		<hash>8d4ca206cbfebee1653ca2a3c7df3e79</hash>
 	</game>
 	
-	<game name="Google Dino Advance (World) (v1.0.1) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Google Dino Advance (World) (v1.0.1) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Google Dino Advance (World) (v1.0.1) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Google Dino Advance (World) (v1.0.1) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Google Dino Advance (World) (v1.0.1) (Aftermarket) (Unl) (Homebrew).gba" size="109072" crc="6534185e" md5="0f8ed17d661f50fd1c09d07e54f88f31" sha1="33cc0afc7fbac8948deb75c66b8e097c1d05b2e3"/>
+		<description>Google Dino Advance (World) (v1.0.1) (Aftermarket)</description>
+		<release name="Google Dino Advance (World) (v1.0.1) (Aftermarket)" region="World"/>
+		<rom name="Google Dino Advance (World) (v1.0.1) (Aftermarket).gba" size="109072" crc="6534185e" md5="0f8ed17d661f50fd1c09d07e54f88f31" sha1="33cc0afc7fbac8948deb75c66b8e097c1d05b2e3"/>
 		<url>https://retroachievements.org/game/23900/hashes</url>
 		<hash>0f8ed17d661f50fd1c09d07e54f88f31</hash>
 	</game>
 	
-	<game name="Kadu Bird (Homebrew)">
+	<game name="Kadu Bird (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Kadu Bird (Homebrew)</description>
-		<release name="Kadu Bird (Homebrew)" region="World"/>
-		<rom name="Kadu Bird (Homebrew).gba" size="1413432" crc="b4a5f197" md5="1d9eb0f4c79935ec84d0c5b0df3230e8" sha1="33c83fd234591fbb78aebd24b60e89c3b24c007d"/>
+		<description>Kadu Bird (World) (Aftermarket)</description>
+		<release name="Kadu Bird (World) (Aftermarket)" region="World"/>
+		<rom name="Kadu Bird (World) (Aftermarket).gba" size="1413432" crc="b4a5f197" md5="1d9eb0f4c79935ec84d0c5b0df3230e8" sha1="33c83fd234591fbb78aebd24b60e89c3b24c007d"/>
 		<url>https://retroachievements.org/game/25111/hashes</url>
 		<hash>1d9eb0f4c79935ec84d0c5b0df3230e8</hash>
 	</game>
 	
-	<game name="Knight Owls (Homebrew)">
+	<game name="Knight Owls (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Knight Owls (Homebrew)</description>
-		<release name="Knight Owls (Homebrew)" region="World"/>
-		<rom name="Knight Owls (Homebrew).gba" size="638704" crc="84602266" md5="6d2a68e6c7511a55b0e47ebb8d880dda" sha1="40d150f3612f6ab27943ca421634ceea0b70dd4f"/>
+		<description>Knight Owls (World) (Aftermarket)</description>
+		<release name="Knight Owls (World) (Aftermarket)" region="World"/>
+		<rom name="Knight Owls (World) (Aftermarket).gba" size="638704" crc="84602266" md5="6d2a68e6c7511a55b0e47ebb8d880dda" sha1="40d150f3612f6ab27943ca421634ceea0b70dd4f"/>
 		<url>https://retroachievements.org/game/30907/hashes</url>
 		<hash>6d2a68e6c7511a55b0e47ebb8d880dda</hash>
 	</game>
 	
-	<game name="Luggage Retrieval Officer (World) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Luggage Retrieval Officer (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Luggage Retrieval Officer (World) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Luggage Retrieval Officer (World) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Luggage Retrieval Officer (World) (Aftermarket) (Unl) (Homebrew).gba" size="3336260" crc="5aa30d90" md5="01ad547e076252f97adddfce4a21f395" sha1="84c9b2d50c8af74b8b04f88af367d9fac1a24ef6"/>
+		<description>Luggage Retrieval Officer (World) (Aftermarket)</description>
+		<release name="Luggage Retrieval Officer (World) (Aftermarket)" region="World"/>
+		<rom name="Luggage Retrieval Officer (World) (Aftermarket).gba" size="3336260" crc="5aa30d90" md5="01ad547e076252f97adddfce4a21f395" sha1="84c9b2d50c8af74b8b04f88af367d9fac1a24ef6"/>
 		<url>https://retroachievements.org/game/23791/hashes</url>
 		<hash>01ad547e076252f97adddfce4a21f395</hash>
 	</game>
 	
-	<game name="Luigi Puzzle (Homebrew)">
+	<game name="Luigi Puzzle (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Luigi Puzzle (Homebrew)</description>
-		<release name="Luigi Puzzle (Homebrew)" region="World"/>
-		<rom name="Luigi Puzzle (Homebrew).gba" size="371376" crc="d907f726" md5="ff1419ab6c2a099eed072762978bc1cc" sha1="336526b321180a1b30c43bed2d65297616887e94"/>
+		<description>Luigi Puzzle (World) (Aftermarket)</description>
+		<release name="Luigi Puzzle (World) (Aftermarket)" region="World"/>
+		<rom name="Luigi Puzzle (World) (Aftermarket).gba" size="371376" crc="d907f726" md5="ff1419ab6c2a099eed072762978bc1cc" sha1="336526b321180a1b30c43bed2d65297616887e94"/>
 		<url>https://retroachievements.org/game/16387/hashes</url>
 		<hash>ff1419ab6c2a099eed072762978bc1cc</hash>
 	</game>
 	
-	<game name="MeteoRain (Homebrew)">
+	<game name="MeteoRain (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>MeteoRain (Homebrew)</description>
-		<release name="MeteoRain (Homebrew)" region="World"/>
-		<rom name="MeteoRain (Homebrew).gba" size="1710503" crc="c03ecaaa" md5="a0149ff775d81a1d82e9c5d7dbb63ed9" sha1="b4c1e155fd6e7e05baccc8b8bea80a9185b0cd40"/>
+		<description>MeteoRain (World) (Aftermarket)</description>
+		<release name="MeteoRain (World) (Aftermarket)" region="World"/>
+		<rom name="MeteoRain (World) (Aftermarket).gba" size="1710503" crc="c03ecaaa" md5="a0149ff775d81a1d82e9c5d7dbb63ed9" sha1="b4c1e155fd6e7e05baccc8b8bea80a9185b0cd40"/>
 		<url>https://retroachievements.org/game/28291/hashes</url>
 		<hash>a0149ff775d81a1d82e9c5d7dbb63ed9</hash>
 	</game>
 	
-	<game name="Minicraft (World) (v1.0) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Minicraft (World) (v1.0) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Minicraft (World) (v1.0) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Minicraft (World) (v1.0) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Minicraft (World) (v1.0) (Aftermarket) (Unl) (Homebrew).gba" size="131072" crc="e852c9e9" md5="5defefbbbb67bd8fbca428d3ad2c5031" sha1="06faa5be11978666db6995d8fce40ce2c3641ce8"/>
+		<description>Minicraft (World) (v1.0) (Aftermarket)</description>
+		<release name="Minicraft (World) (v1.0) (Aftermarket)" region="World"/>
+		<rom name="Minicraft (World) (v1.0) (Aftermarket).gba" size="131072" crc="e852c9e9" md5="5defefbbbb67bd8fbca428d3ad2c5031" sha1="06faa5be11978666db6995d8fce40ce2c3641ce8"/>
 		<url>https://retroachievements.org/game/21682/hashes</url>
 		<hash>5defefbbbb67bd8fbca428d3ad2c5031</hash>
 	</game>
 	
-	<game name="Misfortune Advance (World) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Misfortune Advance (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Misfortune Advance (World) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Misfortune Advance (World) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Misfortune Advance (World) (Aftermarket) (Unl) (Homebrew).gba" size="5125100" crc="18f2166d" md5="42fbeb32909935b02ce9f8826c86df03" sha1="68e215025ac963220f16ea3c100e51698f97c4eb"/>
+		<description>Misfortune Advance (World) (Aftermarket)</description>
+		<release name="Misfortune Advance (World) (Aftermarket)" region="World"/>
+		<rom name="Misfortune Advance (World) (Aftermarket).gba" size="5125100" crc="18f2166d" md5="42fbeb32909935b02ce9f8826c86df03" sha1="68e215025ac963220f16ea3c100e51698f97c4eb"/>
 		<url>https://retroachievements.org/game/9222/hashes</url>
 		<hash>42fbeb32909935b02ce9f8826c86df03</hash>
 	</game>
 	
-	<game name="Mooncat's Trio (World) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Mooncat's Trio (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Mooncat's Trio (World) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Mooncat's Trio (World) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Mooncat's Trio (World) (Aftermarket) (Unl) (Homebrew).gba" size="1175680" crc="b05d5339" md5="c3d670914b052c6e7fafc5649b725afd" sha1="890de7d73723d235d9762e4866d569d3554d1480"/>
+		<description>Mooncat's Trio (World) (Aftermarket)</description>
+		<release name="Mooncat's Trio (World) (Aftermarket)" region="World"/>
+		<rom name="Mooncat's Trio (World) (Aftermarket).gba" size="1175680" crc="b05d5339" md5="c3d670914b052c6e7fafc5649b725afd" sha1="890de7d73723d235d9762e4866d569d3554d1480"/>
 		<url>https://retroachievements.org/game/24331/hashes</url>
 		<hash>c3d670914b052c6e7fafc5649b725afd</hash>
 	</game>
 	
-	<game name="Neo Racing Genesis (Homebrew)">
+	<game name="Neo Racing Genesis (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Neo Racing Genesis (Homebrew)</description>
-		<release name="Neo Racing Genesis (Homebrew)" region="World"/>
-		<rom name="Neo Racing Genesis (Homebrew).gba" size="139656" crc="adfca566" md5="fba9751b89d92a80965d9a61009ed1aa" sha1="bfe3615711c9404d6af232bffec360b073a67573"/>
+		<description>Neo Racing Genesis (World) (Aftermarket)</description>
+		<release name="Neo Racing Genesis (World) (Aftermarket)" region="World"/>
+		<rom name="Neo Racing Genesis (World) (Aftermarket).gba" size="139656" crc="adfca566" md5="fba9751b89d92a80965d9a61009ed1aa" sha1="bfe3615711c9404d6af232bffec360b073a67573"/>
 		<url>https://retroachievements.org/game/25306/hashes</url>
 		<hash>fba9751b89d92a80965d9a61009ed1aa</hash>
 	</game>
 	
-	<game name="notenogram (World) (v1.1) (Aftermarket) (Unl) (Homebrew)">
+	<game name="notenogram (World) (v1.1) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>notenogram (World) (v1.1) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="notenogram (World) (v1.1) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="notenogram (World) (v1.1) (Aftermarket) (Unl) (Homebrew).gba" size="807876" crc="28108d5e" md5="62e016b66f9880a918b37f6e269f4d00" sha1="426a19598624132356ff5d63a48eb874f19ead6b"/>
+		<description>notenogram (World) (v1.1) (Aftermarket)</description>
+		<release name="notenogram (World) (v1.1) (Aftermarket)" region="World"/>
+		<rom name="notenogram (World) (v1.1) (Aftermarket).gba" size="807876" crc="28108d5e" md5="62e016b66f9880a918b37f6e269f4d00" sha1="426a19598624132356ff5d63a48eb874f19ead6b"/>
 		<url>https://retroachievements.org/game/30145/hashes</url>
 		<hash>62e016b66f9880a918b37f6e269f4d00</hash>
 	</game>
 	
-	<game name="Picross Advance (Homebrew) (GBAX2005) (Homebrew)">
+	<game name="Picross Advance (World) (GBAX2005) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Picross Advance (Homebrew) (GBAX2005) (Homebrew)</description>
-		<release name="Picross Advance (Homebrew) (GBAX2005) (Homebrew)" region="World"/>
-		<rom name="Picross Advance (Homebrew) (GBAX2005) (Homebrew).gba" size="664164" crc="33011f7c" md5="43c413e3b438bce1b1b4e1b6859e72b9" sha1="07407e68cbfea16d6f713481df048c5474f0d3b0"/>
+		<description>Picross Advance (World) (GBAX2005) (Aftermarket)</description>
+		<release name="Picross Advance (World) (GBAX2005) (Aftermarket)" region="World"/>
+		<rom name="Picross Advance (World) (GBAX2005) (Aftermarket).gba" size="664164" crc="33011f7c" md5="43c413e3b438bce1b1b4e1b6859e72b9" sha1="07407e68cbfea16d6f713481df048c5474f0d3b0"/>
 		<url>https://retroachievements.org/game/17919/hashes</url>
 		<hash>43c413e3b438bce1b1b4e1b6859e72b9</hash>
 	</game>
-	<game name="Picross Advance (Homebrew) (RC2) (Homebrew)" cloneof="Picross Advance (Homebrew) (GBAX2005) (Homebrew)">
+	<game name="Picross Advance (RC2) (World) (Aftermarket)" cloneof="Picross Advance (World) (GBAX2005) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Picross Advance (Homebrew) (RC2) (Homebrew)</description>
-		<release name="Picross Advance (Homebrew) (RC2) (Homebrew)" region="World"/>
-		<rom name="Picross Advance (Homebrew) (RC2) (Homebrew).gba" size="625116" crc="4ec6a8e7" md5="aa1e384bd43b0c607bf3367ccfb4c4c8" sha1="ce7ef4f5c0974d1bd60b74c218d08aa86ac4874e"/>
+		<description>Picross Advance (RC2) (World) (Aftermarket)</description>
+		<release name="Picross Advance (RC2) (World) (Aftermarket)" region="World"/>
+		<rom name="Picross Advance (RC2) (World) (Aftermarket).gba" size="625116" crc="4ec6a8e7" md5="aa1e384bd43b0c607bf3367ccfb4c4c8" sha1="ce7ef4f5c0974d1bd60b74c218d08aa86ac4874e"/>
 		<url>https://retroachievements.org/game/17919/hashes</url>
 		<hash>aa1e384bd43b0c607bf3367ccfb4c4c8</hash>
 	</game>
 	
-	<game name="Ping-Pong Diplomacy Advance (World) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Ping-Pong Diplomacy Advance (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Ping-Pong Diplomacy Advance (World) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Ping-Pong Diplomacy Advance (World) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Ping-Pong Diplomacy Advance (World) (Aftermarket) (Unl) (Homebrew).gba" size="1048576" crc="9ec140d3" md5="3dec7104aeceebf699f74845e95dd30f" sha1="9e19e8f97e8619a4755c3ceb482fa3e2ad5a4529"/>
+		<description>Ping-Pong Diplomacy Advance (World) (Aftermarket)</description>
+		<release name="Ping-Pong Diplomacy Advance (World) (Aftermarket)" region="World"/>
+		<rom name="Ping-Pong Diplomacy Advance (World) (Aftermarket).gba" size="1048576" crc="9ec140d3" md5="3dec7104aeceebf699f74845e95dd30f" sha1="9e19e8f97e8619a4755c3ceb482fa3e2ad5a4529"/>
 		<url>https://retroachievements.org/game/17755/hashes</url>
 		<hash>3dec7104aeceebf699f74845e95dd30f</hash>
 	</game>
 	
-	<game name="Pocket Meat (World) (Proto) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Pocket Meat (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Pocket Meat (World) (Proto) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Pocket Meat (World) (Proto) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Pocket Meat (World) (Proto) (Aftermarket) (Unl) (Homebrew).gba" size="861952" crc="0b029da3" md5="25cb3f0bc680ece2d1578a635e831c57" sha1="9958d9a66742cc00e234a96c311b2acec40f69d1"/>
+		<description>Pocket Meat (World) (Aftermarket)</description>
+		<release name="Pocket Meat (World) (Aftermarket)" region="World"/>
+		<rom name="Pocket Meat (World) (Aftermarket).gba" size="861952" crc="0b029da3" md5="25cb3f0bc680ece2d1578a635e831c57" sha1="9958d9a66742cc00e234a96c311b2acec40f69d1"/>
 		<url>https://retroachievements.org/game/2578/hashes</url>
 		<hash>25cb3f0bc680ece2d1578a635e831c57</hash>
 	</game>
 	
-	<game name="Popeye Meets Ali Baba's Forty Thieves (Homebrew)">
+	<game name="Popeye Meets Ali Baba's Forty Thieves (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Popeye Meets Ali Baba's Forty Thieves (Homebrew)</description>
-		<release name="Popeye Meets Ali Baba's Forty Thieves (Homebrew)" region="World"/>
-		<rom name="Popeye Meets Ali Baba's Forty Thieves (Homebrew).gba" size="25067520" crc="3d2b7e9a" md5="564728f953486c7f8af022f7765bcc93" sha1="7ed0b27ce1537610d62e3265ee1d8e7aa09ac649"/>
+		<description>Popeye Meets Ali Baba's Forty Thieves (World) (Aftermarket)</description>
+		<release name="Popeye Meets Ali Baba's Forty Thieves (World) (Aftermarket)" region="World"/>
+		<rom name="Popeye Meets Ali Baba's Forty Thieves (World) (Aftermarket).gba" size="25067520" crc="3d2b7e9a" md5="564728f953486c7f8af022f7765bcc93" sha1="7ed0b27ce1537610d62e3265ee1d8e7aa09ac649"/>
 		<url>https://retroachievements.org/game/19895/hashes</url>
 		<hash>564728f953486c7f8af022f7765bcc93</hash>
 	</game>
 	
-	<game name="Radicorn (Homebrew)">
+	<game name="Radicorn (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Radicorn (Homebrew)</description>
-		<release name="Radicorn (Homebrew)" region="World"/>
-		<rom name="Radicorn (Homebrew).gba" size="88704" crc="c176fc59" md5="09698b7f688a00a7ac4a67a225c2181f" sha1="42e722987387bda61f2fa34c22e1789df9d5c0d4"/>
+		<description>Radicorn (World) (Aftermarket)</description>
+		<release name="Radicorn (World) (Aftermarket)" region="World"/>
+		<rom name="Radicorn (World) (Aftermarket).gba" size="88704" crc="c176fc59" md5="09698b7f688a00a7ac4a67a225c2181f" sha1="42e722987387bda61f2fa34c22e1789df9d5c0d4"/>
 		<url>https://retroachievements.org/game/28941/hashes</url>
 		<hash>09698b7f688a00a7ac4a67a225c2181f</hash>
 	</game>
 	
-	<game name="Scrolls of Fire (Homebrew)">
+	<game name="Scrolls of Fire (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Scrolls of Fire (Homebrew)</description>
-		<release name="Scrolls of Fire (Homebrew)" region="World"/>
-		<rom name="Scrolls of Fire (Homebrew).gba" size="8388608" crc="dc7ae90b" md5="6da65b9770fb37a2241da500af621e5f" sha1="4b86384dc02d22ebbfdd5a3f85596213610b038b"/>
+		<description>Scrolls of Fire (World) (Aftermarket)</description>
+		<release name="Scrolls of Fire (World) (Aftermarket)" region="World"/>
+		<rom name="Scrolls of Fire (World) (Aftermarket).gba" size="8388608" crc="dc7ae90b" md5="6da65b9770fb37a2241da500af621e5f" sha1="4b86384dc02d22ebbfdd5a3f85596213610b038b"/>
 		<url>https://retroachievements.org/game/29046/hashes</url>
 		<hash>6da65b9770fb37a2241da500af621e5f</hash>
 	</game>
 	
-	<game name="Sips (World) (GBA WinterJam 2023) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Sips (World) (GBA WinterJam 2023) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Sips (World) (GBA WinterJam 2023) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Sips (World) (GBA WinterJam 2023) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Sips (World) (GBA WinterJam 2023) (Aftermarket) (Unl) (Homebrew).gba" size="6235380" crc="5c1fb22d" md5="03a47a034c02e457fb6f8412b81ae56c" sha1="bb725df7226307d55df04365f85e5698b199c3c9"/>
+		<description>Sips (World) (GBA WinterJam 2023) (Aftermarket)</description>
+		<release name="Sips (World) (GBA WinterJam 2023) (Aftermarket)" region="World"/>
+		<rom name="Sips (World) (GBA WinterJam 2023) (Aftermarket).gba" size="6235380" crc="5c1fb22d" md5="03a47a034c02e457fb6f8412b81ae56c" sha1="bb725df7226307d55df04365f85e5698b199c3c9"/>
 		<url>https://retroachievements.org/game/22659/hashes</url>
 		<hash>03a47a034c02e457fb6f8412b81ae56c</hash>
 	</game>
 	
-	<game name="Snakes (Homebrew)">
+	<game name="Snakes (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Snakes (Homebrew)</description>
-		<release name="Snakes (Homebrew)" region="World"/>
-		<rom name="Snakes (Homebrew).gba" size="26316" crc="71ea10ce" md5="e5f3bd0d81e17fbe1f27391af8ecfe83" sha1="8fe3b0d9bfbc4087bedcbdaf82c86e8c96340910"/>
+		<description>Snakes (World) (Aftermarket)</description>
+		<release name="Snakes (World) (Aftermarket)" region="World"/>
+		<rom name="Snakes (World) (Aftermarket).gba" size="26316" crc="71ea10ce" md5="e5f3bd0d81e17fbe1f27391af8ecfe83" sha1="8fe3b0d9bfbc4087bedcbdaf82c86e8c96340910"/>
 		<url>https://retroachievements.org/game/5364/hashes</url>
 		<hash>e5f3bd0d81e17fbe1f27391af8ecfe83</hash>
 	</game>
 	
-	<game name="Sudoku Micro (Homebrew)">
+	<game name="Sudoku Micro (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Sudoku Micro (Homebrew)</description>
-		<release name="Sudoku Micro (Homebrew)" region="World"/>
-		<rom name="Sudoku Micro (Homebrew).gba" size="1590116" crc="b88795ac" md5="f8931a1a9a842de8e11e39223350af60" sha1="d15a759a6673f8b6ffe7ec95c170bbc7e85ee07b"/>
+		<description>Sudoku Micro (World) (Aftermarket)</description>
+		<release name="Sudoku Micro (World) (Aftermarket)" region="World"/>
+		<rom name="Sudoku Micro (World) (Aftermarket).gba" size="1590116" crc="b88795ac" md5="f8931a1a9a842de8e11e39223350af60" sha1="d15a759a6673f8b6ffe7ec95c170bbc7e85ee07b"/>
 		<url>https://retroachievements.org/game/14466/hashes</url>
 		<hash>f8931a1a9a842de8e11e39223350af60</hash>
 	</game>
 	
-	<game name="Super Block Jump (Homebrew)">
+	<game name="Super Block Jump (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Super Block Jump (Homebrew)</description>
-		<release name="Super Block Jump (Homebrew)" region="World"/>
-		<rom name="Super Block Jump (Homebrew).gba" size="5159064" crc="35330f9f" md5="344c07ad6b714e91b25c908a5e3c61dc" sha1="4ca2f7b553f73380abd5a47dce3f3c29ba097911"/>
+		<description>Super Block Jump (World) (Aftermarket)</description>
+		<release name="Super Block Jump (World) (Aftermarket)" region="World"/>
+		<rom name="Super Block Jump (World) (Aftermarket).gba" size="5159064" crc="35330f9f" md5="344c07ad6b714e91b25c908a5e3c61dc" sha1="4ca2f7b553f73380abd5a47dce3f3c29ba097911"/>
 		<url>https://retroachievements.org/game/22291/hashes</url>
 		<hash>344c07ad6b714e91b25c908a5e3c61dc</hash>
 	</game>
 	
-	<game name="Super Mario - The Last GBA Quest (Homebrew)">
+	<game name="Super Mario - The Last GBA Quest (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Super Mario - The Last GBA Quest (Homebrew)</description>
-		<release name="Super Mario - The Last GBA Quest (Homebrew)" region="World"/>
-		<rom name="Super Mario - The Last GBA Quest (Homebrew).gba" size="13253992" crc="b6ded5a3" md5="d6b69c7d686163350141a5860d1599ad" sha1="bc3106d88cffd0d127898d5739d850cb3eea7ca2"/>
+		<description>Super Mario - The Last GBA Quest (World) (Aftermarket)</description>
+		<release name="Super Mario - The Last GBA Quest (World) (Aftermarket)" region="World"/>
+		<rom name="Super Mario - The Last GBA Quest (World) (Aftermarket).gba" size="13253992" crc="b6ded5a3" md5="d6b69c7d686163350141a5860d1599ad" sha1="bc3106d88cffd0d127898d5739d850cb3eea7ca2"/>
 		<url>https://retroachievements.org/game/14392/hashes</url>
 		<hash>d6b69c7d686163350141a5860d1599ad</hash>
 	</game>
 	
-	<game name="Sushi the Cat (World) (Unl) (Homebrew)">
+	<game name="Sushi the Cat (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Sushi the Cat (World) (Unl) (Homebrew)</description>
-		<release name="Sushi the Cat (World) (Unl) (Homebrew)" region="World"/>
-		<rom name="Sushi the Cat (World) (Unl) (Homebrew).gba" size="540296" crc="6f019a88" md5="b01251955731bf7509cb09af8f49ad1d" sha1="f6d523a073c21639e15d615947167bba3871c67a"/>
+		<description>Sushi the Cat (World) (Aftermarket)</description>
+		<release name="Sushi the Cat (World) (Aftermarket)" region="World"/>
+		<rom name="Sushi the Cat (World) (Aftermarket).gba" size="540296" crc="6f019a88" md5="b01251955731bf7509cb09af8f49ad1d" sha1="f6d523a073c21639e15d615947167bba3871c67a"/>
 		<url>https://retroachievements.org/game/8038/hashes</url>
 		<hash>b01251955731bf7509cb09af8f49ad1d</hash>
 	</game>
 	
-	<game name="Tetrigram (Homebrew)">
+	<game name="Tetrigram (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Tetrigram (Homebrew)</description>
-		<release name="Tetrigram (Homebrew)" region="World"/>
-		<rom name="Tetrigram (Homebrew).gba" size="137068" crc="d78e5000" md5="2050e27bdf4b7281482ce766a8c3676d" sha1="2ff15250a63ba842d2ae0418c2fd842cf8695fe9"/>
+		<description>Tetrigram (World) (Aftermarket)</description>
+		<release name="Tetrigram (World) (Aftermarket)" region="World"/>
+		<rom name="Tetrigram (World) (Aftermarket).gba" size="137068" crc="d78e5000" md5="2050e27bdf4b7281482ce766a8c3676d" sha1="2ff15250a63ba842d2ae0418c2fd842cf8695fe9"/>
 		<url>https://retroachievements.org/game/16307/hashes</url>
 		<hash>2050e27bdf4b7281482ce766a8c3676d</hash>
 	</game>
 	
-	<game name="Thinking With Boxes (Homebrew)">
+	<game name="Thinking With Boxes (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Thinking With Boxes (Homebrew)</description>
-		<release name="Thinking With Boxes (Homebrew)" region="World"/>
-		<rom name="Thinking With Boxes (Homebrew).gba" size="131072" crc="b3d5d73d" md5="5db9d07fc98706d0e2f89e11708dcfa7" sha1="69127756d96375d8fa0336db48416e630e8da8e0"/>
+		<description>Thinking With Boxes (World) (Aftermarket)</description>
+		<release name="Thinking With Boxes (World) (Aftermarket)" region="World"/>
+		<rom name="Thinking With Boxes (World) (Aftermarket).gba" size="131072" crc="b3d5d73d" md5="5db9d07fc98706d0e2f89e11708dcfa7" sha1="69127756d96375d8fa0336db48416e630e8da8e0"/>
 		<url>https://retroachievements.org/game/30940/hashes</url>
 		<hash>5db9d07fc98706d0e2f89e11708dcfa7</hash>
 	</game>
 	
-	<game name="Toadally Awesome (World) (GBA Jam 2021) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Toadally Awesome (World) (GBA Jam 2021) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Toadally Awesome (World) (GBA Jam 2021) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Toadally Awesome (World) (GBA Jam 2021) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Toadally Awesome (World) (GBA Jam 2021) (Aftermarket) (Unl) (Homebrew).gba" size="964504" crc="fa6f976c" md5="49682b2d7fb8a0953f7a88a7fd33eb73" sha1="098f9e2ba7ba15225768eae3585591b9b09ef2d6"/>
+		<description>Toadally Awesome (World) (GBA Jam 2021) (Aftermarket)</description>
+		<release name="Toadally Awesome (World) (GBA Jam 2021) (Aftermarket)" region="World"/>
+		<rom name="Toadally Awesome (World) (GBA Jam 2021) (Aftermarket).gba" size="964504" crc="fa6f976c" md5="49682b2d7fb8a0953f7a88a7fd33eb73" sha1="098f9e2ba7ba15225768eae3585591b9b09ef2d6"/>
 		<url>https://retroachievements.org/game/25187/hashes</url>
 		<hash>49682b2d7fb8a0953f7a88a7fd33eb73</hash>
 	</game>
 	
-	<game name="Touhou Kaisekiki - Arabasiri (Homebrew)">
+	<game name="Touhou Kaisekiki - Arabasiri (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Touhou Kaisekiki - Arabasiri (Homebrew)</description>
-		<release name="Touhou Kaisekiki - Arabasiri (Homebrew)" region="World"/>
-		<rom name="Touhou Kaisekiki - Arabasiri (Homebrew).gba" size="551204" crc="6bf77e36" md5="5ff749b6f198c9f0d597b9b7e8eaaae2" sha1="3ea21468dc4905374753c1932fe6b8790349f41a"/>
+		<description>Touhou Kaisekiki - Arabasiri (World) (Aftermarket)</description>
+		<release name="Touhou Kaisekiki - Arabasiri (World) (Aftermarket)" region="World"/>
+		<rom name="Touhou Kaisekiki - Arabasiri (World) (Aftermarket).gba" size="551204" crc="6bf77e36" md5="5ff749b6f198c9f0d597b9b7e8eaaae2" sha1="3ea21468dc4905374753c1932fe6b8790349f41a"/>
 		<url>https://retroachievements.org/game/6776/hashes</url>
 		<hash>5ff749b6f198c9f0d597b9b7e8eaaae2</hash>
 	</game>
 	
-	<game name="Varooom 3D (World) (GBA Jam 2021) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Varooom 3D (World) (GBA Jam 2021) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Varooom 3D (World) (GBA Jam 2021) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Varooom 3D (World) (GBA Jam 2021) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Varooom 3D (World) (GBA Jam 2021) (Aftermarket) (Unl) (Homebrew).gba" size="7957428" crc="3f127891" md5="42d90bcebc174ad8ce7553071a881079" sha1="cc7e45a680f9a8701fe35a64c764d5e106bd9096"/>
+		<description>Varooom 3D (World) (GBA Jam 2021) (Aftermarket)</description>
+		<release name="Varooom 3D (World) (GBA Jam 2021) (Aftermarket)" region="World"/>
+		<rom name="Varooom 3D (World) (GBA Jam 2021) (Aftermarket).gba" size="7957428" crc="3f127891" md5="42d90bcebc174ad8ce7553071a881079" sha1="cc7e45a680f9a8701fe35a64c764d5e106bd9096"/>
 		<url>https://retroachievements.org/game/9544/hashes</url>
 		<hash>42d90bcebc174ad8ce7553071a881079</hash>
 	</game>
 	
-	<game name="Waimanu - Grinding Blocks Adventure (World) (NEO Coding Compo 2013) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Waimanu - Grinding Blocks Adventure (World) (NEO Coding Compo 2013) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Waimanu - Grinding Blocks Adventure (World) (NEO Coding Compo 2013) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Waimanu - Grinding Blocks Adventure (World) (NEO Coding Compo 2013) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Waimanu - Grinding Blocks Adventure (World) (NEO Coding Compo 2013) (Aftermarket) (Unl) (Homebrew).gba" size="1739504" crc="0fe153c5" md5="dd849fc5fe36531624d152c0d17e4799" sha1="c4ce156b04fb257875bc5f539f3d64accbc08451"/>
+		<description>Waimanu - Grinding Blocks Adventure (World) (NEO Coding Compo 2013) (Aftermarket)</description>
+		<release name="Waimanu - Grinding Blocks Adventure (World) (NEO Coding Compo 2013) (Aftermarket)" region="World"/>
+		<rom name="Waimanu - Grinding Blocks Adventure (World) (NEO Coding Compo 2013) (Aftermarket).gba" size="1739504" crc="0fe153c5" md5="dd849fc5fe36531624d152c0d17e4799" sha1="c4ce156b04fb257875bc5f539f3d64accbc08451"/>
 		<url>https://retroachievements.org/game/8208/hashes</url>
 		<hash>dd849fc5fe36531624d152c0d17e4799</hash>
 	</game>
 	
-	<game name="Dark Eden (Unknown) (Prototype)">
+	<game name="Dark Eden (Unknown) (Proto)">
 		<category>Prototype</category>
-		<description>Dark Eden (Unknown) (Prototype)</description>
-		<release name="Dark Eden (Unknown) (Prototype)" region="World"/>
-		<rom name="Dark Eden (Unknown) (Prototype).bin" size="1361276" crc="9cf479d2" md5="50e9dbc3731383d6452584bfad42297d" sha1="df70db3a44117af3c744388aa17819ed8017e1d2"/>
+		<description>Dark Eden (Unknown) (Proto)</description>
+		<release name="Dark Eden (Unknown) (Proto)" region="World"/>
+		<rom name="Dark Eden (Unknown) (Proto).bin" size="1361276" crc="9cf479d2" md5="50e9dbc3731383d6452584bfad42297d" sha1="df70db3a44117af3c744388aa17819ed8017e1d2"/>
 		<url>https://retroachievements.org/game/21442/hashes</url>
 		<hash>50e9dbc3731383d6452584bfad42297d</hash>
 	</game>
 	
-	<game name="Mario Kart XXL (Europe) (Demo)">
+	<game name="Mario Kart XXL (Europe)">
 		<category>Prototype</category>
-		<description>Mario Kart XXL (Europe) (Demo)</description>
-		<release name="Mario Kart XXL (Europe) (Demo)" region="World"/>
-		<rom name="Mario Kart XXL (Europe) (Demo).gba" size="4194304" crc="e3075601" md5="766094925834dc617650cd0a5387c545" sha1="ba1e75f780c41e737922f090dcb17526f1fd7a01"/>
+		<description>Mario Kart XXL (Europe)</description>
+		<release name="Mario Kart XXL (Europe)" region="World"/>
+		<rom name="Mario Kart XXL (Europe).gba" size="4194304" crc="e3075601" md5="766094925834dc617650cd0a5387c545" sha1="ba1e75f780c41e737922f090dcb17526f1fd7a01"/>
 		<url>https://retroachievements.org/game/21948/hashes</url>
 		<hash>766094925834dc617650cd0a5387c545</hash>
 	</game>
@@ -2719,11 +2719,11 @@
 		<url>https://retroachievements.org/game/3618/hashes</url>
 		<hash>a9c93a07964aa816a8e226ae0c735a41</hash>
 	</game>
-	<game name="Crash Bandicoot Fusion (Europe) (Ru) (Pirate)" cloneof="Crash Bandicoot Fusion (Europe) (En,Fr,De,Es,It)">
+	<game name="Crash Bandicoot Fusion (Europe) (Ru)" cloneof="Crash Bandicoot Fusion (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
-		<description>Crash Bandicoot Fusion (Europe) (Ru) (Pirate)</description>
-		<release name="Crash Bandicoot Fusion (Europe) (Ru) (Pirate)" region="Russia"/>
-		<rom name="Crash Bandicoot Fusion (Europe) (Ru) (Pirate).gba" size="16777216" crc="f6c3ae4c" md5="d62a474cc5635bb4b9e8604eae677444" sha1="beecac9f691d5fa64848ae292eaeafb3f7c49230"/>
+		<description>Crash Bandicoot Fusion (Europe) (Ru)</description>
+		<release name="Crash Bandicoot Fusion (Europe) (Ru)" region="Russia"/>
+		<rom name="Crash Bandicoot Fusion (Europe) (Ru).gba" size="16777216" crc="f6c3ae4c" md5="d62a474cc5635bb4b9e8604eae677444" sha1="beecac9f691d5fa64848ae292eaeafb3f7c49230"/>
 		<url>https://retroachievements.org/game/3618/hashes</url>
 		<hash>d62a474cc5635bb4b9e8604eae677444</hash>
 	</game>
@@ -3119,10 +3119,10 @@
 		<url>https://retroachievements.org/game/750/hashes</url>
 		<hash>c1fb9badf816b6d7836f4990f8119815</hash>
 	</game>
-	<game name="Donkey Kong Country (Europe) (Palette Restoration) (v1.1) (marc_max)" cloneof="Donkey Kong Country (Europe) (En,Fr,De,Es,It)">
+	<game name="Donkey Kong Country (Europe) (Palette Restoration) (v1.1) (marc max)" cloneof="Donkey Kong Country (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
-		<description>Donkey Kong Country (Europe) (Palette Restoration) (v1.1) (marc_max)</description>
-		<rom name="Donkey Kong Country (Europe) (Palette Restoration) (v1.1) (marc_max).gba" size="8388608" crc="c05c1406" md5="484221c32a7fb6c5baf21e4d34ada297" sha1="005b5571e169c45a0649fdb2cc52729f9d6b4116"/>
+		<description>Donkey Kong Country (Europe) (Palette Restoration) (v1.1) (marc max)</description>
+		<rom name="Donkey Kong Country (Europe) (Palette Restoration) (v1.1) (marc max).gba" size="8388608" crc="c05c1406" md5="484221c32a7fb6c5baf21e4d34ada297" sha1="005b5571e169c45a0649fdb2cc52729f9d6b4116"/>
 		<url>https://retroachievements.org/game/750/hashes</url>
 		<hash>484221c32a7fb6c5baf21e4d34ada297</hash>
 	</game>
@@ -3405,11 +3405,11 @@
 		<url>https://retroachievements.org/game/3701/hashes</url>
 		<hash>dfca43fb18b5ee86b3ecab2631862d6f</hash>
 	</game>
-	<game name="Duke Nukem Advance (USA) (Ru) (Pirate)" cloneof="Duke Nukem Advance (Europe) (En,Fr,De,It)">
+	<game name="Duke Nukem Advance (USA) (Ru)" cloneof="Duke Nukem Advance (Europe) (En,Fr,De,It)">
 		<category>Retail</category>
-		<description>Duke Nukem Advance (USA) (Ru) (Pirate)</description>
-		<release name="Duke Nukem Advance (USA) (Ru) (Pirate)" region="Russia"/>
-		<rom name="Duke Nukem Advance (USA) (Ru) (Pirate).gba" size="8388608" crc="70e7f2c2" md5="f806d204d3fc819d794fb23d3483b475" sha1="a1d019aa2e032c33c398b7d2ef9a03ca42716e25"/>
+		<description>Duke Nukem Advance (USA) (Ru)</description>
+		<release name="Duke Nukem Advance (USA) (Ru)" region="Russia"/>
+		<rom name="Duke Nukem Advance (USA) (Ru).gba" size="8388608" crc="70e7f2c2" md5="f806d204d3fc819d794fb23d3483b475" sha1="a1d019aa2e032c33c398b7d2ef9a03ca42716e25"/>
 		<url>https://retroachievements.org/game/3701/hashes</url>
 		<hash>f806d204d3fc819d794fb23d3483b475</hash>
 	</game>
@@ -7509,11 +7509,11 @@
 		<url>https://retroachievements.org/game/793/hashes</url>
 		<hash>49ecc8ef1988e7ae81fbda1b4cf71eed</hash>
 	</game>
-	<game name="Sonic Advance (USA) (Ru) (Pirate)" cloneof="Sonic Advance (USA) (En,Ja)">
+	<game name="Sonic Advance (USA) (Ru)" cloneof="Sonic Advance (USA) (En,Ja)">
 		<category>Retail</category>
-		<description>Sonic Advance (USA) (Ru) (Pirate)</description>
-		<release name="Sonic Advance (USA) (Ru) (Pirate)" region="Russia"/>
-		<rom name="Sonic Advance (USA) (Ru) (Pirate).gba" size="8388608" crc="8797eb9c" md5="6198e2ff8b6cc5ee96704e2f3e44f0e4" sha1="3061c2b6abab9c01c8dfc11247d5734e42775b87"/>
+		<description>Sonic Advance (USA) (Ru)</description>
+		<release name="Sonic Advance (USA) (Ru)" region="Russia"/>
+		<rom name="Sonic Advance (USA) (Ru).gba" size="8388608" crc="8797eb9c" md5="6198e2ff8b6cc5ee96704e2f3e44f0e4" sha1="3061c2b6abab9c01c8dfc11247d5734e42775b87"/>
 		<url>https://retroachievements.org/game/793/hashes</url>
 		<hash>6198e2ff8b6cc5ee96704e2f3e44f0e4</hash>
 	</game>
@@ -7600,11 +7600,11 @@
 		<url>https://retroachievements.org/game/2188/hashes</url>
 		<hash>7194f25da6be4548f7e0c80f73e3f628</hash>
 	</game>
-	<game name="Sonic Battle (USA) (Pt) (Sonic Battle Hacking Discord) (v2.0)" cloneof="Sonic Battle (Europe) (En,Ja,Fr,De,Es,It)">
+	<game name="Sonic Battle (USA) (Pt) (Sonic Battleing Discord) (v2.0)" cloneof="Sonic Battle (Europe) (En,Ja,Fr,De,Es,It)">
 		<category>Retail</category>
-		<description>Sonic Battle (USA) (Pt) (Sonic Battle Hacking Discord) (v2.0)</description>
-		<release name="Sonic Battle (USA) (Pt) (Sonic Battle Hacking Discord) (v2.0)" region="Portugal"/>
-		<rom name="Sonic Battle (USA) (Pt) (Sonic Battle Hacking Discord) (v2.0).gba" size="16777216" crc="48fb81b3" md5="d4b5ce79864ee19597233d35f0483b7e" sha1="d9f36077118e0c823e06db33da35ff877f189151"/>
+		<description>Sonic Battle (USA) (Pt) (Sonic Battleing Discord) (v2.0)</description>
+		<release name="Sonic Battle (USA) (Pt) (Sonic Battleing Discord) (v2.0)" region="Portugal"/>
+		<rom name="Sonic Battle (USA) (Pt) (Sonic Battleing Discord) (v2.0).gba" size="16777216" crc="48fb81b3" md5="d4b5ce79864ee19597233d35f0483b7e" sha1="d9f36077118e0c823e06db33da35ff877f189151"/>
 		<url>https://retroachievements.org/game/2188/hashes</url>
 		<hash>d4b5ce79864ee19597233d35f0483b7e</hash>
 	</game>
@@ -7797,11 +7797,11 @@
 		<url>https://retroachievements.org/game/796/hashes</url>
 		<hash>8d9fbf8bde7941ca97dcba7757d60e81</hash>
 	</game>
-	<game name="Spyro 2 - Season of Flame (Europe) (Ru) (Pirate)" cloneof="Spyro 2 - Season of Flame (Europe) (En,Fr,De,Es,It)">
+	<game name="Spyro 2 - Season of Flame (Europe) (Ru)" cloneof="Spyro 2 - Season of Flame (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
-		<description>Spyro 2 - Season of Flame (Europe) (Ru) (Pirate)</description>
-		<release name="Spyro 2 - Season of Flame (Europe) (Ru) (Pirate)" region="Russia"/>
-		<rom name="Spyro 2 - Season of Flame (Europe) (Ru) (Pirate).gba" size="8388608" crc="d3b0baa4" md5="97109a5bdfaf19926135edb84876888e" sha1="20a8c39a688f87a5f8db8551f809bf75028f3fcb"/>
+		<description>Spyro 2 - Season of Flame (Europe) (Ru)</description>
+		<release name="Spyro 2 - Season of Flame (Europe) (Ru)" region="Russia"/>
+		<rom name="Spyro 2 - Season of Flame (Europe) (Ru).gba" size="8388608" crc="d3b0baa4" md5="97109a5bdfaf19926135edb84876888e" sha1="20a8c39a688f87a5f8db8551f809bf75028f3fcb"/>
 		<url>https://retroachievements.org/game/796/hashes</url>
 		<hash>97109a5bdfaf19926135edb84876888e</hash>
 	</game>

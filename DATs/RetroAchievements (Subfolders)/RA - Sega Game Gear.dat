@@ -4,35 +4,35 @@
 	<header>
 		<name>RA - Sega Game Gear</name>
 		<description>Sega Game Gear</description>
-		<category>1G1R</category>
-		<version>20250619</version>
-		<date>19 June 2025</date>
+		<category>Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/15/games</url>
 		<titlecount>111</titlecount>
 		<hashcount>134/135</hashcount>
 	</header>
-	<game name="Homebrew/Hamburgers en Route to Switzerland (World) (v0.75) (Proto) (Aftermarket) (Unl)">
+	<game name="Homebrew/Hamburgers en Route to Switzerland (World) (v0.75) (Proto) (Aftermarket)">
 		<category></category>
-		<description>Hamburgers en Route to Switzerland (World) (v0.75) (Proto) (Aftermarket) (Unl)</description>
-		<rom name="Hamburgers en Route to Switzerland (World) (v0.75) (Proto) (Aftermarket) (Unl).gg" size="131072" crc="f4fad7c2" md5="c91f1bcc0b4ab1abac998ce8a02bbafb" sha1="de7f24f7bcc6b6a225b994c82d4e2ea6aac0f4e7"/>
+		<description>Hamburgers en Route to Switzerland (World) (v0.75) (Proto) (Aftermarket)</description>
+		<rom name="Hamburgers en Route to Switzerland (World) (v0.75) (Proto) (Aftermarket).gg" size="131072" crc="f4fad7c2" md5="c91f1bcc0b4ab1abac998ce8a02bbafb" sha1="de7f24f7bcc6b6a225b994c82d4e2ea6aac0f4e7"/>
 		<url>https://retroachievements.org/game/28834/hashes</url>
 		<hash>c91f1bcc0b4ab1abac998ce8a02bbafb</hash>
 	</game>
 	
-	<game name="Homebrew/Snepzhen Solitaire (World) (v1.0) (Aftermarket) (Unl) (Wainstop)">
+	<game name="Homebrew/Snepzhen Solitaire (World) (v1.0) (Wainstop) (Aftermarket)">
 		<category></category>
-		<description>Snepzhen Solitaire (World) (v1.0) (Aftermarket) (Unl) (Wainstop)</description>
-		<rom name="Snepzhen Solitaire (World) (v1.0) (Aftermarket) (Unl) (Wainstop).gg" size="32768" crc="fd06798c" md5="aca63448b5d887239fc8821760d36efb" sha1="891811a7b86222b01f9a43664db8186e2f8001b8"/>
+		<description>Snepzhen Solitaire (World) (v1.0) (Wainstop) (Aftermarket)</description>
+		<rom name="Snepzhen Solitaire (World) (v1.0) (Wainstop) (Aftermarket).gg" size="32768" crc="fd06798c" md5="aca63448b5d887239fc8821760d36efb" sha1="891811a7b86222b01f9a43664db8186e2f8001b8"/>
 		<url>https://retroachievements.org/game/30932/hashes</url>
 		<hash>aca63448b5d887239fc8821760d36efb</hash>
 	</game>
 	
-	<game name="Homebrew/Swabby (World) (v1.11) (Aftermarket) (Unl)">
+	<game name="Homebrew/Swabby (World) (v1.11) (Aftermarket)">
 		<category></category>
-		<description>Swabby (World) (v1.11) (Aftermarket) (Unl)</description>
-		<rom name="Swabby (World) (v1.11) (Aftermarket) (Unl).gg" size="131072" crc="b814ad3d" md5="db672d52225564b6f520e8a0a4b1a4c7" sha1="64f7350ca2c37c44b679e35f9bfd2766c7259cb9"/>
+		<description>Swabby (World) (v1.11) (Aftermarket)</description>
+		<rom name="Swabby (World) (v1.11) (Aftermarket).gg" size="131072" crc="b814ad3d" md5="db672d52225564b6f520e8a0a4b1a4c7" sha1="64f7350ca2c37c44b679e35f9bfd2766c7259cb9"/>
 		<url>https://retroachievements.org/game/26880/hashes</url>
 		<hash>db672d52225564b6f520e8a0a4b1a4c7</hash>
 	</game>

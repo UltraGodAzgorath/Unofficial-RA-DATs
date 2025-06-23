@@ -4,9 +4,9 @@
 	<header>
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
-		<category>1G1R</category>
-		<version>20250620</version>
-		<date>20 June 2025</date>
+		<category>Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/16/games</url>
@@ -15,18 +15,18 @@
 		<clrmamepro forcepacking="unzip"/>
 		<romvault forcepacking="unzip"/>
 	</header>
-	<game name="Hack/Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa)">
+	<game name="Hack/Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa) (Hack)">
 		<category></category>
-		<description>Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa)</description>
-		<rom name="Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa).rvz" size="704482904" crc="1c27d6fa" md5="dbc1649442dca8915bf5ec1d5513fc0e" sha1="c026ace9ae59cc0ae192009e415a6c2d5c743569"/>
+		<description>Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa) (Hack)</description>
+		<rom name="Super Monkey Ball 2 - Bad Boon Strikes Back (v4.0) (KartingKoopa) (Hack).rvz" size="704482904" crc="1c27d6fa" md5="dbc1649442dca8915bf5ec1d5513fc0e" sha1="c026ace9ae59cc0ae192009e415a6c2d5c743569"/>
 		<url>https://retroachievements.org/game/33481/hashes</url>
 		<hash>f6d1b9e43b40e5ec3ca8422f0a964b3e</hash>
 	</game>
 	
-	<game name="Hack/Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK)">
+	<game name="Hack/Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK) (Hack)">
 		<category></category>
-		<description>Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK)</description>
-		<rom name="Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK).rvz" size="779326956" crc="301f5b3a" md5="561468bc84c762b36eefe4dc1c3a4d53" sha1="e8f0647514a18c393cec0cd50163eefeb2339160"/>
+		<description>Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK) (Hack)</description>
+		<rom name="Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK) (Hack).rvz" size="779326956" crc="301f5b3a" md5="561468bc84c762b36eefe4dc1c3a4d53" sha1="e8f0647514a18c393cec0cd50163eefeb2339160"/>
 		<url>https://retroachievements.org/game/31185/hashes</url>
 		<hash>0b4fb1873f47b173590d679796c9948c</hash>
 	</game>
@@ -39,136 +39,136 @@
 		<hash>FCC17C7D5BA68B2E6F17C818A5F9D092</hash>
 	</game>
 	
-	<game name="Hack/Luigi's Mansion - Halloween Haunt (v1.0) (Colby)">
+	<game name="Hack/Luigi's Mansion - Halloween Haunt (v1.0) (Colby) (Hack)">
 		<category></category>
-		<description>Luigi's Mansion - Halloween Haunt (v1.0) (Colby)</description>
-		<rom name="Luigi's Mansion - Halloween Haunt (v1.0) (Colby).rvz" size="160654532" crc="76619b92" md5="257cbecc77689fb0fb631a735c499a47" sha1="9a3998cbf1010db29a4048091e6be3705a7fb68a"/>
+		<description>Luigi's Mansion - Halloween Haunt (v1.0) (Colby) (Hack)</description>
+		<rom name="Luigi's Mansion - Halloween Haunt (v1.0) (Colby) (Hack).rvz" size="160654532" crc="76619b92" md5="257cbecc77689fb0fb631a735c499a47" sha1="9a3998cbf1010db29a4048091e6be3705a7fb68a"/>
 		<url>https://retroachievements.org/game/30713/hashes</url>
 		<hash>B7E749C5B9367C3EFE7B0CA6FBB6182D</hash>
 	</game>
 	
-	<game name="Hack/Luigi's Mansion - Sweet Home (v1.01) (2022-11-04 Hotfix) (Catley)">
+	<game name="Hack/Luigi's Mansion - Sweet Home (v1.01) (2022-11-04 Hotfix) (Catley) (Hack)">
 		<category></category>
-		<description>Luigi's Mansion - Sweet Home (v1.01) (2022-11-04 Hotfix) (Catley)</description>
-		<rom name="Luigi's Mansion - Sweet Home (v1.01) (2022-11-04 Hotfix) (Catley).rvz" size="243640796" crc="329c3296" md5="21828829b1460492729d16fcc3fd0d3b" sha1="a2023882c5d5f29b4a698b89486e7984227d8c2c"/>
+		<description>Luigi's Mansion - Sweet Home (v1.01) (2022-11-04 Hotfix) (Catley) (Hack)</description>
+		<rom name="Luigi's Mansion - Sweet Home (v1.01) (2022-11-04 Hotfix) (Catley) (Hack).rvz" size="243640796" crc="329c3296" md5="21828829b1460492729d16fcc3fd0d3b" sha1="a2023882c5d5f29b4a698b89486e7984227d8c2c"/>
 		<url>https://retroachievements.org/game/28374/hashes</url>
 		<hash>74FAFC6D9CD34C68E7BBF4CE21FD97C1</hash>
 	</game>
 	
-	<game name="Hack/MKDD - Double Dash Extended (v2.0) (M64)">
+	<game name="Hack/MKDD - Double Dash Extended (v2.0) (M64) (Hack)">
 		<category></category>
-		<description>MKDD - Double Dash Extended (v2.0) (M64)</description>
-		<rom name="MKDD - Double Dash Extended (v2.0) (M64).rvz" size="1172595632" crc="17c65017" md5="4d8597f6d942c44d199138de1d840ba9" sha1="afbf88d0ef972a374fb10d94dbfa24793045f4c6"/>
+		<description>MKDD - Double Dash Extended (v2.0) (M64) (Hack)</description>
+		<rom name="MKDD - Double Dash Extended (v2.0) (M64) (Hack).rvz" size="1172595632" crc="17c65017" md5="4d8597f6d942c44d199138de1d840ba9" sha1="afbf88d0ef972a374fb10d94dbfa24793045f4c6"/>
 		<url>https://retroachievements.org/game/29759/hashes</url>
 		<hash>38c3c820ec89119d788402888fc7d05b</hash>
 	</game>
 	
-	<game name="Hack/Metroid Prime - Trial of Strength (v1.2) (Uncle Reggie)">
+	<game name="Hack/Metroid Prime - Trial of Strength (v1.2) (Uncle Reggie) (Hack)">
 		<category></category>
-		<description>Metroid Prime - Trial of Strength (v1.2) (Uncle Reggie)</description>
-		<rom name="Metroid Prime - Trial of Strength (v1.2) (Uncle Reggie).rvz" size="846081596" crc="ef1f5409" md5="61eced6c00c831ee5cdd03b74e7d8a5c" sha1="2c8aecd798bbff6938a9eb98c0f7624c92838da8"/>
+		<description>Metroid Prime - Trial of Strength (v1.2) (Uncle Reggie) (Hack)</description>
+		<rom name="Metroid Prime - Trial of Strength (v1.2) (Uncle Reggie) (Hack).rvz" size="846081596" crc="ef1f5409" md5="61eced6c00c831ee5cdd03b74e7d8a5c" sha1="2c8aecd798bbff6938a9eb98c0f7624c92838da8"/>
 		<url>https://retroachievements.org/game/31933/hashes</url>
 		<hash>4f5e80b8ae6795821560cebd98c6363b</hash>
 	</game>
 	
-	<game name="Hack/PMTTYD - The Tower of Trials (v2.03 r49) (Jdaster64)">
+	<game name="Hack/PMTTYD - The Tower of Trials (v2.03 r49) (Jdaster64) (Hack)">
 		<category></category>
-		<description>PMTTYD - The Tower of Trials (v2.03 r49) (Jdaster64)</description>
-		<rom name="PMTTYD - The Tower of Trials (v2.03 r49) (Jdaster64).rvz" size="359549152" crc="a5a93f45" md5="c5219abe758704a4046f0ffb72f12694" sha1="2c77c9aec15c08c7ba11fe1e423a13375e3d7d8f"/>
+		<description>PMTTYD - The Tower of Trials (v2.03 r49) (Jdaster64) (Hack)</description>
+		<rom name="PMTTYD - The Tower of Trials (v2.03 r49) (Jdaster64) (Hack).rvz" size="359549152" crc="a5a93f45" md5="c5219abe758704a4046f0ffb72f12694" sha1="2c77c9aec15c08c7ba11fe1e423a13375e3d7d8f"/>
 		<url>https://retroachievements.org/game/31187/hashes</url>
 		<hash>512cc326878aeae559d396eb54ff7e30</hash>
 	</game>
 	
-	<game name="Hack/Pikmin 2 - Caveless Edition (v1.21) (Cutscenes and Purple Pikmin) (Bugabread)">
+	<game name="Hack/Pikmin 2 - Caveless Edition (v1.21) (Cutscenes and Purple Pikmin) (Bugabread) (Hack)">
 		<category></category>
-		<description>Pikmin 2 - Caveless Edition (v1.21) (Cutscenes and Purple Pikmin) (Bugabread)</description>
-		<rom name="Pikmin 2 - Caveless Edition (v1.21) (Cutscenes and Purple Pikmin) (Bugabread).rvz" size="931199512" crc="e9182a2a" md5="f9b961d8c15e716419a5aa9308ff92e9" sha1="9a730c8626aacc09b592d3549818ce2cb859875f"/>
+		<description>Pikmin 2 - Caveless Edition (v1.21) (Cutscenes and Purple Pikmin) (Bugabread) (Hack)</description>
+		<rom name="Pikmin 2 - Caveless Edition (v1.21) (Cutscenes and Purple Pikmin) (Bugabread) (Hack).rvz" size="931199512" crc="e9182a2a" md5="f9b961d8c15e716419a5aa9308ff92e9" sha1="9a730c8626aacc09b592d3549818ce2cb859875f"/>
 		<url>https://retroachievements.org/game/30993/hashes</url>
 		<hash>6e875844552132c360421f1af9b0050a</hash>
 	</game>
 	
-	<game name="Hack/Pikmin 2 - Pikmin 216 (v1.3) (Teddiursayoshi)">
+	<game name="Hack/Pikmin 2 - Pikmin 216 (v1.3) (Teddiursayoshi) (Hack)">
 		<category></category>
-		<description>Pikmin 2 - Pikmin 216 (v1.3) (Teddiursayoshi)</description>
-		<rom name="Pikmin 2 - Pikmin 216 (v1.3) (Teddiursayoshi).rvz" size="1064253612" crc="6b6b2b32" md5="52533461a3dd60979b24b331c96005e4" sha1="9cd564117aec311b60b8d830265c1a7e8a4fc748"/>
+		<description>Pikmin 2 - Pikmin 216 (v1.3) (Teddiursayoshi) (Hack)</description>
+		<rom name="Pikmin 2 - Pikmin 216 (v1.3) (Teddiursayoshi) (Hack).rvz" size="1064253612" crc="6b6b2b32" md5="52533461a3dd60979b24b331c96005e4" sha1="9cd564117aec311b60b8d830265c1a7e8a4fc748"/>
 		<url>https://retroachievements.org/game/29779/hashes</url>
 		<hash>a1f348694d654f46621290770f06289a</hash>
 	</game>
 	
-	<game name="Hack/Pikmin 2 - Pikmin 251 (v2.3.1) (PikHacker)">
+	<game name="Hack/Pikmin 2 - Pikmin 251 (v2.3.1) (PikHacker) (Hack)">
 		<category></category>
-		<description>Pikmin 2 - Pikmin 251 (v2.3.1) (PikHacker)</description>
-		<rom name="Pikmin 2 - Pikmin 251 (v2.3.1) (PikHacker).rvz" size="912033548" crc="0e0ca09a" md5="1a63e7279f48026941c5c053b12f9580" sha1="ca8c5eb55c4584c397cb14b1f43338295e93b419"/>
+		<description>Pikmin 2 - Pikmin 251 (v2.3.1) (PikHacker) (Hack)</description>
+		<rom name="Pikmin 2 - Pikmin 251 (v2.3.1) (PikHacker) (Hack).rvz" size="912033548" crc="0e0ca09a" md5="1a63e7279f48026941c5c053b12f9580" sha1="ca8c5eb55c4584c397cb14b1f43338295e93b419"/>
 		<url>https://retroachievements.org/game/28658/hashes</url>
 		<hash>1d5c5b8377bbdeca3880f8c308dc808d</hash>
 	</game>
 	
-	<game name="Hack/Resident Evil 2 - Zombie Crisis (v1.0) (Hunter Beta2)">
+	<game name="Hack/Resident Evil 2 - Zombie Crisis (v1.0) (Hunter Beta2) (Hack)">
 		<category></category>
-		<description>Resident Evil 2 - Zombie Crisis (v1.0) (Hunter Beta2)</description>
-		<rom name="Resident Evil 2 - Zombie Crisis (v1.0) (Hunter Beta2).rvz" size="1161289076" crc="51ef8784" md5="d4e703044b65a287d380d1703d46b804" sha1="94a1184701d3544f28b8ef7e6d0288d4341ddc78"/>
+		<description>Resident Evil 2 - Zombie Crisis (v1.0) (Hunter Beta2) (Hack)</description>
+		<rom name="Resident Evil 2 - Zombie Crisis (v1.0) (Hunter Beta2) (Hack).rvz" size="1161289076" crc="51ef8784" md5="d4e703044b65a287d380d1703d46b804" sha1="94a1184701d3544f28b8ef7e6d0288d4341ddc78"/>
 		<url>https://retroachievements.org/game/30888/hashes</url>
 		<hash>b6dab3cc6cdae3ab4f79b9297701c1a1</hash>
 	</game>
 	
-	<game name="Hack/Metroid Prime - Samus Goes to the Fridge to Get a Glass of Milk 3D (v1.00) (kkzero)">
+	<game name="Hack/Metroid Prime - Samus Goes to the Fridge to Get a Glass of Milk 3D (v1.00) (kkzero) (Hack)">
 		<category></category>
-		<description>Metroid Prime - Samus Goes to the Fridge to Get a Glass of Milk 3D (v1.00) (kkzero)</description>
-		<rom name="Metroid Prime - Samus Goes to the Fridge to Get a Glass of Milk 3D (v1.00) (kkzero).rvz" size="1162103980" crc="a442e9d6" md5="7445fd10c5662281904ab7086207ef14" sha1="41c239b47c126ab258c4705867370e0c1642ad61"/>
+		<description>Metroid Prime - Samus Goes to the Fridge to Get a Glass of Milk 3D (v1.00) (kkzero) (Hack)</description>
+		<rom name="Metroid Prime - Samus Goes to the Fridge to Get a Glass of Milk 3D (v1.00) (kkzero) (Hack).rvz" size="1162103980" crc="a442e9d6" md5="7445fd10c5662281904ab7086207ef14" sha1="41c239b47c126ab258c4705867370e0c1642ad61"/>
 		<url>https://retroachievements.org/game/28369/hashes</url>
 		<hash>CCA9386ACFE7D54071EC2C21E158761F</hash>
 	</game>
 	
-	<game name="Hack/Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Widescreen)">
+	<game name="Hack/Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Widescreen) (Hack)">
 		<category></category>
-		<description>Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Widescreen)</description>
-		<rom name="Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Widescreen).rvz" size="1256285404" crc="327a5458" md5="254dc3f33ababed0df7ee1fde225b1c8" sha1="9cd8eb8c438274c214954c8af20086e8ff03fd41"/>
+		<description>Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Widescreen) (Hack)</description>
+		<rom name="Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Widescreen) (Hack).rvz" size="1256285404" crc="327a5458" md5="254dc3f33ababed0df7ee1fde225b1c8" sha1="9cd8eb8c438274c214954c8af20086e8ff03fd41"/>
 		<url>https://retroachievements.org/game/28371/hashes</url>
 		<hash>F7FF03A01ACF7D365F6A4294AB3416E0</hash>
 	</game>
-	<game name="Hack/Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax)">
+	<game name="Hack/Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Hack)">
 		<category></category>
-		<description>Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax)</description>
-		<rom name="Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax).rvz" size="1256207512" crc="1fe6e9a9" md5="66981fbb65636f060cde26802e68313e" sha1="657c75f34b2e583674bd108ac7ee81aa81e3470a"/>
+		<description>Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Hack)</description>
+		<rom name="Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Hack).rvz" size="1256207512" crc="1fe6e9a9" md5="66981fbb65636f060cde26802e68313e" sha1="657c75f34b2e583674bd108ac7ee81aa81e3470a"/>
 		<url>https://retroachievements.org/game/28371/hashes</url>
 		<hash>00453B56461723E74A68BCF84650F082</hash>
 	</game>
-	<game name="Hack/Shadow the Hedgehog - Reloaded (v1.2) (Widescreen, Speedrun L-To-Restart) (LimblessVector, dreamsyntax)">
+	<game name="Hack/Shadow the Hedgehog - Reloaded (v1.2) (Widescreen, Speedrun L-To-Restart) (LimblessVector, dreamsyntax) (Hack)">
 		<category></category>
-		<description>Shadow the Hedgehog - Reloaded (v1.2) (Widescreen, Speedrun L-To-Restart) (LimblessVector, dreamsyntax)</description>
-		<rom name="Shadow the Hedgehog - Reloaded (v1.2) (Widescreen, Speedrun L-To-Restart) (LimblessVector, dreamsyntax).rvz" size="1256285432" crc="91d1455a" md5="697892e541eb4bc3797bfb5c439bb6f2" sha1="9d4b111b9b4ee408e9729d11a58882f40515a8a3"/>
+		<description>Shadow the Hedgehog - Reloaded (v1.2) (Widescreen, Speedrun L-To-Restart) (LimblessVector, dreamsyntax) (Hack)</description>
+		<rom name="Shadow the Hedgehog - Reloaded (v1.2) (Widescreen, Speedrun L-To-Restart) (LimblessVector, dreamsyntax) (Hack).rvz" size="1256285432" crc="91d1455a" md5="697892e541eb4bc3797bfb5c439bb6f2" sha1="9d4b111b9b4ee408e9729d11a58882f40515a8a3"/>
 		<url>https://retroachievements.org/game/28371/hashes</url>
 		<hash>3374cef00523f161e9ff75d3bc05e85f</hash>
 	</game>
 	
-	<game name="Hack/SpongeBob and the Pit of 100 Trials (v2.0) (Hacked Header) (Gravity)">
+	<game name="Hack/SpongeBob and the Pit of 100 Trials (v2.0) (Hacked Header) (Gravity) (Hack)">
 		<category></category>
-		<description>SpongeBob and the Pit of 100 Trials (v2.0) (Hacked Header) (Gravity)</description>
-		<rom name="SpongeBob and the Pit of 100 Trials (v2.0) (Hacked Header) (Gravity).rvz" size="849587868" crc="e6dc21c4" md5="23aecfc4875c1a155ecfda90997cd2c8" sha1="33ff27fef87311e5cd9c729e26a1a11ea88d031c"/>
+		<description>SpongeBob and the Pit of 100 Trials (v2.0) (Hacked Header) (Gravity) (Hack)</description>
+		<rom name="SpongeBob and the Pit of 100 Trials (v2.0) (Hacked Header) (Gravity) (Hack).rvz" size="849587868" crc="e6dc21c4" md5="23aecfc4875c1a155ecfda90997cd2c8" sha1="33ff27fef87311e5cd9c729e26a1a11ea88d031c"/>
 		<url>https://retroachievements.org/game/32108/hashes</url>
 		<hash>62ef4020aa956287ee45294612caf195</hash>
 	</game>
 	
-	<game name="Hack/SMS - Super Mario Eclipse (v1.0.5) (Eclipse Team)">
+	<game name="Hack/SMS - Super Mario Eclipse (v1.0.5) (Eclipse Team) (Hack)">
 		<category></category>
-		<description>SMS - Super Mario Eclipse (v1.0.5) (Eclipse Team)</description>
-		<rom name="SMS - Super Mario Eclipse (v1.0.5) (Eclipse Team).rvz" size="1202344708" crc="1d032ce4" md5="2cfcc315d5408ed8f4e6a5b9c1a5d73b" sha1="24e40912bf3ab7a41b3e35da4384c005de9eb993"/>
+		<description>SMS - Super Mario Eclipse (v1.0.5) (Eclipse Team) (Hack)</description>
+		<rom name="SMS - Super Mario Eclipse (v1.0.5) (Eclipse Team) (Hack).rvz" size="1202344708" crc="1d032ce4" md5="2cfcc315d5408ed8f4e6a5b9c1a5d73b" sha1="24e40912bf3ab7a41b3e35da4384c005de9eb993"/>
 		<url>https://retroachievements.org/game/28930/hashes</url>
 		<hash>de4c27c173197e97924b7cb61d7e37f9</hash>
 	</game>
 	
-	<game name="Hack/SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks)">
+	<game name="Hack/SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks) (Hack)">
 		<category></category>
-		<description>SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks)</description>
-		<rom name="SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks).rvz" size="595354956" crc="5ecf4b4e" md5="865dde79a3057e994f8af9f67b31ba6c" sha1="ee07a7823d67aa6ad46d683971cce6c8ef027324"/>
+		<description>SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks) (Hack)</description>
+		<rom name="SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks) (Hack).rvz" size="595354956" crc="5ecf4b4e" md5="865dde79a3057e994f8af9f67b31ba6c" sha1="ee07a7823d67aa6ad46d683971cce6c8ef027324"/>
 		<url>https://retroachievements.org/game/28854/hashes</url>
 		<hash>24AB3DDA91DD1A156CA68942F44C15D4</hash>
 	</game>
 	
-	<game name="Homebrew/Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt-BR) (Aftermarket) (Unl) (USA)">
+	<game name="Homebrew/Xeno Crisis (World) (Aftermarket)">
 		<category></category>
-		<description>Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt-BR) (Aftermarket) (Unl) (USA)</description>
-		<rom name="Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt-BR) (Aftermarket) (Unl) (USA).rvz" size="10467764" crc="5fc30630" md5="f34351cb4beab1f4b0200e64d73c3710" sha1="661b8cd58dde4d0b6885abd469300a4a700a3256"/>
+		<description>Xeno Crisis (World) (Aftermarket)</description>
+		<rom name="Xeno Crisis (World) (Aftermarket).rvz" size="10467764" crc="5fc30630" md5="f34351cb4beab1f4b0200e64d73c3710" sha1="661b8cd58dde4d0b6885abd469300a4a700a3256"/>
 		<url>https://retroachievements.org/game/28378/hashes</url>
 		<hash>E8C02AAF4EFFF2F901B15E8D97378F76</hash>
 	</game>
@@ -487,10 +487,10 @@
 		<hash>EFBB9D397524083B762EC88ECCC69DBC</hash>
 	</game>
 	
-	<game name="Subset/Dragon Ball Z - Budokai 2 (USA) (Subset - World Tournament)">
+	<game name="Subset/Dragon Ball Z - Budokai 2 (Subset - World Tournament)">
 		<category></category>
-		<description>Dragon Ball Z - Budokai 2 (USA) (Subset - World Tournament)</description>
-		<rom name="Dragon Ball Z - Budokai 2 (USA) (Subset - World Tournament).rvz" size="790412644" crc="d98992b9" md5="e7e4a6b02c934a8db77978907a69cb6d" sha1="fe020d6a6d813c34c10debe38a2e3b9d2b993c55"/>
+		<description>Dragon Ball Z - Budokai 2 (Subset - World Tournament)</description>
+		<rom name="Dragon Ball Z - Budokai 2 (Subset - World Tournament).rvz" size="790412644" crc="d98992b9" md5="e7e4a6b02c934a8db77978907a69cb6d" sha1="fe020d6a6d813c34c10debe38a2e3b9d2b993c55"/>
 		<url>https://retroachievements.org/game/30720/hashes</url>
 		<hash>94E6534230A5A2D60F140759E6B712ED</hash>
 	</game>
@@ -717,10 +717,10 @@
 		<url>https://retroachievements.org/game/30167/hashes</url>
 		<hash>73EA6BADA83C495FE630E724FDD19A98</hash>
 	</game>
-	<game name="Subset/Kururin Squash! (Japan) (Subset - Super Player)">
+	<game name="Subset/Kururin Squash! (Subset - Super Player)">
 		<category></category>
-		<description>Kururin Squash! (Japan) (Subset - Super Player)</description>
-		<rom name="Kururin Squash! (Japan) (Subset - Super Player).rvz" size="108917044" crc="c4c82d76" md5="888ce125e45ea861cf87c929ffc5d551" sha1="42558b2dca71a98ce0ac2e523cf1e4b92254709f"/>
+		<description>Kururin Squash! (Subset - Super Player)</description>
+		<rom name="Kururin Squash! (Subset - Super Player).rvz" size="108917044" crc="c4c82d76" md5="888ce125e45ea861cf87c929ffc5d551" sha1="42558b2dca71a98ce0ac2e523cf1e4b92254709f"/>
 		<url>https://retroachievements.org/game/30167/hashes</url>
 		<hash>069B6608784FBDD7EB4561EC084F7C19</hash>
 	</game>
@@ -794,10 +794,10 @@
 		<hash>5AC18A5E38D2E80176C7E33ED26048D8</hash>
 	</game>
 	
-	<game name="Subset/Mario Golf - Toadstool Tour (USA) (Subset - Completionist)">
+	<game name="Subset/Mario Golf - Toadstool Tour (Subset - Completionist)">
 		<category></category>
-		<description>Mario Golf - Toadstool Tour (USA) (Subset - Completionist)</description>
-		<rom name="Mario Golf - Toadstool Tour (USA) (Subset - Completionist).rvz" size="1110311224" crc="dfc669cf" md5="ce806704874c6e8f21cde8ca932c6fad" sha1="1d79519ce31bc8a21c2e9a9612cb38810b344c20"/>
+		<description>Mario Golf - Toadstool Tour (Subset - Completionist)</description>
+		<rom name="Mario Golf - Toadstool Tour (Subset - Completionist).rvz" size="1110311224" crc="dfc669cf" md5="ce806704874c6e8f21cde8ca932c6fad" sha1="1d79519ce31bc8a21c2e9a9612cb38810b344c20"/>
 		<url>https://retroachievements.org/game/29039/hashes</url>
 		<hash>A34A2AE571EC6758A20C1633DF8F9303</hash>
 	</game>
@@ -1033,10 +1033,10 @@
 		<hash>ba03edfe739e8dcd332287d5666788a8</hash>
 	</game>
 	
-	<game name="Retail/Neighbours from Hell (Europe) (En,Fr,De,Es,It)">
+	<game name="Retail/Neighbors from Hell (Europe) (En,Fr,De,Es,It)">
 		<category></category>
-		<description>Neighbours from Hell (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Neighbours from Hell (Europe) (En,Fr,De,Es,It).rvz" size="534594912" crc="62a6f993" md5="4267dafed0cda9ac36d2258c3b9dab87" sha1="e62101e822c76999ba805ee4b3f4aae619ad1554"/>
+		<description>Neighbors from Hell (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Neighbors from Hell (Europe) (En,Fr,De,Es,It).rvz" size="534594912" crc="62a6f993" md5="4267dafed0cda9ac36d2258c3b9dab87" sha1="e62101e822c76999ba805ee4b3f4aae619ad1554"/>
 		<url>https://retroachievements.org/game/30123/hashes</url>
 		<hash>7e27db8b3fc71b991cd31c2f1b6d1afe</hash>
 	</game>
@@ -1152,10 +1152,10 @@
 		<hash>3876A058FDF7EE82565F9A4439237B1F</hash>
 	</game>
 	
-	<game name="Subset/Pikmin 2 (USA) (Subset - Bonus)">
+	<game name="Subset/Pikmin 2 (Subset - Bonus)">
 		<category></category>
-		<description>Pikmin 2 (USA) (Subset - Bonus)</description>
-		<rom name="Pikmin 2 (USA) (Subset - Bonus).rvz" size="917501568" crc="ece16685" md5="87cf2e0b440d859114392caaf48aba87" sha1="47d907b3200c29a3290870409a08fb345b60111a"/>
+		<description>Pikmin 2 (Subset - Bonus)</description>
+		<rom name="Pikmin 2 (Subset - Bonus).rvz" size="917501568" crc="ece16685" md5="87cf2e0b440d859114392caaf48aba87" sha1="47d907b3200c29a3290870409a08fb345b60111a"/>
 		<url>https://retroachievements.org/game/28656/hashes</url>
 		<hash>46BDB78BC7855E98F76F13F2EEF58AD2</hash>
 	</game>
@@ -1184,10 +1184,10 @@
 		<hash>D38A3D49467F2271F8106BA340FC5B56</hash>
 	</game>
 	
-	<game name="Subset/Pokemon Colosseum (USA) (Subset - Espeon &amp; Umbreon)">
+	<game name="Subset/Pokemon Colosseum (Subset - Espeon &amp; Umbreon)">
 		<category></category>
-		<description>Pokemon Colosseum (USA) (Subset - Espeon &amp; Umbreon)</description>
-		<rom name="Pokemon Colosseum (USA) (Subset - Espeon &amp; Umbreon).rvz" size="585292208" crc="036577f0" md5="95d9fdcfffe58bfe46c5a0e370152465" sha1="8b283e895081a9c9cf3ffa60f051bf3eeca3383f"/>
+		<description>Pokemon Colosseum (Subset - Espeon &amp; Umbreon)</description>
+		<rom name="Pokemon Colosseum (Subset - Espeon &amp; Umbreon).rvz" size="585292208" crc="036577f0" md5="95d9fdcfffe58bfe46c5a0e370152465" sha1="8b283e895081a9c9cf3ffa60f051bf3eeca3383f"/>
 		<url>https://retroachievements.org/game/28797/hashes</url>
 		<hash>787DF500BB8651E3CC411738B656B538</hash>
 	</game>
@@ -1200,10 +1200,10 @@
 		<hash>1efcd72f2543cb9b4c38cb39ec3efc66</hash>
 	</game>
 	
-	<game name="Subset/Pokemon XD - Gale of Darkness (Europe) (Subset - Eevee)">
+	<game name="Subset/Pokemon XD - Gale of Darkness (Subset - Eevee)">
 		<category></category>
-		<description>Pokemon XD - Gale of Darkness (Europe) (Subset - Eevee)</description>
-		<rom name="Pokemon XD - Gale of Darkness (Europe) (Subset - Eevee).rvz" size="996482096" crc="32e5870c" md5="fde9fcbf07ee7222b4e7c4d30ee3da1b" sha1="d701f4e1aeadf7f6830d65b1e308e15c5ce1094f"/>
+		<description>Pokemon XD - Gale of Darkness (Subset - Eevee)</description>
+		<rom name="Pokemon XD - Gale of Darkness (Subset - Eevee).rvz" size="996482096" crc="32e5870c" md5="fde9fcbf07ee7222b4e7c4d30ee3da1b" sha1="d701f4e1aeadf7f6830d65b1e308e15c5ce1094f"/>
 		<url>https://retroachievements.org/game/32803/hashes</url>
 		<hash>373559eda564e2722508afc1f4de1643</hash>
 	</game>
@@ -1323,10 +1323,10 @@
 		<hash>403B82BE469BFEDAF27B3392AEAC0F44</hash>
 	</game>
 	
-	<game name="Subset/Road Trip - The Arcade Edition (USA) (Subset - Road Trip Encyclopedia)">
+	<game name="Subset/Road Trip - The Arcade Edition (Subset - Road Trip Encyclopedia)">
 		<category></category>
-		<description>Road Trip - The Arcade Edition (USA) (Subset - Road Trip Encyclopedia)</description>
-		<rom name="Road Trip - The Arcade Edition (USA) (Subset - Road Trip Encyclopedia).rvz" size="36957244" crc="81385e4e" md5="271a195c1b1a8093b2a3dc44f6e8446e" sha1="78a652460e75b3e35f38aa43cb61d73622e84dac"/>
+		<description>Road Trip - The Arcade Edition (Subset - Road Trip Encyclopedia)</description>
+		<rom name="Road Trip - The Arcade Edition (Subset - Road Trip Encyclopedia).rvz" size="36957244" crc="81385e4e" md5="271a195c1b1a8093b2a3dc44f6e8446e" sha1="78a652460e75b3e35f38aa43cb61d73622e84dac"/>
 		<url>https://retroachievements.org/game/30490/hashes</url>
 		<hash>9A94A7DF39F45597384348AB259E9709</hash>
 	</game>
@@ -1362,10 +1362,10 @@
 		<hash>9c6dd8e6983710e70f0691fa5a45d076</hash>
 	</game>
 	
-	<game name="Subset/Shadow the Hedgehog (Europe) (Subset - 326 Endings)">
+	<game name="Subset/Shadow the Hedgehog (Subset - 326 Endings)">
 		<category></category>
-		<description>Shadow the Hedgehog (Europe) (Subset - 326 Endings)</description>
-		<rom name="Shadow the Hedgehog (Europe) (Subset - 326 Endings).rvz" size="1167972728" crc="a314f561" md5="45e8849f2afc40c219110b4b8a21afee" sha1="6ed0f96065bbabdd492a56b0a5a304b3165388b8"/>
+		<description>Shadow the Hedgehog (Subset - 326 Endings)</description>
+		<rom name="Shadow the Hedgehog (Subset - 326 Endings).rvz" size="1167972728" crc="a314f561" md5="45e8849f2afc40c219110b4b8a21afee" sha1="6ed0f96065bbabdd492a56b0a5a304b3165388b8"/>
 		<url>https://retroachievements.org/game/33041/hashes</url>
 		<hash>00537ed1b0057f837f2018eb3699a1fd</hash>
 	</game>
@@ -1977,10 +1977,10 @@
 		<hash>29d3c366bf3143b251986e99a0964cdb</hash>
 	</game>
 	
-	<game name="Subset/Legend of Zelda, The - Ocarina of Time &amp; Master Quest (USA) (Subset - Bonus)">
+	<game name="Subset/Legend of Zelda, The - Ocarina of Time &amp; Master Quest (Subset - Bonus)">
 		<category></category>
-		<description>Legend of Zelda, The - Ocarina of Time &amp; Master Quest (USA) (Subset - Bonus)</description>
-		<rom name="Legend of Zelda, The - Ocarina of Time &amp; Master Quest (USA) (Subset - Bonus).rvz" size="935086180" crc="16bba3a4" md5="c5c4b4fe11d9424ad333b36660e8edb1" sha1="d3a4828b1e10c4dc84901b89201293a6b54c742f"/>
+		<description>Legend of Zelda, The - Ocarina of Time &amp; Master Quest (Subset - Bonus)</description>
+		<rom name="Legend of Zelda, The - Ocarina of Time &amp; Master Quest (Subset - Bonus).rvz" size="935086180" crc="16bba3a4" md5="c5c4b4fe11d9424ad333b36660e8edb1" sha1="d3a4828b1e10c4dc84901b89201293a6b54c742f"/>
 		<url>https://retroachievements.org/game/17923/hashes</url>
 		<hash>4c9eff41a7581228ceee32bf200916f6</hash>
 	</game>
@@ -2110,10 +2110,10 @@
 		<hash>E04B000E9C2F34FDDFB8A64B98DEA181</hash>
 	</game>
 	
-	<game name="Subset/Viewtiful Joe (USA) (Subset - Rainbow V)">
+	<game name="Subset/Viewtiful Joe (Subset - Rainbow V)">
 		<category></category>
-		<description>Viewtiful Joe (USA) (Subset - Rainbow V)</description>
-		<rom name="Viewtiful Joe (USA) (Subset - Rainbow V).rvz" size="965823456" crc="db0dad47" md5="514eb6e1d24b1313df96292f68c7a950" sha1="8797fccfe1c200a31f107136d18725866bd5b5e1"/>
+		<description>Viewtiful Joe (Subset - Rainbow V)</description>
+		<rom name="Viewtiful Joe (Subset - Rainbow V).rvz" size="965823456" crc="db0dad47" md5="514eb6e1d24b1313df96292f68c7a950" sha1="8797fccfe1c200a31f107136d18725866bd5b5e1"/>
 		<url>https://retroachievements.org/game/28807/hashes</url>
 		<hash>3651E6E2BE783FA6828E50AB58EC1DDD</hash>
 	</game>

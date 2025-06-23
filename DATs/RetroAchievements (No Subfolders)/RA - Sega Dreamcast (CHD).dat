@@ -4,9 +4,9 @@
 	<header>
 		<name>RA - Sega Dreamcast (CHD)</name>
 		<description>Sega Dreamcast (CHD)</description>
-		<category>1G1R</category>
-		<version>20250612</version>
-		<date>12 June 2025</date>
+		<category>No Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/40/games</url>
@@ -32,11 +32,11 @@
 		<hash>3afb59a182653ca85f537b600a96e051</hash>
 	</game>
 	
-	<game name="Castlevania - Resurrection (Prototype)">
+	<game name="Castlevania - Resurrection (Proto)">
 		<category>Prototype</category>
-		<description>Castlevania - Resurrection (Prototype)</description>
-		<release name="Castlevania - Resurrection (Prototype)" region="World"/>
-		<rom name="Castlevania - Resurrection (Prototype).chd" size="23129221" crc="a3d8b35e" md5="96c5310a9f5fb85d94ceedf41247a136" sha1="b4f099eb26bf6043595b43e201cd929dd5b0f966"/>
+		<description>Castlevania - Resurrection (Proto)</description>
+		<release name="Castlevania - Resurrection (Proto)" region="World"/>
+		<rom name="Castlevania - Resurrection (Proto).chd" size="23129221" crc="a3d8b35e" md5="96c5310a9f5fb85d94ceedf41247a136" sha1="b4f099eb26bf6043595b43e201cd929dd5b0f966"/>
 		<url>https://retroachievements.org/game/24223/hashes</url>
 		<hash>d59ca0093f3fd239289f6c2f71b8a9b8</hash>
 	</game>
@@ -1289,11 +1289,11 @@
 		<hash>7f4c693103a75c2c2a460013bb771968</hash>
 	</game>
 	
-	<game name="Sonic Adventure Tournament Disc (Prototype)">
+	<game name="Sonic Adventure Tournament Disc (Proto)">
 		<category>Prototype</category>
-		<description>Sonic Adventure Tournament Disc (Prototype)</description>
-		<release name="Sonic Adventure Tournament Disc (Prototype)" region="World"/>
-		<rom name="Sonic Adventure Tournament Disc (Prototype).chd" size="900702761" crc="d3c9c534" md5="1043cf8c9d992fa41824a9fc150934dd" sha1="6a651caec1edb4027b36b2b24e68a75f85d7af16"/>
+		<description>Sonic Adventure Tournament Disc (Proto)</description>
+		<release name="Sonic Adventure Tournament Disc (Proto)" region="World"/>
+		<rom name="Sonic Adventure Tournament Disc (Proto).chd" size="900702761" crc="d3c9c534" md5="1043cf8c9d992fa41824a9fc150934dd" sha1="6a651caec1edb4027b36b2b24e68a75f85d7af16"/>
 		<url>https://retroachievements.org/game/26475/hashes</url>
 		<hash>34308d525dfa540eaefae81f4a517556</hash>
 	</game>

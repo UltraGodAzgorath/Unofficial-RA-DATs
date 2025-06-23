@@ -4,105 +4,105 @@
 	<header>
 		<name>RA - Atari 2600</name>
 		<description>Atari 2600</description>
-		<category>1G1R</category>
-		<version>20250620</version>
-		<date>20 June 2025</date>
+		<category>Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/25/games</url>
 		<titlecount>181</titlecount>
 		<hashcount>194</hashcount>
 	</header>
-	<game name="Demo/Pepsi Invaders - Coke Wins (NTSC) (Prototype)">
+	<game name="Demo/Pepsi Invaders - Coke Wins (NTSC) (Demo)">
 		<category></category>
-		<description>Pepsi Invaders - Coke Wins (NTSC) (Prototype)</description>
-		<rom name="Pepsi Invaders - Coke Wins (NTSC) (Prototype).a26" size="4096" crc="7ac99b5c" md5="212d0b200ed8b45d8795ad899734d7d7" sha1="c5317035e73f60e959c123d89600c81b7c45701f"/>
+		<description>Pepsi Invaders - Coke Wins (NTSC) (Demo)</description>
+		<rom name="Pepsi Invaders - Coke Wins (NTSC) (Demo).a26" size="4096" crc="7ac99b5c" md5="212d0b200ed8b45d8795ad899734d7d7" sha1="c5317035e73f60e959c123d89600c81b7c45701f"/>
 		<url>https://retroachievements.org/game/11697/hashes</url>
 		<hash>212D0B200ED8B45D8795AD899734D7D7</hash>
 	</game>
 	
-	<game name="Demo/Venetian Blinds Demo (USA) (Demo)">
+	<game name="Demo/Venetian Blinds (USA) (Demo)">
 		<category></category>
-		<description>Venetian Blinds Demo (USA) (Demo)</description>
-		<rom name="Venetian Blinds Demo (USA) (Demo).a26" size="2048" crc="1f0d3562" md5="d08fccfbebaa531c4a4fa7359393a0a9" sha1="81f485b545445080e009adf0f2e93dd4f16b92ce"/>
+		<description>Venetian Blinds (USA) (Demo)</description>
+		<rom name="Venetian Blinds (USA) (Demo).a26" size="2048" crc="1f0d3562" md5="d08fccfbebaa531c4a4fa7359393a0a9" sha1="81f485b545445080e009adf0f2e93dd4f16b92ce"/>
 		<url>https://retroachievements.org/game/11715/hashes</url>
 		<hash>D08FCCFBEBAA531C4A4FA7359393A0A9</hash>
 	</game>
 	
-	<game name="Homebrew/Mega Man (NTSC) (Demo) (Aftermarket) (Unl) (David Galloway)">
+	<game name="Homebrew/Mega Man (NTSC) (David Galloway) (Demo) (Aftermarket)">
 		<category></category>
-		<description>Mega Man (NTSC) (Demo) (Aftermarket) (Unl) (David Galloway)</description>
-		<rom name="Mega Man (NTSC) (Demo) (Aftermarket) (Unl) (David Galloway).a26" size="32768" crc="9158b4ed" md5="c74ddb744209a92382616e2fa38d1378" sha1="c2fd4bf592d2c1948d4cba02da7980f1df8751f4"/>
+		<description>Mega Man (NTSC) (David Galloway) (Demo) (Aftermarket)</description>
+		<rom name="Mega Man (NTSC) (David Galloway) (Demo) (Aftermarket).a26" size="32768" crc="9158b4ed" md5="c74ddb744209a92382616e2fa38d1378" sha1="c2fd4bf592d2c1948d4cba02da7980f1df8751f4"/>
 		<url>https://retroachievements.org/game/17048/hashes</url>
 		<hash>C74DDB744209A92382616E2FA38D1378</hash>
 	</game>
 	
-	<game name="Homebrew/Touhou (USA) (Demo) (Aftermarket) (Unl)">
+	<game name="Homebrew/Touhou (USA) (Demo) (Aftermarket)">
 		<category></category>
-		<description>Touhou (USA) (Demo) (Aftermarket) (Unl)</description>
-		<rom name="Touhou (USA) (Demo) (Aftermarket) (Unl).a26" size="4096" crc="0c0a6fbc" md5="494af1350a71d7de6661dac265dbbd82" sha1="39cd9520a140ff9f58098dd9ac2cfcae294f30b4"/>
+		<description>Touhou (USA) (Demo) (Aftermarket)</description>
+		<rom name="Touhou (USA) (Demo) (Aftermarket).a26" size="4096" crc="0c0a6fbc" md5="494af1350a71d7de6661dac265dbbd82" sha1="39cd9520a140ff9f58098dd9ac2cfcae294f30b4"/>
 		<url>https://retroachievements.org/game/29062/hashes</url>
 		<hash>494AF1350A71D7DE6661DAC265DBBD82</hash>
 	</game>
 	
-	<game name="Homebrew/Alien Force (NTSC) (Aftermarket) (Unl) (Nova32)">
+	<game name="Homebrew/Alien Force (NTSC) (Nova32) (Aftermarket)">
 		<category></category>
-		<description>Alien Force (NTSC) (Aftermarket) (Unl) (Nova32)</description>
-		<rom name="Alien Force (NTSC) (Aftermarket) (Unl) (Nova32).a26" size="8192" crc="7c5ceba6" md5="e204a6b63a8e6e1400fde46bbd054722" sha1="9b9ed3cc635203a6f917032ed741e2c1fdcc1af3"/>
+		<description>Alien Force (NTSC) (Nova32) (Aftermarket)</description>
+		<rom name="Alien Force (NTSC) (Nova32) (Aftermarket).a26" size="8192" crc="7c5ceba6" md5="e204a6b63a8e6e1400fde46bbd054722" sha1="9b9ed3cc635203a6f917032ed741e2c1fdcc1af3"/>
 		<url>https://retroachievements.org/game/26007/hashes</url>
 		<hash>E204A6B63A8E6E1400FDE46BBD054722</hash>
 	</game>
 	
-	<game name="Homebrew/Amoeba Jump (World) (v1.3) (PAL) (Aftermarket) (Unl)">
+	<game name="Homebrew/Amoeba Jump (World) (v1.3) (PAL) (Aftermarket)">
 		<category></category>
-		<description>Amoeba Jump (World) (v1.3) (PAL) (Aftermarket) (Unl)</description>
-		<rom name="Amoeba Jump (World) (v1.3) (PAL) (Aftermarket) (Unl).a26" size="4096" crc="77112941" md5="0c72cc3a6658c1abd4b735ef55fa72e4" sha1="b04b1181950e2bb898ea23ff11de93c9b56fdc65"/>
+		<description>Amoeba Jump (World) (v1.3) (PAL) (Aftermarket)</description>
+		<rom name="Amoeba Jump (World) (v1.3) (PAL) (Aftermarket).a26" size="4096" crc="77112941" md5="0c72cc3a6658c1abd4b735ef55fa72e4" sha1="b04b1181950e2bb898ea23ff11de93c9b56fdc65"/>
 		<url>https://retroachievements.org/game/13457/hashes</url>
 		<hash>0C72CC3A6658C1ABD4B735EF55FA72E4</hash>
 	</game>
-	<game name="Homebrew/Amoeba Jump (World) (v1.3) (NTSC) (Aftermarket) (Unl)">
+	<game name="Homebrew/Amoeba Jump (World) (v1.3) (NTSC) (Aftermarket)">
 		<category></category>
-		<description>Amoeba Jump (World) (v1.3) (NTSC) (Aftermarket) (Unl)</description>
-		<rom name="Amoeba Jump (World) (v1.3) (NTSC) (Aftermarket) (Unl).a26" size="4096" crc="e4349cef" md5="539f3c42c4e15f450ed93cb96ce93af5" sha1="dccbfb28358ca8339920b584cf64465905ce1354"/>
+		<description>Amoeba Jump (World) (v1.3) (NTSC) (Aftermarket)</description>
+		<rom name="Amoeba Jump (World) (v1.3) (NTSC) (Aftermarket).a26" size="4096" crc="e4349cef" md5="539f3c42c4e15f450ed93cb96ce93af5" sha1="dccbfb28358ca8339920b584cf64465905ce1354"/>
 		<url>https://retroachievements.org/game/13457/hashes</url>
 		<hash>539F3C42C4E15F450ED93CB96CE93AF5</hash>
 	</game>
 	
-	<game name="Homebrew/Birds and Beans (NTSC) (v2.2) (Aftermarket) (Unl) (Bluswimmer)">
+	<game name="Homebrew/Birds and Beans (NTSC) (v2.2) (Bluswimmer) (Aftermarket)">
 		<category></category>
-		<description>Birds and Beans (NTSC) (v2.2) (Aftermarket) (Unl) (Bluswimmer)</description>
-		<rom name="Birds and Beans (NTSC) (v2.2) (Aftermarket) (Unl) (Bluswimmer).a26" size="4096" crc="9cdedf59" md5="41e0953e9e8810ce67bc7995b37bbf8b" sha1="d5565849199b206466c6f65f66489ed60a53faa8"/>
+		<description>Birds and Beans (NTSC) (v2.2) (Bluswimmer) (Aftermarket)</description>
+		<rom name="Birds and Beans (NTSC) (v2.2) (Bluswimmer) (Aftermarket).a26" size="4096" crc="9cdedf59" md5="41e0953e9e8810ce67bc7995b37bbf8b" sha1="d5565849199b206466c6f65f66489ed60a53faa8"/>
 		<url>https://retroachievements.org/game/26027/hashes</url>
 		<hash>41E0953E9E8810CE67BC7995B37BBF8B</hash>
 	</game>
 	
-	<game name="Homebrew/Dark Mage (NTSC) (Aftermarket) (Unl) (Greg Troutman)">
+	<game name="Homebrew/Dark Mage (NTSC) (Greg Troutman) (Aftermarket)">
 		<category></category>
-		<description>Dark Mage (NTSC) (Aftermarket) (Unl) (Greg Troutman)</description>
-		<rom name="Dark Mage (NTSC) (Aftermarket) (Unl) (Greg Troutman).a26" size="8192" crc="2b38b9de" md5="6333ef5b5cbb77acd47f558c8b7a95d3" sha1="c5af53c4b64c3db552d4717b8583d6fe8d3e7952"/>
+		<description>Dark Mage (NTSC) (Greg Troutman) (Aftermarket)</description>
+		<rom name="Dark Mage (NTSC) (Greg Troutman) (Aftermarket).a26" size="8192" crc="2b38b9de" md5="6333ef5b5cbb77acd47f558c8b7a95d3" sha1="c5af53c4b64c3db552d4717b8583d6fe8d3e7952"/>
 		<url>https://retroachievements.org/game/13321/hashes</url>
 		<hash>6333EF5B5CBB77ACD47F558C8B7A95D3</hash>
 	</game>
 	
-	<game name="Homebrew/Fix-It Felix Sr. (Europe) (PAL 60) (Aftermarket) (Unl)">
+	<game name="Homebrew/Fix-It Felix Sr. (Europe) (PAL 60) (Aftermarket)">
 		<category></category>
-		<description>Fix-It Felix Sr. (Europe) (PAL 60) (Aftermarket) (Unl)</description>
-		<rom name="Fix-It Felix Sr. (Europe) (PAL 60) (Aftermarket) (Unl).a26" size="4096" crc="b0677067" md5="c7490861ebf74ff1722362aaa146029f" sha1="5a258bdfdf1c72c7b74d1a90f7fb8f7a4d3f7cc7"/>
+		<description>Fix-It Felix Sr. (Europe) (PAL 60) (Aftermarket)</description>
+		<rom name="Fix-It Felix Sr. (Europe) (PAL 60) (Aftermarket).a26" size="4096" crc="b0677067" md5="c7490861ebf74ff1722362aaa146029f" sha1="5a258bdfdf1c72c7b74d1a90f7fb8f7a4d3f7cc7"/>
 		<url>https://retroachievements.org/game/14710/hashes</url>
 		<hash>C7490861EBF74FF1722362AAA146029F</hash>
 	</game>
-	<game name="Homebrew/Fix-It Felix Sr. (USA) (Aftermarket) (Unl)">
+	<game name="Homebrew/Fix-It Felix Sr. (USA) (Aftermarket)">
 		<category></category>
-		<description>Fix-It Felix Sr. (USA) (Aftermarket) (Unl)</description>
-		<rom name="Fix-It Felix Sr. (USA) (Aftermarket) (Unl).a26" size="4096" crc="4f066bc9" md5="db112399ab6d6402cc2b34f18ef449da" sha1="296d9c1ef7b214b863516822c7a38009559f3a2a"/>
+		<description>Fix-It Felix Sr. (USA) (Aftermarket)</description>
+		<rom name="Fix-It Felix Sr. (USA) (Aftermarket).a26" size="4096" crc="4f066bc9" md5="db112399ab6d6402cc2b34f18ef449da" sha1="296d9c1ef7b214b863516822c7a38009559f3a2a"/>
 		<url>https://retroachievements.org/game/14710/hashes</url>
 		<hash>DB112399AB6D6402CC2B34F18EF449DA</hash>
 	</game>
 	
-	<game name="Homebrew/Flappy (USA) (RC2) (Aftermarket) (Unl)">
+	<game name="Homebrew/Flappy (USA) (RC2) (Aftermarket)">
 		<category></category>
-		<description>Flappy (USA) (RC2) (Aftermarket) (Unl)</description>
-		<rom name="Flappy (USA) (RC2) (Aftermarket) (Unl).a26" size="4096" crc="1a7ec0c2" md5="2d33a44e82f88d05f6c50577218c0cae" sha1="14e043587ac67ed5792b4937ddf0e045adeb653a"/>
+		<description>Flappy (USA) (RC2) (Aftermarket)</description>
+		<rom name="Flappy (USA) (RC2) (Aftermarket).a26" size="4096" crc="1a7ec0c2" md5="2d33a44e82f88d05f6c50577218c0cae" sha1="14e043587ac67ed5792b4937ddf0e045adeb653a"/>
 		<url>https://retroachievements.org/game/12795/hashes</url>
 		<hash>2D33A44E82F88D05F6C50577218C0CAE</hash>
 	</game>
@@ -122,206 +122,206 @@
 		<hash>787A2FAEBADC670A887A0E2483B8F034</hash>
 	</game>
 	
-    <game name="Homebrew/Halo 2600 (World) (Aftermarket) (Unl)">
+    <game name="Homebrew/Halo 2600 (World) (Aftermarket)">
     	<category></category>
-		<description>Halo 2600 (World) (Aftermarket) (Unl)</description>
-    	<rom name="Halo 2600 (World) (Aftermarket) (Unl).a26" size="4096" crc="3978a823" md5="4afa7f377eae1cafb4265c68f73f2718" sha1="2a9647e27ab27e6cf82b3bf122edf212fa34ae86"/>
+		<description>Halo 2600 (World) (Aftermarket)</description>
+    	<rom name="Halo 2600 (World) (Aftermarket).a26" size="4096" crc="3978a823" md5="4afa7f377eae1cafb4265c68f73f2718" sha1="2a9647e27ab27e6cf82b3bf122edf212fa34ae86"/>
     	<url>https://retroachievements.org/game/11776/hashes</url>
 		<hash>4AFA7F377EAE1CAFB4265C68F73F2718</hash>
 	</game>
 	
-	<game name="Homebrew/INV+ (World) (Aftermarket) (Unl)">
+	<game name="Homebrew/INV+ (World) (Aftermarket)">
     	<category></category>
-		<description>INV+ (World) (Aftermarket) (Unl)</description>
-   		<rom name="INV+ (World) (Aftermarket) (Unl).a26" size="4096" crc="8ebde037" md5="9ea8ed9dec03082973244a080941e58a" sha1="74dc0247a9c9e4ecec1c173e01274e2391643a60"/>
+		<description>INV+ (World) (Aftermarket)</description>
+   		<rom name="INV+ (World) (Aftermarket).a26" size="4096" crc="8ebde037" md5="9ea8ed9dec03082973244a080941e58a" sha1="74dc0247a9c9e4ecec1c173e01274e2391643a60"/>
    		<url>https://retroachievements.org/game/13154/hashes</url>
 		<hash>9EA8ED9DEC03082973244A080941E58A</hash>
 	</game>
 	
-	<game name="Homebrew/Katamari (NTSC) (v1.3) (Aftermarket) (Unl) (Rabbit2600)">
+	<game name="Homebrew/Katamari (NTSC) (v1.3) (Rabbit2600) (Aftermarket)">
     	<category></category>
-		<description>Katamari (NTSC) (v1.3) (Aftermarket) (Unl) (Rabbit2600)</description>
-   		<rom name="Katamari (NTSC) (v1.3) (Aftermarket) (Unl) (Rabbit2600).a26" size="8192" crc="20f6c442" md5="b467c468a17b82372244893d767f55e2" sha1="0097c3a56b3d92b3192182d2b47937c7579c528d"/>
+		<description>Katamari (NTSC) (v1.3) (Rabbit2600) (Aftermarket)</description>
+   		<rom name="Katamari (NTSC) (v1.3) (Rabbit2600) (Aftermarket).a26" size="8192" crc="20f6c442" md5="b467c468a17b82372244893d767f55e2" sha1="0097c3a56b3d92b3192182d2b47937c7579c528d"/>
    		<url>https://retroachievements.org/game/26087/hashes</url>
 		<hash>B467C468A17B82372244893D767F55E2</hash>
 	</game>
 	
-	<game name="Homebrew/Kelly Kangaroo (USA) (v0.6) (Aftermarket) (Unl)">
+	<game name="Homebrew/Kelly Kangaroo (USA) (v0.6) (Aftermarket)">
     	<category></category>
-		<description>Kelly Kangaroo (USA) (v0.6) (Aftermarket) (Unl)</description>
-   		<rom name="Kelly Kangaroo (USA) (v0.6) (Aftermarket) (Unl).a26" size="32768" crc="fcb219c6" md5="c411ec2fed53fa14c1fde93a8a975345" sha1="7ebb5e591f0d9b4349d16ee8da50a8fab7c9c30f"/>
+		<description>Kelly Kangaroo (USA) (v0.6) (Aftermarket)</description>
+   		<rom name="Kelly Kangaroo (USA) (v0.6) (Aftermarket).a26" size="32768" crc="fcb219c6" md5="c411ec2fed53fa14c1fde93a8a975345" sha1="7ebb5e591f0d9b4349d16ee8da50a8fab7c9c30f"/>
    		<url>https://retroachievements.org/game/33061/hashes</url>
 		<hash>c411ec2fed53fa14c1fde93a8a975345</hash>
 	</game>
 	
-	 <game name="Homebrew/Oystron (World) (Aftermarket) (Unl)">
+	 <game name="Homebrew/Oystron (World) (Aftermarket)">
 		<category></category>
-		<description>Oystron (World) (Aftermarket) (Unl)</description>
-   		<rom name="Oystron (World) (Aftermarket) (Unl).a26" size="4096" crc="8155dccf" md5="91f0a708eeb93c133e9672ad2c8e0429" sha1="412e8a2438379878ee4de5c6bf4e5a9ee2707c8b"/>
+		<description>Oystron (World) (Aftermarket)</description>
+   		<rom name="Oystron (World) (Aftermarket).a26" size="4096" crc="8155dccf" md5="91f0a708eeb93c133e9672ad2c8e0429" sha1="412e8a2438379878ee4de5c6bf4e5a9ee2707c8b"/>
    		<url>https://retroachievements.org/game/14693/hashes</url>
 		<hash>91F0A708EEB93C133E9672AD2C8E0429</hash>
 	</game>
 	
-	<game name="Homebrew/Pac-Man 4K (NTSC) (v2008-05-24) (Aftermarket) (Unl) (Dennis Debro)">
+	<game name="Homebrew/Pac-Man 4K (NTSC) (v2008-05-24) (Dennis Debro) (Aftermarket)">
 		<category></category>
-		<description>Pac-Man 4K (NTSC) (v2008-05-24) (Aftermarket) (Unl) (Dennis Debro)</description>
-		<rom name="Pac-Man 4K (NTSC) (v2008-05-24) (Aftermarket) (Unl) (Dennis Debro).a26" size="4096" crc="4db1f88a" md5="6e88da2b704916eb04a998fed9e23a3e" sha1="f6b59b338f205e2e1e593592d04512d40d8a9bdf"/>
+		<description>Pac-Man 4K (NTSC) (v2008-05-24) (Dennis Debro) (Aftermarket)</description>
+		<rom name="Pac-Man 4K (NTSC) (v2008-05-24) (Dennis Debro) (Aftermarket).a26" size="4096" crc="4db1f88a" md5="6e88da2b704916eb04a998fed9e23a3e" sha1="f6b59b338f205e2e1e593592d04512d40d8a9bdf"/>
 		<url>https://retroachievements.org/game/13151/hashes</url>
 		<hash>6E88DA2B704916EB04A998FED9E23A3E</hash>
 	</game>
 	
-	<game name="Homebrew/Princess Rescue (NTSC) (v2013-07-31) (Chris Spry)">
+	<game name="Homebrew/Princess Rescue (NTSC) (v2013-07-31) (Chris Spry) (Aftermarket)">
 		<category></category>
-		<description>Princess Rescue (NTSC) (v2013-07-31) (Chris Spry)</description>
-		<rom name="Princess Rescue (NTSC) (v2013-07-31) (Chris Spry).a26" size="32768" crc="560dac0c" md5="104468e44898b8e9fa4a1500fde8d4cb" sha1="58aa6bba1d0d26c1287135fc9237b684a984b6be"/>
+		<description>Princess Rescue (NTSC) (v2013-07-31) (Chris Spry) (Aftermarket)</description>
+		<rom name="Princess Rescue (NTSC) (v2013-07-31) (Chris Spry) (Aftermarket).a26" size="32768" crc="560dac0c" md5="104468e44898b8e9fa4a1500fde8d4cb" sha1="58aa6bba1d0d26c1287135fc9237b684a984b6be"/>
 		<url>https://retroachievements.org/game/11695/hashes</url>
 		<hash>104468E44898B8E9FA4A1500FDE8D4CB</hash>
 	</game>
 	
-	<game name="Homebrew/Punch Out (Demake) (NTSC) (Aftermarket) (Unl) (MathanGames)">
+	<game name="Homebrew/Punch Out (NTSC) (Demake) (MathanGames) (Aftermarket)">
 		<category></category>
-		<description>Punch Out (Demake) (NTSC) (Aftermarket) (Unl) (MathanGames)</description>
-		<rom name="Punch Out (Demake) (NTSC) (Aftermarket) (Unl) (MathanGames).a26" size="32768" crc="780db785" md5="ea6a1cdd1b14eac02759ea6372cfc1f5" sha1="b9d93a04b7fe83ef6782c1145819de24cc4c0f0f"/>
+		<description>Punch Out (NTSC) (Demake) (MathanGames) (Aftermarket)</description>
+		<rom name="Punch Out (NTSC) (Demake) (MathanGames) (Aftermarket).a26" size="32768" crc="780db785" md5="ea6a1cdd1b14eac02759ea6372cfc1f5" sha1="b9d93a04b7fe83ef6782c1145819de24cc4c0f0f"/>
 		<url>https://retroachievements.org/game/25021/hashes</url>
 		<hash>EA6A1CDD1B14EAC02759EA6372CFC1F5</hash>
 	</game>
 	
-	<game name="Homebrew/Sheep It Up! - PAL (World) (Aftermarket) (Unl)">		
+	<game name="Homebrew/Sheep It Up! (World) (PAL) (Aftermarket)">
 		<category></category>
-		<description>Sheep It Up! - PAL (World) (Aftermarket) (Unl)</description>
-   		<rom name="Sheep It Up! - PAL (World) (Aftermarket) (Unl).a26" size="4096" crc="13de1052" md5="1f6267db16ffeb90ba48890d5f84ac9e" sha1="b2d070404738c771e7c5bd3139858f7f8822d423"/>
+		<description>Sheep It Up! (World) (PAL) (Aftermarket)</description>
+   		<rom name="Sheep It Up! (World) (PAL) (Aftermarket).a26" size="4096" crc="13de1052" md5="1f6267db16ffeb90ba48890d5f84ac9e" sha1="b2d070404738c771e7c5bd3139858f7f8822d423"/>
     	<url>https://retroachievements.org/game/13456/hashes</url>
 		<hash>1F6267DB16FFEB90BA48890D5F84AC9E</hash>
 	</game>
-	<game name="Homebrew/Sheep It Up! - NTSC (World) (Aftermarket) (Unl)">
+	<game name="Homebrew/Sheep It Up! (World) (NTSC) (Aftermarket)">
     	<category></category>
-		<description>Sheep It Up! - NTSC (World) (Aftermarket) (Unl)</description>
-   		<rom name="Sheep It Up! - NTSC (World) (Aftermarket) (Unl).a26" size="4096" crc="5be003ad" md5="8debebc61916692e2d66f2edf4bed29c" sha1="d22009a4c4e92e0533bf4379d743f80f53064fde"/>
+		<description>Sheep It Up! (World) (NTSC) (Aftermarket)</description>
+   		<rom name="Sheep It Up! (World) (NTSC) (Aftermarket).a26" size="4096" crc="5be003ad" md5="8debebc61916692e2d66f2edf4bed29c" sha1="d22009a4c4e92e0533bf4379d743f80f53064fde"/>
    		<url>https://retroachievements.org/game/13456/hashes</url>
 		<hash>8DEBEBC61916692E2D66F2EDF4BED29C</hash>
 	</game>
-	<game name="Homebrew/Sheep It Up! - SECAM (World) (Aftermarket) (Unl)">
+	<game name="Homebrew/Sheep It Up! (World) (SECAM) (Aftermarket)">
 		<category></category>
-		<description>Sheep It Up! - SECAM (World) (Aftermarket) (Unl)</description>
-   		<rom name="Sheep It Up! - SECAM (World) (Aftermarket) (Unl).a26" size="4096" crc="f915ad29" md5="da3f54e89b54b0a2391d0513ab8c9861" sha1="566249fc4b955fe7baab05e4818724d3387674b3"/>
+		<description>Sheep It Up! (World) (SECAM) (Aftermarket)</description>
+   		<rom name="Sheep It Up! (World) (SECAM) (Aftermarket).a26" size="4096" crc="f915ad29" md5="da3f54e89b54b0a2391d0513ab8c9861" sha1="566249fc4b955fe7baab05e4818724d3387674b3"/>
    		<url>https://retroachievements.org/game/13456/hashes</url>
 		<hash>DA3F54E89B54B0A2391D0513AB8C9861</hash>
 	</game>
 	
-	<game name="Homebrew/Skeleton+ (NTSC) (Aftermarket) (Unl) (Eric Ball)">
+	<game name="Homebrew/Skeleton+ (NTSC) (Eric Ball) (Aftermarket)">
 		<category></category>
-		<description>Skeleton+ (NTSC) (Aftermarket) (Unl) (Eric Ball)</description>
-		<rom name="Skeleton+ (NTSC) (Aftermarket) (Unl) (Eric Ball).a26" size="4096" crc="69666409" md5="eafe8b40313a65792e88ff9f2fe2655c" sha1="71e757f92788794632e48a8104e715cb9eb6b217"/>
+		<description>Skeleton+ (NTSC) (Eric Ball) (Aftermarket)</description>
+		<rom name="Skeleton+ (NTSC) (Eric Ball) (Aftermarket).a26" size="4096" crc="69666409" md5="eafe8b40313a65792e88ff9f2fe2655c" sha1="71e757f92788794632e48a8104e715cb9eb6b217"/>
 		<url>https://retroachievements.org/game/13382/hashes</url>
 		<hash>EAFE8B40313A65792E88FF9F2FE2655C</hash>
 	</game>
 	
-	<game name="Homebrew/Slide Boy in Maze Land (USA) (Final) (Aftermarket) (Unl)">
+	<game name="Homebrew/Slide Boy in Maze Land (USA) (Final) (Aftermarket)">
 		<category></category>
-		<description>Slide Boy in Maze Land (USA) (Final) (Aftermarket) (Unl)</description>
-		<rom name="Slide Boy in Maze Land (USA) (Final) (Aftermarket) (Unl).a26" size="32768" crc="1a7388ca" md5="024e97dabc0b083c31ea52a83cca4e01" sha1="744882a4a5a9122e902e5dca743e5b2e42abee32"/>
+		<description>Slide Boy in Maze Land (USA) (Final) (Aftermarket)</description>
+		<rom name="Slide Boy in Maze Land (USA) (Final) (Aftermarket).a26" size="32768" crc="1a7388ca" md5="024e97dabc0b083c31ea52a83cca4e01" sha1="744882a4a5a9122e902e5dca743e5b2e42abee32"/>
 		<url>https://retroachievements.org/game/26387/hashes</url>
 		<hash>024E97DABC0B083C31EA52A83CCA4E01</hash>
 	</game>
 	
-	<game name="Homebrew/Snake (Rick Skrbina) (USA) (Aftermarket) (Unl)">
+	<game name="Homebrew/Snake (Rick Skrbina) (USA) (Aftermarket)">
 		<category></category>
-		<description>Snake (Rick Skrbina) (USA) (Aftermarket) (Unl)</description>
-		<rom name="Snake (Rick Skrbina) (USA) (Aftermarket) (Unl).a26" size="4096" crc="5c0b7e5f" md5="bd81069d0945f26d7ff753767208c305" sha1="5c41c48869aa4b64111a24011589be33e7f73ade"/>
+		<description>Snake (Rick Skrbina) (USA) (Aftermarket)</description>
+		<rom name="Snake (Rick Skrbina) (USA) (Aftermarket).a26" size="4096" crc="5c0b7e5f" md5="bd81069d0945f26d7ff753767208c305" sha1="5c41c48869aa4b64111a24011589be33e7f73ade"/>
 		<url>https://retroachievements.org/game/14725/hashes</url>
 		<hash>BD81069D0945F26D7FF753767208C305</hash>
 	</game>
 	
-	<game name="Homebrew/Spies in the Night (NTSC) (Aftermarket) (Unl) (Jared Gray West)">
+	<game name="Homebrew/Spies in the Night (NTSC) (Jared Gray West) (Aftermarket)">
 		<category></category>
-		<description>Spies in the Night (NTSC) (Aftermarket) (Unl) (Jared Gray West)</description>
-		<rom name="Spies in the Night (NTSC) (Aftermarket) (Unl) (Jared Gray West).a26" size="8192" crc="6209531c" md5="aecdc8da1d67ad5fd520582750e19938" sha1="934b652be776f37b597e94675b9609fd9b711960"/>
+		<description>Spies in the Night (NTSC) (Jared Gray West) (Aftermarket)</description>
+		<rom name="Spies in the Night (NTSC) (Jared Gray West) (Aftermarket).a26" size="8192" crc="6209531c" md5="aecdc8da1d67ad5fd520582750e19938" sha1="934b652be776f37b597e94675b9609fd9b711960"/>
 		<url>https://retroachievements.org/game/22548/hashes</url>
 		<hash>AECDC8DA1D67AD5FD520582750E19938</hash>
 	</game>
 	
-	<game name="Homebrew/Tetris26 (NTSC) (Aftermarket) (Unl) (Colin Hughes)">
+	<game name="Homebrew/Tetris26 (NTSC) (Colin Hughes) (Aftermarket)">
 		<category></category>
-		<description>Tetris26 (NTSC) (Aftermarket) (Unl) (Colin Hughes)</description>
-		<rom name="Tetris26 (NTSC) (Aftermarket) (Unl) (Colin Hughes).a26" size="2048" crc="ebe8d2a9" md5="0279a63d922163da5a4fde76397f3fe0" sha1="c512f2f770d0e8fad29c0ab9e56fd875bc8d1b55"/>
+		<description>Tetris26 (NTSC) (Colin Hughes) (Aftermarket)</description>
+		<rom name="Tetris26 (NTSC) (Colin Hughes) (Aftermarket).a26" size="2048" crc="ebe8d2a9" md5="0279a63d922163da5a4fde76397f3fe0" sha1="c512f2f770d0e8fad29c0ab9e56fd875bc8d1b55"/>
 		<url>https://retroachievements.org/game/13141/hashes</url>
 		<hash>0279A63D922163DA5A4FDE76397F3FE0</hash>
 	</game>
 	
-	<game name="Homebrew/Angry Video Game Nerd K.O. Boxing (World) (NTSC) (Aftermarket) (Unl)">
+	<game name="Homebrew/Angry Video Game Nerd K.O. Boxing (World) (NTSC) (Aftermarket)">
 		<category></category>
-		<description>Angry Video Game Nerd K.O. Boxing (World) (NTSC) (Aftermarket) (Unl)</description>
-		<rom name="Angry Video Game Nerd K.O. Boxing (World) (NTSC) (Aftermarket) (Unl).a26" size="32768" crc="53f02c00" md5="6a7e6fc102bf7459f89419c548a79e2c" sha1="bbcac5c5b2384ab6aa83574e6b9486c4b60822d4"/>
+		<description>Angry Video Game Nerd K.O. Boxing (World) (NTSC) (Aftermarket)</description>
+		<rom name="Angry Video Game Nerd K.O. Boxing (World) (NTSC) (Aftermarket).a26" size="32768" crc="53f02c00" md5="6a7e6fc102bf7459f89419c548a79e2c" sha1="bbcac5c5b2384ab6aa83574e6b9486c4b60822d4"/>
 		<url>https://retroachievements.org/game/14686/hashes</url>
 		<hash>6A7E6FC102BF7459F89419C548A79E2C</hash>
 	</game>
 	
-	<game name="Homebrew/Video Simon (NTSC) (Aftermarket) (Unl) (Mark De Smet)">
+	<game name="Homebrew/Video Simon (NTSC) (Mark De Smet) (Aftermarket)">
 		<category></category>
-		<description>Video Simon (NTSC) (Aftermarket) (Unl) (Mark De Smet)</description>
-		<rom name="Video Simon (NTSC) (Aftermarket) (Unl) (Mark De Smet).a26" size="4096" crc="c3a4bd27" md5="16f494f20af5dc803bc35939ef924020" sha1="a345a5696f1d63a879e7bb7e3a74c825e97ef7c3"/>
+		<description>Video Simon (NTSC) (Mark De Smet) (Aftermarket)</description>
+		<rom name="Video Simon (NTSC) (Mark De Smet) (Aftermarket).a26" size="4096" crc="c3a4bd27" md5="16f494f20af5dc803bc35939ef924020" sha1="a345a5696f1d63a879e7bb7e3a74c825e97ef7c3"/>
 		<url>https://retroachievements.org/game/13152/hashes</url>
 		<hash>16F494F20AF5DC803BC35939EF924020</hash>
 	</game>
 	
-	<game name="Homebrew/Wall Jump Ninja (World) (2015-01-15) (PAL 60Hz) (Aftermarket) (Unl)">
+	<game name="Homebrew/Wall Jump Ninja (World) (2015-01-15) (PAL 60Hz) (Aftermarket)">
 		<category></category>
-		<description>Wall Jump Ninja (World) (2015-01-15) (PAL 60Hz) (Aftermarket) (Unl)</description>
-		<rom name="Wall Jump Ninja (World) (2015-01-15) (PAL 60Hz) (Aftermarket) (Unl).a26" size="4096" crc="b491c2b6" md5="2489359c38551a1d96cbaa4e52d8bb30" sha1="bd3e8686a09175f51a0fcb51115d9b91b0e6b852"/>
+		<description>Wall Jump Ninja (World) (2015-01-15) (PAL 60Hz) (Aftermarket)</description>
+		<rom name="Wall Jump Ninja (World) (2015-01-15) (PAL 60Hz) (Aftermarket).a26" size="4096" crc="b491c2b6" md5="2489359c38551a1d96cbaa4e52d8bb30" sha1="bd3e8686a09175f51a0fcb51115d9b91b0e6b852"/>
 		<url>https://retroachievements.org/game/11536/hashes</url>
 		<hash>2489359C38551A1D96CBAA4E52D8BB30</hash>
 	</game>
-	<game name="Homebrew/Wall Jump Ninja (World) (2015-01-15) (NTSC) (Aftermarket) (Unl)">
+	<game name="Homebrew/Wall Jump Ninja (World) (2015-01-15) (NTSC) (Aftermarket)">
 		<category></category>
-		<description>Wall Jump Ninja (World) (2015-01-15) (NTSC) (Aftermarket) (Unl)</description>
-		<rom name="Wall Jump Ninja (World) (2015-01-15) (NTSC) (Aftermarket) (Unl).a26" size="4096" crc="353215e0" md5="3c56c0c5f6f97850ed0aa7bcc2a4e30e" sha1="a06fb0c60fff651b0be270e926f220706e86a5b4"/>
+		<description>Wall Jump Ninja (World) (2015-01-15) (NTSC) (Aftermarket)</description>
+		<rom name="Wall Jump Ninja (World) (2015-01-15) (NTSC) (Aftermarket).a26" size="4096" crc="353215e0" md5="3c56c0c5f6f97850ed0aa7bcc2a4e30e" sha1="a06fb0c60fff651b0be270e926f220706e86a5b4"/>
 		<url>https://retroachievements.org/game/11536/hashes</url>
 		<hash>3C56C0C5F6F97850ED0AA7BCC2A4E30E</hash>
 	</game>
 	
-	<game name="Homebrew/Wall-E (USA) (v20130624) (Aftermarket) (Unl)">
+	<game name="Homebrew/Wall-E (USA) (v20130624) (Aftermarket)">
 		<category></category>
-		<description>Wall-E (USA) (v20130624) (Aftermarket) (Unl)</description>
-		<rom name="Wall-E (USA) (v20130624) (Aftermarket) (Unl).a26" size="4096" crc="5d278aa5" md5="8c304722f73b9c91d3b68db6eaad690d" sha1="8d02cae15084a804e45bb012cd0681f87ffa2d3b"/>
+		<description>Wall-E (USA) (v20130624) (Aftermarket)</description>
+		<rom name="Wall-E (USA) (v20130624) (Aftermarket).a26" size="4096" crc="5d278aa5" md5="8c304722f73b9c91d3b68db6eaad690d" sha1="8d02cae15084a804e45bb012cd0681f87ffa2d3b"/>
 		<url>https://retroachievements.org/game/26911/hashes</url>
 		<hash>8c304722f73b9c91d3b68db6eaad690d</hash>
 	</game>
 	
-	<game name="Homebrew/Wipeout 2600 (USA) (Aftermarket) (Unl)">
+	<game name="Homebrew/Wipeout 2600 (USA) (Aftermarket)">
 		<category></category>
-		<description>Wipeout 2600 (USA) (Aftermarket) (Unl)</description>
-		<rom name="Wipeout 2600 (USA) (Aftermarket) (Unl).a26" size="4096" crc="613a1389" md5="7088177126d7257472986b65690ce88a" sha1="dbc0e0032c4573a19790fbc551346362adff97b6"/>
+		<description>Wipeout 2600 (USA) (Aftermarket)</description>
+		<rom name="Wipeout 2600 (USA) (Aftermarket).a26" size="4096" crc="613a1389" md5="7088177126d7257472986b65690ce88a" sha1="dbc0e0032c4573a19790fbc551346362adff97b6"/>
 		<url>https://retroachievements.org/game/26910/hashes</url>
 		<hash>7088177126D7257472986B65690CE88A</hash>
 	</game>
-	<game name="Homebrew/Wipeout 2600 (USA) (Faster Missiles) (Aftermarket) (Unl)">
+	<game name="Homebrew/Wipeout 2600 (USA) (Faster Missiles) (Aftermarket)">
 		<category></category>
-		<description>Wipeout 2600 (USA) (Faster Missiles) (Aftermarket) (Unl)</description>
-		<rom name="Wipeout 2600 (USA) (Faster Missiles) (Aftermarket) (Unl).a26" size="4096" crc="b12c3419" md5="f3bb1153e493d740bf41d4e75131001b" sha1="8f3d7abeac8d4b339c6d1b145cdd09e93041bb91"/>
+		<description>Wipeout 2600 (USA) (Faster Missiles) (Aftermarket)</description>
+		<rom name="Wipeout 2600 (USA) (Faster Missiles) (Aftermarket).a26" size="4096" crc="b12c3419" md5="f3bb1153e493d740bf41d4e75131001b" sha1="8f3d7abeac8d4b339c6d1b145cdd09e93041bb91"/>
 		<url>https://retroachievements.org/game/26910/hashes</url>
 		<hash>F3BB1153E493D740BF41D4E75131001B</hash>
 	</game>
 	
-	<game name="Homebrew/Xanthiom (NTSC) (v6.0) (Aftermarket) (Unl) (MathanGames)">
+	<game name="Homebrew/Xanthiom (NTSC) (v6.0) (MathanGames) (Aftermarket)">
 		<category></category>
-		<description>Xanthiom (NTSC) (v6.0) (Aftermarket) (Unl) (MathanGames)</description>
-		<rom name="Xanthiom (NTSC) (v6.0) (Aftermarket) (Unl) (MathanGames).a26" size="65536" crc="82738d98" md5="bdda231978da7e14757920094693248a" sha1="bbc0d8e79d4d9a519f68abf2223eeff851c3fec9"/>
+		<description>Xanthiom (NTSC) (v6.0) (MathanGames) (Aftermarket)</description>
+		<rom name="Xanthiom (NTSC) (v6.0) (MathanGames) (Aftermarket).a26" size="65536" crc="82738d98" md5="bdda231978da7e14757920094693248a" sha1="bbc0d8e79d4d9a519f68abf2223eeff851c3fec9"/>
 		<url>https://retroachievements.org/game/25027/hashes</url>
 		<hash>BDDA231978DA7E14757920094693248A</hash>
 	</game>
 	
-	<game name="Homebrew/Yahtzee (NTSC) (Aftermarket) (Unl) (Russell Babylon)">
+	<game name="Homebrew/Yahtzee (NTSC) (Russell Babylon) (Aftermarket)">
 		<category></category>
-		<description>Yahtzee (NTSC) (Aftermarket) (Unl) (Russell Babylon)</description>
-		<rom name="Yahtzee (NTSC) (Aftermarket) (Unl) (Russell Babylon).a26" size="4096" crc="5c93f4d0" md5="d090836f0a4ea8db9ac7abb7d6adf61e" sha1="6a1e0142c6886a6589a58e029e5aec6b72f7d27f"/>
+		<description>Yahtzee (NTSC) (Russell Babylon) (Aftermarket)</description>
+		<rom name="Yahtzee (NTSC) (Russell Babylon) (Aftermarket).a26" size="4096" crc="5c93f4d0" md5="d090836f0a4ea8db9ac7abb7d6adf61e" sha1="6a1e0142c6886a6589a58e029e5aec6b72f7d27f"/>
 		<url>https://retroachievements.org/game/13024/hashes</url>
 		<hash>D090836F0A4EA8DB9AC7ABB7D6ADF61E</hash>
 	</game>
 	
-	<game name="Homebrew/Zippy the Porcupine (NTSC) (v2) (Aftermarket) (Unl) (Chris Spry)">
+	<game name="Homebrew/Zippy the Porcupine (NTSC) (v2) (Chris Spry) (Aftermarket)">
 		<category></category>
-		<description>Zippy the Porcupine (NTSC) (v2) (Aftermarket) (Unl) (Chris Spry)</description>
-		<rom name="Zippy the Porcupine (NTSC) (v2) (Aftermarket) (Unl) (Chris Spry).a26" size="65536" crc="d57d3189" md5="457b03cd48ff6d895795ef043c6b0f1e" sha1="cbe88e316b471a6476f284df8634d5b646b4bdc5"/>
+		<description>Zippy the Porcupine (NTSC) (v2) (Chris Spry) (Aftermarket)</description>
+		<rom name="Zippy the Porcupine (NTSC) (v2) (Chris Spry) (Aftermarket).a26" size="65536" crc="d57d3189" md5="457b03cd48ff6d895795ef043c6b0f1e" sha1="cbe88e316b471a6476f284df8634d5b646b4bdc5"/>
 		<url>https://retroachievements.org/game/11803/hashes</url>
 		<hash>457B03CD48FF6D895795EF043C6B0F1E</hash>
 	</game>

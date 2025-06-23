@@ -4,38 +4,38 @@
 	<header>
 		<name>RA - Sega 32X</name>
 		<description>Sega 32X</description>
-		<category>1G1R</category>
-		<version>20250529</version>
-		<date>29 May 2025</date>
+		<category>No Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/10/games</url>
 		<titlecount>24</titlecount>
 		<hashcount>26</hashcount>
 	</header>
-	<game name="Doom (Europe) 32X Resurrection (v2.2b) (D32XR Team) (Hack)">
+	<game name="Doom - Resurrection (Europe) (v2.2b) (D32XR Team) (Hack)">
 		<category>Hack</category>
-		<description>Doom (Europe) 32X Resurrection (v2.2b) (D32XR Team) (Hack)</description>
-		<release name="Doom (Europe) 32X Resurrection (v2.2b) (D32XR Team) (Hack)" region="World"/>
-		<rom name="Doom (Europe) 32X Resurrection (v2.2b) (D32XR Team) (Hack).32x" size="4194304" crc="c7d37f52" md5="49134106e611839a28caf94a1ddd783d" sha1="99fa677969b937ee20ee778d25aed6d9f3e9ea7e"/>
+		<description>Doom - Resurrection (Europe) (v2.2b) (D32XR Team) (Hack)</description>
+		<release name="Doom - Resurrection (Europe) (v2.2b) (D32XR Team) (Hack)" region="World"/>
+		<rom name="Doom - Resurrection (Europe) (v2.2b) (D32XR Team) (Hack).32x" size="4194304" crc="c7d37f52" md5="49134106e611839a28caf94a1ddd783d" sha1="99fa677969b937ee20ee778d25aed6d9f3e9ea7e"/>
 		<url>https://retroachievements.org/game/18179/hashes</url>
 		<hash>49134106e611839a28caf94a1ddd783d</hash>
 	</game>
 	
-	<game name="Doom - Sigil (John Romero) (Hack)">
+	<game name="Doom - Sigil (Japan, USA) (En) (John Romero) (Hack)">
 		<category>Hack</category>
-		<description>Doom - Sigil (John Romero) (Hack)</description>
-		<release name="Doom - Sigil (John Romero) (Hack)" region="World"/>
-		<rom name="Doom - Sigil (John Romero) (Hack).32x" size="4194304" crc="e47779e5" md5="f891f45238cf4a8a0956196d665612b8" sha1="b0cea0cee52ff09892fe2d0483c68a05d849a5f0"/>
+		<description>Doom - Sigil (Japan, USA) (En) (John Romero) (Hack)</description>
+		<release name="Doom - Sigil (Japan, USA) (En) (John Romero) (Hack)" region="World"/>
+		<rom name="Doom - Sigil (Japan, USA) (En) (John Romero) (Hack).32x" size="4194304" crc="e47779e5" md5="f891f45238cf4a8a0956196d665612b8" sha1="b0cea0cee52ff09892fe2d0483c68a05d849a5f0"/>
 		<url>https://retroachievements.org/game/17681/hashes</url>
 		<hash>f891f45238cf4a8a0956196d665612b8</hash>
 	</game>
 	
-	<game name="xRick (USA) (v2011-04-30) (Aftermarket) (Unl) (Chilly Willy) (Homebrew)">
+	<game name="xRick (USA) (v2011-04-30) (Chilly Willy) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>xRick (USA) (v2011-04-30) (Aftermarket) (Unl) (Chilly Willy) (Homebrew)</description>
-		<release name="xRick (USA) (v2011-04-30) (Aftermarket) (Unl) (Chilly Willy) (Homebrew)" region="World"/>
-		<rom name="xRick (USA) (v2011-04-30) (Aftermarket) (Unl) (Chilly Willy) (Homebrew).bin" size="4194304" crc="fd07db46" md5="f642e289bfb670022e0ae001786bdf94" sha1="f951890e6cd3cfd5e4cba13be8c8aea4f70d36a5"/>
+		<description>xRick (USA) (v2011-04-30) (Chilly Willy) (Aftermarket)</description>
+		<release name="xRick (USA) (v2011-04-30) (Chilly Willy) (Aftermarket)" region="World"/>
+		<rom name="xRick (USA) (v2011-04-30) (Chilly Willy) (Aftermarket).bin" size="4194304" crc="fd07db46" md5="f642e289bfb670022e0ae001786bdf94" sha1="f951890e6cd3cfd5e4cba13be8c8aea4f70d36a5"/>
 		<url>https://retroachievements.org/game/17682/hashes</url>
 		<hash>f642e289bfb670022e0ae001786bdf94</hash>
 	</game>

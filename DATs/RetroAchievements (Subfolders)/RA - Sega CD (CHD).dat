@@ -4,15 +4,16 @@
 	<header>
 		<name>RA - Sega CD (CHD)</name>
 		<description>Sega CD (CHD)</description>
-		<category>1G1R</category>
-		<version>20250619</version>
-		<date>19 June 2025</date>
+		<category>Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/9/games</url>
 		<titlecount>52</titlecount>
 		<hashcount>63</hashcount>
 		<clrmamepro forcepacking="unzip"/>
+		<romvault forcepacking="unzip"/>
 	</header>
 	<game name="Hack/Sonic MegaMix (USA) (Unl)">
 		<category></category>
@@ -30,25 +31,25 @@
 		<hash>c3f476595c1151bde8b87e7a8e2c5c30</hash>
 	</game>
 
-	<game name="Homebrew/Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur)">
+	<game name="Homebrew/Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur) (Aftermarket)">
 		<category></category>
-		<description>Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur)</description>
-		<rom name="Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur).chd" size="348503" crc="8caa8875" md5="53916470b2a91e37eec2ac463c47e216" sha1="b37c44dc15f53eb6690f88449d808f66b0e090f6"/>
+		<description>Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur) (Aftermarket)</description>
+		<rom name="Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur) (Aftermarket).chd" size="348503" crc="8caa8875" md5="53916470b2a91e37eec2ac463c47e216" sha1="b37c44dc15f53eb6690f88449d808f66b0e090f6"/>
 		<url>https://retroachievements.org/game/14766/hashes</url>
 		<hash>85fce84ca1245733aac68a1ec28041e4</hash>
 	</game>
 
-	<game name="Prototype/Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1)">
+	<game name="Prototype/Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 1)">
 		<category></category>
-		<description>Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1)</description>
-		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1).chd" size="324097316" crc="fb4edf20" md5="28e2e0a9c3c5b3ad99c3990203fc2da9" sha1="9a6884906872ac709f04cb754f3ffc9e885d8026"/>
+		<description>Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 1)</description>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 1).chd" size="324097316" crc="fb4edf20" md5="28e2e0a9c3c5b3ad99c3990203fc2da9" sha1="9a6884906872ac709f04cb754f3ffc9e885d8026"/>
 		<url>https://retroachievements.org/game/10096/hashes</url>
 		<hash>3366c149ddd7b8266deb4a729e804118</hash>
 	</game>
-	<game name="Prototype/Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 2)">
+	<game name="Prototype/Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 2)">
 		<category></category>
-		<description>Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 2)</description>
-		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 2).chd" size="129624295" crc="e2c5b03d" md5="9bff7383ffe234025900a800036ec49d" sha1="8b870e536e5e99c19dd7724cdbb96d64e5251602"/>
+		<description>Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 2)</description>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 2).chd" size="129624295" crc="e2c5b03d" md5="9bff7383ffe234025900a800036ec49d" sha1="8b870e536e5e99c19dd7724cdbb96d64e5251602"/>
 		<url>https://retroachievements.org/game/10096/hashes</url>
 		<hash>b27c343ec2d3baba714a3667017c290c</hash>
 	</game>

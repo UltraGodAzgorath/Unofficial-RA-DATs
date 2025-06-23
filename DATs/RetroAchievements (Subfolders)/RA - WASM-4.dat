@@ -4,9 +4,9 @@
 	<header>
 		<name>RA - WASM-4</name>
 		<description>WASM-4</description>
-		<category>1G1R</category>
-		<version>20250620</version>
-		<date>20 June 2025</date>
+		<category>Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/72/games</url>
@@ -490,10 +490,10 @@
 		<hash>8DF88405A112173638E7D6F0D95FB67A</hash>
 	</game>
 	
-	<game name="Retail/ZxZ (World) (Rev 1) (Homebrew)">
+	<game name="Retail/ZxZ (World) (Rev 1)">
 		<category></category>
-		<description>ZxZ (World) (Rev 1) (Homebrew)</description>
-		<rom name="ZxZ (World) (Rev 1) (Homebrew).wasm" size="18711" crc="e3cbe9f4" md5="88f0a50bf711bdc9fae8f1ee91395cb1" sha1="5cc971fa63389d51131eb2c094f4481e39082169"/>
+		<description>ZxZ (World) (Rev 1)</description>
+		<rom name="ZxZ (World) (Rev 1).wasm" size="18711" crc="e3cbe9f4" md5="88f0a50bf711bdc9fae8f1ee91395cb1" sha1="5cc971fa63389d51131eb2c094f4481e39082169"/>
 		<url>https://retroachievements.org/game/19298/hashes</url>
 		<hash>88F0A50BF711BDC9FAE8F1EE91395CB1</hash>
 	</game>

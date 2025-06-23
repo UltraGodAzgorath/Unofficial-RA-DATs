@@ -4,9 +4,9 @@
 	<header>
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
-		<category>1G1R</category>
-		<version>20250617</version>
-		<date>17 June 2025</date>
+		<category>No Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/16/games</url>
@@ -140,14 +140,14 @@
 		<url>https://retroachievements.org/game/28371/hashes</url>
 		<hash>F7FF03A01ACF7D365F6A4294AB3416E0</hash>
 	</game>
-	<game name="Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Hack)" cloneof="Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Widescreen) (Hack)">
+	<game name="Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax)" cloneof="Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Widescreen) (Hack)">
 		<category>Hack</category>
 		<description>Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Hack)</description>
 		<rom name="Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Hack).rvz" size="1256207512" crc="1fe6e9a9" md5="66981fbb65636f060cde26802e68313e" sha1="657c75f34b2e583674bd108ac7ee81aa81e3470a"/>
 		<url>https://retroachievements.org/game/28371/hashes</url>
 		<hash>00453B56461723E74A68BCF84650F082</hash>
 	</game>
-	<game name="Shadow the Hedgehog - Reloaded (v1.2) (Widescreen, Speedrun L-To-Restart) (LimblessVector, dreamsyntax) (Hack)" cloneof="Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Widescreen) (Hack)">
+	<game name="Shadow the Hedgehog - Reloaded (v1.2) (Widescreen, Speedrun L-To-Restart) (LimblessVector, dreamsyntax)" cloneof="Shadow the Hedgehog - Reloaded (v1.2) (LimblessVector,dreamsyntax) (Widescreen) (Hack)">
 		<category>Hack</category>
 		<description>Shadow the Hedgehog - Reloaded (v1.2) (Widescreen, Speedrun L-To-Restart) (LimblessVector, dreamsyntax) (Hack)</description>
 		<rom name="Shadow the Hedgehog - Reloaded (v1.2) (Widescreen, Speedrun L-To-Restart) (LimblessVector, dreamsyntax) (Hack).rvz" size="1256285432" crc="91d1455a" md5="697892e541eb4bc3797bfb5c439bb6f2" sha1="9d4b111b9b4ee408e9729d11a58882f40515a8a3"/>
@@ -182,11 +182,11 @@
 		<hash>24AB3DDA91DD1A156CA68942F44C15D4</hash>
 	</game>
 	
-	<game name="Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt-BR) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Xeno Crisis (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt-BR) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt-BR) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt-BR) (Aftermarket) (Unl) (Homebrew).rvz" size="10467764" crc="5fc30630" md5="f34351cb4beab1f4b0200e64d73c3710" sha1="661b8cd58dde4d0b6885abd469300a4a700a3256"/>
+		<description>Xeno Crisis (World) (Aftermarket)</description>
+		<release name="Xeno Crisis (World) (Aftermarket)" region="World"/>
+		<rom name="Xeno Crisis (World) (Aftermarket).rvz" size="10467764" crc="5fc30630" md5="f34351cb4beab1f4b0200e64d73c3710" sha1="661b8cd58dde4d0b6885abd469300a4a700a3256"/>
 		<url>https://retroachievements.org/game/28378/hashes</url>
 		<hash>E8C02AAF4EFFF2F901B15E8D97378F76</hash>
 	</game>
@@ -1154,11 +1154,11 @@
 		<hash>ba03edfe739e8dcd332287d5666788a8</hash>
 	</game>
 	
-	<game name="Neighbours from Hell (Europe) (En,Fr,De,Es,It)">
+	<game name="Neighbors from Hell (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
-		<description>Neighbours from Hell (Europe) (En,Fr,De,Es,It)</description>
-		<release name="Neighbours from Hell (Europe) (En,Fr,De,Es,It)" region="Europe"/>
-		<rom name="Neighbours from Hell (Europe) (En,Fr,De,Es,It).rvz" size="534594912" crc="62a6f993" md5="4267dafed0cda9ac36d2258c3b9dab87" sha1="e62101e822c76999ba805ee4b3f4aae619ad1554"/>
+		<description>Neighbors from Hell (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Neighbors from Hell (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="Neighbors from Hell (Europe) (En,Fr,De,Es,It).rvz" size="534594912" crc="62a6f993" md5="4267dafed0cda9ac36d2258c3b9dab87" sha1="e62101e822c76999ba805ee4b3f4aae619ad1554"/>
 		<url>https://retroachievements.org/game/30123/hashes</url>
 		<hash>7e27db8b3fc71b991cd31c2f1b6d1afe</hash>
 	</game>

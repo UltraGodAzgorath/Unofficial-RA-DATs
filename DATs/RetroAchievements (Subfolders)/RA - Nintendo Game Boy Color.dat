@@ -4,62 +4,62 @@
 	<header>
 		<name>RA - Nintendo Game Boy Color</name>
 		<description>Nintendo Game Boy Color</description>
-		<category>1G1R</category>
-		<version>20250620</version>
-		<date>20 June 2025</date>
+		<category>Subfolders</category>
+		<version>20250623</version>
+		<date>23 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/6/games</url>
 		<titlecount>362</titlecount>
 		<hashcount>537</hashcount>
 	</header>
-	<game name="Hack/Pokemon Crystal - Crystal Clear (Hack) (ShockSlayer) (v2.5.11)">
+	<game name="Hack/Pokemon - Crystal/Pokemon - Crystal Clear (ShockSlayer) (v2.5.11) (Hack)">
 		<category></category>
-		<description>Pokemon Crystal - Crystal Clear (Hack) (ShockSlayer) (v2.5.11)</description>
-		<rom name="Pokemon Crystal - Crystal Clear (Hack) (ShockSlayer) (v2.5.11).gbc" size="2097152" crc="5af9a949" md5="1123cb2949f5bb4d53a3eab8e4805687" sha1="a1c4da6b0057c98fe4ebea45d6812a484fc69abd"/>
+		<description>Pokemon - Crystal Clear (ShockSlayer) (v2.5.11) (Hack)</description>
+		<rom name="Pokemon - Crystal Clear (ShockSlayer) (v2.5.11) (Hack).gbc" size="2097152" crc="5af9a949" md5="1123cb2949f5bb4d53a3eab8e4805687" sha1="a1c4da6b0057c98fe4ebea45d6812a484fc69abd"/>
 		<url>https://retroachievements.org/game/13389/hashes</url>
 		<hash>1123cb2949f5bb4d53a3eab8e4805687</hash>
 	</game>
-	<game name="Hack/Pokemon Crystal - Crystal Clear (Hack) (Color Filter) (ShockSlayer) (v2.5.11)">
+	<game name="Hack/Pokemon Crystal/Pokemon - Crystal Clear (Color Filter) (ShockSlayer) (v2.5.11) (Hack)">
 		<category></category>
-		<description>Pokemon Crystal - Crystal Clear (Hack) (Color Filter) (ShockSlayer) (v2.5.11)</description>
-		<rom name="Pokemon Crystal - Crystal Clear (Hack) (Color Filter) (ShockSlayer) (v2.5.11).gbc" size="2097152" crc="fc33d126" md5="3737dfc080c16b0ee36db9313186eb79" sha1="6fc677bf7a9db103cb9ee11ac08d26782e69ae41"/>
+		<description>Pokemon - Crystal Clear (Color Filter) (ShockSlayer) (v2.5.11) (Hack)</description>
+		<rom name="Pokemon - Crystal Clear (Color Filter) (ShockSlayer) (v2.5.11) (Hack).gbc" size="2097152" crc="fc33d126" md5="3737dfc080c16b0ee36db9313186eb79" sha1="6fc677bf7a9db103cb9ee11ac08d26782e69ae41"/>
 		<url>https://retroachievements.org/game/13389/hashes</url>
 		<hash>3737dfc080c16b0ee36db9313186eb79</hash>
 	</game>
 	
-	<game name="Hack/LoZLA - Hard Awakening DX (Hack) (v1.1)">
+	<game name="Hack/Legend of Zelda - Link's Awakening/LoZLA - Hard Awakening DX (v1.1) (Hack)">
 		<category></category>
-		<description>LoZLA - Hard Awakening DX (Hack) (v1.1)</description>
-		<rom name="LoZLA - Hard Awakening DX (Hack) (v1.1).gbc" size="1048576" crc="4a00fbb6" md5="004f82ab432f77c3114644337fdd5b08" sha1="4e00aee537f40af3a984c1c8241ab02ec3ed987b"/>
+		<description>LoZLA - Hard Awakening DX (v1.1) (Hack)</description>
+		<rom name="LoZLA - Hard Awakening DX (v1.1) (Hack).gbc" size="1048576" crc="4a00fbb6" md5="004f82ab432f77c3114644337fdd5b08" sha1="4e00aee537f40af3a984c1c8241ab02ec3ed987b"/>
 		<url>https://retroachievements.org/game/6251/hashes</url>
 		<hash>004f82ab432f77c3114644337fdd5b08</hash>
 	</game>
-	<game name="Hack/LoZLA - Hard Awakening DX (Hack) (v1.0)">
+	<game name="Hack/Legend of Zelda - Link's Awakening/LoZLA - Hard Awakening DX (v1.0) (Hack)">
 		<category></category>
-		<description>LoZLA - Hard Awakening DX (Hack) (v1.0)</description>
-		<rom name="LoZLA - Hard Awakening DX (Hack) (v1.0).gbc" size="1048576" crc="cdb45fc5" md5="64b5b80b005cc6e470c7aa9844ac3f8b" sha1="e0fefc1191994495c81b5908cb1071ecad3cf1d2"/>
+		<description>LoZLA - Hard Awakening DX (v1.0) (Hack)</description>
+		<rom name="LoZLA - Hard Awakening DX (v1.0) (Hack).gbc" size="1048576" crc="cdb45fc5" md5="64b5b80b005cc6e470c7aa9844ac3f8b" sha1="e0fefc1191994495c81b5908cb1071ecad3cf1d2"/>
 		<url>https://retroachievements.org/game/6251/hashes</url>
 		<hash>64b5b80b005cc6e470c7aa9844ac3f8b</hash>
 	</game>
 	
-	<game name="Hack/LoZ - New Awakening (Hack)">
+	<game name="Hack/Legend of Zelda - Link's Awakening/LoZLA - New Awakening (Hack)">
 		<category></category>
-		<description>LoZ - New Awakening (Hack)</description>
-		<rom name="LoZ - New Awakening (Hack).gbc" size="1048576" crc="a8f6b512" md5="301f97ba8ef635f053296d9ef53e991c" sha1="c81200724e25a7316725848911859b89c348f7f8"/>
+		<description>LoZLA - New Awakening (Hack)</description>
+		<rom name="LoZLA - New Awakening (Hack).gbc" size="1048576" crc="a8f6b512" md5="301f97ba8ef635f053296d9ef53e991c" sha1="c81200724e25a7316725848911859b89c348f7f8"/>
 		<url>https://retroachievements.org/game/9028/hashes</url>
 		<hash>301f97ba8ef635f053296d9ef53e991c</hash>
 	</game>
 	
-	<game name="Hack/Pokemon Crystal - Pokemon Black and White 3 - Genesis (Hack)">
+	<game name="Hack/Pokemon Crystal/Pokemon - Black and White 3 - Genesis (Hack)">
 		<category></category>
-		<description>Pokemon Crystal - Pokemon Black and White 3 - Genesis (Hack)</description>
-		<rom name="Pokemon Crystal - Pokemon Black and White 3 - Genesis (Hack).gbc" size="2097152" crc="474b13da" md5="8e2b1b69fc12a4e75abd8063a55aa6ef" sha1="d55e4cdb84cac430b0faad08c3e4886b8566fbb2"/>
+		<description>Pokemon - Black and White 3 - Genesis (Hack)</description>
+		<rom name="Pokemon - Black and White 3 - Genesis (Hack).gbc" size="2097152" crc="474b13da" md5="8e2b1b69fc12a4e75abd8063a55aa6ef" sha1="d55e4cdb84cac430b0faad08c3e4886b8566fbb2"/>
 		<url>https://retroachievements.org/game/24118/hashes</url>
 		<hash>8e2b1b69fc12a4e75abd8063a55aa6ef</hash>
 	</game>
 	
-	<game name="Hack/Pokemon - Crystal Kaizo (Hack)">
+	<game name="Hack/Pokemon - Crystal/Pokemon - Crystal Kaizo (Hack)">
 		<category></category>
 		<description>Pokemon - Crystal Kaizo (Hack)</description>
 		<rom name="Pokemon - Crystal Kaizo (Hack).gbc" size="2097152" crc="2d21d207" md5="5f2ec6aa0cc32882cdaa6da4c2912f09" sha1="349f26839c75478ffb0472a56e3348c452c48c0f"/>
@@ -67,7 +67,7 @@
 		<hash>5f2ec6aa0cc32882cdaa6da4c2912f09</hash>
 	</game>
 	
-	<game name="Hack/Pokemon - Fool's Gold (Hack)">
+	<game name="Hack/Pokemon - Crystal/Pokemon - Fool's Gold (Hack)">
 		<category></category>
 		<description>Pokemon - Fool's Gold (Hack)</description>
 		<rom name="Pokemon - Fool's Gold (Hack).gbc" size="2097152" crc="f166f984" md5="b59b68a73e51cc88fbe03a444ee99cce" sha1="ff22d850530e1679a044f5f8074a5585ca7934d2"/>
@@ -75,29 +75,29 @@
 		<hash>b59b68a73e51cc88fbe03a444ee99cce</hash>
 	</game>
 	
-	<game name="Hack/Pokemon Gold 97 - Reforged and Pokemon Silver 97 - Reforged (Hack) (v6.0a)">
+	<game name="Hack/Pokemon Gold 97 - Reforged and Pokemon Silver 97 - Reforged (v6.0a) (Hack)">
 		<category></category>
-		<description>Pokemon Gold 97 - Reforged and Pokemon Silver 97 - Reforged (Hack) (v6.0a)</description>
-		<rom name="Pokemon Gold 97 - Reforged and Pokemon Silver 97 - Reforged (Hack) (v6.0a).gbc" size="2097152" crc="5025d9b8" md5="ebb39e56cc46891de74e890395f34df9" sha1="556a2c83e27e03cc045d62fd025870b039db39f5"/>
+		<description>Pokemon Gold 97 - Reforged and Pokemon Silver 97 - Reforged (v6.0a) (Hack)</description>
+		<rom name="Pokemon Gold 97 - Reforged and Pokemon Silver 97 - Reforged (v6.0a) (Hack).gbc" size="2097152" crc="5025d9b8" md5="ebb39e56cc46891de74e890395f34df9" sha1="556a2c83e27e03cc045d62fd025870b039db39f5"/>
 		<url>https://retroachievements.org/game/17429/hashes</url>
 		<hash>ebb39e56cc46891de74e890395f34df9</hash>
 	</game>
-	<game name="Hack/Pokemon Gold 97 - Reforged and Pokemon Silver 97 - Reforged (Hack) (v3.CHU)">
+	<game name="Hack/Pokemon Gold 97 - Reforged and Pokemon Silver 97 - Reforged (v3.CHU) (Hack)">
 		<category></category>
-		<description>Pokemon Gold 97 - Reforged and Pokemon Silver 97 - Reforged (Hack) (v3.CHU)</description>
-		<rom name="Pokemon Gold 97 - Reforged and Pokemon Silver 97 - Reforged (Hack) (v3.CHU).gbc" size="2097152" crc="922ec6d1" md5="fc111493b98b37d4c115d09add3319e1" sha1="824fdba5241809128077c32fbd9b676cea9913cc"/>
+		<description>Pokemon Gold 97 - Reforged and Pokemon Silver 97 - Reforged (v3.CHU) (Hack)</description>
+		<rom name="Pokemon Gold 97 - Reforged and Pokemon Silver 97 - Reforged (v3.CHU) (Hack).gbc" size="2097152" crc="922ec6d1" md5="fc111493b98b37d4c115d09add3319e1" sha1="824fdba5241809128077c32fbd9b676cea9913cc"/>
 		<url>https://retroachievements.org/game/17429/hashes</url>
 		<hash>fc111493b98b37d4c115d09add3319e1</hash>
 	</game>
-	<game name="Hack/Pokemon Gold 97 - Reforged and Pokemon Silver 97 - Reforged (Hack) (v6.1c)">
+	<game name="Hack/Pokemon Gold 97 - Reforged and Pokemon Silver 97 - Reforged (v6.1c) (Hack)">
 		<category></category>
-		<description>Pokemon Gold 97 - Reforged and Pokemon Silver 97 - Reforged (Hack) (v6.1c)</description>
-		<rom name="Pokemon Gold 97 - Reforged and Pokemon Silver 97 - Reforged (Hack) (v6.1c).gbc" size="2097152" crc="5ac0c8d8" md5="a1477422064292527d7e4a2dc174ba3b" sha1="4756f666285641f71c30cd9f362d7a858462ca75"/>
+		<description>Pokemon Gold 97 - Reforged and Pokemon Silver 97 - Reforged (v6.1c) (Hack)</description>
+		<rom name="Pokemon Gold 97 - Reforged and Pokemon Silver 97 - Reforged (v6.1c) (Hack).gbc" size="2097152" crc="5ac0c8d8" md5="a1477422064292527d7e4a2dc174ba3b" sha1="4756f666285641f71c30cd9f362d7a858462ca75"/>
 		<url>https://retroachievements.org/game/17429/hashes</url>
 		<hash>a1477422064292527d7e4a2dc174ba3b</hash>
 	</game>
 	
-	<game name="Hack/Pokemon - Kalos Crystal (Hack)">
+	<game name="Hack/Pokemon - Crystal/Pokemon - Kalos Crystal (Hack)">
 		<category></category>
 		<description>Pokemon - Kalos Crystal (Hack)</description>
 		<rom name="Pokemon - Kalos Crystal (Hack).gbc" size="2097152" crc="340a8aea" md5="2263a0286dced3d5b2a8b3ce543cd6ee" sha1="b7139896ff5c08eed2480b66a12f093c5c39ad6d"/>
@@ -105,23 +105,23 @@
 		<hash>2263a0286dced3d5b2a8b3ce543cd6ee</hash>
 	</game>
 	
-	<game name="Hack/Pokemon Gold - Orb Version (Hack)">
+	<game name="Hack/Pokemon - Gold/Pokemon - Orb Version (Hack)">
 		<category></category>
-		<description>Pokemon Gold - Orb Version (Hack)</description>
-		<rom name="Pokemon Gold - Orb Version (Hack).gbc" size="2097152" crc="1229f02f" md5="e3de09f287b5e8b60c32b69b76f0cd83" sha1="c9de890529e38a84e528380ecf54aa44af81e52c"/>
+		<description>Pokemon - Orb Version (Hack)</description>
+		<rom name="Pokemon - Orb Version (Hack).gbc" size="2097152" crc="1229f02f" md5="e3de09f287b5e8b60c32b69b76f0cd83" sha1="c9de890529e38a84e528380ecf54aa44af81e52c"/>
 		<url>https://retroachievements.org/game/17358/hashes</url>
 		<hash>e3de09f287b5e8b60c32b69b76f0cd83</hash>
 	</game>
 	
-	<game name="Hack/Pokemon - Pinball Generations (Hack) (v1.5)">
+	<game name="Hack/Pokemon - Pinball/Pokemon - Pinball Generations (v1.5) (Hack)">
 		<category></category>
-		<description>Pokemon - Pinball Generations (Hack) (v1.5)</description>
-		<rom name="Pokemon - Pinball Generations (Hack) (v1.5).gbc" size="2097152" crc="8b04a66f" md5="2eff5bdfc65a4d6419f2e9e7cd396339" sha1="11d113c1e6d51afa641bcbf5b149ef4035eeb914"/>
+		<description>Pokemon - Pinball Generations (v1.5) (Hack)</description>
+		<rom name="Pokemon - Pinball Generations (v1.5) (Hack).gbc" size="2097152" crc="8b04a66f" md5="2eff5bdfc65a4d6419f2e9e7cd396339" sha1="11d113c1e6d51afa641bcbf5b149ef4035eeb914"/>
 		<url>https://retroachievements.org/game/6081/hashes</url>
 		<hash>2eff5bdfc65a4d6419f2e9e7cd396339</hash>
 	</game>
 	
-	<game name="Hack/Pokemon - Polished Crystal (Hack)">
+	<game name="Hack/Pokemon - Crystal/Pokemon - Polished Crystal (Hack)">
 		<category></category>
 		<description>Pokemon - Polished Crystal (Hack)</description>
 		<rom name="Pokemon - Polished Crystal (Hack).gbc" size="2097152" crc="d0266a15" md5="9d3a3026bc3730cdf5d813b0bfe49697" sha1="0e488491b7e027059238ae0a7872bc916ae169d5"/>
@@ -129,44 +129,44 @@
 		<hash>9d3a3026bc3730cdf5d813b0bfe49697</hash>
 	</game>
 	
-	<game name="Hack/Pokemon Crystal - Prism Version (Hack) (v0.94, Build 237)">
+	<game name="Hack/Pokemon - Crystal/Pokemon - Prism Version (v0.94, Build 237) (Hack)">
 		<category></category>
-		<description>Pokemon Crystal - Prism Version (Hack) (v0.94, Build 237)</description>
-		<rom name="Pokemon Crystal - Prism Version (Hack) (v0.94, Build 237).gbc" size="2097152" crc="c97e574b" md5="3cd828587eb8d3fe818d57f99b3a3c95" sha1="bc5585d22eac662b654956b88c2d9f11e7ee862b"/>
+		<description>Pokemon - Prism Version (v0.94, Build 237) (Hack)</description>
+		<rom name="Pokemon - Prism Version (v0.94, Build 237) (Hack).gbc" size="2097152" crc="c97e574b" md5="3cd828587eb8d3fe818d57f99b3a3c95" sha1="bc5585d22eac662b654956b88c2d9f11e7ee862b"/>
 		<url>https://retroachievements.org/game/9491/hashes</url>
 		<hash>3cd828587eb8d3fe818d57f99b3a3c95</hash>
 	</game>
-	<game name="Hack/Pokemon Crystal - Prism Version (Hack) (De)">
+	<game name="Hack/Pokemon - Crystal/Pokemon - Prism Version (De) (Hack)">
 		<category></category>
-		<description>Pokemon Crystal - Prism Version (Hack) (De)</description>
-		<rom name="Pokemon Crystal - Prism Version (Hack) (De).gbc" size="2097152" crc="87b5bb52" md5="489453e65d1b07a2f04a27135acdc5ba" sha1="ef5a91a3deaddf26e5ac19710c2e88c0174d2933"/>
+		<description>Pokemon - Prism Version (De) (Hack)</description>
+		<rom name="Pokemon - Prism Version (De) (Hack).gbc" size="2097152" crc="87b5bb52" md5="489453e65d1b07a2f04a27135acdc5ba" sha1="ef5a91a3deaddf26e5ac19710c2e88c0174d2933"/>
 		<url>https://retroachievements.org/game/9491/hashes</url>
 		<hash>489453e65d1b07a2f04a27135acdc5ba</hash>
 	</game>
-	<game name="Hack/Pokemon Crystal - Prism Version (Hack) (v0.94, Build 235)">
+	<game name="Hack/Pokemon Crystal/Pokemon - Prism Version (v0.94, Build 235) (Hack)">
 		<category></category>
-		<description>Pokemon Crystal - Prism Version (Hack) (v0.94, Build 235)</description>
-		<rom name="Pokemon Crystal - Prism Version (Hack) (v0.94, Build 235).gbc" size="2097152" crc="93a18530" md5="5de4f04f745c1ab89f08f74f63760991" sha1="64d337de7238e44a8fb9d3f754531185d3be3e87"/>
+		<description>Pokemon - Prism Version (v0.94, Build 235) (Hack)</description>
+		<rom name="Pokemon - Prism Version (v0.94, Build 235) (Hack).gbc" size="2097152" crc="93a18530" md5="5de4f04f745c1ab89f08f74f63760991" sha1="64d337de7238e44a8fb9d3f754531185d3be3e87"/>
 		<url>https://retroachievements.org/game/9491/hashes</url>
 		<hash>5de4f04f745c1ab89f08f74f63760991</hash>
 	</game>
-	<game name="Hack/Pokemon Crystal - Prism Version (Hack) (v0.94, Build 229)">
+	<game name="Hack/Pokemon - Crystal/Pokemon - Prism Version (v0.94, Build 229) (Hack)">
 		<category></category>
-		<description>Pokemon Crystal - Prism Version (Hack) (v0.94, Build 229)</description>
-		<rom name="Pokemon Crystal - Prism Version (Hack) (v0.94, Build 229).gbc" size="2097152" crc="3d8ce356" md5="e72a3532f47fe0c7cf3160cf6f80713d" sha1="50db018476be671b9b1cc2e34dcca968b87171bb"/>
+		<description>Pokemon - Prism Version (v0.94, Build 229) (Hack)</description>
+		<rom name="Pokemon - Prism Version (v0.94, Build 229) (Hack).gbc" size="2097152" crc="3d8ce356" md5="e72a3532f47fe0c7cf3160cf6f80713d" sha1="50db018476be671b9b1cc2e34dcca968b87171bb"/>
 		<url>https://retroachievements.org/game/9491/hashes</url>
 		<hash>e72a3532f47fe0c7cf3160cf6f80713d</hash>
 	</game>
 	
-	<game name="Hack/Pokemon TCG - TCG Neo (Hack)">
+	<game name="Hack/Pokemon - Trading Card Game/Pokemon - TCG Neo (Hack)">
 		<category></category>
-		<description>Pokemon TCG - TCG Neo (Hack)</description>
-		<rom name="Pokemon TCG - TCG Neo (Hack).gbc" size="1048576" crc="2a1815ae" md5="f41d48344cea1846a014820aae02d73f" sha1="201015e3e40aa9c710a526d3dda60353ae815c5d"/>
+		<description>Pokemon - TCG Neo (Hack)</description>
+		<rom name="Pokemon - TCG Neo (Hack).gbc" size="1048576" crc="2a1815ae" md5="f41d48344cea1846a014820aae02d73f" sha1="201015e3e40aa9c710a526d3dda60353ae815c5d"/>
 		<url>https://retroachievements.org/game/25072/hashes</url>
 		<hash>f41d48344cea1846a014820aae02d73f</hash>
 	</game>
 	
-	<game name="Hack/LoZOoA - Archipelago (Hack)">
+	<game name="Hack/Legend of Zelda - Oracle of Ages/LoZOoA - Archipelago (Hack)">
 		<category></category>
 		<description>LoZOoA - Archipelago (Hack)</description>
 		<rom name="LoZOoA - Archipelago (Hack).gbc" size="4194304" crc="549440a1" md5="0eb06307fe73c3d23744987457c93515" sha1="90bfa9466bbefbbdcb96cda07a27e60f9792df05"/>
@@ -174,592 +174,599 @@
 		<hash>0eb06307fe73c3d23744987457c93515</hash>
 	</game>
 	
-	<game name="Hack/Pokemon Silver - Touhoumon Ordinary Version (Hack)">
+	<game name="Hack/Pokemon Silver/Pokemon - Touhoumon Ordinary Version (Hack)">
 		<category></category>
-		<description>Pokemon Silver - Touhoumon Ordinary Version (Hack)</description>
-		<rom name="Pokemon Silver - Touhoumon Ordinary Version (Hack).gbc" size="2097152" crc="ec473594" md5="3e19e48ae832620c023f8c5f62129b99" sha1="182b1dbe5c70d70e5341503d303a874c6da9e3da"/>
+		<description>Pokemon - Touhoumon Ordinary Version (Hack)</description>
+		<rom name="Pokemon - Touhoumon Ordinary Version (Hack).gbc" size="2097152" crc="ec473594" md5="3e19e48ae832620c023f8c5f62129b99" sha1="182b1dbe5c70d70e5341503d303a874c6da9e3da"/>
 		<url>https://retroachievements.org/game/16595/hashes</url>
 		<hash>3e19e48ae832620c023f8c5f62129b99</hash>
 	</game>
 	
-	<game name="Hack/Wario Land 3 - The Master Quest (Hack) (v0.15)">
+	<game name="Hack/Wario Land 3 - The Master Quest (v0.15) (Hack)">
 		<category></category>
-		<description>Wario Land 3 - The Master Quest (Hack) (v0.15)</description>
-		<rom name="Wario Land 3 - The Master Quest (Hack) (v0.15).gbc" size="2097152" crc="3fa22f55" md5="3c6e2b0d1f6cb35be8650c9cd28e2d9a" sha1="18c7631557b190e8c417829e3b70eaa0d65a02e7"/>
+		<description>Wario Land 3 - The Master Quest (v0.15) (Hack)</description>
+		<rom name="Wario Land 3 - The Master Quest (v0.15) (Hack).gbc" size="2097152" crc="3fa22f55" md5="3c6e2b0d1f6cb35be8650c9cd28e2d9a" sha1="18c7631557b190e8c417829e3b70eaa0d65a02e7"/>
 		<url>https://retroachievements.org/game/14226/hashes</url>
 		<hash>3c6e2b0d1f6cb35be8650c9cd28e2d9a</hash>
 	</game>
-	<game name="Hack/Wario Land 3 - The Master Quest (Hack) (v0.14)">
+	<game name="Hack/Wario Land 3 - The Master Quest (v0.14) (Hack)">
 		<category></category>
-		<description>Wario Land 3 - The Master Quest (Hack) (v0.14)</description>
-		<rom name="Wario Land 3 - The Master Quest (Hack) (v0.14).gbc" size="2097152" crc="e85d3312" md5="b706ffbac4d97d13573bb20c0c2dace2" sha1="c16aba14c710b7b4b92aaf9cb0b63e800c9967ee"/>
+		<description>Wario Land 3 - The Master Quest (v0.14) (Hack)</description>
+		<rom name="Wario Land 3 - The Master Quest (v0.14) (Hack).gbc" size="2097152" crc="e85d3312" md5="b706ffbac4d97d13573bb20c0c2dace2" sha1="c16aba14c710b7b4b92aaf9cb0b63e800c9967ee"/>
 		<url>https://retroachievements.org/game/14226/hashes</url>
 		<hash>b706ffbac4d97d13573bb20c0c2dace2</hash>
 	</game>
 	
-	<game name="Homebrew/Five Nights at Freddy's (Homebrew) (Demo)">
+	<game name="Homebrew/Five Nights at Freddy's (World) (v0.5) (Aftermarket)">
 		<category></category>
-		<description>Five Nights at Freddy's (Homebrew) (Demo)</description>
-		<rom name="Five Nights at Freddy's (Homebrew) (Demo).gbc" size="524288" crc="b5d08d14" md5="59e32f8c38b3400bc147a470c88fb582" sha1="cbb21e03b63f72648ac3dfbc5fc5818fd15b6d3c"/>
+		<description>Five Nights at Freddy's (World) (v0.5) (Aftermarket)</description>
+		<rom name="Five Nights at Freddy's (World) (v0.5) (Aftermarket).gbc" size="524288" crc="b5d08d14" md5="59e32f8c38b3400bc147a470c88fb582" sha1="cbb21e03b63f72648ac3dfbc5fc5818fd15b6d3c"/>
 		<url>https://retroachievements.org/game/25397/hashes</url>
 		<hash>59e32f8c38b3400bc147a470c88fb582</hash>
 	</game>
 	
-	<game name="Homebrew/Metroid Dread (Homebrew) (Demo)">
+	<game name="Homebrew/Metroid Dread Demake (World) (v1.0) (Aftermarket)">
 		<category></category>
-		<description>Metroid Dread (Homebrew) (Demo)</description>
-		<rom name="Metroid Dread (Homebrew) (Demo).gbc" size="262144" crc="858bab79" md5="b694cf3747aea6ac213cf2401f0ad421" sha1="a49810d37a58b02ed5af7cd9a07b54d93f812223"/>
+		<description>Metroid Dread Demake (World) (v1.0) (Aftermarket)</description>
+		<rom name="Metroid Dread Demake (World) (v1.0) (Aftermarket).gbc" size="262144" crc="858bab79" md5="b694cf3747aea6ac213cf2401f0ad421" sha1="a49810d37a58b02ed5af7cd9a07b54d93f812223"/>
 		<url>https://retroachievements.org/game/6396/hashes</url>
 		<hash>b694cf3747aea6ac213cf2401f0ad421</hash>
 	</game>
 	
-	<game name="Homebrew/Mina the Hollower GBC Demake (Homebrew) (Demo)">
+	<game name="Homebrew/Mina the Hollower GBC Demake (World) (Aftermarket)">
 		<category></category>
-		<description>Mina the Hollower GBC Demake (Homebrew) (Demo)</description>
-		<rom name="Mina the Hollower GBC Demake (Homebrew) (Demo).gbc" size="262144" crc="66af8f9e" md5="ae74b0c434f0097cfd674a66d47062cc" sha1="1d1f073fef78599f8074c80c24a1b8ea72f78361"/>
+		<description>Mina the Hollower GBC Demake (World) (Aftermarket)</description>
+		<rom name="Mina the Hollower GBC Demake (World) (Aftermarket).gbc" size="262144" crc="66af8f9e" md5="ae74b0c434f0097cfd674a66d47062cc" sha1="1d1f073fef78599f8074c80c24a1b8ea72f78361"/>
 		<url>https://retroachievements.org/game/18707/hashes</url>
 		<hash>ae74b0c434f0097cfd674a66d47062cc</hash>
 	</game>
 	
-	<game name="Homebrew/Rick Astley - The Game (Homebrew) (Hack)">
+	<game name="Homebrew/Rick Astley - The Game (World) (En,Fr) (v20211212) (Aftermarket)">
 		<category></category>
-		<description>Rick Astley - The Game (Homebrew) (Hack)</description>
-		<rom name="Rick Astley - The Game (Homebrew) (Hack).gbc" size="262144" crc="7caeefc9" md5="93d2d9acc1e9cd454ccb575100ce5070" sha1="cb97fb2041a732fe9bae7647294502fc7befee18"/>
+		<description>Rick Astley - The Game (World) (En,Fr) (v20211212) (Aftermarket)</description>
+		<rom name="Rick Astley - The Game (World) (En,Fr) (v20211212) (Aftermarket).gbc" size="262144" crc="7caeefc9" md5="93d2d9acc1e9cd454ccb575100ce5070" sha1="cb97fb2041a732fe9bae7647294502fc7befee18"/>
 		<url>https://retroachievements.org/game/18258/hashes</url>
 		<hash>93d2d9acc1e9cd454ccb575100ce5070</hash>
 	</game>
 	
-	<game name="Homebrew/20 Second Platformer, A (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)">
+	<game name="Homebrew/20 Second Platformer, A (World) (v1.1) (GB Compatible) (Aftermarket)">
 		<category></category>
-		<description>20 Second Platformer, A (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)</description>
-		<rom name="20 Second Platformer, A (World) (v1.1) (GB Compatible) (Aftermarket) (Unl).gbc" size="131072" crc="2edc4684" md5="900f66d94349339d3b416b5ff0806314" sha1="a00b40a3f31bd875f4a0376d22099c3822c9ef98"/>
+		<description>20 Second Platformer, A (World) (v1.1) (GB Compatible) (Aftermarket)</description>
+		<rom name="20 Second Platformer, A (World) (v1.1) (GB Compatible) (Aftermarket).gbc" size="131072" crc="2edc4684" md5="900f66d94349339d3b416b5ff0806314" sha1="a00b40a3f31bd875f4a0376d22099c3822c9ef98"/>
 		<url>https://retroachievements.org/game/22589/hashes</url>
 		<hash>900f66d94349339d3b416b5ff0806314</hash>
 	</game>
 	
-	<game name="Homebrew/Best Text Adventure, The (Homebrew)">
+	<game name="Homebrew/Best Text Adventure, The (World) (Aftermarket)">
 		<category></category>
-		<description>Best Text Adventure, The (Homebrew)</description>
-		<rom name="Best Text Adventure, The (Homebrew).gbc" size="1048576" crc="7b13d437" md5="e15744f9e33180f5825c0242900f5a89" sha1="6689a6180096160a44349338e29f2002f2f26da1"/>
+		<description>Best Text Adventure, The (World) (Aftermarket)</description>
+		<rom name="Best Text Adventure, The (World) (Aftermarket).gbc" size="1048576" crc="7b13d437" md5="e15744f9e33180f5825c0242900f5a89" sha1="6689a6180096160a44349338e29f2002f2f26da1"/>
 		<url>https://retroachievements.org/game/29687/hashes</url>
 		<hash>e15744f9e33180f5825c0242900f5a89</hash>
 	</game>
 	
-	<game name="Homebrew/Blinky's Revenge (World) (Aftermarket) (Unl)">
+	<game name="Homebrew/Blinky's Revenge (World) (Aftermarket)">
 		<category></category>
-		<description>Blinky's Revenge (World) (Aftermarket) (Unl)</description>
-		<rom name="Blinky's Revenge (World) (Aftermarket) (Unl).gbc" size="262144" crc="2d2f9c2b" md5="4948bfdacce45f5c1d0facab23f3ba54" sha1="1c39cc02396c74e7b0b282ead510e94c77ff7f1e"/>
+		<description>Blinky's Revenge (World) (Aftermarket)</description>
+		<rom name="Blinky's Revenge (World) (Aftermarket).gbc" size="262144" crc="2d2f9c2b" md5="4948bfdacce45f5c1d0facab23f3ba54" sha1="1c39cc02396c74e7b0b282ead510e94c77ff7f1e"/>
 		<url>https://retroachievements.org/game/22124/hashes</url>
 		<hash>4948bfdacce45f5c1d0facab23f3ba54</hash>
 	</game>
 	
-	<game name="Homebrew/Borbo's Quest (World) (GB Compatible) (Aftermarket) (Unl)">
+	<game name="Homebrew/Borbo's Quest (World) (GB Compatible) (Aftermarket)">
 		<category></category>
-		<description>Borbo's Quest (World) (GB Compatible) (Aftermarket) (Unl)</description>
-		<rom name="Borbo's Quest (World) (GB Compatible) (Aftermarket) (Unl).gbc" size="1048576" crc="e92ce3d4" md5="71b5b10dd41f6c8449cb9ca52dd6e590" sha1="1ddf864188dfd741ccda0b0715e75e162d212605"/>
+		<description>Borbo's Quest (World) (GB Compatible) (Aftermarket)</description>
+		<rom name="Borbo's Quest (World) (GB Compatible) (Aftermarket).gbc" size="1048576" crc="e92ce3d4" md5="71b5b10dd41f6c8449cb9ca52dd6e590" sha1="1ddf864188dfd741ccda0b0715e75e162d212605"/>
 		<url>https://retroachievements.org/game/29774/hashes</url>
 		<hash>71b5b10dd41f6c8449cb9ca52dd6e590</hash>
 	</game>
 	
-	<game name="Homebrew/Bub-O Escape (World) (v2.5) (Aftermarket) (Unl)">
+	<game name="Homebrew/Bub-O Escape (World) (v2.5) (Aftermarket)">
 		<category></category>
-		<description>Bub-O Escape (World) (v2.5) (Aftermarket) (Unl)</description>
-		<rom name="Bub-O Escape (World) (v2.5) (Aftermarket) (Unl).gbc" size="1048576" crc="7440d086" md5="0a39332adc6d7d82bf1e4f58d3062615" sha1="2f65ac7a2345431f1cb6053cdb841c1c5541158f"/>
+		<description>Bub-O Escape (World) (v2.5) (Aftermarket)</description>
+		<rom name="Bub-O Escape (World) (v2.5) (Aftermarket).gbc" size="1048576" crc="7440d086" md5="0a39332adc6d7d82bf1e4f58d3062615" sha1="2f65ac7a2345431f1cb6053cdb841c1c5541158f"/>
 		<url>https://retroachievements.org/game/25705/hashes</url>
 		<hash>0a39332adc6d7d82bf1e4f58d3062615</hash>
 	</game>
 	
-	<game name="Homebrew/BULB! (World) (v2.5) (Digital) (Aftermarket) (Unl)">
+	<game name="Homebrew/BULB! (World) (v2.5) (Digital) (Aftermarket)">
 		<category></category>
-		<description>BULB! (World) (v2.5) (Digital) (Aftermarket) (Unl)</description>
-		<rom name="BULB! (World) (v2.5) (Digital) (Aftermarket) (Unl).gbc" size="524288" crc="650114a2" md5="5ec1bf9b053b191634c3d32638878132" sha1="0c32d4b48a34614fb11fc69c17187d35ee22fabe"/>
+		<description>BULB! (World) (v2.5) (Digital) (Aftermarket)</description>
+		<rom name="BULB! (World) (v2.5) (Digital) (Aftermarket).gbc" size="524288" crc="650114a2" md5="5ec1bf9b053b191634c3d32638878132" sha1="0c32d4b48a34614fb11fc69c17187d35ee22fabe"/>
 		<url>https://retroachievements.org/game/19793/hashes</url>
 		<hash>5ec1bf9b053b191634c3d32638878132</hash>
 	</game>
 	
-	<game name="Homebrew/Castlevania - Circle of the Moon - GBC Edition (Homebrew)">
+	<game name="Homebrew/Castlevania - Circle of the Moon - GBC Edition (World) (v2.0) (Aftermarket)">
 		<category></category>
-		<description>Castlevania - Circle of the Moon - GBC Edition (Homebrew)</description>
-		<rom name="Castlevania - Circle of the Moon - GBC Edition (Homebrew).gbc" size="262144" crc="5312f81c" md5="4daf9a94ff78252257e22a34516e5105" sha1="05d553049a1ba1999e5891097471bff1b882cee7"/>
+		<description>Castlevania - Circle of the Moon - GBC Edition (World) (v2.0) (Aftermarket)</description>
+		<rom name="Castlevania - Circle of the Moon - GBC Edition (World) (v2.0) (Aftermarket).gbc" size="262144" crc="5312f81c" md5="4daf9a94ff78252257e22a34516e5105" sha1="05d553049a1ba1999e5891097471bff1b882cee7"/>
 		<url>https://retroachievements.org/game/19541/hashes</url>
 		<hash>4daf9a94ff78252257e22a34516e5105</hash>
 	</game>
 	
-	<game name="Homebrew/Combo Fishing (Homebrew)">
+	<game name="Homebrew/Combo Fishing (World) (Aftermarket)">
 		<category></category>
-		<description>Combo Fishing (Homebrew)</description>
-		<rom name="Combo Fishing (Homebrew).gbc" size="524288" crc="5c307010" md5="029cd8ae6b130b91918597239464cc35" sha1="61217782f0947a6c947c8a12eff12a8b9ce6d120"/>
+		<description>Combo Fishing (World) (Aftermarket)</description>
+		<rom name="Combo Fishing (World) (Aftermarket).gbc" size="524288" crc="5c307010" md5="029cd8ae6b130b91918597239464cc35" sha1="61217782f0947a6c947c8a12eff12a8b9ce6d120"/>
 		<url>https://retroachievements.org/game/31934/hashes</url>
 		<hash>029cd8ae6b130b91918597239464cc35</hash>
 	</game>
 	
-	<game name="Homebrew/Dangan GB2 (Homebrew)">
+	<game name="Homebrew/Dangan GB2 (World) (Aftermarket)">
 		<category></category>
-		<description>Dangan GB2 (Homebrew)</description>
-		<rom name="Dangan GB2 (Homebrew).gbc" size="524288" crc="c5d3d66a" md5="82ab96cba5233ec4a07cf21d81e625b7" sha1="a8f61ff5049e19b1b30a29bf9d996cb40b1f55c3"/>
+		<description>Dangan GB2 (World) (Aftermarket)</description>
+		<rom name="Dangan GB2 (World) (Aftermarket).gbc" size="524288" crc="c5d3d66a" md5="82ab96cba5233ec4a07cf21d81e625b7" sha1="a8f61ff5049e19b1b30a29bf9d996cb40b1f55c3"/>
 		<url>https://retroachievements.org/game/26734/hashes</url>
 		<hash>82ab96cba5233ec4a07cf21d81e625b7</hash>
 	</game>
 	
-	<game name="Homebrew/Dashosaur DX (Homebrew)">
+	<game name="Homebrew/Dashosaur DX (World) (Aftermarket)">
 		<category></category>
-		<description>Dashosaur DX (Homebrew)</description>
-		<rom name="Dashosaur DX (Homebrew).gb" size="524288" crc="4e2205be" md5="598881aec8a8044ff00d353567a54f4a" sha1="ee44f1c3fdb11c924c9f3590d669c56d87d727f1"/>
+		<description>Dashosaur DX (World) (Aftermarket)</description>
+		<rom name="Dashosaur DX (World) (Aftermarket).gb" size="524288" crc="4e2205be" md5="598881aec8a8044ff00d353567a54f4a" sha1="ee44f1c3fdb11c924c9f3590d669c56d87d727f1"/>
 		<url>https://retroachievements.org/game/33493/hashes</url>
 		<hash>598881aec8a8044ff00d353567a54f4a</hash>
 	</game>
 	
-	<game name="Homebrew/Date with Falco (Homebrew)">
+	<game name="Homebrew/Date with Falco (World) (Aftermarket)">
 		<category></category>
-		<description>Date with Falco (Homebrew)</description>
-		<rom name="Date with Falco (Homebrew).gbc" size="524288" crc="bd513f20" md5="1145a60834a2f5910559e33cde6b6d1a" sha1="58cf2e1959e2c563117cf3c47017f4b9a94f4df2"/>
+		<description>Date with Falco (World) (Aftermarket)</description>
+		<rom name="Date with Falco (World) (Aftermarket).gbc" size="524288" crc="bd513f20" md5="1145a60834a2f5910559e33cde6b6d1a" sha1="58cf2e1959e2c563117cf3c47017f4b9a94f4df2"/>
 		<url>https://retroachievements.org/game/31974/hashes</url>
 		<hash>1145a60834a2f5910559e33cde6b6d1a</hash>
 	</game>
 	
-	<game name="Homebrew/Days Without (Homebrew)">
+	<game name="Homebrew/Days Without (World) (Aftermarket)">
 		<category></category>
-		<description>Days Without (Homebrew)</description>
-		<rom name="Days Without (Homebrew).gbc" size="262144" crc="f771966a" md5="a51e8561778943f794942070f137ecb6" sha1="6d8463829db7307fbf7f9d562678edf2ead0a123"/>
+		<description>Days Without (World) (Aftermarket)</description>
+		<rom name="Days Without (World) (Aftermarket).gbc" size="262144" crc="f771966a" md5="a51e8561778943f794942070f137ecb6" sha1="6d8463829db7307fbf7f9d562678edf2ead0a123"/>
 		<url>https://retroachievements.org/game/28796/hashes</url>
 		<hash>a51e8561778943f794942070f137ecb6</hash>
 	</game>
 	
-	<game name="Homebrew/Enceladus (Homebrew)">
+	<game name="Homebrew/Enceladus (World) (Aftermarket)">
 		<category></category>
-		<description>Enceladus (Homebrew)</description>
-		<rom name="Enceladus (Homebrew).gbc" size="524288" crc="5322fa2b" md5="70b4c73e34c53ac818d15daa6682c396" sha1="355e76f7cf46b383320eb3ad8e40fc1db58f9ad1"/>
+		<description>Enceladus (World) (Aftermarket)</description>
+		<rom name="Enceladus (World) (Aftermarket).gbc" size="524288" crc="5322fa2b" md5="70b4c73e34c53ac818d15daa6682c396" sha1="355e76f7cf46b383320eb3ad8e40fc1db58f9ad1"/>
 		<url>https://retroachievements.org/game/30128/hashes</url>
 		<hash>70b4c73e34c53ac818d15daa6682c396</hash>
 	</game>
 	
-	<game name="Homebrew/Fable - 20th Anniversary Demake (Homebrew)">
+	<game name="Homebrew/Fable - 20th Anniversary Demake (World) (Aftermarket)">
 		<category></category>
-		<description>Fable - 20th Anniversary Demake (Homebrew)</description>
-		<rom name="Fable - 20th Anniversary Demake (Homebrew).gbc" size="2097152" crc="b7cdf437" md5="160d4da4a787f957fbd5079db6ee86b2" sha1="2910f9cc95a2e521abf63d7b79b329216145997c"/>
+		<description>Fable - 20th Anniversary Demake (World) (Aftermarket)</description>
+		<rom name="Fable - 20th Anniversary Demake (World) (Aftermarket).gbc" size="2097152" crc="b7cdf437" md5="160d4da4a787f957fbd5079db6ee86b2" sha1="2910f9cc95a2e521abf63d7b79b329216145997c"/>
 		<url>https://retroachievements.org/game/33577/hashes</url>
 		<hash>160d4da4a787f957fbd5079db6ee86b2</hash>
 	</game>
 	
-	<game name="Homebrew/Feed IT Souls (World) (v1.4) (Aftermarket) (Unl)">
+	<game name="Homebrew/Feed IT Souls (World) (v1.4) (Aftermarket)">
 		<category></category>
-		<description>Feed IT Souls (World) (v1.4) (Aftermarket) (Unl)</description>
-		<rom name="Feed IT Souls (World) (v1.4) (Aftermarket) (Unl).gbc" size="1048576" crc="f87760b3" md5="6d66fe14e66911e36c483ecfccc01615" sha1="ea0dd170812d1bcc38de1cabe12a372cd2178c95"/>
+		<description>Feed IT Souls (World) (v1.4) (Aftermarket)</description>
+		<rom name="Feed IT Souls (World) (v1.4) (Aftermarket).gbc" size="1048576" crc="f87760b3" md5="6d66fe14e66911e36c483ecfccc01615" sha1="ea0dd170812d1bcc38de1cabe12a372cd2178c95"/>
 		<url>https://retroachievements.org/game/25708/hashes</url>
 		<hash>6d66fe14e66911e36c483ecfccc01615</hash>
 	</game>
 	
-	<game name="Homebrew/Fighter on the Path of Glory (World) (En,Ja) (v1.00) (GB Compatible) (Aftermarket) (Unl)">
+	<game name="Homebrew/Fighter on the Path of Glory (World) (En,Ja) (v1.00) (GB Compatible) (Aftermarket)">
 		<category></category>
-		<description>Fighter on the Path of Glory (World) (En,Ja) (v1.00) (GB Compatible) (Aftermarket) (Unl)</description>
-		<rom name="Fighter on the Path of Glory (World) (En,Ja) (v1.00) (GB Compatible) (Aftermarket) (Unl).gbc" size="524288" crc="38f208f3" md5="5be268f2761c76de1a0f86efc0f6bd50" sha1="a4034a72dfacfe33fc924ab689f9a9303656c43d"/>
+		<description>Fighter on the Path of Glory (World) (En,Ja) (v1.00) (GB Compatible) (Aftermarket)</description>
+		<rom name="Fighter on the Path of Glory (World) (En,Ja) (v1.00) (GB Compatible) (Aftermarket).gbc" size="524288" crc="38f208f3" md5="5be268f2761c76de1a0f86efc0f6bd50" sha1="a4034a72dfacfe33fc924ab689f9a9303656c43d"/>
 		<url>https://retroachievements.org/game/30820/hashes</url>
 		<hash>5be268f2761c76de1a0f86efc0f6bd50</hash>
 	</game>
 	
-	<game name="Homebrew/G-ZERO World GP (Homebrew)">
+	<game name="Homebrew/G-ZERO World GP (World) (Aftermarket)">
 		<category></category>
-		<description>G-ZERO World GP (Homebrew)</description>
-		<rom name="G-ZERO World GP (Homebrew).gbc" size="262144" crc="2f813033" md5="3e151d9bfd7b36a80ef475a98863a001" sha1="0407a3fc4c8c6711cde8fe9d07860dc3ef075f5e"/>
+		<description>G-ZERO World GP (World) (Aftermarket)</description>
+		<rom name="G-ZERO World GP (World) (Aftermarket).gbc" size="262144" crc="2f813033" md5="3e151d9bfd7b36a80ef475a98863a001" sha1="0407a3fc4c8c6711cde8fe9d07860dc3ef075f5e"/>
 		<url>https://retroachievements.org/game/31323/hashes</url>
 		<hash>3e151d9bfd7b36a80ef475a98863a001</hash>
 	</game>
 	
-	<game name="Homebrew/Go Catch 'Em (World) (v20220225) (Aftermarket) (Health Potion Studios) (Homebrew)">
+	<game name="Homebrew/Go Catch 'Em (World) (v20220225) (Health Potion Studios) (Aftermarket)">
 		<category></category>
-		<description>Go Catch 'Em (World) (v20220225) (Aftermarket) (Health Potion Studios) (Homebrew)</description>
-		<rom name="Go Catch 'Em (World) (v20220225) (Aftermarket) (Health Potion Studios) (Homebrew).gbc" size="131072" crc="2bc7966a" md5="bdb05d090a09740ae2c176b218b9fb8e" sha1="3fb6e11f707e0a3f768245e789897532b6fe79be"/>
+		<description>Go Catch 'Em (World) (v20220225) (Health Potion Studios) (Aftermarket)</description>
+		<rom name="Go Catch 'Em (World) (v20220225) (Health Potion Studios) (Aftermarket).gbc" size="131072" crc="2bc7966a" md5="bdb05d090a09740ae2c176b218b9fb8e" sha1="3fb6e11f707e0a3f768245e789897532b6fe79be"/>
 		<url>https://retroachievements.org/game/18811/hashes</url>
 		<hash>bdb05d090a09740ae2c176b218b9fb8e</hash>
 	</game>
 	
-	<game name="Homebrew/Grimace's Birthday (World) (v1.3) (Aftermarket) (Unl)">
+	<game name="Homebrew/Grimace's Birthday (World) (v1.3) (Aftermarket)">
 		<category></category>
-		<description>Grimace's Birthday (World) (v1.3) (Aftermarket) (Unl)</description>
-		<rom name="Grimace's Birthday (World) (v1.3) (Aftermarket) (Unl).gbc" size="1048576" crc="ab41a9ef" md5="2b8b271eae1f3b2e5b3053b22273fa44" sha1="d8e727745e285f5e467f5eccbfd30ee175bafc2e"/>
+		<description>Grimace's Birthday (World) (v1.3) (Aftermarket)</description>
+		<rom name="Grimace's Birthday (World) (v1.3) (Aftermarket).gbc" size="1048576" crc="ab41a9ef" md5="2b8b271eae1f3b2e5b3053b22273fa44" sha1="d8e727745e285f5e467f5eccbfd30ee175bafc2e"/>
 		<url>https://retroachievements.org/game/14606/hashes</url>
 		<hash>2b8b271eae1f3b2e5b3053b22273fa44</hash>
 	</game>
-	<game name="Homebrew/Grimace's Birthday (World) (v1.6) (Aftermarket) (Unl)">
+	<game name="Homebrew/Grimace's Birthday (World) (v1.6) (Aftermarket)">
 		<category></category>
-		<description>Grimace's Birthday (World) (v1.6) (Aftermarket) (Unl)</description>
-		<rom name="Grimace's Birthday (World) (v1.6) (Aftermarket) (Unl).gbc" size="1048576" crc="a7b59d7b" md5="5246b47da10ed6e48cbf58b5ee81e5c1" sha1="295fdc3218d1699dea6d5832d068b721fccf9bd4"/>
+		<description>Grimace's Birthday (World) (v1.6) (Aftermarket)</description>
+		<rom name="Grimace's Birthday (World) (v1.6) (Aftermarket).gbc" size="1048576" crc="a7b59d7b" md5="5246b47da10ed6e48cbf58b5ee81e5c1" sha1="295fdc3218d1699dea6d5832d068b721fccf9bd4"/>
 		<url>https://retroachievements.org/game/14606/hashes</url>
 		<hash>5246b47da10ed6e48cbf58b5ee81e5c1</hash>
 	</game>
-	<game name="Homebrew/Grimace's Birthday (World) (v1.4) (Aftermarket) (Unl)">
+	<game name="Homebrew/Grimace's Birthday (World) (v1.4) (Aftermarket)">
 		<category></category>
-		<description>Grimace's Birthday (World) (v1.4) (Aftermarket) (Unl)</description>
-		<rom name="Grimace's Birthday (World) (v1.4) (Aftermarket) (Unl).gbc" size="1048576" crc="9baa5f46" md5="7a0eadc011668df92933dec1e5b316b0" sha1="d247c03119ac14f97fdeeaa6bf0defa98e35fa17"/>
+		<description>Grimace's Birthday (World) (v1.4) (Aftermarket)</description>
+		<rom name="Grimace's Birthday (World) (v1.4) (Aftermarket).gbc" size="1048576" crc="9baa5f46" md5="7a0eadc011668df92933dec1e5b316b0" sha1="d247c03119ac14f97fdeeaa6bf0defa98e35fa17"/>
 		<url>https://retroachievements.org/game/14606/hashes</url>
 		<hash>7a0eadc011668df92933dec1e5b316b0</hash>
 	</game>
-	<game name="Homebrew/Grimace's Birthday (World) (v1.5) (Aftermarket) (Unl)">
+	<game name="Homebrew/Grimace's Birthday (World) (v1.5) (Aftermarket)">
 		<category></category>
-		<description>Grimace's Birthday (World) (v1.5) (Aftermarket) (Unl)</description>
-		<rom name="Grimace's Birthday (World) (v1.5) (Aftermarket) (Unl).gbc" size="1048576" crc="f8e8e1f3" md5="f80034c5241a063e200bce777a9f41fa" sha1="a3fdfe3981e800fa7c73ff989bc06426f668c331"/>
+		<description>Grimace's Birthday (World) (v1.5) (Aftermarket)</description>
+		<rom name="Grimace's Birthday (World) (v1.5) (Aftermarket).gbc" size="1048576" crc="f8e8e1f3" md5="f80034c5241a063e200bce777a9f41fa" sha1="a3fdfe3981e800fa7c73ff989bc06426f668c331"/>
 		<url>https://retroachievements.org/game/14606/hashes</url>
 		<hash>f80034c5241a063e200bce777a9f41fa</hash>
 	</game>
-	<game name="Homebrew/Grimace's Birthday (World) (v1.7) (Aftermarket) (Unl)">
+	<game name="Homebrew/Grimace's Birthday (World) (v1.7) (Aftermarket)">
 		<category></category>
-		<description>Grimace's Birthday (World) (v1.7) (Aftermarket) (Unl)</description>
-		<rom name="Grimace's Birthday (World) (v1.7) (Aftermarket) (Unl).gbc" size="1048576" crc="f3879ef0" md5="264d3c43bf615252c32370b5b0613c78" sha1="27d7ee2f31bf575185711217c3cc9e08cbc5928a"/>
+		<description>Grimace's Birthday (World) (v1.7) (Aftermarket)</description>
+		<rom name="Grimace's Birthday (World) (v1.7) (Aftermarket).gbc" size="1048576" crc="f3879ef0" md5="264d3c43bf615252c32370b5b0613c78" sha1="27d7ee2f31bf575185711217c3cc9e08cbc5928a"/>
 		<url>https://retroachievements.org/game/14606/hashes</url>
 		<hash>264d3c43bf615252c32370b5b0613c78</hash>
 	</game>
 	
-	<game name="Homebrew/Hatsune Miku Bomb Squad (Homebrew)">
+	<game name="Homebrew/Hatsune Miku Bomb Squad (World) (Aftermarket)">
 		<category></category>
-		<description>Hatsune Miku Bomb Squad (Homebrew)</description>
-		<rom name="Hatsune Miku Bomb Squad (Homebrew).gbc" size="524288" crc="b5465484" md5="6364d4ca7ea0f83981e97c12fd08ea97" sha1="4592070930a50e7f21ec10ecf0ef3d2365aec9a7"/>
+		<description>Hatsune Miku Bomb Squad (World) (Aftermarket)</description>
+		<rom name="Hatsune Miku Bomb Squad (World) (Aftermarket).gbc" size="524288" crc="b5465484" md5="6364d4ca7ea0f83981e97c12fd08ea97" sha1="4592070930a50e7f21ec10ecf0ef3d2365aec9a7"/>
 		<url>https://retroachievements.org/game/30725/hashes</url>
 		<hash>6364d4ca7ea0f83981e97c12fd08ea97</hash>
 	</game>
 	
-	<game name="Homebrew/Hime's Quest (World) (Digital) (Aftermarket) (Unl)">
+	<game name="Homebrew/Hime's Quest (World) (Digital) (Aftermarket)">
 		<category></category>
-		<description>Hime's Quest (World) (Digital) (Aftermarket) (Unl)</description>
-		<rom name="Hime's Quest (World) (Digital) (Aftermarket) (Unl).gbc" size="2097152" crc="de5c21c2" md5="e16141de4a31074438eb44e808fb6789" sha1="7b6672c46c23aaa282bd4fded0713c6dfae2eb66"/>
+		<description>Hime's Quest (World) (Digital) (Aftermarket)</description>
+		<rom name="Hime's Quest (World) (Digital) (Aftermarket).gbc" size="2097152" crc="de5c21c2" md5="e16141de4a31074438eb44e808fb6789" sha1="7b6672c46c23aaa282bd4fded0713c6dfae2eb66"/>
 		<url>https://retroachievements.org/game/22353/hashes</url>
 		<hash>e16141de4a31074438eb44e808fb6789</hash>
 	</game>
 	
-	<game name="Homebrew/Hong Kong 2099 (Homebrew)">
+	<game name="Homebrew/Hong Kong 2099 (World) (Aftermarket)">
 		<category></category>
-		<description>Hong Kong 2099 (Homebrew)</description>
-		<rom name="Hong Kong 2099 (Homebrew).gbc" size="524288" crc="28f9e064" md5="c1dd8c5952ea02286616d3ff0d8c54cb" sha1="ee17c7e334d17a78bd120c1de41a7020b57344db"/>
+		<description>Hong Kong 2099 (World) (Aftermarket)</description>
+		<rom name="Hong Kong 2099 (World) (Aftermarket).gbc" size="524288" crc="28f9e064" md5="c1dd8c5952ea02286616d3ff0d8c54cb" sha1="ee17c7e334d17a78bd120c1de41a7020b57344db"/>
 		<url>https://retroachievements.org/game/12775/hashes</url>
 		<hash>c1dd8c5952ea02286616d3ff0d8c54cb</hash>
 	</game>
 	
-	<game name="Homebrew/Invasion of the Geminorons (World) (Aftermarket) (Unl)">
+	<game name="Homebrew/Invasion of the Geminorons (World) (Aftermarket)">
 		<category></category>
-		<description>Invasion of the Geminorons (World) (Aftermarket) (Unl)</description>
-		<rom name="Invasion of the Geminorons (World) (Aftermarket) (Unl).gbc" size="32768" crc="334a2b42" md5="e23dccb89bb7741e37f3ffd10287e232" sha1="f5c7426fea6833606f2fab9ad7e2369ded3180f3"/>
+		<description>Invasion of the Geminorons (World) (Aftermarket)</description>
+		<rom name="Invasion of the Geminorons (World) (Aftermarket).gbc" size="32768" crc="334a2b42" md5="e23dccb89bb7741e37f3ffd10287e232" sha1="f5c7426fea6833606f2fab9ad7e2369ded3180f3"/>
 		<url>https://retroachievements.org/game/28609/hashes</url>
 		<hash>e23dccb89bb7741e37f3ffd10287e232</hash>
 	</game>
 	
-	<game name="Homebrew/Inventory Full (Homebrew)">
+	<game name="Homebrew/Inventory Full (World) (Aftermarket)">
 		<category></category>
-		<description>Inventory Full (Homebrew)</description>
-		<rom name="Inventory Full (Homebrew).gbc" size="524288" crc="36174683" md5="e9bf8b6977020c869dc5f2d3304961c2" sha1="ff5fc33f6009a8819c6cbde00174c074aab3ecef"/>
+		<description>Inventory Full (World) (Aftermarket)</description>
+		<rom name="Inventory Full (World) (Aftermarket).gbc" size="524288" crc="36174683" md5="e9bf8b6977020c869dc5f2d3304961c2" sha1="ff5fc33f6009a8819c6cbde00174c074aab3ecef"/>
 		<url>https://retroachievements.org/game/32817/hashes</url>
 		<hash>e9bf8b6977020c869dc5f2d3304961c2</hash>
 	</game>
 	
-	<game name="Homebrew/Karpe Diem - Pokemon Fishing Contest (Homebrew)">
+	<game name="Homebrew/Karpe Diem - Pokemon Fishing Contest (World) (Aftermarket)">
 		<category></category>
-		<description>Karpe Diem - Pokemon Fishing Contest (Homebrew)</description>
-		<rom name="Karpe Diem - Pokemon Fishing Contest (Homebrew).gbc" size="524288" crc="91cc7412" md5="c3ff18fa6209d7302f91948b1ae42843" sha1="94a85b63a7340a03d3e8e41fda45408b4cb2ba3b"/>
+		<description>Karpe Diem - Pokemon Fishing Contest (World) (Aftermarket)</description>
+		<rom name="Karpe Diem - Pokemon Fishing Contest (World) (Aftermarket).gbc" size="524288" crc="91cc7412" md5="c3ff18fa6209d7302f91948b1ae42843" sha1="94a85b63a7340a03d3e8e41fda45408b4cb2ba3b"/>
 		<url>https://retroachievements.org/game/30896/hashes</url>
 		<hash>c3ff18fa6209d7302f91948b1ae42843</hash>
 	</game>
 	
-	<game name="Homebrew/Knights of the Zodiac - The Phoenix Returns (World) (En) (Aftermarket) (Unl) (v1.3.0)">
+	<game name="Homebrew/Knights of the Zodiac - The Phoenix Returns (World) (En) (v1.3.0) (Aftermarket)">
 		<category></category>
-		<description>Knights of the Zodiac - The Phoenix Returns (World) (En) (Aftermarket) (Unl) (v1.3.0)</description>
-		<rom name="Knights of the Zodiac - The Phoenix Returns (World) (En) (Aftermarket) (Unl) (v1.3.0).gbc" size="4194304" crc="a52b5270" md5="fc0712c84209785a3a78e6a04dc5b89c" sha1="282667fe2652645b4f999e71a127a708f0fcd7cb"/>
+		<description>Knights of the Zodiac - The Phoenix Returns (World) (En) (v1.3.0) (Aftermarket)</description>
+		<rom name="Knights of the Zodiac - The Phoenix Returns (World) (En) (v1.3.0) (Aftermarket).gbc" size="4194304" crc="a52b5270" md5="fc0712c84209785a3a78e6a04dc5b89c" sha1="282667fe2652645b4f999e71a127a708f0fcd7cb"/>
 		<url>https://retroachievements.org/game/20610/hashes</url>
 		<hash>fc0712c84209785a3a78e6a04dc5b89c</hash>
 	</game>
-	<game name="Homebrew/Knights of the Zodiac - The Phoenix Returns (World) (Es) (Aftermarket) (Unl) (v1.4.1)">
+	<game name="Homebrew/Knights of the Zodiac - The Phoenix Returns (World) (Es) (v1.4.1) (Aftermarket)">
 		<category></category>
-		<description>Knights of the Zodiac - The Phoenix Returns (World) (Es) (Aftermarket) (Unl) (v1.4.1)</description>
-		<rom name="Knights of the Zodiac - The Phoenix Returns (World) (Es) (Aftermarket) (Unl) (v1.4.1).gbc" size="4194304" crc="60f85669" md5="7acc4ab4a83726cd2873271f82ef3f63" sha1="415e48abc0de4c0cc87e676471baad0382149b7d"/>
+		<description>Knights of the Zodiac - The Phoenix Returns (World) (Es) (v1.4.1) (Aftermarket)</description>
+		<rom name="Knights of the Zodiac - The Phoenix Returns (World) (Es) (v1.4.1) (Aftermarket).gbc" size="4194304" crc="60f85669" md5="7acc4ab4a83726cd2873271f82ef3f63" sha1="415e48abc0de4c0cc87e676471baad0382149b7d"/>
 		<url>https://retroachievements.org/game/20610/hashes</url>
 		<hash>7acc4ab4a83726cd2873271f82ef3f63</hash>
 	</game>
-	<game name="Homebrew/Knights of the Zodiac - The Phoenix Returns (World) (Pt) (v1.2.0) (Aftermarket) (Unl)">
+	<game name="Homebrew/Knights of the Zodiac - The Phoenix Returns (World) (Pt) (v1.2.0) (Aftermarket)">
 		<category></category>
-		<description>Knights of the Zodiac - The Phoenix Returns (World) (Pt) (v1.2.0) (Aftermarket) (Unl)</description>
-		<rom name="Knights of the Zodiac - The Phoenix Returns (World) (Pt) (v1.2.0) (Aftermarket) (Unl).gbc" size="4194304" crc="0c6cdaaa" md5="a208b6e3cea582b1e45255031b6b7152" sha1="2e28c460be56eaeae975f620c66228e1cf66b1ed"/>
+		<description>Knights of the Zodiac - The Phoenix Returns (World) (Pt) (v1.2.0) (Aftermarket)</description>
+		<rom name="Knights of the Zodiac - The Phoenix Returns (World) (Pt) (v1.2.0) (Aftermarket).gbc" size="4194304" crc="0c6cdaaa" md5="a208b6e3cea582b1e45255031b6b7152" sha1="2e28c460be56eaeae975f620c66228e1cf66b1ed"/>
 		<url>https://retroachievements.org/game/20610/hashes</url>
 		<hash>a208b6e3cea582b1e45255031b6b7152</hash>
 	</game>
-	<game name="Homebrew/Knights of the Zodiac - The Phoenix Returns (World) (Fr) (Aftermarket) (Unl) (v1.2.1)">
+	<game name="Homebrew/Knights of the Zodiac - The Phoenix Returns (World) (Fr) (v1.2.1) (Aftermarket)">
 		<category></category>
-		<description>Knights of the Zodiac - The Phoenix Returns (World) (Fr) (Aftermarket) (Unl) (v1.2.1)</description>
-		<rom name="Knights of the Zodiac - The Phoenix Returns (World) (Fr) (Aftermarket) (Unl) (v1.2.1).gbc" size="4194304" crc="25929c86" md5="f79c225fbc24ff9844d5b2f012a8541e" sha1="62cd97ceaed79c33d57a106f098744510d8d3184"/>
+		<description>Knights of the Zodiac - The Phoenix Returns (World) (Fr) (v1.2.1) (Aftermarket)</description>
+		<rom name="Knights of the Zodiac - The Phoenix Returns (World) (Fr) (v1.2.1) (Aftermarket).gbc" size="4194304" crc="25929c86" md5="f79c225fbc24ff9844d5b2f012a8541e" sha1="62cd97ceaed79c33d57a106f098744510d8d3184"/>
 		<url>https://retroachievements.org/game/20610/hashes</url>
 		<hash>f79c225fbc24ff9844d5b2f012a8541e</hash>
 	</game>
 	
-	<game name="Homebrew/Little Dungeon Renovator (Homebrew)">
+	<game name="Homebrew/Little Dungeon Renovator (World) (Aftermarket)">
 		<category></category>
-		<description>Little Dungeon Renovator (Homebrew)</description>
-		<rom name="Little Dungeon Renovator (Homebrew).gbc" size="262144" crc="d20ab5bd" md5="c93bd5f1928944452cee933dce345f89" sha1="215180e6d2482f3208315fb17a35830c6560133e"/>
+		<description>Little Dungeon Renovator (World) (Aftermarket)</description>
+		<rom name="Little Dungeon Renovator (World) (Aftermarket).gbc" size="262144" crc="d20ab5bd" md5="c93bd5f1928944452cee933dce345f89" sha1="215180e6d2482f3208315fb17a35830c6560133e"/>
 		<url>https://retroachievements.org/game/30882/hashes</url>
 		<hash>c93bd5f1928944452cee933dce345f89</hash>
 	</game>
 	
-	<game name="Homebrew/Mage and the Grimoire of Beast (World) (En) (v1.01) (GB Compatible) (Aftermarket) (Unl)">
+	<game name="Homebrew/Mage and the Grimoire of Beast (World) (En) (v1.01) (GB Compatible) (Aftermarket)">
 		<category></category>
-		<description>Mage and the Grimoire of Beast (World) (En) (v1.01) (GB Compatible) (Aftermarket) (Unl)</description>
-		<rom name="Mage and the Grimoire of Beast (World) (En) (v1.01) (GB Compatible) (Aftermarket) (Unl).gbc" size="524288" crc="4197bfd5" md5="afe14eef683f3eb910b67ea2e3feb124" sha1="83f15e10963a2991636a382168aa035c7f340b3c"/>
+		<description>Mage and the Grimoire of Beast (World) (En) (v1.01) (GB Compatible) (Aftermarket)</description>
+		<rom name="Mage and the Grimoire of Beast (World) (En) (v1.01) (GB Compatible) (Aftermarket).gbc" size="524288" crc="4197bfd5" md5="afe14eef683f3eb910b67ea2e3feb124" sha1="83f15e10963a2991636a382168aa035c7f340b3c"/>
 		<url>https://retroachievements.org/game/30726/hashes</url>
 		<hash>afe14eef683f3eb910b67ea2e3feb124</hash>
 	</game>
 	
-	<game name="Homebrew/Mandalorian, The - Chapter 3 - The Sin (Homebrew)">
+	<game name="Homebrew/Mandalorian, The - Chapter 3 - The Sin (World) (Aftermarket)">
 		<category></category>
-		<description>Mandalorian, The - Chapter 3 - The Sin (Homebrew)</description>
-		<rom name="Mandalorian, The - Chapter 3 - The Sin (Homebrew).gbc" size="524288" crc="1d758544" md5="91c3d238305f308e00fca917d996bb40" sha1="644a6409949520b1c7a654eed6a156d35967ec1c"/>
+		<description>Mandalorian, The - Chapter 3 - The Sin (World) (Aftermarket)</description>
+		<rom name="Mandalorian, The - Chapter 3 - The Sin (World) (Aftermarket).gbc" size="524288" crc="1d758544" md5="91c3d238305f308e00fca917d996bb40" sha1="644a6409949520b1c7a654eed6a156d35967ec1c"/>
 		<url>https://retroachievements.org/game/28190/hashes</url>
 		<hash>91c3d238305f308e00fca917d996bb40</hash>
 	</game>
 	
-	<game name="Homebrew/Mayor of Sanctuary, The (World) (GB Compatible) (Aftermarket) (Unl)">
+	<game name="Homebrew/Mayor of Sanctuary, The (World) (GB Compatible) (Aftermarket)">
 		<category></category>
-		<description>Mayor of Sanctuary, The (World) (GB Compatible) (Aftermarket) (Unl)</description>
-		<rom name="Mayor of Sanctuary, The (World) (GB Compatible) (Aftermarket) (Unl).gbc" size="2097152" crc="da6bcf24" md5="8e8c54501fee6101a0a42df1c23adc5c" sha1="c0f328d96f07d43dbfac68debd39e2e133b7b328"/>
+		<description>Mayor of Sanctuary, The (World) (GB Compatible) (Aftermarket)</description>
+		<rom name="Mayor of Sanctuary, The (World) (GB Compatible) (Aftermarket).gbc" size="2097152" crc="da6bcf24" md5="8e8c54501fee6101a0a42df1c23adc5c" sha1="c0f328d96f07d43dbfac68debd39e2e133b7b328"/>
 		<url>https://retroachievements.org/game/29152/hashes</url>
 		<hash>8e8c54501fee6101a0a42df1c23adc5c</hash>
 	</game>
 	
-	<game name="Homebrew/The Mist (Homebrew)">
+	<game name="Homebrew/The Mist (World) (Aftermarket)">
 		<category></category>
-		<description>The Mist (Homebrew)</description>
-		<rom name="The Mist (Homebrew).gbc" size="524288" crc="f088ffbd" md5="dafb6629c51cdf4bb11f9b6154321aa0" sha1="6d10498e8d7934d7b481118760fdb62469fba07b"/>
+		<description>The Mist (World) (Aftermarket)</description>
+		<rom name="The Mist (World) (Aftermarket).gbc" size="524288" crc="f088ffbd" md5="dafb6629c51cdf4bb11f9b6154321aa0" sha1="6d10498e8d7934d7b481118760fdb62469fba07b"/>
 		<url>https://retroachievements.org/game/28238/hashes</url>
 		<hash>dafb6629c51cdf4bb11f9b6154321aa0</hash>
 	</game>
 	
-	<game name="Homebrew/My Saturday Grounded (Homebrew)">
+	<game name="Homebrew/My Saturday Grounded (World) (Aftermarket)">
 		<category></category>
-		<description>My Saturday Grounded (Homebrew)</description>
-		<rom name="My Saturday Grounded (Homebrew).gbc" size="262144" crc="703ad0bc" md5="02d5f8a622ba5255eb544fc38ef81728" sha1="f3f7931255ef2279e632ec12a86236cb05169095"/>
+		<description>My Saturday Grounded (World) (Aftermarket)</description>
+		<rom name="My Saturday Grounded (World) (Aftermarket).gbc" size="262144" crc="703ad0bc" md5="02d5f8a622ba5255eb544fc38ef81728" sha1="f3f7931255ef2279e632ec12a86236cb05169095"/>
 		<url>https://retroachievements.org/game/29790/hashes</url>
 		<hash>02d5f8a622ba5255eb544fc38ef81728</hash>
 	</game>
 	
-	<game name="Homebrew/Noble Blood (Homebrew)">
+	<game name="Homebrew/Noble Blood (World) (Aftermarket)">
 		<category></category>
-		<description>Noble Blood (Homebrew)</description>
-		<rom name="Noble Blood (Homebrew).gbc" size="262144" crc="703c466b" md5="aaafb103c5c85e50a024b61e14f30497" sha1="49533d91ea8e40dbf716b7e4e879a6f8164d5ae8"/>
+		<description>Noble Blood (World) (Aftermarket)</description>
+		<rom name="Noble Blood (World) (Aftermarket).gbc" size="262144" crc="703c466b" md5="aaafb103c5c85e50a024b61e14f30497" sha1="49533d91ea8e40dbf716b7e4e879a6f8164d5ae8"/>
 		<url>https://retroachievements.org/game/30935/hashes</url>
 		<hash>aaafb103c5c85e50a024b61e14f30497</hash>
 	</game>
 	
-	<game name="Homebrew/Octopus Stressus (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)">
+	<game name="Homebrew/Octopus Stressus (World) (v1.1) (GB Compatible) (Aftermarket)">
 		<category></category>
-		<description>Octopus Stressus (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)</description>
-		<rom name="Octopus Stressus (World) (v1.1) (GB Compatible) (Aftermarket) (Unl).gbc" size="262144" crc="2c055ef9" md5="077fb84e685b20d693a637593a77b8c8" sha1="d4fa4e02753a9fe539f70d0927ba5bf9caa02d3c"/>
+		<description>Octopus Stressus (World) (v1.1) (GB Compatible) (Aftermarket)</description>
+		<rom name="Octopus Stressus (World) (v1.1) (GB Compatible) (Aftermarket).gbc" size="262144" crc="2c055ef9" md5="077fb84e685b20d693a637593a77b8c8" sha1="d4fa4e02753a9fe539f70d0927ba5bf9caa02d3c"/>
 		<url>https://retroachievements.org/game/26179/hashes</url>
 		<hash>077fb84e685b20d693a637593a77b8c8</hash>
 	</game>
 	
-	<game name="Homebrew/Office Combat (World) (GB Compatible) (Aftermarket) (Unl)">
+	<game name="Homebrew/Office Combat (World) (GB Compatible) (Aftermarket)">
 		<category></category>
-		<description>Office Combat (World) (GB Compatible) (Aftermarket) (Unl)</description>
-		<rom name="Office Combat (World) (GB Compatible) (Aftermarket) (Unl).gbc" size="262144" crc="9742276d" md5="340d4314e654e05fa9a4705181799096" sha1="cd8f18d6e5fabaa130a42e5618e29c5ff26f6a93"/>
+		<description>Office Combat (World) (GB Compatible) (Aftermarket)</description>
+		<rom name="Office Combat (World) (GB Compatible) (Aftermarket).gbc" size="262144" crc="9742276d" md5="340d4314e654e05fa9a4705181799096" sha1="cd8f18d6e5fabaa130a42e5618e29c5ff26f6a93"/>
 		<url>https://retroachievements.org/game/7297/hashes</url>
 		<hash>340d4314e654e05fa9a4705181799096</hash>
 	</game>
 	
-	<game name="Homebrew/Opossum Country (World) (GB Compatible) (Aftermarket) (Unl)">
+	<game name="Homebrew/Opossum Country (World) (GB Compatible) (Aftermarket)">
 		<category></category>
-		<description>Opossum Country (World) (GB Compatible) (Aftermarket) (Unl)</description>
-		<rom name="Opossum Country (World) (GB Compatible) (Aftermarket) (Unl).gbc" size="524288" crc="7348bb32" md5="5c0ed7c257219b6fab67c5f9d9ab25f8" sha1="e63e06d602473206b21138f5322acf86b5b6b9b8"/>
+		<description>Opossum Country (World) (GB Compatible) (Aftermarket)</description>
+		<rom name="Opossum Country (World) (GB Compatible) (Aftermarket).gbc" size="524288" crc="7348bb32" md5="5c0ed7c257219b6fab67c5f9d9ab25f8" sha1="e63e06d602473206b21138f5322acf86b5b6b9b8"/>
 		<url>https://retroachievements.org/game/18962/hashes</url>
 		<hash>5c0ed7c257219b6fab67c5f9d9ab25f8</hash>
 	</game>
 	
-	<game name="Homebrew/Oshinui Tune (World) (v1.0.3) (Aftermarket) (GB Studio) (megamittz) (Homebrew)">
+	<game name="Homebrew/Oshinui Tune (World) (v1.0.3) (GB Studio) (megamittz) (Aftermarket)">
 		<category></category>
-		<description>Oshinui Tune (World) (v1.0.3) (Aftermarket) (GB Studio) (megamittz) (Homebrew)</description>
-		<rom name="Oshinui Tune (World) (v1.0.3) (Aftermarket) (GB Studio) (megamittz) (Homebrew).gbc" size="1048576" crc="ba77e1fa" md5="0a23d354e139f40fe409fce3fc1f503c" sha1="09b35cfab7ee7f5c7f08887e1ffda255b58c3c6a"/>
+		<description>Oshinui Tune (World) (v1.0.3) (GB Studio) (megamittz) (Aftermarket)</description>
+		<rom name="Oshinui Tune (World) (v1.0.3) (GB Studio) (megamittz) (Aftermarket).gbc" size="1048576" crc="ba77e1fa" md5="0a23d354e139f40fe409fce3fc1f503c" sha1="09b35cfab7ee7f5c7f08887e1ffda255b58c3c6a"/>
 		<url>https://retroachievements.org/game/33660/hashes</url>
 		<hash>0a23d354e139f40fe409fce3fc1f503c</hash>
 	</game>
 	
-	<game name="Homebrew/Piecrust (World) (Unl)">
+	<game name="Homebrew/Piecrust (World) (Aftermarket)">
 		<category></category>
-		<description>Piecrust (World) (Unl)</description>
-		<rom name="Piecrust (World) (Unl).gbc" size="32768" crc="f39c8119" md5="d076ab5be2ec4972376de685c3705ff2" sha1="b01cad9652bf1c65151dd8d2bd21251a9cf44d43"/>
+		<description>Piecrust (World) (Aftermarket)</description>
+		<rom name="Piecrust (World) (Aftermarket).gbc" size="32768" crc="f39c8119" md5="d076ab5be2ec4972376de685c3705ff2" sha1="b01cad9652bf1c65151dd8d2bd21251a9cf44d43"/>
 		<url>https://retroachievements.org/game/16386/hashes</url>
 		<hash>d076ab5be2ec4972376de685c3705ff2</hash>
 	</game>
 	
-	<game name="Homebrew/Pine Creek (World) (En-US,Es-MX,Pt-BR) (v1.2.0) (GB Compatible) (Aftermarket) (Unl)">
+	<game name="Homebrew/Pine Creek (World) (En-US,Es-MX,Pt-BR) (v1.2.0) (GB Compatible) (Aftermarket)">
 		<category></category>
-		<description>Pine Creek (World) (En-US,Es-MX,Pt-BR) (v1.2.0) (GB Compatible) (Aftermarket) (Unl)</description>
-		<rom name="Pine Creek (World) (En-US,Es-MX,Pt-BR) (v1.2.0) (GB Compatible) (Aftermarket) (Unl).gbc" size="2097152" crc="669d8d7e" md5="f2a7d981ff292ef19673ca132c00ce02" sha1="d33364bb2d60f966ead92b7096a4f7a2e15cddcb"/>
+		<description>Pine Creek (World) (En-US,Es-MX,Pt-BR) (v1.2.0) (GB Compatible) (Aftermarket)</description>
+		<rom name="Pine Creek (World) (En-US,Es-MX,Pt-BR) (v1.2.0) (GB Compatible) (Aftermarket).gbc" size="2097152" crc="669d8d7e" md5="f2a7d981ff292ef19673ca132c00ce02" sha1="d33364bb2d60f966ead92b7096a4f7a2e15cddcb"/>
 		<url>https://retroachievements.org/game/29960/hashes</url>
 		<hash>f2a7d981ff292ef19673ca132c00ce02</hash>
 	</game>
 	
-	<game name="Homebrew/Postie (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)">
+	<game name="Homebrew/Pocket of Horror (World) (GB Studio) (Cursed Bootleg) (Aftermarket)">
 		<category></category>
-		<description>Postie (World) (v1.1) (GB Compatible) (Aftermarket) (Unl)</description>
-		<rom name="Postie (World) (v1.1) (GB Compatible) (Aftermarket) (Unl).gbc" size="262144" crc="50393a65" md5="fcdeae417e8bdf89f1300311e4be5c57" sha1="2c2c6ed8be7a13bf279e435c5984f175c8affcad"/>
+		<description>Pocket of Horror (World) (GB Studio) (Cursed Bootleg) (Aftermarket)</description>
+		<rom name="Pocket of Horror (World) (GB Studio) (Cursed Bootleg) (Aftermarket).gbc" size="1048576" crc="0f50af41" md5="9c0bd5dba991be5143c060374b125c7d" sha1="96ad58c1af8ee0abde69e6d64aebafc3bf37941c"/>
+		<url>https://retroachievements.org/game/33630/hashes</url>
+		<hash>9c0bd5dba991be5143c060374b125c7d</hash>
+	</game>
+	<game name="Homebrew/Postie (World) (v1.1) (GB Compatible) (Aftermarket)">
+		<category></category>
+		<description>Postie (World) (v1.1) (GB Compatible) (Aftermarket)</description>
+		<rom name="Postie (World) (v1.1) (GB Compatible) (Aftermarket).gbc" size="262144" crc="50393a65" md5="fcdeae417e8bdf89f1300311e4be5c57" sha1="2c2c6ed8be7a13bf279e435c5984f175c8affcad"/>
 		<url>https://retroachievements.org/game/20036/hashes</url>
 		<hash>fcdeae417e8bdf89f1300311e4be5c57</hash>
 	</game>
 	
-	<game name="Homebrew/Remote Control Shuriken (Homebrew)">
+	<game name="Homebrew/Remote Control Shuriken (World) (GBCompo2021) (Aftermarket)">
 		<category></category>
-		<description>Remote Control Shuriken (Homebrew)</description>
-		<rom name="Remote Control Shuriken (Homebrew).gbc" size="131072" crc="16f444cf" md5="09ec8f62034f0219e0a82e3f01f48ba7" sha1="cdfc9441ea05b1ba5312c7b4fc5d7df21d74cd31"/>
+		<description>Remote Control Shuriken (World) (GBCompo2021) (Aftermarket)</description>
+		<rom name="Remote Control Shuriken (World) (GBCompo2021) (Aftermarket).gbc" size="131072" crc="16f444cf" md5="09ec8f62034f0219e0a82e3f01f48ba7" sha1="cdfc9441ea05b1ba5312c7b4fc5d7df21d74cd31"/>
 		<url>https://retroachievements.org/game/28383/hashes</url>
 		<hash>09ec8f62034f0219e0a82e3f01f48ba7</hash>
 	</game>
 	
-	<game name="Homebrew/Repugnant Bounty (World) (Rev C.1) (Digital) (Aftermarket) (Unl)">
+	<game name="Homebrew/Repugnant Bounty (World) (Rev C.1) (Digital) (Aftermarket)">
 		<category></category>
-		<description>Repugnant Bounty (World) (Rev C.1) (Digital) (Aftermarket) (Unl)</description>
-		<rom name="Repugnant Bounty (World) (Rev C.1) (Digital) (Aftermarket) (Unl).gbc" size="4194304" crc="6c09d010" md5="c096d9b04e8439b7f6973c226c720ca1" sha1="88a914327f7fb9068c4b35a8fb05fa5ff096bc60"/>
+		<description>Repugnant Bounty (World) (Rev C.1) (Digital) (Aftermarket)</description>
+		<rom name="Repugnant Bounty (World) (Rev C.1) (Digital) (Aftermarket).gbc" size="4194304" crc="6c09d010" md5="c096d9b04e8439b7f6973c226c720ca1" sha1="88a914327f7fb9068c4b35a8fb05fa5ff096bc60"/>
 		<url>https://retroachievements.org/game/22650/hashes</url>
 		<hash>c096d9b04e8439b7f6973c226c720ca1</hash>
 	</game>
 	
-	<game name="Homebrew/Retro Quiz Tower (World) (v1.2) (GB Compatible) (Aftermarket) (Unl)">
+	<game name="Homebrew/Retro Quiz Tower (World) (v1.2) (GB Compatible) (Aftermarket)">
 		<category></category>
-		<description>Retro Quiz Tower (World) (v1.2) (GB Compatible) (Aftermarket) (Unl)</description>
-		<rom name="Retro Quiz Tower (World) (v1.2) (GB Compatible) (Aftermarket) (Unl).gbc" size="1048576" crc="c761189c" md5="93d1eae88ac42199afa4e45a9900182d" sha1="f7f18d83218b66b9d1cd7267d6d4acfd4eded6c7"/>
+		<description>Retro Quiz Tower (World) (v1.2) (GB Compatible) (Aftermarket)</description>
+		<rom name="Retro Quiz Tower (World) (v1.2) (GB Compatible) (Aftermarket).gbc" size="1048576" crc="c761189c" md5="93d1eae88ac42199afa4e45a9900182d" sha1="f7f18d83218b66b9d1cd7267d6d4acfd4eded6c7"/>
 		<url>https://retroachievements.org/game/24391/hashes</url>
 		<hash>93d1eae88ac42199afa4e45a9900182d</hash>
 	</game>
 	
-	<game name="Homebrew/Rezal (Homebrew)">
+	<game name="Homebrew/Rezal (World) (GBA Jam 2024) (Aftermarket)">
 		<category></category>
-		<description>Rezal (Homebrew)</description>
-		<rom name="Rezal (Homebrew).gbc" size="262144" crc="c5048c76" md5="9a5ca9da453a74e3e6745eecea8a009d" sha1="e2489ac617078504443ee2e468e62fec8ca81744"/>
+		<description>Rezal (World) (GBA Jam 2024) (Aftermarket)</description>
+		<rom name="Rezal (World) (GBA Jam 2024) (Aftermarket).gbc" size="262144" crc="c5048c76" md5="9a5ca9da453a74e3e6745eecea8a009d" sha1="e2489ac617078504443ee2e468e62fec8ca81744"/>
 		<url>https://retroachievements.org/game/30765/hashes</url>
 		<hash>9a5ca9da453a74e3e6745eecea8a009d</hash>
 	</game>
 	
-	<game name="Homebrew/Skinner &amp; the Superintendent (World) (En) (Aftermarket) (Unl) (v1.0)">
+	<game name="Homebrew/Skinner &amp; the Superintendent (World) (En) (v1.0) (Aftermarket)">
 		<category></category>
-		<description>Skinner &amp; the Superintendent (World) (En) (Aftermarket) (Unl) (v1.0)</description>
-		<rom name="Skinner &amp; the Superintendent (World) (En) (Aftermarket) (Unl) (v1.0).gbc" size="524288" crc="c620e4e6" md5="df2e5192e40caf52dd514895255fd5e5" sha1="546ff05f5803a31936c403988b36a804ad1dccd7"/>
+		<description>Skinner &amp; the Superintendent (World) (En) (v1.0) (Aftermarket)</description>
+		<rom name="Skinner &amp; the Superintendent (World) (En) (v1.0) (Aftermarket).gbc" size="524288" crc="c620e4e6" md5="df2e5192e40caf52dd514895255fd5e5" sha1="546ff05f5803a31936c403988b36a804ad1dccd7"/>
 		<url>https://retroachievements.org/game/24006/hashes</url>
 		<hash>df2e5192e40caf52dd514895255fd5e5</hash>
 	</game>
-	<game name="Homebrew/Skinner &amp; the Superintendent (World) (Pt) (Aftermarket) (Unl) (v1.0)">
+	<game name="Homebrew/Skinner &amp; the Superintendent (World) (Pt) (v1.0) (Aftermarket)">
 		<category></category>
-		<description>Skinner &amp; the Superintendent (World) (Pt) (Aftermarket) (Unl) (v1.0)</description>
-		<rom name="Skinner &amp; the Superintendent (World) (Pt) (Aftermarket) (Unl) (v1.0).gbc" size="524288" crc="bce552a7" md5="ea90aa4b07d6e1e43434b1ed1b471f4e" sha1="a6a6e3fef9bd3d8344229b9654c8ee8c88f6a864"/>
+		<description>Skinner &amp; the Superintendent (World) (Pt) (v1.0) (Aftermarket)</description>
+		<rom name="Skinner &amp; the Superintendent (World) (Pt) (v1.0) (Aftermarket).gbc" size="524288" crc="bce552a7" md5="ea90aa4b07d6e1e43434b1ed1b471f4e" sha1="a6a6e3fef9bd3d8344229b9654c8ee8c88f6a864"/>
 		<url>https://retroachievements.org/game/24006/hashes</url>
 		<hash>ea90aa4b07d6e1e43434b1ed1b471f4e</hash>
 	</game>
 	
-	<game name="Homebrew/Slender - The 8 Pages (Homebrew)">
+	<game name="Homebrew/Slender - The 8 Pages (World) (Aftermarket)">
 		<category></category>
-		<description>Slender - The 8 Pages (Homebrew)</description>
-		<rom name="Slender - The 8 Pages (Homebrew).gbc" size="524288" crc="350f7fe6" md5="4165032fb478ebda7e15d35deb5937a8" sha1="e864bd35bf80cf03a45f39111a6b9648df8b7f46"/>
+		<description>Slender - The 8 Pages (World) (Aftermarket)</description>
+		<rom name="Slender - The 8 Pages (World) (Aftermarket).gbc" size="524288" crc="350f7fe6" md5="4165032fb478ebda7e15d35deb5937a8" sha1="e864bd35bf80cf03a45f39111a6b9648df8b7f46"/>
 		<url>https://retroachievements.org/game/24124/hashes</url>
 		<hash>4165032fb478ebda7e15d35deb5937a8</hash>
 	</game>
 	
-	<game name="Homebrew/Super Dassalo Land (World) (v1.1) (Aftermarket) (Unl)">
+	<game name="Homebrew/Super Dassalo Land (World) (v1.1) (Aftermarket)">
 		<category></category>
-		<description>Super Dassalo Land (World) (v1.1) (Aftermarket) (Unl)</description>
-		<rom name="Super Dassalo Land (World) (v1.1) (Aftermarket) (Unl).gbc" size="1048576" crc="07354ec8" md5="41c1911a80b9138f89868540723c2cdd" sha1="6a8a520186aa4c9d78e2a880073b6b1e122d885d"/>
+		<description>Super Dassalo Land (World) (v1.1) (Aftermarket)</description>
+		<rom name="Super Dassalo Land (World) (v1.1) (Aftermarket).gbc" size="1048576" crc="07354ec8" md5="41c1911a80b9138f89868540723c2cdd" sha1="6a8a520186aa4c9d78e2a880073b6b1e122d885d"/>
 		<url>https://retroachievements.org/game/30719/hashes</url>
 		<hash>41c1911a80b9138f89868540723c2cdd</hash>
 	</game>
 	
-	<game name="Homebrew/Super Doggo WOW WAN (Homebrew)">
+	<game name="Homebrew/Super Doggo WOW WAN (World) (Aftermarket)">
 		<category></category>
-		<description>Super Doggo WOW WAN (Homebrew)</description>
-		<rom name="Super Doggo WOW WAN (Homebrew).gbc" size="1048576" crc="02111d9d" md5="b9032a7c44305f4fbba30891427c03fb" sha1="ad86d1447d5d2588a1d9b7af080a14957dcf3bd6"/>
+		<description>Super Doggo WOW WAN (World) (Aftermarket)</description>
+		<rom name="Super Doggo WOW WAN (World) (Aftermarket).gbc" size="1048576" crc="02111d9d" md5="b9032a7c44305f4fbba30891427c03fb" sha1="ad86d1447d5d2588a1d9b7af080a14957dcf3bd6"/>
 		<url>https://retroachievements.org/game/28166/hashes</url>
 		<hash>b9032a7c44305f4fbba30891427c03fb</hash>
 	</game>
 	
-	<game name="Homebrew/Super Jacked Up Tomato Face Johnson (World) (v2.3) (Aftermarket) (Unl)">
+	<game name="Homebrew/Super Jacked Up Tomato Face Johnson (World) (v2.3) (Aftermarket)">
 		<category></category>
-		<description>Super Jacked Up Tomato Face Johnson (World) (v2.3) (Aftermarket) (Unl)</description>
-		<rom name="Super Jacked Up Tomato Face Johnson (World) (v2.3) (Aftermarket) (Unl).gbc" size="524288" crc="f9731ee2" md5="d2a65d336cec301779641a1699ad96d8" sha1="23855b95d04a6c7c6d2ce7977bb31dbe6c0e68a0"/>
+		<description>Super Jacked Up Tomato Face Johnson (World) (v2.3) (Aftermarket)</description>
+		<rom name="Super Jacked Up Tomato Face Johnson (World) (v2.3) (Aftermarket).gbc" size="524288" crc="f9731ee2" md5="d2a65d336cec301779641a1699ad96d8" sha1="23855b95d04a6c7c6d2ce7977bb31dbe6c0e68a0"/>
 		<url>https://retroachievements.org/game/20371/hashes</url>
 		<hash>d2a65d336cec301779641a1699ad96d8</hash>
 	</game>
 	
-	<game name="Homebrew/Super Mario Bros Mini (Homebrew)">
+	<game name="Homebrew/Super Mario Bros Mini (World) (Aftermarket)">
 		<category></category>
-		<description>Super Mario Bros Mini (Homebrew)</description>
-		<rom name="Super Mario Bros Mini (Homebrew).gbc" size="2097152" crc="c2bfe433" md5="14a2442e6b50b2617e58ffe10ed6a970" sha1="c9eee8d916390e3bd6142370de4d9fe501fd44a8"/>
+		<description>Super Mario Bros Mini (World) (Aftermarket)</description>
+		<rom name="Super Mario Bros Mini (World) (Aftermarket).gbc" size="2097152" crc="c2bfe433" md5="14a2442e6b50b2617e58ffe10ed6a970" sha1="c9eee8d916390e3bd6142370de4d9fe501fd44a8"/>
 		<url>https://retroachievements.org/game/31200/hashes</url>
 		<hash>14a2442e6b50b2617e58ffe10ed6a970</hash>
 	</game>
 	
-	<game name="Homebrew/Swordsman on the Eternal Journey (World) (En,Ja) (v1.01) (GB Compatible) (Aftermarket) (Unl)">
+	<game name="Homebrew/Swordsman on the Eternal Journey (World) (En,Ja) (v1.01) (GB Compatible) (Aftermarket)">
 		<category></category>
-		<description>Swordsman on the Eternal Journey (World) (En,Ja) (v1.01) (GB Compatible) (Aftermarket) (Unl)</description>
-		<rom name="Swordsman on the Eternal Journey (World) (En,Ja) (v1.01) (GB Compatible) (Aftermarket) (Unl).gbc" size="2097152" crc="f2762fb0" md5="f67e8aa1d9c49401bfbc8dd148223d99" sha1="b4d33ac2e410a55d27edb2abe6fc2268ca18ae26"/>
+		<description>Swordsman on the Eternal Journey (World) (En,Ja) (v1.01) (GB Compatible) (Aftermarket)</description>
+		<rom name="Swordsman on the Eternal Journey (World) (En,Ja) (v1.01) (GB Compatible) (Aftermarket).gbc" size="2097152" crc="f2762fb0" md5="f67e8aa1d9c49401bfbc8dd148223d99" sha1="b4d33ac2e410a55d27edb2abe6fc2268ca18ae26"/>
 		<url>https://retroachievements.org/game/30764/hashes</url>
 		<hash>f67e8aa1d9c49401bfbc8dd148223d99</hash>
 	</game>
 	
-	<game name="Homebrew/Taiyaki Fabulous Museum of Fish (Homebrew)">
+	<game name="Homebrew/Taiyaki Fabulous Museum of Fish (World) (Aftermarket)">
 		<category></category>
-		<description>Taiyaki Fabulous Museum of Fish (Homebrew)</description>
-		<rom name="Taiyaki Fabulous Museum of Fish (Homebrew).gbc" size="2097152" crc="2d12223c" md5="9b3077bf785168c3d19d05173c443421" sha1="940ec098d7df6db344b253f713d193ed01cb1219"/>
+		<description>Taiyaki Fabulous Museum of Fish (World) (Aftermarket)</description>
+		<rom name="Taiyaki Fabulous Museum of Fish (World) (Aftermarket).gbc" size="2097152" crc="2d12223c" md5="9b3077bf785168c3d19d05173c443421" sha1="940ec098d7df6db344b253f713d193ed01cb1219"/>
 		<url>https://retroachievements.org/game/32004/hashes</url>
 		<hash>9b3077bf785168c3d19d05173c443421</hash>
 	</game>
 	
-	<game name="Homebrew/Melting Apartment, The (Homebrew)">
+	<game name="Homebrew/Melting Apartment, The (World) (Aftermarket)">
 		<category></category>
-		<description>Melting Apartment, The (Homebrew)</description>
-		<rom name="Melting Apartment, The (Homebrew).gbc" size="524288" crc="07a2e41b" md5="8f325b05c4d5cb9b98fe8ac87e310525" sha1="2c0087d9af656ebd6705c33b7397f976eab6d623"/>
+		<description>Melting Apartment, The (World) (Aftermarket)</description>
+		<rom name="Melting Apartment, The (World) (Aftermarket).gbc" size="524288" crc="07a2e41b" md5="8f325b05c4d5cb9b98fe8ac87e310525" sha1="2c0087d9af656ebd6705c33b7397f976eab6d623"/>
 		<url>https://retroachievements.org/game/31975/hashes</url>
 		<hash>8f325b05c4d5cb9b98fe8ac87e310525</hash>
 	</game>
 	
-	<game name="Homebrew/Tobu Tobu Girl Deluxe (World) (GB Compatible) (Aftermarket) (Unl)">
+	<game name="Homebrew/Tobu Tobu Girl Deluxe (World) (GB Compatible) (Aftermarket)">
 		<category></category>
-		<description>Tobu Tobu Girl Deluxe (World) (GB Compatible) (Aftermarket) (Unl)</description>
-		<rom name="Tobu Tobu Girl Deluxe (World) (GB Compatible) (Aftermarket) (Unl).gbc" size="262144" crc="16650a8b" md5="c48f26f5079ad1b411c78fbcb2738d67" sha1="fe6eef70d48dda741f7ad3b6cc5e753e8cd13239"/>
+		<description>Tobu Tobu Girl Deluxe (World) (GB Compatible) (Aftermarket)</description>
+		<rom name="Tobu Tobu Girl Deluxe (World) (GB Compatible) (Aftermarket).gbc" size="262144" crc="16650a8b" md5="c48f26f5079ad1b411c78fbcb2738d67" sha1="fe6eef70d48dda741f7ad3b6cc5e753e8cd13239"/>
 		<url>https://retroachievements.org/game/15738/hashes</url>
 		<hash>c48f26f5079ad1b411c78fbcb2738d67</hash>
 	</game>
 	
-	<game name="Homebrew/Touhou Pocket Festival (World) (Aftermarket) (GB Studio)">
+	<game name="Homebrew/Touhou Pocket Festival (World) (GB Studio) (Aftermarket)">
 		<category></category>
-		<description>Touhou Pocket Festival (World) (Aftermarket) (GB Studio)</description>
-		<rom name="Touhou Pocket Festival (World) (Aftermarket) (GB Studio).gbc" size="1048576" crc="e2cc0500" md5="1ac382c4ddb6912cd2ecc8fb3d970122" sha1="f824ba496af84c966311bb54fc9062598bf829d4"/>
+		<description>Touhou Pocket Festival (World) (GB Studio) (Aftermarket)</description>
+		<rom name="Touhou Pocket Festival (World) (GB Studio) (Aftermarket).gbc" size="1048576" crc="e2cc0500" md5="1ac382c4ddb6912cd2ecc8fb3d970122" sha1="f824ba496af84c966311bb54fc9062598bf829d4"/>
 		<url>https://retroachievements.org/game/33405/hashes</url>
 		<hash>1ac382c4ddb6912cd2ecc8fb3d970122</hash>
 	</game>
 	
-	<game name="Homebrew/TUNIC (Homebrew)">
+	<game name="Homebrew/TUNIC (World) (Aftermarket)">
 		<category></category>
-		<description>TUNIC (Homebrew)</description>
-		<rom name="TUNIC (Homebrew).gbc" size="524288" crc="4dc4e4a0" md5="5d92f768e7b8d371cc3aac98b3b6a2fe" sha1="cc8a01118c25332b506a380b78c95a5876c17459"/>
+		<description>TUNIC (World) (Aftermarket)</description>
+		<rom name="TUNIC (World) (Aftermarket).gbc" size="524288" crc="4dc4e4a0" md5="5d92f768e7b8d371cc3aac98b3b6a2fe" sha1="cc8a01118c25332b506a380b78c95a5876c17459"/>
 		<url>https://retroachievements.org/game/24117/hashes</url>
 		<hash>5d92f768e7b8d371cc3aac98b3b6a2fe</hash>
 	</game>
 	
-	<game name="Homebrew/Unearthed (World) (v1.3) (GB Compatible) (Aftermarket) (Unl)">
+	<game name="Homebrew/Unearthed (World) (v1.3) (GB Compatible) (Aftermarket)">
 		<category></category>
-		<description>Unearthed (World) (v1.3) (GB Compatible) (Aftermarket) (Unl)</description>
-		<rom name="Unearthed (World) (v1.3) (GB Compatible) (Aftermarket) (Unl).gbc" size="2097152" crc="29bb9238" md5="09bc56a467f95a19a357174c5710db74" sha1="39fbfb220e9be0120090f770249049b3f3583f64"/>
+		<description>Unearthed (World) (v1.3) (GB Compatible) (Aftermarket)</description>
+		<rom name="Unearthed (World) (v1.3) (GB Compatible) (Aftermarket).gbc" size="2097152" crc="29bb9238" md5="09bc56a467f95a19a357174c5710db74" sha1="39fbfb220e9be0120090f770249049b3f3583f64"/>
 		<url>https://retroachievements.org/game/20559/hashes</url>
 		<hash>09bc56a467f95a19a357174c5710db74</hash>
 	</game>
 	
-	<game name="Homebrew/What Friends Are For (World) (v2.0) (GB Compatible) (Aftermarket) (Unl)">
+	<game name="Homebrew/What Friends Are For (World) (v2.0) (GB Compatible) (Aftermarket)">
 		<category></category>
-		<description>What Friends Are For (World) (v2.0) (GB Compatible) (Aftermarket) (Unl)</description>
-		<rom name="What Friends Are For (World) (v2.0) (GB Compatible) (Aftermarket) (Unl).gbc" size="524288" crc="776fc18e" md5="71844ae14b67fbe97b0ab5655e5a87b0" sha1="5c4a227c0b2f53e4a349e482c5ba87cb83404f8e"/>
+		<description>What Friends Are For (World) (v2.0) (GB Compatible) (Aftermarket)</description>
+		<rom name="What Friends Are For (World) (v2.0) (GB Compatible) (Aftermarket).gbc" size="524288" crc="776fc18e" md5="71844ae14b67fbe97b0ab5655e5a87b0" sha1="5c4a227c0b2f53e4a349e482c5ba87cb83404f8e"/>
 		<url>https://retroachievements.org/game/33108/hashes</url>
 		<hash>71844ae14b67fbe97b0ab5655e5a87b0</hash>
 	</game>
 	
-	<game name="Homebrew/Wishing Sarah (World) (v1.1) (Aftermarket) (Unl)">
+	<game name="Homebrew/Wishing Sarah (World) (v1.1) (Aftermarket)">
 		<category></category>
-		<description>Wishing Sarah (World) (v1.1) (Aftermarket) (Unl)</description>
-		<rom name="Wishing Sarah (World) (v1.1) (Aftermarket) (Unl).gbc" size="524288" crc="efa345cd" md5="83e0f56f6315f46aaf4e7b77576b00e9" sha1="0e32eb4ef5cc3c456072892c376c5ee5d4fc78f1"/>
+		<description>Wishing Sarah (World) (v1.1) (Aftermarket)</description>
+		<rom name="Wishing Sarah (World) (v1.1) (Aftermarket).gbc" size="524288" crc="efa345cd" md5="83e0f56f6315f46aaf4e7b77576b00e9" sha1="0e32eb4ef5cc3c456072892c376c5ee5d4fc78f1"/>
 		<url>https://retroachievements.org/game/29775/hashes</url>
 		<hash>83e0f56f6315f46aaf4e7b77576b00e9</hash>
 	</game>
-	<game name="Homebrew/Wishing Sarah (World) (Pt-BR) (v1.1) (Aftermarket) (Unl)">
+	<game name="Homebrew/Wishing Sarah (World) (Pt-BR) (v1.1) (Aftermarket)">
 		<category></category>
-		<description>Wishing Sarah (World) (Pt-BR) (v1.1) (Aftermarket) (Unl)</description>
-		<rom name="Wishing Sarah (World) (Pt-BR) (v1.1) (Aftermarket) (Unl).gbc" size="524288" crc="ab6cf21e" md5="f7eba1c53b02624852daea423a71c4ea" sha1="575b8b0f6fdb2d41623e7f2fe9902c87236f1a36"/>
+		<description>Wishing Sarah (World) (Pt-BR) (v1.1) (Aftermarket)</description>
+		<rom name="Wishing Sarah (World) (Pt-BR) (v1.1) (Aftermarket).gbc" size="524288" crc="ab6cf21e" md5="f7eba1c53b02624852daea423a71c4ea" sha1="575b8b0f6fdb2d41623e7f2fe9902c87236f1a36"/>
 		<url>https://retroachievements.org/game/29775/hashes</url>
 		<hash>f7eba1c53b02624852daea423a71c4ea</hash>
 	</game>
@@ -779,17 +786,17 @@
 		<url>https://retroachievements.org/game/16597/hashes</url>
 		<hash>35d2e7924408a3460e5c1a770acf3a8a</hash>
 	</game>
-	<game name="Prototype/Pokemon Picross (Prototype) (En) (v1.2)">
+	<game name="Prototype/Pokemon Picross (Proto) (En) (v1.2)">
 		<category></category>
-		<description>Pokemon Picross (Prototype) (En) (v1.2)</description>
-		<rom name="Pokemon Picross (Prototype) (En) (v1.2).gbc" size="2097152" crc="7f1d7655" md5="707b0c695cf7d015e5862bc1fcbda77c" sha1="fb58d8be67ac05d573ea0a47314f8582d4e65b25"/>
+		<description>Pokemon Picross (Proto) (En) (v1.2)</description>
+		<rom name="Pokemon Picross (Proto) (En) (v1.2).gbc" size="2097152" crc="7f1d7655" md5="707b0c695cf7d015e5862bc1fcbda77c" sha1="fb58d8be67ac05d573ea0a47314f8582d4e65b25"/>
 		<url>https://retroachievements.org/game/16597/hashes</url>
 		<hash>707b0c695cf7d015e5862bc1fcbda77c</hash>
 	</game>
-	<game name="Prototype/Pokemon Picross (Prototype) (En) (v1.1)">
+	<game name="Prototype/Pokemon Picross (Proto) (En) (v1.1)">
 		<category></category>
-		<description>Pokemon Picross (Prototype) (En) (v1.1)</description>
-		<rom name="Pokemon Picross (Prototype) (En) (v1.1).gbc" size="2097152" crc="55c5fe03" md5="c720f6f16ca28b942701855c73d75c3e" sha1="305e8015c6ef9f03f3feb28c0a62a261128890b6"/>
+		<description>Pokemon Picross (Proto) (En) (v1.1)</description>
+		<rom name="Pokemon Picross (Proto) (En) (v1.1).gbc" size="2097152" crc="55c5fe03" md5="c720f6f16ca28b942701855c73d75c3e" sha1="305e8015c6ef9f03f3feb28c0a62a261128890b6"/>
 		<url>https://retroachievements.org/game/16597/hashes</url>
 		<hash>c720f6f16ca28b942701855c73d75c3e</hash>
 	</game>
@@ -801,10 +808,10 @@
 		<url>https://retroachievements.org/game/2370/hashes</url>
 		<hash>c3c3932d5471bc0028ade1cd7a102d43</hash>
 	</game>
-	<game name="Prototype/Resident Evil (Prototype) (Prototype 2)">
+	<game name="Resident Evil (USA) (Proto 2)">
 		<category></category>
-		<description>Resident Evil (Prototype) (Prototype 2)</description>
-		<rom name="Resident Evil (Prototype) (Prototype 2).gbc" size="4194304" crc="6de8c8ad" md5="cb0e23b09470002fe33732b1f0e02b06" sha1="d359051dd39645abebd1ead3a803905ebabe00eb"/>
+		<description>Resident Evil (USA) (Proto 2)</description>
+		<rom name="Resident Evil (USA) (Proto 2).gbc" size="4194304" crc="6de8c8ad" md5="cb0e23b09470002fe33732b1f0e02b06" sha1="d359051dd39645abebd1ead3a803905ebabe00eb"/>
 		<url>https://retroachievements.org/game/2370/hashes</url>
 		<hash>cb0e23b09470002fe33732b1f0e02b06</hash>
 	</game>
@@ -825,10 +832,10 @@
 		<hash>2b0ad9175fa23c2e278e2174d08df821</hash>
 	</game>
 	
-	<game name="Unlicensed/2003 Crash II Advance (Unlicensed, English) (Fixed)">
+	<game name="Unlicensed/2003 Crash II Advance (En) (Fixed) (Unl)">
 		<category></category>
-		<description>2003 Crash II Advance (Unlicensed, English) (Fixed)</description>
-		<rom name="2003 Crash II Advance (Unlicensed, English) (Fixed).gbc" size="4194304" crc="0af243bf" md5="927abf95eaada539668c2e71d35be5c7" sha1="13b1a3f64664cc09f628e53e13c9b66b17e9f500"/>
+		<description>2003 Crash II Advance (En) (Fixed) (Unl)</description>
+		<rom name="2003 Crash II Advance (En) (Fixed) (Unl).gbc" size="4194304" crc="0af243bf" md5="927abf95eaada539668c2e71d35be5c7" sha1="13b1a3f64664cc09f628e53e13c9b66b17e9f500"/>
 		<url>https://retroachievements.org/game/8550/hashes</url>
 		<hash>927abf95eaada539668c2e71d35be5c7</hash>
 	</game>
@@ -840,48 +847,48 @@
 		<hash>94cdb66509527746395b3eed6b16fd73</hash>
 	</game>
 	
-	<game name="Unlicensed/Donkey Kong 5 - The Journey of Over Time and Space (Unl) (Taiwan) (En)">
+	<game name="Unlicensed/Donkey Kong 5 - The Journey of Over Time and Space (Taiwan) (En) (Unl)">
 		<category></category>
-		<description>Donkey Kong 5 - The Journey of Over Time and Space (Unl) (Taiwan) (En)</description>
-		<rom name="Donkey Kong 5 - The Journey of Over Time and Space (Unl) (Taiwan) (En).gbc" size="4194304" crc="f27a687e" md5="8b886cb1735b86e7547fc59e52312edf" sha1="afed3d2389c92ea4f1246cc5f918275e7ebd7ab9"/>
+		<description>Donkey Kong 5 - The Journey of Over Time and Space (Taiwan) (En) (Unl)</description>
+		<rom name="Donkey Kong 5 - The Journey of Over Time and Space (Taiwan) (En) (Unl).gbc" size="4194304" crc="f27a687e" md5="8b886cb1735b86e7547fc59e52312edf" sha1="afed3d2389c92ea4f1246cc5f918275e7ebd7ab9"/>
 		<url>https://retroachievements.org/game/8539/hashes</url>
 		<hash>8b886cb1735b86e7547fc59e52312edf</hash>
 	</game>
 	
-	<game name="Unlicensed/Matel Gear II (Unl) (En) (Fixed)">
+	<game name="Unlicensed/Matel Gear II (En) (Fixed) (Unl)">
 		<category></category>
-		<description>Matel Gear II (Unl) (En) (Fixed)</description>
-		<rom name="Matel Gear II (Unl) (En) (Fixed).gbc" size="4194304" crc="89ae4102" md5="6c1a506cce71ba5ef0b2693bc76c1979" sha1="faa4a6907227f5b6e9523522d34a79a5739d6424"/>
+		<description>Matel Gear II (En) (Fixed) (Unl)</description>
+		<rom name="Matel Gear II (En) (Fixed) (Unl).gbc" size="4194304" crc="89ae4102" md5="6c1a506cce71ba5ef0b2693bc76c1979" sha1="faa4a6907227f5b6e9523522d34a79a5739d6424"/>
 		<url>https://retroachievements.org/game/17031/hashes</url>
 		<hash>6c1a506cce71ba5ef0b2693bc76c1979</hash>
 	</game>
-	<game name="Unlicensed/He Jin Zhuang Bei II (Unl) (Taiwan) (Fixed)">
+	<game name="Unlicensed/He Jin Zhuang Bei II (Taiwan) (Fixed) (Unl)">
 		<category></category>
-		<description>He Jin Zhuang Bei II (Unl) (Taiwan) (Fixed)</description>
-		<rom name="He Jin Zhuang Bei II (Unl) (Taiwan) (Fixed).gbc" size="4194304" crc="91eccf13" md5="f4722b46c20a872a5060d23681ff9024" sha1="3c4575ca197f0c503c32eeeefa8962d9b485b47b"/>
+		<description>He Jin Zhuang Bei II (Taiwan) (Fixed) (Unl)</description>
+		<rom name="He Jin Zhuang Bei II (Taiwan) (Fixed) (Unl).gbc" size="4194304" crc="91eccf13" md5="f4722b46c20a872a5060d23681ff9024" sha1="3c4575ca197f0c503c32eeeefa8962d9b485b47b"/>
 		<url>https://retroachievements.org/game/17031/hashes</url>
 		<hash>f4722b46c20a872a5060d23681ff9024</hash>
 	</game>
 	
-	<game name="Unlicensed/Rockman X4 (Megaman X4) (Unl) (MBC5 Hack)">
+	<game name="Unlicensed/Rockman X4 (Megaman X4) (MBC5) (Unl)">
 		<category></category>
-		<description>Rockman X4 (Megaman X4) (Unl) (MBC5 Hack)</description>
-		<rom name="Rockman X4 (Megaman X4) (Unl) (MBC5 Hack).gbc" size="524288" crc="d8ebee7e" md5="b2bcbf7da3619e14ea86d6aaa2800c7d" sha1="1f2524b452c6714b89c0bdce8ed28028dd239141"/>
+		<description>Rockman X4 (Megaman X4) (MBC5) (Unl)</description>
+		<rom name="Rockman X4 (Megaman X4) (MBC5) (Unl).gbc" size="524288" crc="d8ebee7e" md5="b2bcbf7da3619e14ea86d6aaa2800c7d" sha1="1f2524b452c6714b89c0bdce8ed28028dd239141"/>
 		<url>https://retroachievements.org/game/16370/hashes</url>
 		<hash>b2bcbf7da3619e14ea86d6aaa2800c7d</hash>
 	</game>
-	<game name="Unlicensed/Rockman 8 (Unl) (Multicart Rip) (MBC1 Hack)">
+	<game name="Unlicensed/Rockman 8 (Multicart Rip) (MBC1) (Unl)">
 		<category></category>
-		<description>Rockman 8 (Unl) (Multicart Rip) (MBC1 Hack)</description>
-		<rom name="Rockman 8 (Unl) (Multicart Rip) (MBC1 Hack).gbc" size="524288" crc="70ca2e0f" md5="c451d94988287dd003458d7978bbe627" sha1="3f9286d8396f9045c2fef1f57adb0f5980978986"/>
+		<description>Rockman 8 (Multicart Rip) (MBC1) (Unl)</description>
+		<rom name="Rockman 8 (Multicart Rip) (MBC1) (Unl).gbc" size="524288" crc="70ca2e0f" md5="c451d94988287dd003458d7978bbe627" sha1="3f9286d8396f9045c2fef1f57adb0f5980978986"/>
 		<url>https://retroachievements.org/game/16370/hashes</url>
 		<hash>c451d94988287dd003458d7978bbe627</hash>
 	</game>
 	
-	<game name="Unlicensed/Terrifying 911 (Unl) (Zh)">
+	<game name="Unlicensed/Terrifying 911 (Zh) (Unl)">
 		<category></category>
-		<description>Terrifying 911 (Unl) (Zh)</description>
-		<rom name="Terrifying 911 (Unl) (Zh).gbc" size="2097152" crc="0d17e940" md5="a6051d0058be5b2f3be03c87e51efcf1" sha1="d1fdd5b289165126091f5fba3da05903198a8620"/>
+		<description>Terrifying 911 (Zh) (Unl)</description>
+		<rom name="Terrifying 911 (Zh) (Unl).gbc" size="2097152" crc="0d17e940" md5="a6051d0058be5b2f3be03c87e51efcf1" sha1="d1fdd5b289165126091f5fba3da05903198a8620"/>
 		<url>https://retroachievements.org/game/8926/hashes</url>
 		<hash>a6051d0058be5b2f3be03c87e51efcf1</hash>
 	</game>
@@ -892,18 +899,18 @@
 		<url>https://retroachievements.org/game/8926/hashes</url>
 		<hash>a7a2c27cb6fc2c6cf67eb8af2b99c612</hash>
 	</game>
-	<game name="Unlicensed/Terrifying 911 (Unl) (Metal Slug) (v1.1)">
+	<game name="Unlicensed/Terrifying 911 (Metal Slug) (v1.1) (Unl)">
 		<category></category>
-		<description>Terrifying 911 (Unl) (Metal Slug) (v1.1)</description>
-		<rom name="Terrifying 911 (Unl) (Metal Slug) (v1.1).gbc" size="2097152" crc="1d3b39ba" md5="bdc0d61bf526990fda1fd569af8e8ff8" sha1="1ac025a6809df7b80ea44635df5445eeec04d383"/>
+		<description>Terrifying 911 (Metal Slug) (v1.1) (Unl)</description>
+		<rom name="Terrifying 911 (Metal Slug) (v1.1) (Unl).gbc" size="2097152" crc="1d3b39ba" md5="bdc0d61bf526990fda1fd569af8e8ff8" sha1="1ac025a6809df7b80ea44635df5445eeec04d383"/>
 		<url>https://retroachievements.org/game/8926/hashes</url>
 		<hash>bdc0d61bf526990fda1fd569af8e8ff8</hash>
 	</game>
 	
-	<game name="Unlicensed/Luke Yingxiong 2 - Zook Hero 2 (Taiwan) (Unl) (Fix)">
+	<game name="Unlicensed/Luke Yingxiong 2 - Zook Hero 2 (Taiwan) (Fix) (Unl)">
 		<category></category>
-		<description>Luke Yingxiong 2 - Zook Hero 2 (Taiwan) (Unl) (Fix)</description>
-		<rom name="Luke Yingxiong 2 - Zook Hero 2 (Taiwan) (Unl) (Fix).gbc" size="524288" crc="31f9e371" md5="9f7b706359d6b0663361c1ec77127da2" sha1="f130ba54da95e734c0ed224a627d862a6979dc32"/>
+		<description>Luke Yingxiong 2 - Zook Hero 2 (Taiwan) (Fix) (Unl)</description>
+		<rom name="Luke Yingxiong 2 - Zook Hero 2 (Taiwan) (Fix) (Unl).gbc" size="524288" crc="31f9e371" md5="9f7b706359d6b0663361c1ec77127da2" sha1="f130ba54da95e734c0ed224a627d862a6979dc32"/>
 		<url>https://retroachievements.org/game/8239/hashes</url>
 		<hash>9f7b706359d6b0663361c1ec77127da2</hash>
 	</game>
@@ -1748,6 +1755,20 @@
 		<hash>a9cc81bffb2d1d3a9caa38f04e6f6c1d</hash>
 	</game>
 	
+	<game name="Retail/Hamtaro - Ham-Hams Unite! (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Hamtaro - Ham-Hams Unite! (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Hamtaro - Ham-Hams Unite! (Europe) (En,Fr,De,Es,It).gbc" size="4194304" crc="45be9d9b" md5="06157785417d6fe5c73388eb573981dc" sha1="047d9dedb77a448d31cd5dce23f4c3dd8714dafe"/>
+		<url>https://retroachievements.org/game/4920/hashes</url>
+		<hash>06157785417d6fe5c73388eb573981dc</hash>
+	</game>
+	<game name="Retail/Hamtaro - Ham-Hams Unite! (USA)">
+		<category></category>
+		<description>Hamtaro - Ham-Hams Unite! (USA)</description>
+		<rom name="Hamtaro - Ham-Hams Unite! (USA).gbc" size="2097152" crc="1271117f" md5="48ce279084e1fc7a9136cc211f4fad5d" sha1="9770bf59e932b41882839ce9eec033f576094fee"/>
+		<url>https://retroachievements.org/game/4920/hashes</url>
+		<hash>48ce279084e1fc7a9136cc211f4fad5d</hash>
+	</game>
 	<game name="Retail/Harry Potter and the Chamber of Secrets (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Da)">
 		<category></category>
 		<description>Harry Potter and the Chamber of Secrets (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Da)</description>
@@ -2100,6 +2121,14 @@
 		<hash>4e5d7a1b65b52af7ca88e0b7b2016197</hash>
 	</game>
 	
+	<game name="Retail/Luca no Puzzle de Daibouken! (Japan) (SGB Enhanced) (GB Compatible)">
+		<category></category>
+		<description>Luca no Puzzle de Daibouken! (Japan) (SGB Enhanced) (GB Compatible)</description>
+		<rom name="Luca no Puzzle de Daibouken! (Japan) (SGB Enhanced) (GB Compatible).gbc" size="524288" crc="3aebfad8" md5="74a6b62520a30ff28d5a7d19a7108c27" sha1="3c06fe05909ad632b761c6a1c00bc69da81aa358"/>
+		<url>https://retroachievements.org/game/11153/hashes</url>
+		<hash>74a6b62520a30ff28d5a7d19a7108c27</hash>
+	</game>
+	
 	<game name="Retail/Lucky Luke (USA) (En,Fr,De,Es)">
 		<category></category>
 		<description>Lucky Luke (USA) (En,Fr,De,Es)</description>
@@ -2440,10 +2469,10 @@
 		<hash>c576f119cb3ad8ad7b5f18e6755232f3</hash>
 	</game>
 	
-	<game name="Retail/Mobile Golf (Japan) (En) (marc_max) (v1.1)">
+	<game name="Retail/Mobile Golf (Japan) (En) (marc max) (v1.1)">
 		<category></category>
-		<description>Mobile Golf (Japan) (En) (marc_max) (v1.1)</description>
-		<rom name="Mobile Golf (Japan) (En) (marc_max) (v1.1).gbc" size="4194304" crc="5021fade" md5="23f98b48fe91b5c5b98f5adf7bcc828b" sha1="fbed277a8d0b34af12434af63bf2f077fd49be57"/>
+		<description>Mobile Golf (Japan) (En) (marc max) (v1.1)</description>
+		<rom name="Mobile Golf (Japan) (En) (marc max) (v1.1).gbc" size="4194304" crc="5021fade" md5="23f98b48fe91b5c5b98f5adf7bcc828b" sha1="fbed277a8d0b34af12434af63bf2f077fd49be57"/>
 		<url>https://retroachievements.org/game/17522/hashes</url>
 		<hash>23f98b48fe91b5c5b98f5adf7bcc828b</hash>
 	</game>
@@ -2573,8 +2602,6 @@
 		<url>https://retroachievements.org/game/10631/hashes</url>
 		<hash>54165d2bf7a040aa31d6d0956408d10d</hash>
 	</game>
-	
-	
 	
 	<game name="Retail/Nicktoons Racing (USA)">
 		<category></category>
@@ -2795,24 +2822,24 @@
 		<hash>219b2cc64e5a052003015d4bd4c622cd</hash>
 	</game>
 	
-	<game name="Retail/Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan) (En) (Artemis251) (v1.0)">
+	<game name="Retail/Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan) (En) (v1.0) (Artemis251)">
 		<category></category>
-		<description>Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan) (En) (Artemis251) (v1.0)</description>
-		<rom name="Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan) (En) (Artemis251) (v1.0).gbc" size="4194304" crc="d880dfc1" md5="b881fe7a48a4d6deb2e41ffd930712fd" sha1="34ca3f54ea2dbec907a4d9af92befe2771f7649c"/>
+		<description>Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan) (En) (v1.0) (Artemis251)</description>
+		<rom name="Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan) (En) (v1.0) (Artemis251).gbc" size="4194304" crc="d880dfc1" md5="b881fe7a48a4d6deb2e41ffd930712fd" sha1="34ca3f54ea2dbec907a4d9af92befe2771f7649c"/>
 		<url>https://retroachievements.org/game/3692/hashes</url>
 		<hash>b881fe7a48a4d6deb2e41ffd930712fd</hash>
 	</game>
-	<game name="Retail/Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan) (Es) (Shinichi999) (v3.0)">
+	<game name="Retail/Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan) (Es) (v3.0) (Shinichi999)">
 		<category></category>
-		<description>Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan) (Es) (Shinichi999) (v3.0)</description>
-		<rom name="Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan) (Es) (Shinichi999) (v3.0).gbc" size="4194304" crc="85f19b59" md5="ca9a80ffd6d1352faf785a048f92e47b" sha1="8483338c9204caa8414fc417c3cb3c11068c6ea5"/>
+		<description>Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan) (Es) (v3.0) (Shinichi999)</description>
+		<rom name="Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan) (Es) (v3.0) (Shinichi999).gbc" size="4194304" crc="85f19b59" md5="ca9a80ffd6d1352faf785a048f92e47b" sha1="8483338c9204caa8414fc417c3cb3c11068c6ea5"/>
 		<url>https://retroachievements.org/game/3692/hashes</url>
 		<hash>ca9a80ffd6d1352faf785a048f92e47b</hash>
 	</game>
-	<game name="Retail/Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan) (De) (Sephie) (v1.0)">
+	<game name="Retail/Pokemon Trading Card Game 2 - The Invasion of Team GR! (Japan) (De) (v1.0) (Sephie)">
 		<category></category>
-		<description>okemon Trading Card Game 2 - The Invasion of Team GR! (Japan) (De) (v1.0)</description>
-		<rom name="okemon Trading Card Game 2 - The Invasion of Team GR! (Japan) (De) (v1.0).gbc" size="4194304" crc="362b3392" md5="d61010c2d97018b8750e2a3e793cba57" sha1="1df054a88df0817f02f80c1e6a16bab7c1afd3a6"/>
+		<description>okemon Trading Card Game 2 - The Invasion of Team GR! (Japan) (De) (v1.0) (Sephie)</description>
+		<rom name="okemon Trading Card Game 2 - The Invasion of Team GR! (Japan) (De) (v1.0) (Sephie).gbc" size="4194304" crc="362b3392" md5="d61010c2d97018b8750e2a3e793cba57" sha1="1df054a88df0817f02f80c1e6a16bab7c1afd3a6"/>
 		<url>https://retroachievements.org/game/3692/hashes</url>
 		<hash>d61010c2d97018b8750e2a3e793cba57</hash>
 	</game>
@@ -2887,7 +2914,6 @@
 		<url>https://retroachievements.org/game/18696/hashes</url>
 		<hash>afd9281eac1eacd73c200cbc69f57b9e</hash>
 	</game>
-	
 	
 	<game name="Retail/Pro Darts (USA)">
 		<category></category>
@@ -2981,10 +3007,10 @@
 		<hash>178ea5a9eba6e7f35e894bad1ec34f77</hash>
 	</game>
 	
-	<game name="Retail/Revelations - The Demon Slayer (USA) (Sprite Hack) (DaveAugusta) (v1.0)">
+	<game name="Retail/Revelations - The Demon Slayer (USA) (Sprite) (DaveAugusta) (v1.0)">
 		<category></category>
-		<description>Revelations - The Demon Slayer (USA) (Sprite Hack) (DaveAugusta) (v1.0)</description>
-		<rom name="Revelations - The Demon Slayer (USA) (Sprite Hack) (DaveAugusta) (v1.0).gbc" size="1048576" crc="7d244818" md5="10a424307ed6e7c033a565e4b79b0cb7" sha1="56b3048503880c0f1836023d5a7b9bfb0cf04f77"/>
+		<description>Revelations - The Demon Slayer (USA) (Sprite) (DaveAugusta) (v1.0)</description>
+		<rom name="Revelations - The Demon Slayer (USA) (Sprite) (DaveAugusta) (v1.0).gbc" size="1048576" crc="7d244818" md5="10a424307ed6e7c033a565e4b79b0cb7" sha1="56b3048503880c0f1836023d5a7b9bfb0cf04f77"/>
 		<url>https://retroachievements.org/game/4972/hashes</url>
 		<hash>10a424307ed6e7c033a565e4b79b0cb7</hash>
 	</game>
@@ -3043,10 +3069,10 @@
 		<url>https://retroachievements.org/game/3637/hashes</url>
 		<hash>7ee095116f1733dc6ba2b2de3f28f5ef</hash>
 	</game>
-	<game name="Retail/Samurai Kid (Japan) (En) (marc_max) (v1.0)">
+	<game name="Retail/Samurai Kid (Japan) (En) (marc max) (v1.0)">
 		<category></category>
-		<description>Samurai Kid (Japan) (En) (marc_max) (v1.0)</description>
-		<rom name="Samurai Kid (Japan) (En) (marc_max) (v1.0).gbc" size="1048576" crc="ed238edb" md5="c4f6cd3e25ff074ffe337be7f43dd409" sha1="e03a3a6aedb9051e83a731eeef19536b1d15113a"/>
+		<description>Samurai Kid (Japan) (En) (marc max) (v1.0)</description>
+		<rom name="Samurai Kid (Japan) (En) (marc max) (v1.0).gbc" size="1048576" crc="ed238edb" md5="c4f6cd3e25ff074ffe337be7f43dd409" sha1="e03a3a6aedb9051e83a731eeef19536b1d15113a"/>
 		<url>https://retroachievements.org/game/3637/hashes</url>
 		<hash>c4f6cd3e25ff074ffe337be7f43dd409</hash>
 	</game>
@@ -3288,10 +3314,10 @@
 		<url>https://retroachievements.org/game/732/hashes</url>
 		<hash>6c7dc7ce74088a9e42a6fb8d98a67714</hash>
 	</game>
-	<game name="Retail/Super Robot Pinball (Japan) (En) (marc_max) (v1.0)">
+	<game name="Retail/Super Robot Pinball (Japan) (En) (marc max) (v1.0)">
 		<category></category>
-		<description>Super Robot Pinball (Japan) (En) (marc_max) (v1.0)</description>
-		<rom name="Super Robot Pinball (Japan) (En) (marc_max) (v1.0).gbc" size="2097152" crc="bf078889" md5="ebfe169aa00c10e50529c6a4b41e61ed" sha1="0e712d025bd481df40038f5c1d4bc8cb4a0ec20f"/>
+		<description>Super Robot Pinball (Japan) (En) (marc max) (v1.0)</description>
+		<rom name="Super Robot Pinball (Japan) (En) (marc max) (v1.0).gbc" size="2097152" crc="bf078889" md5="ebfe169aa00c10e50529c6a4b41e61ed" sha1="0e712d025bd481df40038f5c1d4bc8cb4a0ec20f"/>
 		<url>https://retroachievements.org/game/732/hashes</url>
 		<hash>ebfe169aa00c10e50529c6a4b41e61ed</hash>
 	</game>

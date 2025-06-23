@@ -4,92 +4,92 @@
 	<header>
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
-		<category>1G1R</category>
-		<version>20250621</version>
-		<date>21 June 2025</date>
+		<category>No Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
 		<titlecount>539</titlecount>
 		<hashcount>709</hashcount>
 	</header>
-	<game name="Metroid Prime - Hunters - First Hunt (Europe) (En,Fr,De,Es,It) (Not for Resale)">
+	<game name="Metroid Prime - Hunters - First Hunt (Europe) (En,Fr,De,Es,It) (Not for Resale) (Demo)">
 		<category>Demo</category>
-		<description>Metroid Prime - Hunters - First Hunt (Europe) (En,Fr,De,Es,It) (Not for Resale)</description>
-		<release name="Metroid Prime - Hunters - First Hunt (Europe) (En,Fr,De,Es,It) (Not for Resale)" region="Europe"/>
-		<rom name="Metroid Prime - Hunters - First Hunt (Europe) (En,Fr,De,Es,It) (Not for Resale).nds" size="16777216" crc="1276fb36" md5="cbe453b8e6b7cbf143fa3218b54b4d41" sha1="52ff7f9d52076e5a5efc1659dea1f202ff4e2072"/>
+		<description>Metroid Prime - Hunters - First Hunt (Europe) (En,Fr,De,Es,It) (Not for Resale) (Demo)</description>
+		<release name="Metroid Prime - Hunters - First Hunt (Europe) (En,Fr,De,Es,It) (Not for Resale) (Demo)" region="Europe"/>
+		<rom name="Metroid Prime - Hunters - First Hunt (Europe) (En,Fr,De,Es,It) (Not for Resale) (Demo).nds" size="16777216" crc="1276fb36" md5="cbe453b8e6b7cbf143fa3218b54b4d41" sha1="52ff7f9d52076e5a5efc1659dea1f202ff4e2072"/>
 		<url>https://retroachievements.org/game/17239/hashes</url>
 		<hash>efc4c41019d65f4cbea17187704ba712</hash>
 	</game>
-	<game name="Metroid Prime - Hunters - First Hunt (USA, Australia) (Not for Resale)" cloneof="Metroid Prime - Hunters - First Hunt (Europe) (En,Fr,De,Es,It) (Not for Resale)">
+	<game name="Metroid Prime - Hunters - First Hunt (USA, Australia) (Not for Resale) (Demo)" cloneof="Metroid Prime - Hunters - First Hunt (Europe) (En,Fr,De,Es,It) (Not for Resale) (Demo)">
 		<category>Demo</category>
-		<description>Metroid Prime - Hunters - First Hunt (USA, Australia) (Not for Resale)</description>
-		<release name="Metroid Prime - Hunters - First Hunt (USA, Australia) (Not for Resale)" region="Australia"/>
-		<release name="Metroid Prime - Hunters - First Hunt (USA, Australia) (Not for Resale)" region="USA"/>
-		<rom name="Metroid Prime - Hunters - First Hunt (USA, Australia) (Not for Resale).nds" size="16777216" crc="c2fb5233" md5="4886695ad984a7048122567de1f02f1e" sha1="345a5fcc1c1174506a61c34ddf313b90c95c6496"/>
+		<description>Metroid Prime - Hunters - First Hunt (USA, Australia) (Not for Resale) (Demo)</description>
+		<release name="Metroid Prime - Hunters - First Hunt (USA, Australia) (Not for Resale) (Demo)" region="Australia"/>
+		<release name="Metroid Prime - Hunters - First Hunt (USA, Australia) (Not for Resale) (Demo)" region="USA"/>
+		<rom name="Metroid Prime - Hunters - First Hunt (USA, Australia) (Not for Resale) (Demo).nds" size="16777216" crc="c2fb5233" md5="4886695ad984a7048122567de1f02f1e" sha1="345a5fcc1c1174506a61c34ddf313b90c95c6496"/>
 		<url>https://retroachievements.org/game/17239/hashes</url>
 		<hash>fb0b7b8a81983425e4bd76200bdfaeb7</hash>
 	</game>
 	
-	<game name="SM64DS - Excerpt from Super Mario 256 (v0.1.4) (Josh65536) (Hack)">
+	<game name="SM64DS - Excerpt from Super Mario 256 (v0.1.4) (Josh65536) (Demo) (Hack)">
 		<category>Hack</category>
-		<description>SM64DS - Excerpt from Super Mario 256 (v0.1.4) (Josh65536) (Hack)</description>
-		<release name="SM64DS - Excerpt from Super Mario 256 (v0.1.4) (Josh65536) (Hack)" region="World"/>
-		<rom name="SM64DS - Excerpt from Super Mario 256 (v0.1.4) (Josh65536) (Hack).nds" size="20740796" crc="fcf40392" md5="88f913bf84ce63ac3a2424c2e010a486" sha1="34f6b4312ec03f50a36f78629fe14592595d8412"/>
+		<description>SM64DS - Excerpt from Super Mario 256 (v0.1.4) (Josh65536) (Demo) (Hack)</description>
+		<release name="SM64DS - Excerpt from Super Mario 256 (v0.1.4) (Josh65536) (Demo) (Hack)" region="World"/>
+		<rom name="SM64DS - Excerpt from Super Mario 256 (v0.1.4) (Josh65536) (Demo) (Hack).nds" size="20740796" crc="fcf40392" md5="88f913bf84ce63ac3a2424c2e010a486" sha1="34f6b4312ec03f50a36f78629fe14592595d8412"/>
 		<url>https://retroachievements.org/game/15578/hashes</url>
 		<hash>4d3701f733b2de3ac28aa98eb9ac1fa8</hash>
 	</game>
 	
-	<game name="SM64DS - Mario's Holiday (SKELUX) (Hack)">
+	<game name="SM64DS - Mario's Holiday (SKELUX) (Demo) (Hack)">
 		<category>Hack</category>
-		<description>SM64DS - Mario's Holiday (SKELUX) (Hack)</description>
-		<release name="SM64DS - Mario's Holiday (SKELUX) (Hack)" region="World"/>
-		<rom name="SM64DS - Mario's Holiday (SKELUX) (Hack).nds" size="19936438" crc="df29be1a" md5="4fc8c2add984df031c72f5cf00faed44" sha1="fa3368faec162b27c23794c17f58b6fcf70a7bfa"/>
+		<description>SM64DS - Mario's Holiday (SKELUX) (Demo) (Hack)</description>
+		<release name="SM64DS - Mario's Holiday (SKELUX) (Demo) (Hack)" region="World"/>
+		<rom name="SM64DS - Mario's Holiday (SKELUX) (Demo) (Hack).nds" size="19936438" crc="df29be1a" md5="4fc8c2add984df031c72f5cf00faed44" sha1="fa3368faec162b27c23794c17f58b6fcf70a7bfa"/>
 		<url>https://retroachievements.org/game/17080/hashes</url>
 		<hash>fe2aaa946da6755b49b88d681b7782bf</hash>
 	</game>
 	
-	<game name="MKDS - Revolution Kart DS (Beta v2.1) (RoverNeko) (Hack)">
+	<game name="MKDS - Revolution Kart DS (Beta v2.1) (RoverNeko) (Demo) (Hack)">
 		<category>Hack</category>
-		<description>MKDS - Revolution Kart DS (Beta v2.1) (RoverNeko) (Hack)</description>
-		<release name="MKDS - Revolution Kart DS (Beta v2.1) (RoverNeko) (Hack)" region="World"/>
-		<rom name="MKDS - Revolution Kart DS (Beta v2.1) (RoverNeko) (Hack).nds" size="9109555" crc="a07adce1" md5="683e395a75f412208db336df013d7c70" sha1="b0c4cd345a82b15db298cd50acb90699aa7ad3bb"/>
+		<description>MKDS - Revolution Kart DS (Beta v2.1) (RoverNeko) (Demo) (Hack)</description>
+		<release name="MKDS - Revolution Kart DS (Beta v2.1) (RoverNeko) (Demo) (Hack)" region="World"/>
+		<rom name="MKDS - Revolution Kart DS (Beta v2.1) (RoverNeko) (Demo) (Hack).nds" size="9109555" crc="a07adce1" md5="683e395a75f412208db336df013d7c70" sha1="b0c4cd345a82b15db298cd50acb90699aa7ad3bb"/>
 		<url>https://retroachievements.org/game/17842/hashes</url>
 		<hash>97df275b2eea49d8f7220c32489af6e5</hash>
 	</game>
 	
-	<game name="SM64DS - Super Among Us 64 DS (Demo) (SolarZ) (Hack)">
+	<game name="SM64DS - Super Among Us 64 DS (SolarZ) (Demo) (Hack)">
 		<category>Hack</category>
-		<description>SM64DS - Super Among Us 64 DS (Demo) (SolarZ) (Hack)</description>
-		<release name="SM64DS - Super Among Us 64 DS (Demo) (SolarZ) (Hack)" region="World"/>
-		<rom name="SM64DS - Super Among Us 64 DS (Demo) (SolarZ) (Hack).nds" size="17457993" crc="3a2c0bc7" md5="6c6a548b5216553fa00746db94c89bbd" sha1="124388166169a4cb818f8d225dfa8d15b784ef0f"/>
+		<description>SM64DS - Super Among Us 64 DS (SolarZ) (Demo) (Hack)</description>
+		<release name="SM64DS - Super Among Us 64 DS (SolarZ) (Demo) (Hack)" region="World"/>
+		<rom name="SM64DS - Super Among Us 64 DS (SolarZ) (Demo) (Hack).nds" size="17457993" crc="3a2c0bc7" md5="6c6a548b5216553fa00746db94c89bbd" sha1="124388166169a4cb818f8d225dfa8d15b784ef0f"/>
 		<url>https://retroachievements.org/game/18603/hashes</url>
 		<hash>4146855b0630bdfda94a579ba21fea96</hash>
 	</game>
 	
-	<game name="SM64DS - Super Mario Star World (Trial) (SKELUX) (Hack)">
+	<game name="SM64DS - Super Mario Star World (Trial) (SKELUX) (Demo) (Hack)">
 		<category>Hack</category>
-		<description>SM64DS - Super Mario Star World (Trial) (SKELUX) (Hack)</description>
-		<release name="SM64DS - Super Mario Star World (Trial) (SKELUX) (Hack)" region="World"/>
-		<rom name="SM64DS - Super Mario Star World (Trial) (SKELUX) (Hack).nds" size="134217728" crc="623eb0fa" md5="55f47af80030d9bf5773a6ff3b92fee7" sha1="3a91d32c6709925e875264840513fb5be4bdc7d6"/>
+		<description>SM64DS - Super Mario Star World (Trial) (SKELUX) (Demo) (Hack)</description>
+		<release name="SM64DS - Super Mario Star World (Trial) (SKELUX) (Demo) (Hack)" region="World"/>
+		<rom name="SM64DS - Super Mario Star World (Trial) (SKELUX) (Demo) (Hack).nds" size="134217728" crc="623eb0fa" md5="55f47af80030d9bf5773a6ff3b92fee7" sha1="3a91d32c6709925e875264840513fb5be4bdc7d6"/>
 		<url>https://retroachievements.org/game/28106/hashes</url>
 		<hash>b0c8cca65f0048bf8d1b0c002a365591</hash>
 	</game>
 	
-	<game name="SM64DS - Super Minecraft 64 DS (RatonGuerrier) (Hack)">
+	<game name="SM64DS - Super Minecraft 64 DS (RatonGuerrier) (Demo) (Hack)">
 		<category>Hack</category>
-		<description>SM64DS - Super Minecraft 64 DS (RatonGuerrier) (Hack)</description>
-		<release name="SM64DS - Super Minecraft 64 DS (RatonGuerrier) (Hack)" region="World"/>
-		<rom name="SM64DS - Super Minecraft 64 DS (RatonGuerrier) (Hack).nds" size="16989536" crc="23bec597" md5="dd008d345a3665496147109a51a028d7" sha1="06eb4b015969ee260f94b73e00f94861157ea757"/>
+		<description>SM64DS - Super Minecraft 64 DS (RatonGuerrier) (Demo) (Hack)</description>
+		<release name="SM64DS - Super Minecraft 64 DS (RatonGuerrier) (Demo) (Hack)" region="World"/>
+		<rom name="SM64DS - Super Minecraft 64 DS (RatonGuerrier) (Demo) (Hack).nds" size="16989536" crc="23bec597" md5="dd008d345a3665496147109a51a028d7" sha1="06eb4b015969ee260f94b73e00f94861157ea757"/>
 		<url>https://retroachievements.org/game/24389/hashes</url>
 		<hash>a47e5cd9ad59c7b1aeb426089b7b01ea</hash>
 	</game>
 	
-	<game name="SM64DS - The Super Mario Bros. Movie 64 DS (v0.1) (SolarZ) (Hack)">
+	<game name="SM64DS - The Super Mario Bros. Movie 64 DS (v0.1) (SolarZ) (Demo) (Hack)">
 		<category>Hack</category>
-		<description>SM64DS - The Super Mario Bros. Movie 64 DS (v0.1) (SolarZ) (Hack)</description>
-		<release name="SM64DS - The Super Mario Bros. Movie 64 DS (v0.1) (SolarZ) (Hack)" region="World"/>
-		<rom name="SM64DS - The Super Mario Bros. Movie 64 DS (v0.1) (SolarZ) (Hack).nds" size="18364628" crc="12181d82" md5="de7907ab119b172772a95777e8121a42" sha1="8f0a20fb456319fab724fbda611d8324d7ffac9e"/>
+		<description>SM64DS - The Super Mario Bros. Movie 64 DS (v0.1) (SolarZ) (Demo) (Hack)</description>
+		<release name="SM64DS - The Super Mario Bros. Movie 64 DS (v0.1) (SolarZ) (Demo) (Hack)" region="World"/>
+		<rom name="SM64DS - The Super Mario Bros. Movie 64 DS (v0.1) (SolarZ) (Demo) (Hack).nds" size="18364628" crc="12181d82" md5="de7907ab119b172772a95777e8121a42" sha1="8f0a20fb456319fab724fbda611d8324d7ffac9e"/>
 		<url>https://retroachievements.org/game/22591/hashes</url>
 		<hash>f758cb9568edf09389267536555ce6b4</hash>
 	</game>
@@ -121,11 +121,11 @@
 		<hash>c89a151405fcc0ad163a1eda1dffaaa7</hash>
 	</game>
 	
-	<game name="Castlevania - PoR - Circle of the Realm (v1.0) (ncoZ) (Hack)">
+	<game name="Castlevania - Circle of the Realm (v1.0) (ncoZ) (Hack)">
 		<category>Hack</category>
-		<description>Castlevania - PoR - Circle of the Realm (v1.0) (ncoZ) (Hack)</description>
-		<release name="Castlevania - PoR - Circle of the Realm (v1.0) (ncoZ) (Hack)" region="World"/>
-		<rom name="Castlevania - PoR - Circle of the Realm (v1.0) (ncoZ) (Hack).nds" size="134217728" crc="4d30b06a" md5="e2d6c53a6c83e636f659a5b3710ff1bf" sha1="93e8a8d039944bcf453b50c24c3f0f0c2ded2d8b"/>
+		<description>Castlevania - Circle of the Realm (v1.0) (ncoZ) (Hack)</description>
+		<release name="Castlevania - Circle of the Realm (v1.0) (ncoZ) (Hack)" region="World"/>
+		<rom name="Castlevania - Circle of the Realm (v1.0) (ncoZ) (Hack).nds" size="134217728" crc="4d30b06a" md5="e2d6c53a6c83e636f659a5b3710ff1bf" sha1="93e8a8d039944bcf453b50c24c3f0f0c2ded2d8b"/>
 		<url>https://retroachievements.org/game/23763/hashes</url>
 		<hash>8b8032604291c16a34fcd2f088ff2a02</hash>
 	</game>
@@ -156,27 +156,27 @@
 		<hash>e3fbfde4f7ab921ed0210ff01c30fdfd</hash>
 	</game>
 	
-	<game name="Castlevania - DoS - Galactic Panic (v1.0) (Oersted) (Hack)">
+	<game name="Castlevania - Galactic Panic (v1.0) (Oersted) (Hack)">
 		<category>Hack</category>
-		<description>Castlevania - DoS - Galactic Panic (v1.0) (Oersted) (Hack)</description>
-		<release name="Castlevania - DoS - Galactic Panic (v1.0) (Oersted) (Hack)" region="World"/>
-		<rom name="Castlevania - DoS - Galactic Panic (v1.0) (Oersted) (Hack).nds" size="67108864" crc="0f2a3b67" md5="1452c163e32af3d77ef6147ed3e9ba4d" sha1="63c446b6f2461f5c00f56612173c828477aef47c"/>
+		<description>Castlevania - Galactic Panic (v1.0) (Oersted) (Hack)</description>
+		<release name="Castlevania - Galactic Panic (v1.0) (Oersted) (Hack)" region="World"/>
+		<rom name="Castlevania - Galactic Panic (v1.0) (Oersted) (Hack).nds" size="67108864" crc="0f2a3b67" md5="1452c163e32af3d77ef6147ed3e9ba4d" sha1="63c446b6f2461f5c00f56612173c828477aef47c"/>
 		<url>https://retroachievements.org/game/28377/hashes</url>
 		<hash>d4a6f0e81960b12134a88bf77e030847</hash>
 	</game>
 	
-	<game name="Castlevania - OoE - Zero Collection - Zero Edition (v2.1.0) (Oersted) (Hack)" cloneof="Castlevania - OoE - Zero Collection - Omega Edition (v2.1.0) (Oersted) (Hack)">
+	<game name="Castlevania - Zero Collection - Zero Edition (v2.1.0) (Oersted) (Hack)" cloneof="Castlevania - Zero Collection - Omega Edition (v2.1.0) (Oersted) (Hack)">
 		<category>Hack</category>
-		<description>Castlevania - OoE - Zero Collection - Zero Edition (v2.1.0) (Oersted) (Hack)</description>
-		<rom name="Castlevania - OoE - Zero Collection - Zero Edition (v2.1.0) (Oersted) (Hack).nds" size="134217728" crc="57988105" md5="eb764756c8b880116f6774e067a11310" sha1="bba0bb2bb88da00f42c5edbf0ce27fb6d8c85dfd"/>
+		<description>Castlevania - Zero Collection - Zero Edition (v2.1.0) (Oersted) (Hack)</description>
+		<rom name="Castlevania - Zero Collection - Zero Edition (v2.1.0) (Oersted) (Hack).nds" size="134217728" crc="57988105" md5="eb764756c8b880116f6774e067a11310" sha1="bba0bb2bb88da00f42c5edbf0ce27fb6d8c85dfd"/>
 		<url>https://retroachievements.org/game/23765/hashes</url>
 		<hash>2616241a33f082d7138f477cfad159bf</hash>
 	</game>
-	<game name="Castlevania - OoE - Zero Collection - Omega Edition (v2.1.0) (Oersted) (Hack)">
+	<game name="Castlevania - Zero Collection - Omega Edition (v2.1.0) (Oersted) (Hack)">
 		<category>Hack</category>
-		<description>Castlevania - OoE - Zero Collection - Omega Edition (v2.1.0) (Oersted) (Hack)</description>
-		<release name="Castlevania - OoE - Zero Collection - Omega Edition (v2.1.0) (Oersted) (Hack)" region="World"/>
-		<rom name="Castlevania - OoE - Zero Collection - Omega Edition (v2.1.0) (Oersted) (Hack).nds" size="134217728" crc="48226899" md5="f2f7f3c0a4aefdadd682ace5d0b5c335" sha1="b28dce99945dafdf0f979a8b4d3abe346d0554d6"/>
+		<description>Castlevania - Zero Collection - Omega Edition (v2.1.0) (Oersted) (Hack)</description>
+		<release name="Castlevania - Zero Collection - Omega Edition (v2.1.0) (Oersted) (Hack)" region="World"/>
+		<rom name="Castlevania - Zero Collection - Omega Edition (v2.1.0) (Oersted) (Hack).nds" size="134217728" crc="48226899" md5="f2f7f3c0a4aefdadd682ace5d0b5c335" sha1="b28dce99945dafdf0f979a8b4d3abe346d0554d6"/>
 		<url>https://retroachievements.org/game/23765/hashes</url>
 		<hash>d5df925c0bfb8da498c231f00f2629e3</hash>
 	</game>
@@ -233,36 +233,36 @@
 		<hash>3602123cb39806a732589a2b699bb445</hash>
 	</game>
 	
-	<game name="Pokemon MD - EoS - Finneon Accidentally Causes the End of the World (v1.5) (minarchu) (Hack)">
+	<game name="Pokemon - Finneon Accidentally Causes the End of the World (v1.5) (minarchu) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon MD - EoS - Finneon Accidentally Causes the End of the World (v1.5) (minarchu) (Hack)</description>
-		<release name="Pokemon MD - EoS - Finneon Accidentally Causes the End of the World (v1.5) (minarchu) (Hack)" region="World"/>
-		<rom name="Pokemon MD - EoS - Finneon Accidentally Causes the End of the World (v1.5) (minarchu) (Hack).nds" size="91695176" crc="0c7f03ce" md5="3ae7a3d7aa521c6b6542eb90c86ab115" sha1="0998f91c3f2c7cf083ede742b02517be20c75439"/>
+		<description>Pokemon - Finneon Accidentally Causes the End of the World (v1.5) (minarchu) (Hack)</description>
+		<release name="Pokemon - Finneon Accidentally Causes the End of the World (v1.5) (minarchu) (Hack)" region="World"/>
+		<rom name="Pokemon - Finneon Accidentally Causes the End of the World (v1.5) (minarchu) (Hack).nds" size="91695176" crc="0c7f03ce" md5="3ae7a3d7aa521c6b6542eb90c86ab115" sha1="0998f91c3f2c7cf083ede742b02517be20c75439"/>
 		<url>https://retroachievements.org/game/31191/hashes</url>
 		<hash>b3e4ec402672841728210d3d17008f8c</hash>
 	</game>
 	
-	<game name="Pokemon MD - EoS - Gengar (kkzero) (Hack)">
+	<game name="Pokemon - Gengar (kkzero) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon MD - EoS - Gengar (kkzero) (Hack)</description>
-		<release name="Pokemon MD - EoS - Gengar (kkzero) (Hack)" region="World"/>
-		<rom name="Pokemon MD - EoS - Gengar (kkzero) (Hack).nds" size="91049544" crc="4b8dd80a" md5="545cfe30ba6c7f6076849775346d132d" sha1="11ef5617c7e7c31f29e029f871803d4d949a35fb"/>
+		<description>Pokemon - Gengar (kkzero) (Hack)</description>
+		<release name="Pokemon - Gengar (kkzero) (Hack)" region="World"/>
+		<rom name="Pokemon - Gengar (kkzero) (Hack).nds" size="91049544" crc="4b8dd80a" md5="545cfe30ba6c7f6076849775346d132d" sha1="11ef5617c7e7c31f29e029f871803d4d949a35fb"/>
 		<url>https://retroachievements.org/game/18122/hashes</url>
 		<hash>019504a0cbde18d9113a5c204d3fc6d5</hash>
 	</game>
 	
-	<game name="Pokemon B2 - Humilau Resort (Hard) (v1.5.0) (KH!TheBlackQuill) (RA) (Hack)">
+	<game name="Pokemon - Humilau Resort (Hard) (v1.5.0) (KH!TheBlackQuill) (RA) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon B2 - Humilau Resort (Hard) (v1.5.0) (KH!TheBlackQuill) (RA) (Hack)</description>
-		<rom name="Pokemon B2 - Humilau Resort (Hard) (v1.5.0) (KH!TheBlackQuill) (RA) (Hack).nds" size="536870912" crc="45ac52c0" md5="1573fa238a61b4d8f51f1cf0ffb4559b" sha1="e27c247400f1fe164e5d52e292027db2fbeaf739"/>
+		<description>Pokemon - Humilau Resort (Hard) (v1.5.0) (KH!TheBlackQuill) (RA) (Hack)</description>
+		<rom name="Pokemon - Humilau Resort (Hard) (v1.5.0) (KH!TheBlackQuill) (RA) (Hack).nds" size="536870912" crc="45ac52c0" md5="1573fa238a61b4d8f51f1cf0ffb4559b" sha1="e27c247400f1fe164e5d52e292027db2fbeaf739"/>
 		<url>https://retroachievements.org/game/33486/hashes</url>
 		<hash>bcf3d73aca673c420a9b873014c4a9ef</hash>
 	</game>
-	<game name="Pokemon B2 - Humilau Resort (Easy) (v1.5.0) (KH!TheBlackQuill) (RA) (Hack)" cloneof="Pokemon B2 - Humilau Resort (Hard) (v1.5.0) (KH!TheBlackQuill) (RA) (Hack)">
+	<game name="Pokemon -  Humilau Resort (Easy) (v1.5.0) (KH!TheBlackQuill) (RA) (Hack)" cloneof="Pokemon - Humilau Resort (Hard) (v1.5.0) (KH!TheBlackQuill) (RA) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon B2 - Humilau Resort (Easy) (v1.5.0) (KH!TheBlackQuill) (RA) (Hack)</description>
-		<release name="Pokemon B2 - Humilau Resort (Easy) (v1.5.0) (KH!TheBlackQuill) (RA) (Hack)" region="World"/>
-		<rom name="Pokemon B2 - Humilau Resort (Easy) (v1.5.0) (KH!TheBlackQuill) (RA) (Hack).nds" size="536870912" crc="78fd5690" md5="ab9798fcf86bd5e9b701ddf88d87f94c" sha1="73bb8cdd7ceb0bc39f18c386fc0f25f173b0cd2a"/>
+		<description>Pokemon - Humilau Resort (Easy) (v1.5.0) (KH!TheBlackQuill) (RA) (Hack)</description>
+		<release name="Pokemon - Humilau Resort (Easy) (v1.5.0) (KH!TheBlackQuill) (RA) (Hack)" region="World"/>
+		<rom name="Pokemon - Humilau Resort (Easy) (v1.5.0) (KH!TheBlackQuill) (RA) (Hack).nds" size="536870912" crc="78fd5690" md5="ab9798fcf86bd5e9b701ddf88d87f94c" sha1="73bb8cdd7ceb0bc39f18c386fc0f25f173b0cd2a"/>
 		<url>https://retroachievements.org/game/33486/hashes</url>
 		<hash>f71846896c9ceb56565cb8191b52d4d9</hash>
 	</game>
@@ -357,43 +357,43 @@
 		<hash>e9bbb39abf88029b04f4d5b5351c956b</hash>
 	</game>
 	
-	<game name="Pokemon MD - EoS - Divided Spirits (tainted3886) (Hack)">
+	<game name="Pokemon - Divided Spirits (tainted3886) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon MD - EoS - Divided Spirits (tainted3886) (Hack)</description>
-		<release name="Pokemon MD - EoS - Divided Spirits (tainted3886) (Hack)" region="World"/>
-		<rom name="Pokemon MD - EoS - Divided Spirits (tainted3886) (Hack).nds" size="92382792" crc="0fcaa6b4" md5="87f5e8c626ab54c55739d179da58e559" sha1="575352924f7891b63780f8f6f4f9fe4b24ff2797"/>
+		<description>Pokemon - Divided Spirits (tainted3886) (Hack)</description>
+		<release name="Pokemon - Divided Spirits (tainted3886) (Hack)" region="World"/>
+		<rom name="Pokemon - Divided Spirits (tainted3886) (Hack).nds" size="92382792" crc="0fcaa6b4" md5="87f5e8c626ab54c55739d179da58e559" sha1="575352924f7891b63780f8f6f4f9fe4b24ff2797"/>
 		<url>https://retroachievements.org/game/24939/hashes</url>
 		<hash>6630d61ac94fb03e381a613c8fe9d1f1</hash>
 	</game>
 	
-	<game name="Pokemon MD - EoS - Future of Hope (v1.0) (baronessfaron#0) (Hack)">
+	<game name="Pokemon - Future of Hope (v1.0) (baronessfaron#0) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon MD - EoS - Future of Hope (v1.0) (baronessfaron#0) (Hack)</description>
-		<release name="Pokemon MD - EoS - Future of Hope (v1.0) (baronessfaron#0) (Hack)" region="World"/>
-		<rom name="Pokemon MD - EoS - Future of Hope (v1.0) (baronessfaron#0) (Hack).nds" size="91522120" crc="78515d26" md5="19ecd306bf27de63e61aaec16881887e" sha1="cdf4d196b9484ddf53930dbbbfbc678a09a8b9d6"/>
+		<description>Pokemon - Future of Hope (v1.0) (baronessfaron#0) (Hack)</description>
+		<release name="Pokemon - Future of Hope (v1.0) (baronessfaron#0) (Hack)" region="World"/>
+		<rom name="Pokemon - Future of Hope (v1.0) (baronessfaron#0) (Hack).nds" size="91522120" crc="78515d26" md5="19ecd306bf27de63e61aaec16881887e" sha1="cdf4d196b9484ddf53930dbbbfbc678a09a8b9d6"/>
 		<url>https://retroachievements.org/game/24938/hashes</url>
 		<hash>caaa080c616ae0da3091063f69f838d0</hash>
 	</game>
 	
-	<game name="Pokemon Renegade Platinum (v1.3.0) (Drayano) - Following Platinum Integration (v2.0) + 1 in 512 Shiny Rate (chensquared-art) (Hack)" cloneof="Pokemon Renegade Platinum (v1.3.0) (Drayano) (Hack)">
+	<game name="Pokemon - Renegade Platinum (v1.3.0) (Drayano) - Following Platinum Integration (v2.0) + 1 in 512 Shiny Rate (chensquared-art) (Hack)" cloneof="Pokemon - Renegade Platinum (v1.3.0) (Drayano) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Renegade Platinum (v1.3.0) (Drayano) - Following Platinum Integration (v2.0) + 1 in 512 Shiny Rate (chensquared-art) (Hack)</description>
-		<release name="Pokemon Renegade Platinum (v1.3.0) (Drayano) - Following Platinum Integration (v2.0) + 1 in 512 Shiny Rate (chensquared-art) (Hack)" region="World"/>
-		<rom name="Pokemon Renegade Platinum (v1.3.0) (Drayano) - Following Platinum Integration (v2.0) + 1 in 512 Shiny Rate (chensquared-art) (Hack).nds" size="134217728" crc="b3419be0" md5="ab85af4bc9fa1a50550ec567ad25a593" sha1="a783313837607eb7f9fba0d1f6266992d0c8404b"/>
+		<description>Pokemon - Renegade Platinum (v1.3.0) (Drayano) - Following Platinum Integration (v2.0) + 1 in 512 Shiny Rate (chensquared-art) (Hack)</description>
+		<release name="Pokemon - Renegade Platinum (v1.3.0) (Drayano) - Following Platinum Integration (v2.0) + 1 in 512 Shiny Rate (chensquared-art) (Hack)" region="World"/>
+		<rom name="Pokemon - Renegade Platinum (v1.3.0) (Drayano) - Following Platinum Integration (v2.0) + 1 in 512 Shiny Rate (chensquared-art) (Hack).nds" size="134217728" crc="b3419be0" md5="ab85af4bc9fa1a50550ec567ad25a593" sha1="a783313837607eb7f9fba0d1f6266992d0c8404b"/>
 		<url>https://retroachievements.org/game/16196/hashes</url>
 		<hash>60000586a8e1b1e6ae88f9ce6a2f287b</hash>
 	</game>
-	<game name="Pokemon Renegade Platinum (v1.3.0) (Drayano) (Hack)">
+	<game name="Pokemon - Renegade Platinum (v1.3.0) (Drayano) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Renegade Platinum (v1.3.0) (Drayano) (Hack)</description>
-		<rom name="Pokemon Renegade Platinum (v1.3.0) (Drayano) (Hack).nds" size="104923028" crc="20ace009" md5="4cbf654b4735760f8efd64a8a41415ca" sha1="d4ee068b7e0a19a848436369f145e3154afe13ca"/>
+		<description>Pokemon - Renegade Platinum (v1.3.0) (Drayano) (Hack)</description>
+		<rom name="Pokemon - Renegade Platinum (v1.3.0) (Drayano) (Hack).nds" size="104923028" crc="20ace009" md5="4cbf654b4735760f8efd64a8a41415ca" sha1="d4ee068b7e0a19a848436369f145e3154afe13ca"/>
 		<url>https://retroachievements.org/game/16196/hashes</url>
 		<hash>97ac7f51107aff3251f5430c65b0f1e6</hash>
 	</game>
-	<game name="Pokemon Renegade Platinum (v1.3.0) (Drayano) - Following Platinum Integration (v2.0) (chensquared-art) (Hack)" cloneof="Pokemon Renegade Platinum (v1.3.0) (Drayano) (Hack)">
+	<game name="Pokemon - Renegade Platinum (v1.3.0) (Drayano) - Following Platinum Integration (v2.0) (chensquared-art) (Hack)" cloneof="Pokemon - Renegade Platinum (v1.3.0) (Drayano) (Hack)">
 		<category>Hack</category>
-		<description>Pokemon Renegade Platinum (v1.3.0) (Drayano) - Following Platinum Integration (v2.0) (chensquared-art) (Hack)</description>
-		<rom name="Pokemon Renegade Platinum (v1.3.0) (Drayano) - Following Platinum Integration (v2.0) (chensquared-art) (Hack).nds" size="134217728" crc="3a23536c" md5="478f2d875830a99e7ac025ca7944d6c1" sha1="9fe37a855782265c8567d5d19aebe6a8ebae9bd6"/>
+		<description>Pokemon - Renegade Platinum (v1.3.0) (Drayano) - Following Platinum Integration (v2.0) (chensquared-art) (Hack)</description>
+		<rom name="Pokemon - Renegade Platinum (v1.3.0) (Drayano) - Following Platinum Integration (v2.0) (chensquared-art) (Hack).nds" size="134217728" crc="3a23536c" md5="478f2d875830a99e7ac025ca7944d6c1" sha1="9fe37a855782265c8567d5d19aebe6a8ebae9bd6"/>
 		<url>https://retroachievements.org/game/16196/hashes</url>
 		<hash>dac891923bf85938b422758dd3159a25</hash>
 	</game>
@@ -570,321 +570,321 @@
 		<hash>0d570a5a33eadf519cb3fad342c3d5c8</hash>
 	</game>
 	
-	<game name="Game &amp; Watch Donkey Kong Jr (World) (v1.1) (Aftermarket) (Unl) (PaulGoes)">
+	<game name="Game &amp; Watch Donkey Kong Jr (World) (v1.1) (PaulGoes) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Game &amp; Watch Donkey Kong Jr (World) (v1.1) (Aftermarket) (Unl) (PaulGoes)</description>
-		<release name="Game &amp; Watch Donkey Kong Jr (World) (v1.1) (Aftermarket) (Unl) (PaulGoes)" region="World"/>
-		<rom name="Game &amp; Watch Donkey Kong Jr (World) (v1.1) (Aftermarket) (Unl) (PaulGoes).nds" size="1112064" crc="fd73be30" md5="8f7239aa38baf3c7bd5b6c9843fd3e43" sha1="f3f72e99387a6f0f68c159e5c5960e71a190dd62"/>
+		<description>Game &amp; Watch Donkey Kong Jr (World) (v1.1) (PaulGoes) (Aftermarket)</description>
+		<release name="Game &amp; Watch Donkey Kong Jr (World) (v1.1) (PaulGoes) (Aftermarket)" region="World"/>
+		<rom name="Game &amp; Watch Donkey Kong Jr (World) (v1.1) (PaulGoes) (Aftermarket).nds" size="1112064" crc="fd73be30" md5="8f7239aa38baf3c7bd5b6c9843fd3e43" sha1="f3f72e99387a6f0f68c159e5c5960e71a190dd62"/>
 		<url>https://retroachievements.org/game/30910/hashes</url>
 		<hash>3b84e35122e0e3f7987053e7667cfcc1</hash>
 	</game>
 	
-	<game name="Game &amp; Watch Mario's Cement Factory (World) (v1.2) (Aftermarket) (Unl) (PaulGoes)">
+	<game name="Game &amp; Watch Mario's Cement Factory (World) (v1.2) (PaulGoes) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Game &amp; Watch Mario's Cement Factory (World) (v1.2) (Aftermarket) (Unl) (PaulGoes)</description>
-		<release name="Game &amp; Watch Mario's Cement Factory (World) (v1.2) (Aftermarket) (Unl) (PaulGoes)" region="World"/>
-		<rom name="Game &amp; Watch Mario's Cement Factory (World) (v1.2) (Aftermarket) (Unl) (PaulGoes).nds" size="833536" crc="6ffba914" md5="449e63a5694d50c5110e71dc2dc879a8" sha1="fe7e7c777c5dab9f9981cb2b9e857d987b24eb4a"/>
+		<description>Game &amp; Watch Mario's Cement Factory (World) (v1.2) (PaulGoes) (Aftermarket)</description>
+		<release name="Game &amp; Watch Mario's Cement Factory (World) (v1.2) (PaulGoes) (Aftermarket)" region="World"/>
+		<rom name="Game &amp; Watch Mario's Cement Factory (World) (v1.2) (PaulGoes) (Aftermarket).nds" size="833536" crc="6ffba914" md5="449e63a5694d50c5110e71dc2dc879a8" sha1="fe7e7c777c5dab9f9981cb2b9e857d987b24eb4a"/>
 		<url>https://retroachievements.org/game/30911/hashes</url>
 		<hash>a93ae7321932e61c116b74bfa13d59b2</hash>
 	</game>
 	
-	<game name="10 (World) (v1.1 - Bugfix) (Aftermarket) (Unl)">
+	<game name="10 (World) (v1.1 - Bugfix) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>10 (World) (v1.1 - Bugfix) (Aftermarket) (Unl)</description>
-		<release name="10 (World) (v1.1 - Bugfix) (Aftermarket) (Unl)" region="World"/>
-		<rom name="10 (World) (v1.1 - Bugfix) (Aftermarket) (Unl).nds" size="1936960" crc="34ccb116" md5="8105c49d7dfd990ce4bca5fb7c4fc89c" sha1="d525abe0df0253cf917308e381f87892167fa7ee"/>
+		<description>10 (World) (v1.1 - Bugfix) (Aftermarket)</description>
+		<release name="10 (World) (v1.1 - Bugfix) (Aftermarket)" region="World"/>
+		<rom name="10 (World) (v1.1 - Bugfix) (Aftermarket).nds" size="1936960" crc="34ccb116" md5="8105c49d7dfd990ce4bca5fb7c4fc89c" sha1="d525abe0df0253cf917308e381f87892167fa7ee"/>
 		<url>https://retroachievements.org/game/26630/hashes</url>
 		<hash>af561458b08c41ccb8ad7c6fa6544cf1</hash>
 	</game>
 	
-	<game name="Alice &amp; Marisa (World) (Aftermarket) (Unl)">
+	<game name="Alice &amp; Marisa (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Alice &amp; Marisa (World) (Aftermarket) (Unl)</description>
-		<release name="Alice &amp; Marisa (World) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Alice &amp; Marisa (World) (Aftermarket) (Unl).nds" size="540736" crc="2a70e4e1" md5="0ef7534ae96cc628462c1808f213d91b" sha1="79643cfc58717a8076f07d8eed745a42cc6d7916"/>
+		<description>Alice &amp; Marisa (World) (Aftermarket)</description>
+		<release name="Alice &amp; Marisa (World) (Aftermarket)" region="World"/>
+		<rom name="Alice &amp; Marisa (World) (Aftermarket).nds" size="540736" crc="2a70e4e1" md5="0ef7534ae96cc628462c1808f213d91b" sha1="79643cfc58717a8076f07d8eed745a42cc6d7916"/>
 		<url>https://retroachievements.org/game/25030/hashes</url>
 		<hash>90f2d2df9d2394b359711b3c6cc6f762</hash>
 	</game>
 	
-	<game name="Anguna - Warriors of Virtue (World) (v1.02) (Aftermarket) (Unl)">
+	<game name="Anguna - Warriors of Virtue (World) (v1.02) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Anguna - Warriors of Virtue (World) (v1.02) (Aftermarket) (Unl)</description>
-		<rom name="Anguna - Warriors of Virtue (World) (v1.02) (Aftermarket) (Unl).nds" size="2675776" crc="9fbfa267" md5="eed03ce2c75ac65a720fa7c4150118fe" sha1="5546cb0ba8f1a16dc4b9ceca496d4709ae0e61ef"/>
+		<description>Anguna - Warriors of Virtue (World) (v1.02) (Aftermarket)</description>
+		<rom name="Anguna - Warriors of Virtue (World) (v1.02) (Aftermarket).nds" size="2675776" crc="9fbfa267" md5="eed03ce2c75ac65a720fa7c4150118fe" sha1="5546cb0ba8f1a16dc4b9ceca496d4709ae0e61ef"/>
 		<url>https://retroachievements.org/game/16356/hashes</url>
 		<hash>12c91594baff50328ec5503c0e4508ae</hash>
 	</game>
 	
-	<game name="Aperture Science DS (World) (v1.1) (Aftermarket) (Unl)">
+	<game name="Aperture Science DS (World) (v1.1) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Aperture Science DS (World) (v1.1) (Aftermarket) (Unl)</description>
-		<release name="Aperture Science DS (World) (v1.1) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Aperture Science DS (World) (v1.1) (Aftermarket) (Unl).nds" size="2153244" crc="ec4ade78" md5="606f56507366ee66c521449f9596007b" sha1="68c9ea601f07a47df8def24697fcc2afb160bf01"/>
+		<description>Aperture Science DS (World) (v1.1) (Aftermarket)</description>
+		<release name="Aperture Science DS (World) (v1.1) (Aftermarket)" region="World"/>
+		<rom name="Aperture Science DS (World) (v1.1) (Aftermarket).nds" size="2153244" crc="ec4ade78" md5="606f56507366ee66c521449f9596007b" sha1="68c9ea601f07a47df8def24697fcc2afb160bf01"/>
 		<url>https://retroachievements.org/game/16532/hashes</url>
 		<hash>a8f8e22097e2cd193e91eb0ebae2da37</hash>
 	</game>
 	
-	<game name="Breaking Bad DS (World) (v1.06) (Aftermarket) (Unl)">
+	<game name="Breaking Bad DS (World) (v1.06) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Breaking Bad DS (World) (v1.06) (Aftermarket) (Unl)</description>
-		<release name="Breaking Bad DS (World) (v1.06) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Breaking Bad DS (World) (v1.06) (Aftermarket) (Unl).nds" size="5284864" crc="5c475a23" md5="e2424f0b9696e55058827d8e0426a24f" sha1="7dce261da5d23cf01ce64883f8df7265b8a7b229"/>
+		<description>Breaking Bad DS (World) (v1.06) (Aftermarket)</description>
+		<release name="Breaking Bad DS (World) (v1.06) (Aftermarket)" region="World"/>
+		<rom name="Breaking Bad DS (World) (v1.06) (Aftermarket).nds" size="5284864" crc="5c475a23" md5="e2424f0b9696e55058827d8e0426a24f" sha1="7dce261da5d23cf01ce64883f8df7265b8a7b229"/>
 		<url>https://retroachievements.org/game/25786/hashes</url>
 		<hash>02afc5bb2c14a2a418613b6a8a8ca31e</hash>
 	</game>
 	
-	<game name="Bubble Wrap (World) (Aftermarket) (Unl)">
+	<game name="Bubble Wrap (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Bubble Wrap (World) (Aftermarket) (Unl)</description>
-		<release name="Bubble Wrap (World) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Bubble Wrap (World) (Aftermarket) (Unl).nds" size="524288" crc="0a774932" md5="3a3677953c36ff525e049a87aa60321f" sha1="dcad022cbdb723765d2820d64b4d5f2cb37d0022"/>
+		<description>Bubble Wrap (World) (Aftermarket)</description>
+		<release name="Bubble Wrap (World) (Aftermarket)" region="World"/>
+		<rom name="Bubble Wrap (World) (Aftermarket).nds" size="524288" crc="0a774932" md5="3a3677953c36ff525e049a87aa60321f" sha1="dcad022cbdb723765d2820d64b4d5f2cb37d0022"/>
 		<url>https://retroachievements.org/game/16279/hashes</url>
 		<hash>318cf0621b0204b5daae3052177778c3</hash>
 	</game>
 	
-	<game name="Christmas Rush (World) (Aftermarket) (Unl)">
+	<game name="Christmas Rush (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Christmas Rush (World) (Aftermarket) (Unl)</description>
-		<release name="Christmas Rush (World) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Christmas Rush (World) (Aftermarket) (Unl).nds" size="227217" crc="a8cf6540" md5="65f7abd8dc793e00e012697210176652" sha1="205d752939ca23e49b34062d444d7e2b02bb7bd1"/>
+		<description>Christmas Rush (World) (Aftermarket)</description>
+		<release name="Christmas Rush (World) (Aftermarket)" region="World"/>
+		<rom name="Christmas Rush (World) (Aftermarket).nds" size="227217" crc="a8cf6540" md5="65f7abd8dc793e00e012697210176652" sha1="205d752939ca23e49b34062d444d7e2b02bb7bd1"/>
 		<url>https://retroachievements.org/game/27778/hashes</url>
 		<hash>d42c5eb7e08311d53e8d8537df36532e</hash>
 	</game>
 	
-	<game name="Claw Express (World) (Aftermarket) (Unl) (DigitalDesignDude)">
+	<game name="Claw Express (World) (DigitalDesignDude) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Claw Express (World) (Aftermarket) (Unl) (DigitalDesignDude)</description>
-		<release name="Claw Express (World) (Aftermarket) (Unl) (DigitalDesignDude)" region="World"/>
-		<rom name="Claw Express (World) (Aftermarket) (Unl) (DigitalDesignDude).nds" size="1022976" crc="c46aa098" md5="403ce8868d07c593edc688e198d0a652" sha1="3b1b08bb37f27603d46ddf3c999405faa74cf125"/>
+		<description>Claw Express (World) (DigitalDesignDude) (Aftermarket)</description>
+		<release name="Claw Express (World) (DigitalDesignDude) (Aftermarket)" region="World"/>
+		<rom name="Claw Express (World) (DigitalDesignDude) (Aftermarket).nds" size="1022976" crc="c46aa098" md5="403ce8868d07c593edc688e198d0a652" sha1="3b1b08bb37f27603d46ddf3c999405faa74cf125"/>
 		<url>https://retroachievements.org/game/25022/hashes</url>
 		<hash>002edaa30e61b53735ac1d71dc4d0cb4</hash>
 	</game>
 	
-	<game name="Crocodingus in Cube Island (World) (v1.1) (Aftermarket) (Unl) (PXLteam)">
+	<game name="Crocodingus in Cube Island (World) (v1.1) (PXLteam) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Crocodingus in Cube Island (World) (v1.1) (Aftermarket) (Unl) (PXLteam)</description>
-		<release name="Crocodingus in Cube Island (World) (v1.1) (Aftermarket) (Unl) (PXLteam)" region="World"/>
-		<rom name="Crocodingus in Cube Island (World) (v1.1) (Aftermarket) (Unl) (PXLteam).nds" size="1062976" crc="b7fdc408" md5="832ee90a4f20dd87aadef962607abad8" sha1="b1531da4828a6bf4ca1238a01c24833501490e6f"/>
+		<description>Crocodingus in Cube Island (World) (v1.1) (PXLteam) (Aftermarket)</description>
+		<release name="Crocodingus in Cube Island (World) (v1.1) (PXLteam) (Aftermarket)" region="World"/>
+		<rom name="Crocodingus in Cube Island (World) (v1.1) (PXLteam) (Aftermarket).nds" size="1062976" crc="b7fdc408" md5="832ee90a4f20dd87aadef962607abad8" sha1="b1531da4828a6bf4ca1238a01c24833501490e6f"/>
 		<url>https://retroachievements.org/game/14770/hashes</url>
 		<hash>84eee7609ac2b8bf7abd5ff763f7a7df</hash>
 	</game>
 	
-	<game name="Dicewars DS (World) (v0.4.0) (Aftermarket) (Unl) (Melw)">
+	<game name="Dicewars DS (World) (v0.4.0) (Melw) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Dicewars DS (World) (v0.4.0) (Aftermarket) (Unl) (Melw)</description>
-		<release name="Dicewars DS (World) (v0.4.0) (Aftermarket) (Unl) (Melw)" region="World"/>
-		<rom name="Dicewars DS (World) (v0.4.0) (Aftermarket) (Unl) (Melw).nds" size="1090112" crc="0eafb400" md5="e0c893204d1cdad94a7c6842da9af3c1" sha1="20f343b041ad792eab204a1106528994d137e530"/>
+		<description>Dicewars DS (World) (v0.4.0) (Melw) (Aftermarket)</description>
+		<release name="Dicewars DS (World) (v0.4.0) (Melw) (Aftermarket)" region="World"/>
+		<rom name="Dicewars DS (World) (v0.4.0) (Melw) (Aftermarket).nds" size="1090112" crc="0eafb400" md5="e0c893204d1cdad94a7c6842da9af3c1" sha1="20f343b041ad792eab204a1106528994d137e530"/>
 		<url>https://retroachievements.org/game/17821/hashes</url>
 		<hash>3c2971c01fc953a7822434b2cd7d9251</hash>
 	</game>
 	
-	<game name="EunHye DS (World) (v1.0) (Aftermarket) (Unl) (Ryu Seung-Ryul)">
+	<game name="EunHye DS (World) (v1.0) (Ryu Seung-Ryul) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>EunHye DS (World) (v1.0) (Aftermarket) (Unl) (Ryu Seung-Ryul)</description>
-		<release name="EunHye DS (World) (v1.0) (Aftermarket) (Unl) (Ryu Seung-Ryul)" region="World"/>
-		<rom name="EunHye DS (World) (v1.0) (Aftermarket) (Unl) (Ryu Seung-Ryul).nds" size="1815616" crc="67b1067c" md5="849e99406007ed0dc62983ab9c2a9c5e" sha1="6528ec7e2166bb34237d8e7038ef765f1cb09055"/>
+		<description>EunHye DS (World) (v1.0) (Ryu Seung-Ryul) (Aftermarket)</description>
+		<release name="EunHye DS (World) (v1.0) (Ryu Seung-Ryul) (Aftermarket)" region="World"/>
+		<rom name="EunHye DS (World) (v1.0) (Ryu Seung-Ryul) (Aftermarket).nds" size="1815616" crc="67b1067c" md5="849e99406007ed0dc62983ab9c2a9c5e" sha1="6528ec7e2166bb34237d8e7038ef765f1cb09055"/>
 		<url>https://retroachievements.org/game/14835/hashes</url>
 		<hash>e19b7b3ade640ac4b96b529f860f2f0a</hash>
 	</game>
 	
-	<game name="Eurotunnel (World) (Aftermarket) (Unl)">
+	<game name="Eurotunnel (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Eurotunnel (World) (Aftermarket) (Unl)</description>
-		<release name="Eurotunnel (World) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Eurotunnel (World) (Aftermarket) (Unl).nds" size="709705" crc="9cf6db23" md5="84c62c769d7d9f9cc22e00b10858049d" sha1="9d91ecf7937579e98895860b5cde938701078556"/>
+		<description>Eurotunnel (World) (Aftermarket)</description>
+		<release name="Eurotunnel (World) (Aftermarket)" region="World"/>
+		<rom name="Eurotunnel (World) (Aftermarket).nds" size="709705" crc="9cf6db23" md5="84c62c769d7d9f9cc22e00b10858049d" sha1="9d91ecf7937579e98895860b5cde938701078556"/>
 		<url>https://retroachievements.org/game/28004/hashes</url>
 		<hash>4c590baa892de430b1982075c98ed58e</hash>
 	</game>
 	
-	<game name="Fishing the Deep (World) (Aftermarket) (Unl)">
+	<game name="Fishing the Deep (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Fishing the Deep (World) (Aftermarket) (Unl)</description>
-		<release name="Fishing the Deep (World) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Fishing the Deep (World) (Aftermarket) (Unl).nds" size="1152996" crc="e65bdecb" md5="0f4f57765fe086ecd207fe1d1494027d" sha1="9baaf8f796845a6e33bb5b92069298a2b7ede194"/>
+		<description>Fishing the Deep (World) (Aftermarket)</description>
+		<release name="Fishing the Deep (World) (Aftermarket)" region="World"/>
+		<rom name="Fishing the Deep (World) (Aftermarket).nds" size="1152996" crc="e65bdecb" md5="0f4f57765fe086ecd207fe1d1494027d" sha1="9baaf8f796845a6e33bb5b92069298a2b7ede194"/>
 		<url>https://retroachievements.org/game/25801/hashes</url>
 		<hash>c72c9b93c5fd833201e6cb24414e98f9</hash>
 	</game>
 	
-	<game name="Flappy Bird DS (World) (Aftermarket) (Unl) (PolyMars)">
+	<game name="Flappy Bird DS (World) (PolyMars) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Flappy Bird DS (World) (Aftermarket) (Unl) (PolyMars)</description>
-		<release name="Flappy Bird DS (World) (Aftermarket) (Unl) (PolyMars)" region="World"/>
-		<rom name="Flappy Bird DS (World) (Aftermarket) (Unl) (PolyMars).nds" size="405504" crc="9731385c" md5="754b381f645ddf88b7fe58208b8ed303" sha1="da5d60b4af9aa141746e20ed2fe1b0498326fc4c"/>
+		<description>Flappy Bird DS (World) (PolyMars) (Aftermarket)</description>
+		<release name="Flappy Bird DS (World) (PolyMars) (Aftermarket)" region="World"/>
+		<rom name="Flappy Bird DS (World) (PolyMars) (Aftermarket).nds" size="405504" crc="9731385c" md5="754b381f645ddf88b7fe58208b8ed303" sha1="da5d60b4af9aa141746e20ed2fe1b0498326fc4c"/>
 		<url>https://retroachievements.org/game/30995/hashes</url>
 		<hash>f11d8679ee240b6c4cb2c8112202cc6c</hash>
 	</game>
 	
-	<game name="Ikachan DS (World) (v0.1.1) (Aftermarket) (Unl) (tilderain)">
+	<game name="Ikachan DS (World) (v0.1.1) (tilderain) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Ikachan DS (World) (v0.1.1) (Aftermarket) (Unl) (tilderain)</description>
-		<release name="Ikachan DS (World) (v0.1.1) (Aftermarket) (Unl) (tilderain)" region="World"/>
-		<rom name="Ikachan DS (World) (v0.1.1) (Aftermarket) (Unl) (tilderain).nds" size="1132544" crc="10c95fb5" md5="52b07a3149a6e80e65f04991d45bfe40" sha1="5c4cfdfbfcf832996452cbb380a68e4d1308436c"/>
+		<description>Ikachan DS (World) (v0.1.1) (tilderain) (Aftermarket)</description>
+		<release name="Ikachan DS (World) (v0.1.1) (tilderain) (Aftermarket)" region="World"/>
+		<rom name="Ikachan DS (World) (v0.1.1) (tilderain) (Aftermarket).nds" size="1132544" crc="10c95fb5" md5="52b07a3149a6e80e65f04991d45bfe40" sha1="5c4cfdfbfcf832996452cbb380a68e4d1308436c"/>
 		<url>https://retroachievements.org/game/25069/hashes</url>
 		<hash>08b335cce0c3aa3eb23c2d246e00d85f</hash>
 	</game>
 	
-	<game name="Japanese Katakana Review (World) (v20090813) (Aftermarket) (Unl) (Multiple-Option)">
+	<game name="Japanese Katakana Review (World) (v20090813) (Multiple-Option) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Japanese Katakana Review (World) (v20090813) (Aftermarket) (Unl) (Multiple-Option)</description>
-		<release name="Japanese Katakana Review (World) (v20090813) (Aftermarket) (Unl) (Multiple-Option)" region="World"/>
-		<rom name="Japanese Katakana Review (World) (v20090813) (Aftermarket) (Unl) (Multiple-Option).nds" size="961088" crc="55333435" md5="c8132825d70e69402d3d67cbfd827510" sha1="2f5d12e231e2239986cc85fec1f167325a2ce495"/>
+		<description>Japanese Katakana Review (World) (v20090813) (Multiple-Option) (Aftermarket)</description>
+		<release name="Japanese Katakana Review (World) (v20090813) (Multiple-Option) (Aftermarket)" region="World"/>
+		<rom name="Japanese Katakana Review (World) (v20090813) (Multiple-Option) (Aftermarket).nds" size="961088" crc="55333435" md5="c8132825d70e69402d3d67cbfd827510" sha1="2f5d12e231e2239986cc85fec1f167325a2ce495"/>
 		<url>https://retroachievements.org/game/18823/hashes</url>
 		<hash>0dab9f758ec8a40730a83d16dc24ef5e</hash>
 	</game>
-	<game name="Japanese Hiragana Review (World) (v20090813) (Aftermarket) (Unl) (Multiple-Option)">
+	<game name="Japanese Hiragana Review (World) (v20090813) (Multiple-Option) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Japanese Hiragana Review (World) (v20090813) (Aftermarket) (Unl) (Multiple-Option)</description>
-		<release name="Japanese Hiragana Review (World) (v20090813) (Aftermarket) (Unl) (Multiple-Option)" region="World"/>
-		<rom name="Japanese Hiragana Review (World) (v20090813) (Aftermarket) (Unl) (Multiple-Option).nds" size="968256" crc="882e6d0a" md5="b1c21df2042d5bbd1d38d8e553643600" sha1="4ccb964d5d6264f8553e78a8d5fd70c350a14472"/>
+		<description>Japanese Hiragana Review (World) (v20090813) (Multiple-Option) (Aftermarket)</description>
+		<release name="Japanese Hiragana Review (World) (v20090813) (Multiple-Option) (Aftermarket)" region="World"/>
+		<rom name="Japanese Hiragana Review (World) (v20090813) (Multiple-Option) (Aftermarket).nds" size="968256" crc="882e6d0a" md5="b1c21df2042d5bbd1d38d8e553643600" sha1="4ccb964d5d6264f8553e78a8d5fd70c350a14472"/>
 		<url>https://retroachievements.org/game/18823/hashes</url>
 		<hash>5d0a86e9a98c8f551f64f4b63a68a065</hash>
 	</game>
 	
-	<game name="Lone Wolf DS I - Huida de la Oscuridad (World) (Es) (v1.51)" cloneof="Lone Wolf DS I - Flight From The Dark (World) (En) (v1.51)">
+	<game name="Lone Wolf DS I - Huida de la Oscuridad (World) (Es) (v1.51) (Aftermarket)" cloneof="Lone Wolf DS I - Flight From The Dark (World) (En) (v1.51) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Lone Wolf DS I - Huida de la Oscuridad (World) (Es) (v1.51)</description>
-		<release name="Lone Wolf DS I - Huida de la Oscuridad (World) (Es) (v1.51)" region="Spain"/>
-		<rom name="Lone Wolf DS I - Huida de la Oscuridad (World) (Es) (v1.51).nds" size="15276040" crc="69a806a9" md5="aee33886c76506ad3fb6905298e0775e" sha1="1030bd43f63b2870b8a134d52f7ec519b53ebbb8"/>
+		<description>Lone Wolf DS I - Huida de la Oscuridad (World) (Es) (v1.51) (Aftermarket)</description>
+		<release name="Lone Wolf DS I - Huida de la Oscuridad (World) (Es) (v1.51) (Aftermarket)" region="Spain"/>
+		<rom name="Lone Wolf DS I - Huida de la Oscuridad (World) (Es) (v1.51) (Aftermarket).nds" size="15276040" crc="69a806a9" md5="aee33886c76506ad3fb6905298e0775e" sha1="1030bd43f63b2870b8a134d52f7ec519b53ebbb8"/>
 		<url>https://retroachievements.org/game/19159/hashes</url>
 		<hash>48936a73600f7ed217bd3ced478b38df</hash>
 	</game>
-	<game name="Lone Wolf DS I - Flight From The Dark (World) (En) (v1.51)">
+	<game name="Lone Wolf DS I - Flight From The Dark (World) (En) (v1.51) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Lone Wolf DS I - Flight From The Dark (World) (En) (v1.51)</description>
-		<release name="Lone Wolf DS I - Flight From The Dark (World) (En) (v1.51)" region="English"/>
-		<rom name="Lone Wolf DS I - Flight From The Dark (World) (En) (v1.51).nds" size="15272456" crc="94248726" md5="fbbb2181054301b9e6932fc261f77367" sha1="ffed0b0bf23878a6c5de56a2ec2e820cdc1d76a5"/>
+		<description>Lone Wolf DS I - Flight From The Dark (World) (En) (v1.51) (Aftermarket)</description>
+		<release name="Lone Wolf DS I - Flight From The Dark (World) (En) (v1.51) (Aftermarket)" region="English"/>
+		<rom name="Lone Wolf DS I - Flight From The Dark (World) (En) (v1.51) (Aftermarket).nds" size="15272456" crc="94248726" md5="fbbb2181054301b9e6932fc261f77367" sha1="ffed0b0bf23878a6c5de56a2ec2e820cdc1d76a5"/>
 		<url>https://retroachievements.org/game/19159/hashes</url>
 		<hash>ef8a012358052d264e3485fdd7fbc9c1</hash>
 	</game>
 	
-	<game name="Loopover (World) (Aftermarket) (Unl)">
+	<game name="Loopover (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Loopover (World) (Aftermarket) (Unl)</description>
-		<release name="Loopover (World) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Loopover (World) (Aftermarket) (Unl).nds" size="407616" crc="036d7ef3" md5="a1ee0e463a6aa3daf92f58c6044808eb" sha1="4fba8bab200f2df87d4ab5e8f616e55a5d2b5618"/>
+		<description>Loopover (World) (Aftermarket)</description>
+		<release name="Loopover (World) (Aftermarket)" region="World"/>
+		<rom name="Loopover (World) (Aftermarket).nds" size="407616" crc="036d7ef3" md5="a1ee0e463a6aa3daf92f58c6044808eb" sha1="4fba8bab200f2df87d4ab5e8f616e55a5d2b5618"/>
 		<url>https://retroachievements.org/game/28548/hashes</url>
 		<hash>9c30e805df83892f57d3a6f85bed7867</hash>
 	</game>
 	
-	<game name="New Zelda (World) (Aftermarket) (Unl)">
+	<game name="New Zelda (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>New Zelda (World) (Aftermarket) (Unl)</description>
-		<release name="New Zelda (World) (Aftermarket) (Unl)" region="World"/>
-		<rom name="New Zelda (World) (Aftermarket) (Unl).nds" size="2629144" crc="03722e4e" md5="7a6e80a9b4844ddc9eb0f3419b3510a9" sha1="7b04175ebf7a37df701cf9b46b9c2c04e5e06588"/>
+		<description>New Zelda (World) (Aftermarket)</description>
+		<release name="New Zelda (World) (Aftermarket)" region="World"/>
+		<rom name="New Zelda (World) (Aftermarket).nds" size="2629144" crc="03722e4e" md5="7a6e80a9b4844ddc9eb0f3419b3510a9" sha1="7b04175ebf7a37df701cf9b46b9c2c04e5e06588"/>
 		<url>https://retroachievements.org/game/14974/hashes</url>
 		<hash>20a3dcfce80bcb7ed9c67ed8104fb985</hash>
 	</game>
 	
-	<game name="Nintendo Adventure Books - Monster Mix-Up DS (World) (v20090824) (Aftermarket) (Unl) (Multiple-Option)">
+	<game name="Nintendo Adventure Books - Monster Mix-Up DS (World) (v20090824) (Multiple-Option) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Nintendo Adventure Books - Monster Mix-Up DS (World) (v20090824) (Aftermarket) (Unl) (Multiple-Option)</description>
-		<release name="Nintendo Adventure Books - Monster Mix-Up DS (World) (v20090824) (Aftermarket) (Unl) (Multiple-Option)" region="World"/>
-		<rom name="Nintendo Adventure Books - Monster Mix-Up DS (World) (v20090824) (Aftermarket) (Unl) (Multiple-Option).nds" size="2333760" crc="8e1a8a82" md5="5cb32a6d72098826c4a92fa63b59fce2" sha1="578e9db7e2a20dec87557303e2084fe78bdbf1c4"/>
+		<description>Nintendo Adventure Books - Monster Mix-Up DS (World) (v20090824) (Multiple-Option) (Aftermarket)</description>
+		<release name="Nintendo Adventure Books - Monster Mix-Up DS (World) (v20090824) (Multiple-Option) (Aftermarket)" region="World"/>
+		<rom name="Nintendo Adventure Books - Monster Mix-Up DS (World) (v20090824) (Multiple-Option) (Aftermarket).nds" size="2333760" crc="8e1a8a82" md5="5cb32a6d72098826c4a92fa63b59fce2" sha1="578e9db7e2a20dec87557303e2084fe78bdbf1c4"/>
 		<url>https://retroachievements.org/game/18822/hashes</url>
 		<hash>066e5b8c19cc7dc8f40736b5a157ab22</hash>
 	</game>
 	
-	<game name="No Place to Hide (World) (v20060730) (Aftermarket) (Unl)">
+	<game name="No Place to Hide (World) (v20060730) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>No Place to Hide (World) (v20060730) (Aftermarket) (Unl)</description>
-		<release name="No Place to Hide (World) (v20060730) (Aftermarket) (Unl)" region="World"/>
-		<rom name="No Place to Hide (World) (v20060730) (Aftermarket) (Unl).nds" size="1681984" crc="0541b555" md5="d08f56ed4a32c272c7dfa431b3b9df5c" sha1="8405d5d0a16972f9fcc14b30b770747de99f8896"/>
+		<description>No Place to Hide (World) (v20060730) (Aftermarket)</description>
+		<release name="No Place to Hide (World) (v20060730) (Aftermarket)" region="World"/>
+		<rom name="No Place to Hide (World) (v20060730) (Aftermarket).nds" size="1681984" crc="0541b555" md5="d08f56ed4a32c272c7dfa431b3b9df5c" sha1="8405d5d0a16972f9fcc14b30b770747de99f8896"/>
 		<url>https://retroachievements.org/game/26971/hashes</url>
 		<hash>22cc400e508171132102dcb6ae9b7802</hash>
 	</game>
 	
-	<game name="Sliding Puzzles - New Puzzle (World) (v3.1) (Aftermarket) (Unl) (Neumann)">
+	<game name="Sliding Puzzles - New Puzzle (World) (v3.1) (Neumann) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Sliding Puzzles - New Puzzle (World) (v3.1) (Aftermarket) (Unl) (Neumann)</description>
-		<release name="Sliding Puzzles - New Puzzle (World) (v3.1) (Aftermarket) (Unl) (Neumann)" region="World"/>
-		<rom name="Sliding Puzzles - New Puzzle (World) (v3.1) (Aftermarket) (Unl) (Neumann).nds" size="503360" crc="f90664e5" md5="4e00f2bf2ce0bc24f8ae940fb392da8e" sha1="20483ed209bfbe8db14f4f8640fecb305326fbd0"/>
+		<description>Sliding Puzzles - New Puzzle (World) (v3.1) (Neumann) (Aftermarket)</description>
+		<release name="Sliding Puzzles - New Puzzle (World) (v3.1) (Neumann) (Aftermarket)" region="World"/>
+		<rom name="Sliding Puzzles - New Puzzle (World) (v3.1) (Neumann) (Aftermarket).nds" size="503360" crc="f90664e5" md5="4e00f2bf2ce0bc24f8ae940fb392da8e" sha1="20483ed209bfbe8db14f4f8640fecb305326fbd0"/>
 		<url>https://retroachievements.org/game/14845/hashes</url>
 		<hash>44401d4fca6646cdbcb02b9c29258ff5</hash>
 	</game>
-	<game name="Sliding Puzzles - 15-16 (World) (r1) (Aftermarket) (Unl) (Dustin)">
+	<game name="Sliding Puzzles - 15-16 (World) (r1) (Dustin) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Sliding Puzzles - 15-16 (World) (r1) (Aftermarket) (Unl) (Dustin)</description>
-		<release name="Sliding Puzzles - 15-16 (World) (r1) (Aftermarket) (Unl) (Dustin)" region="World"/>
-		<rom name="Sliding Puzzles - 15-16 (World) (r1) (Aftermarket) (Unl) (Dustin).nds" size="421449" crc="74bc2fb8" md5="e0442f19613ce2da61d404e6e4cd2f59" sha1="20d53c7fd96d709bf8417e8b36df24ee20df73f0"/>
+		<description>Sliding Puzzles - 15-16 (World) (r1) (Dustin) (Aftermarket)</description>
+		<release name="Sliding Puzzles - 15-16 (World) (r1) (Dustin) (Aftermarket)" region="World"/>
+		<rom name="Sliding Puzzles - 15-16 (World) (r1) (Dustin) (Aftermarket).nds" size="421449" crc="74bc2fb8" md5="e0442f19613ce2da61d404e6e4cd2f59" sha1="20d53c7fd96d709bf8417e8b36df24ee20df73f0"/>
 		<url>https://retroachievements.org/game/14845/hashes</url>
 		<hash>6aa053cb058816af3808a78b2172c0c7</hash>
 	</game>
-	<game name="Sliding Puzzles - Migraine (World) (v2009) (Aftermarket) (Unl) (roronoa)">
+	<game name="Sliding Puzzles - Migraine (World) (v2009) (roronoa) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Sliding Puzzles - Migraine (World) (v2009) (Aftermarket) (Unl) (roronoa)</description>
-		<release name="Sliding Puzzles - Migraine (World) (v2009) (Aftermarket) (Unl) (roronoa)" region="World"/>
-		<rom name="Sliding Puzzles - Migraine (World) (v2009) (Aftermarket) (Unl) (roronoa).nds" size="1525824" crc="fc687c3f" md5="6fde6fa89ae8ebc3d44f3a161620710f" sha1="aae162d1cfe237d18c4636e6da5dbb24cce08b3f"/>
+		<description>Sliding Puzzles - Migraine (World) (v2009) (roronoa) (Aftermarket)</description>
+		<release name="Sliding Puzzles - Migraine (World) (v2009) (roronoa) (Aftermarket)" region="World"/>
+		<rom name="Sliding Puzzles - Migraine (World) (v2009) (roronoa) (Aftermarket).nds" size="1525824" crc="fc687c3f" md5="6fde6fa89ae8ebc3d44f3a161620710f" sha1="aae162d1cfe237d18c4636e6da5dbb24cce08b3f"/>
 		<url>https://retroachievements.org/game/14845/hashes</url>
 		<hash>b989fee12f208a84c0bc788fe9aa7bbb</hash>
 	</game>
 	
-	<game name="Still Alive DS (World) (v1.21) (Aftermarket) (Unl)">
+	<game name="Still Alive DS (World) (v1.21) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Still Alive DS (World) (v1.21) (Aftermarket) (Unl)</description>
-		<release name="Still Alive DS (World) (v1.21) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Still Alive DS (World) (v1.21) (Aftermarket) (Unl).nds" size="3500380" crc="cc0e7807" md5="e442f8a8db3ce15d03388d91119c8a67" sha1="066aca345578314e07794b6a0c4c5cbe920176ed"/>
+		<description>Still Alive DS (World) (v1.21) (Aftermarket)</description>
+		<release name="Still Alive DS (World) (v1.21) (Aftermarket)" region="World"/>
+		<rom name="Still Alive DS (World) (v1.21) (Aftermarket).nds" size="3500380" crc="cc0e7807" md5="e442f8a8db3ce15d03388d91119c8a67" sha1="066aca345578314e07794b6a0c4c5cbe920176ed"/>
 		<url>https://retroachievements.org/game/24312/hashes</url>
 		<hash>b063ca31c55f8ac1532cf78bfb0012eb</hash>
 	</game>
 	
-	<game name="Super Smash Bros Clash (World) (v2012-04-30) (Aftermarket) (Unl) (Team Clash)">
+	<game name="Super Smash Bros Clash (World) (v2012-04-30) (Team Clash) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Super Smash Bros Clash (World) (v2012-04-30) (Aftermarket) (Unl) (Team Clash)</description>
-		<release name="Super Smash Bros Clash (World) (v2012-04-30) (Aftermarket) (Unl) (Team Clash)" region="World"/>
-		<rom name="Super Smash Bros Clash (World) (v2012-04-30) (Aftermarket) (Unl) (Team Clash).nds" size="20810864" crc="2534add4" md5="bdd77d65e5f1a52c1e6cdff0f0318cd6" sha1="a36951f1219b107280928e044f9c2ba01332afe1"/>
+		<description>Super Smash Bros Clash (World) (v2012-04-30) (Team Clash) (Aftermarket)</description>
+		<release name="Super Smash Bros Clash (World) (v2012-04-30) (Team Clash) (Aftermarket)" region="World"/>
+		<rom name="Super Smash Bros Clash (World) (v2012-04-30) (Team Clash) (Aftermarket).nds" size="20810864" crc="2534add4" md5="bdd77d65e5f1a52c1e6cdff0f0318cd6" sha1="a36951f1219b107280928e044f9c2ba01332afe1"/>
 		<url>https://retroachievements.org/game/27597/hashes</url>
 		<hash>fecaf270c6507b361792805fce4e39f0</hash>
 	</game>
 	
-	<game name="Sushi the Cat DS (World) (Aftermarket) (Unl)">
+	<game name="Sushi the Cat DS (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Sushi the Cat DS (World) (Aftermarket) (Unl)</description>
-		<release name="Sushi the Cat DS (World) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Sushi the Cat DS (World) (Aftermarket) (Unl).nds" size="616009" crc="f4dc81e2" md5="42172b6d953157be078a14246cb03770" sha1="29bd5ba7a618e34a6ec7442d1945bb767da9fccd"/>
+		<description>Sushi the Cat DS (World) (Aftermarket)</description>
+		<release name="Sushi the Cat DS (World) (Aftermarket)" region="World"/>
+		<rom name="Sushi the Cat DS (World) (Aftermarket).nds" size="616009" crc="f4dc81e2" md5="42172b6d953157be078a14246cb03770" sha1="29bd5ba7a618e34a6ec7442d1945bb767da9fccd"/>
 		<url>https://retroachievements.org/game/17087/hashes</url>
 		<hash>3e1a3f7ee4a4b3fa713fe84d6c3aab25</hash>
 	</game>
 	
-	<game name="Search Master, The - Metal Gear Solid Edition (World) (Aftermarket) (Unl)">
+	<game name="Search Master, The - Metal Gear Solid Edition (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Search Master, The - Metal Gear Solid Edition (World) (Aftermarket) (Unl)</description>
-		<release name="Search Master, The - Metal Gear Solid Edition (World) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Search Master, The - Metal Gear Solid Edition (World) (Aftermarket) (Unl).nds" size="1965632" crc="076a78db" md5="91dfb69ced9001d5ff8ebf39ca17ee9c" sha1="efdb0fc2bbd896b37553bf55bcf040a46edaaea6"/>
+		<description>Search Master, The - Metal Gear Solid Edition (World) (Aftermarket)</description>
+		<release name="Search Master, The - Metal Gear Solid Edition (World) (Aftermarket)" region="World"/>
+		<rom name="Search Master, The - Metal Gear Solid Edition (World) (Aftermarket).nds" size="1965632" crc="076a78db" md5="91dfb69ced9001d5ff8ebf39ca17ee9c" sha1="efdb0fc2bbd896b37553bf55bcf040a46edaaea6"/>
 		<url>https://retroachievements.org/game/25351/hashes</url>
 		<hash>3fdf12c6f6e23c96ddbee50bd9c9951e</hash>
 	</game>
 	
-	<game name="Ultimate Sliding Puzzle - Pack Arcade (World) (Aftermarket) (Unl) (Kukulcan)">
+	<game name="Ultimate Sliding Puzzle - Pack Arcade (World) (Kukulcan) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Ultimate Sliding Puzzle - Pack Arcade (World) (Aftermarket) (Unl) (Kukulcan)</description>
-		<release name="Ultimate Sliding Puzzle - Pack Arcade (World) (Aftermarket) (Unl) (Kukulcan)" region="World"/>
-		<rom name="Ultimate Sliding Puzzle - Pack Arcade (World) (Aftermarket) (Unl) (Kukulcan).nds" size="3609664" crc="3a728e27" md5="ef647dbec784a1829fcc152ec424b0df" sha1="bf39e3aae7219a853e71a4ba89358cadced44ad3"/>
+		<description>Ultimate Sliding Puzzle - Pack Arcade (World) (Kukulcan) (Aftermarket)</description>
+		<release name="Ultimate Sliding Puzzle - Pack Arcade (World) (Kukulcan) (Aftermarket)" region="World"/>
+		<rom name="Ultimate Sliding Puzzle - Pack Arcade (World) (Kukulcan) (Aftermarket).nds" size="3609664" crc="3a728e27" md5="ef647dbec784a1829fcc152ec424b0df" sha1="bf39e3aae7219a853e71a4ba89358cadced44ad3"/>
 		<url>https://retroachievements.org/game/15343/hashes</url>
 		<hash>64a8f664c93bcef5f5487d8e7f59682a</hash>
 	</game>
 	
-	<game name="Ultimate Sliding Puzzle - Pack Ecchi (World) (Aftermarket) (Unl) (Kukulcan)">
+	<game name="Ultimate Sliding Puzzle - Pack Ecchi (World) (Kukulcan) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Ultimate Sliding Puzzle - Pack Ecchi (World) (Aftermarket) (Unl) (Kukulcan)</description>
-		<release name="Ultimate Sliding Puzzle - Pack Ecchi (World) (Aftermarket) (Unl) (Kukulcan)" region="World"/>
-		<rom name="Ultimate Sliding Puzzle - Pack Ecchi (World) (Aftermarket) (Unl) (Kukulcan).nds" size="3631680" crc="0cb307cd" md5="d7ef4b2dd2168f331a92d492052e742c" sha1="959bdcf0b2c24cd201e7e22c623c3110ef0f2182"/>
+		<description>Ultimate Sliding Puzzle - Pack Ecchi (World) (Kukulcan) (Aftermarket)</description>
+		<release name="Ultimate Sliding Puzzle - Pack Ecchi (World) (Kukulcan) (Aftermarket)" region="World"/>
+		<rom name="Ultimate Sliding Puzzle - Pack Ecchi (World) (Kukulcan) (Aftermarket).nds" size="3631680" crc="0cb307cd" md5="d7ef4b2dd2168f331a92d492052e742c" sha1="959bdcf0b2c24cd201e7e22c623c3110ef0f2182"/>
 		<url>https://retroachievements.org/game/15344/hashes</url>
 		<hash>483d2cde5544dd146afa0077356b384f</hash>
 	</game>
 	
-	<game name="Ultimate Sliding Puzzle - Pack Sci-Fi (World) (Aftermarket) (Unl) (Kukulcan)">
+	<game name="Ultimate Sliding Puzzle - Pack Sci-Fi (World) (Kukulcan) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Ultimate Sliding Puzzle - Pack Sci-Fi (World) (Aftermarket) (Unl) (Kukulcan)</description>
-		<release name="Ultimate Sliding Puzzle - Pack Sci-Fi (World) (Aftermarket) (Unl) (Kukulcan)" region="World"/>
-		<rom name="Ultimate Sliding Puzzle - Pack Sci-Fi (World) (Aftermarket) (Unl) (Kukulcan).nds" size="3430464" crc="2e317d42" md5="7fe49db54f3b29159f7c7c8572f27efd" sha1="72c01d37a8f2a3f49d13211cf69018623fd8b702"/>
+		<description>Ultimate Sliding Puzzle - Pack Sci-Fi (World) (Kukulcan) (Aftermarket)</description>
+		<release name="Ultimate Sliding Puzzle - Pack Sci-Fi (World) (Kukulcan) (Aftermarket)" region="World"/>
+		<rom name="Ultimate Sliding Puzzle - Pack Sci-Fi (World) (Kukulcan) (Aftermarket).nds" size="3430464" crc="2e317d42" md5="7fe49db54f3b29159f7c7c8572f27efd" sha1="72c01d37a8f2a3f49d13211cf69018623fd8b702"/>
 		<url>https://retroachievements.org/game/14842/hashes</url>
 		<hash>48f25e6aa3d44ce9cc718462fdffaf0b</hash>
 	</game>
 	
-	<game name="Without Escape (World) (Aftermarket) (Unl)">
+	<game name="Without Escape (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Without Escape (World) (Aftermarket) (Unl)</description>
-		<release name="Without Escape (World) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Without Escape (World) (Aftermarket) (Unl).nds" size="3482176" crc="aca431c3" md5="fa95feda1693118ed9c00c3b766975f7" sha1="e77e69b9104010872779f454533111b85166caba"/>
+		<description>Without Escape (World) (Aftermarket)</description>
+		<release name="Without Escape (World) (Aftermarket)" region="World"/>
+		<rom name="Without Escape (World) (Aftermarket).nds" size="3482176" crc="aca431c3" md5="fa95feda1693118ed9c00c3b766975f7" sha1="e77e69b9104010872779f454533111b85166caba"/>
 		<url>https://retroachievements.org/game/18311/hashes</url>
 		<hash>e97c66a915f42f51fde402afa7179cfa</hash>
 	</game>
@@ -1051,6 +1051,13 @@
 		<rom name="Air Traffic Chaos (USA) (No Music).nds" size="16777216" crc="ab524414" md5="4374c140c062e772f88f4c7b6e6f4b1c" sha1="6b7c782b726e85f30c810742a471fad89a788ae1"/>
 		<url>https://retroachievements.org/game/26476/hashes</url>
 		<hash>cb68bd88bf0b1563fb5eeb2fdaa35756</hash>
+	</game>
+	<game name="Air Traffic Chaos (USA) (No Music + No Radio Chatter) (v1.0) (multonic)" cloneof="Air Traffic Chaos (USA)">
+		<category>Retail</category>
+		<description>Air Traffic Chaos (USA) (No Music + No Radio Chatter) (v1.0) (multonic)</description>
+		<rom name="Air Traffic Chaos (USA) (No Music + No Radio Chatter) (v1.0) (multonic).nds" size="16777216" crc="d1f79ebc" md5="63a23cddbe5f4510103ab9b09ddcd7d8" sha1="c274648f2544766a5609c0d7ecd3db593d7bc8f4"/>
+		<url>https://retroachievements.org/game/26476/hashes</url>
+		<hash>ff63d850d68e45c7e8a4c70116c9ada3</hash>
 	</game>
 	
 	<game name="All Kamen Rider - Rider Generation (Japan)">
@@ -2421,11 +2428,11 @@
 		<hash>dd4e23470995a9769b1e580bec2a42ea</hash>
 	</game>
 	
-	<game name="Guitar Hero - On Tour (Control Hack)">
+	<game name="Guitar Hero - On Tour (Control)">
 		<category>Retail</category>
-		<description>Guitar Hero - On Tour (Control Hack)</description>
-		<release name="Guitar Hero - On Tour (Control Hack)" region="World"/>
-		<rom name="Guitar Hero - On Tour (Control Hack).nds" size="134217728" crc="2f8d4681" md5="fd342fd62e293b5a289f24992e098943" sha1="7b5abe0b77d2c9b79a563dc42d3e2ee7fb4c84eb"/>
+		<description>Guitar Hero - On Tour (Control)</description>
+		<release name="Guitar Hero - On Tour (Control)" region="World"/>
+		<rom name="Guitar Hero - On Tour (Control).nds" size="134217728" crc="2f8d4681" md5="fd342fd62e293b5a289f24992e098943" sha1="7b5abe0b77d2c9b79a563dc42d3e2ee7fb4c84eb"/>
 		<url>https://retroachievements.org/game/16242/hashes</url>
 		<hash>f20d6159652c2b37c63103fc706cfcc6</hash>
 	</game>
@@ -3529,10 +3536,10 @@
 		<hash>f4b27b6a76f54df9c804ff635b57ce95</hash>
 	</game>
 	
-	<game name="Naruto RPG 2 - Chidori vs Rasengan (Japan) (Wireless Content Hack) (v1.0) (AGT Team)" cloneof="Naruto RPG 2 - Chidori vs Rasengan (Japan) (En) (Dub) (v1.0) (AGT Team)">
+	<game name="Naruto RPG 2 - Chidori vs Rasengan (Japan) (Wireless Content) (v1.0) (AGT Team)" cloneof="Naruto RPG 2 - Chidori vs Rasengan (Japan) (En) (Dub) (v1.0) (AGT Team)">
 		<category>Retail</category>
-		<description>Naruto RPG 2 - Chidori vs Rasengan (Japan) (Wireless Content Hack) (v1.0) (AGT Team)</description>
-		<rom name="Naruto RPG 2 - Chidori vs Rasengan (Japan) (Wireless Content Hack) (v1.0) (AGT Team).nds" size="30710792" crc="27c3b221" md5="fbc4d522dc051fd55d64e4ceed63999a" sha1="d518fda0e53bd411581512f0fd5e3329ae1c4d85"/>
+		<description>Naruto RPG 2 - Chidori vs Rasengan (Japan) (Wireless Content) (v1.0) (AGT Team)</description>
+		<rom name="Naruto RPG 2 - Chidori vs Rasengan (Japan) (Wireless Content) (v1.0) (AGT Team).nds" size="30710792" crc="27c3b221" md5="fbc4d522dc051fd55d64e4ceed63999a" sha1="d518fda0e53bd411581512f0fd5e3329ae1c4d85"/>
 		<url>https://retroachievements.org/game/15481/hashes</url>
 		<hash>14daa039d514f34708e6ebe7c03424a8</hash>
 	</game>
@@ -4407,29 +4414,29 @@
 		<hash>eaffc2eaf15f9c6705cea3036bb7a3fa</hash>
 	</game>
 	
-	<game name="Pokemon Mystery Dungeon - Blue Rescue Team (Europe) (En,Fr,De,Es,It)">
+	<game name="Pokemon - Mystery Dungeon - Blue Rescue Team (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
-		<description>Pokemon Mystery Dungeon - Blue Rescue Team (Europe) (En,Fr,De,Es,It)</description>
-		<release name="Pokemon Mystery Dungeon - Blue Rescue Team (Europe) (En,Fr,De,Es,It)" region="Europe"/>
-		<rom name="Pokemon Mystery Dungeon - Blue Rescue Team (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="a28b5a7a" md5="51360a97f1b601ea7de88cf33ab2ff49" sha1="6f01887356268de39085df01490347bbcc3aa330"/>
+		<description>Pokemon - Mystery Dungeon - Blue Rescue Team (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Pokemon - Mystery Dungeon - Blue Rescue Team (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="Pokemon - Mystery Dungeon - Blue Rescue Team (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="a28b5a7a" md5="51360a97f1b601ea7de88cf33ab2ff49" sha1="6f01887356268de39085df01490347bbcc3aa330"/>
 		<url>https://retroachievements.org/game/17492/hashes</url>
 		<hash>89f431748ac9c1328106c676adc6d085</hash>
 	</game>
 	
-	<game name="Pokemon Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It)">
+	<game name="Pokemon - Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
-		<description>Pokemon Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It)</description>
-		<release name="Pokemon Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It)" region="Europe"/>
-		<rom name="Pokemon Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="5d2537e9" md5="6735749e060e002efd88e61560e45567" sha1="c838a5adf1ed32d2da8454976e5b1a1aa189c139"/>
+		<description>Pokemon - Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Pokemon - Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="Pokemon - Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="5d2537e9" md5="6735749e060e002efd88e61560e45567" sha1="c838a5adf1ed32d2da8454976e5b1a1aa189c139"/>
 		<url>https://retroachievements.org/game/14853/hashes</url>
 		<hash>55f8c2296cc23bf0aa4615bea1e1181e</hash>
 	</game>
 	
-	<game name="Pokemon Mystery Dungeon - Explorers of Sky (Subset - Zero Isle South Runs)">
+	<game name="Pokemon - Mystery Dungeon - Explorers of Sky (Subset - Zero Isle South Runs)">
 		<category>Subset</category>
-		<description>Pokemon Mystery Dungeon - Explorers of Sky (Subset - Zero Isle South Runs)</description>
-		<release name="Pokemon Mystery Dungeon - Explorers of Sky (Subset - Zero Isle South Runs)" region="World"/>
-		<rom name="Pokemon Mystery Dungeon - Explorers of Sky (Subset - Zero Isle South Runs).nds" size="134217728" crc="d05ab3d5" md5="5d7808689b8b5389669244090c69f220" sha1="27ac888800cf76daf9d9531c10bd3c9c34b6d6c3"/>
+		<description>Pokemon - Mystery Dungeon - Explorers of Sky (Subset - Zero Isle South Runs)</description>
+		<release name="Pokemon - Mystery Dungeon - Explorers of Sky (Subset - Zero Isle South Runs)" region="World"/>
+		<rom name="Pokemon - Mystery Dungeon - Explorers of Sky (Subset - Zero Isle South Runs).nds" size="134217728" crc="d05ab3d5" md5="5d7808689b8b5389669244090c69f220" sha1="27ac888800cf76daf9d9531c10bd3c9c34b6d6c3"/>
 		<url>https://retroachievements.org/game/24911/hashes</url>
 		<hash>54b1d7e69387ca7b92e7a9e2dd3e1a8e</hash>
 	</game>
@@ -5328,6 +5335,15 @@
 		<hash>c1cc02f11a34834c388200470abb05ee</hash>
 	</game>
 	
+	<game name="123 Sesame Street - Cookie's Counting Carnival - The Videogame (USA)">
+		<category>Retail</category>
+		<description>123 Sesame Street - Cookie's Counting Carnival - The Videogame (USA)</description>
+		<release name="123 Sesame Street - Cookie's Counting Carnival - The Videogame (USA)" region="USA"/>
+		<rom name="123 Sesame Street - Cookie's Counting Carnival - The Videogame (USA).nds" size="16777216" crc="7ab2eef5" md5="1cb6f0eaf36f795a14b5eba66d9f21f8" sha1="75b8eee9c06b37b866baea63ffabab05bd89d61d"/>
+		<url>https://retroachievements.org/game/18301/hashes</url>
+		<hash>a2b320793e75d9d8ef1058bda4eeaa68</hash>
+	</game>
+	
 	<game name="123 Sesame Street - Elmo's A-to-Zoo Adventure - The Videogame (USA)">
 		<category>Retail</category>
 		<description>123 Sesame Street - Elmo's A-to-Zoo Adventure - The Videogame (USA)</description>
@@ -6208,7 +6224,7 @@
 		<category>Retail</category>
 		<description>Yu-Gi-Oh! - World Championship 2008 (Europe) (En,Ja,Fr,De,Es,It)</description>
 		<release name="Yu-Gi-Oh! - World Championship 2008 (Europe) (En,Ja,Fr,De,Es,It)" region="Europe"/>
-		<rom name="Yu-Gi-Oh! - World Championship 2008 (Europe) (En,Ja,Fr,De,Es,It).nds" size="134217728" crc="7e9dfb25" md5="81fa482cfa967d2468c4ed09f57cf7cb" sha1="0090825a31664f05b88d80707bd11e1c6fcafb56"/>
+		<rom name="Yu-Gi-Oh! - World Championship 2008 (Europe) (En,Ja,Fr,De,Es,It).nds" size="134217728" crc="547f0a07" md5="84102a3c7ae034507f318a75b03e8a4d" sha1="6964f169c8af4c77432f15f2024bf75ebae95daa"/>
 		<url>https://retroachievements.org/game/16299/hashes</url>
 		<hash>35b7be0dae3b250005f51df0143748d5</hash>
 	</game>

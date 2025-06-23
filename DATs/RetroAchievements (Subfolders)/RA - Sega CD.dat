@@ -4,71 +4,71 @@
 	<header>
 		<name>RA - Sega CD</name>
 		<description>Sega CD</description>
-		<category>1G1R</category>
-		<version>20250619</version>
-		<date>19 June 2025</date>
+		<category>Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/9/games</url>
 		<titlecount>52</titlecount>
 		<hashcount>63</hashcount>
 	</header>
-	<game name="Hack/Sonic MegaMix (USA) (Unl) (Hack)">
+	<game name="Hack/Sonic MegaMix (USA) (Unl)">
 		<category></category>
-		<description>Sonic MegaMix (USA) (Unl) (Hack)</description>
-		<rom name="Sonic MegaMix (USA) (Unl) (Hack).cue" size="98" crc="baa0ca75" md5="790678768b4b751f6cc9d8d2b4064204" sha1="94ac456d6ed1475097e61e852db71fdbd8e9683b"/>
-		<rom name="Sonic MegaMix (USA) (Unl) (Hack).bin" size="16946160" crc="227348ac" md5="58863ba94a5484f25e73e2d0c6696d56" sha1="b5137e3ca9a4e3fb0d4c052a5d0bd48b76714a80"/>
+		<description>Sonic MegaMix (USA) (Unl)</description>
+		<rom name="Sonic MegaMix (USA) (Unl).cue" size="98" crc="baa0ca75" md5="790678768b4b751f6cc9d8d2b4064204" sha1="94ac456d6ed1475097e61e852db71fdbd8e9683b"/>
+		<rom name="Sonic MegaMix (USA) (Unl).bin" size="16946160" crc="227348ac" md5="58863ba94a5484f25e73e2d0c6696d56" sha1="b5137e3ca9a4e3fb0d4c052a5d0bd48b76714a80"/>
 		<url>https://retroachievements.org/game/24129/hashes</url>
 		<hash>3c12feaa765ff91a126aa62c7eb24de7</hash>
 	</game>
 	
-	<game name="Homebrew/Mighty Mighty Missile (USA) (Unl) (Homebrew)">
+	<game name="Homebrew/Mighty Mighty Missile (USA) (Unl)">
 		<category></category>
-		<description>Mighty Mighty Missile (USA) (Unl) (Homebrew)</description>
-		<rom name="Mighty Mighty Missile (USA) (Unl) (Homebrew).cue" size="2116" crc="e6a7e961" md5="756d72ba9d614f324ccdf8b041ee5322" sha1="e357bf66d9ab90b018430345c89e354ffda9e354"/>
-		<rom name="Mighty Mighty Missile (USA) (Unl) (Homebrew) (Track 01).bin" size="24891216" crc="28a717a1" md5="3757aca090e13ea5c93f68e4f5eee54d" sha1="bc47bb9fdf729e7de34bcc7ec97cad146779cd85"/>
-		<rom name="Mighty Mighty Missile (USA) (Unl) (Homebrew) (Track 02).bin" size="18999456" crc="837c52cb" md5="79d54a766cb6ae60ed9295d47c8db558" sha1="ae6b8ecd9311ad0b2e21eca78f76749f38a72dc7"/>
-		<rom name="Mighty Mighty Missile (USA) (Unl) (Homebrew) (Track 03).bin" size="58506000" crc="70eb9411" md5="4d7854ffdbcad5467a6342ddec5b00c9" sha1="a6117422a51e0de4fcd9eb8be2694fd5bf5f9d91"/>
-		<rom name="Mighty Mighty Missile (USA) (Unl) (Homebrew) (Track 04).bin" size="31269840" crc="b1469704" md5="7fceb9f37d1620af4e81de509fa9af37" sha1="61be507c54b6fad2ae75d0a4ccefbbdf3800d6c2"/>
-		<rom name="Mighty Mighty Missile (USA) (Unl) (Homebrew) (Track 05).bin" size="6357456" crc="b9b1f520" md5="cc621fb445989c1a38864f8f7835c047" sha1="be13c519d65ea651f245162ef2d684af7fd0bbff"/>
-		<rom name="Mighty Mighty Missile (USA) (Unl) (Homebrew) (Track 06).bin" size="13975584" crc="287ad172" md5="4b1c6eed55de8d4c489874f0a3e85ed3" sha1="a719bbeb21448dd364b6af77160aa2b129d98cc5"/>
-		<rom name="Mighty Mighty Missile (USA) (Unl) (Homebrew) (Track 07).bin" size="16941456" crc="cb5ca0d5" md5="afc0de64baa1cad192dce0a0ba450506" sha1="ee51ccb3f893d36d804af43798302f4df4c167f4"/>
-		<rom name="Mighty Mighty Missile (USA) (Unl) (Homebrew) (Track 08).bin" size="4522896" crc="a2c78621" md5="059c2e08a860e84a703b2a501ed7f10b" sha1="1db95a7f4d33f0f2811c9abb057ac684dbdbb308"/>
-		<rom name="Mighty Mighty Missile (USA) (Unl) (Homebrew) (Track 09).bin" size="8676528" crc="3c705f6f" md5="93ad8cebdcb3d7069ddf3cb0a6bc4a35" sha1="daf0abeaa2c43be1d478caccd402f988f7ca0c5b"/>
-		<rom name="Mighty Mighty Missile (USA) (Unl) (Homebrew) (Track 10).bin" size="21457296" crc="5ff78bf8" md5="6836811e1cd7c295c10a38800add2fd9" sha1="a90ea06692d09001af0ca050b87501c9b85e2709"/>
-		<rom name="Mighty Mighty Missile (USA) (Unl) (Homebrew) (Track 11).bin" size="4781616" crc="4b16b475" md5="17c2e140fc0e9f8813667c78e6e329b2" sha1="019379ce044ac2215a0370059809ae073abb902c"/>
-		<rom name="Mighty Mighty Missile (USA) (Unl) (Homebrew) (Track 12).bin" size="57362928" crc="7acf7a2a" md5="4fe700aa9b09add9a8f0cfb4e1c8d1ab" sha1="8bc592c5cbdf81e8e6170a33951d7cf0ead50d6d"/>
-		<rom name="Mighty Mighty Missile (USA) (Unl) (Homebrew) (Track 13).bin" size="65293872" crc="f4ef7aa0" md5="1b71a37d84918728fe57dbd9deda2695" sha1="cc24071d4411df5bc6afa92bf023762f421b1458"/>
-		<rom name="Mighty Mighty Missile (USA) (Unl) (Homebrew) (Track 14).bin" size="17522400" crc="dfee8bc9" md5="d352b1a0534973fe0eb6626588d35e95" sha1="f667f07dd78bbf1fb1447140921d2eb089eb868a"/>
-		<rom name="Mighty Mighty Missile (USA) (Unl) (Homebrew) (Track 15).bin" size="21831264" crc="c6fdc9d2" md5="31f78d226d6928b8715938a21bca4489" sha1="f51aeb6bf81787881241326a4d446b8755a31ba6"/>
-		<rom name="Mighty Mighty Missile (USA) (Unl) (Homebrew) (Track 16).bin" size="30881760" crc="17afe659" md5="390e59426e166ed0d42271dffcf482aa" sha1="ea272c349062d80b847b8501dc26ec674c35f0e0"/>
-		<rom name="Mighty Mighty Missile (USA) (Unl) (Homebrew) (Track 17).bin" size="6418608" crc="4d77ca38" md5="df10d9e20026c52928197852d78fea57" sha1="a95a50b30c440ce233127895b90471daa6bd4c8f"/>
-		<rom name="Mighty Mighty Missile (USA) (Unl) (Homebrew) (Track 18).bin" size="39499488" crc="039d947b" md5="b04bba67f8c9fd68fb2c75956be101f8" sha1="bf51027f71f0f247bf71f49ed76e2c04c65c248c"/>
+		<description>Mighty Mighty Missile (USA) (Unl)</description>
+		<rom name="Mighty Mighty Missile (USA) (Unl).cue" size="2116" crc="e6a7e961" md5="756d72ba9d614f324ccdf8b041ee5322" sha1="e357bf66d9ab90b018430345c89e354ffda9e354"/>
+		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 01).bin" size="24891216" crc="28a717a1" md5="3757aca090e13ea5c93f68e4f5eee54d" sha1="bc47bb9fdf729e7de34bcc7ec97cad146779cd85"/>
+		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 02).bin" size="18999456" crc="837c52cb" md5="79d54a766cb6ae60ed9295d47c8db558" sha1="ae6b8ecd9311ad0b2e21eca78f76749f38a72dc7"/>
+		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 03).bin" size="58506000" crc="70eb9411" md5="4d7854ffdbcad5467a6342ddec5b00c9" sha1="a6117422a51e0de4fcd9eb8be2694fd5bf5f9d91"/>
+		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 04).bin" size="31269840" crc="b1469704" md5="7fceb9f37d1620af4e81de509fa9af37" sha1="61be507c54b6fad2ae75d0a4ccefbbdf3800d6c2"/>
+		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 05).bin" size="6357456" crc="b9b1f520" md5="cc621fb445989c1a38864f8f7835c047" sha1="be13c519d65ea651f245162ef2d684af7fd0bbff"/>
+		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 06).bin" size="13975584" crc="287ad172" md5="4b1c6eed55de8d4c489874f0a3e85ed3" sha1="a719bbeb21448dd364b6af77160aa2b129d98cc5"/>
+		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 07).bin" size="16941456" crc="cb5ca0d5" md5="afc0de64baa1cad192dce0a0ba450506" sha1="ee51ccb3f893d36d804af43798302f4df4c167f4"/>
+		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 08).bin" size="4522896" crc="a2c78621" md5="059c2e08a860e84a703b2a501ed7f10b" sha1="1db95a7f4d33f0f2811c9abb057ac684dbdbb308"/>
+		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 09).bin" size="8676528" crc="3c705f6f" md5="93ad8cebdcb3d7069ddf3cb0a6bc4a35" sha1="daf0abeaa2c43be1d478caccd402f988f7ca0c5b"/>
+		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 10).bin" size="21457296" crc="5ff78bf8" md5="6836811e1cd7c295c10a38800add2fd9" sha1="a90ea06692d09001af0ca050b87501c9b85e2709"/>
+		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 11).bin" size="4781616" crc="4b16b475" md5="17c2e140fc0e9f8813667c78e6e329b2" sha1="019379ce044ac2215a0370059809ae073abb902c"/>
+		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 12).bin" size="57362928" crc="7acf7a2a" md5="4fe700aa9b09add9a8f0cfb4e1c8d1ab" sha1="8bc592c5cbdf81e8e6170a33951d7cf0ead50d6d"/>
+		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 13).bin" size="65293872" crc="f4ef7aa0" md5="1b71a37d84918728fe57dbd9deda2695" sha1="cc24071d4411df5bc6afa92bf023762f421b1458"/>
+		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 14).bin" size="17522400" crc="dfee8bc9" md5="d352b1a0534973fe0eb6626588d35e95" sha1="f667f07dd78bbf1fb1447140921d2eb089eb868a"/>
+		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 15).bin" size="21831264" crc="c6fdc9d2" md5="31f78d226d6928b8715938a21bca4489" sha1="f51aeb6bf81787881241326a4d446b8755a31ba6"/>
+		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 16).bin" size="30881760" crc="17afe659" md5="390e59426e166ed0d42271dffcf482aa" sha1="ea272c349062d80b847b8501dc26ec674c35f0e0"/>
+		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 17).bin" size="6418608" crc="4d77ca38" md5="df10d9e20026c52928197852d78fea57" sha1="a95a50b30c440ce233127895b90471daa6bd4c8f"/>
+		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 18).bin" size="39499488" crc="039d947b" md5="b04bba67f8c9fd68fb2c75956be101f8" sha1="bf51027f71f0f247bf71f49ed76e2c04c65c248c"/>
 		<url>https://retroachievements.org/game/5/hashes</url>
 		<hash>c3f476595c1151bde8b87e7a8e2c5c30</hash>
 	</game>
 
-	<game name="Homebrew/Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur) (Homebrew)">
+	<game name="Homebrew/Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur) (Aftermarket)">
 		<category></category>
-		<description>Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur) (Homebrew)</description>
-		<rom name="Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur) (Homebrew).iso" size="1095680" crc="eb76c863" md5="eda749827f62224eddf8c17f3f5e2558" sha1="c0520e63d7791e07e7d6abeb2ae61d2a05c31ca6"/>
+		<description>Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur) (Aftermarket)</description>
+		<rom name="Riley's Letter Recycle (USA) (v2011-07-01) (bgvanbur) (Aftermarket).iso" size="1095680" crc="eb76c863" md5="eda749827f62224eddf8c17f3f5e2558" sha1="c0520e63d7791e07e7d6abeb2ae61d2a05c31ca6"/>
 		<url>https://retroachievements.org/game/14766/hashes</url>
 		<hash>85fce84ca1245733aac68a1ec28041e4</hash>
 	</game>
 
-	<game name="Prototype/Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1)">
+	<game name="Prototype/Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 1)">
 		<category></category>
-		<description>Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1)</description>
-		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1).cue" size="106" crc="8b25e882" md5="6f4b3ce059a91539c0ccd5fe75b9487e" sha1="9d8de750edc30da8ff58b9f65ec57a47a9878e89"/>
-		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 1).bin" size="599524800" crc="8b463a50" md5="f7f03eca47b955a014f691b8a18aebb7" sha1="409adb01fad4bbc2e3bda1d91dc8dbb43fe1d90c"/>
+		<description>Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 1)</description>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 1).cue" size="114" crc="a9ab90fa" md5="f1172412bb96cb8db8e85fb09eba467f" sha1="e9b7c058d2f7a64b831dbfff87b079b346b267b2"/>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 1).bin" size="599524800" crc="8b463a50" md5="f7f03eca47b955a014f691b8a18aebb7" sha1="409adb01fad4bbc2e3bda1d91dc8dbb43fe1d90c"/>
 		<url>https://retroachievements.org/game/10096/hashes</url>
 		<hash>3366c149ddd7b8266deb4a729e804118</hash>
 	</game>
-	<game name="Prototype/Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 2)">
+	<game name="Prototype/Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 2)">
 		<category></category>
-		<description>Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 2)</description>
-		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 2).cue" size="106" crc="89cb1258" md5="702d2bfbe49e310e351a8e25a2a15e28" sha1="02f10913a4cc08f447a5a2295453e6ba310a6410"/>
-		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Disc 2).bin" size="248851008" crc="0e4029db" md5="5122b5784bfd0f9a485d724578b74bd2" sha1="282db5786d3e284ab85643e3ae744be4149edad1"/>
+		<description>Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 2)</description>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 2).cue" size="114" crc="ab456a20" md5="658fa3f2d94a9ffa3fd29be536dadd43" sha1="62459d27028d113604093badcc5649d30fede876"/>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 2).bin" size="248851008" crc="0e4029db" md5="5122b5784bfd0f9a485d724578b74bd2" sha1="282db5786d3e284ab85643e3ae744be4149edad1"/>
 		<url>https://retroachievements.org/game/10096/hashes</url>
 		<hash>b27c343ec2d3baba714a3667017c290c</hash>
 	</game>

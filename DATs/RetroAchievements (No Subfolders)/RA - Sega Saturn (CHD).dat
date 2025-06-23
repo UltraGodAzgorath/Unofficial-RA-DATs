@@ -4,9 +4,9 @@
 	<header>
 		<name>RA - Sega Saturn (CHD)</name>
 		<description>Sega Saturn (CHD)</description>
-		<category>1G1R</category>
-		<version>20250608</version>
-		<date>08 June 2025</date>
+		<category>No Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/39/games</url>
@@ -15,38 +15,38 @@
 		<clrmamepro forcepacking="unzip"/>
 		<romvault forcepacking="unzip"/>
 	</header>
-	<game name="Christmas NiGHTS into Dreams... (USA)">
+	<game name="Christmas NiGHTS into Dreams... (USA) (Demo)">
 		<category>Demo</category>
-		<description>Christmas NiGHTS into Dreams... (USA)</description>
-		<release name="Christmas NiGHTS into Dreams... (USA)" region="USA"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA).chd" size="432755329" crc="d5792c0c" md5="63a136d1c213e9d2073084d006fb9343" sha1="6ecd6d6a46369cf80e362b5679a5852bb7f4e93f"/>
+		<description>Christmas NiGHTS into Dreams... (USA) (Demo)</description>
+		<release name="Christmas NiGHTS into Dreams... (USA) (Demo)" region="USA"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo).chd" size="432755329" crc="d5792c0c" md5="63a136d1c213e9d2073084d006fb9343" sha1="6ecd6d6a46369cf80e362b5679a5852bb7f4e93f"/>
 		<url>https://retroachievements.org/game/14531/hashes</url>
 		<hash>f3349305b47dec32eb9b6b2416f5382e</hash>
 	</game>
 	
-	<game name="Sonic Z-Treme (NTSC) (Demo) (Aftermarket) (XL2) (Homebrew)">
+	<game name="Sonic Z-Treme (NTSC) (XL2) (Demo) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Sonic Z-Treme (NTSC) (Demo) (Aftermarket) (XL2) (Homebrew)</description>
-		<release name="Sonic Z-Treme (NTSC) (Demo) (Aftermarket) (XL2) (Homebrew)" region="World"/>
-		<rom name="Sonic Z-Treme (NTSC) (Demo) (Aftermarket) (XL2) (Homebrew).chd" size="2353775" crc="816a04bb" md5="c3e0cc5977623b4723b138bc822abaf7" sha1="8e5f17ee3c6d671df3985ba5745384a5d3dd3284"/>
+		<description>Sonic Z-Treme (NTSC) (XL2) (Demo) (Aftermarket)</description>
+		<release name="Sonic Z-Treme (NTSC) (XL2) (Demo) (Aftermarket)" region="World"/>
+		<rom name="Sonic Z-Treme (NTSC) (XL2) (Demo) (Aftermarket).chd" size="2353775" crc="816a04bb" md5="c3e0cc5977623b4723b138bc822abaf7" sha1="8e5f17ee3c6d671df3985ba5745384a5d3dd3284"/>
 		<url>https://retroachievements.org/game/10017/hashes</url>
 		<hash>b267f589e0c91f23bed9ddbcbb26889f</hash>
 	</game>
 	
-	<game name="Cubecat (Homebrew) (RAHash Fix) (Homebrew)">
+	<game name="Cubecat (RAHash Fix) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Cubecat (Homebrew) (RAHash Fix) (Homebrew)</description>
-		<release name="Cubecat (Homebrew) (RAHash Fix) (Homebrew)" region="World"/>
-		<rom name="Cubecat (Homebrew) (RAHash Fix) (Homebrew).chd" size="42927749" crc="6fe47d1f" md5="27d8b63518abae7f1043d88e71a1d314" sha1="e8b60dd290970e2ef0a7da627a863f3c403cc973"/>
+		<description>Cubecat (RAHash Fix) (Aftermarket)</description>
+		<release name="Cubecat (RAHash Fix) (Aftermarket)" region="World"/>
+		<rom name="Cubecat (RAHash Fix) (Aftermarket).chd" size="42927749" crc="6fe47d1f" md5="27d8b63518abae7f1043d88e71a1d314" sha1="e8b60dd290970e2ef0a7da627a863f3c403cc973"/>
 		<url>https://retroachievements.org/game/25008/hashes</url>
 		<hash>2a2f5e4213830d2a836716caa8e2f84f</hash>
 	</game>
 	
-	<game name="Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Beta)">
+	<game name="Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Proto) (Beta)">
 		<category>Prototype</category>
-		<description>Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Beta)</description>
-		<release name="Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Beta)" region="Japan"/>
-		<rom name="Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Beta).chd" size="931674" crc="6dbba248" md5="7e7542ac15f26bf6e32d39d8ddb6938e" sha1="6bd50d395d59de53493f89238f80bf6a9e3e847f"/>
+		<description>Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Proto) (Beta)</description>
+		<release name="Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Proto) (Beta)" region="Japan"/>
+		<rom name="Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Proto) (Beta).chd" size="931674" crc="6dbba248" md5="7e7542ac15f26bf6e32d39d8ddb6938e" sha1="6bd50d395d59de53493f89238f80bf6a9e3e847f"/>
 		<url>https://retroachievements.org/game/25896/hashes</url>
 		<hash>2ef67b44248bbccc1f1097fd77c66b2c</hash>
 	</game>

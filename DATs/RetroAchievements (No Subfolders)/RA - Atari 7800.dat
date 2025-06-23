@@ -4,101 +4,101 @@
 	<header>
 		<name>RA - Atari 7800</name>
 		<description>Atari 7800</description>
-		<category>1G1R</category>
-		<version>20250619</version>
-		<date>19 June 2025</date>
+		<category>No Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/51/games</url>
 		<titlecount>37</titlecount>
 		<hashcount>38</hashcount>
 	</header>
-	<game name="2048 (World) (Aftermarket) (Unl)">
+	<game name="2048 (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>2048 (World) (Aftermarket) (Unl)</description>
-		<release name="2048 (World) (Aftermarket) (Unl)" region="World"/>
-		<rom name="2048 (World) (Aftermarket) (Unl).a78" size="49280" crc="118ea84d" md5="a43ae0a26441ff804a9fbaf094a3533d" sha1="99ed61f87bad6e119c1ef69099e4c348b3bbf143"/>
+		<description>2048 (World) (Aftermarket)</description>
+		<release name="2048 (World) (Aftermarket)" region="World"/>
+		<rom name="2048 (World) (Aftermarket).a78" size="49280" crc="118ea84d" md5="a43ae0a26441ff804a9fbaf094a3533d" sha1="99ed61f87bad6e119c1ef69099e4c348b3bbf143"/>
 		<url>https://retroachievements.org/game/24465/hashes</url>
 		<hash>6F157F421C7ED5D952B393122D37915E</hash>
 	</game>
 	
-	<game name="Bentley Bear's Crystal Quest (World) (NTSC) (Aftermarket) (Unl)">
+	<game name="Bentley Bear's Crystal Quest (World) (NTSC) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Bentley Bear's Crystal Quest (World) (NTSC) (Aftermarket) (Unl)</description>
-		<release name="Bentley Bear's Crystal Quest (World) (NTSC) (Aftermarket) (Unl)" region="USA"/>
-		<rom name="Bentley Bear's Crystal Quest (World) (NTSC) (Aftermarket) (Unl).a78" size="147456" crc="d44622b3" md5="34483432b92f565f4ced82a141119164" sha1="4a850d4b97bea621e9b6df142afeec8b398d6d6c"/>
+		<description>Bentley Bear's Crystal Quest (World) (NTSC) (Aftermarket)</description>
+		<release name="Bentley Bear's Crystal Quest (World) (NTSC) (Aftermarket)" region="USA"/>
+		<rom name="Bentley Bear's Crystal Quest (World) (NTSC) (Aftermarket).a78" size="147456" crc="d44622b3" md5="34483432b92f565f4ced82a141119164" sha1="4a850d4b97bea621e9b6df142afeec8b398d6d6c"/>
 		<url>https://retroachievements.org/game/31170/hashes</url>
 		<hash>34483432b92f565f4ced82a141119164</hash>
 	</game>
 	
-	<game name="DeathMerchant (World) (v1.30) (Digital) (Aftermarket) (Unl)">
+	<game name="DeathMerchant (World) (v1.30) (Digital) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>DeathMerchant (World) (v1.30) (Digital) (Aftermarket) (Unl)</description>
-		<release name="DeathMerchant (World) (v1.30) (Digital) (Aftermarket) (Unl)" region="World"/>
-		<rom name="DeathMerchant (World) (v1.30) (Digital) (Aftermarket) (Unl).a78" size="49280" crc="57adcd6b" md5="596297af60645bf3db97e4c78a21f526" sha1="e01c232f1c51ad1a7f15b0ec5ecc1a47271bc232"/>
+		<description>DeathMerchant (World) (v1.30) (Digital) (Aftermarket)</description>
+		<release name="DeathMerchant (World) (v1.30) (Digital) (Aftermarket)" region="World"/>
+		<rom name="DeathMerchant (World) (v1.30) (Digital) (Aftermarket).a78" size="49280" crc="57adcd6b" md5="596297af60645bf3db97e4c78a21f526" sha1="e01c232f1c51ad1a7f15b0ec5ecc1a47271bc232"/>
 		<url>https://retroachievements.org/game/28950/hashes</url>
 		<hash>FAB7B59DD580DCE0B28BE3E74A7B8433</hash>
 	</game>
 	
-	<game name="Flappy Bird (USA) (Aftermarket) (Matthias Lüdtke)">
+	<game name="Flappy Bird (USA) (Matthias Lüdtke) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Flappy Bird (USA) (Aftermarket) (Matthias Lüdtke)</description>
-		<release name="Flappy Bird (USA) (Aftermarket) (Matthias Lüdtke)" region="USA"/>
-		<rom name="Flappy Bird (USA) (Aftermarket) (Matthias Lüdtke).a78" size="32896" crc="59812261" md5="6b3c664b4223085f835ef1a6ca346687" sha1="267776f2da752d5b6420252a9176cf430344454f"/>
+		<description>Flappy Bird (USA) (Matthias Lüdtke) (Aftermarket)</description>
+		<release name="Flappy Bird (USA) (Matthias Lüdtke) (Aftermarket)" region="USA"/>
+		<rom name="Flappy Bird (USA) (Matthias Lüdtke) (Aftermarket).a78" size="32896" crc="59812261" md5="6b3c664b4223085f835ef1a6ca346687" sha1="267776f2da752d5b6420252a9176cf430344454f"/>
 		<url>https://retroachievements.org/game/24485/hashes</url>
 		<hash>BAC78B53F4F6B3F68C0F8073F0073179</hash>
 	</game>
 	
-	<game name="Knight Guy in Low-Res World - Castle Days (World) (RC1.1) (Aftermarket) (Unl)">
+	<game name="Knight Guy in Low-Res World - Castle Days (World) (RC1.1) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Knight Guy in Low-Res World - Castle Days (World) (RC1.1) (Aftermarket) (Unl)</description>
-		<release name="Knight Guy in Low-Res World - Castle Days (World) (RC1.1) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Knight Guy in Low-Res World - Castle Days (World) (RC1.1) (Aftermarket) (Unl).a78" size="147584" crc="539e3dd7" md5="95dfe1404d66dc1dc499c8c06171aec3" sha1="31e9ef48c43b06aa96df459b72b75c73eddc7633"/>
+		<description>Knight Guy in Low-Res World - Castle Days (World) (RC1.1) (Aftermarket)</description>
+		<release name="Knight Guy in Low-Res World - Castle Days (World) (RC1.1) (Aftermarket)" region="World"/>
+		<rom name="Knight Guy in Low-Res World - Castle Days (World) (RC1.1) (Aftermarket).a78" size="147584" crc="539e3dd7" md5="95dfe1404d66dc1dc499c8c06171aec3" sha1="31e9ef48c43b06aa96df459b72b75c73eddc7633"/>
 		<url>https://retroachievements.org/game/29938/hashes</url>
 		<hash>33DBB58F9EE73E9F476B4EBBC8190C88</hash>
 	</game>
 	
-	<game name="Meteor Shower (World) (v1.05) (NTSC) (Aftermarket) (Unl)">
+	<game name="Meteor Shower (World) (v1.05) (NTSC) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Meteor Shower (World) (v1.05) (NTSC) (Aftermarket) (Unl)</description>
-		<release name="Meteor Shower (World) (v1.05) (NTSC) (Aftermarket) (Unl)" region="USA"/>
-		<rom name="Meteor Shower (World) (v1.05) (NTSC) (Aftermarket) (Unl).a78" size="16512" crc="8052ccb3" md5="21d1caaeca24e023fad3df23b452b93a" sha1="50f743e617c4456ea5f2f1d66725e63b9359fd41"/>
+		<description>Meteor Shower (World) (v1.05) (NTSC) (Aftermarket)</description>
+		<release name="Meteor Shower (World) (v1.05) (NTSC) (Aftermarket)" region="USA"/>
+		<rom name="Meteor Shower (World) (v1.05) (NTSC) (Aftermarket).a78" size="16512" crc="8052ccb3" md5="21d1caaeca24e023fad3df23b452b93a" sha1="50f743e617c4456ea5f2f1d66725e63b9359fd41"/>
 		<url>https://retroachievements.org/game/24518/hashes</url>
 		<hash>C3F6201D6A9388E860328C963A3301CC</hash>
 	</game>
 	
-	<game name="Rikki &amp; Vikki (World) (Aftermarket) (Unl)">
+	<game name="Rikki &amp; Vikki (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Rikki &amp; Vikki (World) (Aftermarket) (Unl)</description>
-		<release name="Rikki &amp; Vikki (World) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Rikki &amp; Vikki (World) (Aftermarket) (Unl).a78" size="524288" crc="3ea5d821" md5="b3bc889e9cc498636990c5a4d980e85c" sha1="b26d3125a109fed15e380dc32f2e55d84f350450"/>
+		<description>Rikki &amp; Vikki (World) (Aftermarket)</description>
+		<release name="Rikki &amp; Vikki (World) (Aftermarket)" region="World"/>
+		<rom name="Rikki &amp; Vikki (World) (Aftermarket).a78" size="524288" crc="3ea5d821" md5="b3bc889e9cc498636990c5a4d980e85c" sha1="b26d3125a109fed15e380dc32f2e55d84f350450"/>
 		<url>https://retroachievements.org/game/16547/hashes</url>
 		<hash>B3BC889E9CC498636990C5A4D980E85C</hash>
 	</game>
 	
-	<game name="Super Pac-Man (World) (v1.09) (NTSC) (Aftermarket) (Unl)">
+	<game name="Super Pac-Man (World) (v1.09) (NTSC) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Super Pac-Man (World) (v1.09) (NTSC) (Aftermarket) (Unl)</description>
-		<release name="Super Pac-Man (World) (v1.09) (NTSC) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Super Pac-Man (World) (v1.09) (NTSC) (Aftermarket) (Unl).a78" size="32768" crc="415a28ad" md5="7ab539bb0e99e1e5a1c89230bde64610" sha1="e1c51fa453b8dc600e5d7f46df1443b99a1507d0"/>
+		<description>Super Pac-Man (World) (v1.09) (NTSC) (Aftermarket)</description>
+		<release name="Super Pac-Man (World) (v1.09) (NTSC) (Aftermarket)" region="World"/>
+		<rom name="Super Pac-Man (World) (v1.09) (NTSC) (Aftermarket).a78" size="32768" crc="415a28ad" md5="7ab539bb0e99e1e5a1c89230bde64610" sha1="e1c51fa453b8dc600e5d7f46df1443b99a1507d0"/>
 		<url>https://retroachievements.org/game/31174/hashes</url>
 		<hash>7ab539bb0e99e1e5a1c89230bde64610</hash>
 	</game>
 	
-	<game name="TiME Salvo (USA) (Aftermarket) (Mike Saarna)">
+	<game name="TiME Salvo (USA) (Mike Saarna) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>TiME Salvo (USA) (Aftermarket) (Mike Saarna)</description>
-		<release name="TiME Salvo (USA) (Aftermarket) (Mike Saarna)" region="USA"/>
-		<rom name="TiME Salvo (USA) (Aftermarket) (Mike Saarna).a78" size="49280" crc="99908716" md5="668c10974001dc1b02466bdaaa6c7d2b" sha1="83d24c64ca9def70012c4b3fb50c949ac4ce0560"/>
+		<description>TiME Salvo (USA) (Mike Saarna) (Aftermarket)</description>
+		<release name="TiME Salvo (USA) (Mike Saarna) (Aftermarket)" region="USA"/>
+		<rom name="TiME Salvo (USA) (Mike Saarna) (Aftermarket).a78" size="49280" crc="99908716" md5="668c10974001dc1b02466bdaaa6c7d2b" sha1="83d24c64ca9def70012c4b3fb50c949ac4ce0560"/>
 		<url>https://retroachievements.org/game/16574/hashes</url>
 		<hash>A60E4B608505D1FB201703B266F754A7</hash>
 	</game>
 	
-	<game name="Wordle (World) (v1.07) (Aftermarket) (Unl)">
+	<game name="Wordle (World) (v1.07) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Wordle (World) (v1.07) (Aftermarket) (Unl)</description>
-		<release name="Wordle (World) (v1.07) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Wordle (World) (v1.07) (Aftermarket) (Unl).a78" size="131200" crc="718e07c5" md5="f71ec2b94f34b9290b70079550be460c" sha1="5d1bfb4f747ac621be1cd85a5663778c15928baf"/>
+		<description>Wordle (World) (v1.07) (Aftermarket)</description>
+		<release name="Wordle (World) (v1.07) (Aftermarket)" region="World"/>
+		<rom name="Wordle (World) (v1.07) (Aftermarket).a78" size="131200" crc="718e07c5" md5="f71ec2b94f34b9290b70079550be460c" sha1="5d1bfb4f747ac621be1cd85a5663778c15928baf"/>
 		<url>https://retroachievements.org/game/24466/hashes</url>
 		<hash>71CE8910B0EFD5D0014A9695CCE3B7AD</hash>
 	</game>

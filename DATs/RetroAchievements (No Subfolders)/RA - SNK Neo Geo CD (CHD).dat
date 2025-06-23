@@ -4,9 +4,9 @@
 	<header>
 		<name>RA - SNK Neo Geo CD (CHD)</name>
 		<description>SNK Neo Geo CD (CHD)</description>
-		<category>1G1R</category>
-		<version>20250529</version>
-		<date>29 May 2025</date>
+		<category>No Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/56/games</url>
@@ -15,36 +15,36 @@
 		<clrmamepro forcepacking="unzip"/>
 		<romvault forcepacking="unzip"/>
 	</header>
-	<game name="Last Hope (Germany) (Unl) (Homebrew)">
+	<game name="Last Hope (Germany) (Unl)">
 		<category>Homebrew</category>
-		<description>Last Hope (Germany) (Unl) (Homebrew)</description>
-		<release name="Last Hope (Germany) (Unl) (Homebrew)" region="Germany"/>
-		<rom name="Last Hope (Germany) (Unl) (Homebrew).chd" size="127329343" crc="c41ef746" md5="a67995ae6342a4ae39bb403074d2a406" sha1="bb622f17539b9b5dd72eccd93a815a87ad38118e"/>
+		<description>Last Hope (Germany) (Unl)</description>
+		<release name="Last Hope (Germany) (Unl)" region="Germany"/>
+		<rom name="Last Hope (Germany) (Unl).chd" size="127329343" crc="c41ef746" md5="a67995ae6342a4ae39bb403074d2a406" sha1="bb622f17539b9b5dd72eccd93a815a87ad38118e"/>
 		<url>https://retroachievements.org/game/23851/hashes</url>
 		<hash>2c60bac28fb31d6a1347e60e880867d6</hash>
 	</game>
 	
-	<game name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Homebrew)" cloneof="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Homebrew)">
+	<game name="Shinobi (World) (v1.0) (Hoffman) (Aftermarket)" cloneof="Shinobi (World) (v1.1) (Hoffman) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Homebrew)</description>
-		<rom name="Shinobi (World) (v1.0) (Aftermarket) (Hoffman) (Homebrew).chd" size="82383008" crc="4f779d81" md5="667306ea1a4bb05c8a4a08a0264a2fad" sha1="f9200a682245aee2ceced5796a69843e770536da"/>
+		<description>Shinobi (World) (v1.0) (Hoffman) (Aftermarket)</description>
+		<rom name="Shinobi (World) (v1.0) (Hoffman) (Aftermarket).chd" size="82383008" crc="4f779d81" md5="667306ea1a4bb05c8a4a08a0264a2fad" sha1="f9200a682245aee2ceced5796a69843e770536da"/>
 		<url>https://retroachievements.org/game/32801/hashes</url>
 		<hash>d94f736035e14939185fb9a8af4012f8</hash>
 	</game>
-	<game name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Homebrew)">
+	<game name="Shinobi (World) (v1.1) (Hoffman) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Homebrew)</description>
-		<release name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Homebrew)" region="World"/>
-		<rom name="Shinobi (World) (v1.1) (Aftermarket) (Hoffman) (Homebrew).chd" size="82383217" crc="00e506f6" md5="22d7532c41d8cf66da70430f78bd1af7" sha1="3ad9eff8c5382d71c79fc1f6ca84d0a08555ca6e"/>
+		<description>Shinobi (World) (v1.1) (Hoffman) (Aftermarket)</description>
+		<release name="Shinobi (World) (v1.1) (Hoffman) (Aftermarket)" region="World"/>
+		<rom name="Shinobi (World) (v1.1) (Hoffman) (Aftermarket).chd" size="82383217" crc="00e506f6" md5="22d7532c41d8cf66da70430f78bd1af7" sha1="3ad9eff8c5382d71c79fc1f6ca84d0a08555ca6e"/>
 		<url>https://retroachievements.org/game/32801/hashes</url>
 		<hash>fafac288db61100b8ce57086d3b5a6ab</hash>
 	</game>
 	
-	<game name="Xeno Crisis (World) (Unl) (Homebrew)">
+	<game name="Xeno Crisis (World) (Unl)">
 		<category>Homebrew</category>
-		<description>Xeno Crisis (World) (Unl) (Homebrew)</description>
-		<release name="Xeno Crisis (World) (Unl) (Homebrew)" region="World"/>
-		<rom name="Xeno Crisis (World) (Unl) (Homebrew).chd" size="437825357" crc="10e40518" md5="6314b2047bc20f0d13fcd6cf6a0893a1" sha1="00729df6e0e58216321bf3623b0c1fb1848583ae"/>
+		<description>Xeno Crisis (World) (Unl)</description>
+		<release name="Xeno Crisis (World) (Unl)" region="World"/>
+		<rom name="Xeno Crisis (World) (Unl).chd" size="437825357" crc="10e40518" md5="6314b2047bc20f0d13fcd6cf6a0893a1" sha1="00729df6e0e58216321bf3623b0c1fb1848583ae"/>
 		<url>https://retroachievements.org/game/23888/hashes</url>
 		<hash>1d232e073b335d96cfef64bad118065c</hash>
 	</game>

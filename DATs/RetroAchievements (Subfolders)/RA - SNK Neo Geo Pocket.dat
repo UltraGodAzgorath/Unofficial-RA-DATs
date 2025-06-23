@@ -4,83 +4,83 @@
 	<header>
 		<name>RA - SNK Neo Geo Pocket</name>
 		<description>SNK Neo Geo Pocket</description>
-		<category>1G1R</category>
-		<version>20250609</version>
-		<date>09 June 2025</date>
+		<category>Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/14/games</url>
 		<titlecount>38</titlecount>
 		<hashcount>50/51</hashcount>
 	</header>
-	<game name="Homebrew/Another Day in Hell (World) (v1.1) (Aftermarket) (Unl)">
+	<game name="Homebrew/Another Day in Hell (World) (v1.1) (Aftermarket)">
 		<category>Neo Geo Pocket Color</category>
-		<description>Another Day in Hell (World) (v1.1) (Aftermarket) (Unl)</description>
-		<rom name="Another Day in Hell (World) (v1.1) (Aftermarket) (Unl).ngc" size="1494777" crc="73d4c2a4" md5="b66c0335be91d86650e31c5942a69323" sha1="8ede8a19190fb5e74658d06f2d076a9fcf440187"/>
+		<description>Another Day in Hell (World) (v1.1) (Aftermarket)</description>
+		<rom name="Another Day in Hell (World) (v1.1) (Aftermarket).ngc" size="1494777" crc="73d4c2a4" md5="b66c0335be91d86650e31c5942a69323" sha1="8ede8a19190fb5e74658d06f2d076a9fcf440187"/>
 		<url>https://retroachievements.org/game/23731/hashes</url>
 		<hash>b66c0335be91d86650e31c5942a69323</hash>
 	</game>
 	
-	<game name="Homebrew/Blocks (World) (Aftermarket) (Unl)">
+	<game name="Homebrew/Blocks (World) (Aftermarket)">
 		<category>Neo Geo Pocket Color</category>
-		<description>Blocks (World) (Aftermarket) (Unl)</description>
-		<rom name="Blocks (World) (Aftermarket) (Unl).ngc" size="32768" crc="dfd9d777" md5="e2b6d75c63b17e18cd02411f6ce1d6e4" sha1="8bb44863e9e874d8d78234a406f84e33711fc495"/>
+		<description>Blocks (World) (Aftermarket)</description>
+		<rom name="Blocks (World) (Aftermarket).ngc" size="32768" crc="dfd9d777" md5="e2b6d75c63b17e18cd02411f6ce1d6e4" sha1="8bb44863e9e874d8d78234a406f84e33711fc495"/>
 		<url>https://retroachievements.org/game/23744/hashes</url>
 		<hash>e2b6d75c63b17e18cd02411f6ce1d6e4</hash>
 	</game>
 	
-	<game name="Homebrew/Diamond Run (World) (Aftermarket) (Unl)">
+	<game name="Homebrew/Diamond Run (World) (Aftermarket)">
 		<category>Neo Geo Pocket Color</category>
-		<description>Diamond Run (World) (Aftermarket) (Unl)</description>
-		<rom name="Diamond Run (World) (Aftermarket) (Unl).ngc" size="32768" crc="97c58fd0" md5="0cd4aa9a72ececf14508de6ae6725ed1" sha1="76f82acc6e5df9c4980a56361966058653cd32f6"/>
+		<description>Diamond Run (World) (Aftermarket)</description>
+		<rom name="Diamond Run (World) (Aftermarket).ngc" size="32768" crc="97c58fd0" md5="0cd4aa9a72ececf14508de6ae6725ed1" sha1="76f82acc6e5df9c4980a56361966058653cd32f6"/>
 		<url>https://retroachievements.org/game/19896/hashes</url>
 		<hash>0cd4aa9a72ececf14508de6ae6725ed1</hash>
 	</game>
 	
-	<game name="Homebrew/Gears of Fate (World) (v20090508) (Aftermarket) (Unl)">
+	<game name="Homebrew/Gears of Fate (World) (v20090508) (Aftermarket)">
 		<category>Neo Geo Pocket Color</category>
-		<description>Gears of Fate (World) (v20090508) (Aftermarket) (Unl)</description>
-		<rom name="Gears of Fate (World) (v20090508) (Aftermarket) (Unl).ngc" size="1917732" crc="3c75807e" md5="782c7aec693c95de10e05a268c023ce1" sha1="b2356a4c4af8cb40a212a2e29a74084dfda6c53a"/>
+		<description>Gears of Fate (World) (v20090508) (Aftermarket)</description>
+		<rom name="Gears of Fate (World) (v20090508) (Aftermarket).ngc" size="1917732" crc="3c75807e" md5="782c7aec693c95de10e05a268c023ce1" sha1="b2356a4c4af8cb40a212a2e29a74084dfda6c53a"/>
 		<url>https://retroachievements.org/game/23737/hashes</url>
 		<hash>782c7aec693c95de10e05a268c023ce1</hash>
 	</game>
 	
-	<game name="Homebrew/Lights! (World) (v1.1) (Aftermarket) (Unl)">
+	<game name="Homebrew/Lights! (World) (v1.1) (Aftermarket)">
 		<category>Neo Geo Pocket Color</category>
-		<description>Lights! (World) (v1.1) (Aftermarket) (Unl)</description>
-		<rom name="Lights! (World) (v1.1) (Aftermarket) (Unl).ngc" size="32768" crc="281de628" md5="1715311acd6bf2717a3b1bf70321d195" sha1="eeac12009e07025e46a188b17b38fdae2c7346a6"/>
+		<description>Lights! (World) (v1.1) (Aftermarket)</description>
+		<rom name="Lights! (World) (v1.1) (Aftermarket).ngc" size="32768" crc="281de628" md5="1715311acd6bf2717a3b1bf70321d195" sha1="eeac12009e07025e46a188b17b38fdae2c7346a6"/>
 		<url>https://retroachievements.org/game/23745/hashes</url>
 		<hash>1715311acd6bf2717a3b1bf70321d195</hash>
 	</game>
 	
-	<game name="Homebrew/Mines (World) (Aftermarket) (Unl)">
+	<game name="Homebrew/Mines (World) (Aftermarket)">
 		<category>Neo Geo Pocket Color</category>
-		<description>Mines (World) (Aftermarket) (Unl)</description>
-		<rom name="Mines (World) (Aftermarket) (Unl).ngc" size="32768" crc="4b687e99" md5="6594d32d6774b616949a31641799472a" sha1="7aa07c67a6aa8d398370bceea7124f9e2e5b03f8"/>
+		<description>Mines (World) (Aftermarket)</description>
+		<rom name="Mines (World) (Aftermarket).ngc" size="32768" crc="4b687e99" md5="6594d32d6774b616949a31641799472a" sha1="7aa07c67a6aa8d398370bceea7124f9e2e5b03f8"/>
 		<url>https://retroachievements.org/game/23741/hashes</url>
 		<hash>6594d32d6774b616949a31641799472a</hash>
 	</game>
 	
-	<game name="Homebrew/Mr. Do! (World) (Aftermarket) (Unl)">
+	<game name="Homebrew/Mr. Do! (World) (Aftermarket)">
 		<category>Neo Geo Pocket Color</category>
-		<description>Mr. Do! (World) (Aftermarket) (Unl)</description>
-		<rom name="Mr. Do! (World) (Aftermarket) (Unl).ngc" size="16152" crc="0098c7b5" md5="2ee3331dd1e34020bbafdd91df0ce1bb" sha1="3e0ea487d3647936413a42570d0a1a6565cc6ec9"/>
+		<description>Mr. Do! (World) (Aftermarket)</description>
+		<rom name="Mr. Do! (World) (Aftermarket).ngc" size="16152" crc="0098c7b5" md5="2ee3331dd1e34020bbafdd91df0ce1bb" sha1="3e0ea487d3647936413a42570d0a1a6565cc6ec9"/>
 		<url>https://retroachievements.org/game/23747/hashes</url>
 		<hash>2ee3331dd1e34020bbafdd91df0ce1bb</hash>
 	</game>
 	
-	<game name="Homebrew/Puzzle Gems (World) (v1.1) (Aftermarket) (Unl)">
+	<game name="Homebrew/Puzzle Gems (World) (v1.1) (Aftermarket)">
 		<category>Neo Geo Pocket Color</category>
-		<description>Puzzle Gems (World) (v1.1) (Aftermarket) (Unl)</description>
-		<rom name="Puzzle Gems (World) (v1.1) (Aftermarket) (Unl).ngc" size="39798" crc="ef104269" md5="04a35a8f274479a061b88bdeee8ee6d4" sha1="cf0fc231f7386ffb9fbf5825d03a758fa0236081"/>
+		<description>Puzzle Gems (World) (v1.1) (Aftermarket)</description>
+		<rom name="Puzzle Gems (World) (v1.1) (Aftermarket).ngc" size="39798" crc="ef104269" md5="04a35a8f274479a061b88bdeee8ee6d4" sha1="cf0fc231f7386ffb9fbf5825d03a758fa0236081"/>
 		<url>https://retroachievements.org/game/23733/hashes</url>
 		<hash>04a35a8f274479a061b88bdeee8ee6d4</hash>
 	</game>
 	
-	<game name="Homebrew/Snake (World) (v1.2) (Aftermarket) (Unl)">
+	<game name="Homebrew/Snake (World) (v1.2) (Aftermarket)">
 		<category>Neo Geo Pocket Color</category>
-		<description>Snake (World) (v1.2) (Aftermarket) (Unl)</description>
-		<rom name="Snake (World) (v1.2) (Aftermarket) (Unl).ngc" size="524288" crc="82510aa9" md5="62029cf9c8af82f4dd13bd0243693d32" sha1="2ca5b0e26dbb6f399ff89183de17603ea78e87a7"/>
+		<description>Snake (World) (v1.2) (Aftermarket)</description>
+		<rom name="Snake (World) (v1.2) (Aftermarket).ngc" size="524288" crc="82510aa9" md5="62029cf9c8af82f4dd13bd0243693d32" sha1="2ca5b0e26dbb6f399ff89183de17603ea78e87a7"/>
 		<url>https://retroachievements.org/game/23738/hashes</url>
 		<hash>62029cf9c8af82f4dd13bd0243693d32</hash>
 	</game>
@@ -186,7 +186,7 @@
 		<hash>99ed127490f9d5d6482d20cc6abc8056</hash>
 	</game>
 	
-	<game name="King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)">
+	<game name="Retail/King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)">
 		<category>Neo Geo Pocket</category>
 		<description>King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja)</description>
 		<rom name="King of Fighters R-1 - Pocket Fighting Series (Japan, Europe) (En,Ja).ngp" size="2097152" crc="dceb7e11" md5="347d0ef33c889cc826d214caf8475ae0" sha1="4a7adbcccb05b6047a38bb861523cbae7d956bfa"/>

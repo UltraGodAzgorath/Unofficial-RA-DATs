@@ -4,27 +4,27 @@
 	<header>
 		<name>RA - NEC PC-8801</name>
 		<description>NEC PC-8801</description>
-		<category>1G1R</category>
-		<version>20250621</version>
-		<date>21 June 2025</date>
+		<category>Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/47/games</url>
 		<titlecount>81</titlecount>
 		<hashcount>119</hashcount>
 	</header>
-	<game name="Homebrew/Ascend (2022) (Inufuto)">
+	<game name="Homebrew/Ascend (2022) (Inufuto) (Aftermarket)">
 		<category></category>
-		<description>Ascend (2022) (Inufuto)</description>
-		<rom name="Ascend (2022) (Inufuto).d88" size="348848" crc="aada6f57" md5="5def00835e061a54fe6d1fa2d5a8d2b0" sha1="4a2b0196b8c45f78b496434b58d49dfac8475538"/>
+		<description>Ascend (2022) (Inufuto) (Aftermarket)</description>
+		<rom name="Ascend (2022) (Inufuto) (Aftermarket).d88" size="348848" crc="aada6f57" md5="5def00835e061a54fe6d1fa2d5a8d2b0" sha1="4a2b0196b8c45f78b496434b58d49dfac8475538"/>
 		<url>https://retroachievements.org/game/31315/hashes</url>
 		<hash>5def00835e061a54fe6d1fa2d5a8d2b0</hash>
 	</game>
 	
-	<game name="Homebrew/Hopman (2023) (Inufuto)">
+	<game name="Homebrew/Hopman (2023) (Inufuto) (Aftermarket)">
 		<category></category>
-		<description>Hopman (2023) (Inufuto)</description>
-		<rom name="Hopman (2023) (Inufuto).d88" size="348848" crc="06db7ca7" md5="17fce162c8ac66bad21bb8e801bd8bb3" sha1="94f920f9d2a4cb601d7bc97dbe7497d94d5473bd"/>
+		<description>Hopman (2023) (Inufuto) (Aftermarket)</description>
+		<rom name="Hopman (2023) (Inufuto) (Aftermarket).d88" size="348848" crc="06db7ca7" md5="17fce162c8ac66bad21bb8e801bd8bb3" sha1="94f920f9d2a4cb601d7bc97dbe7497d94d5473bd"/>
 		<url>https://retroachievements.org/game/28625/hashes</url>
 		<hash>17FCE162C8AC66BAD21BB8E801BD8BB3</hash>
 	</game>

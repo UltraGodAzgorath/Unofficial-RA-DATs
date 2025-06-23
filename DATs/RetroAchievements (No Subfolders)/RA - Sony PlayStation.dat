@@ -4,9 +4,9 @@
 	<header>
 		<name>RA - Sony Playstation</name>
 		<description>Sony Playstation</description>
-		<category>1G1R</category>
-		<version>20250617</version>
-		<date>17 June 2025</date>
+		<category>No Subfolders</category>
+		<version>20250621</version>
+		<date>21 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -52,79 +52,79 @@
 		<hash>d7597ab6a6e7d4a578ba149702c70e79</hash>
 	</game>
 	
-	<game name="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (Demo)">
+	<game name="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan)">
 		<category>Demo</category>
-		<description>Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (Demo)</description>
-		<release name="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (Demo)" region="Japan"/>
-		<rom name="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (Demo).cue" size="324" crc="18fca94f" md5="9031da535ff814e52540a46f207f4e7f" sha1="ea89a62ad65dffdfba0096ec1877a6dce51ab8e3"/>
-		<rom name="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (Demo) (Track 1).bin" size="94884384" crc="2fb53fdc" md5="db692e3cacfc4bde1979098563819993" sha1="9053516e976a25e6d4a8575f58a2d28074c8b728"/>
-		<rom name="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (Demo) (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538"/>
+		<description>Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan)</description>
+		<release name="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan)" region="Japan"/>
+		<rom name="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan).cue" size="324" crc="18fca94f" md5="9031da535ff814e52540a46f207f4e7f" sha1="ea89a62ad65dffdfba0096ec1877a6dce51ab8e3"/>
+		<rom name="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (Track 1).bin" size="94884384" crc="2fb53fdc" md5="db692e3cacfc4bde1979098563819993" sha1="9053516e976a25e6d4a8575f58a2d28074c8b728"/>
+		<rom name="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538"/>
 		<url>https://retroachievements.org/game/16511/hashes</url>
 		<hash>7481ec493119e18c1ece30132d00aef7</hash>
 	</game>
-	<game name="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (Demo) (En) (Hilltop)" cloneof="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (Demo)">
+	<game name="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (En) (Hilltop)" cloneof="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan)">
 		<category>Demo</category>
-		<description>Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (Demo) (En) (Hilltop)</description>
-		<release name="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (Demo) (En) (Hilltop)" region="English"/>
-		<rom name="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (Demo) (En) (Hilltop).cue" size="354" crc="185700db" md5="72ef47e1fc8b572f8e7cc2b32d6d5c62" sha1="60e8b06902bee1d68669acbe213d14e178bc18fb"/>
-		<rom name="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (Demo) (En) (Hilltop) (Track 1).bin" size="132250608" crc="fb1f96d8" md5="b585ef61bc3187d89475d29fea4f779b" sha1="88ff237691655d6234704edcec534b1142735507"/>
-		<rom name="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (Demo) (En) (Hilltop) (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538"/>
+		<description>Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (En) (Hilltop)</description>
+		<release name="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (En) (Hilltop)" region="English"/>
+		<rom name="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (En) (Hilltop).cue" size="354" crc="185700db" md5="72ef47e1fc8b572f8e7cc2b32d6d5c62" sha1="60e8b06902bee1d68669acbe213d14e178bc18fb"/>
+		<rom name="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (En) (Hilltop) (Track 1).bin" size="132250608" crc="fb1f96d8" md5="b585ef61bc3187d89475d29fea4f779b" sha1="88ff237691655d6234704edcec534b1142735507"/>
+		<rom name="Rockman Dash 2 - Episode 1 - 'Roll-chan Kiki Ippatsu!' no Maki (Japan) (En) (Hilltop) (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538"/>
 		<url>https://retroachievements.org/game/16511/hashes</url>
 		<hash>891f6bea637a101dee0daf81f62958fa</hash>
 	</game>
 	
-	<game name="Rockman X4, Rockman 8 - Metal Heroes, Rockman - Battle &amp; Chase (Japan) (Demo)">
+	<game name="Rockman X4, Rockman 8 - Metal Heroes, Rockman - Battle &amp; Chase (Japan)">
 		<category>Demo</category>
-		<description>Rockman X4, Rockman 8 - Metal Heroes, Rockman - Battle &amp; Chase (Japan) (Demo)</description>
-		<release name="Rockman X4, Rockman 8 - Metal Heroes, Rockman - Battle &amp; Chase (Japan) (Demo)" region="Japan"/>
-		<rom name="Rockman X4, Rockman 8 - Metal Heroes, Rockman - Battle &amp; Chase (Japan) (Demo).cue" size="143" crc="7c1de502" md5="88d3cf8b26818eee5fd76f93ad82778a" sha1="4c2e2d511667b6b3155de6534d04ec7c034d05ee"/>
-		<rom name="Rockman X4, Rockman 8 - Metal Heroes, Rockman - Battle &amp; Chase (Japan) (Demo).bin" size="636324192" crc="c30e8a6a" md5="1981379f07ccd9ccbf62aac21673624d" sha1="5e7ab361413627bea925df24763f5ed74e41b105"/>
+		<description>Rockman X4, Rockman 8 - Metal Heroes, Rockman - Battle &amp; Chase (Japan)</description>
+		<release name="Rockman X4, Rockman 8 - Metal Heroes, Rockman - Battle &amp; Chase (Japan)" region="Japan"/>
+		<rom name="Rockman X4, Rockman 8 - Metal Heroes, Rockman - Battle &amp; Chase (Japan).cue" size="143" crc="7c1de502" md5="88d3cf8b26818eee5fd76f93ad82778a" sha1="4c2e2d511667b6b3155de6534d04ec7c034d05ee"/>
+		<rom name="Rockman X4, Rockman 8 - Metal Heroes, Rockman - Battle &amp; Chase (Japan).bin" size="636324192" crc="c30e8a6a" md5="1981379f07ccd9ccbf62aac21673624d" sha1="5e7ab361413627bea925df24763f5ed74e41b105"/>
 		<url>https://retroachievements.org/game/22829/hashes</url>
 		<hash>1b14889b8b7298790fc1b5e8169e8849</hash>
 	</game>
 	
-	<game name="Street Fighter EX Plus Alpha (Demo)">
+	<game name="Street Fighter EX Plus Alpha">
 		<category>Demo</category>
-		<description>Street Fighter EX Plus Alpha (Demo)</description>
-		<release name="Street Fighter EX Plus Alpha (Demo)" region="World"/>
-		<rom name="Street Fighter EX Plus Alpha (Demo).cue" size="101" crc="b3f7bd5a" md5="8ed21c640f8a8f8f8dcafdca82622f3b" sha1="b6f8469808f1b86c8d89ad07688a281877e0ddc3"/>
-		<rom name="Street Fighter EX Plus Alpha (Demo).bin" size="320217744" crc="4b5655e1" md5="0dfa45fbfcc7a0c551250431b13c9f5c" sha1="0e6932c33dbe9c2b164cdb8cf2b9650976fb4b62"/>
+		<description>Street Fighter EX Plus Alpha</description>
+		<release name="Street Fighter EX Plus Alpha" region="World"/>
+		<rom name="Street Fighter EX Plus Alpha.cue" size="101" crc="b3f7bd5a" md5="8ed21c640f8a8f8f8dcafdca82622f3b" sha1="b6f8469808f1b86c8d89ad07688a281877e0ddc3"/>
+		<rom name="Street Fighter EX Plus Alpha.bin" size="320217744" crc="4b5655e1" md5="0dfa45fbfcc7a0c551250431b13c9f5c" sha1="0e6932c33dbe9c2b164cdb8cf2b9650976fb4b62"/>
 		<url>https://retroachievements.org/game/18354/hashes</url>
 		<hash>cb6bda4f446c384f41c53c3609b6ab4f</hash>
 	</game>
 	
-	<game name="Resident Evil 0 - Demake (Demo) (v0.1)">
+	<game name="Resident Evil 0 - Demake (v0.1)">
 		<category>Hack</category>
-		<description>Resident Evil 0 - Demake (Demo) (v0.1)</description>
-		<release name="Resident Evil 0 - Demake (Demo) (v0.1)" region="World"/>
-		<rom name="Resident Evil 0 - Demake (Demo) (v0.1).cue" size="109" crc="f16439bf" md5="2dec4c414cd1e15ca2e9435a3b7aebc0" sha1="d3f907dd1033a7325982c5e4c69c31ef97dd2d90"/>
-		<rom name="Resident Evil 0 - Demake (Demo) (v0.1).bin" size="568786512" crc="aade6b8a" md5="aefa8f53118ce3ec2e9a10e7fba93a1e" sha1="36e68f5f56eccb18b92ee6a886200dc695c7bf42"/>
+		<description>Resident Evil 0 - Demake (v0.1)</description>
+		<release name="Resident Evil 0 - Demake (v0.1)" region="World"/>
+		<rom name="Resident Evil 0 - Demake (v0.1).cue" size="109" crc="f16439bf" md5="2dec4c414cd1e15ca2e9435a3b7aebc0" sha1="d3f907dd1033a7325982c5e4c69c31ef97dd2d90"/>
+		<rom name="Resident Evil 0 - Demake (v0.1).bin" size="568786512" crc="aade6b8a" md5="aefa8f53118ce3ec2e9a10e7fba93a1e" sha1="36e68f5f56eccb18b92ee6a886200dc695c7bf42"/>
 		<url>https://retroachievements.org/game/24704/hashes</url>
 		<hash>19d93a59c7a972bd2962006567a4558e</hash>
 	</game>
 	
-	<game name="Biohazard 2 (Prototype) (Fixed)">
+	<game name="Biohazard 2 (Proto) (Fixed)">
 		<category>Prototype</category>
-		<description>Biohazard 2 (Prototype) (Fixed)</description>
-		<release name="Biohazard 2 (Prototype) (Fixed)" region="World"/>
-		<rom name="Biohazard 2 (Prototype) (Fixed).cue" size="94" crc="a6b38b87" md5="b35a3de62ca93b4239faa5c24d67ce22" sha1="04c82b3ea785c03b73e1d04d76b7686b337f9156"/>
-		<rom name="Biohazard 2 (Prototype) (Fixed).bin" size="191539824" crc="963c412d" md5="1403b776f85a7c1e4800e0f7a28f7771" sha1="b0ff583192dc0b780ce5020729a50538617990ae"/>
+		<description>Biohazard 2 (Proto) (Fixed)</description>
+		<release name="Biohazard 2 (Proto) (Fixed)" region="World"/>
+		<rom name="Biohazard 2 (Proto) (Fixed).cue" size="94" crc="a6b38b87" md5="b35a3de62ca93b4239faa5c24d67ce22" sha1="04c82b3ea785c03b73e1d04d76b7686b337f9156"/>
+		<rom name="Biohazard 2 (Proto) (Fixed).bin" size="191539824" crc="963c412d" md5="1403b776f85a7c1e4800e0f7a28f7771" sha1="b0ff583192dc0b780ce5020729a50538617990ae"/>
 		<url>https://retroachievements.org/game/17454/hashes</url>
 		<hash>42bd3a24c993b993a4f7992d0a29720d</hash>
 	</game>
-	<game name="Biohazard 2 (Prototype) (Old Weapon)" cloneof="Biohazard 2 (Prototype) (Fixed)">
+	<game name="Biohazard 2 (Proto) (Old Weapon)" cloneof="Biohazard 2 (Proto) (Fixed)">
 		<category>Prototype</category>
-		<description>Biohazard 2 (Prototype) (Old Weapon)</description>
-		<rom name="Biohazard 2 (Prototype) (Old Weapon).cue" size="99" crc="9afd195d" md5="151844b9074313e0d8a729bf92d571e1" sha1="c6804be74760141a348b4bf172f6ec823979faf5"/>
-		<rom name="Biohazard 2 (Prototype) (Old Weapon).bin" size="191530416" crc="5ae9a0a8" md5="750173e115d34f878724ae5d124aa28a" sha1="e984b552d42cd5661da6873c9105d5b863062595"/>
+		<description>Biohazard 2 (Proto) (Old Weapon)</description>
+		<rom name="Biohazard 2 (Proto) (Old Weapon).cue" size="99" crc="9afd195d" md5="151844b9074313e0d8a729bf92d571e1" sha1="c6804be74760141a348b4bf172f6ec823979faf5"/>
+		<rom name="Biohazard 2 (Proto) (Old Weapon).bin" size="191530416" crc="5ae9a0a8" md5="750173e115d34f878724ae5d124aa28a" sha1="e984b552d42cd5661da6873c9105d5b863062595"/>
 		<url>https://retroachievements.org/game/17454/hashes</url>
 		<hash>57b8bc8a20cbc84117a4200b851b5f32</hash>
 	</game>
-	<game name="Biohazard 2 (Prototype) (Grant)" cloneof="Biohazard 2 (Prototype) (Fixed)">
+	<game name="Biohazard 2 (Proto) (Grant)" cloneof="Biohazard 2 (Proto) (Fixed)">
 		<category>Prototype</category>
-		<description>Biohazard 2 (Prototype) (Grant)</description>
-		<rom name="Biohazard 2 (Prototype) (Grant).cue" size="94" crc="2fb8ad0b" md5="69df91fc4f24bdf4140c82d959ffd874" sha1="57ec3113941176e75cc44e02e644d4c2bc8b4d32"/>
-		<rom name="Biohazard 2 (Prototype) (Grant).bin" size="191523360" crc="20768ae3" md5="9387b5cd27b9bde136e5a25e5ad7a2e2" sha1="73772a6360e9317a8bfbf9fed3e8d4853004c9d2"/>
+		<description>Biohazard 2 (Proto) (Grant)</description>
+		<rom name="Biohazard 2 (Proto) (Grant).cue" size="94" crc="2fb8ad0b" md5="69df91fc4f24bdf4140c82d959ffd874" sha1="57ec3113941176e75cc44e02e644d4c2bc8b4d32"/>
+		<rom name="Biohazard 2 (Proto) (Grant).bin" size="191523360" crc="20768ae3" md5="9387b5cd27b9bde136e5a25e5ad7a2e2" sha1="73772a6360e9317a8bfbf9fed3e8d4853004c9d2"/>
 		<url>https://retroachievements.org/game/17454/hashes</url>
 		<hash>6fb2418c1078867555c2c79fd08f5746</hash>
 	</game>
@@ -276,179 +276,179 @@
 		<hash>b9fa4b9d2b1d2f13e52923dc4972f8f3</hash>
 	</game>
 	
-	<game name="Yu-Gi-Oh! Forbidden Memories II Ultimate (Hack)">
+	<game name="Yu-Gi-Oh! Forbidden Memories II Ultimate">
 		<category>Hack</category>
-		<description>Yu-Gi-Oh! Forbidden Memories II Ultimate (Hack)</description>
-		<rom name="Yu-Gi-Oh! Forbidden Memories II Ultimate (Hack).cue" size="113" crc="a530b5ba" md5="f9b18e235896ac9faa075100228ef878" sha1="d98831faa5eb5cc0fb0e25c60f42b215c7482f6c"/>
-		<rom name="Yu-Gi-Oh! Forbidden Memories II Ultimate (Hack).bin" size="114751728" crc="00653ed1" md5="b44c2a9149a0a48a47b193e25a0f531e" sha1="4c2a49712c252b576034f17b11e8834fc4e408f4"/>
+		<description>Yu-Gi-Oh! Forbidden Memories II Ultimate</description>
+		<rom name="Yu-Gi-Oh! Forbidden Memories II Ultimate.cue" size="113" crc="a530b5ba" md5="f9b18e235896ac9faa075100228ef878" sha1="d98831faa5eb5cc0fb0e25c60f42b215c7482f6c"/>
+		<rom name="Yu-Gi-Oh! Forbidden Memories II Ultimate.bin" size="114751728" crc="00653ed1" md5="b44c2a9149a0a48a47b193e25a0f531e" sha1="4c2a49712c252b576034f17b11e8834fc4e408f4"/>
 		<url>https://retroachievements.org/game/18098/hashes</url>
 		<hash>4b394d84a94370ff0b4163bcede3ae86</hash>
 	</game>
 	
-	<game name="Yu-Gi-Oh! Forbidden Memories - Alpha Mod (Hack)">
+	<game name="Yu-Gi-Oh! Forbidden Memories - Alpha Mod">
 		<category>Hack</category>
-		<description>Yu-Gi-Oh! Forbidden Memories - Alpha Mod (Hack)</description>
-		<rom name="Yu-Gi-Oh! Forbidden Memories - Alpha Mod (Hack).cue" size="113" crc="05b347b9" md5="5c86f2c330c9b7bbeed3b65d96d437be" sha1="a047531993001e66237c32d365d203fed3d0d1df"/>
-		<rom name="Yu-Gi-Oh! Forbidden Memories - Alpha Mod (Hack).bin" size="81014640" crc="e2d66695" md5="68c0987295eaff991c4fca3bfaa6615a" sha1="000d15ea108ce3d8a7fa8e31ac7c5a5c2e4194e7"/>
+		<description>Yu-Gi-Oh! Forbidden Memories - Alpha Mod</description>
+		<rom name="Yu-Gi-Oh! Forbidden Memories - Alpha Mod.cue" size="113" crc="05b347b9" md5="5c86f2c330c9b7bbeed3b65d96d437be" sha1="a047531993001e66237c32d365d203fed3d0d1df"/>
+		<rom name="Yu-Gi-Oh! Forbidden Memories - Alpha Mod.bin" size="81014640" crc="e2d66695" md5="68c0987295eaff991c4fca3bfaa6615a" sha1="000d15ea108ce3d8a7fa8e31ac7c5a5c2e4194e7"/>
 		<url>https://retroachievements.org/game/29828/hashes</url>
 		<hash>74a0aa4e80c058fcccad4b7ba130da0a</hash>
 	</game>
 	
-	<game name="Yu-Gi-Oh! Forbidden Memories - Deep Fried Mod (Hack)">
+	<game name="Yu-Gi-Oh! Forbidden Memories - Deep Fried Mod">
 		<category>Hack</category>
-		<description>Yu-Gi-Oh! Forbidden Memories - Deep Fried Mod (Hack)</description>
-		<rom name="Yu-Gi-Oh! Forbidden Memories - Deep Fried Mod (Hack).cue" size="118" crc="d6d257c5" md5="4ce41b8a7b252a9f42139d303193c7e7" sha1="d38262ecd45e418445df29dcb23821067236e168"/>
-		<rom name="Yu-Gi-Oh! Forbidden Memories - Deep Fried Mod (Hack).bin" size="78095808" crc="2bee540e" md5="77d0d7b1df5ade017c7a0aea631aa681" sha1="99e48054782dffcf8c95a180c3d4445d15157abf"/>
+		<description>Yu-Gi-Oh! Forbidden Memories - Deep Fried Mod</description>
+		<rom name="Yu-Gi-Oh! Forbidden Memories - Deep Fried Mod.cue" size="118" crc="d6d257c5" md5="4ce41b8a7b252a9f42139d303193c7e7" sha1="d38262ecd45e418445df29dcb23821067236e168"/>
+		<rom name="Yu-Gi-Oh! Forbidden Memories - Deep Fried Mod.bin" size="78095808" crc="2bee540e" md5="77d0d7b1df5ade017c7a0aea631aa681" sha1="99e48054782dffcf8c95a180c3d4445d15157abf"/>
 		<url>https://retroachievements.org/game/23799/hashes</url>
 		<hash>9a66dbbd63d2b1f703a7e6b4405cbac8</hash>
 	</game>
 	
-	<game name="Yu-Gi-Oh! GX Forbidden Memories (Hack)">
+	<game name="Yu-Gi-Oh! GX Forbidden Memories">
 		<category>Hack</category>
-		<description>Yu-Gi-Oh! GX Forbidden Memories (Hack)</description>
-		<rom name="Yu-Gi-Oh! GX Forbidden Memories (Hack).cue" size="104" crc="e3076b14" md5="15020d2ff2ca1d9a930c712a8f61eb58" sha1="39e2ad1f08958f7d1be410bac126dfc0dcf40737"/>
-		<rom name="Yu-Gi-Oh! GX Forbidden Memories (Hack).bin" size="100522128" crc="0c2aae12" md5="2f48859e90898fe8dbbb039e19425582" sha1="5db224c3e46ccdf150e3557116c4627250bdf308"/>
+		<description>Yu-Gi-Oh! GX Forbidden Memories</description>
+		<rom name="Yu-Gi-Oh! GX Forbidden Memories.cue" size="104" crc="e3076b14" md5="15020d2ff2ca1d9a930c712a8f61eb58" sha1="39e2ad1f08958f7d1be410bac126dfc0dcf40737"/>
+		<rom name="Yu-Gi-Oh! GX Forbidden Memories.bin" size="100522128" crc="0c2aae12" md5="2f48859e90898fe8dbbb039e19425582" sha1="5db224c3e46ccdf150e3557116c4627250bdf308"/>
 		<url>https://retroachievements.org/game/29751/hashes</url>
 		<hash>ea80b6a82333caf3d5fca7efb21444db</hash>
 	</game>
 	
-	<game name="Friday Night Wumpin' Vs. Crash (Homebrew)">
+	<game name="Friday Night Wumpin' Vs. Crash (Lord Scout)">
 		<category>Homebrew</category>
-		<description>Friday Night Wumpin' Vs. Crash (Homebrew)</description>
-		<release name="Friday Night Wumpin' Vs. Crash (Homebrew)" region="World"/>
-		<rom name="Friday Night Wumpin' Vs. Crash (Homebrew).cue" size="114" crc="e1fc7043" md5="71bd336591728675b58169c5c7039074" sha1="e6127ae884385fb09d49ec1cd02559da5bb01fe0"/>
-		<rom name="Friday Night Wumpin' Vs. Crash (Homebrew).bin" size="81165168" crc="3200c7fe" md5="4e0560bced6c8086eaed8a856093f906" sha1="698c583dbd0cb40a665fbbda2f563dc01e8e3a2a"/>
+		<description>Friday Night Wumpin' Vs. Crash (Lord Scout)</description>
+		<release name="Friday Night Wumpin' Vs. Crash (Lord Scout)" region="World"/>
+		<rom name="Friday Night Wumpin' Vs. Crash (Lord Scout).cue" size="114" crc="e1fc7043" md5="71bd336591728675b58169c5c7039074" sha1="e6127ae884385fb09d49ec1cd02559da5bb01fe0"/>
+		<rom name="Friday Night Wumpin' Vs. Crash (Lord Scout).bin" size="81165168" crc="3200c7fe" md5="4e0560bced6c8086eaed8a856093f906" sha1="698c583dbd0cb40a665fbbda2f563dc01e8e3a2a"/>
 		<url>https://retroachievements.org/game/27536/hashes</url>
 		<hash>fdb3524e871a8d10c8a2f3e63d2cd638</hash>
 	</game>
 	
-	<game name="Pibby Corrupted (Homebrew)">
+	<game name="Pibby Corrupted (UNSTOP4BLE, IgorSou30000)">
 		<category>Homebrew</category>
-		<description>Pibby Corrupted (Homebrew)</description>
-		<release name="Pibby Corrupted (Homebrew)" region="World"/>
-		<rom name="Pibby Corrupted (Homebrew).cue" size="99" crc="ff73f921" md5="21d52b54d5f1076b2f51025db41904da" sha1="64261336cb3f2ee6df9202ce2c258c820c10a6b7"/>
-		<rom name="Pibby Corrupted (Homebrew).bin" size="406672560" crc="c1ecae52" md5="77b01e90ac2d2f46f7d819ffe5cd655e" sha1="35ee66ca477c278e504e28d4e9ed37690807e1cf"/>
+		<description>Pibby Corrupted (UNSTOP4BLE, IgorSou30000)</description>
+		<release name="Pibby Corrupted (UNSTOP4BLE, IgorSou30000)" region="World"/>
+		<rom name="Pibby Corrupted (UNSTOP4BLE, IgorSou30000).cue" size="99" crc="ff73f921" md5="21d52b54d5f1076b2f51025db41904da" sha1="64261336cb3f2ee6df9202ce2c258c820c10a6b7"/>
+		<rom name="Pibby Corrupted (UNSTOP4BLE, IgorSou30000).bin" size="406672560" crc="c1ecae52" md5="77b01e90ac2d2f46f7d819ffe5cd655e" sha1="35ee66ca477c278e504e28d4e9ed37690807e1cf"/>
 		<url>https://retroachievements.org/game/27740/hashes</url>
 		<hash>f5441acf89f914440060fc97bef172f4</hash>
 	</game>
 	
-	<game name="PSXFunkin - B Sides (Homebrew)">
+	<game name="PSXFunkin - B Sides (zeriben)">
 		<category>Homebrew</category>
-		<description>PSXFunkin - B Sides (Homebrew)</description>
-		<release name="PSXFunkin - B Sides (Homebrew)" region="World"/>
-		<rom name="PSXFunkin - B Sides (Homebrew).cue" size="100" crc="4dd77d92" md5="8e696780f3a72b51d5eaedabdd981f99" sha1="bec68ebea479919b1d6bdc576c40f6f571a99b93"/>
-		<rom name="PSXFunkin - B Sides (Homebrew).bin" size="259225680" crc="88b2f5c8" md5="ff4e75fb795d4b6c546838c896c668b7" sha1="107ddfd57745e57b54d742610495dbf17f9442b0"/>
+		<description>PSXFunkin - B Sides (zeriben)</description>
+		<release name="PSXFunkin - B Sides (zeriben)" region="World"/>
+		<rom name="PSXFunkin - B Sides (zeriben).cue" size="100" crc="4dd77d92" md5="8e696780f3a72b51d5eaedabdd981f99" sha1="bec68ebea479919b1d6bdc576c40f6f571a99b93"/>
+		<rom name="PSXFunkin - B Sides (zeriben).bin" size="259225680" crc="88b2f5c8" md5="ff4e75fb795d4b6c546838c896c668b7" sha1="107ddfd57745e57b54d742610495dbf17f9442b0"/>
 		<url>https://retroachievements.org/game/22064/hashes</url>
 		<hash>c8d6103bb37a0336c466a4299649c6d6</hash>
 	</game>
 	
-	<game name="PSXFunkin - D Sides (Homebrew)">
+	<game name="PSXFunkin - D Sides (IgorSou30000)">
 		<category>Homebrew</category>
-		<description>PSXFunkin - D Sides (Homebrew)</description>
-		<release name="PSXFunkin - D Sides (Homebrew)" region="World"/>
-		<rom name="PSXFunkin - D Sides (Homebrew).cue" size="103" crc="eb89d7bd" md5="3749f9e9a9acdc98a639751db04542ae" sha1="c1903bb34862b1832fe79334a47c175abe816f49"/>
-		<rom name="PSXFunkin - D Sides (Homebrew).bin" size="198116016" crc="5ad810d7" md5="8ec103539a120462ab783ebc61a0b5b0" sha1="e26339f5d9b252c1676ab48b4e54ebdf9badc4a1"/>
+		<description>PSXFunkin - D Sides (IgorSou30000)</description>
+		<release name="PSXFunkin - D Sides (IgorSou30000)" region="World"/>
+		<rom name="PSXFunkin - D Sides (IgorSou30000).cue" size="103" crc="eb89d7bd" md5="3749f9e9a9acdc98a639751db04542ae" sha1="c1903bb34862b1832fe79334a47c175abe816f49"/>
+		<rom name="PSXFunkin - D Sides (IgorSou30000).bin" size="198116016" crc="5ad810d7" md5="8ec103539a120462ab783ebc61a0b5b0" sha1="e26339f5d9b252c1676ab48b4e54ebdf9badc4a1"/>
 		<url>https://retroachievements.org/game/22069/hashes</url>
 		<hash>1b74c4039bcf1da22510e56cd61c5e02</hash>
 	</game>
 	
-	<game name="PSXFunkin - Neo (Homebrew)">
+	<game name="PSXFunkin - Neo (UNSTOP4BLE, IgorSou30000)">
 		<category>Homebrew</category>
-		<description>PSXFunkin - Neo (Homebrew)</description>
-		<release name="PSXFunkin - Neo (Homebrew)" region="World"/>
-		<rom name="PSXFunkin - Neo (Homebrew).cue" size="99" crc="017eb81b" md5="8e61fa1cc70a97f6cf42ca767089b90a" sha1="32c580cf3ec476610dd3b1364b58090df5313f40"/>
-		<rom name="PSXFunkin - Neo (Homebrew).bin" size="229178880" crc="eb831e71" md5="cd7ad8a834f7160d959122e133f4384a" sha1="bfad6a37ee2e941a95e2c9ba42bd44505d6e1741"/>
+		<description>PSXFunkin - Neo (UNSTOP4BLE, IgorSou30000)</description>
+		<release name="PSXFunkin - Neo (UNSTOP4BLE, IgorSou30000)" region="World"/>
+		<rom name="PSXFunkin - Neo (UNSTOP4BLE, IgorSou30000).cue" size="99" crc="017eb81b" md5="8e61fa1cc70a97f6cf42ca767089b90a" sha1="32c580cf3ec476610dd3b1364b58090df5313f40"/>
+		<rom name="PSXFunkin - Neo (UNSTOP4BLE, IgorSou30000).bin" size="229178880" crc="eb831e71" md5="cd7ad8a834f7160d959122e133f4384a" sha1="bfad6a37ee2e941a95e2c9ba42bd44505d6e1741"/>
 		<url>https://retroachievements.org/game/25378/hashes</url>
 		<hash>00ba499bf3817696d0828a5c29ecbb72</hash>
 	</game>
 	
-	<game name="Skeleton Bros (Homebrew)">
+	<game name="Skeleton Bros (UNSTOP4BLE, IgorSou30000)">
 		<category>Homebrew</category>
-		<description>Skeleton Bros (Homebrew)</description>
-		<release name="Skeleton Bros (Homebrew)" region="World"/>
-		<rom name="Skeleton Bros (Homebrew).cue" size="97" crc="1f8d99bd" md5="d7db3b64936540a9fd61b7d6c17fa773" sha1="c8e9eab949f44cf1c3a244e9be024f0d3f8da245"/>
-		<rom name="Skeleton Bros (Homebrew).bin" size="230493648" crc="000ed215" md5="d2156077fa6b7d7dfdfc64319c5bf91b" sha1="cc5de605879bf2b6762ef19dafa20f970f5f37cb"/>
+		<description>Skeleton Bros (UNSTOP4BLE, IgorSou30000)</description>
+		<release name="Skeleton Bros (UNSTOP4BLE, IgorSou30000)" region="World"/>
+		<rom name="Skeleton Bros (UNSTOP4BLE, IgorSou30000).cue" size="97" crc="1f8d99bd" md5="d7db3b64936540a9fd61b7d6c17fa773" sha1="c8e9eab949f44cf1c3a244e9be024f0d3f8da245"/>
+		<rom name="Skeleton Bros (UNSTOP4BLE, IgorSou30000).bin" size="230493648" crc="000ed215" md5="d2156077fa6b7d7dfdfc64319c5bf91b" sha1="cc5de605879bf2b6762ef19dafa20f970f5f37cb"/>
 		<url>https://retroachievements.org/game/24002/hashes</url>
 		<hash>7c5fde505da8ae5ac58ce8442f5ef793</hash>
 	</game>
 	
-	<game name="VS. Impostor V4 (Homebrew) (Hack) (Disc 1)">
+	<game name="VS. Impostor V4 (Disc 1)">
 		<category>Homebrew</category>
-		<description>VS. Impostor V4 (Homebrew) (Hack) (Disc 1)</description>
-		<rom name="VS. Impostor V4 (Homebrew) (Hack) (Disc 1).cue" size="108" crc="b327688e" md5="170565b283c49ae2562409febeff3e1a" sha1="f1869462d1a8863186298aa11694289d180ee3ec"/>
-		<rom name="VS. Impostor V4 (Homebrew) (Hack) (Disc 1).bin" size="582256416" crc="3036c7e5" md5="1fdd264f33f6ed2592359fcc468876f5" sha1="75b99170dd9f4f432db1993aa0632842721575da"/>
+		<description>VS. Impostor V4 (Disc 1)</description>
+		<rom name="VS. Impostor V4 (Disc 1).cue" size="108" crc="b327688e" md5="170565b283c49ae2562409febeff3e1a" sha1="f1869462d1a8863186298aa11694289d180ee3ec"/>
+		<rom name="VS. Impostor V4 (Disc 1).bin" size="582256416" crc="3036c7e5" md5="1fdd264f33f6ed2592359fcc468876f5" sha1="75b99170dd9f4f432db1993aa0632842721575da"/>
 		<url>https://retroachievements.org/game/24988/hashes</url>
 		<hash>3799e3fc7fe2dd18dc4fdb2bdf750477</hash>
 	</game>
-	<game name="VS. Impostor V4 (Homebrew) (Hack) (Disc 2)">
+	<game name="VS. Impostor V4 (Disc 2)">
 		<category>Homebrew</category>
-		<description>VS. Impostor V4 (Homebrew) (Hack) (Disc)</description>
-		<rom name="VS. Impostor V4 (Homebrew) (Hack) (Disc 2).cue" size="108" crc="b27a4e5f" md5="2d8ada965f1cc3a79dc6fc8cd6259fa0" sha1="524f9a3c19ba7c52a1bb2d465138a3b9cf02e3bb"/>
-		<rom name="VS. Impostor V4 (Homebrew) (Hack) (Disc 2).bin" size="438878496" crc="8073ec78" md5="5ec5f974cf2d01515c24e9570c4d29f8" sha1="a29597e253c10ceb9ad97a9d734c4d53a77bc573"/>
+		<description>VS. Impostor V4 (Disc)</description>
+		<rom name="VS. Impostor V4 (Disc 2).cue" size="108" crc="b27a4e5f" md5="2d8ada965f1cc3a79dc6fc8cd6259fa0" sha1="524f9a3c19ba7c52a1bb2d465138a3b9cf02e3bb"/>
+		<rom name="VS. Impostor V4 (Disc 2).bin" size="438878496" crc="8073ec78" md5="5ec5f974cf2d01515c24e9570c4d29f8" sha1="a29597e253c10ceb9ad97a9d734c4d53a77bc573"/>
 		<url>https://retroachievements.org/game/24988/hashes</url>
 		<hash>8ae324a30c5b27a5bcbadb62162d1975</hash>
 	</game>
 	
-	<game name="VS. Kapi - Arcade Showdown (Homebrew) (Hack)">
+	<game name="VS. Kapi - Arcade Showdown">
 		<category>Homebrew</category>
-		<description>VS. Kapi - Arcade Showdown (Homebrew) (Hack)</description>
-		<rom name="VS. Kapi - Arcade Showdown (Homebrew) (Hack).cue" size="110" crc="eecbbed0" md5="63fc9d8a84d4474af0028d4283dcb31a" sha1="6a7b496aa34867485a9656e2783fa72a9f8022f2"/>
-		<rom name="VS. Kapi - Arcade Showdown (Homebrew) (Hack).bin" size="103426848" crc="397e6e35" md5="8e4fb93bfa97970b919b4c2f8ff08566" sha1="1bd93da0104c00fb6f5462af1160557af26edd45"/>
+		<description>VS. Kapi - Arcade Showdown</description>
+		<rom name="VS. Kapi - Arcade Showdown.cue" size="110" crc="eecbbed0" md5="63fc9d8a84d4474af0028d4283dcb31a" sha1="6a7b496aa34867485a9656e2783fa72a9f8022f2"/>
+		<rom name="VS. Kapi - Arcade Showdown.bin" size="103426848" crc="397e6e35" md5="8e4fb93bfa97970b919b4c2f8ff08566" sha1="1bd93da0104c00fb6f5462af1160557af26edd45"/>
 		<url>https://retroachievements.org/game/25662/hashes</url>
 		<hash>e89942192f5b35b060bc9cfbc091a8f3</hash>
 	</game>
 	
-	<game name="VS. Matt (Homebrew) (Hack)">
+	<game name="VS. Matt">
 		<category>Homebrew</category>
-		<description>VS. Matt (Homebrew) (Hack)</description>
-		<rom name="VS. Matt (Homebrew) (Hack).cue" size="92" crc="44d3e6bb" md5="9c9a5bcc78320d93fc78a04d85d2876f" sha1="affa293697c1d3f9589fd0369bc07943188960cd"/>
-		<rom name="VS. Matt (Homebrew) (Hack).bin" size="114612960" crc="125eecfa" md5="8dd71f6357921c0a6881d391601e953d" sha1="eb8de1754b7a1a49e8107bc4c6bfbf78072a1cd4"/>
+		<description>VS. Matt</description>
+		<rom name="VS. Matt.cue" size="92" crc="44d3e6bb" md5="9c9a5bcc78320d93fc78a04d85d2876f" sha1="affa293697c1d3f9589fd0369bc07943188960cd"/>
+		<rom name="VS. Matt.bin" size="114612960" crc="125eecfa" md5="8dd71f6357921c0a6881d391601e953d" sha1="eb8de1754b7a1a49e8107bc4c6bfbf78072a1cd4"/>
 		<url>https://retroachievements.org/game/25377/hashes</url>
 		<hash>2047af3511d10e9329a94412828c78a8</hash>
 	</game>
 	
-	<game name="VS. Ourple Guy (Homebrew) (Hack)">
+	<game name="VS. Ourple Guy">
 		<category>Homebrew</category>
-		<description>VS. Ourple Guy (Homebrew) (Hack)</description>
-		<rom name="VS. Ourple Guy (Homebrew) (Hack).cue" size="98" crc="27730555" md5="5d93200f152bac21f9b4c8cdf45fcb60" sha1="0d5e5ac54ababd24f80ea05caf029c531c752c34"/>
-		<rom name="VS. Ourple Guy (Homebrew) (Hack).bin" size="436183104" crc="24c6c077" md5="0c36a301dc10dbc7f6069a688215c224" sha1="5885000cbc846ec89ba2b196fc4b42087f30d22e"/>
+		<description>VS. Ourple Guy</description>
+		<rom name="VS. Ourple Guy.cue" size="98" crc="27730555" md5="5d93200f152bac21f9b4c8cdf45fcb60" sha1="0d5e5ac54ababd24f80ea05caf029c531c752c34"/>
+		<rom name="VS. Ourple Guy.bin" size="436183104" crc="24c6c077" md5="0c36a301dc10dbc7f6069a688215c224" sha1="5885000cbc846ec89ba2b196fc4b42087f30d22e"/>
 		<url>https://retroachievements.org/game/24484/hashes</url>
 		<hash>cd6acb0bc6caf7f85735e2f58060d945</hash>
 	</game>
 	
-	<game name="VS. Selever (Homebrew) (Hack)">
+	<game name="VS. Selever">
 		<category>Homebrew</category>
-		<description>VS. Selever (Homebrew) (Hack)</description>
-		<rom name="VS. Selever (Homebrew) (Hack).cue" size="95" crc="ecd3a3e2" md5="bec4cf1093710be9b4da405660996598" sha1="ddc128c67c813052bf06183d48684091694d92a0"/>
-		<rom name="VS. Selever (Homebrew) (Hack).bin" size="155831760" crc="af686ae2" md5="2c9522c177a84b6f0dd5a8c93dfe2b5e" sha1="b0bf66713fe720cdbdb822af8ededda34be2132b"/>
+		<description>VS. Selever</description>
+		<rom name="VS. Selever.cue" size="95" crc="ecd3a3e2" md5="bec4cf1093710be9b4da405660996598" sha1="ddc128c67c813052bf06183d48684091694d92a0"/>
+		<rom name="VS. Selever.bin" size="155831760" crc="af686ae2" md5="2c9522c177a84b6f0dd5a8c93dfe2b5e" sha1="b0bf66713fe720cdbdb822af8ededda34be2132b"/>
 		<url>https://retroachievements.org/game/25367/hashes</url>
 		<hash>5e46407df30716a769490539ad37d332</hash>
 	</game>
 	
-	<game name="VS. Tabi EX (Homebrew) (Hack)">
+	<game name="VS. Tabi EX">
 		<category>Homebrew</category>
-		<description>VS. Tabi EX (Homebrew) (Hack)</description>
-		<rom name="VS. Tabi EX (Homebrew) (Hack).cue" size="95" crc="d758637b" md5="dac24ec2fd7919c8ebd095861c16be15" sha1="50284428d265b54e556b5d9ca1e689d54b4b0551"/>
-		<rom name="VS. Tabi EX (Homebrew) (Hack).bin" size="74781840" crc="4d9169bd" md5="9aeab180e4e2b6ce6ea0288da2c43233" sha1="43299955579d32c27583f3ba3a94bf8a019c6b69"/>
+		<description>VS. Tabi EX</description>
+		<rom name="VS. Tabi EX.cue" size="95" crc="d758637b" md5="dac24ec2fd7919c8ebd095861c16be15" sha1="50284428d265b54e556b5d9ca1e689d54b4b0551"/>
+		<rom name="VS. Tabi EX.bin" size="74781840" crc="4d9169bd" md5="9aeab180e4e2b6ce6ea0288da2c43233" sha1="43299955579d32c27583f3ba3a94bf8a019c6b69"/>
 		<url>https://retroachievements.org/game/27433/hashes</url>
 		<hash>83de4d3545112c75989be92ce184bd07</hash>
 	</game>
 	
-	<game name="VS. Tricky (Homebrew) (Hack)">
+	<game name="VS. Tricky">
 		<category>Homebrew</category>
-		<description>VS. Tricky (Homebrew) (Hack)</description>
-		<rom name="VS. Tricky (Homebrew) (Hack).cue" size="94" crc="3635c3dc" md5="57d2dce73552afcc9a1a8444ead81af1" sha1="6fba72952885a3ecc1b12d30f0ae16e5788aabd6"/>
-		<rom name="VS. Tricky (Homebrew) (Hack).bin" size="113324064" crc="5bc8cb67" md5="59a9b0778cce3c9afa56a807bd85989c" sha1="2a963810a63c9ab6dd0c90492eafc4dabf1472ca"/>
+		<description>VS. Tricky</description>
+		<rom name="VS. Tricky.cue" size="94" crc="3635c3dc" md5="57d2dce73552afcc9a1a8444ead81af1" sha1="6fba72952885a3ecc1b12d30f0ae16e5788aabd6"/>
+		<rom name="VS. Tricky.bin" size="113324064" crc="5bc8cb67" md5="59a9b0778cce3c9afa56a807bd85989c" sha1="2a963810a63c9ab6dd0c90492eafc4dabf1472ca"/>
 		<url>https://retroachievements.org/game/26341/hashes</url>
 		<hash>0ae79df99b5e0cc6b79044085396e7ee</hash>
 	</game>
 	
-	<game name="Buzzy Bee (Homebrew)">
+	<game name="Buzzy Bee">
 		<category>Homebrew</category>
-		<description>Buzzy Bee (Homebrew)</description>
-		<release name="Buzzy Bee (Homebrew)" region="World"/>
-		<rom name="Buzzy Bee (Homebrew).cue" size="148" crc="bf78b7c0" md5="6fb99aea15dcae546cb704417dc5fb07" sha1="f733373aabe5d923871bc8f9eaf20cd7c35f10aa"/>
-		<rom name="Buzzy Bee (Homebrew).bin" size="38692752" crc="4620d4e6" md5="8b27c7a0d8b67b782badbaffc16efecd" sha1="a97b07f79c1597419dd7afbf5abfa4e358023b3a"/>
+		<description>Buzzy Bee</description>
+		<release name="Buzzy Bee" region="World"/>
+		<rom name="Buzzy Bee.cue" size="148" crc="bf78b7c0" md5="6fb99aea15dcae546cb704417dc5fb07" sha1="f733373aabe5d923871bc8f9eaf20cd7c35f10aa"/>
+		<rom name="Buzzy Bee.bin" size="38692752" crc="4620d4e6" md5="8b27c7a0d8b67b782badbaffc16efecd" sha1="a97b07f79c1597419dd7afbf5abfa4e358023b3a"/>
 		<url>https://retroachievements.org/game/17967/hashes</url>
 		<hash>63cb7dbce98ab7233ee660020c373079</hash>
 	</game>
@@ -463,92 +463,92 @@
 		<hash>095fb925d59be46a03d3230bcdc5d7d7</hash>
 	</game>
 	
-	<game name="Five Nights at Freddy's 2 (Homebrew)">
+	<game name="Five Nights at Freddy's 2">
 		<category>Homebrew</category>
-		<description>Five Nights at Freddy's 2 (Homebrew)</description>
-		<release name="Five Nights at Freddy's 2 (Homebrew)" region="World"/>
-		<rom name="Five Nights at Freddy's 2 (Homebrew).cue" size="102" crc="cfea4726" md5="04d53b14f809d2b131f2eb5a3d3e8f8c" sha1="79860c4291fa361161b034883b06c023880491c3"/>
-		<rom name="Five Nights at Freddy's 2 (Homebrew).bin" size="126850416" crc="46fa0ea2" md5="2d83239ad3153bf2bc6eb0895f220408" sha1="d58cd3b117fe644f8c085c4b887bac1c793d2cfa"/>
+		<description>Five Nights at Freddy's 2</description>
+		<release name="Five Nights at Freddy's 2" region="World"/>
+		<rom name="Five Nights at Freddy's 2.cue" size="102" crc="cfea4726" md5="04d53b14f809d2b131f2eb5a3d3e8f8c" sha1="79860c4291fa361161b034883b06c023880491c3"/>
+		<rom name="Five Nights at Freddy's 2.bin" size="126850416" crc="46fa0ea2" md5="2d83239ad3153bf2bc6eb0895f220408" sha1="d58cd3b117fe644f8c085c4b887bac1c793d2cfa"/>
 		<url>https://retroachievements.org/game/30916/hashes</url>
 		<hash>fe4c0f66e5b016b99538ebbf270a3030</hash>
 	</game>
 	
-	<game name="Magic Castle (Homebrew)">
+	<game name="Magic Castle">
 		<category>Homebrew</category>
-		<description>Magic Castle (Homebrew)</description>
-		<release name="Magic Castle (Homebrew)" region="World"/>
-		<rom name="Magic Castle (Homebrew).cue" size="1841" crc="91817c8a" md5="6cc2a38a4d47b5bc0f6b0e88c1c0e7aa" sha1="d4d254251680f167e9fdde5f92a38a86f5e0958c"/>
-		<rom name="Magic Castle (Homebrew).bin" size="420184800" crc="7694d004" md5="8b15a4a0726257aa709ad7862b147700" sha1="a61b0e76468a97799656be8c7820bff641e7520e"/>
+		<description>Magic Castle</description>
+		<release name="Magic Castle" region="World"/>
+		<rom name="Magic Castle.cue" size="1841" crc="91817c8a" md5="6cc2a38a4d47b5bc0f6b0e88c1c0e7aa" sha1="d4d254251680f167e9fdde5f92a38a86f5e0958c"/>
+		<rom name="Magic Castle.bin" size="420184800" crc="7694d004" md5="8b15a4a0726257aa709ad7862b147700" sha1="a61b0e76468a97799656be8c7820bff641e7520e"/>
 		<url>https://retroachievements.org/game/9018/hashes</url>
 		<hash>4b42cd8609cdf91378177ed2c9460ca3</hash>
 	</game>
 	
-	<game name="Net Yaroze - 2014 Collection (Homebrew)">
+	<game name="Net Yaroze - 2014 Collection">
 		<category>Homebrew</category>
-		<description>Net Yaroze - 2014 Collection (Homebrew)</description>
-		<release name="Net Yaroze - 2014 Collection (Homebrew)" region="World"/>
-		<rom name="Net Yaroze - 2014 Collection (Homebrew).cue" size="106" crc="0081877c" md5="bc4e95c2ca41b229827b0ad7e419ff8e" sha1="b6b043ee36019675e2677751c3d75d8589977062"/>
-		<rom name="Net Yaroze - 2014 Collection (Homebrew).bin" size="627626496" crc="041e7ec2" md5="f4885266d566b63f477941b6b47f1464" sha1="215fa8c1f243c89f7a0194875971912991e30fff"/>
+		<description>Net Yaroze - 2014 Collection</description>
+		<release name="Net Yaroze - 2014 Collection" region="World"/>
+		<rom name="Net Yaroze - 2014 Collection.cue" size="106" crc="0081877c" md5="bc4e95c2ca41b229827b0ad7e419ff8e" sha1="b6b043ee36019675e2677751c3d75d8589977062"/>
+		<rom name="Net Yaroze - 2014 Collection.bin" size="627626496" crc="041e7ec2" md5="f4885266d566b63f477941b6b47f1464" sha1="215fa8c1f243c89f7a0194875971912991e30fff"/>
 		<url>https://retroachievements.org/game/4272/hashes</url>
 		<hash>849e56df594443bf04ada4677b4e3fe9</hash>
 	</game>
 	
-	<game name="PSXFunkin (Homebrew)">
+	<game name="PSXFunkin">
 		<category>Homebrew</category>
-		<description>PSXFunkin (Homebrew)</description>
-		<release name="PSXFunkin (Homebrew)" region="World"/>
-		<rom name="PSXFunkin (Homebrew).cue" size="86" crc="fef2816c" md5="fd22a61403c1d20e2529be650b2de597" sha1="e24a2d42a38c08bcd106a01df14fe5524220c598"/>
-		<rom name="PSXFunkin (Homebrew).bin" size="437457888" crc="0651feee" md5="3be02c48ff35586eb30c36f93746c02b" sha1="183ce34542e123e125d2b14b27fd10733f4cabb6"/>
+		<description>PSXFunkin</description>
+		<release name="PSXFunkin" region="World"/>
+		<rom name="PSXFunkin.cue" size="86" crc="fef2816c" md5="fd22a61403c1d20e2529be650b2de597" sha1="e24a2d42a38c08bcd106a01df14fe5524220c598"/>
+		<rom name="PSXFunkin.bin" size="437457888" crc="0651feee" md5="3be02c48ff35586eb30c36f93746c02b" sha1="183ce34542e123e125d2b14b27fd10733f4cabb6"/>
 		<url>https://retroachievements.org/game/18282/hashes</url>
 		<hash>9110f20977ca1fc7abb44aebea98ae4f</hash>
 	</game>
 	
-	<game name="Roll Boss Rush (Homebrew)">
+	<game name="Roll Boss Rush">
 		<category>Homebrew</category>
-		<description>Roll Boss Rush (Homebrew)</description>
-		<release name="Roll Boss Rush (Homebrew)" region="World"/>
-		<rom name="Roll Boss Rush (Homebrew).iso" size="132330576" crc="077ec5e7" md5="541128bca0a6083ac762f0ef0d63fca2" sha1="fd29622c9cd94eddd81826a79693141d97383a97"/>
+		<description>Roll Boss Rush</description>
+		<release name="Roll Boss Rush" region="World"/>
+		<rom name="Roll Boss Rush.iso" size="132330576" crc="077ec5e7" md5="541128bca0a6083ac762f0ef0d63fca2" sha1="fd29622c9cd94eddd81826a79693141d97383a97"/>
 		<url>https://retroachievements.org/game/31486/hashes</url>
 		<hash>c91ad4ebcdd20866dd6a8ee49624fac1</hash>
 	</game>
 	
-	<game name="Crash Bandicoot (Prototype)">
+	<game name="Crash Bandicoot (Proto)">
 		<category>Prototype</category>
-		<description>Crash Bandicoot (Prototype)</description>
-		<release name="Crash Bandicoot (Prototype)" region="World"/>
-		<rom name="Crash Bandicoot (Prototype).cue" size="94" crc="97e69c73" md5="9680da87a4e24eabda1e89fafc14d5d1" sha1="0e877679f6bc532a7db93c41c2d66262c8370629"/>
-		<rom name="Crash Bandicoot (Prototype).bin" size="167431824" crc="32eb061c" md5="ec75a55fec5dc2dda23203d181d82240" sha1="2caadbe6b76854c3211f8cdae3383e738407de0a"/>
+		<description>Crash Bandicoot (Proto)</description>
+		<release name="Crash Bandicoot (Proto)" region="World"/>
+		<rom name="Crash Bandicoot (Proto).cue" size="94" crc="97e69c73" md5="9680da87a4e24eabda1e89fafc14d5d1" sha1="0e877679f6bc532a7db93c41c2d66262c8370629"/>
+		<rom name="Crash Bandicoot (Proto).bin" size="167431824" crc="32eb061c" md5="ec75a55fec5dc2dda23203d181d82240" sha1="2caadbe6b76854c3211f8cdae3383e738407de0a"/>
 		<url>https://retroachievements.org/game/22475/hashes</url>
 		<hash>d18e37f9e6cec613b1fd549432e758f9</hash>
 	</game>
 	
-	<game name="MediEvil (Prototype)">
+	<game name="MediEvil (Proto)">
 		<category>Prototype</category>
-		<description>MediEvil (Prototype)</description>
-		<release name="MediEvil (Prototype)" region="World"/>
-		<rom name="MediEvil (Prototype).cue" size="187" crc="faa07504" md5="baf088ab5c91f03db33d7c11c6e42786" sha1="baa5b88b53baf7072adb8681bb1c6a649d5c1c4e"/>
-		<rom name="MediEvil (Prototype) (Track 1).bin" size="321071520" crc="4bf61244" md5="d6685268d723bceae318ef38f78618fa" sha1="f33a64438bfef2c6514fe8d2529f16f29e9c8991"/>
-		<rom name="MediEvil (Prototype) (Track 2).bin" size="32970336" crc="9398f2c7" md5="42c47549179d745454b38082f3820cf5" sha1="b059e2710609eb3a79214805aa99f9361093a5ef"/>
+		<description>MediEvil (Proto)</description>
+		<release name="MediEvil (Proto)" region="World"/>
+		<rom name="MediEvil (Proto).cue" size="187" crc="faa07504" md5="baf088ab5c91f03db33d7c11c6e42786" sha1="baa5b88b53baf7072adb8681bb1c6a649d5c1c4e"/>
+		<rom name="MediEvil (Proto) (Track 1).bin" size="321071520" crc="4bf61244" md5="d6685268d723bceae318ef38f78618fa" sha1="f33a64438bfef2c6514fe8d2529f16f29e9c8991"/>
+		<rom name="MediEvil (Proto) (Track 2).bin" size="32970336" crc="9398f2c7" md5="42c47549179d745454b38082f3820cf5" sha1="b059e2710609eb3a79214805aa99f9361093a5ef"/>
 		<url>https://retroachievements.org/game/28325/hashes</url>
 		<hash>fafe16819726b108c917879865dbf3c1</hash>
 	</game>
 	
-	<game name="Suikoden II (E3 Preview) (Prototype)">
+	<game name="Suikoden II (E3 Preview) (Proto)">
 		<category>Prototype</category>
-		<description>Suikoden II (E3 Preview) (Prototype)</description>
-		<release name="Suikoden II (E3 Preview) (Prototype)" region="World"/>
-		<rom name="Suikoden II (E3 Preview) (Prototype).cue" size="102" crc="12fc3b6c" md5="275ddf6ff87bd146d5eabb400e8ddd87" sha1="e61228dcae51fb06728672c171926ac36efb0c56"/>
-		<rom name="Suikoden II (E3 Preview) (Prototype).bin" size="511489440" crc="9e8f9ba7" md5="436b6476f41c3541d013c070b670d210" sha1="97337a27c44fc5a8787dff63f6ca8a18363c650b"/>
+		<description>Suikoden II (E3 Preview) (Proto)</description>
+		<release name="Suikoden II (E3 Preview) (Proto)" region="World"/>
+		<rom name="Suikoden II (E3 Preview) (Proto).cue" size="102" crc="12fc3b6c" md5="275ddf6ff87bd146d5eabb400e8ddd87" sha1="e61228dcae51fb06728672c171926ac36efb0c56"/>
+		<rom name="Suikoden II (E3 Preview) (Proto).bin" size="511489440" crc="9e8f9ba7" md5="436b6476f41c3541d013c070b670d210" sha1="97337a27c44fc5a8787dff63f6ca8a18363c650b"/>
 		<url>https://retroachievements.org/game/18320/hashes</url>
 		<hash>e7e38b47d1a9f33a0b6550f09407d5a7</hash>
 	</game>
 	
-	<game name="Superman (Prototype)">
+	<game name="Superman (Proto)">
 		<category>Prototype</category>
-		<description>Superman (Prototype)</description>
-		<release name="Superman (Prototype)" region="World"/>
-		<rom name="Superman (Prototype).cue" size="87" crc="2462547e" md5="0c2536c1ea9c03c4afbf0427433ec3d2" sha1="d89cde8a97e143ab8a60cb69c74371cb86706574"/>
-		<rom name="Superman (Prototype).bin" size="250563264" crc="04fd0328" md5="0f82d01fb3fe8bd3f3566737a26a57ad" sha1="49c407ed17167c59b8ce26f3fed8dfd1b426a565"/>
+		<description>Superman (Proto)</description>
+		<release name="Superman (Proto)" region="World"/>
+		<rom name="Superman (Proto).cue" size="87" crc="2462547e" md5="0c2536c1ea9c03c4afbf0427433ec3d2" sha1="d89cde8a97e143ab8a60cb69c74371cb86706574"/>
+		<rom name="Superman (Proto).bin" size="250563264" crc="04fd0328" md5="0f82d01fb3fe8bd3f3566737a26a57ad" sha1="49c407ed17167c59b8ce26f3fed8dfd1b426a565"/>
 		<url>https://retroachievements.org/game/17173/hashes</url>
 		<hash>41d47080d3797cb5dd0669b3bb1422f8</hash>
 	</game>
@@ -7045,12 +7045,12 @@
 		<url>https://retroachievements.org/game/11359/hashes</url>
 		<hash>2b243ca01044b1abc542305fd135fec1</hash>
 	</game>
-	<game name="Metal Slug X (USA) (Red Blood Hack) (Ortew) (v1.0)" cloneof="Metal Slug X (USA)">
+	<game name="Metal Slug X (USA) (Red Blood) (Ortew) (v1.0)" cloneof="Metal Slug X (USA)">
 		<category>Retail</category>
-		<description>Metal Slug X (USA) (Red Blood Hack) (Ortew) (v1.0)</description>
-		<release name="Metal Slug X (USA) (Red Blood Hack) (Ortew) (v1.0)" region="USA"/>
-		<rom name="Metal Slug X (USA) (Red Blood Hack) (Ortew) (v1.0).cue" size="116" crc="35bf7daa" md5="682dec099716504abdb1d102e7692dcf" sha1="e249dbde4402898c0f5d3c6a9c287bea6085cc38"/>
-		<rom name="Metal Slug X (USA) (Red Blood Hack) (Ortew) (v1.0).bin" size="104315904" crc="93e2f573" md5="aa4bb60c1b2efd76671fe2ed747865ad" sha1="24fef1dd1458008293f9e762545d12859b096256"/>
+		<description>Metal Slug X (USA) (Red Blood) (Ortew) (v1.0)</description>
+		<release name="Metal Slug X (USA) (Red Blood) (Ortew) (v1.0)" region="USA"/>
+		<rom name="Metal Slug X (USA) (Red Blood) (Ortew) (v1.0).cue" size="116" crc="35bf7daa" md5="682dec099716504abdb1d102e7692dcf" sha1="e249dbde4402898c0f5d3c6a9c287bea6085cc38"/>
+		<rom name="Metal Slug X (USA) (Red Blood) (Ortew) (v1.0).bin" size="104315904" crc="93e2f573" md5="aa4bb60c1b2efd76671fe2ed747865ad" sha1="24fef1dd1458008293f9e762545d12859b096256"/>
 		<url>https://retroachievements.org/game/11359/hashes</url>
 		<hash>498f770b36fa743ccb0621f83a4b0be5</hash>
 	</game>
@@ -8475,19 +8475,19 @@
 		<url>https://retroachievements.org/game/11277/hashes</url>
 		<hash>cc280cc97864ea75741d06b3ab46cafb</hash>
 	</game>
-	<game name="Parasite Eve (USA) (Font Hack) (GreenGoblin) (v1.0) (Disc 1)" cloneof="Parasite Eve (USA) (Disc 1)">
+	<game name="Parasite Eve (USA) (Font) (GreenGoblin) (v1.0) (Disc 1)" cloneof="Parasite Eve (USA) (Disc 1)">
 		<category>Retail</category>
-		<description>Parasite Eve (USA) (Font Hack) (GreenGoblin) (v1.0) (Disc 1)</description>
-		<rom name="Parasite Eve (USA) (Font Hack) (GreenGoblin) (v1.0) (Disc 1).cue" size="126" crc="71a46e3e" md5="2d6885b8b6f5b3d645c59eea481bc107" sha1="f6a7a39f2b9b2445ad18b80bd8111df7b7bf574f"/>
-		<rom name="Parasite Eve (USA) (Font Hack) (GreenGoblin) (v1.0) (Disc 1).bin" size="495531120" crc="07c9d820" md5="9576c138f10e481d33f4c9b5627fc622" sha1="1ec80df8883e5ca38397c7101215712bdad5087d"/>
+		<description>Parasite Eve (USA) (Font) (GreenGoblin) (v1.0) (Disc 1)</description>
+		<rom name="Parasite Eve (USA) (Font) (GreenGoblin) (v1.0) (Disc 1).cue" size="126" crc="71a46e3e" md5="2d6885b8b6f5b3d645c59eea481bc107" sha1="f6a7a39f2b9b2445ad18b80bd8111df7b7bf574f"/>
+		<rom name="Parasite Eve (USA) (Font) (GreenGoblin) (v1.0) (Disc 1).bin" size="495531120" crc="07c9d820" md5="9576c138f10e481d33f4c9b5627fc622" sha1="1ec80df8883e5ca38397c7101215712bdad5087d"/>
 		<url>https://retroachievements.org/game/11277/hashes</url>
 		<hash>871740d057baedcfa0733c0cd229d4ec</hash>
 	</game>
-	<game name="Parasite Eve (USA) (Font Hack) (GreenGoblin) (v1.0) (Disc 2)" cloneof="Parasite Eve (USA) (Disc 2)">
+	<game name="Parasite Eve (USA) (Font) (GreenGoblin) (v1.0) (Disc 2)" cloneof="Parasite Eve (USA) (Disc 2)">
 		<category>Retail</category>
-		<description>Parasite Eve (USA) (Font Hack) (GreenGoblin) (v1.0) (Disc 2)</description>
-		<rom name="Parasite Eve (USA) (Font Hack) (GreenGoblin) (v1.0) (Disc 2).cue" size="126" crc="70f948ef" md5="7b5f30204affae1d7280bf1513629cd6" sha1="4df0de146b386be0b0d5f18b3ac466ba30521de5"/>
-		<rom name="Parasite Eve (USA) (Font Hack) (GreenGoblin) (v1.0) (Disc 2).bin" size="646877616" crc="58817e68" md5="763aac2f90bbe6318f23d74c1ad614d8" sha1="f7d0f2bc5402ff275c90277dff7b084b3683ef3b"/>
+		<description>Parasite Eve (USA) (Font) (GreenGoblin) (v1.0) (Disc 2)</description>
+		<rom name="Parasite Eve (USA) (Font) (GreenGoblin) (v1.0) (Disc 2).cue" size="126" crc="70f948ef" md5="7b5f30204affae1d7280bf1513629cd6" sha1="4df0de146b386be0b0d5f18b3ac466ba30521de5"/>
+		<rom name="Parasite Eve (USA) (Font) (GreenGoblin) (v1.0) (Disc 2).bin" size="646877616" crc="58817e68" md5="763aac2f90bbe6318f23d74c1ad614d8" sha1="f7d0f2bc5402ff275c90277dff7b084b3683ef3b"/>
 		<url>https://retroachievements.org/game/11277/hashes</url>
 		<hash>3453b21276ffc59dc42e848d6b4083db</hash>
 	</game>
@@ -13636,6 +13636,16 @@
 		<rom name="Wipeout XL (USA) (Track 12).bin" size="55885872" crc="280d423e" md5="fb704fc0301394ed8a4afca0165814e0" sha1="601507f68eeae7df49384b7d968c5651a0f984d8"/>
 		<url>https://retroachievements.org/game/13913/hashes</url>
 		<hash>611479cd0e25800874e3b01d0e0efa2d</hash>
+	</game>
+	
+	<game name="Wonder Trek (Japan)">
+		<category>Retail</category>
+		<description>Wonder Trek (Japan)</description>
+		<release name="Wonder Trek (Japan)" region="Japan"/>
+		<rom name="Wonder Trek (Japan).cue" size="85" crc="e255ea5e" md5="b6b9af3746481616ebac410aa0de3ca0" sha1="efc8b9aa0784c8ff3b28b3a0c3bd24665a2572b7"/>
+		<rom name="Wonder Trek (Japan).bin" size="313860288" crc="570869dd" md5="a8d9ea2e4b1d5e72ba2ed0f3b8d4c5df" sha1="5a7d9293ae8e76bacb2804de9468af8577d3f5fd"/>
+		<url>https://retroachievements.org/game/27056/hashes</url>
+		<hash>22c97c7196af50ba8a0831856088aa32</hash>
 	</game>
 	
 	<game name="World's Scariest Police Chases (USA)">

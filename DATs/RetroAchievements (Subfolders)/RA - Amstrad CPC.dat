@@ -4,280 +4,280 @@
 	<header>
 		<name>RA - Amstrad CPC</name>
 		<description>Amstrad CPC</description>
-		<category>1G1R</category>
-		<version>20250620</version>
-		<date>20 June 2025</date>
+		<category>Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/37/games</url>
 		<titlecount>70</titlecount>
 		<hashcount>115</hashcount>
 	</header>
-	<game name="Hack/Bubble Bobble 2 (Hack) (Tosec)">
+	<game name="Hack/Bubble Bobble 2 (Tosec) (Hack)">
 		<category></category>
-		<description>Bubble Bobble 2 (Hack) (Tosec)</description>
-		<rom name="Bubble Bobble 2 (Hack) (Tosec).dsk" size="194816" crc="82fdccd5" md5="9c945178adba832ac07a0a6424f38133" sha1="bb172da8f712f83267505cb00d692c01d2f46933"/>
+		<description>Bubble Bobble 2 (Tosec) (Hack)</description>
+		<rom name="Bubble Bobble 2 (Tosec) (Hack).dsk" size="194816" crc="82fdccd5" md5="9c945178adba832ac07a0a6424f38133" sha1="bb172da8f712f83267505cb00d692c01d2f46933"/>
 		<url>https://retroachievements.org/game/18818/hashes</url>
 		<hash>9C945178ADBA832AC07A0A6424F38133</hash>
 	</game>
-	<game name="Hack/Bubble Bobble 2 (Hack) (CleanCpcDb)">
+	<game name="Hack/Bubble Bobble 2 (CleanCpcDb) (Hack)">
 		<category></category>
-		<description>Bubble Bobble 2 (Hack) (CleanCpcDb)</description>
-		<rom name="Bubble Bobble 2 (Hack) (CleanCpcDb).dsk" size="194816" crc="DC214555" md5="F6C4F54D9DBDC957CA7F24B69D8CF7C4" sha1="D390AB65C7D50DBF74FE4F9111662174627D5292"/>
+		<description>Bubble Bobble 2 (CleanCpcDb) (Hack)</description>
+		<rom name="Bubble Bobble 2 (CleanCpcDb) (Hack).dsk" size="194816" crc="DC214555" md5="F6C4F54D9DBDC957CA7F24B69D8CF7C4" sha1="D390AB65C7D50DBF74FE4F9111662174627D5292"/>
 		<url>https://retroachievements.org/game/18818/hashes</url>
 		<hash>F6C4F54D9DBDC957CA7F24B69D8CF7C4</hash>
 	</game>
 	
-	<game name="Homebrew/8bit Wars (2021) (CPCRetroDev 2021) (21bloques) (Homebrew)">
+	<game name="Homebrew/8bit Wars (2021) (CPCRetroDev 2021) (21bloques) (Aftermarket)">
 		<category></category>
-		<description>8bit Wars (2021) (CPCRetroDev 2021) (21bloques) (Homebrew)</description>
-		<rom name="8bit Wars (2021) (CPCRetroDev 2021) (21bloques) (Homebrew).dsk" size="194816" crc="5854bdac" md5="50ab098f9aaf7bcb19ac8c194d8afc21" sha1="5ea0dded4c341a3ed8b867cd509bc4504c879dd5"/>
+		<description>8bit Wars (2021) (CPCRetroDev 2021) (21bloques) (Aftermarket)</description>
+		<rom name="8bit Wars (2021) (CPCRetroDev 2021) (21bloques) (Aftermarket).dsk" size="194816" crc="5854bdac" md5="50ab098f9aaf7bcb19ac8c194d8afc21" sha1="5ea0dded4c341a3ed8b867cd509bc4504c879dd5"/>
 		<url>https://retroachievements.org/game/19473/hashes</url>
 		<hash>50AB098F9AAF7BCB19AC8C194D8AFC21</hash>
 	</game>
 	
-	<game name="Homebrew/Prelude to Chaos, A (2016) (v1.1) (EgoTrip) (Homebrew)">
+	<game name="Homebrew/Prelude to Chaos, A (2016) (v1.1) (EgoTrip) (Aftermarket)">
 		<category></category>
-		<description>Prelude to Chaos, A (2016) (v1.1) (EgoTrip) (Homebrew)</description>
-		<rom name="Prelude to Chaos, A (2016) (v1.1) (EgoTrip) (Homebrew).dsk" size="204544" crc="a01a8bfb" md5="a08eb7621005e7cb44766b1b42a3811b" sha1="4766001daf2107d892e6e3e171d515ee406bce01"/>
+		<description>Prelude to Chaos, A (2016) (v1.1) (EgoTrip) (Aftermarket)</description>
+		<rom name="Prelude to Chaos, A (2016) (v1.1) (EgoTrip) (Aftermarket).dsk" size="204544" crc="a01a8bfb" md5="a08eb7621005e7cb44766b1b42a3811b" sha1="4766001daf2107d892e6e3e171d515ee406bce01"/>
 		<url>https://retroachievements.org/game/19002/hashes</url>
 		<hash>A08EB7621005E7CB44766B1B42A3811B</hash>
 	</game>
 	
-	<game name="Homebrew/Aliens'n Tanks (2021) (CPCRetroDev 2021) (v1.1) (Ohcaco Games) (Homebrew)">
+	<game name="Homebrew/Aliens'n Tanks (2021) (CPCRetroDev 2021) (v1.1) (Ohcaco Games) (Aftermarket)">
 		<category></category>
-		<description>Aliens'n Tanks (2021) (CPCRetroDev 2021) (v1.1) (Ohcaco Games) (Homebrew)</description>
-		<rom name="Aliens'n Tanks (2021) (CPCRetroDev 2021) (v1.1) (Ohcaco Games) (Homebrew).dsk" size="204544" crc="d8a42e6c" md5="465396ac2a739dde388c2553f789127d" sha1="f8b3b68c0ada13d170355f6b8e21d269770b8ced"/>
+		<description>Aliens'n Tanks (2021) (CPCRetroDev 2021) (v1.1) (Ohcaco Games) (Aftermarket)</description>
+		<rom name="Aliens'n Tanks (2021) (CPCRetroDev 2021) (v1.1) (Ohcaco Games) (Aftermarket).dsk" size="204544" crc="d8a42e6c" md5="465396ac2a739dde388c2553f789127d" sha1="f8b3b68c0ada13d170355f6b8e21d269770b8ced"/>
 		<url>https://retroachievements.org/game/19468/hashes</url>
 		<hash>465396AC2A739DDE388C2553F789127D</hash>
 	</game>
 	
-	<game name="Homebrew/Anima (2020) (Carlos Perezgrin) (Homebrew)">
+	<game name="Homebrew/Anima (2020) (Carlos Perezgrin) (Aftermarket)">
 		<category></category>
-		<description>Anima (2020) (Carlos Perezgrin) (Homebrew)</description>
-		<rom name="Anima (2020) (Carlos Perezgrin) (Homebrew).dsk" size="204544" crc="af3fcf95" md5="a90ba86ab5bcc8f9f9d9c6765dae696a" sha1="c0d0c968b6c321bc9e801248a32bfe9f9e6f2052"/>
+		<description>Anima (2020) (Carlos Perezgrin) (Aftermarket)</description>
+		<rom name="Anima (2020) (Carlos Perezgrin) (Aftermarket).dsk" size="204544" crc="af3fcf95" md5="a90ba86ab5bcc8f9f9d9c6765dae696a" sha1="c0d0c968b6c321bc9e801248a32bfe9f9e6f2052"/>
 		<url>https://retroachievements.org/game/29078/hashes</url>
 		<hash>A90BA86AB5BCC8F9F9D9C6765DAE696A</hash>
 	</game>
 	
-	<game name="Homebrew/Astrocop (2022) (Mananuk) (Homebrew)">
+	<game name="Homebrew/Astrocop (2022) (Mananuk) (Aftermarket)">
 		<category></category>
-		<description>Astrocop (2022) (Mananuk) (Homebrew)</description>
-		<rom name="Astrocop (2022) (Mananuk) (Homebrew).dsk" size="194816" crc="eadb333b" md5="fc2dea0a3e43d21bfe28c2881291ade3" sha1="771466b62c355d3d68c2137bebaa8515e6b15fc8"/>
+		<description>Astrocop (2022) (Mananuk) (Aftermarket)</description>
+		<rom name="Astrocop (2022) (Mananuk) (Aftermarket).dsk" size="194816" crc="eadb333b" md5="fc2dea0a3e43d21bfe28c2881291ade3" sha1="771466b62c355d3d68c2137bebaa8515e6b15fc8"/>
 		<url>https://retroachievements.org/game/29070/hashes</url>
 		<hash>FC2DEA0A3E43D21BFE28C2881291ADE3</hash>
 	</game>
 	
-	<game name="Homebrew/Baba's Palace (Homebrew) (CleanCpcDb)">
+	<game name="Homebrew/Baba's Palace (CleanCpcDb) (Aftermarket)">
 		<category></category>
-		<description>Baba's Palace (Homebrew) (CleanCpcDb)</description>
-		<rom name="Baba's Palace (Homebrew) (CleanCpcDb).dsk" size="204544" crc="9CB1E0A7" md5="67A70973ABC61386B28414798BE82614" sha1="E5EF8DE9BFC50D4E13E5F1DC2408EFC2CAAB0522"/>
+		<description>Baba's Palace (CleanCpcDb) (Aftermarket)</description>
+		<rom name="Baba's Palace (CleanCpcDb) (Aftermarket).dsk" size="204544" crc="9CB1E0A7" md5="67A70973ABC61386B28414798BE82614" sha1="E5EF8DE9BFC50D4E13E5F1DC2408EFC2CAAB0522"/>
 		<url>https://retroachievements.org/game/25599/hashes</url>
 		<hash>67A70973ABC61386B28414798BE82614</hash>
 	</game>
 	
-	<game name="Homebrew/Black Sea (Homebrew) (CleanCpcDb)">
+	<game name="Homebrew/Black Sea (CleanCpcDb) (Aftermarket)">
 		<category></category>
-		<description>Black Sea (Homebrew) (CleanCpcDb)</description>
-		<rom name="Black Sea (Homebrew) (CleanCpcDb).dsk" size="204544" crc="5EA3F8FA" md5="DB8CD2F5A347F3A700D0AE417406F68F" sha1="86550D7EEE377A8C73EA058140F5E6655C611713"/>
+		<description>Black Sea (CleanCpcDb) (Aftermarket)</description>
+		<rom name="Black Sea (CleanCpcDb) (Aftermarket).dsk" size="204544" crc="5EA3F8FA" md5="DB8CD2F5A347F3A700D0AE417406F68F" sha1="86550D7EEE377A8C73EA058140F5E6655C611713"/>
 		<url>https://retroachievements.org/game/9193/hashes</url>
 		<hash>DB8CD2F5A347F3A700D0AE417406F68F</hash>
 	</game>
 	
-	<game name="Homebrew/Chibi Akuma's Episode 1 - Invasion (Homebrew)/Chibi Akuma's Episode 1 - Invasion (Homebrew) (Side A) (CleanCpcDb)">
+	<game name="Homebrew/Chibi Akuma's Episode 1 - Invasion/Chibi Akuma's Episode 1 - Invasion (Side A) (CleanCpcDb) (Aftermarket)">
 		<category></category>
-		<description>Chibi Akuma's Episode 1 - Invasion (Homebrew) (Side A) (CleanCpcDb)</description>
-		<rom name="Chibi Akuma's Episode 1 - Invasion (Homebrew) (Side A) (CleanCpcDb).dsk" size="194816" crc="D851FDE0" md5="363C12BCA4B13C55824E5E3C88505237" sha1="F5A8737198A7CF60422F12ABF52CD37C16B60BAE"/>
+		<description>Chibi Akuma's Episode 1 - Invasion (Side A) (CleanCpcDb) (Aftermarket)</description>
+		<rom name="Chibi Akuma's Episode 1 - Invasion (Side A) (CleanCpcDb) (Aftermarket).dsk" size="194816" crc="D851FDE0" md5="363C12BCA4B13C55824E5E3C88505237" sha1="F5A8737198A7CF60422F12ABF52CD37C16B60BAE"/>
 		<url>https://retroachievements.org/game/6925/hashes</url>
 		<hash>363C12BCA4B13C55824E5E3C88505237</hash>
 	</game>
-	<game name="Homebrew/Chibi Akuma's Episode 1 - Invasion (Homebrew)/Chibi Akuma's Episode 1 - Invasion (Homebrew) (Side B) (CleanCpcDb)">
+	<game name="Homebrew/Chibi Akuma's Episode 1 - Invasion/Chibi Akuma's Episode 1 - Invasion (Side B) (CleanCpcDb) (Aftermarket)">
 		<category></category>
-		<description>Chibi Akuma's Episode 1 - Invasion (Homebrew) (Side B) (CleanCpcDb)</description>
-		<rom name="Chibi Akuma's Episode 1 - Invasion (Homebrew) (Side B) (CleanCpcDb).dsk" size="194816" crc="3D75A099" md5="86143C5822123310B13E41BFEF9EC045" sha1="B7ECC916AFE1E3CB28058EDEB6FC8E855CF85DB3"/>
+		<description>Chibi Akuma's Episode 1 - Invasion (Side B) (CleanCpcDb) (Aftermarket)</description>
+		<rom name="Chibi Akuma's Episode 1 - Invasion (Side B) (CleanCpcDb) (Aftermarket).dsk" size="194816" crc="3D75A099" md5="86143C5822123310B13E41BFEF9EC045" sha1="B7ECC916AFE1E3CB28058EDEB6FC8E855CF85DB3"/>
 		<url>https://retroachievements.org/game/6925/hashes</url>
 		<hash>86143C5822123310B13E41BFEF9EC045</hash>
 	</game>
 	
-	<game name="Homebrew/Get Out of My Store! (2021) (CPCRetroDev 2021) (PyroBombastic Games) (Homebrew)">
+	<game name="Homebrew/Get Out of My Store! (2021) (CPCRetroDev 2021) (PyroBombastic Games) (Aftermarket)">
 		<category></category>
-		<description>Get Out of My Store! (2021) (CPCRetroDev 2021) (PyroBombastic Games) (Homebrew)</description>
-		<rom name="Get Out of My Store! (2021) (CPCRetroDev 2021) (PyroBombastic Games) (Homebrew).dsk" size="204544" crc="ba385f1d" md5="4737bcf67c163be6ea3bc31aa7655eec" sha1="749dd684f4600c4c1f9a27a134119a8d074b4a45"/>
+		<description>Get Out of My Store! (2021) (CPCRetroDev 2021) (PyroBombastic Games) (Aftermarket)</description>
+		<rom name="Get Out of My Store! (2021) (CPCRetroDev 2021) (PyroBombastic Games) (Aftermarket).dsk" size="204544" crc="ba385f1d" md5="4737bcf67c163be6ea3bc31aa7655eec" sha1="749dd684f4600c4c1f9a27a134119a8d074b4a45"/>
 		<url>https://retroachievements.org/game/19471/hashes</url>
 		<hash>4737BCF67C163BE6EA3BC31AA7655EEC</hash>
 	</game>
 	
-	<game name="Homebrew/Hair Boy (Homebrew) (CleanCpcDb)">
+	<game name="Homebrew/Hair Boy (CleanCpcDb) (Aftermarket)">
 		<category></category>
-		<description>Hair Boy (Homebrew) (CleanCpcDb)</description>
-		<rom name="Hair Boy (Homebrew) (CleanCpcDb).dsk" size="204544" crc="CA1CCFA9" md5="38A391A4E1C3E958AD8F173B86D641E9" sha1="1C6E66B9602138578AB440C76E9B4E7083CDFA24"/>
+		<description>Hair Boy (CleanCpcDb) (Aftermarket)</description>
+		<rom name="Hair Boy (CleanCpcDb) (Aftermarket).dsk" size="204544" crc="CA1CCFA9" md5="38A391A4E1C3E958AD8F173B86D641E9" sha1="1C6E66B9602138578AB440C76E9B4E7083CDFA24"/>
 		<url>https://retroachievements.org/game/10805/hashes</url>
 		<hash>38A391A4E1C3E958AD8F173B86D641E9</hash>
 	</game>
-	<game name="Homebrew/Hair Boy (2016) (Carlos Sevila) (Homebrew)">
+	<game name="Homebrew/Hair Boy (2016) (Carlos Sevila) (Aftermarket)">
 		<category></category>
-		<description>Hair Boy (2016) (Carlos Sevila) (Homebrew)</description>
-		<rom name="Hair Boy (2016) (Carlos Sevila) (Homebrew).dsk" size="204544" crc="c75e73ca" md5="a4b63c729643affd4db27cbdfc025324" sha1="7cf184ccbc919998b2260f2ddc16d8b697918a47"/>
+		<description>Hair Boy (2016) (Carlos Sevila) (Aftermarket)</description>
+		<rom name="Hair Boy (2016) (Carlos Sevila) (Aftermarket).dsk" size="204544" crc="c75e73ca" md5="a4b63c729643affd4db27cbdfc025324" sha1="7cf184ccbc919998b2260f2ddc16d8b697918a47"/>
 		<url>https://retroachievements.org/game/10805/hashes</url>
 		<hash>A4B63C729643AFFD4DB27CBDFC025324</hash>
 	</game>
 	
-	<game name="Homebrew/Miss Input (Homebrew) (CleanCpcDb)">
+	<game name="Homebrew/Miss Input (CleanCpcDb) (Aftermarket)">
 		<category></category>
-		<description>Miss Input (Homebrew) (CleanCpcDb)</description>
-		<rom name="Miss Input (Homebrew) (CleanCpcDb).dsk" size="204544" crc="E8D15029" md5="D24FB1F4D86E08AA51A15D86D4C79236" sha1="B261572BA239D32244161181519F70903CC58C38"/>
+		<description>Miss Input (CleanCpcDb) (Aftermarket)</description>
+		<rom name="Miss Input (CleanCpcDb) (Aftermarket).dsk" size="204544" crc="E8D15029" md5="D24FB1F4D86E08AA51A15D86D4C79236" sha1="B261572BA239D32244161181519F70903CC58C38"/>
 		<url>https://retroachievements.org/game/9607/hashes</url>
 		<hash>D24FB1F4D86E08AA51A15D86D4C79236</hash>
 	</game>
-	<game name="Homebrew/Miss Input (2019) (ChupiGames) (En) (Homebrew)">
+	<game name="Homebrew/Miss Input (2019) (ChupiGames) (En) (Aftermarket)">
 		<category></category>
-		<description>Miss Input (2019) (ChupiGames) (En) (Homebrew)</description>
-		<rom name="Miss Input (2019) (ChupiGames) (En) (Homebrew).dsk" size="204544" crc="64c57ea6" md5="e4bc8e3f51491a8866dbe4078037169f" sha1="f84d29be030f02d44a94f1a03ecdf8994a0287f4"/>
+		<description>Miss Input (2019) (ChupiGames) (En) (Aftermarket)</description>
+		<rom name="Miss Input (2019) (ChupiGames) (En) (Aftermarket).dsk" size="204544" crc="64c57ea6" md5="e4bc8e3f51491a8866dbe4078037169f" sha1="f84d29be030f02d44a94f1a03ecdf8994a0287f4"/>
 		<url>https://retroachievements.org/game/9607/hashes</url>
 		<hash>E4BC8E3F51491A8866DBE4078037169F</hash>
 	</game>
 	
-	<game name="Homebrew/Miss Input 2 (2020) (ChupiGames) (En) (Homebrew)">
+	<game name="Homebrew/Miss Input 2 (2020) (ChupiGames) (En) (Aftermarket)">
 		<category></category>
-		<description>Miss Input 2 (2020) (ChupiGames) (En) (Homebrew)</description>
-		<rom name="Miss Input (Homebrew) 2 (En) (CpcRulez).dsk" size="204544" crc="ffabf636" md5="09d1c3626e70a31150a93dc3ce4e25a5" sha1="60e4002d2b115ad0875cb7220b006f45c98c7f55"/>
+		<description>Miss Input 2 (2020) (ChupiGames) (En) (Aftermarket)</description>
+		<rom name="Miss Input 2 (En) (CpcRulez) (Aftermarket).dsk" size="204544" crc="ffabf636" md5="09d1c3626e70a31150a93dc3ce4e25a5" sha1="60e4002d2b115ad0875cb7220b006f45c98c7f55"/>
 		<url>https://retroachievements.org/game/9543/hashes</url>
 		<hash>09D1C3626E70A31150A93DC3CE4E25A5</hash>
 	</game>
-	<game name="Homebrew/Miss Input 2 (Homebrew) (CleanCpcDb)">
+	<game name="Homebrew/Miss Input 2 (CleanCpcDb) (Aftermarket)">
 		<category></category>
-		<description>Miss Input 2 (Homebrew) (CleanCpcDb)</description>
-		<rom name="Miss Input 2 (Homebrew) (CleanCpcDb).dsk" size="204544" crc="7C096B33" md5="5AFA3BF6E08225DBFDE2F111A8F863E8" sha1="F4665523DBBD9F4BECBB8F8404E321C2255355F6"/>
+		<description>Miss Input 2 (CleanCpcDb) (Aftermarket)</description>
+		<rom name="Miss Input 2 (CleanCpcDb) (Aftermarket).dsk" size="204544" crc="7C096B33" md5="5AFA3BF6E08225DBFDE2F111A8F863E8" sha1="F4665523DBBD9F4BECBB8F8404E321C2255355F6"/>
 		<url>https://retroachievements.org/game/9543/hashes</url>
 		<hash>5AFA3BF6E08225DBFDE2F111A8F863E8</hash>
 	</game>
 	
-	<game name="Homebrew/Nanako Descends To Hell (Homebrew) (CleanCpcDb)">
+	<game name="Homebrew/Nanako Descends To Hell (CleanCpcDb) (Aftermarket)">
 		<category></category>
-		<description>Nanako Descends To Hell (Homebrew) (CleanCpcDb)</description>
-		<rom name="Nanako Descends To Hell (Homebrew) (CleanCpcDb).dsk" size="194816" crc="6C2CDCEA" md5="708CFECFEE216F64A029BF7BA8EA15A5" sha1="125FCBE6BFA1F40D57256540B61E93942145FAF0"/>
+		<description>Nanako Descends To Hell (CleanCpcDb) (Aftermarket)</description>
+		<rom name="Nanako Descends To Hell (CleanCpcDb) (Aftermarket).dsk" size="194816" crc="6C2CDCEA" md5="708CFECFEE216F64A029BF7BA8EA15A5" sha1="125FCBE6BFA1F40D57256540B61E93942145FAF0"/>
 		<url>https://retroachievements.org/game/6926/hashes</url>
 		<hash>708CFECFEE216F64A029BF7BA8EA15A5</hash>
 	</game>
 
-	<game name="Homebrew/Pulzar (2024) (Snauts) (Homebrew)">
+	<game name="Homebrew/Pulzar (2024) (Snauts) (Aftermarket)">
 		<category></category>
-		<description>Pulzar (2024) (Snauts) (Homebrew)</description>
-		<rom name="Pulzar (2024) (Snauts) (Homebrew).dsk" size="204544" crc="190cd6c5" md5="33327d448f4f5b9823bfd6b91eb4816a" sha1="1709721ba5ea4987b7eac9554d8c9fdd4d5a8f41"/>
+		<description>Pulzar (2024) (Snauts) (Aftermarket)</description>
+		<rom name="Pulzar (2024) (Snauts) (Aftermarket).dsk" size="204544" crc="190cd6c5" md5="33327d448f4f5b9823bfd6b91eb4816a" sha1="1709721ba5ea4987b7eac9554d8c9fdd4d5a8f41"/>
 		<url>https://retroachievements.org/game/29875/hashes</url>
 		<hash>33327D448F4F5B9823BFD6B91EB4816A</hash>
 	</game>
 	
-	<game name="Homebrew/Revenge of Trasmoz (2022) (v20230111) (Volcano Bytes) (Homebrew)">
+	<game name="Homebrew/Revenge of Trasmoz (2022) (v20230111) (Volcano Bytes) (Aftermarket)">
 		<category></category>
-		<description>Revenge of Trasmoz (2022) (v20230111) (Volcano Bytes) (Homebrew)</description>
-		<rom name="Revenge of Trasmoz (2022) (v20230111) (Volcano Bytes) (Homebrew).dsk" size="204544" crc="0d9457ac" md5="e94711c7169b448d4059a44a6102ca15" sha1="26b843da4addcb4de928f437ecfdcbfd1c16421e"/>
+		<description>Revenge of Trasmoz (2022) (v20230111) (Volcano Bytes) (Aftermarket)</description>
+		<rom name="Revenge of Trasmoz (2022) (v20230111) (Volcano Bytes) (Aftermarket).dsk" size="204544" crc="0d9457ac" md5="e94711c7169b448d4059a44a6102ca15" sha1="26b843da4addcb4de928f437ecfdcbfd1c16421e"/>
 		<url>https://retroachievements.org/game/24228/hashes</url>
 		<hash>E94711C7169B448D4059A44A6102CA15</hash>
 	</game>
 	
-	<game name="Homebrew/Shinobu (2020) (v20201006) (RubenRubioM) (Homebrew)">
+	<game name="Homebrew/Shinobu (2020) (v20201006) (RubenRubioM) (Aftermarket)">
 		<category></category>
-		<description>Shinobu (2020) (v20201006) (RubenRubioM) (Homebrew)</description>
-		<rom name="Shinobu (2020) (v20201006) (RubenRubioM) (Homebrew).cdt" size="39447" crc="1d2d7b5a" md5="2baba6bfdc680f0c9b9d2e78feef9771" sha1="85d9b8658b7abc0c79a5c5e5a149e2784089616d"/>
+		<description>Shinobu (2020) (v20201006) (RubenRubioM) (Aftermarket)</description>
+		<rom name="Shinobu (2020) (v20201006) (RubenRubioM).cdt" size="39447" crc="1d2d7b5a" md5="2baba6bfdc680f0c9b9d2e78feef9771" sha1="85d9b8658b7abc0c79a5c5e5a149e2784089616d"/>
 		<url>https://retroachievements.org/game/14346/hashes</url>
 		<hash>2BABA6BFDC680F0C9B9D2E78FEEF9771</hash>
 	</game>
 	
-	<game name="Homebrew/Shovel Adventure (Homebrew) (CleanCpcDb)">
+	<game name="Homebrew/Shovel Adventure (CleanCpcDb) (Aftermarket)">
 		<category></category>
-		<description>Shovel Adventure (Homebrew) (CleanCpcDb)</description>
-		<rom name="Shovel Adventure (Homebrew) (CleanCpcDb).dsk" size="194816" crc="776CD65E" md5="BEA264DDE4D5E5BCC852912CC4083B18" sha1="5EF40D7DEB6D040E752D251403A129503CBA8E5F"/>
+		<description>Shovel Adventure (CleanCpcDb) (Aftermarket)</description>
+		<rom name="Shovel Adventure (CleanCpcDb) (Aftermarket).dsk" size="194816" crc="776CD65E" md5="BEA264DDE4D5E5BCC852912CC4083B18" sha1="5EF40D7DEB6D040E752D251403A129503CBA8E5F"/>
 		<url>https://retroachievements.org/game/8137/hashes</url>
 		<hash>BEA264DDE4D5E5BCC852912CC4083B18</hash>
 	</game>
 	
-	<game name="Homebrew/SkillTeam (Homebrew) (Itch.io)">
+	<game name="Homebrew/SkillTeam (Itch.io) (Aftermarket)">
 		<category></category>
-		<description>SkillTeam (Homebrew) (Itch.io)</description>
-		<rom name="SkillTeam (Homebrew) (Itch.io).dsk" size="204544" crc="0ca92db7" md5="d694fef4164d95ff3a373b4a97d3336c" sha1="801fc192ada4998b8013e2aecb25148df4e43439"/>
+		<description>SkillTeam (Itch.io) (Aftermarket)</description>
+		<rom name="SkillTeam (Itch.io) (Aftermarket).dsk" size="204544" crc="0ca92db7" md5="d694fef4164d95ff3a373b4a97d3336c" sha1="801fc192ada4998b8013e2aecb25148df4e43439"/>
 		<url>https://retroachievements.org/game/33621/hashes</url>
 		<hash>d694fef4164d95ff3a373b4a97d3336c</hash>
 	</game>
 	
-	<game name="Homebrew/Subtera Puzlo (Homebrew) (CleanCpcDb)">
+	<game name="Homebrew/Subtera Puzlo (CleanCpcDb) (Aftermarket)">
 		<category></category>
-		<description>Subtera Puzlo (Homebrew) (CleanCpcDb)</description>
-		<rom name="Subtera Puzlo (Homebrew) (CleanCpcDb).dsk" size="194816" crc="0fdb63d8" md5="a1023b21440ef142d359ba5e42e221db" sha1="8737ce1bf6e0dd57551a788d61e79a4379a21ea2"/>
+		<description>Subtera Puzlo (CleanCpcDb) (Aftermarket)</description>
+		<rom name="Subtera Puzlo (CleanCpcDb) (Aftermarket).dsk" size="194816" crc="0fdb63d8" md5="a1023b21440ef142d359ba5e42e221db" sha1="8737ce1bf6e0dd57551a788d61e79a4379a21ea2"/>
 		<url>https://retroachievements.org/game/10809/hashes</url>
 		<hash>A1023B21440EF142D359BA5E42E221DB</hash>
 	</game>
-	<game name="Homebrew/Subtera Puzlo (En) (Homebrew) (CleanCpcDb)">
+	<game name="Homebrew/Subtera Puzlo (En) (CleanCpcDb) (Aftermarket)">
 		<category></category>
-		<description>Subtera Puzlo (En) (Homebrew) (CleanCpcDb)</description>
-		<rom name="Subtera Puzlo (En) (Homebrew) (CleanCpcDb).dsk" size="194816" crc="C1754E9E" md5="E7F6FE00394CEEB3E72B9F6DF1A39195" sha1="B34D8BDA57E4D0CB559B79C1D0569AA746838F19"/>
+		<description>Subtera Puzlo (En) (CleanCpcDb) (Aftermarket)</description>
+		<rom name="Subtera Puzlo (En) (CleanCpcDb) (Aftermarket).dsk" size="194816" crc="C1754E9E" md5="E7F6FE00394CEEB3E72B9F6DF1A39195" sha1="B34D8BDA57E4D0CB559B79C1D0569AA746838F19"/>
 		<url>https://retroachievements.org/game/10809/hashes</url>
 		<hash>E7F6FE00394CEEB3E72B9F6DF1A39195</hash>
 	</game>
 	
-	<game name="Homebrew/Sudoku (2008) (Kevin Thacker) (Homebrew)">
+	<game name="Homebrew/Sudoku (2008) (Kevin Thacker) (Aftermarket)">
 		<category></category>
-		<description>Sudoku (2008) (Kevin Thacker) (Homebrew)</description>
-		<rom name="Sudoku (2008) (Kevin Thacker) (Homebrew).dsk" size="194816" crc="484b1a17" md5="a2822ff9296a828197467c16ecccab1b" sha1="b0396aae38224eca0fcb8df47de7b6805b289f56"/>
+		<description>Sudoku (2008) (Kevin Thacker) (Aftermarket)</description>
+		<rom name="Sudoku (2008) (Kevin Thacker) (Aftermarket).dsk" size="194816" crc="484b1a17" md5="a2822ff9296a828197467c16ecccab1b" sha1="b0396aae38224eca0fcb8df47de7b6805b289f56"/>
 		<url>https://retroachievements.org/game/18813/hashes</url>
 		<hash>A2822FF9296A828197467C16ECCCAB1B</hash>
 	</game>
 	
-	<game name="Homebrew/Superpix (2014)/Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Homebrew) (Side B - Levels)">
+	<game name="Homebrew/Superpix (2014)/Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Side B - Levels) (Aftermarket)">
 		<category></category>
-		<description>Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Homebrew) (Side B - Levels)</description>
-		<rom name="Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Homebrew) (Side B - Levels).dsk" size="198400" crc="25a3b895" md5="2f465c4c990acb2fb5d2f137db914804" sha1="9db6d2ddbb079bf50f58b02aae56b9b3bf81f4e8"/>
+		<description>Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Side B - Levels) (Aftermarket)</description>
+		<rom name="Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Side B - Levels) (Aftermarket).dsk" size="198400" crc="25a3b895" md5="2f465c4c990acb2fb5d2f137db914804" sha1="9db6d2ddbb079bf50f58b02aae56b9b3bf81f4e8"/>
 		<url>https://retroachievements.org/game/18817/hashes</url>
 		<hash>2F465C4C990ACB2FB5D2F137DB914804</hash>
 	</game>
-	<game name="Homebrew/Superpix (2014)/Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Homebrew) (Side A - Program)">
+	<game name="Homebrew/Superpix (2014)/Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Side A - Program) (Aftermarket)">
 		<category></category>
-		<description>Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Homebrew) (Side A - Program)</description>
-		<rom name="Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Homebrew) (Side A - Program).dsk" size="185856" crc="317444d8" md5="d46b20ff002beb4eb9dd27e6df4ee657" sha1="f4258e62e7ae58de6ef7a18dad165f7aaa457202"/>
+		<description>Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Side A - Program) (Aftermarket)</description>
+		<rom name="Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Side A - Program) (Aftermarket).dsk" size="185856" crc="317444d8" md5="d46b20ff002beb4eb9dd27e6df4ee657" sha1="f4258e62e7ae58de6ef7a18dad165f7aaa457202"/>
 		<url>https://retroachievements.org/game/18817/hashes</url>
 		<hash>D46B20FF002BEB4EB9DD27E6DF4EE657</hash>
 	</game>
 	
-	<game name="Homebrew/Abduction of Oszar Z, The (UK) (2020) (Dreamin' Bits) (Homebrew)">
+	<game name="Homebrew/Abduction of Oszar Z, The (UK) (2020) (Dreamin' Bits) (Aftermarket)">
 		<category></category>
-		<description>Abduction of Oszar Z, The (UK) (2020) (Dreamin' Bits) (Homebrew)</description>
-		<rom name="Abduction of Oszar Z, The (UK) (2020) (Dreamin' Bits) (Homebrew).dsk" size="204544" crc="1367ac9d" md5="8260045bbcbf9edbfe6de05061d555df" sha1="ca51c25f5849d86f87ccb7106a7fac1a12017ff8"/>
+		<description>Abduction of Oszar Z, The (UK) (2020) (Dreamin' Bits) (Aftermarket)</description>
+		<rom name="Abduction of Oszar Z, The (UK) (2020) (Dreamin' Bits) (Aftermarket).dsk" size="204544" crc="1367ac9d" md5="8260045bbcbf9edbfe6de05061d555df" sha1="ca51c25f5849d86f87ccb7106a7fac1a12017ff8"/>
 		<url>https://retroachievements.org/game/14040/hashes</url>
 		<hash>8260045BBCBF9EDBFE6DE05061D555DF</hash>
 	</game>
-	<game name="Homebrew/Abduction of Oszar Z, The (UK) (2020) (CPCRetroDev 2017) (Dreamin'bits) (Homebrew)">
+	<game name="Homebrew/Abduction of Oszar Z, The (UK) (2020) (CPCRetroDev 2017) (Dreamin'bits) (Aftermarket)">
 		<category></category>
-		<description>Abduction of Oszar Z, The (UK) (2020) (CPCRetroDev 2017) (Dreamin'bits) (Homebrew)</description>
-		<rom name="Abduction of Oszar Z, The (UK) (2020) (CPCRetroDev 2017) (Dreamin'bits) (Homebrew).dsk" size="204544" crc="dc669af4" md5="872679c033a45500fffda573fa3a5d4f" sha1="c21bd77cf211f8b4005a6d65feecc745e91f719e"/>
+		<description>Abduction of Oszar Z, The (UK) (2020) (CPCRetroDev 2017) (Dreamin'bits) (Aftermarket)</description>
+		<rom name="Abduction of Oszar Z, The (UK) (2020) (CPCRetroDev 2017) (Dreamin'bits) (Aftermarket).dsk" size="204544" crc="dc669af4" md5="872679c033a45500fffda573fa3a5d4f" sha1="c21bd77cf211f8b4005a6d65feecc745e91f719e"/>
 		<url>https://retroachievements.org/game/14040/hashes</url>
 		<hash>872679C033A45500FFFDA573FA3A5D4F</hash>
 	</game>
 	
-	<game name="Homebrew/Shadows Of Sergoth, The (Homebrew)/Shadows Of Sergoth, The (Homebrew) (Side B) (CleanCpcDb)">
+	<game name="Homebrew/Shadows Of Sergoth, The/Shadows Of Sergoth, The (Side B) (CleanCpcDb) (Aftermarket)">
 		<category></category>
-		<description>Shadows Of Sergoth, The (Homebrew) (Side B) (CleanCpcDb)</description>
-		<rom name="Shadows Of Sergoth, The (Homebrew) (Side B) (CleanCpcDb).dsk" size="194816" crc="FDF9EBC0" md5="34C9E886D4E2E43860E36D61008DBB7E" sha1="7426EFE9DCFE03F0645709817DA2F82737BE5300"/>
+		<description>Shadows Of Sergoth, The (Side B) (CleanCpcDb) (Aftermarket)</description>
+		<rom name="Shadows Of Sergoth, The (Side B) (CleanCpcDb) (Aftermarket).dsk" size="194816" crc="FDF9EBC0" md5="34C9E886D4E2E43860E36D61008DBB7E" sha1="7426EFE9DCFE03F0645709817DA2F82737BE5300"/>
 		<url>https://retroachievements.org/game/7072/hashes</url>
 		<hash>34C9E886D4E2E43860E36D61008DBB7E</hash>
 	</game>
-	<game name="Homebrew/Shadows Of Sergoth, The (Homebrew)/Shadows Of Sergoth, The (Homebrew) (Side A) (CleanCpcDb)">
+	<game name="Homebrew/Shadows Of Sergoth, The/Shadows Of Sergoth, The (Side A) (CleanCpcDb) (Aftermarket)">
 		<category></category>
-		<description>Shadows Of Sergoth, The (Homebrew) (Side A) (CleanCpcDb)</description>
-		<rom name="Shadows Of Sergoth, The (Homebrew) (Side A) (CleanCpcDb).dsk" size="194816" crc="6D63F48A" md5="4D6C8E980A3B1A1343BA9353396ADA5E" sha1="00729F5506B22BC524F1F316C8DE8EF244485693"/>
+		<description>Shadows Of Sergoth, The (Side A) (CleanCpcDb) (Aftermarket)</description>
+		<rom name="Shadows Of Sergoth, The (Side A) (CleanCpcDb) (Aftermarket).dsk" size="194816" crc="6D63F48A" md5="4D6C8E980A3B1A1343BA9353396ADA5E" sha1="00729F5506B22BC524F1F316C8DE8EF244485693"/>
 		<url>https://retroachievements.org/game/7072/hashes</url>
 		<hash>4D6C8E980A3B1A1343BA9353396ADA5E</hash>
 	</game>
-	<game name="Homebrew/Shadows Of Sergoth, The (Homebrew)/Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Homebrew) (Side A)">
+	<game name="Homebrew/Shadows Of Sergoth, The/Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Side A) (Aftermarket)">
 		<category></category>
-		<description>Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Homebrew) (Side A)</description>
-		<rom name="Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Homebrew) (Side A).dsk" size="194816" crc="6fbf9b71" md5="82ce4f11cf0837f3f30d9be728b3cbce" sha1="679e425c2f90b93dde69810bdb5b336996ef82db"/>
+		<description>Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Side A) (Aftermarket)</description>
+		<rom name="Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Side A) (Aftermarket).dsk" size="194816" crc="6fbf9b71" md5="82ce4f11cf0837f3f30d9be728b3cbce" sha1="679e425c2f90b93dde69810bdb5b336996ef82db"/>
 		<url>https://retroachievements.org/game/7072/hashes</url>
 		<hash>82CE4F11CF0837F3F30D9BE728B3CBCE</hash>
 	</game>
-	<game name="Homebrew/Shadows Of Sergoth, The (Homebrew)/Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Homebrew) (Side B)">
+	<game name="Homebrew/Shadows Of Sergoth, The/Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Side B) (Aftermarket)">
 		<category></category>
-		<description>Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Homebrew) (Side B)</description>
-		<rom name="Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Homebrew) (Side B).dsk" size="194816" crc="ff25843b" md5="8f3ca7c3abc050054743ba0609b56ba7" sha1="f172a8dd55b1b935e3f445ec5ddcf9cd9377378a"/>
+		<description>Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Side B) (Aftermarket)</description>
+		<rom name="Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Side B) (Aftermarket).dsk" size="194816" crc="ff25843b" md5="8f3ca7c3abc050054743ba0609b56ba7" sha1="f172a8dd55b1b935e3f445ec5ddcf9cd9377378a"/>
 		<url>https://retroachievements.org/game/7072/hashes</url>
 		<hash>8F3CA7C3ABC050054743BA0609B56BA7</hash>
 	</game>
@@ -796,10 +796,10 @@
 		<url>https://retroachievements.org/game/9611/hashes</url>
 		<hash>225A3DD222616907BA2E7059D1EFD6B8</hash>
 	</game>
-	<game name="Retail/Abadia del Crimen, La (The Abbey of Crime) (Hack) (CleanCpcDb)">
+	<game name="Retail/Abadia del Crimen, La (The Abbey of Crime) (CleanCpcDb)">
 		<category></category>
-		<description>Abadia del Crimen, La (The Abbey of Crime) (Hack) (CleanCpcDb)</description>
-		<rom name="Abadia del Crimen, La (The Abbey of Crime) (Hack) (CleanCpcDb).dsk" size="162025" crc="BF188CE3" md5="A1AC2E44274D896F79FA5F64E43B922C" sha1="926C351E766DC382CF00BB572D13031664BEA2A0"/>
+		<description>Abadia del Crimen, La (The Abbey of Crime) (CleanCpcDb)</description>
+		<rom name="Abadia del Crimen, La (The Abbey of Crime) (CleanCpcDb).dsk" size="162025" crc="BF188CE3" md5="A1AC2E44274D896F79FA5F64E43B922C" sha1="926C351E766DC382CF00BB572D13031664BEA2A0"/>
 		<url>https://retroachievements.org/game/9611/hashes</url>
 		<hash>A1AC2E44274D896F79FA5F64E43B922C</hash>
 	</game>

@@ -4,9 +4,9 @@
 	<header>
 		<name>RA - WASM-4</name>
 		<description>WASM-4</description>
-		<category>1G1R</category>
-		<version>20250522</version>
-		<date>22 May 2025</date>
+		<category>No Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/72/games</url>
@@ -547,15 +547,15 @@
 		<hash>8DF88405A112173638E7D6F0D95FB67A</hash>
 	</game>
 	
-	<game name="ZxZ (World) (Rev 1) (Homebrew)">
+	<game name="ZxZ (World) (Rev 1)">
 		<category>Retail</category>
-		<description>ZxZ (World) (Rev 1) (Homebrew)</description>
-		<release name="ZxZ (World) (Rev 1) (Homebrew)" region="World"/>
-		<rom name="ZxZ (World) (Rev 1) (Homebrew).wasm" size="18711" crc="e3cbe9f4" md5="88f0a50bf711bdc9fae8f1ee91395cb1" sha1="5cc971fa63389d51131eb2c094f4481e39082169"/>
+		<description>ZxZ (World) (Rev 1)</description>
+		<release name="ZxZ (World) (Rev 1)" region="World"/>
+		<rom name="ZxZ (World) (Rev 1).wasm" size="18711" crc="e3cbe9f4" md5="88f0a50bf711bdc9fae8f1ee91395cb1" sha1="5cc971fa63389d51131eb2c094f4481e39082169"/>
 		<url>https://retroachievements.org/game/19298/hashes</url>
 		<hash>88F0A50BF711BDC9FAE8F1EE91395CB1</hash>
 	</game>
-	<game name="ZxZ (World) (Scislaw Dercz)" cloneof="ZxZ (World) (Rev 1) (Homebrew)">
+	<game name="ZxZ (World) (Scislaw Dercz)" cloneof="ZxZ (World) (Rev 1)">
 		<category>Retail</category>
 		<description>ZxZ (World) (Scislaw Dercz)</description>
 		<rom name="ZxZ (World) (Scislaw Dercz).wasm" size="18701" crc="b787b38c" md5="9967ddb877ad4d0332e129a1db67beee" sha1="9e994d8223bdb1a50e82a343ef7f7b8abd5a9955"/>

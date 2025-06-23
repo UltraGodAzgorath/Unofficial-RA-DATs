@@ -4,78 +4,78 @@
 	<header>
 		<name>RA - Sega Saturn</name>
 		<description>Sega Saturn</description>
-		<category>1G1R</category>
-		<version>20250608</version>
-		<date>08 June 2025</date>
+		<category>No Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/39/games</url>
 		<titlecount>151</titlecount>
 		<hashcount>191</hashcount>
 	</header>
-	<game name="Christmas NiGHTS into Dreams... (USA)">
+	<game name="Christmas NiGHTS into Dreams... (USA) (Demo)">
 		<category>Demo</category>
-		<description>Christmas NiGHTS into Dreams... (USA)</description>
-		<release name="Christmas NiGHTS into Dreams... (USA)" region="USA"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA).cue" size="2627" crc="08ea328a" md5="1e64aeccce77a83ef8ac45703b56c970" sha1="36817d0b0a776103f08e9109809cd9be894aa85e"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA) (Track 01).bin" size="31102848" crc="b79f922c" md5="0042cd59d3b055251c015bcc924e9d41" sha1="415c9c2e025a199c5d7b618f64a4f5ee16e3c806"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA) (Track 02).bin" size="264480048" crc="2fd6d7d0" md5="d556c81709dfe649dcc07c2596393ea6" sha1="63ed0b8bc83eb3b7ee14eb054bedbc8ab4c9bb8c"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA) (Track 03).bin" size="2128560" crc="85aa3f82" md5="026b45371746791aaa4a76247a7e8b03" sha1="d8269edd09379feca13d9fe5130cf407d43e6302"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA) (Track 04).bin" size="2121504" crc="36f96b65" md5="25aa74f25d2fbcb233b4f2263a3b4262" sha1="a095ddcaa8cde1bdaff56f514302d864427c8bf2"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA) (Track 05).bin" size="2359056" crc="f5aeb078" md5="31c582d8a2a708803166dc50a779e45a" sha1="36dca3c061a69a1684781a636e88396db3fe89a0"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA) (Track 06).bin" size="2845920" crc="877602ef" md5="2e80603295761e1485978d40a4031de7" sha1="b4a1fd1a712a8fb59db0ec741d01c08a8cfd2edd"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA) (Track 07).bin" size="23047248" crc="65197481" md5="7e2b63e8bb5d262a3ea9558648c8c545" sha1="e406d5853a882e8073333dcb56590b9c89f7a4c6"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA) (Track 08).bin" size="22099392" crc="a511b55e" md5="07f3ff8f3723930d54a32ee46d777923" sha1="4e94004c49584ef90833ef3788b3c9c022e2c72a"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA) (Track 09).bin" size="22579200" crc="4bf67d9f" md5="1cf2079afa8fe964bd9b123937db7d96" sha1="25f88ba6a03dbeb41ce07ddd29bbb9fa72802ba9"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA) (Track 10).bin" size="22050000" crc="819f0353" md5="2c6aec39bddbe14c02b49c1b17eb9a85" sha1="f57c5c962d090d0aab89e9f8629152e95bf1f266"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA) (Track 11).bin" size="19843824" crc="6fcd81d2" md5="27b1c8233ed229478dfea62d6b2e936a" sha1="08682cc49535e0a58c7a13602c0d38353cf1265d"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA) (Track 12).bin" size="15701952" crc="1410646f" md5="b69f34570d73e9a07ce88d6be28dc615" sha1="6e4c01f9b87b58be4bbb08c42dff0b6692f7b74d"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA) (Track 13).bin" size="10941504" crc="bca59016" md5="fdb5b37e7a1a49e7d7967cc72e4d7304" sha1="2d1a83ee925a9aa9ae9603d96e1651dfdc07d859"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA) (Track 14).bin" size="10092432" crc="2f33000d" md5="8d973f885a392132a5871afdddb6533f" sha1="b02eaf4b5b3f851688fe86152672abb36b9bfa47"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA) (Track 15).bin" size="10134768" crc="52c2373f" md5="1ced6421cd7694facc35d008b3a67952" sha1="7daae2414c6571b71cb990941e7ef11ab102fbeb"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA) (Track 16).bin" size="8834112" crc="ab80b063" md5="cfbee936aab2ef8fba0a9e53df17aa7c" sha1="3b1928679b7caded56822b8910d180b213eed3e7"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA) (Track 17).bin" size="15593760" crc="712b6675" md5="ed4b9db34acb9f411076d1c528628666" sha1="dbc1f59012577fae6decf02cfd58509533b0317f"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA) (Track 18).bin" size="55841184" crc="e606d592" md5="9d15e1f5ac3a97cd1da4cda53939d092" sha1="379d4fe71ce3a1f2f5f84d5da67be2afc740a4b0"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA) (Track 19).bin" size="55634208" crc="6bee48d6" md5="53e25e0bfab114bccc78185018eebd6e" sha1="746c8e1cef1ff9e3d84ea90fe87f69ab634e12b3"/>
-		<rom name="Christmas NiGHTS into Dreams... (USA) (Track 20).bin" size="47096448" crc="d3e35394" md5="90f59be0037c37fbac1b622d0fdbd13b" sha1="6e2ba65b1aabfe1a8172fc8aede32e22317f9f3b"/>
+		<description>Christmas NiGHTS into Dreams... (USA) (Demo)</description>
+		<release name="Christmas NiGHTS into Dreams... (USA) (Demo)" region="USA"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo).cue" size="2767" crc="b4b97504" md5="fdaf868c56c41c0e5058d057e41db5c0" sha1="df932e562081f47a682e9cd754a0fdafb239ca6e"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo) (Track 01).bin" size="31102848" crc="b79f922c" md5="0042cd59d3b055251c015bcc924e9d41" sha1="415c9c2e025a199c5d7b618f64a4f5ee16e3c806"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo) (Track 02).bin" size="264480048" crc="2fd6d7d0" md5="d556c81709dfe649dcc07c2596393ea6" sha1="63ed0b8bc83eb3b7ee14eb054bedbc8ab4c9bb8c"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo) (Track 03).bin" size="2128560" crc="85aa3f82" md5="026b45371746791aaa4a76247a7e8b03" sha1="d8269edd09379feca13d9fe5130cf407d43e6302"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo) (Track 04).bin" size="2121504" crc="36f96b65" md5="25aa74f25d2fbcb233b4f2263a3b4262" sha1="a095ddcaa8cde1bdaff56f514302d864427c8bf2"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo) (Track 05).bin" size="2359056" crc="f5aeb078" md5="31c582d8a2a708803166dc50a779e45a" sha1="36dca3c061a69a1684781a636e88396db3fe89a0"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo) (Track 06).bin" size="2845920" crc="877602ef" md5="2e80603295761e1485978d40a4031de7" sha1="b4a1fd1a712a8fb59db0ec741d01c08a8cfd2edd"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo) (Track 07).bin" size="23047248" crc="65197481" md5="7e2b63e8bb5d262a3ea9558648c8c545" sha1="e406d5853a882e8073333dcb56590b9c89f7a4c6"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo) (Track 08).bin" size="22099392" crc="a511b55e" md5="07f3ff8f3723930d54a32ee46d777923" sha1="4e94004c49584ef90833ef3788b3c9c022e2c72a"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo) (Track 09).bin" size="22579200" crc="4bf67d9f" md5="1cf2079afa8fe964bd9b123937db7d96" sha1="25f88ba6a03dbeb41ce07ddd29bbb9fa72802ba9"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo) (Track 10).bin" size="22050000" crc="819f0353" md5="2c6aec39bddbe14c02b49c1b17eb9a85" sha1="f57c5c962d090d0aab89e9f8629152e95bf1f266"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo) (Track 11).bin" size="19843824" crc="6fcd81d2" md5="27b1c8233ed229478dfea62d6b2e936a" sha1="08682cc49535e0a58c7a13602c0d38353cf1265d"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo) (Track 12).bin" size="15701952" crc="1410646f" md5="b69f34570d73e9a07ce88d6be28dc615" sha1="6e4c01f9b87b58be4bbb08c42dff0b6692f7b74d"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo) (Track 13).bin" size="10941504" crc="bca59016" md5="fdb5b37e7a1a49e7d7967cc72e4d7304" sha1="2d1a83ee925a9aa9ae9603d96e1651dfdc07d859"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo) (Track 14).bin" size="10092432" crc="2f33000d" md5="8d973f885a392132a5871afdddb6533f" sha1="b02eaf4b5b3f851688fe86152672abb36b9bfa47"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo) (Track 15).bin" size="10134768" crc="52c2373f" md5="1ced6421cd7694facc35d008b3a67952" sha1="7daae2414c6571b71cb990941e7ef11ab102fbeb"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo) (Track 16).bin" size="8834112" crc="ab80b063" md5="cfbee936aab2ef8fba0a9e53df17aa7c" sha1="3b1928679b7caded56822b8910d180b213eed3e7"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo) (Track 17).bin" size="15593760" crc="712b6675" md5="ed4b9db34acb9f411076d1c528628666" sha1="dbc1f59012577fae6decf02cfd58509533b0317f"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo) (Track 18).bin" size="55841184" crc="e606d592" md5="9d15e1f5ac3a97cd1da4cda53939d092" sha1="379d4fe71ce3a1f2f5f84d5da67be2afc740a4b0"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo) (Track 19).bin" size="55634208" crc="6bee48d6" md5="53e25e0bfab114bccc78185018eebd6e" sha1="746c8e1cef1ff9e3d84ea90fe87f69ab634e12b3"/>
+		<rom name="Christmas NiGHTS into Dreams... (USA) (Demo) (Track 20).bin" size="47096448" crc="d3e35394" md5="90f59be0037c37fbac1b622d0fdbd13b" sha1="6e2ba65b1aabfe1a8172fc8aede32e22317f9f3b"/>
 		<url>https://retroachievements.org/game/14531/hashes</url>
 		<hash>f3349305b47dec32eb9b6b2416f5382e</hash>
 	</game>
 	
-	<game name="Sonic Z-Treme (NTSC) (Demo) (Aftermarket) (XL2) (Homebrew)">
+	<game name="Sonic Z-Treme (NTSC) (XL2) (Demo) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Sonic Z-Treme (NTSC) (Demo) (Aftermarket) (XL2) (Homebrew)</description>
-		<release name="Sonic Z-Treme (NTSC) (Demo) (Aftermarket) (XL2) (Homebrew)" region="World"/>
-		<rom name="Sonic Z-Treme (NTSC) (Demo) (Aftermarket) (XL2) (Homebrew).cue" size="806" crc="ed980052" md5="caf4e72e2e622326dc3cd602dfd38482" sha1="b0d1f7ca77341b6eea0c090ef282a637672c64d9"/>
-		<rom name="Sonic Z-Treme (NTSC) (Demo) (Aftermarket) (XL2) (Homebrew).iso" size="12091392" crc="b8d191e0" md5="f965a4cbd5efb79cd0cbcbd822e12619" sha1="793a334034f460337951b7d4cc5f47531af800a9"/>
-		<rom name="Sonic Z-Treme (NTSC) (Demo) (Aftermarket) (XL2) (Homebrew) (Track 1).wav" size="35094606" crc="f4e14aa2" md5="a30ce66f9a68fb0e24b4a02c6f46e832" sha1="461280f7cb449128deefc005c2cf6cfd421fd7a8"/>
-		<rom name="Sonic Z-Treme (NTSC) (Demo) (Aftermarket) (XL2) (Homebrew) (Track 2).wav" size="28191822" crc="fbd17030" md5="ed3c07180f12f3071cde2d0794f8ae05" sha1="cef284e0cb0d159518789b1cb42af586f8598a35"/>
-		<rom name="Sonic Z-Treme (NTSC) (Demo) (Aftermarket) (XL2) (Homebrew) (Track 3).wav" size="25145934" crc="86c028e3" md5="2537b16f87d82c6c8efd94c68f67eb32" sha1="4c8b5ac1459aa5be760460637a3d2d5766cd0055"/>
-		<rom name="Sonic Z-Treme (NTSC) (Demo) (Aftermarket) (XL2) (Homebrew) (Track 4).wav" size="48583082" crc="f5b8457e" md5="49addc480821c3ab92a37d6230f487b6" sha1="283f7910193d90a8d7bc6dcc5abaeffb6d877668"/>
-		<rom name="Sonic Z-Treme (NTSC) (Demo) (Aftermarket) (XL2) (Homebrew) (Demo) (Track 5).wav" size="32550990" crc="e942665b" md5="08774b5d6cbc1f5f1707f3bc7924bafa" sha1="c3cac7c6ac13aec17d78bf39d991fc6a95e454da"/>
+		<description>Sonic Z-Treme (NTSC) (XL2) (Demo) (Aftermarket)</description>
+		<release name="Sonic Z-Treme (NTSC) (XL2) (Demo) (Aftermarket)" region="USA"/>
+		<rom name="Sonic Z-Treme (NTSC) (XL2) (Demo) (Aftermarket).cue" size="740" crc="a1e7d523" md5="6fc40a57bbe202cbe2cb319d4a960219" sha1="e9c6b1bc49deda42bea068c1500de09ffa43c862"/>
+		<rom name="Sonic Z-Treme (NTSC) (XL2) (Demo) (Aftermarket).iso" size="12091392" crc="b8d191e0" md5="f965a4cbd5efb79cd0cbcbd822e12619" sha1="793a334034f460337951b7d4cc5f47531af800a9"/>
+		<rom name="Sonic Z-Treme (NTSC) (XL2) (Demo) (Aftermarket) (Track 1).wav" size="35094606" crc="f4e14aa2" md5="a30ce66f9a68fb0e24b4a02c6f46e832" sha1="461280f7cb449128deefc005c2cf6cfd421fd7a8"/>
+		<rom name="Sonic Z-Treme (NTSC) (XL2) (Demo) (Aftermarket) (Track 2).wav" size="28191822" crc="fbd17030" md5="ed3c07180f12f3071cde2d0794f8ae05" sha1="cef284e0cb0d159518789b1cb42af586f8598a35"/>
+		<rom name="Sonic Z-Treme (NTSC) (XL2) (Demo) (Aftermarket) (Track 3).wav" size="25145934" crc="86c028e3" md5="2537b16f87d82c6c8efd94c68f67eb32" sha1="4c8b5ac1459aa5be760460637a3d2d5766cd0055"/>
+		<rom name="Sonic Z-Treme (NTSC) (XL2) (Demo) (Aftermarket) (Track 4).wav" size="48583082" crc="f5b8457e" md5="49addc480821c3ab92a37d6230f487b6" sha1="283f7910193d90a8d7bc6dcc5abaeffb6d877668"/>
+		<rom name="Sonic Z-Treme (NTSC) (XL2) (Demo) (Aftermarket) (Track 5).wav" size="32550990" crc="e942665b" md5="08774b5d6cbc1f5f1707f3bc7924bafa" sha1="c3cac7c6ac13aec17d78bf39d991fc6a95e454da"/>
 		<url>https://retroachievements.org/game/10017/hashes</url>
 		<hash>b267f589e0c91f23bed9ddbcbb26889f</hash>
 	</game>
 	
-	<game name="Cubecat (Homebrew) (RAHash Fix) (Homebrew)">
+	<game name="Cubecat (RAHash Fix) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Cubecat (Homebrew) (RAHash Fix) (Homebrew)</description>
-		<release name="Cubecat (Homebrew) (RAHash Fix) (Homebrew)" region="World"/>
-		<rom name="Cubecat (Homebrew) (RAHash Fix) (Homebrew).cue" size="488" crc="12c07cd7" md5="24fe67345eb7506a25d9b3671e10c888" sha1="3f3aaacf4c5f1969a9563135d555b46324a51bfc"/>
-		<rom name="Cubecat (Homebrew) (RAHash Fix) (Homebrew).iso" size="2457600" crc="fae8e944" md5="93f40e540c2da2b8ba9a082144937460" sha1="16ec1202c39f756a1d30de9ec9f8fbd44dc3cc95"/>
-		<rom name="Cubecat (Homebrew) (RAHash Fix) (Homebrew) (Track 1).wav" size="28224078" crc="c12ce92f" md5="65ac93cffdbb097c5784b3404a9d93ff" sha1="ea71a01e7bc7c1d474acafd5a0ed6c399322902a"/>
-		<rom name="Cubecat (Homebrew) (RAHash Fix) (Homebrew) (Track 2).wav" size="23708238" crc="5128a40a" md5="201597f270b2d4b8de86aee2da80f5d0" sha1="1d3570ce4bce62d84d366b0ede4132ab07fa1b60"/>
-		<rom name="Cubecat (Homebrew) (RAHash Fix) (Homebrew) (Track 3).wav" size="29353038" crc="e4d8c1d2" md5="dbb1a91a7e3c12b98599da8b79cf46ec" sha1="1ab34501c935e03475a7aa5a9ea8f069b9051f7a"/>
+		<description>Cubecat (RAHash Fix) (Aftermarket)</description>
+		<release name="Cubecat (RAHash Fix) (Aftermarket)" region="World"/>
+		<rom name="Cubecat (RAHash Fix) (Aftermarket).cue" size="456" crc="2e63eec2" md5="5e3623aeffe2a7ce799dcbe2e391ad07" sha1="49189eac53ae1dcdd46736b390a24d766caeeaa6"/>
+		<rom name="Cubecat (RAHash Fix) (Aftermarket).iso" size="2457600" crc="fae8e944" md5="93f40e540c2da2b8ba9a082144937460" sha1="16ec1202c39f756a1d30de9ec9f8fbd44dc3cc95"/>
+		<rom name="Cubecat (RAHash Fix) (Aftermarket) (Track 1).wav" size="28224078" crc="c12ce92f" md5="65ac93cffdbb097c5784b3404a9d93ff" sha1="ea71a01e7bc7c1d474acafd5a0ed6c399322902a"/>
+		<rom name="Cubecat (RAHash Fix) (Aftermarket) (Track 2).wav" size="23708238" crc="5128a40a" md5="201597f270b2d4b8de86aee2da80f5d0" sha1="1d3570ce4bce62d84d366b0ede4132ab07fa1b60"/>
+		<rom name="Cubecat (RAHash Fix) (Aftermarket) (Track 3).wav" size="29353038" crc="e4d8c1d2" md5="dbb1a91a7e3c12b98599da8b79cf46ec" sha1="1ab34501c935e03475a7aa5a9ea8f069b9051f7a"/>
 		<url>https://retroachievements.org/game/25008/hashes</url>
 		<hash>2a2f5e4213830d2a836716caa8e2f84f</hash>
 	</game>
 	
-	<game name="Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Beta)">
+	<game name="Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Proto) (Beta)">
 		<category>Prototype</category>
-		<description>Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Beta)</description>
-		<release name="Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Beta)" region="Japan"/>
-		<rom name="Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Beta).cue" size="125" crc="6c051eaa" md5="be212db1da05e7a4acd95941ce34fbf9" sha1="28d23f1d87dbef7ea05edfa05d8807e12618c88f"/>
-		<rom name="Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Beta).bin" size="2756544" crc="16c0a1bc" md5="aaffbd443e447d60525cb82b3512109e" sha1="02723cb6aaaadc7247e284176a9d5dbb1bf62be3"/>
+		<description>Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Proto) (Beta)</description>
+		<release name="Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Proto) (Beta)" region="Japan"/>
+		<rom name="Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Proto) (Beta).cue" size="133" crc="065b47e1" md5="42171a85df03be39860606dae48f72a5" sha1="1c97eba850a86a2b73e6f641fa9b54f0e58bc63d"/>
+		<rom name="Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Proto) (Beta).bin" size="2756544" crc="16c0a1bc" md5="aaffbd443e447d60525cb82b3512109e" sha1="02723cb6aaaadc7247e284176a9d5dbb1bf62be3"/>
 		<url>https://retroachievements.org/game/25896/hashes</url>
 		<hash>2ef67b44248bbccc1f1097fd77c66b2c</hash>
 	</game>

@@ -4,9 +4,9 @@
 	<header>
 		<name>RA - NEC TurboGrafx-CD (CHD)</name>
 		<description>NEC TurboGrafx-CD (CHD)</description>
-		<category>1G1R</category>
-		<version>20250621</version>
-		<date>21 June 2025</date>
+		<category>No Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/76/games</url>
@@ -24,20 +24,20 @@
 		<hash>298734ae483ac59e9f3c37aa1c1b090d</hash>
 	</game>
 	
-	<game name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft)">
+	<game name="Ultimate Rally Club (USA) (OrionSoft) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Ultimate Rally Club (USA) (Aftermarket) (OrionSoft)</description>
-		<release name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft)" region="World"/>
-		<rom name="Ultimate Rally Club (USA) (Aftermarket) (OrionSoft).chd" size="132364673" crc="45ea2495" md5="a9856ca61935f6625d246e3dd8eeb72d" sha1="c0ecf8a92358efb6074b1ca2201abf5c2ac7b50e"/>
+		<description>Ultimate Rally Club (USA) (OrionSoft) (Aftermarket)</description>
+		<release name="Ultimate Rally Club (USA) (OrionSoft) (Aftermarket)" region="World"/>
+		<rom name="Ultimate Rally Club (USA) (OrionSoft) (Aftermarket).chd" size="132364673" crc="45ea2495" md5="a9856ca61935f6625d246e3dd8eeb72d" sha1="c0ecf8a92358efb6074b1ca2201abf5c2ac7b50e"/>
 		<url>https://retroachievements.org/game/20417/hashes</url>
 		<hash>f33ed08d643f41b4ec2764d095b61a06</hash>
 	</game>
 	
-	<game name="Xump 2 - Back To Space (USA) (v1.0) (Aftermarket) (Retroguru)">
+	<game name="Xump 2 - Back To Space (USA) (v1.0) (Retroguru) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Xump 2 - Back To Space (USA) (v1.0) (Aftermarket) (Retroguru)</description>
-		<release name="Xump 2 - Back To Space (USA) (v1.0) (Aftermarket) (Retroguru)" region="World"/>
-		<rom name="Xump 2 - Back To Space (USA) (v1.0) (Aftermarket) (Retroguru).chd" size="87513634" crc="e90652fd" md5="dbe535607779e704843bac6d69e3bfde" sha1="27a574e2835c9f283db92f60a44f894d64322ff5"/>
+		<description>Xump 2 - Back To Space (USA) (v1.0) (Retroguru) (Aftermarket)</description>
+		<release name="Xump 2 - Back To Space (USA) (v1.0) (Retroguru) (Aftermarket)" region="World"/>
+		<rom name="Xump 2 - Back To Space (USA) (v1.0) (Retroguru) (Aftermarket).chd" size="87513634" crc="e90652fd" md5="dbe535607779e704843bac6d69e3bfde" sha1="27a574e2835c9f283db92f60a44f894d64322ff5"/>
 		<url>https://retroachievements.org/game/25578/hashes</url>
 		<hash>42f5fb0c0af9a5f590286850028de9e8</hash>
 	</game>

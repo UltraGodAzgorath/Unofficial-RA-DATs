@@ -4,9 +4,9 @@
 	<header>
 		<name>RA - 3DO Interactive Multiplayer (CHD)</name>
 		<description>3DO Interactive Multiplayer (CHD)</description>
-		<category>1G1R</category>
-		<version>20250619</version>
-		<date>19 June 2025</date>
+		<category>No Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/43/games</url>
@@ -15,10 +15,10 @@
 		<clrmamepro forcepacking="unzip"/>
 		<romvault forcepacking="unzip"/>
 	</header>
-	<game name="Wreckman (World) (v1.0.0) (Aftermarket) (retroloveletter)">
+	<game name="Wreckman (World) (v1.0.0) (retroloveletter) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Wreckman (World) (v1.0.0) (Aftermarket) (retroloveletter)</description>
-		<rom name="Wreckman (World) (v1.0.0) (Aftermarket) (retroloveletter).chd" size="1746644" crc="7e09baed" md5="ea2f278ea8914cfa5638138c97941e3c" sha1="d83e43d40cc82a487d0951e1ae5e6ac24265a174"/>
+		<description>Wreckman (World) (v1.0.0) (retroloveletter) (Aftermarket)</description>
+		<rom name="Wreckman (World) (v1.0.0) (retroloveletter) (Aftermarket).chd" size="1746644" crc="7e09baed" md5="ea2f278ea8914cfa5638138c97941e3c" sha1="d83e43d40cc82a487d0951e1ae5e6ac24265a174"/>
 		<url>https://retroachievements.org/game/24160/hashes</url>
 		<hash>33031A9305CAB3EB38AF9F163FAFE307</hash>
 	</game>

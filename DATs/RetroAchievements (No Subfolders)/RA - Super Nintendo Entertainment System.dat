@@ -4,9 +4,9 @@
 	<header>
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
-		<category>1G1R</category>
-		<version>20250617</version>
-		<date>17 June 2025</date>
+		<category>No Subfolders</category>
+		<version>20250623</version>
+		<date>23 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/3/games</url>
@@ -31,11 +31,11 @@
 		<hash>fea5dc2292cf872e27b8384d71d21ecf</hash>
 	</game>
 	
-	<game name="SMW - Super Alicorn Sisters - Return of the Tantabus (Demo) (v0.05.2) (DPBOX) (Hack)">
+	<game name="SMW - Super Alicorn Sisters - Return of the Tantabus (v0.05.2) (DPBOX) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Super Alicorn Sisters - Return of the Tantabus (Demo) (v0.05.2) (DPBOX) (Hack)</description>
-		<release name="SMW - Super Alicorn Sisters - Return of the Tantabus (Demo) (v0.05.2) (DPBOX) (Hack)" region="World"/>
-		<rom name="SMW - Super Alicorn Sisters - Return of the Tantabus (Demo) (v0.05.2) (DPBOX) (Hack).sfc" size="8388608" crc="4be8fcd0" md5="573677f08a0d8e9ee78a1c8a87e99e87" sha1="40f143cfda1ad3ef77d31b6ae5d097105e409107"/>
+		<description>SMW - Super Alicorn Sisters - Return of the Tantabus (v0.05.2) (DPBOX) (Hack)</description>
+		<release name="SMW - Super Alicorn Sisters - Return of the Tantabus (v0.05.2) (DPBOX) (Hack)" region="World"/>
+		<rom name="SMW - Super Alicorn Sisters - Return of the Tantabus (v0.05.2) (DPBOX) (Hack).sfc" size="8388608" crc="4be8fcd0" md5="573677f08a0d8e9ee78a1c8a87e99e87" sha1="40f143cfda1ad3ef77d31b6ae5d097105e409107"/>
 		<url>https://retroachievements.org/game/23740/hashes</url>
 		<hash>573677f08a0d8e9ee78a1c8a87e99e87</hash>
 	</game>
@@ -67,11 +67,11 @@
 		<hash>98f13f2ab307c84eea5c4965006cfe7c</hash>
 	</game>
 	
-	<game name="SMW - 1st Kochobo Dourado (v2.0) (Mario Hacks Group, TheMorganah) (Hack)">
+	<game name="SMW - 1st Kochobo Dourado (v2.0) (Marios Group, TheMorganah) (Hack)">
 		<category>Hack</category>
-		<description>SMW - 1st Kochobo Dourado (v2.0) (Mario Hacks Group, TheMorganah) (Hack)</description>
-		<release name="SMW - 1st Kochobo Dourado (v2.0) (Mario Hacks Group, TheMorganah) (Hack)" region="World"/>
-		<rom name="SMW - 1st Kochobo Dourado (v2.0) (Mario Hacks Group, TheMorganah) (Hack).sfc" size="4194304" crc="ece94ea9" md5="c422ea1145352be2fde34b2f01be5b68" sha1="5b988923f024ffe3a9abd3bec2f62c4e10ce85c6"/>
+		<description>SMW - 1st Kochobo Dourado (v2.0) (Marios Group, TheMorganah) (Hack)</description>
+		<release name="SMW - 1st Kochobo Dourado (v2.0) (Marios Group, TheMorganah) (Hack)" region="World"/>
+		<rom name="SMW - 1st Kochobo Dourado (v2.0) (Marios Group, TheMorganah) (Hack).sfc" size="4194304" crc="ece94ea9" md5="c422ea1145352be2fde34b2f01be5b68" sha1="5b988923f024ffe3a9abd3bec2f62c4e10ce85c6"/>
 		<url>https://retroachievements.org/game/16187/hashes</url>
 		<hash>c422ea1145352be2fde34b2f01be5b68</hash>
 	</game>
@@ -247,11 +247,11 @@
 		<hash>d0cb3603e4617bff79f564debe6e51fb</hash>
 	</game>
 	
-	<game name="Final Fantasy VI - Antinomia (v2.0) (Fast Moon) (Hack)">
+	<game name="FFVI - Antinomia (v2.0) (Fast Moon) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Antinomia (v2.0) (Fast Moon) (Hack)</description>
-		<release name="Final Fantasy VI - Antinomia (v2.0) (Fast Moon) (Hack)" region="World"/>
-		<rom name="Final Fantasy VI - Antinomia (v2.0) (Fast Moon) (Hack).sfc" size="4194304" crc="e9574286" md5="5e4bc53a2320a3757db688f33f495bb9" sha1="c1c8097950d9bb08aeecdb2f8e1d2971f6f7ea6f"/>
+		<description>FFVI - Antinomia (v2.0) (Fast Moon) (Hack)</description>
+		<release name="FFVI - Antinomia (v2.0) (Fast Moon) (Hack)" region="World"/>
+		<rom name="FFVI - Antinomia (v2.0) (Fast Moon) (Hack).sfc" size="4194304" crc="e9574286" md5="5e4bc53a2320a3757db688f33f495bb9" sha1="c1c8097950d9bb08aeecdb2f8e1d2971f6f7ea6f"/>
 		<url>https://retroachievements.org/game/30917/hashes</url>
 		<hash>5e4bc53a2320a3757db688f33f495bb9</hash>
 	</game>
@@ -396,20 +396,20 @@
 		<hash>b1dced3b9bfda03d307a91becd583aa9</hash>
 	</game>
 	
-	<game name="SMW - Celeste (Hack).smc (MarkAlarm) (Hack)">
+	<game name="SMW - Celeste (MarkAlarm) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Celeste (Hack).smc (MarkAlarm) (Hack)</description>
-		<release name="SMW - Celeste (Hack).smc (MarkAlarm) (Hack)" region="World"/>
-		<rom name="SMW - Celeste (Hack).smc (MarkAlarm) (Hack).sfc" size="4194304" crc="92f7e4d7" md5="510680c44d00073dd3c3e7196b504c82" sha1="09a145a2e7ee861c1a0ceea9b717ebf83b0d4964"/>
+		<description>SMW - Celeste (MarkAlarm) (Hack)</description>
+		<release name="SMW - Celeste (MarkAlarm) (Hack)" region="World"/>
+		<rom name="SMW - Celeste (MarkAlarm) (Hack).sfc" size="4194304" crc="92f7e4d7" md5="510680c44d00073dd3c3e7196b504c82" sha1="09a145a2e7ee861c1a0ceea9b717ebf83b0d4964"/>
 		<url>https://retroachievements.org/game/22078/hashes</url>
 		<hash>510680c44d00073dd3c3e7196b504c82</hash>
 	</game>
 	
-	<game name="SMW - Celeste (Hack).smc (Subset - Golden Strawberries) (Hack)">
+	<game name="SMW - Celeste (Subset - Golden Strawberries) (Hack)">
 		<category>Subset</category>
-		<description>SMW - Celeste (Hack).smc (Subset - Golden Strawberries) (Hack)</description>
-		<release name="SMW - Celeste (Hack).smc (Subset - Golden Strawberries) (Hack)" region="World"/>
-		<rom name="SMW - Celeste (Hack).smc (Subset - Golden Strawberries) (Hack).sfc" size="4194304" crc="c3ed9b6f" md5="7d4bcb32a9fdf11c261ef87c478014ff" sha1="b80cb631ab061216be25cfed171558f23c6a0978"/>
+		<description>SMW - Celeste (Subset - Golden Strawberries) (Hack)</description>
+		<release name="SMW - Celeste (Subset - Golden Strawberries) (Hack)" region="World"/>
+		<rom name="SMW - Celeste (Subset - Golden Strawberries) (Hack).sfc" size="4194304" crc="c3ed9b6f" md5="7d4bcb32a9fdf11c261ef87c478014ff" sha1="b80cb631ab061216be25cfed171558f23c6a0978"/>
 		<url>https://retroachievements.org/game/22560/hashes</url>
 		<hash>7d4bcb32a9fdf11c261ef87c478014ff</hash>
 	</game>
@@ -432,42 +432,42 @@
 		<hash>55db37f90772f3bce5690f0b77ac73a1</hash>
 	</game>
 	
-	<game name="CT - Chrono Trigger - Flames of Eternity (vRC7D) (Giro) (Hack)" cloneof="CT - Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack)">
+	<game name="Chrono Trigger - Flames of Eternity (vRC7D) (Giro) (Hack)" cloneof="Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack)">
 		<category>Hack</category>
-		<description>CT - Chrono Trigger - Flames of Eternity (vRC7D) (Giro) (Hack)</description>
-		<rom name="CT - Chrono Trigger - Flames of Eternity (vRC7D) (Giro) (Hack).sfc" size="6291456" crc="23906f1e" md5="a5db4d8c8fbdc278ccf28419bd46a90e" sha1="a022a67e0c4e9094bfbdc44cb51314b884b6c708"/>
+		<description>Chrono Trigger - Flames of Eternity (vRC7D) (Giro) (Hack)</description>
+		<rom name="Chrono Trigger - Flames of Eternity (vRC7D) (Giro) (Hack).sfc" size="6291456" crc="23906f1e" md5="a5db4d8c8fbdc278ccf28419bd46a90e" sha1="a022a67e0c4e9094bfbdc44cb51314b884b6c708"/>
 		<url>https://retroachievements.org/game/1383/hashes</url>
 		<hash>a5db4d8c8fbdc278ccf28419bd46a90e</hash>
 	</game>
-	<game name="CT - Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack)">
+	<game name="Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack)">
 		<category>Hack</category>
-		<description>CT - Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack)</description>
-		<release name="CT - Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack)" region="World"/>
-		<rom name="CT - Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack).sfc" size="6291456" crc="e27250dc" md5="57ee0cb754638c08e6a432060d4abe63" sha1="84eddccf7b784939f5be8fbead5bc7f6212e4757"/>
+		<description>Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack)</description>
+		<release name="Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack)" region="World"/>
+		<rom name="Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack).sfc" size="6291456" crc="e27250dc" md5="57ee0cb754638c08e6a432060d4abe63" sha1="84eddccf7b784939f5be8fbead5bc7f6212e4757"/>
 		<url>https://retroachievements.org/game/1383/hashes</url>
 		<hash>57ee0cb754638c08e6a432060d4abe63</hash>
 	</game>
-	<game name="CT - Chrono Trigger - Flames of Eternity (Pt) (v2.0) (Retsuge) (Hack)" cloneof="CT - Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack)">
+	<game name="Chrono Trigger - Flames of Eternity (Pt) (v2.0) (Retsuge) (Hack)" cloneof="Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack)">
 		<category>Hack</category>
-		<description>CT - Chrono Trigger - Flames of Eternity (Pt) (v2.0) (Retsuge) (Hack)</description>
-		<release name="CT - Chrono Trigger - Flames of Eternity (Pt) (v2.0) (Retsuge) (Hack)" region="Portugal"/>
-		<rom name="CT - Chrono Trigger - Flames of Eternity (Pt) (v2.0) (Retsuge) (Hack).sfc" size="6291456" crc="010551a9" md5="83d199bf78b106d2f6d0306959bef4e6" sha1="e90df3c45c6b31d1e6c0647005efe022f34421b1"/>
+		<description>Chrono Trigger - Flames of Eternity (Pt) (v2.0) (Retsuge) (Hack)</description>
+		<release name="Chrono Trigger - Flames of Eternity (Pt) (v2.0) (Retsuge) (Hack)" region="Portugal"/>
+		<rom name="Chrono Trigger - Flames of Eternity (Pt) (v2.0) (Retsuge) (Hack).sfc" size="6291456" crc="010551a9" md5="83d199bf78b106d2f6d0306959bef4e6" sha1="e90df3c45c6b31d1e6c0647005efe022f34421b1"/>
 		<url>https://retroachievements.org/game/1383/hashes</url>
 		<hash>83d199bf78b106d2f6d0306959bef4e6</hash>
 	</game>
 	
-	<game name="CT - Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Hack)" cloneof="CT - Chrono Trigger - Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Crash Fix) (v0.1) (clymax) (Hack)">
+	<game name="Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Hack)" cloneof="Chrono Trigger - Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Crash Fix) (v0.1) (clymax) (Hack)">
 		<category>Hack</category>
-		<description>CT - Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Hack)</description>
-		<rom name="CT - Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Hack).sfc" size="6291456" crc="1eb43b3a" md5="64e42c2715ab9d408ea146230cc23bf1" sha1="bfbcb2c60d0278e59a2d47faabfccc125266cbf5"/>
+		<description>Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Hack)</description>
+		<rom name="Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Hack).sfc" size="6291456" crc="1eb43b3a" md5="64e42c2715ab9d408ea146230cc23bf1" sha1="bfbcb2c60d0278e59a2d47faabfccc125266cbf5"/>
 		<url>https://retroachievements.org/game/1384/hashes</url>
 		<hash>64e42c2715ab9d408ea146230cc23bf1</hash>
 	</game>
-	<game name="CT - Chrono Trigger - Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Crash Fix) (v0.1) (clymax) (Hack)">
+	<game name="Chrono Trigger - Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Crash Fix) (v0.1) (clymax) (Hack)">
 		<category>Hack</category>
-		<description>CT - Chrono Trigger - Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Crash Fix) (v0.1) (clymax) (Hack)</description>
-		<release name="CT - Chrono Trigger - Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Crash Fix) (v0.1) (clymax) (Hack)" region="World"/>
-		<rom name="CT - Chrono Trigger - Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Crash Fix) (v0.1) (clymax) (Hack).sfc" size="6291456" crc="e70308d5" md5="a5c07fa9a571991290124672bb818565" sha1="24576c5d9195a85f4b5d6fafd975b5ad67b66cf5"/>
+		<description>Chrono Trigger - Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Crash Fix) (v0.1) (clymax) (Hack)</description>
+		<release name="Chrono Trigger - Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Crash Fix) (v0.1) (clymax) (Hack)" region="World"/>
+		<rom name="Chrono Trigger - Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Crash Fix) (v0.1) (clymax) (Hack).sfc" size="6291456" crc="e70308d5" md5="a5c07fa9a571991290124672bb818565" sha1="24576c5d9195a85f4b5d6fafd975b5ad67b66cf5"/>
 		<url>https://retroachievements.org/game/1384/hashes</url>
 		<hash>a5c07fa9a571991290124672bb818565</hash>
 	</game>
@@ -612,37 +612,54 @@
 		<hash>fc5de414db9a5e712d74402a763016eb</hash>
 	</game>
 	
-	<game name="DKC - Donkey Kong Country 2 - Brigand Barrage (v1.4) (Mattrizzle) (Hack)">
+	<game name="DKC2 - Brigand Barrage (v1.4) (Mattrizzle) (Hack)">
 		<category>Hack</category>
-		<description>DKC - Donkey Kong Country 2 - Brigand Barrage (v1.4) (Mattrizzle) (Hack)</description>
-		<release name="DKC - Donkey Kong Country 2 - Brigand Barrage (v1.4) (Mattrizzle) (Hack)" region="World"/>
-		<rom name="DKC - Donkey Kong Country 2 - Brigand Barrage (v1.4) (Mattrizzle) (Hack).sfc" size="4194304" crc="76422452" md5="47bc16428dac534fa9729f97b2e9b5a9" sha1="75359e9f5470323dbfbdde68c52a69915e74c772"/>
+		<description>DKC2 - Brigand Barrage (v1.4) (Mattrizzle) (Hack)</description>
+		<release name="DKC2 - Brigand Barrage (v1.4) (Mattrizzle) (Hack)" region="World"/>
+		<rom name="DKC2 - Brigand Barrage (v1.4) (Mattrizzle) (Hack).sfc" size="4194304" crc="76422452" md5="47bc16428dac534fa9729f97b2e9b5a9" sha1="75359e9f5470323dbfbdde68c52a69915e74c772"/>
 		<url>https://retroachievements.org/game/7873/hashes</url>
 		<hash>47bc16428dac534fa9729f97b2e9b5a9</hash>
 	</game>
-	<game name="DKC - Donkey Kong Country - Boss Blitz (v1.5) (Mattrizzle) (Hack)">
+	<game name="DKC - Boss Blitz (v1.5) (Mattrizzle) (Hack)">
 		<category>Hack</category>
-		<description>DKC - Donkey Kong Country - Boss Blitz (v1.5) (Mattrizzle) (Hack)</description>
-		<release name="DKC - Donkey Kong Country - Boss Blitz (v1.5) (Mattrizzle) (Hack)" region="World"/>
-		<rom name="DKC - Donkey Kong Country - Boss Blitz (v1.5) (Mattrizzle) (Hack).sfc" size="4194304" crc="9f4bcb18" md5="a4a3e8f035c6b0feb2eb42cc59512ffe" sha1="71735b562946e586feb70b121a072fd649ecd9e5"/>
+		<description>DKC - Boss Blitz (v1.5) (Mattrizzle) (Hack)</description>
+		<release name="DKC - Boss Blitz (v1.5) (Mattrizzle) (Hack)" region="World"/>
+		<rom name="DKC - Boss Blitz (v1.5) (Mattrizzle) (Hack).sfc" size="4194304" crc="9f4bcb18" md5="a4a3e8f035c6b0feb2eb42cc59512ffe" sha1="71735b562946e586feb70b121a072fd649ecd9e5"/>
 		<url>https://retroachievements.org/game/7873/hashes</url>
 		<hash>a4a3e8f035c6b0feb2eb42cc59512ffe</hash>
 	</game>
 	
-	<game name="DKC - Donkey Kong Country 2 - The Lost Levels (LucasRangel) (Hack)">
+	<game name="DKC2 Unveiled (Pt-Br) (v8.1.2) (emptysys) (Hack)">
 		<category>Hack</category>
-		<description>DKC - Donkey Kong Country 2 - The Lost Levels (LucasRangel) (Hack)</description>
-		<release name="DKC - Donkey Kong Country 2 - The Lost Levels (LucasRangel) (Hack)" region="World"/>
-		<rom name="DKC - Donkey Kong Country 2 - The Lost Levels (LucasRangel) (Hack).sfc" size="4194304" crc="54169472" md5="0391195ded8d5b2958915f538a952aec" sha1="7f9dd6961b4ada8cdd89532c0511877c874f02b5"/>
+		<description>DKC2 Unveiled (Pt-Br) (v8.1.2) (emptysys) (Hack)</description>
+		<release name="DKC2 Unveiled (Pt-Br) (v8.1.2) (emptysys) (Hack)" region="Brazil"/>
+		<rom name="DKC2 Unveiled (Pt-Br) (v8.1.2) (emptysys) (Hack).sfc" size="4194304" crc="0dcc194c" md5="22e9e58d90e048e177d25d97987a8c63" sha1="c63e78e531544a9e1d0854a818b78bcb98deccf7"/>
+		<url>https://retroachievements.org/game/18329/hashes</url>
+		<hash>22e9e58d90e048e177d25d97987a8c63</hash>
+	</game>
+	<game name="DKC2 Unveiled (En) (v8.1.2) (emptysys) (Hack)" cloneof="DKC2 Unveiled (Pt-Br) (v8.1.2) (emptysys) (Hack)">
+		<category>Hack</category>
+		<description>DKC2 Unveiled (En) (v8.1.2) (emptysys) (Hack)</description>
+		<release name="DKC2 Unveiled (En) (v8.1.2) (emptysys) (Hack)" region="English"/>
+		<rom name="DKC2 Unveiled (En) (v8.1.2) (emptysys) (Hack).sfc" size="4194304" crc="95022743" md5="c449bf07668703910db00668f0c20b90" sha1="7894c8c4bed3be8b914811138c99756172000980"/>
+		<url>https://retroachievements.org/game/18329/hashes</url>
+		<hash>c449bf07668703910db00668f0c20b90</hash>
+	</game>
+	
+	<game name="DKC2 - The Lost Levels (LucasRangel) (Hack)">
+		<category>Hack</category>
+		<description>DKC2 - The Lost Levels (LucasRangel) (Hack)</description>
+		<release name="DKC2 - The Lost Levels (LucasRangel) (Hack)" region="World"/>
+		<rom name="DKC2 - The Lost Levels (LucasRangel) (Hack).sfc" size="4194304" crc="54169472" md5="0391195ded8d5b2958915f538a952aec" sha1="7f9dd6961b4ada8cdd89532c0511877c874f02b5"/>
 		<url>https://retroachievements.org/game/8830/hashes</url>
 		<hash>0391195ded8d5b2958915f538a952aec</hash>
 	</game>
 	
-	<game name="DKC - Donkey Kong Country 3 - Tag Team Trouble (v1.1) (L Sky) (Hack)">
+	<game name="DKC3 - Tag Team Trouble (v1.1) (L Sky) (Hack)">
 		<category>Hack</category>
-		<description>DKC - Donkey Kong Country 3 - Tag Team Trouble (v1.1) (L Sky) (Hack)</description>
-		<release name="DKC - Donkey Kong Country 3 - Tag Team Trouble (v1.1) (L Sky) (Hack)" region="World"/>
-		<rom name="DKC - Donkey Kong Country 3 - Tag Team Trouble (v1.1) (L Sky) (Hack).sfc" size="4194304" crc="e064f0e8" md5="f7d86084c1411b36df316a18b47421d5" sha1="e3c9138ff203b68f832107328a138e3de2aff751"/>
+		<description>DKC3 - Tag Team Trouble (v1.1) (L Sky) (Hack)</description>
+		<release name="DKC3 - Tag Team Trouble (v1.1) (L Sky) (Hack)" region="World"/>
+		<rom name="DKC3 - Tag Team Trouble (v1.1) (L Sky) (Hack).sfc" size="4194304" crc="e064f0e8" md5="f7d86084c1411b36df316a18b47421d5" sha1="e3c9138ff203b68f832107328a138e3de2aff751"/>
 		<url>https://retroachievements.org/game/13344/hashes</url>
 		<hash>f7d86084c1411b36df316a18b47421d5</hash>
 	</game>
@@ -656,27 +673,27 @@
 		<hash>4a8de110dbfb1da24b029684266f7926</hash>
 	</game>
 	
-	<game name="DKC - Competition Cartridge (USA) (10-Minute Hack) (Hack)">
+	<game name="DKC - Competition Cartridge (USA) (10-Minute) (Hack)">
 		<category>Hack</category>
-		<description>DKC - Competition Cartridge (USA) (10-Minute Hack) (Hack)</description>
-		<release name="DKC - Competition Cartridge (USA) (10-Minute Hack) (Hack)" region="World"/>
-		<rom name="DKC - Competition Cartridge (USA) (10-Minute Hack) (Hack).sfc" size="4194304" crc="d8a0b98e" md5="611765c13e3087407a9f2fdcfb530410" sha1="3600c529960fca051d2f188b5201205d59c0e884"/>
+		<description>DKC - Competition Cartridge (USA) (10-Minute) (Hack)</description>
+		<release name="DKC - Competition Cartridge (USA) (10-Minute) (Hack)" region="World"/>
+		<rom name="DKC - Competition Cartridge (USA) (10-Minute) (Hack).sfc" size="4194304" crc="d8a0b98e" md5="611765c13e3087407a9f2fdcfb530410" sha1="3600c529960fca051d2f188b5201205d59c0e884"/>
 		<url>https://retroachievements.org/game/8249/hashes</url>
 		<hash>611765c13e3087407a9f2fdcfb530410</hash>
 	</game>
 	
-	<game name="EarthBound - EarthBound Halloween Hack (Bad Fur Day Edition) (Toby Fox) (Hack)" cloneof="EarthBound - EarthBound Halloween Hack (Redone) (the ally235) (Hack)">
+	<game name="EarthBound - Halloween (Bad Fur Day Edition) (Toby Fox) (Hack)" cloneof="EarthBound - Halloween (Redone) (the ally235) (Hack)">
 		<category>Hack</category>
-		<description>EarthBound - EarthBound Halloween Hack (Bad Fur Day Edition) (Toby Fox) (Hack)</description>
-		<rom name="EarthBound - EarthBound Halloween Hack (Bad Fur Day Edition) (Toby Fox) (Hack).sfc" size="6291456" crc="e861b0ba" md5="3c9a6079146414790ad6712d48ab31a3" sha1="787e988135dbc1b1ec94439749013b94ee5739df"/>
+		<description>EarthBound - Halloween (Bad Fur Day Edition) (Toby Fox) (Hack)</description>
+		<rom name="EarthBound - Halloween (Bad Fur Day Edition) (Toby Fox) (Hack).sfc" size="6291456" crc="e861b0ba" md5="3c9a6079146414790ad6712d48ab31a3" sha1="787e988135dbc1b1ec94439749013b94ee5739df"/>
 		<url>https://retroachievements.org/game/4578/hashes</url>
 		<hash>3c9a6079146414790ad6712d48ab31a3</hash>
 	</game>
-	<game name="EarthBound - EarthBound Halloween Hack (Redone) (the ally235) (Hack)">
+	<game name="EarthBound - Halloween (Redone) (the ally235) (Hack)">
 		<category>Hack</category>
-		<description>EarthBound - EarthBound Halloween Hack (Redone) (the ally235) (Hack)</description>
-		<release name="EarthBound - EarthBound Halloween Hack (Redone) (the ally235) (Hack)" region="World"/>
-		<rom name="EarthBound - EarthBound Halloween Hack (Redone) (the ally235) (Hack).sfc" size="6291456" crc="6b2dde8a" md5="82cbda347e2bdfb18ef8ee088f5ecc3e" sha1="ce7b44edd502640cfdb12aaacb11cf7a4083516b"/>
+		<description>EarthBound - Halloween (Redone) (the ally235) (Hack)</description>
+		<release name="EarthBound - Halloween (Redone) (the ally235) (Hack)" region="World"/>
+		<rom name="EarthBound - Halloween (Redone) (the ally235) (Hack).sfc" size="6291456" crc="6b2dde8a" md5="82cbda347e2bdfb18ef8ee088f5ecc3e" sha1="ce7b44edd502640cfdb12aaacb11cf7a4083516b"/>
 		<url>https://retroachievements.org/game/4578/hashes</url>
 		<hash>82cbda347e2bdfb18ef8ee088f5ecc3e</hash>
 	</game>
@@ -762,159 +779,159 @@
 		<hash>6a6c84b67ebfd718a10fd31682234ed4</hash>
 	</game>
 	
-	<game name="Final Fantasy II - Job System Hack (v1.1) (S34n4e) (Hack)">
+	<game name="FFII - Job System (v1.1) (S34n4e) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy II - Job System Hack (v1.1) (S34n4e) (Hack)</description>
-		<release name="Final Fantasy II - Job System Hack (v1.1) (S34n4e) (Hack)" region="World"/>
-		<rom name="Final Fantasy II - Job System Hack (v1.1) (S34n4e) (Hack).sfc" size="2097152" crc="97d4212b" md5="23cf0947b5731d761cd8c6df4547093b" sha1="da8a1c1c4066743d369dd01500956f67a76795f6"/>
+		<description>FFII - Job System (v1.1) (S34n4e) (Hack)</description>
+		<release name="FFII - Job System (v1.1) (S34n4e) (Hack)" region="World"/>
+		<rom name="FFII - Job System (v1.1) (S34n4e) (Hack).sfc" size="2097152" crc="97d4212b" md5="23cf0947b5731d761cd8c6df4547093b" sha1="da8a1c1c4066743d369dd01500956f67a76795f6"/>
 		<url>https://retroachievements.org/game/33613/hashes</url>
 		<hash>23cf0947b5731d761cd8c6df4547093b</hash>
 	</game>
 	
-	<game name="Final Fantasy IV - Ultima (v2022 - Rev 21) (8-bit fan,chillyfeez) (Hack)" cloneof="Final Fantasy IV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
+	<game name="FFIV - Ultima (v2022 - Rev 21) (8-bit fan,chillyfeez) (Hack)" cloneof="FFIV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy IV - Ultima (v2022 - Rev 21) (8-bit fan,chillyfeez) (Hack)</description>
-		<rom name="Final Fantasy IV - Ultima (v2022 - Rev 21) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="849237c5" md5="00faef8b1ecab89ba1ba1ccffcc98e1b" sha1="a31c9c22a5b1ee3882e0dc97318be645c15279cb"/>
+		<description>FFIV - Ultima (v2022 - Rev 21) (8-bit fan,chillyfeez) (Hack)</description>
+		<rom name="FFIV - Ultima (v2022 - Rev 21) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="849237c5" md5="00faef8b1ecab89ba1ba1ccffcc98e1b" sha1="a31c9c22a5b1ee3882e0dc97318be645c15279cb"/>
 		<url>https://retroachievements.org/game/1072/hashes</url>
 		<hash>00faef8b1ecab89ba1ba1ccffcc98e1b</hash>
 	</game>
-	<game name="Final Fantasy IV - Ultima (v2022 - Rev 22) (8-bit fan,chillyfeez) (Hack)" cloneof="Final Fantasy IV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
+	<game name="FFIV - Ultima (v2022 - Rev 22) (8-bit fan,chillyfeez) (Hack)" cloneof="FFIV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy IV - Ultima (v2022 - Rev 22) (8-bit fan,chillyfeez) (Hack)</description>
-		<rom name="Final Fantasy IV - Ultima (v2022 - Rev 22) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="0d76caa4" md5="1091b2c9fd8906508abb87ca87c143ab" sha1="a4cd59d2325b248ca3553d86bf64d55bc57a48a4"/>
+		<description>FFIV - Ultima (v2022 - Rev 22) (8-bit fan,chillyfeez) (Hack)</description>
+		<rom name="FFIV - Ultima (v2022 - Rev 22) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="0d76caa4" md5="1091b2c9fd8906508abb87ca87c143ab" sha1="a4cd59d2325b248ca3553d86bf64d55bc57a48a4"/>
 		<url>https://retroachievements.org/game/1072/hashes</url>
 		<hash>1091b2c9fd8906508abb87ca87c143ab</hash>
 	</game>
-	<game name="Final Fantasy IV - Ultima (v2022 - Rev 19) (8-bit fan,chillyfeez) (Hack)" cloneof="Final Fantasy IV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
+	<game name="FFIV - Ultima (v2022 - Rev 19) (8-bit fan,chillyfeez) (Hack)" cloneof="FFIV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy IV - Ultima (v2022 - Rev 19) (8-bit fan,chillyfeez) (Hack)</description>
-		<rom name="Final Fantasy IV - Ultima (v2022 - Rev 19) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="41eadc1f" md5="3775426eecf459b388e82c19df60aa93" sha1="030349a87b923a9cf91065cc08e8f155de799d36"/>
+		<description>FFIV - Ultima (v2022 - Rev 19) (8-bit fan,chillyfeez) (Hack)</description>
+		<rom name="FFIV - Ultima (v2022 - Rev 19) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="41eadc1f" md5="3775426eecf459b388e82c19df60aa93" sha1="030349a87b923a9cf91065cc08e8f155de799d36"/>
 		<url>https://retroachievements.org/game/1072/hashes</url>
 		<hash>3775426eecf459b388e82c19df60aa93</hash>
 	</game>
-	<game name="Final Fantasy IV - Ultima (v2022 - Rev 17) (8-bit fan,chillyfeez) (Hack)" cloneof="Final Fantasy IV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
+	<game name="FFIV - Ultima (v2022 - Rev 17) (8-bit fan,chillyfeez) (Hack)" cloneof="FFIV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy IV - Ultima (v2022 - Rev 17) (8-bit fan,chillyfeez) (Hack)</description>
-		<rom name="Final Fantasy IV - Ultima (v2022 - Rev 17) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="0796cd02" md5="6bd291f76ccb610c2eef7db3b6cc8618" sha1="4a4a980e03eca50841678996d5c6c3fa11c698ba"/>
+		<description>FFIV - Ultima (v2022 - Rev 17) (8-bit fan,chillyfeez) (Hack)</description>
+		<rom name="FFIV - Ultima (v2022 - Rev 17) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="0796cd02" md5="6bd291f76ccb610c2eef7db3b6cc8618" sha1="4a4a980e03eca50841678996d5c6c3fa11c698ba"/>
 		<url>https://retroachievements.org/game/1072/hashes</url>
 		<hash>6bd291f76ccb610c2eef7db3b6cc8618</hash>
 	</game>
-	<game name="Final Fantasy IV - Ultima (v2022 - Rev 24) (8-bit fan,chillyfeez) (Hack)" cloneof="Final Fantasy IV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
+	<game name="FFIV - Ultima (v2022 - Rev 24) (8-bit fan,chillyfeez) (Hack)" cloneof="FFIV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy IV - Ultima (v2022 - Rev 24) (8-bit fan,chillyfeez) (Hack)</description>
-		<rom name="Final Fantasy IV - Ultima (v2022 - Rev 24) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="d84572a7" md5="76ac2c67cff42e730a3a3e88e943b905" sha1="7b95040508e7013aa4fbe460a3995bf8736dad30"/>
+		<description>FFIV - Ultima (v2022 - Rev 24) (8-bit fan,chillyfeez) (Hack)</description>
+		<rom name="FFIV - Ultima (v2022 - Rev 24) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="d84572a7" md5="76ac2c67cff42e730a3a3e88e943b905" sha1="7b95040508e7013aa4fbe460a3995bf8736dad30"/>
 		<url>https://retroachievements.org/game/1072/hashes</url>
 		<hash>76ac2c67cff42e730a3a3e88e943b905</hash>
 	</game>
-	<game name="Final Fantasy IV - Ultima (v2022 - Rev 13+Sylph Feastblood Fix) (8-bit fan,chillyfeez) (Hack)" cloneof="Final Fantasy IV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
+	<game name="FFIV - Ultima (v2022 - Rev 13+Sylph Feastblood Fix) (8-bit fan,chillyfeez) (Hack)" cloneof="FFIV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy IV - Ultima (v2022 - Rev 13+Sylph Feastblood Fix) (8-bit fan,chillyfeez) (Hack)</description>
-		<rom name="Final Fantasy IV - Ultima (v2022 - Rev 13+Sylph Feastblood Fix) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="5950dea2" md5="83304ad8b3c16e6042ecebe5e07fe41d" sha1="02e477ebfa0ba1b3ae3f786502d8c76c8940af40"/>
+		<description>FFIV - Ultima (v2022 - Rev 13+Sylph Feastblood Fix) (8-bit fan,chillyfeez) (Hack)</description>
+		<rom name="FFIV - Ultima (v2022 - Rev 13+Sylph Feastblood Fix) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="5950dea2" md5="83304ad8b3c16e6042ecebe5e07fe41d" sha1="02e477ebfa0ba1b3ae3f786502d8c76c8940af40"/>
 		<url>https://retroachievements.org/game/1072/hashes</url>
 		<hash>83304ad8b3c16e6042ecebe5e07fe41d</hash>
 	</game>
-	<game name="Final Fantasy IV - Ultima (v2022 - Rev 20) (8-bit fan,chillyfeez) (Hack)" cloneof="Final Fantasy IV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
+	<game name="FFIV - Ultima (v2022 - Rev 20) (8-bit fan,chillyfeez) (Hack)" cloneof="FFIV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy IV - Ultima (v2022 - Rev 20) (8-bit fan,chillyfeez) (Hack)</description>
-		<rom name="Final Fantasy IV - Ultima (v2022 - Rev 20) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="05746ef3" md5="a522dc821a0e385a03e25af499df623f" sha1="83bccc1828a1acf1246957b61b68009e8640af87"/>
+		<description>FFIV - Ultima (v2022 - Rev 20) (8-bit fan,chillyfeez) (Hack)</description>
+		<rom name="FFIV - Ultima (v2022 - Rev 20) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="05746ef3" md5="a522dc821a0e385a03e25af499df623f" sha1="83bccc1828a1acf1246957b61b68009e8640af87"/>
 		<url>https://retroachievements.org/game/1072/hashes</url>
 		<hash>a522dc821a0e385a03e25af499df623f</hash>
 	</game>
-	<game name="Final Fantasy IV - Ultima (v2022 - Rev 13) (8-bit fan,chillyfeez) (Hack)" cloneof="Final Fantasy IV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
+	<game name="FFIV - Ultima (v2022 - Rev 13) (8-bit fan,chillyfeez) (Hack)" cloneof="FFIV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy IV - Ultima (v2022 - Rev 13) (8-bit fan,chillyfeez) (Hack)</description>
-		<rom name="Final Fantasy IV - Ultima (v2022 - Rev 13) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="fe50e763" md5="a696d0a6ff52db8093bb7af9abeefd81" sha1="02836856c140464499048b37bbe9724f174da9a4"/>
+		<description>FFIV - Ultima (v2022 - Rev 13) (8-bit fan,chillyfeez) (Hack)</description>
+		<rom name="FFIV - Ultima (v2022 - Rev 13) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="fe50e763" md5="a696d0a6ff52db8093bb7af9abeefd81" sha1="02836856c140464499048b37bbe9724f174da9a4"/>
 		<url>https://retroachievements.org/game/1072/hashes</url>
 		<hash>a696d0a6ff52db8093bb7af9abeefd81</hash>
 	</game>
-	<game name="Final Fantasy IV - Ultima (v2022 - Rev 14) (8-bit fan,chillyfeez) (Hack)" cloneof="Final Fantasy IV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
+	<game name="FFIV - Ultima (v2022 - Rev 14) (8-bit fan,chillyfeez) (Hack)" cloneof="FFIV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy IV - Ultima (v2022 - Rev 14) (8-bit fan,chillyfeez) (Hack)</description>
-		<rom name="Final Fantasy IV - Ultima (v2022 - Rev 14) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="d9cb48e7" md5="a9cc7fd9c410f90309f076bc35f8deb6" sha1="2ee4696cfbb7b98fa7071854be21f831146feb48"/>
+		<description>FFIV - Ultima (v2022 - Rev 14) (8-bit fan,chillyfeez) (Hack)</description>
+		<rom name="FFIV - Ultima (v2022 - Rev 14) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="d9cb48e7" md5="a9cc7fd9c410f90309f076bc35f8deb6" sha1="2ee4696cfbb7b98fa7071854be21f831146feb48"/>
 		<url>https://retroachievements.org/game/1072/hashes</url>
 		<hash>a9cc7fd9c410f90309f076bc35f8deb6</hash>
 	</game>
-	<game name="Final Fantasy IV - Ultima (v2022 - Rev 25) (8-bit fan,chillyfeez) (Hack)" cloneof="Final Fantasy IV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
+	<game name="FFIV - Ultima (v2022 - Rev 25) (8-bit fan,chillyfeez) (Hack)" cloneof="FFIV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy IV - Ultima (v2022 - Rev 25) (8-bit fan,chillyfeez) (Hack)</description>
-		<rom name="Final Fantasy IV - Ultima (v2022 - Rev 25) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="0c4f666f" md5="b7fdae9fc49a81140f9d9dab5f7b499d" sha1="fe78db9a67efe5fc4b748706dadf0d1369637474"/>
+		<description>FFIV - Ultima (v2022 - Rev 25) (8-bit fan,chillyfeez) (Hack)</description>
+		<rom name="FFIV - Ultima (v2022 - Rev 25) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="0c4f666f" md5="b7fdae9fc49a81140f9d9dab5f7b499d" sha1="fe78db9a67efe5fc4b748706dadf0d1369637474"/>
 		<url>https://retroachievements.org/game/1072/hashes</url>
 		<hash>b7fdae9fc49a81140f9d9dab5f7b499d</hash>
 	</game>
-	<game name="Final Fantasy IV - Ultima (v2022 - Rev 25a) (8-bit fan,chillyfeez) (Hack)" cloneof="Final Fantasy IV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
+	<game name="FFIV - Ultima (v2022 - Rev 25a) (8-bit fan,chillyfeez) (Hack)" cloneof="FFIV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy IV - Ultima (v2022 - Rev 25a) (8-bit fan,chillyfeez) (Hack)</description>
-		<rom name="Final Fantasy IV - Ultima (v2022 - Rev 25a) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="7e8175fb" md5="c5cb2bc04ee8f95897267d23daa75f86" sha1="c326502d77c66f7128dca03bb709261be17b8e5e"/>
+		<description>FFIV - Ultima (v2022 - Rev 25a) (8-bit fan,chillyfeez) (Hack)</description>
+		<rom name="FFIV - Ultima (v2022 - Rev 25a) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="7e8175fb" md5="c5cb2bc04ee8f95897267d23daa75f86" sha1="c326502d77c66f7128dca03bb709261be17b8e5e"/>
 		<url>https://retroachievements.org/game/1072/hashes</url>
 		<hash>c5cb2bc04ee8f95897267d23daa75f86</hash>
 	</game>
-	<game name="Final Fantasy IV - Ultima (v2022 - Rev 18) (8-bit fan,chillyfeez) (Hack)" cloneof="Final Fantasy IV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
+	<game name="FFIV - Ultima (v2022 - Rev 18) (8-bit fan,chillyfeez) (Hack)" cloneof="FFIV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy IV - Ultima (v2022 - Rev 18) (8-bit fan,chillyfeez) (Hack)</description>
-		<rom name="Final Fantasy IV - Ultima (v2022 - Rev 18) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="e98b8863" md5="dbf644b757fe264294edd301ddbb50d2" sha1="142528eddb9caae51323213b366835ef327a9490"/>
+		<description>FFIV - Ultima (v2022 - Rev 18) (8-bit fan,chillyfeez) (Hack)</description>
+		<rom name="FFIV - Ultima (v2022 - Rev 18) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="e98b8863" md5="dbf644b757fe264294edd301ddbb50d2" sha1="142528eddb9caae51323213b366835ef327a9490"/>
 		<url>https://retroachievements.org/game/1072/hashes</url>
 		<hash>dbf644b757fe264294edd301ddbb50d2</hash>
 	</game>
-	<game name="Final Fantasy IV - Ultima (v2022 - Rev 16) (8-bit fan,chillyfeez) (Hack)" cloneof="Final Fantasy IV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
+	<game name="FFIV - Ultima (v2022 - Rev 16) (8-bit fan,chillyfeez) (Hack)" cloneof="FFIV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy IV - Ultima (v2022 - Rev 16) (8-bit fan,chillyfeez) (Hack)</description>
-		<rom name="Final Fantasy IV - Ultima (v2022 - Rev 16) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="78fb6418" md5="e504b1e4f6080cba1d93bdde709161f1" sha1="e5ad896e793c5892c393c91cfa63d696133dd741"/>
+		<description>FFIV - Ultima (v2022 - Rev 16) (8-bit fan,chillyfeez) (Hack)</description>
+		<rom name="FFIV - Ultima (v2022 - Rev 16) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="78fb6418" md5="e504b1e4f6080cba1d93bdde709161f1" sha1="e5ad896e793c5892c393c91cfa63d696133dd741"/>
 		<url>https://retroachievements.org/game/1072/hashes</url>
 		<hash>e504b1e4f6080cba1d93bdde709161f1</hash>
 	</game>
-	<game name="Final Fantasy IV - Ultima (v2022 - Rev 25b) (8-bit fan,chillyfeez) (Hack)" cloneof="Final Fantasy IV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
+	<game name="FFIV - Ultima (v2022 - Rev 25b) (8-bit fan,chillyfeez) (Hack)" cloneof="FFIV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy IV - Ultima (v2022 - Rev 25b) (8-bit fan,chillyfeez) (Hack)</description>
-		<rom name="Final Fantasy IV - Ultima (v2022 - Rev 25b) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="88fc605e" md5="f4497007cfc28844d930b78f4a86ab75" sha1="cb8dc4ebbf5910bb95d67603f133b0c9784682cb"/>
+		<description>FFIV - Ultima (v2022 - Rev 25b) (8-bit fan,chillyfeez) (Hack)</description>
+		<rom name="FFIV - Ultima (v2022 - Rev 25b) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="88fc605e" md5="f4497007cfc28844d930b78f4a86ab75" sha1="cb8dc4ebbf5910bb95d67603f133b0c9784682cb"/>
 		<url>https://retroachievements.org/game/1072/hashes</url>
 		<hash>f4497007cfc28844d930b78f4a86ab75</hash>
 	</game>
-	<game name="Final Fantasy IV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
+	<game name="FFIV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy IV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)</description>
-		<release name="Final Fantasy IV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)" region="World"/>
-		<rom name="Final Fantasy IV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="1a13a227" md5="54d17fd67d7d40cd44f67c722439abbe" sha1="affac049807d456e8c3d9cf47d9e9a2ad83f615e"/>
+		<description>FFIV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)</description>
+		<release name="FFIV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack)" region="World"/>
+		<rom name="FFIV - Ultima (v2022 - Rev 25c) (8-bit fan,chillyfeez) (Hack).sfc" size="2097152" crc="1a13a227" md5="54d17fd67d7d40cd44f67c722439abbe" sha1="affac049807d456e8c3d9cf47d9e9a2ad83f615e"/>
 		<url>https://retroachievements.org/game/1072/hashes</url>
 		<hash>54d17fd67d7d40cd44f67c722439abbe</hash>
 	</game>
 	
-	<game name="Final Fantasy IV - Unprecedented Crisis (v4.1) (Pinkpuff) (Hack)">
+	<game name="FFIV - Unprecedented Crisis (v4.1) (Pinkpuff) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy IV - Unprecedented Crisis (v4.1) (Pinkpuff) (Hack)</description>
-		<release name="Final Fantasy IV - Unprecedented Crisis (v4.1) (Pinkpuff) (Hack)" region="World"/>
-		<rom name="Final Fantasy IV - Unprecedented Crisis (v4.1) (Pinkpuff) (Hack).sfc" size="1048576" crc="352a069e" md5="f7262e72951a9a3afea07c26900392eb" sha1="1f0eb3a3d044c60d43032465f3dc941d3b01e62f"/>
+		<description>FFIV - Unprecedented Crisis (v4.1) (Pinkpuff) (Hack)</description>
+		<release name="FFIV - Unprecedented Crisis (v4.1) (Pinkpuff) (Hack)" region="World"/>
+		<rom name="FFIV - Unprecedented Crisis (v4.1) (Pinkpuff) (Hack).sfc" size="1048576" crc="352a069e" md5="f7262e72951a9a3afea07c26900392eb" sha1="1f0eb3a3d044c60d43032465f3dc941d3b01e62f"/>
 		<url>https://retroachievements.org/game/18833/hashes</url>
 		<hash>f7262e72951a9a3afea07c26900392eb</hash>
 	</game>
 	
-	<game name="Final Fantasy V - Whirlwind Edition (v1.45c) (clymax) (Hack)" cloneof="Final Fantasy V - Whirlwind Edition (v0.50 release maintenance) (clymax) (Hack)">
+	<game name="FFV - Whirlwind Edition (v1.45c) (clymax) (Hack)" cloneof="FFV - Whirlwind Edition (v0.50 release maintenance) (clymax) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy V - Whirlwind Edition (v1.45c) (clymax) (Hack)</description>
-		<rom name="Final Fantasy V - Whirlwind Edition (v1.45c) (clymax) (Hack).sfc" size="2621440" crc="18cd3f28" md5="a59e7b507b2bc4967e99d1358f0b5372" sha1="1340ee39b0597c0347b13b0b819147559a0c907b"/>
+		<description>FFV - Whirlwind Edition (v1.45c) (clymax) (Hack)</description>
+		<rom name="FFV - Whirlwind Edition (v1.45c) (clymax) (Hack).sfc" size="2621440" crc="18cd3f28" md5="a59e7b507b2bc4967e99d1358f0b5372" sha1="1340ee39b0597c0347b13b0b819147559a0c907b"/>
 		<url>https://retroachievements.org/game/29847/hashes</url>
 		<hash>a59e7b507b2bc4967e99d1358f0b5372</hash>
 	</game>
-	<game name="Final Fantasy V - Whirlwind Edition (v0.50 release maintenance) (clymax) (Hack)">
+	<game name="FFV - Whirlwind Edition (v0.50 release maintenance) (clymax) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy V - Whirlwind Edition (v0.50 release maintenance) (clymax) (Hack)</description>
-		<release name="Final Fantasy V - Whirlwind Edition (v0.50 release maintenance) (clymax) (Hack)" region="World"/>
-		<rom name="Final Fantasy V - Whirlwind Edition (v0.50 release maintenance) (clymax) (Hack).sfc" size="2621440" crc="9ab869c4" md5="03f0f2ece3d9f888c788bc217c5fb8c6" sha1="cd11593bb4b1c4a42eadd775cb457e7c587d7992"/>
+		<description>FFV - Whirlwind Edition (v0.50 release maintenance) (clymax) (Hack)</description>
+		<release name="FFV - Whirlwind Edition (v0.50 release maintenance) (clymax) (Hack)" region="World"/>
+		<rom name="FFV - Whirlwind Edition (v0.50 release maintenance) (clymax) (Hack).sfc" size="2621440" crc="9ab869c4" md5="03f0f2ece3d9f888c788bc217c5fb8c6" sha1="cd11593bb4b1c4a42eadd775cb457e7c587d7992"/>
 		<url>https://retroachievements.org/game/29847/hashes</url>
 		<hash>03f0f2ece3d9f888c788bc217c5fb8c6</hash>
 	</game>
 	
-	<game name="Final Fantasy V - Whirlwind Edition (v1.45c) (clymax) (Subset - Bonus) (Hack)" cloneof="Final Fantasy V - Whirlwind (v1.05e) (clymax) (Subset - Bonus) (Hack)">
+	<game name="FFV - Whirlwind Edition (v1.45c) (clymax) (Subset - Bonus) (Hack)" cloneof="FFV - Whirlwind (v1.05e) (clymax) (Subset - Bonus) (Hack)">
 		<category>Subset</category>
-		<description>Final Fantasy V - Whirlwind Edition (v1.45c) (clymax) (Subset - Bonus) (Hack)</description>
-		<rom name="Final Fantasy V - Whirlwind Edition (v1.45c) (clymax) (Subset - Bonus) (Hack).sfc" size="2621440" crc="19b15062" md5="a7d02d49a4eb4947a823a33e005d2b78" sha1="e56f45b6d53f7596219a7025f9477afc3685345a"/>
+		<description>FFV - Whirlwind Edition (v1.45c) (clymax) (Subset - Bonus) (Hack)</description>
+		<rom name="FFV - Whirlwind Edition (v1.45c) (clymax) (Subset - Bonus) (Hack).sfc" size="2621440" crc="19b15062" md5="a7d02d49a4eb4947a823a33e005d2b78" sha1="e56f45b6d53f7596219a7025f9477afc3685345a"/>
 		<url>https://retroachievements.org/game/29863/hashes</url>
 		<hash>a7d02d49a4eb4947a823a33e005d2b78</hash>
 	</game>
-	<game name="Final Fantasy V - Whirlwind (v1.05e) (clymax) (Subset - Bonus) (Hack)">
+	<game name="FFV - Whirlwind (v1.05e) (clymax) (Subset - Bonus) (Hack)">
 		<category>Subset</category>
-		<description>Final Fantasy V - Whirlwind (v1.05e) (clymax) (Subset - Bonus) (Hack)</description>
-		<release name="Final Fantasy V - Whirlwind (v1.05e) (clymax) (Subset - Bonus) (Hack)" region="World"/>
-		<rom name="Final Fantasy V - Whirlwind (v1.05e) (clymax) (Subset - Bonus) (Hack).sfc" size="2621440" crc="79549d26" md5="4647b4b003b39f51a6fc6a7ccb116729" sha1="302abda01d28a92152f8a7322171f012307d9d2e"/>
+		<description>FFV - Whirlwind (v1.05e) (clymax) (Subset - Bonus) (Hack)</description>
+		<release name="FFV - Whirlwind (v1.05e) (clymax) (Subset - Bonus) (Hack)" region="World"/>
+		<rom name="FFV - Whirlwind (v1.05e) (clymax) (Subset - Bonus) (Hack).sfc" size="2621440" crc="79549d26" md5="4647b4b003b39f51a6fc6a7ccb116729" sha1="302abda01d28a92152f8a7322171f012307d9d2e"/>
 		<url>https://retroachievements.org/game/29863/hashes</url>
 		<hash>4647b4b003b39f51a6fc6a7ccb116729</hash>
 	</game>
@@ -928,299 +945,299 @@
 		<hash>16be455bcd08a9e7e81acf785f9d492e</hash>
 	</game>
 	
-	<game name="Final Fantasy VI - A Soldier's Contingency (Flavor A) (v2.01) (Lightning Hawk) (Hack)" cloneof="Final Fantasy VI - A Soldier's Contingency (Flavor A) (v2.02) (Lightning Hawk) (Hack)">
+	<game name="FFVI - A Soldier's Contingency (Flavor A) (v2.01) (Lightning Hawk) (Hack)" cloneof="FFVI - A Soldier's Contingency (Flavor A) (v2.02) (Lightning Hawk) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - A Soldier's Contingency (Flavor A) (v2.01) (Lightning Hawk) (Hack)</description>
-		<rom name="Final Fantasy VI - A Soldier's Contingency (Flavor A) (v2.01) (Lightning Hawk) (Hack).sfc" size="6291456" crc="fd1a4f8b" md5="82e7bff11473aa404492c3f6e5de02bd" sha1="08f6b5e13c3cb2549e190255ca5f812e5bc5be3c"/>
+		<description>FFVI - A Soldier's Contingency (Flavor A) (v2.01) (Lightning Hawk) (Hack)</description>
+		<rom name="FFVI - A Soldier's Contingency (Flavor A) (v2.01) (Lightning Hawk) (Hack).sfc" size="6291456" crc="fd1a4f8b" md5="82e7bff11473aa404492c3f6e5de02bd" sha1="08f6b5e13c3cb2549e190255ca5f812e5bc5be3c"/>
 		<url>https://retroachievements.org/game/22452/hashes</url>
 		<hash>82e7bff11473aa404492c3f6e5de02bd</hash>
 	</game>
-	<game name="Final Fantasy VI - A Soldier's Contingency (Flavor B) (v2.01) (Lightning Hawk) (Hack)" cloneof="Final Fantasy VI - A Soldier's Contingency (Flavor B) (v2.02) (Lightning Hawk) (Hack)">
+	<game name="FFVI - A Soldier's Contingency (Flavor B) (v2.01) (Lightning Hawk) (Hack)" cloneof="FFVI - A Soldier's Contingency (Flavor B) (v2.02) (Lightning Hawk) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - A Soldier's Contingency (Flavor B) (v2.01) (Lightning Hawk) (Hack)</description>
-		<rom name="Final Fantasy VI - A Soldier's Contingency (Flavor B) (v2.01) (Lightning Hawk) (Hack).sfc" size="6291456" crc="23e51b38" md5="bd5943e3c83517a820c0add7c89da74a" sha1="e2858af52659a43e0e974aa2082b4edfedb7816f"/>
+		<description>FFVI - A Soldier's Contingency (Flavor B) (v2.01) (Lightning Hawk) (Hack)</description>
+		<rom name="FFVI - A Soldier's Contingency (Flavor B) (v2.01) (Lightning Hawk) (Hack).sfc" size="6291456" crc="23e51b38" md5="bd5943e3c83517a820c0add7c89da74a" sha1="e2858af52659a43e0e974aa2082b4edfedb7816f"/>
 		<url>https://retroachievements.org/game/22452/hashes</url>
 		<hash>bd5943e3c83517a820c0add7c89da74a</hash>
 	</game>
-	<game name="Final Fantasy VI - A Soldier's Contingency (Flavor A) (v2.02) (Lightning Hawk) (Hack)">
+	<game name="FFVI - A Soldier's Contingency (Flavor A) (v2.02) (Lightning Hawk) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - A Soldier's Contingency (Flavor A) (v2.02) (Lightning Hawk) (Hack)</description>
-		<release name="Final Fantasy VI - A Soldier's Contingency (Flavor A) (v2.02) (Lightning Hawk) (Hack)" region="World"/>
-		<rom name="Final Fantasy VI - A Soldier's Contingency (Flavor A) (v2.02) (Lightning Hawk) (Hack).sfc" size="6291456" crc="7d309e30" md5="0dbacc6521140c3665e5551ae090b27a" sha1="2fa798697b086d4c9b5d1e1a5c5739c77dc4cd47"/>
+		<description>FFVI - A Soldier's Contingency (Flavor A) (v2.02) (Lightning Hawk) (Hack)</description>
+		<release name="FFVI - A Soldier's Contingency (Flavor A) (v2.02) (Lightning Hawk) (Hack)" region="World"/>
+		<rom name="FFVI - A Soldier's Contingency (Flavor A) (v2.02) (Lightning Hawk) (Hack).sfc" size="6291456" crc="7d309e30" md5="0dbacc6521140c3665e5551ae090b27a" sha1="2fa798697b086d4c9b5d1e1a5c5739c77dc4cd47"/>
 		<url>https://retroachievements.org/game/22452/hashes</url>
 		<hash>0dbacc6521140c3665e5551ae090b27a</hash>
 	</game>
-	<game name="Final Fantasy VI - A Soldier's Contingency (Flavor B) (v2.02) (Lightning Hawk) (Hack)">
+	<game name="FFVI - A Soldier's Contingency (Flavor B) (v2.02) (Lightning Hawk) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - A Soldier's Contingency (Flavor B) (v2.02) (Lightning Hawk) (Hack)</description>
-		<release name="Final Fantasy VI - A Soldier's Contingency (Flavor B) (v2.02) (Lightning Hawk) (Hack)" region="World"/>
-		<rom name="Final Fantasy VI - A Soldier's Contingency (Flavor B) (v2.02) (Lightning Hawk) (Hack).sfc" size="6291456" crc="e9e8ade5" md5="2b1eca06a66d17c1f15a2631beee0e23" sha1="8661e8192a9d3f3529e323f2ee30a70af09ab1b5"/>
+		<description>FFVI - A Soldier's Contingency (Flavor B) (v2.02) (Lightning Hawk) (Hack)</description>
+		<release name="FFVI - A Soldier's Contingency (Flavor B) (v2.02) (Lightning Hawk) (Hack)" region="World"/>
+		<rom name="FFVI - A Soldier's Contingency (Flavor B) (v2.02) (Lightning Hawk) (Hack).sfc" size="6291456" crc="e9e8ade5" md5="2b1eca06a66d17c1f15a2631beee0e23" sha1="8661e8192a9d3f3529e323f2ee30a70af09ab1b5"/>
 		<url>https://retroachievements.org/game/22452/hashes</url>
 		<hash>2b1eca06a66d17c1f15a2631beee0e23</hash>
 	</game>
 	
-	<game name="Final Fantasy VI - A Soldier's Contingency (Monster Flavor A) (v2.01) (Lightning Hawk) (Hack)" cloneof="Final Fantasy VI - A Soldier's Contingency (Monster Flavor A) (v2.02) (Lightning Hawk) (Hack)">
+	<game name="FFVI - A Soldier's Contingency (Monster Flavor A) (v2.01) (Lightning Hawk) (Hack)" cloneof="FFVI - A Soldier's Contingency (Monster Flavor A) (v2.02) (Lightning Hawk) (Hack)">
 		<category>Subset</category>
-		<description>Final Fantasy VI - A Soldier's Contingency (Monster Flavor A) (v2.01) (Lightning Hawk) (Hack)</description>
-		<release name="Final Fantasy VI - A Soldier's Contingency (Monster Flavor A) (v2.01) (Lightning Hawk) (Hack)" region="World"/>
-		<rom name="Final Fantasy VI - A Soldier's Contingency (Monster Flavor A) (v2.01) (Lightning Hawk) (Hack).sfc" size="6291456" crc="1cc70c28" md5="91cd006047454d4a5924fdde87f79a9e" sha1="d7a3609bcc38c25facefd15ecb2561eb086f62fe"/>
+		<description>FFVI - A Soldier's Contingency (Monster Flavor A) (v2.01) (Lightning Hawk) (Hack)</description>
+		<release name="FFVI - A Soldier's Contingency (Monster Flavor A) (v2.01) (Lightning Hawk) (Hack)" region="World"/>
+		<rom name="FFVI - A Soldier's Contingency (Monster Flavor A) (v2.01) (Lightning Hawk) (Hack).sfc" size="6291456" crc="1cc70c28" md5="91cd006047454d4a5924fdde87f79a9e" sha1="d7a3609bcc38c25facefd15ecb2561eb086f62fe"/>
 		<url>https://retroachievements.org/game/31180/hashes</url>
 		<hash>91cd006047454d4a5924fdde87f79a9e</hash>
 	</game>
-	<game name="Final Fantasy VI - A Soldier's Contingency (Monster Flavor B) (v2.01) (Lightning Hawk) (Hack)" cloneof="Final Fantasy VI - A Soldier's Contingency (Monster Flavor B) (v2.02) (Lightning Hawk) (Hack)">
+	<game name="FFVI - A Soldier's Contingency (Monster Flavor B) (v2.01) (Lightning Hawk) (Hack)" cloneof="FFVI - A Soldier's Contingency (Monster Flavor B) (v2.02) (Lightning Hawk) (Hack)">
 		<category>Subset</category>
-		<description>Final Fantasy VI - A Soldier's Contingency (Monster Flavor B) (v2.01) (Lightning Hawk) (Hack)</description>
-		<release name="Final Fantasy VI - A Soldier's Contingency (Monster Flavor B) (v2.01) (Lightning Hawk) (Hack)" region="World"/>
-		<rom name="Final Fantasy VI - A Soldier's Contingency (Monster Flavor B) (v2.01) (Lightning Hawk) (Hack).sfc" size="6291456" crc="c238589b" md5="d316b62e6b6e3604dc1e9593e192153a" sha1="60ac460cbe508846b0ab7b991c014ff69b3f665d"/>
+		<description>FFVI - A Soldier's Contingency (Monster Flavor B) (v2.01) (Lightning Hawk) (Hack)</description>
+		<release name="FFVI - A Soldier's Contingency (Monster Flavor B) (v2.01) (Lightning Hawk) (Hack)" region="World"/>
+		<rom name="FFVI - A Soldier's Contingency (Monster Flavor B) (v2.01) (Lightning Hawk) (Hack).sfc" size="6291456" crc="c238589b" md5="d316b62e6b6e3604dc1e9593e192153a" sha1="60ac460cbe508846b0ab7b991c014ff69b3f665d"/>
 		<url>https://retroachievements.org/game/31180/hashes</url>
 		<hash>d316b62e6b6e3604dc1e9593e192153a</hash>
 	</game>
-	<game name="Final Fantasy VI - A Soldier's Contingency (Monster Flavor A) (v2.02) (Lightning Hawk) (Hack)">
+	<game name="FFVI - A Soldier's Contingency (Monster Flavor A) (v2.02) (Lightning Hawk) (Hack)">
 		<category>Subset</category>
-		<description>Final Fantasy VI - A Soldier's Contingency (Monster Flavor A) (v2.02) (Lightning Hawk) (Hack)</description>
-		<release name="Final Fantasy VI - A Soldier's Contingency (Monster Flavor A) (v2.02) (Lightning Hawk) (Hack)" region="World"/>
-		<rom name="Final Fantasy VI - A Soldier's Contingency (Monster Flavor A) (v2.02) (Lightning Hawk) (Hack).sfc" size="6291456" crc="9ceddd93" md5="233b3055e466957173645a91fbb618cd" sha1="c322b2b320f0a7c8f7de8551ae9ff21b2e0cdd72"/>
+		<description>FFVI - A Soldier's Contingency (Monster Flavor A) (v2.02) (Lightning Hawk) (Hack)</description>
+		<release name="FFVI - A Soldier's Contingency (Monster Flavor A) (v2.02) (Lightning Hawk) (Hack)" region="World"/>
+		<rom name="FFVI - A Soldier's Contingency (Monster Flavor A) (v2.02) (Lightning Hawk) (Hack).sfc" size="6291456" crc="9ceddd93" md5="233b3055e466957173645a91fbb618cd" sha1="c322b2b320f0a7c8f7de8551ae9ff21b2e0cdd72"/>
 		<url>https://retroachievements.org/game/31180/hashes</url>
 		<hash>233b3055e466957173645a91fbb618cd</hash>
 	</game>
-	<game name="Final Fantasy VI - A Soldier's Contingency (Monster Flavor B) (v2.02) (Lightning Hawk) (Hack)">
+	<game name="FFVI - A Soldier's Contingency (Monster Flavor B) (v2.02) (Lightning Hawk) (Hack)">
 		<category>Subset</category>
-		<description>Final Fantasy VI - A Soldier's Contingency (Monster Flavor B) (v2.02) (Lightning Hawk) (Hack)</description>
-		<release name="Final Fantasy VI - A Soldier's Contingency (Monster Flavor B) (v2.02) (Lightning Hawk) (Hack)" region="World"/>
-		<rom name="Final Fantasy VI - A Soldier's Contingency (Monster Flavor B) (v2.02) (Lightning Hawk) (Hack).sfc" size="6291456" crc="0835ee46" md5="8600b46291213b554fc1544c2b1e87c3" sha1="31e38b3efb8cd12f23de4e6dd6ed40637f213f1c"/>
+		<description>FFVI - A Soldier's Contingency (Monster Flavor B) (v2.02) (Lightning Hawk) (Hack)</description>
+		<release name="FFVI - A Soldier's Contingency (Monster Flavor B) (v2.02) (Lightning Hawk) (Hack)" region="World"/>
+		<rom name="FFVI - A Soldier's Contingency (Monster Flavor B) (v2.02) (Lightning Hawk) (Hack).sfc" size="6291456" crc="0835ee46" md5="8600b46291213b554fc1544c2b1e87c3" sha1="31e38b3efb8cd12f23de4e6dd6ed40637f213f1c"/>
 		<url>https://retroachievements.org/game/31180/hashes</url>
 		<hash>8600b46291213b554fc1544c2b1e87c3</hash>
 	</game>
 	
-	<game name="Final Fantasy VI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Hack)">
+	<game name="FFVI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Hack)">
 		<category>Subset</category>
-		<description>Final Fantasy VI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Hack)</description>
-		<release name="Final Fantasy VI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Hack)" region="World"/>
-		<rom name="Final Fantasy VI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Hack).sfc" size="6291456" crc="aeca71a5" md5="812a47da0348831b50b0483bcb28c1ad" sha1="ce8a63143e20159066a20941c9c1889bab4cd19a"/>
+		<description>FFVI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Hack)</description>
+		<release name="FFVI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Hack)" region="World"/>
+		<rom name="FFVI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Hack).sfc" size="6291456" crc="aeca71a5" md5="812a47da0348831b50b0483bcb28c1ad" sha1="ce8a63143e20159066a20941c9c1889bab4cd19a"/>
 		<url>https://retroachievements.org/game/31166/hashes</url>
 		<hash>812a47da0348831b50b0483bcb28c1ad</hash>
 	</game>
-	<game name="Final Fantasy VI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Hack)">
+	<game name="FFVI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Hack)">
 		<category>Subset</category>
-		<description>Final Fantasy VI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Hack)</description>
-		<release name="Final Fantasy VI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Hack)" region="World"/>
-		<rom name="Final Fantasy VI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Hack).sfc" size="6291456" crc="910e081c" md5="f859c37fadc72c6604828bef7128bf60" sha1="d7151087703cf65e58bf2cfc162af3f7fcf3c396"/>
+		<description>FFVI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Hack)</description>
+		<release name="FFVI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Hack)" region="World"/>
+		<rom name="FFVI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Hack).sfc" size="6291456" crc="910e081c" md5="f859c37fadc72c6604828bef7128bf60" sha1="d7151087703cf65e58bf2cfc162af3f7fcf3c396"/>
 		<url>https://retroachievements.org/game/31166/hashes</url>
 		<hash>f859c37fadc72c6604828bef7128bf60</hash>
 	</game>
 	
-	<game name="Final Fantasy VI - Brave New World (2.1.0) (Synchysi, BTB) (Hack)" cloneof="Final Fantasy VI - Brave New World (2.1.1) (Synchysi, BTB) (Hack)">
+	<game name="FFVI - Brave New World (2.1.0) (Synchysi, BTB) (Hack)" cloneof="FFVI - Brave New World (2.1.1) (Synchysi, BTB) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Brave New World (2.1.0) (Synchysi, BTB) (Hack)</description>
-		<rom name="Final Fantasy VI - Brave New World (2.1.0) (Synchysi, BTB) (Hack).sfc" size="3145728" crc="8c3a806b" md5="b58f799ee291dbc58c08f3b457e35a22" sha1="06925febe9b171f9bb91764805fd165bd11a15fc"/>
+		<description>FFVI - Brave New World (2.1.0) (Synchysi, BTB) (Hack)</description>
+		<rom name="FFVI - Brave New World (2.1.0) (Synchysi, BTB) (Hack).sfc" size="3145728" crc="8c3a806b" md5="b58f799ee291dbc58c08f3b457e35a22" sha1="06925febe9b171f9bb91764805fd165bd11a15fc"/>
 		<url>https://retroachievements.org/game/1247/hashes</url>
 		<hash>b58f799ee291dbc58c08f3b457e35a22</hash>
 	</game>
-	<game name="Final Fantasy VI - Brave New World (2.1.1) (Synchysi, BTB) (Hack)">
+	<game name="FFVI - Brave New World (2.1.1) (Synchysi, BTB) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Brave New World (2.1.1) (Synchysi, BTB) (Hack)</description>
-		<release name="Final Fantasy VI - Brave New World (2.1.1) (Synchysi, BTB) (Hack)" region="World"/>
-		<rom name="Final Fantasy VI - Brave New World (2.1.1) (Synchysi, BTB) (Hack).sfc" size="3204992" crc="a30c180b" md5="fc45e5e1406ecd17d7ab06a0b76d004f" sha1="eda92153a4e2ce4d62bb2c86820e765df5c03b27"/>
+		<description>FFVI - Brave New World (2.1.1) (Synchysi, BTB) (Hack)</description>
+		<release name="FFVI - Brave New World (2.1.1) (Synchysi, BTB) (Hack)" region="World"/>
+		<rom name="FFVI - Brave New World (2.1.1) (Synchysi, BTB) (Hack).sfc" size="3204992" crc="a30c180b" md5="fc45e5e1406ecd17d7ab06a0b76d004f" sha1="eda92153a4e2ce4d62bb2c86820e765df5c03b27"/>
 		<url>https://retroachievements.org/game/1247/hashes</url>
 		<hash>fc45e5e1406ecd17d7ab06a0b76d004f</hash>
 	</game>
-	<game name="Final Fantasy VI - Brave New World (v2.1) (Syhchysi, BTB) (Fan Translation) (Hack)" cloneof="Final Fantasy VI - Brave New World (2.1.1) (Synchysi, BTB) (Hack)">
+	<game name="FFVI - Brave New World (v2.1) (Syhchysi, BTB) (Fan Translation) (Hack)" cloneof="FFVI - Brave New World (2.1.1) (Synchysi, BTB) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Brave New World (v2.1) (Syhchysi, BTB) (Fan Translation) (Hack)</description>
-		<rom name="Final Fantasy VI - Brave New World (v2.1) (Syhchysi, BTB) (Fan Translation) (Hack).sfc" size="3145728" crc="d66ad1e9" md5="6dc81f6aaf8ee4ad84d9cf43110a2885" sha1="d35ece11153c6a38dac5d4747d4fcfad93f28286"/>
+		<description>FFVI - Brave New World (v2.1) (Syhchysi, BTB) (Fan Translation) (Hack)</description>
+		<rom name="FFVI - Brave New World (v2.1) (Syhchysi, BTB) (Fan Translation) (Hack).sfc" size="3145728" crc="d66ad1e9" md5="6dc81f6aaf8ee4ad84d9cf43110a2885" sha1="d35ece11153c6a38dac5d4747d4fcfad93f28286"/>
 		<url>https://retroachievements.org/game/1247/hashes</url>
 		<hash>6dc81f6aaf8ee4ad84d9cf43110a2885</hash>
 	</game>
 	
-	<game name="Final Fantasy VI - Brave New World (v2.1) (Subset - Berserker New World) (Hack)">
+	<game name="FFVI - Brave New World (v2.1) (Subset - Berserker New World) (Hack)">
 		<category>Subset</category>
-		<description>Final Fantasy VI - Brave New World (v2.1) (Subset - Berserker New World) (Hack)</description>
-		<release name="Final Fantasy VI - Brave New World (v2.1) (Subset - Berserker New World) (Hack)" region="World"/>
-		<rom name="Final Fantasy VI - Brave New World (v2.1) (Subset - Berserker New World) (Hack).sfc" size="3145728" crc="70791fdb" md5="ce006dc33ab3a46dab652483e8ce4c61" sha1="f0078166e5a17f8e8ad0ba002125d1577164f4af"/>
+		<description>FFVI - Brave New World (v2.1) (Subset - Berserker New World) (Hack)</description>
+		<release name="FFVI - Brave New World (v2.1) (Subset - Berserker New World) (Hack)" region="World"/>
+		<rom name="FFVI - Brave New World (v2.1) (Subset - Berserker New World) (Hack).sfc" size="3145728" crc="70791fdb" md5="ce006dc33ab3a46dab652483e8ce4c61" sha1="f0078166e5a17f8e8ad0ba002125d1577164f4af"/>
 		<url>https://retroachievements.org/game/30061/hashes</url>
 		<hash>ce006dc33ab3a46dab652483e8ce4c61</hash>
 	</game>
 	
-	<game name="Final Fantasy VI - Divergent Paths (v1.4) (PowerPanda) (Hack)">
+	<game name="FFVI - Divergent Paths (v1.4) (PowerPanda) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Divergent Paths (v1.4) (PowerPanda) (Hack)</description>
-		<release name="Final Fantasy VI - Divergent Paths (v1.4) (PowerPanda) (Hack)" region="World"/>
-		<rom name="Final Fantasy VI - Divergent Paths (v1.4) (PowerPanda) (Hack).sfc" size="3145728" crc="6cca8288" md5="f492b6a2b2aca4d6cc1c883fff42ecfd" sha1="205f299810c633adec13da6ce7e12369312f8c10"/>
+		<description>FFVI - Divergent Paths (v1.4) (PowerPanda) (Hack)</description>
+		<release name="FFVI - Divergent Paths (v1.4) (PowerPanda) (Hack)" region="World"/>
+		<rom name="FFVI - Divergent Paths (v1.4) (PowerPanda) (Hack).sfc" size="3145728" crc="6cca8288" md5="f492b6a2b2aca4d6cc1c883fff42ecfd" sha1="205f299810c633adec13da6ce7e12369312f8c10"/>
 		<url>https://retroachievements.org/game/18657/hashes</url>
 		<hash>f492b6a2b2aca4d6cc1c883fff42ecfd</hash>
 	</game>
 	
-	<game name="Final Fantasy III - General Leo Edition (v4.0) (Fauntleroy) (Hack)" cloneof="Final Fantasy III - General Leo Edition (Figaro Castle Cutscene Fix) (v0.1) (clymax, Cubear) (Hack)">
+	<game name="FFIII - General Leo Edition (v4.0) (Fauntleroy) (Hack)" cloneof="FFIII - General Leo Edition (Figaro Castle Cutscene Fix) (v0.1) (clymax, Cubear) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy III - General Leo Edition (v4.0) (Fauntleroy) (Hack)</description>
-		<rom name="Final Fantasy III - General Leo Edition (v4.0) (Fauntleroy) (Hack).sfc" size="3145728" crc="73192b0e" md5="fda8d7b4ff5b7b53f82e37831292004c" sha1="60c0d88a0d33cc539b4e578dfe4ae02741b696cd"/>
+		<description>FFIII - General Leo Edition (v4.0) (Fauntleroy) (Hack)</description>
+		<rom name="FFIII - General Leo Edition (v4.0) (Fauntleroy) (Hack).sfc" size="3145728" crc="73192b0e" md5="fda8d7b4ff5b7b53f82e37831292004c" sha1="60c0d88a0d33cc539b4e578dfe4ae02741b696cd"/>
 		<url>https://retroachievements.org/game/32655/hashes</url>
 		<hash>fda8d7b4ff5b7b53f82e37831292004c</hash>
 	</game>
-	<game name="Final Fantasy III - General Leo Edition (Figaro Castle Cutscene Fix) (v0.1) (clymax, Cubear) (Hack)">
+	<game name="FFIII - General Leo Edition (Figaro Castle Cutscene Fix) (v0.1) (clymax, Cubear) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy III - General Leo Edition (Figaro Castle Cutscene Fix) (v0.1) (clymax, Cubear) (Hack)</description>
-		<release name="Final Fantasy III - General Leo Edition (Figaro Castle Cutscene Fix) (v0.1) (clymax, Cubear) (Hack)" region="World"/>
-		<rom name="Final Fantasy III - General Leo Edition (Figaro Castle Cutscene Fix) (v0.1) (clymax, Cubear) (Hack).sfc" size="3145728" crc="7c47e7f2" md5="2ec77f4a2449c7915f0c0f5766c79bbb" sha1="eb5cd427e31b4a83921756d6587dbdc651daac44"/>
+		<description>FFIII - General Leo Edition (Figaro Castle Cutscene Fix) (v0.1) (clymax, Cubear) (Hack)</description>
+		<release name="FFIII - General Leo Edition (Figaro Castle Cutscene Fix) (v0.1) (clymax, Cubear) (Hack)" region="World"/>
+		<rom name="FFIII - General Leo Edition (Figaro Castle Cutscene Fix) (v0.1) (clymax, Cubear) (Hack).sfc" size="3145728" crc="7c47e7f2" md5="2ec77f4a2449c7915f0c0f5766c79bbb" sha1="eb5cd427e31b4a83921756d6587dbdc651daac44"/>
 		<url>https://retroachievements.org/game/32655/hashes</url>
 		<hash>2ec77f4a2449c7915f0c0f5766c79bbb</hash>
 	</game>
 	
-	<game name="Final Fantasy VI - Presentiment Era (v3.3) (Mr. Branford) (Hack)" cloneof="Final Fantasy VI - Presentiment Era (v3.3) (Marshal nonsense fix) (Mr. Branford, solidification) (Hack)">
+	<game name="FFVI - Presentiment Era (v3.3) (Mr. Branford) (Hack)" cloneof="FFVI - Presentiment Era (v3.3) (Marshal nonsense fix) (Mr. Branford, solidification) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Presentiment Era (v3.3) (Mr. Branford) (Hack)</description>
-		<rom name="Final Fantasy VI - Presentiment Era (v3.3) (Mr. Branford) (Hack).sfc" size="6291456" crc="51ac88d8" md5="80222cb895048625a8d18ad74589adfc" sha1="0c6eb3110a48ff303af0ccdbffcb52205f8f3591"/>
+		<description>FFVI - Presentiment Era (v3.3) (Mr. Branford) (Hack)</description>
+		<rom name="FFVI - Presentiment Era (v3.3) (Mr. Branford) (Hack).sfc" size="6291456" crc="51ac88d8" md5="80222cb895048625a8d18ad74589adfc" sha1="0c6eb3110a48ff303af0ccdbffcb52205f8f3591"/>
 		<url>https://retroachievements.org/game/31305/hashes</url>
 		<hash>80222cb895048625a8d18ad74589adfc</hash>
 	</game>
-	<game name="Final Fantasy VI - Presentiment Era (v3.3) (Marshal nonsense fix) (Mr. Branford, solidification) (Hack)">
+	<game name="FFVI - Presentiment Era (v3.3) (Marshal nonsense fix) (Mr. Branford, solidification) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Presentiment Era (v3.3) (Marshal nonsense fix) (Mr. Branford, solidification) (Hack)</description>
-		<release name="Final Fantasy VI - Presentiment Era (v3.3) (Marshal nonsense fix) (Mr. Branford, solidification) (Hack)" region="World"/>
-		<rom name="Final Fantasy VI - Presentiment Era (v3.3) (Marshal nonsense fix) (Mr. Branford, solidification) (Hack).sfc" size="6291456" crc="2fa97637" md5="f1763ff3ea4adb4f53eb34d076d6124a" sha1="79d6cc6cb874d44e8cf71fc7d5c6bae1ee19a5b9"/>
+		<description>FFVI - Presentiment Era (v3.3) (Marshal nonsense fix) (Mr. Branford, solidification) (Hack)</description>
+		<release name="FFVI - Presentiment Era (v3.3) (Marshal nonsense fix) (Mr. Branford, solidification) (Hack)" region="World"/>
+		<rom name="FFVI - Presentiment Era (v3.3) (Marshal nonsense fix) (Mr. Branford, solidification) (Hack).sfc" size="6291456" crc="2fa97637" md5="f1763ff3ea4adb4f53eb34d076d6124a" sha1="79d6cc6cb874d44e8cf71fc7d5c6bae1ee19a5b9"/>
 		<url>https://retroachievements.org/game/31305/hashes</url>
 		<hash>f1763ff3ea4adb4f53eb34d076d6124a</hash>
 	</game>
 	
-	<game name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.4) (Mike Ferrell) (OST-B) (Hack)" cloneof="Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
+	<game name="FFVI - Return of the Dark Sorcerer (v2.9.4) (Mike Ferrell) (OST-B) (Hack)" cloneof="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Return of the Dark Sorcerer (v2.9.4) (Mike Ferrell) (OST-B) (Hack)</description>
-		<rom name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.4) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="81fba117" md5="0d18de6d7908531d4c17020093a9b8c3" sha1="249dbea2ed45a3e97d2fc2f45b38f3a8029ed24e"/>
+		<description>FFVI - Return of the Dark Sorcerer (v2.9.4) (Mike Ferrell) (OST-B) (Hack)</description>
+		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.4) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="81fba117" md5="0d18de6d7908531d4c17020093a9b8c3" sha1="249dbea2ed45a3e97d2fc2f45b38f3a8029ed24e"/>
 		<url>https://retroachievements.org/game/16496/hashes</url>
 		<hash>0d18de6d7908531d4c17020093a9b8c3</hash>
 	</game>
-	<game name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.4) (Mike Ferrell) (Hack)" cloneof="Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
+	<game name="FFVI - Return of the Dark Sorcerer (v2.9.4) (Mike Ferrell) (Hack)" cloneof="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Return of the Dark Sorcerer (v2.9.4) (Mike Ferrell) (Hack)</description>
-		<rom name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.4) (Mike Ferrell) (Hack).sfc" size="8388608" crc="5dfbf674" md5="8c5061517e67fafa26ff41bae639d33f" sha1="91a7309a6e5466e7dd8c0e2eed7d78d81091188e"/>
+		<description>FFVI - Return of the Dark Sorcerer (v2.9.4) (Mike Ferrell) (Hack)</description>
+		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.4) (Mike Ferrell) (Hack).sfc" size="8388608" crc="5dfbf674" md5="8c5061517e67fafa26ff41bae639d33f" sha1="91a7309a6e5466e7dd8c0e2eed7d78d81091188e"/>
 		<url>https://retroachievements.org/game/16496/hashes</url>
 		<hash>8c5061517e67fafa26ff41bae639d33f</hash>
 	</game>
-	<game name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.3) (Mike Ferrell) (Hack)" cloneof="Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
+	<game name="FFVI - Return of the Dark Sorcerer (v2.9.3) (Mike Ferrell) (Hack)" cloneof="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Return of the Dark Sorcerer (v2.9.3) (Mike Ferrell) (Hack)</description>
-		<rom name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.3) (Mike Ferrell) (Hack).sfc" size="8388608" crc="3ffbf56b" md5="b56263f8a6d9595f407e698f3e203b7e" sha1="36018efa5a5ed8784e15ceaa08c65319d768f04d"/>
+		<description>FFVI - Return of the Dark Sorcerer (v2.9.3) (Mike Ferrell) (Hack)</description>
+		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.3) (Mike Ferrell) (Hack).sfc" size="8388608" crc="3ffbf56b" md5="b56263f8a6d9595f407e698f3e203b7e" sha1="36018efa5a5ed8784e15ceaa08c65319d768f04d"/>
 		<url>https://retroachievements.org/game/16496/hashes</url>
 		<hash>b56263f8a6d9595f407e698f3e203b7e</hash>
 	</game>
-	<game name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.3) (Mike Ferrell) (OST-B) (Hack)" cloneof="Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
+	<game name="FFVI - Return of the Dark Sorcerer (v2.9.3) (Mike Ferrell) (OST-B) (Hack)" cloneof="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Return of the Dark Sorcerer (v2.9.3) (Mike Ferrell) (OST-B) (Hack)</description>
-		<rom name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.3) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="c778404e" md5="d10697a4cbac147f31b2f05b2840d265" sha1="2d1de0ca9f680ed0357d07ec08b2362d4e7c4977"/>
+		<description>FFVI - Return of the Dark Sorcerer (v2.9.3) (Mike Ferrell) (OST-B) (Hack)</description>
+		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.3) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="c778404e" md5="d10697a4cbac147f31b2f05b2840d265" sha1="2d1de0ca9f680ed0357d07ec08b2362d4e7c4977"/>
 		<url>https://retroachievements.org/game/16496/hashes</url>
 		<hash>d10697a4cbac147f31b2f05b2840d265</hash>
 	</game>
-	<game name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.5) (Mike Ferrell) (Hack)" cloneof="Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
+	<game name="FFVI - Return of the Dark Sorcerer (v2.9.5) (Mike Ferrell) (Hack)" cloneof="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Return of the Dark Sorcerer (v2.9.5) (Mike Ferrell) (Hack)</description>
-		<rom name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.5) (Mike Ferrell) (Hack).sfc" size="8388608" crc="2f9cdfde" md5="adb718f149589bf5ae140f0e581de6a8" sha1="f6f29f0091c76aef5590709844d94803c701cc47"/>
+		<description>FFVI - Return of the Dark Sorcerer (v2.9.5) (Mike Ferrell) (Hack)</description>
+		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.5) (Mike Ferrell) (Hack).sfc" size="8388608" crc="2f9cdfde" md5="adb718f149589bf5ae140f0e581de6a8" sha1="f6f29f0091c76aef5590709844d94803c701cc47"/>
 		<url>https://retroachievements.org/game/16496/hashes</url>
 		<hash>adb718f149589bf5ae140f0e581de6a8</hash>
 	</game>
-	<game name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.5) (Mike Ferrell) (OST-B) (Hack)" cloneof="Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
+	<game name="FFVI - Return of the Dark Sorcerer (v2.9.5) (Mike Ferrell) (OST-B) (Hack)" cloneof="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Return of the Dark Sorcerer (v2.9.5) (Mike Ferrell) (OST-B) (Hack)</description>
-		<rom name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.5) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="4b2ffd30" md5="0beaf1b602eb8c191e09433a93c89299" sha1="29a079f701ff742c8768f96b0595e26c7732ca95"/>
+		<description>FFVI - Return of the Dark Sorcerer (v2.9.5) (Mike Ferrell) (OST-B) (Hack)</description>
+		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.5) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="4b2ffd30" md5="0beaf1b602eb8c191e09433a93c89299" sha1="29a079f701ff742c8768f96b0595e26c7732ca95"/>
 		<url>https://retroachievements.org/game/16496/hashes</url>
 		<hash>0beaf1b602eb8c191e09433a93c89299</hash>
 	</game>
-	<game name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.6) (Mike Ferrell) (Hack)" cloneof="Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
+	<game name="FFVI - Return of the Dark Sorcerer (v2.9.6) (Mike Ferrell) (Hack)" cloneof="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Return of the Dark Sorcerer (v2.9.6) (Mike Ferrell) (Hack)</description>
-		<rom name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.6) (Mike Ferrell) (Hack).sfc" size="8388608" crc="edd4df3a" md5="ca94980a6b145cb601f1023ff5665b18" sha1="af4814405e962f5ccc7eb7bc1677a2dab2e1038b"/>
+		<description>FFVI - Return of the Dark Sorcerer (v2.9.6) (Mike Ferrell) (Hack)</description>
+		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.6) (Mike Ferrell) (Hack).sfc" size="8388608" crc="edd4df3a" md5="ca94980a6b145cb601f1023ff5665b18" sha1="af4814405e962f5ccc7eb7bc1677a2dab2e1038b"/>
 		<url>https://retroachievements.org/game/16496/hashes</url>
 		<hash>ca94980a6b145cb601f1023ff5665b18</hash>
 	</game>
-	<game name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.6) (Mike Ferrell) (OST-B) (Hack)" cloneof="Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
+	<game name="FFVI - Return of the Dark Sorcerer (v2.9.6) (Mike Ferrell) (OST-B) (Hack)" cloneof="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Return of the Dark Sorcerer (v2.9.6) (Mike Ferrell) (OST-B) (Hack)</description>
-		<rom name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.6) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="8967fdd4" md5="b616df729c9336ac2c6fde25d22486db" sha1="c7a3175490fe9b06ba33b57812ae081c3d4bffc0"/>
+		<description>FFVI - Return of the Dark Sorcerer (v2.9.6) (Mike Ferrell) (OST-B) (Hack)</description>
+		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.6) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="8967fdd4" md5="b616df729c9336ac2c6fde25d22486db" sha1="c7a3175490fe9b06ba33b57812ae081c3d4bffc0"/>
 		<url>https://retroachievements.org/game/16496/hashes</url>
 		<hash>b616df729c9336ac2c6fde25d22486db</hash>
 	</game>
-	<game name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.7) (Mike Ferrell) (Hack)" cloneof="Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
+	<game name="FFVI - Return of the Dark Sorcerer (v2.9.7) (Mike Ferrell) (Hack)" cloneof="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Return of the Dark Sorcerer (v2.9.7) (Mike Ferrell) (Hack)</description>
-		<rom name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.7) (Mike Ferrell) (Hack).sfc" size="8388608" crc="e3608e70" md5="7cd4c783d9cdd8c49455506eb71297ff" sha1="7b2483c74db2411ef24cb045ca945db9bd27840c"/>
+		<description>FFVI - Return of the Dark Sorcerer (v2.9.7) (Mike Ferrell) (Hack)</description>
+		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.7) (Mike Ferrell) (Hack).sfc" size="8388608" crc="e3608e70" md5="7cd4c783d9cdd8c49455506eb71297ff" sha1="7b2483c74db2411ef24cb045ca945db9bd27840c"/>
 		<url>https://retroachievements.org/game/16496/hashes</url>
 		<hash>7cd4c783d9cdd8c49455506eb71297ff</hash>
 	</game>
-	<game name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.7) (Mike Ferrell) (OST-B) (Hack)" cloneof="Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
+	<game name="FFVI - Return of the Dark Sorcerer (v2.9.7) (Mike Ferrell) (OST-B) (Hack)" cloneof="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Return of the Dark Sorcerer (v2.9.7) (Mike Ferrell) (OST-B) (Hack)</description>
-		<rom name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.7) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="87d3ac9e" md5="27a904efae2305550a0b459916ed87e6" sha1="762bd846bfa3b1f2ce20af7d7dbff17521731a4e"/>
+		<description>FFVI - Return of the Dark Sorcerer (v2.9.7) (Mike Ferrell) (OST-B) (Hack)</description>
+		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.7) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="87d3ac9e" md5="27a904efae2305550a0b459916ed87e6" sha1="762bd846bfa3b1f2ce20af7d7dbff17521731a4e"/>
 		<url>https://retroachievements.org/game/16496/hashes</url>
 		<hash>27a904efae2305550a0b459916ed87e6</hash>
 	</game>
-	<game name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.8) (Mike Ferrell) (Hack)" cloneof="Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
+	<game name="FFVI - Return of the Dark Sorcerer (v2.9.8) (Mike Ferrell) (Hack)" cloneof="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Return of the Dark Sorcerer (v2.9.8) (Mike Ferrell) (Hack)</description>
-		<release name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.8) (Mike Ferrell) (Hack)" region="World"/>
-		<rom name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.8) (Mike Ferrell) (Hack).sfc" size="8388608" crc="70e678df" md5="44256a22de8a1e0c5f9d0da465a15ac9" sha1="ef4b044a731cb83d389b0dfedfccaa0b204f25db"/>
+		<description>FFVI - Return of the Dark Sorcerer (v2.9.8) (Mike Ferrell) (Hack)</description>
+		<release name="FFVI - Return of the Dark Sorcerer (v2.9.8) (Mike Ferrell) (Hack)" region="World"/>
+		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.8) (Mike Ferrell) (Hack).sfc" size="8388608" crc="70e678df" md5="44256a22de8a1e0c5f9d0da465a15ac9" sha1="ef4b044a731cb83d389b0dfedfccaa0b204f25db"/>
 		<url>https://retroachievements.org/game/16496/hashes</url>
 		<hash>44256a22de8a1e0c5f9d0da465a15ac9</hash>
 	</game>
-	<game name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.8) (Mike Ferrell) (OST-B) (Hack)" cloneof="Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
+	<game name="FFVI - Return of the Dark Sorcerer (v2.9.8) (Mike Ferrell) (OST-B) (Hack)" cloneof="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Return of the Dark Sorcerer (v2.9.8) (Mike Ferrell) (OST-B) (Hack)</description>
-		<rom name="Final Fantasy VI - Return of the Dark Sorcerer (v2.9.8) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="4e4756c2" md5="6b57368efe9eb260d0b9765aaf153875" sha1="16b9f72638dc7b6961ad99c1559411333bb37dcd"/>
+		<description>FFVI - Return of the Dark Sorcerer (v2.9.8) (Mike Ferrell) (OST-B) (Hack)</description>
+		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.8) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="4e4756c2" md5="6b57368efe9eb260d0b9765aaf153875" sha1="16b9f72638dc7b6961ad99c1559411333bb37dcd"/>
 		<url>https://retroachievements.org/game/16496/hashes</url>
 		<hash>6b57368efe9eb260d0b9765aaf153875</hash>
 	</game>
-	<game name="Final Fantasy VI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (Hack)" cloneof="Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
+	<game name="FFVI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (Hack)" cloneof="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (Hack)</description>
-		<release name="Final Fantasy VI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (Hack)" region="World"/>
-		<rom name="Final Fantasy VI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (Hack).sfc" size="8388608" crc="0610d6fa" md5="63101ae34cb3783538c91391cbd23122" sha1="2ffb658316d17ab0cd894d655210d227df63bcd0"/>
+		<description>FFVI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (Hack)</description>
+		<release name="FFVI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (Hack)" region="World"/>
+		<rom name="FFVI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (Hack).sfc" size="8388608" crc="0610d6fa" md5="63101ae34cb3783538c91391cbd23122" sha1="2ffb658316d17ab0cd894d655210d227df63bcd0"/>
 		<url>https://retroachievements.org/game/16496/hashes</url>
 		<hash>63101ae34cb3783538c91391cbd23122</hash>
 	</game>
-	<game name="Final Fantasy VI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (OST-B) (Hack)" cloneof="Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
+	<game name="FFVI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (OST-B) (Hack)" cloneof="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (OST-B) (Hack)</description>
-		<release name="Final Fantasy VI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (OST-B) (Hack)" region="World"/>
-		<rom name="Final Fantasy VI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="fdf907b2" md5="2f4231e03c8403af16a5eaab7a015b6c" sha1="635dd967d84fe6a9b6b46a4d202458e4e2a8766d"/>
+		<description>FFVI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (OST-B) (Hack)</description>
+		<release name="FFVI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (OST-B) (Hack)" region="World"/>
+		<rom name="FFVI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="fdf907b2" md5="2f4231e03c8403af16a5eaab7a015b6c" sha1="635dd967d84fe6a9b6b46a4d202458e4e2a8766d"/>
 		<url>https://retroachievements.org/game/16496/hashes</url>
 		<hash>2f4231e03c8403af16a5eaab7a015b6c</hash>
 	</game>
-	<game name="Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
+	<game name="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)</description>
-		<release name="Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)" region="World"/>
-		<rom name="Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack).sfc" size="8388608" crc="6af0ab5b" md5="aba560523d857bde23b70b1875049d30" sha1="c45823d278bd2cf42313787e2cb119c5bb5d64ab"/>
+		<description>FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)</description>
+		<release name="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)" region="World"/>
+		<rom name="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack).sfc" size="8388608" crc="6af0ab5b" md5="aba560523d857bde23b70b1875049d30" sha1="c45823d278bd2cf42313787e2cb119c5bb5d64ab"/>
 		<url>https://retroachievements.org/game/16496/hashes</url>
 		<hash>aba560523d857bde23b70b1875049d30</hash>
 	</game>
-	<game name="Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (OST-B) (Hack)" cloneof="Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
+	<game name="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (OST-B) (Hack)" cloneof="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (OST-B) (Hack)</description>
-		<release name="Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (OST-B) (Hack)" region="World"/>
-		<rom name="Final Fantasy VI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="dd44faac" md5="5c09b8ba99d6f37a7f531ea5c7a5be02" sha1="4c3fa9d9229f55acd9554ba4395abfa7c0945816"/>
+		<description>FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (OST-B) (Hack)</description>
+		<release name="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (OST-B) (Hack)" region="World"/>
+		<rom name="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="dd44faac" md5="5c09b8ba99d6f37a7f531ea5c7a5be02" sha1="4c3fa9d9229f55acd9554ba4395abfa7c0945816"/>
 		<url>https://retroachievements.org/game/16496/hashes</url>
 		<hash>5c09b8ba99d6f37a7f531ea5c7a5be02</hash>
 	</game>
 	
-	<game name="Final Fantasy VI - T-Edition EX (En) (v1.1) (Tomato) (Hack)">
+	<game name="FFVI - T-Edition EX (En) (v1.1) (Tomato) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - T-Edition EX (En) (v1.1) (Tomato) (Hack)</description>
-		<release name="Final Fantasy VI - T-Edition EX (En) (v1.1) (Tomato) (Hack)" region="World"/>
-		<rom name="Final Fantasy VI - T-Edition EX (En) (v1.1) (Tomato) (Hack).sfc" size="6291456" crc="fa8a49a4" md5="506f08c8731da25e85d6e7035a518ebf" sha1="7726a4a5bfa0433171a7b6d39e757067235cef0d"/>
+		<description>FFVI - T-Edition EX (En) (v1.1) (Tomato) (Hack)</description>
+		<release name="FFVI - T-Edition EX (En) (v1.1) (Tomato) (Hack)" region="World"/>
+		<rom name="FFVI - T-Edition EX (En) (v1.1) (Tomato) (Hack).sfc" size="6291456" crc="fa8a49a4" md5="506f08c8731da25e85d6e7035a518ebf" sha1="7726a4a5bfa0433171a7b6d39e757067235cef0d"/>
 		<url>https://retroachievements.org/game/18339/hashes</url>
 		<hash>506f08c8731da25e85d6e7035a518ebf</hash>
 	</game>
-	<game name="Final Fantasy VI - T-Edition (En) (v1.1) (Tomato) (Hack)" cloneof="Final Fantasy VI - T-Edition EX (En) (v1.1) (Tomato) (Hack)">
+	<game name="FFVI - T-Edition (En) (v1.1) (Tomato) (Hack)" cloneof="FFVI - T-Edition EX (En) (v1.1) (Tomato) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - T-Edition (En) (v1.1) (Tomato) (Hack)</description>
-		<rom name="Final Fantasy VI - T-Edition (En) (v1.1) (Tomato) (Hack).sfc" size="6291456" crc="966cf93c" md5="be1ebdac62b18db0e119ae63e27663b5" sha1="5a7dbacf9c11bf6fc02db8a6dacfc420b4b4b0b0"/>
+		<description>FFVI - T-Edition (En) (v1.1) (Tomato) (Hack)</description>
+		<rom name="FFVI - T-Edition (En) (v1.1) (Tomato) (Hack).sfc" size="6291456" crc="966cf93c" md5="be1ebdac62b18db0e119ae63e27663b5" sha1="5a7dbacf9c11bf6fc02db8a6dacfc420b4b4b0b0"/>
 		<url>https://retroachievements.org/game/18339/hashes</url>
 		<hash>be1ebdac62b18db0e119ae63e27663b5</hash>
 	</game>
 	
-	<game name="Final Fantasy VI - The Eternal Crystals (v10.8.3) (MakouEyes) (Hack)">
+	<game name="FFVI - The Eternal Crystals (v10.8.3) (MakouEyes) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - The Eternal Crystals (v10.8.3) (MakouEyes) (Hack)</description>
-		<release name="Final Fantasy VI - The Eternal Crystals (v10.8.3) (MakouEyes) (Hack)" region="World"/>
-		<rom name="Final Fantasy VI - The Eternal Crystals (v10.8.3) (MakouEyes) (Hack).sfc" size="4194304" crc="bffd2c68" md5="5bc14b6604e59740d8d0a78ca5c4e93d" sha1="28b8f5b4f4769b5e7bd7a66cfb1ba6c59d2af5af"/>
+		<description>FFVI - The Eternal Crystals (v10.8.3) (MakouEyes) (Hack)</description>
+		<release name="FFVI - The Eternal Crystals (v10.8.3) (MakouEyes) (Hack)" region="World"/>
+		<rom name="FFVI - The Eternal Crystals (v10.8.3) (MakouEyes) (Hack).sfc" size="4194304" crc="bffd2c68" md5="5bc14b6604e59740d8d0a78ca5c4e93d" sha1="28b8f5b4f4769b5e7bd7a66cfb1ba6c59d2af5af"/>
 		<url>https://retroachievements.org/game/18829/hashes</url>
 		<hash>5bc14b6604e59740d8d0a78ca5c4e93d</hash>
 	</game>
@@ -1332,99 +1349,99 @@
 		<hash>02b9a9b913d9aa3badc7a0fc08946a54</hash>
 	</game>
 	
-	<game name="SMW - Hack (Golden Yoshi) (Hack)">
+	<game name="SMW - (Golden Yoshi) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Hack (Golden Yoshi) (Hack)</description>
-		<release name="SMW - Hack (Golden Yoshi) (Hack)" region="World"/>
-		<rom name="SMW - Hack (Golden Yoshi) (Hack).sfc" size="2097152" crc="305a3fed" md5="a4f9367424f896fcc675ed67aa1477a3" sha1="0a42c5c0feb521f0b94331fd98c9ca4a0de5f681"/>
+		<description>SMW - (Golden Yoshi) (Hack)</description>
+		<release name="SMW - (Golden Yoshi) (Hack)" region="World"/>
+		<rom name="SMW - (Golden Yoshi) (Hack).sfc" size="2097152" crc="305a3fed" md5="a4f9367424f896fcc675ed67aa1477a3" sha1="0a42c5c0feb521f0b94331fd98c9ca4a0de5f681"/>
 		<url>https://retroachievements.org/game/15655/hashes</url>
 		<hash>a4f9367424f896fcc675ed67aa1477a3</hash>
 	</game>
 	
-	<game name="SMW - Hack 0 (v1.3) (Golden Yoshi) (Hack)">
+	<game name="SMW - 0 (v1.3) (Golden Yoshi) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Hack 0 (v1.3) (Golden Yoshi) (Hack)</description>
-		<release name="SMW - Hack 0 (v1.3) (Golden Yoshi) (Hack)" region="World"/>
-		<rom name="SMW - Hack 0 (v1.3) (Golden Yoshi) (Hack).sfc" size="2097152" crc="1b0b7e2d" md5="9030c3b410ed36bbea8f2c2548b2a502" sha1="045f983f5511e04dde3d20296368bc5c699f7013"/>
+		<description>SMW - 0 (v1.3) (Golden Yoshi) (Hack)</description>
+		<release name="SMW - 0 (v1.3) (Golden Yoshi) (Hack)" region="World"/>
+		<rom name="SMW - 0 (v1.3) (Golden Yoshi) (Hack).sfc" size="2097152" crc="1b0b7e2d" md5="9030c3b410ed36bbea8f2c2548b2a502" sha1="045f983f5511e04dde3d20296368bc5c699f7013"/>
 		<url>https://retroachievements.org/game/26525/hashes</url>
 		<hash>9030c3b410ed36bbea8f2c2548b2a502</hash>
 	</game>
 	
-	<game name="SMW - Hack 0 2 (v1.0) (Golden Yoshi) (Hack)" cloneof="SMW - Hack 0 2 (v1.1) (Golden Yoshi) (Hack)">
+	<game name="SMW - 0 2 (v1.0) (Golden Yoshi) (Hack)" cloneof="SMW - 0 2 (v1.1) (Golden Yoshi) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Hack 0 2 (v1.0) (Golden Yoshi) (Hack)</description>
-		<rom name="SMW - Hack 0 2 (v1.0) (Golden Yoshi) (Hack).sfc" size="2097152" crc="e57ecf6e" md5="6276b2099bff97d6a3072e48f06f78a3" sha1="fb1a459dc9e745ed2b4a27993f7da3c42437f4ad"/>
+		<description>SMW - 0 2 (v1.0) (Golden Yoshi) (Hack)</description>
+		<rom name="SMW - 0 2 (v1.0) (Golden Yoshi) (Hack).sfc" size="2097152" crc="e57ecf6e" md5="6276b2099bff97d6a3072e48f06f78a3" sha1="fb1a459dc9e745ed2b4a27993f7da3c42437f4ad"/>
 		<url>https://retroachievements.org/game/23703/hashes</url>
 		<hash>6276b2099bff97d6a3072e48f06f78a3</hash>
 	</game>
-	<game name="SMW - Hack 0 2 (v1.1) (Golden Yoshi) (Hack)">
+	<game name="SMW - 0 2 (v1.1) (Golden Yoshi) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Hack 0 2 (v1.1) (Golden Yoshi) (Hack)</description>
-		<release name="SMW - Hack 0 2 (v1.1) (Golden Yoshi) (Hack)" region="World"/>
-		<rom name="SMW - Hack 0 2 (v1.1) (Golden Yoshi) (Hack).sfc" size="2097152" crc="7114422c" md5="1d4285309448a5b0844a733fc3ced4db" sha1="7a6e185afb413894c657fa6687d4a26b3d261b7c"/>
+		<description>SMW - 0 2 (v1.1) (Golden Yoshi) (Hack)</description>
+		<release name="SMW - 0 2 (v1.1) (Golden Yoshi) (Hack)" region="World"/>
+		<rom name="SMW - 0 2 (v1.1) (Golden Yoshi) (Hack).sfc" size="2097152" crc="7114422c" md5="1d4285309448a5b0844a733fc3ced4db" sha1="7a6e185afb413894c657fa6687d4a26b3d261b7c"/>
 		<url>https://retroachievements.org/game/23703/hashes</url>
 		<hash>1d4285309448a5b0844a733fc3ced4db</hash>
 	</game>
 	
-	<game name="SMW - Hack 1 2 (2020-09-30) (Golden Yoshi) (Hack)">
+	<game name="SMW - 1 2 (2020-09-30) (Golden Yoshi) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Hack 1 2 (2020-09-30) (Golden Yoshi) (Hack)</description>
-		<release name="SMW - Hack 1 2 (2020-09-30) (Golden Yoshi) (Hack)" region="World"/>
-		<rom name="SMW - Hack 1 2 (2020-09-30) (Golden Yoshi) (Hack).sfc" size="2097152" crc="013ebdaf" md5="e20e1ab7490f256e5a45c5652e975be4" sha1="abe2f90182e5cd41a1350351652cecbcb609f73e"/>
+		<description>SMW - 1 2 (2020-09-30) (Golden Yoshi) (Hack)</description>
+		<release name="SMW - 1 2 (2020-09-30) (Golden Yoshi) (Hack)" region="World"/>
+		<rom name="SMW - 1 2 (2020-09-30) (Golden Yoshi) (Hack).sfc" size="2097152" crc="013ebdaf" md5="e20e1ab7490f256e5a45c5652e975be4" sha1="abe2f90182e5cd41a1350351652cecbcb609f73e"/>
 		<url>https://retroachievements.org/game/17038/hashes</url>
 		<hash>e20e1ab7490f256e5a45c5652e975be4</hash>
 	</game>
 	
-	<game name="SMW - Hack 2 (Golden Yoshi) (Hack)">
+	<game name="SMW - 2 (Golden Yoshi) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Hack 2 (Golden Yoshi) (Hack)</description>
-		<release name="SMW - Hack 2 (Golden Yoshi) (Hack)" region="World"/>
-		<rom name="SMW - Hack 2 (Golden Yoshi) (Hack).sfc" size="2097152" crc="b91b7c17" md5="b37f2dead6d4c13756bacab8bd0dcbbe" sha1="8ba13e8c233450ca29912e244bcdd5c5fe50db87"/>
+		<description>SMW - 2 (Golden Yoshi) (Hack)</description>
+		<release name="SMW - 2 (Golden Yoshi) (Hack)" region="World"/>
+		<rom name="SMW - 2 (Golden Yoshi) (Hack).sfc" size="2097152" crc="b91b7c17" md5="b37f2dead6d4c13756bacab8bd0dcbbe" sha1="8ba13e8c233450ca29912e244bcdd5c5fe50db87"/>
 		<url>https://retroachievements.org/game/3322/hashes</url>
 		<hash>b37f2dead6d4c13756bacab8bd0dcbbe</hash>
 	</game>
 	
-	<game name="SMW - Hack 3 (Golden Yoshi) (Hack)">
+	<game name="SMW - 3 (Golden Yoshi) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Hack 3 (Golden Yoshi) (Hack)</description>
-		<release name="SMW - Hack 3 (Golden Yoshi) (Hack)" region="World"/>
-		<rom name="SMW - Hack 3 (Golden Yoshi) (Hack).sfc" size="2097152" crc="3e4ccfe2" md5="deae0987acb2bb208952cc1cbea5ce1b" sha1="d0318000365b8ed362992654eb463e14771cd2e6"/>
+		<description>SMW - 3 (Golden Yoshi) (Hack)</description>
+		<release name="SMW - 3 (Golden Yoshi) (Hack)" region="World"/>
+		<rom name="SMW - 3 (Golden Yoshi) (Hack).sfc" size="2097152" crc="3e4ccfe2" md5="deae0987acb2bb208952cc1cbea5ce1b" sha1="d0318000365b8ed362992654eb463e14771cd2e6"/>
 		<url>https://retroachievements.org/game/2773/hashes</url>
 		<hash>deae0987acb2bb208952cc1cbea5ce1b</hash>
 	</game>
 	
-	<game name="SMW - Hack 4 (Golden Yoshi) (Hack)">
+	<game name="SMW - 4 (Golden Yoshi) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Hack 4 (Golden Yoshi) (Hack)</description>
-		<release name="SMW - Hack 4 (Golden Yoshi) (Hack)" region="World"/>
-		<rom name="SMW - Hack 4 (Golden Yoshi) (Hack).sfc" size="2097152" crc="c023e2ff" md5="aed218957ef8aee5e6b63ba7220120e3" sha1="f8e2fa4968d1d51d2da4bc947761910e14159f13"/>
+		<description>SMW - 4 (Golden Yoshi) (Hack)</description>
+		<release name="SMW - 4 (Golden Yoshi) (Hack)" region="World"/>
+		<rom name="SMW - 4 (Golden Yoshi) (Hack).sfc" size="2097152" crc="c023e2ff" md5="aed218957ef8aee5e6b63ba7220120e3" sha1="f8e2fa4968d1d51d2da4bc947761910e14159f13"/>
 		<url>https://retroachievements.org/game/3054/hashes</url>
 		<hash>aed218957ef8aee5e6b63ba7220120e3</hash>
 	</game>
 	
-	<game name="SMW - Hack 5 (Golden Yoshi) (Hack)">
+	<game name="SMW - 5 (Golden Yoshi) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Hack 5 (Golden Yoshi) (Hack)</description>
-		<release name="SMW - Hack 5 (Golden Yoshi) (Hack)" region="World"/>
-		<rom name="SMW - Hack 5 (Golden Yoshi) (Hack).sfc" size="2097152" crc="569c0451" md5="3883af40b8b5b0696e58451f5c14997c" sha1="4be77fa1f06264d08472188f598746fd1396be43"/>
+		<description>SMW - 5 (Golden Yoshi) (Hack)</description>
+		<release name="SMW - 5 (Golden Yoshi) (Hack)" region="World"/>
+		<rom name="SMW - 5 (Golden Yoshi) (Hack).sfc" size="2097152" crc="569c0451" md5="3883af40b8b5b0696e58451f5c14997c" sha1="4be77fa1f06264d08472188f598746fd1396be43"/>
 		<url>https://retroachievements.org/game/3346/hashes</url>
 		<hash>3883af40b8b5b0696e58451f5c14997c</hash>
 	</game>
 	
-	<game name="SMW - Hack 6 (2020-12-05) (Golden Yoshi) (Hack)">
+	<game name="SMW - 6 (2020-12-05) (Golden Yoshi) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Hack 6 (2020-12-05) (Golden Yoshi) (Hack)</description>
-		<release name="SMW - Hack 6 (2020-12-05) (Golden Yoshi) (Hack)" region="World"/>
-		<rom name="SMW - Hack 6 (2020-12-05) (Golden Yoshi) (Hack).sfc" size="2097152" crc="3637e080" md5="4870555019daf50821f8fbb1d87607f3" sha1="76ea91ec30a8938d0f98106b8c29790c659ee834"/>
+		<description>SMW - 6 (2020-12-05) (Golden Yoshi) (Hack)</description>
+		<release name="SMW - 6 (2020-12-05) (Golden Yoshi) (Hack)" region="World"/>
+		<rom name="SMW - 6 (2020-12-05) (Golden Yoshi) (Hack).sfc" size="2097152" crc="3637e080" md5="4870555019daf50821f8fbb1d87607f3" sha1="76ea91ec30a8938d0f98106b8c29790c659ee834"/>
 		<url>https://retroachievements.org/game/26549/hashes</url>
 		<hash>4870555019daf50821f8fbb1d87607f3</hash>
 	</game>
 	
-	<game name="SMW - Hack 7 (v1.0) (Golden Yoshi) (Hack)">
+	<game name="SMW - 7 (v1.0) (Golden Yoshi) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Hack 7 (v1.0) (Golden Yoshi) (Hack)</description>
-		<release name="SMW - Hack 7 (v1.0) (Golden Yoshi) (Hack)" region="World"/>
-		<rom name="SMW - Hack 7 (v1.0) (Golden Yoshi) (Hack).sfc" size="4194304" crc="49bd5e86" md5="f22f4ad89e8747e31fe180e1aab65bcc" sha1="08a539f1744b3ddc688e751c2f43857563cf99d8"/>
+		<description>SMW - 7 (v1.0) (Golden Yoshi) (Hack)</description>
+		<release name="SMW - 7 (v1.0) (Golden Yoshi) (Hack)" region="World"/>
+		<rom name="SMW - 7 (v1.0) (Golden Yoshi) (Hack).sfc" size="4194304" crc="49bd5e86" md5="f22f4ad89e8747e31fe180e1aab65bcc" sha1="08a539f1744b3ddc688e751c2f43857563cf99d8"/>
 		<url>https://retroachievements.org/game/29045/hashes</url>
 		<hash>f22f4ad89e8747e31fe180e1aab65bcc</hash>
 	</game>
@@ -1438,11 +1455,11 @@
 		<hash>afcbbe4618d2ea69f2fa61b3e0091628</hash>
 	</game>
 	
-	<game name="EarthBound - EarthBound - Holiday Hex (v1.0.1) (Mr. Tenda) (Hack)">
+	<game name="EarthBound - - Holiday Hex (v1.0.1) (Mr. Tenda) (Hack)">
 		<category>Hack</category>
-		<description>EarthBound - EarthBound - Holiday Hex (v1.0.1) (Mr. Tenda) (Hack)</description>
-		<release name="EarthBound - EarthBound - Holiday Hex (v1.0.1) (Mr. Tenda) (Hack)" region="World"/>
-		<rom name="EarthBound - EarthBound - Holiday Hex (v1.0.1) (Mr. Tenda) (Hack).sfc" size="4194304" crc="1a2285ce" md5="a97940fd58ab013c88b6cbf9c23ee586" sha1="752f5114f784fad1ca05897eaca7ad82df8070a9"/>
+		<description>EarthBound - - Holiday Hex (v1.0.1) (Mr. Tenda) (Hack)</description>
+		<release name="EarthBound - - Holiday Hex (v1.0.1) (Mr. Tenda) (Hack)" region="World"/>
+		<rom name="EarthBound - - Holiday Hex (v1.0.1) (Mr. Tenda) (Hack).sfc" size="4194304" crc="1a2285ce" md5="a97940fd58ab013c88b6cbf9c23ee586" sha1="752f5114f784fad1ca05897eaca7ad82df8070a9"/>
 		<url>https://retroachievements.org/game/20565/hashes</url>
 		<hash>a97940fd58ab013c88b6cbf9c23ee586</hash>
 	</game>
@@ -1491,11 +1508,11 @@
 		<hash>ca99957ae4d43880530e362a9fb94257</hash>
 	</game>
 	
-	<game name="SMW - I Wanna Be the ROM Hack (v1.01) (Stivi) (Hack)">
+	<game name="SMW - I Wanna Be the ROM (v1.01) (Stivi) (Hack)">
 		<category>Hack</category>
-		<description>SMW - I Wanna Be the ROM Hack (v1.01) (Stivi) (Hack)</description>
-		<release name="SMW - I Wanna Be the ROM Hack (v1.01) (Stivi) (Hack)" region="World"/>
-		<rom name="SMW - I Wanna Be the ROM Hack (v1.01) (Stivi) (Hack).sfc" size="4194304" crc="aacd4708" md5="7189e66ef464746173a15907c1f42a56" sha1="221e6606796203feb0ae8646dc2985fcf2d2b845"/>
+		<description>SMW - I Wanna Be the ROM (v1.01) (Stivi) (Hack)</description>
+		<release name="SMW - I Wanna Be the ROM (v1.01) (Stivi) (Hack)" region="World"/>
+		<rom name="SMW - I Wanna Be the ROM (v1.01) (Stivi) (Hack).sfc" size="4194304" crc="aacd4708" md5="7189e66ef464746173a15907c1f42a56" sha1="221e6606796203feb0ae8646dc2985fcf2d2b845"/>
 		<url>https://retroachievements.org/game/30919/hashes</url>
 		<hash>7189e66ef464746173a15907c1f42a56</hash>
 	</game>
@@ -1699,11 +1716,11 @@
 		<hash>ae4bbc5db71b120d773764793b527346</hash>
 	</game>
 	
-	<game name="SMW - Krack the Hack (v1.4.1) (Daizo Dee Von, Mellonpizza) (Hack)">
+	<game name="SMW - Krack the (v1.4.1) (Daizo Dee Von, Mellonpizza) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Krack the Hack (v1.4.1) (Daizo Dee Von, Mellonpizza) (Hack)</description>
-		<release name="SMW - Krack the Hack (v1.4.1) (Daizo Dee Von, Mellonpizza) (Hack)" region="World"/>
-		<rom name="SMW - Krack the Hack (v1.4.1) (Daizo Dee Von, Mellonpizza) (Hack).sfc" size="4194304" crc="ed19fbed" md5="6e5325a1d7186521fcbddb650b441e18" sha1="5f4a92ef397c84d0e7562d340dd521993b3b835f"/>
+		<description>SMW - Krack the (v1.4.1) (Daizo Dee Von, Mellonpizza) (Hack)</description>
+		<release name="SMW - Krack the (v1.4.1) (Daizo Dee Von, Mellonpizza) (Hack)" region="World"/>
+		<rom name="SMW - Krack the (v1.4.1) (Daizo Dee Von, Mellonpizza) (Hack).sfc" size="4194304" crc="ed19fbed" md5="6e5325a1d7186521fcbddb650b441e18" sha1="5f4a92ef397c84d0e7562d340dd521993b3b835f"/>
 		<url>https://retroachievements.org/game/22846/hashes</url>
 		<hash>6e5325a1d7186521fcbddb650b441e18</hash>
 	</game>
@@ -2273,7 +2290,7 @@
 	<game name="Mega Man X2 (USA) - Zero Playable (Fake Zero) (Programer Peru) (Hack)" cloneof="Mega Man X2 (USA) - Zero Playable (Classic Zero) (Programer Peru) (Hack)">
 		<category>Hack</category>
 		<description>Mega Man X2 (USA) - Zero Playable (Fake Zero) (Programer Peru) (Hack)</description>
-		<rom name="Mega Man X2 (USA) - Zero Playable (Fake Zero) (Programer Peru) (Hack).smc" size="2097152" crc="c4ae3243" md5="41be66ac8dc1077441129f3f6688f2e7" sha1="223b5892cc3bbc6574b5a10fb9d58652f7db6e2c"/>
+		<rom name="Mega Man X2 (USA) - Zero Playable (Fake Zero) (Programer Peru)" size="2097152" crc="c4ae3243" md5="41be66ac8dc1077441129f3f6688f2e7" sha1="223b5892cc3bbc6574b5a10fb9d58652f7db6e2c"/>
 		<url>https://retroachievements.org/game/3464/hashes</url>
 		<hash>41be66ac8dc1077441129f3f6688f2e7</hash>
 	</game>
@@ -2589,29 +2606,29 @@
 		<hash>8780521a6511f5b8562598c7338cdc3a</hash>
 	</game>
 	
-	<game name="SMW - Ninja World (v1.2) (vLSkoot) (Hack)">
+	<game name="SMW - Ninja World (v1.2) (VLSkoot) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Ninja World (v1.2) (vLSkoot) (Hack)</description>
-		<release name="SMW - Ninja World (v1.2) (vLSkoot) (Hack)" region="World"/>
-		<rom name="SMW - Ninja World (v1.2) (vLSkoot) (Hack).sfc" size="4194304" crc="b2da461c" md5="1edf4db1cc849201db140c5f6a2126fa" sha1="b93328534bd24e550f1c8e47a22dc93fcab894ef"/>
+		<description>SMW - Ninja World (v1.2) (VLSkoot) (Hack)</description>
+		<release name="SMW - Ninja World (v1.2) (VLSkoot) (Hack)" region="World"/>
+		<rom name="SMW - Ninja World (v1.2) (VLSkoot) (Hack).sfc" size="4194304" crc="b2da461c" md5="1edf4db1cc849201db140c5f6a2126fa" sha1="b93328534bd24e550f1c8e47a22dc93fcab894ef"/>
 		<url>https://retroachievements.org/game/9481/hashes</url>
 		<hash>1edf4db1cc849201db140c5f6a2126fa</hash>
 	</game>
 	
-	<game name="SMW - Ninja World 2 (vLSkoot) (Hack)">
+	<game name="SMW - Ninja World 2 (VLSkoot) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Ninja World 2 (vLSkoot) (Hack)</description>
-		<release name="SMW - Ninja World 2 (vLSkoot) (Hack)" region="World"/>
-		<rom name="SMW - Ninja World 2 (vLSkoot) (Hack).sfc" size="2097152" crc="182c109d" md5="c08aaf6fc033c580a53dd98272fa488c" sha1="65a4a9566842431370b4ede9ee6555900fece069"/>
+		<description>SMW - Ninja World 2 (VLSkoot) (Hack)</description>
+		<release name="SMW - Ninja World 2 (VLSkoot) (Hack)" region="World"/>
+		<rom name="SMW - Ninja World 2 (VLSkoot) (Hack).sfc" size="2097152" crc="182c109d" md5="c08aaf6fc033c580a53dd98272fa488c" sha1="65a4a9566842431370b4ede9ee6555900fece069"/>
 		<url>https://retroachievements.org/game/14626/hashes</url>
 		<hash>c08aaf6fc033c580a53dd98272fa488c</hash>
 	</game>
 	
-	<game name="SMW - Ninja World 3 (vLSkoot) (Hack)">
+	<game name="SMW - Ninja World 3 (VLSkoot) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Ninja World 3 (vLSkoot) (Hack)</description>
-		<release name="SMW - Ninja World 3 (vLSkoot) (Hack)" region="World"/>
-		<rom name="SMW - Ninja World 3 (vLSkoot) (Hack).sfc" size="3145728" crc="74193980" md5="a9bed25aeab5d2b9530ac10eeebad422" sha1="46c1b6c3ca506ae7448d4c2838dd9bf85c88859a"/>
+		<description>SMW - Ninja World 3 (VLSkoot) (Hack)</description>
+		<release name="SMW - Ninja World 3 (VLSkoot) (Hack)" region="World"/>
+		<rom name="SMW - Ninja World 3 (VLSkoot) (Hack).sfc" size="3145728" crc="74193980" md5="a9bed25aeab5d2b9530ac10eeebad422" sha1="46c1b6c3ca506ae7448d4c2838dd9bf85c88859a"/>
 		<url>https://retroachievements.org/game/16482/hashes</url>
 		<hash>a9bed25aeab5d2b9530ac10eeebad422</hash>
 	</game>
@@ -2625,18 +2642,18 @@
 		<hash>03e1fb12f214955f3c325f29a377c125</hash>
 	</game>
 	
-	<game name="SMW - Nonsense (v1.0.2) (MiracleWater) (Hack)" cloneof="SMW - Nonsense (v1.1) (various) (Hack)">
+	<game name="SMW - Nonsense (v1.0.2) (MiracleWater) (Hack)" cloneof="SMW - Nonsense (v1.1) (Various) (Hack)">
 		<category>Hack</category>
 		<description>SMW - Nonsense (v1.0.2) (MiracleWater) (Hack)</description>
 		<rom name="SMW - Nonsense (v1.0.2) (MiracleWater) (Hack).sfc" size="4194304" crc="e7588328" md5="787d6b3621bc50d87fcaef9cdb974b98" sha1="7b7971ada697f30f00fa1ec5bd3ed26f0fc9b1ae"/>
 		<url>https://retroachievements.org/game/28062/hashes</url>
 		<hash>787d6b3621bc50d87fcaef9cdb974b98</hash>
 	</game>
-	<game name="SMW - Nonsense (v1.1) (various) (Hack)">
+	<game name="SMW - Nonsense (v1.1) (Various) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Nonsense (v1.1) (various) (Hack)</description>
-		<release name="SMW - Nonsense (v1.1) (various) (Hack)" region="World"/>
-		<rom name="SMW - Nonsense (v1.1) (various) (Hack).sfc" size="4194304" crc="ede3fb93" md5="c9a5dc927cf4e45cf8a6a1c31df68755" sha1="d0344da07db21acae02e005adb7a60356dc2d48c"/>
+		<description>SMW - Nonsense (v1.1) (Various) (Hack)</description>
+		<release name="SMW - Nonsense (v1.1) (Various) (Hack)" region="World"/>
+		<rom name="SMW - Nonsense (v1.1) (Various) (Hack).sfc" size="4194304" crc="ede3fb93" md5="c9a5dc927cf4e45cf8a6a1c31df68755" sha1="d0344da07db21acae02e005adb7a60356dc2d48c"/>
 		<url>https://retroachievements.org/game/28062/hashes</url>
 		<hash>c9a5dc927cf4e45cf8a6a1c31df68755</hash>
 	</game>
@@ -2659,11 +2676,11 @@
 		<hash>7f44a65cf20b213502314fc118b5a6f4</hash>
 	</game>
 	
-	<game name="SMW - Oops all keys (volpey) (Hack)">
+	<game name="SMW - Oops all keys (Volpey) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Oops all keys (volpey) (Hack)</description>
-		<release name="SMW - Oops all keys (volpey) (Hack)" region="World"/>
-		<rom name="SMW - Oops all keys (volpey) (Hack).sfc" size="1048576" crc="afa9cceb" md5="348f1d1b30758ea36e100c72b9d98594" sha1="3160afbf368e3f465fed7f4aa9d043f99fc4b6ea"/>
+		<description>SMW - Oops all keys (Volpey) (Hack)</description>
+		<release name="SMW - Oops all keys (Volpey) (Hack)" region="World"/>
+		<rom name="SMW - Oops all keys (Volpey) (Hack).sfc" size="1048576" crc="afa9cceb" md5="348f1d1b30758ea36e100c72b9d98594" sha1="3160afbf368e3f465fed7f4aa9d043f99fc4b6ea"/>
 		<url>https://retroachievements.org/game/16928/hashes</url>
 		<hash>348f1d1b30758ea36e100c72b9d98594</hash>
 	</game>
@@ -2749,29 +2766,29 @@
 		<hash>b51e12a9b06245887378332eabea90dc</hash>
 	</game>
 	
-	<game name="SMW - Quickie World (valdio) (Hack)">
+	<game name="SMW - Quickie World (Valdio) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Quickie World (valdio) (Hack)</description>
-		<release name="SMW - Quickie World (valdio) (Hack)" region="World"/>
-		<rom name="SMW - Quickie World (valdio) (Hack).sfc" size="2097152" crc="c41141a2" md5="922d8ac14a2d7bba2304977f75e536a7" sha1="b27297217808ffe5474895b914fd114c874507ea"/>
+		<description>SMW - Quickie World (Valdio) (Hack)</description>
+		<release name="SMW - Quickie World (Valdio) (Hack)" region="World"/>
+		<rom name="SMW - Quickie World (Valdio) (Hack).sfc" size="2097152" crc="c41141a2" md5="922d8ac14a2d7bba2304977f75e536a7" sha1="b27297217808ffe5474895b914fd114c874507ea"/>
 		<url>https://retroachievements.org/game/8476/hashes</url>
 		<hash>922d8ac14a2d7bba2304977f75e536a7</hash>
 	</game>
 	
-	<game name="SMW - Quickie World 2 (valdio) (Hack)">
+	<game name="SMW - Quickie World 2 (Valdio) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Quickie World 2 (valdio) (Hack)</description>
-		<release name="SMW - Quickie World 2 (valdio) (Hack)" region="World"/>
-		<rom name="SMW - Quickie World 2 (valdio) (Hack).sfc" size="2097152" crc="f824218c" md5="6d21c8d656d526d086d5bca57c7bb005" sha1="edfa21b2e6ddb5aca36d7ca93881f08ce905bfee"/>
+		<description>SMW - Quickie World 2 (Valdio) (Hack)</description>
+		<release name="SMW - Quickie World 2 (Valdio) (Hack)" region="World"/>
+		<rom name="SMW - Quickie World 2 (Valdio) (Hack).sfc" size="2097152" crc="f824218c" md5="6d21c8d656d526d086d5bca57c7bb005" sha1="edfa21b2e6ddb5aca36d7ca93881f08ce905bfee"/>
 		<url>https://retroachievements.org/game/14128/hashes</url>
 		<hash>6d21c8d656d526d086d5bca57c7bb005</hash>
 	</game>
 	
-	<game name="Final Fantasy VI - ReCast FF3 - War of the Magitek (v3.20) (C-Dude) (Hack)">
+	<game name="FFVI - ReCast FF3 - War of the Magitek (v3.20) (C-Dude) (Hack)">
 		<category>Hack</category>
-		<description>Final Fantasy VI - ReCast FF3 - War of the Magitek (v3.20) (C-Dude) (Hack)</description>
-		<release name="Final Fantasy VI - ReCast FF3 - War of the Magitek (v3.20) (C-Dude) (Hack)" region="World"/>
-		<rom name="Final Fantasy VI - ReCast FF3 - War of the Magitek (v3.20) (C-Dude) (Hack).sfc" size="3145728" crc="44224c62" md5="0e644b42c7732d5b20482d321e4151aa" sha1="d4ff12057b9723dba33dbde248a486c459797c47"/>
+		<description>FFVI - ReCast FF3 - War of the Magitek (v3.20) (C-Dude) (Hack)</description>
+		<release name="FFVI - ReCast FF3 - War of the Magitek (v3.20) (C-Dude) (Hack)" region="World"/>
+		<rom name="FFVI - ReCast FF3 - War of the Magitek (v3.20) (C-Dude) (Hack).sfc" size="3145728" crc="44224c62" md5="0e644b42c7732d5b20482d321e4151aa" sha1="d4ff12057b9723dba33dbde248a486c459797c47"/>
 		<url>https://retroachievements.org/game/30918/hashes</url>
 		<hash>0e644b42c7732d5b20482d321e4151aa</hash>
 	</game>
@@ -3472,11 +3489,11 @@
 		<hash>0697a2a97b44fc17f768793689461ddc</hash>
 	</game>
 	
-	<game name="SMW - Super Mario Bros. R An 8-Bit Like Hack (LMPuny) (Hack)">
+	<game name="SMW - Super Mario Bros. R An 8-Bit Like (LMPuny) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Super Mario Bros. R An 8-Bit Like Hack (LMPuny) (Hack)</description>
-		<release name="SMW - Super Mario Bros. R An 8-Bit Like Hack (LMPuny) (Hack)" region="World"/>
-		<rom name="SMW - Super Mario Bros. R An 8-Bit Like Hack (LMPuny) (Hack).sfc" size="4194304" crc="f57869a4" md5="245678d1f7856edc9865c7f1282e8243" sha1="41a88f494ec2f7a474818bb7c2d80372c30d30e6"/>
+		<description>SMW - Super Mario Bros. R An 8-Bit Like (LMPuny) (Hack)</description>
+		<release name="SMW - Super Mario Bros. R An 8-Bit Like (LMPuny) (Hack)" region="World"/>
+		<rom name="SMW - Super Mario Bros. R An 8-Bit Like (LMPuny) (Hack).sfc" size="4194304" crc="f57869a4" md5="245678d1f7856edc9865c7f1282e8243" sha1="41a88f494ec2f7a474818bb7c2d80372c30d30e6"/>
 		<url>https://retroachievements.org/game/17136/hashes</url>
 		<hash>245678d1f7856edc9865c7f1282e8243</hash>
 	</game>
@@ -3578,47 +3595,47 @@
 		<hash>ae41f7f2e1e7572841a5554ef9b093cb</hash>
 	</game>
 	
-	<game name="SMW - Super Mario World - 2 Player Co-Op Quest! (cyphermur9t) (Hack)">
+	<game name="SMW - 2 Player Co-Op Quest! (cyphermur9t) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Super Mario World - 2 Player Co-Op Quest! (cyphermur9t) (Hack)</description>
-		<release name="SMW - Super Mario World - 2 Player Co-Op Quest! (cyphermur9t) (Hack)" region="World"/>
-		<rom name="SMW - Super Mario World - 2 Player Co-Op Quest! (cyphermur9t) (Hack).sfc" size="2097152" crc="20bc50d4" md5="fc2af7162258233eb9968ab5c0310506" sha1="a259e2cbb17a83762bf9f05a029ad76e8196bdc3"/>
+		<description>SMW - 2 Player Co-Op Quest! (cyphermur9t) (Hack)</description>
+		<release name="SMW - 2 Player Co-Op Quest! (cyphermur9t) (Hack)" region="World"/>
+		<rom name="SMW - 2 Player Co-Op Quest! (cyphermur9t) (Hack).sfc" size="2097152" crc="20bc50d4" md5="fc2af7162258233eb9968ab5c0310506" sha1="a259e2cbb17a83762bf9f05a029ad76e8196bdc3"/>
 		<url>https://retroachievements.org/game/14120/hashes</url>
 		<hash>fc2af7162258233eb9968ab5c0310506</hash>
 	</game>
 	
-	<game name="SMW - Super Mario World - A Super Mario Adventure (v3.0) (KaidenThelens) (Hack)">
+	<game name="SMW - A Super Mario Adventure (v3.0) (KaidenThelens) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Super Mario World - A Super Mario Adventure (v3.0) (KaidenThelens) (Hack)</description>
-		<release name="SMW - Super Mario World - A Super Mario Adventure (v3.0) (KaidenThelens) (Hack)" region="World"/>
-		<rom name="SMW - Super Mario World - A Super Mario Adventure (v3.0) (KaidenThelens) (Hack).sfc" size="4194304" crc="a2ed18af" md5="d653a53c2601553caa26d6ab9a559b8f" sha1="6fc44d311fe8f254df22f5efe268e1578aa45f93"/>
+		<description>SMW - A Super Mario Adventure (v3.0) (KaidenThelens) (Hack)</description>
+		<release name="SMW - A Super Mario Adventure (v3.0) (KaidenThelens) (Hack)" region="World"/>
+		<rom name="SMW - A Super Mario Adventure (v3.0) (KaidenThelens) (Hack).sfc" size="4194304" crc="a2ed18af" md5="d653a53c2601553caa26d6ab9a559b8f" sha1="6fc44d311fe8f254df22f5efe268e1578aa45f93"/>
 		<url>https://retroachievements.org/game/17443/hashes</url>
 		<hash>d653a53c2601553caa26d6ab9a559b8f</hash>
 	</game>
 	
-	<game name="SMW - Super Mario World - Christmas Edition (v1.3.2) (Nowieso) (Hack)">
+	<game name="SMW - Christmas Edition (v1.3.2) (Nowieso) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Super Mario World - Christmas Edition (v1.3.2) (Nowieso) (Hack)</description>
-		<release name="SMW - Super Mario World - Christmas Edition (v1.3.2) (Nowieso) (Hack)" region="World"/>
-		<rom name="SMW - Super Mario World - Christmas Edition (v1.3.2) (Nowieso) (Hack).sfc" size="2097152" crc="dbfa3a62" md5="490e911ed23a5c4ef17cd06aadb02111" sha1="59420bea8f5140f41b2b267272091116b03072c0"/>
+		<description>SMW - Christmas Edition (v1.3.2) (Nowieso) (Hack)</description>
+		<release name="SMW - Christmas Edition (v1.3.2) (Nowieso) (Hack)" region="World"/>
+		<rom name="SMW - Christmas Edition (v1.3.2) (Nowieso) (Hack).sfc" size="2097152" crc="dbfa3a62" md5="490e911ed23a5c4ef17cd06aadb02111" sha1="59420bea8f5140f41b2b267272091116b03072c0"/>
 		<url>https://retroachievements.org/game/11428/hashes</url>
 		<hash>490e911ed23a5c4ef17cd06aadb02111</hash>
 	</game>
 	
-	<game name="SMW - Super Mario World - Learn 2 Kaizo (v1.1) (NeXuS15) (Hack)">
+	<game name="SMW - Learn 2 Kaizo (v1.1) (NeXuS15) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Super Mario World - Learn 2 Kaizo (v1.1) (NeXuS15) (Hack)</description>
-		<release name="SMW - Super Mario World - Learn 2 Kaizo (v1.1) (NeXuS15) (Hack)" region="World"/>
-		<rom name="SMW - Super Mario World - Learn 2 Kaizo (v1.1) (NeXuS15) (Hack).sfc" size="2097152" crc="01818d82" md5="458e8920c1046d37595902b6dce04c17" sha1="3e78ce8110b98074e0cd1856451ea88c5086ca03"/>
+		<description>SMW - Learn 2 Kaizo (v1.1) (NeXuS15) (Hack)</description>
+		<release name="SMW - Learn 2 Kaizo (v1.1) (NeXuS15) (Hack)" region="World"/>
+		<rom name="SMW - Learn 2 Kaizo (v1.1) (NeXuS15) (Hack).sfc" size="2097152" crc="01818d82" md5="458e8920c1046d37595902b6dce04c17" sha1="3e78ce8110b98074e0cd1856451ea88c5086ca03"/>
 		<url>https://retroachievements.org/game/12736/hashes</url>
 		<hash>458e8920c1046d37595902b6dce04c17</hash>
 	</game>
 	
-	<game name="SMW - Super Mario World - Neeberz's Hack (Neeberz) (Hack)">
+	<game name="SMW - Neeberz's (Neeberz) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Super Mario World - Neeberz's Hack (Neeberz) (Hack)</description>
-		<release name="SMW - Super Mario World - Neeberz's Hack (Neeberz) (Hack)" region="World"/>
-		<rom name="SMW - Super Mario World - Neeberz's Hack (Neeberz) (Hack).sfc" size="3145728" crc="fd404b64" md5="8d08f6bd1e9f6d9653a815a54f3232b3" sha1="a966247b87bbb9937b3f29b09827ed5b4875ee17"/>
+		<description>SMW - Neeberz's (Neeberz) (Hack)</description>
+		<release name="SMW - Neeberz's (Neeberz) (Hack)" region="World"/>
+		<rom name="SMW - Neeberz's (Neeberz) (Hack).sfc" size="3145728" crc="fd404b64" md5="8d08f6bd1e9f6d9653a815a54f3232b3" sha1="a966247b87bbb9937b3f29b09827ed5b4875ee17"/>
 		<url>https://retroachievements.org/game/17441/hashes</url>
 		<hash>8d08f6bd1e9f6d9653a815a54f3232b3</hash>
 	</game>
@@ -3975,11 +3992,11 @@
 		<hash>4032f604f1e2a50508c563409fd39e75</hash>
 	</game>
 	
-	<game name="SMW - The Team Shell Hack (v3.0) (Jikurein,Team Shell,xamexer) (Hack)">
+	<game name="SMW - The Team Shell (v3.0) (Jikurein,Team Shell,xamexer) (Hack)">
 		<category>Hack</category>
-		<description>SMW - The Team Shell Hack (v3.0) (Jikurein,Team Shell,xamexer) (Hack)</description>
-		<release name="SMW - The Team Shell Hack (v3.0) (Jikurein,Team Shell,xamexer) (Hack)" region="World"/>
-		<rom name="SMW - The Team Shell Hack (v3.0) (Jikurein,Team Shell,xamexer) (Hack).sfc" size="4194304" crc="548f8fe2" md5="ceb2ed3011bd43221a4cc38d7c05c97e" sha1="6748344f24bcd4983f9a6e5a24c541471d294226"/>
+		<description>SMW - The Team Shell (v3.0) (Jikurein,Team Shell,xamexer) (Hack)</description>
+		<release name="SMW - The Team Shell (v3.0) (Jikurein,Team Shell,xamexer) (Hack)" region="World"/>
+		<rom name="SMW - The Team Shell (v3.0) (Jikurein,Team Shell,xamexer) (Hack).sfc" size="4194304" crc="548f8fe2" md5="ceb2ed3011bd43221a4cc38d7c05c97e" sha1="6748344f24bcd4983f9a6e5a24c541471d294226"/>
 		<url>https://retroachievements.org/game/27757/hashes</url>
 		<hash>ceb2ed3011bd43221a4cc38d7c05c97e</hash>
 	</game>
@@ -4029,29 +4046,29 @@
 		<hash>761a082aae1c8bbe118b786010ec27af</hash>
 	</game>
 	
-	<game name="SMW - Things (Hack).smc (Sweetdude) (Hack)">
+	<game name="SMW - Things (Sweetdude) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Things (Hack).smc (Sweetdude) (Hack)</description>
-		<release name="SMW - Things (Hack).smc (Sweetdude) (Hack)" region="World"/>
-		<rom name="SMW - Things (Hack).smc (Sweetdude) (Hack).sfc" size="4194304" crc="99211b93" md5="e80ff704f3ad0ce85915e4b644c4bfca" sha1="5b6d436c136d18a62d7c658bf7f98d2e483510b9"/>
+		<description>SMW - Things (Sweetdude) (Hack)</description>
+		<release name="SMW - Things (Sweetdude) (Hack)" region="World"/>
+		<rom name="SMW - Things (Sweetdude) (Hack).sfc" size="4194304" crc="99211b93" md5="e80ff704f3ad0ce85915e4b644c4bfca" sha1="5b6d436c136d18a62d7c658bf7f98d2e483510b9"/>
 		<url>https://retroachievements.org/game/14477/hashes</url>
 		<hash>e80ff704f3ad0ce85915e4b644c4bfca</hash>
 	</game>
 	
-	<game name="SMW - Things (Hack).smc 2 - Booni's Island (Hack).smc (v1.2) (Sweetdude) (Hack)">
+	<game name="SMW - Things 2 - Booni's Island (v1.2) (Sweetdude) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Things (Hack).smc 2 - Booni's Island (Hack).smc (v1.2) (Sweetdude) (Hack)</description>
-		<release name="SMW - Things (Hack).smc 2 - Booni's Island (Hack).smc (v1.2) (Sweetdude) (Hack)" region="World"/>
-		<rom name="SMW - Things (Hack).smc 2 - Booni's Island (Hack).smc (v1.2) (Sweetdude) (Hack).sfc" size="2097152" crc="3449e0c0" md5="8bd021b5864fc482895c2a1da61af4c1" sha1="52f416b7c5ba4f662780fae0eee83820bd81f788"/>
+		<description>SMW - Things 2 - Booni's Island (v1.2) (Sweetdude) (Hack)</description>
+		<release name="SMW - Things 2 - Booni's Island (v1.2) (Sweetdude) (Hack)" region="World"/>
+		<rom name="SMW - Things 2 - Booni's Island (v1.2) (Sweetdude) (Hack).sfc" size="2097152" crc="3449e0c0" md5="8bd021b5864fc482895c2a1da61af4c1" sha1="52f416b7c5ba4f662780fae0eee83820bd81f788"/>
 		<url>https://retroachievements.org/game/28659/hashes</url>
 		<hash>8bd021b5864fc482895c2a1da61af4c1</hash>
 	</game>
 	
-	<game name="SMW - TIAGHTPIYJSPKW (v1.1.1) (various) (Hack)">
+	<game name="SMW - TIAGHTPIYJSPKW (v1.1.1) (Various) (Hack)">
 		<category>Hack</category>
-		<description>SMW - TIAGHTPIYJSPKW (v1.1.1) (various) (Hack)</description>
-		<release name="SMW - TIAGHTPIYJSPKW (v1.1.1) (various) (Hack)" region="World"/>
-		<rom name="SMW - TIAGHTPIYJSPKW (v1.1.1) (various) (Hack).sfc" size="4194304" crc="3f798d95" md5="7e3b51b187e6c4f693475579cf1a62d8" sha1="e0ac2a5d3de7410ec350f84de48766427a099e93"/>
+		<description>SMW - TIAGHTPIYJSPKW (v1.1.1) (Various) (Hack)</description>
+		<release name="SMW - TIAGHTPIYJSPKW (v1.1.1) (Various) (Hack)" region="World"/>
+		<rom name="SMW - TIAGHTPIYJSPKW (v1.1.1) (Various) (Hack).sfc" size="4194304" crc="3f798d95" md5="7e3b51b187e6c4f693475579cf1a62d8" sha1="e0ac2a5d3de7410ec350f84de48766427a099e93"/>
 		<url>https://retroachievements.org/game/3468/hashes</url>
 		<hash>7e3b51b187e6c4f693475579cf1a62d8</hash>
 	</game>
@@ -4065,11 +4082,11 @@
 		<hash>da4d7d5d62f6e0a5854393bf17656c02</hash>
 	</game>
 	
-	<game name="SMW - TouHou Mario - Imperishable Night (2014-01-11) (vitor Vilela, Wakana) (Hack)">
+	<game name="SMW - TouHou Mario - Imperishable Night (2014-01-11) (Vitor Vilela, Wakana) (Hack)">
 		<category>Hack</category>
-		<description>SMW - TouHou Mario - Imperishable Night (2014-01-11) (vitor Vilela, Wakana) (Hack)</description>
-		<release name="SMW - TouHou Mario - Imperishable Night (2014-01-11) (vitor Vilela, Wakana) (Hack)" region="World"/>
-		<rom name="SMW - TouHou Mario - Imperishable Night (2014-01-11) (vitor Vilela, Wakana) (Hack).sfc" size="2097152" crc="db014353" md5="4b252f47170c80252657c356002e615e" sha1="3d8ebb213c85f9c8760b9f8bef78b2ae190b50e5"/>
+		<description>SMW - TouHou Mario - Imperishable Night (2014-01-11) (Vitor Vilela, Wakana) (Hack)</description>
+		<release name="SMW - TouHou Mario - Imperishable Night (2014-01-11) (Vitor Vilela, Wakana) (Hack)" region="World"/>
+		<rom name="SMW - TouHou Mario - Imperishable Night (2014-01-11) (Vitor Vilela, Wakana) (Hack).sfc" size="2097152" crc="db014353" md5="4b252f47170c80252657c356002e615e" sha1="3d8ebb213c85f9c8760b9f8bef78b2ae190b50e5"/>
 		<url>https://retroachievements.org/game/5507/hashes</url>
 		<hash>4b252f47170c80252657c356002e615e</hash>
 	</game>
@@ -4110,59 +4127,59 @@
 		<hash>f71074be06875a53e73cd95644ec132f</hash>
 	</game>
 	
-	<game name="SMW - VIP and Wall Mix (ASCII Art Edition) (v4.0) (vipper) (Hack)">
+	<game name="SMW - VIP and Wall Mix (ASCII Art Edition) (v4.0) (Vipper) (Hack)">
 		<category>Hack</category>
-		<description>SMW - VIP and Wall Mix (ASCII Art Edition) (v4.0) (vipper) (Hack)</description>
-		<release name="SMW - VIP and Wall Mix (ASCII Art Edition) (v4.0) (vipper) (Hack)" region="World"/>
-		<rom name="SMW - VIP and Wall Mix (ASCII Art Edition) (v4.0) (vipper) (Hack).sfc" size="2097152" crc="5a235005" md5="35142c8a59bb6bf540312ce598edd22b" sha1="f5db67af5e0c087f71bdd516a946d221b50edf8e"/>
+		<description>SMW - VIP and Wall Mix (ASCII Art Edition) (v4.0) (Vipper) (Hack)</description>
+		<release name="SMW - VIP and Wall Mix (ASCII Art Edition) (v4.0) (Vipper) (Hack)" region="World"/>
+		<rom name="SMW - VIP and Wall Mix (ASCII Art Edition) (v4.0) (Vipper) (Hack).sfc" size="2097152" crc="5a235005" md5="35142c8a59bb6bf540312ce598edd22b" sha1="f5db67af5e0c087f71bdd516a946d221b50edf8e"/>
 		<url>https://retroachievements.org/game/5250/hashes</url>
 		<hash>35142c8a59bb6bf540312ce598edd22b</hash>
 	</game>
-	<game name="SMW - VIP and Wall Mix (Mario Edition) (vipper) (Hack)" cloneof="SMW - VIP and Wall Mix (ASCII Art Edition) (v4.0) (vipper) (Hack)">
+	<game name="SMW - VIP and Wall Mix (Mario Edition) (Vipper) (Hack)" cloneof="SMW - VIP and Wall Mix (ASCII Art Edition) (v4.0) (Vipper) (Hack)">
 		<category>Hack</category>
-		<description>SMW - VIP and Wall Mix (Mario Edition) (vipper) (Hack)</description>
-		<rom name="SMW - VIP and Wall Mix (Mario Edition) (vipper) (Hack).sfc" size="2097152" crc="e6a2acc9" md5="7a73f2987f8b55d244732ab930abba09" sha1="000cb2d1842725d8dbbc3f74eeac98d9d9e4c835"/>
+		<description>SMW - VIP and Wall Mix (Mario Edition) (Vipper) (Hack)</description>
+		<rom name="SMW - VIP and Wall Mix (Mario Edition) (Vipper) (Hack).sfc" size="2097152" crc="e6a2acc9" md5="7a73f2987f8b55d244732ab930abba09" sha1="000cb2d1842725d8dbbc3f74eeac98d9d9e4c835"/>
 		<url>https://retroachievements.org/game/5250/hashes</url>
 		<hash>7a73f2987f8b55d244732ab930abba09</hash>
 	</game>
-	<game name="SMW - VIP and Wall Mix (ASCII Art Edition) (vipper) (Hack)" cloneof="SMW - VIP and Wall Mix (ASCII Art Edition) (v4.0) (vipper) (Hack)">
+	<game name="SMW - VIP and Wall Mix (ASCII Art Edition) (Vipper) (Hack)" cloneof="SMW - VIP and Wall Mix (ASCII Art Edition) (v4.0) (Vipper) (Hack)">
 		<category>Hack</category>
-		<description>SMW - VIP and Wall Mix (ASCII Art Edition) (vipper) (Hack)</description>
-		<rom name="SMW - VIP and Wall Mix (ASCII Art Edition) (vipper) (Hack).sfc" size="2097152" crc="dc53029e" md5="7deefb54e2775b192e69a1141e7312e9" sha1="e8119de3de4000a84f8e98aebaae36620d00d4fc"/>
+		<description>SMW - VIP and Wall Mix (ASCII Art Edition) (Vipper) (Hack)</description>
+		<rom name="SMW - VIP and Wall Mix (ASCII Art Edition) (Vipper) (Hack).sfc" size="2097152" crc="dc53029e" md5="7deefb54e2775b192e69a1141e7312e9" sha1="e8119de3de4000a84f8e98aebaae36620d00d4fc"/>
 		<url>https://retroachievements.org/game/5250/hashes</url>
 		<hash>7deefb54e2775b192e69a1141e7312e9</hash>
 	</game>
 	
-	<game name="SMW - VIP and Wall Mix 2 (ASCII Art Edition) (vipper) (Hack)">
+	<game name="SMW - VIP and Wall Mix 2 (ASCII Art Edition) (Vipper) (Hack)">
 		<category>Hack</category>
-		<description>SMW - VIP and Wall Mix 2 (ASCII Art Edition) (vipper) (Hack)</description>
-		<release name="SMW - VIP and Wall Mix 2 (ASCII Art Edition) (vipper) (Hack)" region="World"/>
-		<rom name="SMW - VIP and Wall Mix 2 (ASCII Art Edition) (vipper) (Hack).sfc" size="3145728" crc="0000d9ac" md5="7b1e4990fc3d9c90690262cdb682d22d" sha1="85e3bf8b461965d93a17e1906e7364591abe3ffe"/>
+		<description>SMW - VIP and Wall Mix 2 (ASCII Art Edition) (Vipper) (Hack)</description>
+		<release name="SMW - VIP and Wall Mix 2 (ASCII Art Edition) (Vipper) (Hack)" region="World"/>
+		<rom name="SMW - VIP and Wall Mix 2 (ASCII Art Edition) (Vipper) (Hack).sfc" size="3145728" crc="0000d9ac" md5="7b1e4990fc3d9c90690262cdb682d22d" sha1="85e3bf8b461965d93a17e1906e7364591abe3ffe"/>
 		<url>https://retroachievements.org/game/4942/hashes</url>
 		<hash>7b1e4990fc3d9c90690262cdb682d22d</hash>
 	</game>
 	
-	<game name="SMW - VIP and Wall Mix 3 (vipper) (Hack)">
+	<game name="SMW - VIP and Wall Mix 3 (Vipper) (Hack)">
 		<category>Hack</category>
-		<description>SMW - VIP and Wall Mix 3 (vipper) (Hack)</description>
-		<release name="SMW - VIP and Wall Mix 3 (vipper) (Hack)" region="World"/>
-		<rom name="SMW - VIP and Wall Mix 3 (vipper) (Hack).sfc" size="2097152" crc="23076550" md5="f26bc47d7ad7dcf11e7c3439e5ec3050" sha1="b2d8835900d6edaf4d2f27a62318cc22514fd1c6"/>
+		<description>SMW - VIP and Wall Mix 3 (Vipper) (Hack)</description>
+		<release name="SMW - VIP and Wall Mix 3 (Vipper) (Hack)" region="World"/>
+		<rom name="SMW - VIP and Wall Mix 3 (Vipper) (Hack).sfc" size="2097152" crc="23076550" md5="f26bc47d7ad7dcf11e7c3439e5ec3050" sha1="b2d8835900d6edaf4d2f27a62318cc22514fd1c6"/>
 		<url>https://retroachievements.org/game/16312/hashes</url>
 		<hash>f26bc47d7ad7dcf11e7c3439e5ec3050</hash>
 	</game>
 	
-	<game name="SMW - VIP and Wall Mix 4 (En) (Fix Update 1) (vipper) (Hack)">
+	<game name="SMW - VIP and Wall Mix 4 (En) (Fix Update 1) (Vipper) (Hack)">
 		<category>Hack</category>
-		<description>SMW - VIP and Wall Mix 4 (En) (Fix Update 1) (vipper) (Hack)</description>
-		<release name="SMW - VIP and Wall Mix 4 (En) (Fix Update 1) (vipper) (Hack)" region="World"/>
-		<rom name="SMW - VIP and Wall Mix 4 (En) (Fix Update 1) (vipper) (Hack).sfc" size="3145728" crc="d4cee4b9" md5="fa9f3e2fdd197b6ba101061285e18a25" sha1="96f459c9333b1fd68d258a07865f4acd6280548b"/>
+		<description>SMW - VIP and Wall Mix 4 (En) (Fix Update 1) (Vipper) (Hack)</description>
+		<release name="SMW - VIP and Wall Mix 4 (En) (Fix Update 1) (Vipper) (Hack)" region="World"/>
+		<rom name="SMW - VIP and Wall Mix 4 (En) (Fix Update 1) (Vipper) (Hack).sfc" size="3145728" crc="d4cee4b9" md5="fa9f3e2fdd197b6ba101061285e18a25" sha1="96f459c9333b1fd68d258a07865f4acd6280548b"/>
 		<url>https://retroachievements.org/game/32123/hashes</url>
 		<hash>fa9f3e2fdd197b6ba101061285e18a25</hash>
 	</game>
-	<game name="SMW - VIP and Wall Mix 4 (En) (v1.01) (vipper) (ASM Improvements) (Hack)" cloneof="SMW - VIP and Wall Mix 4 (En) (Fix Update 1) (vipper) (Hack)">
+	<game name="SMW - VIP and Wall Mix 4 (En) (v1.01) (Vipper) (ASM Improvements) (Hack)" cloneof="SMW - VIP and Wall Mix 4 (En) (Fix Update 1) (Vipper) (Hack)">
 		<category>Hack</category>
-		<description>SMW - VIP and Wall Mix 4 (En) (v1.01) (vipper) (ASM Improvements) (Hack)</description>
-		<rom name="SMW - VIP and Wall Mix 4 (En) (v1.01) (vipper) (ASM Improvements) (Hack).sfc" size="3145728" crc="fd8ccbbb" md5="5997bc72dc18b13dba78ea4f09d28d94" sha1="b34cebdc7348e204c78778fcc9322e4fcc046289"/>
+		<description>SMW - VIP and Wall Mix 4 (En) (v1.01) (Vipper) (ASM Improvements) (Hack)</description>
+		<rom name="SMW - VIP and Wall Mix 4 (En) (v1.01) (Vipper) (ASM Improvements) (Hack).sfc" size="3145728" crc="fd8ccbbb" md5="5997bc72dc18b13dba78ea4f09d28d94" sha1="b34cebdc7348e204c78778fcc9322e4fcc046289"/>
 		<url>https://retroachievements.org/game/32123/hashes</url>
 		<hash>5997bc72dc18b13dba78ea4f09d28d94</hash>
 	</game>
@@ -4194,20 +4211,20 @@
 		<hash>c216626a7e4896e81f49a4b1f5f760ca</hash>
 	</game>
 	
-	<game name="SMW - We Like It here (v1.1) (various) (Hack)">
+	<game name="SMW - We Like It here (v1.1) (Various) (Hack)">
 		<category>Hack</category>
-		<description>SMW - We Like It here (v1.1) (various) (Hack)</description>
-		<release name="SMW - We Like It here (v1.1) (various) (Hack)" region="World"/>
-		<rom name="SMW - We Like It here (v1.1) (various) (Hack).sfc" size="4194304" crc="ca66e5ed" md5="a53ef636cb50458e249454c1e280f726" sha1="49f04084d64baa4b1f98e95041021616cebd81df"/>
+		<description>SMW - We Like It here (v1.1) (Various) (Hack)</description>
+		<release name="SMW - We Like It here (v1.1) (Various) (Hack)" region="World"/>
+		<rom name="SMW - We Like It here (v1.1) (Various) (Hack).sfc" size="4194304" crc="ca66e5ed" md5="a53ef636cb50458e249454c1e280f726" sha1="49f04084d64baa4b1f98e95041021616cebd81df"/>
 		<url>https://retroachievements.org/game/30733/hashes</url>
 		<hash>a53ef636cb50458e249454c1e280f726</hash>
 	</game>
 	
-	<game name="SMW - Windows Mario World (Demo) (BetaMaster64) (Hack)">
+	<game name="SMW - Windows Mario World (BetaMaster64) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Windows Mario World (Demo) (BetaMaster64) (Hack)</description>
-		<release name="SMW - Windows Mario World (Demo) (BetaMaster64) (Hack)" region="World"/>
-		<rom name="SMW - Windows Mario World (Demo) (BetaMaster64) (Hack).sfc" size="2097152" crc="e1238767" md5="1e37a373d3b073341f2d25b1aaa138ef" sha1="3ac3c6e2444565da89c24a2c6ab6dba6ae446faa"/>
+		<description>SMW - Windows Mario World (BetaMaster64) (Hack)</description>
+		<release name="SMW - Windows Mario World (BetaMaster64) (Hack)" region="World"/>
+		<rom name="SMW - Windows Mario World (BetaMaster64) (Hack).sfc" size="2097152" crc="e1238767" md5="1e37a373d3b073341f2d25b1aaa138ef" sha1="3ac3c6e2444565da89c24a2c6ab6dba6ae446faa"/>
 		<url>https://retroachievements.org/game/23727/hashes</url>
 		<hash>1e37a373d3b073341f2d25b1aaa138ef</hash>
 	</game>
@@ -4272,11 +4289,11 @@
 		<hash>872835f85ffb6ea60c7b2d7606656c96</hash>
 	</game>
 	
-	<game name="SMW - World's Hardest Hack (Sweetdude) (Hack)">
+	<game name="SMW - World's Hardest (Sweetdude) (Hack)">
 		<category>Hack</category>
-		<description>SMW - World's Hardest Hack (Sweetdude) (Hack)</description>
-		<release name="SMW - World's Hardest Hack (Sweetdude) (Hack)" region="World"/>
-		<rom name="SMW - World's Hardest Hack (Sweetdude) (Hack).sfc" size="2097152" crc="daa399d6" md5="50059872be1276707095cf3a096008d7" sha1="faf06f605fe6eef0165c6a9959e400183891aa38"/>
+		<description>SMW - World's Hardest (Sweetdude) (Hack)</description>
+		<release name="SMW - World's Hardest (Sweetdude) (Hack)" region="World"/>
+		<rom name="SMW - World's Hardest (Sweetdude) (Hack).sfc" size="2097152" crc="daa399d6" md5="50059872be1276707095cf3a096008d7" sha1="faf06f605fe6eef0165c6a9959e400183891aa38"/>
 		<url>https://retroachievements.org/game/22181/hashes</url>
 		<hash>50059872be1276707095cf3a096008d7</hash>
 	</game>
@@ -4324,110 +4341,110 @@
 		<hash>a8829e2820c2c06b3202a8a2e22b97df</hash>
 	</game>
 	
-	<game name="16 BIT XMAS 2011 - Christmas Craze (World) (Aftermarket) (Unl) (Homebrew)">
+	<game name="16 BIT XMAS 2011 - Christmas Craze (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>16 BIT XMAS 2011 - Christmas Craze (World) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="16 BIT XMAS 2011 - Christmas Craze (World) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="16 BIT XMAS 2011 - Christmas Craze (World) (Aftermarket) (Unl) (Homebrew).sfc" size="524288" crc="5f7b6627" md5="0829ebfde80e7a9673fe9966a8d47b0f" sha1="7752caa676d15d4d0c42f25548c3e86128a416db"/>
+		<description>16 BIT XMAS 2011 - Christmas Craze (World) (Aftermarket)</description>
+		<release name="16 BIT XMAS 2011 - Christmas Craze (World) (Aftermarket)" region="World"/>
+		<rom name="16 BIT XMAS 2011 - Christmas Craze (World) (Aftermarket).sfc" size="524288" crc="5f7b6627" md5="0829ebfde80e7a9673fe9966a8d47b0f" sha1="7752caa676d15d4d0c42f25548c3e86128a416db"/>
 		<url>https://retroachievements.org/game/7791/hashes</url>
 		<hash>0829ebfde80e7a9673fe9966a8d47b0f</hash>
 	</game>
 	
-	<game name="Classic Kong Complete (World) (v2.01) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Classic Kong Complete (World) (v2.01) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Classic Kong Complete (World) (v2.01) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Classic Kong Complete (World) (v2.01) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Classic Kong Complete (World) (v2.01) (Aftermarket) (Unl) (Homebrew).sfc" size="262144" crc="8fa368be" md5="34109a821497c892b2bba264acee2045" sha1="33879e1a173b6f3a9e3deb160f6def1ddeb38463"/>
+		<description>Classic Kong Complete (World) (v2.01) (Aftermarket)</description>
+		<release name="Classic Kong Complete (World) (v2.01) (Aftermarket)" region="World"/>
+		<rom name="Classic Kong Complete (World) (v2.01) (Aftermarket).sfc" size="262144" crc="8fa368be" md5="34109a821497c892b2bba264acee2045" sha1="33879e1a173b6f3a9e3deb160f6def1ddeb38463"/>
 		<url>https://retroachievements.org/game/17413/hashes</url>
 		<hash>34109a821497c892b2bba264acee2045</hash>
 	</game>
 	
-	<game name="Dottie - Dreads Nought (World) (v1.1) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Dottie - Dreads Nought (World) (v1.1) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Dottie - Dreads Nought (World) (v1.1) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Dottie - Dreads Nought (World) (v1.1) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Dottie - Dreads Nought (World) (v1.1) (Aftermarket) (Unl) (Homebrew).sfc" size="1048576" crc="94afc86d" md5="90bd580db8b208798013b373bf1425a6" sha1="812f508307063cdb5ad37547476c42c3cf1ec892"/>
+		<description>Dottie - Dreads Nought (World) (v1.1) (Aftermarket)</description>
+		<release name="Dottie - Dreads Nought (World) (v1.1) (Aftermarket)" region="World"/>
+		<rom name="Dottie - Dreads Nought (World) (v1.1) (Aftermarket).sfc" size="1048576" crc="94afc86d" md5="90bd580db8b208798013b373bf1425a6" sha1="812f508307063cdb5ad37547476c42c3cf1ec892"/>
 		<url>https://retroachievements.org/game/17956/hashes</url>
 		<hash>90bd580db8b208798013b373bf1425a6</hash>
 	</game>
 	
-	<game name="Dottie Flowers (Japan) (v1.1) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Dottie Flowers (Japan) (v1.1) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Dottie Flowers (Japan) (v1.1) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Dottie Flowers (Japan) (v1.1) (Aftermarket) (Unl) (Homebrew)" region="Japan"/>
-		<rom name="Dottie Flowers (Japan) (v1.1) (Aftermarket) (Unl) (Homebrew).sfc" size="1048576" crc="14172273" md5="83a311568df4ed018a39f9cc097c4c57" sha1="7896b2eb89eb385378ad96b94e14411f637b9908"/>
+		<description>Dottie Flowers (Japan) (v1.1) (Aftermarket)</description>
+		<release name="Dottie Flowers (Japan) (v1.1) (Aftermarket)" region="Japan"/>
+		<rom name="Dottie Flowers (Japan) (v1.1) (Aftermarket).sfc" size="1048576" crc="14172273" md5="83a311568df4ed018a39f9cc097c4c57" sha1="7896b2eb89eb385378ad96b94e14411f637b9908"/>
 		<url>https://retroachievements.org/game/28165/hashes</url>
 		<hash>83a311568df4ed018a39f9cc097c4c57</hash>
 	</game>
 	
-	<game name="Fork Parker's Crunch Out (World) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Fork Parker's Crunch Out (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Fork Parker's Crunch Out (World) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Fork Parker's Crunch Out (World) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Fork Parker's Crunch Out (World) (Aftermarket) (Unl) (Homebrew).sfc" size="2097152" crc="1ccccc6e" md5="ca21da5d36bfa68d04b69f6a0833d67f" sha1="d0865f699598c438cde2cd54d5fb8971888e0c99"/>
+		<description>Fork Parker's Crunch Out (World) (Aftermarket)</description>
+		<release name="Fork Parker's Crunch Out (World) (Aftermarket)" region="World"/>
+		<rom name="Fork Parker's Crunch Out (World) (Aftermarket).sfc" size="2097152" crc="1ccccc6e" md5="ca21da5d36bfa68d04b69f6a0833d67f" sha1="d0865f699598c438cde2cd54d5fb8971888e0c99"/>
 		<url>https://retroachievements.org/game/18284/hashes</url>
 		<hash>ca21da5d36bfa68d04b69f6a0833d67f</hash>
 	</game>
 	
-	<game name="New Super Mario Land (World) (v1.5) (Aftermarket) (Unl) (Homebrew)">
+	<game name="New Super Mario Land (World) (v1.5) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>New Super Mario Land (World) (v1.5) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="New Super Mario Land (World) (v1.5) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="New Super Mario Land (World) (v1.5) (Aftermarket) (Unl) (Homebrew).sfc" size="2097152" crc="2b50f2af" md5="37ac79b4bf8148bf1b80c36cc8c5f853" sha1="b2b21665c03ad8af092cc55b2b9df10b47e8a1cd"/>
+		<description>New Super Mario Land (World) (v1.5) (Aftermarket)</description>
+		<release name="New Super Mario Land (World) (v1.5) (Aftermarket)" region="World"/>
+		<rom name="New Super Mario Land (World) (v1.5) (Aftermarket).sfc" size="2097152" crc="2b50f2af" md5="37ac79b4bf8148bf1b80c36cc8c5f853" sha1="b2b21665c03ad8af092cc55b2b9df10b47e8a1cd"/>
 		<url>https://retroachievements.org/game/1234/hashes</url>
 		<hash>37ac79b4bf8148bf1b80c36cc8c5f853</hash>
 	</game>
 	
-	<game name="Nightmare Busters (World) (Unl) (Homebrew)">
+	<game name="Nightmare Busters (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Nightmare Busters (World) (Unl) (Homebrew)</description>
-		<release name="Nightmare Busters (World) (Unl) (Homebrew)" region="World"/>
-		<rom name="Nightmare Busters (World) (Unl) (Homebrew).sfc" size="2097152" crc="abaaff79" md5="5b78a0d25cf6e12bdf20c8f6f6b0cdaf" sha1="65d156bcc43149d4828289bc78b2565a674f58be"/>
+		<description>Nightmare Busters (World) (Aftermarket)</description>
+		<release name="Nightmare Busters (World) (Aftermarket)" region="World"/>
+		<rom name="Nightmare Busters (World) (Aftermarket).sfc" size="2097152" crc="abaaff79" md5="5b78a0d25cf6e12bdf20c8f6f6b0cdaf" sha1="65d156bcc43149d4828289bc78b2565a674f58be"/>
 		<url>https://retroachievements.org/game/4944/hashes</url>
 		<hash>5b78a0d25cf6e12bdf20c8f6f6b0cdaf</hash>
 	</game>
 	
-	<game name="Nightmare Busters (World) (Unl) (Subset - Bonus)">
+	<game name="Nightmare Busters (World) (Aftermarket) (Subset - Bonus)">
 		<category>Subset</category>
-		<description>Nightmare Busters (World) (Unl) (Subset - Bonus)" (Homebrew)</description>
-		<release name="Nightmare Busters (World) (Unl) (Subset - Bonus) (Homebrew)" region="World"/>
-		<rom name="Nightmare Busters (World) (Unl) (Subset - Bonus) (Homebrew).sfc" size="2097152" crc="6e6b8401" md5="d6cce524c8e8d9e4295f6c74726da4aa" sha1="b87bd96225aae299dc2e2d48e9b79e43ef0aac69"/>
+		<description>Nightmare Busters (World) (Aftermarket) (Subset - Bonus)"</description>
+		<release name="Nightmare Busters (World) (Aftermarket) (Subset - Bonus)" region="World"/>
+		<rom name="Nightmare Busters (World) (Aftermarket) (Subset - Bonus).sfc" size="2097152" crc="6e6b8401" md5="d6cce524c8e8d9e4295f6c74726da4aa" sha1="b87bd96225aae299dc2e2d48e9b79e43ef0aac69"/>
 		<url>https://retroachievements.org/game/24005/hashes</url>
 		<hash>d6cce524c8e8d9e4295f6c74726da4aa</hash>
 	</game>
 	
-	<game name="Super Mario War (USA) (Aftermarket) (Unl) (Open Source) (Homebrew)">
+	<game name="Super Mario War (USA) (Open Source) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Super Mario War (USA) (Aftermarket) (Unl) (Open Source) (Homebrew)</description>
-		<release name="Super Mario War (USA) (Aftermarket) (Unl) (Open Source) (Homebrew)" region="World"/>
-		<rom name="Super Mario War (USA) (Aftermarket) (Unl) (Open Source) (Homebrew).sfc" size="393216" crc="c31de709" md5="20cb0824ac0614f85d2b48695c32a74e" sha1="2ac135b21a03d30c4dace54e8560f2334e5102b3"/>
+		<description>Super Mario War (USA) (Open Source) (Aftermarket)</description>
+		<release name="Super Mario War (USA) (Open Source) (Aftermarket)" region="World"/>
+		<rom name="Super Mario War (USA) (Open Source) (Aftermarket).sfc" size="393216" crc="c31de709" md5="20cb0824ac0614f85d2b48695c32a74e" sha1="2ac135b21a03d30c4dace54e8560f2334e5102b3"/>
 		<url>https://retroachievements.org/game/14648/hashes</url>
 		<hash>20cb0824ac0614f85d2b48695c32a74e</hash>
 	</game>
 	
-	<game name="Super Sudoku (World) (v1.0) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Super Sudoku (World) (v1.0) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Super Sudoku (World) (v1.0) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Super Sudoku (World) (v1.0) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Super Sudoku (World) (v1.0) (Aftermarket) (Unl) (Homebrew).sfc" size="262144" crc="c97432bf" md5="12c29b9324082d273250826b16f5b512" sha1="3b339f2ee585522b3671d2819fec5e7b125f180c"/>
+		<description>Super Sudoku (World) (v1.0) (Aftermarket)</description>
+		<release name="Super Sudoku (World) (v1.0) (Aftermarket)" region="World"/>
+		<rom name="Super Sudoku (World) (v1.0) (Aftermarket).sfc" size="262144" crc="c97432bf" md5="12c29b9324082d273250826b16f5b512" sha1="3b339f2ee585522b3671d2819fec5e7b125f180c"/>
 		<url>https://retroachievements.org/game/16056/hashes</url>
 		<hash>12c29b9324082d273250826b16f5b512</hash>
 	</game>
 	
-	<game name="Supercooked! (World) (v1.2) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Supercooked! (World) (v1.2) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Supercooked! (World) (v1.2) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Supercooked! (World) (v1.2) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Supercooked! (World) (v1.2) (Aftermarket) (Unl) (Homebrew).sfc" size="524288" crc="06df4264" md5="34c8e693445cde7ca1c39e8f7815c55e" sha1="015be7d6163e6af9d8666b00cb7e627f78851cd0"/>
+		<description>Supercooked! (World) (v1.2) (Aftermarket)</description>
+		<release name="Supercooked! (World) (v1.2) (Aftermarket)" region="World"/>
+		<rom name="Supercooked! (World) (v1.2) (Aftermarket).sfc" size="524288" crc="06df4264" md5="34c8e693445cde7ca1c39e8f7815c55e" sha1="015be7d6163e6af9d8666b00cb7e627f78851cd0"/>
 		<url>https://retroachievements.org/game/23729/hashes</url>
 		<hash>34c8e693445cde7ca1c39e8f7815c55e</hash>
 	</game>
 	
-	<game name="Sure Instinct (World) (v1.0.2) (NTSC) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Sure Instinct (World) (v1.0.2) (NTSC) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Sure Instinct (World) (v1.0.2) (NTSC) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Sure Instinct (World) (v1.0.2) (NTSC) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Sure Instinct (World) (v1.0.2) (NTSC) (Aftermarket) (Unl) (Homebrew).sfc" size="524288" crc="9d4e6d2f" md5="67fd0fe365a6b7ad5e4c39aaa4ca5288" sha1="34ed5af8cd1f384adcbecbcc7fa5ee977ee30014"/>
+		<description>Sure Instinct (World) (v1.0.2) (NTSC) (Aftermarket)</description>
+		<release name="Sure Instinct (World) (v1.0.2) (NTSC) (Aftermarket)" region="World"/>
+		<rom name="Sure Instinct (World) (v1.0.2) (NTSC) (Aftermarket).sfc" size="524288" crc="9d4e6d2f" md5="67fd0fe365a6b7ad5e4c39aaa4ca5288" sha1="34ed5af8cd1f384adcbecbcc7fa5ee977ee30014"/>
 		<url>https://retroachievements.org/game/17957/hashes</url>
 		<hash>67fd0fe365a6b7ad5e4c39aaa4ca5288</hash>
 	</game>
@@ -4483,11 +4500,11 @@
 		<url>https://retroachievements.org/game/439/hashes</url>
 		<hash>6452748e3042c9b7a4ff37dde5e9e69b</hash>
 	</game>
-	<game name="Bobby's World (USA) (Beta) (Pt) (v1.0) (Emunow)" cloneof="Bobby's World (USA) (Proto)">
+	<game name="Bobby's World (USA) (Proto) (Beta) (Pt) (v1.0) (Emunow)" cloneof="Bobby's World (USA) (Proto)">
 		<category>Prototype</category>
-		<description>Bobby's World (USA) (Beta) (Pt) (v1.0) (Emunow)</description>
-		<release name="Bobby's World (USA) (Beta) (Pt) (v1.0) (Emunow)" region="Portugal"/>
-		<rom name="Bobby's World (USA) (Beta) (Pt) (v1.0) (Emunow).sfc" size="1048576" crc="f95dc6bc" md5="acbf444f4fdba7d0f09f09c454991203" sha1="b29931a09f986446383517423dcf8fd8d71f1d50"/>
+		<description>Bobby's World (USA) (Proto) (Beta) (Pt) (v1.0) (Emunow)</description>
+		<release name="Bobby's World (USA) (Proto) (Beta) (Pt) (v1.0) (Emunow)" region="Portugal"/>
+		<rom name="Bobby's World (USA) (Proto) (Beta) (Pt) (v1.0) (Emunow).sfc" size="1048576" crc="f95dc6bc" md5="acbf444f4fdba7d0f09f09c454991203" sha1="b29931a09f986446383517423dcf8fd8d71f1d50"/>
 		<url>https://retroachievements.org/game/439/hashes</url>
 		<hash>acbf444f4fdba7d0f09f09c454991203</hash>
 	</game>
@@ -4570,28 +4587,28 @@
 		<hash>8cb1cfe8f847fe073c3609415adc2a19</hash>
 	</game>
 	
-	<game name="Pokemon Stadium (USA) (Pirate) (Fix)">
+	<game name="Pokemon Stadium (USA) (Fix) (Unl)">
 		<category>Unlicensed</category>
-		<description>Pokemon Stadium (USA) (Pirate) (Fix)</description>
-		<release name="Pokemon Stadium (USA) (Pirate) (Fix)" region="World"/>
-		<rom name="Pokemon Stadium (USA) (Pirate) (Fix).sfc" size="2097152" crc="a8142249" md5="3e5a2a7d07826140792aad45b7c76acd" sha1="b9825faf488c2106d46c45ba10b0402a04cd1e4c"/>
+		<description>Pokemon Stadium (USA) (Fix) (Unl)</description>
+		<release name="Pokemon Stadium (USA) (Fix) (Unl)" region="World"/>
+		<rom name="Pokemon Stadium (USA) (Fix) (Unl).sfc" size="2097152" crc="a8142249" md5="3e5a2a7d07826140792aad45b7c76acd" sha1="b9825faf488c2106d46c45ba10b0402a04cd1e4c"/>
 		<url>https://retroachievements.org/game/11639/hashes</url>
 		<hash>3e5a2a7d07826140792aad45b7c76acd</hash>
 	</game>
 	
-	<game name="Sextris (USA) (Pirate)">
+	<game name="Sextris (USA) (Unl)">
 		<category>Unlicensed</category>
-		<description>Sextris (USA) (Pirate)</description>
-		<release name="Sextris (USA) (Pirate)" region="USA"/>
-		<rom name="Sextris (USA) (Pirate).sfc" size="524288" crc="1f27c7e9" md5="9cc9bc50f966b2cccdb7cd145f117ceb" sha1="2255d1d3e03cd1ca276d6c2717279433f1ec74a9"/>
+		<description>Sextris (USA) (Unl)</description>
+		<release name="Sextris (USA) (Unl)" region="USA"/>
+		<rom name="Sextris (USA) (Unl).sfc" size="524288" crc="1f27c7e9" md5="9cc9bc50f966b2cccdb7cd145f117ceb" sha1="2255d1d3e03cd1ca276d6c2717279433f1ec74a9"/>
 		<url>https://retroachievements.org/game/2429/hashes</url>
 		<hash>9cc9bc50f966b2cccdb7cd145f117ceb</hash>
 	</game>
-	<game name="Columns (Japan) (Aftermarket) (Unl)">
+	<game name="Columns (Japan) (Unl)">
 		<category>Unlicensed</category>
-		<description>Columns (Japan) (Aftermarket) (Unl)</description>
-		<release name="Columns (Japan) (Aftermarket) (Unl)" region="Japan"/>
-		<rom name="Columns (Japan) (Aftermarket) (Unl).sfc" size="524288" crc="79bab93c" md5="9d67e9f5382cbcbcad063af5f422efca" sha1="4d28d27c06c8c46cfdbd1ff409fb820904e06f81"/>
+		<description>Columns (Japan) (Unl)</description>
+		<release name="Columns (Japan) (Unl)" region="Japan"/>
+		<rom name="Columns (Japan) (Unl).sfc" size="524288" crc="79bab93c" md5="9d67e9f5382cbcbcad063af5f422efca" sha1="4d28d27c06c8c46cfdbd1ff409fb820904e06f81"/>
 		<url>https://retroachievements.org/game/2429/hashes</url>
 		<hash>9d67e9f5382cbcbcad063af5f422efca</hash>
 	</game>
@@ -5064,11 +5081,11 @@
 		<url>https://retroachievements.org/game/2659/hashes</url>
 		<hash>c7f80eb13ad9ee5fb5598b24002b6113</hash>
 	</game>
-	<game name="Ashita no Joe (Japan) (En) (v0.99) (vice Translations)" cloneof="Ashita no Joe (Japan)">
+	<game name="Ashita no Joe (Japan) (En) (v0.99) (Vice Translations)" cloneof="Ashita no Joe (Japan)">
 		<category>Retail</category>
-		<description>Ashita no Joe (Japan) (En) (v0.99) (vice Translations)</description>
-		<release name="Ashita no Joe (Japan) (En) (v0.99) (vice Translations)" region="English"/>
-		<rom name="Ashita no Joe (Japan) (En) (v0.99) (vice Translations).sfc" size="1048576" crc="c3b18df7" md5="ff3e0f251293ce36bfe50da6242b1d5a" sha1="96f9b158c35ce3e2785545e7e73a75ab9fadc042"/>
+		<description>Ashita no Joe (Japan) (En) (v0.99) (Vice Translations)</description>
+		<release name="Ashita no Joe (Japan) (En) (v0.99) (Vice Translations)" region="English"/>
+		<rom name="Ashita no Joe (Japan) (En) (v0.99) (Vice Translations).sfc" size="1048576" crc="c3b18df7" md5="ff3e0f251293ce36bfe50da6242b1d5a" sha1="96f9b158c35ce3e2785545e7e73a75ab9fadc042"/>
 		<url>https://retroachievements.org/game/2659/hashes</url>
 		<hash>ff3e0f251293ce36bfe50da6242b1d5a</hash>
 	</game>
@@ -5544,6 +5561,15 @@
 		<hash>0fc1dd2c3ac2ec5baed77b3a32590ba4</hash>
 	</game>
 	
+	<game name="Block Kuzushi (Japan)">
+		<category>Retail</category>
+		<description>Block Kuzushi (Japan)</description>
+		<release name="Block Kuzushi (Japan)" region="Japan"/>
+		<rom name="Block Kuzushi (Japan).sfc" size="524288" crc="5cce2e55" md5="0289033cb1a8a60ba12c3116e94c7728" sha1="f783453422ab69cbc8a21838da036d34cff6a07e"/>
+		<url>https://retroachievements.org/game/23045/hashes</url>
+		<hash>0289033cb1a8a60ba12c3116e94c7728</hash>
+	</game>
+	
 	<game name="Bomberman B-Daman (Japan)">
 		<category>Retail</category>
 		<description>Bomberman B-Daman (Japan)</description>
@@ -5669,11 +5695,11 @@
 		<url>https://retroachievements.org/game/450/hashes</url>
 		<hash>299e96968accb96b9e0d9a4154e220a5</hash>
 	</game>
-	<game name="Breath of Fire II (USA) (Pt) (various) (v0.9)" cloneof="Breath of Fire II (USA)">
+	<game name="Breath of Fire II (USA) (Pt) (Various) (v0.9)" cloneof="Breath of Fire II (USA)">
 		<category>Retail</category>
-		<description>Breath of Fire II (USA) (Pt) (various) (v0.9)</description>
-		<release name="Breath of Fire II (USA) (Pt) (various) (v0.9)" region="Portugal"/>
-		<rom name="Breath of Fire II (USA) (Pt) (various) (v0.9).sfc" size="3145728" crc="98e53ea7" md5="a18df6ae219a46d957b015ebac23e366" sha1="0fe81bbf689c067a2536b20c660a0be09851b9c0"/>
+		<description>Breath of Fire II (USA) (Pt) (Various) (v0.9)</description>
+		<release name="Breath of Fire II (USA) (Pt) (Various) (v0.9)" region="Portugal"/>
+		<rom name="Breath of Fire II (USA) (Pt) (Various) (v0.9).sfc" size="3145728" crc="98e53ea7" md5="a18df6ae219a46d957b015ebac23e366" sha1="0fe81bbf689c067a2536b20c660a0be09851b9c0"/>
 		<url>https://retroachievements.org/game/450/hashes</url>
 		<hash>a18df6ae219a46d957b015ebac23e366</hash>
 	</game>
@@ -6004,11 +6030,11 @@
 		<hash>006fa55e70348b2020d1acf0c4a02c3a</hash>
 	</game>
 	
-	<game name="Captain Tsubasa III - Koutei no Chousen (Japan) (Es) (v0.9) (validus)" cloneof="Captain Tsubasa III - Koutei no Chousen (Japan)">
+	<game name="Captain Tsubasa III - Koutei no Chousen (Japan) (Es) (v0.9) (Validus)" cloneof="Captain Tsubasa III - Koutei no Chousen (Japan)">
 		<category>Retail</category>
-		<description>Captain Tsubasa III - Koutei no Chousen (Japan) (Es) (v0.9) (validus)</description>
-		<release name="Captain Tsubasa III - Koutei no Chousen (Japan) (Es) (v0.9) (validus)" region="Spain"/>
-		<rom name="Captain Tsubasa III - Koutei no Chousen (Japan) (Es) (v0.9) (validus).sfc" size="1048576" crc="1ad9ceb0" md5="2b1f6f45e4e8bd256a2c6704f6eb7826" sha1="ea4bb6db3d9412f90abf863a9acf9fed9e0ea5b7"/>
+		<description>Captain Tsubasa III - Koutei no Chousen (Japan) (Es) (v0.9) (Validus)</description>
+		<release name="Captain Tsubasa III - Koutei no Chousen (Japan) (Es) (v0.9) (Validus)" region="Spain"/>
+		<rom name="Captain Tsubasa III - Koutei no Chousen (Japan) (Es) (v0.9) (Validus).sfc" size="1048576" crc="1ad9ceb0" md5="2b1f6f45e4e8bd256a2c6704f6eb7826" sha1="ea4bb6db3d9412f90abf863a9acf9fed9e0ea5b7"/>
 		<url>https://retroachievements.org/game/2717/hashes</url>
 		<hash>2b1f6f45e4e8bd256a2c6704f6eb7826</hash>
 	</game>
@@ -6106,10 +6132,10 @@
 		<url>https://retroachievements.org/game/319/hashes</url>
 		<hash>0c249df34bdac1150de2f0db1ffa5569</hash>
 	</game>
-	<game name="CT - Retranslation of Chrono Compendium (USA) (v1.01) (KajarLab)" cloneof="Chrono Trigger (USA)">
+	<game name="Retranslation of Chrono Compendium (USA) (v1.01) (KajarLab)" cloneof="Chrono Trigger (USA)">
 		<category>Retail</category>
-		<description>CT - Retranslation of Chrono Compendium (USA) (v1.01) (KajarLab)</description>
-		<rom name="CT - Retranslation of Chrono Compendium (USA) (v1.01) (KajarLab).sfc" size="6291456" crc="a9671ea3" md5="3bdc014de7ed0a7de617a872a13cda70" sha1="de6448bee7492bf78109b83bef76b6c9bf484f81"/>
+		<description>Retranslation of Chrono Compendium (USA) (v1.01) (KajarLab)</description>
+		<rom name="Retranslation of Chrono Compendium (USA) (v1.01) (KajarLab).sfc" size="6291456" crc="a9671ea3" md5="3bdc014de7ed0a7de617a872a13cda70" sha1="de6448bee7492bf78109b83bef76b6c9bf484f81"/>
 		<url>https://retroachievements.org/game/319/hashes</url>
 		<hash>3bdc014de7ed0a7de617a872a13cda70</hash>
 	</game>
@@ -7145,18 +7171,18 @@
 		<url>https://retroachievements.org/game/264/hashes</url>
 		<hash>644617eacdfc9e4fd5c39f39a206671e</hash>
 	</game>
-	<game name="EarthBound (USA) (Pl) (v1.1) (voxar) (New Controls) (v1.0) (Herringway)" cloneof="EarthBound (USA)">
+	<game name="EarthBound (USA) (Pl) (v1.1) (Voxar) (New Controls) (v1.0) (Herringway)" cloneof="EarthBound (USA)">
 		<category>Retail</category>
-		<description>EarthBound (USA) (Pl) (v1.1) (voxar) (New Controls) (v1.0) (Herringway)</description>
-		<release name="EarthBound (USA) (Pl) (v1.1) (voxar) (New Controls) (v1.0) (Herringway)" region="Poland"/>
-		<rom name="EarthBound (USA) (Pl) (v1.1) (voxar) (New Controls) (v1.0) (Herringway).sfc" size="4194304" crc="7ef93b2d" md5="056cea43cece45735fa3c53e95729787" sha1="3315ee2861fc1ba9a9b708758ba8ae7a15cc6a0b"/>
+		<description>EarthBound (USA) (Pl) (v1.1) (Voxar) (New Controls) (v1.0) (Herringway)</description>
+		<release name="EarthBound (USA) (Pl) (v1.1) (Voxar) (New Controls) (v1.0) (Herringway)" region="Poland"/>
+		<rom name="EarthBound (USA) (Pl) (v1.1) (Voxar) (New Controls) (v1.0) (Herringway).sfc" size="4194304" crc="7ef93b2d" md5="056cea43cece45735fa3c53e95729787" sha1="3315ee2861fc1ba9a9b708758ba8ae7a15cc6a0b"/>
 		<url>https://retroachievements.org/game/264/hashes</url>
 		<hash>056cea43cece45735fa3c53e95729787</hash>
 	</game>
-	<game name="EarthBound (USA) (Pl) (v1.1) (voxar)" cloneof="EarthBound (USA)">
+	<game name="EarthBound (USA) (Pl) (v1.1) (Voxar)" cloneof="EarthBound (USA)">
 		<category>Retail</category>
-		<description>EarthBound (USA) (Pl) (v1.1) (voxar)</description>
-		<rom name="EarthBound (USA) (Pl) (v1.1) (voxar).sfc" size="4194304" crc="23348471" md5="16a1be10c1d1cb56eb066262a59e3bc5" sha1="18267df1cdc7b1e70f3afb5eeda652a7dab02aa7"/>
+		<description>EarthBound (USA) (Pl) (v1.1) (Voxar)</description>
+		<rom name="EarthBound (USA) (Pl) (v1.1) (Voxar).sfc" size="4194304" crc="23348471" md5="16a1be10c1d1cb56eb066262a59e3bc5" sha1="18267df1cdc7b1e70f3afb5eeda652a7dab02aa7"/>
 		<url>https://retroachievements.org/game/264/hashes</url>
 		<hash>16a1be10c1d1cb56eb066262a59e3bc5</hash>
 	</game>
@@ -7183,18 +7209,18 @@
 		<url>https://retroachievements.org/game/264/hashes</url>
 		<hash>4ebe57eda051da24a5d32c5f221b579d</hash>
 	</game>
-	<game name="EarthBound (USA) (It) (v1.47) (vecna)" cloneof="EarthBound (USA)">
+	<game name="EarthBound (USA) (It) (v1.47) (Vecna)" cloneof="EarthBound (USA)">
 		<category>Retail</category>
-		<description>EarthBound (USA) (It) (v1.47) (vecna)</description>
-		<rom name="EarthBound (USA) (It) (v1.47) (vecna).sfc" size="4194304" crc="62c04f3f" md5="240ba4c884339ec2875d64e7eff93b4f" sha1="f73a2a91241817a63d7efd4efd9ffe3cf37410ee"/>
+		<description>EarthBound (USA) (It) (v1.47) (Vecna)</description>
+		<rom name="EarthBound (USA) (It) (v1.47) (Vecna).sfc" size="4194304" crc="62c04f3f" md5="240ba4c884339ec2875d64e7eff93b4f" sha1="f73a2a91241817a63d7efd4efd9ffe3cf37410ee"/>
 		<url>https://retroachievements.org/game/264/hashes</url>
 		<hash>240ba4c884339ec2875d64e7eff93b4f</hash>
 	</game>
-	<game name="EarthBound (USA) (It) (v1.47) (vecna) (New Controls) (v1.0) (Herringway)" cloneof="EarthBound (USA)">
+	<game name="EarthBound (USA) (It) (v1.47) (Vecna) (New Controls) (v1.0) (Herringway)" cloneof="EarthBound (USA)">
 		<category>Retail</category>
-		<description>EarthBound (USA) (It) (v1.47) (vecna) (New Controls) (v1.0) (Herringway)</description>
-		<release name="EarthBound (USA) (It) (v1.47) (vecna) (New Controls) (v1.0) (Herringway)" region="Italy"/>
-		<rom name="EarthBound (USA) (It) (v1.47) (vecna) (New Controls) (v1.0) (Herringway).sfc" size="4194304" crc="f825495c" md5="c6ac7a0f906a5eda0b3cbe93826cb474" sha1="4f7fe12e6d2289baef53808d4d3b9591754dd26b"/>
+		<description>EarthBound (USA) (It) (v1.47) (Vecna) (New Controls) (v1.0) (Herringway)</description>
+		<release name="EarthBound (USA) (It) (v1.47) (Vecna) (New Controls) (v1.0) (Herringway)" region="Italy"/>
+		<rom name="EarthBound (USA) (It) (v1.47) (Vecna) (New Controls) (v1.0) (Herringway).sfc" size="4194304" crc="f825495c" md5="c6ac7a0f906a5eda0b3cbe93826cb474" sha1="4f7fe12e6d2289baef53808d4d3b9591754dd26b"/>
 		<url>https://retroachievements.org/game/264/hashes</url>
 		<hash>c6ac7a0f906a5eda0b3cbe93826cb474</hash>
 	</game>
@@ -7281,18 +7307,18 @@
 		<url>https://retroachievements.org/game/25631/hashes</url>
 		<hash>1077cadd282c6117638daf93fc0e12ef</hash>
 	</game>
-	<game name="EarthBound (Subset - Camera Shy) (Pl) (voxar) (New Controls)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
+	<game name="EarthBound (Subset - Camera Shy) (Pl) (Voxar) (New Controls)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
 		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (Pl) (voxar) (New Controls)</description>
-		<release name="EarthBound (Subset - Camera Shy) (Pl) (voxar) (New Controls)" region="Poland"/>
-		<rom name="EarthBound (Subset - Camera Shy) (Pl) (voxar) (New Controls).sfc" size="4194304" crc="ab5cd2c8" md5="4c2a38a536bc6eafec1aa465b70c496f" sha1="d2c10a819305d0f6d66451981d37b455dbcc30a4"/>
+		<description>EarthBound (Subset - Camera Shy) (Pl) (Voxar) (New Controls)</description>
+		<release name="EarthBound (Subset - Camera Shy) (Pl) (Voxar) (New Controls)" region="Poland"/>
+		<rom name="EarthBound (Subset - Camera Shy) (Pl) (Voxar) (New Controls).sfc" size="4194304" crc="ab5cd2c8" md5="4c2a38a536bc6eafec1aa465b70c496f" sha1="d2c10a819305d0f6d66451981d37b455dbcc30a4"/>
 		<url>https://retroachievements.org/game/25631/hashes</url>
 		<hash>4c2a38a536bc6eafec1aa465b70c496f</hash>
 	</game>
-	<game name="EarthBound (Subset - Camera Shy) (Pl) (voxar)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
+	<game name="EarthBound (Subset - Camera Shy) (Pl) (Voxar)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
 		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (Pl) (voxar)</description>
-		<rom name="EarthBound (Subset - Camera Shy) (Pl) (voxar).sfc" size="4194304" crc="f6916d94" md5="3677ad73df6d185eaa99e22c0288a8b8" sha1="3e8380bd156ba2ae80450a5fd1adc6c297c666fe"/>
+		<description>EarthBound (Subset - Camera Shy) (Pl) (Voxar)</description>
+		<rom name="EarthBound (Subset - Camera Shy) (Pl) (Voxar).sfc" size="4194304" crc="f6916d94" md5="3677ad73df6d185eaa99e22c0288a8b8" sha1="3e8380bd156ba2ae80450a5fd1adc6c297c666fe"/>
 		<url>https://retroachievements.org/game/25631/hashes</url>
 		<hash>3677ad73df6d185eaa99e22c0288a8b8</hash>
 	</game>
@@ -7326,18 +7352,18 @@
 		<url>https://retroachievements.org/game/25631/hashes</url>
 		<hash>df8a5fae164b07857561c017f9036407</hash>
 	</game>
-	<game name="EarthBound (Subset - Camera Shy) (It) (v1.47) (vecna) (New Controls)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
+	<game name="EarthBound (Subset - Camera Shy) (It) (v1.47) (Vecna) (New Controls)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
 		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (It) (v1.47) (vecna) (New Controls)</description>
-		<release name="EarthBound (Subset - Camera Shy) (It) (v1.47) (vecna) (New Controls)" region="Italy"/>
-		<rom name="EarthBound (Subset - Camera Shy) (It) (v1.47) (vecna) (New Controls).sfc" size="4194304" crc="2d80a0b9" md5="214224c3bd70d35fef2bdccfa618e3ef" sha1="f6b5b6d9c9b76a3958ed0d61fd367a784103fde3"/>
+		<description>EarthBound (Subset - Camera Shy) (It) (v1.47) (Vecna) (New Controls)</description>
+		<release name="EarthBound (Subset - Camera Shy) (It) (v1.47) (Vecna) (New Controls)" region="Italy"/>
+		<rom name="EarthBound (Subset - Camera Shy) (It) (v1.47) (Vecna) (New Controls).sfc" size="4194304" crc="2d80a0b9" md5="214224c3bd70d35fef2bdccfa618e3ef" sha1="f6b5b6d9c9b76a3958ed0d61fd367a784103fde3"/>
 		<url>https://retroachievements.org/game/25631/hashes</url>
 		<hash>214224c3bd70d35fef2bdccfa618e3ef</hash>
 	</game>
-	<game name="EarthBound (Subset - Camera Shy) (It) (v1.47) (vecna)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
+	<game name="EarthBound (Subset - Camera Shy) (It) (v1.47) (Vecna)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
 		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (It) (v1.47) (vecna)</description>
-		<rom name="EarthBound (Subset - Camera Shy) (It) (v1.47) (vecna).sfc" size="4194304" crc="b765a6da" md5="2905e6eab431ef7a48cdd071c5e1f090" sha1="5aba977b428fe2008b587c469ebaf01f3311f60a"/>
+		<description>EarthBound (Subset - Camera Shy) (It) (v1.47) (Vecna)</description>
+		<rom name="EarthBound (Subset - Camera Shy) (It) (v1.47) (Vecna).sfc" size="4194304" crc="b765a6da" md5="2905e6eab431ef7a48cdd071c5e1f090" sha1="5aba977b428fe2008b587c469ebaf01f3311f60a"/>
 		<url>https://retroachievements.org/game/25631/hashes</url>
 		<hash>2905e6eab431ef7a48cdd071c5e1f090</hash>
 	</game>
@@ -8564,9 +8590,9 @@
 	</game>
 	<game name="Hyper V-Ball (USA) (Pt) (v1.0) (Mago Negro)" cloneof="Hyper V-Ball (Europe)">
 		<category>Retail</category>
-		<description>Hyper V-Ball (USA) (Pt)  (v1.0) (Mago Negro)</description>
-		<release name="Hyper V-Ball (USA) (Pt)  (v1.0) (Mago Negro)" region="Portugal"/>
-		<rom name="Hyper V-Ball (USA) (Pt)  (v1.0) (Mago Negro).sfc" size="1048576" crc="814d80f6" md5="c1609ae8ce709c3905e2b0cf12e6e1ec" sha1="0d516a046ce90e270b6667b85fe0177382b8aa3e"/>
+		<description>Hyper V-Ball (USA) (Pt) (v1.0) (Mago Negro)</description>
+		<release name="Hyper V-Ball (USA) (Pt) (v1.0) (Mago Negro)" region="Portugal"/>
+		<rom name="Hyper V-Ball (USA) (Pt) (v1.0) (Mago Negro).sfc" size="1048576" crc="814d80f6" md5="c1609ae8ce709c3905e2b0cf12e6e1ec" sha1="0d516a046ce90e270b6667b85fe0177382b8aa3e"/>
 		<url>https://retroachievements.org/game/942/hashes</url>
 		<hash>c1609ae8ce709c3905e2b0cf12e6e1ec</hash>
 	</game>
@@ -9862,10 +9888,10 @@
 		<hash>ec5ab7a3224ac61106d1fe5b27c745e7</hash>
 	</game>
 	
-	<game name="Mario &amp; Wario (Japan) (Controller Hack) (v1.0) (KingMike)" cloneof="Mario to Wario (Japan) (En)">
+	<game name="Mario &amp; Wario (Japan) (Controller) (v1.0) (KingMike)" cloneof="Mario to Wario (Japan) (En)">
 		<category>Retail</category>
-		<description>Mario &amp; Wario (Japan) (Controller Hack) (v1.0) (KingMike)</description>
-		<rom name="Mario &amp; Wario (Japan) (Controller Hack) (v1.0) (KingMike).sfc" size="1048576" crc="b2f1ed0e" md5="8582a153318bafe2058533f8d2b46fd2" sha1="b5aea86c0ded90fa70d3e229c836df9bcd28f8dc"/>
+		<description>Mario &amp; Wario (Japan) (Controller) (v1.0) (KingMike)</description>
+		<rom name="Mario &amp; Wario (Japan) (Controller) (v1.0) (KingMike).sfc" size="1048576" crc="b2f1ed0e" md5="8582a153318bafe2058533f8d2b46fd2" sha1="b5aea86c0ded90fa70d3e229c836df9bcd28f8dc"/>
 		<url>https://retroachievements.org/game/3225/hashes</url>
 		<hash>8582a153318bafe2058533f8d2b46fd2</hash>
 	</game>
@@ -10914,11 +10940,11 @@
 		<hash>f082072b16e7ed337503ec4df334171f</hash>
 	</game>
 	
-	<game name="On the Ball (USA) (Widescreen Hack) (v1.0) (gamemasterpic)" cloneof="On the Ball (Europe)">
+	<game name="On the Ball (USA) (Widescreen) (v1.0) (gamemasterpic)" cloneof="On the Ball (Europe)">
 		<category>Retail</category>
-		<description>On the Ball (USA) (Widescreen Hack) (v1.0) (gamemasterpic)</description>
-		<release name="On the Ball (USA) (Widescreen Hack) (v1.0) (gamemasterpic)" region="USA"/>
-		<rom name="On the Ball (USA) (Widescreen Hack) (v1.0) (gamemasterpic).sfc" size="1064960" crc="0134d9a0" md5="1603769868776e12bb9876f7fbeb3112" sha1="e038efca3060f757b1a42e5da448d9e0ec3d3e83"/>
+		<description>On the Ball (USA) (Widescreen) (v1.0) (gamemasterpic)</description>
+		<release name="On the Ball (USA) (Widescreen) (v1.0) (gamemasterpic)" region="USA"/>
+		<rom name="On the Ball (USA) (Widescreen) (v1.0) (gamemasterpic).sfc" size="1064960" crc="0134d9a0" md5="1603769868776e12bb9876f7fbeb3112" sha1="e038efca3060f757b1a42e5da448d9e0ec3d3e83"/>
 		<url>https://retroachievements.org/game/1077/hashes</url>
 		<hash>1603769868776e12bb9876f7fbeb3112</hash>
 	</game>
@@ -13933,10 +13959,10 @@
 		<url>https://retroachievements.org/game/242/hashes</url>
 		<hash>2a9f7eaa7defa0acfac3daf0263fcdc2</hash>
 	</game>
-	<game name="Terranigma (Europe) (Font Hack) (v1.0) (MopoZ) (NTSC) (v1.0) (BFreely)" cloneof="Terranigma (Europe)">
+	<game name="Terranigma (Europe) (Font) (v1.0) (MopoZ) (NTSC) (v1.0) (BFreely)" cloneof="Terranigma (Europe)">
 		<category>Retail</category>
-		<description>Terranigma (Europe) (Font Hack) (v1.0) (MopoZ) (NTSC) (v1.0) (BFreely)</description>
-		<rom name="Terranigma (Europe) (Font Hack) (v1.0) (MopoZ) (NTSC) (v1.0) (BFreely).sfc" size="4194304" crc="10a135ca" md5="2e6319f2b0697784f87fde4091696d36" sha1="bb03005478f95eae05fa98719cb0482e44ef058e"/>
+		<description>Terranigma (Europe) (Font) (v1.0) (MopoZ) (NTSC) (v1.0) (BFreely)</description>
+		<rom name="Terranigma (Europe) (Font) (v1.0) (MopoZ) (NTSC) (v1.0) (BFreely).sfc" size="4194304" crc="10a135ca" md5="2e6319f2b0697784f87fde4091696d36" sha1="bb03005478f95eae05fa98719cb0482e44ef058e"/>
 		<url>https://retroachievements.org/game/242/hashes</url>
 		<hash>2e6319f2b0697784f87fde4091696d36</hash>
 	</game>
@@ -13961,10 +13987,10 @@
 		<url>https://retroachievements.org/game/242/hashes</url>
 		<hash>5223853d5edc9856f2bf8a9f04d01d3a</hash>
 	</game>
-	<game name="Terranigma (Europe) (Font Hack) (v1.0) (MopoZ)" cloneof="Terranigma (Europe)">
+	<game name="Terranigma (Europe) (Font) (v1.0) (MopoZ)" cloneof="Terranigma (Europe)">
 		<category>Retail</category>
-		<description>Terranigma (Europe) (Font Hack) (v1.0) (MopoZ)</description>
-		<rom name="Terranigma (Europe) (Font Hack) (v1.0) (MopoZ).sfc" size="4194304" crc="036cfaab" md5="5582f830a2833ec20bdb02ec23253ea9" sha1="a403fd30137e62a48c6cd77ce7f1cb30943261e6"/>
+		<description>Terranigma (Europe) (Font) (v1.0) (MopoZ)</description>
+		<rom name="Terranigma (Europe) (Font) (v1.0) (MopoZ).sfc" size="4194304" crc="036cfaab" md5="5582f830a2833ec20bdb02ec23253ea9" sha1="a403fd30137e62a48c6cd77ce7f1cb30943261e6"/>
 		<url>https://retroachievements.org/game/242/hashes</url>
 		<hash>5582f830a2833ec20bdb02ec23253ea9</hash>
 	</game>
@@ -14295,11 +14321,11 @@
 		<hash>dbf576310985b10fa48c6a1c8915b19d</hash>
 	</game>
 	
-	<game name="Firemen, The (Europe) (En,Fr,De) (NTSC Hack) (v1.0) (bigboo)" cloneof="Firemen, The (Europe) (En,Fr,De)">
+	<game name="Firemen, The (Europe) (En,Fr,De) (NTSC) (v1.0) (bigboo)" cloneof="Firemen, The (Europe) (En,Fr,De)">
 		<category>Retail</category>
-		<description>Firemen, The (Europe) (En,Fr,De) (NTSC Hack) (v1.0) (bigboo)</description>
-		<release name="Firemen, The (Europe) (En,Fr,De) (NTSC Hack) (v1.0) (bigboo)" region="Europe"/>
-		<rom name="Firemen, The (Europe) (En,Fr,De) (NTSC Hack) (v1.0) (bigboo).sfc" size="1048576" crc="dc40c0d0" md5="63ce924c3f1efc3ce167dd1cd3f94c4c" sha1="30f7e1534c152a028a557723118516bf04d5149b"/>
+		<description>Firemen, The (Europe) (En,Fr,De) (NTSC) (v1.0) (bigboo)</description>
+		<release name="Firemen, The (Europe) (En,Fr,De) (NTSC) (v1.0) (bigboo)" region="Europe"/>
+		<rom name="Firemen, The (Europe) (En,Fr,De) (NTSC) (v1.0) (bigboo).sfc" size="1048576" crc="dc40c0d0" md5="63ce924c3f1efc3ce167dd1cd3f94c4c" sha1="30f7e1534c152a028a557723118516bf04d5149b"/>
 		<url>https://retroachievements.org/game/4737/hashes</url>
 		<hash>63ce924c3f1efc3ce167dd1cd3f94c4c</hash>
 	</game>

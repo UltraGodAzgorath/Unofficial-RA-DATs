@@ -4,43 +4,43 @@
 	<header>
 		<name>RA - WonderSwan</name>
 		<description>WonderSwan</description>
-		<category>1G1R</category>
-		<version>20250610</version>
-		<date>10 June 2025</date>
+		<category>Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/53/games</url>
 		<titlecount>48</titlecount>
 		<hashcount>65</hashcount>
 	</header>
-	<game name="Homebrew/Atop the Witch's Tower (World) (v1.1) (Aftermarket) (Unl)">
+	<game name="Homebrew/Atop the Witch's Tower (World) (v1.1) (Aftermarket)">
 		<category>WonderSwan Color</category>
-		<description>Atop the Witch's Tower (World) (v1.1) (Aftermarket) (Unl)</description>
-		<rom name="Atop the Witch's Tower (World) (v1.1) (Aftermarket) (Unl).wsc" size="131072" crc="23e814cc" md5="db3569afdb8d8f553da626970f1804e7" sha1="1487a981e576bf8248818b1f1a12c947760be511"/>
+		<description>Atop the Witch's Tower (World) (v1.1) (Aftermarket)</description>
+		<rom name="Atop the Witch's Tower (World) (v1.1) (Aftermarket).wsc" size="131072" crc="23e814cc" md5="db3569afdb8d8f553da626970f1804e7" sha1="1487a981e576bf8248818b1f1a12c947760be511"/>
 		<url>https://retroachievements.org/game/26483/hashes</url>
 		<hash>db3569afdb8d8f553da626970f1804e7</hash>
 	</game>
 	
-	<game name="Homebrew/Cracky Mini (World) (v20240612) (Aftermarket) (Unl)">
+	<game name="Homebrew/Cracky Mini (World) (v20240612) (Aftermarket)">
 		<category>WonderSwan</category>
-		<description>Cracky Mini (World) (v20240612) (Aftermarket) (Unl)</description>
-		<rom name="Cracky Mini (World) (v20240612) (Aftermarket) (Unl).wsc" size="65536" crc="3071302b" md5="2ad72633b07f623b6eb0a641ec44dfd3" sha1="0323adb8a740466f7d2b6f29dc55acaee357be48"/>
+		<description>Cracky Mini (World) (v20240612) (Aftermarket)</description>
+		<rom name="Cracky Mini (World) (v20240612) (Aftermarket).wsc" size="65536" crc="3071302b" md5="2ad72633b07f623b6eb0a641ec44dfd3" sha1="0323adb8a740466f7d2b6f29dc55acaee357be48"/>
 		<url>https://retroachievements.org/game/32532/hashes</url>
 		<hash>2ad72633b07f623b6eb0a641ec44dfd3</hash>
 	</game>
 	
-	<game name="Homebrew/Mazy (World) (v20230618) (Aftermarket) (Unl)">
+	<game name="Homebrew/Mazy (World) (v20230618) (Aftermarket)">
 		<category>WonderSwan Color</category>
-		<description>Mazy (World) (v20230618) (Aftermarket) (Unl)</description>
-		<rom name="Mazy (World) (v20230618) (Aftermarket) (Unl).wsc" size="65536" crc="2620c258" md5="4ea83a19867a3e32749b1c9d898583ca" sha1="d7dd04a77d8c0edee79df61a3cd7f308fdde611d"/>
+		<description>Mazy (World) (v20230618) (Aftermarket)</description>
+		<rom name="Mazy (World) (v20230618) (Aftermarket).wsc" size="65536" crc="2620c258" md5="4ea83a19867a3e32749b1c9d898583ca" sha1="d7dd04a77d8c0edee79df61a3cd7f308fdde611d"/>
 		<url>https://retroachievements.org/game/32952/hashes</url>
 		<hash>4ea83a19867a3e32749b1c9d898583ca</hash>
 	</game>
 	
-	<game name="Homebrew/Wondersnake (World) (Aftermarket) (Unl)">
+	<game name="Homebrew/Wondersnake (World) (Aftermarket)">
 		<category>WonderSwan Color</category>
-		<description>Wondersnake (World) (Aftermarket) (Unl)</description>
-		<rom name="Wondersnake (World) (Aftermarket) (Unl).wsc" size="524288" crc="a0591f00" md5="f8706cc921099ce84b2dd154b3cbbac6" sha1="fec915b4993f2d84ea30bd0fa4d8575e9074d292"/>
+		<description>Wondersnake (World) (Aftermarket)</description>
+		<rom name="Wondersnake (World) (Aftermarket).wsc" size="524288" crc="a0591f00" md5="f8706cc921099ce84b2dd154b3cbbac6" sha1="fec915b4993f2d84ea30bd0fa4d8575e9074d292"/>
 		<url>https://retroachievements.org/game/19897/hashes</url>
 		<hash>F8706CC921099CE84B2DD154B3CBBAC6</hash>
 	</game>
@@ -61,10 +61,10 @@
 		<hash>B814E71EB1D079466A9535566D605280</hash>
 	</game>
 	
-	<game name="Retail/Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket) (Unl)">
+	<game name="Retail/Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket)">
 		<category>WonderSwan Color</category>
-		<description>Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket) (Unl)</description>
-		<rom name="Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket) (Unl).wsc" size="524288" crc="deaec59b" md5="50425331b91ee4273df1d56d7dcd519f" sha1="0a250a6e7d09787ea2062347a69f0452412c6b8d"/>
+		<description>Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket)</description>
+		<rom name="Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket).wsc" size="524288" crc="deaec59b" md5="50425331b91ee4273df1d56d7dcd519f" sha1="0a250a6e7d09787ea2062347a69f0452412c6b8d"/>
 		<url>https://retroachievements.org/game/22100/hashes</url>
 		<hash>50425331B91EE4273DF1D56D7DCD519F</hash>
 	</game>
@@ -230,13 +230,6 @@
 		<hash>EBAB0F1F4148D54437834971D9756431</hash>
 	</game>
 	
-	<game name="Retail/Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21) (Alt)">
-		<category>WonderSwan Color</category>
-		<description>Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21) (Alt)</description>
-		<rom name="Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21) (Alt).wsc" size="524288" crc="4fce380d" md5="a6686dc9d258a79b0aa1085d18918e65" sha1="a1d910123b6be0b941f699ef70c745d16350d029"/>
-		<url>https://retroachievements.org/game/14594/hashes</url>
-		<hash>A6686DC9D258A79B0AA1085D18918E65</hash>
-	</game>
 	<game name="Retail/Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21)">
 		<category>WonderSwan Color</category>
 		<description>Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21)</description>
@@ -297,6 +290,13 @@
 		<rom name="Neon Genesis Evangelion - Shito Ikusei (Japan) (En) (v1.0) (AGTT).ws" size="2097152" crc="189b7610" md5="e9016134c7c84eeabc3ec273949f7ced" sha1="5a60622180a132b01c88c83683c7bc454dc9d513"/>
 		<url>https://retroachievements.org/game/17551/hashes</url>
 		<hash>e9016134c7c84eeabc3ec273949f7ced</hash>
+	</game>
+	<game name="Retail/Neon Genesis Evangelion - Shito Ikusei (Japan) (En) (v1.1) (AGTT)">
+		<category></category>
+		<description>Neon Genesis Evangelion - Shito Ikusei (Japan) (En) (v1.1) (AGTT)</description>
+		<rom name="Neon Genesis Evangelion - Shito Ikusei (Japan) (En) (v1.1) (AGTT).ws" size="2097152" crc="3ee26e52" md5="329f6dd7f50a8c77f64c57c9f486a94e" sha1="eab9c676f1cf85e9679255127dc5bcd8cd121229"/>
+		<url>https://retroachievements.org/game/17551/hashes</url>
+		<hash>329f6dd7f50a8c77f64c57c9f486a94e</hash>
 	</game>
 	
 	<game name="Retail/Ou-chan no Oekaki Logic (Japan)">
@@ -470,10 +470,10 @@
 		<url>https://retroachievements.org/game/18495/hashes</url>
 		<hash>1EDFF9C7EB20454DCD2CD6C6E23FC7C6</hash>
 	</game>
-	<game name="Subset/Makai Toushi Sa-Ga (Japan) (Subset - Solo Class)">
+	<game name="Subset/Makai Toushi Sa-Ga (Subset - Solo Class)">
 		<category>WonderSwan Color</category>
-		<description>Makai Toushi Sa-Ga (Japan) (Subset - Solo Class)</description>
-		<rom name="Makai Toushi Sa-Ga (Japan) (Subset - Solo Class).wsc" size="4194304" crc="48c65a98" md5="AC0B4121EAD3C4B1EC102A57D1BB697D" sha1="9fbd69d1102a3924779a43b4dbf05862b1369afe"/>
+		<description>Makai Toushi Sa-Ga (Subset - Solo Class)</description>
+		<rom name="Makai Toushi Sa-Ga (Subset - Solo Class).wsc" size="4194304" crc="48c65a98" md5="AC0B4121EAD3C4B1EC102A57D1BB697D" sha1="9fbd69d1102a3924779a43b4dbf05862b1369afe"/>
 		<url>https://retroachievements.org/game/18495/hashes</url>
 		<hash>AC0B4121EAD3C4B1EC102A57D1BB697D</hash>
 	</game>

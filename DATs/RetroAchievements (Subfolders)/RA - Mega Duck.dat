@@ -4,105 +4,105 @@
 	<header>
 		<name>RA - Mega Duck</name>
 		<description>Mega Duck</description>
-		<category>1G1R</category>
-		<version>20250621</version>
-		<date>21 June 2025</date>
+		<category>Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/69/games</url>
 		<titlecount>31</titlecount>
 		<hashcount>34</hashcount>
 	</header>
-	<game name="Homebrew/Aerial (World) (Aftermarket) (Inufuto)">
+	<game name="Homebrew/Aerial (World) (Inufuto) (Aftermarket)">
 		<category></category>
-		<description>Aerial (World) (Aftermarket) (Inufuto)</description>
-		<rom name="Aerial (World) (Aftermarket) (Inufuto).bin" size="16384" crc="6a324ac3" md5="b26307c090211b85672a3a71ef3bd53f" sha1="6028dd33cf97caffa9025010399127ee5fd75669"/>
+		<description>Aerial (World) (Inufuto) (Aftermarket)</description>
+		<rom name="Aerial (World) (Inufuto) (Aftermarket).bin" size="16384" crc="6a324ac3" md5="b26307c090211b85672a3a71ef3bd53f" sha1="6028dd33cf97caffa9025010399127ee5fd75669"/>
 		<url>https://retroachievements.org/game/31453/hashes</url>
 		<hash>b26307c090211b85672a3a71ef3bd53f</hash>
 	</game>
 	
-	<game name="Homebrew/Black Castle (World) (Aftermarket) (Unl)">
+	<game name="Homebrew/Black Castle (World) (Aftermarket)">
 		<category></category>
-		<description>Black Castle (World) (Aftermarket) (Unl)</description>
-		<rom name="Black Castle (World) (Aftermarket) (Unl).bin" size="65536" crc="312fec34" md5="0b41ffad1c44a3252f2ece6ee0f502f3" sha1="96ec1dea0b406905338a6ff71149662a132b3209"/>
+		<description>Black Castle (World) (Aftermarket)</description>
+		<rom name="Black Castle (World) (Aftermarket).bin" size="65536" crc="312fec34" md5="0b41ffad1c44a3252f2ece6ee0f502f3" sha1="96ec1dea0b406905338a6ff71149662a132b3209"/>
 		<url>https://retroachievements.org/game/24049/hashes</url>
 		<hash>0B41FFAD1C44A3252F2ECE6EE0F502F3</hash>
 	</game>
 	
-	<game name="Homebrew/Cacorm Mini (World) (v20241020) (Aftermarket) (Inufuto)">
+	<game name="Homebrew/Cacorm Mini (World) (v20241020) (Inufuto) (Aftermarket)">
 		<category></category>
-		<description>Cacorm Mini (World) (v20241020) (Aftermarket) (Inufuto)</description>
-		<rom name="Cacorm Mini (World) (v20241020) (Aftermarket) (Inufuto).bin" size="16384" crc="58c63d67" md5="30fd14ff650d9d77a601ec4ce21b6f52" sha1="e929debce85d951da3ab5302f58ba75615e4e066"/>
+		<description>Cacorm Mini (World) (v20241020) (Inufuto) (Aftermarket)</description>
+		<rom name="Cacorm Mini (World) (v20241020) (Inufuto) (Aftermarket).bin" size="16384" crc="58c63d67" md5="30fd14ff650d9d77a601ec4ce21b6f52" sha1="e929debce85d951da3ab5302f58ba75615e4e066"/>
 		<url>https://retroachievements.org/game/33639/hashes</url>
 		<hash>30fd14ff650d9d77a601ec4ce21b6f52</hash>
 	</game>
 	
-	<game name="Homebrew/Canyon Racer (World) (v0.7.6) (Aftermarket) (Unl)">
+	<game name="Homebrew/Canyon Racer (World) (v0.7.6) (Aftermarket)">
 		<category></category>
-		<description>Canyon Racer (World) (v0.7.6) (Aftermarket) (Unl)</description>
-		<rom name="Canyon Racer (World) (v0.7.6) (Aftermarket) (Unl).bin" size="32768" crc="f794d8cf" md5="b5811af4ede6a03dc85aa23da8bbc1e7" sha1="50b382e0f54f98311809a292913a885c85b9f694"/>
+		<description>Canyon Racer (World) (v0.7.6) (Aftermarket)</description>
+		<rom name="Canyon Racer (World) (v0.7.6) (Aftermarket).bin" size="32768" crc="f794d8cf" md5="b5811af4ede6a03dc85aa23da8bbc1e7" sha1="50b382e0f54f98311809a292913a885c85b9f694"/>
 		<url>https://retroachievements.org/game/24082/hashes</url>
 		<hash>B5811AF4EDE6A03DC85AA23DA8BBC1E7</hash>
 	</game>
-	<game name="Homebrew/Canyon Racer (World) (v0.7.6) (No FX) (Aftermarket) (Unl)">
+	<game name="Homebrew/Canyon Racer (World) (v0.7.6) (No FX) (Aftermarket)">
 		<category></category>
-		<description>Canyon Racer (World) (v0.7.6) (No FX) (Aftermarket) (Unl)</description>
-		<rom name="Canyon Racer (World) (v0.7.6) (No FX) (Aftermarket) (Unl).bin" size="32768" crc="9fa63c31" md5="fcb469fa705f23d493689e2f7312d822" sha1="f85491c8ed827483f45ff5f13ee5e195fdcaff1e"/>
+		<description>Canyon Racer (World) (v0.7.6) (No FX) (Aftermarket)</description>
+		<rom name="Canyon Racer (World) (v0.7.6) (No FX) (Aftermarket).bin" size="32768" crc="9fa63c31" md5="fcb469fa705f23d493689e2f7312d822" sha1="f85491c8ed827483f45ff5f13ee5e195fdcaff1e"/>
 		<url>https://retroachievements.org/game/24082/hashes</url>
 		<hash>FCB469FA705F23D493689E2F7312D822</hash>
 	</game>
 	
-	<game name="Homebrew/Hopman (World) (Aftermarket) (Inufuto)">
+	<game name="Homebrew/Hopman (World) (Inufuto) (Aftermarket)">
 		<category></category>
-		<description>Hopman (World) (Aftermarket) (Inufuto)</description>
-		<rom name="Hopman (World) (Aftermarket) (Inufuto).bin" size="16384" crc="a7b2ba02" md5="115a709d9d524c1ea5d36c65d9b8dbe8" sha1="95102b92b7d52332f0ea7ad04e36b92561687958"/>
+		<description>Hopman (World) (Inufuto) (Aftermarket)</description>
+		<rom name="Hopman (World) (Inufuto) (Aftermarket).bin" size="16384" crc="a7b2ba02" md5="115a709d9d524c1ea5d36c65d9b8dbe8" sha1="95102b92b7d52332f0ea7ad04e36b92561687958"/>
 		<url>https://retroachievements.org/game/31699/hashes</url>
 		<hash>115a709d9d524c1ea5d36c65d9b8dbe8</hash>
 	</game>
 	
-	<game name="Homebrew/Max Pirate (World) (v20240504) (Aftermarket) (Unl)">
+	<game name="Homebrew/Max Pirate (World) (v20240504) (Aftermarket)">
 		<category></category>
-		<description>Max Pirate (World) (v20240504) (Aftermarket) (Unl)</description>
-		<rom name="Max Pirate (World) (v20240504) (Aftermarket) (Unl).bin" size="32768" crc="2eacd525" md5="ac17e9ce88054fde0132242e23873923" sha1="539b18cd46ef8090b01941d37cc5c0c731c332d6"/>
+		<description>Max Pirate (World) (v20240504) (Aftermarket)</description>
+		<rom name="Max Pirate (World) (v20240504) (Aftermarket).bin" size="32768" crc="2eacd525" md5="ac17e9ce88054fde0132242e23873923" sha1="539b18cd46ef8090b01941d37cc5c0c731c332d6"/>
 		<url>https://retroachievements.org/game/30904/hashes</url>
 		<hash>ac17e9ce88054fde0132242e23873923</hash>
 	</game>
 	
-	<game name="Homebrew/Penguin Migrant (World) (Aftermarket) (SunnyChowTheGuy)">
+	<game name="Homebrew/Penguin Migrant (World) (SunnyChowTheGuy) (Aftermarket)">
 		<category></category>
-		<description>Penguin Migrant (World) (Aftermarket) (SunnyChowTheGuy)</description>
-		<rom name="Penguin Migrant (World) (Aftermarket) (SunnyChowTheGuy).bin" size="32768" crc="94237a93" md5="4f78024f2102292fc03929cdd957319e" sha1="017606edfb915e320c2ff10a7aa12d205cb0b5dc"/>
+		<description>Penguin Migrant (World) (SunnyChowTheGuy) (Aftermarket)</description>
+		<rom name="Penguin Migrant (World) (SunnyChowTheGuy) (Aftermarket).bin" size="32768" crc="94237a93" md5="4f78024f2102292fc03929cdd957319e" sha1="017606edfb915e320c2ff10a7aa12d205cb0b5dc"/>
 		<url>https://retroachievements.org/game/29153/hashes</url>
 		<hash>4f78024f2102292fc03929cdd957319e</hash>
 	</game>
 	
-	<game name="Homebrew/Vexed (World) (v1.08) (Aftermarket) (Unl)">
+	<game name="Homebrew/Vexed (World) (v1.08) (Aftermarket)">
 		<category></category>
-		<description>Vexed (World) (v1.08) (Aftermarket) (Unl)</description>
-		<rom name="Vexed (World) (v1.08) (Aftermarket) (Unl).bin" size="32768" crc="2279c9c8" md5="ae0594e43294653ecf58532316c59cca" sha1="2dfa082c008b6c4725184aff1727d794cd655cbd"/>
+		<description>Vexed (World) (v1.08) (Aftermarket)</description>
+		<rom name="Vexed (World) (v1.08) (Aftermarket).bin" size="32768" crc="2279c9c8" md5="ae0594e43294653ecf58532316c59cca" sha1="2dfa082c008b6c4725184aff1727d794cd655cbd"/>
 		<url>https://retroachievements.org/game/24916/hashes</url>
 		<hash>AE0594E43294653ECF58532316C59CCA</hash>
 	</game>
-	<game name="Homebrew/Vexed (World) (v1.09) (Aftermarket) (Unl)">
+	<game name="Homebrew/Vexed (World) (v1.09) (Aftermarket)">
 		<category></category>
-		<description>Vexed (World) (v1.09) (Aftermarket) (Unl)</description>
-		<rom name="Vexed (World) (v1.09) (Aftermarket) (Unl).bin" size="32768" crc="02a2467e" md5="cb62769fabf28a722bf21e41844cc053" sha1="a168115a121188634a6435278f7746c2e398e498"/>
+		<description>Vexed (World) (v1.09) (Aftermarket)</description>
+		<rom name="Vexed (World) (v1.09) (Aftermarket).bin" size="32768" crc="02a2467e" md5="cb62769fabf28a722bf21e41844cc053" sha1="a168115a121188634a6435278f7746c2e398e498"/>
 		<url>https://retroachievements.org/game/24916/hashes</url>
 		<hash>CB62769FABF28A722BF21E41844CC053</hash>
 	</game>
 	
-	<game name="Homebrew/Waternet (World) (Aftermarket) (Unl)">
+	<game name="Homebrew/Waternet (World) (Aftermarket)">
 		<category></category>
-		<description>Waternet (World) (Aftermarket) (Unl)</description>
-		<rom name="Waternet (World) (Aftermarket) (Unl).bin" size="32768" crc="d6f9dcfa" md5="34d48f05d6be1d64b22732fc03b19301" sha1="c7181cee5ddee2f665d21c38b5a44838f7b8f511"/>
+		<description>Waternet (World) (Aftermarket)</description>
+		<rom name="Waternet (World) (Aftermarket).bin" size="32768" crc="d6f9dcfa" md5="34d48f05d6be1d64b22732fc03b19301" sha1="c7181cee5ddee2f665d21c38b5a44838f7b8f511"/>
 		<url>https://retroachievements.org/game/20221/hashes</url>
 		<hash>34D48F05D6BE1D64B22732FC03B19301</hash>
 	</game>
 	
-	<game name="Homebrew/Wordyl (World) (v1.0.4) (32k,No Save) (Aftermarket) (Unl)">
+	<game name="Homebrew/Wordyl (World) (v1.0.4) (32k,No Save) (Aftermarket)">
 		<category></category>
-		<description>Wordyl (World) (v1.0.4) (32k,No Save) (Aftermarket) (Unl)</description>
-		<rom name="Wordyl (World) (v1.0.4) (32k,No Save) (Aftermarket) (Unl).bin" size="32768" crc="63b01c26" md5="a52fb4ea81525a1cc8fa9b2dfe0856b4" sha1="e70e2ee4e1a3a8fda6ab51996e59faccbddc48e7"/>
+		<description>Wordyl (World) (v1.0.4) (32k,No Save) (Aftermarket)</description>
+		<rom name="Wordyl (World) (v1.0.4) (32k,No Save) (Aftermarket).bin" size="32768" crc="63b01c26" md5="a52fb4ea81525a1cc8fa9b2dfe0856b4" sha1="e70e2ee4e1a3a8fda6ab51996e59faccbddc48e7"/>
 		<url>https://retroachievements.org/game/21912/hashes</url>
 		<hash>A52FB4EA81525A1CC8FA9B2DFE0856B4</hash>
 	</game>

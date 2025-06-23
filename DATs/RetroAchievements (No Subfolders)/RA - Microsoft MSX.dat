@@ -4,184 +4,184 @@
 	<header>
 		<name>RA - Microsoft MSX</name>
 		<description>Microsoft MSX</description>
-		<category>1G1R</category>
-		<version>20250621</version>
-		<date>21 June 2025</date>
+		<category>No Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/29/games</url>
 		<titlecount>53</titlecount>
 		<hashcount>101</hashcount>
 	</header>
-	<game name="Super Mario World (2016) (Noramos)">
+	<game name="Super Mario World (2016) (Noramos) (Proto) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Super Mario World (2016) (Noramos)</description>
-		<release name="Super Mario World (2016) (Noramos)" region="World"/>
-		<rom name="Super Mario World (2016) (Noramos).rom" size="1335296" crc="9d90c0a6" md5="da28da0bb524bd0072e10b2799a88a75" sha1="77b37d7028d5f657239eb24f0c16097a6e183f8d"/>
+		<description>Super Mario World (2016) (Noramos) (Proto) (Aftermarket)</description>
+		<release name="Super Mario World (2016) (Noramos) (Proto) (Aftermarket)" region="World"/>
+		<rom name="Super Mario World (2016) (Noramos) (Proto) (Aftermarket).rom" size="1335296" crc="9d90c0a6" md5="da28da0bb524bd0072e10b2799a88a75" sha1="77b37d7028d5f657239eb24f0c16097a6e183f8d"/>
 		<url>https://retroachievements.org/game/17024/hashes</url>
 		<hash>DA28DA0BB524BD0072E10B2799A88A75</hash>
 	</game>
 	
-	<game name="10 Lines Princess (World) (Aftermarket) (Unl)">
+	<game name="10 Lines Princess (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>10 Lines Princess (World) (Aftermarket) (Unl)</description>
-		<release name="10 Lines Princess (World) (Aftermarket) (Unl)" region="World"/>
-		<rom name="10 Lines Princess (World) (Aftermarket) (Unl).rom" size="737280" crc="bb022514" md5="e40432b864c4b7440f8b265ebfa0a7f5" sha1="bfa9fe277158141a700915da73d7980e516e50de"/>
+		<description>10 Lines Princess (World) (Aftermarket)</description>
+		<release name="10 Lines Princess (World) (Aftermarket)" region="World"/>
+		<rom name="10 Lines Princess (World) (Aftermarket).rom" size="737280" crc="bb022514" md5="e40432b864c4b7440f8b265ebfa0a7f5" sha1="bfa9fe277158141a700915da73d7980e516e50de"/>
 		<url>https://retroachievements.org/game/29094/hashes</url>
 		<hash>E40432B864C4B7440F8B265EBFA0A7F5</hash>
 	</game>
 	
-	<game name="Deep Dungeon Adventure (World) (Aftermarket) (Unl)">
+	<game name="Deep Dungeon Adventure (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Deep Dungeon Adventure (World) (Aftermarket) (Unl)</description>
-		<release name="DDeep Dungeon Adventure (World) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Deep Dungeon Adventure (World) (Aftermarket) (Unl).rom" size="49152" crc="96bd10ee" md5="7a99efa93c475b1200975f9c36fa22a2" sha1="4071d5de5fa498f5d87110fc1da1d0149293a867"/>
+		<description>Deep Dungeon Adventure (World) (Aftermarket)</description>
+		<release name="DDeep Dungeon Adventure (World) (Aftermarket)" region="World"/>
+		<rom name="Deep Dungeon Adventure (World) (Aftermarket).rom" size="49152" crc="96bd10ee" md5="7a99efa93c475b1200975f9c36fa22a2" sha1="4071d5de5fa498f5d87110fc1da1d0149293a867"/>
 		<url>https://retroachievements.org/game/25413/hashes</url>
 		<hash>7a99efa93c475b1200975f9c36fa22a2</hash>
 	</game>
 	
-	<game name="Flappy Bird (2014) (Crunchworks)">
+	<game name="Flappy Bird (2014) (Crunchworks) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Flappy Bird (2014) (Crunchworks)</description>
-		<release name="Flappy Bird (2014) (Crunchworks)" region="World"/>
-		<rom name="Flappy Bird (2014) (Crunchworks).rom" size="8192" crc="5f145428" md5="c60cacd6c1a8d390eae9e73e1f4da697" sha1="822e827772157f89e4fe5277736c970595771c87"/>
+		<description>Flappy Bird (2014) (Crunchworks) (Aftermarket)</description>
+		<release name="Flappy Bird (2014) (Crunchworks) (Aftermarket)" region="World"/>
+		<rom name="Flappy Bird (2014) (Crunchworks) (Aftermarket).rom" size="8192" crc="5f145428" md5="c60cacd6c1a8d390eae9e73e1f4da697" sha1="822e827772157f89e4fe5277736c970595771c87"/>
 		<url>https://retroachievements.org/game/19726/hashes</url>
 		<hash>C60CACD6C1A8D390EAE9E73E1F4DA697</hash>
 	</game>
 	
-	<game name="Brunilda (World) (v1.1) (Aftermarket) (Unl)">
+	<game name="Brunilda (World) (v1.1) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Brunilda (World) (v1.1) (Aftermarket) (Unl)</description>
-		<release name="Brunilda (World) (v1.1) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Brunilda (World) (v1.1) (Aftermarket) (Unl).rom" size="1277952" crc="9eb9bad0" md5="e64516057017949edf78d8517a14028b" sha1="fe239a9d71352f4b45e6df64a38341544c197cfb"/>
+		<description>Brunilda (World) (v1.1) (Aftermarket)</description>
+		<release name="Brunilda (World) (v1.1) (Aftermarket)" region="World"/>
+		<rom name="Brunilda (World) (v1.1) (Aftermarket).rom" size="1277952" crc="9eb9bad0" md5="e64516057017949edf78d8517a14028b" sha1="fe239a9d71352f4b45e6df64a38341544c197cfb"/>
 		<url>https://retroachievements.org/game/18514/hashes</url>
 		<hash>E64516057017949EDF78D8517A14028B</hash>
 	</game>
 	
-	<game name="Ninja Savior (2020) (v1.0) (Relevo)">
+	<game name="Ninja Savior (2020) (v1.0) (Relevo) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Ninja Savior (2020) (v1.0) (Relevo)</description>
-		<release name="Ninja Savior (2020) (v1.0) (Relevo)" region="World"/>
-		<rom name="Ninja Savior (2020) (v1.0) (Relevo).rom" size="16384" crc="c059ffba" md5="2c8ebffb7c3c54ff6b356a19c113a6d6" sha1="0a8c3bbe9ed26e25658ec99192056b5a50571041"/>
+		<description>Ninja Savior (2020) (v1.0) (Relevo) (Aftermarket)</description>
+		<release name="Ninja Savior (2020) (v1.0) (Relevo) (Aftermarket)" region="World"/>
+		<rom name="Ninja Savior (2020) (v1.0) (Relevo) (Aftermarket).rom" size="16384" crc="c059ffba" md5="2c8ebffb7c3c54ff6b356a19c113a6d6" sha1="0a8c3bbe9ed26e25658ec99192056b5a50571041"/>
 		<url>https://retroachievements.org/game/28406/hashes</url>
 		<hash>2C8EBFFB7C3C54FF6B356A19C113A6D6</hash>
 	</game>
 	
-	<game name="PAC-01 (2021) (ARC8)">
+	<game name="PAC-01 (2021) (ARC8) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>PAC-01 (2021) (ARC8)</description>
-		<release name="PAC-01 (2021) (ARC8)" region="World"/>
-		<rom name="PAC-01 (2021) (ARC8).rom" size="32768" crc="c22e6f4f" md5="2f8f2935031e27c753e3d45f77994c3a" sha1="623bcc57d6ac6aaa18f2e374ce32b482f5d7894b"/>
+		<description>PAC-01 (2021) (ARC8) (Aftermarket)</description>
+		<release name="PAC-01 (2021) (ARC8) (Aftermarket)" region="World"/>
+		<rom name="PAC-01 (2021) (ARC8) (Aftermarket).rom" size="32768" crc="c22e6f4f" md5="2f8f2935031e27c753e3d45f77994c3a" sha1="623bcc57d6ac6aaa18f2e374ce32b482f5d7894b"/>
 		<url>https://retroachievements.org/game/18832/hashes</url>
 		<hash>2F8F2935031E27C753E3D45F77994C3A</hash>
 	</game>
 	
-	<game name="Phenix Corrupta (2023) (v1.0) (512K) (MSXdev23) (Casper Croes)">
+	<game name="Phenix Corrupta (2023) (v1.0) (512K) (MSXdev23) (Casper Croes) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Phenix Corrupta (2023) (v1.0) (512K) (MSXdev23) (Casper Croes)</description>
-		<release name="Phenix Corrupta (2023) (v1.0) (512K) (MSXdev23) (Casper Croes)" region="World"/>
-		<rom name="Phenix Corrupta (2023) (v1.0) (512K) (MSXdev23) (Casper Croes).rom" size="524288" crc="85b0e6b2" md5="a8f27885f2d7f48b6dffbf7bffc51e8c" sha1="b107b1dc6b8e53affca2ed55f80cd8b840b73f7d"/>
+		<description>Phenix Corrupta (2023) (v1.0) (512K) (MSXdev23) (Casper Croes) (Aftermarket)</description>
+		<release name="Phenix Corrupta (2023) (v1.0) (512K) (MSXdev23) (Casper Croes) (Aftermarket)" region="World"/>
+		<rom name="Phenix Corrupta (2023) (v1.0) (512K) (MSXdev23) (Casper Croes) (Aftermarket).rom" size="524288" crc="85b0e6b2" md5="a8f27885f2d7f48b6dffbf7bffc51e8c" sha1="b107b1dc6b8e53affca2ed55f80cd8b840b73f7d"/>
 		<url>https://retroachievements.org/game/28436/hashes</url>
 		<hash>A8F27885F2D7F48B6DFFBF7BFFC51E8C</hash>
 	</game>
 	
-	<game name="Picture Puzzle (2004) (64K) (Crunchworks)">
+	<game name="Picture Puzzle (2004) (64K) (Crunchworks) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Picture Puzzle (2004) (64K) (Crunchworks)</description>
-		<release name="Picture Puzzle (2004) (64K) (Crunchworks)" region="World"/>
-		<rom name="Picture Puzzle (2004) (64K) (Crunchworks).rom" size="8192" crc="01b3239f" md5="6ee570b6fa73fe9a147846078cddc11c" sha1="27e56fbec7fa39ce19d045b0dbc4217d290f92e2"/>
+		<description>Picture Puzzle (2004) (64K) (Crunchworks) (Aftermarket)</description>
+		<release name="Picture Puzzle (2004) (64K) (Crunchworks) (Aftermarket)" region="World"/>
+		<rom name="Picture Puzzle (2004) (64K) (Crunchworks) (Aftermarket).rom" size="8192" crc="01b3239f" md5="6ee570b6fa73fe9a147846078cddc11c" sha1="27e56fbec7fa39ce19d045b0dbc4217d290f92e2"/>
 		<url>https://retroachievements.org/game/16395/hashes</url>
 		<hash>6EE570B6FA73FE9A147846078CDDC11C</hash>
 	</game>
 	
-	<game name="Pleasure Hearts (Japan) (En) (v1.02) (Yim)">
+	<game name="Pleasure Hearts (Japan) (En) (v1.02) (Yim) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Pleasure Hearts (Japan) (En) (v1.02) (Yim)</description>
-		<release name="Pleasure Hearts (Japan) (En) (v1.02) (Yim)" region="English"/>
-		<rom name="Pleasure Hearts (Japan) (En) (v1.02) (Yim).rom" size="737280" crc="d4933b9e" md5="25497ff301b04a56b25cddab9150c364" sha1="34c3d5e81fe22b408f58e04656bde041f18fdb6f"/>
+		<description>Pleasure Hearts (Japan) (En) (v1.02) (Yim) (Aftermarket)</description>
+		<release name="Pleasure Hearts (Japan) (En) (v1.02) (Yim) (Aftermarket)" region="English"/>
+		<rom name="Pleasure Hearts (Japan) (En) (v1.02) (Yim) (Aftermarket).rom" size="737280" crc="d4933b9e" md5="25497ff301b04a56b25cddab9150c364" sha1="34c3d5e81fe22b408f58e04656bde041f18fdb6f"/>
 		<url>https://retroachievements.org/game/16503/hashes</url>
 		<hash>25497FF301B04A56B25CDDAB9150C364</hash>
 	</game>
-	<game name="Pleasure Hearts (1999) (Rev. 9821) (M-Kai)" cloneof="Pleasure Hearts (Japan) (En) (v1.02) (Yim)">
+	<game name="Pleasure Hearts (1999) (Rev. 9821) (M-Kai) (Aftermarket)" cloneof="Pleasure Hearts (Japan) (En) (v1.02) (Yim) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Pleasure Hearts (1999) (Rev. 9821) (M-Kai)</description>
-		<rom name="Pleasure Hearts (1999) (Rev. 9821) (M-Kai).rom" size="737280" crc="bf81e259" md5="cc86d3600bf2994a7a65852a225a2893" sha1="83646e9e2bd7451f2b45b9c8cbc15531dad51cb2"/>
+		<description>Pleasure Hearts (1999) (Rev. 9821) (M-Kai) (Aftermarket)</description>
+		<rom name="Pleasure Hearts (1999) (Rev. 9821) (M-Kai) (Aftermarket).rom" size="737280" crc="bf81e259" md5="cc86d3600bf2994a7a65852a225a2893" sha1="83646e9e2bd7451f2b45b9c8cbc15531dad51cb2"/>
 		<url>https://retroachievements.org/game/16503/hashes</url>
 		<hash>CC86D3600BF2994A7A65852A225A2893</hash>
 	</game>
-	<game name="Pleasure Hearts (Japan) (En) (v1.01) (Yim)" cloneof="Pleasure Hearts (Japan) (En) (v1.02) (Yim)">
+	<game name="Pleasure Hearts (Japan) (En) (v1.01) (Yim) (Aftermarket)" cloneof="Pleasure Hearts (Japan) (En) (v1.02) (Yim) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Pleasure Hearts (Japan) (En) (v1.01) (Yim)</description>
-		<rom name="Pleasure Hearts (Japan) (En) (v1.01) (Yim).rom" size="737280" crc="16f60a3e" md5="928a4aa69681355654d77f0bba9cc07e" sha1="d2f6260947e5d305f349fca35665673a02f9dcfb"/>
+		<description>Pleasure Hearts (Japan) (En) (v1.01) (Yim) (Aftermarket)</description>
+		<rom name="Pleasure Hearts (Japan) (En) (v1.01) (Yim) (Aftermarket).rom" size="737280" crc="16f60a3e" md5="928a4aa69681355654d77f0bba9cc07e" sha1="d2f6260947e5d305f349fca35665673a02f9dcfb"/>
 		<url>https://retroachievements.org/game/16503/hashes</url>
 		<hash>928A4AA69681355654D77F0BBA9CC07E</hash>
 	</game>
 	
-	<game name="Pornoman (19xx) (Knight Software)">
+	<game name="Pornoman (19xx) (Knight Software) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Pornoman (19xx) (Knight Software)</description>
-		<release name="Pornoman (19xx) (Knight Software)" region="World"/>
-		<rom name="Pornoman (19xx) (Knight Software).rom" size="737280" crc="6c9d3977" md5="9e016a6f8743655eacc8e22e96d95c4e" sha1="98266bd9ff2155e8e013ff24d39712d21bdb495c"/>
+		<description>Pornoman (19xx) (Knight Software) (Aftermarket)</description>
+		<release name="Pornoman (19xx) (Knight Software) (Aftermarket)" region="World"/>
+		<rom name="Pornoman (19xx) (Knight Software) (Aftermarket).rom" size="737280" crc="6c9d3977" md5="9e016a6f8743655eacc8e22e96d95c4e" sha1="98266bd9ff2155e8e013ff24d39712d21bdb495c"/>
 		<url>https://retroachievements.org/game/20240/hashes</url>
 		<hash>9E016A6F8743655EACC8E22E96D95C4E</hash>
 	</game>
 	
-	<game name="Relevo's Snowboarding (2020) (Relevo)">
+	<game name="Relevo's Snowboarding (2020) (Relevo) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Relevo's Snowboarding (2020) (Relevo)</description>
-		<release name="Relevo's Snowboarding (2020) (Relevo)" region="World"/>
-		<rom name="Relevo's Snowboarding (2020) (Relevo).rom" size="49152" crc="8efaf6b4" md5="fa981f360f91acedb91cb60a3202f36a" sha1="957ad5f91f9bb7e59bffa7da1a8c31907e5a215f"/>
+		<description>Relevo's Snowboarding (2020) (Relevo) (Aftermarket)</description>
+		<release name="Relevo's Snowboarding (2020) (Relevo) (Aftermarket)" region="World"/>
+		<rom name="Relevo's Snowboarding (2020) (Relevo) (Aftermarket).rom" size="49152" crc="8efaf6b4" md5="fa981f360f91acedb91cb60a3202f36a" sha1="957ad5f91f9bb7e59bffa7da1a8c31907e5a215f"/>
 		<url>https://retroachievements.org/game/29093/hashes</url>
 		<hash>FA981F360F91ACEDB91CB60A3202F36A</hash>
 	</game>
 	
-	<game name="Sudoku (2006) (32K) (MSXdev06) (dvik &amp; joyrex)">
+	<game name="Sudoku (2006) (32K) (MSXdev06) (dvik &amp; joyrex) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Sudoku (2006) (32K) (MSXdev06) (dvik &amp; joyrex)</description>
-		<release name="Sudoku (2006) (32K) (MSXdev06) (dvik &amp; joyrex)" region="World"/>
-		<rom name="Sudoku (2006) (32K) (MSXdev06) (dvik &amp; joyrex).rom" size="32768" crc="8a70a96b" md5="2df142939c9e1147f814099856fd6361" sha1="120d477cd28b48b8a63efb34920ac331b54e66e5"/>
+		<description>Sudoku (2006) (32K) (MSXdev06) (dvik &amp; joyrex) (Aftermarket)</description>
+		<release name="Sudoku (2006) (32K) (MSXdev06) (dvik &amp; joyrex) (Aftermarket)" region="World"/>
+		<rom name="Sudoku (2006) (32K) (MSXdev06) (dvik &amp; joyrex) (Aftermarket).rom" size="32768" crc="8a70a96b" md5="2df142939c9e1147f814099856fd6361" sha1="120d477cd28b48b8a63efb34920ac331b54e66e5"/>
 		<url>https://retroachievements.org/game/16506/hashes</url>
 		<hash>2DF142939C9E1147F814099856FD6361</hash>
 	</game>
 	
-	<game name="Sword of Ianna, The (World) (Fr) (v1.2) (Aftermarket) (Unl)" cloneof="Sword of Ianna, The (World) (En,Es) (v1.2) (Aftermarket) (Unl)">
+	<game name="Sword of Ianna, The (World) (Fr) (v1.2) (Aftermarket)" cloneof="Sword of Ianna, The (World) (En,Es) (v1.2) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Sword of Ianna, The (World) (Fr) (v1.2) (Aftermarket) (Unl)</description>
-		<release name="Sword of Ianna, The (World) (Fr) (v1.2) (Aftermarket) (Unl)" region="France"/>
-		<rom name="Sword of Ianna, The (World) (Fr) (v1.2) (Aftermarket) (Unl).rom" size="720896" crc="6dddeb62" md5="3e900c93a758c417afe6bb3c11434c7a" sha1="1463f1e0216ad9f944bb1da748a01034da445cef"/>
+		<description>Sword of Ianna, The (World) (Fr) (v1.2) (Aftermarket)</description>
+		<release name="Sword of Ianna, The (World) (Fr) (v1.2) (Aftermarket)" region="France"/>
+		<rom name="Sword of Ianna, The (World) (Fr) (v1.2) (Aftermarket).rom" size="720896" crc="6dddeb62" md5="3e900c93a758c417afe6bb3c11434c7a" sha1="1463f1e0216ad9f944bb1da748a01034da445cef"/>
 		<url>https://retroachievements.org/game/18786/hashes</url>
 		<hash>3E900C93A758C417AFE6BB3C11434C7A</hash>
 	</game>
-	<game name="Sword of Ianna, The (World) (En,Es) (v1.2) (Aftermarket) (Unl)">
+	<game name="Sword of Ianna, The (World) (En,Es) (v1.2) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Sword of Ianna, The (World) (En,Es) (v1.2) (Aftermarket) (Unl)</description>
-		<release name="Sword of Ianna, The (World) (En,Es) (v1.2) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Sword of Ianna, The (World) (En,Es) (v1.2) (Aftermarket) (Unl).rom" size="720896" crc="3e9aeb2b" md5="a5cbdd2d012cccd49b8bce76db66e55c" sha1="82cf4caa78571a750403e592e3ac87c249ac4604"/>
+		<description>Sword of Ianna, The (World) (En,Es) (v1.2) (Aftermarket)</description>
+		<release name="Sword of Ianna, The (World) (En,Es) (v1.2) (Aftermarket)" region="World"/>
+		<rom name="Sword of Ianna, The (World) (En,Es) (v1.2) (Aftermarket).rom" size="720896" crc="3e9aeb2b" md5="a5cbdd2d012cccd49b8bce76db66e55c" sha1="82cf4caa78571a750403e592e3ac87c249ac4604"/>
 		<url>https://retroachievements.org/game/18786/hashes</url>
 		<hash>A5CBDD2D012CCCD49B8BCE76DB66E55C</hash>
 	</game>
 	
-	<game name="Westen House (World) (v1.3.1) (Aftermarket) (Unl)">
+	<game name="Westen House (World) (v1.3.1) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Westen House (World) (v1.3.1) (Aftermarket) (Unl)</description>
-		<release name="Westen House (World) (v1.3.1) (Aftermarket) (Unl)" region="World"/>
-		<rom name="Westen House (World) (v1.3.1) (Aftermarket) (Unl).rom" size="49152" crc="cc2e7808" md5="391911b3d3303431c6eb244dc009d88e" sha1="628ef3237469aa4e8a61259767da9bf35aa624ca"/>
+		<description>Westen House (World) (v1.3.1) (Aftermarket)</description>
+		<release name="Westen House (World) (v1.3.1) (Aftermarket)" region="World"/>
+		<rom name="Westen House (World) (v1.3.1) (Aftermarket).rom" size="49152" crc="cc2e7808" md5="391911b3d3303431c6eb244dc009d88e" sha1="628ef3237469aa4e8a61259767da9bf35aa624ca"/>
 		<url>https://retroachievements.org/game/18595/hashes</url>
 		<hash>391911B3D3303431C6EB244DC009D88E</hash>
 	</game>
-	<game name="Westen House (World) (Es) (v1.3.1) (Aftermarket) (Unl)" cloneof="Westen House (World) (v1.3.1) (Aftermarket) (Unl)">
+	<game name="Westen House (World) (Es) (v1.3.1) (Aftermarket)" cloneof="Westen House (World) (v1.3.1) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Westen House (World) (Es) (v1.3.1) (Aftermarket) (Unl)</description>
-		<release name="Westen House (World) (Es) (v1.3.1) (Aftermarket) (Unl)" region="Spain"/>
-		<rom name="Westen House (World) (Es) (v1.3.1) (Aftermarket) (Unl).rom" size="49152" crc="c3eef607" md5="92dbc61b396804f24f6ac230a81fc57c" sha1="2955777484bfb489682d9535a3ce8becec935cb0"/>
+		<description>Westen House (World) (Es) (v1.3.1) (Aftermarket)</description>
+		<release name="Westen House (World) (Es) (v1.3.1) (Aftermarket)" region="Spain"/>
+		<rom name="Westen House (World) (Es) (v1.3.1) (Aftermarket).rom" size="49152" crc="c3eef607" md5="92dbc61b396804f24f6ac230a81fc57c" sha1="2955777484bfb489682d9535a3ce8becec935cb0"/>
 		<url>https://retroachievements.org/game/18595/hashes</url>
 		<hash>92DBC61B396804F24F6AC230A81FC57C</hash>
 	</game>
-	<game name="Westen House (World) (Pt) (v1.3.1) (Aftermarket) (Unl)" cloneof="Westen House (World) (v1.3.1) (Aftermarket) (Unl)">
+	<game name="Westen House (World) (Pt) (v1.3.1) (Aftermarket)" cloneof="Westen House (World) (v1.3.1) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Westen House (World) (Pt) (v1.3.1) (Aftermarket) (Unl)</description>
-		<release name="Westen House (World) (Pt) (v1.3.1) (Aftermarket) (Unl)" region="Portugal"/>
-		<rom name="Westen House (World) (Pt) (v1.3.1) (Aftermarket) (Unl).rom" size="49152" crc="45042115" md5="f7c02d92ac0045270f42cdca5c196332" sha1="478933f689d0e6d6df5b6a1387ed8a4056575dcc"/>
+		<description>Westen House (World) (Pt) (v1.3.1) (Aftermarket)</description>
+		<release name="Westen House (World) (Pt) (v1.3.1) (Aftermarket)" region="Portugal"/>
+		<rom name="Westen House (World) (Pt) (v1.3.1) (Aftermarket).rom" size="49152" crc="45042115" md5="f7c02d92ac0045270f42cdca5c196332" sha1="478933f689d0e6d6df5b6a1387ed8a4056575dcc"/>
 		<url>https://retroachievements.org/game/18595/hashes</url>
 		<hash>F7C02D92AC0045270F42CDCA5C196332</hash>
 	</game>

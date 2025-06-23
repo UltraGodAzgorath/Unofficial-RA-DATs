@@ -4,161 +4,161 @@
 	<header>
 		<name>RA - Sega SG-1000</name>
 		<description>Sega SG-1000</description>
-		<category>1G1R</category>
-		<version>20250529</version>
-		<date>29 May 2025</date>
+		<category>No Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/33/games</url>
 		<titlecount>92</titlecount>
 		<hashcount>108/109</hashcount>
 	</header>
-	<game name="Cheril Perils Classic (World) (NTSC) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Cheril Perils Classic (World) (NTSC) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Cheril Perils Classic (World) (NTSC) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Cheril Perils Classic (World) (NTSC) (Aftermarket) (Unl) (Homebrew)" region="USA"/>
-		<rom name="Cheril Perils Classic (World) (NTSC) (Aftermarket) (Unl) (Homebrew).sg" size="49152" crc="60d5c65d" md5="dea9e4e5891fbdcd3e0df16fc840afbe" sha1="877c7f71daf10c451745d68c2c88e5c06abc5c42"/>
+		<description>Cheril Perils Classic (World) (NTSC) (Aftermarket)</description>
+		<release name="Cheril Perils Classic (World) (NTSC) (Aftermarket)" region="USA"/>
+		<rom name="Cheril Perils Classic (World) (NTSC) (Aftermarket).sg" size="49152" crc="60d5c65d" md5="dea9e4e5891fbdcd3e0df16fc840afbe" sha1="877c7f71daf10c451745d68c2c88e5c06abc5c42"/>
 		<url>https://retroachievements.org/game/22685/hashes</url>
 		<hash>dea9e4e5891fbdcd3e0df16fc840afbe</hash>
 	</game>
 	
-	<game name="Earth Attack (USA) (v2021116) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Earth Attack (USA) (v2021116) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Earth Attack (USA) (v2021116) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Earth Attack (USA) (v2021116) (Aftermarket) (Unl) (Homebrew)" region="USA"/>
-		<rom name="Earth Attack (USA) (v2021116) (Aftermarket) (Unl) (Homebrew).sg" size="16384" crc="575c7f2a" md5="be7798f9073f9a587ff0a36b646c65b7" sha1="92636a511152051a593976a4651c85c8affea614"/>
+		<description>Earth Attack (USA) (v2021116) (Aftermarket)</description>
+		<release name="Earth Attack (USA) (v2021116) (Aftermarket)" region="USA"/>
+		<rom name="Earth Attack (USA) (v2021116) (Aftermarket).sg" size="16384" crc="575c7f2a" md5="be7798f9073f9a587ff0a36b646c65b7" sha1="92636a511152051a593976a4651c85c8affea614"/>
 		<url>https://retroachievements.org/game/25804/hashes</url>
 		<hash>be7798f9073f9a587ff0a36b646c65b7</hash>
 	</game>
 	
-	<game name="Foryster (USA) (v00.9) (Aftermarket) (Unl) (Homebrew)" cloneof="Foryster (USA) (v00.9 - Level 10 Fix) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Foryster (USA) (v00.9) (Aftermarket)" cloneof="Foryster (USA) (v00.9 - Level 10 Fix) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Foryster (USA) (v00.9) (Aftermarket) (Unl) (Homebrew)</description>
-		<rom name="Foryster (USA) (v00.9) (Aftermarket) (Unl) (Homebrew).sg" size="32768" crc="f8d7fa2c" md5="7aeb05029bdb9a571b1b72482daad5eb" sha1="6d9ed7208032ad3ec9011bbc999cea426aca46d3"/>
+		<description>Foryster (USA) (v00.9) (Aftermarket)</description>
+		<rom name="Foryster (USA) (v00.9) (Aftermarket).sg" size="32768" crc="f8d7fa2c" md5="7aeb05029bdb9a571b1b72482daad5eb" sha1="6d9ed7208032ad3ec9011bbc999cea426aca46d3"/>
 		<url>https://retroachievements.org/game/25010/hashes</url>
 		<hash>7aeb05029bdb9a571b1b72482daad5eb</hash>
 	</game>
-	<game name="Foryster (USA) (v00.9 - Level 10 Fix) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Foryster (USA) (v00.9 - Level 10 Fix) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Foryster (USA) (v00.9 - Level 10 Fix) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Foryster (USA) (v00.9 - Level 10 Fix) (Aftermarket) (Unl) (Homebrew)" region="USA"/>
-		<rom name="Foryster (USA) (v00.9 - Level 10 Fix) (Aftermarket) (Unl) (Homebrew).sg" size="32768" crc="c3bdd92c" md5="1065ae51e06b8a07ce99998a37c7db79" sha1="f59be1768fbab79d1bffb886f4074d1e06498f9f"/>
+		<description>Foryster (USA) (v00.9 - Level 10 Fix) (Aftermarket)</description>
+		<release name="Foryster (USA) (v00.9 - Level 10 Fix) (Aftermarket)" region="USA"/>
+		<rom name="Foryster (USA) (v00.9 - Level 10 Fix) (Aftermarket).sg" size="32768" crc="c3bdd92c" md5="1065ae51e06b8a07ce99998a37c7db79" sha1="f59be1768fbab79d1bffb886f4074d1e06498f9f"/>
 		<url>https://retroachievements.org/game/25010/hashes</url>
 		<hash>1065ae51e06b8a07ce99998a37c7db79</hash>
 	</game>
 	
-	<game name="H7N9 (USA) (v20161024) (Aftermarket) (Unl) (Homebrew)">
+	<game name="H7N9 (USA) (v20161024) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>H7N9 (USA) (v20161024) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="H7N9 (USA) (v20161024) (Aftermarket) (Unl) (Homebrew)" region="USA"/>
-		<rom name="H7N9 (USA) (v20161024) (Aftermarket) (Unl) (Homebrew).sg" size="8192" crc="8643027f" md5="784f9220a864953323b42aef566d667e" sha1="5848cc4a8116ce428caa8b775829ed4ffee8fb52"/>
+		<description>H7N9 (USA) (v20161024) (Aftermarket)</description>
+		<release name="H7N9 (USA) (v20161024) (Aftermarket)" region="USA"/>
+		<rom name="H7N9 (USA) (v20161024) (Aftermarket).sg" size="8192" crc="8643027f" md5="784f9220a864953323b42aef566d667e" sha1="5848cc4a8116ce428caa8b775829ed4ffee8fb52"/>
 		<url>https://retroachievements.org/game/25825/hashes</url>
 		<hash>784f9220a864953323b42aef566d667e</hash>
 	</game>
 	
-	<game name="Hopman (USA) (v1.0) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Hopman (USA) (v1.0) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Hopman (USA) (v1.0) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Hopman (USA) (v1.0) (Aftermarket) (Unl) (Homebrew)" region="USA"/>
-		<rom name="Hopman (USA) (v1.0) (Aftermarket) (Unl) (Homebrew).sg" size="9958" crc="8bc01dd6" md5="ed86987c468fbdcf6255a22536c3bac1" sha1="b9ca846d0dbdbd32ed00fa106fb162a0aceda259"/>
+		<description>Hopman (USA) (v1.0) (Aftermarket)</description>
+		<release name="Hopman (USA) (v1.0) (Aftermarket)" region="USA"/>
+		<rom name="Hopman (USA) (v1.0) (Aftermarket).sg" size="9958" crc="8bc01dd6" md5="ed86987c468fbdcf6255a22536c3bac1" sha1="b9ca846d0dbdbd32ed00fa106fb162a0aceda259"/>
 		<url>https://retroachievements.org/game/25826/hashes</url>
 		<hash>ed86987c468fbdcf6255a22536c3bac1</hash>
 	</game>
 	
-	<game name="Jet Paco and Jet Puri (USA) (v1.0) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Jet Paco and Jet Puri (USA) (v1.0) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Jet Paco and Jet Puri (USA) (v1.0) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Jet Paco and Jet Puri (USA) (v1.0) (Aftermarket) (Unl) (Homebrew)" region="USA"/>
-		<rom name="Jet Paco and Jet Puri (USA) (v1.0) (Aftermarket) (Unl) (Homebrew).sg" size="49152" crc="d31c6b3b" md5="c07672a810c23e269a65a02e3893172a" sha1="e2dbe48a9a4490857ae7d51e306f6afba5aac3fa"/>
+		<description>Jet Paco and Jet Puri (USA) (v1.0) (Aftermarket)</description>
+		<release name="Jet Paco and Jet Puri (USA) (v1.0) (Aftermarket)" region="USA"/>
+		<rom name="Jet Paco and Jet Puri (USA) (v1.0) (Aftermarket).sg" size="49152" crc="d31c6b3b" md5="c07672a810c23e269a65a02e3893172a" sha1="e2dbe48a9a4490857ae7d51e306f6afba5aac3fa"/>
 		<url>https://retroachievements.org/game/25011/hashes</url>
 		<hash>c07672a810c23e269a65a02e3893172a</hash>
 	</game>
-	<game name="Jet Paco and Jet Puri (Europe) (v1.0) (Aftermarket) (Unl) (Homebrew)" cloneof="Jet Paco and Jet Puri (USA) (v1.0) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Jet Paco and Jet Puri (Europe) (v1.0) (Aftermarket)" cloneof="Jet Paco and Jet Puri (USA) (v1.0) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Jet Paco and Jet Puri (Europe) (v1.0) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Jet Paco and Jet Puri (Europe) (v1.0) (Aftermarket) (Unl) (Homebrew)" region="Europe"/>
-		<rom name="Jet Paco and Jet Puri (Europe) (v1.0) (Aftermarket) (Unl) (Homebrew).sg" size="49152" crc="3246adab" md5="e13c66c69904b94459fa46da26aca87e" sha1="4b36acfb4faacdbcce56baf3ddba5cd8d72ce047"/>
+		<description>Jet Paco and Jet Puri (Europe) (v1.0) (Aftermarket)</description>
+		<release name="Jet Paco and Jet Puri (Europe) (v1.0) (Aftermarket)" region="Europe"/>
+		<rom name="Jet Paco and Jet Puri (Europe) (v1.0) (Aftermarket).sg" size="49152" crc="3246adab" md5="e13c66c69904b94459fa46da26aca87e" sha1="4b36acfb4faacdbcce56baf3ddba5cd8d72ce047"/>
 		<url>https://retroachievements.org/game/25011/hashes</url>
 		<hash>e13c66c69904b94459fa46da26aca87e</hash>
 	</game>
 	
-	<game name="Klondike Solitaire (USA) (v1.04b) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Klondike Solitaire (USA) (v1.04b) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Klondike Solitaire (USA) (v1.04b) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Klondike Solitaire (USA) (v1.04b) (Aftermarket) (Unl) (Homebrew)" region="USA"/>
-		<rom name="Klondike Solitaire (USA) (v1.04b) (Aftermarket) (Unl) (Homebrew).sg" size="32768" crc="5f9f8b15" md5="9ced5749ab0db9d67b5446381a0182f7" sha1="c52e3ff244bc55802b2856054fb01aba7f747620"/>
+		<description>Klondike Solitaire (USA) (v1.04b) (Aftermarket)</description>
+		<release name="Klondike Solitaire (USA) (v1.04b) (Aftermarket)" region="USA"/>
+		<rom name="Klondike Solitaire (USA) (v1.04b) (Aftermarket).sg" size="32768" crc="5f9f8b15" md5="9ced5749ab0db9d67b5446381a0182f7" sha1="c52e3ff244bc55802b2856054fb01aba7f747620"/>
 		<url>https://retroachievements.org/game/25013/hashes</url>
 		<hash>9ced5749ab0db9d67b5446381a0182f7</hash>
 	</game>
 	
-	<game name="Mahjong Solitaire (World) (v1.16) (Aftermarket) (Unl) (under4mhz) (Homebrew)">
+	<game name="Mahjong Solitaire (World) (v1.16) (under4mhz) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Mahjong Solitaire (World) (v1.16) (Aftermarket) (Unl) (under4mhz) (Homebrew)</description>
-		<release name="Mahjong Solitaire (World) (v1.16) (Aftermarket) (Unl) (under4mhz) (Homebrew)" region="World"/>
-		<rom name="Mahjong Solitaire (World) (v1.16) (Aftermarket) (Unl) (under4mhz) (Homebrew).sg" size="32768" crc="d07afa95" md5="894cb6837dc67fd4ada3be7126c1cbd4" sha1="7524486ce0fa3c7a21c5231cce35133ef2f20a57"/>
+		<description>Mahjong Solitaire (World) (v1.16) (under4mhz) (Aftermarket)</description>
+		<release name="Mahjong Solitaire (World) (v1.16) (under4mhz) (Aftermarket)" region="World"/>
+		<rom name="Mahjong Solitaire (World) (v1.16) (under4mhz) (Aftermarket).sg" size="32768" crc="d07afa95" md5="894cb6837dc67fd4ada3be7126c1cbd4" sha1="7524486ce0fa3c7a21c5231cce35133ef2f20a57"/>
 		<url>https://retroachievements.org/game/25012/hashes</url>
 		<hash>894cb6837dc67fd4ada3be7126c1cbd4</hash>
 	</game>
 	
-	<game name="Palikat (USA) (v1.0) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Palikat (USA) (v1.0) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Palikat (USA) (v1.0) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Palikat (USA) (v1.0) (Aftermarket) (Unl) (Homebrew)" region="USA"/>
-		<rom name="Palikat (USA) (v1.0) (Aftermarket) (Unl) (Homebrew).sg" size="32768" crc="ec169914" md5="a90090e446b4e86ce3cadc451530c0ad" sha1="77493202ba6e5eec599c054e96fe8f86b84b0c96"/>
+		<description>Palikat (USA) (v1.0) (Aftermarket)</description>
+		<release name="Palikat (USA) (v1.0) (Aftermarket)" region="USA"/>
+		<rom name="Palikat (USA) (v1.0) (Aftermarket).sg" size="32768" crc="ec169914" md5="a90090e446b4e86ce3cadc451530c0ad" sha1="77493202ba6e5eec599c054e96fe8f86b84b0c96"/>
 		<url>https://retroachievements.org/game/25009/hashes</url>
 		<hash>a90090e446b4e86ce3cadc451530c0ad</hash>
 	</game>
 	
-	<game name="Pegged (World) (v1.02) (Aftermarket) (Unl) (under4mhz) (Homebrew)">
+	<game name="Pegged (World) (v1.02) (under4mhz) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Pegged (World) (v1.02) (Aftermarket) (Unl) (under4mhz) (Homebrew)</description>
-		<release name="Pegged (World) (v1.02) (Aftermarket) (Unl) (under4mhz) (Homebrew)" region="World"/>
-		<rom name="Pegged (World) (v1.02) (Aftermarket) (Unl) (under4mhz) (Homebrew).sg" size="32768" crc="f6c2547d" md5="54be39abfa98f34f9cfeeeaa75aee054" sha1="c524f5f682e3b39608f4a04f4a29f80b923dce1b"/>
+		<description>Pegged (World) (v1.02) (under4mhz) (Aftermarket)</description>
+		<release name="Pegged (World) (v1.02) (under4mhz) (Aftermarket)" region="World"/>
+		<rom name="Pegged (World) (v1.02) (under4mhz) (Aftermarket).sg" size="32768" crc="f6c2547d" md5="54be39abfa98f34f9cfeeeaa75aee054" sha1="c524f5f682e3b39608f4a04f4a29f80b923dce1b"/>
 		<url>https://retroachievements.org/game/25602/hashes</url>
 		<hash>54be39abfa98f34f9cfeeeaa75aee054</hash>
 	</game>
 	
-	<game name="Pitman (World) (v1.03) (Aftermarket) (Unl) (under4mhz) (Homebrew)">
+	<game name="Pitman (World) (v1.03) (under4mhz) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Pitman (World) (v1.03) (Aftermarket) (Unl) (under4mhz) (Homebrew)</description>
-		<release name="Pitman (World) (v1.03) (Aftermarket) (Unl) (under4mhz) (Homebrew)" region="World"/>
-		<rom name="Pitman (World) (v1.03) (Aftermarket) (Unl) (under4mhz) (Homebrew).sg" size="32768" crc="e325f022" md5="f8d0df42b3143c16d3730a37ff1190b9" sha1="22b6c05f186bc87bfbeb734e8ef107d314f6825d"/>
+		<description>Pitman (World) (v1.03) (under4mhz) (Aftermarket)</description>
+		<release name="Pitman (World) (v1.03) (under4mhz) (Aftermarket)" region="World"/>
+		<rom name="Pitman (World) (v1.03) (under4mhz) (Aftermarket).sg" size="32768" crc="e325f022" md5="f8d0df42b3143c16d3730a37ff1190b9" sha1="22b6c05f186bc87bfbeb734e8ef107d314f6825d"/>
 		<url>https://retroachievements.org/game/22087/hashes</url>
 		<hash>f8d0df42b3143c16d3730a37ff1190b9</hash>
 	</game>
 	
-	<game name="Snake (Rick Skrbina) (USA) (v1.0) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Snake (Rick Skrbina) (USA) (v1.0) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Snake (Rick Skrbina) (USA) (v1.0) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Snake (Rick Skrbina) (USA) (v1.0) (Aftermarket) (Unl) (Homebrew)" region="USA"/>
-		<rom name="Snake (Rick Skrbina) (USA) (v1.0) (Aftermarket) (Unl) (Homebrew).sg" size="32768" crc="af29bba8" md5="3bec2aa3d11a1d1e9b1de9dbef6b513c" sha1="4984dbeab2f7f04bd05b1e357583e005677709d4"/>
+		<description>Snake (Rick Skrbina) (USA) (v1.0) (Aftermarket)</description>
+		<release name="Snake (Rick Skrbina) (USA) (v1.0) (Aftermarket)" region="USA"/>
+		<rom name="Snake (Rick Skrbina) (USA) (v1.0) (Aftermarket).sg" size="32768" crc="af29bba8" md5="3bec2aa3d11a1d1e9b1de9dbef6b513c" sha1="4984dbeab2f7f04bd05b1e357583e005677709d4"/>
 		<url>https://retroachievements.org/game/14474/hashes</url>
 		<hash>3bec2aa3d11a1d1e9b1de9dbef6b513c</hash>
 	</game>
 	
-	<game name="Snake (under4mhz) (USA) (v1.0) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Snake (under4mhz) (USA) (v1.0) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Snake (under4mhz) (USA) (v1.0) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Snake (under4mhz) (USA) (v1.0) (Aftermarket) (Unl) (Homebrew)" region="USA"/>
-		<rom name="Snake (under4mhz) (USA) (v1.0) (Aftermarket) (Unl) (Homebrew).sg" size="32768" crc="c885db61" md5="bb91e8818fdd78c9e6cd2b94bbe552ff" sha1="47829d776889e2f4cf48d41ce07a374d14c521a2"/>
+		<description>Snake (under4mhz) (USA) (v1.0) (Aftermarket)</description>
+		<release name="Snake (under4mhz) (USA) (v1.0) (Aftermarket)" region="USA"/>
+		<rom name="Snake (under4mhz) (USA) (v1.0) (Aftermarket).sg" size="32768" crc="c885db61" md5="bb91e8818fdd78c9e6cd2b94bbe552ff" sha1="47829d776889e2f4cf48d41ce07a374d14c521a2"/>
 		<url>https://retroachievements.org/game/22345/hashes</url>
 		<hash>bb91e8818fdd78c9e6cd2b94bbe552ff</hash>
 	</game>
 	
-	<game name="Super Uwol (World) (v2016-11-19) (Aftermarket) (Unl) (Mojon Twins) (Homebrew)">
+	<game name="Super Uwol (World) (v2016-11-19) (Mojon Twins) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Super Uwol (World) (v2016-11-19) (Aftermarket) (Unl) (Mojon Twins) (Homebrew)</description>
-		<release name="Super Uwol (World) (v2016-11-19) (Aftermarket) (Unl) (Mojon Twins) (Homebrew)" region="World"/>
-		<rom name="Super Uwol (World) (v2016-11-19) (Aftermarket) (Unl) (Mojon Twins) (Homebrew).sg" size="49152" crc="aa8ea6eb" md5="44a7e8eaf9187835f3fb6c6ddda45327" sha1="ffd3c645662d8926965d4e334f68764648db851f"/>
+		<description>Super Uwol (World) (v2016-11-19) (Mojon Twins) (Aftermarket)</description>
+		<release name="Super Uwol (World) (v2016-11-19) (Mojon Twins) (Aftermarket)" region="World"/>
+		<rom name="Super Uwol (World) (v2016-11-19) (Mojon Twins) (Aftermarket).sg" size="49152" crc="aa8ea6eb" md5="44a7e8eaf9187835f3fb6c6ddda45327" sha1="ffd3c645662d8926965d4e334f68764648db851f"/>
 		<url>https://retroachievements.org/game/19716/hashes</url>
 		<hash>44a7e8eaf9187835f3fb6c6ddda45327</hash>
 	</game>
 	
-	<game name="Vexed (World) (v1.03) (Aftermarket) (Unl) (Homebrew)">
+	<game name="Vexed (World) (v1.03) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Vexed (World) (v1.03) (Aftermarket) (Unl) (Homebrew)</description>
-		<release name="Vexed (World) (v1.03) (Aftermarket) (Unl) (Homebrew)" region="World"/>
-		<rom name="Vexed (World) (v1.03) (Aftermarket) (Unl) (Homebrew).sg" size="32768" crc="6159a842" md5="7cd478e059987105eaf4f2780be137c9" sha1="aff1f34dab6f92685348d850db28048c43760a6a"/>
+		<description>Vexed (World) (v1.03) (Aftermarket)</description>
+		<release name="Vexed (World) (v1.03) (Aftermarket)" region="World"/>
+		<rom name="Vexed (World) (v1.03) (Aftermarket).sg" size="32768" crc="6159a842" md5="7cd478e059987105eaf4f2780be137c9" sha1="aff1f34dab6f92685348d850db28048c43760a6a"/>
 		<url>https://retroachievements.org/game/22072/hashes</url>
 		<hash>7cd478e059987105eaf4f2780be137c9</hash>
 	</game>
@@ -302,11 +302,11 @@
 		<hash>25c742e43bc9f1329f3f26502fefb10a</hash>
 	</game>
 	
-	<game name="C_So! (Japan)">
+	<game name="C So! (Japan)">
 		<category>Retail</category>
-		<description>C_So! (Japan)</description>
-		<release name="C_So! (Japan)" region="Japan"/>
-		<rom name="C_So! (Japan).sg" size="32768" crc="be7ed0eb" md5="d87daad7de33105d703b613052ccc2dd" sha1="d45a230b3cbf2d2dcfe7b94691fc7f1a5d747625"/>
+		<description>C So! (Japan)</description>
+		<release name="C So! (Japan)" region="Japan"/>
+		<rom name="C So! (Japan).sg" size="32768" crc="be7ed0eb" md5="d87daad7de33105d703b613052ccc2dd" sha1="d45a230b3cbf2d2dcfe7b94691fc7f1a5d747625"/>
 		<url>https://retroachievements.org/game/24528/hashes</url>
 		<hash>d87daad7de33105d703b613052ccc2dd</hash>
 	</game>

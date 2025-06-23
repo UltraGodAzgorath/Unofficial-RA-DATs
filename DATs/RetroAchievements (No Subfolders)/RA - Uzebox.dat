@@ -4,9 +4,9 @@
 	<header>
 		<name>RA - Uzebox</name>
 		<description>Uzebox</description>
-		<category>1G1R</category>
-		<version>20250529</version>
-		<date>29 May 2025</date>
+		<category>No Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/80/games</url>
@@ -21,10 +21,10 @@
 		<hash>4CF318DF04117DE0067E876DB7FAAF5B</hash>
 	</game>
 	
-	<game name="Megatris (Arcade Edition) (World) (v1.03) (clymax) (Subset - Bonus)">
+	<game name="Megatris (Arcade Edition) (World) (v1.03) (clymax) (Hack) (Subset - Bonus)">
 		<category>Subset</category>
-		<description>Megatris (Arcade Edition) (World) (v1.03) (clymax) (Subset - Bonus)</description>
-		<rom name="Megatris (Arcade Edition) (World) (v1.03) (clymax) (Subset - Bonus).uze" size="59296" crc="57b9284c" md5="8e765bd046b2dee4e6876eb043d6a532" sha1="74971496fafd62139df3969c9c26c2331c18f993"/>
+		<description>Megatris (Arcade Edition) (World) (v1.03) (clymax) (Hack) (Subset - Bonus)</description>
+		<rom name="Megatris (Arcade Edition) (World) (v1.03) (clymax) (Hack) (Subset - Bonus).uze" size="59296" crc="57b9284c" md5="8e765bd046b2dee4e6876eb043d6a532" sha1="74971496fafd62139df3969c9c26c2331c18f993"/>
 		<url>https://retroachievements.org/game/28806/hashes</url>
 		<hash>8E765BD046B2DEE4E6876EB043D6A532</hash>
 	</game>
@@ -37,10 +37,10 @@
 		<hash>B899CA234F713F920CDE11A01FD857D0</hash>
 	</game>
 	
-	<game name="UzeMaze - UzeMaze RA (pinguupinguu) (Hack)">
+	<game name="UzeMaze - UzeMaze RA (World) (pinguupinguu) (Hack)">
 		<category>Hack</category>
-		<description>UzeMaze - UzeMaze RA (pinguupinguu) (Hack)</description>
-		<rom name="UzeMaze - UzeMaze RA (pinguupinguu) (Hack).uze" size="19604" crc="d7094b70" md5="ae053a9a71680a22a59518544ab7c70b" sha1="80d57ad82286e193cf0ea89ff9242ae9054a3545"/>
+		<description>UzeMaze - UzeMaze RA (World) (pinguupinguu) (Hack)</description>
+		<rom name="UzeMaze - UzeMaze RA (World) (pinguupinguu) (Hack).uze" size="19604" crc="d7094b70" md5="ae053a9a71680a22a59518544ab7c70b" sha1="80d57ad82286e193cf0ea89ff9242ae9054a3545"/>
 		<url>https://retroachievements.org/game/25084/hashes</url>
 		<hash>AE053A9A71680A22A59518544AB7C70B</hash>
 	</game>
