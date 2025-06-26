@@ -5,8 +5,8 @@
 		<name>RA - Sony PSP</name>
 		<description>Sony PSP</description>
 		<category>Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250626</version>
+		<date>26 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/41/games</url>
@@ -182,7 +182,7 @@
 		<legacyhash>a7a67425a2b24a1d3d76d5008c3bc0d7</legacyhash>
 	</game>
 	<game name="Retail/Ape Escape - On the Loose (USA) (Undub) (v1.1)">
-		<category></category>
+		<category>PSP</category>
 		<description>Ape Escape - On the Loose (USA) (Undub) (v1.1)</description>
 		<rom name="Ape Escape - On the Loose (USA) (Undub) (v1.1).iso" size="573767680" crc="e578d8dd" md5="8b217928933162f36ee096d8bf6dbd4b" sha1="bf2d30f25c911342c07c811bfdb448445ff13b63"/>
 		<url>https://retroachievements.org/game/3514/hashes</url>
@@ -2777,7 +2777,7 @@
 	</game>
 	
 	<game name="Retail/Star Wars - The Force Unleashed (USA) (En,Fr)">
-		<category></category>
+		<category>PSP</category>
 		<description>Star Wars - The Force Unleashed (USA) (En,Fr)</description>
 		<rom name="Star Wars - The Force Unleashed (USA) (En,Fr).iso" size="1111490560" crc="8f1ef50e" md5="ba8158a2d320be4460b5317f06131f69" sha1="a0f7ae66d0145dcbfa1b1d2363c39941858f4b8d"/>
 		<url>https://retroachievements.org/game/18363/hashes</url>
