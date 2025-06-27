@@ -98,7 +98,7 @@
 		<hash>eddac02481d810c49b54891c48acf340</hash>
 	</game>
 	
-	<game name="Hack/Pokemon - Yellow/Pokemon - Periwinkle Version - Special Blobbos Edition (Subset - Professor Oak's Challenge)">
+	<game name="Subset/Pokemon - Yellow/Pokemon - Periwinkle Version - Special Blobbos Edition (Subset - Professor Oak's Challenge)">
 		<category></category>
 		<description>Pokemon - Periwinkle Version - Special Blobbos Edition (Subset - Professor Oak's Challenge)</description>
 		<rom name="Pokemon - Periwinkle Version - Special Blobbos Edition (Subset - Professor Oak's Challenge).gb" size="2097152" crc="f4ac0d11" md5="860dfa9cd63619affdbab75ba7b01414" sha1="3a52840eeea64b49789414cfe48a44cc88ec133b"/>
@@ -164,14 +164,14 @@
 		<hash>153c9a6fc72bc55f86a7d2c55bd7e50c</hash>
 	</game>
 	
-	<game name="Hack/Pokemon - Blue/Pokemon - Regulation Blue (Subset - Solo Challenge)">
+	<game name="Subset/Pokemon - Blue/Pokemon - Regulation Blue (Subset - Solo Challenge)">
 		<category></category>
 		<description>Pokemon - Regulation Blue (Subset - Solo Challenge)</description>
 		<rom name="Pokemon - Regulation Blue (Subset - Solo Challenge).gb" size="1048576" crc="294c1155" md5="4574f22a18859640dec5ca6a58dfa9c7" sha1="dd686e93f4adcb409d00552c2a2baf226ef48d8a"/>
 		<url>https://retroachievements.org/game/21533/hashes</url>
 		<hash>4574f22a18859640dec5ca6a58dfa9c7</hash>
 	</game>
-	<game name="Hack/Pokemon - Red/Pokemon - Regulation Red (Subset - Solo Challenge)">
+	<game name="Subset/Pokemon - Red/Pokemon - Regulation Red (Subset - Solo Challenge)">
 		<category></category>
 		<description>Pokemon - Regulation Red (Subset - Solo Challenge)</description>
 		<rom name="Pokemon - Regulation Red (Subset - Solo Challenge).gb" size="1048576" crc="ffaa6a1e" md5="dc6b3c07ed38e4c37366817e01e88df4" sha1="95be78ccde89ed62cdc2f5a24a6d1ee5687011c7"/>
@@ -3797,18 +3797,18 @@
 		<hash>e30ffbab1f239f09b226477d84db1368</hash>
 	</game>
 	
-	<game name="Subset/Pokemon Blue Version (Subset - Professor Oak Challenge)">
+	<game name="Subset/Pokemon - Blue/Pokemon - Blue Version (Subset - Professor Oak Challenge)">
 		<category></category>
-		<description>Pokemon Blue Version (Subset - Professor Oak Challenge)</description>
-		<rom name="Pokemon Blue Version (Subset - Professor Oak Challenge).gb" size="1048576" crc="c5cf6e82" md5="4af8f86a951858ead007e4c6f0202f56" sha1="6fbdd2d94226333f0e53e43d5be92bea40f8326b"/>
+		<description>Pokemon - Blue Version (Subset - Professor Oak Challenge)</description>
+		<rom name="Pokemon - Blue Version (Subset - Professor Oak Challenge).gb" size="1048576" crc="c5cf6e82" md5="4af8f86a951858ead007e4c6f0202f56" sha1="6fbdd2d94226333f0e53e43d5be92bea40f8326b"/>
 		<url>https://retroachievements.org/game/29295/hashes</url>
 		<hash>4af8f86a951858ead007e4c6f0202f56</hash>
 	</game>
 	
-	<game name="Subset/Pokemon Red Version (Subset - Professor Oak Challenge)">
+	<game name="Subset/Pokemon - Red/Pokemon - Red Version (Subset - Professor Oak Challenge)">
 		<category></category>
-		<description>Pokemon Red Version (Subset - Professor Oak Challenge)</description>
-		<rom name="Pokemon Red Version (Subset - Professor Oak Challenge).gb" size="1048576" crc="346814a7" md5="72ff69e125ac889dafe8043a7111f92e" sha1="51c940df109474fcd01344b954ddc23da26329b9"/>
+		<description>Pokemon - Red Version (Subset - Professor Oak Challenge)</description>
+		<rom name="Pokemon - Red Version (Subset - Professor Oak Challenge).gb" size="1048576" crc="346814a7" md5="72ff69e125ac889dafe8043a7111f92e" sha1="51c940df109474fcd01344b954ddc23da26329b9"/>
 		<url>https://retroachievements.org/game/16084/hashes</url>
 		<hash>72ff69e125ac889dafe8043a7111f92e</hash>
 	</game>
@@ -3842,31 +3842,31 @@
 		<hash>cbfa8ac9c2181eeca72ae2c8e6019f88</hash>
 	</game>
 	
-	<game name="Subset/Pokemon - Red Version (Subset - Bonus)">
+	<game name="Subset/Pokemon - Red/Pokemon - Red Version (Subset - Bonus)">
 		<category></category>
 		<description>Pokemon - Red Version (Subset - Bonus)</description>
 		<rom name="Pokemon - Red Version (Subset - Bonus).gb" size="1048576" crc="6d20fe91" md5="25da61b495309bfb4d45ab54918d6135" sha1="4c533292bfb3b603a86c2f4f5238263bb89ed6e3"/>
 		<url>https://retroachievements.org/game/11632/hashes</url>
 		<hash>25da61b495309bfb4d45ab54918d6135</hash>
 	</game>
-	<game name="Subset/Pokemon - Blue Version (Subset - Bonus) (Fast Red)">
+	<game name="Subset/Pokemon - Blue/Pokemon - Blue Version (Fast Red) (Subset - Bonus)">
 		<category></category>
-		<description>Pokemon - Blue Version (Subset - Bonus) (Fast Red)</description>
-		<rom name="Pokemon - Blue Version (Bonus) (Fast Red).gb" size="1048576" crc="b1b52369" md5="6e36ce35a35942e17bf9a2544481d8ce" sha1="8f9f3868670b0721b872e8a95f2876dc2cf0928a"/>
+		<description>Pokemon - Blue Version (Fast Red) (Subset - Bonus)</description>
+		<rom name="Pokemon - Blue Version (Fast Red) (Subset - Bonus).gb" size="1048576" crc="b1b52369" md5="6e36ce35a35942e17bf9a2544481d8ce" sha1="8f9f3868670b0721b872e8a95f2876dc2cf0928a"/>
 		<url>https://retroachievements.org/game/11632/hashes</url>
 		<hash>6e36ce35a35942e17bf9a2544481d8ce</hash>
 	</game>
-	<game name="Subset/Pokemon - Blue Version (Subset - Bonus)">
+	<game name="Subset/Pokemon - Blue/Pokemon - Blue Version (Subset - Bonus)">
 		<category></category>
 		<description>Pokemon - Blue Version (Subset - Bonus)</description>
 		<rom name="Pokemon - Blue Version (Subset - Bonus).gb" size="1048576" crc="1e5e8a21" md5="b309021c135c9967bfb2f16911061699" sha1="a2604af5ba346aca96f4ac52d6f292b48d911b1a"/>
 		<url>https://retroachievements.org/game/11632/hashes</url>
 		<hash>b309021c135c9967bfb2f16911061699</hash>
 	</game>
-	<game name="Subset/Pokemon - Red Version (Subset - Bonus) (Fast Red)">
+	<game name="Subset/Pokemon - Red/Pokemon - Red Version (Fast Red) (Subset - Bonus)">
 		<category></category>
-		<description>Pokemon - Red Version (Subset - Bonus) (Fast Red)</description>
-		<rom name="Pokemon - Red Version (Subset - Bonus) (Fast Red).gb" size="1048576" crc="bc6c208b" md5="b7711b4c6d3d77567951f4689675918b" sha1="7b1b3094990105a110ce7b880d9a460100bab9f4"/>
+		<description>Pokemon - Red Version (Fast Red) (Subset - Bonus)</description>
+		<rom name="Pokemon - Red Version (Fast Red) (Subset - Bonus).gb" size="1048576" crc="bc6c208b" md5="b7711b4c6d3d77567951f4689675918b" sha1="7b1b3094990105a110ce7b880d9a460100bab9f4"/>
 		<url>https://retroachievements.org/game/11632/hashes</url>
 		<hash>b7711b4c6d3d77567951f4689675918b</hash>
 	</game>
@@ -3886,15 +3886,15 @@
 		<hash>ebbe3e5c1a2834c9876aad387f817896</hash>
 	</game>
 	
-	<game name="Subset/Pokemon Yellow Version - Special Pikachu Edition (Subset - Shiny Pokemon)">
+	<game name="Subset/Pokemon - Yellow/Pokemon - Yellow Version (Subset - Shiny Pokemon)">
 		<category></category>
-		<description>Pokemon Yellow Version - Special Pikachu Edition (Subset - Shiny Pokemon)</description>
-		<rom name="Pokemon Yellow Version - Special Pikachu Edition (Subset - Shiny Pokemon).gb" size="1048576" crc="5f47853f" md5="a12f78a4c7842b82f42a2512add7373d" sha1="8f8d939f43e5b2c82b4e9c13d7385bff3299b69b"/>
+		<description>Pokemon Yellow Version (Subset - Shiny Pokemon)</description>
+		<rom name="Pokemon Yellow Version (Subset - Shiny Pokemon).gb" size="1048576" crc="5f47853f" md5="a12f78a4c7842b82f42a2512add7373d" sha1="8f8d939f43e5b2c82b4e9c13d7385bff3299b69b"/>
 		<url>https://retroachievements.org/game/6955/hashes</url>
 		<hash>a12f78a4c7842b82f42a2512add7373d</hash>
 	</game>
 	
-	<game name="Subset/Pokemon - Yellow Version (Subset - Professor Oak's Challenge)">
+	<game name="Subset/Pokemon - Yellow/Pokemon - Yellow Version (Subset - Professor Oak's Challenge)">
 		<category></category>
 		<description>Pokemon - Yellow Version (Subset - Professor Oak's Challenge)</description>
 		<rom name="Pokemon - Yellow Version (Subset - Professor Oak's Challenge).gbc" size="1048576" crc="3e4c08cc" md5="40a092bba9fc23b42781718ea5143b39" sha1="ed8f30a337ac4a347325ec1a622c316aa4a41234"/>
