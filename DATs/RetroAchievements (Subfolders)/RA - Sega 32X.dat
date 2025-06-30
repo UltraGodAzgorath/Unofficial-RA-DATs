@@ -5,13 +5,13 @@
 		<name>RA - Sega 32X</name>
 		<description>Sega 32X</description>
 		<category>Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250630</version>
+		<date>30 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/10/games</url>
-		<titlecount>24</titlecount>
-		<hashcount>26</hashcount>
+		<titlecount>33</titlecount>
+		<hashcount>37</hashcount>
 	</header>
 	<game name="Hack/Doom - Resurrection (Europe) (v2.2b) (D32XR Team) (Hack)">
 		<category></category>
@@ -21,12 +21,51 @@
 		<hash>49134106e611839a28caf94a1ddd783d</hash>
 	</game>
 	
+	<game name="Hack/Knuckles' Chaotix - GameTap, Cup Noodles, and Bitter Tears (v1.1) (Steazy Games) (Hack)">
+		<category></category>
+		<description>Knuckles' Chaotix - GameTap, Cup Noodles, and Bitter Tears (v1.1) (Steazy Games) (Hack)</description>
+		<rom name="Knuckles' Chaotix - GameTap, Cup Noodles, and Bitter Tears (v1.1) (Steazy Games) (Hack).32x" size="" crc="00000000" md5="e249205c5a3ed392f2bc4a4841fd98e2" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/31958/hashes</url>
+		<hash>e249205c5a3ed392f2bc4a4841fd98e2</hash>
+	</game>
+	
+	<game name="Hack/Mortal Kombat II - Arcade Edition (v1.5b) (Master Linkuei) (Hack)">
+		<category></category>
+		<description>Mortal Kombat II - Arcade Edition (v1.5b) (Master Linkuei) (Hack)</description>
+		<rom name="Mortal Kombat II - Arcade Edition (v1.5b) (Master Linkuei) (Hack).32x" size="" crc="00000000" md5="55088e83cf69c5b741bae56981ba6af0" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/22047/hashes</url>
+		<hash>55088e83cf69c5b741bae56981ba6af0</hash>
+	</game>
+	<game name="Hack/Mortal Kombat II - Arcade Edition (v1.5c) (Master Linkuei) (Hack)">
+		<category></category>
+		<description>Mortal Kombat II - Arcade Edition (v1.5c) (Master Linkuei) (Hack)</description>
+		<rom name="Mortal Kombat II - Arcade Edition (v1.5c) (Master Linkuei) (Hack).32x" size="" crc="00000000" md5="9410e8be81deb056faf1a8e979c7028b" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/22047/hashes</url>
+		<hash>9410e8be81deb056faf1a8e979c7028b</hash>
+	</game>
+	
 	<game name="Hack/Doom - Sigil (Japan, USA) (En) (John Romero) (Hack)">
 		<category></category>
 		<description>Doom - Sigil (Japan, USA) (En) (John Romero) (Hack)</description>
 		<rom name="Doom - Sigil (Japan, USA) (En) (John Romero) (Hack).32x" size="4194304" crc="e47779e5" md5="f891f45238cf4a8a0956196d665612b8" sha1="b0cea0cee52ff09892fe2d0483c68a05d849a5f0"/>
 		<url>https://retroachievements.org/game/17681/hashes</url>
 		<hash>f891f45238cf4a8a0956196d665612b8</hash>
+	</game>
+	
+	<game name="Homebrew/Sonic Robo Blast 2 (USA) (v0.1a) (SSNTails, Saxman) (Demo) (Aftermarket)">
+		<category></category>
+		<description>Sonic Robo Blast 2 (USA) (v0.1a) (SSNTails, Saxman) (Demo) (Aftermarket)</description>
+		<rom name="Sonic Robo Blast 2 (USA) (v0.1a) (SSNTails, Saxman) (Demo) (Aftermarket).32x" size="" crc="00000000" md5="c9dd33ba3cbdd64941dd19facb515adb" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/33276/hashes</url>
+		<hash>c9dd33ba3cbdd64941dd19facb515adb</hash>
+	</game>
+	
+	<game name="Homebrew/Double Symbol (World) (v1.35) (Timur Lyazgiev) (Aftermarket)">
+		<category></category>
+		<description>Double Symbol (World) (v1.35) (Timur Lyazgiev) (Aftermarket)</description>
+		<rom name="Double Symbol (World) (v1.35) (Timur Lyazgiev) (Aftermarket).32x" size="" crc="00000000" md5="4b14e8c22a97b4fd164e077a4980c582" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/33570/hashes</url>
+		<hash>4b14e8c22a97b4fd164e077a4980c582</hash>
 	</game>
 	
 	<game name="Homebrew/xRick (USA) (v2011-04-30) (Chilly Willy) (Aftermarket)">
@@ -85,6 +124,29 @@
 		<hash>ec9529858cc7961b39f5382b2f657b8f</hash>
 	</game>
 	
+	<game name="Retail/BC Racers (USA)">
+		<category>Retail</category>
+		<description>BC Racers (USA)</description>
+		<rom name="BC Racers (USA).32x" size="" crc="00000000" md5="35a11e021ca0b7ff909e4774eb8b3236" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/15652/hashes</url>
+		<hash>35a11e021ca0b7ff909e4774eb8b3236</hash>
+	</game>
+	
+	<game name="Retail/Blackthorne (USA)">
+		<category></category>
+		<description>Blackthorne (USA)</description>
+		<rom name="Blackthorne (USA).32x" size="" crc="00000000" md5="c238b112113b0297b2b9f4f618d56598" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/10576/hashes</url>
+		<hash>c238b112113b0297b2b9f4f618d56598</hash>
+	</game>
+	<game name="Retail/Blackthorne (USA) (Blizzard Arcade Collection)">
+		<category></category>
+		<description>Blackthorne (USA) (Blizzard Arcade Collection)</description>
+		<rom name="Blackthorne (USA) (Blizzard Arcade Collection).32x" size="" crc="00000000" md5="8c39e659db41e78cf4899b24551a9dbc" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/10576/hashes</url>
+		<hash>8c39e659db41e78cf4899b24551a9dbc</hash>
+	</game>
+	
 	<game name="Retail/Brutal - Above the Claw (USA)">
 		<category></category>
 		<description>Brutal - Above the Claw (USA)</description>
@@ -99,6 +161,14 @@
 		<rom name="Cosmic Carnage (Japan, USA) (En).32x" size="3145728" crc="7c7be6a2" md5="32f3002a46a462735aa12ca856cb7652" sha1="9a563ed821b483148339561ebd2b876efa58847b"/>
 		<url>https://retroachievements.org/game/14306/hashes</url>
 		<hash>32f3002a46a462735aa12ca856cb7652</hash>
+	</game>
+	
+	<game name="Retail/Darxide (Europe) (En,Fr,De,Es)">
+		<category></category>
+		<description>Darxide (Europe) (En,Fr,De,Es)</description>
+		<rom name="Darxide (Europe) (En,Fr,De,Es).32x" size="" crc="00000000" md5="30ee320f76db70a836edeff2c8ce9cd2" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/16795/hashes</url>
+		<hash>30ee320f76db70a836edeff2c8ce9cd2</hash>
 	</game>
 	
 	<game name="Retail/Doom (Japan, USA) (En)">
@@ -154,6 +224,22 @@
 		<rom name="NBA Jam - Tournament Edition (World).32x" size="4194304" crc="6b7994aa" md5="966a5e00dd7bcdc70b05c5a0c0e8f7aa" sha1="c8af3e74c49514669ba6652ec0c81bccf77873b6"/>
 		<url>https://retroachievements.org/game/16062/hashes</url>
 		<hash>966a5e00dd7bcdc70b05c5a0c0e8f7aa</hash>
+	</game>
+	
+	<game name="Retail/Primal Rage (USA, Europe)">
+		<category></category>
+		<description>Primal Rage (USA, Europe)</description>
+		<rom name="Primal Rage (USA, Europe).32x" size="" crc="00000000" md5="e1efc5804d3360e7b19f7542219bf964" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/16802/hashes</url>
+		<hash>e1efc5804d3360e7b19f7542219bf964</hash>
+	</game>
+	
+	<game name="Retail/RBI Baseball '95 (USA)">
+		<category></category>
+		<description>RBI Baseball '95 (USA)</description>
+		<rom name="RBI Baseball '95 (USA).32x" size="" crc="00000000" md5="5f955b5feab07c072fc345f1fee52a60" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/16803/hashes</url>
+		<hash>5f955b5feab07c072fc345f1fee52a60</hash>
 	</game>
 	
 	<game name="Retail/Space Harrier (Japan, USA) (En)">

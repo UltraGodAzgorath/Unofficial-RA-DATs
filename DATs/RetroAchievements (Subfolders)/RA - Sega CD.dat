@@ -123,6 +123,32 @@
 		<hash>6d14797a2108c284e27dfac0657b6692</hash>
 	</game>
 
+	<game name="Retail/Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es)">
+		<category></category>
+		<description>Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es)</description>
+		<rom name="Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es).cue" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<rom name="Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es).bin" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/33773/hashes</url>
+		<hash>50ab41923e9edb04e7d047975f5a90cc</hash>
+	</game>
+	<game name="Retail/Battle Frenzy (USA) (Unl)">
+		<category></category>
+		<description>Battle Frenzy (USA) (Unl)</description>
+		<rom name="Battle Frenzy (USA) (Unl).cue" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<rom name="Battle Frenzy (USA) (Unl).bin" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/33773/hashes</url>
+		<hash>38bb5e72eb5225d645ad8353c357bef6</hash>
+	</game>
+	
+	<game name="Retail/Bram Stoker's Dracula (USA)">
+		<category></category>
+		<description>Bram Stoker's Dracula (USA)</description>
+		<rom name="Bram Stoker's Dracula (USA).cue" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<rom name="Bram Stoker's Dracula (USA).bin" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/16008/hashes</url>
+		<hash>4cdf3056049a8876a4ded1d767e13554</hash>
+	</game>
+	
 	<game name="Retail/Crime Patrol (USA)">
 		<category></category>
 		<description>Crime Patrol (USA)</description>
@@ -131,6 +157,24 @@
 		<rom name="Crime Patrol (USA) (Track 2).bin" size="2227344" crc="76381750" md5="a6233e89c514211aaf271bafbc17bcdf" sha1="1781a01c5fb0886450c08f5cb4d9231292403dbb"/>
 		<url>https://retroachievements.org/game/10099/hashes</url>
 		<hash>7f39d78927c00bc6859bad1953643b54</hash>
+	</game>
+	
+	<game name="Retail/Demolition Man (USA)">
+		<category></category>
+		<description>Demolition Man (USA)</description>
+		<rom name="Demolition Man (USA).cue" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<rom name="Demolition Man (USA).bin" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/18497/hashes</url>
+		<hash>e8a591459675bc15793b36847491c194</hash>
+	</game>
+	
+	<game name="Retail/Double Switch (USA)">
+		<category></category>
+		<description>Double Switch (USA)</description>
+		<rom name="Double Switch (USA).cue" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<rom name="Double Switch (USA).bin" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/10222/hashes</url>
+		<hash>2b993293168b46a43f6a30683e1b85f3</hash>
 	</game>
 	
 	<game name="Retail/Dracula Unleashed (USA) (Disc 1)">
@@ -150,6 +194,14 @@
 		<rom name="Dracula Unleashed (USA) (Disc 2) (Track 2).bin" size="10936800" crc="d786ed68" md5="67e2198ef6dc4c6c234ef791ee13bc8a" sha1="ea3b156235b3554b5d522054f83c811a3fc3188e"/>
 		<url>https://retroachievements.org/game/10022/hashes</url>
 		<hash>8309d2aed7f5bcac384ab5a5913cb5c0</hash>
+	</game>
+	
+	<game name="Retail/Dragon's Lair (USA)">
+		<category></category>
+		<description>Dragon's Lair (USA)</description>
+		<rom name="Dragon's Lair (USA).cue" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/12807/hashes</url>
+		<hash>5f2be574b796fadd87574b7287138569</hash>
 	</game>
 	
 	<game name="Retail/Dungeon Explorer (USA)">
@@ -241,7 +293,15 @@
 		<url>https://retroachievements.org/game/14144/hashes</url>
 		<hash>fbd25c6c1f42973b214ace4646c8632a</hash>
 	</game>
-
+	
+	<game name="Retail/Ecco the Dolphin (Europe)">
+		<category></category>
+		<description>Ecco the Dolphin (Europe)</description>
+		<rom name="Ecco the Dolphin (Europe).chd" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/16019/hashes</url>
+		<hash>1f9896c6fc87315538aead49d345178b</hash>
+	</game>
+	
 	<game name="Retail/Eternal Champions - Challenge from the Dark Side (USA) (RE)">
 		<category></category>
 		<description>Eternal Champions - Challenge from the Dark Side (USA) (RE)</description>
@@ -269,6 +329,22 @@
 		<hash>59f664ff7637ce4f8fbbe2b77c66c487</hash>
 	</game>
 
+	<game name="Retail/F1 Circus CD (Japan)">
+		<category></category>
+		<description>F1 Circus CD (Japan)</description>
+		<rom name="F1 Circus CD (Japan).cue" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/19845/hashes</url>
+		<hash>f9d91058568d67534764a1bef986c414</hash>
+	</game>
+	
+	<game name="Retail/Fatal Fury Special (USA)">
+		<category></category>
+		<description>Fatal Fury Special (USA)</description>
+		<rom name="Fatal Fury Special (USA).cue" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/16024/hashes</url>
+		<hash>4e086207542563f208422e76f48d7ddc</hash>
+	</game>
+	
 	<game name="Retail/Final Fight CD (USA)">
 		<category></category>
 		<description>Final Fight CD (USA)</description>
@@ -338,7 +414,15 @@
 		<url>https://retroachievements.org/game/17008/hashes</url>
 		<hash>ce35f52d95bfc57be16a2b03f741e146</hash>
 	</game>
-
+	
+	<game name="Retail/Iron Helix (USA)">
+		<category></category>
+		<description>Iron Helix (USA)</description>
+		<rom name="Iron Helix (USA).chd" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/17009/hashes</url>
+		<hash>31779e90353f3a234392fa4c71011160</hash>
+	</game>
+	
 	<game name="Retail/Jeopardy! (USA)">
 		<category></category>
 		<description>Jeopardy! (USA)</description>
@@ -422,6 +506,14 @@
 		<rom name="Keio Flying Squadron (USA) (Track 26).bin" size="9974832" crc="1ae49e33" md5="73cf989c961b3601ee540a403cd0776d" sha1="826f4ccc9d504bb22ee84c17ae2cb3eeec2e5e94"/>
 		<url>https://retroachievements.org/game/10069/hashes</url>
 		<hash>4e68b8b035ac1821a71089bda99625a6</hash>
+	</game>
+	
+	<game name="Retail/Kids on Site (USA)">
+		<category></category>
+		<description>Kids on Site (USA)</description>
+		<rom name="Kids on Site (USA).cue" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/14142/hashes</url>
+		<hash>0bb113c5b12529830b5e2d471d75e3fa</hash>
 	</game>
 	
 	<game name="Retail/Lords of Thunder (USA)">
@@ -549,6 +641,29 @@
 		<hash>51b18d3e4a6581d667a467bf1c9fc406</hash>
 	</game>
 	
+	<game name="Retail/MegaRace (USA)">
+		<category></category>
+		<description>MegaRace (USA)</description>
+		<rom name="MegaRace (USA).cue" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="00000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/14209/hashes</url>
+		<hash>b111ff79baa4e42536429bb4aebdd578</hash>
+	</game>
+	
+	<game name="Retail/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)">
+		<category></category>
+		<description>Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)</description>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).cue" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="00000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/16034/hashes</url>
+		<hash>0de3f1c9f358f35eb589125d07b11f42</hash>
+	</game>
+	<game name="Retail/Mickey Mania (Europe)">
+		<category></category>
+		<description>Mickey Mania (Europe)</description>
+		<rom name="Mickey Mania (Europe).cue" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="00000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/16034/hashes</url>
+		<hash>54339f3c874613f830a49001098bc725</hash>
+	</game>
+	
 	<game name="Retail/Mighty Morphin Power Rangers (USA)">
 		<category></category>
 		<description>Mighty Morphin Power Rangers (USA)</description>
@@ -603,6 +718,14 @@
 		<rom name="Night Trap (USA) (Disc 2).bin" size="515351424" crc="7c560ae9" md5="3976df829ecd93297b56ad44ebeb001a" sha1="fd9c547646ce18c26bff42526aeb4204f3cef85e"/>
 		<url>https://retroachievements.org/game/17011/hashes</url>
 		<note>Hash is the same as Disc 1's hash</note>
+	</game>
+	
+	<game name="Retail/Panic! (USA) (RE)">
+		<category></category>
+		<description>Panic! (USA) (RE)</description>
+		<rom name="Panic! (USA) (RE).cue" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/16001/hashes</url>
+		<hash>070c46f42e72548c5df0c05fa58ed838</hash>
 	</game>
 	
 	<game name="Retail/Popful Mail (USA) (RE)">
@@ -667,6 +790,29 @@
 		<rom name="Radical Rex (USA) (Track 11).bin" size="1171296" crc="3a5e6bda" md5="e7045b8f93f8af500579ff5bb4d11565" sha1="266f95761665308b37eb81988e1289c533d5180d"/>
 		<url>https://retroachievements.org/game/16003/hashes</url>
 		<hash>b4f33dda22f00c5b6c4017bcbe5a4641</hash>
+	</game>
+	
+	<game name="Retail/Ranma 1-2 - Byakuranaika (Japan)">
+		<category></category>
+		<description>Ranma 1-2 - Byakuranaika (Japan)</description>
+		<rom name="Ranma 1-2 - Byakuranaika (Japan).cue" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/33146/hashes</url>
+		<hash>2b2e58c6d389fc0fb3de9ed1048152fc</hash>
+	</game>
+	
+	<game name="Retail/Revengers of Vengeance (USA)">
+		<category></category>
+		<description>Revengers of Vengeance (USA)</description>
+		<rom name="Revengers of Vengeance (USA).cue" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/25914/hashes</url>
+		<hash>cf8116a12b94300a0cd9d3e8d2a69339</hash>
+	</game>
+	<game name="Retail/Battle Fantasy (Japan) (Rev A)">
+		<category></category>
+		<description>Battle Fantasy (Japan) (Rev A)</description>
+		<rom name="Battle Fantasy (Japan) (Rev A).cue" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/25914/hashes</url>
+		<hash>7d0c4b69e866d8bb09c9e9a24ffc8c89</hash>
 	</game>
 	
 	<game name="Retail/Rise of the Dragon (USA) (Rerelease) (RE)">
@@ -815,6 +961,30 @@
 		<rom name="Sewer Shark (USA) (Rev 1).bin" size="488418672" crc="19f2fe42" md5="7af698764697605cb32dfe93358e0145" sha1="b3f903587b3cedcb2949fc8109b4ea7f047fd270"/>
 		<url>https://retroachievements.org/game/10583/hashes</url>
 		<hash>e3e0b93a9e1a945fad7b99a520cd0cbd</hash>
+	</game>
+	
+	<game name="Retail/Shadow of the Beast II (USA)">
+		<category></category>
+		<description>Shadow of the Beast II (USA)</description>
+		<rom name="Shadow of the Beast II (USA).cue" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/16046/hashes</url>
+		<hash>ee68bfea6a26989bd14b1cbfeb4ca061</hash>
+	</game>
+	
+	<game name="Retail/Sherlock Holmes - Consulting Detective (USA)">
+		<category></category>
+		<description>Sherlock Holmes - Consulting Detective (USA)</description>
+		<rom name="Sherlock Holmes - Consulting Detective (USA).cue" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/33130/hashes</url>
+		<hash>cb1ada19197ec469d7e4f3fbdf3dcbfa</hash>
+	</game>
+	
+	<game name="Retail/Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 1)">
+		<category></category>
+		<description>Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 1)</description>
+		<rom name="Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 1).cue" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/33131/hashes</url>
+		<hash>79aa2fea650ddd2117642abf22f2dd32</hash>
 	</game>
 	
 	<game name="Retail/Shining Force CD (USA) (3R)">
@@ -1086,6 +1256,30 @@
 		<hash>a17215f3dafcc420ef25a1d1fc65c2e8</hash>
 	</game>
 	
+	<game name="Retail/SoulStar (Europe) (En,Fr,De)">
+		<category></category>
+		<description>SoulStar (Europe) (En,Fr,De)</description>
+		<rom name="SoulStar (Europe) (En,Fr,De).chd" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/15992/hashes</url>
+		<hash>cda361103444e5b53acea28a59fb5ac4</hash>
+	</game>
+	
+	<game name="Retail/Star Wars - Rebel Assault (USA)">
+		<category></category>
+		<description>Star Wars - Rebel Assault (USA)</description>
+		<rom name="Star Wars - Rebel Assault (USA).chd" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/33129/hashes</url>
+		<hash>14e37595e2c89a110cbf905dab680476</hash>
+	</game>
+	
+	<game name="Retail/Adventures of Batman and Robin, The (USA)">
+		<category></category>
+		<description>Adventures of Batman and Robin, The (USA)</description>
+		<rom name="Adventures of Batman and Robin, The (USA).chd" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/16004/hashes</url>
+		<hash>8d7815b041daf04db6eef8e0b5cbb83a</hash>
+	</game>
+	
 	<game name="Retail/Adventures of Willy Beamish, The (USA)">
 		<category></category>
 		<description>Adventures of Willy Beamish, The (USA)</description>
@@ -1274,6 +1468,14 @@
 		<hash>798cf8e84327135049a465d647485435</hash>
 	</game>
 	
+	<game name="Retail/Smurfs, The (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Smurfs, The (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Smurfs, The (Europe) (En,Fr,De,Es,It).chd" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/27245/hashes</url>
+		<hash>1dc77dbd635558b151c21841ccb57128</hash>
+	</game>
+	
 	<game name="Retail/Terminator, The (USA)">
 		<category></category>
 		<description>Terminator, The (USA)</description>
@@ -1309,6 +1511,14 @@
 		<rom name="Time Gal (Japan) (Track 2).bin" size="1651104" crc="fd9c4ef7" md5="d6eac0d6f805851a7931123e4a64dcda" sha1="f979849f9b75038086f6d496edd070a8684f3f8e"/>
 		<url>https://retroachievements.org/game/12875/hashes</url>
 		<hash>b19158cea7aa429b4a2fba9832050954</hash>
+	</game>
+	
+	<game name="Retail/Ultraverse Prime (USA)">
+		<category></category>
+		<description>Ultraverse Prime (USA)</description>
+		<rom name="Ultraverse Prime (USA).chd" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/15999/hashes</url>
+		<hash>eaa7bb525aba09528613e664d6578ea9</hash>
 	</game>
 	
 	<game name="Retail/Vay (USA)">
@@ -1357,6 +1567,14 @@
 		<hash>e799f31379929fc058bb3c20928d3e7c</hash>
 	</game>
 
+	<game name="Retail/Wild Woody (USA)">
+		<category></category>
+		<description>Wild Woody (USA)</description>
+		<rom name="Wild Woody (USA).chd" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/15996/hashes</url>
+		<hash>c6a92cce237d22c4f9fc7fa651ae5bdc</hash>
+	</game>
+	
 	<game name="Retail/Wing Commander (USA)">
 		<category></category>
 		<description>Wing Commander (USA)</description>
@@ -1369,5 +1587,29 @@
 		<rom name="Wing Commander (USA) (Track 6).bin" size="30406656" crc="e34dca24" md5="9411cd4d1cb7f103e7e1909db2d0622d" sha1="6e4d06f6f4eadac0092c59c77f6262def18ce767"/>
 		<url>https://retroachievements.org/game/14706/hashes</url>
 		<hash>e6f4bda45b2e75f6d860ba9e7a8f5531</hash>
+	</game>
+	
+	<game name="Retail/WireHead (USA)">
+		<category></category>
+		<description>WireHead (USA)</description>
+		<rom name="WireHead (USA).chd" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/15706/hashes</url>
+		<hash>e7dee36b4e4a518cc8fc7a5348c4f777</hash>
+	</game>
+	
+	<game name="Retail/Wolfchild (USA)">
+		<category></category>
+		<description>Wolfchild (USA)</description>
+		<rom name="Wolfchild (USA).chd" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/14850/hashes</url>
+		<hash>d70cf6e2a3d04274df9d14e4d55df4a2</hash>
+	</game>
+	
+	<game name="Retail/Wonder Dog (USA) (RE)">
+		<category></category>
+		<description>Wonder Dog (USA) (RE)</description>
+		<rom name="Wonder Dog (USA) (RE).chd" size="" crc="00000000" md5="00000000000000000000000000000000" sha1="0000000000000000000000000000000000000000"/>
+		<url>https://retroachievements.org/game/15993/hashes</url>
+		<hash>ed530df3dd246970d9b5c217f10ac0f9</hash>
 	</game>
 </datafile>
