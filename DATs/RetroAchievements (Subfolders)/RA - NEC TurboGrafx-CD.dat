@@ -5,8 +5,8 @@
 		<name>RA - NEC TurboGrafx-CD</name>
 		<description>NEC TurboGrafx-CD</description>
 		<category>Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250630</version>
+		<date>30 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/76/games</url>
@@ -1214,6 +1214,32 @@
 		<rom name="Ginga Fukei Densetsu Sapphire (Japan) (Track 17).bin" size="18051600" crc="275b67cc" md5="1a0c60243ca45d7eda223815e6016963" sha1="a52aa2292cca6e23668ce2d2af6f62dff120440c"/>
 		<url>https://retroachievements.org/game/8868/hashes</url>
 		<hash>b01d1404a3a2370e2099a4cf68b5a99f</hash>
+	</game>
+	
+	<game name="Retail/Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT)">
+		<category></category>
+		<description>Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT)</description>
+		<rom name="Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT).cue" size="1349" crc="891a95a1" md5="b0606f3ae4968507891d10c9d8caa61b" sha1="0083cb50ede5079a0608da5b570282dfa33eac60"/>
+		<rom name="Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT) (Track 01).bin" size="10160640" crc="ceb98b7f" md5="efa576c7af4267bde37cbe7e61245603" sha1="99b94a82fdccbe8fae17df36661a2eb34c27284e"/>
+		<rom name="Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT) (Track 02).bin" size="177270240" crc="dfbee883" md5="6ab1250cc1858e007bd5802b0d4eab12" sha1="bef0e65f163865f84d3527f1487c8e48a42041e2"/>
+		<rom name="Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT) (Track 03).bin" size="17973984" crc="0a189440" md5="f6298ca6c5edb68035ec9e75f7453c96" sha1="5b34eea98b1a7ee3d5e1d042d6ba5ee36e5f1c36"/>
+		<rom name="Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT) (Track 04).bin" size="17270736" crc="825a1918" md5="03672de033196b9f5b9e68ca8431e1bd" sha1="7c8e8565fc2089a94e41980d9bac377cc7425774"/>
+		<rom name="Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT) (Track 05).bin" size="17223696" crc="23477c99" md5="b7febdfc7cf5f2536f4c104765445888" sha1="de332114cfc0d742c4d2da79e61f3655487e5b25"/>
+		<rom name="Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT) (Track 06).bin" size="17242512" crc="8b1895ee" md5="e72dcaebadcc1aa45749aa9849d1c3cb" sha1="64cc3228806779b97a3c5dfe2cc2354c7d42e70d"/>
+		<rom name="Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT) (Track 07).bin" size="21398496" crc="88bfd468" md5="429b4940f168adc3632f4ad94e318700" sha1="e02b7142d3ba2274a847f7410e9a7ddb6f1c02ac"/>
+		<rom name="Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT) (Track 08).bin" size="21403200" crc="134c9961" md5="9bdf06e17a4db5dcefe444fff9b56071" sha1="4b78f6e06180f5d9ddabf42641d20c11cc87caac"/>
+		<rom name="Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT) (Track 09).bin" size="11877600" crc="a3c57f27" md5="e720f6dbde95a2ac8d48c6f39ecd29a7" sha1="fdb0e89415cd6a34a4b597754c92980742448d26"/>
+		<rom name="Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT) (Track 10).bin" size="176943312" crc="c9a3eb8f" md5="1abc811d22ad2156ccd7079e9dc1ed8e" sha1="e99cae35269735088f3c2289e020452bb4e907c5"/>
+		<url>https://retroachievements.org/game/13615/hashes</url>
+		<hash>12888594bfafea9afa707ce6c2eb75db</hash>
+	</game>
+	<game name="Retail/Ginga Ojousama Densetsu Yuna (Japan) (En) (v1.3) (Supper)">
+		<category></category>
+		<description>Ginga Ojousama Densetsu Yuna (Japan) (En) (v1.3) (Supper)</description>
+		<rom name="Ginga Ojousama Densetsu Yuna (Japan) (En) (v1.3) (Supper).cue" size="542" crc="d3382468" md5="a6c59acafe54bb956235ef401da0cbc8" sha1="837cca6fc3c2238c1e36214c014755e5c210b7b2"/>
+		<rom name="Ginga Ojousama Densetsu Yuna (Japan) (En) (v1.3) (Supper).bin" size="488764416" crc="76db3655" md5="c7a1aec2d656c43e0a61942a2b8bc33e" sha1="a9dafc535d68badfe0404c4a408a01135caa034b"/>
+		<url>https://retroachievements.org/game/13615/hashes</url>
+		<hash>87c94b395f18fa2bc467c8c6d1c9688d</hash>
 	</game>
 	
 	<game name="Retail/Godzilla (USA)">

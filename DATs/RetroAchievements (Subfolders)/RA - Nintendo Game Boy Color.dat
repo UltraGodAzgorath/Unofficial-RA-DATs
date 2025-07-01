@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Color</name>
 		<description>Nintendo Game Boy Color</description>
 		<category>Subfolders</category>
-		<version>20250623</version>
-		<date>23 June 2025</date>
+		<version>20250630</version>
+		<date>30 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/6/games</url>
@@ -1101,6 +1101,14 @@
 		<rom name="Barbie - Pet Rescue (Europe) (En,Fr,De,Es,It).gbc" size="1048576" crc="48e638ce" md5="dccb2adec6b97ac35614414a427abdbb" sha1="191a42e0eaf6afb58bc8aaca0ee8dad0641594d4"/>
 		<url>https://retroachievements.org/game/11206/hashes</url>
 		<hash>dccb2adec6b97ac35614414a427abdbb</hash>
+	</game>
+	
+	<game name="Retail/Bass Masters Classic (USA, Europe) (GB Compatible)">
+		<category></category>
+		<description>Bass Masters Classic (USA, Europe) (GB Compatible)</description>
+		<rom name="Bass Masters Classic (USA, Europe) (GB Compatible).gbc" size="1048576" crc="b70028e4" md5="3bfa6eca3e26c8b4ee8e31ac7064085a" sha1="b1bd238640e99e3584c8c4e4fa174ff144b600d6"/>
+		<url>https://retroachievements.org/game/9684/hashes</url>
+		<hash>3bfa6eca3e26c8b4ee8e31ac7064085a</hash>
 	</game>
 	
 	<game name="Retail/Batman of the Future - Return of the Joker (Europe) (En,Fr,De)">

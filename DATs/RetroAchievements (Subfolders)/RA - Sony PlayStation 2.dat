@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation 2</name>
 		<description>Sony Playstation 2</description>
 		<category>Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250630</version>
+		<date>30 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -209,6 +209,14 @@
 		<rom name="Mortal Kombat - Shaolin Monks (USA) (Unplayable Characters) (v1.03) (Hack).iso" size="3495460864" crc="c1ae0dcc" md5="652a098165a406872e1a68803a682043" sha1="adcdb216b4ccbbffd5518a51d2001bcc547c226c"/>
 		<url>https://retroachievements.org/game/21545/hashes</url>
 		<hash>97a850b3abfddc0fa3f52c1ab22a4e58</hash>
+	</game>
+	
+	<game name="Hack/Resident Evil 4 - A Nightmare of Evil (v1.0) (hobi gamez) (Hack)">
+		<category></category>
+		<description>Resident Evil 4 - A Nightmare of Evil (v1.0) (hobi gamez) (Hack)</description>
+		<rom name="Resident Evil 4 - A Nightmare of Evil (v1.0) (hobi gamez) (Hack).iso" size="3248128000" crc="ce3ba0db" md5="dd354755f0e0de26ffdda69b53ceb68f" sha1="d50735da91be822b358e82b878c305b06b01a9af"/>
+		<url>https://retroachievements.org/game/20466/hashes</url>
+		<hash>b8157fd246eef69e70403ff5a74eeb2e</hash>
 	</game>
 	
 	<game name="Hack/Shin Megami Tensei - Nocturne - Hardtype (v1.5.1) (zombero) (Hack)">
@@ -2457,6 +2465,14 @@
 		<hash>65cc09d9d2b2c2610e7d804cfdb7868c</hash>
 	</game>
 	
+	<game name="Retail/Goosebumps HorrorLand (USA)">
+		<category></category>
+		<description>Goosebumps HorrorLand (USA)</description>
+		<rom name="Goosebumps HorrorLand (USA).iso" size="1423114240" crc="9cdf448c" md5="ce009278bbc419c561f952006d358e60" sha1="8f96fff99dbb8947fce32a90db6362fb5d046ade"/>
+		<url>https://retroachievements.org/game/20975/hashes</url>
+		<hash>7f73b350d070c76af76a546a2d1c13de</hash>
+	</game>
+	
 	<game name="Retail/Gradius V (USA)">
 		<category></category>
 		<description>Gradius V (USA)</description>
@@ -3294,6 +3310,14 @@
 		<rom name="Nickelodeon Jimmy Neutron - Boy Genius (USA).iso" size="1515782144" crc="cb1d56ec" md5="25e554390c65d7591cda084b1fac731a" sha1="5658469548ce552a582b224c84292f659ac42abf"/>
 		<url>https://retroachievements.org/game/20708/hashes</url>
 		<hash>edbef07678ec579c6f2eb146b8f1f4f7</hash>
+	</game>
+	
+	<game name="Retail/Nickelodeon Jimmy Neutron - Boy Genius - Attack of the Twonkies (USA)">
+		<category></category>
+		<description>Nickelodeon Jimmy Neutron - Boy Genius - Attack of the Twonkies (USA)</description>
+		<rom name="Nickelodeon Jimmy Neutron - Boy Genius - Attack of the Twonkies (USA).iso" size="1245118464" crc="3707fa22" md5="f43d609ff85bb2478ee1fb6533fa1631" sha1="42cbc4a0073cd179c1867ed5e50c1a874069a0ef"/>
+		<url>https://retroachievements.org/game/20707/hashes</url>
+		<hash>150eefa1ae64015c22c2bee979a9ee76</hash>
 	</game>
 	
 	<game name="Retail/Jojo no Kimyou na Bouken - Ougon no Kaze (Japan)">
@@ -4415,6 +4439,13 @@
 		<rom name="ObsCure (USA) (En,Fr,Es).iso" size="3119742976" crc="260936a4" md5="433f46abe06b4c9ca6acd894d46c7196" sha1="026ce0fd16d94137550975ab8cd1a11da6634099"/>
 		<url>https://retroachievements.org/game/19266/hashes</url>
 		<hash>3f0b62e2eb5ac97a9e01663ca79a2c18</hash>
+	</game>
+	<game name="Obscure (USA) (Pt) (v1.0) (Jean Carlos)">
+		<category></category>
+		<description>Obscure (USA) (Pt) (v1.0) (Jean Carlos)</description>
+		<rom name="Obscure (USA) (Pt) (v1.0) (Jean Carlos).iso" size="3140878336" crc="42d25d46" md5="fd36cf2705901855867b757fa95f83ae" sha1="f10009cf0511b47370edace9bc753c8e354818ec"/>
+		<url>https://retroachievements.org/game/19266/hashes</url>
+		<hash>7645075cf5729f059d8202da46f29523</hash>
 	</game>
 	
 	<game name="Retail/ObsCure - The Aftermath (USA) (En,Fr,Es)">
@@ -5562,6 +5593,13 @@
 		<rom name="Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01).iso" size="3879108608" crc="56fd79cc" md5="37a90d79dea1d60b90b54b371c34c53a" sha1="2f4d89736d9240c6f8719e50a8d450a81ad638ae"/>
 		<url>https://retroachievements.org/game/1324/hashes</url>
 		<hash>87618c9a9dc9fb6975d6177663870670</hash>
+	</game>
+	<game name="Retail/Silent Hill 2 (USA) (v2.01) (Ru) (v1.0) (Metallist)">
+		<category></category>
+		<description>Silent Hill 2 (USA) (v2.01) (Ru) (v1.0) (Metallist)</description>
+		<rom name="Silent Hill 2 (USA) (v2.01) (Ru) (v1.0) (Metallist).iso" size="3879108608" crc="8904129e" md5="64fcf8ae712bd1b0e75128d850d179ff" sha1="f639cce594fde031929ed9723a12cc4e206a28df"/>
+		<url>https://retroachievements.org/game/1324/hashes</url>
+		<hash>8512cb88d7ed83e27776023cb22f3717</hash>
 	</game>
 	
 	<game name="Retail/Silent Hill 3 (USA) (En,Ja,Fr,De,Es,It,Ko)">

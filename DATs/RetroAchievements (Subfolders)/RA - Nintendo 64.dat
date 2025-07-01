@@ -5,8 +5,8 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250630</version>
+		<date>30 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/2/games</url>
@@ -524,6 +524,14 @@
 		<rom name="SM64 - Lug's Tiny Torture (Hardcore) (En) (v1.0) (Lugmillord) (Hack).z64" size="67108864" crc="23407bb0" md5="6b788ecaa4cb1ad53a6f84216dcdd1db" sha1="373a312ffdeecf09d8201b1a90a61d20faf8076c"/>
 		<url>https://retroachievements.org/game/17696/hashes</url>
 		<hash>6b788ecaa4cb1ad53a6f84216dcdd1db</hash>
+	</game>
+	
+	<game name="Hack/Super Mario 64/SM64 - LATFR Rebooted Green Comet (v1.0b) (LinCrash) (Hack)">
+		<category>Nintendo 64</category>
+		<description>SM64 - LATFR Rebooted Green Comet (v1.0b) (LinCrash) (Hack)</description>
+		<rom name="SM64 - LATFR Rebooted Green Comet (v1.0b) (LinCrash) (Hack).z64" size="67108864" crc="4cbbf5a1" md5="894681665810b36dec15ea325444e526" sha1="511a9964b59927c518e54484812371c12a9c303f"/>
+		<url>https://retroachievements.org/game/33662/hashes</url>
+		<hash>894681665810b36dec15ea325444e526</hash>
 	</game>
 	
 	<game name="Hack/Super Mario 64/SM64 - Luigi and the Forest Ruins - Rebooted (v1.2) (Mariocrash) (Hack)">
@@ -2255,14 +2263,6 @@
 		<hash>94ddc73d312b9eab80521a207d6d78de</hash>
 	</game>
 	
-	<game name="Hack/Super Smash Bros/SSB - Smash Remix (v1.5.2) (Smash Remix Team) (Hack)">
-		<category>Nintendo 64</category>
-		<description>SSB - Smash Remix (v1.5.2) (Smash Remix Team) (Hack)</description>
-		<rom name="SSB - Smash Remix (v1.5.2) (Smash Remix Team) (Hack).z64" size="65536000" crc="5b9a6a5b" md5="18ec45dd6c723aab1f2d6577c68164f2" sha1="56364d9f8a8010353a6e0df4c564563ad3c1dc47"/>
-		<url>https://retroachievements.org/game/15964/hashes</url>
-		<hash>18ec45dd6c723aab1f2d6577c68164f2</hash>
-	</game>
-	
 	<game name="Hack/Super Mario 64/SM64 - Speed Star Adventure (v1.1) (jesusyoshi54) (Hack)">
 		<category>Nintendo 64</category>
 		<description>SM64 - Speed Star Adventure (v1.1) (jesusyoshi54) (Hack)</description>
@@ -2308,6 +2308,14 @@
 		<rom name="SM64 - Star Revenge 1 - Star Takeover (v1.2.1) (BroDute) (Hack).z64" size="50331648" crc="2e2e5231" md5="afd66341a292568ea1a849de523089a9" sha1="930bd99b4ff2004323e74e8c4d6f65e4393e5467"/>
 		<url>https://retroachievements.org/game/14036/hashes</url>
 		<hash>afd66341a292568ea1a849de523089a9</hash>
+	</game>
+	
+	<game name="Hack/Super Mario 64/SM64 - Star Revenge Redone (En) (v2.0.3) (BroDute, LinCrash) (Hack)">
+		<category>Nintendo 64</category>
+		<description>SM64 - Star Revenge Redone (En) (v2.0.3) (BroDute, LinCrash) (Hack)</description>
+		<rom name="SM64 - Star Revenge Redone (En) (v2.0.3) (BroDute, LinCrash) (Hack).z64" size="50331648" crc="239e54d3" md5="fa3598d383ab5042e61d359c20687d66" sha1="c101afa53b7b22d7d1c5859cab6c0ae090ae7c63"/>
+		<url>https://retroachievements.org/game/17511/hashes</url>
+		<hash>fa3598d383ab5042e61d359c20687d66</hash>
 	</game>
 	
 	<game name="Hack/Super Mario 64/Star Revenge/SM64 - Star Revenge 1.5 - Star Takeover Redone (v2.2.1) (BroDute) (Hack)">
@@ -3853,6 +3861,14 @@
 		<hash>3406a505c22bac2f40d9bfc6ff08cf86</hash>
 	</game>
 	
+	<game name="Retail/BattleTanx - Global Assault (USA)">
+		<category>Nintendo 64</category>
+		<description>BattleTanx - Global Assault (USA)</description>
+		<rom name="BattleTanx - Global Assault (USA).z64" size="8388608" crc="31beb053" md5="654557c316f901a2ca6f7f4b43343147" sha1="805248fb0a0ee694cad8d7dc927b631d860dd8cf" sha256="88268ce770ff39f2ca839848b842c87866df6c5ddaf775f180b2522c18ff6221"/>
+		<url>https://retroachievements.org/game/10156/hashes</url>
+		<hash>654557C316F901A2CA6F7F4B43343147</hash>
+	</game>
+	
 	<game name="Retail/HSV Adventure Racing! (Australia)">
 		<category>Nintendo 64</category>
 		<description>HSV Adventure Racing! (Australia)</description>
@@ -4977,6 +4993,14 @@
 		<hash>8113D0EA2008402D4631F241F625D16B</hash>
 	</game>
 	
+	<game name="Retail/Rampage - World Tour (USA)">
+		<category>Nintendo 64</category>
+		<description>Rampage - World Tour (USA)</description>
+		<rom name="Rampage - World Tour (USA).z64" size="12582912" crc="211119dd" md5="4645672a0cf00ada9b5e37cfde8b024e" sha1="7a6c8758e67fd3da99e3420983c0d6df83e41c6b" sha256="a06da4bf6342670df551738c07ed2d1c91ee12c29df73c0c3f8eeae2ea1016ea"/>
+		<url>https://retroachievements.org/game/10087/hashes</url>
+		<hash>4645672A0CF00ADA9B5E37CFDE8B024E</hash>
+	</game>
+	
 	<game name="Retail/Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)">
 		<category>Nintendo 64</category>
 		<description>Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)</description>
@@ -5822,6 +5846,14 @@
 		<rom name="WCW-nWo Revenge (USA).z64" size="16777216" crc="54cbaaa8" md5="c1384f3637d7a381b29341fed3ef3ceb" sha1="e1711a2511394b9357b5f1ac8ca5cc17bd674836"/>
 		<url>https://retroachievements.org/game/10448/hashes</url>
 		<hash>C1384F3637D7A381B29341FED3EF3CEB</hash>
+	</game>
+	
+	<game name="Retail/Wetrix (USA) (En,Fr,De,Es,It,Nl)">
+		<category>Nintendo 64</category>
+		<description>Wetrix (USA) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Wetrix (USA) (En,Fr,De,Es,It,Nl).z64" size="8388608" crc="50cd1f71" md5="6e81d3056e409208e4af2d39a2ff0f03" sha1="6e40312cf88a9182e93b396b9d82457b1aba7cd6" sha256="790f36a3ddd64e4dcd08c479b0b66f9080d0191473e92fa895f53d15706167bb"/>
+		<url>https://retroachievements.org/game/10531/hashes</url>
+		<hash>6e81d3056e409208e4af2d39a2ff0f03</hash>
 	</game>
 	
 	<game name="Retail/WinBack - Covert Operations (USA)">

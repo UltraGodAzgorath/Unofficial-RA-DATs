@@ -5,8 +5,8 @@
 		<name>RA - Atari 7800</name>
 		<description>Atari 7800</description>
 		<category>No Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250630</version>
+		<date>30 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/51/games</url>
@@ -217,6 +217,15 @@
 		<rom name="Galaga (USA).a78" size="32768" crc="1a0a3eb3" md5="fb8d803b328b2e442548f7799cfa9a4a" sha1="33178d682564d70955e13d0633359e87b512253b"/>
 		<url>https://retroachievements.org/game/13362/hashes</url>
 		<hash>FB8D803B328B2E442548F7799CFA9A4A</hash>
+	</game>
+	
+	<game name="Ikari Warriors (USA)">
+		<category>Retail</category>
+		<description>Ikari Warriors (USA)</description>
+		<release name="Ikari Warriors (USA)" region="USA"/>
+		<rom name="Ikari Warriors (USA).a78" size="131072" crc="8a6c1f15" md5="c3672482ca93f70eafd9134b936c3feb" sha1="e368c6c7ffca5ffac314dec1effea4e2c809519a" sha256="5403b614b8e8f4ee782a95562582423b29bacb09b637d71d9ca94cdd0605b739"/>
+		<url>https://retroachievements.org/game/13363/hashes</url>
+		<hash>c3672482ca93f70eafd9134b936c3feb</hash>
 	</game>
 	
 	<game name="Joust (USA)">

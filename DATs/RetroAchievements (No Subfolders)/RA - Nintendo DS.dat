@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>No Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250630</version>
+		<date>30 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
@@ -677,6 +677,15 @@
 		<hash>3c2971c01fc953a7822434b2cd7d9251</hash>
 	</game>
 	
+	<game name="Escape From Island (World) (v1.0) (Ben2303) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Escape From Island (World) (v1.0) (Ben2303) (Aftermarket)</description>
+		<release name="Escape From Island (World) (v1.0) (Ben2303) (Aftermarket)" region="World"/>
+		<rom name="Escape From Island (World) (v1.0) (Ben2303) (Aftermarket).nds" size="2063936" crc="06a77964" md5="f845a8abf14e4c33614fffc8e7f14ef2" sha1="17e1881c598c3e13bea0ede16554b946dd576a6f"/>
+		<url>https://retroachievements.org/game/22042/hashes</url>
+		<hash>77efd547039fd8a7d5ec6c61287abd3d</hash>
+	</game>
+	
 	<game name="EunHye DS (World) (v1.0) (Ryu Seung-Ryul) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>EunHye DS (World) (v1.0) (Ryu Seung-Ryul) (Aftermarket)</description>
@@ -1117,6 +1126,15 @@
 		<rom name="Animal Crossing - Wild World (Subset - Villager Pictures).nds" size="44622368" crc="f1d0853e" md5="0ceb1b430332fab2f50e0592a03bfae4" sha1="9f85cdf2ce8c62e09dfebef204dd814883ba1f83"/>
 		<url>https://retroachievements.org/game/14836/hashes</url>
 		<hash>8eedc069a50d1ca6a33281230791a3d2</hash>
+	</game>
+	
+	<game name="Another Code - Two Memories (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Another Code - Two Memories (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Another Code - Two Memories (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="Another Code - Two Memories (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="66a34884" md5="cb56e2ae11aa7f4fe344504f311708f8" sha1="f40b6f7bfc2f877893d08feee7cd339555da0511"/>
+		<url>https://retroachievements.org/game/17232/hashes</url>
+		<hash>ed43bed7a9ee790da68defdc4b31c343</hash>
 	</game>
 	
 	<game name="Apollo Justice - Ace Attorney (USA)">
@@ -5317,6 +5335,32 @@
 		<hash>1be064fafbc9765e6697ea9317548a63</hash>
 	</game>
 	
+	<game name="SaGa 3 - Jikuu no Hasha - Shadow or Light (Japan) (En) (v2.0.830 Beta) (Cain &amp; Easton West)">
+		<category>Retail</category>
+		<description>SaGa 3 - Jikuu no Hasha - Shadow or Light (Japan) (En) (v2.0.830 Beta) (Cain &amp; Easton West)</description>
+		<release name="SaGa 3 - Jikuu no Hasha - Shadow or Light (Japan) (En) (v2.0.830 Beta) (Cain &amp; Easton West)" region="English"/>
+		<rom name="SaGa 3 - Jikuu no Hasha - Shadow or Light (Japan) (En) (v2.0.830 Beta) (Cain &amp; Easton West).nds" size="123213056" crc="2af5af5a" md5="9c7a8a8865f74b1790c8f0aea3198f1c" sha1="781a73bb0d75c0ded12edadcf9fca858c6e0c400"/>
+		<url>https://retroachievements.org/game/3895/hashes</url>
+		<hash>8fc9197f16ba371d6fd940360bc233b3</hash>
+	</game>
+	
+	<game name="Sailor Moon - La Luna Splende (Italy)">
+		<category>Retail</category>
+		<description>Sailor Moon - La Luna Splende (Italy)</description>
+		<release name="Sailor Moon - La Luna Splende (Italy)" region="Italy"/>
+		<rom name="Sailor Moon - La Luna Splende (Italy).nds" size="16777216" crc="463fb1f5" md5="e5e1e6e7fe9a89f91bc90ddbfe203e4d" sha1="0d40769232ce43fb47134d921af3d62779c878e7"/>
+		<url>https://retroachievements.org/game/15438/hashes</url>
+		<hash>ea603b3eb0699101d5df043bb0e9d394</hash>
+	</game>
+	<game name="Sailor Moon - La Luna Splende (Italy) (En) (v1.0) (Jonko)" cloneof="Sailor Moon - La Luna Splende (Italy)">
+		<category>Retail</category>
+		<description>Sailor Moon - La Luna Splende (Italy) (En) (v1.0) (Jonko)</description>
+		<release name="Sailor Moon - La Luna Splende (Italy) (En) (v1.0) (Jonko)" region="English"/>
+		<rom name="Sailor Moon - La Luna Splende (Italy) (En) (v1.0) (Jonko).nds" size="16777216" crc="0c4751ef" md5="43e2a4fb1ba1a91eb5af9c7c43e0ad45" sha1="9d1977f7e21fbe2eca9d25336f9b3162ffe35084"/>
+		<url>https://retroachievements.org/game/15438/hashes</url>
+		<hash>b32f30b766f94358ad51bb26e61b171d</hash>
+	</game>
+	
 	<game name="Scotland Yard - Hunting Mister X (Europe) (En,De,It) (Rev 1)">
 		<category>Retail</category>
 		<description>Scotland Yard - Hunting Mister X (Europe) (En,De,It) (Rev 1)</description>
@@ -6003,15 +6047,6 @@
 		<rom name="Dead'n'Furious (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="c9a89267" md5="5eeb84425c1052da656c48de120d5d31" sha1="f9cc38c33ab05076f79d60a4a2b2be10859d095b"/>
 		<url>https://retroachievements.org/game/9701/hashes</url>
 		<hash>df49ac44ad6b6ae3ca7ae488b7c977b6</hash>
-	</game>
-	
-	<game name="Another Code - Two Memories (Europe) (En,Fr,De,Es,It)">
-		<category>Retail</category>
-		<description>Another Code - Two Memories (Europe) (En,Fr,De,Es,It)</description>
-		<release name="Another Code - Two Memories (Europe) (En,Fr,De,Es,It)" region="Europe"/>
-		<rom name="Another Code - Two Memories (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="66a34884" md5="cb56e2ae11aa7f4fe344504f311708f8" sha1="f40b6f7bfc2f877893d08feee7cd339555da0511"/>
-		<url>https://retroachievements.org/game/17232/hashes</url>
-		<hash>ed43bed7a9ee790da68defdc4b31c343</hash>
 	</game>
 	
 	<game name="TrackMania DS (Europe) (En,Fr,De,Es,It)">

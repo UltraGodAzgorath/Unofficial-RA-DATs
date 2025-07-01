@@ -5,8 +5,8 @@
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
 		<category>No Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250630</version>
+		<date>30 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/1/games</url>
@@ -38,6 +38,15 @@
 		<rom name="Sonic 1 - Amy Rose in Sonic the Hedgehog (v2.1) (E-122-Psi) (Hack).md" size="1048576" crc="39215564" md5="688a6b140d790b10716f41671da1e8ee" sha1="c4a45eac178558d006bd42513ef93a691ba1c409"/>
 		<url>https://retroachievements.org/game/4236/hashes</url>
 		<hash>688a6b140d790b10716f41671da1e8ee</hash>
+	</game>
+	
+	<game name="Sonic 2 - Amy Rose in Sonic the Hedgehog 2 (v1.7) (E-122-Psi) (Hack)">
+		<category>Hack</category>
+		<description>Sonic 2 - Amy Rose in Sonic the Hedgehog 2 (v1.7) (E-122-Psi) (Hack)</description>
+		<release name="Sonic 2 - Amy Rose in Sonic the Hedgehog 2 (v1.7) (E-122-Psi) (Hack)" region="World"/>
+		<rom name="Sonic 2 - Amy Rose in Sonic the Hedgehog 2 (v1.7) (E-122-Psi) (Hack).md" size="2097152" crc="45fbce62" md5="54378e017dc359da52ec442a317da29f" sha1="176351c5705b3aa5254b2d8c298ae6b332f65e73"/>
+		<url>https://retroachievements.org/game/9043/hashes</url>
+		<hash>54378e017dc359da52ec442a317da29f</hash>
 	</game>
 	
 	<game name="Sonic 2 - Big's Fishing Derby (v1.05.021a) (Flamewing) (Hack)">
@@ -801,6 +810,15 @@
 		<hash>c7086ec7bc21096c266eae0eb3b95e93</hash>
 	</game>
 	
+	<game name="Old Towers (World) (v1.2) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Old Towers (World) (v1.2) (Aftermarket)</description>
+		<release name="Old Towers (World) (v1.2) (Aftermarket)" region="World"/>
+		<rom name="Old Towers (World) (v1.2) (Aftermarket).md" size="786432" crc="d875e97d" md5="96216acdb9b8eb86f8fa7209a5cc5619" sha1="ca2c05c070dac4b2ad7f2425ccad1b7d65949e49"/>
+		<url>https://retroachievements.org/game/33403/hashes</url>
+		<hash>96216acdb9b8eb86f8fa7209a5cc5619</hash>
+	</game>
+	
 	<game name="Pier Solar and the Great Architects (Japan) (En,Fr,Es) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>Pier Solar and the Great Architects (Japan) (En,Fr,Es) (Aftermarket)</description>
@@ -826,6 +844,15 @@
 		<rom name="Real Bout Fatal Fury Genesis (Brazil) (En,Pt) (Aftermarket).md" size="5242880" crc="45d73398" md5="a8751584041af810c8ceabe5e9c8a91b" sha1="1177cf4306ec695cc01120bd6d6c35d82787f9be"/>
 		<url>https://retroachievements.org/game/33062/hashes</url>
 		<hash>a8751584041af810c8ceabe5e9c8a91b</hash>
+	</game>
+	
+	<game name="Ryuthela (World) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Ryuthela (World) (Aftermarket)</description>
+		<release name="Ryuthela (World) (Aftermarket)" region="World"/>
+		<rom name="Ryuthela (World) (Aftermarket).md" size="532480" crc="d802baa4" md5="78e224b0448c7dbfc9dfccf3e933bc21" sha1="4495043fe077661a7f2e374568ee6097a0844239"/>
+		<url>https://retroachievements.org/game/33999/hashes</url>
+		<hash>78e224b0448c7dbfc9dfccf3e933bc21</hash>
 	</game>
 	
 	<game name="Shaolin Carcara (World) (Pt-BR) (Aftermarket)">

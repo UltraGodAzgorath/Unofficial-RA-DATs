@@ -252,20 +252,20 @@
 		<hash>1224C9BEAE22EE7354E4220C46237696</hash>
 	</game>
 	
-	<game name="Retail/Star Trek - The Motion Picture (USA)">
-		<category></category>
-		<description>Star Trek - The Motion Picture (USA)</description>
-		<rom name="Star Trek - The Motion Picture (USA).vec" size="4096" crc="3768d8c3" md5="0b67a6339e9c1d8385e8fdfc48f447bc" sha1="3a2ee61316fb316d9e9efdf5ee405e813475b466"/>
-		<url>https://retroachievements.org/game/2124/hashes</url>
-		<hash>0B67A6339E9C1D8385E8FDFC48F447BC</hash>
-	</game>
-	
 	<game name="Retail/StarHawk (World)">
 		<category></category>
 		<description>StarHawk (World)</description>
 		<rom name="StarHawk (World).vec" size="4096" crc="4de1f06b" md5="add42c10019e88f47dd98791f8de3148" sha1="d6b388b3951e34971c1b00c7fdf8dd00ad52df09"/>
 		<url>https://retroachievements.org/game/9743/hashes</url>
 		<hash>ADD42C10019E88F47DD98791F8DE3148</hash>
+	</game>
+	
+	<game name="Retail/Star Trek - The Motion Picture (USA)">
+		<category></category>
+		<description>Star Trek - The Motion Picture (USA)</description>
+		<rom name="Star Trek - The Motion Picture (USA).vec" size="4096" crc="3768d8c3" md5="0b67a6339e9c1d8385e8fdfc48f447bc" sha1="3a2ee61316fb316d9e9efdf5ee405e813475b466"/>
+		<url>https://retroachievements.org/game/2124/hashes</url>
+		<hash>0B67A6339E9C1D8385E8FDFC48F447BC</hash>
 	</game>
 	
 	<game name="Retail/WebWars (USA)">

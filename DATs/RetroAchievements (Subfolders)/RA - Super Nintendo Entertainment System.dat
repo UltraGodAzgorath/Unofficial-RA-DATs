@@ -5,8 +5,8 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20250626</version>
-		<date>26 June 2025</date>
+		<version>20250630</version>
+		<date>30 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/3/games</url>
@@ -2873,13 +2873,6 @@
 		<hash>37f9467255fc91af30b86b7728e9a9ea</hash>
 	</game>
 	
-	<game name="Hack/Star Fox EX (v1.11) (kandowontu) (Hack)">
-		<category>Super Nintendo</category>
-		<description>Star Fox EX (v1.11) (kandowontu) (Hack)</description>
-		<rom name="Star Fox EX (v1.11) (kandowontu) (Hack).sfc" size="2097152" crc="c4a8ad53" md5="39f2756c460ad173c9e3098522ba591d" sha1="4ba9b67afb0a6184082c4fc8f6d9c8e936e90de4"/>
-		<url>https://retroachievements.org/game/23728/hashes</url>
-		<hash>39f2756c460ad173c9e3098522ba591d</hash>
-	</game>
 	<game name="Hack/Star Fox EX (v1.11.02b) (kandowontu) (Hack)">
 		<category>Super Nintendo</category>
 		<description>Star Fox EX (v1.11.02b) (kandowontu) (Hack)</description>
@@ -3154,6 +3147,14 @@
 		<rom name="SMW - Super Mario Bros. R An 8-Bit Like (LMPuny) (Hack).sfc" size="4194304" crc="f57869a4" md5="245678d1f7856edc9865c7f1282e8243" sha1="41a88f494ec2f7a474818bb7c2d80372c30d30e6"/>
 		<url>https://retroachievements.org/game/17136/hashes</url>
 		<hash>245678d1f7856edc9865c7f1282e8243</hash>
+	</game>
+	
+	<game name="Hack/Super Mario World/SMW - Super Mario Essex (v1.0) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - Super Mario Essex (v1.0) (Hack)</description>
+		<rom name="SMW - Super Mario Essex (v1.0) (Hack).sfc" size="4194304" crc="48510c7d" md5="95fe978fd7dd153bc165fd3dbd4c2ce8" sha1="6e31b21671919461d3f6cc327666aae671c9d292"/>
+		<url>https://retroachievements.org/game/33777/hashes</url>
+		<hash>95fe978fd7dd153bc165fd3dbd4c2ce8</hash>
 	</game>
 	
 	<game name="Hack/Super Mario World/SMW - Super Mario Flash 2 - SMW Remake (v1.3) (Apple Boy, Dark Prince, Donut, Segment1Zone2, Stivi) (Hack)">
@@ -3883,6 +3884,14 @@
 		<rom name="SMW - Xalabaias Adventure (MaxwelHacks) (Hack).sfc" size="4194304" crc="1c4d5c4a" md5="b0c16ea13d0fa06d7e3f4aae01899a04" sha1="92ad28e453e073f3c907b15a2d9062e6509b3908"/>
 		<url>https://retroachievements.org/game/16223/hashes</url>
 		<hash>b0c16ea13d0fa06d7e3f4aae01899a04</hash>
+	</game>
+	
+	<game name="Hack/Super Mario World/SMW - YUMP (2017-07-17) (JUMP TEAM, Lazy, idol) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - YUMP (2017-07-17) (JUMP TEAM, Lazy, idol) (Hack)</description>
+		<rom name="SMW - YUMP (2017-07-17) (JUMP TEAM, Lazy, idol) (Hack).sfc" size="1048576" crc="3c93243c" md5="0e02dc18e00f72fe95309f8a8271af73" sha1="88d88082a70304f0fc4d2f88f471055321162019"/>
+		<url>https://retroachievements.org/game/16515/hashes</url>
+		<hash>0e02dc18e00f72fe95309f8a8271af73</hash>
 	</game>
 	
 	<game name="Hack/Super Mario World/SMW - YUMP 2 (2020-07-19) (JUMP TEAM, Lazy) (Hack)">
@@ -9323,6 +9332,13 @@
 		<url>https://retroachievements.org/game/3242/hashes</url>
 		<hash>5cf0c4d3feabd00eb61964f3792a6f84</hash>
 	</game>
+	<game name="Retail/Metal Max Returns (Japan) (Zh) (v0.96) (wolfteam)" cloneof="Metal Max Returns (Japan)">
+		<category>Super Famicom</category>
+		<description>Metal Max Returns (Japan) (Zh) (v0.96) (wolfteam)</description>
+		<rom name="Metal Max Returns (Japan) (Zh) (v0.96) (wolfteam).sfc" size="" crc="00000000" md5="00000000" sha1="00000000"/>
+		<url>https://retroachievements.org/game/3242/hashes</url>
+		<hash>fe2e9dbcfb4f06dd6e63c448d5ea4970</hash>
+	</game>
 	
 	<game name="Retail/Metal Warriors (USA)">
 		<category>Super Nintendo</category>
@@ -11110,6 +11126,21 @@
 		<rom name="Skyblazer (USA).sfc" size="1048576" crc="f13b00b0" md5="5dd2c9f0a933e6a43b7e38e6ef0769ba" sha1="8426a16f7d8656c8d2ce4ac3151ec96b433f938d"/>
 		<url>https://retroachievements.org/game/2620/hashes</url>
 		<hash>5dd2c9f0a933e6a43b7e38e6ef0769ba</hash>
+	</game>
+	
+	<game name="Retail/Slayers (Japan)">
+		<category>Super Famicom</category>
+		<description>Slayers (Japan)</description>
+		<rom name="Slayers (Japan).sfc" size="1572864" crc="0b610445" md5="1b7b9b3eabe1008bad9dc19dcad9142f" sha1="931449e2f491301fbab3b3e5ca0d85e02927a605"/>
+		<url>https://retroachievements.org/game/3532/hashes</url>
+		<hash>1b7b9b3eabe1008bad9dc19dcad9142f</hash>
+	</game>
+	<game name="Retail/Slayers (Japan) (En) (v1.01) (Dynamic Designs)">
+		<category>Super Famicom</category>
+		<description>Slayers (Japan) (En) (v1.01) (Dynamic Designs)</description>
+		<rom name="Slayers (Japan) (En) (v1.01) (Dynamic Designs).sfc" size="2097152" crc="123f02b9" md5="c7f2d0e90aadb68e0aa0ffe7564a95c6" sha1="a9060712e0f618a0431824d49d9fa8de2a1c7df2"/>
+		<url>https://retroachievements.org/game/3532/hashes</url>
+		<hash>c7f2d0e90aadb68e0aa0ffe7564a95c6</hash>
 	</game>
 	
 	<game name="Retail/Smash Tennis (Europe)">

@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DSi</name>
 		<description>Nintendo DSi</description>
 		<category>Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250630</version>
+		<date>30 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/78/games</url>
@@ -35,6 +35,14 @@
 		<rom name="99 Moves (Europe) (En,Fr,De,Es,It).nds" size="5302272" crc="a579d095" md5="4973cf1b5630561ad944ac48a83a887d" sha1="ba6a4da1afde3832b5b769a3f156b04c10469695"/>
 		<url>https://retroachievements.org/game/27683/hashes</url>
 		<hash>83ffd48c3fc6fc45ea4e59455ab78c60</hash>
+	</game>
+	
+	<game name="Retail/Kappa's Trail, A (USA)">
+		<category></category>
+		<description>Kappa's Trail, A (USA)</description>
+		<rom name="Kappa's Trail, A (USA).nds" size="10354688" crc="52e3734e" md5="179f35af782843805a1db181574ce586" sha1="37bdb6a09d9c7e991294c4a4eb077295bedc8277"/>
+		<url>https://retroachievements.org/game/22339/hashes</url>
+		<hash>452ad5266bac60a9334fdd24bfb49eb5</hash>
 	</game>
 	
 	<game name="Retail/Airport Mania - First Flight (Europe, Australia) (En,Fr,De,Es,It,Nl)">

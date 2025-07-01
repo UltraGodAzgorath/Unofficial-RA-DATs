@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation</name>
 		<description>Sony Playstation</description>
 		<category>Subfolders</category>
-		<version>20250621</version>
-		<date>21 June 2025</date>
+		<version>20250630</version>
+		<date>30 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -145,7 +145,7 @@
 		<rom name="Crash Team Racing - Retro-Fueled.cue" size="105" crc="253783d4" md5="27f6f41ce0ac15294bf2fd66724a552f" sha1="c4abf9cc9c15a480f55cf925bc4889e11025260a"/>
 		<rom name="Crash Team Racing - Retro-Fueled.bin" size="605364816" crc="557a9786" md5="516c7997769894485be71e51f2b85e7d" sha1="0e67817977599ec1d92f707873e6c1bd660b3b03"/>
 		<url>https://retroachievements.org/game/21930/hashes</url>
-		<hash>f01edd6d0a031eb6fec9033a34b1d40c</hash>
+		<hash>d39e336f03c21fe13413ed6d0f6f2937</hash>
 	</game>
 	
 	<game name="Hack/Digimon World 2 Alternative">
@@ -2169,6 +2169,16 @@
 		<rom name="Chrono Cross (USA) (Disc 2).bin" size="741797280" crc="c7f6ab73" md5="6463d040aae5156ac146d34402a7988d" sha1="0ad65d093b36ae9ecf02aa9abb15952503cb5adf"/>
 		<url>https://retroachievements.org/game/11258/hashes</url>
 		<hash>f1a039e053930537af3bf7970c1e551b</hash>
+	</game>
+	
+	<game name="Retail/Civilization II (USA)">
+		<category></category>
+		<description>Civilization II (USA)</description>
+		<rom name="Civilization II (USA).cue" size="212" crc="4244fe07" md5="8ce9d91aa64391295bb182d4e0f15074" sha1="ecf30330ddf56b015705b5e04c90cd1ca04e0ba1"/>
+		<rom name="Civilization II (USA) (Track 1).bin" size="484036896" crc="fadb9e8d" md5="91bd38b3cb8ed9816f15cbdf9444c147" sha1="135c0a8e1777be9f58ac261a71a6b0ed67fe6ed1"/>
+		<rom name="Civilization II (USA) (Track 2).bin" size="22405152" crc="49a77e85" md5="c13b3bad2140dd427050e4baf2d0154c" sha1="530774ace9af0683911f91efbeda592dfda875b9"/>
+		<url>https://retroachievements.org/game/13902/hashes</url>
+		<hash>c4cdba5bb2ce8c0b8bc1d55c13707a35</hash>
 	</game>
 	
 	<game name="Retail/Clock Tower (USA)">

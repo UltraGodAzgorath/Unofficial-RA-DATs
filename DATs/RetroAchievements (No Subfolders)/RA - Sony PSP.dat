@@ -5,8 +5,8 @@
 		<name>RA - Sony PSP</name>
 		<description>Sony PSP</description>
 		<category>No Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250630</version>
+		<date>30 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/41/games</url>
@@ -2708,16 +2708,6 @@
 		<url>https://retroachievements.org/game/3717/hashes</url>
 		<hash>ad7aa11956c2b070bd3d630a7a276f61</hash>
 		<legacyhash>1f7d22952294a8ba39ead74c50872181</legacyhash>
-	</game>
-	
-	<game name="Ratchet &amp; Clank - Size Matters (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)">
-		<category>Retail</category>
-		<description>Ratchet &amp; Clank - Size Matters (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)</description>
-		<release name="Ratchet &amp; Clank - Size Matters (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)" region="Europe"/>
-		<rom name="Ratchet &amp; Clank - Size Matters (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).iso" size="993394688" crc="8981e31f" md5="e38e81601aca2fbc5bdc030d9f2b9dfb" sha1="48799b08d0219d13aa86c6388da5e910fd30ca92"/>
-		<url>https://retroachievements.org/game/3162/hashes</url>
-		<hash>c75990728f8f603a6c12c1903e494cd6</hash>
-		<legacyhash>4c8b86106205c61790db365b1876847a</legacyhash>
 	</game>
 	
 	<game name="Ridge Racer 2 (Asia) (En,Fr,De,Es,It)" cloneof="Ridge Racer 2 (Europe, Australia) (En,Fr,De,Es,It)">

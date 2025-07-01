@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>No Subfolders</category>
-		<version>20250623</version>
-		<date>23 June 2025</date>
+		<version>20250630</version>
+		<date>30 June 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -1185,6 +1185,15 @@
 		<rom name="Luggage Retrieval Officer (World) (Aftermarket).gba" size="3336260" crc="5aa30d90" md5="01ad547e076252f97adddfce4a21f395" sha1="84c9b2d50c8af74b8b04f88af367d9fac1a24ef6"/>
 		<url>https://retroachievements.org/game/23791/hashes</url>
 		<hash>01ad547e076252f97adddfce4a21f395</hash>
+	</game>
+	
+	<game name="Luigi MasterMind (World) (v20060126) (N64Francois) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Luigi MasterMind (World) (v20060126) (N64Francois) (Aftermarket)</description>
+		<release name="Luigi MasterMind (World) (v20060126) (N64Francois) (Aftermarket)" region="World"/>
+		<rom name="Luigi MasterMind (World) (v20060126) (N64Francois) (Aftermarket).gba" size="141124" crc="20ccd799" md5="b247d7eb570d2b69bc48baae4404fc26" sha1="2808ac10ec047ec0d7c76ed1b46e6b01c048f750"/>
+		<url>https://retroachievements.org/game/33774/hashes</url>
+		<hash>b247d7eb570d2b69bc48baae4404fc26</hash>
 	</game>
 	
 	<game name="Luigi Puzzle (World) (Aftermarket)">
@@ -5267,6 +5276,24 @@
 		<hash>bb040b4d930c1fc4be1067b9756a7c44</hash>
 	</game>
 	
+	<game name="Medal of Honor - Infiltrator (USA, Europe) (Ru) (Unknown)" cloneof="Medal of Honor - Infiltrator (USA, Europe) (En,Fr,De)">
+		<category>Retail</category>
+		<description>Medal of Honor - Infiltrator (USA, Europe) (Ru) (Unknown)</description>
+		<release name="Medal of Honor - Infiltrator (USA, Europe) (Ru) (Unknown)" region="Russia"/>
+		<rom name="Medal of Honor - Infiltrator (USA, Europe) (Ru) (Unknown).gba" size="16777216" crc="619732e7" md5="13b62cbc4b42714e259ea84b6b2cf85a" sha1="b45847d4049d272f331ff147c7fb8d68f3dd5c74"/>
+		<url>https://retroachievements.org/game/5657/hashes</url>
+		<hash>13b62cbc4b42714e259ea84b6b2cf85a</hash>
+	</game>
+	<game name="Medal of Honor - Infiltrator (USA, Europe) (En,Fr,De)">
+		<category>Retail</category>
+		<description>Medal of Honor - Infiltrator (USA, Europe) (En,Fr,De)</description>
+		<release name="Medal of Honor - Infiltrator (USA, Europe) (En,Fr,De)" region="Europe"/>
+		<release name="Medal of Honor - Infiltrator (USA, Europe) (En,Fr,De)" region="USA"/>
+		<rom name="Medal of Honor - Infiltrator (USA, Europe) (En,Fr,De).gba" size="16777216" crc="f23150a4" md5="78db66a92f5f4405266e154de49eea8d" sha1="47761911475e9548c81fed78e3d3336ddae89a58"/>
+		<url>https://retroachievements.org/game/5657/hashes</url>
+		<hash>78db66a92f5f4405266e154de49eea8d</hash>
+	</game>
+	
 	<game name="Medarot G - Kabuto (Japan)">
 		<category>Retail</category>
 		<description>Medarot G - Kabuto (Japan)</description>
@@ -7079,6 +7106,16 @@
 		<rom name="Scooby-Doo! 2 - Monsters Unleashed (Europe) (Pt) (Welblade) (v1.1).gba" size="8388608" crc="144b0c2b" md5="b133f753da90eecc2c69df91eacdc24b" sha1="a286ba0ec687f11ab8d7c62af95e5c21ce0a6997"/>
 		<url>https://retroachievements.org/game/6623/hashes</url>
 		<hash>b133f753da90eecc2c69df91eacdc24b</hash>
+	</game>
+	
+	<game name="Scooby-Doo and the Cyber Chase (USA, Europe)">
+		<category>Retail</category>
+		<description>Scooby-Doo and the Cyber Chase (USA, Europe)</description>
+		<release name="Scooby-Doo and the Cyber Chase (USA, Europe)" region="Europe"/>
+		<release name="Scooby-Doo and the Cyber Chase (USA, Europe)" region="USA"/>
+		<rom name="Scooby-Doo and the Cyber Chase (USA, Europe).gba" size="4194304" crc="cf2dba97" md5="1e3fd614dc43edbbf9df51262057f2cc" sha1="739f47323ce7e2dbe7e9bf9d553cb97f4692ecc3"/>
+		<url>https://retroachievements.org/game/6770/hashes</url>
+		<hash>1e3fd614dc43edbbf9df51262057f2cc</hash>
 	</game>
 	
 	<game name="Scooby-Doo! - Unmasked (Europe) (Es,It)" cloneof="Scooby-Doo! - Unmasked (Europe) (En,Fr)">

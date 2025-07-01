@@ -5,8 +5,8 @@
 		<name>RA - NEC TurboGrafx-CD (CHD)</name>
 		<description>NEC TurboGrafx-CD (CHD)</description>
 		<category>Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250701</version>
+		<date>01 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/76/games</url>
@@ -267,6 +267,21 @@
 		<rom name="Ginga Fukei Densetsu Sapphire (Japan).chd" size="248141195" crc="1a41c241" md5="f63366718931ba28b799083474ff8956" sha1="28ce58c687b9c62c300ee5ba34137dbb118ffa15"/>
 		<url>https://retroachievements.org/game/8868/hashes</url>
 		<hash>b01d1404a3a2370e2099a4cf68b5a99f</hash>
+	</game>
+	
+	<game name="Retail/Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT)">
+		<category></category>
+		<description>Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT)</description>
+		<rom name="Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT).chd" size="263142758" crc="609060aa" md5="c65f3db5aef41da9c96071b1b989be12" sha1="fe4646b88461bece4f9c489373114648e38d5b67"/>
+		<url>https://retroachievements.org/game/13615/hashes</url>
+		<hash>12888594bfafea9afa707ce6c2eb75db</hash>
+	</game>
+	<game name="Retail/Ginga Ojousama Densetsu Yuna (Japan) (En) (v1.3) (Supper)">
+		<category></category>
+		<description>Ginga Ojousama Densetsu Yuna (Japan) (En) (v1.3) (Supper)</description>
+		<rom name="Ginga Ojousama Densetsu Yuna (Japan) (En) (v1.3) (Supper).chd" size="263248582" crc="6738fcba" md5="6bea7f364743ec264f507cf6818f4ed0" sha1="2d365771d6dbb06f338c46fd8cca279aa2d4eb5f"/>
+		<url>https://retroachievements.org/game/13615/hashes</url>
+		<hash>87c94b395f18fa2bc467c8c6d1c9688d</hash>
 	</game>
 	
 	<game name="Retail/Godzilla (USA)">

@@ -5,8 +5,8 @@
 		<name>RA - Sega Saturn (CHD)</name>
 		<description>Sega Saturn (CHD)</description>
 		<category>Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250701</version>
+		<date>01 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/39/games</url>
@@ -107,6 +107,14 @@
 		<rom name="Angel Paradise Vol. 1 - Sakaki Yuko - Koi no Yokan in Hollywood (Japan).chd" size="302516252" crc="12c32151" md5="c163eef5408493db479733b5ccd4460a" sha1="17e59ef7db9803edbfde8e1fa7faf8f86d8114bd"/>
 		<url>https://retroachievements.org/game/14957/hashes</url>
 		<hash>3caeb9cf3b76b02c5c62f71e41d526be</hash>
+	</game>
+	
+	<game name="Retail/Angel Paradise Vol. 2 - Yoshino Kimika - Isshoni I-ta-i in Hawaii (Japan)">
+		<category></category>
+		<description>Angel Paradise Vol. 2 - Yoshino Kimika - Isshoni I-ta-i in Hawaii (Japan)</description>
+		<rom name="Angel Paradise Vol. 2 - Yoshino Kimika - Isshoni I-ta-i in Hawaii (Japan).chd" size="393143636" crc="d1e45064" md5="9a3e9ae6a85a96f05f7efa62f3984f69" sha1="6ea4744a434c5c8f1d89aabcd28c9d005e78d57e"/>
+		<url>https://retroachievements.org/game/14959/hashes</url>
+		<hash>081dd203ccbeb9828026a3f06ccf02cf</hash>
 	</game>
 	
 	<game name="Retail/Arcade Gears Vol. 1 - Pu-Li-Ru-La (Japan)">
