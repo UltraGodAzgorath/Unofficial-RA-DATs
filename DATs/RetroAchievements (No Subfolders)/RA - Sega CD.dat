@@ -1346,6 +1346,15 @@
 		<url>https://retroachievements.org/game/33131/hashes</url>
 		<hash>79aa2fea650ddd2117642abf22f2dd32</hash>
 	</game>
+	<game name="Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 2)">
+		<category>Retail</category>
+		<description>Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 2)</description>
+		<rom name="Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 2).cue" size="296" crc="99145066" md5="fceace7a3463721a065ff7a7a948b59b" sha1="20ed4512b4c3209ab84264af16dacdc3374f53dd"/>
+		<rom name="Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 2) (Track 1).bin" size="326208288" crc="5873310d" md5="116b1d26929229565ae3a62c599faa8e" sha1="13061ed366138cf25165d8d0add86c52be5fba81"/>
+		<rom name="Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 2) (Track 2).bin" size="10936800" crc="38994f15" md5="27cd4f0a2e41d5e219549e912574067c" sha1="bfb783e30e4ecb3d82a8432660d1178740278d3e"/>
+		<url>https://retroachievements.org/game/33131/hashes</url>
+		<note>Not linked but needed.</note>
+	</game>
 	
 	<game name="Shining Force CD (USA) (3R)">
 		<category>Retail</category>
