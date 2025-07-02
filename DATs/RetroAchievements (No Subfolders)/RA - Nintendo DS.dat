@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>No Subfolders</category>
-		<version>20250630</version>
-		<date>30 June 2025</date>
+		<version>20250702</version>
+		<date>02 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
@@ -570,24 +570,6 @@
 		<hash>0d570a5a33eadf519cb3fad342c3d5c8</hash>
 	</game>
 	
-	<game name="Game &amp; Watch Donkey Kong Jr (World) (v1.1) (PaulGoes) (Aftermarket)">
-		<category>Homebrew</category>
-		<description>Game &amp; Watch Donkey Kong Jr (World) (v1.1) (PaulGoes) (Aftermarket)</description>
-		<release name="Game &amp; Watch Donkey Kong Jr (World) (v1.1) (PaulGoes) (Aftermarket)" region="World"/>
-		<rom name="Game &amp; Watch Donkey Kong Jr (World) (v1.1) (PaulGoes) (Aftermarket).nds" size="1112064" crc="fd73be30" md5="8f7239aa38baf3c7bd5b6c9843fd3e43" sha1="f3f72e99387a6f0f68c159e5c5960e71a190dd62"/>
-		<url>https://retroachievements.org/game/30910/hashes</url>
-		<hash>3b84e35122e0e3f7987053e7667cfcc1</hash>
-	</game>
-	
-	<game name="Game &amp; Watch Mario's Cement Factory (World) (v1.2) (PaulGoes) (Aftermarket)">
-		<category>Homebrew</category>
-		<description>Game &amp; Watch Mario's Cement Factory (World) (v1.2) (PaulGoes) (Aftermarket)</description>
-		<release name="Game &amp; Watch Mario's Cement Factory (World) (v1.2) (PaulGoes) (Aftermarket)" region="World"/>
-		<rom name="Game &amp; Watch Mario's Cement Factory (World) (v1.2) (PaulGoes) (Aftermarket).nds" size="833536" crc="6ffba914" md5="449e63a5694d50c5110e71dc2dc879a8" sha1="fe7e7c777c5dab9f9981cb2b9e857d987b24eb4a"/>
-		<url>https://retroachievements.org/game/30911/hashes</url>
-		<hash>a93ae7321932e61c116b74bfa13d59b2</hash>
-	</game>
-	
 	<game name="10 (World) (v1.1 - Bugfix) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>10 (World) (v1.1 - Bugfix) (Aftermarket)</description>
@@ -720,6 +702,24 @@
 		<rom name="Flappy Bird DS (World) (PolyMars) (Aftermarket).nds" size="405504" crc="9731385c" md5="754b381f645ddf88b7fe58208b8ed303" sha1="da5d60b4af9aa141746e20ed2fe1b0498326fc4c"/>
 		<url>https://retroachievements.org/game/30995/hashes</url>
 		<hash>f11d8679ee240b6c4cb2c8112202cc6c</hash>
+	</game>
+	
+	<game name="Game &amp; Watch Donkey Kong Jr (World) (v1.1) (PaulGoes) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Game &amp; Watch Donkey Kong Jr (World) (v1.1) (PaulGoes) (Aftermarket)</description>
+		<release name="Game &amp; Watch Donkey Kong Jr (World) (v1.1) (PaulGoes) (Aftermarket)" region="World"/>
+		<rom name="Game &amp; Watch Donkey Kong Jr (World) (v1.1) (PaulGoes) (Aftermarket).nds" size="1112064" crc="fd73be30" md5="8f7239aa38baf3c7bd5b6c9843fd3e43" sha1="f3f72e99387a6f0f68c159e5c5960e71a190dd62"/>
+		<url>https://retroachievements.org/game/30910/hashes</url>
+		<hash>3b84e35122e0e3f7987053e7667cfcc1</hash>
+	</game>
+	
+	<game name="Game &amp; Watch Mario's Cement Factory (World) (v1.2) (PaulGoes) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Game &amp; Watch Mario's Cement Factory (World) (v1.2) (PaulGoes) (Aftermarket)</description>
+		<release name="Game &amp; Watch Mario's Cement Factory (World) (v1.2) (PaulGoes) (Aftermarket)" region="World"/>
+		<rom name="Game &amp; Watch Mario's Cement Factory (World) (v1.2) (PaulGoes) (Aftermarket).nds" size="833536" crc="6ffba914" md5="449e63a5694d50c5110e71dc2dc879a8" sha1="fe7e7c777c5dab9f9981cb2b9e857d987b24eb4a"/>
+		<url>https://retroachievements.org/game/30911/hashes</url>
+		<hash>a93ae7321932e61c116b74bfa13d59b2</hash>
 	</game>
 	
 	<game name="Ikachan DS (World) (v0.1.1) (tilderain) (Aftermarket)">
@@ -5263,6 +5263,15 @@
 		<rom name="Ridge Racer DS (USA, Europe).nds" size="33554432" crc="0ad5a96f" md5="1c5890068f6c5769a82800704f7ed361" sha1="6c79ac5a939dac792848cd5d7941a0f2bb58196d"/>
 		<url>https://retroachievements.org/game/8430/hashes</url>
 		<hash>2472a2291024d4de81750ac22306d3ea</hash>
+	</game>
+	
+	<game name="Irozuki Tingle no Koi no Balloon Trip (Japan) (En) (v1.1) (Team Tingle)">
+		<category>Retail</category>
+		<description>Irozuki Tingle no Koi no Balloon Trip (Japan) (En) (v1.1) (Team Tingle)</description>
+		<release name="Irozuki Tingle no Koi no Balloon Trip (Japan) (En) (v1.1) (Team Tingle)" region="English"/>
+		<rom name="Irozuki Tingle no Koi no Balloon Trip (Japan) (En) (v1.1) (Team Tingle).nds" size="76248200" crc="ce27be97" md5="9eeba755e421dc27b208c5f0b67b39fe" sha1="8d7cbf9bb3006a215e6f8aba7615bee5f413227e"/>
+		<url>https://retroachievements.org/game/14790/hashes</url>
+		<hash>c3aff3de85f5004bd3059e67b137640e</hash>
 	</game>
 	
 	<game name="Roary the Racing Car (United Kingdom)">

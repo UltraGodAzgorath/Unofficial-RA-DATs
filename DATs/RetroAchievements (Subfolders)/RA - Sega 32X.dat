@@ -5,8 +5,8 @@
 		<name>RA - Sega 32X</name>
 		<description>Sega 32X</description>
 		<category>Subfolders</category>
-		<version>20250701</version>
-		<date>01 July 2025</date>
+		<version>20250702</version>
+		<date>02 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/10/games</url>
@@ -279,6 +279,14 @@
 		<rom name="Amazing Spider-Man, The - Web of Fire (USA).32x" size="3145728" crc="29dce257" md5="a60b0838a776966e17a8f10b94baddef" sha1="7cc2ea1e10f110338ad880bd3e7ff3bce72e7e9e"/>
 		<url>https://retroachievements.org/game/14844/hashes</url>
 		<hash>a60b0838a776966e17a8f10b94baddef</hash>
+	</game>
+	
+	<game name="Retail/Toughman Contest (USA, Europe)">
+		<category></category>
+		<description>Toughman Contest (USA, Europe)</description>
+		<rom name="Toughman Contest (USA, Europe).32x" size="4194304" crc="14eac7a6" md5="386d99d132ce5699ade81b4473cef5b4" sha1="7588b0b8f4e93d5fdc920d3ab7e464154e423da9"/>
+		<url>https://retroachievements.org/game/16807/hashes</url>
+		<hash>386d99d132ce5699ade81b4473cef5b4</hash>
 	</game>
 	
 	<game name="Retail/Virtua Fighter (Japan, USA) (En)">

@@ -5,8 +5,8 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20250630</version>
-		<date>30 June 2025</date>
+		<version>20250702</version>
+		<date>02 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/3/games</url>
@@ -915,19 +915,27 @@
 		<hash>8600b46291213b554fc1544c2b1e87c3</hash>
 	</game>
 	
-	<game name="Hack/Final Fantasy VI/FFVI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Hack)">
+	<game name="Subset/Final Fantasy VI/FFVI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Subset - Insane Mode)">
 		<category>Super Nintendo</category>
-		<description>FFVI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Hack)</description>
-		<rom name="FFVI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Hack).sfc" size="6291456" crc="aeca71a5" md5="812a47da0348831b50b0483bcb28c1ad" sha1="ce8a63143e20159066a20941c9c1889bab4cd19a"/>
+		<description>FFVI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Subset - Insane Mode)</description>
+		<rom name="FFVI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Subset - Insane Mode).sfc" size="6291456" crc="aeca71a5" md5="812a47da0348831b50b0483bcb28c1ad" sha1="ce8a63143e20159066a20941c9c1889bab4cd19a"/>
 		<url>https://retroachievements.org/game/31166/hashes</url>
 		<hash>812a47da0348831b50b0483bcb28c1ad</hash>
 	</game>
-	<game name="Hack/Final Fantasy VI/FFVI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Hack)">
+	<game name="Subset/Final Fantasy VI/FFVI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Subset - Insane Mode)">
 		<category>Super Nintendo</category>
-		<description>FFVI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Hack)</description>
-		<rom name="FFVI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Hack).sfc" size="6291456" crc="910e081c" md5="f859c37fadc72c6604828bef7128bf60" sha1="d7151087703cf65e58bf2cfc162af3f7fcf3c396"/>
+		<description>FFVI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Subset - Insane Mode)</description>
+		<rom name="FFVI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Subset - Insane Mode).sfc" size="6291456" crc="910e081c" md5="f859c37fadc72c6604828bef7128bf60" sha1="d7151087703cf65e58bf2cfc162af3f7fcf3c396"/>
 		<url>https://retroachievements.org/game/31166/hashes</url>
 		<hash>f859c37fadc72c6604828bef7128bf60</hash>
+	</game>
+	
+	<game name="Hack/FFVI - BA Version (Ja) (v3.36c) (s8fp98fd5k) (Hack)">
+		<category>Super Nintendo</category>
+		<description>FFVI - BA Version (Ja) (v3.36c) (s8fp98fd5k) (Hack)</description>
+		<rom name="FFVI - BA Version (Ja) (v3.36c) (s8fp98fd5k) (Hack).sfc" size="4194304" crc="091ca300" md5="4259b3c92df4a20044c0124624c7a4ad" sha1="c77188dbb0c4823e898343923bd94fdc9181b61a"/>
+		<url>https://retroachievements.org/game/33968/hashes</url>
+		<hash>4259b3c92df4a20044c0124624c7a4ad</hash>
 	</game>
 	
 	<game name="Hack/Final Fantasy VI/FFVI - Brave New World (2.1.0) (Synchysi, BTB) (Hack)">
@@ -1109,6 +1117,14 @@
 		<rom name="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="dd44faac" md5="5c09b8ba99d6f37a7f531ea5c7a5be02" sha1="4c3fa9d9229f55acd9554ba4395abfa7c0945816"/>
 		<url>https://retroachievements.org/game/16496/hashes</url>
 		<hash>5c09b8ba99d6f37a7f531ea5c7a5be02</hash>
+	</game>
+	
+	<game name="Hack/FFVI - Final Fantasy VI SPX (v14.1) (s8fp98fd5k) (Hack)">
+		<category>Super Nintendo</category>
+		<description>FFVI - Final Fantasy VI SPX (v14.1) (s8fp98fd5k) (Hack)</description>
+		<rom name="FFVI - Final Fantasy VI SPX (v14.1) (s8fp98fd5k) (Hack).sfc" size="6291456" crc="e3cc73c5" md5="f267346d29866528330bedd034b566ef" sha1="70d4162addddccc15aa4ba54529c021fe9abe364"/>
+		<url>https://retroachievements.org/game/33776/hashes</url>
+		<hash>f267346d29866528330bedd034b566ef</hash>
 	</game>
 	
 	<game name="Hack/Final Fantasy VI/FFVI - T-Edition EX (En) (v1.1) (Tomato) (Hack)">
@@ -12404,7 +12420,7 @@
 	<game name="Tamori no Picross (Japan) (8-13) (b)">
 		<category>Satellaview</category>
 		<description>Tamori no Picross (Japan) (8-13) (b)</description>
-		<rom name="Tamori no Picross (Japan) (8-13) (b).bs" size="524288" crc="7db65bd3" md5="16c01d30d842496fd8cec31c48cdabff" sha1="32b430bf0750e03da43240c8e91692e4eda54ec0" status="baddump"/>
+		<rom name="Tamori no Picross (Japan) (8-13) (b).bs" size="524288" crc="7db65bd3" md5="16c01d30d842496fd8cec31c48cdabff" sha1="32b430bf0750e03da43240c8e91692e4eda54ec0"/>
 		<url>https://retroachievements.org/game/8670/hashes</url>
 		<hash>16c01d30d842496fd8cec31c48cdabff</hash>
 	</game>
@@ -12418,7 +12434,7 @@
 	<game name="Tamori no Picross (8-13) + Bakushow Mondai no Houkago Ousama - Kayoubi (Japan) (Game, Magazine) [b]">
 		<category>Satellaview</category>
 		<description>Tamori no Picross (8-13) + Bakushow Mondai no Houkago Ousama - Kayoubi (Japan) (Game, Magazine) [b]</description>
-		<rom name="Tamori no Picross (8-13) + Bakushow Mondai no Houkago Ousama - Kayoubi (Japan) (Game, Magazine) [b].bs" size="1048576" crc="e58ee3ad" md5="7a165aae06e675eb9a569bd1935b4816" sha1="184a8671a9d6790b351f22178d5a47c37d57a9ad" status="baddump"/>
+		<rom name="Tamori no Picross (8-13) + Bakushow Mondai no Houkago Ousama - Kayoubi (Japan) (Game, Magazine) [b].bs" size="1048576" crc="e58ee3ad" md5="7a165aae06e675eb9a569bd1935b4816" sha1="184a8671a9d6790b351f22178d5a47c37d57a9ad"/>
 		<url>https://retroachievements.org/game/8670/hashes</url>
 		<hash>7a165aae06e675eb9a569bd1935b4816</hash>
 	</game>
@@ -13690,7 +13706,7 @@
 	<game name="Undake 30 - Same Game Daisakusen - Mario Version (Japan) (b)">
 		<category>Satellaview</category>
 		<description>Undake 30 - Same Game Daisakusen - Mario Version (Japan) (b)</description>
-		<rom name="Undake 30 - Same Game Daisakusen - Mario Version (Japan) (b).bs" size="1048576" crc="15e27754" md5="f5fe0c5154a3ecf6ec1d0e279cede468" sha1="507c7a51c851c54eca7185492536be80954a62b2" status="baddump"/>
+		<rom name="Undake 30 - Same Game Daisakusen - Mario Version (Japan) (b).bs" size="1048576" crc="15e27754" md5="f5fe0c5154a3ecf6ec1d0e279cede468" sha1="507c7a51c851c54eca7185492536be80954a62b2"/>
 		<url>https://retroachievements.org/game/12832/hashes</url>
 		<hash>f5fe0c5154a3ecf6ec1d0e279cede468</hash>
 	</game>

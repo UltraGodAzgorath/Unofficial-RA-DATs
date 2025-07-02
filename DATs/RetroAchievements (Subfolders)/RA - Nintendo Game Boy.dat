@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>Subfolders</category>
-		<version>20250623</version>
-		<date>23 June 2025</date>
+		<version>20250702</version>
+		<date>02 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/4/games</url>
@@ -375,6 +375,14 @@
 		<rom name="204863 - A P.T. Silent Hills Demake (World) (GB Studio) (Jonshaw01) (Aftermarket).gb" size="524288" crc="62fcad3e" md5="28d77a7797b018be49c31f139912aba8" sha1="83fe12e34eb4a11a537c62c33c4cd863404a8c47"/>
 		<url>https://retroachievements.org/game/33578/hashes</url>
 		<hash>28d77a7797b018be49c31f139912aba8</hash>
+	</game>
+	
+	<game name="Homebrew/Among Us (World) (GBComp2021) (Aftermarket)">
+		<category></category>
+		<description>Among Us (World) (GBComp2021) (Aftermarket)</description>
+		<rom name="Among Us (World) (GBComp2021) (Aftermarket).gb" size="262144" crc="eb0874a7" md5="d3bfde5d973230ba15078e4f5ca78ad5" sha1="db6918e4209885030297c4339c8777d9b7bfc52c"/>
+		<url>https://retroachievements.org/game/26471/hashes</url>
+		<hash>d3bfde5d973230ba15078e4f5ca78ad5</hash>
 	</game>
 	
 	<game name="Homebrew/Autumn With You, An (World) (GB Compatible) (Aftermarket)">
@@ -2371,6 +2379,14 @@
 		<rom name="Golf (World).gb" size="131072" crc="6ed10383" md5="6175a5ef55a1998944267e75d8ebf79d" sha1="2acee1a14ba611e73b0b7d6bce170107213fcc0c"/>
 		<url>https://retroachievements.org/game/4648/hashes</url>
 		<hash>6175a5ef55a1998944267e75d8ebf79d</hash>
+	</game>
+	
+	<game name="Retail/Gradius - The Interstellar Assault (USA)">
+		<category></category>
+		<description>Gradius - The Interstellar Assault (USA)</description>
+		<rom name="Gradius - The Interstellar Assault (USA).gb" size="262144" crc="90f87d57" md5="e10f788da29e18934c3e9161b25b96c7" sha1="7a50fdf0b8ad15556c933df0657fae0a2cd8bc92"/>
+		<url>https://retroachievements.org/game/7796/hashes</url>
+		<hash>e10f788da29e18934c3e9161b25b96c7</hash>
 	</game>
 	
 	<game name="Retail/Great Greed (USA)">

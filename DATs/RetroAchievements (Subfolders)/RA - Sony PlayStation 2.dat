@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation 2</name>
 		<description>Sony Playstation 2</description>
 		<category>Subfolders</category>
-		<version>20250630</version>
-		<date>30 June 2025</date>
+		<version>20250702</version>
+		<date>02 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -217,6 +217,14 @@
 		<rom name="Resident Evil 4 - A Nightmare of Evil (v1.0) (hobi gamez) (Hack).iso" size="3248128000" crc="ce3ba0db" md5="dd354755f0e0de26ffdda69b53ceb68f" sha1="d50735da91be822b358e82b878c305b06b01a9af"/>
 		<url>https://retroachievements.org/game/20466/hashes</url>
 		<hash>b8157fd246eef69e70403ff5a74eeb2e</hash>
+	</game>
+	
+	<game name="Hack/Resident Evil 4 - Winter of Middle Night (Hack)">
+		<category></category>
+		<description>Resident Evil 4 - Winter of Middle Night (Hack)</description>
+		<rom name="Resident Evil 4 - Winter of Middle Night (Hack).iso" size="" crc="00000000" md5="00000000" sha1="00000000"/>
+		<url>https://retroachievements.org/game/33782/hashes</url>
+		<hash>614ca5a31def02e3242e6907b38dab14</hash>
 	</game>
 	
 	<game name="Hack/Shin Megami Tensei - Nocturne - Hardtype (v1.5.1) (zombero) (Hack)">
@@ -738,6 +746,15 @@
 		<rom name="Boku no Natsuyasumi 2 - Umi no Bouken-hen (Japan) (En) (v1.2) (Hilltop).iso" size="3576135680" crc="3953be9b" md5="c233e45f26e2e7dd10f40ced77dd9eff" sha1="dddff595592443f0bfad9c1118251a5393136cd7"/>
 		<url>https://retroachievements.org/game/20646/hashes</url>
 		<hash>f0ed51b6188313de088fb78d592eedb7</hash>
+	</game>
+	
+	<game name="Retail/Bomberman Kart (Europe) (En,Fr,De)">
+		<category></category>
+		<description>Bomberman Kart (Europe) (En,Fr,De)</description>
+		<rom name="Bomberman Kart (Europe) (En,Fr,De).cue" size="100" crc="299252d9" md5="5370c22eff5e68dde5b93277df278a76" sha1="9b807093360b5aa42e06448bd404f8dc6431ffe6"/>
+		<rom name="Bomberman Kart (Europe) (En,Fr,De).bin" size="547820784" crc="d252fe2a" md5="e491e93fdb1a00a78e67ee24c222ecd8" sha1="f60fb74cbab3258c09c5c3493049aa25493f3f26"/>
+		<url>https://retroachievements.org/game/19731/hashes</url>
+		<hash>22f6b36a46b655f693378963e5406cff</hash>
 	</game>
 	
 	<game name="Retail/Breath of Fire - Dragon Quarter (Europe) (En,Fr,De,Es,It)">

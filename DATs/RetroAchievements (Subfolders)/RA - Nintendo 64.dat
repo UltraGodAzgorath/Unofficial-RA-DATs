@@ -5,8 +5,8 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>Subfolders</category>
-		<version>20250630</version>
-		<date>30 June 2025</date>
+		<version>20250702</version>
+		<date>02 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/2/games</url>
@@ -3864,7 +3864,7 @@
 	<game name="Retail/BattleTanx - Global Assault (USA)">
 		<category>Nintendo 64</category>
 		<description>BattleTanx - Global Assault (USA)</description>
-		<rom name="BattleTanx - Global Assault (USA).z64" size="8388608" crc="31beb053" md5="654557c316f901a2ca6f7f4b43343147" sha1="805248fb0a0ee694cad8d7dc927b631d860dd8cf" sha256="88268ce770ff39f2ca839848b842c87866df6c5ddaf775f180b2522c18ff6221"/>
+		<rom name="BattleTanx - Global Assault (USA).z64" size="8388608" crc="31beb053" md5="654557c316f901a2ca6f7f4b43343147" sha1="805248fb0a0ee694cad8d7dc927b631d860dd8cf"/>
 		<url>https://retroachievements.org/game/10156/hashes</url>
 		<hash>654557C316F901A2CA6F7F4B43343147</hash>
 	</game>
@@ -4743,6 +4743,21 @@
 		<hash>D51506EDB0A941A00EB45850703B32CB</hash>
 	</game>
 	
+	<game name="Retail/Monster Truck Madness 64 (USA)">
+		<category>Nintendo 64</category>
+		<description>Monster Truck Madness 64 (USA)</description>
+		<rom name="Monster Truck Madness 64 (USA).z64" size="8388608" crc="3fd0604d" md5="514d61d3b3d5e6326869783eb2e84a00" sha1="f8c7ae14df7341881346b1ceaf838d2219291279"/>
+		<url>https://retroachievements.org/game/10393/hashes</url>
+		<hash>514D61D3B3D5E6326869783EB2E84A00</hash>
+	</game>
+	<game name="Retail/Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It)">
+		<category>Nintendo 64</category>
+		<description>Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It).z64" size="8388608" crc="4731df5c" md5="e3b408997d7db91f8219f168c6d57d26" sha1="a702b0616030bfc5feb78feaf365eab74f1a8b6e"/>
+		<url>https://retroachievements.org/game/10393/hashes</url>
+		<hash>e3b408997d7db91f8219f168c6d57d26</hash>
+	</game>
+	
 	<game name="Retail/Mortal Kombat 4 (USA)">
 		<category>Nintendo 64</category>
 		<description>Mortal Kombat 4 (USA)</description>
@@ -4996,7 +5011,7 @@
 	<game name="Retail/Rampage - World Tour (USA)">
 		<category>Nintendo 64</category>
 		<description>Rampage - World Tour (USA)</description>
-		<rom name="Rampage - World Tour (USA).z64" size="12582912" crc="211119dd" md5="4645672a0cf00ada9b5e37cfde8b024e" sha1="7a6c8758e67fd3da99e3420983c0d6df83e41c6b" sha256="a06da4bf6342670df551738c07ed2d1c91ee12c29df73c0c3f8eeae2ea1016ea"/>
+		<rom name="Rampage - World Tour (USA).z64" size="12582912" crc="211119dd" md5="4645672a0cf00ada9b5e37cfde8b024e" sha1="7a6c8758e67fd3da99e3420983c0d6df83e41c6b"/>
 		<url>https://retroachievements.org/game/10087/hashes</url>
 		<hash>4645672A0CF00ADA9B5E37CFDE8B024E</hash>
 	</game>
@@ -5851,7 +5866,7 @@
 	<game name="Retail/Wetrix (USA) (En,Fr,De,Es,It,Nl)">
 		<category>Nintendo 64</category>
 		<description>Wetrix (USA) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Wetrix (USA) (En,Fr,De,Es,It,Nl).z64" size="8388608" crc="50cd1f71" md5="6e81d3056e409208e4af2d39a2ff0f03" sha1="6e40312cf88a9182e93b396b9d82457b1aba7cd6" sha256="790f36a3ddd64e4dcd08c479b0b66f9080d0191473e92fa895f53d15706167bb"/>
+		<rom name="Wetrix (USA) (En,Fr,De,Es,It,Nl).z64" size="8388608" crc="50cd1f71" md5="6e81d3056e409208e4af2d39a2ff0f03" sha1="6e40312cf88a9182e93b396b9d82457b1aba7cd6"/>
 		<url>https://retroachievements.org/game/10531/hashes</url>
 		<hash>6e81d3056e409208e4af2d39a2ff0f03</hash>
 	</game>

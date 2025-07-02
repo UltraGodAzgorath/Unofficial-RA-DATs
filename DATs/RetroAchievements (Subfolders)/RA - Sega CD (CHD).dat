@@ -5,8 +5,8 @@
 		<name>RA - Sega CD (CHD)</name>
 		<description>Sega CD (CHD)</description>
 		<category>Subfolders</category>
-		<version>20250701</version>
-		<date>01 June 2025</date>
+		<version>20250702</version>
+		<date>02 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/9/games</url>
@@ -172,14 +172,6 @@
 		<hash>fbd25c6c1f42973b214ace4646c8632a</hash>
 	</game>
 	
-	<game name="Retail/Ecco the Dolphin (Europe)">
-		<category></category>
-		<description>Ecco the Dolphin (Europe)</description>
-		<rom name="Ecco the Dolphin (Europe).chd" size="279399990" crc="8e6c5f70" md5="486a9a412c6cf5111101b022562f60c3" sha1="90e978187b1b29ff2bb4c999f0fc4946625d9838"/>
-		<url>https://retroachievements.org/game/16019/hashes</url>
-		<hash>1f9896c6fc87315538aead49d345178b</hash>
-	</game>
-	
 	<game name="Retail/Eternal Champions - Challenge from the Dark Side (USA) (RE)">
 		<category></category>
 		<description>Eternal Champions - Challenge from the Dark Side (USA) (RE)</description>
@@ -321,21 +313,6 @@
 		<rom name="MegaRace (USA).chd" size="365000342" crc="b7d34b78" md5="181d964a9b89a9a9409704832743bb8b" sha1="6e1d8dcaa9f0d6e6a6b6ee1cb4add130655ab21a"/>
 		<url>https://retroachievements.org/game/14209/hashes</url>
 		<hash>b111ff79baa4e42536429bb4aebdd578</hash>
-	</game>
-	
-	<game name="Retail/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)">
-		<category></category>
-		<description>Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)</description>
-		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).chd" size="246124383" crc="201a0ef2" md5="5b7c4b577cf46617235ad1d7f12b42b3" sha1="a779bf668cdebb6b37562734b6cc1c8fb8502084"/>
-		<url>https://retroachievements.org/game/16034/hashes</url>
-		<hash>0de3f1c9f358f35eb589125d07b11f42</hash>
-	</game>
-	<game name="Retail/Mickey Mania (Europe)">
-		<category></category>
-		<description>Mickey Mania (Europe)</description>
-		<rom name="Mickey Mania (Europe).chd" size="246117447" crc="ded58f4c" md5="2fe38208ae3782023c00d92782d349c0" sha1="5e6a6e5441051bbf2b355ae7cc75ff837cd24dc9"/>
-		<url>https://retroachievements.org/game/16034/hashes</url>
-		<hash>54339f3c874613f830a49001098bc725</hash>
 	</game>
 	
 	<game name="Retail/Mighty Morphin Power Rangers (USA)">
@@ -577,6 +554,14 @@
 		<rom name="SoulStar (Europe) (En,Fr,De).chd" size="344815567" crc="a444d99c" md5="84e21433979f19d348725cc2628361c5" sha1="1de8f5bce0241da7d06c9929e8ab514081e28d47"/>
 		<url>https://retroachievements.org/game/15992/hashes</url>
 		<hash>cda361103444e5b53acea28a59fb5ac4</hash>
+	</game>
+	
+	<game name="Retail/Software Toolworks' Star Wars Chess, The (USA)">
+		<category></category>
+		<description>Software Toolworks' Star Wars Chess, The (USA)</description>
+		<rom name="Software Toolworks' Star Wars Chess, The (USA).chd" size="106340247" crc="37df1488" md5="545f15c736455aec6dcff472fb9cd252" sha1="3e2939a462a4a17c0c266174b15e88dda7d0a02b"/>
+		<url>https://retroachievements.org/game/14212/hashes</url>
+		<hash>0aa9aa05e09b9c290a22dcf3c1799cab</hash>
 	</game>
 	
 	<game name="Retail/Star Wars - Rebel Assault (USA)">
