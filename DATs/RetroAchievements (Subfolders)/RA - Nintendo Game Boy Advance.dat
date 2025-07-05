@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>Subfolders</category>
-		<version>20250630</version>
-		<date>30 June 2025</date>
+		<version>20250705</version>
+		<date>05 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -948,12 +948,12 @@
 		<hash>5174f0efdb27136a8d2df79e8b932219</hash>
 	</game>
 	
-	<game name="Homebrew/Celeste Classic (World) (v1.0) (Aftermarket)">
+	<game name="Homebrew/Celeste Classic (World) (v1.2) (Aftermarket)">
 		<category></category>
-		<description>Celeste Classic (World) (v1.0) (Aftermarket)</description>
-		<rom name="Celeste Classic (World) (v1.0) (Aftermarket).gba" size="5416932" crc="f79b0d53" md5="d5b7c99707098401f12f6e4dfac87c9f" sha1="756f02396a150698e695ad4afd24445e2af70576"/>
+		<description>Celeste Classic (World) (v1.2) (Aftermarket)</description>
+		<rom name="Celeste Classic (World) (v1.2) (Aftermarket).gba" size="5418424" crc="ff0e8ada" md5="9bcd687293600451abdd0f181b2427e8" sha1="08512605e5c02e81a72e24c2c8d4959d8e84e1f4"/>
 		<url>https://retroachievements.org/game/16209/hashes</url>
-		<hash>d5b7c99707098401f12f6e4dfac87c9f</hash>
+		<hash>9bcd687293600451abdd0f181b2427e8</hash>
 	</game>
 	
 	<game name="Homebrew/Coin Fall (World) (Aftermarket)">
@@ -3219,10 +3219,9 @@
 	<game name="Retail/Famicom Mini - Vol. 16 - Dig Dug (Japan)">
 		<category></category>
 		<description>Famicom Mini - Vol. 16 - Dig Dug (Japan)</description>
-		<rom name="Famicom Mini - Vol. 16 - Dig Dug (Japan).gba" size="4194304" crc="57513b63" md5="2a788508404bc0cc9d1afba8e4eecbe5" sha1="7d870c79a7576630a16471d91bd23c1681b7ddc3"/>
+		<rom name="Famicom Mini - Vol. 16 - Dig Dug (Japan).gba" size="1048576" crc="ee4c3504" md5="10ea584b14960348548e8528202968f1" sha1="0b46e4cabd1f5f624d8391658d9c888dbd29a6ff"/>
 		<url>https://retroachievements.org/game/12971/hashes</url>
-		<hash>2a788508404bc0cc9d1afba8e4eecbe5</hash>
-		<althash>10ea584b14960348548e8528202968f1</althash>
+		<hash>10ea584b14960348548e8528202968f1</hash>
 	</game>
 	
 	<game name="Retail/FIFA Soccer 06 (USA, Europe) (En,Fr,De,Es,It,Nl)">
