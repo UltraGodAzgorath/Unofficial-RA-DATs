@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation</name>
 		<description>Sony Playstation</description>
 		<category>No Subfolders</category>
-		<version>20250630</version>
-		<date>30 June 2025</date>
+		<version>20250706</version>
+		<date>06 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -279,6 +279,7 @@
 	<game name="Yu-Gi-Oh! Forbidden Memories II Ultimate (FM Brasil Team) (Hack)">
 		<category>Hack</category>
 		<description>Yu-Gi-Oh! Forbidden Memories II Ultimate (FM Brasil Team) (Hack)</description>
+		<release name="Yu-Gi-Oh! Forbidden Memories II Ultimate (FM Brasil Team) (Hack)" region="World"/>
 		<rom name="Yu-Gi-Oh! Forbidden Memories II Ultimate (FM Brasil Team) (Hack).cue" size="130" crc="016051bd" md5="20332d4c3e4ea4b3323e4e47d2fc56a5" sha1="e5b530a7f75826bef00f418332e636552ae11b94"/>
 		<rom name="Yu-Gi-Oh! Forbidden Memories II Ultimate (FM Brasil Team) (Hack).bin" size="114751728" crc="00653ed1" md5="b44c2a9149a0a48a47b193e25a0f531e" sha1="4c2a49712c252b576034f17b11e8834fc4e408f4"/>
 		<url>https://retroachievements.org/game/18098/hashes</url>
@@ -288,6 +289,7 @@
 	<game name="Yu-Gi-Oh! Forbidden Memories - Alpha Mod (Drop x15) (Alpha Team) (Hack)">
 		<category>Hack</category>
 		<description>Yu-Gi-Oh! Forbidden Memories - Alpha Mod (Drop x15) (Alpha Team) (Hack)</description>
+		<release name="Yu-Gi-Oh! Forbidden Memories - Alpha Mod (Drop x15) (Alpha Team) (Hack)" region="World"/>
 		<rom name="Yu-Gi-Oh! Forbidden Memories - Alpha Mod (Drop x15) (Alpha Team) (Hack).cue" size="137" crc="7c44ee51" md5="c8d3db41b6a9f5220eed831f7a10d328" sha1="b1a2f0fad3a323e3a8d4d327ce55e6cbc135c8a4"/>
 		<rom name="Yu-Gi-Oh! Forbidden Memories - Alpha Mod (Drop x15) (Alpha Team) (Hack).bin" size="81014640" crc="e2d66695" md5="68c0987295eaff991c4fca3bfaa6615a" sha1="000d15ea108ce3d8a7fa8e31ac7c5a5c2e4194e7"/>
 		<url>https://retroachievements.org/game/29828/hashes</url>
@@ -297,6 +299,7 @@
 	<game name="Yu-Gi-Oh! Forbidden Memories - Deep Fried Mod (v1.1.0) (1 Card Drop) (Hack)">
 		<category>Hack</category>
 		<description>Yu-Gi-Oh! Forbidden Memories - Deep Fried Mod (v1.1.0) (1 Card Drop) (Hack)</description>
+		<release name="Yu-Gi-Oh! Forbidden Memories - Deep Fried Mod (v1.1.0) (1 Card Drop) (Hack)" region="World"/>
 		<rom name="Yu-Gi-Oh! Forbidden Memories - Deep Fried Mod (v1.1.0) (1 Card Drop) (Hack).cue" size="141" crc="84b2cfb2" md5="cee3b7c9a9cacf479824860b56d4470b" sha1="0bb922d08b92b8315d460180a1763f2db917181d"/>
 		<rom name="Yu-Gi-Oh! Forbidden Memories - Deep Fried Mod (v1.1.0) (1 Card Drop) (Hack).bin" size="78095808" crc="2bee540e" md5="77d0d7b1df5ade017c7a0aea631aa681" sha1="99e48054782dffcf8c95a180c3d4445d15157abf"/>
 		<url>https://retroachievements.org/game/23799/hashes</url>
@@ -306,6 +309,7 @@
 	<game name="Yu-Gi-Oh! GX Forbidden Memories (v2018 Remaster) (Victor Bless) (Hack)">
 		<category>Hack</category>
 		<description>Yu-Gi-Oh! GX Forbidden Memories (v2018 Remaster) (Victor Bless) (Hack)</description>
+		<release name="Yu-Gi-Oh! GX Forbidden Memories (v2018 Remaster) (Victor Bless) (Hack)" region="World"/>
 		<rom name="Yu-Gi-Oh! GX Forbidden Memories (v2018 Remaster) (Victor Bless) (Hack).cue" size="136" crc="d0d64c29" md5="39c74037c33a775190c331a86d9938aa" sha1="57db937855ec7457d5933cc54a2c46ebed962a9c"/>
 		<rom name="Yu-Gi-Oh! GX Forbidden Memories (v2018 Remaster) (Victor Bless) (Hack).bin" size="100522128" crc="0c2aae12" md5="2f48859e90898fe8dbbb039e19425582" sha1="5db224c3e46ccdf150e3557116c4627250bdf308"/>
 		<url>https://retroachievements.org/game/29751/hashes</url>
@@ -375,6 +379,7 @@
 	<game name="VS. Impostor V4 (Tomscop) (Aftermarket) (Disc 1)">
 		<category>Homebrew</category>
 		<description>VS. Impostor V4 (Tomscop) (Aftermarket) (Disc 1)</description>
+		<release name="VS. Impostor V4 (Tomscop) (Aftermarket) (Disc 1)" region="World"/>
 		<rom name="VS. Impostor V4 (Tomscop) (Aftermarket) (Disc 1).cue" size="114" crc="33b06b32" md5="12f76208aa15351cf82d5627f531008c" sha1="4a1989f6ed4e75e9ba3e0e8b8bca92284f87f95a"/>
 		<rom name="VS. Impostor V4 (Tomscop) (Aftermarket) (Disc 1).bin" size="582256416" crc="3036c7e5" md5="1fdd264f33f6ed2592359fcc468876f5" sha1="75b99170dd9f4f432db1993aa0632842721575da"/>
 		<url>https://retroachievements.org/game/24988/hashes</url>
@@ -383,6 +388,7 @@
 	<game name="VS. Impostor V4 (Tomscop) (Aftermarket) (Disc 2)">
 		<category>Homebrew</category>
 		<description>VS. Impostor V4 (Tomscop) (Aftermarket) (Disc 2)</description>
+		<release name="VS. Impostor V4 (Tomscop) (Aftermarket) (Disc 2)" region="World"/>
 		<rom name="VS. Impostor V4 (Tomscop) (Aftermarket) (Disc 2).cue" size="114" crc="32ed4de3" md5="0d39aff383aba9ea490ff8854abb4466" sha1="334dfaf9d8658367092b3f24c23d88a73fff0d59"/>
 		<rom name="VS. Impostor V4 (Tomscop) (Aftermarket) (Disc 2).bin" size="438878496" crc="8073ec78" md5="5ec5f974cf2d01515c24e9570c4d29f8" sha1="a29597e253c10ceb9ad97a9d734c4d53a77bc573"/>
 		<url>https://retroachievements.org/game/24988/hashes</url>
@@ -392,6 +398,7 @@
 	<game name="VS. Kapi - Arcade Showdown (UNSTOP4BLE) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>VS. Kapi - Arcade Showdown (UNSTOP4BLE) (Aftermarket)</description>
+		<release name="VS. Kapi - Arcade Showdown (UNSTOP4BLE) (Aftermarket)" region="World"/>
 		<rom name="VS. Kapi - Arcade Showdown (UNSTOP4BLE) (Aftermarket).cue" size="119" crc="38e2bba7" md5="70dd7954d7c6d2ea262d98dc10ee1af1" sha1="64cc8c91bf6c83a0b9652644a47ab29a27a854ea"/>
 		<rom name="VS. Kapi - Arcade Showdown (UNSTOP4BLE) (Aftermarket).bin" size="103426848" crc="397e6e35" md5="8e4fb93bfa97970b919b4c2f8ff08566" sha1="1bd93da0104c00fb6f5462af1160557af26edd45"/>
 		<url>https://retroachievements.org/game/25662/hashes</url>
@@ -401,6 +408,7 @@
 	<game name="VS. Matt (UNSTOP4BLE) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>VS. Matt (UNSTOP4BLE) (Aftermarket)</description>
+		<release name="VS. Matt (UNSTOP4BLE) (Aftermarket)" region="World"/>
 		<rom name="VS. Matt (UNSTOP4BLE) (Aftermarket).cue" size="101" crc="8ca1ac8c" md5="a77845355a60c19fd20238fd0f17d275" sha1="540ad0c7e27919f56dba5d9f60927b20ea3f25b6"/>
 		<rom name="VS. Matt (UNSTOP4BLE) (Aftermarket).bin" size="114612960" crc="125eecfa" md5="8dd71f6357921c0a6881d391601e953d" sha1="eb8de1754b7a1a49e8107bc4c6bfbf78072a1cd4"/>
 		<url>https://retroachievements.org/game/25377/hashes</url>
@@ -410,6 +418,7 @@
 	<game name="VS. Ourple Guy V2 (Pichuman10) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>VS. Ourple Guy V2 (Pichuman10) (Aftermarket)</description>
+		<release name="VS. Ourple Guy V2 (Pichuman10) (Aftermarket)" region="World"/>
 		<rom name="VS. Ourple Guy V2 (Pichuman10) (Aftermarket).cue" size="110" crc="42a1bb55" md5="d2a802342e3e13ed291b5ae4a1f4054d" sha1="20553ec995984b62e8ce6f8fdfd470c9a41d2ba1"/>
 		<rom name="VS. Ourple Guy V2 (Pichuman10) (Aftermarket).bin" size="436183104" crc="24c6c077" md5="0c36a301dc10dbc7f6069a688215c224" sha1="5885000cbc846ec89ba2b196fc4b42087f30d22e"/>
 		<url>https://retroachievements.org/game/24484/hashes</url>
@@ -419,6 +428,7 @@
 	<game name="VS. Selever (victor179, UNSTOP4BLE) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>VS. Selever (victor179, UNSTOP4BLE) (Aftermarket)</description>
+		<release name="VS. Selever (victor179, UNSTOP4BLE) (Aftermarket)" region="World"/>
 		<rom name="VS. Selever (victor179, UNSTOP4BLE) (Aftermarket).cue" size="115" crc="2d932d80" md5="821158f6925ad2de3b988583318f9a2e" sha1="2cab51baf39bf10a763017196aef64a7cf7408d9"/>
 		<rom name="VS. Selever (victor179, UNSTOP4BLE) (Aftermarket).bin" size="155831760" crc="af686ae2" md5="2c9522c177a84b6f0dd5a8c93dfe2b5e" sha1="b0bf66713fe720cdbdb822af8ededda34be2132b"/>
 		<url>https://retroachievements.org/game/25367/hashes</url>
@@ -428,6 +438,7 @@
 	<game name="VS. Tabi EX (GoombaKungFu, UNSTOP4BLE, IgorSou30000) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>VS. Tabi EX (GoombaKungFu, UNSTOP4BLE, IgorSou30000) (Aftermarket)</description>
+		<release name="VS. Tabi EX (GoombaKungFu, UNSTOP4BLE, IgorSou30000) (Aftermarket)" region="World"/>
 		<rom name="VS. Tabi EX (GoombaKungFu, UNSTOP4BLE, IgorSou30000) (Aftermarket).cue" size="132" crc="a87ad6e2" md5="eef12465192eb4f142be6072653864b2" sha1="6bcf1fc8663874b813785de10e11d5c5ab5aab67"/>
 		<rom name="VS. Tabi EX (GoombaKungFu, UNSTOP4BLE, IgorSou30000) (Aftermarket).bin" size="74781840" crc="4d9169bd" md5="9aeab180e4e2b6ce6ea0288da2c43233" sha1="43299955579d32c27583f3ba3a94bf8a019c6b69"/>
 		<url>https://retroachievements.org/game/27433/hashes</url>
@@ -437,6 +448,7 @@
 	<game name="VS. Tricky (CKDev, Lord Scout) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>VS. Tricky (CKDev, Lord Scout) (Aftermarket)</description>
+		<release name="VS. Tricky (CKDev, Lord Scout) (Aftermarket)" region="World"/>
 		<rom name="VS. Tricky (CKDev, Lord Scout) (Aftermarket).cue" size="110" crc="98661d6f" md5="cb5c1ae2936f86b441ac6a22205ae534" sha1="3d23196ac9b9b196682a37ce70ac1ba755562da2"/>
 		<rom name="VS. Tricky (CKDev, Lord Scout) (Aftermarket).bin" size="113324064" crc="5bc8cb67" md5="59a9b0778cce3c9afa56a807bd85989c" sha1="2a963810a63c9ab6dd0c90492eafc4dabf1472ca"/>
 		<url>https://retroachievements.org/game/26341/hashes</url>
