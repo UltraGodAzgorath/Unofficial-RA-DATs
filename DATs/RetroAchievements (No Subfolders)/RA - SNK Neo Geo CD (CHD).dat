@@ -5,8 +5,8 @@
 		<name>RA - SNK Neo Geo CD (CHD)</name>
 		<description>SNK Neo Geo CD (CHD)</description>
 		<category>No Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250706</version>
+		<date>06 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/56/games</url>
@@ -15,11 +15,11 @@
 		<clrmamepro forcepacking="unzip"/>
 		<romvault forcepacking="unzip"/>
 	</header>
-	<game name="Last Hope (Germany) (Unl)">
+	<game name="Last Hope (Germany) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Last Hope (Germany) (Unl)</description>
-		<release name="Last Hope (Germany) (Unl)" region="Germany"/>
-		<rom name="Last Hope (Germany) (Unl).chd" size="127329343" crc="c41ef746" md5="a67995ae6342a4ae39bb403074d2a406" sha1="bb622f17539b9b5dd72eccd93a815a87ad38118e"/>
+		<description>Last Hope (Germany) (Aftermarket)</description>
+		<release name="Last Hope (Germany) (Aftermarket)" region="Germany"/>
+		<rom name="Last Hope (Germany) (Aftermarket).chd" size="127329343" crc="c41ef746" md5="a67995ae6342a4ae39bb403074d2a406" sha1="bb622f17539b9b5dd72eccd93a815a87ad38118e"/>
 		<url>https://retroachievements.org/game/23851/hashes</url>
 		<hash>2c60bac28fb31d6a1347e60e880867d6</hash>
 	</game>
@@ -40,11 +40,11 @@
 		<hash>fafac288db61100b8ce57086d3b5a6ab</hash>
 	</game>
 	
-	<game name="Xeno Crisis (World) (Unl)">
+	<game name="Xeno Crisis (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Xeno Crisis (World) (Unl)</description>
-		<release name="Xeno Crisis (World) (Unl)" region="World"/>
-		<rom name="Xeno Crisis (World) (Unl).chd" size="437825357" crc="10e40518" md5="6314b2047bc20f0d13fcd6cf6a0893a1" sha1="00729df6e0e58216321bf3623b0c1fb1848583ae"/>
+		<description>Xeno Crisis (World) (Aftermarket)</description>
+		<release name="Xeno Crisis (World) (Aftermarket)" region="World"/>
+		<rom name="Xeno Crisis (World) (Aftermarket).chd" size="437825357" crc="10e40518" md5="6314b2047bc20f0d13fcd6cf6a0893a1" sha1="00729df6e0e58216321bf3623b0c1fb1848583ae"/>
 		<url>https://retroachievements.org/game/23888/hashes</url>
 		<hash>1d232e073b335d96cfef64bad118065c</hash>
 	</game>
