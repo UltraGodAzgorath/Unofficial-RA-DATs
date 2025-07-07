@@ -17,7 +17,7 @@
 		<category>Hack</category>
 		<description>Sonic MegaMix (USA) (Unl)</description>
 		<release name="Sonic MegaMix (USA) (Unl)" region="USA"/>
-		<rom name="Sonic MegaMix (USA) (Unl).cue" size="98" crc="baa0ca75" md5="790678768b4b751f6cc9d8d2b4064204" sha1="94ac456d6ed1475097e61e852db71fdbd8e9683b"/>
+		<rom name="Sonic MegaMix (USA) (Unl).cue" size="91" crc="004e2ec2" md5="f1859ec2eb3b05ee5d62e4e058d4e493" sha1="6ef9e97f1feeea0ef2f479acfefc81a94537de67"/>
 		<rom name="Sonic MegaMix (USA) (Unl).bin" size="16946160" crc="227348ac" md5="58863ba94a5484f25e73e2d0c6696d56" sha1="b5137e3ca9a4e3fb0d4c052a5d0bd48b76714a80"/>
 		<url>https://retroachievements.org/game/24129/hashes</url>
 		<hash>3c12feaa765ff91a126aa62c7eb24de7</hash>
@@ -27,9 +27,9 @@
 		<category>Homebrew</category>
 		<description>Mighty Mighty Missile (USA) (Unl)</description>
 		<release name="Mighty Mighty Missile (USA) (Unl)" region="USA"/>
-		<rom name="Mighty Mighty Missile (USA) (Unl).cue" size="2116" crc="e6a7e961" md5="756d72ba9d614f324ccdf8b041ee5322" sha1="e357bf66d9ab90b018430345c89e354ffda9e354"/>
-		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 01).bin" size="24891216" crc="28a717a1" md5="3757aca090e13ea5c93f68e4f5eee54d" sha1="bc47bb9fdf729e7de34bcc7ec97cad146779cd85"/>
-		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 02).bin" size="18999456" crc="837c52cb" md5="79d54a766cb6ae60ed9295d47c8db558" sha1="ae6b8ecd9311ad0b2e21eca78f76749f38a72dc7"/>
+		<rom name="Mighty Mighty Missile (USA) (Unl).cue" size="2286" crc="5956376e" md5="945aa493d1880433b60e66d467c6fbe0" sha1="e7f19cb309fef2c832ff4ea50166a6a03ad92078"/>
+		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 01).bin" size="25244016" crc="cc796229" md5="8f7a5f3fa17db3d386a36721d767720a" sha1="cfea2ecb914380c5878aa51ac4096bbfb6721861"/>
+		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 02).bin" size="18646656" crc="a42078c5" md5="28e6c6e98541eb4671b6d1b9fb6e630c" sha1="94657445eff867e9870410b2ac79da6451724ef6"/>
 		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 03).bin" size="58506000" crc="70eb9411" md5="4d7854ffdbcad5467a6342ddec5b00c9" sha1="a6117422a51e0de4fcd9eb8be2694fd5bf5f9d91"/>
 		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 04).bin" size="31269840" crc="b1469704" md5="7fceb9f37d1620af4e81de509fa9af37" sha1="61be507c54b6fad2ae75d0a4ccefbbdf3800d6c2"/>
 		<rom name="Mighty Mighty Missile (USA) (Unl) (Track 05).bin" size="6357456" crc="b9b1f520" md5="cc621fb445989c1a38864f8f7835c047" sha1="be13c519d65ea651f245162ef2d684af7fd0bbff"/>
@@ -154,31 +154,6 @@
 		<rom name="Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es) (Track 17).bin" size="65667840" crc="259fe2ab" md5="b10b6bc4606f3953abf8eed94cb78080" sha1="ad45d37d83192a468e35cf7f0d2c785c3302951c"/>
 		<url>https://retroachievements.org/game/33773/hashes</url>
 		<hash>50ab41923e9edb04e7d047975f5a90cc</hash>
-	</game>
-	<game name="Battle Frenzy (USA) (Unl)">
-		<category>Retail</category>
-		<description>Battle Frenzy (USA) (Unl)</description>
-		<release name="Battle Frenzy (USA) (Unl)" region="USA"/>
-		<rom name="Battle Frenzy (USA) (Unl).cue" size="1677" crc="8005304e" md5="c46dfd7bfd58e69081bed589ad847aab" sha1="14fd178aa9ab7246ae481386c744ab4e3909cfac"/>
-		<rom name="Battle Frenzy (USA) (Unl) (Track 01).bin" size="7540512" crc="5a1b87e3" md5="f3d07c94b7e33ab57fa2f27e52477051" sha1="e5a27790b102b68e56faaee63210287a78658dd3"/>
-		<rom name="Battle Frenzy (USA) (Unl) (Track 02).bin" size="46080384" crc="66dd8710" md5="9d24e37abda9da50a111e96c2caf6dd0" sha1="bf65be66f2813cbd65534f50c959cce68f873d22"/>
-		<rom name="Battle Frenzy (USA) (Unl) (Track 03).bin" size="32918592" crc="45c5ca73" md5="613f6fac62e1bb294798276b633d80e9" sha1="fb0632e0ddd4b18383c4ddfad5e55f9d6acde771"/>
-		<rom name="Battle Frenzy (USA) (Unl) (Track 04).bin" size="2208528" crc="2a233798" md5="ec18513e3c7e88f5fe864b89bcbaeafe" sha1="07720afa3ff8cfb69e001ae8b10a8015823fc4bb"/>
-		<rom name="Battle Frenzy (USA) (Unl) (Track 05).bin" size="15304464" crc="23af226e" md5="d93d7cc84fc4cb205f4ecc0f3c18bd6d" sha1="d5da74964c5e700f5867d642c860319f4e1e5217"/>
-		<rom name="Battle Frenzy (USA) (Unl) (Track 06).bin" size="18079824" crc="cb5642b1" md5="3dc471c085319fa47a2d7acf5a60303e" sha1="b25fb0f0801134b8136d1a27a62c40650d57ad8c"/>
-		<rom name="Battle Frenzy (USA) (Unl) (Track 07).bin" size="31977792" crc="1d3003f2" md5="938e43fc511fb78c8167d7c34b0a5165" sha1="b10e5f1aa109c07ed265b15f4a6bb64f8e2d1075"/>
-		<rom name="Battle Frenzy (USA) (Unl) (Track 08).bin" size="59517360" crc="c821eaa0" md5="c2960b19b435cffd51380b526e7ca76b" sha1="3a10339ea01bab3f9183ae46666b4b8fe8c81156"/>
-		<rom name="Battle Frenzy (USA) (Unl) (Track 09).bin" size="50346912" crc="a9b73eaa" md5="fc377c9ecc737f9e48a204430429f721" sha1="7562e05b988860f7742c5e0e5509d6af4636f4e6"/>
-		<rom name="Battle Frenzy (USA) (Unl) (Track 10).bin" size="45675840" crc="84e6caf0" md5="3373ffb317b1c76ea6ef63dc7d22909d" sha1="92dafdee014d40929d4c8c7af0159fccfd05b81f"/>
-		<rom name="Battle Frenzy (USA) (Unl) (Track 11).bin" size="60100656" crc="e8a20b19" md5="54cf4357a5d58b0541915a4561c5c0db" sha1="87bf1e8f5a15592a9f3c31f0c1da934f94bc1b09"/>
-		<rom name="Battle Frenzy (USA) (Unl) (Track 12).bin" size="39033792" crc="00f385bf" md5="3a2f0bbff61c60611aedb354423d3b41" sha1="94ab2b4eedf149ef662db14b1a59f7864475f99f"/>
-		<rom name="Battle Frenzy (USA) (Unl) (Track 13).bin" size="47818512" crc="1cd274d8" md5="0f62e3180f3148d6a8c41985ee2484db" sha1="8689015bd443f8a36371eccf7726dbdb8c2eb6ac"/>
-		<rom name="Battle Frenzy (USA) (Unl) (Track 14).bin" size="3278688" crc="63d16ced" md5="409451dc0c94d72e395cd4734a94f33a" sha1="513c2f74b3dd1d39dccf8a12c23bd4e31432740b"/>
-		<rom name="Battle Frenzy (USA) (Unl) (Track 15).bin" size="5752992" crc="3cb5a40b" md5="ab8ce656f233fa540ad8caf10953e2ce" sha1="1211a64f87fd6c6ae38e92238311c82d5e3dd2f4"/>
-		<rom name="Battle Frenzy (USA) (Unl) (Track 16).bin" size="59896032" crc="ad080b99" md5="ca97f4877af2728f49ba479479f30c24" sha1="1316833bfd6590a068853593e1a314539ebd8d2d"/>
-		<rom name="Battle Frenzy (USA) (Unl) (Track 17).bin" size="64651776" crc="93b99170" md5="1ef592597136f52bada3858ef33900ef" sha1="8551edc4f547b40de1aa5965bc01a423871c897e"/>
-		<url>https://retroachievements.org/game/33773/hashes</url>
-		<hash>38bb5e72eb5225d645ad8353c357bef6</hash>
 	</game>
 	
 	<game name="Bouncers (USA)">

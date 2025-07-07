@@ -5,8 +5,8 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>No Subfolders</category>
-		<version>20250702</version>
-		<date>02 July 2025</date>
+		<version>20250705</version>
+		<date>05 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/2/games</url>
@@ -4447,14 +4447,6 @@
 		<rom name="Bomberman Hero (USA).z64" size="12582912" crc="2cc2e634" md5="ef2453bff7ad0c4bfa9ab0bd6324ebf3" sha1="a36364b7e59351f7551ab351cb3b41ebc4be285b"/>
 		<url>https://retroachievements.org/game/10285/hashes</url>
 		<hash>EF2453BFF7AD0C4BFA9AB0BD6324EBF3</hash>
-	</game>
-	<game name="Bomberman Hero (Europe)">
-		<category>Retail</category>
-		<description>Bomberman Hero (Europe)</description>
-		<release name="Bomberman Hero (Europe)" region="Europe"/>
-		<rom name="Bomberman Hero (Europe).z64" size="12582912" crc="59e39947" md5="f79ef0813157880ffbad6199e07579be" sha1="ba1e6a4cc323a83d7c14573c9128ab9f9b60e5f2"/>
-		<url>https://retroachievements.org/game/10285/hashes</url>
-		<hash>f79ef0813157880ffbad6199e07579be</hash>
 	</game>
 	
 	<game name="Buck Bumble (USA)">

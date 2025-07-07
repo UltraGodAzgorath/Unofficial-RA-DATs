@@ -5,29 +5,29 @@
 		<name>RA - SNK Neo Geo CD</name>
 		<description>SNK Neo Geo CD</description>
 		<category>No Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250706</version>
+		<date>06 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/56/games</url>
 		<titlecount>36</titlecount>
 		<hashcount>39/44</hashcount>
 	</header>
-	<game name="Last Hope (Germany) (Unl)">
+	<game name="Last Hope (Germany) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Last Hope (Germany) (Unl)</description>
-		<release name="Last Hope (Germany) (Unl)" region="Germany"/>
-		<rom name="Last Hope (Germany) (Unl).cue" size="1292" crc="a8c7b74a" md5="795f9fdc4c82bc8220ebba966d1d10ee" sha1="2135743af836f9cd5d7f5640e1a7bcb10f687b00"/>
-		<rom name="Last Hope (Germany) (Unl) (Track 01).bin" size="15102192" crc="29a98350" md5="159d6e17106f6491e15404c95ed37e66" sha1="53c4f93bef464ab2f17650e91fc4af17818a8174"/>
-		<rom name="Last Hope (Germany) (Unl) (Track 02).bin" size="20732880" crc="02f2040b" md5="96b2de3df77a4b89614185b2065e78ed" sha1="42797cf85c5557a018933d458fec187d1e06c8c0"/>
-		<rom name="Last Hope (Germany) (Unl) (Track 03).bin" size="33466608" crc="26374459" md5="921dfe744abfe50595d5da37115cef71" sha1="ac7cdf1158fc7cd93321e584680c3d73328070b9"/>
-		<rom name="Last Hope (Germany) (Unl) (Track 04).bin" size="28687344" crc="5b0a520d" md5="0893f671742c14df15309080bc0a4400" sha1="ec288bb3169f8c1c8eecd52a970a741034be789c"/>
-		<rom name="Last Hope (Germany) (Unl) (Track 05).bin" size="26549376" crc="33e1c5e7" md5="ac53f0574507798b800e11a707b49b8c" sha1="a3101fe15a418b0494f88ca9efbcf9bb41ea7d80"/>
-		<rom name="Last Hope (Germany) (Unl) (Track 06).bin" size="34604976" crc="4bc4d79a" md5="9ed9e016d056d1898972ba2cb37dc818" sha1="203d5d59632d4d36d49c6176eecd97dcb9146f01"/>
-		<rom name="Last Hope (Germany) (Unl) (Track 07).bin" size="27718320" crc="9235e005" md5="214a5493002608179937422b5c2a9fb9" sha1="0974cb51bede42cca4c06be8812658b788c910c5"/>
-		<rom name="Last Hope (Germany) (Unl) (Track 08).bin" size="25968432" crc="77d14bdd" md5="13471ca2ef51766e303d5d1cb7a9c49f" sha1="c7ee99f9dfc4056ffb33c38da446fc799498320c"/>
-		<rom name="Last Hope (Germany) (Unl) (Track 09).bin" size="27066816" crc="d871da8f" md5="65da183518bce4879ec754c19c23b93a" sha1="c542b5e65afcb1057af78fbd35254fad38ea6c83"/>
-		<rom name="Last Hope (Germany) (Unl) (Track 10).bin" size="13942656" crc="7123c514" md5="c1188edf9c60f4ecbd0f4483d84e1b0d" sha1="4a12213f3c912793cb5f9b10d0fcbc6ee64e3fa4"/>
+		<description>Last Hope (Germany) (Aftermarket)</description>
+		<release name="Last Hope (Germany) (Aftermarket)" region="Germany"/>
+		<rom name="Last Hope (Germany) (Aftermarket).cue" size="1262" crc="88a82990" md5="07519cbbe6426a9fb309af2db7b6b522" sha1="4baf0e0a234b34f2ece50912ca81476df230b248"/>
+		<rom name="Last Hope (Germany) (Aftermarket) (Track 01).bin" size="15102192" crc="29a98350" md5="159d6e17106f6491e15404c95ed37e66" sha1="53c4f93bef464ab2f17650e91fc4af17818a8174"/>
+		<rom name="Last Hope (Germany) (Aftermarket) (Track 02).bin" size="20732880" crc="02f2040b" md5="96b2de3df77a4b89614185b2065e78ed" sha1="42797cf85c5557a018933d458fec187d1e06c8c0"/>
+		<rom name="Last Hope (Germany) (Aftermarket) (Track 03).bin" size="33466608" crc="26374459" md5="921dfe744abfe50595d5da37115cef71" sha1="ac7cdf1158fc7cd93321e584680c3d73328070b9"/>
+		<rom name="Last Hope (Germany) (Aftermarket) (Track 04).bin" size="28687344" crc="5b0a520d" md5="0893f671742c14df15309080bc0a4400" sha1="ec288bb3169f8c1c8eecd52a970a741034be789c"/>
+		<rom name="Last Hope (Germany) (Aftermarket) (Track 05).bin" size="26549376" crc="33e1c5e7" md5="ac53f0574507798b800e11a707b49b8c" sha1="a3101fe15a418b0494f88ca9efbcf9bb41ea7d80"/>
+		<rom name="Last Hope (Germany) (Aftermarket) (Track 06).bin" size="34604976" crc="4bc4d79a" md5="9ed9e016d056d1898972ba2cb37dc818" sha1="203d5d59632d4d36d49c6176eecd97dcb9146f01"/>
+		<rom name="Last Hope (Germany) (Aftermarket) (Track 07).bin" size="27718320" crc="9235e005" md5="214a5493002608179937422b5c2a9fb9" sha1="0974cb51bede42cca4c06be8812658b788c910c5"/>
+		<rom name="Last Hope (Germany) (Aftermarket) (Track 08).bin" size="25968432" crc="77d14bdd" md5="13471ca2ef51766e303d5d1cb7a9c49f" sha1="c7ee99f9dfc4056ffb33c38da446fc799498320c"/>
+		<rom name="Last Hope (Germany) (Aftermarket) (Track 09).bin" size="27066816" crc="d871da8f" md5="65da183518bce4879ec754c19c23b93a" sha1="c542b5e65afcb1057af78fbd35254fad38ea6c83"/>
+		<rom name="Last Hope (Germany) (Aftermarket) (Track 10).bin" size="13942656" crc="7123c514" md5="c1188edf9c60f4ecbd0f4483d84e1b0d" sha1="4a12213f3c912793cb5f9b10d0fcbc6ee64e3fa4"/>
 		<url>https://retroachievements.org/game/23851/hashes</url>
 		<hash>2c60bac28fb31d6a1347e60e880867d6</hash>
 	</game>
@@ -68,65 +68,65 @@
 		<hash>fafac288db61100b8ce57086d3b5a6ab</hash>
 	</game>
 	
-	<game name="Xeno Crisis (World) (Unl)">
+	<game name="Xeno Crisis (World) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Xeno Crisis (World) (Unl)</description>
-		<release name="Xeno Crisis (World) (Unl)" region="World"/>
-		<rom name="Xeno Crisis (World) (Unl).cue" size="5883" crc="5683a7df" md5="f2678f2c08469f94b66f5acaa9146592" sha1="bcb6c920ee35f7e863f6488347d8f94f72b62393"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 01).bin" size="8069712" crc="97db440b" md5="c2c501cd243c8c6100acc73afcdc062e" sha1="11c58e0271e88e92c100211b512bd03c88a0818c"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 02).bin" size="3083472" crc="1694009d" md5="485021d22840e55ed3f8725bd5e6e87a" sha1="570914f1f9aa2b7c58ef9e988b3c619cc428336d"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 03).bin" size="7399392" crc="fa71c92c" md5="95f9641d167d2cf946806f1e84d259a5" sha1="6f55998ecb7b0c04aeabc83d4d9f739464638d3c"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 04).bin" size="3528000" crc="179817a2" md5="d48bd05daa724f589d3cc2f21b2029ee" sha1="8e4ab6e78029b86194992dccdca09051a4dd6537"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 05).bin" size="7056000" crc="6a96c17d" md5="7679557194b1eac62bb78bd2708e2d82" sha1="59beff874ade95fdc8180e9880029bf4ed69e544"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 06).bin" size="6174000" crc="7d6012ae" md5="186b901659ba1c30074b1de5437b5c65" sha1="ac13b0bdcba4954aab6496b9428b100b566cab76"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 07).bin" size="7399392" crc="a1c7c600" md5="5c56cf8502a9b083ac46516abbe0e5cf" sha1="ac59583304b7c199fbaca8253b605630c35afb31"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 08).bin" size="3528000" crc="c5962c03" md5="9a92eed6c5c43d185e714c969bd1ec81" sha1="793be2843501fbcbb9c084951db329e2d66ee534"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 09).bin" size="7056000" crc="de38ce0d" md5="7364c01b880fd50bd74e6fe241e4eeab" sha1="e7c1e38f36b3b05b21bd1bf58b6078dcc0a21ca4"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 10).bin" size="6174000" crc="71121c1f" md5="8992165aaf352d3b8a02f905311f7b82" sha1="c6a86c312ccfb41f63bbefbe2856dff60b102a37"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 11).bin" size="7592256" crc="41dd641b" md5="b2a2dc1a1eec576ac6b51fe9459135f0" sha1="7f686140d7f5c312579ab521a7a1ccaa51f198b6"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 12).bin" size="42260736" crc="083103c2" md5="39a8e6bf3beb11650ff72c8924a92179" sha1="411d520219015638072a10a61d8049d88ae36845"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 13).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 14).bin" size="2730672" crc="40afe1e3" md5="e3c2ff62661ceca9fce033e0cf6a368f" sha1="1a0b82f50aee0ccd46668cdd0f86b3c9a317a88f"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 15).bin" size="23284800" crc="3f4f6a12" md5="e6daded539a9937a47fbb71038c18514" sha1="fc472301783a4c4e49b6d47b5126f3d53047cb56"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 16).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 17).bin" size="3043488" crc="7337edaf" md5="6bd57f5ee33b2fa5f435608ea364795b" sha1="d6188c3ebf0a8647b5849f83ab21c0d778385611"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 18).bin" size="48592320" crc="02234c91" md5="0b43de7920587a988bc136d8f7e29dcb" sha1="e3d4479138fcab367e0f5f835edf26ad5502b4f3"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 19).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 20).bin" size="2730672" crc="40afe1e3" md5="e3c2ff62661ceca9fce033e0cf6a368f" sha1="1a0b82f50aee0ccd46668cdd0f86b3c9a317a88f"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 21).bin" size="22061760" crc="686ade16" md5="d76137e9317798e3323ec00b5e5a6d37" sha1="48087df9476ef9ce88b50a4dd5d722faa34a95be"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 22).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 23).bin" size="3043488" crc="7337edaf" md5="6bd57f5ee33b2fa5f435608ea364795b" sha1="d6188c3ebf0a8647b5849f83ab21c0d778385611"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 24).bin" size="48357120" crc="5f414b58" md5="69b04e6e95714d05cb9c2569b3123b42" sha1="71df9fc10af96ba2d5e09f1419dc08548b507652"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 25).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 26).bin" size="3043488" crc="7337edaf" md5="6bd57f5ee33b2fa5f435608ea364795b" sha1="d6188c3ebf0a8647b5849f83ab21c0d778385611"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 27).bin" size="49900032" crc="0c89bee3" md5="9d50d15e711f699f8060a26c50e01b5c" sha1="c3ed30cfc74a8b7765473926deaed26cb07f5b9e"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 28).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 29).bin" size="2730672" crc="40afe1e3" md5="e3c2ff62661ceca9fce033e0cf6a368f" sha1="1a0b82f50aee0ccd46668cdd0f86b3c9a317a88f"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 30).bin" size="25768512" crc="56d0a9b1" md5="e5a17104cbbdb517728cb6b7e8f227ff" sha1="7ab0f02c8341951b4bc25cc5aed6209847f5229c"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 31).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 32).bin" size="3043488" crc="7337edaf" md5="6bd57f5ee33b2fa5f435608ea364795b" sha1="d6188c3ebf0a8647b5849f83ab21c0d778385611"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 33).bin" size="46127424" crc="64f18280" md5="9bf931b72eeee95ed19b6aa684c0ba77" sha1="349439c294c76aff669433d13539636968d653eb"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 34).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 35).bin" size="2730672" crc="40afe1e3" md5="e3c2ff62661ceca9fce033e0cf6a368f" sha1="1a0b82f50aee0ccd46668cdd0f86b3c9a317a88f"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 36).bin" size="23284800" crc="3f4f6a12" md5="e6daded539a9937a47fbb71038c18514" sha1="fc472301783a4c4e49b6d47b5126f3d53047cb56"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 37).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 38).bin" size="3043488" crc="7337edaf" md5="6bd57f5ee33b2fa5f435608ea364795b" sha1="d6188c3ebf0a8647b5849f83ab21c0d778385611"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 39).bin" size="48724032" crc="a3b1f818" md5="3eeafe1e97b036d5fe832b77278d30de" sha1="199ac661c2267d711a1e450819d8e4b423e4c8af"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 40).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 41).bin" size="2730672" crc="40afe1e3" md5="e3c2ff62661ceca9fce033e0cf6a368f" sha1="1a0b82f50aee0ccd46668cdd0f86b3c9a317a88f"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 42).bin" size="22061760" crc="686ade16" md5="d76137e9317798e3323ec00b5e5a6d37" sha1="48087df9476ef9ce88b50a4dd5d722faa34a95be"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 43).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 44).bin" size="3043488" crc="7337edaf" md5="6bd57f5ee33b2fa5f435608ea364795b" sha1="d6188c3ebf0a8647b5849f83ab21c0d778385611"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 45).bin" size="51913344" crc="9f7024e8" md5="f00656b4922ffeb89458b2ba708d91d4" sha1="048fa8d775738577c7aa9fbc5c1cb1ac9e4c2de5"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 46).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 47).bin" size="2730672" crc="40afe1e3" md5="e3c2ff62661ceca9fce033e0cf6a368f" sha1="1a0b82f50aee0ccd46668cdd0f86b3c9a317a88f"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 48).bin" size="27838272" crc="08eb88b6" md5="59dd2ab2b1912c8e108d7fa0b073154c" sha1="6ca58cd8fb788fcf36e8c2710af0805ff11b9635"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 49).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 50).bin" size="3043488" crc="7337edaf" md5="6bd57f5ee33b2fa5f435608ea364795b" sha1="d6188c3ebf0a8647b5849f83ab21c0d778385611"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 51).bin" size="26803392" crc="218c57aa" md5="0f70ddb3a22c42f68c2f92976e7f5bbe" sha1="69d6d4b415e4dbcb9259c888266221c3aa2bff35"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 52).bin" size="22964928" crc="120f4e15" md5="ffc93431e317e78a67716f37d6038eac" sha1="cd25cd94f821d791b234ad3f33e11d9eac887962"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 53).bin" size="24677184" crc="ec35f233" md5="615c9a01c2a371bd7a8250ca84577633" sha1="62d136023acf3caa0eb440ba4d0f5680a5b05702"/>
-		<rom name="Xeno Crisis (World) (Unl) (Track 54).bin" size="22762656" crc="f0514f38" md5="457fe461ae16b7c7290393b26a611a4c" sha1="802710df8e5edf083849b543edfe17bc8d6d2a64"/>
+		<description>Xeno Crisis (World) (Aftermarket)</description>
+		<release name="Xeno Crisis (World) (Aftermarket)" region="World"/>
+		<rom name="Xeno Crisis (World) (Aftermarket).cue" size="5721" crc="1052fb72" md5="477be6564e22e6941449503239cff119" sha1="7ecc4e970c25281e8b92ea31ff983bc0b031229c"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 01).bin" size="8069712" crc="97db440b" md5="c2c501cd243c8c6100acc73afcdc062e" sha1="11c58e0271e88e92c100211b512bd03c88a0818c"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 02).bin" size="3083472" crc="1694009d" md5="485021d22840e55ed3f8725bd5e6e87a" sha1="570914f1f9aa2b7c58ef9e988b3c619cc428336d"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 03).bin" size="7399392" crc="fa71c92c" md5="95f9641d167d2cf946806f1e84d259a5" sha1="6f55998ecb7b0c04aeabc83d4d9f739464638d3c"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 04).bin" size="3528000" crc="179817a2" md5="d48bd05daa724f589d3cc2f21b2029ee" sha1="8e4ab6e78029b86194992dccdca09051a4dd6537"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 05).bin" size="7056000" crc="6a96c17d" md5="7679557194b1eac62bb78bd2708e2d82" sha1="59beff874ade95fdc8180e9880029bf4ed69e544"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 06).bin" size="6174000" crc="7d6012ae" md5="186b901659ba1c30074b1de5437b5c65" sha1="ac13b0bdcba4954aab6496b9428b100b566cab76"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 07).bin" size="7399392" crc="a1c7c600" md5="5c56cf8502a9b083ac46516abbe0e5cf" sha1="ac59583304b7c199fbaca8253b605630c35afb31"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 08).bin" size="3528000" crc="c5962c03" md5="9a92eed6c5c43d185e714c969bd1ec81" sha1="793be2843501fbcbb9c084951db329e2d66ee534"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 09).bin" size="7056000" crc="de38ce0d" md5="7364c01b880fd50bd74e6fe241e4eeab" sha1="e7c1e38f36b3b05b21bd1bf58b6078dcc0a21ca4"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 10).bin" size="6174000" crc="71121c1f" md5="8992165aaf352d3b8a02f905311f7b82" sha1="c6a86c312ccfb41f63bbefbe2856dff60b102a37"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 11).bin" size="7592256" crc="41dd641b" md5="b2a2dc1a1eec576ac6b51fe9459135f0" sha1="7f686140d7f5c312579ab521a7a1ccaa51f198b6"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 12).bin" size="42260736" crc="083103c2" md5="39a8e6bf3beb11650ff72c8924a92179" sha1="411d520219015638072a10a61d8049d88ae36845"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 13).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 14).bin" size="2730672" crc="40afe1e3" md5="e3c2ff62661ceca9fce033e0cf6a368f" sha1="1a0b82f50aee0ccd46668cdd0f86b3c9a317a88f"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 15).bin" size="23284800" crc="3f4f6a12" md5="e6daded539a9937a47fbb71038c18514" sha1="fc472301783a4c4e49b6d47b5126f3d53047cb56"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 16).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 17).bin" size="3043488" crc="7337edaf" md5="6bd57f5ee33b2fa5f435608ea364795b" sha1="d6188c3ebf0a8647b5849f83ab21c0d778385611"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 18).bin" size="48592320" crc="02234c91" md5="0b43de7920587a988bc136d8f7e29dcb" sha1="e3d4479138fcab367e0f5f835edf26ad5502b4f3"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 19).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 20).bin" size="2730672" crc="40afe1e3" md5="e3c2ff62661ceca9fce033e0cf6a368f" sha1="1a0b82f50aee0ccd46668cdd0f86b3c9a317a88f"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 21).bin" size="22061760" crc="686ade16" md5="d76137e9317798e3323ec00b5e5a6d37" sha1="48087df9476ef9ce88b50a4dd5d722faa34a95be"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 22).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 23).bin" size="3043488" crc="7337edaf" md5="6bd57f5ee33b2fa5f435608ea364795b" sha1="d6188c3ebf0a8647b5849f83ab21c0d778385611"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 24).bin" size="48357120" crc="5f414b58" md5="69b04e6e95714d05cb9c2569b3123b42" sha1="71df9fc10af96ba2d5e09f1419dc08548b507652"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 25).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 26).bin" size="3043488" crc="7337edaf" md5="6bd57f5ee33b2fa5f435608ea364795b" sha1="d6188c3ebf0a8647b5849f83ab21c0d778385611"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 27).bin" size="49900032" crc="0c89bee3" md5="9d50d15e711f699f8060a26c50e01b5c" sha1="c3ed30cfc74a8b7765473926deaed26cb07f5b9e"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 28).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 29).bin" size="2730672" crc="40afe1e3" md5="e3c2ff62661ceca9fce033e0cf6a368f" sha1="1a0b82f50aee0ccd46668cdd0f86b3c9a317a88f"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 30).bin" size="25768512" crc="56d0a9b1" md5="e5a17104cbbdb517728cb6b7e8f227ff" sha1="7ab0f02c8341951b4bc25cc5aed6209847f5229c"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 31).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 32).bin" size="3043488" crc="7337edaf" md5="6bd57f5ee33b2fa5f435608ea364795b" sha1="d6188c3ebf0a8647b5849f83ab21c0d778385611"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 33).bin" size="46127424" crc="64f18280" md5="9bf931b72eeee95ed19b6aa684c0ba77" sha1="349439c294c76aff669433d13539636968d653eb"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 34).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 35).bin" size="2730672" crc="40afe1e3" md5="e3c2ff62661ceca9fce033e0cf6a368f" sha1="1a0b82f50aee0ccd46668cdd0f86b3c9a317a88f"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 36).bin" size="23284800" crc="3f4f6a12" md5="e6daded539a9937a47fbb71038c18514" sha1="fc472301783a4c4e49b6d47b5126f3d53047cb56"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 37).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 38).bin" size="3043488" crc="7337edaf" md5="6bd57f5ee33b2fa5f435608ea364795b" sha1="d6188c3ebf0a8647b5849f83ab21c0d778385611"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 39).bin" size="48724032" crc="a3b1f818" md5="3eeafe1e97b036d5fe832b77278d30de" sha1="199ac661c2267d711a1e450819d8e4b423e4c8af"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 40).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 41).bin" size="2730672" crc="40afe1e3" md5="e3c2ff62661ceca9fce033e0cf6a368f" sha1="1a0b82f50aee0ccd46668cdd0f86b3c9a317a88f"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 42).bin" size="22061760" crc="686ade16" md5="d76137e9317798e3323ec00b5e5a6d37" sha1="48087df9476ef9ce88b50a4dd5d722faa34a95be"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 43).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 44).bin" size="3043488" crc="7337edaf" md5="6bd57f5ee33b2fa5f435608ea364795b" sha1="d6188c3ebf0a8647b5849f83ab21c0d778385611"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 45).bin" size="51913344" crc="9f7024e8" md5="f00656b4922ffeb89458b2ba708d91d4" sha1="048fa8d775738577c7aa9fbc5c1cb1ac9e4c2de5"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 46).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 47).bin" size="2730672" crc="40afe1e3" md5="e3c2ff62661ceca9fce033e0cf6a368f" sha1="1a0b82f50aee0ccd46668cdd0f86b3c9a317a88f"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 48).bin" size="27838272" crc="08eb88b6" md5="59dd2ab2b1912c8e108d7fa0b073154c" sha1="6ca58cd8fb788fcf36e8c2710af0805ff11b9635"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 49).bin" size="3880800" crc="a95a22ff" md5="151c3a6b449c03ab0ce316d5f76ac809" sha1="90e029d6cc7303ac6fca913bec0397145889b6ec"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 50).bin" size="3043488" crc="7337edaf" md5="6bd57f5ee33b2fa5f435608ea364795b" sha1="d6188c3ebf0a8647b5849f83ab21c0d778385611"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 51).bin" size="26803392" crc="218c57aa" md5="0f70ddb3a22c42f68c2f92976e7f5bbe" sha1="69d6d4b415e4dbcb9259c888266221c3aa2bff35"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 52).bin" size="22964928" crc="120f4e15" md5="ffc93431e317e78a67716f37d6038eac" sha1="cd25cd94f821d791b234ad3f33e11d9eac887962"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 53).bin" size="24677184" crc="ec35f233" md5="615c9a01c2a371bd7a8250ca84577633" sha1="62d136023acf3caa0eb440ba4d0f5680a5b05702"/>
+		<rom name="Xeno Crisis (World) (Aftermarket) (Track 54).bin" size="22762656" crc="f0514f38" md5="457fe461ae16b7c7290393b26a611a4c" sha1="802710df8e5edf083849b543edfe17bc8d6d2a64"/>
 		<url>https://retroachievements.org/game/23888/hashes</url>
 		<hash>1d232e073b335d96cfef64bad118065c</hash>
 	</game>
