@@ -5,8 +5,8 @@
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
 		<category>No Subfolders</category>
-		<version>20250630</version>
-		<date>30 June 2025</date>
+		<version>20250707</version>
+		<date>07 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/16/games</url>
@@ -186,7 +186,7 @@
 		<category>Homebrew</category>
 		<description>Xeno Crisis (World) (Aftermarket)</description>
 		<release name="Xeno Crisis (World) (Aftermarket)" region="World"/>
-		<rom name="Xeno Crisis (World) (Aftermarket).rvz" size="10467764" crc="5fc30630" md5="f34351cb4beab1f4b0200e64d73c3710" sha1="661b8cd58dde4d0b6885abd469300a4a700a3256"/>
+		<rom name="Xeno Crisis (World) (Aftermarket).rvz" size="10388676" crc="3b17e0cd" sha1="594c68acf50db7db708e47d916dfc5b69e1618ad" md5="2d12f14c4033944d8d2277774826bb35"/>
 		<url>https://retroachievements.org/game/28378/hashes</url>
 		<hash>E8C02AAF4EFFF2F901B15E8D97378F76</hash>
 	</game>
@@ -1797,42 +1797,42 @@
 	<game name="Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement) (60FPS)" cloneof="Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement Plus) (60FPS)">
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement) (60FPS)</description>
-		<rom name="Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement) (60FPS).rvz" size="1058955772" crc="860dc56d" md5="b455a7042e7a984c7cb1b04eec409524" sha1="44b34e6a9a7d5148601a900f3c2e037435329697"/>
+		<rom name="Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement) (60FPS).rvz" size="1049898712" crc="e39fc174" sha1="7f077da1251de311eba7bdc72564d4982ddd91a1" md5="d87955423931b97c91485f73c23a235f"/>
 		<url>https://retroachievements.org/game/28562/hashes</url>
 		<hash>4A89D7099E1CC17A3D50748772319014</hash>
 	</game>
 	<game name="Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement) (30FPS)" cloneof="Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement Plus) (60FPS)">
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement) (30FPS)</description>
-		<rom name="Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement) (30FPS).rvz" size="1058955748" crc="bb825fdb" md5="bb0d06858aee5a4ad9d57239d1f0fd7c" sha1="a1a1c78f385e3772dc8e936a31e83e2feb55627f"/>
+		<rom name="Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement) (30FPS).rvz" size="1049898708" crc="9ec0bba3" sha1="00c65e252cac09d503291621956189096a3d74d0" md5="07fbc07c079041a715392e13ee0b58b5"/>
 		<url>https://retroachievements.org/game/28562/hashes</url>
 		<hash>10742368D458E826A16446D4E77DE4F9</hash>
 	</game>
 	<game name="Super Mario Sunshine (Subset - Bonus) (Europe)" cloneof="Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement Plus) (60FPS)">
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Bonus) (Europe)</description>
-		<rom name="Super Mario Sunshine (Subset - Bonus) (Europe).rvz" size="1063742120" crc="db33feec" md5="896fc47f713e8a3feb86bcd6c99c0d6d" sha1="3884f270a6977e1015d9898d4ece9586217f0ffe"/>
+		<rom name="Super Mario Sunshine (Subset - Bonus) (Europe).rvz" size="1054416624" crc="4d4d5919" sha1="6cebcad7aa7db55ea0e655af537d282b8ec5e365" md5="5ad07a8d1f88b500db040cf7b5760d4b"/>
 		<url>https://retroachievements.org/game/28562/hashes</url>
 		<hash>4C53F0FCD645688F936B9EFD2D13E24B</hash>
 	</game>
 	<game name="Super Mario Sunshine (Subset - Bonus) (Europe) (QoL Enhancement) (30FPS)" cloneof="Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement Plus) (60FPS)">
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Bonus) (Europe) (QoL Enhancement) (30FPS)</description>
-		<rom name="Super Mario Sunshine (Subset - Bonus) (Europe) (QoL Enhancement) (30FPS).rvz" size="1063077612" crc="65ddcd8f" md5="e90d75d73ef72832046c2e6ed294e100" sha1="591aa2db2c364e248d0752c5211274f9e253bede"/>
+		<rom name="Super Mario Sunshine (Subset - Bonus) (Europe) (QoL Enhancement) (30FPS).rvz" size="1053789716" crc="0a28e149" sha1="a10a69f4349a44eaf7bbfa38f5dce1087c8430ba" md5="2534ea37a656e2f6bb60c9d7839d5749"/>
 		<url>https://retroachievements.org/game/28562/hashes</url>
 		<hash>0839C0B276E493D4A7A66EF1B3B808D7</hash>
 	</game>
 	<game name="Super Mario Sunshine (Subset - Bonus) (Europe) (QoL Enhancement) (60FPS)" cloneof="Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement Plus) (60FPS)">
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Bonus) (Europe) (QoL Enhancement) (60FPS)</description>
-		<rom name="Super Mario Sunshine (Subset - Bonus) (Europe) (QoL Enhancement) (60FPS).rvz" size="1063077636" crc="209af6af" md5="46b9d32819aacfa7584661c514f8998c" sha1="a4491ae6d20ae0f79d473aa0507233f5719f9c7e"/>
+		<rom name="Super Mario Sunshine (Subset - Bonus) (Europe) (QoL Enhancement) (60FPS).rvz" size="1053789780" crc="4ace3278" sha1="61e80fe54f8ffa265cf9472d7184aa11df147f98" md5="80827bd9b5e5123c627f067cdc17a84a"/>
 		<url>https://retroachievements.org/game/28562/hashes</url>
 		<hash>BB26111FDF21BE171C764B66CD0850FD</hash>
 	</game>
 	<game name="Super Mario Sunshine (Subset - Bonus) (USA)" cloneof="Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement Plus) (60FPS)">
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Bonus) (USA)</description>
-		<rom name="Super Mario Sunshine (Subset - Bonus) (USA).rvz" size="1059921236" crc="1e6b8fcc" md5="49a0c390544a2c2db5732cefc25d0be1" sha1="80af24c2dfd7f449ab2eb038046701fc09579eb8"/>
+		<rom name="Super Mario Sunshine (Subset - Bonus) (USA).rvz" size="1050830448" crc="869507fe" sha1="842931596426eaa61b91da9f80ee25aaa5d80721" md5="664f37b0a237690f3e88b4d3d6f36e60"/>
 		<url>https://retroachievements.org/game/28562/hashes</url>
 		<hash>0DB6F2C10205F7D859E23D90068F18BB</hash>
 	</game>
@@ -1840,7 +1840,7 @@
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Bonus) (Japan) (Rev 1)</description>
 		<release name="Super Mario Sunshine (Subset - Bonus) (Japan) (Rev 1)" region="Japan"/>
-		<rom name="Super Mario Sunshine (Subset - Bonus) (Japan) (Rev 1).rvz" size="1061514692" crc="f1dda655" md5="b6373a80f39d852fed114313a9301a27" sha1="5f53acc6b68bf630c28ea2a3107d25ac80bc2bc4"/>
+		<rom name="Super Mario Sunshine (Subset - Bonus) (Japan) (Rev 1).rvz" size="1052321788" crc="f66eaf7b" sha1="aa5491ba0dbacf5db3ac982b0bf251ea6fc74d11" md5="141a92262c20324b8aa160b47830e0b2"/>
 		<url>https://retroachievements.org/game/28562/hashes</url>
 		<hash>C58BC3359DB959900673EE7A0A86046D</hash>
 	</game>
@@ -1848,14 +1848,14 @@
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Bonus) (Korea)</description>
 		<release name="Super Mario Sunshine (Subset - Bonus) (Korea)" region="Korea"/>
-		<rom name="Super Mario Sunshine (Subset - Bonus) (Korea).rvz" size="1060824872" crc="76bf5bad" md5="c5caf4bf4bed8bb8745704dd632d8633" sha1="ee0b78631d47f11cc31a998fa79f50bf67e96bb1"/>
+		<rom name="Super Mario Sunshine (Subset - Bonus) (Korea).rvz" size="1051562536" crc="35264ece" sha1="4a9f1b506079300d2e145f0d4ff488a5a79b4f31" md5="ac440cfaedee278f5a61a9de522c3a7b"/>
 		<url>https://retroachievements.org/game/28562/hashes</url>
 		<hash>B10F027041A58B344FBAC556EA91D48F</hash>
 	</game>
 	<game name="Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement Plus) (30FPS)" cloneof="Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement Plus) (60FPS)">
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement Plus) (30FPS)</description>
-		<rom name="Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement Plus) (30FPS).rvz" size="1058956428" crc="c10a3bc8" md5="abe2089d26b2dbb7b70099955ff497dd" sha1="98f88402823a88d34062be755ab030e0b7920ce2"/>
+		<rom name="Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement Plus) (30FPS).rvz" size="1049899412" crc="3fe8c995" sha1="82df0b25a4e58057bbb2b9d77ac38d8e2ba0533c" md5="80c4f1cc901cf7fd084d5321260f7259"/>
 		<url>https://retroachievements.org/game/28562/hashes</url>
 		<hash>81B87DD4587EB640024C353E3845E53C</hash>
 	</game>
@@ -1863,14 +1863,14 @@
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement Plus) (60FPS)</description>
 		<release name="Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement Plus) (60FPS)" region="USA"/>
-		<rom name="Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement Plus) (60FPS).rvz" size="1058956448" crc="71201aef" md5="d5da079e4a287dcc866d4f38b916c1e6" sha1="02270b3e373ebdc5c88aa7cccd909b5abb603018"/>
+		<rom name="Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement Plus) (60FPS).rvz" size="1049899432" crc="642009a9" sha1="aa4c9d6939c33aa0b9a44a6ebdf437283fadf522" md5="df819f2302f0d944bb0442294e88e679"/>
 		<url>https://retroachievements.org/game/28562/hashes</url>
 		<hash>DC3C6CCC67240D070AF4ADA07EFDD6E8</hash>
 	</game>
 	<game name="Super Mario Sunshine (Subset - Bonus) (Europe) (QoL Enhancement Plus) (30FPS)" cloneof="Super Mario Sunshine (Subset - Bonus) (USA) (QoL Enhancement Plus) (60FPS)">
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Bonus) (Europe) (QoL Enhancement Plus) (30FPS)</description>
-		<rom name="Super Mario Sunshine (Subset - Bonus) (Europe) (QoL Enhancement Plus) (30FPS).rvz" size="1063160500" crc="961f79c6" md5="47fb69d18b0167bdbfd5b86ee862d9e7" sha1="5574935fa2226067d71c87cab7fa8f0f7e16c985"/>
+		<rom name="Super Mario Sunshine (Subset - Bonus) (Europe) (QoL Enhancement Plus) (30FPS).rvz" size="1053896428" crc="ba58326a" sha1="b12c376f82a9aed7a1cb528e4236757ab2496854" md5="3e4e5c78a9ed8c66bdadad8e8a30afff"/>
 		<url>https://retroachievements.org/game/28562/hashes</url>
 		<hash>4B1AD6E34EBDFC2EB2E6CC10E18006CF</hash>
 	</game>
@@ -1878,7 +1878,7 @@
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Bonus) (Europe) (QoL Enhancement Plus) (60FPS)</description>
 		<release name="Super Mario Sunshine (Subset - Bonus) (Europe) (QoL Enhancement Plus) (60FPS)" region="Europe"/>
-		<rom name="Super Mario Sunshine (Subset - Bonus) (Europe) (QoL Enhancement Plus) (60FPS).rvz" size="1063160532" crc="a2ce4262" md5="56a48bf902a21442fcc018e0a232a21c" sha1="06e0795bcce2c6e8166859e6b6559cd84edeaae2"/>
+		<rom name="Super Mario Sunshine (Subset - Bonus) (Europe) (QoL Enhancement Plus) (60FPS).rvz" size="1053896448" crc="df9dbb88" sha1="04e27b8f7ff8277a6d7b9d4292c9b1da22b547d1" md5="b7beab156a88a441be19cb4ba628238b"/>
 		<url>https://retroachievements.org/game/28562/hashes</url>
 		<hash>BD4F5C0CCBF949C0A97AB70A7E757823</hash>
 	</game>
@@ -1886,7 +1886,7 @@
 	<game name="Super Mario Sunshine (Subset - Coin Collector) (Europe)" cloneof="Super Mario Sunshine (Subset - Coin Collector) (USA) (QoL Enhancement) (60FPS)">
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Coin Collector) (Europe)</description>
-		<rom name="Super Mario Sunshine (Subset - Coin Collector) (Europe).rvz" size="1063742124" crc="280d2fd1" md5="f2b1370af36c822c8a8ac75b15b7792d" sha1="5bed946bcd6656012dd1dd3c2d0c70b1f13838dd"/>
+		<rom name="Super Mario Sunshine (Subset - Coin Collector) (Europe).rvz" size="1054416640" crc="ddda8592" sha1="9281c71fef8830fd0f89cb1d44d1c02d569813b7" md5="9afcb11c20c719a7d049909b9b450a4b"/>
 		<url>https://retroachievements.org/game/28657/hashes</url>
 		<hash>53F8809324952E69B3EC46D0670CBB1B</hash>
 	</game>
@@ -1894,7 +1894,7 @@
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Coin Collector) (Europe) (QoL Enhancement) (60FPS)</description>
 		<release name="Super Mario Sunshine (Subset - Coin Collector) (Europe) (QoL Enhancement) (60FPS)" region="Europe"/>
-		<rom name="Super Mario Sunshine (Subset - Coin Collector) (Europe) (QoL Enhancement) (60FPS).rvz" size="1063077644" crc="979559c0" md5="b65abfbac431dd38e522640b2637a8a7" sha1="27ab11080e32f216cda9b78396fdf173615eae37"/>
+		<rom name="Super Mario Sunshine (Subset - Coin Collector) (Europe) (QoL Enhancement) (60FPS).rvz" size="1053789796" crc="49b8f6c5" sha1="26c19a7bac616670080bbb052e02bd08b5256304" md5="f21f1ac2a129b669525cfa2cab343b87"/>
 		<url>https://retroachievements.org/game/28657/hashes</url>
 		<hash>0B0325A93D99C7E849CCB3C9DB4BADF7</hash>
 	</game>
@@ -1902,7 +1902,7 @@
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Coin Collector) (Japan) (Rev 1)</description>
 		<release name="Super Mario Sunshine (Subset - Coin Collector) (Japan) (Rev 1)" region="Japan"/>
-		<rom name="Super Mario Sunshine (Subset - Coin Collector) (Japan) (Rev 1).rvz" size="1061514700" crc="6beb3cda" md5="547d66af8145059736e6da2469fe2853" sha1="b5a0c2db35126bb730ec3b0890f7d65279d625e1"/>
+		<rom name="Super Mario Sunshine (Subset - Coin Collector) (Japan) (Rev 1).rvz" size="1052321804" crc="9a0bce21" sha1="eae54e2eebf2195ddd21c7a44ce4edbf47ee7d66" md5="ea9bd3336e0bb7c52884555d548ffb7a"/>
 		<url>https://retroachievements.org/game/28657/hashes</url>
 		<hash>C5F91F8D6CB2E2E18D3D121E49107427</hash>
 	</game>
@@ -1910,14 +1910,14 @@
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Coin Collector) (Korea)</description>
 		<release name="Super Mario Sunshine (Subset - Coin Collector) (Korea)" region="Korea"/>
-		<rom name="Super Mario Sunshine (Subset - Coin Collector) (Korea).rvz" size="1060824880" crc="d4096eb2" md5="67675ecc8fee51d915992dc1e9e62ef2" sha1="3274e125e0a6733918797abbda5e141829bae2e2"/>
+		<rom name="Super Mario Sunshine (Subset - Coin Collector) (Korea).rvz" size="1051562540" crc="f96b02d8" sha1="292c9fdcdbac8fb62ec3baae82cdb617de764e89" md5="a7c4bb451ef0dcb4898574c51fb8d392"/>
 		<url>https://retroachievements.org/game/28657/hashes</url>
 		<hash>6956B9EBDF228FAB556E965994BC79E7</hash>
 	</game>
 	<game name="Super Mario Sunshine (Subset - Coin Collector) (USA)" cloneof="Super Mario Sunshine (Subset - Coin Collector) (USA) (QoL Enhancement) (60FPS)">
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Coin Collector) (USA)</description>
-		<rom name="Super Mario Sunshine (Subset - Coin Collector) (USA).rvz" size="1059921240" crc="bbf24eb9" md5="692a639ed375883315b1182aab4711e8" sha1="39b408ecf6a79c8d04419764286ad7292a85703b"/>
+		<rom name="Super Mario Sunshine (Subset - Coin Collector) (USA).rvz" size="1050830460" crc="8c8cc64d" sha1="567c426def6e92aecdaad65bfbe374011ff3b050" md5="d5a7c168227c9a43e4bce1c7f1637d94"/>
 		<url>https://retroachievements.org/game/28657/hashes</url>
 		<hash>3CC94CA07DE4D8903AD9F612AD38DEBC</hash>
 	</game>
@@ -1925,21 +1925,21 @@
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Coin Collector) (USA) (QoL Enhancement) (60FPS)</description>
 		<release name="Super Mario Sunshine (Subset - Coin Collector) (USA) (QoL Enhancement) (60FPS)" region="USA"/>
-		<rom name="Super Mario Sunshine (Subset - Coin Collector) (USA) (QoL Enhancement) (60FPS).rvz" size="1058955780" crc="2c26ace1" md5="01f34a92e5dc25662bfb09f10bfb2c42" sha1="f11799f35a2301a6e113e62071d69202483b9d09"/>
+		<rom name="Super Mario Sunshine (Subset - Coin Collector) (USA) (QoL Enhancement) (60FPS).rvz" size="1049898720" crc="333d632a" sha1="ac2822b32b6419c7b56723165c29bf20852002ad" md5="b368d50cb8d45d847f4270695a7a26d2"/>
 		<url>https://retroachievements.org/game/28657/hashes</url>
 		<hash>737CCE3AE389983C7CF5A12F20947B68</hash>
 	</game>
 	<game name="Super Mario Sunshine (Subset - Coin Collector) (USA) (QoL Enhancement) (30FPS)" cloneof="Super Mario Sunshine (Subset - Coin Collector) (USA) (QoL Enhancement) (60FPS)">
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Coin Collector) (USA) (QoL Enhancement) (30FPS)</description>
-		<rom name="Super Mario Sunshine (Subset - Coin Collector) (USA) (QoL Enhancement) (30FPS).rvz" size="1058955756" crc="3caacc7c" md5="91da8bcc2a61442997d6319fc7c00be4" sha1="d1b7481b4a2299ddb68c51aca3d3c2fa399063a2"/>
+		<rom name="Super Mario Sunshine (Subset - Coin Collector) (USA) (QoL Enhancement) (30FPS).rvz" size="1049898716" crc="74b1d837" sha1="bfe7cba0b77bc9beb7991c5b480c83a25471617b" md5="2114f5cd5dbea929dcc516631924aa31"/>
 		<url>https://retroachievements.org/game/28657/hashes</url>
 		<hash>517C54DF02AD8AB8BAED0393989CA449</hash>
 	</game>
 	<game name="Super Mario Sunshine (Subset - Coin Collector) (Europe) (QoL Enhancement) (30FPS)" cloneof="Super Mario Sunshine (Subset - Coin Collector) (USA) (QoL Enhancement) (60FPS)">
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Coin Collector) (Europe) (QoL Enhancement) (30FPS)</description>
-		<rom name="Super Mario Sunshine (Subset - Coin Collector) (Europe) (QoL Enhancement) (30FPS).rvz" size="1063077620" crc="e7137af8" md5="7696fc1d1f81662f1eebd569320550f1" sha1="6e7ee6b3f602b218ff0a82d09d891fefb99bce52"/>
+		<rom name="Super Mario Sunshine (Subset - Coin Collector) (Europe) (QoL Enhancement) (30FPS).rvz" size="1053789732" crc="7a779689" sha1="774c6949dea8d5e0ed20efbf2f1a22da2c2a6fb3" md5="e35ce4f9b9ac81a74baa4fa3a31c7403"/>
 		<url>https://retroachievements.org/game/28657/hashes</url>
 		<hash>68C0C40B4E47CD3C8A366A011F0E13A7</hash>
 	</game>
@@ -1947,14 +1947,14 @@
 	<game name="Super Mario Sunshine (Subset - Hoverless) (USA)" cloneof="Super Mario Sunshine (Subset - Hoverless) (USA) (QoL Enhancement) (60FPS)">
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Hoverless) (USA)</description>
-		<rom name="Super Mario Sunshine (Subset - Hoverless) (USA).rvz" size="1058955568" crc="f51defdf" md5="87b2404d61453f0943fa485923efeade" sha1="9b8760cfa7c7ea3e2333c072c8f64cda62139ab9"/>
+		<rom name="Super Mario Sunshine (Subset - Hoverless) (USA).rvz" size="1049898504" crc="5f298818" sha1="3bd4ee2c093615def5c8e0bf8d713d8403261cca" md5="cb29ae84fa328043510be763de578c92"/>
 		<url>https://retroachievements.org/game/28560/hashes</url>
 		<hash>92F8EC610067EAAD914706E6AC587004</hash>
 	</game>
 	<game name="Super Mario Sunshine (Subset - Hoverless) (Europe)" cloneof="Super Mario Sunshine (Subset - Hoverless) (USA) (QoL Enhancement) (60FPS)">
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Hoverless) (Europe)</description>
-		<rom name="Super Mario Sunshine (Subset - Hoverless) (Europe).rvz" size="1063077456" crc="6268a531" md5="50f1ef015dd1ba43496407dbcd72ea23" sha1="785a45ab0182e9013de6a4f5e170e6994834bb9e"/>
+		<rom name="Super Mario Sunshine (Subset - Hoverless) (Europe).rvz" size="1053789528" crc="b328db55" sha1="2b52a0a2ea7e8d00944d7da79dda6abe6c1f7efa" md5="3575edd9b7954267c56b21557380c536"/>
 		<url>https://retroachievements.org/game/28560/hashes</url>
 		<hash>FE49F7857023F3338035F9659EE94770</hash>
 	</game>
@@ -1962,7 +1962,7 @@
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Hoverless) (Japan) (Rev 1)</description>
 		<release name="Super Mario Sunshine (Subset - Hoverless) (Japan) (Rev 1)" region="Japan"/>
-		<rom name="Super Mario Sunshine (Subset - Hoverless) (Japan) (Rev 1).rvz" size="1060442720" crc="a3c7a72f" md5="d96ded59f4b22afd3db1aeb1c9173ec1" sha1="f86091dd45b60b070655eb679bf01f838e1e58f3"/>
+		<rom name="Super Mario Sunshine (Subset - Hoverless) (Japan) (Rev 1).rvz" size="1051244564" crc="62276265" sha1="4d5c0c7d4e3badc4a5e09b34f4eca0c7fbae152e" md5="453fdcd79f99308bedec1182b209d680"/>
 		<url>https://retroachievements.org/game/28560/hashes</url>
 		<hash>104F173124989A381AAAF6B916E1CE77</hash>
 	</game>
@@ -1970,7 +1970,7 @@
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Hoverless) (USA) (QoL Enhancement) (60FPS)</description>
 		<release name="Super Mario Sunshine (Subset - Hoverless) (USA) (QoL Enhancement) (60FPS)" region="USA"/>
-		<rom name="Super Mario Sunshine (Subset - Hoverless) (USA) (QoL Enhancement) (60FPS).rvz" size="1058955964" crc="05446349" md5="69e0ef22e8666bd741373715c1b160db" sha1="0525c4feb7befe1f219ac4dd432f216fc74c2787"/>
+		<rom name="Super Mario Sunshine (Subset - Hoverless) (USA) (QoL Enhancement) (60FPS).rvz" size="1049898836" crc="41aa0b2a" sha1="61c36c118436accfc85af2e031fc802407c4f61c" md5="10ea7e686a14a20fdb47c5477bb9b7b9"/>
 		<url>https://retroachievements.org/game/28560/hashes</url>
 		<hash>EDCE2B2793EA7B5246089086B0E8DA3C</hash>
 	</game>
@@ -1978,7 +1978,7 @@
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Hoverless) (Europe) (QoL Enhancement) (60FPS)</description>
 		<release name="Super Mario Sunshine (Subset - Hoverless) (Europe) (QoL Enhancement) (60FPS)" region="Europe"/>
-		<rom name="Super Mario Sunshine (Subset - Hoverless) (Europe) (QoL Enhancement) (60FPS).rvz" size="1063160072" crc="b5b23393" md5="0f514a66f1d20991b1f4abf11e50f736" sha1="af1d79a86ca8711b8d148f2176f73e60cecfa5e5"/>
+		<rom name="Super Mario Sunshine (Subset - Hoverless) (Europe) (QoL Enhancement) (60FPS).rvz" size="1053896092" crc="f652fa0f" sha1="b8fbb8b10199da56b9556fee4c93f15682a0f539" md5="41591b69d80d05fcc740bde4f39729dc"/>
 		<url>https://retroachievements.org/game/28560/hashes</url>
 		<hash>A0225EF293276BD687D490EC71AAE4CC</hash>
 	</game>
@@ -1986,21 +1986,21 @@
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Hoverless) (Korea)</description>
 		<release name="Super Mario Sunshine (Subset - Hoverless) (Korea)" region="Korea"/>
-		<rom name="Super Mario Sunshine (Subset - Hoverless) (Korea).rvz" size="1059877328" crc="817c1784" md5="5cf098736e59d3d8b9661403aed7b3f2" sha1="1360fb6570dc1134de199dd1737d7780ee88543d"/>
+		<rom name="Super Mario Sunshine (Subset - Hoverless) (Korea).rvz" size="1050651640" crc="60afbfc8" sha1="975597f33c0f57f1924204d0e36ce4e0bfb6051a" md5="7ec285801bfe8a6a347c5e23a33b16a4"/>
 		<url>https://retroachievements.org/game/28560/hashes</url>
 		<hash>846243AB16A4B1CD98E1E425247B8AEB</hash>
 	</game>
 	<game name="Super Mario Sunshine (Subset - Hoverless) (USA) (QoL Enhancement) (30FPS)" cloneof="Super Mario Sunshine (Subset - Hoverless) (USA) (QoL Enhancement) (60FPS)">
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Hoverless) (USA) (QoL Enhancement) (30FPS)</description>
-		<rom name="Super Mario Sunshine (Subset - Hoverless) (USA) (QoL Enhancement) (30FPS).rvz" size="1058955932" crc="12659dce" md5="5d3b48dc563cbb97fc28ac111795456a" sha1="f39883609ed9034535093166c662d2b91806604e"/>
+		<rom name="Super Mario Sunshine (Subset - Hoverless) (USA) (QoL Enhancement) (30FPS).rvz" size="1049898804" crc="e2e04d49" sha1="17bd6d5b62328fc619c07a3a2d2d94eabb8aaae0" md5="bbdadfeeb542a282c44436eba113214b"/>
 		<url>https://retroachievements.org/game/28560/hashes</url>
 		<hash>155811C243A0503CFF93DC1A128AFB6B</hash>
 	</game>
 	<game name="Super Mario Sunshine (Subset - Hoverless) (Europe) (QoL Enhancement) (30FPS)" cloneof="Super Mario Sunshine (Subset - Hoverless) (USA) (QoL Enhancement) (60FPS)">
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Hoverless) (Europe) (QoL Enhancement) (30FPS)</description>
-		<rom name="Super Mario Sunshine (Subset - Hoverless) (Europe) (QoL Enhancement) (30FPS).rvz" size="1063160020" crc="34e94eb8" md5="e919f117c525a08aae75b169741c298d" sha1="5cb9261ed26fb6ec5ace0e8c4a08cc4c7ecfbe44"/>
+		<rom name="Super Mario Sunshine (Subset - Hoverless) (Europe) (QoL Enhancement) (30FPS).rvz" size="1053896056" crc="f14dc2e0" sha1="0c08dd89721f27865ed819b8b0ef74530f813499" md5="c20fcf70de2b7555dd49472bcb2b8748"/>
 		<url>https://retroachievements.org/game/28560/hashes</url>
 		<hash>917FDF455B4F5C18CDD87E706E6BBAA5</hash>
 	</game>
@@ -2008,7 +2008,7 @@
 	<game name="Super Mario Sunshine (Subset - Max% Pre-Peach) (Europe)" cloneof="Super Mario Sunshine (Subset - Max% Pre-Peach) (USA) (QoL Enhancement) (60FPS)">
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Max% Pre-Peach) (Europe)</description>
-		<rom name="Super Mario Sunshine (Subset - Max% Pre-Peach) (Europe).rvz" size="1063742128" crc="3abd7a28" md5="760239bfad6b55e4c390a7715c6c56af" sha1="bda6d3a23ce7d542f0ba9e732bf1153e97320f1b"/>
+		<rom name="Super Mario Sunshine (Subset - Max% Pre-Peach) (Europe).rvz" size="1054416624" crc="6fdc3f48" sha1="ccd432df77742fb8cfc4ee75d482dd827b2ff65e" md5="3a076ccb19e9e20fb73bd3fcb085fd70"/>
 		<url>https://retroachievements.org/game/28561/hashes</url>
 		<hash>1DFF31552F6080324A5A040E2B47E3BD</hash>
 	</game>
@@ -2016,7 +2016,7 @@
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Max% Pre-Peach) (Europe) (QoL Enhancement) (60FPS)</description>
 		<release name="Super Mario Sunshine (Subset - Max% Pre-Peach) (Europe) (QoL Enhancement) (60FPS)" region="Europe"/>
-		<rom name="Super Mario Sunshine (Subset - Max% Pre-Peach) (Europe) (QoL Enhancement) (60FPS).rvz" size="1063077644" crc="d0b93671" md5="d856f1573bb7c1f2780e7ad6e62b4d7b" sha1="9787d86bb864812c2582e9518e7ad8efb4486f7a"/>
+		<rom name="Super Mario Sunshine (Subset - Max% Pre-Peach) (Europe) (QoL Enhancement) (60FPS).rvz" size="1053789792" crc="7ff4dd0b" sha1="c5f520e9f9110230a100902ab6333bdcfc48a278" md5="c4cac4b4182f27eccc61ec15fbad924b"/>
 		<url>https://retroachievements.org/game/28561/hashes</url>
 		<hash>18B431949BCABF51F9433A2D0AF50797</hash>
 	</game>
@@ -2024,7 +2024,7 @@
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Max% Pre-Peach) (Japan) (Rev 1)</description>
 		<release name="Super Mario Sunshine (Subset - Max% Pre-Peach) (Japan) (Rev 1)" region="Japan"/>
-		<rom name="Super Mario Sunshine (Subset - Max% Pre-Peach) (Japan) (Rev 1).rvz" size="1061514704" crc="ae898be5" md5="5a1ebb6e46299df51cfffd1d183542f6" sha1="3d1de8ff3b28994db754b3bf146062430347fbb1"/>
+		<rom name="Super Mario Sunshine (Subset - Max% Pre-Peach) (Japan) (Rev 1).rvz" size="1052321804" crc="fcf1630e" sha1="eabb4eb865b52c44342781d4769fd5a0f520d6c1" md5="ce097279d458f793af225ea784e00182"/>
 		<url>https://retroachievements.org/game/28561/hashes</url>
 		<hash>D15E92986537308F45208BCCF230D309</hash>
 	</game>
@@ -2032,14 +2032,14 @@
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Max% Pre-Peach) (Korea)</description>
 		<release name="Super Mario Sunshine (Subset - Max% Pre-Peach) (Korea)" region="Korea"/>
-		<rom name="Super Mario Sunshine (Subset - Max% Pre-Peach) (Korea).rvz" size="1060824876" crc="f2cfc104" md5="fb86476f517507e432dcf02e9cec16c3" sha1="2d560a4dce1328616c2e9002340188fcdf766c2b"/>
+		<rom name="Super Mario Sunshine (Subset - Max% Pre-Peach) (Korea).rvz" size="1051562536" crc="2ad56f11" sha1="f403764845f509da46f1f9fbe44258bc9742a178" md5="63e8f04444bc92b33bfa8ff02bdecf3a"/>
 		<url>https://retroachievements.org/game/28561/hashes</url>
 		<hash>327386BBA799C965D3014F8FC103F277</hash>
 	</game>
 	<game name="Super Mario Sunshine (Subset - Max% Pre-Peach) (USA)" cloneof="Super Mario Sunshine (Subset - Max% Pre-Peach) (USA) (QoL Enhancement) (60FPS)">
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Max% Pre-Peach) (USA)</description>
-		<rom name="Super Mario Sunshine (Subset - Max% Pre-Peach) (USA).rvz" size="1059921244" crc="38e3827d" md5="a09335a496980bbc49e81930a9356776" sha1="d1f1c940d3c606adacf2bf8bbb39101f747b5c97"/>
+		<rom name="Super Mario Sunshine (Subset - Max% Pre-Peach) (USA).rvz" size="1050830460" crc="8d49a291" sha1="875ff831995f393b7057483f9ac52336f7dc1a6f" md5="2629a774eb7eef3b606c2201691dab88"/>
 		<url>https://retroachievements.org/game/28561/hashes</url>
 		<hash>6C67CA017A9834742E9E0F7BDCF80919</hash>
 	</game>
@@ -2047,21 +2047,21 @@
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Max% Pre-Peach) (USA) (QoL Enhancement) (60FPS)</description>
 		<release name="Super Mario Sunshine (Subset - Max% Pre-Peach) (USA) (QoL Enhancement) (60FPS)" region="USA"/>
-		<rom name="Super Mario Sunshine (Subset - Max% Pre-Peach) (USA) (QoL Enhancement) (60FPS).rvz" size="1058955780" crc="3b626901" md5="409feb6cb13dcc7216164c252badfded" sha1="f22291cf56217866482d5eaac73d33a7d2d2538e"/>
+		<rom name="Super Mario Sunshine (Subset - Max% Pre-Peach) (USA) (QoL Enhancement) (60FPS).rvz" size="1049898716" crc="f58c2d85" sha1="79e1b9018fe285060996b3ee30297925879f9161" md5="daaa55adde0e8d922e02e30a43627d47"/>
 		<url>https://retroachievements.org/game/28561/hashes</url>
 		<hash>D59E7534FFB3D28888E12D15E61E08DA</hash>
 	</game>
 	<game name="Super Mario Sunshine (Subset - Max% Pre-Peach) (USA) (QoL Enhancement) (30FPS)" cloneof="Super Mario Sunshine (Subset - Max% Pre-Peach) (USA) (QoL Enhancement) (60FPS)">
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Max% Pre-Peach) (USA) (QoL Enhancement) (30FPS)</description>
-		<rom name="Super Mario Sunshine (Subset - Max% Pre-Peach) (USA) (QoL Enhancement) (30FPS).rvz" size="1058955756" crc="aa6a12b6" md5="fe9c3f0f7d2b4f2679d887357043db03" sha1="2a06ffbbe154a7b94f50e6f87086bb3219d4d29c"/>
+		<rom name="Super Mario Sunshine (Subset - Max% Pre-Peach) (USA) (QoL Enhancement) (30FPS).rvz" size="1049898712" crc="9077a4f0" sha1="36945cee666cd9e8c90241d9085ef276cb91aab7" md5="9afc706df61fb227640981eb868b8c04"/>
 		<url>https://retroachievements.org/game/28561/hashes</url>
 		<hash>64D5B3F393113102E72C4FD2391D4973</hash>
 	</game>
 	<game name="Super Mario Sunshine (Subset - Max% Pre-Peach) (Europe) (QoL Enhancement) (30FPS)" cloneof="Super Mario Sunshine (Subset - Max% Pre-Peach) (USA) (QoL Enhancement) (60FPS)">
 		<category>Subset</category>
 		<description>Super Mario Sunshine (Subset - Max% Pre-Peach) (Europe) (QoL Enhancement) (30FPS)</description>
-		<rom name="Super Mario Sunshine (Subset - Max% Pre-Peach) (Europe) (QoL Enhancement) (30FPS).rvz" size="1063077620" crc="46fd1019" md5="7cd8f5bbb06cf67de8ba163ce21267b9" sha1="2f291cb3b9e700bfbf291494ddb9679509c243fd"/>
+		<rom name="Super Mario Sunshine (Subset - Max% Pre-Peach) (Europe) (QoL Enhancement) (30FPS).rvz" size="1053789728" crc="1cf97f9d" sha1="d2cdd195afd89fbc7a9888254fd68aa1fee5fceb" md5="7046b3300918c1613948c11438b74224"/>
 		<url>https://retroachievements.org/game/28561/hashes</url>
 		<hash>9A69D7DE1A25094BF2B27A79BF4D485D</hash>
 	</game>
