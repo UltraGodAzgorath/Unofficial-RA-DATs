@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation</name>
 		<description>Sony Playstation</description>
 		<category>Subfolders</category>
-		<version>20250630</version>
-		<date>30 June 2025</date>
+		<version>20250711</version>
+		<date>11 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -8089,6 +8089,15 @@
 		<rom name="Pop'n Music 4 - Append Disc (Japan) (Track 2).bin" size="6432720" crc="bf58f3b5" md5="390bf460b90bb33998418435bc136828" sha1="0b69ed86d7898916788d0a853e1a82c19c754838"/>
 		<url>https://retroachievements.org/game/19395/hashes</url>
 		<hash>a515d03cdc648d115c649d9d0dfd596c</hash>
+	</game>
+	
+	<game name="Retail/Pop'n Music 5 (Japan)">
+		<category></category>
+		<description>Pop'n Music 5 (Japan)</description>
+		<rom name="Pop'n Music 5 (Japan).cue" size="87" crc="316db0ff" md5="17eb246ac337dcd49069d24f8bc07b62" sha1="244f3d5a52335fcabbb85dcdb8506367a80e2c68"/>
+		<rom name="Pop'n Music 5 (Japan).bin" size="470482320" crc="2ad187c5" md5="765a726106ef59b31091413475003409" sha1="eb6e928977a823e804eea1ce6662913b646a62e8"/>
+		<url>https://retroachievements.org/game/19399/hashes</url>
+		<hash>71cf587d22819530e731ae32a0f6f516</hash>
 	</game>
 	
 	<game name="Retail/Pop'n Music - Animation Melody (Japan)">

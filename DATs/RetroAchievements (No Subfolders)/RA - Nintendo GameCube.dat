@@ -5,8 +5,8 @@
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
 		<category>No Subfolders</category>
-		<version>20250707</version>
-		<date>07 July 2025</date>
+		<version>20250711</version>
+		<date>11 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/16/games</url>
@@ -303,6 +303,15 @@
 		<rom name="Battalion Wars (Europe) (En,Fr,De,Es,It).rvz" size="778081532" crc="4fe10c52" md5="ce4880e28e5ef027d573744d2e333ae4" sha1="5e7c214bae02d1acc0248997492163d22d8f86b0"/>
 		<url>https://retroachievements.org/game/7054/hashes</url>
 		<hash>A30CEA2ACF030FA8216F59B4F877847E</hash>
+	</game>
+	
+	<game name="Battle Stadium D.O.N (Japan)">
+		<category>Retail</category>
+		<description>Battle Stadium D.O.N (Japan)</description>
+		<release name="Battle Stadium D.O.N (Japan)" region="Japan"/>
+		<rom name="Battle Stadium D.O.N (Japan).rvz" size="286477800" crc="df8f9532" md5="62056c9b4127f2195167bc42c507d8f5" sha1="36eb38902d8337eab5605dba468128d927dd7ed0"/>
+		<url>https://retroachievements.org/game/25499/hashes</url>
+		<hash>f4d8e2a60dce94b966250e1824ed3f5b</hash>
 	</game>
 	
 	<game name="Beyblade VForce - Super Tournament Battle (USA)">
@@ -1515,6 +1524,15 @@
 		<rom name="Rogue Ops (USA).rvz" size="1116083424" crc="a863c2db" md5="c6b0f44a3fb8bbf5133f5a6d0008930c" sha1="41910f1d4e2425a7dd9cf8ef51205f0a77e124a7"/>
 		<url>https://retroachievements.org/game/29173/hashes</url>
 		<hash>CD96F43DC35F52162CF12D85E4183CE9</hash>
+	</game>
+	
+	<game name="Samurai Jack - The Shadow of Aku (USA)">
+		<category>Retail</category>
+		<description>Samurai Jack - The Shadow of Aku (USA)</description>
+		<release name="Samurai Jack - The Shadow of Aku (USA)" region="USA"/>
+		<rom name="Samurai Jack - The Shadow of Aku (USA).rvz" size="459698932" crc="1bd6a2cb" md5="f9c7cca06448fe41f8abf6759f00f3e8" sha1="93d2beed3ecdb31d10f919c67d1ac09ee1f805b3"/>
+		<url>https://retroachievements.org/game/30120/hashes</url>
+		<hash>d411f20e21155a105a62e68d70f24857</hash>
 	</game>
 	
 	<game name="Scooby-Doo! Night of 100 Frights (USA) (Rev 1)">

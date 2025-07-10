@@ -5,8 +5,8 @@
 		<name>RA - Colecovision</name>
 		<description>Colecovision</description>
 		<category>No Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250711</version>
+		<date>11 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/44/games</url>
@@ -153,6 +153,16 @@
 		<rom name="Carnival (USA, Europe).col" size="16384" crc="70f315c2" md5="f44e87fd71785824ac2ffb9927337886" sha1="d4f34382d43897774101e3620384a402dd3d2ec1"/>
 		<url>https://retroachievements.org/game/14066/hashes</url>
 		<hash>F44E87FD71785824AC2FFB9927337886</hash>
+	</game>
+	
+	<game name="Congo Bongo (USA)">
+		<category>Retail</category>
+		<description>Congo Bongo (USA)</description>
+		<release name="Congo Bongo (USA)" region="Europe"/>
+		<release name="Congo Bongo (USA)" region="USA"/>
+		<rom name="Congo Bongo (USA).col" size="24576" crc="4e8b4c1d" md5="1e5dc0f3a8b974b20340bdf8593b309b" sha1="4ad44dbf2651415f68c5e82289ecbc0122c51a19"/>
+		<url>https://retroachievements.org/game/14273/hashes</url>
+		<hash>1e5dc0f3a8b974b20340bdf8593b309b</hash>
 	</game>
 	
 	<game name="Cosmic Avenger (USA, Europe)">

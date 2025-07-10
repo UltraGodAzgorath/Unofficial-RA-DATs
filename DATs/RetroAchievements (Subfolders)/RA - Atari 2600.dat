@@ -5,8 +5,8 @@
 		<name>RA - Atari 2600</name>
 		<description>Atari 2600</description>
 		<category>Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250711</version>
+		<date>11 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/25/games</url>
@@ -1105,6 +1105,14 @@
 		<rom name="Ms. Pac-Man (USA).a26" size="8192" crc="b2d08fc9" md5="87e79cd41ce136fd4f72cc6e2c161bee" sha1="62b933cdd8844bb1816ce57889203954fe782603"/>
 		<url>https://retroachievements.org/game/14260/hashes</url>
 		<hash>87E79CD41CE136FD4F72CC6E2C161BEE</hash>
+	</game>
+	
+	<game name="Retail/Off the Wall (USA)">
+		<category></category>
+		<description>Off the Wall (USA)</description>
+		<rom name="Off the Wall (USA).a26" size="16384" crc="a09779ea" md5="98f63949e656ff309cefa672146dc1b8" sha1="3dcfe93399044148561586056288c6f8e5c96e2b"/>
+		<url>https://retroachievements.org/game/13066/hashes</url>
+		<hash>98f63949e656ff309cefa672146dc1b8</hash>
 	</game>
 	
 	<game name="Retail/Oink! (USA)">

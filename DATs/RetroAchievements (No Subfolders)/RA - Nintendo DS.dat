@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>No Subfolders</category>
-		<version>20250702</version>
-		<date>02 July 2025</date>
+		<version>20250711</version>
+		<date>11 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
@@ -1153,6 +1153,23 @@
 		<rom name="Arkanoid DS (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="5c64c625" md5="aa53d44df171d58e8e6f86c9979b2257" sha1="0b174256e2ac47180db7d3e90317ca52acae543c"/>
 		<url>https://retroachievements.org/game/22844/hashes</url>
 		<hash>9193ceb50f490e3b123d3b2d80314a93</hash>
+	</game>
+	
+	<game name="Assassin's Creed II - Discovery (USA) (En,Fr,Es) (NDSi Enhanced)">
+		<category>Retail</category>
+		<description>Assassin's Creed II - Discovery (USA) (En,Fr,Es) (NDSi Enhanced)</description>
+		<release name="Assassin's Creed II - Discovery (USA) (En,Fr,Es) (NDSi Enhanced)" region="USA"/>
+		<rom name="Assassin's Creed II - Discovery (USA) (En,Fr,Es) (NDSi Enhanced).nds" size="67108864" crc="3b902942" md5="137c38312a41a11dff3bba10ad383019" sha1="66a04a7d73d193c716a9963246b2e7cd3362f6e1"/>
+		<url>https://retroachievements.org/game/20363/hashes</url>
+		<hash>78933bb9d50bed7451cc62b5cb876a9a</hash>
+	</game>
+	<game name="Assassin's Creed II - Discovery (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da) (NDSi Enhanced)" cloneof="Assassin's Creed II - Discovery (USA) (En,Fr,Es) (NDSi Enhanced)">
+		<category>Retail</category>
+		<description>Assassin's Creed II - Discovery (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da) (NDSi Enhanced)</description>
+		<release name="Assassin's Creed II - Discovery (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da) (NDSi Enhanced)" region="Europe"/>
+		<rom name="Assassin's Creed II - Discovery (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da) (NDSi Enhanced).nds" size="67108864" crc="37d52b38" md5="e440432dea0c81a4598fd1ddf653b28c" sha1="ae9339b70f20303a24a49d96196d70b369f2228a"/>
+		<url>https://retroachievements.org/game/20363/hashes</url>
+		<hash>8d886183f5a751d89b3dc99110c2df15</hash>
 	</game>
 	
 	<game name="Assassin's Creed - Altair's Chronicles (Europe) (En,Fr,De,Es,It)">
@@ -2381,6 +2398,15 @@
 		<rom name="Game &amp; Watch Collection 2 (USA) (Club Nintendo).nds" size="8388608" crc="d761a430" md5="d1260d0c9b2633272f9817eb1c14b399" sha1="73b5f715b882e4bbcc528679d4945fcf4377f681"/>
 		<url>https://retroachievements.org/game/16364/hashes</url>
 		<hash>fc55fd53102bb4d24fda4b05f094c828</hash>
+	</game>
+	
+	<game name="Garfield's Fun Fest (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Garfield's Fun Fest (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Garfield's Fun Fest (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="Garfield's Fun Fest (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="27b6c532" md5="a305df661f2442f7fc0914852590dae9" sha1="cdb8a3b8c63d3c82825a81b743b4d8d9be711937"/>
+		<url>https://retroachievements.org/game/14781/hashes</url>
+		<hash>806c811abae748b3f29a90d66b4b6a64</hash>
 	</game>
 	
 	<game name="Garfield's Nightmare (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)">
@@ -4956,6 +4982,23 @@
 		<hash>f28bde56e92db8e033febeda8508819d</hash>
 	</game>
 	
+	<game name="Puyo Puyo 7 (Japan) (En) (v1.0) (PuyoNexus)" cloneof="Puyo Puyo 7 (Japan)">
+		<category>Retail</category>
+		<description>Puyo Puyo 7 (Japan) (En) (v1.0) (PuyoNexus)</description>
+		<release name="Puyo Puyo 7 (Japan) (En) (v1.0) (PuyoNexus)" region="English"/>
+		<rom name="Puyo Puyo 7 (Japan) (En) (v1.0) (PuyoNexus).nds" size="53480032" crc="9124c276" md5="1527f2e0df4550aa60276b02662e8d68" sha1="2d27c6b1c5876c1c96f42fb94c46e6fdfe8c7631"/>
+		<url>https://retroachievements.org/game/14821/hashes</url>
+		<hash>41d166fe122f35c9f55f93ceaa5a6f2c</hash>
+	</game>
+	<game name="Puyo Puyo 7 (Japan)">
+		<category>Retail</category>
+		<description>Puyo Puyo 7 (Japan)</description>
+		<release name="Puyo Puyo 7 (Japan)" region="Japan"/>
+		<rom name="Puyo Puyo 7 (Japan).nds" size="67108864" crc="a6b06082" md5="e20f6c89cd4f71d5ec0fd82d745de4b2" sha1="f196e0746a17b20338bd195dd5f494bd94afa9e6"/>
+		<url>https://retroachievements.org/game/14821/hashes</url>
+		<hash>924ab20f7e26c7a4b083514116afd56e</hash>
+	</game>
+	
 	<game name="Art Puzzle - Das Kunstmagazin - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<description>Art Puzzle - Das Kunstmagazin - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)</description>
@@ -5315,6 +5358,23 @@
 		<rom name="Rockman EXE - Operate Shooting Star (Japan).nds" size="16777216" crc="06441e8b" md5="0a1ba456028f7d9a59d5c0f25fcccbb5" sha1="66f0b1ee011a38f8c24134221f286a9fd3821a44"/>
 		<url>https://retroachievements.org/game/17889/hashes</url>
 		<hash>c3da9fc7a013548124ea546961a93424</hash>
+	</game>
+	
+	<game name="Rosario to Vampire - Tanabata no Miss Youkai Gakuen (Japan)">
+		<category>Retail</category>
+		<description>Rosario to Vampire - Tanabata no Miss Youkai Gakuen (Japan)</description>
+		<release name="Rosario to Vampire - Tanabata no Miss Youkai Gakuen (Japan)" region="Japan"/>
+		<rom name="Rosario to Vampire - Tanabata no Miss Youkai Gakuen (Japan).nds" size="67108864" crc="bbbf7a37" md5="517755fcdce54ff807f09d44ffcd91a4" sha1="be453232c9dfd96846bec06006c3f78c6e038178"/>
+		<url>https://retroachievements.org/game/25924/hashes</url>
+		<hash>d087040242323d4d1a7c67a62ea8d498</hash>
+	</game>
+	<game name="Rosario to Vampire - Tanabata no Miss Youkai Gakuen (Japan) (En) (v1.0) (jjjewel)" cloneof="Rosario to Vampire - Tanabata no Miss Youkai Gakuen (Japan)">
+		<category>Retail</category>
+		<description>Rosario to Vampire - Tanabata no Miss Youkai Gakuen (Japan) (En) (v1.0) (jjjewel)</description>
+		<release name="Rosario to Vampire - Tanabata no Miss Youkai Gakuen (Japan) (En) (v1.0) (jjjewel)" region="English"/>
+		<rom name="Rosario to Vampire - Tanabata no Miss Youkai Gakuen (Japan) (En) (v1.0) (jjjewel).nds" size="39800508" crc="d5e597a9" md5="01edf99ad76cc3cc1b91bc127f1ad41b" sha1="9c13099d49bd4a26793edbe83f391c514a434f93"/>
+		<url>https://retroachievements.org/game/25924/hashes</url>
+		<hash>033e10b079028c4cc1d3dfcaeb4adf53</hash>
 	</game>
 	
 	<game name="Rune Factory 2 - A Fantasy Harvest Moon (Europe) (En,De)">

@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>Subfolders</category>
-		<version>20250702</version>
-		<date>02 July 2025</date>
+		<version>20250711</version>
+		<date>11 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/4/games</url>
@@ -5195,6 +5195,14 @@
 		<rom name="Yoshi's Cookie (USA, Europe).gb" size="131072" crc="75336712" md5="bc1a3848092bdc900c157996c29a7783" sha1="233dcc94d86951ddf167aaa82ec9b94b87b29e2d"/>
 		<url>https://retroachievements.org/game/4404/hashes</url>
 		<hash>bc1a3848092bdc900c157996c29a7783</hash>
+	</game>
+	
+	<game name="Retail/Yu Yu Hakusho (Japan)">
+		<category></category>
+		<description>Yu Yu Hakusho (Japan)</description>
+		<rom name="Yu Yu Hakusho (Japan).gb" size="262144" crc="7103b4ac" md5="d120872ad4f5b3e67cc5561550f2d142" sha1="e4bcd2875aecd45095ce47aae90bd87f7558bc0f"/>
+		<url>https://retroachievements.org/game/6051/hashes</url>
+		<hash>d120872ad4f5b3e67cc5561550f2d142</hash>
 	</game>
 	
 	<game name="Retail/Yu-Gi-Oh! Duel Monsters (Japan) (SGB Enhanced)">

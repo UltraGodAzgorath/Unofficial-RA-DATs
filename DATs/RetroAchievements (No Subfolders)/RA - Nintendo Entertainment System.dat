@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>No Subfolders</category>
-		<version>20250630</version>
-		<date>30 June 2025</date>
+		<version>20250711</version>
+		<date>11 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/7/games</url>
@@ -325,6 +325,23 @@
 		<rom name="FF3 - Final Fantasy VII (En) (v1.1) (Lugia2009) (Hack).nes" size="2097168" crc="8de6d62f" md5="62b74bb9f3146d5ef81a19ec9042c5bf" sha1="f04c114b9293366cec09dc83698855486724155c"/>
 		<url>https://retroachievements.org/game/2137/hashes</url>
 		<hash>f511506e74943752c2f60844684db63f</hash>
+	</game>
+	
+	<game name="Final Fantasy - Economic Collapse (v1.2) (TheMysticalOne) (Hack)">
+		<category>Hack</category>
+		<description>Final Fantasy - Economic Collapse (v1.2) (TheMysticalOne) (Hack)</description>
+		<release name="Final Fantasy - Economic Collapse (v1.2) (TheMysticalOne) (Hack)" region="World"/>
+		<rom name="Final Fantasy - Economic Collapse (v1.2) (TheMysticalOne) (Hack).nes" size="262160" crc="23707270" md5="8f4ee86dbdb54309c5a164399747382d" sha1="b03536e8a3deb0770dc819a261ce42d424d4dfac"/>
+		<url>https://retroachievements.org/game/33664/hashes</url>
+		<hash>8d88aad45a9c7d83df99a9e9652c6673</hash>
+	</game>
+	<game name="Final Fantasy - Economic Collapse (v1.2 + FF3 Sprites) (TheMysticalOne) (Hack)" cloneof="Final Fantasy - Economic Collapse (v1.2) (TheMysticalOne)">
+		<category>Hack</category>
+		<description>Final Fantasy - Economic Collapse (v1.2 + FF3 Sprites) (TheMysticalOne) (Hack)</description>
+		<release name="Final Fantasy - Economic Collapse (v1.2 + FF3 Sprites) (TheMysticalOne) (Hack)" region="World"/>
+		<rom name="Final Fantasy - Economic Collapse (v1.2 + FF3 Sprites) (TheMysticalOne) (Hack).nes" size="262160" crc="b03d2fcf" md5="85365c426e4d794c55f7cb63160e44d2" sha1="1312c282ceb6bb36ae3ca2f2b6a78328043f2e67"/>
+		<url>https://retroachievements.org/game/33664/hashes</url>
+		<hash>0932a6ac54f1b853f42ddb02868dc56e</hash>
 	</game>
 	
 	<game name="Ghostbusters Remastered (v1.1) (Nesrocks) (Hack)">

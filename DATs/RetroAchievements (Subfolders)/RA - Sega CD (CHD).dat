@@ -5,8 +5,8 @@
 		<name>RA - Sega CD (CHD)</name>
 		<description>Sega CD (CHD)</description>
 		<category>Subfolders</category>
-		<version>20250702</version>
-		<date>02 July 2025</date>
+		<version>20250711</version>
+		<date>11 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/9/games</url>
@@ -163,6 +163,14 @@
 		<rom name="Earthworm Jim - Special Edition (USA) (RE).chd" size="207926752" crc="9346c121" md5="a07d4978f524310c182171b94710edb9" sha1="fcb5304ddb3171ca69837eb13932b30132afb33b"/>
 		<url>https://retroachievements.org/game/14144/hashes</url>
 		<hash>fbd25c6c1f42973b214ace4646c8632a</hash>
+	</game>
+	
+	<game name="Ecco the Dolphin (Europe)">
+		<category>Retail</category>
+		<description>Ecco the Dolphin (Europe)</description>
+		<rom name="Ecco the Dolphin (Europe).chd" size="279399990" crc="8e6c5f70" md5="486a9a412c6cf5111101b022562f60c3" sha1="90e978187b1b29ff2bb4c999f0fc4946625d9838"/>
+		<url>https://retroachievements.org/game/16019/hashes</url>
+		<hash>1f9896c6fc87315538aead49d345178b</hash>
 	</game>
 	
 	<game name="Retail/Eternal Champions - Challenge from the Dark Side (USA) (RE)">

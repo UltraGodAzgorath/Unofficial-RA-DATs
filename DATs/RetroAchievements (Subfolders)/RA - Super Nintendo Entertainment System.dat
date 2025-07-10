@@ -5,8 +5,8 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20250702</version>
-		<date>02 July 2025</date>
+		<version>20250711</version>
+		<date>11 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/3/games</url>
@@ -697,6 +697,14 @@
 		<hash>6a6c84b67ebfd718a10fd31682234ed4</hash>
 	</game>
 	
+	<game name="Hack/Final Fantasy VI/FFVI - A Complete Hack (v2.01) (MC50) (Hack)">
+		<category>Super Nintendo</category>
+		<description>FFVI - A Complete Hack (v2.01) (MC50) (Hack)</description>
+		<rom name="FFVI - A Complete Hack (v2.01) (MC50) (Hack).sfc" size="3145728" crc="6db5425a" md5="01030395369d2364f69b6b5fa30d35fa" sha1="1720fa53f7a4f8ae506cf6b6af77564276ecb7bd"/>
+		<url>https://retroachievements.org/game/33096/hashes</url>
+		<hash>01030395369d2364f69b6b5fa30d35fa</hash>
+	</game>
+	
 	<game name="Hack/Final Fantasy II/FFII - Job System (v1.1) (S34n4e) (Hack)">
 		<category>Super Nintendo</category>
 		<description>FFII - Job System (v1.1) (S34n4e) (Hack)</description>
@@ -851,10 +859,10 @@
 	
 	<game name="Hack/Final Fantasy VI/FFVI Reimagined (v1.7) (DrakeyC) (Hack)">
 		<category>Super Nintendo</category>
-		<description>Final Fantasy VI Reimagined (v1.7) (DrakeyC) (Hack)</description>
-		<rom name="Final Fantasy VI Reimagined (v1.7) (DrakeyC) (Hack).sfc" size="4194304" crc="eadf7737" md5="ad4f294644728741af74f0446db48b22" sha1="d0b4bdbc6fa152a8c4dcc1c0d8cad64d51a765f6"/>
+		<description>FFVI Reimagined (v1.7) (DrakeyC) (Hack)</description>
+		<rom name="FFVI Reimagined (v1.7) (DrakeyC) (Hack).sfc" size="4194304" crc="eeb65ab5" md5="ea14658205a7f0b20084a0593e183a00" sha1="0450be94029861000a2a8668a97247b3da4ad3c6"/>
 		<url>https://retroachievements.org/game/32659/hashes</url>
-		<hash>ad4f294644728741af74f0446db48b22</hash>
+		<hash>ea14658205a7f0b20084a0593e183a00</hash>
 	</game>
 	
 	<game name="Hack/Final Fantasy VI/FFVI - A Soldier's Contingency (Flavor A) (v2.01) (Lightning Hawk) (Hack)">
@@ -959,6 +967,20 @@
 		<url>https://retroachievements.org/game/1247/hashes</url>
 		<hash>6dc81f6aaf8ee4ad84d9cf43110a2885</hash>
 	</game>
+	<game name="Hack/Final Fantasy VI/FFVI - Brave New World (v2.2) (Synchysi, BTB) (Hack)">
+		<category>Super Nintendo</category>
+		<description>FFVI - Brave New World (v2.2) (Synchysi, BTB) (Hack)</description>
+		<rom name="FFVI - Brave New World (v2.2) (Synchysi, BTB) (Hack).sfc" size="3145728" crc="42979384" md5="c1dc22903192ed93ff732de2b000258a" sha1="e170abcc72528683c46c9fdb7382c8fd091fdf50"/>
+		<url>https://retroachievements.org/game/1247/hashes</url>
+		<hash>c1dc22903192ed93ff732de2b000258a</hash>
+	</game>
+	<game name="Hack/Final Fantasy VI/FFVI - Brave New World (v2.2 + Choreography) (Synchysi, BTB) (Hack)">
+		<category>Super Nintendo</category>
+		<description>FFVI - Brave New World (v2.2 + Choreography) (Synchysi, BTB) (Hack)</description>
+		<rom name="FFVI - Brave New World (v2.2 + Choreography) (Synchysi, BTB) (Hack).sfc" size="3145728" crc="fe4bca3a" md5="0bf256b31e11b18979acd1ecf50e2cbc" sha1="b24a8693dcb8c9caec8effceaf16331cd1ac97c2"/>
+		<url>https://retroachievements.org/game/1247/hashes</url>
+		<hash>0bf256b31e11b18979acd1ecf50e2cbc</hash>
+	</game>
 	
 	<game name="Subset/Final Fantasy VI/FFVI - Brave New World (v2.1) (Subset - Berserker New World) (Hack)">
 		<category>Super Nintendo</category>
@@ -1006,117 +1028,33 @@
 		<hash>f1763ff3ea4adb4f53eb34d076d6124a</hash>
 	</game>
 	
-	<game name="Hack/Final Fantasy VI/FFVI - Return of the Dark Sorcerer (v2.9.4) (Mike Ferrell) (OST-B) (Hack)">
+	<game name="Hack/Final Fantasy VI/FFVI - Return of the Dark Sorcerer (v2.13) (Mike Ferrell) (Graphics-B + OST-B) (Hack)">
 		<category>Super Nintendo</category>
-		<description>FFVI - Return of the Dark Sorcerer (v2.9.4) (Mike Ferrell) (OST-B) (Hack)</description>
-		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.4) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="81fba117" md5="0d18de6d7908531d4c17020093a9b8c3" sha1="249dbea2ed45a3e97d2fc2f45b38f3a8029ed24e"/>
+		<description>FFVI - Return of the Dark Sorcerer (v2.13) (Mike Ferrell) (Graphics-B + OST-B) (Hack)</description>
+		<rom name="FFVI - Return of the Dark Sorcerer (v2.13) (Mike Ferrell) (Graphics-B + OST-B) (Hack).sfc" size="8388608" crc="6ca4ddab" md5="fc6fe4870652003158e9a61f61a5e36c" sha1="c8464839760e913fe88422b2fe8ed8630c9362eb"/>
 		<url>https://retroachievements.org/game/16496/hashes</url>
-		<hash>0d18de6d7908531d4c17020093a9b8c3</hash>
+		<hash>fc6fe4870652003158e9a61f61a5e36c</hash>
 	</game>
-	<game name="Hack/Final Fantasy VI/FFVI - Return of the Dark Sorcerer (v2.9.4) (Mike Ferrell) (Hack)">
+	<game name="Hack/Final Fantasy VI/FFVI - Return of the Dark Sorcerer (v2.13) (Mike Ferrell) (Graphics-B) (Hack)">
 		<category>Super Nintendo</category>
-		<description>FFVI - Return of the Dark Sorcerer (v2.9.4) (Mike Ferrell) (Hack)</description>
-		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.4) (Mike Ferrell) (Hack).sfc" size="8388608" crc="5dfbf674" md5="8c5061517e67fafa26ff41bae639d33f" sha1="91a7309a6e5466e7dd8c0e2eed7d78d81091188e"/>
+		<description>FFVI - Return of the Dark Sorcerer (v2.13) (Mike Ferrell) (Graphics-B) (Hack)</description>
+		<rom name="FFVI - Return of the Dark Sorcerer (v2.13) (Mike Ferrell) (Graphics-B) (Hack).sfc" size="8388608" crc="db108c5c" md5="41d260b8d7d8031c1939123b04121308" sha1="30de5f0870b9dc8c49ab93a9bafc10b8eab67a24"/>
 		<url>https://retroachievements.org/game/16496/hashes</url>
-		<hash>8c5061517e67fafa26ff41bae639d33f</hash>
+		<hash>41d260b8d7d8031c1939123b04121308</hash>
 	</game>
-	<game name="Hack/Final Fantasy VI/FFVI - Return of the Dark Sorcerer (v2.9.3) (Mike Ferrell) (Hack)">
+	<game name="Hack/Final Fantasy VI/FFVI - Return of the Dark Sorcerer (v2.13) (Mike Ferrell) (OST-B) (Hack)">
 		<category>Super Nintendo</category>
-		<description>FFVI - Return of the Dark Sorcerer (v2.9.3) (Mike Ferrell) (Hack)</description>
-		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.3) (Mike Ferrell) (Hack).sfc" size="8388608" crc="3ffbf56b" md5="b56263f8a6d9595f407e698f3e203b7e" sha1="36018efa5a5ed8784e15ceaa08c65319d768f04d"/>
+		<description>FFVI - Return of the Dark Sorcerer (v2.13) (Mike Ferrell) (OST-B) (Hack)</description>
+		<rom name="FFVI - Return of the Dark Sorcerer (v2.13) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="b4836b36" md5="13e072155c831b013ea9436ed67ba275" sha1="97fb41251add11af03aaaf187d0b41531f10eb8c"/>
 		<url>https://retroachievements.org/game/16496/hashes</url>
-		<hash>b56263f8a6d9595f407e698f3e203b7e</hash>
+		<hash>13e072155c831b013ea9436ed67ba275</hash>
 	</game>
-	<game name="Hack/Final Fantasy VI/FFVI - Return of the Dark Sorcerer (v2.9.3) (Mike Ferrell) (OST-B) (Hack)">
+	<game name="Hack/Final Fantasy VI/FFVI - Return of the Dark Sorcerer (v2.13) (Mike Ferrell) (Hack)">
 		<category>Super Nintendo</category>
-		<description>FFVI - Return of the Dark Sorcerer (v2.9.3) (Mike Ferrell) (OST-B) (Hack)</description>
-		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.3) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="c778404e" md5="d10697a4cbac147f31b2f05b2840d265" sha1="2d1de0ca9f680ed0357d07ec08b2362d4e7c4977"/>
+		<description>FFVI - Return of the Dark Sorcerer (v2.13) (Mike Ferrell) (Hack)</description>
+		<rom name="FFVI - Return of the Dark Sorcerer (v2.13) (Mike Ferrell) (Mike Ferrell) (Hack).sfc" size="8388608" crc="03373ac1" md5="4fe96929641b7ced018daa847dd33881" sha1="2d92400fdf22338a97c6735bf8aa82b8bea3f637"/>
 		<url>https://retroachievements.org/game/16496/hashes</url>
-		<hash>d10697a4cbac147f31b2f05b2840d265</hash>
-	</game>
-	<game name="Hack/Final Fantasy VI/FFVI - Return of the Dark Sorcerer (v2.9.5) (Mike Ferrell) (Hack)">
-		<category>Super Nintendo</category>
-		<description>FFVI - Return of the Dark Sorcerer (v2.9.5) (Mike Ferrell) (Hack)</description>
-		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.5) (Mike Ferrell) (Hack).sfc" size="8388608" crc="2f9cdfde" md5="adb718f149589bf5ae140f0e581de6a8" sha1="f6f29f0091c76aef5590709844d94803c701cc47"/>
-		<url>https://retroachievements.org/game/16496/hashes</url>
-		<hash>adb718f149589bf5ae140f0e581de6a8</hash>
-	</game>
-	<game name="Hack/Final Fantasy VI/FFVI - Return of the Dark Sorcerer (v2.9.5) (Mike Ferrell) (OST-B) (Hack)">
-		<category>Super Nintendo</category>
-		<description>FFVI - Return of the Dark Sorcerer (v2.9.5) (Mike Ferrell) (OST-B) (Hack)</description>
-		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.5) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="4b2ffd30" md5="0beaf1b602eb8c191e09433a93c89299" sha1="29a079f701ff742c8768f96b0595e26c7732ca95"/>
-		<url>https://retroachievements.org/game/16496/hashes</url>
-		<hash>0beaf1b602eb8c191e09433a93c89299</hash>
-	</game>
-	<game name="Hack/Final Fantasy VI/FFVI - Return of the Dark Sorcerer (v2.9.6) (Mike Ferrell) (Hack)">
-		<category>Super Nintendo</category>
-		<description>FFVI - Return of the Dark Sorcerer (v2.9.6) (Mike Ferrell) (Hack)</description>
-		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.6) (Mike Ferrell) (Hack).sfc" size="8388608" crc="edd4df3a" md5="ca94980a6b145cb601f1023ff5665b18" sha1="af4814405e962f5ccc7eb7bc1677a2dab2e1038b"/>
-		<url>https://retroachievements.org/game/16496/hashes</url>
-		<hash>ca94980a6b145cb601f1023ff5665b18</hash>
-	</game>
-	<game name="Hack/Final Fantasy VI/FFVI - Return of the Dark Sorcerer (v2.9.6) (Mike Ferrell) (OST-B) (Hack)">
-		<category>Super Nintendo</category>
-		<description>FFVI - Return of the Dark Sorcerer (v2.9.6) (Mike Ferrell) (OST-B) (Hack)</description>
-		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.6) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="8967fdd4" md5="b616df729c9336ac2c6fde25d22486db" sha1="c7a3175490fe9b06ba33b57812ae081c3d4bffc0"/>
-		<url>https://retroachievements.org/game/16496/hashes</url>
-		<hash>b616df729c9336ac2c6fde25d22486db</hash>
-	</game>
-	<game name="Hack/Final Fantasy VI/FFVI - Return of the Dark Sorcerer (v2.9.7) (Mike Ferrell) (Hack)">
-		<category>Super Nintendo</category>
-		<description>FFVI - Return of the Dark Sorcerer (v2.9.7) (Mike Ferrell) (Hack)</description>
-		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.7) (Mike Ferrell) (Hack).sfc" size="8388608" crc="e3608e70" md5="7cd4c783d9cdd8c49455506eb71297ff" sha1="7b2483c74db2411ef24cb045ca945db9bd27840c"/>
-		<url>https://retroachievements.org/game/16496/hashes</url>
-		<hash>7cd4c783d9cdd8c49455506eb71297ff</hash>
-	</game>
-	<game name="Hack/Final Fantasy VI/FFVI - Return of the Dark Sorcerer (v2.9.7) (Mike Ferrell) (OST-B) (Hack)">
-		<category>Super Nintendo</category>
-		<description>FFVI - Return of the Dark Sorcerer (v2.9.7) (Mike Ferrell) (OST-B) (Hack)</description>
-		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.7) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="87d3ac9e" md5="27a904efae2305550a0b459916ed87e6" sha1="762bd846bfa3b1f2ce20af7d7dbff17521731a4e"/>
-		<url>https://retroachievements.org/game/16496/hashes</url>
-		<hash>27a904efae2305550a0b459916ed87e6</hash>
-	</game>
-	<game name="Hack/Final Fantasy VI/FFVI - Return of the Dark Sorcerer (v2.9.8) (Mike Ferrell) (Hack)">
-		<category>Super Nintendo</category>
-		<description>FFVI - Return of the Dark Sorcerer (v2.9.8) (Mike Ferrell) (Hack)</description>
-		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.8) (Mike Ferrell) (Hack).sfc" size="8388608" crc="70e678df" md5="44256a22de8a1e0c5f9d0da465a15ac9" sha1="ef4b044a731cb83d389b0dfedfccaa0b204f25db"/>
-		<url>https://retroachievements.org/game/16496/hashes</url>
-		<hash>44256a22de8a1e0c5f9d0da465a15ac9</hash>
-	</game>
-	<game name="Hack/Final Fantasy VI/FFVI - Return of the Dark Sorcerer (v2.9.8) (Mike Ferrell) (OST-B) (Hack)">
-		<category>Super Nintendo</category>
-		<description>FFVI - Return of the Dark Sorcerer (v2.9.8) (Mike Ferrell) (OST-B) (Hack)</description>
-		<rom name="FFVI - Return of the Dark Sorcerer (v2.9.8) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="4e4756c2" md5="6b57368efe9eb260d0b9765aaf153875" sha1="16b9f72638dc7b6961ad99c1559411333bb37dcd"/>
-		<url>https://retroachievements.org/game/16496/hashes</url>
-		<hash>6b57368efe9eb260d0b9765aaf153875</hash>
-	</game>
-	<game name="Hack/Final Fantasy VI/FFVI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (Hack)">
-		<category>Super Nintendo</category>
-		<description>FFVI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (Hack)</description>
-		<rom name="FFVI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (Hack).sfc" size="8388608" crc="0610d6fa" md5="63101ae34cb3783538c91391cbd23122" sha1="2ffb658316d17ab0cd894d655210d227df63bcd0"/>
-		<url>https://retroachievements.org/game/16496/hashes</url>
-		<hash>63101ae34cb3783538c91391cbd23122</hash>
-	</game>
-	<game name="Hack/Final Fantasy VI/FFVI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (OST-B) (Hack)">
-		<category>Super Nintendo</category>
-		<description>FFVI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (OST-B) (Hack)</description>
-		<rom name="FFVI - Return of the Dark Sorcerer (v2.11) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="fdf907b2" md5="2f4231e03c8403af16a5eaab7a015b6c" sha1="635dd967d84fe6a9b6b46a4d202458e4e2a8766d"/>
-		<url>https://retroachievements.org/game/16496/hashes</url>
-		<hash>2f4231e03c8403af16a5eaab7a015b6c</hash>
-	</game>
-	<game name="Hack/Final Fantasy VI/FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)">
-		<category>Super Nintendo</category>
-		<description>FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack)</description>
-		<rom name="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (Hack).sfc" size="8388608" crc="6af0ab5b" md5="aba560523d857bde23b70b1875049d30" sha1="c45823d278bd2cf42313787e2cb119c5bb5d64ab"/>
-		<url>https://retroachievements.org/game/16496/hashes</url>
-		<hash>aba560523d857bde23b70b1875049d30</hash>
-	</game>
-	<game name="Hack/Final Fantasy VI/FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (OST-B) (Hack)">
-		<category>Super Nintendo</category>
-		<description>FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (OST-B) (Hack)</description>
-		<rom name="FFVI - Return of the Dark Sorcerer (v2.12) (Mike Ferrell) (OST-B) (Hack).sfc" size="8388608" crc="dd44faac" md5="5c09b8ba99d6f37a7f531ea5c7a5be02" sha1="4c3fa9d9229f55acd9554ba4395abfa7c0945816"/>
-		<url>https://retroachievements.org/game/16496/hashes</url>
-		<hash>5c09b8ba99d6f37a7f531ea5c7a5be02</hash>
+		<hash>4fe96929641b7ced018daa847dd33881</hash>
 	</game>
 	
 	<game name="Hack/FFVI - Final Fantasy VI SPX (v14.1) (s8fp98fd5k) (Hack)">

@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>No Subfolders</category>
-		<version>20250705</version>
-		<date>05 July 2025</date>
+		<version>20250711</version>
+		<date>11 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -694,20 +694,6 @@
 		<hash>d1e174606ac4404499087626e8b60a7d</hash>
 	</game>
 	
-	<game name="Pokemon - Sword and Shield Ultimate Plus (v1.1.8) (Hack)" cloneof="Pokemon - Sword and Shield Ultimate Plus (PCL.G) (v1.2.1.2) (Hack)">
-		<category>Hack</category>
-		<description>Pokemon - Sword and Shield Ultimate Plus (v1.1.8) (Hack)</description>
-		<rom name="Pokemon - Sword and Shield Ultimate Plus (v1.1.8) (Hack).gba" size="33554432" crc="e200222a" md5="de1b1692ed257bf933a83f64dac96b1b" sha1="1374abc3b92d3b2a32e48ef1a1383a3b4c2111b8"/>
-		<url>https://retroachievements.org/game/18985/hashes</url>
-		<hash>de1b1692ed257bf933a83f64dac96b1b</hash>
-	</game>
-	<game name="Pokemon - Sword and Shield Ultimate Plus (PCL.G) (v1.1.8) (Performance Patch) (Hack)" cloneof="Pokemon - Sword and Shield Ultimate Plus (PCL.G) (v1.2.1.2) (Hack)">
-		<category>Hack</category>
-		<description>Pokemon - Sword and Shield Ultimate Plus (PCL.G) (v1.1.8) (Performance Patch) (Hack)</description>
-		<rom name="Pokemon - Sword and Shield Ultimate Plus (PCL.G) (v1.1.8) (Performance Patch) (Hack).gba" size="33554432" crc="deadcce3" md5="0d257b305b1a017ebc5c5764470a556e" sha1="5436cec2d56987208d1daf9eb403288096a70776"/>
-		<url>https://retroachievements.org/game/18985/hashes</url>
-		<hash>0d257b305b1a017ebc5c5764470a556e</hash>
-	</game>
 	<game name="Pokemon - Sword and Shield Ultimate Plus (PCL.G) (v1.2.1.2) (Hack)">
 		<category>Hack</category>
 		<description>Pokemon - Sword and Shield Ultimate Plus (PCL.G) (v1.2.1.2) (Hack)</description>

@@ -5,8 +5,8 @@
 		<name>RA - Sega CD</name>
 		<description>Sega CD</description>
 		<category>No Subfolders</category>
-		<version>20250702</version>
-		<date>02 July 2025</date>
+		<version>20250711</version>
+		<date>11 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/9/games</url>
@@ -359,6 +359,31 @@
 		<rom name="Earthworm Jim - Special Edition (USA) (RE) (Track 28).bin" size="1528800" crc="9265e140" md5="745b11da19fa5137a007a990eec3515e" sha1="e6251cae47325e237b59a849b3513516a5b1f4ea"/>
 		<url>https://retroachievements.org/game/14144/hashes</url>
 		<hash>fbd25c6c1f42973b214ace4646c8632a</hash>
+	</game>
+	
+	<game name="Ecco the Dolphin (Europe)">
+		<category>Retail</category>
+		<description>Ecco the Dolphin (Europe)</description>
+		<release name="Ecco the Dolphin (Europe)" region="Europe"/>
+		<rom name="Ecco the Dolphin (Europe).cue" size="1580" crc="45008939" md5="8701f9b6e61b310979d11e76551b2b6a" sha1="7cda6a1b516be739be20a503e0c8c844ab3bc168"/>
+		<rom name="Ecco the Dolphin (Europe) (Track 01).bin" size="59616144" crc="e6eaf047" md5="072049cee317e60963b02978ddfcab00" sha1="131ab295b255134bad5b3c1ce0306fbf836d799a"/>
+		<rom name="Ecco the Dolphin (Europe) (Track 02).bin" size="48773424" crc="2bfe906c" md5="477701c21fe8fb436d957ec0eb0551e7" sha1="0ecf1746dcb28a4c77024cbf509bee275d117044"/>
+		<rom name="Ecco the Dolphin (Europe) (Track 03).bin" size="42973392" crc="9cbebfab" md5="e6ab60fe11008e73e85ce4b4569c32ed" sha1="394d351d0965cc5c1c21d1283aed49c3695f781f"/>
+		<rom name="Ecco the Dolphin (Europe) (Track 04).bin" size="37305072" crc="27125c44" md5="949bba8a73b1fc2757d3f9c8f2a02a53" sha1="e0f4306c86c41a1ae0a28dae2c439553cb2d05b9"/>
+		<rom name="Ecco the Dolphin (Europe) (Track 05).bin" size="60834480" crc="b7e73dda" md5="35a790dd8ccadcfb52a94f91b56d9ee9" sha1="8794f42f68b073f147fced2ab1396d6264fccd9a"/>
+		<rom name="Ecco the Dolphin (Europe) (Track 06).bin" size="39506544" crc="c86d2f6a" md5="246ed70c24f9f615ef41326bc3228556" sha1="18e286f170e6de46805ec677323907522f204994"/>
+		<rom name="Ecco the Dolphin (Europe) (Track 07).bin" size="59554992" crc="8c96c4c9" md5="44f682517c0c77c9390239a1cf00a0bc" sha1="7184b936787708b9132ffa52b5f16993d0fa328c"/>
+		<rom name="Ecco the Dolphin (Europe) (Track 08).bin" size="36987552" crc="1ac3cf3e" md5="bcf9d942cc450ad6b211b6c998e28c1c" sha1="f98e876edc88f98296711912fd77fa6a27890a0d"/>
+		<rom name="Ecco the Dolphin (Europe) (Track 09).bin" size="10468752" crc="5a547490" md5="30ca8ad875242ef7a25c8d79e616412e" sha1="9462b3e33ea745380da8abdd88c1534244c6bf1a"/>
+		<rom name="Ecco the Dolphin (Europe) (Track 10).bin" size="20389488" crc="fc3af83d" md5="3aaed774c59991e87c9217760bd8a7bb" sha1="e17a6da8a9fe9a726ed44097d5832375fd9fc797"/>
+		<rom name="Ecco the Dolphin (Europe) (Track 11).bin" size="36126720" crc="6e550a42" md5="bdad44b7ed1f2657120396bc9f953d30" sha1="557dbc5ebbcf6b87df6d74f08ba9f34327ef2a8b"/>
+		<rom name="Ecco the Dolphin (Europe) (Track 12).bin" size="10461696" crc="357ba37c" md5="0a86d5840e2277eda64a15abf8e8f355" sha1="ca787b3fb15d5402a458d4898e839e412fab9c0e"/>
+		<rom name="Ecco the Dolphin (Europe) (Track 13).bin" size="37199232" crc="0a300055" md5="9e9446afcedcc6f71b1314be7885f489" sha1="2335e016a7632e086eab0b2fc0fe97e97e2567b0"/>
+		<rom name="Ecco the Dolphin (Europe) (Track 14).bin" size="37126320" crc="d3339080" md5="1a5efcfc4a99ceac9139bca08faf4db1" sha1="2bc21b9fe5b923aedd1c95038732f50dfcc03e97"/>
+		<rom name="Ecco the Dolphin (Europe) (Track 15).bin" size="58670640" crc="ebc5c405" md5="80dcdb36594c50b5d9a53e20c6401907" sha1="1fa4bbbb6e15253aaf9a69cfae76aa48be97d251"/>
+		<rom name="Ecco the Dolphin (Europe) (Track 16).bin" size="40002816" crc="c1630466" md5="829c5cd5dc76e0e1a83f48d3016840e7" sha1="225e364e74d3a4b68530ecc11e8a63fcfff04dce"/>
+		<url>https://retroachievements.org/game/16019/hashes</url>
+		<hash>1f9896c6fc87315538aead49d345178b</hash>
 	</game>
 	
 	<game name="Eternal Champions - Challenge from the Dark Side (USA) (RE)">

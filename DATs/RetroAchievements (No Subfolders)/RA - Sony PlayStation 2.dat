@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation 2</name>
 		<description>Sony Playstation 2</description>
 		<category>No Subfolders</category>
-		<version>20250702</version>
-		<date>02 July 2025</date>
+		<version>20250711</version>
+		<date>11 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -720,6 +720,16 @@
 		<rom name="Berserk - Millennium Falcon-hen - Seima Senki no Shou (Japan).iso" size="4273537024" crc="7ff31f5b" md5="c82b2186f7fb0613911a4823c710aa28" sha1="b49959e5a4d92f3c9be8b8402116c29f696167a8"/>
 		<url>https://retroachievements.org/game/20643/hashes</url>
 		<hash>40570e6ea11fb2062a092a6fc1f5681c</hash>
+	</game>
+	
+	<game name="Beta Bloc (Europe)">
+		<category>Retail</category>
+		<description>Beta Bloc (Europe)</description>
+		<release name="Beta Bloc (Europe)" region="Europe"/>
+		<rom name="Beta Bloc (Europe).cue" size="84" crc="f524e540" md5="6b93bec32391d50151bab4957c81c0d4" sha1="4c85b612220dd95b2d2f0ae6885a1d154a8843ef"/>
+		<rom name="Beta Bloc (Europe).bin" size="132097728" crc="9a1d6206" md5="047c1f85f1a1a882c5ea0eaec275d3f5" sha1="1360bb9e5fe4656ba00ed8e9505d88a75d801061"/>
+		<url>https://retroachievements.org/game/33780/hashes</url>
+		<hash>0f2509580afe53ecaedc7273e86da7e0</hash>
 	</game>
 	
 	<game name="Beyond Good &amp; Evil (USA) (En,Fr,Es)" cloneof="Beyond Good &amp; Evil (Europe, Australia) (En,Fr,De,Es,It,Nl)">
@@ -1492,6 +1502,126 @@
 		<rom name="Dark Summit (USA).bin" size="687386112" crc="5d2b3c95" md5="a90c77f93864f13eccc596ea600689e6" sha1="08fd7b4bce7ca38a903b6712f2c31007f0ca39b5"/>
 		<url>https://retroachievements.org/game/19186/hashes</url>
 		<hash>ec2c6fa8320344c7400f08d787ee1642</hash>
+	</game>
+	
+	<game name="Darkwatch (USA)">
+		<category>Retail</category>
+		<description>Darkwatch (USA)</description>
+		<release name="Darkwatch (USA)" region="USA"/>
+		<rom name="Darkwatch (USA).iso" size="4653514752" crc="7548dc2d" md5="9ce6383cb5260e300cacde569ea5916d" sha1="bb02327ad446821064e1162ade35f9626b122e95"/>
+		<url>https://retroachievements.org/game/19111/hashes</url>
+		<hash>00bead17cad153878fc25b8985187192</hash>
+	</game>
+	<game name="Darkwatch (Europe, Australia) (En,Fr,De,Es,It)" cloneof="Darkwatch (USA)">
+		<category>Retail</category>
+		<description>Darkwatch (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<release name="Darkwatch (Europe, Australia) (En,Fr,De,Es,It)" region="Australia"/>
+		<release name="Darkwatch (Europe, Australia) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="Darkwatch (Europe, Australia) (En,Fr,De,Es,It).iso" size="4692312064" crc="3e19b9b9" md5="8e6c817041adc5b20f3011cd0f945f9d" sha1="c7c37afb0b3fc491bbcdb225b099141fa64ed4cc"/>
+		<url>https://retroachievements.org/game/19111/hashes</url>
+		<hash>0e21d37f63246c5a7bb32e074ce43f8b</hash>
+	</game>
+	<game name="Darkwatch (USA) (Widescreen) (v1.0) (ASolidSnack)" cloneof="Darkwatch (USA)">
+		<category>Retail</category>
+		<description>Darkwatch (USA) (Widescreen) (v1.0) (ASolidSnack)</description>
+		<rom name="Darkwatch (USA) (Widescreen) (v1.0) (ASolidSnack).iso" size="4653514752" crc="b5b81849" md5="022d2e5d94f6f5120a9097ac1a16cc24" sha1="45164633334ae4b3e7e7b19a4c883a63332e4bab"/>
+		<url>https://retroachievements.org/game/19111/hashes</url>
+		<hash>4ff7b18f008ebb88fc879c8560927800</hash>
+	</game>
+	<game name="Darkwatch (USA) (Widescreen, 60 FPS) (v1.0) (ASolidSnack)" cloneof="Darkwatch (USA)">
+		<category>Retail</category>
+		<description>Darkwatch (USA) (Widescreen, 60 FPS) (v1.0) (ASolidSnack)</description>
+		<rom name="Darkwatch (USA) (Widescreen, 60 FPS) (v1.0) (ASolidSnack).iso" size="4653514752" crc="8a77c271" md5="907ea7d9b878704da9370ed8378ebba2" sha1="3339332353a12ea97e21b71904384bf83b19ccd3"/>
+		<url>https://retroachievements.org/game/19111/hashes</url>
+		<hash>8cd794a303cc6b55135a033f87454ab2</hash>
+	</game>
+	<game name="Darkwatch (USA) (60 FPS) (v1.0) (ASolidSnack)" cloneof="Darkwatch (USA)">
+		<category>Retail</category>
+		<description>Darkwatch (USA) (60 FPS) (v1.0) (ASolidSnack)</description>
+		<rom name="Darkwatch (USA) (60 FPS) (v1.0) (ASolidSnack).iso" size="4653514752" crc="4a870615" md5="b4eb8a45ed2391922272c34b6c981d3d" sha1="b3a4207351c94ea514b66c865ef2277ed12fa560"/>
+		<url>https://retroachievements.org/game/19111/hashes</url>
+		<hash>b487d65114eea612510bc65d034892c5</hash>
+	</game>
+	<game name="Darkwatch (Europe, Australia) (Widescreen, NTSC 60Hz mode) (v1.0) (ASolidSnack)" cloneof="Darkwatch (USA)">
+		<category>Retail</category>
+		<description>Darkwatch (Europe, Australia) (Widescreen, NTSC 60Hz mode) (v1.0) (ASolidSnack)</description>
+		<rom name="Darkwatch (Europe, Australia) (Widescreen, NTSC 60Hz mode) (v1.0) (ASolidSnack).iso" size="4692312064" crc="657dfae2" md5="bcdf91a6d46cef7da89e9e05daf8acf7" sha1="dce7753bd5a24f2915ebb8a2010771950aa810f2"/>
+		<url>https://retroachievements.org/game/19111/hashes</url>
+		<hash>c9bc0547501e4520b18eef1d92367403</hash>
+	</game>
+	<game name="Darkwatch (Europe, Australia) (Widescreen, NTSC 60Hz mode, 60 FPS) (v1.0) (ASolidSnack)" cloneof="Darkwatch (USA)">
+		<category>Retail</category>
+		<description>Darkwatch (Europe, Australia) (Widescreen, NTSC 60Hz mode, 60 FPS) (v1.0) (ASolidSnack)</description>
+		<rom name="Darkwatch (Europe, Australia) (Widescreen, NTSC 60Hz mode, 60 FPS) (v1.0) (ASolidSnack).iso" size="4692312064" crc="881d3925" md5="df983448f286c10328fcc39719eb2836" sha1="f97b23bb5a7eb4a4a560ec6f9eb572194ff8a96e"/>
+		<url>https://retroachievements.org/game/19111/hashes</url>
+		<hash>e18376f6ba53d29e00dcd6d402e9c3aa</hash>
+	</game>
+	<game name="Darkwatch (Europe, Australia) (50 FPS) (v1.0) (ASolidSnack)" cloneof="Darkwatch (USA)">
+		<category>Retail</category>
+		<description>Darkwatch (Europe, Australia) (50 FPS) (v1.0) (ASolidSnack)</description>
+		<rom name="Darkwatch (Europe, Australia) (50 FPS) (v1.0) (ASolidSnack).iso" size="4692312064" crc="d3797a7e" md5="e428322699bd882da312aaaeba2030a1" sha1="d01cea88b917a05b23aed654484776b0a42751e3"/>
+		<url>https://retroachievements.org/game/19111/hashes</url>
+		<hash>6acfaa8e8d813c7fbfbb5079a944d3b2</hash>
+	</game>
+	
+	<game name="Darkwatch (USA) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)">
+		<category>Subset</category>
+		<description>Darkwatch (USA) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)</description>
+		<release name="Darkwatch (USA) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)" region="USA"/>
+		<rom name="Darkwatch (USA) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative).iso" size="4653514752" crc="33a8a7ef" md5="de30c47719702d0b6325e8a636a5f4a8" sha1="0857cff94f3f9bdd60b0569196c8b2da76ed8e19"/>
+		<url>https://retroachievements.org/game/24401/hashes</url>
+		<hash>36c35e39f3e8214bdc75a6972e2aee50</hash>
+	</game>
+	<game name="Darkwatch (USA) (Widescreen) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)" cloneof="Darkwatch (USA) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)">
+		<category>Subset</category>
+		<description>Darkwatch (USA) (Widescreen) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)</description>
+		<rom name="Darkwatch (USA) (Widescreen) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative).iso" size="4653514752" crc="f358638b" md5="685ff24cc0b40da09e790c91269ca5e2" sha1="cfd9d7bdbc8e3056893a2e438d3c8e84a406ed09"/>
+		<url>https://retroachievements.org/game/24401/hashes</url>
+		<hash>eabe57ba9c97fde71f37548ea7e36e1d</hash>
+	</game>
+	<game name="Darkwatch (USA) (Widescreen + 60FPS) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)" cloneof="Darkwatch (USA) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)">
+		<category>Subset</category>
+		<description>Darkwatch (USA) (Widescreen + 60FPS) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)</description>
+		<rom name="Darkwatch (USA) (Widescreen + 60FPS) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative).iso" size="4653514752" crc="cc97b9b3" md5="68afb4c94d50a9282268d8ecd9164f9b" sha1="9ac6b850872aa60dbe6fbb3aceb4d7169f87afe6"/>
+		<url>https://retroachievements.org/game/24401/hashes</url>
+		<hash>fe1c92ef9949c6b632f632f0730fe077</hash>
+	</game>
+	<game name="Darkwatch (USA) (60FPS) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)" cloneof="Darkwatch (USA) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)">
+		<category>Subset</category>
+		<description>Darkwatch (USA) (60FPS) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)</description>
+		<rom name="Darkwatch (USA) (60FPS) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative).iso" size="4653514752" crc="0c677dd7" md5="6fd93c4efc0ef300141f88496d5bb7b6" sha1="f0f3d73d018e38838ca73c6551cfff25aba5cd02"/>
+		<url>https://retroachievements.org/game/24401/hashes</url>
+		<hash>774c711b3ac4eceeef93f5c833542065</hash>
+	</game>
+	<game name="Darkwatch (Europe, Australia) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)" cloneof="Darkwatch (USA) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)">
+		<category>Subset</category>
+		<description>Darkwatch (Europe, Australia) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)</description>
+		<release name="Darkwatch (Europe, Australia) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)" region="Australia"/>
+		<release name="Darkwatch (Europe, Australia) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)" region="Europe"/>
+		<rom name="Darkwatch (Europe, Australia) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative).iso" size="4692312064" crc="663e89d6" md5="802857acfa6e8ae2ca8bbd9bc1f58c7c" sha1="2a274bff94331e28de579a1ba846f54b3f744f4b"/>
+		<url>https://retroachievements.org/game/24401/hashes</url>
+		<hash>dfa65a5a45a97d732459f13bedd6c3ab</hash>
+	</game>
+	<game name="Darkwatch (Europe, Australia) (Widescreen + NTSC Mode) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)" cloneof="Darkwatch (USA) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)">
+		<category>Subset</category>
+		<description>Darkwatch (Europe, Australia) (Widescreen + NTSC Mode) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)</description>
+		<rom name="Darkwatch (Europe, Australia) (Widescreen + NTSC Mode) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative).iso" size="4692312064" crc="3d5aca8d" md5="861ca3321fc1d395de86f6efc7e278d4" sha1="f2c422b346458d7760368e4e0967e762cc5bc308"/>
+		<url>https://retroachievements.org/game/24401/hashes</url>
+		<hash>8e58771f412c249921b61c3eb28acc3d</hash>
+	</game>
+	<game name="Darkwatch (Europe, Australia) (Widescreen + NTSC Mode + 60FPS) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)" cloneof="Darkwatch (USA) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)">
+		<category>Subset</category>
+		<description>Darkwatch (Europe, Australia) (Widescreen + NTSC Mode + 60FPS) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)</description>
+		<rom name="Darkwatch (Europe, Australia) (Widescreen + NTSC Mode + 60FPS) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative).iso" size="4692312064" crc="d03a094a" md5="f128384319a8b112d0af6a89d0cf8db1" sha1="06cab4a1c324c49e65b8eeca599d7aaf2327b50b"/>
+		<url>https://retroachievements.org/game/24401/hashes</url>
+		<hash>15a8de95109b54c0d489dbc459207204</hash>
+	</game>
+	<game name="Darkwatch (Europe, Australia) (50FPS) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)" cloneof="Darkwatch (USA) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)">
+		<category>Subset</category>
+		<description>Darkwatch (Europe, Australia) (50FPS) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)</description>
+		<rom name="Darkwatch (Europe, Australia) (50FPS) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative).iso" size="4692312064" crc="8b5e4a11" md5="be2e6cbdf7f195efa2aa66e654e4198a" sha1="d97c905f4fc4005fe2e03d1c7843043a52bba76b"/>
+		<url>https://retroachievements.org/game/24401/hashes</url>
+		<hash>bc7b8abf3aac04d1f4c987a0e7194c82</hash>
 	</game>
 	
 	<game name="Dave Mirra Freestyle BMX 2 (USA)">
@@ -3558,6 +3688,15 @@
 		<hash>80c397c7427410527caefb77faa779cf</hash>
 	</game>
 	
+	<game name="Ice Age - Dawn of the Dinosaurs (USA) (En,Fr)">
+		<category>Retail</category>
+		<description>Ice Age - Dawn of the Dinosaurs (USA) (En,Fr)</description>
+		<release name="Ice Age - Dawn of the Dinosaurs (USA) (En,Fr)" region="USA"/>
+		<rom name="Ice Age - Dawn of the Dinosaurs (USA) (En,Fr).iso" size="4289167360" crc="0b88bcc4" md5="f2c7f7bb7033f75f107fc94a5fab2fd2" sha1="18fb02a14567cacc36def3d44c986d0fd24c2be0"/>
+		<url>https://retroachievements.org/game/19285/hashes</url>
+		<hash>fb0bfcf256d4f32333bf56ce6ed1da9a</hash>
+	</game>
+	
 	<game name="Ico (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<description>Ico (Europe) (En,Fr,De,Es,It)</description>
@@ -3583,6 +3722,16 @@
 		<rom name="Initial D - Special Stage (Japan) (v2.00).iso" size="1961885696" crc="c1b1a37a" md5="ed2a00953c31e0c4d08ec8370894eec0" sha1="0196aa25b402d9ad8b4918fee84b65d03a6d0479"/>
 		<url>https://retroachievements.org/game/24419/hashes</url>
 		<hash>a2b798a28f3f43c0da693cce2efbd414</hash>
+	</game>
+	
+	<game name="Inspector Gadget - Mad Robots Invasion (Europe) (En,Fr,De,Es,It,Nl)">
+		<category>Retail</category>
+		<description>Inspector Gadget - Mad Robots Invasion (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<release name="Inspector Gadget - Mad Robots Invasion (Europe) (En,Fr,De,Es,It,Nl)" region="Europe"/>
+		<rom name="Inspector Gadget - Mad Robots Invasion (Europe) (En,Fr,De,Es,It,Nl).cue" size="133" crc="524554d4" md5="528c4afd6fbf2e9f9aa079c6b38290aa" sha1="8c579cc7d1fe7ddb463b7dcdf2d1fd42986583d4"/>
+		<rom name="Inspector Gadget - Mad Robots Invasion (Europe) (En,Fr,De,Es,It,Nl).bin" size="334303872" crc="3bb1aea2" md5="877ad60d53557671c83c45ebbfeee921" sha1="92fd1a1628eb3bb2bf1ed029df9c6b384994dd19"/>
+		<url>https://retroachievements.org/game/24507/hashes</url>
+		<hash>4b13625aca0e39833d8ef0da6e1f5bd5</hash>
 	</game>
 	
 	<game name="Inuyasha - Feudal Combat (USA)">

@@ -5,8 +5,8 @@
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
 		<category>No Subfolders</category>
-		<version>20250630</version>
-		<date>30 June 2025</date>
+		<version>20250711</version>
+		<date>11 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/1/games</url>
@@ -2595,6 +2595,15 @@
 		<rom name="Doom Troopers (USA) (Ru) (NewGame).md" size="2097152" crc="c0d6dfa1" md5="9df621d14008590f0c9aef228abc0aba" sha1="fc9c2e35e8a1cc97d7ece352affceeebd3d5030a"/>
 		<url>https://retroachievements.org/game/154/hashes</url>
 		<hash>9df621d14008590f0c9aef228abc0aba</hash>
+	</game>
+	
+	<game name="Doraemon - Yume Dorobou to 7 Nin no Gozans (Japan)">
+		<category>Retail</category>
+		<description>Doraemon - Yume Dorobou to 7 Nin no Gozans (Japan)</description>
+		<release name="Doraemon - Yume Dorobou to 7 Nin no Gozans (Japan)" region="Japan"/>
+		<rom name="Doraemon - Yume Dorobou to 7 Nin no Gozans (Japan).md" size="524288" crc="eeed1130" md5="c78423b48acc46f4cb927665cd9f36c6" sha1="aa92c04afd6b1916fcc6c64285d8dffe0b2b895f"/>
+		<url>https://retroachievements.org/game/5756/hashes</url>
+		<hash>c78423b48acc46f4cb927665cd9f36c6</hash>
 	</game>
 	
 	<game name="Double Dragon (USA, Europe) (Unl)">
@@ -5432,6 +5441,13 @@
 		<rom name="Shining Force (USA).md" size="2097152" crc="e82acdfc" md5="5111aa25931e6789ce4972bc6bafaa04" sha1="c23e81c89e4bf65a5be0152d5a1f35507255d119"/>
 		<url>https://retroachievements.org/game/65/hashes</url>
 		<hash>5111aa25931e6789ce4972bc6bafaa04</hash>
+	</game>
+	<game name="Shining Force (USA) (Steam)" cloneof="Shining Force (USA)">
+		<category>Retail</category>
+		<description>Shining Force (USA) (Steam)</description>
+		<rom name="Shining Force (USA) (Steam).md" size="1572864" crc="e0594abe" md5="4b4acbe75ff7aaeb534ab78ed95910d1" sha1="7cbb3ed31c982750d70a273b9561a9e1b2c04eea"/>
+		<url>https://retroachievements.org/game/65/hashes</url>
+		<hash>4b4acbe75ff7aaeb534ab78ed95910d1</hash>
 	</game>
 
 	<game name="Shining Force II (USA) (Ru) (Shedevr)" cloneof="Shining Force II (Europe)">

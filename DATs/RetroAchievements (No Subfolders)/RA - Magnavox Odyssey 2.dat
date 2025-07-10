@@ -5,8 +5,8 @@
 		<name>RA - Magnavox Odyssey 2</name>
 		<description>Magnavox Odyssey 2</description>
 		<category>No Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250711</version>
+		<date>11 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/23/games</url>
@@ -251,24 +251,6 @@
 		<hash>7BF1A49928971514A73E674FF0356E02</hash>
 	</game>
 	
-	<game name="Quest for the Rings (USA, Europe)">
-		<category>Retail</category>
-		<description>Quest for the Rings (USA, Europe)</description>
-		<release name="Quest for the Rings (USA, Europe)" region="Europe"/>
-		<release name="Quest for the Rings (USA, Europe)" region="USA"/>
-		<rom name="Quest for the Rings (USA, Europe).bin" size="4096" crc="9451be1e" md5="0b105a40c8ff6ae7728006cf80c4ddb7" sha1="32759c8d502cd8b959da5f03351db7cd46c8f96a"/>
-		<url>https://retroachievements.org/game/16564/hashes</url>
-		<hash>0B105A40C8FF6AE7728006CF80C4DDB7</hash>
-	</game>
-	<game name="La Quete des Anneaux (France)" cloneof="Quest for the Rings (USA, Europe)">
-		<category>Retail</category>
-		<description>La Quete des Anneaux (France)</description>
-		<release name="La Quete des Anneaux (France)" region="France"/>
-		<rom name="La Quete des Anneaux (France).bin" size="4096" crc="a21da732" md5="331b299e3b041884bd59c3bad2d3f507" sha1="04543bdbea8112f7cc55caef5da9445d08d65e46"/>
-		<url>https://retroachievements.org/game/16564/hashes</url>
-		<hash>331B299E3B041884BD59C3BAD2D3F507</hash>
-	</game>
-	
 	<game name="Showdown in 2100 A.D. (USA)">
 		<category>Retail</category>
 		<description>Showdown in 2100 A.D. (USA)</description>
@@ -313,6 +295,24 @@
 		<rom name="Take the Money and Run (USA, Europe).bin" size="2048" crc="11ff50ad" md5="b2d810dcb97e38192a6dd3d213dbce10" sha1="8c181f4835d53a358ecb8e4385e087ee942b4b4f"/>
 		<url>https://retroachievements.org/game/22683/hashes</url>
 		<hash>B2D810DCB97E38192A6DD3D213DBCE10</hash>
+	</game>
+	
+	<game name="Quest for the Rings (USA, Europe)">
+		<category>Retail</category>
+		<description>Quest for the Rings (USA, Europe)</description>
+		<release name="Quest for the Rings (USA, Europe)" region="Europe"/>
+		<release name="Quest for the Rings (USA, Europe)" region="USA"/>
+		<rom name="Quest for the Rings (USA, Europe).bin" size="4096" crc="9451be1e" md5="0b105a40c8ff6ae7728006cf80c4ddb7" sha1="32759c8d502cd8b959da5f03351db7cd46c8f96a"/>
+		<url>https://retroachievements.org/game/16564/hashes</url>
+		<hash>0B105A40C8FF6AE7728006CF80C4DDB7</hash>
+	</game>
+	<game name="La Quete des Anneaux (France)" cloneof="Quest for the Rings (USA, Europe)">
+		<category>Retail</category>
+		<description>La Quete des Anneaux (France)</description>
+		<release name="La Quete des Anneaux (France)" region="France"/>
+		<rom name="La Quete des Anneaux (France).bin" size="4096" crc="a21da732" md5="331b299e3b041884bd59c3bad2d3f507" sha1="04543bdbea8112f7cc55caef5da9445d08d65e46"/>
+		<url>https://retroachievements.org/game/16564/hashes</url>
+		<hash>331B299E3B041884BD59C3BAD2D3F507</hash>
 	</game>
 	
 	<game name="Thunderball (USA, Europe)">

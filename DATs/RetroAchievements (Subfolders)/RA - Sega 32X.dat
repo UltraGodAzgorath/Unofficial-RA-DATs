@@ -5,8 +5,8 @@
 		<name>RA - Sega 32X</name>
 		<description>Sega 32X</description>
 		<category>Subfolders</category>
-		<version>20250702</version>
-		<date>02 July 2025</date>
+		<version>20250711</version>
+		<date>11 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/10/games</url>
@@ -263,6 +263,14 @@
 		<rom name="Star Wars Arcade (Europe).32x" size="2621440" crc="82e82660" md5="bfaa6fd031490c26e25f3d59d9c37497" sha1="a877cbf704fe7480966fd88a3c39efb6a39392ac"/>
 		<url>https://retroachievements.org/game/14206/hashes</url>
 		<hash>bfaa6fd031490c26e25f3d59d9c37497</hash>
+	</game>
+	
+	<game name="Retail/Stellar Assault (USA, Europe)">
+		<category></category>
+		<description>Stellar Assault (USA, Europe)</description>
+		<rom name="Stellar Assault (USA, Europe).32x" size="2097152" crc="60c49e4d" md5="1415a8675adf3e8647b3df673b50056d" sha1="561c8c63dbcabc0b1b6f31673ca75a0bde7abc72"/>
+		<url>https://retroachievements.org/game/10109/hashes</url>
+		<hash>1415a8675adf3e8647b3df673b50056d</hash>
 	</game>
 	
 	<game name="Retail/Tempo (Japan, USA) (En)">

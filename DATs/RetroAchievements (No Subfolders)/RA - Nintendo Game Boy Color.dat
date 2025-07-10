@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Color</name>
 		<description>Nintendo Game Boy Color</description>
 		<category>No Subfolders</category>
-		<version>20250630</version>
-		<date>30 June 2025</date>
+		<version>20250711</version>
+		<date>11 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/6/games</url>
@@ -669,6 +669,15 @@
 		<rom name="Postie (World) (v1.1) (GB Compatible) (Aftermarket).gbc" size="262144" crc="50393a65" md5="fcdeae417e8bdf89f1300311e4be5c57" sha1="2c2c6ed8be7a13bf279e435c5984f175c8affcad"/>
 		<url>https://retroachievements.org/game/20036/hashes</url>
 		<hash>fcdeae417e8bdf89f1300311e4be5c57</hash>
+	</game>
+	
+	<game name="Postman Pat's Trail Game (World) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Postman Pat's Trail Game (World) (Aftermarket)</description>
+		<release name="Postman Pat's Trail Game (World) (Aftermarket)" region="World"/>
+		<rom name="Postman Pat's Trail Game (World) (Aftermarket).gbc" size="262144" crc="ad31b512" md5="161d839487a5b618c50eeb95b839ac8c" sha1="135977fe71677e3c49450e2c6ff63105d10dfaac"/>
+		<url>https://retroachievements.org/game/28352/hashes</url>
+		<hash>161d839487a5b618c50eeb95b839ac8c</hash>
 	</game>
 	
 	<game name="Remote Control Shuriken (World) (GBCompo2021) (Aftermarket)">

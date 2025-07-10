@@ -5,8 +5,8 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>No Subfolders</category>
-		<version>20250705</version>
-		<date>05 July 2025</date>
+		<version>20250711</version>
+		<date>11 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/2/games</url>
@@ -3476,6 +3476,15 @@
 		<hash>d7816ed415b4780f22654ec1d5d1e4a4</hash>
 	</game>
 	
+	<game name="LoZOoT - Demon's Quest (v1.7) (thinedave) (Hack)">
+		<category>Hack</category>
+		<description>LoZOoT - Demon's Quest (v1.7) (thinedave) (Hack)</description>
+		<release name="LoZOoT - Demon's Quest (v1.7) (thinedave) (Hack)" region="World"/>
+		<rom name="LoZOoT - Demon's Quest (v1.7) (thinedave) (Hack).z64" size="33554432" crc="4efcf59e" md5="d71c6bd1b095855bfbb11a38f1e73c49" sha1="4d408abccd2a37a86a00b38bcdcca3a748595428"/>
+		<url>https://retroachievements.org/game/33631/hashes</url>
+		<hash>d71c6bd1b095855bfbb11a38f1e73c49</hash>
+	</game>
+	
 	<game name="LoZOoT - Dungeon Rush (v2.2) (mzxrules) (Hack)">
 		<category>Hack</category>
 		<description>LoZOoT - Dungeon Rush (v2.2) (mzxrules) (Hack)</description>
@@ -5210,6 +5219,13 @@
 		<rom name="Mario Kart 64 (USA).z64" size="12582912" crc="434389c1" md5="3a67d9986f54eb282924fca4cd5f6dff" sha1="579c48e211ae952530ffc8738709f078d5dd215e"/>
 		<url>https://retroachievements.org/game/10078/hashes</url>
 		<hash>3A67D9986F54EB282924FCA4CD5F6DFF</hash>
+	</game>
+	<game name="Mario Kart 64 - Pokemon Kart 64 (v1.1) (Shrugboat)" cloneof="Mario Kart 64 (USA)">
+		<category>Retail</category>
+		<description>Mario Kart 64 - Pokemon Kart 64 (v1.1) (Shrugboat)</description>
+		<rom name="Mario Kart 64 - Pokemon Kart 64 (v1.1) (Shrugboat).z64" size="16777216" crc="6ad7f52f" md5="83f248fcb789b151573cd17d8b858f84" sha1="03e666f3df436fdf6eadbdea85497ffd7bda107a"/>
+		<url>https://retroachievements.org/game/10078/hashes</url>
+		<hash>83f248fcb789b151573cd17d8b858f84</hash>
 	</game>
 	
 	<game name="Mario Kart 64 (Subset - Multi)">
