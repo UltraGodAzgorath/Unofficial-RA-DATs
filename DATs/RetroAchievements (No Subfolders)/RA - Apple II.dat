@@ -5,8 +5,8 @@
 		<name>RA - Apple II</name>
 		<description>Apple II</description>
 		<category>No Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250720</version>
+		<date>20 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/38/games</url>
@@ -300,58 +300,58 @@
 		<hash>A3BCFBB732AD5A21D95B909D7BF17A23</hash>
 	</game>
 	
-	<game name="Eamon 001 - Main Hall &amp; Beginners Cave (World) (Tosec)">
+	<game name="Eamon Adventure - 001 - Main Hall &amp; Beginners Cave (World) (Tosec)">
 		<category>Retail</category>
-		<description>Eamon 001 - Main Hall &amp; Beginners Cave (World) (Tosec)</description>
-		<release name="Eamon 001 - Main Hall &amp; Beginners Cave (World) (Tosec)" region="World"/>
-		<rom name="Eamon 001 - Main Hall &amp; Beginners Cave (World) (Tosec).dsk" size="143360" crc="5e095f61" md5="28f6c1441dfea996109c4ab873b62f21" sha1="22b1dd1eb1ad5c12d7689ff5eb3495cbc78cd41f"/>
+		<description>Eamon Adventure - 001 - Main Hall &amp; Beginners Cave (World) (Tosec)</description>
+		<release name="Eamon Adventure - 001 - Main Hall &amp; Beginners Cave (World) (Tosec)" region="World"/>
+		<rom name="Eamon Adventure - 001 - Main Hall &amp; Beginners Cave (World) (Tosec).dsk" size="143360" crc="5e095f61" md5="28f6c1441dfea996109c4ab873b62f21" sha1="22b1dd1eb1ad5c12d7689ff5eb3495cbc78cd41f"/>
 		<url>https://retroachievements.org/game/14023/hashes</url>
 		<hash>28f6c1441dfea996109c4ab873b62f21</hash>
 	</game>
-	<game name="Eamon Adventure - 001 - Main Hall &amp; Beginners Cave (1979) (Donald Brown)" cloneof="Eamon 001 - Main Hall &amp; Beginners Cave (World) (Tosec)">
+	<game name="Eamon Adventure - 001 - Main Hall &amp; Beginners Cave (1979) (Donald Brown)" cloneof="Eamon Adventure - 001 - Main Hall &amp; Beginners Cave (World) (Tosec)">
 		<category>Retail</category>
 		<description>Eamon Adventure - 001 - Main Hall &amp; Beginners Cave (1979) (Donald Brown)</description>
 		<rom name="Eamon Adventure - 001 - Main Hall &amp; Beginners Cave (1979) (Donald Brown).dsk" size="143360" crc="a5393350" md5="cd9606608fe597756ed837539abc15d2" sha1="256308dbf7589e1d52b1daf2b883e43bbb1bb0fb"/>
 		<url>https://retroachievements.org/game/14023/hashes</url>
 		<hash>cd9606608fe597756ed837539abc15d2</hash>
 	</game>
-	<game name="Eamon 002 - The Lair of the Minotaur (World) (Tosec)">
+	<game name="Eamon Adventure - 002 - The Lair of the Minotaur (World) (Tosec)">
 		<category>Retail</category>
-		<description>Eamon 002 - The Lair of the Minotaur (World) (Tosec)</description>
-		<release name="Eamon 002 - The Lair of the Minotaur (World) (Tosec)" region="World"/>
-		<rom name="Eamon 002 - The Lair of the Minotaur (World) (Tosec).dsk" size="143360" crc="f0742aff" md5="d0547f0598246d18e59b64d42b9742bb" sha1="33581951c86be9f4eb21f20e0d6c39b587857bf4"/>
+		<description>Eamon Adventure - 002 - The Lair of the Minotaur (World) (Tosec)</description>
+		<release name="Eamon Adventure - 002 - The Lair of the Minotaur (World) (Tosec)" region="World"/>
+		<rom name="Eamon Adventure - 002 - The Lair of the Minotaur (World) (Tosec).dsk" size="143360" crc="f0742aff" md5="d0547f0598246d18e59b64d42b9742bb" sha1="33581951c86be9f4eb21f20e0d6c39b587857bf4"/>
 		<url>https://retroachievements.org/game/14023/hashes</url>
 		<hash>d0547f0598246d18e59b64d42b9742bb</hash>
 	</game>
-	<game name="Eamon 003 - The Cave of the Mind (World) (Tosec)">
+	<game name="Eamon Adventure - 003 - The Cave of the Mind (World) (Tosec)">
 		<category>Retail</category>
-		<description>Eamon 003 - The Cave of the Mind (World) (Tosec)</description>
-		<release name="Eamon 003 - The Cave of the Mind (World) (Tosec)" region="World"/>
-		<rom name="Eamon 003 - The Cave of the Mind (World) (Tosec).dsk" size="143360" crc="8588af21" md5="3d593e026bd24e69d1ad69d0407475e6" sha1="5272b64d208aabce35a13027f005f2ac019e3fe0"/>
+		<description>Eamon Adventure - 003 - The Cave of the Mind (World) (Tosec)</description>
+		<release name="Eamon Adventure - 003 - The Cave of the Mind (World) (Tosec)" region="World"/>
+		<rom name="Eamon Adventure - 003 - The Cave of the Mind (World) (Tosec).dsk" size="143360" crc="8588af21" md5="3d593e026bd24e69d1ad69d0407475e6" sha1="5272b64d208aabce35a13027f005f2ac019e3fe0"/>
 		<url>https://retroachievements.org/game/14023/hashes</url>
 		<hash>3d593e026bd24e69d1ad69d0407475e6</hash>
 	</game>
-	<game name="Eamon Adventure 006 - The Death Star (World) (Tosec)">
+	<game name="Eamon Adventure - 006 - The Death Star (World) (Tosec)">
 		<category>Retail</category>
-		<description>Eamon Adventure 006 - The Death Star (World) (Tosec)</description>
-		<release name="Eamon Adventure 006 - The Death Star (World) (Tosec)" region="World"/>
-		<rom name="Eamon Adventure 006 - The Death Star (World) (Tosec).dsk" size="143360" crc="d2062783" md5="5b615c94e389f34f593c2cbd97799474" sha1="eeabb4342a76524cdbfee04d11992f3dc45a146d"/>
+		<description>Eamon Adventure - 006 - The Death Star (World) (Tosec)</description>
+		<release name="Eamon Adventure - 006 - The Death Star (World) (Tosec)" region="World"/>
+		<rom name="Eamon Adventure - 006 - The Death Star (World) (Tosec).dsk" size="143360" crc="d2062783" md5="5b615c94e389f34f593c2cbd97799474" sha1="eeabb4342a76524cdbfee04d11992f3dc45a146d"/>
 		<url>https://retroachievements.org/game/14023/hashes</url>
 		<hash>5b615c94e389f34f593c2cbd97799474</hash>
 	</game>
-	<game name="Eamon Adventure 061 - The Harpy Cloud (World) (Tosec)">
+	<game name="Eamon Adventure - 061 - The Harpy Cloud (World) (Tosec)">
 		<category>Retail</category>
-		<description>Eamon Adventure 061 - The Harpy Cloud (World) (Tosec)</description>
-		<release name="Eamon Adventure 061 - The Harpy Cloud (World) (Tosec)" region="World"/>
-		<rom name="Eamon Adventure 061 - The Harpy Cloud (World) (Tosec).dsk" size="143360" crc="c73905bb" md5="cceba6ca3466b9b0f810bbba0e6e496f" sha1="33f10ab32324db8c48fb8938375e6282077832f6"/>
+		<description>Eamon Adventure - 061 - The Harpy Cloud (World) (Tosec)</description>
+		<release name="Eamon Adventure - 061 - The Harpy Cloud (World) (Tosec)" region="World"/>
+		<rom name="Eamon Adventure - 061 - The Harpy Cloud (World) (Tosec).dsk" size="143360" crc="c73905bb" md5="cceba6ca3466b9b0f810bbba0e6e496f" sha1="33f10ab32324db8c48fb8938375e6282077832f6"/>
 		<url>https://retroachievements.org/game/14023/hashes</url>
 		<hash>cceba6ca3466b9b0f810bbba0e6e496f</hash>
 	</game>
-	<game name="Eamon Adventure 007 - The Devil's Tomb (World) (Tosec)">
+	<game name="Eamon Adventure - 007 - The Devil's Tomb (World) (Tosec)">
 		<category>Retail</category>
-		<description>Eamon Adventure 007 - The Devil's Tomb (World) (Tosec)</description>
-		<release name="Eamon Adventure 007 - The Devil's Tomb (World) (Tosec)" region="World"/>
-		<rom name="Eamon Adventure 007 - The Devil's Tomb (World) (Tosec).dsk" size="143360" crc="980161a2" md5="87626d7c0a8df6ab4835e016664dfc46" sha1="d5db90100ca93f68e1839cf150bde7ac5aa74672"/>
+		<description>Eamon Adventure - 007 - The Devil's Tomb (World) (Tosec)</description>
+		<release name="Eamon Adventure - 007 - The Devil's Tomb (World) (Tosec)" region="World"/>
+		<rom name="Eamon Adventure - 007 - The Devil's Tomb (World) (Tosec).dsk" size="143360" crc="980161a2" md5="87626d7c0a8df6ab4835e016664dfc46" sha1="d5db90100ca93f68e1839cf150bde7ac5aa74672"/>
 		<url>https://retroachievements.org/game/14023/hashes</url>
 		<hash>87626d7c0a8df6ab4835e016664dfc46</hash>
 	</game>
@@ -363,7 +363,7 @@
 		<url>https://retroachievements.org/game/14023/hashes</url>
 		<hash>9ac9538d6a05c356fb6f17b9b904f13d</hash>
 	</game>
-	<game name="Eamon Adventure - 006 - The Death Star (1985) (Donald Brown)" cloneof="Eamon Adventure 006 - The Death Star (World) (Tosec)">
+	<game name="Eamon Adventure - 006 - The Death Star (1985) (Donald Brown)" cloneof="Eamon Adventure - 006 - The Death Star (World) (Tosec)">
 		<category>Retail</category>
 		<description>Eamon Adventure - 006 - The Death Star (1985) (Donald Brown)</description>
 		<rom name="Eamon Adventure - 006 - The Death Star (1985) (Donald Brown).dsk" size="143360" crc="2bdd325f" md5="fa24a35a016658170d6ed68f68c40771" sha1="c185eefbb783383de24ce61c8b585cbc5221d902"/>
