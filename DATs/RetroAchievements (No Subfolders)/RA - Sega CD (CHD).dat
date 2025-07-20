@@ -5,8 +5,8 @@
 		<name>RA - Sega CD (CHD)</name>
 		<description>Sega CD (CHD)</description>
 		<category>No Subfolders</category>
-		<version>20250711</version>
-		<date>11 July 2025</date>
+		<version>20250720</version>
+		<date>20 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/9/games</url>
@@ -78,7 +78,7 @@
 	</game>
 	
 	<game name="Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es)">
-		<category></category>
+		<category>Retail</category>
 		<description>Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es)</description>
 		<release name="Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es)" region="Europe"/>
 		<rom name="Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es).chd" size="332822008" crc="8e7d493a" md5="11a34c274226c3d307bbe6281cf8b3ee" sha1="d46f8cbfd8415dca8d949474ee1ac44d9032aeb3"/>
@@ -96,12 +96,21 @@
 	</game>
 	
 	<game name="Bram Stoker's Dracula (USA)">
-		<category></category>
+		<category>Retail</category>
 		<description>Bram Stoker's Dracula (USA)</description>
 		<release name="Bram Stoker's Dracula (USA)" region="USA"/>
 		<rom name="Bram Stoker's Dracula (USA).chd" size="277756477" crc="dc7cfdb5" md5="e42e4940f7d22237e4d0c74881dcd42f" sha1="25193f2111177e471118ea94e6d884c08ab9ba0d"/>
 		<url>https://retroachievements.org/game/16008/hashes</url>
 		<hash>4cdf3056049a8876a4ded1d767e13554</hash>
+	</game>
+	
+	<game name="Brutal - Paws of Fury (USA)">
+		<category>Retail</category>
+		<description>Brutal - Paws of Fury (USA)</description>
+		<release name="Brutal - Paws of Fury (USA)" region="USA"/>
+		<rom name="Brutal - Paws of Fury (USA).chd" size="193776861" crc="cd37b880" md5="67cd2160f7a3c82871a14fd68a500f1a" sha1="444baedeb9417bffae66061b4a58369d87b3fee3"/>
+		<url>https://retroachievements.org/game/33141/hashes</url>
+		<hash>f551034768405cef3fd7c908377e80fe</hash>
 	</game>
 	
 	<game name="Crime Patrol (USA)">
@@ -352,6 +361,23 @@
 		<rom name="MegaRace (USA).chd" size="365000342" crc="b7d34b78" md5="181d964a9b89a9a9409704832743bb8b" sha1="6e1d8dcaa9f0d6e6a6b6ee1cb4add130655ab21a"/>
 		<url>https://retroachievements.org/game/14209/hashes</url>
 		<hash>b111ff79baa4e42536429bb4aebdd578</hash>
+	</game>
+	
+	<game name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)">
+		<category>Retail</category>
+		<description>Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)</description>
+		<release name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)" region="USA"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).chd" size="246124383" crc="201a0ef2" md5="5b7c4b577cf46617235ad1d7f12b42b3" sha1="a779bf668cdebb6b37562734b6cc1c8fb8502084"/>
+		<url>https://retroachievements.org/game/16034/hashes</url>
+		<hash>0de3f1c9f358f35eb589125d07b11f42</hash>
+	</game>
+	<game name="Mickey Mania (Europe)" cloneof="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)">
+		<category>Retail</category>
+		<description>Mickey Mania (Europe)</description>
+		<release name="Mickey Mania (Europe)" region="Europe"/>
+		<rom name="Mickey Mania (Europe).chd" size="246117447" crc="ded58f4c" md5="2fe38208ae3782023c00d92782d349c0" sha1="5e6a6e5441051bbf2b355ae7cc75ff837cd24dc9"/>
+		<url>https://retroachievements.org/game/16034/hashes</url>
+		<hash>54339f3c874613f830a49001098bc725</hash>
 	</game>
 	
 	<game name="Mighty Morphin Power Rangers (USA)">

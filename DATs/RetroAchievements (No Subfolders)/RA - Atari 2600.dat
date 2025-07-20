@@ -5,8 +5,8 @@
 		<name>RA - Atari 2600</name>
 		<description>Atari 2600</description>
 		<category>No Subfolders</category>
-		<version>20250711</version>
-		<date>11 July 2025</date>
+		<version>20250720</version>
+		<date>20 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/25/games</url>
@@ -654,6 +654,15 @@
 		<rom name="Carnival (USA).a26" size="4096" crc="7ac3c700" md5="028024fb8e5e5f18ea586652f9799c96" sha1="e1acf7a845b56e4b3d18192a75a81c7afa6f341a"/>
 		<url>https://retroachievements.org/game/13027/hashes</url>
 		<hash>028024FB8E5E5F18EA586652F9799C96</hash>
+	</game>
+	
+	<game name="Casino ~ Poker Plus (USA)">
+		<category>Retail</category>
+		<description>Casino ~ Poker Plus (USA)</description>
+		<release name="Casino ~ Poker Plus (USA)" region="USA"/>
+		<rom name="Casino ~ Poker Plus (USA).a26" size="4096" crc="420b8248" md5="b816296311019ab69a21cb9e9e235d12" sha1="08598101e38756916613f37581ef1b61c719016f"/>
+		<url>https://retroachievements.org/game/32882/hashes</url>
+		<hash>b816296311019ab69a21cb9e9e235d12</hash>
 	</game>
 	
 	<game name="Centipede (Japan, USA) (En)">

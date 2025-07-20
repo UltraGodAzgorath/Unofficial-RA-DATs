@@ -5,8 +5,8 @@
 		<name>RA - Sega CD</name>
 		<description>Sega CD</description>
 		<category>No Subfolders</category>
-		<version>20250711</version>
-		<date>11 July 2025</date>
+		<version>20250720</version>
+		<date>20 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/9/games</url>
@@ -188,6 +188,30 @@
 		<rom name="Bram Stoker's Dracula (USA) (Track 7).bin" size="46428480" crc="b62ed339" md5="426c7ca217e6962c73d36d628b7dfcbd" sha1="9a96e4106f13ba7cbaf08742b5418b976767132c"/>
 		<url>https://retroachievements.org/game/16008/hashes</url>
 		<hash>4cdf3056049a8876a4ded1d767e13554</hash>
+	</game>
+	
+	<game name="Brutal - Paws of Fury (USA)">
+		<category>Retail</category>
+		<description>Brutal - Paws of Fury (USA)</description>
+		<release name="Brutal - Paws of Fury (USA)" region="USA"/>
+		<rom name="Brutal - Paws of Fury (USA).cue" size="1835" crc="07d8ed47" md5="7a3c9ee997b46ffd5c62894ba13ac538" sha1="0b55007c8de87ce1b141b5f1ba8dea945ad61833"/>
+		<rom name="Brutal - Paws of Fury (USA) (Track 01).bin" size="91318752" crc="3861b809" md5="261e2a13618add1fb1dbd6b5f47839a3" sha1="215c82a104c9ba7f2c85a1ee5d029dc3663b28e5"/>
+		<rom name="Brutal - Paws of Fury (USA) (Track 02).bin" size="24319680" crc="a6c937ca" md5="0e03b6083880105015894d6d9b01ad01" sha1="b959e10776ab17b27f86066e538367c98ec33772"/>
+		<rom name="Brutal - Paws of Fury (USA) (Track 03).bin" size="26036640" crc="8b8ffa2e" md5="6bd583865a83317eae53fa21a1a24a7e" sha1="6a2d04f3c1b0fe925bbf8a4b982eb9f30d898fd6"/>
+		<rom name="Brutal - Paws of Fury (USA) (Track 04).bin" size="25288704" crc="19568e9a" md5="2c6f482904b295407bc1717378d53b3e" sha1="ddbd472cefa48d1e2d5c3f5b6cb94f5b7b69c10b"/>
+		<rom name="Brutal - Paws of Fury (USA) (Track 05).bin" size="23933952" crc="8f653b5b" md5="0c41c4e38df5fbc3c9a8cbb064d67bfa" sha1="74f878b7f820df52f36b8ac006a80810246beddd"/>
+		<rom name="Brutal - Paws of Fury (USA) (Track 06).bin" size="24571344" crc="da954c02" md5="d47d96d63b55abc468f01fd895211079" sha1="e16b9dca222f2e6c51f27b73e84c573293358db6"/>
+		<rom name="Brutal - Paws of Fury (USA) (Track 07).bin" size="23254224" crc="c9154c0f" md5="3df2d18bb3e7c795c3900dea2f919c3a" sha1="2f4fddef73d803fcb9f4d7bd5e348bfbfb5b7c57"/>
+		<rom name="Brutal - Paws of Fury (USA) (Track 08).bin" size="25039392" crc="be770acd" md5="cd3175e7a7496e70ee3a9659922f1c1a" sha1="c7fcc36249a7187f7bea80852ec434683ea3e177"/>
+		<rom name="Brutal - Paws of Fury (USA) (Track 09).bin" size="23661120" crc="2824d31f" md5="f21b17212ea99bce97a28157b4150bf6" sha1="a92135b3959263ae24f0835e0167ca032095ce04"/>
+		<rom name="Brutal - Paws of Fury (USA) (Track 10).bin" size="23936304" crc="22256acb" md5="d1cf61d2b12e28559f9fcb64ee259558" sha1="efea571a50ceb68db844c2b4b070dcd210359b51"/>
+		<rom name="Brutal - Paws of Fury (USA) (Track 11).bin" size="27118560" crc="b1a2100b" md5="d741f28ee86cc571605b2306a79a9aac" sha1="11e4f269af392bb9193da3e1f25854b7ca5d2e60"/>
+		<rom name="Brutal - Paws of Fury (USA) (Track 12).bin" size="27777120" crc="b56b2068" md5="dd5cad83113d99016d527ca5ed32f8bc" sha1="4b6184b92963a274b917dc91f92dd2d027baaeaa"/>
+		<rom name="Brutal - Paws of Fury (USA) (Track 13).bin" size="8845872" crc="74cb2e2d" md5="c7f91cea7d988eee43e900aaa29a38ee" sha1="f5354a78a3cfd8ecf972d7adcfb697fca54d7944"/>
+		<rom name="Brutal - Paws of Fury (USA) (Track 14).bin" size="27036240" crc="9fa3eb2c" md5="82ab5d8efca00322fba5c5197d024c78" sha1="164a3f184123b2d576d7c39260b3ce99eeaa0e35"/>
+		<rom name="Brutal - Paws of Fury (USA) (Track 15).bin" size="19081776" crc="34db734d" md5="2fd7953ffe4372a034f493f01689f094" sha1="790db5dc903099d71b72388e31d3f979e49c75c6"/>
+		<url>https://retroachievements.org/game/33141/hashes</url>
+		<hash>f551034768405cef3fd7c908377e80fe</hash>
 	</game>
 	
 	<game name="Crime Patrol (USA)">
@@ -822,6 +846,79 @@
 		<rom name="MegaRace (USA) (Track 2).bin" size="2227344" crc="a43dada5" md5="ce68aa195b4d6c179a6c505441831252" sha1="598631fc25275d0bba2a37898421e0e67b85b46a"/>
 		<url>https://retroachievements.org/game/14209/hashes</url>
 		<hash>b111ff79baa4e42536429bb4aebdd578</hash>
+	</game>
+	
+	<game name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)">
+		<category>Retail</category>
+		<description>Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)</description>
+		<release name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)" region="USA"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).cue" size="4322" crc="a34680c2" md5="0d2e9732f43ca0d04a317d51cc6766b0" sha1="807141e5041ed93b1aedf41ad159140a9382fa34"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 01).bin" size="15676080" crc="811dbd43" md5="e868d16edb26c5695810f14d54c19d06" sha1="2291effccf920f99da97992add55db860b4d460c"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 02).bin" size="22595664" crc="ab25259a" md5="9fedce95e56ad374337a040bcab3bb2d" sha1="07e992f40923b51a9a62f300c0c908de80d1e8a2"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 03).bin" size="22402800" crc="ecc3d6a4" md5="1ed6739213d264d6788c10594c1e4fc3" sha1="2505aaca3764258a5cbe300992f6855867007930"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 04).bin" size="21730128" crc="defacb36" md5="4deb88426da4f393b52c7a59f500b6cd" sha1="5d553b4ef417d1acd9aa42bbf0c0ace73353bdd5"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 05).bin" size="22849680" crc="f76e3e47" md5="a4ce1f1728ed1cd8d9e9db1f5a17756f" sha1="4a176264ce059412a880ce75a0f685a746500736"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 06).bin" size="21539616" crc="1e661ba9" md5="50598f221a6da4990b6d900c8313bf5b" sha1="b903eb592e521763cdc73a30a0502775e2603fd7"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 07).bin" size="15490272" crc="7083a7ba" md5="2026786872a111f7e485c4f3de0eb4c4" sha1="c81e5f015d42faf0b72a9340d5a0da4493365fb0"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 08).bin" size="22946112" crc="0c0826f1" md5="53011c3b003f0cf8610bfb556dab21e6" sha1="537c46c0e98542d1471b0be821ce98f07fa7e490"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 09).bin" size="22884960" crc="1e846e38" md5="0e9a9ebe632333500e7becd75f19ad61" sha1="1e27aeeee89d6d315ec1197a8907f6ef3436af75"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 10).bin" size="22275792" crc="d28f50e8" md5="f26a34ef4de5c8df8f180d4d73eaded2" sha1="5c931439bfd4e888fe23db63b4910d510f66b780"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 11).bin" size="22786176" crc="da437d67" md5="c8108b2c953f7be23d6de9b881f5c1ac" sha1="5d3242760f14f1b85823d1ca4cae11f7a0709504"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 12).bin" size="22946112" crc="577d454e" md5="247f29496d8242c7d03b0176ba3c73c7" sha1="44b2730c5cda659338f8913cda69a32b4897e792"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 13).bin" size="22595664" crc="584f9ad3" md5="cdbf372bccb94d58e4e18d6973ce4529" sha1="34835f0a5c82de7128ab735a342e8198cd9fffee"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 14).bin" size="26467056" crc="db86c478" md5="f2538eb91f5e6e7c6a137cb6eb1334f8" sha1="b559c417c2fce985f427e96619b054b49b43a0e8"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 15).bin" size="32483472" crc="ef8fac19" md5="cb7240b88f5a5e41b34fcd37fcbf07b3" sha1="709e4504b31ed1e3030089478545cbdc39914409"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 16).bin" size="32194176" crc="29a15d1f" md5="8622197307d6d1350243fb0c7a0a470b" sha1="98620fbdba09a52974623c0acee8cb8dd9b3c942"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 17).bin" size="22082928" crc="4afe20ad" md5="c0cafbc70dd639c8c6ccb273b93e5a60" sha1="9c41c4cd4e08a9c1b9d52ce312fa7f8d568fab02"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 18).bin" size="21890064" crc="8c5e6712" md5="1a8eaf22f859cef18dd7d5d6cceb35ea" sha1="74ba17669c9fced37ab50359b5ce8b54c59a892e"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 19).bin" size="21890064" crc="8ec2095e" md5="89d1443ab54a934150259221174deb45" sha1="63a25b2fb1c77517b6eb77f717eed6c23f7dbe0b"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 20).bin" size="22466304" crc="605cea71" md5="522c9d7db74dabaff3df914f5c1dff93" sha1="d696c7662d46139bd6fed956f0892db5f5d55061"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 21).bin" size="2657760" crc="7f7781aa" md5="5efc7f9a1e59331ab1a099247059e0a2" sha1="a15936fa8062dfa38c1ef5bd83ec9a5845fdb715"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 22).bin" size="5731824" crc="9f57ae5f" md5="d82a590313ad0fc752e44fd0b1a200c2" sha1="d15b02b679ca32b84278a4a4747035bd37f5db5d"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 23).bin" size="22082928" crc="c5faf381" md5="cd5d26dedd84331443dd710d0acd0384" sha1="2e94c7a2fa9cd8e82036754063cd2ff321828a35"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 24).bin" size="3906672" crc="c87f8cff" md5="6c92dcc2edb0f98dbf80a09d77935d97" sha1="b4225e6fb3d92a2c4a76a1c2d626f8bc0bb235c8"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 25).bin" size="2210880" crc="06f18ea1" md5="053fc7f1b1099d0236c75727bad970de" sha1="21e98f4fdc45e88434584b313b3057495de3463b"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 26).bin" size="1794576" crc="a75bafe9" md5="157dc94576b15df176823ac952a06e7c" sha1="934d8b81631cc377db736e94d655b30b3cfee31a"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 27).bin" size="2530752" crc="96928d2c" md5="03d89ac228fced92dafe8edf7b123cde" sha1="4f4b42a676e772f48bb29da066969e03f8803f55"/>
+		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA) (Track 28).bin" size="1764000" crc="e7887563" md5="3078714f29b09408fbf800f7a2ce03d0" sha1="923937048d6b3fe908cbe4115a099a3b7a195d0b"/>
+		<url>https://retroachievements.org/game/16034/hashes</url>
+		<hash>0de3f1c9f358f35eb589125d07b11f42</hash>
+	</game>
+	<game name="Mickey Mania (Europe)" cloneof="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)">
+		<category>Retail</category>
+		<description>Mickey Mania (Europe)</description>
+		<release name="Mickey Mania (Europe)" region="Europe"/>
+		<rom name="Mickey Mania (Europe).cue" size="3253" crc="8c6b5101" md5="0ae9fd03425b4f90d7dc0e2c3ede16b9" sha1="b343a4d72c8641e2ca7a073c42fedc4d394b41ea"/>
+		<rom name="Mickey Mania (Europe) (Track 01).bin" size="15676080" crc="024d38a9" md5="60d7c286360420498de4d4fc7fccdfe2" sha1="116015aec553967475538c71b4425feef9636983"/>
+		<rom name="Mickey Mania (Europe) (Track 02).bin" size="22595664" crc="551213d7" md5="af8ca7603a9a70c2d9e431ff8fff5059" sha1="e710e38a1efc8f6e2a02688166e9723e0121de8f"/>
+		<rom name="Mickey Mania (Europe) (Track 03).bin" size="22405152" crc="358954a4" md5="a9c801d5848e8fca86d57e31fdcd05a8" sha1="8b3720cfca16e906e552e8abbc2b93ff7a5fc9ef"/>
+		<rom name="Mickey Mania (Europe) (Track 04).bin" size="21741888" crc="3b692a2f" md5="23f67beacc36fb19781dc2a8e317fe58" sha1="3f769c7f116caa19532f39c018895a95be381149"/>
+		<rom name="Mickey Mania (Europe) (Track 05).bin" size="22835568" crc="c2339eb3" md5="47ab4f50f33eeadc447f6eb89fffbd75" sha1="dc5147a56565dab521562bd100530232e61ef3a2"/>
+		<rom name="Mickey Mania (Europe) (Track 06).bin" size="21558432" crc="16617662" md5="7b8f3ff097d62d5044584ffb749fa9a7" sha1="f1763cd7aa90a130efc275115edbce23ab46b847"/>
+		<rom name="Mickey Mania (Europe) (Track 07).bin" size="15473808" crc="2419f084" md5="49bf16aee8bef2628c4bd3159b2b768a" sha1="ec12cf1cb2d87325017c50217bfc4dd5ee7a28a3"/>
+		<rom name="Mickey Mania (Europe) (Track 08).bin" size="22943760" crc="241b56f3" md5="68bef85a7d90ef9649cd5fd77143f965" sha1="6fdfdcaed03b634a2ba3649b0d070f239bd8937e"/>
+		<rom name="Mickey Mania (Europe) (Track 09).bin" size="22884960" crc="d868d818" md5="e5b97ec5c27fb3ba7fe2b5be7b97176e" sha1="3562a1c5b6819e4bfb7da8907d9662024de952d7"/>
+		<rom name="Mickey Mania (Europe) (Track 10).bin" size="22292256" crc="66204ffe" md5="6e39aeb2497dfb4563a1249f6e4b81b8" sha1="19276c3b81b17f7af22828b356343d3453b81402"/>
+		<rom name="Mickey Mania (Europe) (Track 11).bin" size="22769712" crc="258a0ac4" md5="10766490e6789197e3b5b489acbc7bdf" sha1="ac9abc5e5707d43b73a22c2b8001ba1856769327"/>
+		<rom name="Mickey Mania (Europe) (Track 12).bin" size="22974336" crc="a86b8263" md5="220e5aabc21bef4b50da406c4a6ad52d" sha1="d855c780791b11d536725dc9e974ae8bd651c451"/>
+		<rom name="Mickey Mania (Europe) (Track 13).bin" size="22567440" crc="f67dfbc1" md5="4e30dddd5a0b01a38c841ffa2d335cb8" sha1="a606aef222ceb2920d13e146ece9cf679fcb335d"/>
+		<rom name="Mickey Mania (Europe) (Track 14).bin" size="26471760" crc="994e05ac" md5="259709d9de9deeb674cdb4f810bf87ca" sha1="4a9ef66a1317bf244d4ca71c40e30a64b63b7bd5"/>
+		<rom name="Mickey Mania (Europe) (Track 15).bin" size="32478768" crc="db190862" md5="d6b20d0738f3767afd102f655d715e41" sha1="ce395626d90bd8df05d25fdebe5345bc74d6e955"/>
+		<rom name="Mickey Mania (Europe) (Track 16).bin" size="32217696" crc="ec6efe12" md5="f80a165d566b33b3d53586382cf0fc56" sha1="39857a6b413f81f9872146610262b973426c14a2"/>
+		<rom name="Mickey Mania (Europe) (Track 17).bin" size="22075872" crc="04b657b8" md5="d254dbcec08a23151370ced5ac8500fc" sha1="360d20a11a7a7ad37c41908177528cc48b799998"/>
+		<rom name="Mickey Mania (Europe) (Track 18).bin" size="21892416" crc="4e65e7f9" md5="70aab6bd01818e5b9c8b6651dc431f17" sha1="640d1692f973191cbb5cd1246f03245b621e73c6"/>
+		<rom name="Mickey Mania (Europe) (Track 19).bin" size="21894768" crc="5ced4803" md5="2bb2524996c3ef003191c84caad1b6e1" sha1="922b9b573cdd68ff9e7643bdc7d9971034d000cf"/>
+		<rom name="Mickey Mania (Europe) (Track 20).bin" size="22442784" crc="614d5df0" md5="d27abcd92e4e877a5dec7cba33b3fba7" sha1="5ee4950bcf031aa64c189dec723b0f0ab802dcbb"/>
+		<rom name="Mickey Mania (Europe) (Track 21).bin" size="2657760" crc="ac61d79a" md5="3ac6b914dee92eebc3f615713930791c" sha1="ace4cd847e15ab88a8a22b82e628a67509abb44b"/>
+		<rom name="Mickey Mania (Europe) (Track 22).bin" size="5734176" crc="3fcfb9b5" md5="56ff0355bc27a415656ce8eb613b9c04" sha1="5eee40b3b1bad99a1ab85809a4a4db43acf2da21"/>
+		<rom name="Mickey Mania (Europe) (Track 23).bin" size="22080576" crc="a05888b8" md5="46578ff27481e2926fed2e2e06099c75" sha1="bd4ccbf8df269159cc938c6df99683c03aad96e3"/>
+		<rom name="Mickey Mania (Europe) (Track 24).bin" size="3906672" crc="89cd22ae" md5="5bc4978c4af2a554004dd36a55405842" sha1="5c36f4dccecdad14baff14c3a069f1b5fb4e0b42"/>
+		<rom name="Mickey Mania (Europe) (Track 25).bin" size="2210880" crc="0a180657" md5="130f4da891f5de29adf823678a70ac98" sha1="05d757a5be377dfa839a6247b6c22c616f15be17"/>
+		<rom name="Mickey Mania (Europe) (Track 26).bin" size="1811040" crc="090523c0" md5="a2fcda3f32758223d9fbb8bb4c301458" sha1="57010a31d96526f2a61963f11fe041f1353a0619"/>
+		<rom name="Mickey Mania (Europe) (Track 27).bin" size="2514288" crc="0bf78fcf" md5="710b894d89677d56776649150a99906e" sha1="8a9d94acf2bcd03fa96877e7f9845fa1ad56453a"/>
+		<rom name="Mickey Mania (Europe) (Track 28).bin" size="1764000" crc="e7887563" md5="3078714f29b09408fbf800f7a2ce03d0" sha1="923937048d6b3fe908cbe4115a099a3b7a195d0b"/>
+		<url>https://retroachievements.org/game/16034/hashes</url>
+		<hash>54339f3c874613f830a49001098bc725</hash>
 	</game>
 	
 	<game name="Mighty Morphin Power Rangers (USA)">

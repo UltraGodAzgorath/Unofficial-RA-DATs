@@ -5,8 +5,8 @@
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
 		<category>Subfolders</category>
-		<version>20250711</version>
-		<date>11 July 2025</date>
+		<version>20250720</version>
+		<date>20 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/16/games</url>
@@ -149,12 +149,13 @@
 		<hash>62ef4020aa956287ee45294612caf195</hash>
 	</game>
 	
-	<game name="Hack/SMS - Super Mario Eclipse (v1.0.5) (Eclipse Team) (Hack)">
+	<game name="Hack/SMS - Super Mario Eclipse (v1.0.6) (Eclipse Team) (Hack)">
 		<category></category>
-		<description>SMS - Super Mario Eclipse (v1.0.5) (Eclipse Team) (Hack)</description>
-		<rom name="SMS - Super Mario Eclipse (v1.0.5) (Eclipse Team) (Hack).rvz" size="1182916580" crc="ff377994" md5="7804243b4746c428bdff064354c9c0fe" sha1="6b2655d96fb215259402577fdd11dbecfa19fca7"/>
+		<description>SMS - Super Mario Eclipse (v1.0.6) (Eclipse Team) (Hack)</description>
+		<release name="SMS - Super Mario Eclipse (v1.0.6) (Eclipse Team) (Hack)" region="World"/>
+		<rom name="SMS - Super Mario Eclipse (v1.0.6) (Eclipse Team) (Hack).rvz" size="1194493572" crc="dac0b67e" md5="87ce2f412ab216d9f665de01fe8c0b3b" sha1="7f2128df77dc2ba542d835d1fc08a172ac2df8d4"/>
 		<url>https://retroachievements.org/game/28930/hashes</url>
-		<hash>de4c27c173197e97924b7cb61d7e37f9</hash>
+		<hash>1938af2aee854415255e3220fc366dd1</hash>
 	</game>
 	
 	<game name="Hack/SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks) (Hack)">
@@ -392,6 +393,14 @@
 		<hash>DDD073BEAEC72406BB7A4BFF2FCA7B7A</hash>
 	</game>
 	
+	<game name="Retail/Cocoto Funfair (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Cocoto Funfair (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Cocoto Funfair (Europe) (En,Fr,De,Es,It).rvz" size="384781120" crc="b30d4fd4" md5="6a7fd77a664fa17b4ea9575e0d590a5d" sha1="52c9b62cb3f8098d8962b5ef70ab1e1c56b69917"/>
+		<url>https://retroachievements.org/game/30473/hashes</url>
+		<hash>30abfab382c952a1ed3b0fcf23685b45</hash>
+	</game>
+	
 	<game name="Retail/Custom Robo (USA)">
 		<category></category>
 		<description>Custom Robo (USA)</description>
@@ -618,6 +627,14 @@
 		<rom name="Godzilla - Kaijuu Dairantou (Japan).rvz" size="923567488" crc="9197bfcf" md5="c938535947031d6ff479a31a403bebe1" sha1="ddb298c1947eafc4cf0f57d18e2623228e7bcdfb"/>
 		<url>https://retroachievements.org/game/25444/hashes</url>
 		<hash>9DA8120A49CA790D408AADA09D785745</hash>
+	</game>
+	
+	<game name="Retail/Gotcha Force (USA)">
+		<category></category>
+		<description>Gotcha Force (USA)</description>
+		<rom name="Gotcha Force (USA).rvz" size="583445712" crc="0c014d30" md5="2aa1ba886ccdd9d9a023a6783a699bee" sha1="c065dbdb7366df84685cf82434d3318519fdc039"/>
+		<url>https://retroachievements.org/game/30216/hashes</url>
+		<hash>f0e0823f69df93a7dca8ee4dfcf0cd0f</hash>
 	</game>
 	
 	<game name="Retail/GT Cube (Japan) (Rev 1)">
@@ -1081,6 +1098,14 @@
 		<hash>0F5C54650A75D447C6BEA9DA4EDF32A5</hash>
 	</game>
 	
+	<game name="Retail/Nintendo Puzzle Collection (Japan)">
+		<category></category>
+		<description>Nintendo Puzzle Collection (Japan)</description>
+		<rom name="Nintendo Puzzle Collection (Japan).rvz" size="93375728" crc="1e52ec62" md5="9fa7040b7aea25eb2e5f63115f8b3f83" sha1="acf9ed68080a17c62e43dee12492da96de27db09"/>
+		<url>https://retroachievements.org/game/6359/hashes</url>
+		<hash>e5d674f9b151ae0df4bbae98d9eeeeea</hash>
+	</game>
+	
 	<game name="Retail/Odama (USA) (Rev 1)">
 		<category></category>
 		<description>Odama (USA) (Rev 1)</description>
@@ -1182,6 +1207,14 @@
 		<rom name="Pikmin 2 (Subset - Bonus).rvz" size="910867284" crc="5ecf8910" md5="813d6ca15824fa5ef1df93d0c845b11e" sha1="65d8744786a6427644bb7b6317b2a128152c5aba"/>
 		<url>https://retroachievements.org/game/28656/hashes</url>
 		<hash>46BDB78BC7855E98F76F13F2EEF58AD2</hash>
+	</game>
+	
+	<game name="Retail/Pitfall - The Lost Expedition (USA)">
+		<category></category>
+		<description>Pitfall - The Lost Expedition (USA)</description>
+		<rom name="Pitfall - The Lost Expedition (USA).rvz" size="774873720" crc="10cb20d2" md5="fe0156223dca199597afea0b49cf9bb6" sha1="43ef729b9f5c19ce616031c7d90cff276a3e9d19"/>
+		<url>https://retroachievements.org/game/30552/hashes</url>
+		<hash>1134b5301e40a4453de5d33be174a218</hash>
 	</game>
 	
 	<game name="Retail/Pokemon Box - Ruby &amp; Sapphire (Europe) (En,Fr,De,Es,It) (Rev 1)">

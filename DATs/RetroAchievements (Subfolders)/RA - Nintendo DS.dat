@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>Subfolders</category>
-		<version>20250711</version>
-		<date>11 July 2025</date>
+		<version>20250720</version>
+		<date>20 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
@@ -2697,6 +2697,14 @@
 		<hash>1606e5f4bf5e1e39a1080802830e0968</hash>
 	</game>
 	
+	<game name="Retail/Looney Tunes - Cartoon Concerto (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Looney Tunes - Cartoon Concerto (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Looney Tunes - Cartoon Concerto (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="b02f1ecd" md5="5e887b94d929defd01e7283db5089a86" sha1="bb9b0e807387e1b7e824e4c204bb41f07a85dc03"/>
+		<url>https://retroachievements.org/game/17387/hashes</url>
+		<hash>da968e565f56f88d4258f48ffbec151d</hash>
+	</game>
+	
 	<game name="Retail/Looney Tunes - Duck Amuck (USA)">
 		<category></category>
 		<description>Looney Tunes - Duck Amuck (USA)</description>
@@ -3068,6 +3076,28 @@
 		<rom name="Metroid Prime - Hunters (Europe) (En,Fr,De,Es,It) (Rev 1).nds" size="67108864" crc="8dc4d756" md5="378297159f176802e27384e18e33a1c4" sha1="bdcd1dea293e24c98d4c481430e90d21198985a5"/>
 		<url>https://retroachievements.org/game/1378/hashes</url>
 		<hash>b6947e630bcf9e68aa3cf998d89357ac</hash>
+	</game>
+	
+	<game name="Retail/Midnight Mysteries - The Edgar Allan Poe Conspiracy (Europe) (En,Fr,Nl) (Rev 1)">
+		<category></category>
+		<description>Midnight Mysteries - The Edgar Allan Poe Conspiracy (Europe) (En,Fr,Nl) (Rev 1)</description>
+		<rom name="Midnight Mysteries - The Edgar Allan Poe Conspiracy (Europe) (En,Fr,Nl) (Rev 1).nds" size="33554432" crc="fc950a5d" md5="25f485b0c8cc9c7f30369ff1fb8d01a2" sha1="4b5fdf89d8fd6139905e46bc173d7e737c5f87a3"/>
+		<url>https://retroachievements.org/game/18510/hashes</url>
+		<hash>42e45bba9e0a6df9b206ef8baa49a571</hash>
+	</game>
+	<game name="Retail/Midnight Mysteries - Gaensehaut Wimmelbild-Abenteuer mit Edgar Allan Poe (Germany)">
+		<category></category>
+		<description>Midnight Mysteries - Gaensehaut Wimmelbild-Abenteuer mit Edgar Allan Poe (Germany)</description>
+		<rom name="Midnight Mysteries - Gaensehaut Wimmelbild-Abenteuer mit Edgar Allan Poe (Germany).nds" size="33554432" crc="cef2d0a3" md5="4ab6f5a5c84ceb8bdc0b792924c89d28" sha1="75c44feb66ad3466c42829e0c5fd55be75c6054b"/>
+		<url>https://retroachievements.org/game/18510/hashes</url>
+		<hash>96d7691e10d7150fdbfd22288178fc61</hash>
+	</game>
+	<game name="Retail/Midnight Mysteries - The Edgar Allan Poe Conspiracy (USA)">
+		<category></category>
+		<description>Midnight Mysteries - The Edgar Allan Poe Conspiracy (USA)</description>
+		<rom name="Midnight Mysteries - The Edgar Allan Poe Conspiracy (USA).nds" size="33554432" crc="21e5c976" md5="17018e65690a6b2964f64a0a5883e06b" sha1="e982f9addd89490f495d69fe6eb8aff1ac878657"/>
+		<url>https://retroachievements.org/game/18510/hashes</url>
+		<hash>9ebf187229672ead97a2a6b497ae49e0</hash>
 	</game>
 	
 	<game name="Retail/Moero! Nekketsu Rhythm Damashii - Osu! Tatakae! Ouendan 2 (Japan)">

@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation 2</name>
 		<description>Sony Playstation 2</description>
 		<category>No Subfolders</category>
-		<version>20250711</version>
-		<date>11 July 2025</date>
+		<version>20250720</version>
+		<date>20 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -4847,6 +4847,16 @@
 		<hash>8120dfc07fba7b02b2c1edd0aaca9c4b</hash>
 	</game>
 	
+	<game name="Mr. Bean (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)">
+		<category>Retail</category>
+		<description>Mr. Bean (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)</description>
+		<release name="Mr. Bean (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)" region="Europe"/>
+		<rom name="Mr. Bean (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).cue" size="118" crc="f31465fc" md5="bd78fc1db18b147a803cb014bb971c10" sha1="f694a879ad43e794611d0513d1964f1f3e4cf60a"/>
+		<rom name="Mr. Bean (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).bin" size="190328544" crc="ffdfb1e9" md5="3d74f362a3f934247e069e0bf6144847" sha1="4d921f99893008e42d36497162e00e57cef3a0e2"/>
+		<url>https://retroachievements.org/game/22609/hashes</url>
+		<hash>f06ddb6e1a4ffb867e12ee1ab39ba294</hash>
+	</game>
+	
 	<game name="MS Saga - A New Dawn (USA)">
 		<category>Retail</category>
 		<description>MS Saga - A New Dawn (USA)</description>
@@ -6441,6 +6451,15 @@
 		<rom name="Silent Hill 4 - The Room (USA) (Ru).iso" size="3933929472" crc="804cd5b7" md5="28101ec0e2f3e56d46ad768c8cffd680" sha1="a323227851fda0392bf96d678112bf198deccb0a"/>
 		<url>https://retroachievements.org/game/1336/hashes</url>
 		<hash>ea3ae8cecbd30bfb256f7da089553a06</hash>
+	</game>
+	
+	<game name="Silent Hill Origins (USA) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Silent Hill Origins (USA) (En,Fr,De,Es,It)</description>
+		<release name="Silent Hill Origins (USA) (En,Fr,De,Es,It)" region="USA"/>
+		<rom name="Silent Hill Origins (USA) (En,Fr,De,Es,It).iso" size="3074785280" crc="5a23c164" md5="bf0d8835d0543308b0f7bcf9a355697d" sha1="4458f1c0c599745967dd341433a17b6bb32cbf69"/>
+		<url>https://retroachievements.org/game/2126/hashes</url>
+		<hash>9804ffe7580d7818b3675dd41b1ab0d0</hash>
 	</game>
 	
 	<game name="Silent Hill - Shattered Memories (USA) (En,Fr,Es)">

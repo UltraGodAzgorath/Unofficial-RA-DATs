@@ -5,8 +5,8 @@
 		<name>RA - Arcade</name>
 		<description>Arcade</description>
 		<category>Subfolders</category>
-		<version>20250711</version>
-		<date>11 July 2025</date>
+		<version>20250720</version>
+		<date>20 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/27/games</url>
@@ -853,6 +853,54 @@
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/11961/hashes</url>
 		<hash>C3395DD46C34FA7FD8D729D8CF88B7A8</hash>
+	</game>
+	
+	<game name="Retail/1943mii">
+		<description>1943: The Battle of Midway Mark II (US)</description>
+		<category>FBNeo</category>
+		<release name="1943mii" region="USA"/>
+		<rom name="01.12d" size="32768" crc="8ba22485"/>
+		<rom name="02.13d" size="65536" crc="659a5455"/>
+		<rom name="03.14d" size="65536" crc="159ea771"/>
+		<rom name="05.4k" size="32768" crc="25f37957"/>
+		<rom name="04.5h" size="32768" crc="8190e092"/>
+		<rom name="bm15.10f" size="32768" crc="6b1a0443"/>
+		<rom name="bm16.11f" size="32768" crc="23c908c2"/>
+		<rom name="17.12f" size="32768" crc="3d5acab9"/>
+		<rom name="18.14f" size="32768" crc="7b62da1d"/>
+		<rom name="bm19.10j" size="32768" crc="868ababc"/>
+		<rom name="bm20.11j" size="32768" crc="0917e5d4"/>
+		<rom name="21.12j" size="32768" crc="8c7fe74a"/>
+		<rom name="22.14j" size="32768" crc="d5ef8a0e"/>
+		<rom name="24.14k" size="32768" crc="a0074c68"/>
+		<rom name="25.14l" size="32768" crc="f979b2f2"/>
+		<rom name="06.10a" size="32768" crc="b261d5d7"/>
+		<rom name="07.11a" size="32768" crc="2af8a6f2"/>
+		<rom name="08.12a" size="32768" crc="159d51bd"/>
+		<rom name="09.14a" size="32768" crc="70d9f9a7"/>
+		<rom name="10.10c" size="32768" crc="de539920"/>
+		<rom name="11.11c" size="32768" crc="a6abf183"/>
+		<rom name="12.12c" size="32768" crc="0f50c001"/>
+		<rom name="13.14c" size="32768" crc="f065f619"/>
+		<rom name="14.5f" size="32768" crc="02a899f1"/>
+		<rom name="23.8k" size="32768" crc="b6dfdf85"/>
+		<rom name="bmk1.12a" size="256" crc="e001ea33"/>
+		<rom name="bmk2.13a" size="256" crc="af34d91a"/>
+		<rom name="bmk3.14a" size="256" crc="43e9f6ef"/>
+		<rom name="5.7f" size="256" crc="41878934"/>
+		<rom name="10.7l" size="256" crc="db53adf0"/>
+		<rom name="9.6l" size="256" crc="75d5cc90"/>
+		<rom name="12.12m" size="256" crc="784bdf33"/>
+		<rom name="11.12l" size="256" crc="6fb2e170"/>
+		<rom name="8.8c" size="256" crc="dad17e2d"/>
+		<rom name="7.7c" size="256" crc="76307f8d"/>
+		<rom name="4.12c" size="256" crc="91a8a2e1"/>
+		<rom name="6.4b" size="256" crc="0eaf5158"/>
+		<rom name="bm.7k" size="4096" crc="cf4781bf"/>
+		<video type="raster" orientation="vertical" width="224" height="256" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/11962/hashes</url>
+		<hash>97f13fb525c71f803ca6c076397f098b</hash>
 	</game>
 	
 	<game name="Retail/64street">
@@ -1811,6 +1859,92 @@
 		<url>https://retroachievements.org/game/12663/hashes</url>
 		<hash>D297C3136B7131586B65B63B53E62B91</hash>
 	</game>
+	
+	<game name="Retail/arian" cloneof="aso">
+		<description>Arian Mission</description>
+		<category>FBNeo</category>
+		<rom name="p1.8d" size="16384" crc="0ca89307"/>
+		<rom name="p2.7d" size="16384" crc="724518c3"/>
+		<rom name="p3.5d" size="16384" crc="4d8db650"/>
+		<rom name="p4.3d" size="16384" crc="47baf1db"/>
+		<rom name="p5.2d" size="16384" crc="9879e506"/>
+		<rom name="p6.1d" size="16384" crc="c0bfdf1f"/>
+		<rom name="p7.4f" size="16384" crc="dbc19736"/>
+		<rom name="p8.3f" size="16384" crc="537726a9"/>
+		<rom name="p9.2f" size="16384" crc="aef5a4f4"/>
+		<rom name="p14.1h" size="8192" crc="e599bd30"/>
+		<rom name="p10.14h" size="32768" crc="00dff996"/>
+		<rom name="p11.11h" size="32768" crc="7feac86c"/>
+		<rom name="p12.9h" size="32768" crc="6895990b"/>
+		<rom name="p13.8h" size="32768" crc="87a81ce1"/>
+		<rom name="mb7122h.12f" size="1024" crc="5b0a0059"/>
+		<rom name="mb7122h.13f" size="1024" crc="37e28dd8"/>
+		<rom name="mb7122h.14f" size="1024" crc="c3fd1dd3"/>
+		<rom name="pal16l8a-1.bin" size="260" crc="4e3f9e0d"/>
+		<rom name="pal16l8a-2.bin" size="260" crc="2a681f9e"/>
+		<rom name="pal16r6a.15b" size="260" crc="59c03681"/>
+		<video type="raster" orientation="vertical" width="216" height="288" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/11973/hashes</url>
+		<hash>1061bb40ea99675d095192c6ea8f9f54</hash>
+	</game>
+	<game name="Retail/alphamis" cloneof="aso">
+		<description>Alpha Mission</description>
+		<category>FBNeo</category>
+		<rom name="p1.8d" size="16384" crc="69af874b"/>
+		<rom name="p2.7d" size="16384" crc="7707bfe3"/>
+		<rom name="p3.5d" size="16384" crc="b970d642"/>
+		<rom name="p4.3d" size="16384" crc="91a89d3c"/>
+		<rom name="p5.2d" size="16384" crc="9879e506"/>
+		<rom name="p6.1d" size="16384" crc="c0bfdf1f"/>
+		<rom name="p7.4f" size="16384" crc="dbc19736"/>
+		<rom name="p8.3f" size="16384" crc="537726a9"/>
+		<rom name="p9.2f" size="16384" crc="aef5a4f4"/>
+		<rom name="p14.1h" size="8192" crc="acbe29b2"/>
+		<rom name="p10.14h" size="32768" crc="00dff996"/>
+		<rom name="p11.11h" size="32768" crc="7feac86c"/>
+		<rom name="p12.9h" size="32768" crc="6895990b"/>
+		<rom name="p13.8h" size="32768" crc="87a81ce1"/>
+		<rom name="mb7122h.12f" size="1024" crc="5b0a0059"/>
+		<rom name="mb7122h.13f" size="1024" crc="37e28dd8"/>
+		<rom name="mb7122h.14f" size="1024" crc="c3fd1dd3"/>
+		<rom name="pal16l8a-1.bin" size="260" crc="4e3f9e0d"/>
+		<rom name="pal16l8a-2.bin" size="260" crc="2a681f9e"/>
+		<rom name="pal16r6a.15b" size="260" crc="59c03681"/>
+		<video type="raster" orientation="vertical" width="216" height="288" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/11973/hashes</url>
+		<hash>70e84b059c577f9523c0a25aa8046ad9</hash>
+	</game>
+	<game name="Retail/aso">
+		<description>ASO - Armored Scrum Object</description>
+		<category>FBNeo</category>
+		<rom name="p1.8d" size="16384" crc="84981f3c"/>
+		<rom name="p2.7d" size="16384" crc="cfe912a6"/>
+		<rom name="p3.5d" size="16384" crc="39a666d2"/>
+		<rom name="p4.3d" size="16384" crc="a4122355"/>
+		<rom name="p5.2d" size="16384" crc="9879e506"/>
+		<rom name="p6.1d" size="16384" crc="c0bfdf1f"/>
+		<rom name="p7.4f" size="16384" crc="dbc19736"/>
+		<rom name="p8.3f" size="16384" crc="537726a9"/>
+		<rom name="p9.2f" size="16384" crc="aef5a4f4"/>
+		<rom name="p14.1h" size="8192" crc="8baa2253"/>
+		<rom name="p10.14h" size="32768" crc="00dff996"/>
+		<rom name="p11.11h" size="32768" crc="7feac86c"/>
+		<rom name="p12.9h" size="32768" crc="6895990b"/>
+		<rom name="p13.8h" size="32768" crc="87a81ce1"/>
+		<rom name="mb7122h.12f" size="1024" crc="5b0a0059"/>
+		<rom name="mb7122h.13f" size="1024" crc="37e28dd8"/>
+		<rom name="mb7122h.14f" size="1024" crc="c3fd1dd3"/>
+		<rom name="pal16l8a-1.bin" size="260" crc="4e3f9e0d"/>
+		<rom name="pal16l8a-2.bin" size="260" crc="2a681f9e"/>
+		<rom name="pal16r6a.15b" size="260" crc="59c03681"/>
+		<video type="raster" orientation="vertical" width="216" height="288" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/11973/hashes</url>
+		<hash>d77e52c972dd92c6fa6934ab5641d10c</hash>
+	</game>
+	
 	<game name="Retail/asterixeac">
 		<description>Asterix (ver EAC)</description>
 		<category>FBNeo</category>

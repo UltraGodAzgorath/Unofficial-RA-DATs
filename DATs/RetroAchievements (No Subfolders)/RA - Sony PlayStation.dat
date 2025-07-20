@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation</name>
 		<description>Sony Playstation</description>
 		<category>No Subfolders</category>
-		<version>20250711</version>
-		<date>11 July 2025</date>
+		<version>20250720</version>
+		<date>20 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -1414,6 +1414,29 @@
 		<rom name="Batman Beyond - Return of the Joker (USA) (Track 17).bin" size="32506992" crc="b8ddd4a2" md5="52a3d6297f4a0bf7137b829b610024fe" sha1="37ed406da1eef8acb8798d520ba097e8fd9cfc00"/>
 		<url>https://retroachievements.org/game/18515/hashes</url>
 		<hash>32f3635c9e3a56b05879fa8b202ec394</hash>
+	</game>
+	
+	<game name="Battle Arena Toshinden (USA)">
+		<category>Retail</category>
+		<description>Battle Arena Toshinden (USA)</description>
+		<release name="Battle Arena Toshinden (USA)" region="USA"/>
+		<rom name="Battle Arena Toshinden (USA).cue" size="1704" crc="58e3761c" md5="c034887b362240fc1d5a44bb06d8b445" sha1="8e88a4515c25467d2f7dd41d3ce8af0f795f70d8"/>
+		<rom name="Battle Arena Toshinden (USA) (Track 01).bin" size="14662368" crc="6e59405f" md5="70b362b3b09d0a3c3999ce9f055620e6" sha1="cb03e66d2a5e68f402f9c64741a94c02ca78d4c5"/>
+		<rom name="Battle Arena Toshinden (USA) (Track 02).bin" size="34052256" crc="69f6f2c4" md5="469c7546a41167dbf4cf9a3acff70a2c" sha1="1e5c6cf0c7659a7c0f1bb46aad6f737a10dcc0de"/>
+		<rom name="Battle Arena Toshinden (USA) (Track 03).bin" size="32379984" crc="bf340100" md5="ac1f688d16d8964dc1f67f1c78b1994e" sha1="496fa3debee7db4789f5b5244ed222d91f0b9064"/>
+		<rom name="Battle Arena Toshinden (USA) (Track 04).bin" size="34783728" crc="0cdeff03" md5="e8413cff968e8048cf780d5c1a81ad85" sha1="3e325a52d5e74a2702a71e22b1283b828e9090e9"/>
+		<rom name="Battle Arena Toshinden (USA) (Track 05).bin" size="31413312" crc="03bfebe9" md5="0c3c6772aba6bbc8925510d503f52fae" sha1="88b48829b33b7c527e8b68b5edc40985511788e9"/>
+		<rom name="Battle Arena Toshinden (USA) (Track 06).bin" size="33845280" crc="8f01e7c9" md5="7b9a0dc66931d2986b12041e2f473016" sha1="f15ce658c9818f2e1e503bb49c183314c41d7b70"/>
+		<rom name="Battle Arena Toshinden (USA) (Track 07).bin" size="35962080" crc="b198d1d2" md5="22380a92d81329808e47481ddebcc1fd" sha1="494c75de2b4c75c6ad856f5d2787fe1c36636d42"/>
+		<rom name="Battle Arena Toshinden (USA) (Track 08).bin" size="36237264" crc="6c4d22a1" md5="189981738cabd0baa05453d19b1ec565" sha1="f5a4f82a89219b1329c9f201bb57cca5539226d7"/>
+		<rom name="Battle Arena Toshinden (USA) (Track 09).bin" size="38452848" crc="396af197" md5="02c36956d3d15c24b90fd27825cec193" sha1="c04b34c80f8312575d88e163487ae515800cf0d4"/>
+		<rom name="Battle Arena Toshinden (USA) (Track 10).bin" size="37076928" crc="8e45bad3" md5="6a24d0617b969312895b092de57978b0" sha1="d4f1ff706f197fdfb888b8914ff0bc916e6829a5"/>
+		<rom name="Battle Arena Toshinden (USA) (Track 11).bin" size="38756256" crc="712fcab4" md5="654033feb343c031b6a2fcf8ddd42abd" sha1="3cde4991a03334d052d0af09f57e9956af68a52a"/>
+		<rom name="Battle Arena Toshinden (USA) (Track 12).bin" size="38525760" crc="c46d6cf2" md5="1f459277982206a2c57b903092e6b4e2" sha1="d8a524e34e1dc30552e8c1f9949fc805bf01d115"/>
+		<rom name="Battle Arena Toshinden (USA) (Track 13).bin" size="6141072" crc="50ef23ce" md5="2c0376c2568a28aeb71a3e1df6d63c65" sha1="ec2201172e57bf17937bf2fb5ea68539fa5ec334"/>
+		<rom name="Battle Arena Toshinden (USA) (Track 14).bin" size="16863840" crc="013e17e4" md5="6032f9c01c258c94b5847ee1441458ae" sha1="f9511f54fc6e943e0c3ccf2694b22f50a8e6382e"/>
+		<url>https://retroachievements.org/game/11414/hashes</url>
+		<hash>c8e8047b602dfd7c1bb17afab2a81b6d</hash>
 	</game>
 	
 	<game name="Battle Hunter (USA)">
@@ -8323,6 +8346,25 @@
 		<rom name="OverBlood (USA).bin" size="700472640" crc="9109e996" md5="7a367525b26c1ea6575a9d7a4d48b938" sha1="be6774c9d7d4303bf27ac836ba26a7af5e820ebb"/>
 		<url>https://retroachievements.org/game/11656/hashes</url>
 		<hash>248e739606f2fe50a8ddf914ad48e040</hash>
+	</game>
+	
+	<game name="OverBlood 2 (Europe) (Disc 2) (Rev 1)">
+		<category>Retail</category>
+		<description>OverBlood 2 (Europe) (Disc 2) (Rev 1)</description>
+		<release name="OverBlood 2 (Europe) (Disc 2) (Rev 1)" region="Europe"/>
+		<rom name="OverBlood 2 (Europe) (Disc 2) (Rev 1).cue" size="103" crc="8482cf08" md5="d084a7797f99de035c09e45aeb18337b" sha1="6ee0346adf643e94cab9c9a02dffdf663fe70576"/>
+		<rom name="OverBlood 2 (Europe) (Disc 2) (Rev 1).bin" size="725523792" crc="03231fd4" md5="039170d6d11ad2a55e3f10907c1931db" sha1="7316335c0a9e5146c712db804c71667cdb323041"/>
+		<url>https://retroachievements.org/game/9264/hashes</url>
+		<hash>05671a14d996ad0923ee56cc02287720</hash>
+	</game>
+	<game name="OverBlood 2 (Europe) (Disc 1) (Rev 1)">
+		<category>Retail</category>
+		<description>OverBlood 2 (Europe) (Disc 1) (Rev 1)</description>
+		<release name="OverBlood 2 (Europe) (Disc 1) (Rev 1)" region="Europe"/>
+		<rom name="OverBlood 2 (Europe) (Disc 1) (Rev 1).cue" size="103" crc="6f2887b5" md5="c95dcf76dc0f1895c20217564b0191bd" sha1="bfe1363a2c144838296ea7daa132644e5134b4e4"/>
+		<rom name="OverBlood 2 (Europe) (Disc 1) (Rev 1).bin" size="744864288" crc="04361d3e" md5="f90f0452d5f5ca705c5e4be003d62db9" sha1="d3afb9bde5639f5bedb94594512cee727c1c7de0"/>
+		<url>https://retroachievements.org/game/9264/hashes</url>
+		<hash>7ce40283eac4b4218b67a07f9a1939ed</hash>
 	</game>
 	
 	<game name="Pac-Man World - 20th Anniversary (USA)">

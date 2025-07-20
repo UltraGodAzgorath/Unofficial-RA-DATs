@@ -5,8 +5,8 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>No Subfolders</category>
-		<version>20250711</version>
-		<date>11 July 2025</date>
+		<version>20250720</version>
+		<date>20 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/3/games</url>
@@ -349,6 +349,15 @@
 		<rom name="SMW - Brave New World (v1.1) (derv82) (Hack).sfc" size="2097152" crc="f70b2b76" md5="ab592a8c85b8468d9c191693080a8c4f" sha1="ffd8032209647ad1b8f87c6504d86874588ce4d2"/>
 		<url>https://retroachievements.org/game/22183/hashes</url>
 		<hash>ab592a8c85b8468d9c191693080a8c4f</hash>
+	</game>
+	
+	<game name="SMW - Brave New World 2 (v1.0) (derv82) (Hack)">
+		<category>Hack</category>
+		<description>SMW - Brave New World 2 (v1.0) (derv82) (Hack)</description>
+		<release name="SMW - Brave New World 2 (v1.0) (derv82) (Hack)" region="World"/>
+		<rom name="SMW - Brave New World 2 (v1.0) (derv82) (Hack).sfc" size="4194304" crc="11144d23" md5="8d7cc6ced080bcfb1ebdaef4a576d0bd" sha1="6ccc8fbb3ac0679d2e4408d781c7600cab7edb29"/>
+		<url>https://retroachievements.org/game/33771/hashes</url>
+		<hash>8d7cc6ced080bcfb1ebdaef4a576d0bd</hash>
 	</game>
 	
 	<game name="SMW - Call of Cthulhu (Yashum) (Hack)">
@@ -761,6 +770,15 @@
 		<hash>e4913fbff666ac1b7b179a7bb647772c</hash>
 	</game>
 	
+	<game name="SMW - Fail World (v1.1) (Fyre150, Goon Nation) (Hack)">
+		<category>Hack</category>
+		<description>SMW - Fail World (v1.1) (Fyre150, Goon Nation) (Hack)</description>
+		<release name="SMW - Fail World (v1.1) (Fyre150, Goon Nation) (Hack)" region="World"/>
+		<rom name="SMW - Fail World (v1.1) (Fyre150, Goon Nation) (Hack).sfc" size="4194304" crc="ee3aef2b" md5="e36096a034012492b2cd19317550150d" sha1="38f3c69a7c3d8f12cb8979ebfd5a5a4f0205284b"/>
+		<url>https://retroachievements.org/game/34056/hashes</url>
+		<hash>e36096a034012492b2cd19317550150d</hash>
+	</game>
+	
 	<game name="SMW - Fall Guys World (En) (2020-10-16) (LucasMegaStriker) (Hack)">
 		<category>Hack</category>
 		<description>SMW - Fall Guys World (En) (2020-10-16) (LucasMegaStriker) (Hack)</description>
@@ -949,9 +967,9 @@
 		<category>Hack</category>
 		<description>FFVI Reimagined (v1.7) (DrakeyC) (Hack)</description>
 		<release name="FFVI Reimagined (v1.7) (DrakeyC) (Hack)" region="World"/>
-		<rom name="FFVI Reimagined (v1.7) (DrakeyC) (Hack).sfc" size="4194304" crc="eeb65ab5" md5="ea14658205a7f0b20084a0593e183a00" sha1="0450be94029861000a2a8668a97247b3da4ad3c6"/>
+		<rom name="FFVI Reimagined (v1.7) (DrakeyC) (Hack).sfc" size="4194304" crc="0bdf1e98" md5="8a9f55313c8311829f06d42aa2afcde9" sha1="2093cdeb948f4169d4d0d6f66a178ed337482e80"/>
 		<url>https://retroachievements.org/game/32659/hashes</url>
-		<hash>ea14658205a7f0b20084a0593e183a00</hash>
+		<hash>8a9f55313c8311829f06d42aa2afcde9</hash>
 	</game>
 	
 	<game name="FFVI - A Soldier's Contingency (Flavor A) (v2.01) (Lightning Hawk) (Hack)" cloneof="FFVI - A Soldier's Contingency (Flavor A) (v2.02) (Lightning Hawk) (Hack)">
@@ -7365,6 +7383,23 @@
 		<hash>c3ff5fd4e3f46653fec94ba60d70281d</hash>
 	</game>
 	
+	<game name="Eien no Filerna (Japan)">
+		<category>Retail</category>
+		<description>Eien no Filerna (Japan)</description>
+		<release name="Eien no Filerna (Japan)" region="Japan"/>
+		<rom name="Eien no Filerna (Japan).sfc" size="1572864" crc="41e9cd70" md5="50de817422dec36b9266cc6aacf9e44e" sha1="a37d9ba5acf84c732120c4cf2b3edd4a59fb146b"/>
+		<url>https://retroachievements.org/game/2836/hashes</url>
+		<hash>50de817422dec36b9266cc6aacf9e44e</hash>
+	</game>
+	<game name="Eien no Filena (Japan) (En) (v0.98) (satsu)" cloneof="Eien no Filerna (Japan)">
+		<category>Retail</category>
+		<description>Eien no Filena (Japan) (En) (v0.98) (satsu)</description>
+		<release name="Eien no Filena (Japan) (En) (v0.98) (satsu)" region="English"/>
+		<rom name="Eien no Filena (Japan) (En) (v0.98) (satsu).sfc" size="3145728" crc="26a60ed9" md5="6e6cf69daec7cfa9d6c207209762ed0d" sha1="81e5c89c1a6d24ed2fb3c56ceb193b28b6a2024d"/>
+		<url>https://retroachievements.org/game/2836/hashes</url>
+		<hash>6e6cf69daec7cfa9d6c207209762ed0d</hash>
+	</game>
+	
 	<game name="Emerald Dragon (Japan) (En) (Translation Corporation) (Debug Patch) (v1.2) (Searo)">
 		<category>Retail</category>
 		<description>Emerald Dragon (Japan) (En) (Translation Corporation) (Debug Patch) (v1.2) (Searo)</description>
@@ -7447,6 +7482,31 @@
 		<rom name="F-Zero (v1.1) (Subset - BS Expansions).sfc" size="1048576" crc="1cf51375" md5="72e0347734698984e3b3a97b4556844d" sha1="cfdc0af3eb5f8b8cc95b8f078ca3b23bfee34214"/>
 		<url>https://retroachievements.org/game/29748/hashes</url>
 		<hash>72e0347734698984e3b3a97b4556844d</hash>
+	</game>
+	
+	<game name="Famicom Detective Club Part II (Japan) (En) (v1.0) (Demiforce)" cloneof="Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo (Japan) (NP)">
+		<category>Retail</category>
+		<description>Famicom Detective Club Part II (Japan) (En) (v1.0) (Demiforce)</description>
+		<release name="Famicom Detective Club Part II (Japan) (En) (v1.0) (Demiforce)" region="English"/>
+		<rom name="Famicom Detective Club Part II (Japan) (En) (v1.0) (Demiforce).sfc" size="4194304" crc="1d7858fe" md5="ce7f04c5cabbe883ac73d90136202c57" sha1="21b1f6017c1a5d2fec6ad95ec0eaf0d735d6e1b8"/>
+		<url>https://retroachievements.org/game/2864/hashes</url>
+		<hash>ce7f04c5cabbe883ac73d90136202c57</hash>
+	</game>
+	<game name="Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo (Japan) (NP)">
+		<category>Retail</category>
+		<description>Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo (Japan) (NP)</description>
+		<release name="Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo (Japan) (NP)" region="Japan"/>
+		<rom name="Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo (Japan) (NP).sfc" size="3145728" crc="28f450ac" md5="065dfeb6da891c18d86464c1ed398869" sha1="4d4eeee0e8acfed5cf60a7324349dbb46aaa7369"/>
+		<url>https://retroachievements.org/game/2864/hashes</url>
+		<hash>065dfeb6da891c18d86464c1ed398869</hash>
+	</game>
+	<game name="Famicom Detective Club Part II (Japan) (Es) (v0.9) (JX91)" cloneof="Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo (Japan) (NP)">
+		<category>Retail</category>
+		<description>Famicom Detective Club Part II (Japan) (Es) (v0.9) (JX91)</description>
+		<release name="Famicom Detective Club Part II (Japan) (Es) (v0.9) (JX91)" region="Spain"/>
+		<rom name="Famicom Detective Club Part II (Japan) (Es) (v0.9) (JX91).sfc" size="4194304" crc="2b0c736a" md5="dc3df5278ade1afbc26ad8f16e3eceb4" sha1="6a506d32690a5bc224cf0fe03851f4647cf40841"/>
+		<url>https://retroachievements.org/game/2864/hashes</url>
+		<hash>dc3df5278ade1afbc26ad8f16e3eceb4</hash>
 	</game>
 	
 	<game name="Fatal Fury (USA)">
@@ -10437,6 +10497,15 @@
 		<rom name="Micro Machines (USA).sfc" size="524288" crc="364e68bb" md5="b447b20f378bff1342338c5c1acc0e53" sha1="282c4f27d08a9def36dc4e7fe71deaaf0a5f2b43"/>
 		<url>https://retroachievements.org/game/1027/hashes</url>
 		<hash>b447b20f378bff1342338c5c1acc0e53</hash>
+	</game>
+	
+	<game name="Micro Machines 2 - Turbo Tournament (Europe)">
+		<category>Retail</category>
+		<description>Micro Machines 2 - Turbo Tournament (Europe)</description>
+		<release name="Micro Machines 2 - Turbo Tournament (Europe)" region="Europe"/>
+		<rom name="Micro Machines 2 - Turbo Tournament (Europe).sfc" size="1048576" crc="1619b619" md5="fff6243187f907e58dc16f6dbbad5d3a" sha1="7bc2410807e5424894297b6bb57999d730249bce"/>
+		<url>https://retroachievements.org/game/3246/hashes</url>
+		<hash>fff6243187f907e58dc16f6dbbad5d3a</hash>
 	</game>
 	
 	<game name="Arcade's Greatest Hits - The Atari Collection 1 (Europe)">
@@ -15068,6 +15137,14 @@
 		<rom name="Seiken Densetsu 3 (Japan) (En) (v1.00) (NCorlett, LNFT).sfc" size="4194304" crc="fe07123a" md5="fd911993992a685d491440d59be009dc" sha1="882f41f312045656cc01439524e89f2f22e72159"/>
 		<url>https://retroachievements.org/game/1391/hashes</url>
 		<hash>fd911993992a685d491440d59be009dc</hash>
+	</game>
+	<game name="Seiken Densetsu 3 (Japan) (En) (Pt) (v1.03) (2024)" cloneof="Trials of Mana (World) (En) (Collection of Mana)">
+		<category>Retail</category>
+		<description>Seiken Densetsu 3 (Japan) (En) (Pt) (v1.03) (2024)</description>
+		<release name="Seiken Densetsu 3 (Japan) (En) (Pt) (v1.03) (2024)" region="Portugal"/>
+		<rom name="Seiken Densetsu 3 (Japan) (En) (Pt) (v1.03) (2024).sfc" size="4194304" crc="0c61a7bf" md5="c7af221dc7645c2a1391602bdb8b0274" sha1="bb5b70b47d9ad33cbef85f1d3af39d795482ce25"/>
+		<url>https://retroachievements.org/game/1391/hashes</url>
+		<hash>c7af221dc7645c2a1391602bdb8b0274</hash>
 	</game>
 	
 	<game name="True Lies (USA)">

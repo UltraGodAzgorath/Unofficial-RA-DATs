@@ -5,8 +5,8 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20250711</version>
-		<date>11 July 2025</date>
+		<version>20250720</version>
+		<date>20 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/3/games</url>
@@ -313,6 +313,14 @@
 		<rom name="SMW - Brave New World (v1.1) (derv82) (Hack).sfc" size="2097152" crc="f70b2b76" md5="ab592a8c85b8468d9c191693080a8c4f" sha1="ffd8032209647ad1b8f87c6504d86874588ce4d2"/>
 		<url>https://retroachievements.org/game/22183/hashes</url>
 		<hash>ab592a8c85b8468d9c191693080a8c4f</hash>
+	</game>
+	
+	<game name="Hack/Super Mario World/SMW - Brave New World 2 (v1.0) (derv82) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - Brave New World 2 (v1.0) (derv82) (Hack)</description>
+		<rom name="SMW - Brave New World 2 (v1.0) (derv82) (Hack).sfc" size="4194304" crc="11144d23" md5="8d7cc6ced080bcfb1ebdaef4a576d0bd" sha1="6ccc8fbb3ac0679d2e4408d781c7600cab7edb29"/>
+		<url>https://retroachievements.org/game/33771/hashes</url>
+		<hash>8d7cc6ced080bcfb1ebdaef4a576d0bd</hash>
 	</game>
 	
 	<game name="Hack/Super Mario World/SMW - Call of Cthulhu (Yashum) (Hack)">
@@ -681,6 +689,14 @@
 		<hash>e4913fbff666ac1b7b179a7bb647772c</hash>
 	</game>
 	
+	<game name="Hack/Super Mario World/SMW - Fail World (v1.1) (Fyre150, Goon Nation) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - Fail World (v1.1) (Fyre150, Goon Nation) (Hack)</description>
+		<rom name="SMW - Fail World (v1.1) (Fyre150, Goon Nation) (Hack).sfc" size="4194304" crc="ee3aef2b" md5="e36096a034012492b2cd19317550150d" sha1="38f3c69a7c3d8f12cb8979ebfd5a5a4f0205284b"/>
+		<url>https://retroachievements.org/game/34056/hashes</url>
+		<hash>e36096a034012492b2cd19317550150d</hash>
+	</game>
+	
 	<game name="Hack/Super Mario World/SMW - Fall Guys World (En) (2020-10-16) (LucasMegaStriker) (Hack)">
 		<category>Super Nintendo</category>
 		<description>SMW - Fall Guys World (En) (2020-10-16) (LucasMegaStriker) (Hack)</description>
@@ -860,9 +876,9 @@
 	<game name="Hack/Final Fantasy VI/FFVI Reimagined (v1.7) (DrakeyC) (Hack)">
 		<category>Super Nintendo</category>
 		<description>FFVI Reimagined (v1.7) (DrakeyC) (Hack)</description>
-		<rom name="FFVI Reimagined (v1.7) (DrakeyC) (Hack).sfc" size="4194304" crc="eeb65ab5" md5="ea14658205a7f0b20084a0593e183a00" sha1="0450be94029861000a2a8668a97247b3da4ad3c6"/>
+		<rom name="FFVI Reimagined (v1.7) (DrakeyC) (Hack).sfc" size="4194304" crc="0bdf1e98" md5="8a9f55313c8311829f06d42aa2afcde9" sha1="2093cdeb948f4169d4d0d6f66a178ed337482e80"/>
 		<url>https://retroachievements.org/game/32659/hashes</url>
-		<hash>ea14658205a7f0b20084a0593e183a00</hash>
+		<hash>8a9f55313c8311829f06d42aa2afcde9</hash>
 	</game>
 	
 	<game name="Hack/Final Fantasy VI/FFVI - A Soldier's Contingency (Flavor A) (v2.01) (Lightning Hawk) (Hack)">
@@ -5115,7 +5131,7 @@
 		<hash>bec5c898cf36639ff22f121768424efd</hash>
 	</game>
 	
-	<game name="BS F-Zero Grand Prix 2 - Practice (Japan) (12-6)">
+	<game name="Retail/BS F-Zero Grand Prix 2 - Practice (Japan) (12-6)">
 		<category>Satellaview</category>
 		<description>BS F-Zero Grand Prix 2 - Practice (Japan) (12-6)</description>
 		<rom name="BS F-Zero Grand Prix 2 - Practice (Japan) (12-6).bs" size="1048576" crc="57b1c3ed" md5="c1008db81315057be63c2901a39eb1fb" sha1="cd7a87f884f436494b5c910581eed6086d041336"/>
@@ -5123,56 +5139,56 @@
 		<hash>c1008db81315057be63c2901a39eb1fb</hash>
 	</game>
 	
-	<game name="BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (SoundLink)">
+	<game name="Retail/BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (SoundLink)">
 		<category>Satellaview</category>
 		<description>BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (SoundLink)</description>
-		<rom name="BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (SoundLink).bs" size="1048576" crc="fcaafe47" md5="204c828dcdefb7abea0a2fc246e23c13" sha1="2fe5509dcff4c50d3d355172c31a6906956c6a64"/>
+		<rom name="Retail/BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (SoundLink).bs" size="1048576" crc="fcaafe47" md5="204c828dcdefb7abea0a2fc246e23c13" sha1="2fe5509dcff4c50d3d355172c31a6906956c6a64"/>
 		<url>https://retroachievements.org/game/9240/hashes</url>
 		<hash>204c828dcdefb7abea0a2fc246e23c13</hash>
 	</game>
-	<game name="BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (4-21) (SoundLink)">
+	<game name="Retail/BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (4-21) (SoundLink)">
 		<category>Satellaview</category>
 		<description>BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (4-21) (SoundLink)</description>
 		<rom name="BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (4-21) (SoundLink).bs" size="1048576" crc="3d3eb686" md5="91bbc9fd486e37d54c0cb09bae8d65a5" sha1="8d45cca2711f43e5877e4a45d9291d2cb774f00a"/>
 		<url>https://retroachievements.org/game/9240/hashes</url>
 		<hash>91bbc9fd486e37d54c0cb09bae8d65a5</hash>
 	</game>
-	<game name="BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan) (4-4) (SoundLink)">
+	<game name="Retail/BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan) (4-4) (SoundLink)">
 		<category>Satellaview</category>
 		<description>BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan) (4-4) (SoundLink)</description>
 		<rom name="BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan) (4-4) (SoundLink).bs" size="1048576" crc="d42ea2e0" md5="a919f44e13fb564066e36840136ef42a" sha1="f279a35711fe3118234c1c114d2733dd12af88c3"/>
 		<url>https://retroachievements.org/game/9240/hashes</url>
 		<hash>a919f44e13fb564066e36840136ef42a</hash>
 	</game>
-	<game name="BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan) (4-28) (SoundLink)">
+	<game name="Retail/BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan) (4-28) (SoundLink)">
 		<category>Satellaview</category>
 		<description>BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan) (4-28) (SoundLink)</description>
 		<rom name="BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan) (4-28) (SoundLink).bs" size="1048576" crc="f5c19c84" md5="d58b996cb4672bee231e5de5e53d0b68" sha1="e02963097da96d80c278513bed6ee49b5e508c99"/>
 		<url>https://retroachievements.org/game/9240/hashes</url>
 		<hash>d58b996cb4672bee231e5de5e53d0b68</hash>
 	</game>
-	<game name="BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan) (En) (v1.01) (Darrman)">
+	<game name="Retail/BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan) (En) (v1.01) (Darrman)">
 		<category>Satellaview</category>
 		<description>BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan) (En) (v1.01) (Darrman)</description>
 		<rom name="BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan) (En) (v1.01) (Darrman).bs" size="1048576" crc="13561465" md5="96d855571b82692fb85feaf0705a54d1" sha1="12f8ccc10f878c1af1f0e1ec5d677b1429793b9d"/>
 		<url>https://retroachievements.org/game/9240/hashes</url>
 		<hash>96d855571b82692fb85feaf0705a54d1</hash>
 	</game>
-	<game name="BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (En) (v1.01) (Darrman)">
+	<game name="Retail/BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (En) (v1.01) (Darrman)">
 		<category>Satellaview</category>
 		<description>BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (En) (v1.01) (Darrman)</description>
 		<rom name="BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan) (En) (v1.01) (Darrman).bs" size="1048576" crc="11715a99" md5="b248061f3820b5f0170d4226a04b95bd" sha1="46a8c79d6414e5028abca657d9f1b9e0ad819fb4"/>
 		<url>https://retroachievements.org/game/9240/hashes</url>
 		<hash>b248061f3820b5f0170d4226a04b95bd</hash>
 	</game>
-	<game name="BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (En) (v1.01) (Darrman)">
+	<game name="Retail/BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (En) (v1.01) (Darrman)">
 		<category>Satellaview</category>
 		<description>BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (En) (v1.01) (Darrman)</description>
 		<rom name="BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan) (En) (v1.01) (Darrman).bs" size="1048576" crc="643aadb4" md5="244e25d1d3c63073f6b9ef394f9315bf" sha1="12adef5da82cf1dc0f851ead698d748ebfb7fc45"/>
 		<url>https://retroachievements.org/game/9240/hashes</url>
 		<hash>244e25d1d3c63073f6b9ef394f9315bf</hash>
 	</game>
-	<game name="BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan) (En) (v1.01) (Darrman)">
+	<game name="Retail/BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan) (En) (v1.01) (Darrman)">
 		<category>Satellaview</category>
 		<description>BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan) (En) (v1.01) (Darrman)</description>
 		<rom name="BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan) (En) (v1.01) (Darrman).bs" size="1048576" crc="78de9569" md5="7202f3d63a85ba25d0ab491bb9e3b66b" sha1="08661008074163f993a9e5ff5180141a60ce10e2"/>
@@ -5180,7 +5196,7 @@
 		<hash>7202f3d63a85ba25d0ab491bb9e3b66b</hash>
 	</game>
 	
-	<game name="Super Aleste (Japan) (BS)">
+	<game name="Retail/Super Aleste (Japan) (BS)">
 		<category>Satellaview</category>
 		<description>Super Aleste (Japan) (BS)</description>
 		<rom name="Super Aleste (Japan) (BS).bs" size="1048576" crc="75993866" md5="13dc1d8ac79de1a359c857e3c584c340" sha1="36721f15cf9e2a65aada7353d12d5246e245ebb2"/>
@@ -5202,14 +5218,14 @@
 		<hash>fbc724d47c0bd7cb7cbc56d42803d1d7</hash>
 	</game>
 	
-	<game name="BS Zelda no Densetsu (Restoration Map 1) (Japan) (En)">
+	<game name="Retail/BS Zelda no Densetsu (Restoration Map 1) (Japan) (En)">
 		<category>Satellaview</category>
 		<description>BS Zelda no Densetsu (Restoration Map 1) (Japan) (En)</description>
 		<rom name="BS Zelda no Densetsu (Restoration Map 1) (Japan) (En).bs" size="4194304" crc="db9f4746" md5="516f339cb0b98639a79a21640c85f78a" sha1="1c50bef5d54dfacdb5f1adacaa342ff03e189f46"/>
 		<url>https://retroachievements.org/game/8747/hashes</url>
 		<hash>516f339cb0b98639a79a21640c85f78a</hash>
 	</game>
-	<game name="BS Zelda no Densetsu (Restoration Map 2) (Japan) (En)">
+	<game name="Retail/BS Zelda no Densetsu (Restoration Map 2) (Japan) (En)">
 		<category>Satellaview</category>
 		<description>BS Zelda no Densetsu (Restoration Map 2) (Japan) (En)</description>
 		<rom name="BS Zelda no Densetsu (Restoration Map 2) (Japan) (En).bs" size="4194304" crc="3544cf53" md5="6113338d166870d2b2170f6b524b8535" sha1="5d999c898a75cdc469deba52d4304bc9ade74823"/>
@@ -5217,63 +5233,63 @@
 		<hash>6113338d166870d2b2170f6b524b8535</hash>
 	</game>
 	
-	<game name="BS Zelda no Densetsu - Inishie no Sekiban (Dai-4-wa) (Japan) (En) (2015-08-18) (BSZHP)">
+	<game name="Retail/BS Zelda no Densetsu - Inishie no Sekiban (Dai-4-wa) (Japan) (En) (2015-08-18) (BSZHP)">
 		<category>Satellaview</category>
 		<description>BS Zelda no Densetsu - Inishie no Sekiban (Dai-4-wa) (Japan) (En) (2015-08-18) (BSZHP)</description>
 		<rom name="BS Zelda no Densetsu - Inishie no Sekiban (Dai-4-wa) (Japan) (En) (2015-08-18) (BSZHP).bs" size="4194304" crc="d2c99d61" md5="09746d3e9be9703d09cdbdb3331d20c3" sha1="2699d11af67e731960073aa3b9c64fceb18473af"/>
 		<url>https://retroachievements.org/game/7465/hashes</url>
 		<hash>09746d3e9be9703d09cdbdb3331d20c3</hash>
 	</game>
-	<game name="BS Zelda no Densetsu - Inishie no Sekiban (Dai-1-Hanashi) (Japan) (BS-X) (En) (v1.0) (Euclid)">
+	<game name="Retail/BS Zelda no Densetsu - Inishie no Sekiban (Dai-1-Hanashi) (Japan) (BS-X) (En) (v1.0) (Euclid)">
 		<category>Satellaview</category>
 		<description>BS Zelda no Densetsu - Inishie no Sekiban (Dai-1-Hanashi) (Japan) (BS-X) (En) (v1.0) (Euclid)</description>
 		<rom name="BS Zelda no Densetsu - Inishie no Sekiban (Dai-1-Hanashi) (Japan) (BS-X) (En) (v1.0) (Euclid).bs" size="4194304" crc="ddc67838" md5="2abc914f715036b3969d3c4be7e125f0" sha1="fb1c1e801e850a5cc6aaa253a349e5a6aef4c8d0"/>
 		<url>https://retroachievements.org/game/7465/hashes</url>
 		<hash>2abc914f715036b3969d3c4be7e125f0</hash>
 	</game>
-	<game name="BS Zelda no Densetsu - Inishie no Sekiban - Dai-3-wa (Japan) (SoundLink)">
+	<game name="Retail/BS Zelda no Densetsu - Inishie no Sekiban - Dai-3-wa (Japan) (SoundLink)">
 		<category>Satellaview</category>
 		<description>BS Zelda no Densetsu - Inishie no Sekiban - Dai-3-wa (Japan) (SoundLink)</description>
 		<rom name="BS Zelda no Densetsu - Inishie no Sekiban - Dai-3-wa (Japan) (SoundLink).bs" size="1048576" crc="c251d4fa" md5="59cee44354ed6fd664236ba9f6b18a63" sha1="25efee5199c9da0805306edac3367d60253ea828"/>
 		<url>https://retroachievements.org/game/7465/hashes</url>
 		<hash>59cee44354ed6fd664236ba9f6b18a63</hash>
 	</game>
-	<game name="BS Zelda no Densetsu - Inishie no Sekiban (Dai-2-Hanashi) (Japan) (BS-X) (En) (v1.0) (Euclid)">
+	<game name="Retail/BS Zelda no Densetsu - Inishie no Sekiban (Dai-2-Hanashi) (Japan) (BS-X) (En) (v1.0) (Euclid)">
 		<category>Satellaview</category>
 		<description>BS Zelda no Densetsu - Inishie no Sekiban (Dai-2-Hanashi) (Japan) (BS-X) (En) (v1.0) (Euclid)</description>
 		<rom name="BS Zelda no Densetsu - Inishie no Sekiban (Dai-2-Hanashi) (Japan) (BS-X) (En) (v1.0) (Euclid).bs" size="4194304" crc="22b718fb" md5="7de3cf6032b9ba94a41baa4a229cad51" sha1="352a9cd34ff924cade90698bb8645400c77290b0"/>
 		<url>https://retroachievements.org/game/7465/hashes</url>
 		<hash>7de3cf6032b9ba94a41baa4a229cad51</hash>
 	</game>
-	<game name="BS Zelda no Densetsu - Inishie no Sekiban - Dai-1-wa (Japan) (SoundLink)">
+	<game name="Retail/BS Zelda no Densetsu - Inishie no Sekiban - Dai-1-wa (Japan) (SoundLink)">
 		<category>Satellaview</category>
 		<description>BS Zelda no Densetsu - Inishie no Sekiban - Dai-1-wa (Japan) (SoundLink)</description>
 		<rom name="BS Zelda no Densetsu - Inishie no Sekiban - Dai-1-wa (Japan) (SoundLink).bs" size="1048576" crc="0d2b95a8" md5="a90f92a606e342b35aa4bc070cfe3f78" sha1="e784f04736f354a05a19a0e86efd8a1f40589aa4"/>
 		<url>https://retroachievements.org/game/7465/hashes</url>
 		<hash>a90f92a606e342b35aa4bc070cfe3f78</hash>
 	</game>
-	<game name="BS Zelda no Densetsu - Inishie no Sekiban (Dai-4-Hanashi) (Japan) (BS-X) (En) (v1.0) (Euclid)">
+	<game name="Retail/BS Zelda no Densetsu - Inishie no Sekiban (Dai-4-Hanashi) (Japan) (BS-X) (En) (v1.0) (Euclid)">
 		<category>Satellaview</category>
 		<description>BS Zelda no Densetsu - Inishie no Sekiban (Dai-4-Hanashi) (Japan) (BS-X) (En) (v1.0) (Euclid)</description>
 		<rom name="BS Zelda no Densetsu - Inishie no Sekiban (Dai-4-Hanashi) (Japan) (BS-X) (En) (v1.0) (Euclid).bs" size="4194304" crc="ffb09cfc" md5="d5ce2ad741adb7263b4dacc91bc7bae7" sha1="c77986290e64a96d8cc9c9225202f34daf456d2b"/>
 		<url>https://retroachievements.org/game/7465/hashes</url>
 		<hash>d5ce2ad741adb7263b4dacc91bc7bae7</hash>
 	</game>
-	<game name="BS Zelda no Densetsu - Inishie no Sekiban - Dai-4-wa (Japan) (SoundLink)">
+	<game name="Retail/BS Zelda no Densetsu - Inishie no Sekiban - Dai-4-wa (Japan) (SoundLink)">
 		<category>Satellaview</category>
 		<description>BS Zelda no Densetsu - Inishie no Sekiban - Dai-4-wa (Japan) (SoundLink)</description>
 		<rom name="BS Zelda no Densetsu - Inishie no Sekiban - Dai-4-wa (Japan) (SoundLink).bs" size="1048576" crc="8385bbf4" md5="da4d548e54a593e635e023bbf7db72b1" sha1="63c1110e32d4b3b2d6525919e10e50abcc7677a3"/>
 		<url>https://retroachievements.org/game/7465/hashes</url>
 		<hash>da4d548e54a593e635e023bbf7db72b1</hash>
 	</game>
-	<game name="BS Zelda no Densetsu - Inishie no Sekiban (Dai-3-Hanashi) (Japan) (BS-X) (En) (v1.0) (Euclid)">
+	<game name="Retail/BS Zelda no Densetsu - Inishie no Sekiban (Dai-3-Hanashi) (Japan) (BS-X) (En) (v1.0) (Euclid)">
 		<category>Satellaview</category>
 		<description>BS Zelda no Densetsu - Inishie no Sekiban (Dai-3-Hanashi) (Japan) (BS-X) (En) (v1.0) (Euclid)</description>
 		<rom name="BS Zelda no Densetsu - Inishie no Sekiban (Dai-3-Hanashi) (Japan) (BS-X) (En) (v1.0) (Euclid).bs" size="4194304" crc="60572564" md5="e9d7770a1973f2b3ecd331870f7e9018" sha1="fb0180bdd4a8beb9d1276e8ca93a90445912a4b3"/>
 		<url>https://retroachievements.org/game/7465/hashes</url>
 		<hash>e9d7770a1973f2b3ecd331870f7e9018</hash>
 	</game>
-	<game name="BS Zelda no Densetsu - Inishie no Sekiban - Dai-2-wa (Japan) (SoundLink)">
+	<game name="Retail/BS Zelda no Densetsu - Inishie no Sekiban - Dai-2-wa (Japan) (SoundLink)">
 		<category>Satellaview</category>
 		<description>BS Zelda no Densetsu - Inishie no Sekiban - Dai-2-wa (Japan) (SoundLink)</description>
 		<rom name="BS Zelda no Densetsu - Inishie no Sekiban - Dai-2-wa (Japan) (SoundLink).bs" size="1048576" crc="1b71a609" md5="f203ab9d9720c2ba8ac8453b0c10553c" sha1="0877f63d8d096e7a35a5721ec1e4ce2cb86a7211"/>
@@ -6630,6 +6646,21 @@
 		<hash>c3ff5fd4e3f46653fec94ba60d70281d</hash>
 	</game>
 	
+	<game name="Retail/Eien no Filerna (Japan)">
+		<category>Super Famincom</category>
+		<description>Eien no Filerna (Japan)</description>
+		<rom name="Eien no Filerna (Japan).sfc" size="1572864" crc="41e9cd70" md5="50de817422dec36b9266cc6aacf9e44e" sha1="a37d9ba5acf84c732120c4cf2b3edd4a59fb146b"/>
+		<url>https://retroachievements.org/game/2836/hashes</url>
+		<hash>50de817422dec36b9266cc6aacf9e44e</hash>
+	</game>
+	<game name="Retail/Eien no Filena (Japan) (En) (v0.98) (satsu)">
+		<category>Super Famincom</category>
+		<description>Eien no Filena (Japan) (En) (v0.98) (satsu)</description>
+		<rom name="Eien no Filena (Japan) (En) (v0.98) (satsu).sfc" size="3145728" crc="26a60ed9" md5="6e6cf69daec7cfa9d6c207209762ed0d" sha1="81e5c89c1a6d24ed2fb3c56ceb193b28b6a2024d"/>
+		<url>https://retroachievements.org/game/2836/hashes</url>
+		<hash>6e6cf69daec7cfa9d6c207209762ed0d</hash>
+	</game>
+	
 	<game name="Retail/Emerald Dragon (Japan) (En) (Translation Corporation) (Debug Patch) (v1.2) (Searo)">
 		<category>Super Famicom</category>
 		<description>Emerald Dragon (Japan) (En) (Translation Corporation) (Debug Patch) (v1.2) (Searo)</description>
@@ -6703,6 +6734,28 @@
 		<rom name="F-Zero (v1.1) (Subset - BS Expansions).sfc" size="1048576" crc="1cf51375" md5="72e0347734698984e3b3a97b4556844d" sha1="cfdc0af3eb5f8b8cc95b8f078ca3b23bfee34214"/>
 		<url>https://retroachievements.org/game/29748/hashes</url>
 		<hash>72e0347734698984e3b3a97b4556844d</hash>
+	</game>
+	
+	<game name="Retail/Famicom Detective Club Part II (Japan) (En) (v1.0) (Demiforce)">
+		<category>Super Famicom</category>
+		<description>Famicom Detective Club Part II (Japan) (En) (v1.0) (Demiforce)</description>
+		<rom name="Famicom Detective Club Part II (Japan) (En) (v1.0) (Demiforce).sfc" size="4194304" crc="1d7858fe" md5="ce7f04c5cabbe883ac73d90136202c57" sha1="21b1f6017c1a5d2fec6ad95ec0eaf0d735d6e1b8"/>
+		<url>https://retroachievements.org/game/2864/hashes</url>
+		<hash>ce7f04c5cabbe883ac73d90136202c57</hash>
+	</game>
+	<game name="Retail/Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo (Japan) (NP)">
+		<category>Super Famicom</category>
+		<description>Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo (Japan) (NP)</description>
+		<rom name="Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo (Japan) (NP).sfc" size="3145728" crc="28f450ac" md5="065dfeb6da891c18d86464c1ed398869" sha1="4d4eeee0e8acfed5cf60a7324349dbb46aaa7369"/>
+		<url>https://retroachievements.org/game/2864/hashes</url>
+		<hash>065dfeb6da891c18d86464c1ed398869</hash>
+	</game>
+	<game name="Retail/Famicom Detective Club Part II (Japan) (Es) (v0.9) (JX91)">
+		<category>Super Famicom</category>
+		<description>Famicom Detective Club Part II (Japan) (Es) (v0.9) (JX91)</description>
+		<rom name="Famicom Detective Club Part II (Japan) (Es) (v0.9) (JX91).sfc" size="4194304" crc="2b0c736a" md5="dc3df5278ade1afbc26ad8f16e3eceb4" sha1="6a506d32690a5bc224cf0fe03851f4647cf40841"/>
+		<url>https://retroachievements.org/game/2864/hashes</url>
+		<hash>dc3df5278ade1afbc26ad8f16e3eceb4</hash>
 	</game>
 	
 	<game name="Retail/Fatal Fury (USA)">
@@ -8059,7 +8112,7 @@
 		<url>https://retroachievements.org/game/7886/hashes</url>
 		<hash>13fc726b744a9ec746836acaf0079d36</hash>
 	</game>
-	<game name="Kaizou Choujin Shubibinman Zero (Japan)">
+	<game name="Retail/Kaizou Choujin Shubibinman Zero (Japan)">
 		<category>Satellaview</category>
 		<description>Kaizou Choujin Shubibinman Zero (Japan)</description>
 		<rom name="Kaizou Choujin Shubibinman Zero (Japan).bs" size="1048576" crc="26a4f6c3" md5="db4dd0305051f7d3ca7bd2e114f4f1dd" sha1="dd084021a7e2afd939fee3b6426778f6e5c2f333"/>
@@ -8220,63 +8273,63 @@
 		<hash>98498d7844af32050feb2aa452c20e2d</hash>
 	</game>
 	
-	<game name="Kirby no Omochabako - Ball Rally (Japan) (2-25) (Standalone Fix)">
+	<game name="Retail/Kirby no Omochabako - Ball Rally (Japan) (2-25) (Standalone Fix)">
 		<category>Satellaview</category>
 		<description>Kirby no Omochabako - Ball Rally (Japan) (2-25) (Standalone Fix)</description>
 		<rom name="Kirby no Omochabako - Ball Rally (Japan) (2-25) (Standalone Fix).bs" size="524288" crc="9d1cff7c" md5="061fcbe0fca04030f5d62938eb5604a6" sha1="090f9f162e9b4a033a30269b471b118b945cb911"/>
 		<url>https://retroachievements.org/game/20562/hashes</url>
 		<hash>061fcbe0fca04030f5d62938eb5604a6</hash>
 	</game>
-	<game name="Kirby no Omochabako - Cannon Ball (Japan)">
+	<game name="Retail/Kirby no Omochabako - Cannon Ball (Japan)">
 		<category>Satellaview</category>
 		<description>Kirby no Omochabako - Cannon Ball (Japan)</description>
 		<rom name="Kirby no Omochabako - Cannon Ball (Japan).bs" size="524288" crc="4dba1fce" md5="072166f9c1ff7300114c210f30e4cf8a" sha1="2fc036b40416eac4b79935258583918606a10ba8"/>
 		<url>https://retroachievements.org/game/20562/hashes</url>
 		<hash>072166f9c1ff7300114c210f30e4cf8a</hash>
 	</game>
-	<game name="Kirby no Omochabako - Pinball (Japan)">
+	<game name="Retail/Kirby no Omochabako - Pinball (Japan)">
 		<category>Satellaview</category>
 		<description>Kirby no Omochabako - Pinball (Japan)</description>
 		<rom name="Kirby no Omochabako - Pinball (Japan).bs" size="524288" crc="9d9bbd09" md5="612cad0100b9a37693815542d501a193" sha1="53faf45fd03937f663dd2e8047badb162922f896"/>
 		<url>https://retroachievements.org/game/20562/hashes</url>
 		<hash>612cad0100b9a37693815542d501a193</hash>
 	</game>
-	<game name="Kirby no Omochabako - Baseball (Japan) (2-9)">
+	<game name="Retail/Kirby no Omochabako - Baseball (Japan) (2-9)">
 		<category>Satellaview</category>
 		<description>Kirby no Omochabako - Baseball (Japan) (2-9)</description>
 		<rom name="Kirby no Omochabako - Baseball (Japan) (2-9).bs" size="524288" crc="21cb8fd4" md5="62ec01a92cbd02f4680fcb59c53d7ec2" sha1="728e0bf73e825b2555c6211d35b9041f37f0ae48"/>
 		<url>https://retroachievements.org/game/20562/hashes</url>
 		<hash>62ec01a92cbd02f4680fcb59c53d7ec2</hash>
 	</game>
-	<game name="Kirby no Omochabako - Guruguru Ball (Japan)">
+	<game name="Retail/Kirby no Omochabako - Guruguru Ball (Japan)">
 		<category>Satellaview</category>
 		<description>Kirby no Omochabako - Guruguru Ball (Japan)</description>
 		<rom name="Kirby no Omochabako - Guruguru Ball (Japan).bs" size="524288" crc="2a4860e4" md5="6d6a1e5ef45b4344751f674d7af19a62" sha1="b9000c63d44c8b59be7bf6a38248da63e906bde8"/>
 		<url>https://retroachievements.org/game/20562/hashes</url>
 		<hash>6d6a1e5ef45b4344751f674d7af19a62</hash>
 	</game>
-	<game name="Kirby no Omochabako - Arrange Ball (Japan)">
+	<game name="Retail/Kirby no Omochabako - Arrange Ball (Japan)">
 		<category>Satellaview</category>
 		<description>Kirby no Omochabako - Arrange Ball (Japan)</description>
 		<rom name="Kirby no Omochabako - Arrange Ball (Japan).bs" size="524288" crc="bc49f827" md5="7ca9979d1fc3e1cef697c757d4616c2a" sha1="31407d5b2e60e480be4f5e34ce47f6a0a8de1b08"/>
 		<url>https://retroachievements.org/game/20562/hashes</url>
 		<hash>7ca9979d1fc3e1cef697c757d4616c2a</hash>
 	</game>
-	<game name="Kirby no Omochabako - Hoshi Kuzushi (Japan)">
+	<game name="Retail/Kirby no Omochabako - Hoshi Kuzushi (Japan)">
 		<category>Satellaview</category>
 		<description>Kirby no Omochabako - Hoshi Kuzushi (Japan)</description>
 		<rom name="Kirby no Omochabako - Hoshi Kuzushi (Japan).bs" size="524288" crc="3dbbd86a" md5="81b0f5ef9e0d42656f7a874b9a7da0dc" sha1="b6cda98a2a6a7a6aa9a64aec7f346039a608b093"/>
 		<url>https://retroachievements.org/game/20562/hashes</url>
 		<hash>81b0f5ef9e0d42656f7a874b9a7da0dc</hash>
 	</game>
-	<game name="Kirby no Omochabako - Pachinko (Japan)">
+	<game name="Retail/Kirby no Omochabako - Pachinko (Japan)">
 		<category>Satellaview</category>
 		<description>Kirby no Omochabako - Pachinko (Japan)</description>
 		<rom name="Kirby no Omochabako - Pachinko (Japan).bs" size="524288" crc="264bb94b" md5="c29e2ac4c326cf1d1f5c0c048d17a005" sha1="abc1011c76eccd680a9f6ebbc3c20ff525f41e97"/>
 		<url>https://retroachievements.org/game/20562/hashes</url>
 		<hash>c29e2ac4c326cf1d1f5c0c048d17a005</hash>
 	</game>
-	<game name="Kirby no Omochabako - Baseball (Japan) (3-13) (Standalone Fix)">
+	<game name="Retail/Kirby no Omochabako - Baseball (Japan) (3-13) (Standalone Fix)">
 		<category>Satellaview</category>
 		<description>Kirby no Omochabako - Baseball (Japan) (3-13) (Standalone Fix)</description>
 		<rom name="Kirby no Omochabako - Baseball (Japan) (3-13) (Standalone Fix).bs" size="524288" crc="514fa027" md5="efdf6a8d32f885c39de2e45fcb2b315d" sha1="20347923edcfe1ed5498845f5c227b5b13ea7fc7"/>
@@ -9383,6 +9436,14 @@
 		<rom name="Micro Machines (USA).sfc" size="524288" crc="364e68bb" md5="b447b20f378bff1342338c5c1acc0e53" sha1="282c4f27d08a9def36dc4e7fe71deaaf0a5f2b43"/>
 		<url>https://retroachievements.org/game/1027/hashes</url>
 		<hash>b447b20f378bff1342338c5c1acc0e53</hash>
+	</game>
+	
+	<game name="Retail/Micro Machines 2 - Turbo Tournament (Europe)">
+		<category>Super Nintendo</category>
+		<description>Micro Machines 2 - Turbo Tournament (Europe)</description>
+		<rom name="Micro Machines 2 - Turbo Tournament (Europe).sfc" size="1048576" crc="1619b619" md5="fff6243187f907e58dc16f6dbbad5d3a" sha1="7bc2410807e5424894297b6bb57999d730249bce"/>
+		<url>https://retroachievements.org/game/3246/hashes</url>
+		<hash>fff6243187f907e58dc16f6dbbad5d3a</hash>
 	</game>
 	
 	<game name="Retail/Arcade's Greatest Hits - The Atari Collection 1 (Europe)">
@@ -11977,7 +12038,7 @@
 		<hash>da609fced0053fa65d8d50adca4e1ebf</hash>
 	</game>
 	
-	<game name="Super Nazo Puyo - Rulue no Roux (Japan) (BS)">
+	<game name="Retail/Super Nazo Puyo - Rulue no Roux (Japan) (BS)">
 		<category>Satellaview</category>
 		<description>Super Nazo Puyo - Rulue no Roux (Japan) (BS)</description>
 		<rom name="Super Nazo Puyo - Rulue no Roux (Japan) (BS).bs" size="1048576" crc="6b36b2af" md5="9b1f1436be089d3266161f5e1a516cbf" sha1="a013f8453c7dbfd228d592340c08161f019d15bd"/>
@@ -11999,7 +12060,7 @@
 		<hash>b1a3813f78d54ac5302ebbf307baf746</hash>
 	</game>
 	
-	<game name="Super Ninja-kun (Japan) (6-1)">
+	<game name="Retail/Super Ninja-kun (Japan) (6-1)">
 		<category>Satellaview</category>
 		<description>Super Ninja-kun (Japan) (6-1)</description>
 		<rom name="Super Ninja-kun (Japan) (6-1).bs" size="1048576" crc="52a63ea3" md5="af7582ecc80e950295d5a9f3fb8ecc48" sha1="4db1c6d6822ea88bbbf8da80d5b27ac4e10659ed"/>
@@ -12355,35 +12416,35 @@
 		<hash>eb3a7ef7a7e224ee35b390adc0da45cb</hash>
 	</game>
 	
-	<game name="Tamori no Picross (Japan) (8-13) (b)">
+	<game name="Retail/Tamori no Picross (Japan) (8-13) (b)">
 		<category>Satellaview</category>
 		<description>Tamori no Picross (Japan) (8-13) (b)</description>
 		<rom name="Tamori no Picross (Japan) (8-13) (b).bs" size="524288" crc="7db65bd3" md5="16c01d30d842496fd8cec31c48cdabff" sha1="32b430bf0750e03da43240c8e91692e4eda54ec0"/>
 		<url>https://retroachievements.org/game/8670/hashes</url>
 		<hash>16c01d30d842496fd8cec31c48cdabff</hash>
 	</game>
-	<game name="Tamori no Picross (6-13) (Japan)">
+	<game name="Retail/Tamori no Picross (6-13) (Japan)">
 		<category>Satellaview</category>
 		<description>Tamori no Picross (6-13) (Japan)</description>
 		<rom name="Tamori no Picross (6-13) (Japan).bs" size="1048576" crc="bf6cab42" md5="269d47792f93fb7b8448cd99b08e02ab" sha1="9573a7e1a2151b05302a9ea2e5b7f1ab1f195593"/>
 		<url>https://retroachievements.org/game/8670/hashes</url>
 		<hash>269d47792f93fb7b8448cd99b08e02ab</hash>
 	</game>
-	<game name="Tamori no Picross (8-13) + Bakushow Mondai no Houkago Ousama - Kayoubi (Japan) (Game, Magazine) [b]">
+	<game name="Retail/Tamori no Picross (8-13) + Bakushow Mondai no Houkago Ousama - Kayoubi (Japan) (Game, Magazine) [b]">
 		<category>Satellaview</category>
 		<description>Tamori no Picross (8-13) + Bakushow Mondai no Houkago Ousama - Kayoubi (Japan) (Game, Magazine) [b]</description>
 		<rom name="Tamori no Picross (8-13) + Bakushow Mondai no Houkago Ousama - Kayoubi (Japan) (Game, Magazine) [b].bs" size="1048576" crc="e58ee3ad" md5="7a165aae06e675eb9a569bd1935b4816" sha1="184a8671a9d6790b351f22178d5a47c37d57a9ad"/>
 		<url>https://retroachievements.org/game/8670/hashes</url>
 		<hash>7a165aae06e675eb9a569bd1935b4816</hash>
 	</game>
-	<game name="Tamori no Picross (Japan) (6-26)">
+	<game name="Retail/Tamori no Picross (Japan) (6-26)">
 		<category>Satellaview</category>
 		<description>Tamori no Picross (Japan) (6-26)</description>
 		<rom name="Tamori no Picross (Japan) (6-26).bs" size="524288" crc="535becda" md5="9f778366e16e46ed0906c90de76a61f2" sha1="9667e997e614f445f2ba421c1bc0693752d595dc"/>
 		<url>https://retroachievements.org/game/8670/hashes</url>
 		<hash>9f778366e16e46ed0906c90de76a61f2</hash>
 	</game>
-	<game name="Tamori no Picross (7-14) (Japan)">
+	<game name="Retail/Tamori no Picross (7-14) (Japan)">
 		<category>Satellaview</category>
 		<description>Tamori no Picross (7-14) (Japan)</description>
 		<rom name="Tamori no Picross (7-14) (Japan).bs" size="1048576" crc="81a6b8ba" md5="ef07ba497f0e7e6ae63dca3143e37e6c" sha1="ce76b9004f7370dcfe98dc8fe8c80c1ac1b51d03"/>
@@ -13424,14 +13485,14 @@
 		<hash>a568d9a73a7c8c6ab1e2e88669c81d6d</hash>
 	</game>
 	
-	<game name="Treasure Conflix (Japan) (En) (v1.1) (Krokodyl)">
+	<game name="Retail/Treasure Conflix (Japan) (En) (v1.1) (Krokodyl)">
 		<category>Satellaview</category>
 		<description>Treasure Conflix (Japan) (En) (v1.1) (Krokodyl)</description>
 		<rom name="Treasure Conflix (Japan) (En) (v1.1) (Krokodyl).sfc" size="1048576" crc="ed9a97c1" md5="17f83573fed14f3e6968d068581eb52e" sha1="79a5a22cfa6b9fe998e934ecbe59a23414a30c5b"/>
 		<url>https://retroachievements.org/game/22135/hashes</url>
 		<hash>17f83573fed14f3e6968d068581eb52e</hash>
 	</game>
-	<game name="Treasure Conflix (Japan)">
+	<game name="Retail/Treasure Conflix (Japan)">
 		<category>Satellaview</category>
 		<description>Treasure Conflix (Japan)</description>
 		<rom name="Treasure Conflix (Japan).bs" size="1048576" crc="f50fb0b7" md5="534de4685ed6a099a31717826ad8ad8b" sha1="dff1d22d662fed96f45ac3e722c79c93469ca421"/>
@@ -13516,6 +13577,13 @@
 		<rom name="Seiken Densetsu 3 (Japan) (En) (v1.00) (NCorlett, LNFT).sfc" size="4194304" crc="fe07123a" md5="fd911993992a685d491440d59be009dc" sha1="882f41f312045656cc01439524e89f2f22e72159"/>
 		<url>https://retroachievements.org/game/1391/hashes</url>
 		<hash>fd911993992a685d491440d59be009dc</hash>
+	</game>
+	<game name="Retail/Seiken Densetsu 3 (Japan) (En) (Pt) (v1.03) (2024)">
+		<category>Super Famicom</category>
+		<description>Seiken Densetsu 3 (Japan) (En) (Pt) (v1.03) (2024)</description>
+		<rom name="Seiken Densetsu 3 (Japan) (En) (Pt) (v1.03) (2024).sfc" size="4194304" crc="0c61a7bf" md5="c7af221dc7645c2a1391602bdb8b0274" sha1="bb5b70b47d9ad33cbef85f1d3af39d795482ce25"/>
+		<url>https://retroachievements.org/game/1391/hashes</url>
+		<hash>c7af221dc7645c2a1391602bdb8b0274</hash>
 	</game>
 	
 	<game name="Retail/True Lies (USA)">
@@ -13641,7 +13709,7 @@
 		<url>https://retroachievements.org/game/12832/hashes</url>
 		<hash>dc4a45430f1e74c34a440c1882172ae6</hash>
 	</game>
-	<game name="Undake 30 - Same Game Daisakusen - Mario Version (Japan) (b)">
+	<game name="Retail/Undake 30 - Same Game Daisakusen - Mario Version (Japan) (b)">
 		<category>Satellaview</category>
 		<description>Undake 30 - Same Game Daisakusen - Mario Version (Japan) (b)</description>
 		<rom name="Undake 30 - Same Game Daisakusen - Mario Version (Japan) (b).bs" size="1048576" crc="15e27754" md5="f5fe0c5154a3ecf6ec1d0e279cede468" sha1="507c7a51c851c54eca7185492536be80954a62b2"/>

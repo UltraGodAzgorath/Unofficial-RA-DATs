@@ -5,8 +5,8 @@
 		<name>RA - WASM-4</name>
 		<description>WASM-4</description>
 		<category>No Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250720</version>
+		<date>20 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/72/games</url>
@@ -110,6 +110,15 @@
 		<rom name="First Flight (World) (bootra).wasm" size="63858" crc="398d0c82" md5="892b0811bb4c21ad276f97ab8895de4f" sha1="669c5d5f645f08449ee98d431dfbcf787a8e8656"/>
 		<url>https://retroachievements.org/game/21394/hashes</url>
 		<hash>892B0811BB4C21AD276F97AB8895DE4F</hash>
+	</game>
+	
+	<game name="Formula 1 (World) (Davy Willems)">
+		<category>Retail</category>
+		<description>Formula 1 (World) (Davy Willems)</description>
+		<release name="Formula 1 (World) (Davy Willems)" region="World"/>
+		<rom name="Formula 1 (World) (Davy Willems).wasm" size="8134" crc="2b7ec786" md5="ce4b848f23f04cb456c6b5d633cff0c1" sha1="dec32bcbf86809745439185c7ce11fcaa75b7cff"/>
+		<url>https://retroachievements.org/game/34167/hashes</url>
+		<hash>ce4b848f23f04cb456c6b5d633cff0c1</hash>
 	</game>
 	
 	<game name="Future Avoid (World) (Proto) (Joakim Hentula)">

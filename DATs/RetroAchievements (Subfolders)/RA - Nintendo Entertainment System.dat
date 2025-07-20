@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20250711</version>
-		<date>11 July 2025</date>
+		<version>20250720</version>
+		<date>20 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/7/games</url>
@@ -35,6 +35,14 @@
 		<rom name="Arkanoid - Amiga Alternate Levels (v1.0) (Superjustinbros) (Hack).nes" size="49168" crc="03043633" md5="cff48252a65488837f27095851a6e005" sha1="4b91cb3cdf666ab39f1aba536b424349076438f0"/>
 		<url>https://retroachievements.org/game/17410/hashes</url>
 		<hash>cee505cb8e6767a655184a635d7ae756</hash>
+	</game>
+	
+	<game name="Hack/Mike Tyson's Punch-Out - Bald Bull's Punch Out!! (v2.0) (Master Phred) (Hack)">
+		<category>Nintendo</category>
+		<description>Mike Tyson's Punch-Out - Bald Bull's Punch Out!! (v2.0) (Master Phred) (Hack)</description>
+		<rom name="Mike Tyson's Punch-Out - Bald Bull's Punch Out!! (v2.0) (Master Phred) (Hack).nes" size="262160" crc="ba6030c1" md5="df8688d9378ad6b4f5cb3d8c28637e35" sha1="6f59e69a68cb91ec3db3bebe719de7865d4289ce"/>
+		<url>https://retroachievements.org/game/33769/hashes</url>
+		<hash>a06c99227bd2aca6c9f4de9d4a3df0e6</hash>
 	</game>
 	
 	<game name="Hack/Battle of Olympus, The (USA) (Item Randomizer) (v1.41) (clymax) (Hack)">

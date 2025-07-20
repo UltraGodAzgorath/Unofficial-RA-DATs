@@ -5,8 +5,8 @@
 		<name>RA - Sony PSP</name>
 		<description>Sony PSP</description>
 		<category>No Subfolders</category>
-		<version>20250630</version>
-		<date>30 June 2025</date>
+		<version>20250720</version>
+		<date>20 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/41/games</url>
@@ -2215,16 +2215,6 @@
 		<legacyhash>c286662f4dee34d8040651281925b920</legacyhash>
 	</game>
 	
-	<game name="Metal Slug Anthology (USA)">
-		<category>Retail</category>
-		<description>Metal Slug Anthology (USA)</description>
-		<release name="Metal Slug Anthology (USA)" region="USA"/>
-		<rom name="Metal Slug Anthology (USA).iso" size="1328939008" crc="5cc9c5dd" md5="315c3765079675cc7a3b9610f9095115" sha1="1bd7913662fd3b3ab99903a34341339676464b04"/>
-		<url>https://retroachievements.org/game/3471/hashes</url>
-		<hash>a2bf0aa8e9de1c63707ea2abee7c1d03</hash>
-		<legacyhash>8844feda8da3ecbbc3aa2db59bc9beb6</legacyhash>
-	</game>
-	
 	<game name="Metal Slug XX (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<description>Metal Slug XX (Europe) (En,Fr,De,Es,It)</description>
@@ -2233,6 +2223,16 @@
 		<url>https://retroachievements.org/game/4004/hashes</url>
 		<hash>8303a68db41f5860bc79fd881f87b901</hash>
 		<legacyhash>477796bd4d04ac24ba0e53a0c9af4e6a</legacyhash>
+	</game>
+	
+	<game name="Metal Slug Anthology (USA)">
+		<category>Retail</category>
+		<description>Metal Slug Anthology (USA)</description>
+		<release name="Metal Slug Anthology (USA)" region="USA"/>
+		<rom name="Metal Slug Anthology (USA).iso" size="1328939008" crc="5cc9c5dd" md5="315c3765079675cc7a3b9610f9095115" sha1="1bd7913662fd3b3ab99903a34341339676464b04"/>
+		<url>https://retroachievements.org/game/3471/hashes</url>
+		<hash>a2bf0aa8e9de1c63707ea2abee7c1d03</hash>
+		<legacyhash>8844feda8da3ecbbc3aa2db59bc9beb6</legacyhash>
 	</game>
 	
 	<game name="Michael Jackson - The Experience (Europe) (En,Fr,De,Es,It,Pl,Ru)">

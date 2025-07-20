@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>Subfolders</category>
-		<version>20250711</version>
-		<date>11 July 2025</date>
+		<version>20250720</version>
+		<date>20 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -585,6 +585,20 @@
 		<rom name="Pokemon - Odyssey (v4.0.1) (Yggdrasil Project) (Hack).gba" size="33554432" crc="af0d9f56" md5="f08d1b00fdd11bbb7a0a7b26b1e34e3f" sha1="47d86103576f4d8f35e49b8fca4f133c72c2417c"/>
 		<url>https://retroachievements.org/game/33063/hashes</url>
 		<hash>f08d1b00fdd11bbb7a0a7b26b1e34e3f</hash>
+	</game>
+	<game name="Hack/Pokemon - FireRed/Pokemon - Odyssey (v4.0.3) (Yggdrasil Project) (Hack)">
+		<category></category>
+		<description>Pokemon - Odyssey (v4.0.3) (Yggdrasil Project) (Hack)</description>
+		<rom name="Pokemon - Odyssey (v4.0.3) (Yggdrasil Project) (Hack).gba" size="33554432" crc="b7f7e873" md5="4d05834b0e72362bc19681eb718acf8c" sha1="b122ec595fdc6a698b6c27db82ae8705c9f9ef7b"/>
+		<url>https://retroachievements.org/game/33063/hashes</url>
+		<hash>4d05834b0e72362bc19681eb718acf8c</hash>
+	</game>
+	<game name="Hack/Pokemon - FireRed/Pokemon - Odyssey (v4.1.0) (Yggdrasil Project) (Hack)">
+		<category></category>
+		<description>Pokemon - Odyssey (v4.1.0) (Yggdrasil Project) (Hack)</description>
+		<rom name="Pokemon - Odyssey (v4.1.0) (Yggdrasil Project) (Hack).gba" size="33554432" crc="b1783af2" md5="c2f1f0d5a1659c05e2686c23a448b48c" sha1="22b15310616c36af5d7fff11198d2abe4759151d"/>
+		<url>https://retroachievements.org/game/33063/hashes</url>
+		<hash>c2f1f0d5a1659c05e2686c23a448b48c</hash>
 	</game>
 	
 	<game name="Hack/Pokemon - FireRed/Pokemon - Radical Red (Hack)">

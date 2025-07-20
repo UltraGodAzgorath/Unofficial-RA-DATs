@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>Subfolders</category>
-		<version>20250711</version>
-		<date>11 July 2025</date>
+		<version>20250720</version>
+		<date>20 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/4/games</url>
@@ -929,6 +929,14 @@
 		<rom name="Soul Void Redux (World) (Aftermarket).gb" size="1048576" crc="b6f5f372" md5="ce14afb9b396a74a1e0e2ece9747ea9c" sha1="3b10f6bae11dab5bb6106d0a6e4e80a3fbd0fa7a"/>
 		<url>https://retroachievements.org/game/25261/hashes</url>
 		<hash>ce14afb9b396a74a1e0e2ece9747ea9c</hash>
+	</game>
+	
+	<game name="Homebrew/Squid Game Boy (World) (v1.1) (Aftermarket) (64 Bits Animation)">
+		<category></category>
+		<description>Squid Game Boy (World) (v1.1) (Aftermarket) (64 Bits Animation)</description>
+		<rom name="Squid Game Boy (World) (v1.1) (Aftermarket) (64 Bits Animation).gb" size="1048576" crc="fab0b86e" md5="45e9109c358d91c9094d5ce36dd85fc0" sha1="992982e622e5ae8ac3003e99629d1516a4bae93d"/>
+		<url>https://retroachievements.org/game/34028/hashes</url>
+		<hash>45e9109c358d91c9094d5ce36dd85fc0</hash>
 	</game>
 	
 	<game name="Homebrew/Super Impostor Bros. (World) (GB Compatible) (Aftermarket)">
@@ -5036,13 +5044,6 @@
 		<rom name="Wizardry Gaiden 1 - Joou no Junan (Japan).gb" size="262144" crc="4d640e73" md5="14d6a5e430452dca394bd3e641dc327b" sha1="e3d03144e4c15522a1469a87eb07130c1884e225"/>
 		<url>https://retroachievements.org/game/5464/hashes</url>
 		<hash>14d6a5e430452dca394bd3e641dc327b</hash>
-	</game>
-	<game name="Retail/Wizardry Gaiden 1 - Joou no Junan (Japan) (En) (MrRichard999) (v1.1)">
-		<category></category>
-		<description>Wizardry Gaiden 1 - Joou no Junan (Japan) (En) (MrRichard999) (v1.1)</description>
-		<rom name="Wizardry Gaiden 1 - Joou no Junan (Japan) (En) (MrRichard999) (v1.1).gb" size="262144" crc="d97cfa52" md5="cb2ab3952aebf23b1c3dae2f453849d4" sha1="c544c0beeae3d4ec0e935126aecbd87a6bfb55aa"/>
-		<url>https://retroachievements.org/game/5464/hashes</url>
-		<hash>cb2ab3952aebf23b1c3dae2f453849d4</hash>
 	</game>
 	
 	<game name="Retail/Wizardry Gaiden 2 - Kodai Koutei no Noroi (Japan)">

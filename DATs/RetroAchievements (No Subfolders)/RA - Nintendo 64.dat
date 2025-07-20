@@ -5,8 +5,8 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>No Subfolders</category>
-		<version>20250711</version>
-		<date>11 July 2025</date>
+		<version>20250720</version>
+		<date>20 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/2/games</url>
@@ -525,6 +525,22 @@
 		<rom name="BK - Grunty's Mansion (v2.0) (JacksonG13) (Hack).z64" size="67108864" crc="f95c4da5" md5="a7b16d92339115f4cc1399c4f4708cc1" sha1="3408159d30d32101f7c932f0cb94ead8acb46e28"/>
 		<url>https://retroachievements.org/game/19493/hashes</url>
 		<hash>a7b16d92339115f4cc1399c4f4708cc1</hash>
+	</game>
+	
+	<game name="LoZOoT - Hero of Law (v1.03) (Newer Team) (Hack)" cloneof="LoZOoT - Hero of Law (v1.04) (Newer Team) (Hack)">
+		<category>Hack</category>
+		<description>LoZOoT - Hero of Law (v1.03) (Newer Team) (Hack)</description>
+		<rom name="LoZOoT - Hero of Law (v1.03) (Newer Team) (Hack).z64" size="8388608" crc="bcb139c5" md5="d826e04d46be813079bff7e8720d0f98" sha1="dfa98fbdcc3aefa0c44c76f7c1284d4f61a7c589"/>
+		<url>https://retroachievements.org/game/34006/hashes</url>
+		<hash>d826e04d46be813079bff7e8720d0f98</hash>
+	</game>
+	<game name="LoZOoT - Hero of Law (v1.04) (Newer Team) (Hack)">
+		<category>Hack</category>
+		<description>LoZOoT - Hero of Law (v1.04) (Newer Team) (Hack)</description>
+		<release name="LoZOoT - Hero of Law (v1.04) (Newer Team) (Hack)" region="World"/>
+		<rom name="LoZOoT - Hero of Law (v1.04) (Newer Team) (Hack).z64" size="8388608" crc="3ed35b5c" md5="6f9476d767e61960c1dafbb006d4923a" sha1="c8acb9bc4c6bf80d54ea09deff7e9c364c8d3549"/>
+		<url>https://retroachievements.org/game/34006/hashes</url>
+		<hash>6f9476d767e61960c1dafbb006d4923a</hash>
 	</game>
 	
 	<game name="Kirby 64 - Whispy's Trials (v2020-10-4) (jesusyoshi54) (Hack)">
@@ -1320,6 +1336,15 @@
 		<rom name="LoZOoT - Nimpize Adventure (v1.0) (Ostrealava02) (Hack).n64" size="33554432" crc="113f4ff9" md5="4661b8323f591a1b7c30f83be64cae6b" sha1="a1a39b03559bcf99a98a439d712bef35ec3554b6"/>
 		<url>https://retroachievements.org/game/10812/hashes</url>
 		<hash>4661B8323F591A1B7C30F83BE64CAE6B</hash>
+	</game>
+	
+	<game name="SM64 - Octagon (v1.0) (Caasje) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - Octagon (v1.0) (Caasje) (Hack)</description>
+		<release name="SM64 - Octagon (v1.0) (Caasje) (Hack)" region="World"/>
+		<rom name="SM64 - Octagon (v1.0) (Caasje) (Hack).n64" size="67108864" crc="7fa6660b" md5="4522482322a50626ba1c11000a97cf28" sha1="d6947973838f9738338bc7b63a962b6234d9baba"/>
+		<url>https://retroachievements.org/game/34168/hashes</url>
+		<hash>4522482322a50626ba1c11000a97cf28</hash>
 	</game>
 	
 	<game name="SM64 - Only Up! 64 (v1.1) (Kaze Emanuar) (Hack)">
@@ -2557,6 +2582,15 @@
 		<rom name="SM64 - Rocky Mountain Revisited (v1.0) (DavidHolandaOne) (Hack).z64" size="67108864" crc="9f53bab2" md5="94ddc73d312b9eab80521a207d6d78de" sha1="e6cc7c7cd1fb3099a051e4d786b0bd0b8f601bed"/>
 		<url>https://retroachievements.org/game/24173/hashes</url>
 		<hash>94ddc73d312b9eab80521a207d6d78de</hash>
+	</game>
+	
+	<game name="Super Smash Bros. - Smash Remix (v2.0.0) (Smash Remix Team) (Hack)">
+		<category>Hack</category>
+		<description>Super Smash Bros. - Smash Remix (v2.0.0) (Smash Remix Team) (Hack)</description>
+		<release name="Super Smash Bros. - Smash Remix (v2.0.0) (Smash Remix Team) (Hack)" region="World"/>
+		<rom name="Super Smash Bros. - Smash Remix (v2.0.0) (Smash Remix Team) (Hack).z64" size="65536000" crc="d445da30" md5="43571020fa5ddb138bbd7f64a8c9c0d4" sha1="78ce0534dafeead75ad8863521eb711e9fe7712b"/>
+		<url>https://retroachievements.org/game/15964/hashes</url>
+		<hash>43571020fa5ddb138bbd7f64a8c9c0d4</hash>
 	</game>
 	
 	<game name="SM64 - Speed Star Adventure (v1.1) (jesusyoshi54) (Hack)">

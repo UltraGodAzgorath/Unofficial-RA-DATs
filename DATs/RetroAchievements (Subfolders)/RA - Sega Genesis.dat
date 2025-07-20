@@ -5,8 +5,8 @@
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
 		<category>Subfolders</category>
-		<version>20250711</version>
-		<date>11 July 2025</date>
+		<version>20250720</version>
+		<date>20 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/1/games</url>
@@ -1875,6 +1875,14 @@
 		<rom name="Chase H.Q. II (USA).md" size="524288" crc="f39e4bf2" md5="93cacc2d10b6176afa16e4d08ab6ee1c" sha1="47c8c173980749aca075b9b3278c0df89a21303f"/>
 		<url>https://retroachievements.org/game/4462/hashes</url>
 		<hash>93cacc2d10b6176afa16e4d08ab6ee1c</hash>
+	</game>
+	
+	<game name="Retail/Chester Cheetah - Wild Wild Quest (USA)">
+		<category></category>
+		<description>Chester Cheetah - Wild Wild Quest (USA)</description>
+		<rom name="Chester Cheetah - Wild Wild Quest (USA).md" size="1048576" crc="b97b735d" md5="e4a419078b558efedb838dc581365bf1" sha1="3a0a01338320a4326a365447dc8983727738a21e"/>
+		<url>https://retroachievements.org/game/8914/hashes</url>
+		<hash>e4a419078b558efedb838dc581365bf1</hash>
 	</game>
 	
 	<game name="Retail/Chiki Chiki Boys (USA, Europe)">
