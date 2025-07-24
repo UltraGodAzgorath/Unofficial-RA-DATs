@@ -29,14 +29,14 @@
 		<hash>B14E14493C7C45B8D61C160236AC0F85</hash>
 	</game>
 	
-	<game name="Homebrew/Maria (World) (No-Intro) (Aftermarket)">
+	<game name="Homebrew/Maria/Maria (World) (No-Intro) (Aftermarket)">
 		<category>TurboGrafx</category>
 		<description>Maria (World) (No-Intro) (Aftermarket)</description>
 		<rom name="Maria (World) (No-Intro) (Aftermarket).pce" size="491520" crc="192a5924" md5="de25a604c8f59525ef061ac5bb3567bd" sha1="cf64c8cf29c11310924362ff03dd7d8120debf8f"/>
 		<url>https://retroachievements.org/game/13669/hashes</url>
 		<hash>de25a604c8f59525ef061ac5bb3567bd</hash>
 	</game>
-	<game name="Homebrew/Maria (World) (Itch.io) (Aftermarket)">
+	<game name="Homebrew/Maria/Maria (World) (Itch.io) (Aftermarket)">
 		<category>TurboGrafx</category>
 		<description>Maria (World) (Itch.io) (Aftermarket)</description>
 		<rom name="Maria (World) (Itch.io) (Aftermarket).pce" size="492032" crc="e1f8d959" md5="79e74b94605e3842fe5958bc0e37cc3f" sha1="26850be8cec77f072082e91c200f552f788c11cd"/>
@@ -100,14 +100,14 @@
 		<hash>15107F07C3B7A65A7E784ADD44349961</hash>
 	</game>
 	
-	<game name="Unlicensed/Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl)">
+	<game name="Unlicensed/Lady Sword/Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl)">
 		<category>TurboGrafx</category>
 		<description>Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl)</description>
 		<rom name="Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl).pce" size="1048576" crc="c6f764ec" md5="71c5cffeab1cb60a04b5e77a338117ac" sha1="7384d0d863da43c64d704f4f36ce55502e3b6159"/>
 		<url>https://retroachievements.org/game/9565/hashes</url>
 		<hash>71C5CFFEAB1CB60A04B5E77A338117AC</hash>
 	</game>
-	<game name="Unlicensed/Lady Sword (Japan) (En) (v1.0) (EsperKnight,filler,Grant Laughlin,Tomaitheous) (Unl)">
+	<game name="Unlicensed/Lady Sword/Lady Sword (Japan) (En) (v1.0) (EsperKnight,filler,Grant Laughlin,Tomaitheous) (Unl)">
 		<category>TurboGrafx</category>
 		<description>Lady Sword (Japan) (En) (v1.0) (EsperKnight,filler,Grant Laughlin,Tomaitheous) (Unl)</description>
 		<rom name="Lady Sword (Japan) (En) (v1.0) (EsperKnight,filler,Grant Laughlin,Tomaitheous) (Unl).pce" size="1048576" crc="ff461dcd" md5="6b56d548b740cdbbc2993b5a8f03ffd4" sha1="7e6cf9b1c8ef96147129d297e0b39a2217d499f1"/>
@@ -147,14 +147,14 @@
 		<hash>42CFDF8495CE8338D83C73B38AE274B6</hash>
 	</game>
 	
-	<game name="Retail/Aero Blasters (Japan) (En)">
+	<game name="Retail/Aero Blasters/Aero Blasters (Japan) (En)">
 		<category>TurboGrafx</category>
 		<description>Aero Blasters (Japan) (En)</description>
 		<rom name="Aero Blasters (Japan) (En).pce" size="524288" crc="25be2b81" md5="3d3b872d9031fa3227d68f2239b00b82" sha1="748ec92246140565d95f6fb727de6167227b85d3"/>
 		<url>https://retroachievements.org/game/2269/hashes</url>
 		<hash>3D3B872D9031FA3227D68F2239B00B82</hash>
 	</game>
-	<game name="Retail/Aero Blasters (USA)">
+	<game name="Retail/Aero Blasters/Aero Blasters (USA)">
 		<category>TurboGrafx</category>
 		<description>Aero Blasters (USA)</description>
 		<rom name="Aero Blasters (USA).pce" size="524288" crc="b03e0b32" md5="b2b62baab5fefafc5db6538720b503c3" sha1="23b7da6a6067563af5fdf303d83adeae818cdcdf"/>
@@ -218,28 +218,28 @@
 		<hash>BEB2B4486ED8A66F0DF10E260BDC5224</hash>
 	</game>
 	
-	<game name="Retail/Bikkuriman World (Japan)">
+	<game name="Retail/Bikkuriman World/Bikkuriman World (Japan)">
 		<category>TurboGrafx</category>
 		<description>Bikkuriman World (Japan)</description>
 		<rom name="Bikkuriman World (Japan).pce" size="262144" crc="2841fd1e" md5="7822065caf6c6b5cd8f16189915b4e21" sha1="5c09536bbd46337bd563818f637afe2a609bb08b"/>
 		<url>https://retroachievements.org/game/13668/hashes</url>
 		<hash>7822065CAF6C6B5CD8F16189915B4E21</hash>
 	</game>
-	<game name="Retail/Bikkuriman World (Japan) (En) (v1.0) (Demiforce)">
+	<game name="Retail/Bikkuriman World/Bikkuriman World (Japan) (En) (v1.0) (Demiforce)">
 		<category>TurboGrafx</category>
 		<description>Bikkuriman World (Japan) (En) (v1.0) (Demiforce)</description>
 		<rom name="Bikkuriman World (Japan) (En) (v1.0) (Demiforce).pce" size="262144" crc="02db6fe5" md5="7a13bd257402efafff3c33d9ba7d4ae4" sha1="9209ae070ef6a4ca6dad6fb20054b1ac3c265ccf"/>
 		<url>https://retroachievements.org/game/13668/hashes</url>
 		<hash>7A13BD257402EFAFFF3C33D9BA7D4AE4</hash>
 	</game>
-	<game name="Retail/Bikkuriman World (Japan) (Fr) (v1.02) (Raph99)">
+	<game name="Retail/Bikkuriman World/Bikkuriman World (Japan) (Fr) (v1.02) (Raph99)">
 		<category>TurboGrafx</category>
 		<description>Bikkuriman World (Japan) (Fr) (v1.02) (Raph99)</description>
 		<rom name="Bikkuriman World (Japan) (Fr) (v1.02) (Raph99).pce" size="262144" crc="0c58bab3" md5="560da2c998c293b4c4769d4f570eb011" sha1="68a1664b878c8048bf3dec3e983941cfae27ee3f"/>
 		<url>https://retroachievements.org/game/13668/hashes</url>
 		<hash>560DA2C998C293B4C4769D4F570EB011</hash>
 	</game>
-	<game name="Retail/Bikkuriman World (Japan) (El) (Unknown)">
+	<game name="Retail/Bikkuriman World/Bikkuriman World (Japan) (El) (Unknown)">
 		<category>TurboGrafx</category>
 		<description>Bikkuriman World (Japan) (El) (Unknown)</description>
 		<rom name="Bikkuriman World (Japan) (El) (Unknown).pce" size="262144" crc="7b6c6e1f" md5="19e6202eb43ac2aaac5492a5ecfb23ff" sha1="2fbde3030b036c5d7caaa546f0030c1ee164de35"/>
@@ -271,14 +271,14 @@
 		<hash>22945308EB41396F39C00444BE9F251F</hash>
 	</game>
 	
-	<game name="Retail/Bomberman '93 (Japan)">
+	<game name="Retail/Bomberman '93/Bomberman '93 (Japan)">
 		<category>TurboGrafx</category>
 		<description>Bomberman '93 (Japan)</description>
 		<rom name="Bomberman '93 (Japan).pce" size="524288" crc="b300c5d0" md5="17a08fca7468a24039f1a6c97015807f" sha1="64131aeb6753bffde2910d641c73b56108874320"/>
 		<url>https://retroachievements.org/game/2277/hashes</url>
 		<hash>17A08FCA7468A24039F1A6C97015807F</hash>
 	</game>
-	<game name="Retail/Bomberman '93 (USA)">
+	<game name="Retail/Bomberman '93/Bomberman '93 (USA)">
 		<category>TurboGrafx</category>
 		<description>Bomberman '93 (USA)</description>
 		<rom name="Bomberman '93 (USA).pce" size="524288" crc="56171c1c" md5="795321485b7d58701cd5b661d6ad636a" sha1="709b47de6e0ebc18fb80c951d5cfaa6ce82d6ce0"/>
@@ -438,28 +438,28 @@
 		<hash>92FBE89D4C87BF283DBFBEAC69A64E6E</hash>
 	</game>
 	
-	<game name="Retail/Die Hard (Japan) (En) (v1.0) (Spinner 8)">
+	<game name="Retail/Die Hard/Die Hard (Japan) (En) (v1.0) (Spinner 8)">
 		<category>TurboGrafx</category>
 		<description>Die Hard (Japan) (En) (v1.0) (Spinner 8)</description>
 		<rom name="Die Hard (Japan) (En) (v1.0) (Spinner 8).pce" size="524288" crc="91be0dec" md5="45195abbbdaff8dd8d8c521b84f1698d" sha1="ae01c948903cca1c849d77f68bffb3e533efcf50"/>
 		<url>https://retroachievements.org/game/12821/hashes</url>
 		<hash>45195ABBBDAFF8DD8D8C521B84F1698D</hash>
 	</game>
-	<game name="Retail/Die Hard (Japan)">
+	<game name="Retail/Die Hard/Die Hard (Japan)">
 		<category>TurboGrafx</category>
 		<description>Die Hard (Japan)</description>
 		<rom name="Die Hard (Japan).pce" size="524288" crc="1b5b1cb1" md5="7dd298a6e9f2abce6f85d262ec37f483" sha1="96aeca126bb6ac0ca0df5ee260a8a1ee25f44d6d"/>
 		<url>https://retroachievements.org/game/12821/hashes</url>
 		<hash>7DD298A6E9F2ABCE6F85D262EC37F483</hash>
 	</game>
-	<game name="Retail/Die Hard (Japan) (Es) (v1.1) (Wave)">
+	<game name="Retail/Die Hard/Die Hard (Japan) (Es) (v1.1) (Wave)">
 		<category>TurboGrafx</category>
 		<description>Die Hard (Japan) (Es) (v1.1) (Wave)</description>
 		<rom name="Die Hard (Japan) (Es) (v1.1) (Wave).pce" size="524288" crc="72ea32e0" md5="9a0de117840a3aa9baf7c7e7eb5546c8" sha1="8ba07b91f670c633e27e3e869b99242b58e9d3ef"/>
 		<url>https://retroachievements.org/game/12821/hashes</url>
 		<hash>9A0DE117840A3AA9BAF7C7E7EB5546C8</hash>
 	</game>
-	<game name="Retail/Die Hard (Japan) (Pt) (v1.0) (Patryck)">
+	<game name="Retail/Die Hard/Die Hard (Japan) (Pt) (v1.0) (Patryck)">
 		<category>TurboGrafx</category>
 		<description>Die Hard (Japan) (Pt) (v1.0) (Patryck)</description>
 		<rom name="Die Hard (Japan) (Pt) (v1.0) (Patryck).pce" size="524288" crc="6634dc79" md5="bccc45446bdcc231d8edb4475c4eceb1" sha1="6a2c7e3f9eee051bf6f929493b66e1c3d9bfae82"/>
@@ -475,14 +475,14 @@
 		<hash>14813EFF2B436FA5EB1C3E95E99993A9</hash>
 	</game>
 	
-	<game name="Retail/Dragon Spirit (Japan) (En)">
+	<game name="Retail/Double Dungeons/Dragon Spirit (Japan) (En)">
 		<category>TurboGrafx</category>
 		<description>Dragon Spirit (Japan) (En)</description>
 		<rom name="Dragon Spirit (Japan) (En).pce" size="262144" crc="01a76935" md5="0a459d74f0545f4538705276422be34e" sha1="09b037fde801b71d1ff343c40ff5a58372b9a514"/>
 		<url>https://retroachievements.org/game/2292/hashes</url>
 		<hash>0A459D74F0545F4538705276422BE34E</hash>
 	</game>
-	<game name="Retail/Double Dungeons (USA)">
+	<game name="Retail/Double Dungeons/Double Dungeons (USA)">
 		<category>TurboGrafx</category>
 		<description>Double Dungeons (USA)</description>
 		<rom name="Double Dungeons (USA).pce" size="262144" crc="4a1a8c60" md5="5ba010cd617c6f2b0f6e926fd4ef8a42" sha1="4e81f6cfa47ed941922492889be432041ff99e25"/>
@@ -522,14 +522,14 @@
 		<hash>1FE13078C7ABA4EF0777D5A470D56986</hash>
 	</game>
 	
-	<game name="Retail/Dragon's Curse (USA) (Fr) (v0.99) (Raph99)">
+	<game name="Retail/Dragon's Curse/Dragon's Curse (USA) (Fr) (v0.99) (Raph99)">
 		<category>TurboGrafx</category>
 		<description>Dragon's Curse (USA) (Fr) (v0.99) (Raph99)</description>
 		<rom name="Dragon's Curse (USA) (Fr) (v0.99) (Raph99).pce" size="262144" crc="c4c24185" md5="1d7fbd0f8aed6c7fe2cd2e66a17973fc" sha1="26294112b72b9ab271778cb51a1468fd4037baa7"/>
 		<url>https://retroachievements.org/game/2293/hashes</url>
 		<hash>1D7FBD0F8AED6C7FE2CD2E66A17973FC</hash>
 	</game>
-	<game name="Retail/Dragon's Curse (USA)">
+	<game name="Retail/Dragon's Curse/Dragon's Curse (USA)">
 		<category>TurboGrafx</category>
 		<description>Dragon's Curse (USA)</description>
 		<rom name="Dragon's Curse (USA).pce" size="262144" crc="7d2c4b09" md5="55153240fe1d0076c4f759b82f2d7e3e" sha1="39b382725e38d6303ae2b19f1cabbd96ca661b07"/>
@@ -545,14 +545,14 @@
 		<hash>7DF6342574ED3E0241029A11F1F5C4DA</hash>
 	</game>
 	
-	<game name="Retail/Tower of Druaga, The (Japan) (En) (v1.1) (Procyon)">
+	<game name="Retail/The Tower of Druaga/Tower of Druaga, The (Japan) (En) (v1.1) (Procyon)">
 		<category>TurboGrafx</category>
 		<description>Tower of Druaga, The (Japan) (En) (v1.1) (Procyon)</description>
 		<rom name="Tower of Druaga, The (Japan) (En) (v1.1) (Procyon).pce" size="524288" crc="b9032dc3" md5="8da3885d9c6674f33cf9bac28905d249" sha1="7a36b6b64596a04a4a3fc6ffeacae44989504271"/>
 		<url>https://retroachievements.org/game/12826/hashes</url>
 		<hash>8DA3885D9C6674F33CF9BAC28905D249</hash>
 	</game>
-	<game name="Retail/Tower of Druaga, The (Japan)">
+	<game name="Retail/The Tower of Druaga/Tower of Druaga, The (Japan)">
 		<category>TurboGrafx</category>
 		<description>Tower of Druaga, The (Japan)</description>
 		<rom name="Tower of Druaga, The (Japan).pce" size="524288" crc="72e00bc4" md5="df4fa7ddc1a4e8cc29dc67e700b2a55a" sha1="1d34d947d9dfd4d7a3e1a0dda789645cd8c4ac29"/>
@@ -568,14 +568,14 @@
 		<hash>A07C43BEA439C8C904BC4908737AF5C5</hash>
 	</game>
 	
-	<game name="Retail/Energy (Japan)">
+	<game name="Retail/Energy/Energy (Japan)">
 		<category>TurboGrafx</category>
 		<description>Energy (Japan)</description>
 		<rom name="Energy (Japan).pce" size="262144" crc="ca68ff21" md5="b928568fd7258f90b5ac410c7f65c48c" sha1="8a43ac4f92cf6715e95b607c75e5c9e43b1c7575"/>
 		<url>https://retroachievements.org/game/13409/hashes</url>
 		<hash>B928568FD7258F90B5AC410C7F65C48C</hash>
 	</game>
-	<game name="Retail/Energy (Japan) (En) (v1.01) (onionzoo, cabbage)">
+	<game name="Retail/Energy/Energy (Japan) (En) (v1.01) (onionzoo, cabbage)">
 		<category>TurboGrafx</category>
 		<description>Energy (Japan) (En) (v1.01) (onionzoo, cabbage)</description>
 		<rom name="Energy (Japan) (En) (v1.01) (onionzoo, cabbage).pce" size="262144" crc="370fa62c" md5="7fc06f2e3131c1cfcddff6c69d54b8b9" sha1="d237dff176ef5193885fdc4abb469f6435dd2aac"/>
@@ -591,14 +591,14 @@
 		<hash>70EA7C2D63FCC6A9719A85BBA9CEBC04</hash>
 	</game>
 	
-	<game name="Retail/Final Match Tennis (Japan)">
+	<game name="Retail/Final Match Tennis/Final Match Tennis (Japan)">
 		<category>TurboGrafx</category>
 		<description>Final Match Tennis (Japan)</description>
 		<rom name="Final Match Tennis (Japan).pce" size="262144" crc="560d2305" md5="595364eede949021345f1f7735e64355" sha1="e3a97b468d0a6c94effde70bf331dc4b3d90b166"/>
 		<url>https://retroachievements.org/game/15684/hashes</url>
 		<hash>595364EEDE949021345F1F7735E64355</hash>
 	</game>
-	<game name="Retail/Final Match Tennis (Japan) (En) (v1.2) (tAz-07)">
+	<game name="Retail/Final Match Tennis/Final Match Tennis (Japan) (En) (v1.2) (tAz-07)">
 		<category>TurboGrafx</category>
 		<description>Final Match Tennis (Japan) (En) (v1.2) (tAz-07)</description>
 		<rom name="Final Match Tennis (Japan) (En) (v1.2) (tAz-07).pce" size="262144" crc="8c4f4941" md5="e161b34d6bcdbcfe582f943b2eef5715" sha1="6d14d4ac286b70cd7b689a8d4576da4e27a330dd"/>
@@ -614,14 +614,14 @@
 		<hash>FE5B3F899F0EE5994508F259BBB74CFE</hash>
 	</game>
 	
-	<game name="Retail/Fushigi no Yume no Alice (Japan)">
+	<game name="Retail/Fushigi no Yume no Alice/Fushigi no Yume no Alice (Japan)">
 		<category>TurboGrafx</category>
 		<description>Fushigi no Yume no Alice (Japan)</description>
 		<rom name="Fushigi no Yume no Alice (Japan).pce" size="393216" crc="12c4e6fd" md5="3e0cd9af31efe11acf733fb15dc31131" sha1="c266b05dd367b2973399b8daff7c4dc33bebedd9"/>
 		<url>https://retroachievements.org/game/7193/hashes</url>
 		<hash>3E0CD9AF31EFE11ACF733FB15DC31131</hash>
 	</game>
-	<game name="Retail/Fushigi no Yume no Alice (Japan) (En) (v1.0)">
+	<game name="Retail/Fushigi no Yume no Alice/Fushigi no Yume no Alice (Japan) (En) (v1.0)">
 		<category>TurboGrafx</category>
 		<description>Fushigi no Yume no Alice (Japan) (En) (v1.0)</description>
 		<rom name="Fushigi no Yume no Alice (Japan) (En) (v1.0).pce" size="393216" crc="c21f25c4" md5="4ed3f4820b238d5c1cb49dcaf24f382a" sha1="9868a3049e6bbc75a537415a2db8bbda17dc1864"/>
@@ -637,14 +637,14 @@
 		<hash>94814DB23E163DBFC7D7505170E145C2</hash>
 	</game>
 	
-	<game name="Retail/Gekisha Boy (Japan)">
+	<game name="Retail/Gekisha Boy/Gekisha Boy (Japan)">
 		<category>TurboGrafx</category>
 		<description>Gekisha Boy (Japan)</description>
 		<rom name="Gekisha Boy (Japan).pce" size="524288" crc="e8702d51" md5="355f281d002a139a05525264a28fb526" sha1="ee2665acb440d8b01da0d14feb51d4e0bb50c400"/>
 		<url>https://retroachievements.org/game/16374/hashes</url>
 		<hash>355F281D002A139A05525264A28FB526</hash>
 	</game>
-	<game name="Retail/Gekisha Boy (Japan) (En) (v1.0) (LaytonLoztew)">
+	<game name="Retail/Gekisha Boy/Gekisha Boy (Japan) (En) (v1.0) (LaytonLoztew)">
 		<category>TurboGrafx</category>
 		<description>Gekisha Boy (Japan) (En) (v1.0) (LaytonLoztew)</description>
 		<rom name="Gekisha Boy (Japan) (En) (v1.0) (LaytonLoztew).pce" size="524288" crc="61febf33" md5="9dcb79c53d21c5d3eff36ca6a92df81c" sha1="51c8be58749da5452dafe3a1e56f86df0b9dfbec"/>
@@ -708,14 +708,14 @@
 		<hash>D2F94B64B528C320D5EE148FE77F05F5</hash>
 	</game>
 	
-	<game name="Retail/J.J. &amp; Jeff (USA)">
+	<game name="Retail/J.J. &amp; Jeff/J.J. &amp; Jeff (USA)">
 		<category>TurboGrafx</category>
 		<description>J.J. &amp; Jeff (USA)</description>
 		<rom name="J.J. &amp; Jeff (USA).pce" size="262144" crc="e01c5127" md5="b614f91296aaed8afabd4f03f4ee40d1" sha1="18ae2d9031f49e54145d83ff90df4189c36adef1"/>
 		<url>https://retroachievements.org/game/7444/hashes</url>
 		<hash>B614F91296AAED8AFABD4F03F4EE40D1</hash>
 	</game>
-	<game name="Retail/Kato-chan Ken-chan (Japan)">
+	<game name="Retail/J.J. &amp; Jeff/Kato-chan Ken-chan (Japan)">
 		<category>TurboGrafx</category>
 		<description>Kato-chan Ken-chan (Japan)</description>
 		<rom name="Kato-chan Ken-chan (Japan).pce" size="262144" crc="6069c5e7" md5="23df0b354e83876a94e9c128a7a9eb80" sha1="1381c15587891083f7cde3b1224fcc6df45bc914"/>
@@ -723,14 +723,14 @@
 		<hash>23DF0B354E83876A94E9C128A7A9EB80</hash>
 	</game>
 
-	<game name="Retail/Jackie Chan's Action Kung Fu (USA)">
+	<game name="Retail/Jackie Chan's Action Kung Fu/Jackie Chan's Action Kung Fu (USA)">
 		<category>TurboGrafx</category>
 		<description>Jackie Chan's Action Kung Fu (USA)</description>
 		<rom name="Jackie Chan's Action Kung Fu (USA).pce" size="524288" crc="9d2f6193" md5="5a8c0f70f333ff03c8eb836eeb5f2ff9" sha1="33ee18e3cd6ba59ffca70fa7a1322d6e44a08682"/>
 		<url>https://retroachievements.org/game/8708/hashes</url>
 		<hash>5A8C0F70F333FF03C8EB836EEB5F2FF9</hash>
 	</game>
-	<game name="Retail/Jackie Chan's Action Kung Fu (USA) (Ru) (Mario Soft)">
+	<game name="Retail/Jackie Chan's Action Kung Fu/Jackie Chan's Action Kung Fu (USA) (Ru) (Mario Soft)">
 		<category>TurboGrafx</category>
 		<description>Jackie Chan's Action Kung Fu (USA) (Ru) (Mario Soft)</description>
 		<rom name="Jackie Chan's Action Kung Fu (USA) (Ru) (Mario Soft).pce" size="524288" crc="c74157c4" md5="730d3d5d8792b0897f534d9a42d9c3a2" sha1="1ef56956213266d4f7db26c80a36153bf7c99512"/>
@@ -738,14 +738,14 @@
 		<hash>730D3D5D8792B0897F534D9A42D9C3A2</hash>
 	</game>
 	
-	<game name="Retail/Juuouki (Japan)">
+	<game name="Retail/Juuouki/Juuouki (Japan)">
 		<category>TurboGrafx</category>
 		<description>Juuouki (Japan)</description>
 		<rom name="Juuouki (Japan).pce" size="524288" crc="c8c7d63e" md5="2b47ceea374d6c11471310caec5ccb36" sha1="8b274906e2488fa3a6be467c5bd8a2ac150d5801"/>
 		<url>https://retroachievements.org/game/22771/hashes</url>
 		<hash>2B47CEEA374D6C11471310CAEC5CCB36</hash>
 	</game>
-	<game name="Retail/Juuouki (Japan) (Es) (v1.0) (Wave Translations)">
+	<game name="Retail/Juuouki/Juuouki (Japan) (Es) (v1.0) (Wave Translations)">
 		<category>TurboGrafx</category>
 		<description>Juuouki (Japan) (Es) (v1.0) (Wave Translations)</description>
 		<rom name="Juuouki (Japan) (Es) (v1.0) (Wave Translations).pce" size="524288" crc="4e410496" md5="255151e36286918861d8053a0e37e695" sha1="3a738add776f170f6299a5e8c20d3a3a7627d31c"/>
@@ -753,7 +753,7 @@
 		<hash>255151E36286918861D8053A0E37E695</hash>
 	</game>
 	
-	<game name="Subset/Juuouki (Subset - Multi)">
+	<game name="Subset/Juuouki/Juuouki (Subset - Multi)">
 		<category>TurboGrafx</category>
 		<description>Juuouki (Subset - Multi)</description>
 		<rom name="Juuouki (Subset - Multi).pce" size="524288" crc="ad437cad" md5="7fd776176e722e6f3dde27cb090b6a9e" sha1="19d049eabc1018d8760662d5f09010caa2cb4731"/>
@@ -809,17 +809,17 @@
 		<hash>74D9F1BD96BA2690ED4CB989EBAEB948</hash>
 	</game>
 
-	<game name="Retail/Makai Hakkenden - Shada (Japan)">
+	<game name="Retail/Makai Hakkenden - Shada/Makai Hakkenden - Shada (Japan)">
 		<category>TurboGrafx</category>
 		<description>Makai Hakkenden - Shada (Japan)</description>
 		<rom name="Makai Hakkenden - Shada (Japan).pce" size="262144" crc="be62eef5" md5="06c9c65e0e1c0669be28cc99ace61f54" sha1="3ca3057045a9f116aea655f6965e882991e021f7"/>
 		<url>https://retroachievements.org/game/22775/hashes</url>
 		<hash>06C9C65E0E1C0669BE28CC99ACE61F54</hash>
 	</game>
-	<game name="Retail/Makai Hakkenden Shada (Japan) (En) (v1.0) (Shubibiman, cabbage)">
+	<game name="Retail/Makai Hakkenden - Shada/Makai Hakkenden - Shada (Japan) (En) (v1.0) (Shubibiman, cabbage)">
 		<category>TurboGrafx</category>
-		<description>Makai Hakkenden Shada (Japan) (En) (v1.0) (Shubibiman, cabbage)</description>
-		<rom name="Makai Hakkenden Shada (Japan) (En) (v1.0) (Shubibiman, cabbage).pce" size="262144" crc="017de16d" md5="6b33184f381d3bfc9870f5ad55b8c78a" sha1="448991d34538c40cb8d7738ed1093b86c4dd1cfd"/>
+		<description>Makai Hakkenden - Shada (Japan) (En) (v1.0) (Shubibiman, cabbage)</description>
+		<rom name="Makai Hakkenden - Shada (Japan) (En) (v1.0) (Shubibiman, cabbage).pce" size="262144" crc="017de16d" md5="6b33184f381d3bfc9870f5ad55b8c78a" sha1="448991d34538c40cb8d7738ed1093b86c4dd1cfd"/>
 		<url>https://retroachievements.org/game/22775/hashes</url>
 		<hash>6B33184F381D3BFC9870F5AD55B8C78A</hash>
 	</game>
@@ -832,14 +832,14 @@
 		<hash>31B5597ED22D3D143F98D394EE4593AD</hash>
 	</game>
 	
-	<game name="Retail/Maerchen Maze (Japan)">
+	<game name="Retail/Maerchen Maze/Maerchen Maze (Japan)">
 		<category>TurboGrafx</category>
 		<description>Maerchen Maze (Japan)</description>
 		<rom name="Maerchen Maze (Japan).pce" size="262144" crc="a15a1f37" md5="887b9fa8296ff3c98839e11cc7039763" sha1="04175b93e52653fa61111210538a5582ba152180"/>
 		<url>https://retroachievements.org/game/19923/hashes</url>
 		<hash>887B9FA8296FF3C98839E11CC7039763</hash>
 	</game>
-	<game name="Retail/Maerchen Maze (Japan) (En) (v1.1) (MooZ &amp; Shubibiman)">
+	<game name="Retail/Maerchen Maze/Maerchen Maze (Japan) (En) (v1.1) (MooZ &amp; Shubibiman)">
 		<category>TurboGrafx</category>
 		<description>Maerchen Maze (Japan) (En) (v1.1) (MooZ &amp; Shubibiman)</description>
 		<rom name="Maerchen Maze (Japan) (En) (v1.1) (MooZ &amp; Shubibiman).pce" size="262144" crc="b7166358" md5="f34299acd4a789ad51e7b10be3a8947d" sha1="caf03a4bd2b8e74746b98c0b8be312231e447064"/>
@@ -871,14 +871,14 @@
 		<hash>1B10BAF9F65C8339A507E382BDA5ED44</hash>
 	</game>
 
-	<game name="Retail/Neutopia - Frey no Shou (Japan)">
+	<game name="Retail/Neutopia/Neutopia - Frey no Shou (Japan)">
 		<category>TurboGrafx</category>
 		<description>Neutopia - Frey no Shou (Japan)</description>
 		<rom name="Neutopia - Frey no Shou (Japan).pce" size="393216" crc="9c49ef11" md5="08ae173878d8a3783fa35e80c99a5dc4" sha1="338e0fa3da1df9cc2f3ac30faa67467c74b6cb07"/>
 		<url>https://retroachievements.org/game/2309/hashes</url>
 		<hash>08AE173878D8A3783FA35E80C99A5DC4</hash>
 	</game>
-	<game name="Retail/Neutopia (USA)">
+	<game name="Retail/Neutopia/Neutopia (USA)">
 		<category>TurboGrafx</category>
 		<description>Neutopia (USA)</description>
 		<rom name="Neutopia (USA).pce" size="393216" crc="a9a94e1b" md5="eb0789088fc70be42b2f994c1b66be21" sha1="95d5fdbd6c9d6da2f288312309c2badd92f89cf4"/>
@@ -910,21 +910,21 @@
 		<hash>80498E6A60D2CD9AA925F45CBEFBFF83</hash>
 	</game>
 	
-	<game name="Retail/Saigo no Nindou - Ninja Spirit (Japan)">
+	<game name="Retail/Ninja Spirit/Saigo no Nindou - Ninja Spirit (Japan)">
 		<category>TurboGrafx</category>
 		<description>Saigo no Nindou - Ninja Spirit (Japan)</description>
 		<rom name="Saigo no Nindou - Ninja Spirit (Japan).pce" size="524288" crc="0590a156" md5="7ed620b8a4a302dde75f074eabd4ead8" sha1="14fc48758d658413f952a0b4f9465137164bdacc"/>
 		<url>https://retroachievements.org/game/2313/hashes</url>
 		<hash>7ED620B8A4A302DDE75F074EABD4EAD8</hash>
 	</game>
-	<game name="Retail/Ninja Spirit (USA)">
+	<game name="Retail/Ninja Spirit/Ninja Spirit (USA)">
 		<category>TurboGrafx</category>
 		<description>Ninja Spirit (USA)</description>
 		<rom name="Ninja Spirit (USA).pce" size="524288" crc="de8af1c1" md5="adecf9e9d9be8a300818ad2cc09d49fe" sha1="515eb414fc404d798206faad33fbcc5985fbbccb"/>
 		<url>https://retroachievements.org/game/2313/hashes</url>
 		<hash>ADECF9E9D9BE8A300818AD2CC09D49FE</hash>
 	</game>
-	<game name="Retail/Ninja Spirit (USA) (Es) (v1.0) (Wave)">
+	<game name="Retail/Ninja Spirit/Ninja Spirit (USA) (Es) (v1.0) (Wave)">
 		<category>TurboGrafx</category>
 		<description>Ninja Spirit (USA) (Es) (v1.0) (Wave)</description>
 		<rom name="Ninja Spirit (USA) (Es) (v1.0) (Wave).pce" size="524288" crc="c11ddad7" md5="de4903d9b5b375d93b334ff6e913ee95" sha1="e312da79b24e07de448401e6302a63c5d63868af"/>
@@ -988,14 +988,14 @@
 		<hash>8A524C7491BD6614E9C92BB7117A57F3</hash>
 	</game>
 	
-	<game name="Retail/Paranoia (Japan) (En)">
+	<game name="Retail/Psychosis/Paranoia (Japan) (En)">
 		<category>TurboGrafx</category>
 		<description>Paranoia (Japan) (En)</description>
 		<rom name="Paranoia (Japan) (En).pce" size="262144" crc="9893e0e6" md5="a53f17bc3492e89c391e280e32397450" sha1="b3097e7f163e4a067cf32f290e59657a8b5e271b"/>
 		<url>https://retroachievements.org/game/2319/hashes</url>
 		<hash>A53F17BC3492E89C391E280E32397450</hash>
 	</game>
-	<game name="Retail/Psychosis (USA)">
+	<game name="Retail/Psychosis/Psychosis (USA)">
 		<category>TurboGrafx</category>
 		<description>Psychosis (USA)</description>
 		<rom name="Psychosis (USA).pce" size="262144" crc="6cc10824" md5="c23ef1ca95a5aa6789c4172ac66d6b5d" sha1="1cfcfc95bb01b24755e1fc9c3dfea393cb3cc3a9"/>
@@ -1003,14 +1003,14 @@
 		<hash>C23EF1CA95A5AA6789C4172AC66D6B5D</hash>
 	</game>
 	
-	<game name="Retail/Puzzle Boy (Japan)">
+	<game name="Retail/Puzzle Boy/Puzzle Boy (Japan)">
 		<category>TurboGrafx</category>
 		<description>Puzzle Boy (Japan)</description>
 		<rom name="Puzzle Boy (Japan).pce" size="262144" crc="faa6e187" md5="6394145312caac816ca44af55dff9533" sha1="f3d87e780683cd1873287069f4758581bb848935"/>
 		<url>https://retroachievements.org/game/12824/hashes</url>
 		<hash>6394145312CAAC816CA44AF55DFF9533</hash>
 	</game>
-	<game name="Retail/Puzzle Boy (Japan) (En) (v1.0) (KingMike's Translations)">
+	<game name="Retail/Puzzle Boy/Puzzle Boy (Japan) (En) (v1.0) (KingMike's Translations)">
 		<category>TurboGrafx</category>
 		<description>Puzzle Boy (Japan) (En) (v1.0) (KingMike's Translations)</description>
 		<rom name="Puzzle Boy (Japan) (En) (v1.0) (KingMike's Translations).pce" size="262144" crc="da0e234f" md5="f5b8397f328f51313f812278db362c81" sha1="96e2fd5bbdea922ec0d2a1ed2a9881994d71f232"/>
@@ -1018,7 +1018,7 @@
 		<hash>F5B8397F328F51313F812278DB362C81</hash>
 	</game>
 	
-	<game name="Subset/Puzzle Boy (Subset - Glitches for Pros)">
+	<game name="Subset/Puzzle Boy/Puzzle Boy (Subset - Glitches for Pros)">
 		<category>TurboGrafx</category>
 		<description>Puzzle Boy (Subset - Glitches for Pros)</description>
 		<rom name="Puzzle Boy (Subset - Glitches for Pros).pce" size="262144" crc="a2c4e107" md5="e1c3ab1163b4ea5c86b75c8993b4d1ea" sha1="f02b112c43be6b151e1900d62db4b090c1d68797"/>
@@ -1034,14 +1034,14 @@
 		<hash>0E0040142B5227F2B85BE27364D5EA01</hash>
 	</game>
 	
-	<game name="Retail/Rabio Lepus Special (Japan)">
+	<game name="Retail/Rabio Lepus Special/Rabio Lepus Special (Japan)">
 		<category>TurboGrafx</category>
 		<description>Rabio Lepus Special (Japan)</description>
 		<rom name="Rabio Lepus Special (Japan).pce" size="393216" crc="d8373de6" md5="4b942ff45a454222dd4ec1951e75a72c" sha1="ebd12a22e2d139a904b8aff535787abc128ad61a"/>
 		<url>https://retroachievements.org/game/8557/hashes</url>
 		<hash>4B942FF45A454222DD4EC1951E75A72C</hash>
 	</game>
-	<game name="Retail/Rabio Lepus Special (Japan) (En) (v1.0) (Diogo Ribeiro)">
+	<game name="Retail/Rabio Lepus Special/Rabio Lepus Special (Japan) (En) (v1.0) (Diogo Ribeiro)">
 		<category>TurboGrafx</category>
 		<description>Rabio Lepus Special (Japan) (En) (v1.0) (Diogo Ribeiro)</description>
 		<rom name="Rabio Lepus Special (Japan) (En) (v1.0) (Diogo Ribeiro).pce" size="393216" crc="4fdc5a33" md5="dddb28ed4b10d55c87bdb1eab31ca6d9" sha1="2a878b6d2fd33e14543c3cd8ec675e81441f687a"/>
@@ -1049,14 +1049,14 @@
 		<hash>DDDB28ED4B10D55C87BDB1EAB31CA6D9</hash>
 	</game>
 	
-	<game name="Retail/Raiden (Japan) (En)">
+	<game name="Retail/Raiden/Raiden (Japan) (En)">
 		<category>TurboGrafx</category>
 		<description>Raiden (Japan) (En)</description>
 		<rom name="Raiden (Japan) (En).pce" size="786432" crc="850829f2" md5="42a5e13cbfab0c54d30f8ca6831f62ed" sha1="cef25446294884053442a4214434d7d97319ddca"/>
 		<url>https://retroachievements.org/game/2320/hashes</url>
 		<hash>42A5E13CBFAB0C54D30F8CA6831F62ED</hash>
 	</game>
-	<game name="Retail/Raiden (USA)">
+	<game name="Retail/Raiden/Raiden (USA)">
 		<category>TurboGrafx</category>
 		<description>Raiden (USA)</description>
 		<rom name="Raiden (USA).pce" size="786432" crc="bc59c31e" md5="5d08e419351cf3ee85e6536070cbb94f" sha1="910e7346976b7a6e83ddb7e68b49d33ced9dbc2c"/>
@@ -1072,14 +1072,14 @@
 		<hash>3C60A87EF4F90B20E149330E26253F4D</hash>
 	</game>
 	
-	<game name="Retail/Samurai-Ghost (USA)">
+	<game name="Retail/Samurai-Ghost/Samurai-Ghost (USA)">
 		<category>TurboGrafx</category>
 		<description>Samurai-Ghost (USA)</description>
 		<rom name="Samurai-Ghost (USA).pce" size="524288" crc="77a924b7" md5="6e32e0516ea74eb94a4f0bc8bd9dc47c" sha1="f6f26d8e4caafa7378f2756dd46569de4042dbbb"/>
 		<url>https://retroachievements.org/game/8465/hashes</url>
 		<hash>6E32E0516EA74EB94A4F0BC8BD9DC47C</hash>
 	</game>
-	<game name="Retail/Genpei Toumaden - Kan no Ni (Japan)">
+	<game name="Retail/Samurai-Ghost/Genpei Toumaden - Kan no Ni (Japan)">
 		<category>TurboGrafx</category>
 		<description>Genpei Toumaden - Kan no Ni (Japan)</description>
 		<rom name="Genpei Toumaden - Kan no Ni (Japan).pce" size="524288" crc="8793758c" md5="f6b763e45180bd47a689d03890a82344" sha1="fc712391b09c3ff2d6c894260f4b4c10b77219af"/>
@@ -1087,14 +1087,14 @@
 		<hash>F6B763E45180BD47A689D03890A82344</hash>
 	</game>
 	
-	<game name="Retail/Shanghai (Japan)">
+	<game name="Retail/Shanghai/Shanghai (Japan)">
 		<category>TurboGrafx</category>
 		<description>Shanghai (Japan)</description>
 		<rom name="Shanghai (Japan).pce" size="131072" crc="6923d736" md5="e35f9e284d7299abaedad7662472d3c6" sha1="11311390c11f4b72f5e07d2527039a7560405501"/>
 		<url>https://retroachievements.org/game/13128/hashes</url>
 		<hash>E35F9E284D7299ABAEDAD7662472D3C6</hash>
 	</game>
-	<game name="Retail/Shanghai (Japan) (En) (v0.99) (Dave Shadoff)">
+	<game name="Retail/Shanghai/Shanghai (Japan) (En) (v0.99) (Dave Shadoff)">
 		<category>TurboGrafx</category>
 		<description>Shanghai (Japan) (En) (v0.99) (Dave Shadoff)</description>
 		<rom name="Shanghai (Japan) (En) (v0.99) (Dave Shadoff).pce" size="131072" crc="2e6b6200" md5="73d3f8f6f7fc6d28b298fc0c7734a2a6" sha1="cdc416767efde0a7f2714ad55dee5fddbc2f6021"/>
@@ -1110,14 +1110,14 @@
 		<hash>1659D9FA2ED7628D342FD7C7FBE6D439</hash>
 	</game>
 
-	<game name="Retail/Shiryou Sensen - War of the Dead (Japan) (En) (v1.0) (Nebulous Translations)">
+	<game name="Retail/Shiryou Sensen - War of the Dead/Shiryou Sensen - War of the Dead (Japan) (En) (v1.0) (Nebulous Translations)">
 		<category>TurboGrafx</category>
 		<description>Shiryou Sensen - War of the Dead (Japan) (En) (v1.0) (Nebulous Translations)</description>
 		<rom name="Shiryou Sensen - War of the Dead (Japan) (En) (v1.0) (Nebulous Translations).pce" size="279040" crc="992e481d" md5="c0e606b8ecb1c64b01ddd062e54672b7" sha1="6e630b640a1594107bed407e40ac37bd3d262f20"/>
 		<url>https://retroachievements.org/game/8742/hashes</url>
 		<hash>C0E606B8ECB1C64B01DDD062E54672B7</hash>
 	</game>
-	<game name="Retail/Shiryou Sensen - War of the Dead (Japan)">
+	<game name="Retail/Shiryou Sensen - War of the Dead/Shiryou Sensen - War of the Dead (Japan)">
 		<category>TurboGrafx</category>
 		<description>Shiryou Sensen - War of the Dead (Japan)</description>
 		<rom name="Shiryou Sensen - War of the Dead (Japan).pce" size="262144" crc="469a0fdf" md5="cfd7fc43a9664979685b8e4358e4555f" sha1="8e2510d9930d0e7d0a13bcc9d5ded32f6eed8617"/>
@@ -1133,14 +1133,14 @@
 		<hash>57C888F4AF792DC4588A2F9DBEBEA31A</hash>
 	</game>
 	
-	<game name="Retail/Soldier Blade (USA)">
+	<game name="Retail/Soldier Blade/Soldier Blade (USA)">
 		<category>TurboGrafx</category>
 		<description>Soldier Blade (USA)</description>
 		<rom name="Soldier Blade (USA).pce" size="524288" crc="4bb68b13" md5="59d23b7af39ea827eceb1d7e2cc363c0" sha1="3b4cc242f68a1d61c83a1a0dbdee23d2ae8f1427"/>
 		<url>https://retroachievements.org/game/2326/hashes</url>
 		<hash>59D23B7AF39EA827ECEB1D7E2CC363C0</hash>
 	</game>
-	<game name="Retail/Soldier Blade (Japan) (En)">
+	<game name="Retail/Soldier Blade/Soldier Blade (Japan) (En)">
 		<category>TurboGrafx</category>
 		<description>Soldier Blade (Japan) (En)</description>
 		<rom name="Soldier Blade (Japan) (En).pce" size="524288" crc="8420b12b" md5="e78e5212d85d614060ae31135e4f4bfe" sha1="bb6259ecfee3cc28ddbf1b1c1416f281ecccbe31"/>
@@ -1156,14 +1156,14 @@
 		<hash>0060840CB54B2DB4DB8A2927D48C6C54</hash>
 	</game>
 	
-	<game name="Retail/Son Son II (Japan)">
+	<game name="Retail/Son Son II/Son Son II (Japan)">
 		<category>TurboGrafx</category>
 		<description>Son Son II (Japan)</description>
 		<rom name="Son Son II (Japan).pce" size="262144" crc="d7921df2" md5="9f446641a2e1794c61624f0a062efae5" sha1="51aa9b47aa5f68102989885a1b92bb6b563ffe3a"/>
 		<url>https://retroachievements.org/game/8907/hashes</url>
 		<hash>9F446641A2E1794C61624F0A062EFAE5</hash>
 	</game>
-	<game name="Retail/Son Son II (Japan) (En) (v1.0) (someitalian123)">
+	<game name="Retail/Son Son II/Son Son II (Japan) (En) (v1.0) (someitalian123)">
 		<category>TurboGrafx</category>
 		<description>Son Son II (Japan) (En) (v1.0) (someitalian123)</description>
 		<rom name="Son Son II (Japan) (En) (v1.0) (someitalian123).pce" size="262144" crc="1a0599b4" md5="471b66578757b269a682e75ba810b1b7" sha1="3a53ed2ff692e277c55fa287b1d8281a50b0df3e"/>
@@ -1171,14 +1171,14 @@
 		<hash>471B66578757B269A682E75BA810B1B7</hash>
 	</game>
 	
-	<game name="Retail/Space Harrier (Japan) (En)">
+	<game name="Retail/Space Harrier/Space Harrier (Japan) (En)">
 		<category>TurboGrafx</category>
 		<description>Space Harrier (Japan) (En)</description>
 		<rom name="Space Harrier (Japan) (En).pce" size="524288" crc="64580427" md5="2c476453f2156c7afe10b5ed1fa60955" sha1="b59ccab8f7e73d4a9b29ccd8befb78cbcd491fa4"/>
 		<url>https://retroachievements.org/game/2327/hashes</url>
 		<hash>2C476453F2156C7AFE10B5ED1FA60955</hash>
 	</game>
-	<game name="Retail/Space Harrier (USA)">
+	<game name="Retail/Space Harrier/Space Harrier (USA)">
 		<category>TurboGrafx</category>
 		<description>Space Harrier (USA)</description>
 		<rom name="Space Harrier (USA).pce" size="524288" crc="43b05eb8" md5="b87aba8faae39f238a8b2176daec96f4" sha1="948e6a5c30dcf945ab8332009ae4fa3ab231255a"/>
@@ -1186,14 +1186,14 @@
 		<hash>B87ABA8FAAE39F238A8B2176DAEC96F4</hash>
 	</game>
 	
-	<game name="Retail/Splatterhouse (Japan) (En)">
+	<game name="Retail/Splatterhouse/Splatterhouse (Japan) (En)">
 		<category>TurboGrafx</category>
 		<description>Splatterhouse (Japan) (En)</description>
 		<rom name="Splatterhouse (Japan) (En).pce" size="524288" crc="6b319457" md5="ea2eaf7aa11a639d13a6119dd3c3f6dc" sha1="b0bdbb7729d775496581dc3141c4447614aaac46"/>
 		<url>https://retroachievements.org/game/5268/hashes</url>
 		<hash>EA2EAF7AA11A639D13A6119DD3C3F6DC</hash>
 	</game>
-	<game name="Retail/Splatterhouse (USA)">
+	<game name="Retail/Splatterhouse/Splatterhouse (USA)">
 		<category>TurboGrafx</category>
 		<description>Splatterhouse (USA)</description>
 		<rom name="Splatterhouse (USA).pce" size="524288" crc="d00ca74f" md5="f6690ec0f440ced641718d6bc52e3fbd" sha1="e2167b5d67a065ec97763d3ee843ac2b2328c082"/>
@@ -1241,14 +1241,14 @@
 		<hash>3A12C1FFBF5773F52A6D327CBFE0B214</hash>
 	</game>
 	
-	<game name="Retail/Makyou Densetsu (Japan)">
+	<game name="Retail/The Legendary Axe/Makyou Densetsu (Japan)">
 		<category>TurboGrafx</category>
 		<description>Makyou Densetsu (Japan)</description>
 		<rom name="Makyou Densetsu (Japan).pce" size="262144" crc="d4c5af46" md5="09f944f6c28cf77d17dd668e9cc160f7" sha1="7e1b1f52222663e9e98973fdb3cf67879122b617"/>
 		<url>https://retroachievements.org/game/2305/hashes</url>
 		<hash>09F944F6C28CF77D17DD668E9CC160F7</hash>
 	</game>
-	<game name="Retail/Legendary Axe, The (USA)">
+	<game name="Retail/The Legendary Axe/Legendary Axe, The (USA)">
 		<category>TurboGrafx</category>
 		<description>Legendary Axe, The (USA)</description>
 		<rom name="Legendary Axe, The (USA).pce" size="262144" crc="2d211007" md5="f69b506237ce7d05e7f839d2cc96ab5a" sha1="fc9829a802e400a088652b331e8522472f7ab2a0"/>
@@ -1296,14 +1296,14 @@
 		<hash>8621C1EED634BDDC9D232BB303A2C260</hash>
 	</game>
 	
-	<game name="Retail/Valkyrie no Densetsu (Japan) (En) (v1.0) (cabbage,Shawn Cox)">
+	<game name="Retail/Valkyrie no Densetsu/Valkyrie no Densetsu (Japan) (En) (v1.0) (cabbage,Shawn Cox)">
 		<category>TurboGrafx</category>
 		<description>Valkyrie no Densetsu (Japan) (En) (v1.0) (cabbage,Shawn Cox)</description>
 		<rom name="Valkyrie no Densetsu (Japan) (En) (v1.0) (cabbage,Shawn Cox).pce" size="524288" crc="97a62bd1" md5="c8e415bf9bf74284e51f8d96a22caff5" sha1="aaa4b32bc980f04b54932bd6792955fa25ebc22c"/>
 		<url>https://retroachievements.org/game/7222/hashes</url>
 		<hash>C8E415BF9BF74284E51F8D96A22CAFF5</hash>
 	</game>
-	<game name="Retail/Valkyrie no Densetsu (Japan)">
+	<game name="Retail/Valkyrie no Densetsu/Valkyrie no Densetsu (Japan)">
 		<category>TurboGrafx</category>
 		<description>Valkyrie no Densetsu (Japan)</description>
 		<rom name="Valkyrie no Densetsu (Japan).pce" size="524288" crc="a3303978" md5="f08a37d37a69315652e1a0ec8dbba650" sha1="2054898ae28f962d2e20cdaca62e8b88e932f304"/>
@@ -1319,14 +1319,14 @@
 		<hash>BC4361C967514EF29293778AD748A6B7</hash>
 	</game>
 	
-	<game name="Retail/Vigilante (Japan) (En)">
+	<game name="Retail/Vigilante/Vigilante (Japan) (En)">
 		<category>TurboGrafx</category>
 		<description>Vigilante (Japan) (En)</description>
 		<rom name="Vigilante (Japan) (En).pce" size="393216" crc="e4124fe0" md5="4333192a22a121772356d3821d445a69" sha1="a43ddb6b9d70c7597788abd363b5df719b70bc46"/>
 		<url>https://retroachievements.org/game/2339/hashes</url>
 		<hash>4333192A22A121772356D3821D445A69</hash>
 	</game>
-	<game name="Retail/Vigilante (USA)">
+	<game name="Retail/Vigilante/Vigilante (USA)">
 		<category>TurboGrafx</category>
 		<description>Vigilante (USA)</description>
 		<rom name="Vigilante (USA).pce" size="393216" crc="79d49a0d" md5="589f7ceb0bd851f6442e53858a0dc51c" sha1="f77d83af4f1e733faf813b5e78ecc2cbb19d3b25"/>
@@ -1342,14 +1342,14 @@
 		<hash>998CFE18BF12B235462D21EB6D80C25F</hash>
 	</game>
 	
-	<game name="Retail/Wonder Momo (Japan)">
+	<game name="Retail/Wonder Momo/Wonder Momo (Japan)">
 		<category>TurboGrafx</category>
 		<description>Wonder Momo (Japan)</description>
 		<rom name="Wonder Momo (Japan).pce" size="262144" crc="59d07314" md5="367c426ccd7b9ce45e86a836d83d17db" sha1="5af6050a0a549e73f05a2d06fd2f55a93027be5f"/>
 		<url>https://retroachievements.org/game/8360/hashes</url>
 		<hash>367C426CCD7B9CE45E86A836D83D17DB</hash>
 	</game>
-	<game name="Retail/Wonder Momo (Japan) (En) (v1.0) (Filler,Dave Shadoff,Diogo Ribeiro)">
+	<game name="Retail/Wonder Momo/Wonder Momo (Japan) (En) (v1.0) (Filler,Dave Shadoff,Diogo Ribeiro)">
 		<category>TurboGrafx</category>
 		<description>Wonder Momo (Japan) (En) (v1.0) (Filler,Dave Shadoff,Diogo Ribeiro)</description>
 		<rom name="Wonder Momo (Japan) (En) (v1.0) (Filler,Dave Shadoff,Diogo Ribeiro).pce" size="524288" crc="5d7f809b" md5="029c30f28af4578ecbff5697ad1e772f" sha1="c345a9a8768bd29c1913014e0eff6a1edda8da47"/>

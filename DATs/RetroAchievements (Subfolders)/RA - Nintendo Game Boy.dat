@@ -42,7 +42,7 @@
 		<hash>fd3819f2c0a9bc864c9c7eab107d4c7f</hash>
 	</game>
 	
-	<game name="Hack/SML - 2nd Super Super Mario Land, The (Hack)">
+	<game name="Hack/Super Mario Land/SML - 2nd Super Super Mario Land, The (Hack)">
 		<category></category>
 		<description>SML - 2nd Super Super Mario Land, The (Hack)</description>
 		<rom name="SML - 2nd Super Super Mario Land, The (Hack).gb" size="65536" crc="8f221c1e" md5="d28cedbf9defa80efb2c9c5b070373b1" sha1="5352c4ce26062894f1e27f88a7d1ba6d9655d824"/>
@@ -50,7 +50,7 @@
 		<hash>d28cedbf9defa80efb2c9c5b070373b1</hash>
 	</game>
 	
-	<game name="Hack/Mario's Picross X (Hack)">
+	<game name="Hack/Mario's Picross/Mario's Picross X (Hack)">
 		<category></category>
 		<description>Mario's Picross X (Hack)</description>
 		<rom name="Mario's Picross X (Hack).gb" size="262144" crc="65ffc6c4" md5="c39e609b35ac787ad92404914047d1a1" sha1="a8ad8e835b806d0a9da8f6314014943636ce7e90"/>
@@ -211,7 +211,7 @@
 		<hash>7f971beee4aa677f9117800f206cf440</hash>
 	</game>
 	
-	<game name="Hack/Metroid II - Samus Goes to the Fridge to Get a Glass of Milk II (Hack)">
+	<game name="Hack/Metroid II - Return of Samus/Metroid II - Samus Goes to the Fridge to Get a Glass of Milk II (Hack)">
 		<category></category>
 		<description>Metroid II - Samus Goes to the Fridge to Get a Glass of Milk II (Hack)</description>
 		<rom name="Metroid II - Samus Goes to the Fridge to Get a Glass of Milk II (Hack).gb" size="262144" crc="6c981c41" md5="c339042922cda7c386af91244f704554" sha1="ec78e5d8691baeb5a315b598203a74baf11bc4c1"/>
@@ -219,7 +219,7 @@
 		<hash>c339042922cda7c386af91244f704554</hash>
 	</game>
 	
-	<game name="Hack/Super Mario 4 (Unknown) (Ja) (Hack)">
+	<game name="Hack/Super Mario Land/Super Mario 4 (Unknown) (Ja) (Hack)">
 		<category></category>
 		<description>Super Mario 4 (Unknown) (Ja) (Hack)</description>
 		<rom name="Super Mario 4 (Unknown) (Ja) (Hack).gb" size="131072" crc="d9f3eb9f" md5="1fe5ddbb6502baf81b9cee0ae7446728" sha1="f0da6eced7492bf51ae5575522cca58726c34feb"/>
@@ -227,54 +227,54 @@
 		<hash>1fe5ddbb6502baf81b9cee0ae7446728</hash>
 	</game>
 	
-	<game name="Hack/Super Mario Land 2012 (Hack)">
+	<game name="Hack/Super Mario Land/SML 2012 (Hack)">
 		<category></category>
-		<description>Super Mario Land 2012 (Hack)</description>
-		<rom name="Super Mario Land 2012 (Hack).gb" size="65536" crc="b0896865" md5="c6ebf4eb82380e495989ef5f5e62560a" sha1="bb58d87192901bb8e3483f0c62c8be7d7ca3447f"/>
+		<description>SML 2012 (Hack)</description>
+		<rom name="SML 2012 (Hack).gb" size="65536" crc="b0896865" md5="c6ebf4eb82380e495989ef5f5e62560a" sha1="bb58d87192901bb8e3483f0c62c8be7d7ca3447f"/>
 		<url>https://retroachievements.org/game/14178/hashes</url>
 		<hash>c6ebf4eb82380e495989ef5f5e62560a</hash>
 	</game>
 	
-	<game name="Hack/Super Mario Land 2017 - Tatanga's Revenge (Hack)">
+	<game name="Hack/Super Mario Land/SML 2017 - Tatanga's Revenge (Hack)">
 		<category></category>
-		<description>Super Mario Land 2017 - Tatanga's Revenge (Hack)</description>
-		<rom name="Super Mario Land 2017 - Tatanga's Revenge (Hack).gb" size="65536" crc="db6fe5d3" md5="f63ee5ae1662892890f57ed1b22d16ac" sha1="c704c187934d2ae037372ae293a1c7552293ac7a"/>
+		<description>SML 2017 - Tatanga's Revenge (Hack)</description>
+		<rom name="SML 2017 - Tatanga's Revenge (Hack).gb" size="65536" crc="db6fe5d3" md5="f63ee5ae1662892890f57ed1b22d16ac" sha1="c704c187934d2ae037372ae293a1c7552293ac7a"/>
 		<url>https://retroachievements.org/game/32927/hashes</url>
 		<hash>f63ee5ae1662892890f57ed1b22d16ac</hash>
 	</game>
 	
-	<game name="Hack/Super Mario Land X (Hard Mode) (Hack)">
+	<game name="Hack/Super Mario Land/SML X (Hard Mode) (Hack)">
 		<category></category>
-		<description>Super Mario Land X (Hard Mode) (Hack)</description>
-		<rom name="Super Mario Land X (Hard Mode) (Hack).gb" size="65536" crc="e266ef2a" md5="ca4fd89cddf413327e1c27ee0a33f051" sha1="adc0ddcedf252df11ddc6370092aec35c6801f94"/>
+		<description>SML X (Hard Mode) (Hack)</description>
+		<rom name="SML X (Hard Mode) (Hack).gb" size="65536" crc="e266ef2a" md5="ca4fd89cddf413327e1c27ee0a33f051" sha1="adc0ddcedf252df11ddc6370092aec35c6801f94"/>
 		<url>https://retroachievements.org/game/14179/hashes</url>
 		<hash>ca4fd89cddf413327e1c27ee0a33f051</hash>
 	</game>
-	<game name="Hack/Super Mario Land X (Normal Mode) (Hack)">
+	<game name="Hack/Super Mario Land/SML X (Normal Mode) (Hack)">
 		<category></category>
-		<description>Super Mario Land X (Normal Mode) (Hack)</description>
-		<rom name="Super Mario Land X (Normal Mode) (Hack).gb" size="65536" crc="21317682" md5="d36f1f89d8b35100168d08daa7746df4" sha1="b604ee4a97a502395e562bebbf65b05f44b033d8"/>
+		<description>SML X (Normal Mode) (Hack)</description>
+		<rom name="SML X (Normal Mode) (Hack).gb" size="65536" crc="21317682" md5="d36f1f89d8b35100168d08daa7746df4" sha1="b604ee4a97a502395e562bebbf65b05f44b033d8"/>
 		<url>https://retroachievements.org/game/14179/hashes</url>
 		<hash>d36f1f89d8b35100168d08daa7746df4</hash>
 	</game>
 	
-	<game name="Hack/Super Mario Land - Pier Edition (Hack)">
+	<game name="Hack/Super Mario Land/SML - Pier Edition (Hack)">
 		<category></category>
-		<description>Super Mario Land - Pier Edition (Hack)</description>
-		<rom name="Super Mario Land - Pier Edition (Hack).gb" size="65536" crc="6ae5ed70" md5="c83c5c26c7260a619d2192bf78e5fdd8" sha1="8f82b6f42fe00d1cf624c9618d2d0746abd2c527"/>
+		<description>SML - Pier Edition (Hack)</description>
+		<rom name="SML - Pier Edition (Hack).gb" size="65536" crc="6ae5ed70" md5="c83c5c26c7260a619d2192bf78e5fdd8" sha1="8f82b6f42fe00d1cf624c9618d2d0746abd2c527"/>
 		<url>https://retroachievements.org/game/12975/hashes</url>
 		<hash>c83c5c26c7260a619d2192bf78e5fdd8</hash>
 	</game>
 	
-	<game name="Hack/Super Mario Land - Timelines (Hack)">
+	<game name="Hack/Super Mario Land/SML - Timelines (Hack)">
 		<category></category>
-		<description>Super Mario Land - Timelines (Hack)</description>
-		<rom name="Super Mario Land - Timelines (Hack).gb" size="65536" crc="96f4a946" md5="396856f9a3edfbf08e9da9accaa97ede" sha1="0ecd645160090d6f78693f72523fb87357d39a88"/>
+		<description>SML - Timelines (Hack)</description>
+		<rom name="SML - Timelines (Hack).gb" size="65536" crc="96f4a946" md5="396856f9a3edfbf08e9da9accaa97ede" sha1="0ecd645160090d6f78693f72523fb87357d39a88"/>
 		<url>https://retroachievements.org/game/20083/hashes</url>
 		<hash>396856f9a3edfbf08e9da9accaa97ede</hash>
 	</game>
 	
-	<game name="Hack/Super Super Mario Land (Hack)">
+	<game name="Hack/Super Mario Land/Super Super Mario Land (Hack)">
 		<category></category>
 		<description>Super Super Mario Land (Hack)</description>
 		<rom name="Super Super Mario Land (Hack).gb" size="65536" crc="68b6f144" md5="98d8f8ee2569aaecc1e2e5024c234941" sha1="b9d563def567cc2e639c566a5093afa173075d7d"/>
@@ -297,10 +297,10 @@
 		<hash>eb543a5e89d688f3f00175ce65e8cff9</hash>
 	</game>
 	
-	<game name="Hack/Metroid 2 - Urinary Samus (MarioFan2468) (v1.1) (Hack)">
+	<game name="Hack/Metroid II - Return of Samus/Metroid II - Urinary Samus (MarioFan2468) (v1.1) (Hack)">
 		<category></category>
-		<description>Metroid 2 - Urinary Samus (MarioFan2468) (v1.1) (Hack)</description>
-		<rom name="Metroid 2 - Urinary Samus (MarioFan2468) (v1.1) (Hack).gb" size="131072" crc="51230134" md5="4f5a6019ef3b9ccff1af75cf35169d3f" sha1="e25a973799866bd4dc11f2e104ffea99dd2d7c39"/>
+		<description>Metroid II - Urinary Samus (MarioFan2468) (v1.1) (Hack)</description>
+		<rom name="Metroid II - Urinary Samus (MarioFan2468) (v1.1) (Hack).gb" size="131072" crc="51230134" md5="4f5a6019ef3b9ccff1af75cf35169d3f" sha1="e25a973799866bd4dc11f2e104ffea99dd2d7c39"/>
 		<url>https://retroachievements.org/game/33616/hashes</url>
 		<hash>4f5a6019ef3b9ccff1af75cf35169d3f</hash>
 	</game>

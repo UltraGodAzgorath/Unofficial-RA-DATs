@@ -307,14 +307,14 @@
 	</game>
 	
 	<game name="Hack/Final Fantasy/Final Fantasy - Economic Collapse (v1.2) (TheMysticalOne) (Hack)">
-		<category></category>
+		<category>Nintendo</category>
 		<description>Final Fantasy - Economic Collapse (v1.2) (TheMysticalOne) (Hack)</description>
 		<rom name="Final Fantasy - Economic Collapse (v1.2) (TheMysticalOne) (Hack).nes" size="262160" crc="23707270" md5="8f4ee86dbdb54309c5a164399747382d" sha1="b03536e8a3deb0770dc819a261ce42d424d4dfac"/>
 		<url>https://retroachievements.org/game/33664/hashes</url>
 		<hash>8d88aad45a9c7d83df99a9e9652c6673</hash>
 	</game>
 	<game name="Hack/Final Fantasy/Final Fantasy - Economic Collapse (v1.2 + FF3 Sprites) (TheMysticalOne) (Hack)">
-		<category></category>
+		<category>Nintendo</category>
 		<description>Final Fantasy - Economic Collapse (v1.2 + FF3 Sprites) (TheMysticalOne) (Hack)</description>
 		<rom name="Final Fantasy - Economic Collapse (v1.2 + FF3 Sprites) (TheMysticalOne) (Hack).nes" size="262160" crc="b03d2fcf" md5="85365c426e4d794c55f7cb63160e44d2" sha1="1312c282ceb6bb36ae3ca2f2b6a78328043f2e67"/>
 		<url>https://retroachievements.org/game/33664/hashes</url>
@@ -4472,21 +4472,21 @@
 	</game>
 	
 	<game name="Retail/Banana Prince (Germany) (En) (Graphics Restore) (KingMike) (v1.1a)">
-		<category>Famicom</category>
+		<category>Nintendo</category>
 		<description>Banana Prince (Germany) (En) (Graphics Restore) (KingMike) (v1.1a)</description>
 		<rom name="Banana Prince (Germany) (En) (Graphics Restore) (KingMike) (v1.1a).nes" size="262160" crc="3ae3edc6" md5="cde2108c5a676c19ff3d8b63c20d7517" sha1="592f7a82f904114d01ae6614a3f44a7e50283f3e"/>
 		<url>https://retroachievements.org/game/5795/hashes</url>
 		<hash>2972b5a73122ce7306b12434961897da</hash>
 	</game>
 	<game name="Retail/Banana Prince (Germany)">
-		<category>Famicom</category>
+		<category>Nintendo</category>
 		<description>Banana Prince (Germany)</description>
 		<rom name="Banana Prince (Germany).nes" size="262160" crc="f53221e6" md5="485649fe2e10a2b4d3aa450be38b28ed" sha1="7203f5ba4c32f38d19ef27195d1c26e0541accd3"/>
 		<url>https://retroachievements.org/game/5795/hashes</url>
 		<hash>5a16b55ea933fe0cd1aa5f8ec823152e</hash>
 	</game>
 	<game name="Retail/Banana Prince (Germany) (En) (KingMike) (v1.1a)">
-		<category>Famicom</category>
+		<category>Nintendo</category>
 		<description>Banana Prince (Germany) (En) (KingMike) (v1.1a)</description>
 		<rom name="Banana Prince (Germany) (En) (KingMike) (v1.1a).nes" size="262160" crc="3a2e77a7" md5="335aebbb9c37398b4fc8858ffb5b87ff" sha1="5c387229b6f734eec70236c5fd890af850408302"/>
 		<url>https://retroachievements.org/game/5795/hashes</url>
@@ -4969,6 +4969,14 @@
 		<rom name="Casino Kid II (USA).nes" size="131088" crc="2719a483" md5="edcd377c1b0cd994f2929b8bc69cf6ea" sha1="3d34d6ad9cb98b77d84cc1af4f724cecf188056e"/>
 		<url>https://retroachievements.org/game/1607/hashes</url>
 		<hash>11e9d80f217f597c11fbb4ef7a5483f1</hash>
+	</game>
+	
+	<game name="Retail/Castle of Dragon (USA)">
+		<category>Nintendo</category>
+		<description>Castle of Dragon (USA)</description>
+		<rom name="Castle of Dragon (USA).nes" size="131088" crc="8be31341" md5="a8260de57a59288424bd02b85a5a0bbd" sha1="1929a62192ab944f8cca7088051531d80a2bc2c2"/>
+		<url>https://retroachievements.org/game/1610/hashes</url>
+		<hash>72f043347389e8bc8d90e529e5c7ab6e</hash>
 	</game>
 	
 	<game name="Retail/Castlequest (USA)">

@@ -109,14 +109,14 @@
 		<hash>8F9E596C87BB930E8A6C9E11AD19F9DE</hash>
 	</game>
 	
-	<game name="Retail/Jump Bug (1982) (UA) (DE)">
+	<game name="Retail/Jump Bug/Jump Bug (1982) (UA) (DE)">
 		<category></category>
 		<description>Jump Bug (1982) (UA) (DE)</description>
 		<rom name="Jump Bug (1982) (UA) (DE).bin" size="8192" crc="dc0264b8" md5="6f2cfbf3c07d1b096f096fc8a763e500" sha1="bf3ccf7a54409f22ca4295b1df1c01bfbbe9f0a2"/>
 		<url>https://retroachievements.org/game/21597/hashes</url>
 		<hash>15DFAF2EBE12EED5BB7CA8166D75944A</hash>
 	</game>
-	<game name="Retail/Jump Bug (Europe)">
+	<game name="Retail/Jump Bug/Jump Bug (Europe)">
 		<category></category>
 		<description>Jump Bug (Europe)</description>
 		<rom name="Jump Bug (Europe).bin" size="8192" crc="97060a54" md5="78574f28c2cb0d19f2656925fa048042" sha1="d0ace24fd1f3805e46b077e8a4770f922157c8c4"/>
@@ -251,10 +251,10 @@
 		<hash>06692F79DE7DCB0BE79D4468E26EB72E</hash>
 	</game>
 	
-	<game name="Retail/The End (Europe)">
+	<game name="Retail/The End/End, The (Europe)">
 		<category></category>
-		<description>The End (Europe)</description>
-		<rom name="The End (Europe).bin" size="4096" crc="e66f362d" md5="f0a5e571220685d852e64bb217c8eae8" sha1="1148aa1525d7b46640babb50b004c79abec45d3a"/>
+		<description>End, The (Europe)</description>
+		<rom name="End, The (Europe).bin" size="4096" crc="e66f362d" md5="f0a5e571220685d852e64bb217c8eae8" sha1="1148aa1525d7b46640babb50b004c79abec45d3a"/>
 		<url>https://retroachievements.org/game/21590/hashes</url>
 		<hash>F0A5E571220685D852E64BB217C8EAE8</hash>
 	</game>

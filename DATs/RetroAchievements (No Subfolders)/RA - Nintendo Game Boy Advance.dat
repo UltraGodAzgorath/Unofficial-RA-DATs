@@ -5787,11 +5787,11 @@
 		<hash>eb462f708c715309d08fd7968825ae9e</hash>
 	</game>
 	
-	<game name="Metroid Fusion (Japan)">
+	<game name="Metroid Fusion (Japan) (Subset - Japanese Content)">
 		<category>Subset</category>
-		<description>Metroid Fusion (Japan)</description>
-		<release name="Metroid Fusion (Japan)" region="Japan"/>
-		<rom name="Metroid Fusion (Japan).gba" size="8388608" crc="817a7e9e" md5="e535a6ec2eb86d183453037289527a63" sha1="5d21c668baa84da4a5b745be56809bb277f947a3"/>
+		<description>Metroid Fusion (Japan) (Subset - Japanese Content)</description>
+		<release name="Metroid Fusion (Japan) (Subset - Japanese Content)" region="Japan"/>
+		<rom name="Metroid Fusion (Japan) (Subset - Japanese Content).gba" size="8388608" crc="817a7e9e" md5="e535a6ec2eb86d183453037289527a63" sha1="5d21c668baa84da4a5b745be56809bb277f947a3"/>
 		<url>https://retroachievements.org/game/10111/hashes</url>
 		<hash>e535a6ec2eb86d183453037289527a63</hash>
 	</game>
