@@ -103,14 +103,14 @@
 		<hash>a9bb49d6cbb338e2195d8735097ccf87</hash>
 	</game>
 	
-	<game name="Retail/Bishoujo Senshi Sailor Moon (Japan)">
+	<game name="Retail/Bishoujo Senshi Sailor Moon/Bishoujo Senshi Sailor Moon (Japan)">
 		<category></category>
 		<description>Bishoujo Senshi Sailor Moon (Japan)</description>
 		<rom name="Bishoujo Senshi Sailor Moon (Japan).chd" size="273809968" crc="f31e32e7" md5="255fa5a756b8bfe6d259aef228156fae" sha1="acdbb13541be6d14dc23fdff7539923309d6cc5c"/>
 		<url>https://retroachievements.org/game/18279/hashes</url>
 		<hash>4e578af4d6439c42c4f59ff25b7997d4</hash>
 	</game>
-	<game name="Retail/Bishoujo Senshi Sailor Moon (Japan) (En) (v1.1)">
+	<game name="Retail/Bishoujo Senshi Sailor Moon/Bishoujo Senshi Sailor Moon (Japan) (En) (v1.1)">
 		<category></category>
 		<description>Bishoujo Senshi Sailor Moon (Japan) (En) (v1.1)</description>
 		<rom name="Bishoujo Senshi Sailor Moon (Japan) (En) (v1.1).chd" size="211788708" crc="a2e71ed6" md5="f1cb3cd2971467f85458630a170957bf" sha1="9756e82c5c725d7892b996544edca26a542b0881"/>
@@ -205,6 +205,7 @@
 		<url>https://retroachievements.org/game/13189/hashes</url>
 		<hash>9eb8f91f467550acdbf77e9f5ad20115</hash>
 	</game>
+	
 	<game name="Retail/Dragon Knight &amp; Graffiti (Japan)">
 		<category></category>
 		<description>Dragon Knight &amp; Graffiti (Japan)</description>
@@ -269,14 +270,14 @@
 		<hash>b01d1404a3a2370e2099a4cf68b5a99f</hash>
 	</game>
 	
-	<game name="Retail/Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT)">
+	<game name="Retail/Ginga Ojousama Densetsu Yuna/Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT)">
 		<category></category>
 		<description>Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT)</description>
 		<rom name="Ginga Ojousama Densetsu Yuna (Japan) (FAAT, FABT, FACT).chd" size="263142758" crc="609060aa" md5="c65f3db5aef41da9c96071b1b989be12" sha1="fe4646b88461bece4f9c489373114648e38d5b67"/>
 		<url>https://retroachievements.org/game/13615/hashes</url>
 		<hash>12888594bfafea9afa707ce6c2eb75db</hash>
 	</game>
-	<game name="Retail/Ginga Ojousama Densetsu Yuna (Japan) (En) (v1.3) (Supper)">
+	<game name="Retail/Ginga Ojousama Densetsu Yuna/Ginga Ojousama Densetsu Yuna (Japan) (En) (v1.3) (Supper)">
 		<category></category>
 		<description>Ginga Ojousama Densetsu Yuna (Japan) (En) (v1.3) (Supper)</description>
 		<rom name="Ginga Ojousama Densetsu Yuna (Japan) (En) (v1.3) (Supper).chd" size="263248582" crc="6738fcba" md5="6bea7f364743ec264f507cf6818f4ed0" sha1="2d365771d6dbb06f338c46fd8cca279aa2d4eb5f"/>
@@ -403,6 +404,7 @@
 		<url>https://retroachievements.org/game/9021/hashes</url>
 		<hash>197a96c252a12ba83c3770914aa1b81f</hash>
 	</game>
+	
 	<game name="Retail/Puyo Puyo CD (Japan)">
 		<category></category>
 		<description>Puyo Puyo CD (Japan)</description>
@@ -427,14 +429,14 @@
 		<hash>fd49772941ca4e58b06b9bea02f588df</hash>
 	</game>
 	
-	<game name="Retail/Shadow of the Beast (USA)">
+	<game name="Retail/Shadow of the Beast/Shadow of the Beast (USA)">
 		<category></category>
 		<description>Shadow of the Beast (USA)</description>
 		<rom name="Shadow of the Beast (USA).chd" size="287353927" crc="463b725e" md5="45312becb9850cec770633f64a7a1974" sha1="ac1dfaffeddebe2c0b5a94e1e127d53e95b55056"/>
 		<url>https://retroachievements.org/game/12841/hashes</url>
 		<hash>bd5f54e4403f76846c4970f93d5056cf</hash>
 	</game>
-	<game name="Retail/Shadow of the Beast - Mashou no Okite (Japan)">
+	<game name="Retail/Shadow of the Beast/Shadow of the Beast - Mashou no Okite (Japan)">
 		<category></category>
 		<description>Shadow of the Beast - Mashou no Okite (Japan)</description>
 		<rom name="Shadow of the Beast - Mashou no Okite (Japan).chd" size="285543228" crc="89b30491" md5="dae42e9e74e1bc2b0901238c8ff22363" sha1="08322b132eb22975b6f6c0ad3a13e01c17043562"/>
@@ -514,21 +516,21 @@
 		<hash>979c98d2ab744520ba3a8a8d93c0571b</hash>
 	</game>
 	
-	<game name="Retail/Tengai Makyou - Ziria (Japan) (Rev 7)">
+	<game name="Retail/Tengai Makyou - Ziria/Tengai Makyou - Ziria (Japan) (Rev 7)">
 		<category></category>
 		<description>Tengai Makyou - Ziria (Japan) (Rev 7)</description>
 		<rom name="Tengai Makyou - Ziria (Japan) (Rev 7).chd" size="148230865" crc="a8a8eefc" md5="ba5fb238f7f6fae836891c0227048308" sha1="769d1af8ee05ebcd5cac8497089aa3935663b145"/>
 		<url>https://retroachievements.org/game/27679/hashes</url>
 		<hash>6a5357c92dd8313ca3ebc80593f77cea</hash>
 	</game>
-	<game name="Retail/Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.0) (LIPEMCO! Translations)">
+	<game name="Retail/Tengai Makyou - Ziria/Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.0) (LIPEMCO! Translations)">
 		<category></category>
 		<description>Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.0) (LIPEMCO! Translations)</description>
 		<rom name="Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.0) (LIPEMCO! Translations).chd" size="148324200" crc="713248db" md5="9f09a0cbac0880aeddd492f12d6917ba" sha1="933e93dc3017cb9b36a22953581766f3e63da4dc"/>
 		<url>https://retroachievements.org/game/27679/hashes</url>
 		<hash>80703df09e4bfb3f46fabd4cc1c359ce</hash>
 	</game>
-	<game name="Retail/Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.2) (LIPEMCO! Translations)">
+	<game name="Retail/Tengai Makyou - Ziria/Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.2) (LIPEMCO! Translations)">
 		<category></category>
 		<description>Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.2) (LIPEMCO! Translations)</description>
 		<rom name="Tengai Makyou - Ziria (Japan) (Rev 7) (En) (v1.2) (LIPEMCO! Translations).chd" size="148324224" crc="e65d831c" md5="047820c1fa067565ea1d10da48071886" sha1="311670d095c460a199b6b8bda121222ed07c24e3"/>
@@ -608,14 +610,14 @@
 		<hash>5f00e6cf276b34927c819b376ba27cc4</hash>
 	</game>
 	
-	<game name="Retail/Ys IV - The Dawn of Ys (Japan) (Rev 3)">
+	<game name="Retail/Ys IV/Ys IV - The Dawn of Ys (Japan) (Rev 3)">
 		<category></category>
 		<description>Ys IV - The Dawn of Ys (Japan) (Rev 3)</description>
 		<rom name="Ys IV - The Dawn of Ys (Japan) (Rev 3).chd" size="450319701" crc="8b7db33c" md5="928bdd36db6fdaaf575f448c716e5d33" sha1="6dd1ec10b0911ab0a74cd6451db67ca61311fe17"/>
 		<url>https://retroachievements.org/game/8839/hashes</url>
 		<hash>b77ae59195812ed30d1d5dd29cee1510</hash>
 	</game>
-	<game name="Retail/Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve)">
+	<game name="Retail/Ys IV/Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve)">
 		<category></category>
 		<description>Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve)</description>
 		<rom name="Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve).chd" size="454891005" crc="5aeb2c1f" md5="11e58b671c3b46eafa04b8949c7fe3fe" sha1="070fda3ba5079f233718dd980106b8ea546a7b31"/>

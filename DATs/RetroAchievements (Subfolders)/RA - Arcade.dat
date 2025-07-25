@@ -44,7 +44,7 @@
 		<hash>14F9690DE97D3C7D4036A83DF6DF9964</hash>
 	</game>
 	
-	<game name="Hack/dkongbp1">
+	<game name="Hack/Donkey Kong Barrelpalooza/dkongbp1">
 		<description>Donkey Kong Barrelpalooza v1.07</description>
 		<category>FBNeo</category>
 		<rom name="dkongbp1.5et" size="4096" crc="c80c0431"/>
@@ -72,7 +72,7 @@
 		<url>https://retroachievements.org/game/20533/hashes</url>
 		<hash>870862B4DD953AA41B824B00DEEF4BAE</hash>
 	</game>
-	<game name="Hack/dkongbp">
+	<game name="Hack/Donkey Kong Barrelpalooza/dkongbp">
 		<description>Donkey Kong Barrelpalooza v1.06</description>
 		<category>FBNeo</category>
 		<rom name="dkongbp.5et" size="4096" crc="bb5c7dca"/>
@@ -858,7 +858,6 @@
 	<game name="Retail/1943mii">
 		<description>1943: The Battle of Midway Mark II (US)</description>
 		<category>FBNeo</category>
-		<release name="1943mii" region="USA"/>
 		<rom name="01.12d" size="32768" crc="8ba22485"/>
 		<rom name="02.13d" size="65536" crc="659a5455"/>
 		<rom name="03.14d" size="65536" crc="159ea771"/>
@@ -1062,7 +1061,7 @@
 		<hash>36140d3035760c6f82a0bbd0a31f6f4a</hash>
 	</game>
 	
-	<game name="Retail/alcon">
+	<game name="Retail/Alcon/alcon">
 		<description>Alcon (US)</description>
 		<category>FBNeo</category>
 		<rom name="a77 00-1.8p" size="32768" crc="2ba82d60"/>
@@ -1092,7 +1091,7 @@
 		<url>https://retroachievements.org/game/14765/hashes</url>
 		<hash>2D0AC987F2742D80BE501B9334B9F064</hash>
 	</game>
-	<game name="Retail/slapfigh">
+	<game name="Retail/Alcon/slapfigh">
 		<description>Slap Fight (A77 set, 8606M PCB)</description>
 		<category>FBNeo</category>
 		<rom name="a77 00.8p" size="32768" crc="674c0e0f"/>
@@ -1122,7 +1121,7 @@
 		<url>https://retroachievements.org/game/14765/hashes</url>
 		<hash>73D6A4AD8BA46B255F33C32B94C989F7</hash>
 	</game>
-	<game name="Retail/slapfigha">
+	<game name="Retail/Alcon/slapfigha">
 		<description>Slap Fight (A76 set, GX-006-A PCB)</description>
 		<category>FBNeo</category>
 		<rom name="a76 00.8p" size="16384" crc="ac22bb86"/>
@@ -1154,7 +1153,7 @@
 		<hash>DC3BBAF06CE9E9FA5017ED8AE9AF6048</hash>
 	</game>
 	
-	<game name="Retail/alien3">
+	<game name="Retail/Alien 3 - The Gun/alien3">
 		<description>Alien3: The Gun (World)</description>
 		<category>FBNeo</category>
 		<rom name="epr-15943.ic17" size="262144" crc="ac4591aa"/>
@@ -1181,7 +1180,7 @@
 		<url>https://retroachievements.org/game/18013/hashes</url>
 		<hash>5AF10052357AAFCEF08CC73F1219EA3E</hash>
 	</game>
-	<game name="Retail/alien3u">
+	<game name="Retail/Alien 3 - The Gun/alien3u">
 		<description>Alien3: The Gun (US, Rev A)</description>
 		<category>FBNeo</category>
 		<rom name="epr-15941.ic17" size="262144" crc="bf8c257f"/>
@@ -1208,7 +1207,7 @@
 		<url>https://retroachievements.org/game/18013/hashes</url>
 		<hash>865B7014D8D619500D897775259467ED</hash>
 	</game>
-	<game name="Retail/alien3j">
+	<game name="Retail/Alien 3 - The Gun/alien3j">
 		<description>Alien3: The Gun (Japan)</description>
 		<category>FBNeo</category>
 		<rom name="epr-15861.ic17" size="262144" crc="e970603f"/>
@@ -1236,7 +1235,7 @@
 		<hash>E4D0B48863B07D8E8F1DA471598FEA69</hash>
 	</game>
 	
-	<game name="Retail/aliensec">
+	<game name="Retail/Alien Sector/aliensec">
 		<description>Alien Sector</description>
 		<category>FBNeo</category>
 		<rom name="bd1 3.9c" size="8192" crc="ea2ea790"/>
@@ -1259,7 +1258,7 @@
 		<url>https://retroachievements.org/game/12452/hashes</url>
 		<hash>14178286E1C963D8D523452E3A8C4285</hash>
 	</game>
-	<game name="Retail/baraduke">
+	<game name="Retail/Alien Sector/baraduke">
 		<description>Baraduke</description>
 		<category>FBNeo</category>
 		<rom name="bd1 3.9c" size="8192" crc="ea2ea790"/>
@@ -1387,7 +1386,7 @@
 		<hash>32D0F9F324C6861605E0F948C2B68BE6</hash>
 	</game>
 	
-	<game name="Retail/altbeast2">
+	<game name="Retail/Altered Beast/altbeast2">
 		<description>Altered Beast (set 2) (MC-8123B 317-0066)</description>
 		<category>FBNeo</category>
 		<rom name="epr-11705.a7" size="131072" crc="57dc5c7a"/>
@@ -1413,7 +1412,7 @@
 		<url>https://retroachievements.org/game/11975/hashes</url>
 		<hash>BC80CE3199CFE7265644E711E7919013</hash>
 	</game>
-	<game name="Retail/altbeast">
+	<game name="Retail/Altered Beast/altbeast">
 		<description>Altered Beast (set 8) (8751 317-0078)</description>
 		<category>FBNeo</category>
 		<rom name="epr-11907.a7" size="131072" crc="29e0c3ad"/>
@@ -1534,7 +1533,7 @@
 		<hash>c7feb023a2a07070acc912e39f336cec</hash>
 	</game>
 	
-	<game name="Retail/arkretrnu">
+	<game name="Retail/Arkanoid Returns/arkretrnu">
 		<description>Arkanoid Returns (Ver 2.02A 1997/02/10)</description>
 		<category>FBNeo</category>
 		<rom name="e36-11.20" size="262144" crc="b50cfb92"/>
@@ -1560,7 +1559,7 @@
 		<url>https://retroachievements.org/game/11982/hashes</url>
 		<hash>2A2B0A4F1730A69C3F8EAB7DD9520C10</hash>
 	</game>
-	<game name="Retail/arkretrnj">
+	<game name="Retail/Arkanoid Returns/arkretrnj">
 		<description>Arkanoid Returns (Ver 2.02J 1997/02/10)</description>
 		<category>FBNeo</category>
 		<rom name="e36-11.20" size="262144" crc="b50cfb92"/>
@@ -1586,7 +1585,7 @@
 		<url>https://retroachievements.org/game/11982/hashes</url>
 		<hash>43B6F5738F955823B291260B41040352</hash>
 	</game>
-	<game name="Retail/arkretrn">
+	<game name="Retail/Arkanoid Returns/arkretrn">
 		<description>Arkanoid Returns (Ver 2.02O 1997/02/10)</description>
 		<category>FBNeo</category>
 		<rom name="e36-11.20" size="262144" crc="b50cfb92"/>
@@ -1738,7 +1737,7 @@
 		<hash>DF4A8B32238C36921A260ED6AB784850</hash>
 	</game>
 	
-	<game name="Retail/aof2">
+	<game name="Retail/Art of Fighting 2/aof2">
 		<description>Art of Fighting 2 / Ryuuko no Ken 2 (NGM-056)</description>
 		<category>FBNeo</category>
 		<rom name="056-p1.p1" size="1048576" crc="a3b1d021"/>
@@ -1798,7 +1797,7 @@
 		<url>https://retroachievements.org/game/12663/hashes</url>
 		<hash>193E47E4C332A32FADA099D99D40F32B</hash>
 	</game>
-	<game name="Retail/aof2a">
+	<game name="Retail/Art of Fighting 2/aof2a">
 		<description>Art of Fighting 2 / Ryuuko no Ken 2 (NGH-056)</description>
 		<category>FBNeo</category>
 		<rom name="056-p1.p1" size="1048576" crc="a3b1d021"/>
@@ -1860,7 +1859,7 @@
 		<hash>D297C3136B7131586B65B63B53E62B91</hash>
 	</game>
 	
-	<game name="Retail/arian" cloneof="aso">
+	<game name="Retail/ASO - Armored Scrum Object/arian">
 		<description>Arian Mission</description>
 		<category>FBNeo</category>
 		<rom name="p1.8d" size="16384" crc="0ca89307"/>
@@ -1888,7 +1887,7 @@
 		<url>https://retroachievements.org/game/11973/hashes</url>
 		<hash>1061bb40ea99675d095192c6ea8f9f54</hash>
 	</game>
-	<game name="Retail/alphamis" cloneof="aso">
+	<game name="Retail/ASO - Armored Scrum Object/alphamis">
 		<description>Alpha Mission</description>
 		<category>FBNeo</category>
 		<rom name="p1.8d" size="16384" crc="69af874b"/>
@@ -1916,7 +1915,7 @@
 		<url>https://retroachievements.org/game/11973/hashes</url>
 		<hash>70e84b059c577f9523c0a25aa8046ad9</hash>
 	</game>
-	<game name="Retail/aso">
+	<game name="Retail/ASO - Armored Scrum Object/aso">
 		<description>ASO - Armored Scrum Object</description>
 		<category>FBNeo</category>
 		<rom name="p1.8d" size="16384" crc="84981f3c"/>
@@ -1945,7 +1944,7 @@
 		<hash>d77e52c972dd92c6fa6934ab5641d10c</hash>
 	</game>
 	
-	<game name="Retail/asterixeac">
+	<game name="Retail/Asterix/asterixeac">
 		<description>Asterix (ver EAC)</description>
 		<category>FBNeo</category>
 		<rom name="068 ea c01.8c" size="131072" crc="0ccd1feb"/>
@@ -1964,7 +1963,7 @@
 		<url>https://retroachievements.org/game/11984/hashes</url>
 		<hash>1BF43BFEEC4116B50A2789A61ABFFF59</hash>
 	</game>
-	<game name="Retail/asterix">
+	<game name="Retail/Asterix/asterix">
 		<description>Asterix (ver EAD)</description>
 		<category>FBNeo</category>
 		<rom name="068 ea d01.8c" size="131072" crc="61d6621d"/>
@@ -1984,7 +1983,7 @@
 		<hash>79CFAB624C6F02057146C1CDADFF2EDF</hash>
 	</game>
 	
-	<game name="Retail/asteroid2">
+	<game name="Retail/Asteroids/asteroid2">
 		<description>Asteroids (rev 2)</description>
 		<category>FBNeo</category>
 		<rom name="035145-02.ef2" size="2048" crc="0cc75459"/>
@@ -1997,7 +1996,7 @@
 		<url>https://retroachievements.org/game/15009/hashes</url>
 		<hash>14813FA22BBCC9B77F119B2781133D1E</hash>
 	</game>
-	<game name="Retail/asteroid">
+	<game name="Retail/Asteroids/asteroid">
 		<description>Asteroids (rev 4)</description>
 		<category>FBNeo</category>
 		<rom name="035145-04e.ef2" size="2048" crc="b503eaf7"/>
@@ -2202,7 +2201,7 @@
 		<hash>c8294c98c4a4cdd2d97030dc248d2936</hash>
 	</game>
 	
-	<game name="Retail/baddudes">
+	<game name="Retail/Bad Dudes vs. DragonNinja/baddudes">
 		<description>Bad Dudes vs. Dragonninja (US, revision 1)</description>
 		<category>FBNeo</category>
 		<rom name="ei04-1.3c" size="65536" crc="4bf158a7"/>
@@ -2235,7 +2234,7 @@
 		<url>https://retroachievements.org/game/11991/hashes</url>
 		<hash>75D86EAD4097FB1123EF54CA07D16F6E</hash>
 	</game>
-	<game name="Retail/drgninjab">
+	<game name="Retail/Bad Dudes vs. DragonNinja/drgninjab">
 		<description>Dragonninja (bootleg)</description>
 		<category>FBNeo</category>
 		<rom name="n-12.d2" size="65536" crc="5a70eb52"/>
@@ -2715,7 +2714,7 @@
 		<hash>9E742AF1997432E8C775C561F23655FC</hash>
 	</game>
 	
-	<game name="Retail/bmaster">
+	<game name="Retail/Blade Master/bmaster">
 		<description>Blade Master (World)</description>
 		<category>FBNeo</category>
 		<rom name="bm d-h0-b.ic28" size="262144" crc="49b257c7"/>
@@ -2743,7 +2742,7 @@
 		<url>https://retroachievements.org/game/12008/hashes</url>
 		<hash>9E226FAB11CFE8F248C9452DE02FD9C9</hash>
 	</game>
-	<game name="Retail/crossbld">
+	<game name="Retail/Blade Master/crossbld">
 		<description>Cross Blades! (Japan)</description>
 		<category>FBNeo</category>
 		<rom name="bm d-h0.ic25" size="262144" crc="a28a5821"/>
@@ -2919,7 +2918,7 @@
 		<hash>A03F856CBADFFAA93C40579852404A30</hash>
 	</game>
 	
-	<game name="Retail/bjourneyh">
+	<game name="Retail/Blue's Journey/bjourneyh">
 		<description>Blue's Journey / Raguy (ALH-001)</description>
 		<category>FBNeo</category>
 		<rom name="022-hp1.p1" size="1048576" crc="62cbe7b2"/>
@@ -2974,7 +2973,7 @@
 		<url>https://retroachievements.org/game/11801/hashes</url>
 		<hash>42DB6408E1B36D120058548DC61840FC</hash>
 	</game>
-	<game name="Retail/bjourney">
+	<game name="Retail/Blue's Journey/bjourney">
 		<description>Blue's Journey / Raguy (ALM-001 ~ ALH-001)</description>
 		<category>FBNeo</category>
 		<rom name="022-p1.p1" size="1048576" crc="6a2f6d4a"/>
@@ -3352,7 +3351,7 @@
 		<hash>772C5C242F2BC5458F980E8EF5639FE8</hash>
 	</game>
 	
-	<game name="Retail/burningf">
+	<game name="Retail/Burning Fight/burningf">
 		<description>Burning Fight (NGM-018 ~ NGH-018)</description>
 		<category>FBNeo</category>
 		<rom name="018-p1.p1" size="524288" crc="4092c8db"/>
@@ -3407,7 +3406,7 @@
 		<url>https://retroachievements.org/game/13762/hashes</url>
 		<hash>504D6FC6BB4A767ECA363474D9BB644D</hash>
 	</game>
-	<game name="Retail/burningfh">
+	<game name="Retail/Burning Fight/burningfh">
 		<description>Burning Fight (NGH-018, US)</description>
 		<category>FBNeo</category>
 		<rom name="018-hp1.p1" size="524288" crc="ddffcbf4"/>
@@ -3462,7 +3461,7 @@
 		<url>https://retroachievements.org/game/13762/hashes</url>
 		<hash>5D43CD3332F65CEB9F9A9F780408F730</hash>
 	</game>
-	<game name="Retail/burningfp">
+	<game name="Retail/Burning Fight/burningfp">
 		<description>Burning Fight (Prototype, older)</description>
 		<category>FBNeo</category>
 		<rom name="018 p1 9397.p1" size="524288" crc="5b4032e7"/>
@@ -3523,7 +3522,7 @@
 		<url>https://retroachievements.org/game/13762/hashes</url>
 		<hash>62726B181C25C497D2F2A9F28ED125CC</hash>
 	</game>
-	<game name="Retail/burningfpa">
+	<game name="Retail/Burning Fight/burningfpa">
 		<description>Burning Fight (Prototype, near final, ver 23.3, 910326)</description>
 		<category>FBNeo</category>
 		<rom name="018 p1 1f28.podd" size="524288" crc="f7d15752"/>
@@ -3586,7 +3585,7 @@
 		<hash>80252956725FDAD94A2133D7B60D977A</hash>
 	</game>
 	
-	<game name="Retail/pang">
+	<game name="Retail/Buster Bros/pang">
 		<description>Pang (World)</description>
 		<category>FBNeo</category>
 		<rom name="pwe 06.11h" size="32768" crc="68be52cd"/>
@@ -3603,7 +3602,7 @@
 		<url>https://retroachievements.org/game/11996/hashes</url>
 		<hash>1FD9DA83BE5BAE079C8188A2E799020C</hash>
 	</game>
-	<game name="Retail/bbros">
+	<game name="Retail/Buster Bros/bbros">
 		<description>Buster Bros. (USA)</description>
 		<category>FBNeo</category>
 		<rom name="pwu 06.11h" size="32768" crc="a3041ca4"/>
@@ -3802,7 +3801,7 @@
 		<hash>fc690a603c6f03da20727c753488b278</hash>
 	</game>
 	
-	<game name="Retail/captavenua">
+	<game name="Retail/Captain America and the Avengers/captavenua">
 		<description>Captain America and The Avengers (US Rev 1.4)</description>
 		<category>FBNeo</category>
 		<rom name="hh 00-4.2e" size="131072" crc="0e1acc05"/>
@@ -3834,7 +3833,7 @@
 		<url>https://retroachievements.org/game/13251/hashes</url>
 		<hash>0e8f30dd57f7973764980ba991c6d396</hash>
 	</game>
-	<game name="Retail/captaven">
+	<game name="Retail/Captain America and the Avengers/captaven">
 		<description>Captain America and The Avengers (Asia Rev 1.4)</description>
 		<category>FBNeo</category>
 		<rom name="hn 00-4.1e" size="131072" crc="147fb094"/>
@@ -3866,7 +3865,7 @@
 		<url>https://retroachievements.org/game/13251/hashes</url>
 		<hash>11f196411b3498239f1d2bc84ada32b9</hash>
 	</game>
-	<game name="Retail/captavenu">
+	<game name="Retail/Captain America and the Avengers/captavenu">
 		<description>Captain America and The Avengers (US Rev 1.9)</description>
 		<category>FBNeo</category>
 		<rom name="hh 00-19.1e" size="131072" crc="08b870e0"/>
@@ -3898,7 +3897,7 @@
 		<url>https://retroachievements.org/game/13251/hashes</url>
 		<hash>428a170ecafc811d605df7a9740b3018</hash>
 	</game>
-	<game name="Retail/captavena">
+	<game name="Retail/Captain America and the Avengers/captavena">
 		<description>Captain America and The Avengers (Asia Rev 1.0)</description>
 		<category>FBNeo</category>
 		<rom name="hn 00.e1" size="131072" crc="12dd0c71"/>
@@ -3930,7 +3929,7 @@
 		<url>https://retroachievements.org/game/13251/hashes</url>
 		<hash>56fe782de4777887233c2f479df07f3e</hash>
 	</game>
-	<game name="Retail/captavene">
+	<game name="Retail/Captain America and the Avengers/captavene">
 		<description>Captain America and The Avengers (UK Rev 1.4)</description>
 		<category>FBNeo</category>
 		<rom name="hg 00-4.1e" size="131072" crc="7008d43c"/>
@@ -3963,7 +3962,7 @@
 		<url>https://retroachievements.org/game/13251/hashes</url>
 		<hash>6c837f22141b0e9924613128e05b2a7a</hash>
 	</game>
-	<game name="Retail/captavenuu">
+	<game name="Retail/Captain America and the Avengers/captavenuu">
 		<description>Captain America and The Avengers (US Rev 1.6)</description>
 		<category>FBNeo</category>
 		<rom name="hh-00.1e" size="131072" crc="c34da654"/>
@@ -3995,7 +3994,7 @@
 		<url>https://retroachievements.org/game/13251/hashes</url>
 		<hash>9e7cd50519d08833e21916c9d0a148e2</hash>
 	</game>
-	<game name="Retail/captavenj">
+	<game name="Retail/Captain America and the Avengers/captavenj">
 		<description>Captain America and The Avengers (Japan Rev 0.2)</description>
 		<category>FBNeo</category>
 		<rom name="hj 00-2.1e" size="131072" crc="10b1faaf"/>
@@ -4028,7 +4027,7 @@
 		<hash>d927ae81593564da12a32c801d93c1c6</hash>
 	</game>
 	
-	<game name="Retail/captcommb">
+	<game name="Retail/Captain Commando/captcommb">
 		<description>Captain Commando (bootleg set 1, 911014 other country)</description>
 		<category>FBNeo</category>
 		<rom name="25.bin" size="524288" crc="cb71ed7a"/>
@@ -4046,7 +4045,7 @@
 		<url>https://retroachievements.org/game/11726/hashes</url>
 		<hash>33D1F8BC44A414A1F2F76CFE4C197C66</hash>
 	</game>
-	<game name="Retail/captcommj">
+	<game name="Retail/Captain Commando/captcommj">
 		<description>Captain Commando (Japan 911202)</description>
 		<category>FBNeo</category>
 		<rom name="ccj 23f.8f" size="524288" crc="5b482b62"/>
@@ -4079,7 +4078,7 @@
 		<url>https://retroachievements.org/game/11726/hashes</url>
 		<hash>AF13B049084BA6917ADE6D6F01CD33DD</hash>
 	</game>
-	<game name="Retail/captcommr1">
+	<game name="Retail/Captain Commando/captcommr1">
 		<description>Captain Commando (World 911014)</description>
 		<category>FBNeo</category>
 		<rom name="cce 23d.8f" size="524288" crc="19c58ece"/>
@@ -4112,7 +4111,7 @@
 		<url>https://retroachievements.org/game/11726/hashes</url>
 		<hash>B7CF5AA4176917B597EAC76D364E449C</hash>
 	</game>
-	<game name="Retail/captcommu">
+	<game name="Retail/Captain Commando/captcommu">
 		<description>Captain Commando (USA 910928)</description>
 		<category>FBNeo</category>
 		<rom name="ccu 23b.8f" size="524288" crc="03da44fd"/>
@@ -4145,7 +4144,7 @@
 		<url>https://retroachievements.org/game/11726/hashes</url>
 		<hash>E37004F9A9251CC5D5921836E14FB5C6</hash>
 	</game>
-	<game name="Retail/captcomm">
+	<game name="Retail/Captain Commando/captcomm">
 		<description>Captain Commando (World 911202)</description>
 		<category>FBNeo</category>
 		<rom name="cce 23f.8f" size="524288" crc="42c814c5"/>
@@ -4178,7 +4177,7 @@
 		<url>https://retroachievements.org/game/11726/hashes</url>
 		<hash>F6267C0019E7006BAB5875B27BE32478</hash>
 	</game>
-	<game name="Retail/captcommjr1">
+	<game name="Retail/Captain Commando/captcommjr1">
 		<description>Captain Commando (Japan 910928)</description>
 		<category>FBNeo</category>
 		<rom name="ccj 23b.8f" size="524288" crc="e2a2d80e"/>
@@ -4334,7 +4333,7 @@
 		<hash>0422353D67E219DE12D113A8D444AAF4</hash>
 	</game>
 	
-	<game name="Retail/congoa">
+	<game name="Retail/Congo Bongo/congoa">
 		<description>Congo Bongo (Rev C, 3 board stack)</description>
 		<category>FBNeo</category>
 		<rom name="congo rev c rom1.u35" size="8192" crc="09355b5b"/>
@@ -4365,7 +4364,7 @@
 		<url>https://retroachievements.org/game/15762/hashes</url>
 		<hash>0985c37cf39a01fe36336b638c66fc4c</hash>
 	</game>
-	<game name="Retail/congo">
+	<game name="Retail/Congo Bongo/congo">
 		<description>Congo Bongo (Rev C, 2 board stack)</description>
 		<category>FBNeo</category>
 		<rom name="congo rev c rom1.u21" size="8192" crc="09355b5b"/>
@@ -4396,7 +4395,7 @@
 		<url>https://retroachievements.org/game/15762/hashes</url>
 		<hash>443fd8c93d17446bad49472af0e22dc3</hash>
 	</game>
-	<game name="Retail/tiptop">
+	<game name="Retail/Congo Bongo/tiptop">
 		<description>Tip Top (3 board stack)</description>
 		<category>FBNeo</category>
 		<rom name="tiptop1.u35" size="8192" crc="e19dc77b"/>
@@ -4428,7 +4427,7 @@
 		<hash>e5bd62b42448d2a0b542700b4b156eb3</hash>
 	</game>
 	
-	<game name="Retail/contcircj">
+	<game name="Retail/Continental Circus/contcircj">
 		<description>Continental Circus (Japan)</description>
 		<category>FBNeo</category>
 		<rom name="b33-19.ic25" size="131072" crc="b85360c8"/>
@@ -4455,7 +4454,7 @@
 		<url>https://retroachievements.org/game/13613/hashes</url>
 		<hash>3bad79d23d6796d7e35279949e8a0abf</hash>
 	</game>
-	<game name="Retail/contcircua">
+	<game name="Retail/Continental Circus/contcircua">
 		<description>Continental Circus (US set 2)</description>
 		<category>FBNeo</category>
 		<rom name="b33-34.ic25" size="131072" crc="e1e016c1"/>
@@ -4482,7 +4481,7 @@
 		<url>https://retroachievements.org/game/13613/hashes</url>
 		<hash>ab78eed54a1bc8245f1f17bdbc8a60c1</hash>
 	</game>
-	<game name="Retail/contcirc">
+	<game name="Retail/Continental Circus/contcirc">
 		<description>Continental Circus (World)</description>
 		<category>FBNeo</category>
 		<rom name="b33-ww.ic25" size="131072" crc="f5c92e42"/>
@@ -4509,7 +4508,7 @@
 		<url>https://retroachievements.org/game/13613/hashes</url>
 		<hash>b500065c31d6cdd7717940453a76e6b6</hash>
 	</game>
-	<game name="Retail/contcircu">
+	<game name="Retail/Continental Circus/contcircu">
 		<description>Continental Circus (US set 1)</description>
 		<category>FBNeo</category>
 		<rom name="b33-ww.ic25" size="131072" crc="f5c92e42"/>
@@ -4648,7 +4647,7 @@
 		<hash>2BF97AEBE1E8255E31790131A07821B7</hash>
 	</game>
 	
-	<game name="Retail/crimecj">
+	<game name="Retail/Crime City/crimecj">
 		<description>Crime City (Japan)</description>
 		<category>FBNeo</category>
 		<rom name="b99-07.40" size="131072" crc="26e886e6"/>
@@ -4664,7 +4663,7 @@
 		<url>https://retroachievements.org/game/12067/hashes</url>
 		<hash>6AEEF43A1E06ACADB5EF11271550025B</hash>
 	</game>
-	<game name="Retail/crimec">
+	<game name="Retail/Crime City/crimec">
 		<description>Crime City (World)</description>
 		<category>FBNeo</category>
 		<rom name="b99-07.40" size="131072" crc="26e886e6"/>
@@ -4680,7 +4679,7 @@
 		<url>https://retroachievements.org/game/12067/hashes</url>
 		<hash>86A4C6D16759772C9C0CCB5F99344DE2</hash>
 	</game>
-	<game name="Retail/crimecu">
+	<game name="Retail/Crime City/crimecu">
 		<description>Crime City (US)</description>
 		<category>FBNeo</category>
 		<rom name="b99-07.40" size="131072" crc="26e886e6"/>
@@ -4876,7 +4875,7 @@
 		<hash>90A624F1F9653941EBA3B8589F75C041</hash>
 	</game>
 	
-	<game name="Retail/darkseal">
+	<game name="Retail/Dark Seal/darkseal">
 		<description>Dark Seal (World revision 3)</description>
 		<category>FBNeo</category>
 		<rom name="ga 04-3.j12" size="131072" crc="bafad556"/>
@@ -4897,7 +4896,7 @@
 		<url>https://retroachievements.org/game/12077/hashes</url>
 		<hash>6863BF5DCDF0B87432AA49DA67551917</hash>
 	</game>
-	<game name="Retail/gatedoom">
+	<game name="Retail/Dark Seal/gatedoom">
 		<description>Gate of Doom (US revision 4)</description>
 		<category>FBNeo</category>
 		<rom name="gb 04-4.j12" size="131072" crc="8e3a0bfd"/>
@@ -4919,7 +4918,7 @@
 		<hash>F9328B039873C877F41042257086A9D1</hash>
 	</game>
 	
-	<game name="Retail/dstlk">
+	<game name="Retail/Darkstalkers - The Night Warriors/dstlk">
 		<description>Darkstalkers - the night warriors (940705 Euro)</description>
 		<category>FBNeo</category>
 		<rom name="vame.03a" size="524288" crc="004c9cff"/>
@@ -4948,7 +4947,7 @@
 		<url>https://retroachievements.org/game/12104/hashes</url>
 		<hash>6917407020977114942FEC31AB56184D</hash>
 	</game>
-	<game name="Retail/vampj">
+	<game name="Retail/Darkstalkers - The Night Warriors/vampj">
 		<description>Vampire - the night warriors (940705 Japan)</description>
 		<category>FBNeo</category>
 		<rom name="vamj.03a" size="524288" crc="f55d3722"/>
@@ -5052,7 +5051,7 @@
 		<hash>5CAAADF5ADFAE76FA3E965ECB4FB4196</hash>
 	</game>
 	
-	<game name="Retail/detatwin">
+	<game name="Retail/Detana! TwinBee/detatwin">
 		<description>Detana!! Twin Bee (Japan, version J)</description>
 		<category>FBNeo</category>
 		<rom name="060 j02.e09" size="131072" crc="11b761ac"/>
@@ -5071,7 +5070,7 @@
 		<url>https://retroachievements.org/game/12005/hashes</url>
 		<hash>771881B7378F715D99979C5757F6E234</hash>
 	</game>
-	<game name="Retail/blswhstl">
+	<game name="Retail/Detana! TwinBee/blswhstl">
 		<description>Bells &amp; Whistles (World, version L)</description>
 		<category>FBNeo</category>
 		<rom name="060 l02.e09" size="131072" crc="e8b7b234"/>
@@ -5491,7 +5490,7 @@
 		<hash>91B40D74DEC93EC667B390F7CF2FC7C9</hash>
 	</game>
 	
-	<game name="Retail/dsoccr94">
+	<game name="Retail/Dream Soccer '94/dsoccr94">
 		<description>Dream Soccer '94 (World, M107 hardware)</description>
 		<category>FBNeo</category>
 		<rom name="a3-4p h0-c-0.ic59" size="262144" crc="d01d3fd7"/>
@@ -5514,7 +5513,7 @@
 		<url>https://retroachievements.org/game/14646/hashes</url>
 		<hash>4BE78E8E30561A4CB05367CE596B6747</hash>
 	</game>
-	<game name="Retail/dsoccr94j">
+	<game name="Retail/Dream Soccer '94/dsoccr94j">
 		<description>Dream Soccer '94 (Japan, M92 hardware)</description>
 		<category>FBNeo</category>
 		<rom name="a3 -h0-e.ic37" size="262144" crc="8de1dbcd"/>
@@ -5544,7 +5543,7 @@
 		<url>https://retroachievements.org/game/14646/hashes</url>
 		<hash>641617FB1087BF53B5CC2F34D3A85ACC</hash>
 	</game>
-	<game name="Retail/dsoccr94k">
+	<game name="Retail/Dream Soccer '94/dsoccr94k">
 		<description>Dream Soccer '94 (Korea, M107 hardware)</description>
 		<category>FBNeo</category>
 		<rom name="ic59 h0.bin" size="262144" crc="7b26d8a3"/>
@@ -5658,7 +5657,7 @@
 		<hash>CC579F699FCE18AFAA43A045E4C01BB2</hash>
 	</game>
 	
-	<game name="Retail/ecofghtr">
+	<game name="Retail/Eco Fighters/ecofghtr">
 		<description>Eco Fighters (World 931203)</description>
 		<category>FBNeo</category>
 		<rom name="uece.03" size="524288" crc="ec2c1137"/>
@@ -5682,7 +5681,7 @@
 		<url>https://retroachievements.org/game/11898/hashes</url>
 		<hash>26d362b97c82ef1c1aa9e56c6ac0e479</hash>
 	</game>
-	<game name="Retail/uecology">
+	<game name="Retail/Eco Fighters/uecology">
 		<description>Ultimate Ecology (Japan 931203)</description>
 		<category>FBNeo</category>
 		<rom name="uecj.03" size="524288" crc="94c40a4c"/>
@@ -5785,7 +5784,7 @@
 		<hash>59249c4410f9f8b9ddb61000a38d13c6</hash>
 	</game>
 	
-	<game name="Retail/elvactr">
+	<game name="Retail/Elevator Action Returns/elvactr">
 		<description>Elevator Action Returns (Ver 2.2O 1995/02/20)</description>
 		<category>FBNeo</category>
 		<rom name="e02-12.20" size="524288" crc="ea5f5a32"/>
@@ -5814,7 +5813,7 @@
 		<url>https://retroachievements.org/game/12111/hashes</url>
 		<hash>3180D6CDFD39A897D6AABC818887A000</hash>
 	</game>
-	<game name="Retail/elvactrj">
+	<game name="Retail/Elevator Action Returns/elvactrj">
 		<description>Elevator Action Returns (Ver 2.2J 1995/02/20)</description>
 		<category>FBNeo</category>
 		<rom name="e02-12.20" size="524288" crc="ea5f5a32"/>
@@ -5836,7 +5835,7 @@
 		<url>https://retroachievements.org/game/12111/hashes</url>
 		<hash>4FCDB11D546A7D1B41F12C6DA7AAB9AF</hash>
 	</game>
-	<game name="Retail/elvact2u">
+	<game name="Retail/Elevator Action Returns/elvact2u">
 		<description>Elevator Action II (Ver 2.2A 1995/02/20)</description>
 		<category>FBNeo</category>
 		<rom name="e02-12.20" size="524288" crc="ea5f5a32"/>
@@ -5954,7 +5953,7 @@
 		<hash>960A8C064F1D7F5A316D420BBE36CAE7</hash>
 	</game>
 	
-	<game name="Retail/fatfury3">
+	<game name="Retail/Fatal Fury 3 - Road to the Final Victor/fatfury3">
 		<description>Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - Haruka-naru Tatakai (NGM-069 ~ NGH-069)</description>
 		<category>FBNeo</category>
 		<rom name="069-p1.p1" size="1048576" crc="a8bcfbbc"/>
@@ -6013,7 +6012,7 @@
 		<url>https://retroachievements.org/game/13773/hashes</url>
 		<hash>6c85b5d3bc968b68634bf17e1e09065c</hash>
 	</game>
-	<game name="Retail/ffury3bs" cloneof="fatfury3">
+	<game name="Retail/Fatal Fury 3 - Road to the Final Victor/ffury3bs">
 		<description>Fatal Fury 3 - Road to the Final Victory / Garou Densetsu 3 - Haruka-naru Tatakai (Ancient Battles Resurgence, Hack)</description>
 		<category>FBNeo</category>
 		<rom name="069-p1bs.p1" size="1048576" crc="b8362f59"/>
@@ -6073,7 +6072,7 @@
 		<hash>78ac5e9c23dbdf9c5e2fe55781b42dbe</hash>
 	</game>
 	
-	<game name="Retail/fatfursp">
+	<game name="Retail/Fatal Fury Special/fatfursp">
 		<description>Fatal Fury Special / Garou Densetsu Special (NGM-058 ~ NGH-058, set 1)</description>
 		<category>FBNeo</category>
 		<rom name="058-p1.p1" size="1048576" crc="2f585ba2"/>
@@ -6132,7 +6131,7 @@
 		<url>https://retroachievements.org/game/12709/hashes</url>
 		<hash>3020ffcb129267e20384fe60aa59f355</hash>
 	</game>
-	<game name="Retail/fatfurspa">
+	<game name="Retail/Fatal Fury Special/fatfurspa">
 		<description>Fatal Fury Special / Garou Densetsu Special (NGM-058 ~ NGH-058, set 2)</description>
 		<category>FBNeo</category>
 		<rom name="058-p1.p1" size="1048576" crc="2f585ba2"/>
@@ -6405,7 +6404,7 @@
 		<hash>F2A9DCA3455772593A712E9E30DAFEA3</hash>
 	</game>
 	
-	<game name="Retail/funybubl">
+	<game name="Retail/Funny Bubble/funybubl">
 		<description>Funny Bubble</description>
 		<category>FBNeo</category>
 		<rom name="a.ub16" size="262144" crc="4e799cdd"/>
@@ -6429,7 +6428,7 @@
 		<url>https://retroachievements.org/game/29807/hashes</url>
 		<hash>98AE2ACC7ACCFF338ED5AC6B1B355B5D</hash>
 	</game>
-	<game name="Retail/funybublc">
+	<game name="Retail/Funny Bubble/funybublc">
 		<description>Funny Bubble (Comad version)</description>
 		<category>FBNeo</category>
 		<rom name="2.ub16" size="262144" crc="d684c13f"/>
@@ -6692,7 +6691,7 @@
 		<hash>577029DBC6E6BB60AFDB832CEF943EB1</hash>
 	</game>
 	
-	<game name="Retail/geebee">
+	<game name="Retail/Gee Bee/geebee">
 		<description>Gee Bee (Japan)</description>
 		<category>FBNeo</category>
 		<rom name="geebee.1k" size="4096" crc="8a5577e0"/>
@@ -6702,7 +6701,7 @@
 		<url>https://retroachievements.org/game/12146/hashes</url>
 		<hash>7DB2CFB619385AE8919DA6CB36567B61</hash>
 	</game>
-	<game name="Retail/geebeeg">
+	<game name="Retail/Gee Bee/geebeeg">
 		<description>Gee Bee (US)</description>
 		<category>FBNeo</category>
 		<rom name="geebee.1k" size="4096" crc="8a5577e0"/>
@@ -6713,7 +6712,7 @@
 		<hash>BF0CDA053A43CAB61D6A15F2C9BF5E77</hash>
 	</game>
 	
-	<game name="Retail/gpilotsh">
+	<game name="Retail/Ghost Pilots/gpilotsh">
 		<description>Ghost Pilots (NGH-020, US)</description>
 		<category>FBNeo</category>
 		<rom name="020-hp1.p1" size="524288" crc="7cdb01ce"/>
@@ -6770,7 +6769,7 @@
 		<url>https://retroachievements.org/game/12601/hashes</url>
 		<hash>16FE9C9D1350297C299034812394EBDB</hash>
 	</game>
-	<game name="Retail/gpilots">
+	<game name="Retail/Ghost Pilots/gpilots">
 		<description>Ghost Pilots (NGM-020 ~ NGH-020)</description>
 		<category>FBNeo</category>
 		<rom name="020-p1.p1" size="524288" crc="e6f2fe64"/>
@@ -6828,7 +6827,7 @@
 		<hash>6D3C7153A85A30717DA03786217D4ABE</hash>
 	</game>
 	
-	<game name="Retail/makaimurg">
+	<game name="Retail/Ghosts 'n Goblins/makaimurg">
 		<description>Makaimura (Japan Revision G)</description>
 		<category>FBNeo</category>
 		<rom name="mj04g.bin" size="16384" crc="757c94d3"/>
@@ -6855,7 +6854,7 @@
 		<url>https://retroachievements.org/game/12149/hashes</url>
 		<hash>4DC5C37D2056EA8BE1F968EBECC66EA0</hash>
 	</game>
-	<game name="Retail/gng">
+	<game name="Retail/Ghosts 'n Goblins/gng">
 		<description>Ghosts'n Goblins (World? set 1)</description>
 		<category>FBNeo</category>
 		<rom name="gg4.bin" size="16384" crc="66606beb"/>
@@ -6884,7 +6883,7 @@
 		<hash>64FB7D782F2BE42FEB84FEF5D0530776</hash>
 	</game>
 	
-	<game name="Retail/ghouls">
+	<game name="Retail/Ghouls 'n Ghosts/ghouls">
 		<description>Ghouls'n Ghosts (World)</description>
 		<category>FBNeo</category>
 		<rom name="dme 29.10h" size="131072" crc="166a58a2"/>
@@ -6925,7 +6924,7 @@
 		<url>https://retroachievements.org/game/11903/hashes</url>
 		<hash>0D52F5C4BB4701002F55625040435AEA</hash>
 	</game>
-	<game name="Retail/daimakai">
+	<game name="Retail/Ghouls 'n Ghosts/daimakai">
 		<description>Dai Makai-Mura (Japan)</description>
 		<category>FBNeo</category>
 		<rom name="dmj 38.12f" size="131072" crc="82fd1798"/>
@@ -7129,7 +7128,7 @@
 		<driver status="good"/>
 	</game>
 	
-	<game name="Retail/goldnaxej">
+	<game name="Retail/Golden Axe/goldnaxej">
 		<description>Golden Axe (set 4, Japan) (FD1094 317-0121)</description>
 		<category>FBNeo</category>
 		<rom name="epr-12540.a7" size="131072" crc="0c7ccc6d"/>
@@ -7154,7 +7153,7 @@
 		<url>https://retroachievements.org/game/12154/hashes</url>
 		<hash>8EAF95929427ABCECD6D57BABE80C643</hash>
 	</game>
-	<game name="Retail/goldnaxe">
+	<game name="Retail/Golden Axe/goldnaxe">
 		<description>Golden Axe (set 6, US) (8751 317-123A)</description>
 		<category>FBNeo</category>
 		<rom name="epr-12545.ic2" size="262144" crc="a97c4e4d"/>
@@ -7522,7 +7521,7 @@
 		<hash>3514BB19945F2E0CE2DB71892339B4E9</hash>
 	</game>
 	
-	<game name="Retail/gunforc2">
+	<game name="Retail/GunForce II/gunforc2">
 		<description>Gun Force II (US)</description>
 		<category>FBNeo</category>
 		<rom name="a2 -h0-a.ic37" size="262144" crc="49965e22"/>
@@ -7551,7 +7550,7 @@
 		<url>https://retroachievements.org/game/12165/hashes</url>
 		<hash>07430874AEA03C1A5C0C9BAF80694D74</hash>
 	</game>
-	<game name="Retail/geostorm">
+	<game name="Retail/GunForce II/geostorm">
 		<description>Geo Storm (Japan, 014 custom sound CPU)</description>
 		<category>FBNeo</category>
 		<rom name="a2 -h0-.ic37" size="262144" crc="9be58d09"/>
@@ -7629,7 +7628,7 @@
 		<hash>0A9374ACD05251A6B904092CCA0A7554</hash>
 	</game>
 	
-	<game name="Retail/hharryu">
+	<game name="Retail/Hammerin' Harry/hharryu">
 		<description>Hammerin' Harry (US, M84 hardware)</description>
 		<category>FBNeo</category>
 		<rom name="gen a-h0-u.ic55" size="131072" crc="ede7f755"/>
@@ -7657,7 +7656,7 @@
 		<url>https://retroachievements.org/game/12180/hashes</url>
 		<hash>4A4B97908730AA4C12BD0CB3391D37E3</hash>
 	</game>
-	<game name="Retail/dkgensanm72">
+	<game name="Retail/Hammerin' Harry/dkgensanm72">
 		<description>Daiku no Gensan (Japan, M72 hardware)</description>
 		<category>FBNeo</category>
 		<rom name="ge72 h0-.ic40" size="131072" crc="a0ad992c"/>
@@ -7688,7 +7687,7 @@
 		<url>https://retroachievements.org/game/12180/hashes</url>
 		<hash>6CD5AA604A417A2892A0DD80CC622658</hash>
 	</game>
-	<game name="Retail/dkgensan">
+	<game name="Retail/Hammerin' Harry/dkgensan">
 		<description>Daiku no Gensan (Japan, M84 hardware)</description>
 		<category>FBNeo</category>
 		<rom name="gen a-h0-.ic55" size="131072" crc="07a45f6d"/>
@@ -7716,7 +7715,7 @@
 		<url>https://retroachievements.org/game/12180/hashes</url>
 		<hash>AA220CE627983E3E87974B5886A5F09B</hash>
 	</game>
-	<game name="Retail/hharry">
+	<game name="Retail/Hammerin' Harry/hharry">
 		<description>Hammerin' Harry (World, M81 hardware)</description>
 		<category>FBNeo</category>
 		<rom name="gen=m81= a-h0-v.ic59" size="131072" crc="c52802a5"/>
@@ -7916,7 +7915,7 @@
 		<hash>1E1E72AC0BFBAC90416B2832A1E72F10</hash>
 	</game>
 	
-	<game name="Retail/hook">
+	<game name="Retail/Hook/hook">
 		<description>Hook (World)</description>
 		<category>FBNeo</category>
 		<rom name="hook -h0-d.ic25" size="262144" crc="40189ff6"/>
@@ -7944,7 +7943,7 @@
 		<url>https://retroachievements.org/game/12183/hashes</url>
 		<hash>5A582EF17D6A088D9CB644E4C1EA3CDD</hash>
 	</game>
-	<game name="Retail/hooku">
+	<game name="Retail/Hook/hooku">
 		<description>Hook (US)</description>
 		<category>FBNeo</category>
 		<rom name="hook -h0-c.ic25" size="262144" crc="84cc239e"/>
@@ -7972,7 +7971,7 @@
 		<url>https://retroachievements.org/game/12183/hashes</url>
 		<hash>6A0E8B74AE316AD680A2CC6BA07BAEE7</hash>
 	</game>
-	<game name="Retail/hookj">
+	<game name="Retail/Hook/hookj">
 		<description>Hook (Japan)</description>
 		<category>FBNeo</category>
 		<rom name="hook -h0-g.ic25" size="262144" crc="5964c886"/>
@@ -8063,7 +8062,7 @@
 		<hash>CCAE0A929587562BA357A361F78E83B4</hash>
 	</game>
 	
-	<game name="Subset/hsf2">
+	<game name="Subset/Hyper Street Fighter II/hsf2">
 		<description>Hyper Street Fighter II: The Anniversary Edition (040202 USA)</description>
 		<category>FBNeo</category>
 		<rom name="hs2u.03" size="524288" crc="b308151e"/>
@@ -8087,7 +8086,7 @@
 		<url>https://retroachievements.org/game/28555/hashes</url>
 		<hash>F96E4C55808D96982735479D6DF65CA4</hash>
 	</game>
-	<game name="Subset/hsf2df">
+	<game name="Subset/Hyper Street Fighter II/hsf2df">
 		<description>Hyper Street Fighter II: The Anniversary Edition (Difficulty Fix,)</description>
 		<category>FBNeo</category>
 		<rom name="hs2df.03" size="524288" crc="2ef3f7db"/>
@@ -8112,7 +8111,7 @@
 		<hash>6548FB70A8B6555C1846C5B464A39518</hash>
 	</game>
 	
-	<game name="Retail/inthunt">
+	<game name="Retail/Hyper Street Fighter II/inthunt">
 		<description>In The Hunt (World)</description>
 		<category>FBNeo</category>
 		<rom name="ith -h0-d.ic28" size="262144" crc="52f8e7a6"/>
@@ -8629,7 +8628,7 @@
 		<hash>345142D7013B717A72D6402855C81A44</hash>
 	</game>
 	
-	<game name="Retail/kotm">
+	<game name="Retail/King of the Monsters/kotm">
 		<description>King of the Monsters (set 1)</description>
 		<category>FBNeo</category>
 		<rom name="016-p1.p1" size="524288" crc="1b818731"/>
@@ -8685,7 +8684,7 @@
 		<url>https://retroachievements.org/game/13784/hashes</url>
 		<hash>057827B74BA1259423D9C00DE10B4300</hash>
 	</game>
-	<game name="Retail/kotmh">
+	<game name="Retail/King of the Monsters/kotmh">
 		<description>King of the Monsters (set 2)</description>
 		<category>FBNeo</category>
 		<rom name="016-hp1.p1" size="524288" crc="b774621e"/>
@@ -8796,7 +8795,7 @@
 		<hash>1CDE3E3B392366B5FD5129D245C8B109</hash>
 	</game>
 	
-	<game name="Retail/lresortp">
+	<game name="Retail/Last Resort/lresortp">
 		<description>Last Resort (Prototype)</description>
 		<category>FBNeo</category>
 		<rom name="024 p1 5937.podd" size="524288" crc="8e6008ee"/>
@@ -8858,7 +8857,7 @@
 		<url>https://retroachievements.org/game/12792/hashes</url>
 		<hash>6FCE0B952D5398F99DDB040344310F65</hash>
 	</game>
-	<game name="Retail/lresort">
+	<game name="Retail/Last Resort/lresort">
 		<description>Last Resort</description>
 		<category>FBNeo</category>
 		<rom name="024-p1.p1" size="524288" crc="89c4ab97"/>
@@ -8970,7 +8969,7 @@
 		<hash>CEE8C9264320A0B32EB4EFB1496E5C2B</hash>
 	</game>
 	
-	<game name="Retail/leds2011">
+	<game name="Retail/Led Storm Rally 2011/leds2011">
 		<description>Led Storm Rally 2011 (World)</description>
 		<category>FBNeo</category>
 		<rom name="lse 04.8b" size="131072" crc="166c0576"/>
@@ -8991,7 +8990,7 @@
 		<url>https://retroachievements.org/game/15823/hashes</url>
 		<hash>4AE7B96BDE0E9AAE7A1F98C7DA8111E7</hash>
 	</game>
-	<game name="Retail/leds2011u">
+	<game name="Retail/Led Storm Rally 2011/leds2011u">
 		<description>Led Storm Rally 2011 (US)</description>
 		<category>FBNeo</category>
 		<rom name="lsu-04.8b" size="131072" crc="56a2f079"/>
@@ -9208,7 +9207,7 @@
 		<hash>DAC0036DB4CDFEAB8D77E855105FB896</hash>
 	</game>
 	
-	<game name="Retail/maglord">
+	<game name="Retail/Magician Lord/maglord">
 		<description>Magician Lord (NGM-005)</description>
 		<category>FBNeo</category>
 		<rom name="005-pg1.p1" size="524288" crc="bd0a492d"/>
@@ -9266,7 +9265,7 @@
 		<url>https://retroachievements.org/game/12241/hashes</url>
 		<hash>14EBCD8FA440A279FAE066617A13CABC</hash>
 	</game>
-	<game name="Retail/maglordh">
+	<game name="Retail/Magician Lord/maglordh">
 		<description>Magician Lord (NGH-005)</description>
 		<category>FBNeo</category>
 		<rom name="005-p1.p1" size="524288" crc="599043c5"/>
@@ -9398,7 +9397,7 @@
 		<hash>5D87554E1EFBA014FD10046644BD41B3</hash>
 	</game>
 	
-	<game name="Retail/mshh">
+	<game name="Retail/Marvel Super Heroes/mshh">
 		<description>Marvel Super Heroes (951117 Hispanic)</description>
 		<category>FBNeo</category>
 		<rom name="mshh.03c" size="524288" crc="8d84b0fa"/>
@@ -9427,7 +9426,7 @@
 		<url>https://retroachievements.org/game/11822/hashes</url>
 		<hash>1C90C082845E4B6A52EF8B5F2A0050A0</hash>
 	</game>
-	<game name="Retail/msh">
+	<game name="Retail/Marvel Super Heroes/msh">
 		<description>Marvel Super Heroes (951024 Euro)</description>
 		<category>FBNeo</category>
 		<rom name="mshe.03e" size="524288" crc="bd951414"/>
@@ -9456,7 +9455,7 @@
 		<url>https://retroachievements.org/game/11822/hashes</url>
 		<hash>86A7DE326868FC46D5BB46F724A17792</hash>
 	</game>
-	<game name="Retail/msha">
+	<game name="Retail/Marvel Super Heroes/msha">
 		<description>Marvel Super Heroes (951024 Asia)</description>
 		<category>FBNeo</category>
 		<rom name="msha.03e" size="524288" crc="ec84ec44"/>
@@ -9485,7 +9484,7 @@
 		<url>https://retroachievements.org/game/11822/hashes</url>
 		<hash>B5E869FDADFEE117203293FAA33EAB00</hash>
 	</game>
-	<game name="Retail/mshu">
+	<game name="Retail/Marvel Super Heroes/mshu">
 		<description>Marvel Super Heroes (951024 USA)</description>
 		<category>FBNeo</category>
 		<rom name="mshu.03" size="524288" crc="d2805bdd"/>
@@ -9514,7 +9513,7 @@
 		<url>https://retroachievements.org/game/11822/hashes</url>
 		<hash>CAE38C7D868C8630293449F74F711A4C</hash>
 	</game>
-	<game name="Retail/mshj">
+	<game name="Retail/Marvel Super Heroes/mshj">
 		<description>Marvel Super Heroes (951117 Japan)</description>
 		<category>FBNeo</category>
 		<rom name="mshj.03g" size="524288" crc="261f4091"/>
@@ -9543,7 +9542,7 @@
 		<url>https://retroachievements.org/game/11822/hashes</url>
 		<hash>D674FA80556700A504BF94674A8461B6</hash>
 	</game>
-	<game name="Retail/mshb">
+	<game name="Retail/Marvel Super Heroes/mshb">
 		<description>Marvel Super Heroes (951117 Brazil)</description>
 		<category>FBNeo</category>
 		<rom name="mshb.03c" size="524288" crc="19697f74"/>
@@ -9603,7 +9602,7 @@
 		<hash>0321DD1F8F8113FE4C2A558D67567F0E</hash>
 	</game>
 	
-	<game name="Retail/mvsc">
+	<game name="Retail/Marvel vs. Capcom - Clash of Super Heroes/mvsc">
 		<description>Marvel vs Capcom - clash of super heroes (980123 Euro)</description>
 		<category>FBNeo</category>
 		<rom name="mvce.03a" size="524288" crc="824e4a90"/>
@@ -9632,7 +9631,7 @@
 		<url>https://retroachievements.org/game/11806/hashes</url>
 		<hash>7280B613C4597B4A4BBBAE6F634BB886</hash>
 	</game>
-	<game name="Retail/mvscu">
+	<game name="Retail/Marvel vs. Capcom - Clash of Super Heroes/mvscu">
 		<description>Marvel vs Capcom - clash of super heroes (980123 USA)</description>
 		<category>FBNeo</category>
 		<rom name="mvcu.03d" size="524288" crc="c6007557"/>
@@ -9661,7 +9660,7 @@
 		<url>https://retroachievements.org/game/11806/hashes</url>
 		<hash>79374B32FB5E0F45C6FB40AF7138BDBC</hash>
 	</game>
-	<game name="Retail/mvsca">
+	<game name="Retail/Marvel vs. Capcom - Clash of Super Heroes/mvsca">
 		<description>Marvel vs Capcom - clash of super heroes (980123 Asia)</description>
 		<category>FBNeo</category>
 		<rom name="mvca.03a" size="524288" crc="2ff4ae25"/>
@@ -9691,7 +9690,7 @@
 		<hash>B81C3FCDE2756CEE6D7C0463C6C9AB8C</hash>
 	</game>
 	
-	<game name="Retail/matmania">
+	<game name="Retail/Mat Mania/matmania">
 		<description>Mat Mania</description>
 		<category>FBNeo</category>
 		<rom name="k0-03" size="16384" crc="314ab8a4"/>
@@ -9735,7 +9734,7 @@
 		<url>https://retroachievements.org/game/15106/hashes</url>
 		<hash>0A5D972E65CFA114EECDEAD24A8B0644</hash>
 	</game>
-	<game name="Retail/excthour">
+	<game name="Retail/Mat Mania/excthour">
 		<description>Exciting Hour</description>
 		<category>FBNeo</category>
 		<rom name="e29" size="16384" crc="c453e855"/>
@@ -9780,7 +9779,7 @@
 		<hash>27647090C0BA2D19977EAD92348140B5</hash>
 	</game>
 	
-	<game name="Retail/megaman2">
+	<game name="Retail/Mega Man 2 - The Power Fighters/megaman2">
 		<description>Mega Man 2 - the power fighters (960708 USA)</description>
 		<category>FBNeo</category>
 		<rom name="rm2u.03" size="524288" crc="8ffc2cd1"/>
@@ -9800,7 +9799,7 @@
 		<url>https://retroachievements.org/game/11900/hashes</url>
 		<hash>523555AE3BD12F5CC3EC406A4C8DA0E9</hash>
 	</game>
-	<game name="Retail/megaman2a">
+	<game name="Retail/Mega Man 2 - The Power Fighters/megaman2a">
 		<description>Mega Man 2 - the power fighters (960708 Asia)</description>
 		<category>FBNeo</category>
 		<rom name="rm2a.03" size="524288" crc="2b330ca7"/>
@@ -9820,7 +9819,7 @@
 		<url>https://retroachievements.org/game/11900/hashes</url>
 		<hash>80A0AE02CA0E9905E9BAAE671BE9EEA2</hash>
 	</game>
-	<game name="Retail/rockman2j">
+	<game name="Retail/Mega Man 2 - The Power Fighters/rockman2j">
 		<description>Rockman 2 - the power fighters (960708 Japan)</description>
 		<category>FBNeo</category>
 		<rom name="rm2j.03" size="524288" crc="dbaa1437"/>
@@ -9841,7 +9840,7 @@
 		<hash>CCAA26B29D3E946FB6883710873DF7FC</hash>
 	</game>
 	
-	<game name="Retail/megaman">
+	<game name="Retail/Mega Man - The Power Battle/megaman">
 		<description>Mega Man: The Power Battle (CPS1, USA 951006)</description>
 		<category>FBNeo</category>
 		<rom name="rcmu 23b.8f" size="524288" crc="1cd33c7a"/>
@@ -9881,7 +9880,7 @@
 		<url>https://retroachievements.org/game/11794/hashes</url>
 		<hash>209B01D5D9B045D8CBCC9311E661E94D</hash>
 	</game>
-	<game name="Retail/rockmanj">
+	<game name="Retail/Mega Man - The Power Battle/rockmanj">
 		<description>Rockman: The Power Battle (CPS1, Japan 950922)</description>
 		<category>FBNeo</category>
 		<rom name="rcm 23a.8f" size="524288" crc="efd96cb2"/>
@@ -10042,7 +10041,7 @@
 		<hash>9C289D97231DF84E75744C9444DBB93E</hash>
 	</game>
 	
-	<game name="Retail/mslug2">
+	<game name="Retail/Metal Slug 2 - Super Vehicle-001-II/mslug2">
 		<description>Metal Slug 2 - Super Vehicle-001/II (NGM-2410 ~ NGH-2410)</description>
 		<category>FBNeo</category>
 		<rom name="241-p1.p1" size="1048576" crc="2a53c5da"/>
@@ -10098,7 +10097,7 @@
 		<url>https://retroachievements.org/game/11825/hashes</url>
 		<hash>B1475B391AD385C16FEAE3A2BFBFC2A0</hash>
 	</game>
-	<game name="Retail/mslug2t">
+	<game name="Retail/Metal Slug 2 - Super Vehicle-001-II/mslug2t">
 		<description>Metal Slug 2 Turbo (NGM-9410)</description>
 		<category>FBNeo</category>
 		<rom name="941-p1.p1" size="1048576" crc="df5d6fbc"/>
@@ -10276,7 +10275,7 @@
 		<hash>D5D7199EDA7492CD9EE24173357E781B</hash>
 	</game>
 	
-	<game name="Retail/mslug5">
+	<game name="Retail/Metal Slug 5/mslug5">
 		<description>Metal Slug 5 (NGM-2680)</description>
 		<category>FBNeo</category>
 		<rom name="268-p1cr.p1" size="4194304" crc="d0466792"/>
@@ -10335,7 +10334,7 @@
 		<url>https://retroachievements.org/game/12027/hashes</url>
 		<hash>024E350BE5736B014D80C32330F03E2A</hash>
 	</game>
-	<game name="Retail/mslug5h">
+	<game name="Retail/Metal Slug 5/mslug5h">
 		<description>Metal Slug 5 (NGH-2680)</description>
 		<category>FBNeo</category>
 		<rom name="268-p1c.p1" size="4194304" crc="3636690a"/>
@@ -10620,7 +10619,7 @@
 		<hash>BAB042C51AF2760840E20443728ADE51</hash>
 	</game>
 	
-	<game name="Retail/mikie">
+	<game name="Retail/Mikie/mikie">
 		<description>Mikie</description>
 		<category>FBNeo</category>
 		<rom name="n14.11c" size="8192" crc="f698e6dd"/>
@@ -10642,7 +10641,7 @@
 		<url>https://retroachievements.org/game/12690/hashes</url>
 		<hash>32B1328F6B8B6D10780084F7A8EB78E7</hash>
 	</game>
-	<game name="Retail/mikiej">
+	<game name="Retail/Mikie/mikiej">
 		<description>Shinnyuushain Tooru-kun</description>
 		<category>FBNeo</category>
 		<rom name="n14.11c" size="8192" crc="f698e6dd"/>
@@ -10804,7 +10803,7 @@
 		<hash>f9574079e56032192c98d038188940c1</hash>
 	</game>
 	
-	<game name="Retail/mpatrol">
+	<game name="Retail/Moon Patrol/mpatrol">
 		<description>Moon Patrol</description>
 		<category>FBNeo</category>
 		<rom name="mpa-1.3m" size="4096" crc="5873a860"/>
@@ -10829,7 +10828,7 @@
 		<url>https://retroachievements.org/game/15659/hashes</url>
 		<hash>061555CC74FBCA251EDF86AA99CFEAB7</hash>
 	</game>
-	<game name="Retail/mpatrolw">
+	<game name="Retail/Moon Patrol/mpatrolw">
 		<description>Moon Patrol (Williams)</description>
 		<category>FBNeo</category>
 		<rom name="mpa-1w.3m" size="4096" crc="baa1a1d4"/>
@@ -10855,7 +10854,7 @@
 		<hash>666616FB389B9FDF6F1FAF7AF2C7DC39</hash>
 	</game>
 	
-	<game name="Retail/mk">
+	<game name="Retail/Mortal Kombat/mk">
 		<description>Mortal Kombat (rev 5.0 T-Unit 03/19/93)</description>
 		<category>FBNeo</category>
 		<rom name="l5 mortal kombat t-unit uj12 game rom.uj12" size="524288" crc="f4990bf2"/>
@@ -10880,7 +10879,7 @@
 		<url>https://retroachievements.org/game/14976/hashes</url>
 		<hash>07D935680B6501B2E42FE4BAEA021389</hash>
 	</game>
-	<game name="Retail/mkr4">
+	<game name="Retail/Mortal Kombat/mkr4">
 		<description>Mortal Kombat (rev 4.0 T-Unit 02/11/93)</description>
 		<category>FBNeo</category>
 		<rom name="l4 mortal kombat t-unit uj12 game rom.uj12" size="524288" crc="a1b6635a"/>
@@ -10941,7 +10940,7 @@
 		<hash>3A6ACD06F1F6E1D3D7C813CFBA4BB29F</hash>
 	</game>
 	
-	<game name="Retail/mk2r42">
+	<game name="Retail/Mortal Kombat II/mk2r42">
 		<description>Mortal Kombat II (rev L4.2,)</description>
 		<category>FBNeo</category>
 		<rom name="mk242j12.bin" size="524288" crc="c7fb1525"/>
@@ -10969,7 +10968,7 @@
 		<url>https://retroachievements.org/game/14978/hashes</url>
 		<hash>1A1E7711672DE486CE29704029108AA1</hash>
 	</game>
-	<game name="Retail/mk2r91">
+	<game name="Retail/Mortal Kombat II/mk2r91">
 		<description>Mortal Kombat II (rev L9.1,)</description>
 		<category>FBNeo</category>
 		<rom name="uj12.l91" size="524288" crc="41953903"/>
@@ -10997,7 +10996,7 @@
 		<url>https://retroachievements.org/game/14978/hashes</url>
 		<hash>4E047B985DB4B9AAA67D2E1FDEAA085F</hash>
 	</game>
-	<game name="Retail/mk2">
+	<game name="Retail/Mortal Kombat II/mk2">
 		<description>Mortal Kombat II (rev L3.1)</description>
 		<category>FBNeo</category>
 		<rom name="l3.1 mortal kombat ii game rom uj12.uj12" size="524288" crc="cf100a75"/>
@@ -11025,7 +11024,7 @@
 		<url>https://retroachievements.org/game/14978/hashes</url>
 		<hash>A683090976EC0F04DCA81F6DB9CA7484</hash>
 	</game>
-	<game name="Retail/mk2r31e">
+	<game name="Retail/Mortal Kombat II/mk2r31e">
 		<description>Mortal Kombat II (rev L3.1, European)</description>
 		<category>FBNeo</category>
 		<rom name="uj12.l31e" size="524288" crc="f64306d1"/>
@@ -11053,7 +11052,7 @@
 		<url>https://retroachievements.org/game/14978/hashes</url>
 		<hash>FBA1208E9F306CD61B8BF6E6A1C5A5A4</hash>
 	</game>
-	<game name="Retail/mk2r21">
+	<game name="Retail/Mortal Kombat II/mk2r21">
 		<description>Mortal Kombat II (rev L2.1)</description>
 		<category>FBNeo</category>
 		<rom name="l2.1 mortal kombat ii game rom uj12.uj12" size="524288" crc="d6a35699"/>
@@ -11472,7 +11471,7 @@
 		<hash>4736176283CD0C7428727BA545E7BE6B</hash>
 	</game>
 	
-	<game name="Retail/nibblerp">
+	<game name="Retail/Nibbler/nibblerp">
 		<description>Nibbler (rev 6, Pioneer Balloon conversion)</description>
 		<category>FBNeo</category>
 		<rom name="ic12" size="4096" crc="ac6a802b"/>
@@ -11496,7 +11495,7 @@
 		<url>https://retroachievements.org/game/15207/hashes</url>
 		<hash>3A52B4DF8E783220943A54CF31CCDE72</hash>
 	</game>
-	<game name="Retail/nibbler6">
+	<game name="Retail/Nibbler/nibbler6">
 		<description>Nibbler (rev 6)</description>
 		<category>FBNeo</category>
 		<rom name="ic12" size="4096" crc="ac6a802b"/>
@@ -11519,7 +11518,7 @@
 		<url>https://retroachievements.org/game/15207/hashes</url>
 		<hash>71B0DBE1D874E69211596B6C69E49D00</hash>
 	</game>
-	<game name="Retail/nibbler7">
+	<game name="Retail/Nibbler/nibbler7">
 		<description>Nibbler (rev 7)</description>
 		<category>FBNeo</category>
 		<rom name="ic12" size="4096" crc="8685d060"/>
@@ -11542,7 +11541,7 @@
 		<url>https://retroachievements.org/game/15207/hashes</url>
 		<hash>7998964CB9535EA6F1B179D05CE1C818</hash>
 	</game>
-	<game name="Retail/nibblero">
+	<game name="Retail/Nibbler/nibblero">
 		<description>Nibbler (rev 8, Olympia)</description>
 		<category>FBNeo</category>
 		<rom name="50-144g.012" size="4096" crc="1093f525"/>
@@ -11565,7 +11564,7 @@
 		<url>https://retroachievements.org/game/15207/hashes</url>
 		<hash>95D7BA2539C81661B2AC8C5844266B0C</hash>
 	</game>
-	<game name="Retail/nibbler">
+	<game name="Retail/Nibbler/nibbler">
 		<description>Nibbler (rev 9, set 1)</description>
 		<category>FBNeo</category>
 		<rom name="g-0960-52.ic12" size="4096" crc="6dfa1be5"/>
@@ -11588,7 +11587,7 @@
 		<url>https://retroachievements.org/game/15207/hashes</url>
 		<hash>B1F28005494C5C2A58AC92B5B78D4EEB</hash>
 	</game>
-	<game name="Retail/nibbler8">
+	<game name="Retail/Nibbler/nibbler8">
 		<description>Nibbler (rev 8)</description>
 		<category>FBNeo</category>
 		<rom name="50-144.012" size="4096" crc="68af8f4b"/>
@@ -11611,7 +11610,7 @@
 		<url>https://retroachievements.org/game/15207/hashes</url>
 		<hash>D5D9404E6E3DBA04BB3F8DB697D4AD46</hash>
 	</game>
-	<game name="Retail/nibblera">
+	<game name="Retail/Nibbler/nibblera">
 		<description>Nibbler (rev 9, set 2)</description>
 		<category>FBNeo</category>
 		<rom name="2732.ic12" size="4096" crc="e569937b"/>
@@ -11652,7 +11651,7 @@
 		<hash>6C17368701D21EFC2766F56A1C8C6EA6</hash>
 	</game>
 	
-	<game name="Retail/nslashers">
+	<game name="Retail/Night Slashers/nslashers">
 		<description>Night Slashers (Over Sea Rev 1.2, DE-0397-0 PCB)</description>
 		<category>FBNeo</category>
 		<rom name="ly-00.1f" size="524288" crc="fa0646f9"/>
@@ -11679,7 +11678,7 @@
 		<url>https://retroachievements.org/game/13250/hashes</url>
 		<hash>1901091290AFE5C3996DE681D75E7520</hash>
 	</game>
-	<game name="Retail/nslasher">
+	<game name="Retail/Night Slashers/nslasher">
 		<description>Night Slashers (Korea Rev 1.3, DE-0397-0 PCB)</description>
 		<category>FBNeo</category>
 		<rom name="mainprg.1f" size="524288" crc="507acbae"/>
@@ -11707,7 +11706,7 @@
 		<hash>26647C09AA06DD6DDDE2C27BA60F3231</hash>
 	</game>
 	
-	<game name="Retail/nightstru">
+	<game name="Retail/Night Striker/nightstru">
 		<description>Night Striker (US)</description>
 		<category>FBNeo</category>
 		<rom name="b91-45.bin" size="131072" crc="7ad63421"/>
@@ -11744,7 +11743,7 @@
 		<url>https://retroachievements.org/game/12326/hashes</url>
 		<hash>3CE05D807D5AD6D2F11C1C7AC3505B27</hash>
 	</game>
-	<game name="Retail/nightstrj">
+	<game name="Retail/Night Striker/nightstrj">
 		<description>Night Striker (Japan)</description>
 		<category>FBNeo</category>
 		<rom name="b91-45.bin" size="131072" crc="7ad63421"/>
@@ -11781,7 +11780,7 @@
 		<url>https://retroachievements.org/game/12326/hashes</url>
 		<hash>404449EBE68D65E05FE38A796B63DA76</hash>
 	</game>
-	<game name="Retail/nightstr">
+	<game name="Retail/Night Striker/nightstr">
 		<description>Night Striker (World)</description>
 		<category>FBNeo</category>
 		<rom name="b91-45.bin" size="131072" crc="7ad63421"/>
@@ -11871,7 +11870,7 @@
 		<hash>C49DB6FEBDA650EB59149C52852DF9E5</hash>
 	</game>
 	
-	<game name="Retail/nbbatman">
+	<game name="Retail/Ninja Baseball Bat Man/nbbatman">
 		<description>Ninja Baseball Bat Man (World)</description>
 		<category>FBNeo</category>
 		<rom name="a1 -h0-c.ic34" size="262144" crc="5c4a1e3f"/>
@@ -11899,7 +11898,7 @@
 		<url>https://retroachievements.org/game/12321/hashes</url>
 		<hash>4362770DD254BDD3086D6AB4FAF380A7</hash>
 	</game>
-	<game name="Retail/nbbatmanu">
+	<game name="Retail/Ninja Baseball Bat Man/nbbatmanu">
 		<description>Ninja Baseball Bat Man (US)</description>
 		<category>FBNeo</category>
 		<rom name="a1 -h0-a.ic34" size="262144" crc="24a9b794"/>
@@ -11927,7 +11926,7 @@
 		<url>https://retroachievements.org/game/12321/hashes</url>
 		<hash>96FDF9556DF482D95E1677DBC48E70EE</hash>
 	</game>
-	<game name="Retail/leaguemn">
+	<game name="Retail/Ninja Baseball Bat Man/leaguemn">
 		<description>Yakyuu Kakutou League-Man (Japan, set 1)</description>
 		<category>FBNeo</category>
 		<rom name="a1 -h0-.ic34" size="262144" crc="47c54204"/>
@@ -11956,7 +11955,7 @@
 		<hash>F46BF36A273222A49F330A9FBA363BF1</hash>
 	</game>
 	
-	<game name="Retail/ncombat">
+	<game name="Retail/Ninja Combat/ncombat">
 		<description>Ninja Combat (NGM-009)</description>
 		<category>FBNeo</category>
 		<rom name="009-p1.p1" size="524288" crc="b45fcfbf"/>
@@ -12015,7 +12014,7 @@
 		<url>https://retroachievements.org/game/13798/hashes</url>
 		<hash>039DC12553654C56E3C78F321AD6E620</hash>
 	</game>
-	<game name="Retail/ncombath">
+	<game name="Retail/Ninja Combat/ncombath">
 		<description>Ninja Combat (NGH-009)</description>
 		<category>FBNeo</category>
 		<rom name="009-pg1.p1" size="524288" crc="8e9f0add"/>
@@ -12075,7 +12074,7 @@
 		<hash>77401C41D6ADF4E2AE03F0DDBF3C7D44</hash>
 	</game>
 	
-	<game name="Retail/shadoww">
+	<game name="Retail/Ninja Gaiden/shadoww">
 		<description>Shadow Warriors (World, set 1)</description>
 		<category>FBNeo</category>
 		<rom name="shadowa 1.3s" size="131072" crc="8290d567"/>
@@ -12104,7 +12103,7 @@
 		<url>https://retroachievements.org/game/12611/hashes</url>
 		<hash>7C8993945292305924ED33105607ECC7</hash>
 	</game>
-	<game name="Retail/gaiden">
+	<game name="Retail/Ninja Gaiden/gaiden">
 		<description>Ninja Gaiden (US)</description>
 		<category>FBNeo</category>
 		<rom name="gaiden 1.3s" size="131072" crc="e037ff7c"/>
@@ -12133,7 +12132,7 @@
 		<url>https://retroachievements.org/game/12611/hashes</url>
 		<hash>D017020969FAC0EE115087816C18C788</hash>
 	</game>
-	<game name="Retail/ryukendn">
+	<game name="Retail/Ninja Gaiden/ryukendn">
 		<description>Ninja Ryukenden (Japan, set 1)</description>
 		<category>FBNeo</category>
 		<rom name="ryukendn 1.3s" size="131072" crc="6203a5e2"/>
@@ -12276,7 +12275,7 @@
 		<hash>2f18128b8d3adc968b0f993968175efd</hash>
 	</game>
 	
-	<game name="Retail/candance">
+	<game name="Retail/Osman/candance">
 		<description>Cannon Dancer (Japan)</description>
 		<category>FBNeo</category>
 		<rom name="sa00-0.1e" size="524288" crc="ec6b3257"/>
@@ -12293,7 +12292,7 @@
 		<url>https://retroachievements.org/game/11875/hashes</url>
 		<hash>76A12A6C4965F2B6B8869159D7A01471</hash>
 	</game>
-	<game name="Retail/osman">
+	<game name="Retail/Osman/osman">
 		<description>Osman (World)</description>
 		<category>FBNeo</category>
 		<rom name="sa00-0.1e" size="524288" crc="ec6b3257"/>
@@ -12351,7 +12350,7 @@
 		<hash>83A4BF4956274D8CABCCC84B446A4694</hash>
 	</game>
 	
-	<game name="Retail/pacnpal">
+	<game name="Retail/Pac &amp; Pal/pacnpal">
 		<description>Pac &amp; Pal</description>
 		<category>FBNeo</category>
 		<rom name="pap1-3b.1d" size="8192" crc="ed64a565"/>
@@ -12369,7 +12368,7 @@
 		<url>https://retroachievements.org/game/11920/hashes</url>
 		<hash>45E29A533F272F2EC99AD6EA3966C1DE</hash>
 	</game>
-	<game name="Retail/pacnchmp">
+	<game name="Retail/Pac &amp; Pal/pacnchmp">
 		<description>Pac-Man &amp; Chomp Chomp</description>
 		<category>FBNeo</category>
 		<rom name="pap3-3.1d" size="8192" crc="20a07d3d"/>
@@ -12516,7 +12515,7 @@
 		<hash>FAA3F79ED268D2A973E073D5D40A2559</hash>
 	</game>
 	
-	<game name="Retail/pang3">
+	<game name="Retail/Pang 3/pang3">
 		<description>Pang! 3 (Europe 950601)</description>
 		<category>FBNeo</category>
 		<rom name="pa3e 17a.11l" size="524288" crc="a213fa80"/>
@@ -12541,7 +12540,7 @@
 		<url>https://retroachievements.org/game/12222/hashes</url>
 		<hash>3A610E07DC157ECF7A784AA10DC27524</hash>
 	</game>
-	<game name="Retail/pang3j">
+	<game name="Retail/Pang 3/pang3j">
 		<description>Pang! 3: Kaitou Tachi no Karei na Gogo (Japan 950511)</description>
 		<category>FBNeo</category>
 		<rom name="pa3j 17.11l" size="524288" crc="21f6e51f"/>
@@ -12566,7 +12565,7 @@
 		<url>https://retroachievements.org/game/12222/hashes</url>
 		<hash>c7fb9120ed5966360b1d46c9003ac502</hash>
 	</game>
-	<game name="Retail/pang3r1">
+	<game name="Retail/Pang 3/pang3r1">
 		<description>Pang! 3 (Europe 950511)</description>
 		<category>FBNeo</category>
 		<rom name="pa3e 17.11l" size="524288" crc="d7041d32"/>
@@ -12591,7 +12590,7 @@
 		<url>https://retroachievements.org/game/12222/hashes</url>
 		<hash>93da565107774b5f36e919876cef9f45</hash>
 	</game>
-	<game name="Retail/pang3r1a">
+	<game name="Retail/Pang 3/pang3r1a">
 		<description>Pang! 3 (Europe 950511, alt)</description>
 		<category>FBNeo</category>
 		<rom name="d.t.11l" size="524288" crc="d7041d32"/>
@@ -12663,7 +12662,7 @@
 		<hash>B3D97746DBB45E92DC083DB205E1FD14</hash>
 	</game>
 	
-	<game name="Retail/plotting">
+	<game name="Retail/Plotting/plotting">
 		<description>Plotting (World set 1)</description>
 		<category>FBNeo</category>
 		<rom name="ic10" size="65536" crc="be240921"/>
@@ -12675,7 +12674,7 @@
 		<url>https://retroachievements.org/game/12339/hashes</url>
 		<hash>1E35C0E87B1F2AA1346B44C7CF010C31</hash>
 	</game>
-	<game name="Retail/plottingb">
+	<game name="Retail/Plotting/plottingb">
 		<description>Plotting (World set 3, earliest version)</description>
 		<category>FBNeo</category>
 		<rom name="b96-06.ic10" size="65536" crc="f89a54b1"/>
@@ -12687,7 +12686,7 @@
 		<url>https://retroachievements.org/game/12339/hashes</url>
 		<hash>2691F02A239E9BF876C1B3BEAAD7D074</hash>
 	</game>
-	<game name="Retail/plottingu">
+	<game name="Retail/Plotting/plottingu">
 		<description>Plotting (US)</description>
 		<category>FBNeo</category>
 		<rom name="b96-05.ic10" size="65536" crc="afb99d1f"/>
@@ -12699,7 +12698,7 @@
 		<url>https://retroachievements.org/game/12339/hashes</url>
 		<hash>4EF13B0BC2CF0AE1BD23EE3B73389CAE</hash>
 	</game>
-	<game name="Retail/plottinga">
+	<game name="Retail/Plotting/plottinga">
 		<description>Plotting (World set 2, protected)</description>
 		<category>FBNeo</category>
 		<rom name="plot01.ic10" size="65536" crc="5b30bc25"/>
@@ -12711,7 +12710,7 @@
 		<url>https://retroachievements.org/game/12339/hashes</url>
 		<hash>BD052FB4B2E0904FF81540F9F681D9C6</hash>
 	</game>
-	<game name="Retail/flipull">
+	<game name="Retail/Plotting/flipull">
 		<description>Flipull (Japan)</description>
 		<category>FBNeo</category>
 		<rom name="b96-01.ic10" size="65536" crc="65993978"/>
@@ -12850,7 +12849,7 @@
 		<hash>B693A2560B6F671F495B11C357853A16</hash>
 	</game>
 	
-	<game name="Retail/gensitou">
+	<game name="Retail/Prehistoric Isle in 1930/gensitou">
 		<description>Genshitou 1930's</description>
 		<category>FBNeo</category>
 		<rom name="gt-j2.2h" size="131072" crc="a2da0b6b"/>
@@ -12868,7 +12867,7 @@
 		<url>https://retroachievements.org/game/12342/hashes</url>
 		<hash>6CF2650032FBE6A5DAE3DF1825F33540</hash>
 	</game>
-	<game name="Retail/prehisle">
+	<game name="Retail/Prehistoric Isle in 1930/prehisle">
 		<description>Prehistoric Isle in 1930 (World, set 1)</description>
 		<category>FBNeo</category>
 		<rom name="gt-e2.2h" size="131072" crc="7083245a"/>
@@ -12887,7 +12886,7 @@
 		<hash>9EA695F8A32DDD4D0366990A99812BFF</hash>
 	</game>
 	
-	<game name="Retail/sailormn">
+	<game name="Retail/Pretty Soldier Sailor Moon/sailormn">
 		<description>Pretty Soldier Sailor Moon (Version 95/03/22B, Europe)</description>
 		<category>FBNeo</category>
 		<rom name="bpsm945a.u45" size="524288" crc="898c9515"/>
@@ -12913,7 +12912,7 @@
 		<url>https://retroachievements.org/game/4845/hashes</url>
 		<hash>1FF635B6DD49C1B03BB02C35C3823CF6</hash>
 	</game>
-	<game name="Retail/sailormnj">
+	<game name="Retail/Pretty Soldier Sailor Moon/sailormnj">
 		<description>Bishoujo Senshi Sailor Moon (Version 95/03/22B, Japan)</description>
 		<category>FBNeo</category>
 		<rom name="bpsm945a.u45" size="524288" crc="898c9515"/>
@@ -12939,7 +12938,7 @@
 		<url>https://retroachievements.org/game/4845/hashes</url>
 		<hash>6FEA1B51387E327E43E06222B2755B4E</hash>
 	</game>
-	<game name="Retail/sailormnu">
+	<game name="Retail/Pretty Soldier Sailor Moon/sailormnu">
 		<description>Pretty Soldier Sailor Moon (Version 95/03/22B, USA)</description>
 		<category>FBNeo</category>
 		<rom name="bpsm945a.u45" size="524288" crc="898c9515"/>
@@ -12966,7 +12965,7 @@
 		<hash>D68FED6D32C4252699E598D07C816371</hash>
 	</game>
 	
-	<game name="Retail/progearj">
+	<game name="Retail/Progear/progearj">
 		<description>Progear No Arashi (010117 Japan)</description>
 		<category>FBNeo</category>
 		<rom name="pgaj.03" size="524288" crc="06dbba54"/>
@@ -12990,7 +12989,7 @@
 		<url>https://retroachievements.org/game/11830/hashes</url>
 		<hash>4884009C430DDAE8038D9B52208F997B</hash>
 	</game>
-	<game name="Retail/progear">
+	<game name="Retail/Progear/progear">
 		<description>Progear (010117 USA)</description>
 		<category>FBNeo</category>
 		<rom name="pgau.03" size="524288" crc="343a783e"/>
@@ -13015,7 +13014,7 @@
 		<hash>69F495B39A48003D5E4D359AAC9F7669</hash>
 	</game>
 	
-	<game name="Retail/psychos">
+	<game name="Retail/Psycho Soldier/psychos">
 		<description>Psycho Soldier (US)</description>
 		<category>FBNeo</category>
 		<rom name="ps7.4m" size="65536" crc="562809f4"/>
@@ -13052,7 +13051,7 @@
 		<url>https://retroachievements.org/game/15071/hashes</url>
 		<hash>467DC3767AF125F37B839E2426E1EE52</hash>
 	</game>
-	<game name="Retail/psychosj">
+	<game name="Retail/Psycho Soldier/psychosj">
 		<description>Psycho Soldier (Japan)</description>
 		<category>FBNeo</category>
 		<rom name="ps7.4m" size="65536" crc="05dfb409"/>
@@ -13170,7 +13169,7 @@
 		<hash>BB8BE21788196F32B3771E2BC0561E60</hash>
 	</game>
 	
-	<game name="Retail/punchoutj">
+	<game name="Retail/Punch-Out/punchoutj">
 		<description>Punch-Out!! (Japan)</description>
 		<category>FBNeo</category>
 		<rom name="chp1-c 8l a.8l" size="8192" crc="9735eb5a"/>
@@ -13217,7 +13216,7 @@
 		<url>https://retroachievements.org/game/11949/hashes</url>
 		<hash>43C56BB8DFE01A55A5FEA5DD4BF06D6F</hash>
 	</game>
-	<game name="Retail/punchouta">
+	<game name="Retail/Punch-Out/punchouta">
 		<description>Punch-Out!! (Rev A)</description>
 		<category>FBNeo</category>
 		<rom name="chp1-c.8l" size="8192" crc="a4003adc"/>
@@ -13264,7 +13263,7 @@
 		<url>https://retroachievements.org/game/11949/hashes</url>
 		<hash>BA86B176B5BF031C77861126DAB4EFF7</hash>
 	</game>
-	<game name="Retail/punchout">
+	<game name="Retail/Punch-Out/punchout">
 		<description>Punch-Out!! (Rev B)</description>
 		<category>FBNeo</category>
 		<rom name="chp1-c.8l" size="8192" crc="a4003adc"/>
@@ -13487,7 +13486,7 @@
 		<hash>E0D17D88AD08E13D3A2CD4EF38F7C4D5</hash>
 	</game>
 	
-	<game name="Retail/pbobble3">
+	<game name="Retail/Puzzle Bobble 3/pbobble3">
 		<description>Puzzle Bobble 3 (Ver 2.1O 1996/09/27)</description>
 		<category>FBNeo</category>
 		<rom name="e29-12.rom" size="524288" crc="9eb19a00"/>
@@ -13509,7 +13508,7 @@
 		<url>https://retroachievements.org/game/12249/hashes</url>
 		<hash>D4E733D8B3CFF7A9F023AB86EBF66230</hash>
 	</game>
-	<game name="Retail/pbobble3j">
+	<game name="Retail/Puzzle Bobble 3/pbobble3j">
 		<description>Puzzle Bobble 3 (Ver 2.1J 1996/09/27)</description>
 		<category>FBNeo</category>
 		<rom name="e29-12.ic20" size="524288" crc="9eb19a00"/>
@@ -13536,7 +13535,7 @@
 		<url>https://retroachievements.org/game/12249/hashes</url>
 		<hash>E685EDADAC15CCC7E21E055F2FD224F2</hash>
 	</game>
-	<game name="Retail/pbobble3u">
+	<game name="Retail/Puzzle Bobble 3/pbobble3u">
 		<description>Puzzle Bobble 3 (Ver 2.1A 1996/09/27)</description>
 		<category>FBNeo</category>
 		<rom name="e29-12.rom" size="524288" crc="9eb19a00"/>
@@ -13718,7 +13717,7 @@
 		<hash>A31C2A45F67B47F728F513EE8036A5B6</hash>
 	</game>
 	
-	<game name="Retail/qix">
+	<game name="Retail/Qix/qix">
 		<description>Qix (Rev 2)</description>
 		<category>FBNeo</category>
 		<rom name="qq12 rev2.u12" size="2048" crc="aad35508"/>
@@ -13742,7 +13741,7 @@
 		<url>https://retroachievements.org/game/15158/hashes</url>
 		<hash>1A8DBA0E84B07D9100B47B280923F8B1</hash>
 	</game>
-	<game name="Retail/qixb">
+	<game name="Retail/Qix/qixb">
 		<description>Qix (set 2, larger roms)</description>
 		<category>FBNeo</category>
 		<rom name="lk14.bin" size="4096" crc="6d164986"/>
@@ -13759,7 +13758,7 @@
 		<url>https://retroachievements.org/game/15158/hashes</url>
 		<hash>96EEB76B416B340364BCB0FC09AB1CC9</hash>
 	</game>
-	<game name="Retail/qixa">
+	<game name="Retail/Qix/qixa">
 		<description>Qix (set 2, smaller roms)</description>
 		<category>FBNeo</category>
 		<rom name="u12 " size="2048" crc="5adc046d"/>
@@ -13784,7 +13783,7 @@
 		<url>https://retroachievements.org/game/15158/hashes</url>
 		<hash>BBA186DC796C89C4D3C806B8A9905200</hash>
 	</game>
-	<game name="Retail/qixo">
+	<game name="Retail/Qix/qixo">
 		<description>Qix (set 3, earlier)</description>
 		<category>FBNeo</category>
 		<rom name="qu12" size="2048" crc="1c55b44d"/>
@@ -13964,7 +13963,7 @@
 		<hash>E58CBD633C30D51321DEB5153359ADA5</hash>
 	</game>
 	
-	<game name="Retail/rambo3">
+	<game name="Retail/Rambo III/rambo3">
 		<description>Rambo III (Europe)</description>
 		<category>FBNeo</category>
 		<rom name="ramb3-11.bin" size="131072" crc="1cc42247"/>
@@ -13982,7 +13981,7 @@
 		<url>https://retroachievements.org/game/12359/hashes</url>
 		<hash>35698B1D754DC1D7F5CFEC9EC790EE72</hash>
 	</game>
-	<game name="Retail/rambo3u">
+	<game name="Retail/Rambo III/rambo3u">
 		<description>Rambo III (US)</description>
 		<category>FBNeo</category>
 		<rom name="ramb3-11.bin" size="131072" crc="1cc42247"/>
@@ -14001,7 +14000,7 @@
 		<hash>EA90A0EFD09C640E72AA2B6F2E13EBFE</hash>
 	</game>
 	
-	<game name="Retail/rayforcej">
+	<game name="Retail/RayForce/rayforcej">
 		<description>Ray Force (Ver 2.3J 1994/01/20)</description>
 		<category>FBNeo</category>
 		<rom name="d66-18.ic24" size="262144" crc="8418513e"/>
@@ -14023,7 +14022,7 @@
 		<url>https://retroachievements.org/game/13588/hashes</url>
 		<hash>1eafd4d8a6fa3544819b4fdb9c7768d2</hash>
 	</game>
-	<game name="Retail/gunlock">
+	<game name="Retail/RayForce/gunlock">
 		<description>Gunlock (Ver 2.3O 1994/01/20)</description>
 		<category>FBNeo</category>
 		<rom name="d66-18.ic24" size="262144" crc="8418513e"/>
@@ -14045,7 +14044,7 @@
 		<url>https://retroachievements.org/game/13588/hashes</url>
 		<hash>bac7d1ac90de58d5afc9d76026f16eaf</hash>
 	</game>
-	<game name="Retail/rayforce">
+	<game name="Retail/RayForce/rayforce">
 		<description>Ray Force (Ver 2.3A 1994/01/20)</description>
 		<category>FBNeo</category>
 		<rom name="d66-18.ic24" size="262144" crc="8418513e"/>
@@ -14068,7 +14067,7 @@
 		<hash>eda1ae4204bdc9068ae02162015e84d7</hash>
 	</game>
 	
-	<game name="Retail/rbff1">
+	<game name="Retail/Real Bout Fatal Fury/rbff1">
 		<description>Real Bout Fatal Fury / Real Bout Garou Densetsu (NGM-095 ~ NGH-095)</description>
 		<category>FBNeo</category>
 		<rom name="095-p1.p1" size="1048576" crc="63b4d8ae"/>
@@ -14129,7 +14128,7 @@
 		<url>https://retroachievements.org/game/12724/hashes</url>
 		<hash>C536AB83917A1C7D626ED5BE7CD312B7</hash>
 	</game>
-	<game name="Retail/rbff1a">
+	<game name="Retail/Real Bout Fatal Fury/rbff1a">
 		<description>Real Bout Fatal Fury / Real Bout Garou Densetsu (bug fix revision)</description>
 		<category>FBNeo</category>
 		<rom name="095-p1.p1" size="1048576" crc="63b4d8ae"/>
@@ -14192,7 +14191,7 @@
 		<hash>CF35C51033F912220440DEB5D4C88DD1</hash>
 	</game>
 	
-	<game name="Retail/rbff2">
+	<game name="Retail/Real Bout Fatal Fury 2/rbff2">
 		<description>Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - The Newcomers (NGM-2400)</description>
 		<category>FBNeo</category>
 		<rom name="240-p1.p1" size="1048576" crc="80e41205"/>
@@ -14252,7 +14251,7 @@
 		<url>https://retroachievements.org/game/12710/hashes</url>
 		<hash>13E11E70AD7ADEBE942BC00FD3C6E892</hash>
 	</game>
-	<game name="Retail/rbff2h">
+	<game name="Retail/Real Bout Fatal Fury 2/rbff2h">
 		<description>Real Bout Fatal Fury 2 - The Newcomers / Real Bout Garou Densetsu 2 - The Newcomers (NGH-2400)</description>
 		<category>FBNeo</category>
 		<rom name="240-pg1.p1" size="1048576" crc="b6969780"/>
@@ -14312,7 +14311,7 @@
 		<url>https://retroachievements.org/game/12710/hashes</url>
 		<hash>8C26072BF9819A2FFD819FEF949D2836</hash>
 	</game>
-	<game name="Retail/rbff2k">
+	<game name="Retail/Real Bout Fatal Fury 2/rbff2k">
 		<description>Real Bout Fatal Fury 2 - The Newcomers (Korean release)</description>
 		<category>FBNeo</category>
 		<rom name="140-p1k.p1" size="1048576" crc="965edee1"/>
@@ -14373,7 +14372,7 @@
 		<hash>B993B1700F70D4712647B17E282A44E4</hash>
 	</game>
 	
-	<game name="Retail/rbffspeck">
+	<game name="Retail/Real Bout Fatal Fury Special/rbffspeck">
 		<description>Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special (Korean release)</description>
 		<category>FBNeo</category>
 		<rom name="223-p1k.p1" size="1048576" crc="b78c8391"/>
@@ -14434,7 +14433,7 @@
 		<url>https://retroachievements.org/game/12662/hashes</url>
 		<hash>401FA29E9F7CB9FFB490F9984BA7086B</hash>
 	</game>
-	<game name="Retail/rbffspec">
+	<game name="Retail/Real Bout Fatal Fury Special/rbffspec">
 		<description>Real Bout Fatal Fury Special / Real Bout Garou Densetsu Special</description>
 		<category>FBNeo</category>
 		<rom name="223-p1.p1" size="1048576" crc="f84a2d1d"/>
@@ -14706,7 +14705,7 @@
 		<hash>1A5235C012C18789E81960333A76CD7A</hash>
 	</game>
 	
-	<game name="Retail/roboarmy">
+	<game name="Retail/Robo Army/roboarmy">
 		<description>Robo Army</description>
 		<category>FBNeo</category>
 		<rom name="032-p1.p1" size="524288" crc="cd11cbd4"/>
@@ -14761,7 +14760,7 @@
 		<url>https://retroachievements.org/game/13808/hashes</url>
 		<hash>13B4D77D6491B9BFB59D7841986D5EA4</hash>
 	</game>
-	<game name="Retail/roboarmya">
+	<game name="Retail/Robo Army/roboarmya">
 		<description>Robo Army (NGM-032 ~ NGH-032)</description>
 		<category>FBNeo</category>
 		<rom name="032-epr.p1" size="524288" crc="27c773cb"/>
@@ -14890,7 +14889,7 @@
 		<hash>8576400c31fe99f3be5b7ac2e02a828d</hash>
 	</game>
 	
-	<game name="Retail/rushatck">
+	<game name="Retail/Rush'n Attack/rushatck">
 		<description>Rush'n Attack (US)</description>
 		<category>FBNeo</category>
 		<rom name="577h03.10c" size="16384" crc="4d276b52"/>
@@ -14909,7 +14908,7 @@
 		<url>https://retroachievements.org/game/12431/hashes</url>
 		<hash>3062538FC1A23D3CF8B1390C18A828BF</hash>
 	</game>
-	<game name="Retail/gberet">
+	<game name="Retail/Rush'n Attack/gberet">
 		<description>Green Beret</description>
 		<category>FBNeo</category>
 		<rom name="577l03.10c" size="16384" crc="ae29e4ff"/>
@@ -14956,7 +14955,7 @@
 		<hash>02F6B54BE05C7927E0794B73A942F909</hash>
 	</game>
 	
-	<game name="Retail/samsho">
+	<game name="Retail/Samurai Shodown/samsho">
 		<description>Samurai Shodown / Samurai Spirits (NGM-045)</description>
 		<category>FBNeo</category>
 		<rom name="045-p1.p1" size="1048576" crc="dfe51bf0"/>
@@ -15014,7 +15013,7 @@
 		<url>https://retroachievements.org/game/13802/hashes</url>
 		<hash>71584CE454046D8B5C63CE863E8B6A42</hash>
 	</game>
-	<game name="Retail/samshoh">
+	<game name="Retail/Samurai Shodown/samshoh">
 		<description>Samurai Shodown / Samurai Spirits (NGH-045)</description>
 		<category>FBNeo</category>
 		<rom name="045-p1.p1" size="1048576" crc="dfe51bf0"/>
@@ -15073,7 +15072,7 @@
 		<hash>F39AB67BB4DE0CA120E7ECD5117B2396</hash>
 	</game>
 	
-	<game name="Retail/samsho2k">
+	<game name="Retail/Samurai Shodown II/samsho2k">
 		<description>Saulabi Spirits / Jin Saulabi Tu Hon (Korean release of Samurai Shodown II, set 1)</description>
 		<category>FBNeo</category>
 		<rom name="063-p1-kan.p1" size="2097152" crc="147cc6d7"/>
@@ -15136,7 +15135,7 @@
 		<url>https://retroachievements.org/game/12708/hashes</url>
 		<hash>D32B94AD2780E0DE66615BB2EFFAE910</hash>
 	</game>
-	<game name="Retail/samsho2ka">
+	<game name="Retail/Samurai Shodown II/samsho2ka">
 		<description>Saulabi Spirits / Jin Saulabi Tu Hon (Korean release of Samurai Shodown II, set 2)</description>
 		<category>FBNeo</category>
 		<rom name="063-p1-kan.p1" size="2097152" crc="147cc6d7"/>
@@ -15197,7 +15196,7 @@
 		<url>https://retroachievements.org/game/12708/hashes</url>
 		<hash>D946E070EA1A49AE246C8ABC169E6A9C</hash>
 	</game>
-	<game name="Retail/samsho2">
+	<game name="Retail/Samurai Shodown II/samsho2">
 		<description>Samurai Shodown II / Shin Samurai Spirits - Haohmaru Jigokuhen (NGM-063 ~ NGH-063)</description>
 		<category>FBNeo</category>
 		<rom name="063-p1.p1" size="2097152" crc="22368892"/>
@@ -15259,7 +15258,7 @@
 		<hash>F1170BCBE7BC8FFFDB76DC390052AED1</hash>
 	</game>
 	
-	<game name="Retail/samsho3">
+	<game name="Retail/Samurai Shodown III/samsho3">
 		<description>Samurai Shodown III / Samurai Spirits - Zankurou Musouken (NGM-087)</description>
 		<category>FBNeo</category>
 		<rom name="087-epr.ep1" size="524288" crc="23e09bb8"/>
@@ -15322,7 +15321,7 @@
 		<url>https://retroachievements.org/game/13775/hashes</url>
 		<hash>42557655BD7484156C2D1287392374B0</hash>
 	</game>
-	<game name="Retail/fswords">
+	<game name="Retail/Samurai Shodown III/fswords">
 		<description>Fighters Swords (Korean release of Samurai Shodown III)</description>
 		<category>FBNeo</category>
 		<rom name="187-p1k.p1" size="1048576" crc="c8e7c075"/>
@@ -15382,7 +15381,7 @@
 		<url>https://retroachievements.org/game/13775/hashes</url>
 		<hash>6B854F2A57CDBABC9E43E7D201841DC3</hash>
 	</game>
-	<game name="Retail/samsho3h">
+	<game name="Retail/Samurai Shodown III/samsho3h">
 		<description>Samurai Shodown III / Samurai Spirits - Zankurou Musouken (NGH-087)</description>
 		<category>FBNeo</category>
 		<rom name="087-pg1.p1" size="1048576" crc="282a336e"/>
@@ -15443,7 +15442,7 @@
 		<hash>EDA3599AF1B0E1BA961FE63F90D73A02</hash>
 	</game>
 	
-	<game name="Retail/samsho4k">
+	<game name="Retail/Samurai Shodown IV/samsho4k">
 		<description>Paewang Jeonseol / Legend of a Warrior (Korean censored Samurai Shodown IV)</description>
 		<category>FBNeo</category>
 		<rom name="222-p1k.p1" size="1048576" crc="06e0a25d"/>
@@ -15504,7 +15503,7 @@
 		<url>https://retroachievements.org/game/12793/hashes</url>
 		<hash>7D5A57459445A7A53FD8BED210D386FC</hash>
 	</game>
-	<game name="Retail/samsho4">
+	<game name="Retail/Samurai Shodown IV/samsho4">
 		<description>Samurai Shodown IV - Amakusa's Revenge / Samurai Spirits - Amakusa Kourin (NGM-222 ~ NGH-222)</description>
 		<category>FBNeo</category>
 		<rom name="222-p1.p1" size="1048576" crc="1a5cb56d"/>
@@ -15566,7 +15565,7 @@
 		<hash>F1B0E1DD18EB6DF18DDBE5DB53E1D8B2</hash>
 	</game>
 	
-	<game name="Retail/sonicfgt">
+	<game name="Retail/SegaSonic Cosmo Fighter Galaxy Patrol/sonicfgt">
 		<description>SegaSonic Cosmo Fighter (World)</description>
 		<category>FBNeo</category>
 		<rom name="epr-17178.ic32" size="262144" crc="e05b7388"/>
@@ -15579,7 +15578,7 @@
 		<url>https://retroachievements.org/game/12491/hashes</url>
 		<hash>7249254F32CB5F6E69322E3DFEB53213</hash>
 	</game>
-	<game name="Retail/sonicfgtj">
+	<game name="Retail/SegaSonic Cosmo Fighter Galaxy Patrol/sonicfgtj">
 		<description>SegaSonic Cosmo Fighter (Japan)</description>
 		<category>FBNeo</category>
 		<rom name="epr-16001.ic32" size="262144" crc="8ed1dc11"/>
@@ -15852,7 +15851,7 @@
 		<hash>14E7C5AEF8B731FC89DF34E1BF5FB355</hash>
 	</game>
 	
-	<game name="Retail/secretag">
+	<game name="Retail/Sly Spy/secretag">
 		<description>Secret Agent (World, revision 3)</description>
 		<category>FBNeo</category>
 		<rom name="fb14-3.17l" size="65536" crc="9be6ac90"/>
@@ -15881,7 +15880,7 @@
 		<url>https://retroachievements.org/game/12383/hashes</url>
 		<hash>21839727BE4D0CC99CFDBE2C0DA4BFBB</hash>
 	</game>
-	<game name="Retail/slyspy">
+	<game name="Retail/Sly Spy/slyspy">
 		<description>Sly Spy (US, revision 4)</description>
 		<category>FBNeo</category>
 		<rom name="fa14-4.17l" size="65536" crc="60f16e31"/>
@@ -15925,7 +15924,7 @@
 		<hash>9D630DB6FCF053CD0B15E4CA69068579</hash>
 	</game>
 	
-	<game name="Retail/svcpcba">
+	<game name="Retail/SNK vs. Capcom - SVC Chaos/svcpcba">
 		<description>SNK vs. Capcom - SVC Chaos (JAMMA PCB, set 2)</description>
 		<category>FBNeo</category>
 		<rom name="269-p1a.p1" size="4194304" crc="38e2005e"/>
@@ -15944,7 +15943,7 @@
 		<url>https://retroachievements.org/game/11769/hashes</url>
 		<hash>3AEC393B257A3E4D30DBC0D5C22FB2CF</hash>
 	</game>
-	<game name="Retail/svcpcb">
+	<game name="Retail/SNK vs. Capcom - SVC Chaos/svcpcb">
 		<description>SNK vs. Capcom - SVC Chaos (JAMMA PCB, set 1)</description>
 		<category>FBNeo</category>
 		<rom name="269-p1.p1" size="33554432" crc="432cfdfc"/>
@@ -15961,7 +15960,7 @@
 		<url>https://retroachievements.org/game/11769/hashes</url>
 		<hash>4095F20AAD3A6F24BAA34E5A443D71D5</hash>
 	</game>
-	<game name="Retail/svc">
+	<game name="Retail/SNK vs. Capcom - SVC Chaos/svc">
 		<description>SNK vs. Capcom - SVC Chaos (NGM-2690 ~ NGH-2690)</description>
 		<category>FBNeo</category>
 		<rom name="269-p1.p1" size="4194304" crc="38e2005e"/>
@@ -16020,7 +16019,7 @@
 		<url>https://retroachievements.org/game/11769/hashes</url>
 		<hash>961E38B5146C0B07D078F53DEC9B699A</hash>
 	</game>
-	<game name="Retail/svcsplus">
+	<game name="Retail/SNK vs. Capcom - SVC Chaos/svcsplus">
 		<description>SNK vs. Capcom - SVC Chaos Super Plus (bootleg)</description>
 		<category>FBNeo</category>
 		<rom name="svc-p1sp.bin" size="4194304" crc="2601902f"/>
@@ -16083,7 +16082,7 @@
 		<hash>BA2484BF7A03538D3E610ACA5C7B5359</hash>
 	</game>
 	
-	<game name="Retail/snowbroswb">
+	<game name="Retail/Snow Bros - Nick &amp; Tom/snowbroswb">
 		<description>Snow Bros. - Nick &amp; Tom (The Winter Bobble hardware bootleg)</description>
 		<category>FBNeo</category>
 		<rom name="toa3.bin" size="65536" crc="55d302da"/>
@@ -16104,7 +16103,7 @@
 		<url>https://retroachievements.org/game/12236/hashes</url>
 		<hash>03DBB0B68EA5361ACF9CCDC726C22D2B</hash>
 	</game>
-	<game name="Retail/snowbrosb">
+	<game name="Retail/Snow Bros - Nick &amp; Tom/snowbrosb">
 		<description>Snow Bros. - Nick &amp; Tom (set 3)</description>
 		<category>FBNeo</category>
 		<rom name="sbros3-a" size="131072" crc="301627d6"/>
@@ -16116,7 +16115,7 @@
 		<url>https://retroachievements.org/game/12236/hashes</url>
 		<hash>1A926AC8CEB89D0F010C79D46B7663C7</hash>
 	</game>
-	<game name="Retail/snowbros">
+	<game name="Retail/Snow Bros - Nick &amp; Tom/snowbros">
 		<description>Snow Bros. - Nick &amp; Tom (set 1)</description>
 		<category>FBNeo</category>
 		<rom name="sn6.bin" size="131072" crc="4899ddcf"/>
@@ -16128,7 +16127,7 @@
 		<url>https://retroachievements.org/game/12236/hashes</url>
 		<hash>209CE030A7F237FB382D0E0F33B1A7BD</hash>
 	</game>
-	<game name="Retail/snowbrosc">
+	<game name="Retail/Snow Bros - Nick &amp; Tom/snowbrosc">
 		<description>Snow Bros. - Nick &amp; Tom (set 4)</description>
 		<category>FBNeo</category>
 		<rom name="3-a.ic5" size="131072" crc="e1bc346b"/>
@@ -16140,7 +16139,7 @@
 		<url>https://retroachievements.org/game/12236/hashes</url>
 		<hash>22C1EE3719ECBBF500912405D3871F46</hash>
 	</game>
-	<game name="Retail/wintbob">
+	<game name="Retail/Snow Bros - Nick &amp; Tom/wintbob">
 		<description>The Winter Bobble (bootleg of Snow Bros.)</description>
 		<category>FBNeo</category>
 		<rom name="wb3" size="65536" crc="b9719767"/>
@@ -16161,7 +16160,7 @@
 		<url>https://retroachievements.org/game/12236/hashes</url>
 		<hash>457D5DDD057A47D54FE8DCBFCDB1C667</hash>
 	</game>
-	<game name="Retail/snowbrosd">
+	<game name="Retail/Snow Bros - Nick &amp; Tom/snowbrosd">
 		<description>Snow Bros. - Nick &amp; Tom (Dooyong license)</description>
 		<category>FBNeo</category>
 		<rom name="sbk 3-a.bin" size="131072" crc="97174d40"/>
@@ -16173,7 +16172,7 @@
 		<url>https://retroachievements.org/game/12236/hashes</url>
 		<hash>65718B284FA6608B9D794F2435943DD6</hash>
 	</game>
-	<game name="Retail/snowbrosa">
+	<game name="Retail/Snow Bros - Nick &amp; Tom/snowbrosa">
 		<description>Snow Bros. - Nick &amp; Tom (set 2)</description>
 		<category>FBNeo</category>
 		<rom name="sbros-3a.5" size="131072" crc="10cb37e1"/>
@@ -16185,7 +16184,7 @@
 		<url>https://retroachievements.org/game/12236/hashes</url>
 		<hash>6BA512D34D9DC048BF957EBCBCAC5071</hash>
 	</game>
-	<game name="Retail/snowbrosj">
+	<game name="Retail/Snow Bros - Nick &amp; Tom/snowbrosj">
 		<description>Snow Bros. - Nick &amp; Tom (Japan)</description>
 		<category>FBNeo</category>
 		<rom name="snowbros.3" size="131072" crc="3f504f9e"/>
@@ -16198,7 +16197,7 @@
 		<hash>8145F0BFABE65541DACE0C42C2BFA3E6</hash>
 	</game>
 	
-	<game name="Retail/socbrawlh">
+	<game name="Retail/Soccer Brawl/socbrawlh">
 		<description>Soccer Brawl (NGH-031)</description>
 		<category>FBNeo</category>
 		<rom name="031-p1.p1" size="524288" crc="a2801c24"/>
@@ -16253,7 +16252,7 @@
 		<url>https://retroachievements.org/game/13811/hashes</url>
 		<hash>39A754C03464C2D58A8DD815CAD61962</hash>
 	</game>
-	<game name="Retail/socbrawl">
+	<game name="Retail/Soccer Brawl/socbrawl">
 		<description>Soccer Brawl (NGM-031)</description>
 		<category>FBNeo</category>
 		<rom name="031-pg1.p1" size="524288" crc="17f034a7"/>
@@ -16441,7 +16440,7 @@
 		<hash>6FDD6BFDCECB35ABBE9FFBDC5FB294A1</hash>
 	</game>
 	
-	<game name="Retail/spatter">
+	<game name="Retail/Spatter/spatter">
 		<description>Spatter (315-5096)</description>
 		<category>FBNeo</category>
 		<rom name="epr-6392.116" size="16384" crc="329b4506"/>
@@ -16464,7 +16463,7 @@
 		<url>https://retroachievements.org/game/11852/hashes</url>
 		<hash>7763BC4660A7F95C8E6C1E7C6C284E19</hash>
 	</game>
-	<game name="Retail/ssanchan">
+	<game name="Retail/Spatter/ssanchan">
 		<description>Sanrin San Chan (Japan, 315-5096)</description>
 		<category>FBNeo</category>
 		<rom name="epr-6310.116" size="16384" crc="26b43701"/>
@@ -16488,7 +16487,7 @@
 		<hash>8DB617D90CF9663D869C9D60DED3B8E3</hash>
 	</game>
 	
-	<game name="Retail/spidmanu">
+	<game name="Retail/Spider-Man - The Videogame/spidmanu">
 		<description>Spider-Man: The Videogame (US, Rev A)</description>
 		<category>FBNeo</category>
 		<rom name="epr-14303a.ic13" size="131072" crc="7f1bd28f"/>
@@ -16516,7 +16515,7 @@
 		<url>https://retroachievements.org/game/17678/hashes</url>
 		<hash>00985A70A83AE188AAE0632834B4A792</hash>
 	</game>
-	<game name="Retail/spidmanj">
+	<game name="Retail/Spider-Man - The Videogame/spidmanj">
 		<description>Spider-Man: The Videogame (Japan)</description>
 		<category>FBNeo</category>
 		<rom name="epr-14287.ic13" size="131072" crc="403ccdc9"/>
@@ -16544,7 +16543,7 @@
 		<url>https://retroachievements.org/game/17678/hashes</url>
 		<hash>2748EA9D5ED36485F2386DC298838697</hash>
 	</game>
-	<game name="Retail/spidman">
+	<game name="Retail/Spider-Man - The Videogame/spidman">
 		<description>Spider-Man: The Videogame (World)</description>
 		<category>FBNeo</category>
 		<rom name="epr-14307.ic13" size="131072" crc="d900219c"/>
@@ -16755,7 +16754,7 @@
 		<hash>9b5b43270f713f5a751e40dfc906b972</hash>
 	</game>
 	
-	<game name="Retail/starwars1">
+	<game name="Retail/Star Wars/starwars1">
 		<description>Star Wars (set 2)</description>
 		<category>FBNeo</category>
 		<rom name="136021-105.1l" size="4096" crc="538e7d2f"/>
@@ -16776,7 +16775,7 @@
 		<url>https://retroachievements.org/game/15024/hashes</url>
 		<hash>1F47DD98FE25D457B49BD9C38F2D84B8</hash>
 	</game>
-	<game name="Retail/starwarso">
+	<game name="Retail/Star Wars/starwarso">
 		<description>Star Wars (set 3)</description>
 		<category>FBNeo</category>
 		<rom name="136021-105.1l" size="4096" crc="538e7d2f"/>
@@ -16797,7 +16796,7 @@
 		<url>https://retroachievements.org/game/15024/hashes</url>
 		<hash>50800DD0EBCE816197B6CAD3FE5A31A7</hash>
 	</game>
-	<game name="Retail/starwars">
+	<game name="Retail/Star Wars/starwars">
 		<description>Star Wars (set 1)</description>
 		<category>FBNeo</category>
 		<rom name="136021-105.1l" size="4096" crc="538e7d2f"/>
@@ -16900,7 +16899,7 @@
 		<hash>5270D551AFD6753D1268312C96603236</hash>
 	</game>
 	
-	<game name="Retail/sfz3jr2d">
+	<game name="Retail/Street Fighter Alpha 3/sfz3jr2d">
 		<description>Street Fighter Zero 3 (980629 Japan Phoenix Edition)</description>
 		<category>FBNeo</category>
 		<rom name="sz3j d.03" size="524288" crc="b0436151"/>
@@ -16929,7 +16928,7 @@
 		<url>https://retroachievements.org/game/11812/hashes</url>
 		<hash>1C5D5400FCD5ECA310860E50E9800DA2</hash>
 	</game>
-	<game name="Retail/sfz3j">
+	<game name="Retail/Street Fighter Alpha 3/sfz3j">
 		<description>Street Fighter Zero 3 (980904 Japan)</description>
 		<category>FBNeo</category>
 		<rom name="sz3j.03c" size="524288" crc="cadf4a51"/>
@@ -16958,7 +16957,7 @@
 		<url>https://retroachievements.org/game/11812/hashes</url>
 		<hash>40073B2681A50F17AE0B325503A0365C</hash>
 	</game>
-	<game name="Retail/sfa3u">
+	<game name="Retail/Street Fighter Alpha 3/sfa3u">
 		<description>Street Fighter Alpha 3 (980904 USA)</description>
 		<category>FBNeo</category>
 		<rom name="sz3u.03c" size="524288" crc="e007da2e"/>
@@ -16987,7 +16986,7 @@
 		<url>https://retroachievements.org/game/11812/hashes</url>
 		<hash>477D8B325A16A852A9550129787AF665</hash>
 	</game>
-	<game name="Retail/sfa3">
+	<game name="Retail/Street Fighter Alpha 3/sfa3">
 		<description>Street Fighter Alpha 3 (980904 Euro)</description>
 		<category>FBNeo</category>
 		<rom name="sz3e.03c" size="524288" crc="9762b206"/>
@@ -17047,7 +17046,7 @@
 		<hash>40BADE9362D402B5776916AE25A6A13F</hash>
 	</game>
 	
-	<game name="Retail/sfzj">
+	<game name="Retail/Street Fighter Alpha - Warriors' Dreams/sfzj">
 		<description>Street Fighter Zero (950727 Japan)</description>
 		<category>FBNeo</category>
 		<rom name="sfzj.03c" size="524288" crc="f5444120"/>
@@ -17068,7 +17067,7 @@
 		<url>https://retroachievements.org/game/11805/hashes</url>
 		<hash>DAD56C492769E5947C01216AB94DFCB3</hash>
 	</game>
-	<game name="Retail/sfa">
+	<game name="Retail/Street Fighter Alpha - Warriors' Dreams/sfa">
 		<description>Street Fighter Alpha - warriors' dreams (950727 Euro)</description>
 		<category>FBNeo</category>
 		<rom name="sfze.03d" size="524288" crc="ebf2054d"/>
@@ -17090,7 +17089,7 @@
 		<hash>DEA3CDBE10C327EC87C6058F8B48CC7B</hash>
 	</game>
 	
-	<game name="Retail/sf2hfj">
+	<game name="Retail/Street Fighter II Turbo - Hyper Fighting/sf2hfj">
 		<description>Street Fighter II' Turbo: Hyper Fighting (Japan 921209)</description>
 		<category>FBNeo</category>
 		<rom name="s2tj 23.8f" size="524288" crc="ea73b4dc"/>
@@ -17126,7 +17125,7 @@
 		<url>https://retroachievements.org/game/12255/hashes</url>
 		<hash>22546437E131E9C4C1ACD32EE28C5C53</hash>
 	</game>
-	<game name="Retail/sf2hf">
+	<game name="Retail/Street Fighter II Turbo - Hyper Fighting/sf2hf">
 		<description>Street Fighter II': Hyper Fighting (World 921209)</description>
 		<category>FBNeo</category>
 		<rom name="s2te 23.8f" size="524288" crc="2dd72514"/>
@@ -17164,7 +17163,7 @@
 	</game>
 	
 	<game name="Retail/sf2ce">
-		<description>Street Fighter II': Champion Edition (World 920513)</description>
+		<description>Street Fighter II: Champion Edition (World 920513)</description>
 		<category>FBNeo</category>
 		<rom name="s92e 23b.8f" size="524288" crc="0aaa1a3a"/>
 		<rom name="s92 22b.7f" size="524288" crc="2bbe15ed"/>
@@ -17282,7 +17281,7 @@
 		<hash>A131FFA84DE530BCB6841D1D83B1AC9A</hash>
 	</game>
 	
-	<game name="Retail/sfiii3n">
+	<game name="Retail/Street Fighter III - 3rd Strike - Fight for the Futures/fiii3n">
 		<description>Street Fighter III 3rd Strike: Fight for the Future (Japan 990608, NO CD)</description>
 		<category>FBNeo</category>
 		<rom name="sfiii3 japan nocd.29f400.u2" size="524288" crc="1edc6366"/>
@@ -17331,7 +17330,7 @@
 		<url>https://retroachievements.org/game/11795/hashes</url>
 		<hash>002180613C2131ABCE28AE5BD4A8A2FB</hash>
 	</game>
-	<game name="Retail/sfiii3ur1">
+	<game name="Retail/Street Fighter III - 3rd Strike - Fight for the Futures/sfiii3ur1">
 		<description>Street Fighter III 3rd Strike: Fight for the Future (USA 990512)</description>
 		<category>FBNeo</category>
 		<rom name="sfiii3 usa.29f400.u2" size="524288" crc="ecc545c1"/>
@@ -17380,7 +17379,7 @@
 		<url>https://retroachievements.org/game/11795/hashes</url>
 		<hash>7F6640B9EE259B3277C4E7E8733F0245</hash>
 	</game>
-	<game name="Retail/sfiii3">
+	<game name="Retail/Street Fighter III - 3rd Strike - Fight for the Futures/sfiii3">
 		<description>Street Fighter III 3rd Strike: Fight for the Future (Euro 990608)</description>
 		<category>FBNeo</category>
 		<rom name="sfiii3 euro.29f400.u2" size="524288" crc="30bbf293"/>
@@ -17429,7 +17428,7 @@
 		<url>https://retroachievements.org/game/11795/hashes</url>
 		<hash>BF02F7B4E9C7B535D368E878566C14A0</hash>
 	</game>
-	<game name="Retail/sfiii3u">
+	<game name="Retail/Street Fighter III - 3rd Strike - Fight for the Futures/sfiii3u">
 		<description>Street Fighter III 3rd Strike: Fight for the Future (USA 990608)</description>
 		<category>FBNeo</category>
 		<rom name="sfiii3 usa.29f400.u2" size="524288" crc="ecc545c1"/>
@@ -17478,7 +17477,7 @@
 		<url>https://retroachievements.org/game/11795/hashes</url>
 		<hash>D38692661C72F0381E82E325C0E55F87</hash>
 	</game>
-	<game name="Retail/sfiii3nr1">
+	<game name="Retail/Street Fighter III - 3rd Strike - Fight for the Futures/sfiii3nr1">
 		<description>Street Fighter III 3rd Strike: Fight for the Future (Japan 990512, NO CD)</description>
 		<category>FBNeo</category>
 		<rom name="sfiii3 japan nocd.29f400.u2" size="524288" crc="1edc6366"/>
@@ -17527,7 +17526,7 @@
 		<url>https://retroachievements.org/game/11795/hashes</url>
 		<hash>E8F7BC4C1FBC62DB919F2A59E7953C5F</hash>
 	</game>
-	<game name="Retail/sfiii3ws">
+	<game name="Retail/Street Fighter III - 3rd Strike - Fight for the Futures/sfiii3ws">
 		<description>Street Fighter III 3rd Strike: Fight for the Future (Widescreen 20220908)</description>
 		<category>FBNeo</category>
 		<rom name="sfiii3 japan nocd.29f400.u2" size="524288" crc="1edc6366"/>
@@ -17609,7 +17608,7 @@
 		<hash>E55F83016A5D5C33C093AF927EB81846</hash>
 	</game>
 	
-	<game name="Retail/sfz2alb">
+	<game name="Retail/Street Fighter Zero 2 Alpha/sfz2alb">
 		<description>Street Fighter Zero 2 Alpha (960813 Brazil)</description>
 		<category>FBNeo</category>
 		<rom name="szab.03" size="524288" crc="cb436eca"/>
@@ -17636,7 +17635,7 @@
 		<url>https://retroachievements.org/game/11832/hashes</url>
 		<hash>0CCB683BE8343AED11F3464BE25FE439</hash>
 	</game>
-	<game name="Retail/sfz2al">
+	<game name="Retail/Street Fighter Zero 2 Alpha/sfz2al">
 		<description>Street Fighter Zero 2 Alpha (960826 Asia)</description>
 		<category>FBNeo</category>
 		<rom name="szaa.03" size="524288" crc="88e7023e"/>
@@ -17663,7 +17662,7 @@
 		<url>https://retroachievements.org/game/11832/hashes</url>
 		<hash>509CF3B79FA57D7A13217F32EFBDC0C4</hash>
 	</game>
-	<game name="Retail/sfz2ald">
+	<game name="Retail/Street Fighter Zero 2 Alpha/sfz2ald">
 		<description>Street Fighter Zero 2 Alpha (960826 Asia Phoenix Edition)</description>
 		<category>FBNeo</category>
 		<rom name="szaad.03" size="524288" crc="89f9483b"/>
@@ -17690,7 +17689,7 @@
 		<url>https://retroachievements.org/game/11832/hashes</url>
 		<hash>811F4D506A0CFD0C80251F0D16D70277</hash>
 	</game>
-	<game name="Retail/sfz2alh">
+	<game name="Retail/Street Fighter Zero 2 Alpha/sfz2alh">
 		<description>Street Fighter Zero 2 Alpha (960813 Hispanic)</description>
 		<category>FBNeo</category>
 		<rom name="szah.03" size="524288" crc="06f93d1d"/>
@@ -17717,7 +17716,7 @@
 		<url>https://retroachievements.org/game/11832/hashes</url>
 		<hash>AEF606AF1BD0BE57F61087315C745A2E</hash>
 	</game>
-	<game name="Retail/sfz2alj">
+	<game name="Retail/Street Fighter Zero 2 Alpha/sfz2alj">
 		<description>Street Fighter Zero 2 Alpha (960805 Japan)</description>
 		<category>FBNeo</category>
 		<rom name="szaj.03a" size="524288" crc="a3802fe3"/>
@@ -17801,7 +17800,7 @@
 		<hash>BE1F31FDFF3181C516BF2FD92B1FA665</hash>
 	</game>
 	
-	<game name="Retail/striderjr">
+	<game name="Retail/Strider/striderjr">
 		<description>Strider Hiryu (Japan Resale Ver.)</description>
 		<category>FBNeo</category>
 		<rom name="sthj 23.8f" size="524288" crc="046e7b12"/>
@@ -17832,7 +17831,7 @@
 		<url>https://retroachievements.org/game/11955/hashes</url>
 		<hash>16C28324602B195C476A7D65FEAD9391</hash>
 	</game>
-	<game name="Retail/strider">
+	<game name="Retail/Strider/strider">
 		<description>Strider (USA, B-Board 89624B-2)</description>
 		<category>FBNeo</category>
 		<rom name="30.11f" size="131072" crc="da997474"/>
@@ -17863,7 +17862,7 @@
 		<url>https://retroachievements.org/game/11955/hashes</url>
 		<hash>A27E29F4186914735EE68E23357012F8</hash>
 	</game>
-	<game name="Retail/striderj">
+	<game name="Retail/Strider/striderj">
 		<description>Strider Hiryu (Japan)</description>
 		<category>FBNeo</category>
 		<rom name="sth 36.12f" size="131072" crc="53c7b006"/>
@@ -18038,7 +18037,7 @@
 		<hash>3756F4C9114D3C0AF1FDCDCD67BBFA59</hash>
 	</game>
 	
-	<game name="Retail/suprlocoo">
+	<game name="Retail/Super Locomotive/suprlocoo">
 		<description>Super Locomotive</description>
 		<category>FBNeo</category>
 		<rom name="epr-5226.37" size="16384" crc="57f514dd"/>
@@ -18055,10 +18054,10 @@
 		<rom name="pr-5221.7" size="32" crc="89ba674f"/>
 		<video type="raster" orientation="horizontal" width="240" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
-		<url>https://retroachievements.org/game/12230/hashes</url>
+		<url>https://retroachievements.org/game/12446/hashes</url>
 		<hash>54b6f24806efec846c7a467f9033678a</hash>
 	</game>
-	<game name="Retail/suprloco">
+	<game name="Retail/Super Locomotive/suprloco">
 		<description>Super Locomotive (Rev.A)</description>
 		<category>FBNeo</category>
 		<rom name="epr-5226a.37" size="16384" crc="33b02368"/>
@@ -18075,11 +18074,11 @@
 		<rom name="pr-5221.7" size="32" crc="89ba674f"/>
 		<video type="raster" orientation="horizontal" width="240" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
-		<url>https://retroachievements.org/game/12230/hashes</url>
+		<url>https://retroachievements.org/game/12446/hashes</url>
 		<hash>f8f98d3deb3d1dca8121f3b33ee03c31</hash>
 	</game>
 	
-	<game name="Retail/superpac">
+	<game name="Retail/Super Pac-Man/superpac">
 		<description>Super Pac-Man</description>
 		<category>FBNeo</category>
 		<rom name="sp1-2.1c" size="8192" crc="4bb33d9c"/>
@@ -18096,7 +18095,7 @@
 		<url>https://retroachievements.org/game/12195/hashes</url>
 		<hash>78C20093F836A476CD19D689681178AE</hash>
 	</game>
-	<game name="Retail/superpacm">
+	<game name="Retail/Super Pac-Man/superpacm">
 		<description>Super Pac-Man (Midway)</description>
 		<category>FBNeo</category>
 		<rom name="spc-2.1c" size="8192" crc="1a38c30e"/>
@@ -18162,7 +18161,7 @@
 		<hash>8F8C1097C2AD03A6E166448450526EE6</hash>
 	</game>
 	
-	<game name="Retail/spf2t">
+	<game name="Retail/Super Puzzle Fighter II Turbo/spf2t">
 		<description>Super Puzzle Fighter II Turbo (Super Puzzle Fighter 2 Turbo 960529 Euro)</description>
 		<category>FBNeo</category>
 		<rom name="pzfe.03" size="524288" crc="2af51954"/>
@@ -18181,7 +18180,7 @@
 		<url>https://retroachievements.org/game/12242/hashes</url>
 		<hash>1F839BD504A3B87B16E783D55E7F99F9</hash>
 	</game>
-	<game name="Retail/spf2xj">
+	<game name="Retail/Super Puzzle Fighter II Turbo/spf2xj">
 		<description>Super Puzzle Fighter II X (Super Puzzle Fighter 2 X 960531 Japan)</description>
 		<category>FBNeo</category>
 		<rom name="pzfj.03a" size="524288" crc="2070554a"/>
@@ -18200,7 +18199,7 @@
 		<url>https://retroachievements.org/game/12242/hashes</url>
 		<hash>28C05E1784C1BF5CF24A7B410B3758AF</hash>
 	</game>
-	<game name="Retail/spf2tu">
+	<game name="Retail/Super Puzzle Fighter II Turbo/spf2tu">
 		<description>Super Puzzle Fighter II Turbo (Super Puzzle Fighter 2 Turbo 960620 USA)</description>
 		<category>FBNeo</category>
 		<rom name="pzfu.03a" size="524288" crc="346e62ef"/>
@@ -18388,7 +18387,7 @@
 		<hash>2F2DE150D937CA7DE1ECAE79957C5281</hash>
 	</game>
 	
-	<game name="Retail/ssf2xjr1">
+	<game name="Retail/Super Street Fighter II Turbo/ssf2xjr1">
 		<description>Super Street Fighter II X - grand master challenge (super street fighter 2 X 940223 Japan)</description>
 		<category>FBNeo</category>
 		<rom name="sfxj.03c" size="524288" crc="a7417b79"/>
@@ -18420,7 +18419,7 @@
 		<url>https://retroachievements.org/game/12273/hashes</url>
 		<hash>5C8451C1F99DF37BEF6362CA5DBF9910</hash>
 	</game>
-	<game name="Retail/ssf2tu">
+	<game name="Retail/Super Street Fighter II Turbo/ssf2tu">
 		<description>Super Street Fighter II Turbo (super street fighter 2 X 940323 USA)</description>
 		<category>FBNeo</category>
 		<rom name="sfxu.03e" size="524288" crc="d6ff689e"/>
@@ -18452,7 +18451,7 @@
 		<url>https://retroachievements.org/game/12273/hashes</url>
 		<hash>61B6A4C3068B9C4F185B59B6BD4221F7</hash>
 	</game>
-	<game name="Retail/ssf2tur1">
+	<game name="Retail/Super Street Fighter II Turbo/ssf2tur1">
 		<description>Super Street Fighter II Turbo (super street fighter 2 X 940223 USA)</description>
 		<category>FBNeo</category>
 		<rom name="sfxu.03c" size="524288" crc="86e4a335"/>
@@ -18484,7 +18483,7 @@
 		<url>https://retroachievements.org/game/12273/hashes</url>
 		<hash>9A953781B4274DF4F7E2016D85E9F830</hash>
 	</game>
-	<game name="Retail/ssf2t">
+	<game name="Retail/Super Street Fighter II Turbo/ssf2t">
 		<description>Super Street Fighter II Turbo (super street fighter 2 X 940223 etc)</description>
 		<category>FBNeo</category>
 		<rom name="sfxe.03c" size="524288" crc="2fa1f396"/>
@@ -18516,7 +18515,7 @@
 		<url>https://retroachievements.org/game/12273/hashes</url>
 		<hash>B4BB0A649E27548E69E916AE46A41DB6</hash>
 	</game>
-	<game name="Retail/ssf2xj">
+	<game name="Retail/Super Street Fighter II Turbo/ssf2xj">
 		<description>Super Street Fighter II X - grand master challenge (super street fighter 2 X 940311 Japan)</description>
 		<category>FBNeo</category>
 		<rom name="sfxj.03d" size="524288" crc="50b52b37"/>
@@ -18549,7 +18548,7 @@
 		<hash>F2746ACA49A8F485565A19F8123DAA58</hash>
 	</game>
 	
-	<game name="Retail/ssf2j">
+	<game name="Retail/Super Street Fighter II - The New Challengers/ssf2j">
 		<description>Super Street Fighter II - the new challengers (super street fighter 2 931005 Japan)</description>
 		<category>FBNeo</category>
 		<rom name="ssfj.03b" size="524288" crc="5c2e356d"/>
@@ -18580,7 +18579,7 @@
 		<url>https://retroachievements.org/game/12271/hashes</url>
 		<hash>358633096A3D3A4E1F93F61EA009B766</hash>
 	</game>
-	<game name="Retail/ssf2jr2">
+	<game name="Retail/Super Street Fighter II - The New Challengers/ssf2jr2">
 		<description>Super Street Fighter II - the new challengers (super street fighter 2 930910 Japan)</description>
 		<category>FBNeo</category>
 		<rom name="ssfj.03" size="524288" crc="7eb0efed"/>
@@ -18611,7 +18610,7 @@
 		<url>https://retroachievements.org/game/12271/hashes</url>
 		<hash>7998598E5B65E41A02D2BE95C88F72E8</hash>
 	</game>
-	<game name="Retail/ssf2jr1">
+	<game name="Retail/Super Street Fighter II - The New Challengers/ssf2jr1">
 		<description>Super Street Fighter II - the new challengers (super street fighter 2 930911 Japan)</description>
 		<category>FBNeo</category>
 		<rom name="ssfj.03a" size="524288" crc="0bbf1304"/>
@@ -18642,7 +18641,7 @@
 		<url>https://retroachievements.org/game/12271/hashes</url>
 		<hash>881C550AB19535C35103E62A2F77059A</hash>
 	</game>
-	<game name="Retail/ssf2">
+	<game name="Retail/Super Street Fighter II - The New Challengers/ssf2">
 		<description>Super Street Fighter II - the new challengers (super street fighter 2 931005 etc)</description>
 		<category>FBNeo</category>
 		<rom name="ssfe-03b" size="524288" crc="af654792"/>
@@ -18673,7 +18672,7 @@
 		<url>https://retroachievements.org/game/12271/hashes</url>
 		<hash>97D51A14BD78BC8A07E0AF48E3E002C9</hash>
 	</game>
-	<game name="Retail/ssf2r1">
+	<game name="Retail/Super Street Fighter II - The New Challengers/ssf2r1">
 		<description>Super Street Fighter II - the new challengers (super street fighter 2 930911 etc)</description>
 		<category>FBNeo</category>
 		<rom name="ssfe.03" size="524288" crc="a597745d"/>
@@ -18704,7 +18703,7 @@
 		<url>https://retroachievements.org/game/12271/hashes</url>
 		<hash>BB64D6141ADA8980FEB35071351ADFB2</hash>
 	</game>
-	<game name="Retail/ssf2u">
+	<game name="Retail/Super Street Fighter II - The New Challengers/ssf2u">
 		<description>Super Street Fighter II - the new challengers (super street fighter 2 930911 USA)</description>
 		<category>FBNeo</category>
 		<rom name="ssfu.03a" size="524288" crc="72f29c33"/>
@@ -18736,7 +18735,7 @@
 		<hash>F5DB176DDDB313D0ABF507AB22FC741F</hash>
 	</game>
 	
-	<game name="Retail/supermanj">
+	<game name="Retail/Superman/supermanj">
 		<description>Superman (Japan)</description>
 		<category>FBNeo</category>
 		<rom name="b61 09.a10" size="131072" crc="640f1d58"/>
@@ -18756,7 +18755,7 @@
 		<url>https://retroachievements.org/game/12442/hashes</url>
 		<hash>255811FCEE48C4A9C11AF093310E1200</hash>
 	</game>
-	<game name="Retail/supermanu">
+	<game name="Retail/Superman/supermanu">
 		<description>Superman (US)</description>
 		<category>FBNeo</category>
 		<rom name="b61 09.a10" size="131072" crc="640f1d58"/>
@@ -18776,7 +18775,7 @@
 		<url>https://retroachievements.org/game/12442/hashes</url>
 		<hash>730C885135A29CE7F7984AEB06DD408B</hash>
 	</game>
-	<game name="Retail/superman">
+	<game name="Retail/Superman/superman">
 		<description>Superman (World)</description>
 		<category>FBNeo</category>
 		<rom name="b61 09.a10" size="131072" crc="640f1d58"/>
@@ -18896,7 +18895,7 @@
 		<hash>96C0D70925CA11CCAFFC5432B4080CF7</hash>
 	</game>
 	
-	<game name="Retail/tmnt">
+	<game name="Retail/Teenage Mutant Ninja Turtles/tmnt">
 		<description>Teenage Mutant Ninja Turtles (World 4 Players, version X)</description>
 		<category>FBNeo</category>
 		<rom name="963-x23.j17" size="131072" crc="a9549004"/>
@@ -18920,7 +18919,7 @@
 		<url>https://retroachievements.org/game/12210/hashes</url>
 		<hash>344F706DD7FA89DF2B38166B5F300C48</hash>
 	</game>
-	<game name="Retail/tmnt2pj">
+	<game name="Retail/Teenage Mutant Ninja Turtles/tmnt2pj">
 		<description>Teenage Mutant Ninja Turtles (Japan 2 Players, version 1)</description>
 		<category>FBNeo</category>
 		<rom name="963-123.j17" size="131072" crc="6a3527c9"/>
@@ -18945,7 +18944,7 @@
 		<hash>D77085D7B7027441353A78779DD69C17</hash>
 	</game>
 	
-	<game name="Retail/tmnt22pu">
+	<game name="Retail/Teenage Mutant Ninja Turtles - Turtles in Time/tmnt22pu">
 		<description>Teenage Mutant Ninja Turtles - Turtles in Time (2 Players ver UDA)</description>
 		<category>FBNeo</category>
 		<rom name="063uda02.8e" size="131072" crc="aadffe3a"/>
@@ -18966,7 +18965,7 @@
 		<url>https://retroachievements.org/game/12211/hashes</url>
 		<hash>38E530BE656A4E14B31E709C0502E4EC</hash>
 	</game>
-	<game name="Retail/tmnt2">
+	<game name="Retail/Teenage Mutant Ninja Turtles - Turtles in Time/tmnt2">
 		<description>Teenage Mutant Ninja Turtles - Turtles in Time (4 Players ver UAA)</description>
 		<category>FBNeo</category>
 		<rom name="063uaa02.8e" size="131072" crc="58d5c93d"/>
@@ -18991,7 +18990,6 @@
 	<game name="Retail/tehkanwc">
 		<description>Tehkan World Cup (set 1)</description>
 		<category>Flycast</category>
-		<release name="tehkanwc" region="World"/>
 		<rom name="twc-1.bin" size="16384" crc="34d6d5ff"/>
 		<rom name="twc-2.bin" size="16384" crc="7017a221"/>
 		<rom name="twc-3.bin" size="16384" crc="8b662902"/>
@@ -19032,7 +19030,7 @@
 		<hash>6AD8536215968EB1F3494143392C77BF</hash>
 	</game>
 	
-	<game name="Retail/tengai">
+	<game name="Retail/Tengai/tengai">
 		<description>Tengai (World)</description>
 		<category>FBNeo</category>
 		<rom name="5-u40.bin" size="524288" crc="90088195"/>
@@ -19051,7 +19049,7 @@
 		<url>https://retroachievements.org/game/13853/hashes</url>
 		<hash>22FDC9C5A205D18516D3782AE8C40A8A</hash>
 	</game>
-	<game name="Retail/tengaij">
+	<game name="Retail/Tengai/tengaij">
 		<description>Sengoku Blade: Sengoku Ace Episode II (Japan) / Tengai (World)</description>
 		<category>FBNeo</category>
 		<rom name="2-u40.bin" size="524288" crc="ab6fe58a"/>
@@ -19093,7 +19091,7 @@
 		<hash>3B5542DE3B8853A93C045C8970C0035C</hash>
 	</game>
 	
-	<game name="Retail/tetrisp2a">
+	<game name="Retail/Tetris Plus 2/tetrisp2a">
 		<description>Tetris Plus 2 (World, V2.7)</description>
 		<category>FBNeo</category>
 		<rom name="tet2 4 ver2.7.ic59" size="524288" crc="3070bfde"/>
@@ -19109,7 +19107,7 @@
 		<url>https://retroachievements.org/game/25299/hashes</url>
 		<hash>CF4EE87AFF984487AC99B243526F9AF6</hash>
 	</game>
-	<game name="Retail/tetrisp2j">
+	<game name="Retail/Tetris Plus 2/tetrisp2j">
 		<description>Tetris Plus 2 (Japan, V2.2)</description>
 		<category>FBNeo</category>
 		<rom name="tet2 4 ver2.2.ic59" size="524288" crc="5bfa32c8"/>
@@ -19125,7 +19123,7 @@
 		<url>https://retroachievements.org/game/25299/hashes</url>
 		<hash>BABB98A6C9DF4BD340475BBCA90B8A5A</hash>
 	</game>
-	<game name="Retail/tetrisp2ja">
+	<game name="Retail/Tetris Plus 2/tetrisp2ja">
 		<description>Tetris Plus 2 (Japan, V2.1)</description>
 		<category>FBNeo</category>
 		<rom name="tet2 ic4 ver2.1.ic59" size="524288" crc="5bfa32c8"/>
@@ -19141,7 +19139,7 @@
 		<url>https://retroachievements.org/game/25299/hashes</url>
 		<hash>A404E0235E360D63E9994F8B9B255BB1</hash>
 	</game>
-	<game name="Retail/tetrisp2">
+	<game name="Retail/Tetris Plus 2/tetrisp2">
 		<description>Tetris Plus 2 (World, V2.8)</description>
 		<category>FBNeo</category>
 		<rom name="tet2 4 ver2.8.ic59" size="524288" crc="e67f9c51"/>
@@ -19471,7 +19469,7 @@
 		<hash>AE9A0B2ABD7445537A8CC3CC20CB27A0</hash>
 	</game>
 	
-	<game name="Retail/kof96h">
+	<game name="Retail/The King of Fighters '96/kof96h">
 		<description>The King of Fighters '96 (NGH-214)</description>
 		<category>FBNeo</category>
 		<rom name="214-pg1.p1" size="1048576" crc="bd3757c9"/>
@@ -19532,7 +19530,7 @@
 		<url>https://retroachievements.org/game/12030/hashes</url>
 		<hash>23438B2C55800E5B4E8AB86F525B379C</hash>
 	</game>
-	<game name="Retail/kof96">
+	<game name="Retail/The King of Fighters '96/kof96">
 		<description>The King of Fighters '96 (NGM-214)</description>
 		<category>FBNeo</category>
 		<rom name="214-p1.p1" size="1048576" crc="52755d74"/>
@@ -19594,7 +19592,7 @@
 		<hash>3CFC8C16D865610EC01BEB115C307874</hash>
 	</game>
 	
-	<game name="Retail/kof97">
+	<game name="Retail/The King of Fighters '97/kof97">
 		<description>The King of Fighters '97 (NGM-2320)</description>
 		<category>FBNeo</category>
 		<rom name="232-p1.p1" size="1048576" crc="7db81ad9"/>
@@ -19653,7 +19651,7 @@
 		<url>https://retroachievements.org/game/12031/hashes</url>
 		<hash>5BF98AD5E7C70133D8E41BDC36172A24</hash>
 	</game>
-	<game name="Retail/kof97h">
+	<game name="Retail/The King of Fighters '97/kof97h">
 		<description>The King of Fighters '97 (NGH-2320)</description>
 		<category>FBNeo</category>
 		<rom name="232-pg1.p1" size="1048576" crc="5c2400b7"/>
@@ -19712,7 +19710,7 @@
 		<url>https://retroachievements.org/game/12031/hashes</url>
 		<hash>7E950909D250E360570C83052824FFBE</hash>
 	</game>
-	<game name="Retail/kof97oro">
+	<game name="Retail/The King of Fighters '97/kof97oro">
 		<description>The King of Fighters '97 Chongchu Jianghu Plus 2003 (bootleg, set 1)</description>
 		<category>FBNeo</category>
 		<rom name="orochi-p1.bin" size="1048576" crc="6dcb2946"/>
@@ -19772,7 +19770,7 @@
 		<url>https://retroachievements.org/game/12031/hashes</url>
 		<hash>94003F2519EDBAF151BFBEED5D6B20EA</hash>
 	</game>
-	<game name="Retail/kof97k">
+	<game name="Retail/The King of Fighters '97/kof97k">
 		<description>The King of Fighters '97 (Korean release)</description>
 		<category>FBNeo</category>
 		<rom name="232-p1.p1" size="1048576" crc="7db81ad9"/>
@@ -19831,7 +19829,7 @@
 		<url>https://retroachievements.org/game/12031/hashes</url>
 		<hash>CC4859439B96CAD014423C432484F1FE</hash>
 	</game>
-	<game name="Retail/kog">
+	<game name="Retail/The King of Fighters '97/kog">
 		<description>King of Gladiator (bootleg of The King of Fighters '97)</description>
 		<category>FBNeo</category>
 		<rom name="5232-p1.bin" size="2097152" crc="d2413ec6"/>
@@ -19890,7 +19888,7 @@
 		<url>https://retroachievements.org/game/12031/hashes</url>
 		<hash>D464BC738EBBF343810A19F8F7EA04A6</hash>
 	</game>
-	<game name="Retail/kof97pls">
+	<game name="Retail/The King of Fighters '97/kof97pls">
 		<description>The King of Fighters '97 Plus (bootleg)</description>
 		<category>FBNeo</category>
 		<rom name="kf97-p1p.bin" size="1048576" crc="c01fda46"/>
@@ -19949,7 +19947,7 @@
 		<url>https://retroachievements.org/game/12031/hashes</url>
 		<hash>DE5ACCC436A9A8FC925AA203D07D6CDD</hash>
 	</game>
-	<game name="Retail/kof97pm">
+	<game name="Retail/The King of Fighters '97/kof97pm">
 		<description>The King of Fighters '97 (Practice Mode,)</description>
 		<category>FBNeo</category>
 		<rom name="232-p1pm.p1" size="1048576" crc="34ccabae"/>
@@ -20009,7 +20007,7 @@
 		<hash>41696af24fbacad34d1c9bd451e72f2f</hash>
 	</game>
 	
-	<game name="Retail/kof98k">
+	<game name="Retail/The King of Fighters '98/kof98k">
 		<description>The King of Fighters '98 - The Slugfest / King of Fighters '98 - Dream Match Never Ends (Korean board, set 1)</description>
 		<category>FBNeo</category>
 		<rom name="242-p1.p1" size="2097152" crc="8893df89"/>
@@ -20071,7 +20069,7 @@
 		<url>https://retroachievements.org/game/11757/hashes</url>
 		<hash>13E4CED9B848A542CDEE1EC31A150A1A</hash>
 	</game>
-	<game name="Retail/kof98a">
+	<game name="Retail/The King of Fighters '98/kof98a">
 		<description>The King of Fighters '98 - The Slugfest / King of Fighters '98 - Dream Match Never Ends (NGM-2420, alt board)</description>
 		<category>FBNeo</category>
 		<rom name="242-p1.p1" size="2097152" crc="8893df89"/>
@@ -20134,7 +20132,7 @@
 		<url>https://retroachievements.org/game/11757/hashes</url>
 		<hash>28BF131945D07B8709E07645CE6BADA5</hash>
 	</game>
-	<game name="Retail/kof98ka">
+	<game name="Retail/The King of Fighters '98/kof98ka">
 		<description>The King of Fighters '98 - The Slugfest / King of Fighters '98 - Dream Match Never Ends (Korean board, set 2)</description>
 		<category>FBNeo</category>
 		<rom name="242-p1.p1" size="2097152" crc="8893df89"/>
@@ -20196,7 +20194,7 @@
 		<url>https://retroachievements.org/game/11757/hashes</url>
 		<hash>A33726F35CBCF7FC44B0FECC2E4C3D2F</hash>
 	</game>
-	<game name="Retail/kof98">
+	<game name="Retail/The King of Fighters '98/kof98">
 		<description>The King of Fighters '98 - The Slugfest / King of Fighters '98 - Dream Match Never Ends (NGM-2420)</description>
 		<category>FBNeo</category>
 		<rom name="242-p1.p1" size="2097152" crc="8893df89"/>
@@ -20258,7 +20256,7 @@
 		<url>https://retroachievements.org/game/11757/hashes</url>
 		<hash>C0959B94E46F1811952055BE7F59CBA6</hash>
 	</game>
-	<game name="Retail/kof98h">
+	<game name="Retail/The King of Fighters '98/kof98h">
 		<description>The King of Fighters '98 - The Slugfest / King of Fighters '98 - Dream Match Never Ends (NGH-2420)</description>
 		<category>FBNeo</category>
 		<rom name="242-pn1.p1" size="1048576" crc="61ac868a"/>
@@ -20321,7 +20319,7 @@
 		<hash>F1AFE8FCD96D1E72AFC826D4A1B4CD62</hash>
 	</game>
 	
-	<game name="Retail/kof99h">
+	<game name="Retail/The King of Fighters '99/kof99h">
 		<description>The King of Fighters '99 - Millennium Battle (NGH-2510)</description>
 		<category>FBNeo</category>
 		<rom name="kc.neo-sma" size="262144" crc="6c9d0647"/>
@@ -20383,7 +20381,7 @@
 		<url>https://retroachievements.org/game/12032/hashes</url>
 		<hash>1653C67C602403333D94DD921737CE8E</hash>
 	</game>
-	<game name="Retail/kof99">
+	<game name="Retail/The King of Fighters '99/kof99">
 		<description>The King of Fighters '99 - Millennium Battle (NGM-2510)</description>
 		<category>FBNeo</category>
 		<rom name="ka.neo-sma" size="262144" crc="7766d09e"/>
@@ -20446,7 +20444,7 @@
 		<hash>31DE2D3EEB556034F322AA06453CF0D1</hash>
 	</game>
 	
-	<game name="Retail/kof2000n">
+	<game name="Retail/The King of Fighters 2000/kof2000n">
 		<description>The King of Fighters 2000 (not encrypted)</description>
 		<category>FBNeo</category>
 		<rom name="257-pg1.p1" size="1048576" crc="5f809dbe"/>
@@ -20507,7 +20505,7 @@
 		<url>https://retroachievements.org/game/12033/hashes</url>
 		<hash>69FA9FB02B9FE054C98D9DEE8729CE92</hash>
 	</game>
-	<game name="Retail/kof2000">
+	<game name="Retail/The King of Fighters 2000/kof2000">
 		<description>The King of Fighters 2000 (NGM-2570 ~ NGH-2570)</description>
 		<category>FBNeo</category>
 		<rom name="neo-sma" size="262144" crc="71c6e6bb"/>
@@ -20692,7 +20690,7 @@
 		<hash>BCDEB242322AF6D883799BD46D874D62</hash>
 	</game>
 	
-	<game name="Retail/kf2k3pl">
+	<game name="Retail/The King of Fighters 2003/kf2k3pl">
 		<description>The King of Fighters 2004 Plus / Hero (bootleg of The King of Fighters 2003)</description>
 		<category>FBNeo</category>
 		<rom name="2k3-p1pl.bin" size="1048576" crc="07b84112"/>
@@ -20753,7 +20751,7 @@
 		<url>https://retroachievements.org/game/11754/hashes</url>
 		<hash>8EF8C30EA57B67E045D3EBF36E3CD380</hash>
 	</game>
-	<game name="Retail/kof2003">
+	<game name="Retail/The King of Fighters 2003/kof2003">
 		<description>The King of Fighters 2003 (NGM-2710, Export)</description>
 		<category>FBNeo</category>
 		<rom name="271-p1c.p1" size="4194304" crc="530ecc14"/>
@@ -20813,7 +20811,7 @@
 		<url>https://retroachievements.org/game/11754/hashes</url>
 		<hash>904F07B8B684E7914977B4F127B84F53</hash>
 	</game>
-	<game name="Retail/kof2003h">
+	<game name="Retail/The King of Fighters 2003/kof2003h">
 		<description>The King of Fighters 2003 (NGH-2710)</description>
 		<category>FBNeo</category>
 		<rom name="271-p1k.p1" size="4194304" crc="d0d0ae3e"/>
@@ -20947,7 +20945,7 @@
 		<hash>ac48e7d2f30cb3681f4659e8d04c4216</hash>
 	</game>
 	
-	<game name="Retail/lastblad">
+	<game name="Retail/The Last Blade/lastblad">
 		<description>The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGM-2340)</description>
 		<category>FBNeo</category>
 		<rom name="234-p1.p1" size="1048576" crc="e123a5a3"/>
@@ -21007,7 +21005,7 @@
 		<url>https://retroachievements.org/game/12040/hashes</url>
 		<hash>99F1459F643A1ABB0FD8B1C2E806AAA8</hash>
 	</game>
-	<game name="Retail/lastblada">
+	<game name="Retail/The Last Blade/lastblada">
 		<description>The Last Blade / Bakumatsu Roman - Gekka no Kenshi (NGM-2340, alt board)</description>
 		<category>FBNeo</category>
 		<rom name="0234-ep1.ep1" size="524288" crc="3893d38b"/>
@@ -21131,7 +21129,7 @@
 		<hash>5C14F94978DFAD8FFB95CD5B405ABFD8</hash>
 	</game>
 	
-	<game name="Retail/tnzsjo">
+	<game name="Retail/The NewZealand Story/tnzsjo">
 		<description>The NewZealand Story (Japan, old version) (P0-041A PCB)</description>
 		<category>FBNeo</category>
 		<rom name="b53-10.27c1001d.u32" size="131072" crc="a73745c6"/>
@@ -21154,7 +21152,7 @@
 		<url>https://retroachievements.org/game/12044/hashes</url>
 		<hash>B66FEA7A9D1DF4ECC1B80377DEBAAEA6</hash>
 	</game>
-	<game name="Retail/tnzs">
+	<game name="Retail/The NewZealand Story/tnzs">
 		<description>The NewZealand Story (World, new version) (P0-043A PCB)</description>
 		<category>FBNeo</category>
 		<rom name="b53-24.u1" size="131072" crc="d66824c6"/>
@@ -21176,7 +21174,7 @@
 		<url>https://retroachievements.org/game/12044/hashes</url>
 		<hash>ED04FEF824534F2B8E0AEF0BA765A811</hash>
 	</game>
-	<game name="Retail/tnzsoa">
+	<game name="Retail/The NewZealand Story/tnzsoa">
 		<description>The NewZealand Story (World, unknown version) (P0-041A PCB)</description>
 		<category>FBNeo</category>
 		<rom name="b53-unknown.27c1001d.u32" size="131072" crc="edf3b39e"/>
@@ -21411,7 +21409,7 @@
 		<hash>95BB32E6E94BD6D8E802FDE53718AC18</hash>
 	</game>
 	
-	<game name="Retail/3wonders">
+	<game name="Retail/Three Wonders/3wonders">
 		<description>Three Wonders (World 910520)</description>
 		<category>FBNeo</category>
 		<rom name="rte 30a.11f" size="131072" crc="ef5b8b33"/>
@@ -21446,7 +21444,7 @@
 		<url>https://retroachievements.org/game/11813/hashes</url>
 		<hash>7ee7cde16a82fe5e8615f01d75c0b642</hash>
 	</game>
-	<game name="Retail/wonder3">
+	<game name="Retail/Three Wonders/wonder3">
 		<description>Wonder 3 (Japan 910520)</description>
 		<category>FBNeo</category>
 		<rom name="rtj 36.12f" size="131072" crc="e3741247"/>
@@ -21576,7 +21574,7 @@
 		<hash>CBB42A149068655211736D9274AC519C</hash>
 	</game>
 	
-	<game name="Retail/turtshipj">
+	<game name="Retail/Turtle Ship/turtshipj">
 		<description>Turtle Ship (Japan)</description>
 		<category>FBNeo</category>
 		<rom name="t-3.5g" size="32768" crc="0863fc1c"/>
@@ -21603,7 +21601,7 @@
 		<url>https://retroachievements.org/game/15192/hashes</url>
 		<hash>0B2E44B3FC2833928D9E4595764281B4</hash>
 	</game>
-	<game name="Retail/turtship">
+	<game name="Retail/Turtle Ship/turtship">
 		<description>Turtle Ship (North America)</description>
 		<category>FBNeo</category>
 		<rom name="t-3.5g" size="32768" crc="b73ed7f2"/>
@@ -21630,8 +21628,7 @@
 		<url>https://retroachievements.org/game/15192/hashes</url>
 		<hash>2B386E29C220B4D5AB89C718EE7EFFF7</hash>
 	</game>
-	
-	<game name="Retail/turtshipk">
+	<game name="Retail/Turtle Ship/turtshipk">
 		<description>Turtle Ship (Korea)</description>
 		<category>FBNeo</category>
 		<rom name="turtship.003" size="32768" crc="e7a7fc2e"/>
@@ -21658,7 +21655,7 @@
 		<url>https://retroachievements.org/game/15192/hashes</url>
 		<hash>59B2E0523EC43C20C30C3F11DBA2AC3D</hash>
 	</game>
-	<game name="Retail/turtshipkn">
+	<game name="Retail/Turtle Ship/turtshipkn">
 		<description>Turtle Ship (Korea, 88/9)</description>
 		<category>FBNeo</category>
 		<rom name="t-3.g5" size="32768" crc="529b091c"/>
@@ -21742,7 +21739,7 @@
 		<hash>6F13E19B0D250D851595808B8215A755</hash>
 	</game>
 	
-	<game name="Retail/area88">
+	<game name="Retail/U.N. Squadron/area88">
 		<description>Area 88 (Japan)</description>
 		<category>FBNeo</category>
 		<rom name="ar 36.12f" size="131072" crc="65030392"/>
@@ -21783,7 +21780,7 @@
 		<url>https://retroachievements.org/game/11979/hashes</url>
 		<hash>0006C5E727223E4434423BFA12EA0DC8</hash>
 	</game>
-	<game name="Retail/unsquad">
+	<game name="Retail/U.N. Squadron/unsquad">
 		<description>U.N. Squadron (USA)</description>
 		<category>FBNeo</category>
 		<rom name="aru 30.11f" size="131072" crc="24d8f88d"/>
@@ -21980,7 +21977,7 @@
 		<hash>587bb16b7ae57a697c5381b20253e80a</hash>
 	</game>
 	
-	<game name="Retail/vendetta2pu">
+	<game name="Retail/Vendetta/vendetta2pu">
 		<description>Vendetta (Asia, 2 Players, ver. U)</description>
 		<category>FBNeo</category>
 		<rom name="081u01.17c" size="262144" crc="b4d9ade5"/>
@@ -22000,7 +21997,7 @@
 		<url>https://retroachievements.org/game/11804/hashes</url>
 		<hash>0F21FBC2B96826D67AE314D46EA4FC6D</hash>
 	</game>
-	<game name="Retail/vendettaz">
+	<game name="Retail/Vendetta/vendettaz">
 		<description>Vendetta (Asia, 4 Players, ver. Z)</description>
 		<category>FBNeo</category>
 		<rom name="081z01.17c" size="262144" crc="4d225a8d"/>
@@ -22075,7 +22072,7 @@
 		<hash>333B300098A4E424071B500CE1CB4E05</hash>
 	</game>
 	
-	<game name="Retail/vigilanta">
+	<game name="Retail/Vigilante/vigilanta">
 		<description>Vigilante (World, Rev A)</description>
 		<category>FBNeo</category>
 		<rom name="vg a-8h-a.ic55" size="32768" crc="97df1454"/>
@@ -22099,7 +22096,7 @@
 		<url>https://retroachievements.org/game/12556/hashes</url>
 		<hash>0910AB7B7FF971B35FA63294C3E66A9C</hash>
 	</game>
-	<game name="Retail/vigilantd">
+	<game name="Retail/Vigilante/vigilantd">
 		<description>Vigilante (Japan, Rev D)</description>
 		<category>FBNeo</category>
 		<rom name="vg a-8h-d.ic55" size="32768" crc="ba848713"/>
@@ -22123,7 +22120,7 @@
 		<url>https://retroachievements.org/game/12556/hashes</url>
 		<hash>092FCA50B286862609BD82ACCBFE35CD</hash>
 	</game>
-	<game name="Retail/vigilant">
+	<game name="Retail/Vigilante/vigilant">
 		<description>Vigilante (World, Rev E)</description>
 		<category>FBNeo</category>
 		<rom name="vg a-8h-e.ic55" size="32768" crc="0d4e6866"/>
@@ -22148,7 +22145,7 @@
 		<url>https://retroachievements.org/game/12556/hashes</url>
 		<hash>45A7E89075CD49A0358EE904EAE3D140</hash>
 	</game>
-	<game name="Retail/vigilanto">
+	<game name="Retail/Vigilante/vigilanto">
 		<description>Vigilante (US)</description>
 		<category>FBNeo</category>
 		<rom name="vg a-8h-.ic55" size="32768" crc="8d15109e"/>
@@ -22172,7 +22169,7 @@
 		<url>https://retroachievements.org/game/12556/hashes</url>
 		<hash>4AE2C6199EA539D2A0721D3CB9B63EE8</hash>
 	</game>
-	<game name="Retail/vigilantg">
+	<game name="Retail/Vigilante/vigilantg">
 		<description>Vigilante (US, Rev G)</description>
 		<category>FBNeo</category>
 		<rom name="vg a-8h-g.ic55" size="32768" crc="9444c04e"/>
@@ -22197,7 +22194,7 @@
 		<url>https://retroachievements.org/game/12556/hashes</url>
 		<hash>5B1FF2974A679C08BE4634568FC9D77B</hash>
 	</game>
-	<game name="Retail/vigilantb">
+	<game name="Retail/Vigilante/vigilantb">
 		<description>Vigilante (US, Rev B)</description>
 		<category>FBNeo</category>
 		<rom name="vg a-8h-b.ic55" size="32768" crc="05350c2a"/>
@@ -22221,7 +22218,7 @@
 		<url>https://retroachievements.org/game/12556/hashes</url>
 		<hash>5F6C8EB95FD2B3B366A33030B26571A2</hash>
 	</game>
-	<game name="Retail/vigilantc">
+	<game name="Retail/Vigilante/vigilantc">
 		<description>Vigilante (World, Rev C)</description>
 		<category>FBNeo</category>
 		<rom name="vg a-8h-c.ic55" size="32768" crc="d72682e8"/>
@@ -22246,7 +22243,7 @@
 		<hash>B504D9D8ACD58C5A5E4B8844221EEAE5</hash>
 	</game>
 	
-	<game name="Retail/viostorma">
+	<game name="Retail/Vigilante/viostorma">
 		<description>Violent Storm (ver AAC)</description>
 		<category>FBNeo</category>
 		<rom name="168aac01.15h" size="524288" crc="3620635c"/>
@@ -22357,7 +22354,7 @@
 		<hash>B7E62952DE4C640B526A79338D631BD6</hash>
 	</game>
 	
-	<game name="Retail/wwallyja">
+	<game name="Retail/Wally wo Sagase/wwallyja">
 		<description>Wally wo Sagase! (rev A, Japan, 2 players) (FD1094 317-0197A)</description>
 		<category>FBNeo</category>
 		<rom name="epr-14730a.a4" size="262144" crc="daa7880e"/>
@@ -22381,7 +22378,7 @@
 		<url>https://retroachievements.org/game/15902/hashes</url>
 		<hash>3D986E8620B628912A73DD396202BCC9</hash>
 	</game>
-	<game name="Retail/wwallyj">
+	<game name="Retail/Wally wo Sagase/wwallyj">
 		<description>Wally wo Sagase! (rev B, Japan, 2 players) (FD1094 317-0197B)</description>
 		<category>FBNeo</category>
 		<rom name="epr-14730b.a4" size="262144" crc="e72bc17a"/>
@@ -22537,7 +22534,7 @@
 		<hash>5A5913127183C47BF3342315FC95E6C3</hash>
 	</game>
 	
-	<game name="Retail/willow">
+	<game name="Retail/Willow/willow">
 		<description>Willow (World)</description>
 		<category>FBNeo</category>
 		<rom name="wle 30.11f" size="131072" crc="15372aa2"/>
@@ -22572,7 +22569,7 @@
 		<url>https://retroachievements.org/game/11836/hashes</url>
 		<hash>592CEC0A3FC4D8CF9B6E57A09BFF554B</hash>
 	</game>
-	<game name="Retail/willowu">
+	<game name="Retail/Willow/willowu">
 		<description>Willow (USA)</description>
 		<category>FBNeo</category>
 		<rom name="wlu 30.11f" size="131072" crc="d604dbb1"/>
@@ -22842,7 +22839,7 @@
 		<hash>35B43F65CAF0F38DAAA9AF61658F8C92</hash>
 	</game>
 	
-	<game name="Retail/xmenaa">
+	<game name="Retail/X-Men/xmenaa">
 		<description>X-Men (4 Players ver ADA)</description>
 		<category>FBNeo</category>
 		<rom name="065-ada04.10d" size="131072" crc="b8276624"/>
@@ -22863,7 +22860,7 @@
 		<url>https://retroachievements.org/game/11933/hashes</url>
 		<hash>663E35948366C5F5D39B27DF6826231A</hash>
 	</game>
-	<game name="Retail/xmen">
+	<game name="Retail/X-Men/xmen">
 		<description>X-Men (4 Players ver EBA)</description>
 		<category>FBNeo</category>
 		<rom name="065-eba04.10d" size="131072" crc="3588c5ec"/>
@@ -22884,7 +22881,7 @@
 		<url>https://retroachievements.org/game/11933/hashes</url>
 		<hash>AA1EA007F07AA246732B3C633FC2AD3C</hash>
 	</game>
-	<game name="Retail/xmen2pa">
+	<game name="Retail/X-Men/xmen2pa">
 		<description>X-Men (2 Players ver AAA)</description>
 		<category>FBNeo</category>
 		<rom name="065-aaa04.10d" size="131072" crc="7f8b27c2"/>
@@ -22906,7 +22903,7 @@
 		<hash>CAE647AC23B8F5D74B7F2B0ACA48506C</hash>
 	</game>
 	
-	<game name="Retail/xmvsfb">
+	<game name="Retail/X-Men vs. Street Fighter/xmvsfb">
 		<description>X-Men vs Street Fighter (961023 Brazil)</description>
 		<category>FBNeo</category>
 		<rom name="xvsb.03h" size="524288" crc="05baccca"/>
@@ -22934,7 +22931,7 @@
 		<url>https://retroachievements.org/game/11942/hashes</url>
 		<hash>A364A6BCDE97A8910C2F3FEF4B1E4DFE</hash>
 	</game>
-	<game name="Retail/xmvsf">
+	<game name="Retail/X-Men vs. Street Fighter/xmvsf">
 		<description>X-Men vs Street Fighter (961004 Euro)</description>
 		<category>FBNeo</category>
 		<rom name="xvse.03f" size="524288" crc="db06413f"/>
@@ -22963,7 +22960,7 @@
 		<hash>D822240DDC24863944C78F241FF9A9A9</hash>
 	</game>
 	
-	<game name="Retail/xmcotaj">
+	<game name="Retail/X-Men - Children of the Atom/xmcotaj">
 		<description>X-Men - children of the atom (950105 Japan)</description>
 		<category>FBNeo</category>
 		<rom name="xmnj.03e" size="524288" crc="0df29f5f"/>
@@ -22992,7 +22989,7 @@
 		<url>https://retroachievements.org/game/12275/hashes</url>
 		<hash>0C8EC9BE0C6A2A2C0FB49B17BAFE11D1</hash>
 	</game>
-	<game name="Retail/xmcota">
+	<game name="Retail/X-Men - Children of the Atom/xmcota">
 		<description>X-Men - children of the atom (950331 Euro)</description>
 		<category>FBNeo</category>
 		<rom name="xmne.03f" size="524288" crc="5a726d13"/>
@@ -23021,7 +23018,7 @@
 		<url>https://retroachievements.org/game/12275/hashes</url>
 		<hash>3FD26A4A43EC4B92222FBD2E20717EEE</hash>
 	</game>
-	<game name="Retail/xmcotab">
+	<game name="Retail/X-Men - Children of the Atom/xmcotab">
 		<description>X-Men - children of the atom (950331 Brazil)</description>
 		<category>FBNeo</category>
 		<rom name="xmnb.03c" size="524288" crc="ab48bcb0"/>
@@ -23050,7 +23047,7 @@
 		<url>https://retroachievements.org/game/12275/hashes</url>
 		<hash>43A9C047E83E8E47ACAA4132DC37A4D0</hash>
 	</game>
-	<game name="Retail/xmcotaj3">
+	<game name="Retail/X-Men - Children of the Atom/xmcotaj3">
 		<description>X-Men - children of the atom (941217 Japan)</description>
 		<category>FBNeo</category>
 		<rom name="xmnj.03a" size="524288" crc="00761611"/>
@@ -23079,7 +23076,7 @@
 		<url>https://retroachievements.org/game/12275/hashes</url>
 		<hash>6AE222D58B04960BC66735566EA9D0FE</hash>
 	</game>
-	<game name="Retail/xmcotau">
+	<game name="Retail/X-Men - Children of the Atom/xmcotau">
 		<description>X-Men - children of the atom (950105 USA)</description>
 		<category>FBNeo</category>
 		<rom name="xmnu.03e" size="524288" crc="0bafeb0e"/>
@@ -23108,7 +23105,7 @@
 		<url>https://retroachievements.org/game/12275/hashes</url>
 		<hash>ABD34E5A21F65462A7EA8BF8EC1916B2</hash>
 	</game>
-	<game name="Retail/xmcotaj1">
+	<game name="Retail/X-Men - Children of the Atom/xmcotaj1">
 		<description>X-Men - children of the atom (941222 Japan)</description>
 		<category>FBNeo</category>
 		<rom name="xmnj.03d" size="524288" crc="79086d62"/>
@@ -23137,7 +23134,7 @@
 		<url>https://retroachievements.org/game/12275/hashes</url>
 		<hash>BB4F15E2D8B4F39E71BCC329C95D7C43</hash>
 	</game>
-	<game name="Retail/xmcotah">
+	<game name="Retail/X-Men - Children of the Atom/xmcotah">
 		<description>X-Men - children of the atom (950331 Hispanic)</description>
 		<category>FBNeo</category>
 		<rom name="xmnh.03f" size="524288" crc="e4b85a90"/>
@@ -23167,7 +23164,7 @@
 		<hash>F83483C6B4200045A35401006F436C4B</hash>
 	</game>
 	
-	<game name="Retail/solrwarr">
+	<game name="Retail/Xain'd Sleena/solrwarr">
 		<description>Solar-Warrior (US)</description>
 		<category>FBNeo</category>
 		<rom name="p9-02.ic66" size="32768" crc="8ff372a8"/>
@@ -23205,7 +23202,7 @@
 		<url>https://retroachievements.org/game/12571/hashes</url>
 		<hash>3E97956068BD118BB52D3A70079F3FFD</hash>
 	</game>
-	<game name="Retail/xsleena">
+	<game name="Retail/Xain'd Sleena/xsleena">
 		<description>Xain'd Sleena (World)</description>
 		<category>FBNeo</category>
 		<rom name="p9-08.ic66" size="32768" crc="5179ae3f"/>
