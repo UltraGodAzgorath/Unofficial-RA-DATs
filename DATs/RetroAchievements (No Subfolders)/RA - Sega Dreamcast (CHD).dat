@@ -418,20 +418,15 @@
 		<hash>a46984ec09d4f360dd91b8bd57608f10</hash>
 	</game>
 	
-	<game name="Headhunter (Europe) (En,Fr,De,Es) (Disc 1)">
+	<game name="Headhunter (Europe) (En,Fr,De,Es)">
 		<category>Retail</category>
-		<description>Headhunter (Europe) (En,Fr,De,Es) (Disc 1)</description>
-		<release name="Headhunter (Europe) (En,Fr,De,Es) (Disc 1)" region="Europe"/>
+		<description>Headhunter (Europe) (En,Fr,De,Es)</description>
+		<release name="Headhunter (Europe) (En,Fr,De,Es)" region="Europe"/>
+		<rom name="Headhunter (Europe) (En,Fr,De,Es).m3u" size="94" crc="af8797b4" md5="d6ef393c63a6c64bedb3da3b8767d7ef" sha1="46494429bc40b52cc64a0c815c66df52d40f4f9b"/>
 		<rom name="Headhunter (Europe) (En,Fr,De,Es) (Disc 1).chd" size="697231264" crc="35dec07b" md5="e8fe0846740d8388ff81f0b7437907b6" sha1="35bee533a5df1f53781e0611f54d72a366fea0b3"/>
-		<url>https://retroachievements.org/game/6368/hashes</url>
-		<hash>51b9731eecf6109ee7e3a531efa802c9</hash>
-	</game>
-	<game name="Headhunter (Europe) (En,Fr,De,Es) (Disc 2)">
-		<category>Retail</category>
-		<description>Headhunter (Europe) (En,Fr,De,Es) (Disc 2)</description>
-		<release name="Headhunter (Europe) (En,Fr,De,Es) (Disc 2)" region="Europe"/>
 		<rom name="Headhunter (Europe) (En,Fr,De,Es) (Disc 2).chd" size="726826717" crc="4c83e0cd" md5="b793cc40c14d83fe985bf53457b239bd" sha1="0fe7ede66d28603fe7b8efef4e3dd554a8b5b6d1"/>
 		<url>https://retroachievements.org/game/6368/hashes</url>
+		<hash>51b9731eecf6109ee7e3a531efa802c9</hash>
 		<hash>afd2ded7374c0e2a2d890ad595d786a2</hash>
 	</game>
 	
@@ -729,38 +724,28 @@
 		<hash>32c6e521298ac0871413e34b917e0e55</hash>
 	</game>
 	
-	<game name="Resident Evil 2 (USA) (Disc 2)">
+	<game name="Resident Evil 2 (USA)">
 		<category>Retail</category>
-		<description>Resident Evil 2 (USA) (Disc 2)</description>
-		<release name="Resident Evil 2 (USA) (Disc 2)" region="USA"/>
+		<description>Resident Evil 2 (USA)</description>
+		<release name="Resident Evil 2 (USA)" region="USA"/>
+		<rom name="Resident Evil 2 (USA).m3u" size="70" crc="bc3a4bf2" md5="b92c804e1c383e9f0c45a2aff1a7c346" sha1="e8ff43c5f4fca8d171adee519b3d1f9b2f2d4086"/>
+		<rom name="Resident Evil 2 (USA) (Disc 1).chd" size="749554317" crc="33fcd283" md5="7236e16d055b5e27555f94907f8bfecd" sha1="a12bc1889a2a4a441720110c1608603b839428a1"/>
 		<rom name="Resident Evil 2 (USA) (Disc 2).chd" size="751037555" crc="474524dd" md5="11c91506430003d342b172d735a651ee" sha1="a064be8577881273d0b1f4c3d82fba73832e9833"/>
 		<url>https://retroachievements.org/game/3859/hashes</url>
+		<hash>b88a34974e0e3229e612d996eb6863b6</hash>
 		<hash>3894b9eed7b8c559df96475645eeb262</hash>
 	</game>
-	<game name="Resident Evil 2 (USA) (Disc 1)">
-		<category>Retail</category>
-		<description>Resident Evil 2 (USA) (Disc 1)</description>
-		<release name="Resident Evil 2 (USA) (Disc 1)" region="USA"/>
-		<rom name="Resident Evil 2 (USA) (Disc 1).chd" size="749554317" crc="33fcd283" md5="7236e16d055b5e27555f94907f8bfecd" sha1="a12bc1889a2a4a441720110c1608603b839428a1"/>
-		<url>https://retroachievements.org/game/3859/hashes</url>
-		<hash>b88a34974e0e3229e612d996eb6863b6</hash>
-	</game>
 	
-	<game name="Resident Evil 2 (Subset - Bonus) (Disc 2)">
+	<game name="Resident Evil 2 (Subset - Bonus)">
 		<category>Subset</category>
-		<description>Resident Evil 2 (Subset - Bonus) (Disc 2)</description>
-		<release name="Resident Evil 2 (Subset - Bonus) (Disc 2)" region="World"/>
+		<description>Resident Evil 2 (Subset - Bonus)</description>
+		<release name="Resident Evil 2 (Subset - Bonus)" region="World"/>
+		<rom name="Resident Evil 2 (Subset - Bonus).m3u" size="92" crc="ea8cb7c6" md5="94dc0a910de8e5acebfdb3bd6e54ae00" sha1="8a05aa59f1bdc2a56bdc4268defb618b0a2fba9f"/>
+		<rom name="Resident Evil 2 (Subset - Bonus) (Disc 1).chd" size="749554613" crc="fc62c695" md5="7d17e1c532a8067cf5851d3333fac582" sha1="c2f227ff0c7901bda003781147d746fc47c00ac8"/>
 		<rom name="Resident Evil 2 (Subset - Bonus) (Disc 2).chd" size="751037852" crc="fe66754e" md5="b03e2311d57636c8547001764d32a88e" sha1="982d54776e7984a6501a946c17b2a11cb7b278d5"/>
 		<url>https://retroachievements.org/game/25590/hashes</url>
-		<hash>f582c73c8364c6c0b8c8d133c178a076</hash>
-	</game>
-	<game name="Resident Evil 2 (Subset - Bonus) (Disc 1)">
-		<category>Subset</category>
-		<description>Resident Evil 2 (Subset - Bonus) (Disc 1)</description>
-		<release name="Resident Evil 2 (Subset - Bonus) (Disc 1)" region="World"/>
-		<rom name="Resident Evil 2 (Subset - Bonus) (Disc 1).chd" size="749554613" crc="fc62c695" md5="7d17e1c532a8067cf5851d3333fac582" sha1="c2f227ff0c7901bda003781147d746fc47c00ac8"/>
-		<url>https://retroachievements.org/game/25590/hashes</url>
 		<hash>8e9594c82d73b1eb7e798318585be2b1</hash>
+		<hash>f582c73c8364c6c0b8c8d133c178a076</hash>
 	</game>
 	
 	<game name="Resident Evil 3 - Nemesis (USA)">
@@ -807,185 +792,129 @@
 		<hash>fd9f65cc14d428f2dbae93207d7cc1d6</hash>
 	</game>
 	
-	<game name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Widescreen) (Disc 1)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1)">
+	<game name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Widescreen)">
 		<category>Retail</category>
-		<description>Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Widescreen) (Disc 1)</description>
-		<release name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Widescreen) (Disc 1)" region="France"/>
-		<rom name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Widescreen) (Disc 1).chd" size="535565686" crc="ff363a63" md5="cc27a43d00bfbf813b9fa7cb1552cc75" sha1="91e9e8b59f89e859af1027c46931eb9be220bd0f"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>1085232889d7467fdd3584dbc9bfa4de</hash>
-	</game>
-	<game name="Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1) (Disc 2)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2)">
-		<category>Retail</category>
-		<description>Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1) (Disc 2)</description>
-		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1) (Disc 2).chd" size="753147220" crc="9aca9855" md5="251df0694d6f2b7d34d8bd62ba74f46a" sha1="f03a2ddf53681860f01faff75e9ba76d4c86f0f3"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>134628d0a307b81894b697d18ef6ba39</hash>
-	</game>
-	<game name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Disc 2)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2)">
-		<category>Retail</category>
-		<description>Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Disc 2)</description>
+		<description>Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou)</description>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou).m3u" size="156" crc="8ad2bbf5" md5="c0b11baf5611538fb047da6be26cbffb" sha1="fd0277a830c96c4a64878e2a011aa3181b69082d"/>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Disc 1).chd" size="535565383" crc="ddcfe72f" md5="9f9d7d3500cf1313e728cf80724cab1b" sha1="9b9f9f72ddafc10b37e064b0bf6edca70e675844"/>
 		<rom name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Disc 2).chd" size="580015549" crc="668f1cb8" md5="7a2d13f3672cbe3c0f53f7c7c915ba72" sha1="02e6d03b966edbff172fef56eceb8fa50e0e6bcd"/>
 		<url>https://retroachievements.org/game/3866/hashes</url>
+		<hash>62a1e2f97fe414ed5e8f1cc4aa5e0918</hash>
 		<hash>1431a4e76cee8d3f5cd4148c27689c08</hash>
 	</game>
-	<game name="Biohazard - Code - Veronica Kanzenban (Japan) (Widescreen) (Disc 1)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1)">
+	<game name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Widescreen)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Widescreen)">
 		<category>Retail</category>
-		<description>Biohazard - Code - Veronica Kanzenban (Japan) (Widescreen) (Disc 1)</description>
-		<release name="Biohazard - Code - Veronica Kanzenban (Japan) (Widescreen) (Disc 1)" region="Japan"/>
-		<rom name="Biohazard - Code - Veronica Kanzenban (Japan) (Widescreen) (Disc 1).chd" size="591215487" crc="4e7cae51" md5="b1fe35151d68b1a2c36136dd2e53cd95" sha1="a867ec77fffd679ef99dffe1f4cc6af2fcc32c3a"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>1fee2b728919b6ba2e1c5ab6dc8c6264</hash>
-	</game>
-	<game name="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2)">
-		<category>Retail</category>
-		<description>Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2)</description>
-		<rom name="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2).chd" size="725807570" crc="f5cbcee9" md5="5f4dbadb5678877d82582be4d1c80d60" sha1="23a3d78bca8192b0bf9f431ee6b7b2d1290c37b7"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>26cde520c1f9d34acb827d1562998481</hash>
-	</game>
-	<game name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Widescreen) (Disc 2)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2)">
-		<category>Retail</category>
-		<description>Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Widescreen) (Disc 2)</description>
-		<release name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Widescreen) (Disc 2)" region="English"/>
-		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Widescreen) (Disc 2).chd" size="753103410" crc="88bbe7ac" md5="96793a6a36d24ddecf5286597b3083b7" sha1="24359d4e89bc935526121d719dfbf2038b28a96a"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>2f81c543f96b5c0d87cb1e0ea4af42b4</hash>
-	</game>
-	<game name="Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito) (Widescreen) (Disc 2)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2)">
-		<category>Retail</category>
-		<description>Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito) (Widescreen) (Disc 2)</description>
-		<release name="Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito) (Widescreen) (Disc 2)" region="Spain"/>
-		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito) (Widescreen) (Disc 2).chd" size="412672065" crc="f9d0e318" md5="fcb279edb7c3907636457466a6991594" sha1="a10c099981247d23fd5270cabc79fccea4c132e1"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>39375c10b2daefe40896de2af5054681</hash>
-	</game>
-	<game name="Biohazard - Code - Veronica Kanzenban (Japan) (Widescreen) (Disc 2)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2)">
-		<category>Retail</category>
-		<description>Biohazard - Code - Veronica Kanzenban (Japan) (Widescreen) (Disc 2)</description>
-		<release name="Biohazard - Code - Veronica Kanzenban (Japan) (Widescreen) (Disc 2)" region="Japan"/>
-		<rom name="Biohazard - Code - Veronica Kanzenban (Japan) (Widescreen) (Disc 2).chd" size="725807876" crc="84a20e9a" md5="91045fbcd105baf0aa8ff7500498fbf0" sha1="46f8e33db181b63fd52cc7ae8bc0d132b26f17ec"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>4f692826f0907696517e7baadbc015ad</hash>
-	</game>
-	<game name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Disc 1)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1)">
-		<category>Retail</category>
-		<description>Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Disc 1)</description>
-		<rom name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Disc 1).chd" size="535565383" crc="ddcfe72f" md5="9f9d7d3500cf1313e728cf80724cab1b" sha1="9b9f9f72ddafc10b37e064b0bf6edca70e675844"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>62a1e2f97fe414ed5e8f1cc4aa5e0918</hash>
-	</game>
-	<game name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Widescreen) (Disc 1)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1)">
-		<category>Retail</category>
-		<description>Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Widescreen) (Disc 1)</description>
-		<release name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Widescreen) (Disc 1)" region="English"/>
-		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Widescreen) (Disc 1).chd" size="586429501" crc="f374c3bd" md5="1a9e10200d5e504a10c2aed53d3e4e51" sha1="24040fc4574058dd58a5249c1d4df394c5816b1b"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>6f8127cf7adf8eefbca9e7965b10d57f</hash>
-	</game>
-	<game name="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1)">
-		<category>Retail</category>
-		<description>Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1)</description>
-		<rom name="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1).chd" size="591215181" crc="3433af09" md5="4227e0a07ea772b51c4f790f7676f9bc" sha1="4d6a0229d52f34bfd1f27673160e586aeda9742f"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>70eac7a42fa92431f4310705bcdb1d07</hash>
-	</game>
-	<game name="Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Widescreen) (Disc 2)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2)">
-		<category>Retail</category>
-		<description>Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Widescreen) (Disc 2)</description>
-		<release name="Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Widescreen) (Disc 2)" region="Spain"/>
-		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Widescreen) (Disc 2).chd" size="562055580" crc="d1f2e1dc" md5="fdc511b9ead9d50e2a24db63f2924327" sha1="cfca8bfacda28ef7c722b0ea9d798c0dba0a82c4"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>74c5b43005b2986ced3d6dc0b5c14794</hash>
-	</game>
-	<game name="Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito) (Disc 1)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1)">
-		<category>Retail</category>
-		<description>Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito) (Disc 1)</description>
-		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito) (Disc 1).chd" size="348814556" crc="13d883a7" md5="a94433c19ec05255f8f3e2e14bd521db" sha1="98daaa58fbd703296ca65765c97a2402ea4aa1c5"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>7e6cf01c246aff37b9dea8cdbf37636e</hash>
-	</game>
-	<game name="Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1) (Widescreen) (Disc 1)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1)">
-		<category>Retail</category>
-		<description>Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1) (Widescreen) (Disc 1)</description>
-		<release name="Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1) (Widescreen) (Disc 1)" region="English"/>
-		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1) (Widescreen) (Disc 1).chd" size="586466652" crc="fb991a3f" md5="15b8368f4b9525471e78892a61ef68fa" sha1="ea4809c4e03a7f0bf5a090ea1feeaba2acd43e06"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>80076159f28a062edf928d53b07eb2e7</hash>
-	</game>
-	<game name="Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1) (Widescreen) (Disc 2)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2)">
-		<category>Retail</category>
-		<description>Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1) (Widescreen) (Disc 2)</description>
-		<release name="Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1) (Widescreen) (Disc 2)" region="English"/>
-		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1) (Widescreen) (Disc 2).chd" size="753147525" crc="9d74dccc" md5="2a83f2a49c3aa59fe30cb81521fffece" sha1="45fc2df5c15e5d5c8c05f59bd868e57a7b81f46f"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>96309a2142797e9e31a84da0775b1051</hash>
-	</game>
-	<game name="Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Disc 1)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1)">
-		<category>Retail</category>
-		<description>Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Disc 1)</description>
-		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Disc 1).chd" size="533088156" crc="94abd9b8" md5="56e7b2114f7f12cbe427cec3e73dc2aa" sha1="9ec2b8d4b4763d67b66471abd01f00a07f15ef6b"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>9d9af10c3e852e5666456875768e03e7</hash>
-	</game>
-	<game name="Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1) (Disc 1)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1)">
-		<category>Retail</category>
-		<description>Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1) (Disc 1)</description>
-		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1) (Disc 1).chd" size="586466347" crc="76b752a5" md5="593983032fdfb49cc90e72c64569d746" sha1="0d22470803395dda446e74232729fc342bdc2e71"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>aca03c0c4395236f3a3acea96ad12a95</hash>
-	</game>
-	<game name="Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito) (Widescreen) (Disc 1)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1)">
-		<category>Retail</category>
-		<description>Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito) (Widescreen) (Disc 1)</description>
-		<release name="Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito) (Widescreen) (Disc 1)" region="Spain"/>
-		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito) (Widescreen) (Disc 1).chd" size="348814861" crc="3a8bcde1" md5="cd3d114c130c78f176ce272724383f25" sha1="a60d74968594a2766a679f371d27cc787e1fa4af"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>b2dca7bf3dddba49ef036e98366b4fa8</hash>
-	</game>
-	<game name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Disc 1)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1)">
-		<category>Retail</category>
-		<description>Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Disc 1)</description>
-		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Disc 1).chd" size="586429201" crc="df1b9d49" md5="d10077f94f22f5de094ffbafd8a8174c" sha1="f4c1576b7759f4b4691fa72d1ea7c98e96eb11fe"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>b35b683749ea211bcd47de5e785f1aba</hash>
-	</game>
-	<game name="Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Widescreen) (Disc 1)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1)">
-		<category>Retail</category>
-		<description>Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Widescreen) (Disc 1)</description>
-		<release name="Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Widescreen) (Disc 1)" region="Spain"/>
-		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Widescreen) (Disc 1).chd" size="533088461" crc="4bafeef1" md5="4ec53b178c1f35e5ddc4ea8858833ebd" sha1="b238605ee736d2cabddb31d2f16af9312d95afba"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>b602d175560777f55db64aeb442bd63d</hash>
-	</game>
-	<game name="Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito) (Disc 2)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2)">
-		<category>Retail</category>
-		<description>Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito) (Disc 2)</description>
-		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito) (Disc 2).chd" size="412671760" crc="acd23380" md5="f05e1c7be7ddf91bdb3bd997a77a48b9" sha1="fa0526d90d294a692288573500a4963dbea7bfa5"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>b643657cc1013e82d67fac80e77d783f</hash>
-	</game>
-	<game name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Disc 2)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2)">
-		<category>Retail</category>
-		<description>Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Disc 2)</description>
-		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Disc 2).chd" size="753103110" crc="cf79b1a0" md5="2b868d1d1558ed09fd7d804b61d3ee20" sha1="a6b454f6c59536462691cfd0e4ff8fc7b589ee10"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>bf21c8caec2037ee405b3cb94705204a</hash>
-	</game>
-	<game name="Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Disc 2)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2)">
-		<category>Retail</category>
-		<description>Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Disc 2)</description>
-		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Disc 2).chd" size="562055275" crc="720ec347" md5="248e3d6c42c59082d2ab312efb1b2f68" sha1="db3a460659aed7b8923795a493e1e94c1b73541d"/>
-		<url>https://retroachievements.org/game/3866/hashes</url>
-		<hash>c6db2dc40552d6dc19feb59a4dbffbad</hash>
-	</game>
-	<game name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Widescreen) (Disc 2)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2)">
-		<category>Retail</category>
-		<description>Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Widescreen) (Disc 2)</description>
-		<release name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Widescreen) (Disc 2)" region="France"/>
+		<description>Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Widescreen)</description>
+		<release name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Widescreen)" region="France"/>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Widescreen).m3u" size="182" crc="f12f2841" md5="36015661afa937bc8679ead32b734eb2" sha1="309e07c1ea18b2eba169444f967ec9af9b9e8103"/>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Widescreen) (Disc 1).chd" size="535565686" crc="ff363a63" md5="cc27a43d00bfbf813b9fa7cb1552cc75" sha1="91e9e8b59f89e859af1027c46931eb9be220bd0f"/>
 		<rom name="Resident Evil - Code - Veronica X (Japan) (Fr) (Final) (Fafadou) (Widescreen) (Disc 2).chd" size="580015852" crc="9233baca" md5="42c0e4802b50c9e79d593a70fee4ab3c" sha1="87541e9102c6130fac191c3b05cd55bef976e60b"/>
 		<url>https://retroachievements.org/game/3866/hashes</url>
+		<hash>1085232889d7467fdd3584dbc9bfa4de</hash>
 		<hash>dd42a2c178f4065d9dee8ed4923b4543</hash>
+	</game>
+	<game name="Biohazard - Code - Veronica - Kanzenban (Japan)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Widescreen)">
+		<category>Retail</category>
+		<description>Biohazard - Code - Veronica - Kanzenban (Japan)</description>
+		<rom name="Biohazard - Code - Veronica - Kanzenban (Japan).m3u" size="122" crc="d1906862" md5="186d8f80ed0889db58d2279b895a5881" sha1="ae1b7236dc4c3430fed25f58d9f486ce0f731427"/>
+		<rom name="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 1).chd" size="591215181" crc="3433af09" md5="4227e0a07ea772b51c4f790f7676f9bc" sha1="4d6a0229d52f34bfd1f27673160e586aeda9742f"/>
+		<rom name="Biohazard - Code - Veronica - Kanzenban (Japan) (Disc 2).chd" size="725807570" crc="f5cbcee9" md5="5f4dbadb5678877d82582be4d1c80d60" sha1="23a3d78bca8192b0bf9f431ee6b7b2d1290c37b7"/>
+		<url>https://retroachievements.org/game/3866/hashes</url>
+		<hash>70eac7a42fa92431f4310705bcdb1d07</hash>
+		<hash>26cde520c1f9d34acb827d1562998481</hash>
+	</game>
+	<game name="Biohazard - Code - Veronica - Kanzenban (Japan) (Widescreen)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Widescreen)">
+		<category>Retail</category>
+		<description>Biohazard - Code - Veronica - Kanzenban (Japan) (Widescreen)</description>
+		<release name="Biohazard - Code - Veronica - Kanzenban (Japan) (Widescreen)" region="Japan"/>
+		<rom name="Biohazard - Code - Veronica - Kanzenban (Japan) (Widescreen).m3u" size="148" crc="25df89f4" md5="52562cea3966c1c06249025517bb96b5" sha1="40b7fc321bd666df82f6ad70b792231d414979d6"/>
+		<rom name="Biohazard - Code - Veronica - Kanzenban (Japan) (Widescreen) (Disc 1).chd" size="591215487" crc="4e7cae51" md5="b1fe35151d68b1a2c36136dd2e53cd95" sha1="a867ec77fffd679ef99dffe1f4cc6af2fcc32c3a"/>
+		<rom name="Biohazard - Code - Veronica - Kanzenban (Japan) (Widescreen) (Disc 2).chd" size="725807876" crc="84a20e9a" md5="91045fbcd105baf0aa8ff7500498fbf0" sha1="46f8e33db181b63fd52cc7ae8bc0d132b26f17ec"/>
+		<url>https://retroachievements.org/game/3866/hashes</url>
+		<hash>1fee2b728919b6ba2e1c5ab6dc8c6264</hash>
+		<hash>4f692826f0907696517e7baadbc015ad</hash>
+	</game>
+	<game name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Widescreen)">
+		<category>Retail</category>
+		<description>Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1)</description>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1).m3u" size="164" crc="333f4fff" md5="0911034fc62fd64a8c7ca53d0ff946ca" sha1="d52d4da6199d999c7ee140ba1f6490ba4ea1f3fd"/>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Disc 1).chd" size="586429201" crc="df1b9d49" md5="d10077f94f22f5de094ffbafd8a8174c" sha1="f4c1576b7759f4b4691fa72d1ea7c98e96eb11fe"/>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Disc 2).chd" size="753103110" crc="cf79b1a0" md5="2b868d1d1558ed09fd7d804b61d3ee20" sha1="a6b454f6c59536462691cfd0e4ff8fc7b589ee10"/>
+		<url>https://retroachievements.org/game/3866/hashes</url>
+		<hash>b35b683749ea211bcd47de5e785f1aba</hash>
+		<hash>bf21c8caec2037ee405b3cb94705204a</hash>
+	</game>
+	<game name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Widescreen)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Widescreen)">
+		<category>Retail</category>
+		<description>Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Widescreen)</description>
+		<release name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Widescreen)" region="English"/>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Widescreen).m3u" size="190" crc="9512c356" md5="154a4d83cb4e0335f4c76cb26ec559f0" sha1="67e2a9f7dd7212a61eaa0de1b2ec7584d322a565"/>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Widescreen) (Disc 1).chd" size="586429501" crc="f374c3bd" md5="1a9e10200d5e504a10c2aed53d3e4e51" sha1="24040fc4574058dd58a5249c1d4df394c5816b1b"/>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Final) (truemaster1) (Widescreen) (Disc 2).chd" size="753103410" crc="88bbe7ac" md5="96793a6a36d24ddecf5286597b3083b7" sha1="24359d4e89bc935526121d719dfbf2038b28a96a"/>
+		<url>https://retroachievements.org/game/3866/hashes</url>
+		<hash>6f8127cf7adf8eefbca9e7965b10d57f</hash>
+		<hash>2f81c543f96b5c0d87cb1e0ea4af42b4</hash>
+	</game>
+	<game name="Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Widescreen)">
+		<category>Retail</category>
+		<description>Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1)</description>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1).m3u" size="184" crc="c647513a" md5="3b6d0b3d395d488aa9914aa77c5eb0c4" sha1="6b21c1aba9b2785d802eaa4cdbd97c8ccb86cf9d"/>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1) (Disc 1).chd" size="586466347" crc="76b752a5" md5="593983032fdfb49cc90e72c64569d746" sha1="0d22470803395dda446e74232729fc342bdc2e71"/>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1) (Disc 2).chd" size="753147220" crc="9aca9855" md5="251df0694d6f2b7d34d8bd62ba74f46a" sha1="f03a2ddf53681860f01faff75e9ba76d4c86f0f3"/>
+		<url>https://retroachievements.org/game/3866/hashes</url>
+		<hash>aca03c0c4395236f3a3acea96ad12a95</hash>
+		<hash>134628d0a307b81894b697d18ef6ba39</hash>
+	</game>
+	<game name="Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1) (Widescreen)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Widescreen)">
+		<category>Retail</category>
+		<description>Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1) (Widescreen)</description>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1) (Widescreen).m3u" size="210" crc="bfa4420b" md5="b96acdc01d1348286b59199ded2aeb0d" sha1="2eb7610259f8a660199bb27f3330069cc138b56d"/>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1) (Widescreen) (Disc 1).chd" size="586466652" crc="fb991a3f" md5="15b8368f4b9525471e78892a61ef68fa" sha1="ea4809c4e03a7f0bf5a090ea1feeaba2acd43e06"/>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (En) (Clone GDEMU Fix) (truemaster1) (Widescreen) (Disc 2).chd" size="753147525" crc="9d74dccc" md5="2a83f2a49c3aa59fe30cb81521fffece" sha1="45fc2df5c15e5d5c8c05f59bd868e57a7b81f46f"/>
+		<url>https://retroachievements.org/game/3866/hashes</url>
+		<hash>80076159f28a062edf928d53b07eb2e7</hash>
+		<hash>96309a2142797e9e31a84da0775b1051</hash>
+	</game>
+	<game name="Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Widescreen)">
+		<category>Retail</category>
+		<description>Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito)</description>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito).m3u" size="154" crc="279eee7f" md5="eca25066e26eff0969963ed2b5ba45af" sha1="82b1cf8029f2d97e122edd3c0904c2de1ec8c6a8"/>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Disc 1).chd" size="533088156" crc="94abd9b8" md5="56e7b2114f7f12cbe427cec3e73dc2aa" sha1="9ec2b8d4b4763d67b66471abd01f00a07f15ef6b"/>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Disc 2).chd" size="562055275" crc="720ec347" md5="248e3d6c42c59082d2ab312efb1b2f68" sha1="db3a460659aed7b8923795a493e1e94c1b73541d"/>
+		<url>https://retroachievements.org/game/3866/hashes</url>
+		<hash>9d9af10c3e852e5666456875768e03e7</hash>
+		<hash>c6db2dc40552d6dc19feb59a4dbffbad</hash>
+	</game>
+	<game name="Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Widescreen)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Widescreen)">
+		<category>Retail</category>
+		<description>Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Widescreen)</description>
+		<release name="Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Widescreen)" region="Spain"/>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Widescreen).m3u" size="180" crc="4a49769c" md5="22362815dd59331ba753cbe81df2aca1" sha1="966df59652a09f8e9419e5a417248b30cca214f0"/>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Widescreen) (Disc 1).chd" size="533088461" crc="4bafeef1" md5="4ec53b178c1f35e5ddc4ea8858833ebd" sha1="b238605ee736d2cabddb31d2f16af9312d95afba"/>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (Final) (Pitito) (Widescreen) (Disc 2).chd" size="562055580" crc="d1f2e1dc" md5="fdc511b9ead9d50e2a24db63f2924327" sha1="cfca8bfacda28ef7c722b0ea9d798c0dba0a82c4"/>
+		<url>https://retroachievements.org/game/3866/hashes</url>
+		<hash>b602d175560777f55db64aeb442bd63d</hash>
+		<hash>74c5b43005b2986ced3d6dc0b5c14794</hash>
+	</game>
+	<game name="Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Widescreen)">
+		<category>Retail</category>
+		<description>Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito)</description>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito).m3u" size="174" crc="db4a6ed2" md5="935501ba96d386aafc29512b7390701c" sha1="e8c38bfd11d20a8869c04b171f0c94e7f0b9421d"/>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito) (Disc 1).chd" size="348814556" crc="13d883a7" md5="a94433c19ec05255f8f3e2e14bd521db" sha1="98daaa58fbd703296ca65765c97a2402ea4aa1c5"/>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito) (Disc 2).chd" size="412671760" crc="acd23380" md5="f05e1c7be7ddf91bdb3bd997a77a48b9" sha1="fa0526d90d294a692288573500a4963dbea7bfa5"/>
+		<url>https://retroachievements.org/game/3866/hashes</url>
+		<hash>7e6cf01c246aff37b9dea8cdbf37636e</hash>
+		<hash>b643657cc1013e82d67fac80e77d783f</hash>
+	</game>
+	<game name="Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito) (Widescreen)" cloneof="Biohazard - Code - Veronica - Kanzenban (Japan) (Widescreen)">
+		<category>Retail</category>
+		<description>Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito) (Widescreen)</description>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito) (Widescreen).m3u" size="200" crc="663ddfbd" md5="c16169f47fcb2accdf8ee17b95086902" sha1="283414cfb98f928f4166d586db4934ab8ebd02b7"/>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito) (Widescreen) (Disc 1).chd" size="348814861" crc="3a8bcde1" md5="cd3d114c130c78f176ce272724383f25" sha1="a60d74968594a2766a679f371d27cc787e1fa4af"/>
+		<rom name="Resident Evil - Code - Veronica X (Japan) (Es) (Clone GDEMU Fix) (Pitito) (Widescreen) (Disc 2).chd" size="412672065" crc="f9d0e318" md5="fcb279edb7c3907636457466a6991594" sha1="a10c099981247d23fd5270cabc79fccea4c132e1"/>
+		<url>https://retroachievements.org/game/3866/hashes</url>
+		<hash>b2dca7bf3dddba49ef036e98366b4fa8</hash>
+		<hash>39375c10b2daefe40896de2af5054681</hash>
 	</game>
 	
 	<game name="Rez (Japan) (En,Ja,Fr,De,Es,It)" cloneof="Rez (Europe) (En,Ja,Fr,De,Es,It)">
@@ -1068,61 +997,33 @@
 		<hash>577645d68dd4b42f3b8ff7b043e843ef</hash>
 	</game>
 	
-	<game name="Shenmue (Europe) (En,Fr,De,Es) (Disc 3)">
+	<game name="Shenmue (Europe) (En,Fr,De,Es)">
 		<category>Retail</category>
-		<description>Shenmue (Europe) (En,Fr,De,Es) (Disc 3)</description>
-		<release name="Shenmue (Europe) (En,Fr,De,Es) (Disc 3)" region="Europe"/>
-		<rom name="Shenmue (Europe) (En,Fr,De,Es) (Disc 3).chd" size="434422704" crc="e7562f5b" md5="95a3654f4a2ba42906017e56efd3e10a" sha1="7fc9ad71408684c8209afa2fa015141390aa0e19"/>
-		<url>https://retroachievements.org/game/3398/hashes</url>
-		<hash>113e3f65802d595c817f2278f231b901</hash>
-	</game>
-	<game name="Shenmue (Europe) (En,Fr,De,Es) (Disc 2)">
-		<category>Retail</category>
-		<description>Shenmue (Europe) (En,Fr,De,Es) (Disc 2)</description>
-		<release name="Shenmue (Europe) (En,Fr,De,Es) (Disc 2)" region="Europe"/>
-		<rom name="Shenmue (Europe) (En,Fr,De,Es) (Disc 2).chd" size="370254309" crc="94b86092" md5="d8b9f36d15b012ba78937f4267292fdf" sha1="26f792f1e08867784131e3c9ad53375e6424e6f8"/>
-		<url>https://retroachievements.org/game/3398/hashes</url>
-		<hash>969a6332dad6949459b8c6e7131bf3ab</hash>
-	</game>
-	<game name="Shenmue (Europe) (En,Fr,De,Es) (Disc 1)">
-		<category>Retail</category>
-		<description>Shenmue (Europe) (En,Fr,De,Es) (Disc 1)</description>
-		<release name="Shenmue (Europe) (En,Fr,De,Es) (Disc 1)" region="Europe"/>
+		<description>Shenmue (Europe) (En,Fr,De,Es)</description>
+		<release name="Shenmue (Europe) (En,Fr,De,Es)" region="Europe"/>
+		<rom name="Shenmue (Europe) (En,Fr,De,Es).m3u" size="188" crc="8bbd6685" md5="0ddb6f457b2521b083da55d34df1aad6" sha1="e64dd878be1096d95c221ce06db13faceb1be8db"/>
 		<rom name="Shenmue (Europe) (En,Fr,De,Es) (Disc 1).chd" size="415348553" crc="74c70eb6" md5="02446d6c1e08153d37df31697f2a40a1" sha1="276649bd2af5a29c257f046c3871829446c050ba"/>
-		<url>https://retroachievements.org/game/3398/hashes</url>
-		<hash>b6db46f6803d0eecb35b3af9215c9368</hash>
-	</game>
-	<game name="Shenmue (Europe) (En,Fr,De,Es) (Shenmue Passport)">
-		<category>Retail</category>
-		<description>Shenmue (Europe) (En,Fr,De,Es) (Shenmue Passport)</description>
-		<release name="Shenmue (Europe) (En,Fr,De,Es) (Shenmue Passport)" region="Europe"/>
+		<rom name="Shenmue (Europe) (En,Fr,De,Es) (Disc 2).chd" size="370254309" crc="94b86092" md5="d8b9f36d15b012ba78937f4267292fdf" sha1="26f792f1e08867784131e3c9ad53375e6424e6f8"/>
+		<rom name="Shenmue (Europe) (En,Fr,De,Es) (Disc 3).chd" size="434422704" crc="e7562f5b" md5="95a3654f4a2ba42906017e56efd3e10a" sha1="7fc9ad71408684c8209afa2fa015141390aa0e19"/>
 		<rom name="Shenmue (Europe) (En,Fr,De,Es) (Shenmue Passport).chd" size="570755384" crc="3255dc71" md5="b077accdb3c7af498dc31bd1a6f89b36" sha1="db88ad2bf7b9e1f5e99b96d6cda413a1e59d3e00"/>
 		<url>https://retroachievements.org/game/3398/hashes</url>
+		<hash>b6db46f6803d0eecb35b3af9215c9368</hash>
+		<hash>969a6332dad6949459b8c6e7131bf3ab</hash>
+		<hash>113e3f65802d595c817f2278f231b901</hash>
 		<hash>f4400a783413bc178fa14ae19d66e7c0</hash>
 	</game>
 	
-	<game name="Shenmue (Subset - Notebook Challenge) (Disc 1)">
+	<game name="Shenmue (Subset - Notebook Challenge)">
 		<category>Subset</category>
-		<description>Shenmue (Subset - Notebook Challenge) (Disc 1)</description>
-		<release name="Shenmue (Subset - Notebook Challenge) (Disc 1)" region="World"/>
+		<description>Shenmue (Subset - Notebook Challenge)</description>
+		<release name="Shenmue (Subset - Notebook Challenge)" region="World"/>
+		<rom name="Shenmue (Subset - Notebook Challenge).m3u" size="154" crc="1f7886d1" md5="db031b2acfbf9bf3395debdd06c45b00" sha1="0616a022259989f973597b07936ab59625bc6e37"/>
 		<rom name="Shenmue (Subset - Notebook Challenge) (Disc 1).chd" size="415348860" crc="29bb0e99" md5="5ac4e0bb33532cf09a0881c9bec573d3" sha1="724736da6738014c99183d9ee3406cf97e69231a"/>
-		<url>https://retroachievements.org/game/27585/hashes</url>
-		<hash>f7a70615388110917f91cf2afe976ead</hash>
-	</game>
-	<game name="Shenmue (Subset - Notebook Challenge) (Disc 2)">
-		<category>Subset</category>
-		<description>Shenmue (Subset - Notebook Challenge) (Disc 2)</description>
-		<release name="Shenmue (Subset - Notebook Challenge) (Disc 2)" region="World"/>
 		<rom name="Shenmue (Subset - Notebook Challenge) (Disc 2).chd" size="370254615" crc="6f67d1c9" md5="838ea402157c6d9941bec9141645ad57" sha1="e768b1564ea7d0c1bc245cb87c41ca37bb03e960"/>
-		<url>https://retroachievements.org/game/27585/hashes</url>
-		<hash>d5f889e30214e2e56bcab860910652cc</hash>
-	</game>
-	<game name="Shenmue (Subset - Notebook Challenge) (Disc 3)">
-		<category>Subset</category>
-		<description>Shenmue (Subset - Notebook Challenge) (Disc 3)</description>
-		<release name="Shenmue (Subset - Notebook Challenge) (Disc 3)" region="World"/>
 		<rom name="Shenmue (Subset - Notebook Challenge) (Disc 3).chd" size="434423008" crc="500cccfe" md5="ad734678bc277af72042ff32033fc9b5" sha1="dca4d9cc4c0df95e64c401ef3ebfd0f1cdb67c55"/>
 		<url>https://retroachievements.org/game/27585/hashes</url>
+		<hash>f7a70615388110917f91cf2afe976ead</hash>
+		<hash>d5f889e30214e2e56bcab860910652cc</hash>
 		<hash>bec88b47a8932048a8dd60bc3f5e7609</hash>
 	</game>
 	
@@ -1161,35 +1062,26 @@
 		<hash>ca000124b65dc2df51f6db472a676a02</hash>
 	</game>
 	
-	<game name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Disc 2) (Uncensored)">
+	<game name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored)">
 		<category>Retail</category>
-		<description>Skies of Arcadia (Europe) (En,Fr,De,Es) (Disc 2) (Uncensored)</description>
-		<release name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Disc 2) (Uncensored)" region="Europe"/>
-		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Disc 2) (Uncensored).chd" size="541660450" crc="e543f0d9" md5="21a6f3fba65dd9beca2822841b67c42b" sha1="b456e34716f8d7ed306d2a2359b980faa97e5bd9"/>
-		<url>https://retroachievements.org/game/3443/hashes</url>
-		<hash>24bd2bf95276cdd151c6f960b162c631</hash>
-	</game>
-	<game name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Disc 1)" cloneof="Skies of Arcadia (Europe) (En,Fr,De,Es) (Disc 1) (Uncensored)">
-		<category>Retail</category>
-		<description>Skies of Arcadia (Europe) (En,Fr,De,Es) (Disc 1)</description>
-		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Disc 1).chd" size="515342754" crc="79adee0a" md5="4394b177806fbc8f224f00a872385302" sha1="b92bbf6b426d8a7896f58124ecba0c03bdf7b7c3"/>
-		<url>https://retroachievements.org/game/3443/hashes</url>
-		<hash>276661ab8bea50afcc1b7a1e48d25ff8</hash>
-	</game>
-	<game name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Disc 2)" cloneof="Skies of Arcadia (Europe) (En,Fr,De,Es) (Disc 2) (Uncensored)">
-		<category>Retail</category>
-		<description>Skies of Arcadia (Europe) (En,Fr,De,Es) (Disc 2)</description>
-		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Disc 2).chd" size="553876488" crc="f2d4208d" md5="34b1f75fb275343ae3e96ac9507e47cf" sha1="2c4c8088bb8ea12bdf08e73f0f5331386ea4b1f9"/>
-		<url>https://retroachievements.org/game/3443/hashes</url>
-		<hash>6e18b7264826413e55df3161cc13000e</hash>
-	</game>
-	<game name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Disc 1) (Uncensored)">
-		<category>Retail</category>
-		<description>Skies of Arcadia (Europe) (En,Fr,De,Es) (Disc 1) (Uncensored)</description>
-		<release name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Disc 1) (Uncensored)" region="Europe"/>
-		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Disc 1) (Uncensored).chd" size="501662617" crc="c6af6c16" md5="89f7ece928a40caf2d74be99447a227a" sha1="80f9ff6755e54b1f70947677074b5180c3c4bdfe"/>
+		<description>Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored)</description>
+		<release name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored)" region="Europe"/>
+		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored).m3u" size="132" crc="a56b3db9" md5="53f983d94a12c455ad6a85f64a5a84f6" sha1="6bf43c4a8409e9c5ec2d75fd9387c2417f5b5e36"/>
+		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 1).chd" size="501662617" crc="c6af6c16" md5="89f7ece928a40caf2d74be99447a227a" sha1="80f9ff6755e54b1f70947677074b5180c3c4bdfe"/>
+		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored) (Disc 2).chd" size="541660450" crc="e543f0d9" md5="21a6f3fba65dd9beca2822841b67c42b" sha1="b456e34716f8d7ed306d2a2359b980faa97e5bd9"/>
 		<url>https://retroachievements.org/game/3443/hashes</url>
 		<hash>bb17728a4b639184f8115b640ff3dd30</hash>
+		<hash>24bd2bf95276cdd151c6f960b162c631</hash>
+	</game>
+	<game name="Skies of Arcadia (Europe) (En,Fr,De,Es)" cloneof="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored)">
+		<category>Retail</category>
+		<description>Skies of Arcadia (Europe) (En,Fr,De,Es)</description>
+		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es).m3u" size="106" crc="529f1dba" md5="618449694e021cc47ccceecf5ffb7af3" sha1="64240227a572527514688dd12b24500d84f74722"/>
+		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Disc 1).chd" size="515342754" crc="79adee0a" md5="4394b177806fbc8f224f00a872385302" sha1="b92bbf6b426d8a7896f58124ecba0c03bdf7b7c3"/>
+		<rom name="Skies of Arcadia (Europe) (En,Fr,De,Es) (Disc 2).chd" size="553876488" crc="f2d4208d" md5="34b1f75fb275343ae3e96ac9507e47cf" sha1="2c4c8088bb8ea12bdf08e73f0f5331386ea4b1f9"/>
+		<url>https://retroachievements.org/game/3443/hashes</url>
+		<hash>276661ab8bea50afcc1b7a1e48d25ff8</hash>
+		<hash>6e18b7264826413e55df3161cc13000e</hash>
 	</game>
 	
 	<game name="Sonic Adventure (USA) (En,Ja,Fr,De,Es) (Rev A)" cloneof="Sonic Adventure (USA) (En,Ja,Fr,De,Es) (Rev A) (DC-HD mod) (Widescreen)">

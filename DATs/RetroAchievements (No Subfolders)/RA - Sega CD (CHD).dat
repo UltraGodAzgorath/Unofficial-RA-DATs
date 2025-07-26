@@ -41,21 +41,16 @@
 		<url>https://retroachievements.org/game/14766/hashes</url>
 		<hash>85fce84ca1245733aac68a1ec28041e4</hash>
 	</game>
-
-	<game name="Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 1)">
+	
+	<game name="Penn &amp; Teller's Smoke and Mirrors (USA) (Proto)">
 		<category>Prototype</category>
-		<description>Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 1)</description>
-		<release name="Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 1)" region="World"/>
+		<description>Penn &amp; Teller's Smoke and Mirrors (USA) (Proto)</description>
+		<release name="Penn &amp; Teller's Smoke and Mirrors (USA) (Proto)" region="World"/>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Proto).m3u" size="122" crc="07de285a" md5="ce58b03ba9e883853c2f05d930136f8b" sha1="b88515e5f50f967cd830d61c952fc15ad2fd1262"/>
 		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 1).chd" size="324097316" crc="fb4edf20" md5="28e2e0a9c3c5b3ad99c3990203fc2da9" sha1="9a6884906872ac709f04cb754f3ffc9e885d8026"/>
-		<url>https://retroachievements.org/game/10096/hashes</url>
-		<hash>3366c149ddd7b8266deb4a729e804118</hash>
-	</game>
-	<game name="Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 2)">
-		<category>Prototype</category>
-		<description>Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 2)</description>
-		<release name="Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 2)" region="World"/>
 		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 2).chd" size="129624295" crc="e2c5b03d" md5="9bff7383ffe234025900a800036ec49d" sha1="8b870e536e5e99c19dd7724cdbb96d64e5251602"/>
 		<url>https://retroachievements.org/game/10096/hashes</url>
+		<hash>3366c149ddd7b8266deb4a729e804118</hash>
 		<hash>b27c343ec2d3baba714a3667017c290c</hash>
 	</game>
 	
@@ -140,20 +135,15 @@
 		<hash>2b993293168b46a43f6a30683e1b85f3</hash>
 	</game>
 	
-	<game name="Dracula Unleashed (USA) (Disc 1)">
+	<game name="Dracula Unleashed (USA)">
 		<category>Retail</category>
-		<description>Dracula Unleashed (USA) (Disc 1)</description>
-		<release name="Dracula Unleashed (USA) (Disc 1)" region="USA"/>
+		<description>Dracula Unleashed (USA)</description>
+		<release name="Dracula Unleashed (USA)" region="USA"/>
+		<rom name="Dracula Unleashed (USA).m3u" size="74" crc="8cea2821" md5="1fb56b94b7e5c96d44e0f3fa0af164f6" sha1="2eea2fef23612dba776dae120e76c6d2acf349f0"/>
 		<rom name="Dracula Unleashed (USA) (Disc 1).chd" size="323699863" crc="eef154ea" md5="51a3fcfa3e4537f1ed3dc54869684e33" sha1="64e761f1ad05a2b47cdef900bed7a578be9657bb"/>
-		<url>https://retroachievements.org/game/10022/hashes</url>
-		<hash>1e5609b304f3b0b023caac37b2f995f0</hash>
-	</game>
-	<game name="Dracula Unleashed (USA) (Disc 2)">
-		<category>Retail</category>
-		<description>Dracula Unleashed (USA) (Disc 2)</description>
-		<release name="Dracula Unleashed (USA) (Disc 2)" region="USA"/>
 		<rom name="Dracula Unleashed (USA) (Disc 2).chd" size="362076079" crc="58a13bef" md5="dc63124e1367ed9d0f5172f9177cc1c9" sha1="61b13cc8a55c67e9d710e4294c10757cc67db651"/>
 		<url>https://retroachievements.org/game/10022/hashes</url>
+		<hash>1e5609b304f3b0b023caac37b2f995f0</hash>
 		<hash>8309d2aed7f5bcac384ab5a5913cb5c0</hash>
 	</game>
 	
@@ -247,21 +237,16 @@
 		<hash>9e622c639d62cebd0a027ff788fb820d</hash>
 	</game>
 	
-	<game name="Ground Zero Texas (USA) (Disc 2)">
+	<game name="Ground Zero Texas (USA)">
 		<category>Retail</category>
-		<description>Ground Zero Texas (USA) (Disc 2)</description>
-		<release name="Ground Zero Texas (USA) (Disc 2)" region="USA"/>
+		<description>Ground Zero Texas (USA)</description>
+		<release name="Ground Zero Texas (USA)" region="USA"/>
+		<rom name="Ground Zero Texas (USA).m3u" size="74" crc="4873904e" md5="080194c40bc34853e6743821d7d0bc72" sha1="5c468ec38977afe07dbb412a1a4fbae2279e03b1"/>
+		<rom name="Ground Zero Texas (USA) (Disc 1).chd" size="288650202" crc="e942096e" md5="1a6bf62e13a153b4e23b0fdc7eec0f06" sha1="020396ed5a0e17c677fa2492ae0b0b3e00d15924"/>
 		<rom name="Ground Zero Texas (USA) (Disc 2).chd" size="279137574" crc="32bb4d07" md5="a6cdbb829323aa72331f69bbd061df32" sha1="6b254d1ae1267b7c15ff6693b7d67b068eefe3ad"/>
 		<url>https://retroachievements.org/game/17008/hashes</url>
-		<hash>0a3b03f3aa306bf76ee78dc1ee130712</hash>
-	</game>
-	<game name="Ground Zero Texas (USA) (Disc 1)">
-		<category>Retail</category>
-		<description>Ground Zero Texas (USA) (Disc 1)</description>
-		<release name="Ground Zero Texas (USA) (Disc 1)" region="USA"/>
-		<rom name="Ground Zero Texas (USA) (Disc 1).chd" size="288650202" crc="e942096e" md5="1a6bf62e13a153b4e23b0fdc7eec0f06" sha1="020396ed5a0e17c677fa2492ae0b0b3e00d15924"/>
-		<url>https://retroachievements.org/game/17008/hashes</url>
 		<hash>ce35f52d95bfc57be16a2b03f741e146</hash>
+		<hash>0a3b03f3aa306bf76ee78dc1ee130712</hash>
 	</game>
 	
 	<game name="Iron Helix (USA)">
@@ -398,21 +383,16 @@
 		<hash>42f6c9c6512d0262392d4be743d9ea11</hash>
 	</game>
 	
-	<game name="Night Trap (USA) (Disc 1)">
+	<game name="Night Trap (USA)">
 		<category>Retail</category>
-		<description>Night Trap (USA) (Disc 1)</description>
-		<release name="Night Trap (USA) (Disc 1)" region="USA"/>
+		<description>Night Trap (USA)</description>
+		<release name="Night Trap (USA)" region="USA"/>
+		<rom name="Night Trap (USA).m3u" size="60" crc="f9563ad4" md5="971fef54d30786ed04e378bac30fd221" sha1="535cc05b8c4829cf163b5054358b80283a376ff1"/>
 		<rom name="Night Trap (USA) (Disc 1).chd" size="277507193" crc="e6a6eb54" md5="e0ef22225b0e74b390593fafbf212bc2" sha1="fdbc88a3f7a369b83de1d79bc11ea9f63cd3413d"/>
-		<url>https://retroachievements.org/game/17011/hashes</url>
-		<hash>3110d9f656697adb3cbf5f1cb0d77e6f</hash>
-	</game>
-	<game name="Night Trap (USA) (Disc 2)">
-		<category>Retail</category>
-		<description>Night Trap (USA) (Disc 2)</description>
-		<release name="Night Trap (USA) (Disc 2)" region="USA"/>
 		<rom name="Night Trap (USA) (Disc 2).chd" size="233174608" crc="f589056c" md5="64a351a158e7de1bb4b3c4ce94a56036" sha1="a2972a30568475f6bafda8ba8e44625ef439cd83"/>
 		<url>https://retroachievements.org/game/17011/hashes</url>
-		<note>Hash is the same as Disc 1's hash</note>
+		<hash>3110d9f656697adb3cbf5f1cb0d77e6f</hash>
+		<note>Disc 2 hash is the same as Disc 1's hash</note>
 	</game>
 	
 	<game name="Panic! (USA) (RE)">
@@ -564,21 +544,16 @@
 		<hash>cb1ada19197ec469d7e4f3fbdf3dcbfa</hash>
 	</game>
 	
-	<game name="Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 1)">
+	<game name="Sherlock Holmes - Consulting Detective - Vol. II (USA)">
 		<category>Retail</category>
-		<description>Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 1)</description>
-		<release name="Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 1)" region="USA"/>
+		<description>Sherlock Holmes - Consulting Detective - Vol. II (USA)</description>
+		<release name="Sherlock Holmes - Consulting Detective - Vol. II (USA)" region="USA"/>
+		<rom name="Sherlock Holmes - Consulting Detective - Vol. II (USA).m3u" size="136" crc="39d25a77" md5="787e79b9da0e21f70030011a30f7a85d" sha1="69ef1a402ee81944a8e955d1883bedf9f2c46300"/>
 		<rom name="Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 1).chd" size="250961641" crc="a447c81f" md5="c59ca1232d02e60e406a1a5cc05a0c2d" sha1="62f072c16c2bf68d9c4c1b402e9a3dcbf8484983"/>
-		<url>https://retroachievements.org/game/33131/hashes</url>
-		<hash>79aa2fea650ddd2117642abf22f2dd32</hash>
-	</game>
-	<game name="Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 2)">
-		<category>Retail</category>
-		<description>Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 2)</description>
-		<release name="Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 2)" region="USA"/>
 		<rom name="Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 2).chd" size="151419645" crc="0ebdc3f6" md5="582bd85f806b0f0da14e9e8a9b8bd78e" sha1="b0894df7d48da06ec7d3f15f907400305a2b4218"/>
 		<url>https://retroachievements.org/game/33131/hashes</url>
-		<note>Not linked but needed.</note>
+		<hash>79aa2fea650ddd2117642abf22f2dd32</hash>
+		<note>Disc 2 not linked but needed to play game</note>
 	</game>
 	
 	<game name="Shining Force CD (USA) (3R)">

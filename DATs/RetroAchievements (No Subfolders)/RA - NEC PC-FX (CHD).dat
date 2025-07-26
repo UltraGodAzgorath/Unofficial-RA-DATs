@@ -111,23 +111,18 @@
 		<hash>75B75E4BB1337E55BA75AC3CEFC24844</hash>
 	</game>
 
-	<game name="Last Imperial Prince (Japan) (Disc A)">
+	<game name="Last Imperial Prince/Last Imperial Prince (Japan)">
 		<category>Retail</category>
-		<description>Last Imperial Prince (Japan) (Disc A)</description>
-		<release name="Last Imperial Prince (Japan) (Disc A)" region="Japan"/>
+		<description>Last Imperial Prince (Japan)</description>
+		<release name="Last Imperial Prince (Japan)" region="Japan"/>
+		<rom name="Last Imperial Prince (Japan).m3u" size="84" crc="04963161" md5="33fc102d1f5061e0e73b315229252198" sha1="1150c7fd90dfb2b32c1f78be46b59c68fefd6521"/>
 		<rom name="Last Imperial Prince (Japan) (Disc A).chd" size="374317414" crc="c8f6d391" md5="746300e22424a1411358d6735266bf8f" sha1="62bfa7ba5e6cc9b565ad795ec447e809aa518360"/>
-		<url>https://retroachievements.org/game/9373/hashes</url>
-		<hash>B62AAD2FB95226BF6AE234A0DEB9B53F</hash>
-	</game>
-	<game name="Last Imperial Prince (Japan) (Disc B)">
-		<category>Retail</category>
-		<description>Last Imperial Prince (Japan) (Disc B)</description>
-		<release name="Last Imperial Prince (Japan) (Disc B)" region="Japan"/>
 		<rom name="Last Imperial Prince (Japan) (Disc B).chd" size="404165232" crc="a1033218" md5="aa6a229e39688323005fad735fab67df" sha1="8939b6304ccdc69c09b739b2a2d7bb3eef1e72fd"/>
 		<url>https://retroachievements.org/game/9373/hashes</url>
+		<hash>B62AAD2FB95226BF6AE234A0DEB9B53F</hash>
 		<hash>C434170699BFD0273842CE563E9C42E0</hash>
 	</game>
-
+	
 	<game name="Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan)">
 		<category>Retail</category>
 		<description>Pachio-kun FX - Maboroshi no Shima Daisakusen (Japan)</description>

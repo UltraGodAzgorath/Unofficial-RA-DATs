@@ -38,19 +38,15 @@
 		<url>https://retroachievements.org/game/14766/hashes</url>
 		<hash>85fce84ca1245733aac68a1ec28041e4</hash>
 	</game>
-
-	<game name="Prototype/Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 1)">
+	
+	<game name="Prototype/Penn &amp; Teller's Smoke and Mirrors (USA) (Proto)">
 		<category></category>
-		<description>Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 1)</description>
+		<description>Penn &amp; Teller's Smoke and Mirrors (USA) (Proto)</description>
+		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Proto).m3u" size="122" crc="07de285a" md5="ce58b03ba9e883853c2f05d930136f8b" sha1="b88515e5f50f967cd830d61c952fc15ad2fd1262"/>
 		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 1).chd" size="324097316" crc="fb4edf20" md5="28e2e0a9c3c5b3ad99c3990203fc2da9" sha1="9a6884906872ac709f04cb754f3ffc9e885d8026"/>
-		<url>https://retroachievements.org/game/10096/hashes</url>
-		<hash>3366c149ddd7b8266deb4a729e804118</hash>
-	</game>
-	<game name="Prototype/Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 2)">
-		<category></category>
-		<description>Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 2)</description>
 		<rom name="Penn &amp; Teller's Smoke and Mirrors (USA) (Proto) (Disc 2).chd" size="129624295" crc="e2c5b03d" md5="9bff7383ffe234025900a800036ec49d" sha1="8b870e536e5e99c19dd7724cdbb96d64e5251602"/>
 		<url>https://retroachievements.org/game/10096/hashes</url>
+		<hash>3366c149ddd7b8266deb4a729e804118</hash>
 		<hash>b27c343ec2d3baba714a3667017c290c</hash>
 	</game>
 	
@@ -126,18 +122,14 @@
 		<hash>2b993293168b46a43f6a30683e1b85f3</hash>
 	</game>
 	
-	<game name="Retail/Dracula Unleashed (USA) (Disc 1)">
+	<game name="Retail/Dracula Unleashed (USA)">
 		<category></category>
-		<description>Dracula Unleashed (USA) (Disc 1)</description>
+		<description>Dracula Unleashed (USA)</description>
+		<rom name="Dracula Unleashed (USA).m3u" size="74" crc="8cea2821" md5="1fb56b94b7e5c96d44e0f3fa0af164f6" sha1="2eea2fef23612dba776dae120e76c6d2acf349f0"/>
 		<rom name="Dracula Unleashed (USA) (Disc 1).chd" size="323699863" crc="eef154ea" md5="51a3fcfa3e4537f1ed3dc54869684e33" sha1="64e761f1ad05a2b47cdef900bed7a578be9657bb"/>
-		<url>https://retroachievements.org/game/10022/hashes</url>
-		<hash>1e5609b304f3b0b023caac37b2f995f0</hash>
-	</game>
-	<game name="Retail/Dracula Unleashed (USA) (Disc 2)">
-		<category></category>
-		<description>Dracula Unleashed (USA) (Disc 2)</description>
 		<rom name="Dracula Unleashed (USA) (Disc 2).chd" size="362076079" crc="58a13bef" md5="dc63124e1367ed9d0f5172f9177cc1c9" sha1="61b13cc8a55c67e9d710e4294c10757cc67db651"/>
 		<url>https://retroachievements.org/game/10022/hashes</url>
+		<hash>1e5609b304f3b0b023caac37b2f995f0</hash>
 		<hash>8309d2aed7f5bcac384ab5a5913cb5c0</hash>
 	</game>
 	
@@ -220,20 +212,16 @@
 		<url>https://retroachievements.org/game/15557/hashes</url>
 		<hash>9e622c639d62cebd0a027ff788fb820d</hash>
 	</game>
-
-	<game name="Retail/Ground Zero Texas (USA) (Disc 2)">
+	
+	<game name="Retail/Ground Zero Texas (USA)">
 		<category></category>
-		<description>Ground Zero Texas (USA) (Disc 2)</description>
+		<description>Ground Zero Texas (USA)</description>
+		<rom name="Ground Zero Texas (USA).m3u" size="74" crc="4873904e" md5="080194c40bc34853e6743821d7d0bc72" sha1="5c468ec38977afe07dbb412a1a4fbae2279e03b1"/>
+		<rom name="Ground Zero Texas (USA) (Disc 1).chd" size="288650202" crc="e942096e" md5="1a6bf62e13a153b4e23b0fdc7eec0f06" sha1="020396ed5a0e17c677fa2492ae0b0b3e00d15924"/>
 		<rom name="Ground Zero Texas (USA) (Disc 2).chd" size="279137574" crc="32bb4d07" md5="a6cdbb829323aa72331f69bbd061df32" sha1="6b254d1ae1267b7c15ff6693b7d67b068eefe3ad"/>
 		<url>https://retroachievements.org/game/17008/hashes</url>
-		<hash>0a3b03f3aa306bf76ee78dc1ee130712</hash>
-	</game>
-	<game name="Retail/Ground Zero Texas (USA) (Disc 1)">
-		<category></category>
-		<description>Ground Zero Texas (USA) (Disc 1)</description>
-		<rom name="Ground Zero Texas (USA) (Disc 1).chd" size="288650202" crc="e942096e" md5="1a6bf62e13a153b4e23b0fdc7eec0f06" sha1="020396ed5a0e17c677fa2492ae0b0b3e00d15924"/>
-		<url>https://retroachievements.org/game/17008/hashes</url>
 		<hash>ce35f52d95bfc57be16a2b03f741e146</hash>
+		<hash>0a3b03f3aa306bf76ee78dc1ee130712</hash>
 	</game>
 	
 	<game name="Retail/Iron Helix (USA)">
@@ -324,14 +312,14 @@
 		<hash>b111ff79baa4e42536429bb4aebdd578</hash>
 	</game>
 	
-	<game name="Retail/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)">
+	<game name="Retail/Mickey Mania/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)">
 		<category></category>
 		<description>Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)</description>
 		<rom name="Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).chd" size="246124383" crc="201a0ef2" md5="5b7c4b577cf46617235ad1d7f12b42b3" sha1="a779bf668cdebb6b37562734b6cc1c8fb8502084"/>
 		<url>https://retroachievements.org/game/16034/hashes</url>
 		<hash>0de3f1c9f358f35eb589125d07b11f42</hash>
 	</game>
-	<game name="Retail/Mickey Mania (Europe)">
+	<game name="Retail/Mickey Mania/Mickey Mania (Europe)">
 		<category></category>
 		<description>Mickey Mania (Europe)</description>
 		<rom name="Mickey Mania (Europe).chd" size="246117447" crc="ded58f4c" md5="2fe38208ae3782023c00d92782d349c0" sha1="5e6a6e5441051bbf2b355ae7cc75ff837cd24dc9"/>
@@ -354,20 +342,16 @@
 		<url>https://retroachievements.org/game/15402/hashes</url>
 		<hash>42f6c9c6512d0262392d4be743d9ea11</hash>
 	</game>
-
-	<game name="Retail/Night Trap (USA) (Disc 1)">
+	
+	<game name="Retail/Night Trap (USA)">
 		<category></category>
-		<description>Night Trap (USA) (Disc 1)</description>
+		<description>Night Trap (USA)</description>
+		<rom name="Night Trap (USA).m3u" size="60" crc="f9563ad4" md5="971fef54d30786ed04e378bac30fd221" sha1="535cc05b8c4829cf163b5054358b80283a376ff1"/>
 		<rom name="Night Trap (USA) (Disc 1).chd" size="277507193" crc="e6a6eb54" md5="e0ef22225b0e74b390593fafbf212bc2" sha1="fdbc88a3f7a369b83de1d79bc11ea9f63cd3413d"/>
-		<url>https://retroachievements.org/game/17011/hashes</url>
-		<hash>3110d9f656697adb3cbf5f1cb0d77e6f</hash>
-	</game>
-	<game name="Retail/Night Trap (USA) (Disc 2)">
-		<category></category>
-		<description>Night Trap (USA) (Disc 2)</description>
 		<rom name="Night Trap (USA) (Disc 2).chd" size="233174608" crc="f589056c" md5="64a351a158e7de1bb4b3c4ce94a56036" sha1="a2972a30568475f6bafda8ba8e44625ef439cd83"/>
 		<url>https://retroachievements.org/game/17011/hashes</url>
-		<note>Hash is the same as Disc 1's hash</note>
+		<hash>3110d9f656697adb3cbf5f1cb0d77e6f</hash>
+		<note>Disc 2 hash is the same as Disc 1's hash</note>
 	</game>
 	
 	<game name="Retail/Panic! (USA) (RE)">
@@ -410,14 +394,14 @@
 		<hash>2b2e58c6d389fc0fb3de9ed1048152fc</hash>
 	</game>
 	
-	<game name="Retail/Revengers of Vengeance (USA)">
+	<game name="Retail/Revengers of Vengeance/Revengers of Vengeance (USA)">
 		<category></category>
 		<description>Revengers of Vengeance (USA)</description>
 		<rom name="Revengers of Vengeance (USA).chd" size="313577054" crc="095592f4" md5="fc1a4d09548a141126f9bca6ee0ab419" sha1="9bf84b11a31e16983ddcd71cd29a8b18f98645a7"/>
 		<url>https://retroachievements.org/game/25914/hashes</url>
 		<hash>cf8116a12b94300a0cd9d3e8d2a69339</hash>
 	</game>
-	<game name="Retail/Battle Fantasy (Japan) (Rev A)">
+	<game name="Retail/Revengers of Vengeance/Battle Fantasy (Japan) (Rev A)">
 		<category></category>
 		<description>Battle Fantasy (Japan) (Rev A)</description>
 		<rom name="Battle Fantasy (Japan) (Rev A).chd" size="315910250" crc="ef1b32aa" md5="c0f22f87b5251716575d94d5ab9a22e7" sha1="253d9490578b09db6b27e8477742081e9fe99025"/>
@@ -449,14 +433,14 @@
 		<hash>211ade60b28992129345fa065dd869c1</hash>
 	</game>
 
-	<game name="Retail/Dennin Aleste - Nobunaga and His Ninja Force (Japan)">
+	<game name="Retail/Robo Aleste/Dennin Aleste - Nobunaga and His Ninja Force (Japan)">
 		<category></category>
 		<description>Dennin Aleste - Nobunaga and His Ninja Force (Japan)</description>
 		<rom name="Dennin Aleste - Nobunaga and His Ninja Force (Japan).chd" size="339566817" crc="135ace09" md5="83506ee624133ed85a96b70352dd4cc2" sha1="5604f548bf38876a350fb93b4589f5244d40dd38"/>
 		<url>https://retroachievements.org/game/10068/hashes</url>
 		<hash>71967ae1a3446731e64ca18a5539191d</hash>
 	</game>
-	<game name="Retail/Robo Aleste (USA)">
+	<game name="Retail/Robo Aleste/Robo Aleste (USA)">
 		<category></category>
 		<description>Robo Aleste (USA)</description>
 		<rom name="Robo Aleste (USA).chd" size="333791553" crc="5af7f90e" md5="0ea70456d92a3b2b869de74f47d8cef9" sha1="1d8a696db8c07d83b24d6027f4b4befe03388f56"/>
@@ -472,14 +456,14 @@
 		<hash>88a45e257d08dd7eec466a1994bbb596</hash>
 	</game>
 
-	<game name="Retail/Sewer Shark (USA) (Not for Resale)">
+	<game name="Retail/Sewer Shark/Sewer Shark (USA) (Not for Resale)">
 		<category></category>
 		<description>Sewer Shark (USA) (Not for Resale)</description>
 		<rom name="Sewer Shark (USA) (Not for Resale).chd" size="260157177" crc="0cef9409" md5="f7edce5d7f10dd33da7af7c4ee4f8a24" sha1="63630412dfd56215ee371a1ef252e082acc40e5a"/>
 		<url>https://retroachievements.org/game/10583/hashes</url>
 		<hash>76745a0f053dfb1f06ffd5d27639e88e</hash>
 	</game>
-	<game name="Retail/Sewer Shark (USA) (Rev 1)">
+	<game name="Retail/Sewer Shark/Sewer Shark (USA) (Rev 1)">
 		<category></category>
 		<description>Sewer Shark (USA) (Rev 1)</description>
 		<rom name="Sewer Shark (USA) (Rev 1).chd" size="259859212" crc="e810efe7" md5="9d46e9653b98a50bba75e18e229acf6d" sha1="97f27392f98e88fe7894f65270caf351d807b3fc"/>
@@ -503,19 +487,15 @@
 		<hash>cb1ada19197ec469d7e4f3fbdf3dcbfa</hash>
 	</game>
 	
-	<game name="Retail/Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 1)">
+	<game name="Retail/Sherlock Holmes - Consulting Detective - Vol. II (USA)">
 		<category></category>
-		<description>Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 1)</description>
+		<description>Sherlock Holmes - Consulting Detective - Vol. II (USA)</description>
+		<rom name="Sherlock Holmes - Consulting Detective - Vol. II (USA).m3u" size="136" crc="39d25a77" md5="787e79b9da0e21f70030011a30f7a85d" sha1="69ef1a402ee81944a8e955d1883bedf9f2c46300"/>
 		<rom name="Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 1).chd" size="250961641" crc="a447c81f" md5="c59ca1232d02e60e406a1a5cc05a0c2d" sha1="62f072c16c2bf68d9c4c1b402e9a3dcbf8484983"/>
-		<url>https://retroachievements.org/game/33131/hashes</url>
-		<hash>79aa2fea650ddd2117642abf22f2dd32</hash>
-	</game>
-	<game name="Retail/Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 2)">
-		<category></category>
-		<description>Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 2)</description>
 		<rom name="Sherlock Holmes - Consulting Detective - Vol. II (USA) (Disc 2).chd" size="151419645" crc="0ebdc3f6" md5="582bd85f806b0f0da14e9e8a9b8bd78e" sha1="b0894df7d48da06ec7d3f15f907400305a2b4218"/>
 		<url>https://retroachievements.org/game/33131/hashes</url>
-		<note>Not linked but needed.</note>
+		<hash>79aa2fea650ddd2117642abf22f2dd32</hash>
+		<note>Disc 2 not linked but needed to play game</note>
 	</game>
 	
 	<game name="Retail/Shining Force CD (USA) (3R)">
@@ -534,14 +514,14 @@
 		<hash>260a58e3f33816178e0a9a632af9d188</hash>
 	</game>
 
-	<game name="Retail/Snatcher (USA)">
+	<game name="Retail/Snatcher/Snatcher (USA)">
 		<category></category>
 		<description>Snatcher (USA)</description>
 		<rom name="Snatcher (USA).chd" size="335210238" crc="4754a596" md5="c9161afde9b3452d16d57ccf085a5957" sha1="688a7aaf6c4ad7002e4df711ca1c5db9d950e100"/>
 		<url>https://retroachievements.org/game/10067/hashes</url>
 		<hash>38318ed1f6f7732a3fa2495288f6da24</hash>
 	</game>
-	<game name="Retail/Snatcher (USA) (Es) (3lm4dn0)">
+	<game name="Retail/Snatcher/Snatcher (USA) (Es) (3lm4dn0)">
 		<category></category>
 		<description>Snatcher (USA) (Es) (3lm4dn0)</description>
 		<rom name="Snatcher (USA) (Es) (3lm4dn0).chd" size="335217097" crc="81f58c21" md5="36d9551871a66b78525753bccc6e277c" sha1="e4dae4c9177069fb04e661d814f20a25f967706b"/>
@@ -557,21 +537,21 @@
 		<hash>931219b53e97b86e8f18cf4c112c8500</hash>
 	</game>
 
-	<game name="Retail/Sonic the Hedgehog CD (Japan)">
+	<game name="Retail/Sonic CD/Sonic the Hedgehog CD (Japan)">
 		<category></category>
 		<description>Sonic the Hedgehog CD (Japan)</description>
 		<rom name="Sonic the Hedgehog CD (Japan).chd" size="338321824" crc="10de5a7f" md5="d0127926d00811f97422e839e57c9caf" sha1="7a8bb8abd8ee36872e0aa67291ac2ee14f646fb4"/>
 		<url>https://retroachievements.org/game/10062/hashes</url>
 		<hash>204f8d81ecf13aa7dc75cbafaf4c4ca3</hash>
 	</game>
-	<game name="Retail/Sonic CD (Europe) (60Hz Patch) (v1.0) (RoberMC)">
+	<game name="Retail/Sonic CD/Sonic CD (Europe) (60Hz Patch) (v1.0) (RoberMC)">
 		<category></category>
 		<description>Sonic CD (Europe) (60Hz Patch) (v1.0) (RoberMC)</description>
 		<rom name="Sonic CD (Europe) (60Hz Patch) (v1.0) (RoberMC).chd" size="338164635" crc="b6806318" md5="20cfe8181fca4be9ccbdf4863ce74299" sha1="c12ac07f500451e60a6536f92912fe6c038b0d8f"/>
 		<url>https://retroachievements.org/game/10062/hashes</url>
 		<hash>9098e511e738cc6492989342562d36b6</hash>
 	</game>
-	<game name="Retail/Sonic CD (USA)">
+	<game name="Retail/Sonic CD/Sonic CD (USA)">
 		<category></category>
 		<description>Sonic CD (USA)</description>
 		<rom name="Sonic CD (USA).chd" size="336694309" crc="99cdf368" md5="8e3bdc7bab81a1a78b2b1932a2a9a8de" sha1="77b642eff87a6a06d4c4d9f9a7f8e18864a89f9c"/>
@@ -619,14 +599,14 @@
 		<hash>88e929c3c9db840c2f784d16398651d8</hash>
 	</game>
 	
-	<game name="Retail/Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1)">
+	<game name="Retail/The Amazing Spider-Man vs. The Kingpin/Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1)">
 		<category></category>
 		<description>Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1)</description>
 		<rom name="Amazing Spider-Man vs. The Kingpin, The (USA) (Rev 1).chd" size="310108907" crc="8eab5d8e" md5="1010a54da32bc283cb08ea8cc4cd7c58" sha1="09b8e828c0183babd9ab2d3c385318cc232783ff"/>
 		<url>https://retroachievements.org/game/14852/hashes</url>
 		<hash>03cc7766d9738f00820f52b7563a8dd5</hash>
 	</game>
-	<game name="Retail/Amazing Spider-Man vs. The Kingpin, The (Europe)">
+	<game name="Retail/The Amazing Spider-Man vs. The Kingpin/Amazing Spider-Man vs. The Kingpin, The (Europe)">
 		<category></category>
 		<description>Amazing Spider-Man vs. The Kingpin, The (Europe)</description>
 		<rom name="Amazing Spider-Man vs. The Kingpin, The (Europe).chd" size="309961698" crc="6872bc37" md5="bb9dffa3d394b81bdbb012139715eadf" sha1="e067e0132b0a1f0205feda64e694801e236f482c"/>
@@ -642,14 +622,14 @@
 		<hash>8b4d90416e102bfee7449d5e18947030</hash>
 	</game>
 	
-	<game name="Retail/Masked Rider, The - Kamen Rider ZO (USA)">
+	<game name="Retail/Kamen Rider ZO/Masked Rider, The - Kamen Rider ZO (USA)">
 		<category></category>
 		<description>Masked Rider, The - Kamen Rider ZO (USA)</description>
 		<rom name="Masked Rider, The - Kamen Rider ZO (USA).chd" size="193054481" crc="0068797d" md5="f1453259ed11bdb27e31e9e3c73109a9" sha1="95ce0e7cdd138b1c5985a3544320ab3b6371b8b7"/>
 		<url>https://retroachievements.org/game/15705/hashes</url>
 		<hash>04521eb3a053f158715230281083e812</hash>
 	</game>
-	<game name="Retail/Kamen Rider ZO (Japan)">
+	<game name="Retail/Kamen Rider ZO/Kamen Rider ZO (Japan)">
 		<category></category>
 		<description>Kamen Rider ZO (Japan)</description>
 		<rom name="Kamen Rider ZO (Japan).chd" size="198116970" crc="40f38618" md5="b730db48e612f2fafabc298dd699147f" sha1="c1712917e3636e848af898e354534e99f4c084df"/>
@@ -697,14 +677,14 @@
 		<hash>4b64f8013a066feb347c427778013947</hash>
 	</game>
 
-	<game name="Retail/Time Gal (USA)">
+	<game name="Retail/Time Gal/Time Gal (USA)">
 		<category></category>
 		<description>Time Gal (USA)</description>
 		<rom name="Time Gal (USA).chd" size="64967676" crc="8d1039b7" md5="2b5629e65aaf48a45d5ec6a4764bd78a" sha1="89525d1bbfc288be7d1cb41490ff263a44f5bc0e"/>
 		<url>https://retroachievements.org/game/12875/hashes</url>
 		<hash>5f51a8eb2e5d1aa016d7b995e964d84f</hash>
 	</game>
-	<game name="Retail/Time Gal (Japan)">
+	<game name="Retail/Time Gal/Time Gal (Japan)">
 		<category></category>
 		<description>Time Gal (Japan)</description>
 		<rom name="Time Gal (Japan).chd" size="69683174" crc="c007a1ec" md5="023bdb76984d4e332bf802861459e118" sha1="17c87448328576333de481da077127423dd823c6"/>
