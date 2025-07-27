@@ -5,8 +5,8 @@
 		<name>RA - Sega Saturn (CHD)</name>
 		<description>Sega Saturn (CHD)</description>
 		<category>No Subfolders</category>
-		<version>20250701</version>
-		<date>01 July 2025</date>
+		<version>20250727</version>
+		<date>27 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/39/games</url>
@@ -384,21 +384,16 @@
 		<hash>37674ab0fe794821dfd080116e1a10ba</hash>
 	</game>
 	
-	<game name="D (USA) (Disc II)">
+	<game name="D (USA)">
 		<category>Retail</category>
-		<description>D (USA) (Disc II)</description>
-		<release name="D (USA) (Disc II)" region="USA"/>
+		<description>D (USA)</description>
+		<release name="D (USA)" region="USA"/>
+		<rom name="D (USA).m3u" size="43" crc="21368742" md5="c6d2a0463575afe77e71aded5d8f4b46" sha1="4d019062f88cf6763fe81b2587d59459a1d43761"/>
+		<rom name="D (USA) (Disc I).chd" size="412446359" crc="679845b7" md5="3919d6ed34e30c278e8faf3d076089d8" sha1="02116fccd56e25b2d19b9e3b6ed4a5b8ce3c4726"/>
 		<rom name="D (USA) (Disc II).chd" size="373927340" crc="9852ed6a" md5="bc557db4a5822afa09ba016b97e8e194" sha1="e621a7b19137d7b911bc323151ccb97647c31a5c"/>
 		<url>https://retroachievements.org/game/19524/hashes</url>
-		<hash>303519c55cbd74fd2dfa64f976d2183d</hash>
-	</game>
-	<game name="D (USA) (Disc I)">
-		<category>Retail</category>
-		<description>D (USA) (Disc I)</description>
-		<release name="D (USA) (Disc I)" region="USA"/>
-		<rom name="D (USA) (Disc I).chd" size="412446359" crc="679845b7" md5="3919d6ed34e30c278e8faf3d076089d8" sha1="02116fccd56e25b2d19b9e3b6ed4a5b8ce3c4726"/>
-		<url>https://retroachievements.org/game/19524/hashes</url>
 		<hash>a3a553c7655e0cfe3026e487b2e50c7d</hash>
+		<hash>303519c55cbd74fd2dfa64f976d2183d</hash>
 	</game>
 	
 	<game name="Dark Savior (USA)">
@@ -560,37 +555,27 @@
 		<hash>b45e3108ff6e4c51625bc5e4caac8faf</hash>
 	</game>
 	
-	<game name="Dungeons &amp; Dragons Collection (Japan) (Disc 1) (Tower of Doom)">
+	<game name="Dungeons &amp; Dragons Collection (Japan)">
 		<category>Retail</category>
-		<description>Dungeons &amp; Dragons Collection (Japan) (Disc 1) (Tower of Doom)</description>
-		<release name="Dungeons &amp; Dragons Collection (Japan) (Disc 1) (Tower of Doom)" region="Japan"/>
+		<description>Dungeons &amp; Dragons Collection (Japan)</description>
+		<release name="Dungeons &amp; Dragons Collection (Japan)" region="Japan"/>
+		<rom name="Dungeons &amp; Dragons Collection (Japan).m3u" size="140" crc="66f21228" md5="237a8917768ed0ddaababe4af7984bfe" sha1="b7a260bcb36e99f146b0bb069d8920230091a994"/>
 		<rom name="Dungeons &amp; Dragons Collection (Japan) (Disc 1) (Tower of Doom).chd" size="357232931" crc="3e52942c" md5="2435465cb31f4a5a35a80cbdaf0167a0" sha1="12e589d6b5e4555cb5caab45c8adecfbef8f2b44"/>
-		<url>https://retroachievements.org/game/4830/hashes</url>
-		<hash>3618f3f480bb57da26bfbeeb7e53bb6f</hash>
-	</game>
-	<game name="Dungeons &amp; Dragons Collection (Japan) (Disc 2) (Shadow over Mystara)">
-		<category>Retail</category>
-		<description>Dungeons &amp; Dragons Collection (Japan) (Disc 2) (Shadow over Mystara)</description>
-		<release name="Dungeons &amp; Dragons Collection (Japan) (Disc 2) (Shadow over Mystara)" region="Japan"/>
 		<rom name="Dungeons &amp; Dragons Collection (Japan) (Disc 2) (Shadow over Mystara).chd" size="371574529" crc="5e2681ca" md5="c86225b361869a91ea4217e342f1df39" sha1="49a440f65e75855a2f98e3f563700b1983fbe5cf"/>
 		<url>https://retroachievements.org/game/4830/hashes</url>
+		<hash>3618f3f480bb57da26bfbeeb7e53bb6f</hash>
 		<hash>7f0b418fd552bdb37040634183bffb86</hash>
 	</game>
 	
-	<game name="Dungeons &amp; Dragons Collection (Disc 1) (Tower of Doom) (Subset - Multi)">
+	<game name="Dungeons &amp; Dragons Collection (Subset - Multi)">
 		<category>Subset</category>
-		<description>Dungeons &amp; Dragons Collection (Disc 1) (Tower of Doom) (Subset - Multi)</description>
-		<release name="Dungeons &amp; Dragons Collection (Disc 1) (Tower of Doom) (Subset - Multi)" region="World"/>
+		<description>Dungeons &amp; Dragons Collection (Subset - Multi)</description>
+		<release name="Dungeons &amp; Dragons Collection (Subset - Multi)" region="World"/>
+		<rom name="Dungeons &amp; Dragons Collection (Subset - Multi).m3u" size="158" crc="a1090386" md5="965f4c79df02e844ae507b852f5322a6" sha1="0eb8cecd5637d151c43580938f77526398ec16c5"/>
 		<rom name="Dungeons &amp; Dragons Collection (Disc 1) (Tower of Doom) (Subset - Multi).chd" size="357233220" crc="70330beb" md5="3ef94c086c96d14a5251cff41e5dec60" sha1="2925cf22228e0bd4b7c4c546b4cbbee863715241"/>
-		<url>https://retroachievements.org/game/28268/hashes</url>
-		<hash>0f922fec4cc26dce86194276a8557e69</hash>
-	</game>
-	<game name="Dungeons &amp; Dragons Collection (Disc 2) (Shadow over Mystara) (Subset - Multi)">
-		<category>Subset</category>
-		<description>Dungeons &amp; Dragons Collection (Disc 2) (Shadow over Mystara) (Subset - Multi)</description>
-		<release name="Dungeons &amp; Dragons Collection (Disc 2) (Shadow over Mystara) (Subset - Multi)" region="World"/>
 		<rom name="Dungeons &amp; Dragons Collection (Disc 2) (Shadow over Mystara) (Subset - Multi).chd" size="371574821" crc="af043418" md5="8be3409e5217d96cbc4655875a47b13d" sha1="f09d8085f8960178a9f94b241c0af3235cc3b3e2"/>
 		<url>https://retroachievements.org/game/28268/hashes</url>
+		<hash>0f922fec4cc26dce86194276a8557e69</hash>
 		<hash>56f305b1a0cefaaf12890411464791ba</hash>
 	</game>
 	
@@ -844,20 +829,15 @@
 		<hash>4b162310076f7e2483107808b4153eb2</hash>
 	</game>
 	
-	<game name="Lunacy (USA) (Disc 1)">
+	<game name="Lunacy (USA)">
 		<category>Retail</category>
-		<description>Lunacy (USA) (Disc 1)</description>
-		<release name="Lunacy (USA) (Disc 1)" region="USA"/>
+		<description>Lunacy (USA)</description>
+		<release name="Lunacy (USA)" region="USA"/>
+		<rom name="Lunacy (USA).m3u" size="52" crc="41070fa9" md5="76b289990d31fdcf11b0a0cda47f9abb" sha1="7bd2bf8df6384aaf8c3fe5fc6bc148c1b8c17559"/>
 		<rom name="Lunacy (USA) (Disc 1).chd" size="465409751" crc="c2d660cf" md5="33ebb0e78232839235d9d20f71b19078" sha1="4fe783dbeef85066bc1adeb09f7ed35a45148cce"/>
-		<url>https://retroachievements.org/game/17864/hashes</url>
-		<hash>2e09cf0ead17dbf58df873054116c6e3</hash>
-	</game>
-	<game name="Lunacy (USA) (Disc 2)">
-		<category>Retail</category>
-		<description>Lunacy (USA) (Disc 2)</description>
-		<release name="Lunacy (USA) (Disc 2)" region="USA"/>
 		<rom name="Lunacy (USA) (Disc 2).chd" size="480276032" crc="6df98116" md5="00a89188156631b6fc75adb79c6fc4b4" sha1="7232baaedcdb0fb5b954c04544055c202a4b5720"/>
 		<url>https://retroachievements.org/game/17864/hashes</url>
+		<hash>2e09cf0ead17dbf58df873054116c6e3</hash>
 		<hash>3daa388d813cc69f9ae359d1f5bc3b4b</hash>
 	</game>
 	
@@ -985,20 +965,15 @@
 		<hash>c440c81cf74068eafeabb2745f32ea6f</hash>
 	</game>
 	
-	<game name="Mr. Bones (USA) (Disc 1)">
+	<game name="Mr. Bones (USA)">
 		<category>Retail</category>
-		<description>Mr. Bones (USA) (Disc 1)</description>
-		<release name="Mr. Bones (USA) (Disc 1)" region="USA"/>
+		<description>Mr. Bones (USA)</description>
+		<release name="Mr. Bones (USA)" region="USA"/>
+		<rom name="Mr. Bones (USA).m3u" size="58" crc="c867ae7e" md5="883708b4394605d4bf9ee6c0a398d518" sha1="4ee638067b3321488410cef71babfa0cf785ea5a"/>
 		<rom name="Mr. Bones (USA) (Disc 1).chd" size="338674894" crc="1b1c0324" md5="932a8b980d4fc29734f633122d401fe6" sha1="b655fde6adc637004b7435a6e73467a7d090c9f9"/>
-		<url>https://retroachievements.org/game/14539/hashes</url>
-		<hash>09f7aa2e40a0e9b9a36874ad097b5dc1</hash>
-	</game>
-	<game name="Mr. Bones (USA) (Disc 2)">
-		<category>Retail</category>
-		<description>Mr. Bones (USA) (Disc 2)</description>
-		<release name="Mr. Bones (USA) (Disc 2)" region="USA"/>
 		<rom name="Mr. Bones (USA) (Disc 2).chd" size="341687137" crc="b8609d00" md5="55ec75e51594ccb3d57d862f319b33f8" sha1="8ff787e67619bc8317cf2528c8e168014eb63695"/>
 		<url>https://retroachievements.org/game/14539/hashes</url>
+		<hash>09f7aa2e40a0e9b9a36874ad097b5dc1</hash>
 		<hash>d07a5f41d500f8fab75f822f09afdc78</hash>
 	</game>
 	
@@ -1083,37 +1058,20 @@
 		<hash>e1a69311509e6afaace2575eb2fe0fe9</hash>
 	</game>
 	
-	<game name="Panzer Dragoon Saga (USA) (Disc 1)">
+	<game name="Panzer Dragoon Saga (USA)">
 		<category>Retail</category>
-		<description>Panzer Dragoon Saga (USA) (Disc 1)</description>
-		<release name="Panzer Dragoon Saga (USA) (Disc 1)" region="USA"/>
+		<description>Panzer Dragoon Saga (USA)</description>
+		<release name="Panzer Dragoon Saga (USA)" region="USA"/>
+		<rom name="Panzer Dragoon Saga (USA).m3u" size="158" crc="9f098577" md5="1bae93b88bf5030f0cfe4ee23f8bf16d" sha1="14a26cb02adc86963a10a7fa5633b1b95eebea13"/>
 		<rom name="Panzer Dragoon Saga (USA) (Disc 1).chd" size="397952732" crc="69c8033c" md5="83c175fcd8103110103eec7cef3edbfd" sha1="621e4d58561ae0a3b5eea9d2b0acaef5a043b01f"/>
-		<url>https://retroachievements.org/game/14506/hashes</url>
-		<hash>666d189c39e1a2ebc3f7261b330e67d3</hash>
-	</game>
-	<game name="Panzer Dragoon Saga (USA) (Disc 3)">
-		<category>Retail</category>
-		<description>Panzer Dragoon Saga (USA) (Disc 3)</description>
-		<release name="Panzer Dragoon Saga (USA) (Disc 3)" region="USA"/>
+		<rom name="Panzer Dragoon Saga (USA) (Disc 2).chd" size="340835151" crc="539b13e2" md5="94e1d9b613c965ce7fb1afc458f3c3cd" sha1="f6f7fd6d6aeb504a039195d5919927e350ba73a3"/>
 		<rom name="Panzer Dragoon Saga (USA) (Disc 3).chd" size="379765218" crc="a1fb279d" md5="89ed3c74cf6d1b5920c1741369f485d1" sha1="86c8cb612e2663ca7ce1753c52ace69b784e4cbd"/>
-		<url>https://retroachievements.org/game/14506/hashes</url>
-		<hash>669e1e85e6c8d8fb7f6b0529dede4192</hash>
-	</game>
-	<game name="Panzer Dragoon Saga (USA) (Disc 4)">
-		<category>Retail</category>
-		<description>Panzer Dragoon Saga (USA) (Disc 4)</description>
-		<release name="Panzer Dragoon Saga (USA) (Disc 4)" region="USA"/>
 		<rom name="Panzer Dragoon Saga (USA) (Disc 4).chd" size="403425310" crc="712c348c" md5="2f305406b6da88c62d6fb34a40a8d803" sha1="1a2be694811d70a563f399686c5c78923d16ca7d"/>
 		<url>https://retroachievements.org/game/14506/hashes</url>
-		<hash>b88d6fbea9087b57afa77502ed03a1bf</hash>
-	</game>
-	<game name="Panzer Dragoon Saga (USA) (Disc 2)">
-		<category>Retail</category>
-		<description>Panzer Dragoon Saga (USA) (Disc 2)</description>
-		<release name="Panzer Dragoon Saga (USA) (Disc 2)" region="USA"/>
-		<rom name="Panzer Dragoon Saga (USA) (Disc 2).chd" size="340835151" crc="539b13e2" md5="94e1d9b613c965ce7fb1afc458f3c3cd" sha1="f6f7fd6d6aeb504a039195d5919927e350ba73a3"/>
-		<url>https://retroachievements.org/game/14506/hashes</url>
+		<hash>666d189c39e1a2ebc3f7261b330e67d3</hash>
 		<hash>ce8b703005d83989e9e4db2c2508411f</hash>
+		<hash>669e1e85e6c8d8fb7f6b0529dede4192</hash>
+		<hash>b88d6fbea9087b57afa77502ed03a1bf</hash>
 	</game>
 	
 	<game name="Pastel Muses (Japan)">
@@ -1196,21 +1154,16 @@
 		<hash>1b1029dbc188b8d47cdb3827be0aff28</hash>
 	</game>
 	
-	<game name="Sakura Taisen (Japan) (Disc 2) (6M)">
+	<game name="Sakura Taisen (Japan) (6M)">
 		<category>Retail</category>
-		<description>Sakura Taisen (Japan) (Disc 2) (6M)</description>
-		<release name="Sakura Taisen (Japan) (Disc 2) (6M)" region="Japan"/>
+		<description>Sakura Taisen (Japan) (6M)</description>
+		<release name="Sakura Taisen (Japan) (6M)" region="Japan"/>
+		<rom name="Sakura Taisen (Japan) (6M).m3u" size="80" crc="453076ef" md5="9ec07f5bab6f0261bcf6f94d17ffba2d" sha1="28ae030658186960635fdf0dc185437b0cce7fcc"/>
+		<rom name="Sakura Taisen (Japan) (Disc 1) (6M).chd" size="400153915" crc="05ba9573" md5="fbd8c7613b93f7d69a8b4aec67a065f1" sha1="6ab59fc57003cffecfae3ce54884141f65a8053c"/>
 		<rom name="Sakura Taisen (Japan) (Disc 2) (6M).chd" size="390055687" crc="a03c010c" md5="23db013d755bf704a816063e8edafd47" sha1="2d3100619026aeff849a3e6a830f479a6a32f64e"/>
 		<url>https://retroachievements.org/game/16546/hashes</url>
-		<hash>c306c094d0177459b31f411cd4cd44a9</hash>
-	</game>
-	<game name="Sakura Taisen (Japan) (Disc 1) (6M)">
-		<category>Retail</category>
-		<description>Sakura Taisen (Japan) (Disc 1) (6M)</description>
-		<release name="Sakura Taisen (Japan) (Disc 1) (6M)" region="Japan"/>
-		<rom name="Sakura Taisen (Japan) (Disc 1) (6M).chd" size="400153915" crc="05ba9573" md5="fbd8c7613b93f7d69a8b4aec67a065f1" sha1="6ab59fc57003cffecfae3ce54884141f65a8053c"/>
-		<url>https://retroachievements.org/game/16546/hashes</url>
 		<hash>c4db9d08d56d1fbf78322852775d4818</hash>
+		<hash>c306c094d0177459b31f411cd4cd44a9</hash>
 	</game>
 	
 	<game name="Saturn Bomberman (USA) (1S)">
@@ -1379,36 +1332,26 @@
 		<hash>6373056ccba924f3c1bb3c34aa8a15dc</hash>
 	</game>
 	
-	<game name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 1)">
+	<game name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan)">
 		<category>Retail</category>
-		<description>Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 1)</description>
-		<release name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 1)" region="Japan"/>
+		<description>Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan)</description>
+		<release name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan)" region="Japan"/>
+		<rom name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan).m3u" size="154" crc="30111766" md5="7ee406d63c1b743c0cfc75d71b106661" sha1="63ae1b5857d4ecc8b253e5de9b651f341b6e339a"/>
 		<rom name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 1).chd" size="338503466" crc="d1eb2c01" md5="f5f65f8b1138386ccfafe8c03dfea458" sha1="62fb4a81f51796a887852f8d74ea6a6eb3cc6c18"/>
-		<url>https://retroachievements.org/game/19710/hashes</url>
-		<hash>645fd83ee73b13b9a0f4e37a870d6b9e</hash>
-	</game>
-	<game name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 2)">
-		<category>Retail</category>
-		<description>Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 2)</description>
-		<release name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 2)" region="Japan"/>
 		<rom name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 2).chd" size="400463934" crc="ca42f627" md5="e1f574d7259a2364967a33a401722dbd" sha1="4fe7cc4d39dd194f812ee70d08f1fd7a47d3a336"/>
 		<url>https://retroachievements.org/game/19710/hashes</url>
+		<hash>645fd83ee73b13b9a0f4e37a870d6b9e</hash>
 		<hash>8b49fc74cd2109903054842b91e732a5</hash>
 	</game>
-	<game name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (En) (v1.04) (In the Rose Garden) (Disc 1)" cloneof="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 1)">
+	<game name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (En) (v1.04) (In the Rose Garden)" cloneof="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan)">
 		<category>Retail</category>
-		<description>Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (En) (v1.04) (In the Rose Garden) (Disc 1)</description>
-		<release name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (En) (v1.04) (In the Rose Garden) (Disc 1)" region="English"/>
+		<description>Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (En) (v1.04) (In the Rose Garden)</description>
+		<release name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (En) (v1.04) (In the Rose Garden)" region="English"/>
+		<rom name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (En) (v1.04) (In the Rose Garden).m3u" size="222" crc="e1fd7509" md5="e30bfbada443dda779155c24f08bac9f" sha1="e125d692f77fb83f26bc44a9076d14bb39271877"/>
 		<rom name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (En) (v1.04) (In the Rose Garden) (Disc 1).chd" size="338670334" crc="d2ff7ac8" md5="4f3d5a24838e232169229c77015ad8df" sha1="be773ed442059447541fb23b57935a0ca499412f"/>
-		<url>https://retroachievements.org/game/19710/hashes</url>
-		<hash>1c952a1b4fe795ee190624d4d26997d3</hash>
-	</game>
-	<game name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (En) (v1.04) (In the Rose Garden) (Disc 2)" cloneof="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 2)">
-		<category>Retail</category>
-		<description>Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (En) (v1.04) (In the Rose Garden) (Disc 2)</description>
-		<release name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (En) (v1.04) (In the Rose Garden) (Disc 2)" region="English"/>
 		<rom name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (En) (v1.04) (In the Rose Garden) (Disc 2).chd" size="400633972" crc="c09166af" md5="cb3173e3883e7a53717c5dec1fb49db7" sha1="faa6d892a2b4d72fbb0682309acf1861964ed6e6"/>
 		<url>https://retroachievements.org/game/19710/hashes</url>
+		<hash>1c952a1b4fe795ee190624d4d26997d3</hash>
 		<hash>093a035731ea0dcef5dc9b3ec6ea5a27</hash>
 	</game>
 	

@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Virtual Boy</name>
 		<description>Nintendo Virtual Boy</description>
 		<category>Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250727</version>
+		<date>27 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/28/games</url>
@@ -180,14 +180,14 @@
 		<hash>977c4da800dacfac1a1402781670f872</hash>
 	</game>
 	
-	<game name="Retail/Insmouth no Yakata (Japan)">
+	<game name="Retail/Insmouth no Yakata/Insmouth no Yakata (Japan)">
 		<category></category>
 		<description>Insmouth no Yakata (Japan)</description>
 		<rom name="Insmouth no Yakata (Japan).vb" size="1048576" crc="83cb6a00" md5="1eb964d0eaa3223cfefdcc99a6265c88" sha1="37e06e53ce2810e870835c48decdd6c72079bfda"/>
 		<url>https://retroachievements.org/game/13041/hashes</url>
 		<hash>1eb964d0eaa3223cfefdcc99a6265c88</hash>
 	</game>
-	<game name="Retail/Innsmouth no Yakata (Japan) (En) (v1.0) (Thunderstruck)">
+	<game name="Retail/Insmouth no Yakata/Innsmouth no Yakata (Japan) (En) (v1.0) (Thunderstruck)">
 		<category></category>
 		<description>Innsmouth no Yakata (Japan) (En) (v1.0) (Thunderstruck)</description>
 		<rom name="Innsmouth no Yakata (Japan) (En) (v1.0) (Thunderstruck).vb" size="1048576" crc="04ccbe94" md5="4698a0b151d95bbbb833e2a523a12be7" sha1="37f0351b1711a9580a7346127bc54b3927bc7e1e"/>
@@ -195,28 +195,28 @@
 		<hash>4698a0b151d95bbbb833e2a523a12be7</hash>
 	</game>
 	
-	<game name="Retail/Jack Bros. (USA) (De) (No-Debug) (v1.0) (KR155E,televandalist)">
+	<game name="Retail/Jack Bros/Jack Bros. (USA) (De) (No-Debug) (v1.0) (KR155E,televandalist)">
 		<category></category>
 		<description>Jack Bros. (USA) (De) (No-Debug) (v1.0) (KR155E,televandalist)</description>
 		<rom name="Jack Bros. (USA) (De) (No-Debug) (v1.0) (KR155E,televandalist).vb" size="1048576" crc="6cb90f6e" md5="05ba60f0ac1aacedd57321f0ed5f62ca" sha1="9a91e18e331043dd97f07f6913c515779d28493a"/>
 		<url>https://retroachievements.org/game/11700/hashes</url>
 		<hash>05ba60f0ac1aacedd57321f0ed5f62ca</hash>
 	</game>
-	<game name="Retail/Jack Bros. no Meiro de Hiihoo! (Japan)">
+	<game name="Retail/Jack Bros/Jack Bros. no Meiro de Hiihoo! (Japan)">
 		<category></category>
 		<description>Jack Bros. no Meiro de Hiihoo! (Japan)</description>
 		<rom name="Jack Bros. no Meiro de Hiihoo! (Japan).vb" size="1048576" crc="cab61e8b" md5="1b177fe2dd12ec1d67f6a43502f8d391" sha1="a973406590382ee503037271330d68d2834b79db"/>
 		<url>https://retroachievements.org/game/11700/hashes</url>
 		<hash>1b177fe2dd12ec1d67f6a43502f8d391</hash>
 	</game>
-	<game name="Retail/Jack Bros. (USA) (Es) (No-Debug) (v1.0) (Max1323,televandalist)">
+	<game name="Retail/Jack Bros/Jack Bros. (USA) (Es) (No-Debug) (v1.0) (Max1323,televandalist)">
 		<category></category>
 		<description>Jack Bros. (USA) (Es) (No-Debug) (v1.0) (Max1323,televandalist)</description>
 		<rom name="Jack Bros. (USA) (Es) (No-Debug) (v1.0) (Max1323,televandalist).vb" size="1048576" crc="e24fb50a" md5="8819d31f9922dc2eea31a051f4d6d667" sha1="c48da79f2ee732ccf20dab284b97753927ce8d15"/>
 		<url>https://retroachievements.org/game/11700/hashes</url>
 		<hash>8819d31f9922dc2eea31a051f4d6d667</hash>
 	</game>
-	<game name="Retail/Jack Bros. (USA)">
+	<game name="Retail/Jack Bros/Jack Bros. (USA)">
 		<category></category>
 		<description>Jack Bros. (USA)</description>
 		<rom name="Jack Bros. (USA).vb" size="1048576" crc="a44de03c" md5="ee873c9969c15e92ca9a0f689c4ce5ea" sha1="0e086d7ef2bd8b97315196943fd0b71da07aa8f1"/>
@@ -264,14 +264,14 @@
 		<hash>e56e85761f52a613b34079d5322088ce</hash>
 	</game>
 	
-	<game name="Retail/SD Gundam - Dimension War (Japan)">
+	<game name="Retail/SD Gundam - Dimension War/SD Gundam - Dimension War (Japan)">
 		<category></category>
 		<description>SD Gundam - Dimension War (Japan)</description>
 		<rom name="SD Gundam - Dimension War (Japan).vb" size="1048576" crc="44788197" md5="1cf8c69d8a740d6ef3aab54deced31c4" sha1="1a67f6bdb45db46e22b8aadea754a68ad379ae29"/>
 		<url>https://retroachievements.org/game/12720/hashes</url>
 		<hash>1cf8c69d8a740d6ef3aab54deced31c4</hash>
 	</game>
-	<game name="Retail/SD Gundam - Dimension War (Japan) (En) (v1.0) (Benjamin Stevens, Greg Stevens)">
+	<game name="Retail/SD Gundam - Dimension War/SD Gundam - Dimension War (Japan) (En) (v1.0) (Benjamin Stevens, Greg Stevens)">
 		<category></category>
 		<description>SD Gundam - Dimension War (Japan) (En) (v1.0) (Benjamin Stevens, Greg Stevens)</description>
 		<rom name="SD Gundam - Dimension War (Japan) (En) (v1.0) (Benjamin Stevens, Greg Stevens).vb" size="1048576" crc="db4da3d9" md5="45825104799b74d36740d486f3f0cdf2" sha1="fc4c9d8b463ec493815fa7994d0179e1c26aebc2"/>
@@ -279,14 +279,14 @@
 		<hash>45825104799b74d36740d486f3f0cdf2</hash>
 	</game>
 	
-	<game name="Retail/Space Invaders - Virtual Collection (Japan)">
+	<game name="Retail/Space Invaders - Virtual Collection/Space Invaders - Virtual Collection (Japan)">
 		<category></category>
 		<description>Space Invaders - Virtual Collection (Japan)</description>
 		<rom name="Space Invaders - Virtual Collection (Japan).vb" size="524288" crc="fa44402d" md5="7607f6f918615263512b17e56797c9aa" sha1="16ad904faafd24642dfd056d10a768e81f0d9bfa"/>
 		<url>https://retroachievements.org/game/12910/hashes</url>
 		<hash>7607f6f918615263512b17e56797c9aa</hash>
 	</game>
-	<game name="Retail/Space Invaders - Virtual Collection (Japan) (En) (v1.0) (Thunderstruck)">
+	<game name="Retail/Space Invaders - Virtual Collection/Space Invaders - Virtual Collection (Japan) (En) (v1.0) (Thunderstruck)">
 		<category></category>
 		<description>Space Invaders - Virtual Collection (Japan) (En) (v1.0) (Thunderstruck)</description>
 		<rom name="Space Invaders - Virtual Collection (Japan) (En) (v1.0) (Thunderstruck).vb" size="2097152" crc="7eb3b932" md5="bb4aa9566437572802079c89452666e7" sha1="085cbe9de99f166341b3b7374f18195f25fa5330"/>
@@ -318,14 +318,14 @@
 		<hash>262bbae465f851ded3bb7cf46e375224</hash>
 	</game>
 	
-	<game name="Retail/Vertical Force (USA)">
+	<game name="Retail/Vertical Force/Vertical Force (USA)">
 		<category></category>
 		<description>Vertical Force (USA)</description>
 		<rom name="Vertical Force (USA).vb" size="1048576" crc="4c32ba5e" md5="87c38f66d5b9ead72af22f515a3a5f51" sha1="38f9008f60b09deef1151d46b905b090a0338200"/>
 		<url>https://retroachievements.org/game/11701/hashes</url>
 		<hash>87c38f66d5b9ead72af22f515a3a5f51</hash>
 	</game>
-	<game name="Retail/Vertical Force (USA) (Debug Menu) (v1.0) (Parasyte)">
+	<game name="Retail/Vertical Force/Vertical Force (USA) (Debug Menu) (v1.0) (Parasyte)">
 		<category></category>
 		<description>Vertical Force (USA) (Debug Menu) (v1.0) (Parasyte)</description>
 		<rom name="Vertical Force (USA) (Debug Menu) (v1.0) (Parasyte).vb" size="1048576" crc="dc8c0bf4" md5="c1f23aa9a6b5130a4971b4566dc19289" sha1="a9c95f87f31268e54a88e6abd1c8c5d937a2c983"/>
@@ -349,14 +349,14 @@
 		<hash>fb4dc9f4ebd506702eb49e99a62bd803</hash>
 	</game>
 	
-	<game name="Retail/Virtual Fishing (Japan)">
+	<game name="Retail/Virtual Fishing/Virtual Fishing (Japan)">
 		<category></category>
 		<description>Virtual Fishing (Japan)</description>
 		<rom name="Virtual Fishing (Japan).vb" size="1048576" crc="526cc969" md5="c03e792d8628c3c5729fdcae1620fb9a" sha1="583b409b7215159219d08e789db46140062095f2"/>
 		<url>https://retroachievements.org/game/17014/hashes</url>
 		<hash>c03e792d8628c3c5729fdcae1620fb9a</hash>
 	</game>
-	<game name="Retail/Virtual Fishing (Japan) (En) (v1.0) (Benjamin Stevens,Thunderstruck)">
+	<game name="Retail/Virtual Fishing/Virtual Fishing (Japan) (En) (v1.0) (Benjamin Stevens,Thunderstruck)">
 		<category></category>
 		<description>Virtual Fishing (Japan) (En) (v1.0) (Benjamin Stevens,Thunderstruck)</description>
 		<rom name="Virtual Fishing (Japan) (En) (v1.0) (Benjamin Stevens,Thunderstruck).vb" size="2097152" crc="9602cf06" md5="ef6e68d193dae7eb9f51face69e9dcf9" sha1="448f0bc30d2611aa970c2fdc25e462a6e17d3da5"/>
@@ -364,14 +364,14 @@
 		<hash>ef6e68d193dae7eb9f51face69e9dcf9</hash>
 	</game>
 	
-	<game name="Retail/Virtual Lab (Japan)">
+	<game name="Retail/Virtual Lab/Virtual Lab (Japan)">
 		<category></category>
 		<description>Virtual Lab (Japan)</description>
 		<rom name="Virtual Lab (Japan).vb" size="1048576" crc="8989fe0a" md5="1cec316aca8827fdf99c685a1ee49dbc" sha1="d96c9f8aac5b4ea012a8fe659bb68fb1159a9c6d"/>
 		<url>https://retroachievements.org/game/17015/hashes</url>
 		<hash>1cec316aca8827fdf99c685a1ee49dbc</hash>
 	</game>
-	<game name="Retail/Virtual Lab (Japan) (En) (v1.0) (Thunderstruck)">
+	<game name="Retail/Virtual Lab/Virtual Lab (Japan) (En) (v1.0) (Thunderstruck)">
 		<category></category>
 		<description>Virtual Lab (Japan) (En) (v1.0) (Thunderstruck)</description>
 		<rom name="Virtual Lab (Japan) (En) (v1.0) (Thunderstruck).vb" size="1048576" crc="1b1e5cb7" md5="bd6bc0cdb310969583c442f9c8509fc0" sha1="cd1305e86e1b5a3c7b49deba61196bc88fe7dd8f"/>

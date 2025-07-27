@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Pokemon Mini</name>
 		<description>Nintendo Pokemon Mini</description>
 		<category>Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250727</version>
+		<date>27 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/24/games</url>
@@ -197,14 +197,14 @@
 		<hash>8a69cc5a94afb712e9b313d13ef7a8a2</hash>
 	</game>
 	
-	<game name="Homebrew/Pokemon Psychic Seeds (World) (Aftermarket)">
+	<game name="Homebrew/Pokemon Psychic Seeds/Pokemon Psychic Seeds (World) (Aftermarket)">
 		<category></category>
 		<description>Pokemon Psychic Seeds (World) (Aftermarket)</description>
 		<rom name="Pokemon Psychic Seeds (World) (Aftermarket).min" size="272704" crc="e2b0d791" md5="092819a9abe895f6a0b70a685a854aa7" sha1="66d6852ea00840627645c324b0cc0011ac1a85f6"/>
 		<url>https://retroachievements.org/game/15724/hashes</url>
 		<hash>092819a9abe895f6a0b70a685a854aa7</hash>
 	</game>
-	<game name="Homebrew/Pokemon Psychic Seeds (World) (Demo) (Aftermarket)">
+	<game name="Homebrew/Pokemon Psychic Seeds/Pokemon Psychic Seeds (World) (Demo) (Aftermarket)">
 		<category></category>
 		<description>Pokemon Psychic Seeds (World) (Demo) (Aftermarket)</description>
 		<rom name="Pokemon Psychic Seeds (World) (Demo) (Aftermarket).min" size="233664" crc="ff04b931" md5="ab2d43a547fee0ae36db0eac3657242b" sha1="0c9f11dc7451d411bf8ab0dd8ff43ef599afa7e2"/>
@@ -228,14 +228,14 @@
 		<hash>3fbd1d94969da4070f37763861763486</hash>
 	</game>
 	
-	<game name="Homebrew/SOKOmini (World) (v1.0) (Hardware Fixed) (Aftermarket)">
+	<game name="Homebrew/SOKOmini/SOKOmini (World) (v1.0) (Hardware Fixed) (Aftermarket)">
 		<category></category>
 		<description>SOKOmini (World) (v1.0) (Hardware Fixed) (Aftermarket)</description>
 		<rom name="SOKOmini (World) (v1.0) (Hardware Fixed) (Aftermarket).min" size="56288" crc="350f91e9" md5="2586b3aa4989969c0b200a57c13f5aae" sha1="9a4f9152d0fe3cc0f32255bab1d2f1edcc4b00b6"/>
 		<url>https://retroachievements.org/game/15728/hashes</url>
 		<hash>2586b3aa4989969c0b200a57c13f5aae</hash>
 	</game>
-	<game name="Homebrew/SOKOmini (World) (v1.0) (Aftermarket)">
+	<game name="Homebrew/SOKOmini/SOKOmini (World) (v1.0) (Aftermarket)">
 		<category></category>
 		<description>SOKOmini (World) (v1.0) (Aftermarket)</description>
 		<rom name="SOKOmini (World) (v1.0) (Aftermarket).min" size="524288" crc="28a67132" md5="6048dce48222e4d75e8fdce9c2f55c39" sha1="5f79e5ae22fca1e758fbd8c2f438497f12bad4ba"/>
@@ -251,14 +251,14 @@
 		<hash>e1fc9f3b2a32990eb0c479c40d28049d</hash>
 	</game>
 	
-	<game name="Retail/Pichu Bros. Mini (Japan) (En) (v1.0) (NikcDC)">
+	<game name="Retail/Pichu Bros Mini/Pichu Bros. Mini (Japan) (En) (v1.0) (NikcDC)">
 		<category></category>
 		<description>Pichu Bros. Mini (Japan) (En) (v1.0) (NikcDC)</description>
 		<rom name="Pichu Bros. Mini (Japan) (En) (v1.0) (NikcDC).min" size="524288" crc="0451bd2d" md5="8a7ef76eacdeec95cee4f5e5939ccd17" sha1="e1e3ec1baf61bb637767122dbf8d8333a7f05fa7"/>
 		<url>https://retroachievements.org/game/14714/hashes</url>
 		<hash>8a7ef76eacdeec95cee4f5e5939ccd17</hash>
 	</game>
-	<game name="Retail/Pichu Bros. Mini (Japan)">
+	<game name="Retail/Pichu Bros Mini//Pichu Bros. Mini (Japan)">
 		<category></category>
 		<description>Pichu Bros. Mini (Japan)</description>
 		<rom name="Pichu Bros. Mini (Japan).min" size="524288" crc="00d8c968" md5="a587b6f5aa51fc8506ae818127e5d1b3" sha1="6f9bded4842b451102083d181db9deac2a7696e4"/>
@@ -266,28 +266,28 @@
 		<hash>a587b6f5aa51fc8506ae818127e5d1b3</hash>
 	</game>
 	
-	<game name="Retail/Snorlax's Lunch Time (Europe) (GameCube)">
+	<game name="Retail/Snorlax's Lunch Time/Snorlax's Lunch Time (Europe) (GameCube)">
 		<category></category>
 		<description>Snorlax's Lunch Time (Europe) (GameCube)</description>
 		<rom name="Snorlax's Lunch Time (Europe) (GameCube).min" size="524288" crc="b9324f30" md5="0823b8d49dc88033659f0d4eae114907" sha1="22cc052d900909a9032b7c84a0c7ab7c366a4a57"/>
 		<url>https://retroachievements.org/game/11781/hashes</url>
 		<hash>0823b8d49dc88033659f0d4eae114907</hash>
 	</game>
-	<game name="Retail/Lunch Time (USA) (GameCube)">
+	<game name="Retail/Snorlax's Lunch Time/Lunch Time (USA) (GameCube)">
 		<category></category>
 		<description>Lunch Time (USA) (GameCube)</description>
 		<rom name="Lunch Time (USA) (GameCube).min" size="524288" crc="05c5c126" md5="199aaed9afb5851c4d39ef78c29b86d1" sha1="3511d1bf4a3570a4011ca9d7d9d77ea43cc7543d"/>
 		<url>https://retroachievements.org/game/11781/hashes</url>
 		<hash>199aaed9afb5851c4d39ef78c29b86d1</hash>
 	</game>
-	<game name="Retail/Pokemon Party Mini (Japan)">
+	<game name="Retail/Snorlax's Lunch Time/Pokemon Party Mini (Japan)">
 		<category></category>
 		<description>Pokemon Party Mini (Japan)</description>
 		<rom name="Pokemon Party Mini (Japan).min" size="524288" crc="ae2dde60" md5="4266d987e4203c3da2a2da1b3c2e2d39" sha1="4db4568b990077c21320b50dee6a3ceb258809db"/>
 		<url>https://retroachievements.org/game/11781/hashes</url>
 		<hash>4266d987e4203c3da2a2da1b3c2e2d39</hash>
 	</game>
-	<game name="Retail/Snorlax's Lunch Time (Japan) (GameCube)">
+	<game name="Retail/Snorlax's Lunch Time/Snorlax's Lunch Time (Japan) (GameCube)">
 		<category></category>
 		<description>Snorlax's Lunch Time (Japan) (GameCube)</description>
 		<rom name="Snorlax's Lunch Time (Japan) (GameCube).min" size="524288" crc="0186ea70" md5="96f6a0cedc7471a0357271dc799ed342" sha1="a332feeca96c2b4cad2e1abd2d9b289804101a4a"/>
@@ -303,14 +303,14 @@
 		<hash>E0A064E6D758F958752A49C0CE798388</hash>
 	</game>
 	
-	<game name="Retail/Pokemon Pinball Mini (USA, Europe)">
+	<game name="Retail/Pokemon Pinball Mini/Pokemon Pinball Mini (USA, Europe)">
 		<category></category>
 		<description>Pokemon Pinball Mini (USA, Europe)</description>
 		<rom name="Pokemon Pinball Mini (USA, Europe).min" size="524288" crc="a0091534" md5="086ec88930aa624a09d470858ccc9911" sha1="3ec1e04de413c22e9034074789ff2c45646ec0ac"/>
 		<url>https://retroachievements.org/game/14715/hashes</url>
 		<hash>086ec88930aa624a09d470858ccc9911</hash>
 	</game>
-	<game name="Retail/Pokemon Pinball Mini (Japan)">
+	<game name="Retail/Pokemon Pinball Mini/Pokemon Pinball Mini (Japan)">
 		<category></category>
 		<description>Pokemon Pinball Mini (Japan)</description>
 		<rom name="Pokemon Pinball Mini (Japan).min" size="524288" crc="398d47de" md5="842551cdd9e0cafdf2a6a57159d5bbc8" sha1="57c78731f17f29d9cddfc7e21b4d8801e8569ca6"/>
@@ -326,14 +326,14 @@
 		<hash>1bb47758e8ea1c5ba39acf4a1d10c78e</hash>
 	</game>
 	
-	<game name="Retail/Pokemon Puzzle Collection Vol. 2 (Japan) (En) (v1.2) (Mr. Blinky)">
+	<game name="Retail/Pokemon Puzzle Collection Vol. 2/Pokemon Puzzle Collection Vol. 2 (Japan) (En) (v1.2) (Mr. Blinky)">
 		<category></category>
 		<description>Pokemon Puzzle Collection Vol. 2 (Japan) (En) (v1.2) (Mr. Blinky)</description>
 		<rom name="Pokemon Puzzle Collection Vol. 2 (Japan) (En) (v1.2) (Mr. Blinky).min" size="524288" crc="171403a0" md5="302c418edc3e9d4ff8430b9662a11d1b" sha1="8e7cbae48ffc2e91baa339cf9fcb4b0983aca6c1"/>
 		<url>https://retroachievements.org/game/14707/hashes</url>
 		<hash>302c418edc3e9d4ff8430b9662a11d1b</hash>
 	</game>
-	<game name="Retail/Pokemon Puzzle Collection Vol. 2 (Japan)">
+	<game name="Retail/Pokemon Puzzle Collection Vol. 2/Pokemon Puzzle Collection Vol. 2 (Japan)">
 		<category></category>
 		<description>Pokemon Puzzle Collection Vol. 2 (Japan)</description>
 		<rom name="Pokemon Puzzle Collection Vol. 2 (Japan).min" size="524288" crc="76a1bbf8" md5="66809741517a2f0809cacd6acdd77b27" sha1="11775bbac2e985ef90d4192ed6322dd3b8352ac9"/>
@@ -341,14 +341,14 @@
 		<hash>66809741517a2f0809cacd6acdd77b27</hash>
 	</game>
 	
-	<game name="Retail/Pokemon Race Mini (Japan) (En) (v1.0) (Mr. Blinky)">
+	<game name="Retail/Pokemon Race Mini/Pokemon Race Mini (Japan) (En) (v1.0) (Mr. Blinky)">
 		<category></category>
 		<description>Pokemon Race Mini (Japan) (En) (v1.0) (Mr. Blinky)</description>
 		<rom name="Pokemon Race Mini (Japan) (En) (v1.0) (Mr. Blinky).min" size="524288" crc="b43f3817" md5="1ee515c92cda64696b5085f19c752b57" sha1="b5b4b7137de1808ccabbf479529a7dd65eaa0a51"/>
 		<url>https://retroachievements.org/game/14716/hashes</url>
 		<hash>1ee515c92cda64696b5085f19c752b57</hash>
 	</game>
-	<game name="Retail/Pokemon Race Mini (Japan)">
+	<game name="Retail/Pokemon Race Mini/Pokemon Race Mini (Japan)">
 		<category></category>
 		<description>Pokemon Race Mini (Japan)</description>
 		<rom name="Pokemon Race Mini (Japan).min" size="524288" crc="f8c842b5" md5="8b50be4cf91a6a3268f5be5e67120056" sha1="12bfbd2c8a810b49338148feb6162e29a540ac3a"/>
@@ -364,14 +364,14 @@
 		<hash>f100caf74574aeabe5084f3b5c9e03d2</hash>
 	</game>
 	
-	<game name="Retail/Pokemon Sodateyasan Mini (Japan)">
+	<game name="Retail/Pokemon Sodateyasan Mini/Pokemon Sodateyasan Mini (Japan)">
 		<category></category>
 		<description>Pokemon Sodateyasan Mini (Japan)</description>
 		<rom name="Pokemon Sodateyasan Mini (Japan).min" size="524288" crc="d55fc4c8" md5="0eb5e7e191ce056f3ee2c6572bc61906" sha1="3b87d4d61ba3db92190b6ffa055f463adea2363c"/>
 		<url>https://retroachievements.org/game/11789/hashes</url>
 		<hash>0eb5e7e191ce056f3ee2c6572bc61906</hash>
 	</game>
-	<game name="Retail/Pokemon Sodateyasan Mini (Japan) (En) (v1.0) (Mr. Blinky)">
+	<game name="Retail/Pokemon Sodateyasan Mini/Pokemon Sodateyasan Mini (Japan) (En) (v1.0) (Mr. Blinky)">
 		<category></category>
 		<description>Pokemon Sodateyasan Mini (Japan) (En) (v1.0) (Mr. Blinky)</description>
 		<rom name="Pokemon Sodateyasan Mini (Japan) (En) (v1.0) (Mr. Blinky).min" size="524288" crc="c0460385" md5="0f78ee2c193fc8d0c129f051f262dcdf" sha1="f357875eb5a16dd7d8f883f1e6a12500c0f391e6"/>
@@ -387,14 +387,14 @@
 		<hash>28ddb09ed326df90b706aa61a851c732</hash>
 	</game>
 	
-	<game name="Retail/Togepi no Daibouken (Japan)">
+	<game name="Retail/Togepi's Great Adventure/Togepi no Daibouken (Japan)">
 		<category></category>
 		<description>Togepi no Daibouken (Japan)</description>
 		<rom name="Togepi no Daibouken (Japan).min" size="524288" crc="33b3492b" md5="a4eb2facaa5beb947f306ced2bf5cd15" sha1="0f56e0a3e72180b1113b900a6d3e4f8e8f570bb3"/>
 		<url>https://retroachievements.org/game/14701/hashes</url>
 		<hash>a4eb2facaa5beb947f306ced2bf5cd15</hash>
 	</game>
-	<game name="Retail/Togepi's Great Adventure (Japan) (En) (v1.0) (Mr. Blinky)">
+	<game name="Retail/Togepi's Great Adventure/Togepi's Great Adventure (Japan) (En) (v1.0) (Mr. Blinky)">
 		<category></category>
 		<description>Togepi's Great Adventure (Japan) (En) (v1.0) (Mr. Blinky)</description>
 		<rom name="Togepi's Great Adventure (Japan) (En) (v1.0) (Mr. Blinky).min" size="524288" crc="acab99f3" md5="cac3842f010dba9e4155e459111b6ebd" sha1="7f2de7dfabc1b52c916567a33d7bed1d655a5d44"/>

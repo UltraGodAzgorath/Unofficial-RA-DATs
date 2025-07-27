@@ -5,8 +5,8 @@
 		<name>RA - Sony PSP</name>
 		<description>Sony PSP</description>
 		<category>Subfolders</category>
-		<version>20250720</version>
-		<date>20 July 2025</date>
+		<version>20250727</version>
+		<date>27 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/41/games</url>
@@ -102,7 +102,7 @@
 		<legacyhash>d15abb1e055ae654683382a08e71d701</legacyhash>
 	</game>
 	
-	<game name="Retail/5-in-1 Solitaire (Europe) (minis) (PSN)">
+	<game name="Retail/5-in-1 Solitaire/5-in-1 Solitaire (Europe) (minis) (PSN)">
 		<category>Minis</category>
 		<description>5-in-1 Solitaire (Europe) (minis) (PSN)</description>
 		<rom name="5-in-1 Solitaire (Europe) (minis) (PSN).iso" size="122617856" crc="0d12d2ba" md5="e2f27ec557e813713e6000708180d1be" sha1="5c48654fdeb53b9ec893f0835dc1ea317539ed80"/>
@@ -110,7 +110,7 @@
 		<hash>0eed6c075c85318e9ae85f1df130ee15</hash>
 		<legacyhash>79f3af1ed146cae57dc3e26e7d662074</legacyhash>
 	</game>
-	<game name="Retail/5-in-1 Solitaire (USA) (minis) (PSN)">
+	<game name="Retail/5-in-1 Solitaire/5-in-1 Solitaire (USA) (minis) (PSN)">
 		<category>Minis</category>
 		<description>5-in-1 Solitaire (USA) (minis) (PSN)</description>
 		<rom name="5-in-1 Solitaire (USA) (minis) (PSN).iso" size="122617856" crc="4e9fd94e" md5="6a31de1e07d7872a1f213181e0b74836" sha1="e10208c4a5f630c373bdc6920f14243a19bc3a9c"/>
@@ -173,7 +173,7 @@
 		<legacyhash>0983af0c6f98a1733b0de98729ba78f6</legacyhash>
 	</game>
 	
-	<game name="Retail/Ape Escape - On the Loose (USA)">
+	<game name="Retail/Ape Escape - On the Loose/Ape Escape - On the Loose (USA)">
 		<category>PSP</category>
 		<description>Ape Escape - On the Loose (USA)</description>
 		<rom name="Ape Escape - On the Loose (USA).iso" size="749240320" crc="b86783da" md5="43064561a81f300bb93a4df9c74178b0" sha1="373098a849dcdc573499a28c89c92b63376e666d"/>
@@ -181,7 +181,7 @@
 		<hash>3cd66bf66e631a8d90c97a2f7628bd2a</hash>
 		<legacyhash>a7a67425a2b24a1d3d76d5008c3bc0d7</legacyhash>
 	</game>
-	<game name="Retail/Ape Escape - On the Loose (USA) (Undub) (v1.1)">
+	<game name="Retail/Ape Escape - On the Loose/Ape Escape - On the Loose (USA) (Undub) (v1.1)">
 		<category>PSP</category>
 		<description>Ape Escape - On the Loose (USA) (Undub) (v1.1)</description>
 		<rom name="Ape Escape - On the Loose (USA) (Undub) (v1.1).iso" size="573767680" crc="e578d8dd" md5="8b217928933162f36ee096d8bf6dbd4b" sha1="bf2d30f25c911342c07c811bfdb448445ff13b63"/>
@@ -395,7 +395,7 @@
 		<legacyhash>4a1a37e560cc15679ffc83c5d74aacc1</legacyhash>
 	</game>
 	
-	<game name="Retail/Burnout Legends (Europe, Australia) (En,Fr,De,Es,It,Nl) (v1.01)">
+	<game name="Retail/Burnout Legends/Burnout Legends (Europe, Australia) (En,Fr,De,Es,It,Nl) (v1.01)">
 		<category>PSP</category>
 		<description>Burnout Legends (Europe, Australia) (En,Fr,De,Es,It,Nl) (v1.01)</description>
 		<rom name="Burnout Legends (Europe, Australia) (En,Fr,De,Es,It,Nl) (v1.01).iso" size="500301824" crc="94eff17d" md5="5d7b7ed3eac932754fa51a4ab23338a1" sha1="a0401cfa12ce00109dd6759bbaa2aa7bea908458"/>
@@ -403,7 +403,7 @@
 		<hash>9442b70dc9f14c664178eff302a6002e</hash>
 		<legacyhash>e88343b1225dd91b9c5c826ad3b8410a</legacyhash>
 	</game>
-	<game name="Retail/Burnout Legends (USA) (En,Fr,De,Es,It,Nl) (v1.00)">
+	<game name="Retail/Burnout Legends/Burnout Legends (USA) (En,Fr,De,Es,It,Nl) (v1.00)">
 		<category>PSP</category>
 		<description>Burnout Legends (USA) (En,Fr,De,Es,It,Nl) (v1.00)</description>
 		<rom name="Burnout Legends (USA) (En,Fr,De,Es,It,Nl) (v1.00).iso" size="500301824" crc="8292a2ce" md5="bb248d1d68ffee3c57299faea3387fa7" sha1="a8a00e2c6590896735e007102eefba39ba887161"/>
@@ -583,7 +583,7 @@
 		<legacyhash>7763b2ed360183ea3f9ea7e34b783239</legacyhash>
 	</game>
 		
-	<game name="Retail/Dante's Inferno (USA)">
+	<game name="Retail/Dante's Inferno/Dante's Inferno (USA)">
 		<category>PSP</category>
 		<description>Dante's Inferno (USA)</description>
 		<rom name="Dante's Inferno (USA).iso" size="1812725760" crc="db54d4a0" md5="ae91c5d0dcd933329b81efb5a194a227" sha1="579df44399a0ecb16ffe4bd195e6afdf4b49b900"/>
@@ -591,7 +591,7 @@
 		<hash>9c80f421a1bcd0cc51503e479f090c40</hash>
 		<legacyhash>725eb28a3112c141e9038d20576de5c9</legacyhash>
 	</game>
-	<game name="Retail/Dante's Inferno (Europe)">
+	<game name="Retail/Dante's Inferno/Dante's Inferno (Europe)">
 		<category>PSP</category>
 		<description>Dante's Inferno (Europe)</description>
 		<rom name="Dante's Inferno (Europe).iso" size="1812725760" crc="002d2110" md5="d65a1325e540ac50a04cd3bba2c6ce45" sha1="1738562f458ca0a083e45fef3549d16fe4538583"/>
@@ -599,7 +599,7 @@
 		<hash>f621eaf8ddf9ef1ae48418c34ce01cd8</hash>
 		<legacyhash>b6618fd7403bccbb727693234628a069</legacyhash>
 	</game>
-	<game name="Retail/Dante's Inferno (Spain)">
+	<game name="Retail/Dante's Inferno/Dante's Inferno (Spain)">
 		<category>PSP</category>
 		<description>Dante's Inferno (Spain)</description>
 		<rom name="Dante's Inferno (Spain).iso" size="1812725760" crc="9c06d70f" md5="5fa74b03a4acf90bb6a17139017912d5" sha1="b166273b43646c91cb04f0657381112bb833138b"/>
@@ -607,7 +607,7 @@
 		<hash>710bfe5512a4fbf816486b32865ea849</hash>
 		<legacyhash>999650a275f7f8c40b8ae6c58bfd0df9</legacyhash>
 	</game>
-	<game name="Retail/Dante's Inferno (France)">
+	<game name="Retail/Dante's Inferno/Dante's Inferno (France)">
 		<category>PSP</category>
 		<description>Dante's Inferno (France)</description>
 		<rom name="Dante's Inferno (France).iso" size="1812725760" crc="f1eefa4f" md5="186489bdb60187e55ffc5463baff288e" sha1="9e85387c9a28a45c8a2018d77420e605e4625ecb"/>
@@ -615,7 +615,7 @@
 		<hash>5f2e44b3e31d53cd4e6864a708fa2fef</hash>
 		<legacyhash>356e1b54bbc984dd8770d33e002e7f6b</legacyhash>
 	</game>
-	<game name="Retail/Dante's Inferno (Germany)">
+	<game name="Retail/Dante's Inferno/Dante's Inferno (Germany)">
 		<category>PSP</category>
 		<description>Dante's Inferno (Germany)</description>
 		<rom name="Dante's Inferno (Germany).iso" size="1812725760" crc="d62ce2a3" md5="11ff3d5894e3307c1b85bbcaf5c09c21" sha1="820d53a67d24eefe59f59c12386c263c44b20f3e"/>
@@ -623,7 +623,7 @@
 		<hash>8e6abf35cbc572f1f851b21d516f69e8</hash>
 		<legacyhash>004d431164be0a4b39b769e46adcbe94</legacyhash>
 	</game>
-	<game name="Retail/Dante's Inferno (Italy)">
+	<game name="Retail/Dante's Inferno/Dante's Inferno (Italy)">
 		<category>PSP</category>
 		<description>Dante's Inferno (Italy)</description>
 		<rom name="Dante's Inferno (Italy).iso" size="1812725760" crc="112381b8" md5="9cb7e8a4e87116fd26b924df53c8325a" sha1="46988f34609e8bbf0730584d44474dacf017b0cb"/>
@@ -667,7 +667,7 @@
 		<legacyhash>e945b1d2cb6b0f89883d46499bc7d680</legacyhash>
 	</game>
 	
-	<game name="Retail/Digimon Adventure (Japan) (En) (v1.2) (Kazari)">
+	<game name="Retail/Digimon Adventure/Digimon Adventure (Japan) (En) (v1.2) (Kazari)">
 		<category>PSP</category>
 		<description>Digimon Adventure (Japan) (En) (v1.2) (Kazari)</description>
 		<rom name="Digimon Adventure (Japan) (En) (v1.2) (Kazari).iso" size="1675411456" crc="7d4728b9" md5="e1e0f761a1a58b56839aae3fb7dee9e8" sha1="db337e1cd1f56aaa874cff6c92053e28926dfa77"/>
@@ -675,7 +675,7 @@
 		<hash>be3fccfeb403bd344f523d73d389bf71</hash>
 		<legacyhash>05a850d43f94c4e68614e6ffb9be5c04</legacyhash>
 	</game>
-	<game name="Retail/Digimon Adventure (Japan) (PSN)">
+	<game name="Retail/Digimon Adventure/Digimon Adventure (Japan) (PSN)">
 		<category>PSP</category>
 		<description>Digimon Adventure (Japan) (PSN)</description>
 		<rom name="Digimon Adventure (Japan) (PSN).iso" size="1673494528" crc="e5b1911f" md5="3636ad4704a17e40124779428ddb7d24" sha1="f4e2e4e5995841f24fc236cae0fd9a8bcd0db639"/>
@@ -711,7 +711,7 @@
 		<legacyhash>67a54b647e5e747ed9780254f923eed0</legacyhash>
 	</game>
 	
-	<game name="Retail/Dissidia 012 - Duodecim Final Fantasy (USA) (En,Fr,De,Es,It)">
+	<game name="Retail/Dissidia 012/Dissidia 012 - Duodecim Final Fantasy (USA) (En,Fr,De,Es,It)">
 		<category>PSP</category>
 		<description>Dissidia 012 - Duodecim Final Fantasy (USA) (En,Fr,De,Es,It)</description>
 		<rom name="Dissidia 012 - Duodecim Final Fantasy (USA) (En,Fr,De,Es,It).iso" size="1754529792" crc="54d57cc3" md5="64d7b19cd3c627bd81e60a2e6fb46549" sha1="ec23f5beac89312a2a25654e202ae1c997999c9e"/>
@@ -719,7 +719,7 @@
 		<hash>12c89cbee6684728e3a15bb4988b5f5a</hash>
 		<legacyhash>caac80fb17c12895b90fbc42f6b34d47</legacyhash>
 	</game>
-	<game name="Retail/Dissidia 012 - Duodecim Final Fantasy (Europe) (En,Fr,De,Es,It)">
+	<game name="Retail/Dissidia 012/Dissidia 012 - Duodecim Final Fantasy (Europe) (En,Fr,De,Es,It)">
 		<category>PSP</category>
 		<description>Dissidia 012 - Duodecim Final Fantasy (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Dissidia 012 - Duodecim Final Fantasy (Europe) (En,Fr,De,Es,It).iso" size="1754529792" crc="81bfb318" md5="184e0e4b222cfd4b516cd2675be32345" sha1="2e6e8b71a1f66a5ba1390fa68ea36188ac4fe2b6"/>
@@ -773,7 +773,7 @@
 		<legacyhash>7b12b53ef8d420607da2190a85e39791</legacyhash>
 	</game>
 	
-	<game name="Retail/Dracula - Undead Awakening (Europe) (minis) (PSN)">
+	<game name="Retail/Dracula - Undead Awakening/Dracula - Undead Awakening (Europe) (minis) (PSN)">
 		<category>Minis</category>
 		<description>Dracula - Undead Awakening (Europe) (minis) (PSN)</description>
 		<rom name="Dracula - Undead Awakening (Europe) (minis) (PSN).iso" size="152010752" crc="69d2f548" md5="ee9216365d448619801ea6755ebf85ac" sha1="f3c654d3012b20f39a678914076d6c07d1068dd1"/>
@@ -781,7 +781,7 @@
 		<hash>0124c4f76f309a319f96f0b3e2b1c5e2</hash>
 		<legacyhash>194b8d4f490c89a7fec848f91872951f</legacyhash>
 	</game>
-	<game name="Retail/Dracula - Undead Awakening (USA) (minis) (PSN)">
+	<game name="Retail/Dracula - Undead Awakening/Dracula - Undead Awakening (USA) (minis) (PSN)">
 		<category>Minis</category>
 		<description>Dracula - Undead Awakening (USA) (minis) (PSN)</description>
 		<rom name="Dracula - Undead Awakening (USA) (minis) (PSN).iso" size="152010752" crc="a546a3f3" md5="117c1e991ace10c613894d54e848ea05" sha1="8df22640c4e31c2334a50e50cb9d8f847800bdd5"/>
@@ -923,7 +923,7 @@
 		<legacyhash>05d8a3ad635acc092acc006e0a11c236</legacyhash>
 	</game>
 	
-	<game name="Retail/Fate-Extra (USA)">
+	<game name="Retail/Fate-Extra/Fate-Extra (USA)">
 		<category>PSP</category>
 		<description>Fate-Extra (USA)</description>
 		<rom name="Fate-Extra (USA).iso" size="1284079616" crc="064591e2" md5="c9a968f80d5e91b2472925c8895be08f" sha1="37fdaf91a80552df995ce99a930b88f14f954f1f"/>
@@ -931,7 +931,7 @@
 		<hash>03735aa3892124c68cc21283e1c0856e</hash>
 		<legacyhash>51702cfb0d15b515e63fc725244ed51a</legacyhash>
 	</game>
-	<game name="Retail/Fate-Extra (Perfect Patch)">
+	<game name="Retail/Fate-Extra/Fate-Extra (Perfect Patch)">
 		<category>PSP</category>
 		<description>Fate-Extra (Perfect Patch)</description>
 		<rom name="Fate-Extra (Perfect Patch).iso" size="1695916032" crc="e664c21a" md5="a5d3de1399ea63a34de28f36fee4c292" sha1="eb1adb3d0c050365a3543419cf8625fc67e4eeb8"/>
@@ -939,7 +939,7 @@
 		<hash>0a2e1e58a25d1c910222a6d094264600</hash>
 		<legacyhash>efd7f9d175c4bd961b48e2652888db76</legacyhash>
 	</game>
-	<game name="Retail/Fate-Extra (USA) (Perfect Patch Plus) (iwakura productions)">
+	<game name="Retail/Fate-Extra/Fate-Extra (USA) (Perfect Patch Plus) (iwakura productions)">
 		<category>PSP</category>
 		<description>Fate-Extra (USA) (Perfect Patch Plus) (iwakura productions)</description>
 		<rom name="Fate-Extra (USA) (Perfect Patch Plus) (iwakura productions).iso" size="1695901696" crc="5ef4c8dc" md5="68df2761b842f6ebdfaef5f5ab6ac5b9" sha1="cc62f5d6c6a4a772f9b2adb5ed712eb61fcd4863"/>
@@ -947,15 +947,15 @@
 		<hash>84dd74a9c71f301a802e67cc91a879c8</hash>
 	</game>
 	
-	<game name="Retail/Fate Extra CCC (Japan) (En) (v1.0) (iwakura.productions)">
+	<game name="Retail/Fate-Extra CCC/Fate-Extra CCC (Japan) (En) (v1.0) (iwakura.productions)">
 		<category>PSP</category>
-		<description>Fate Extra CCC (Japan) (En) (v1.0) (iwakura.productions)</description>
-		<rom name="Fate Extra CCC (Japan) (En) (v1.0) (iwakura.productions).iso" size="1512136704" crc="a5042e68" md5="6d8dd10e5e43db42635b1a44bb05629e" sha1="e2dcbc423ff939297a6a9ccb159cbb6ccaefb88c"/>
+		<description>Fate-Extra CCC (Japan) (En) (v1.0) (iwakura.productions)</description>
+		<rom name="Fate-Extra CCC (Japan) (En) (v1.0) (iwakura.productions).iso" size="1512136704" crc="a5042e68" md5="6d8dd10e5e43db42635b1a44bb05629e" sha1="e2dcbc423ff939297a6a9ccb159cbb6ccaefb88c"/>
 		<url>https://retroachievements.org/game/18760/hashes</url>
 		<hash>ac9f138b450a32db802abcc1f135265a</hash>
 		<legacyhash>770040c492e4e5ea30d3f4558df1be64</legacyhash>
 	</game>
-	<game name="Retail/Fate-Extra CCC (Japan) (PSP) (PSN)">
+	<game name="Retail/Fate-Extra CCC/Fate-Extra CCC (Japan) (PSP) (PSN)">
 		<category>PSP</category>
 		<description>Fate-Extra CCC (Japan) (PSP) (PSN)</description>
 		<rom name="Fate-Extra CCC (Japan) (PSP) (PSN).iso" size="1184464896" crc="026ce7c8" md5="e01724c4dc8823b5a153581a97e1a5bf" sha1="b4cb05f4f11e091d8cd3982ce8f37efbc8268691"/>
@@ -1000,7 +1000,7 @@
 		<legacyhash>252260d705d7a01842c989936a58fa00</legacyhash>
 	</game>
 	
-	<game name="Retail/Final Fantasy II - 20th Anniversary Edition (Europe) (En,Ja)">
+	<game name="Retail/Final Fantasy II/Final Fantasy II - 20th Anniversary Edition (Europe) (En,Ja)">
 		<category>PSP</category>
 		<description>Final Fantasy II - 20th Anniversary Edition (Europe) (En,Ja)</description>
 		<rom name="Final Fantasy II - 20th Anniversary Edition (Europe) (En,Ja).iso" size="354123776" crc="3c08ae0b" md5="763c9acf981e27793cf64a2031036630" sha1="7b9baed6cd99cab24a6382ea3151620ddacbf9b8"/>
@@ -1008,7 +1008,7 @@
 		<hash>7be3422de665105cc581d59eaa723b4a</hash>
 		<legacyhash>89a7e92dc1b2288bf03009063157e34c</legacyhash>
 	</game>
-	<game name="Retail/Final Fantasy II - 20th Anniversary Edition (USA, Canada) (En,Ja)">
+	<game name="Retail/Final Fantasy II/Final Fantasy II - 20th Anniversary Edition (USA, Canada) (En,Ja)">
 		<category>PSP</category>
 		<description>Final Fantasy II - 20th Anniversary Edition (USA, Canada) (En,Ja)</description>
 		<rom name="Final Fantasy II - 20th Anniversary Edition (USA, Canada) (En,Ja).iso" size="287342592" crc="541fa240" md5="9ac65ede66cdc40ff791f8be7709b0c2" sha1="bbd97b3aafa741bcaae738d8a0e1466574f7072d"/>
@@ -1044,7 +1044,7 @@
 		<legacyhash>c8ca4bb4b63a8a1f5b452608a6ca9f3d</legacyhash>
 	</game>
 	
-	<game name="Retail/Final Fantasy Tactics - The War of the Lions (Europe)">
+	<game name="Retail/Final Fantasy Tactics/Final Fantasy Tactics - The War of the Lions (Europe)">
 		<category>PSP</category>
 		<description>Final Fantasy Tactics - The War of the Lions (Europe)</description>
 		<rom name="Final Fantasy Tactics - The War of the Lions (Europe).iso" size="418873344" crc="0f7ae43c" md5="4b97913c0423b879a9321febaeb4892a" sha1="5104e61a886c1fb62fae98fa3bf96e1b0c545dc6"/>
@@ -1052,7 +1052,7 @@
 		<hash>33fba46bc9484e609986ae6e7045c1e9</hash>
 		<legacyhash>1c83615beb62802d5bea34954ef4bdf0</legacyhash>
 	</game>
-	<game name="Retail/Final Fantasy Tactics - The War of the Lions (USA) (Slowdown Fix) (v2.0) (Eternal248)">
+	<game name="Retail/Final Fantasy Tactics/Final Fantasy Tactics - The War of the Lions (USA) (Slowdown Fix) (v2.0) (Eternal248)">
 		<category>PSP</category>
 		<description>Final Fantasy Tactics - The War of the Lions (USA) (Slowdown Fix) (v2.0) (Eternal248)</description>
 		<rom name="Final Fantasy Tactics - The War of the Lions (USA) (Slowdown Fix) (v2.0) (Eternal248).iso" size="418873344" crc="8762459e" md5="6690a74151890ee1db2f2aa0617a723d" sha1="06fa2f3a5ec882cfd74587cb6fc26b6c16ccc530"/>
@@ -1060,7 +1060,7 @@
 		<hash>8cc93de4b2c827232fd45bb7eda6a4e2</hash>
 		<legacyhash>dddba8f9b1d9e3d9c32f5b08f29d9f32</legacyhash>
 	</game>
-	<game name="Retail/Final Fantasy Tactics - The War of the Lions (USA)">
+	<game name="Retail/Final Fantasy Tactics/Final Fantasy Tactics - The War of the Lions (USA)">
 		<category>PSP</category>
 		<description>Final Fantasy Tactics - The War of the Lions (USA)</description>
 		<rom name="Final Fantasy Tactics - The War of the Lions (USA).iso" size="418873344" crc="0d6a3d9f" md5="18d1169cefed2d5ed77a599694f2f871" sha1="5120ff66f78cfd31f6e90d8ef4be8200eca563f7"/>
@@ -1068,7 +1068,7 @@
 		<hash>b81199e201db86f760c504d2f08a1a8c</hash>
 		<legacyhash>0f1d6ad5c862533fd3320498027f02ed</legacyhash>
 	</game>
-	<game name="Retail/Final Fantasy Tactics - The War of the Lions (Europe) (Slowdown Fix) (v2.0) (Eternal248)">
+	<game name="Retail/Final Fantasy Tactics/Final Fantasy Tactics - The War of the Lions (Europe) (Slowdown Fix) (v2.0) (Eternal248)">
 		<category>PSP</category>
 		<description>Final Fantasy Tactics - The War of the Lions (Europe) (Slowdown Fix) (v2.0) (Eternal248)</description>
 		<rom name="Final Fantasy Tactics - The War of the Lions (Europe) (Slowdown Fix) (v2.0) (Eternal248).iso" size="418873344" crc="c102302a" md5="f2bd6423ac40e95e62f0f22fb4a46436" sha1="44e1cd3e393476fd0201c9b3cda8683fb5ffa46e"/>
@@ -1158,7 +1158,7 @@
 		<legacyhash>9186a7782da9ce5a1e4ded2ad4c65c97</legacyhash>
 	</game>
 	
-	<game name="Retail/Grand Theft Auto - Liberty City Stories (Europe) (Ru)">
+	<game name="Retail/Grand Theft Auto - Liberty City Stories/Grand Theft Auto - Liberty City Stories (Europe) (Ru)">
 		<category>PSP</category>
 		<description>Grand Theft Auto - Liberty City Stories (Europe) (Ru)</description>
 		<rom name="Grand Theft Auto - Liberty City Stories (Europe) (Ru).iso" size="873338880" crc="3f97d65b" md5="8743345c2d9fd36232523b9eb7fa845d" sha1="38f69e003a0930f1eb0831dc11198bcfffd4171d"/>
@@ -1166,7 +1166,7 @@
 		<hash>3befa32a0bb59bd7e47d6017cab8713b</hash>
 		<legacyhash>0a86c655f890223f36b3993cfe4829fb</legacyhash>
 	</game>
-	<game name="Retail/Grand Theft Auto - Liberty City Stories (Europe) (En,Fr,De,Es,It) (v3.00)">
+	<game name="Retail/Grand Theft Auto - Liberty City Stories/Grand Theft Auto - Liberty City Stories (Europe) (En,Fr,De,Es,It) (v3.00)">
 		<category>PSP</category>
 		<description>Grand Theft Auto - Liberty City Stories (Europe) (En,Fr,De,Es,It) (v3.00)</description>
 		<rom name="Grand Theft Auto - Liberty City Stories (Europe) (En,Fr,De,Es,It) (v3.00).iso" size="1255243776" crc="7a884c02" md5="cf40e781475451db431769f9ea0f7998" sha1="dd1ba43aaa64dfb13346d6fdbb2a3bfd604e6518"/>
@@ -1175,7 +1175,7 @@
 		<legacyhash>733f198ef30f5dd215ca59f5de58496e</legacyhash>
 	</game>
 	
-	<game name="Retail/Grand Theft Auto - Vice City Stories (Europe) (En,Fr,De,Es,It)">
+	<game name="Retail/Grand Theft Auto - Vice City Stories/Grand Theft Auto - Vice City Stories (Europe) (En,Fr,De,Es,It)">
 		<category>PSP</category>
 		<description>Grand Theft Auto - Vice City Stories (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Grand Theft Auto - Vice City Stories (Europe) (En,Fr,De,Es,It).iso" size="1696006144" crc="b44ac795" md5="bf17f0cabd2f3d9ba3c30413c070758e" sha1="7cd0600e7f12b8fcef0872062ad381a41be963e5"/>
@@ -1183,7 +1183,7 @@
 		<hash>689064ef742a45013e4fdd6b2e27b02a</hash>
 		<legacyhash>eee76c91b9abcad5a9d43256898bc4a7</legacyhash>
 	</game>
-	<game name="Retail/Grand Theft Auto - Vice City Stories (Europe) (Ru)">
+	<game name="Retail/Grand Theft Auto - Vice City Stories/Grand Theft Auto - Vice City Stories (Europe) (Ru)">
 		<category>PSP</category>
 		<description>Grand Theft Auto - Vice City Stories (Europe) (Ru)</description>
 		<rom name="Grand Theft Auto - Vice City Stories (Europe) (Ru).iso" size="1275291648" crc="6f7d260b" md5="7d1d982d609bf51d7f577ecc62a4271b" sha1="b564e059fd531c61e7d463df524c00c93821c868"/>
@@ -1201,7 +1201,7 @@
 		<legacyhash>35c924d3d80c5bdb990e9178dc660a8f</legacyhash>
 	</game>
 	
-	<game name="Retail/Gurumin - A Monstrous Adventure (USA)">
+	<game name="Retail/Gurumin - A Monstrous Adventure/Gurumin - A Monstrous Adventure (USA)">
 		<category>PSP</category>
 		<description>Gurumin - A Monstrous Adventure (USA)</description>
 		<rom name="Gurumin - A Monstrous Adventure (USA).iso" size="1064009728" crc="ce8381ff" md5="5539e5beb44b2873e13cd541a2d9ba47" sha1="ee621dfc2d9b603fea8067611ce137a2988674d7"/>
@@ -1209,7 +1209,7 @@
 		<hash>1e39cd4b0a8f174a6742653c490b9359</hash>
 		<legacyhash>e6cf655736eab9f6bc08f3ae0f26d56e</legacyhash>
 	</game>
-	<game name="Retail/Gurumin - Une Aventure Monstrueuse (France)">
+	<game name="Retail/Gurumin - A Monstrous Adventure/Gurumin - Une Aventure Monstrueuse (France)">
 		<category>PSP</category>
 		<description>Gurumin - Une Aventure Monstrueuse (France)</description>
 		<rom name="Gurumin - Une Aventure Monstrueuse (France).iso" size="1104347136" crc="cf3dfbb8" md5="dd12c3ae34de00127e114256e00f74e8" sha1="6b5c5e5726404e82a52f63fa6ab50f853ee834c7"/>
@@ -1217,7 +1217,7 @@
 		<hash>3cbf0167b369f1f0458e2c135e01d4f3</hash>
 		<legacyhash>58470bb57af30af09b743e4c9e7fca20</legacyhash>
 	</game>
-	<game name="Retail/Gurumin - A Monstrous Adventure (Europe)">
+	<game name="Retail/Gurumin - A Monstrous Adventure/Gurumin - A Monstrous Adventure (Europe)">
 		<category>PSP</category>
 		<description>Gurumin - A Monstrous Adventure (Europe)</description>
 		<rom name="Gurumin - A Monstrous Adventure (Europe).iso" size="1064173568" crc="90e26d57" md5="66ed3b50aa9458acf2803290516816f3" sha1="68e5b322f3485503a9b8a6379eccc1ff8db79394"/>
@@ -1225,7 +1225,7 @@
 		<hash>4a4626943faf0a66eb474f6db6e50a5f</hash>
 		<legacyhash>0e28783967b7f9541096dfdf0cfc4775</legacyhash>
 	</game>
-	<game name="Retail/Gurumin - A Monstrous Adventure (USA) (Undub) (v1.0.2) (AnoHito)">
+	<game name="Retail/Gurumin - A Monstrous Adventure/Gurumin - A Monstrous Adventure (USA) (Undub) (v1.0.2) (AnoHito)">
 		<category>PSP</category>
 		<description>Gurumin - A Monstrous Adventure (USA) (Undub) (v1.0.2) (AnoHito)</description>
 		<rom name="Gurumin - A Monstrous Adventure (USA) (Undub) (v1.0.2) (AnoHito).iso" size="1064009728" crc="fede286a" md5="739c2d2dc6480e1dbb7704ea116b5ce6" sha1="b5bfbb8a7846b1667fcd9ca8178765da5a6ddb8e"/>
@@ -1252,7 +1252,7 @@
 		<legacyhash>63ffa0197a1dc803efee3d3c0c8b39f2</legacyhash>
 	</game>
 	
-	<game name="Retail/Hatsune Miku - Project Diva (Japan, Asia)">
+	<game name="Retail/Hatsune Miku - Project Diva/Hatsune Miku - Project Diva (Japan, Asia)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva (Japan, Asia)</description>
 		<rom name="Hatsune Miku - Project Diva (Japan, Asia).iso" size="1402929152" crc="1ad74675" md5="e4886b42939a47e39486414388061042" sha1="098758b6d50c584b874e032b15e5b68aa97e5a16"/>
@@ -1260,7 +1260,7 @@
 		<hash>04a9490d74dfa5722b29038be1057701</hash>
 		<legacyhash>8ecc08f9aa914eac03aad37744996156</legacyhash>
 	</game>
-	<game name="Retail/Hatsune Miku - Project Diva (Japan, Asia) (60FPS)">
+	<game name="Retail/Hatsune Miku - Project Diva/Hatsune Miku - Project Diva (Japan, Asia) (60FPS)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva (Japan, Asia) (60FPS)</description>
 		<rom name="Hatsune Miku - Project Diva (Japan, Asia) (60FPS).iso" size="1402929152" crc="880a3e54" md5="daf36afb7b179ea5e1c80d9e007e8c26" sha1="b679af76e786be61436e9c29e3b77aa176db9f83"/>
@@ -1268,7 +1268,7 @@
 		<hash>763a90fc133ac9b5ca6cf6b938944a9d</hash>
 		<legacyhash>c35bcac5e9ad2e0165f6c58dd18a217a</legacyhash>
 	</game>
-	<game name="Retail/Hatsune Miku - Project Diva (Japan) (En) (v1.01) (DIVA Fan Project) (60FPS)">
+	<game name="Retail/Hatsune Miku - Project Diva/Hatsune Miku - Project Diva (Japan) (En) (v1.01) (DIVA Fan Project) (60FPS)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva (Japan) (En) (v1.01) (DIVA Fan Project) (60FPS)</description>
 		<rom name="Hatsune Miku - Project Diva (Japan) (En) (v1.01) (DIVA Fan Project) (60FPS).iso" size="1402929152" crc="476a37e9" md5="60e8d1f3090cd542f3d57280738f4278" sha1="3293694fbb0ec25aadacf351bbff48a33db20733"/>
@@ -1276,7 +1276,7 @@
 		<hash>fd21be23f2e7274640ec81c9eeab029b</hash>
 		<legacyhash>fbe05ba179d0b1fb718fd6ad75012c34</legacyhash>
 	</game>
-	<game name="Retail/Hatsune Miku - Project Diva (Japan) (En) (R1K4RD) (v1.0)">
+	<game name="Retail/Hatsune Miku - Project Diva/Hatsune Miku - Project Diva (Japan) (En) (R1K4RD) (v1.0)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva (Japan) (En) (R1K4RD) (v1.0)</description>
 		<rom name="Hatsune Miku - Project Diva (Japan) (En) (R1K4RD) (v1.0).iso" size="1402929152" crc="510a818a" md5="75928939a349efb7d282208641fc3907" sha1="49143615decda27e69512dd7a16cea2fa8bdbe11"/>
@@ -1284,7 +1284,7 @@
 		<hash>3f0a0966ed4179766f1e057d90f15a67</hash>
 	</game>
 	
-	<game name="Subset/Hatsune Miku - Project DIVA (Subset - Full Combo Songs) (60FPS, DPad Patch)">
+	<game name="Subset/Hatsune Miku - Project DIVA/Hatsune Miku - Project DIVA (Subset - Full Combo Songs) (60FPS, DPad Patch)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project DIVA (Subset - Full Combo Songs) (60FPS, DPad Patch)</description>
 		<rom name="Hatsune Miku - Project DIVA (Subset - Full Combo Songs) (60FPS, DPad Patch).iso" size="1402929152" crc="ab0a5d33" md5="406291334c346612d828a65e18665b4c" sha1="f697c5357c9f40e4e7f154817144669c34a9a05c"/>
@@ -1292,7 +1292,7 @@
 		<hash>33897f24597dd40c0fb5e4d311f50b14</hash>
 		<legacyhash>07499ec99cef0fa63faf39455bf07c94</legacyhash>
 	</game>
-	<game name="Subset/Hatsune Miku - Project Diva (Subset - Full Combo Songs)">
+	<game name="Subset/Hatsune Miku - Project DIVA/Hatsune Miku - Project Diva (Subset - Full Combo Songs)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva (Subset - Full Combo Songs)</description>
 		<rom name="Hatsune Miku - Project Diva (Subset - Full Combo Songs).iso" size="1321633792" crc="70230c2a" md5="b80a3a112249b2b56ade41911a80e5f3" sha1="9dc10137e0048c2855d04086a8daca9d8518737d"/>
@@ -1301,7 +1301,7 @@
 		<legacyhash>4273b7f60a2e9965197a15a0763033d1</legacyhash>
 	</game>
 	
-	<game name="Retail/Hatsune Miku - Project Diva 2nd (Japan) (Es) (v1.01) (Wyrdgirn)">
+	<game name="Retail/Hatsune Miku - Project Diva 2nd/Hatsune Miku - Project Diva 2nd (Japan) (Es) (v1.01) (Wyrdgirn)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva 2nd (Japan) (Es) (v1.01) (Wyrdgirn)</description>
 		<rom name="Hatsune Miku - Project Diva 2nd (Japan) (Es) (v1.01) (Wyrdgirn).iso" size="1618280448" crc="eea6865a" md5="2dc84a6072f6c191d2f7e96cb73d8bd0" sha1="fce96524f0da099817d18b46a05c32a58f327766"/>
@@ -1309,7 +1309,7 @@
 		<hash>09e70a9df9df6419cddd6e3eb18333a5</hash>
 		<legacyhash>f411e0624c848a4af620698f7d857d8f</legacyhash>
 	</game>
-	<game name="Retail/Hatsune Miku - Project Diva 2nd (Japan) (Es) (v1.01) (Wyrdgirn) (60FPS)">
+	<game name="Retail/Hatsune Miku - Project Diva 2nd/Hatsune Miku - Project Diva 2nd (Japan) (Es) (v1.01) (Wyrdgirn) (60FPS)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva 2nd (Japan) (Es) (v1.01) (Wyrdgirn) (60FPS)</description>
 		<rom name="Hatsune Miku - Project Diva 2nd (Japan) (Es) (v1.01) (Wyrdgirn) (60FPS).iso" size="1618280448" crc="96beb5e1" md5="df47c7c536aed013abb1c2c5c7e2c109" sha1="cfdb34e80599e0cc26f998bc05d94f2cc3d07ea9"/>
@@ -1317,7 +1317,7 @@
 		<hash>1544af4091ab5fe86e2f2c272c702d95</hash>
 		<legacyhash>4d5e723cc6cc951637a512df23f75840</legacyhash>
 	</game>
-	<game name="Retail/Hatsune Miku - Project Diva 2nd (Japan) (Okaidoku-ban) (En) (v0.82) (Wyrdgirn,R1K4RD) (60FPS)">
+	<game name="Retail/Hatsune Miku - Project Diva 2nd/Hatsune Miku - Project Diva 2nd (Japan) (Okaidoku-ban) (En) (v0.82) (Wyrdgirn,R1K4RD) (60FPS)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva 2nd (Japan) (Okaidoku-ban) (En) (v0.82) (Wyrdgirn,R1K4RD) (60FPS)</description>
 		<rom name="Hatsune Miku - Project Diva 2nd (Japan) (Okaidoku-ban) (En) (v0.82) (Wyrdgirn,R1K4RD) (60FPS).iso" size="1618280448" crc="d7be827a" md5="cc807c1a0f4a15fd55a87d5877768cc1" sha1="0b11fa13103078aad4c6e972aebe0848df394ac7"/>
@@ -1325,7 +1325,7 @@
 		<hash>6b6474a141609d0bcfd2d027b5fd1da1</hash>
 		<legacyhash>fad8e766057175357bb125068cd1c028</legacyhash>
 	</game>
-	<game name="Retail/Hatsune Miku - Project Diva 2nd (Japan) (Okaidoku-ban) (En) (v0.82) (Wyrdgirn,R1K4RD)">
+	<game name="Retail/Hatsune Miku - Project Diva 2nd/Hatsune Miku - Project Diva 2nd (Japan) (Okaidoku-ban) (En) (v0.82) (Wyrdgirn,R1K4RD)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva 2nd (Japan) (Okaidoku-ban) (En) (v0.82) (Wyrdgirn,R1K4RD)</description>
 		<rom name="Hatsune Miku - Project Diva 2nd (Japan) (Okaidoku-ban) (En) (v0.82) (Wyrdgirn,R1K4RD).iso" size="1618280448" crc="e0a583bb" md5="386e79a820decace1db093b6b31db2d0" sha1="720cfdd549dee1c396c07ad2c579c497eee09a51"/>
@@ -1333,7 +1333,7 @@
 		<hash>94e56b7e915f11b1f7d23707642a611d</hash>
 		<legacyhash>770c760630ba0e24a69c8dc2398d65ea</legacyhash>
 	</game>
-	<game name="Retail/Hatsune Miku - Project Diva 2nd (Japan) (60FPS)">
+	<game name="Retail/Hatsune Miku - Project Diva 2nd/Hatsune Miku - Project Diva 2nd (Japan) (60FPS)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva 2nd (Japan) (60FPS)</description>
 		<rom name="Hatsune Miku - Project Diva 2nd (Japan) (60FPS).iso" size="1618280448" crc="f7e22ddc" md5="250c0481998a578d25f7a262363af8a0" sha1="eda3b6a3f57dd2a215c510c1ae23aa148c4cfbc9"/>
@@ -1341,7 +1341,7 @@
 		<hash>e03f3b45243c933ad586c12454c81e9a</hash>
 		<legacyhash>1908642f4886459ecda04173cb645d65</legacyhash>
 	</game>
-	<game name="Retail/Hatsune Miku - Project Diva 2nd (Japan) (Okaidokuban)">
+	<game name="Retail/Hatsune Miku - Project Diva 2nd/Hatsune Miku - Project Diva 2nd (Japan) (Okaidokuban)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva 2nd (Japan) (Okaidokuban)</description>
 		<rom name="Hatsune Miku - Project Diva 2nd (Japan) (Okaidokuban).iso" size="1618280448" crc="08832d16" md5="1c58ec248d77583803bc6b25c648affb" sha1="de0d2e73df4f74743758b1f8c06d78d4e81390ad"/>
@@ -1350,7 +1350,7 @@
 		<legacyhash>fb6e1e8bde4618c54eac4de0481cfeed</legacyhash>
 	</game>
 	
-	<game name="Subset/Hatsune Miku - Project Diva 2nd (Subset - Full Combo Songs) (60FPS)">
+	<game name="Subset/Hatsune Miku - Project Diva 2nd/Hatsune Miku - Project Diva 2nd (Subset - Full Combo Songs) (60FPS)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva 2nd (Subset - Full Combo Songs) (60FPS)</description>
 		<rom name="Hatsune Miku - Project Diva 2nd (Subset - Full Combo Songs) (60FPS).iso" size="1618280448" crc="f2f8d976" md5="3a8c03f036ade4b4779379d407c35ff7" sha1="d59bf368faf6f89faef6a2ec874ae2c4114a6945"/>
@@ -1358,7 +1358,7 @@
 		<hash>c705d15cf0f7f557ab0db91863ce23e5</hash>
 		<legacyhash>c13cbc85241f70b498ff1beb6e1c6f1a</legacyhash>
 	</game>
-	<game name="Subset/Hatsune Miku - Project Diva 2nd (Subset - Full Combo Songs)">
+	<game name="Subset/Hatsune Miku - Project Diva 2nd/Hatsune Miku - Project Diva 2nd (Subset - Full Combo Songs)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva 2nd (Subset - Full Combo Songs)</description>
 		<rom name="Hatsune Miku - Project Diva 2nd (Subset - Full Combo Songs).iso" size="1618280448" crc="0701968c" md5="5fe1bd61bded94c067073e7ad75730f4" sha1="41f62b94d360796f521f2c7bdd38a75e2eccac76"/>
@@ -1367,7 +1367,7 @@
 		<legacyhash>6a072a1600ad36b2098b836277947237</legacyhash>
 	</game>
 	
-	<game name="Retail/Hatsune Miku - Project Diva Extend (Japan, Asia) (En) (v2.0) (Rev 3) (Wyrdgirn) (60FPS)">
+	<game name="Retail/Hatsune Miku - Project Diva Extend/Hatsune Miku - Project Diva Extend (Japan, Asia) (En) (v2.0) (Rev 3) (Wyrdgirn) (60FPS)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva Extend (Japan, Asia) (En) (v2.0) (Rev 3) (Wyrdgirn) (60FPS)</description>
 		<rom name="Hatsune Miku - Project Diva Extend (Japan, Asia) (En) (v2.0) (Rev 3) (Wyrdgirn) (60FPS).iso" size="1799192576" crc="1c145828" md5="be398497db24b5bf27134bbdc8fff766" sha1="7302edb4af195e72e32a5e5183ac9995c3b27288"/>
@@ -1375,7 +1375,7 @@
 		<hash>1ca4a6957d0c9be21b866ec6ea269e77</hash>
 		<legacyhash>b5a52416fd7d33b73844b1d64f5d0cf6</legacyhash>
 	</game>
-	<game name="Retail/Hatsune Miku - Project Diva Extend (Japan) (Es) (v3.01) (Wyrdgirn)">
+	<game name="Retail/Hatsune Miku - Project Diva Extend/Hatsune Miku - Project Diva Extend (Japan) (Es) (v3.01) (Wyrdgirn)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva Extend (Japan) (Es) (v3.01) (Wyrdgirn)</description>
 		<rom name="Hatsune Miku - Project Diva Extend (Japan) (Es) (v3.01) (Wyrdgirn).iso" size="1799192576" crc="16a925bd" md5="c2269e65cb01328a80f4195c4d938459" sha1="ad01892c3590f9dc2d9c88b83f8416a83b325ddc"/>
@@ -1383,7 +1383,7 @@
 		<hash>65b30428327158e065e2f1cab6cc457b</hash>
 		<legacyhash>39901ffa4c5004ce798565b8927afea0</legacyhash>
 	</game>
-	<game name="Retail/Hatsune Miku - Project Diva Extend (Japan, Asia)">
+	<game name="Retail/Hatsune Miku - Project Diva Extend/Hatsune Miku - Project Diva Extend (Japan, Asia)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva Extend (Japan, Asia)</description>
 		<rom name="Hatsune Miku - Project Diva Extend (Japan, Asia).iso" size="1799192576" crc="463d7382" md5="4560397fde6f5c6d468278b1eefe4457" sha1="02de8c0e2f637fdf155a8bd2ac657013ac49d486"/>
@@ -1391,7 +1391,7 @@
 		<hash>80c9ada35a4606ee128cd780f6cb0e6a</hash>
 		<legacyhash>7e5dfd87dc8a9ea8a585b81238a74fd9</legacyhash>
 	</game>
-	<game name="Retail/Hatsune Miku - Project Diva Extend (Japan) (En) (v2.0) (Diva Fan Project) (Rev 2)">
+	<game name="Retail/Hatsune Miku - Project Diva Extend/Hatsune Miku - Project Diva Extend (Japan) (En) (v2.0) (Diva Fan Project) (Rev 2)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva Extend (Japan) (En) (v2.0) (Diva Fan Project) (Rev 2)</description>
 		<rom name="Hatsune Miku - Project Diva Extend (Japan) (En) (v2.0) (Diva Fan Project) (Rev 2).iso" size="1167693824" crc="a2599d68" md5="2d37c9c8917d8863bfe994f4a4de5c6e" sha1="200b153a04c1fbee94efee36884eec7d15ca60d6"/>
@@ -1399,7 +1399,7 @@
 		<hash>885e38ea4826c37d35d011849e796249</hash>
 		<legacyhash>b29da97070bf75622656567130c6391c</legacyhash>
 	</game>
-	<game name="Retail/Hatsune Miku - Project Diva Extend (Japan, Asia) (En) (v2.0) (Rev 3) (Wyrdgirn)">
+	<game name="Retail/Hatsune Miku - Project Diva Extend/Hatsune Miku - Project Diva Extend (Japan, Asia) (En) (v2.0) (Rev 3) (Wyrdgirn)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva Extend (Japan, Asia) (En) (v2.0) (Rev 3) (Wyrdgirn)</description>
 		<rom name="Hatsune Miku - Project Diva Extend (Japan, Asia) (En) (v2.0) (Rev 3) (Wyrdgirn).iso" size="1799192576" crc="e19f200d" md5="c0d46ff4f0a49237c5e8a794b53e51b5" sha1="4fca8a755fdf1abc808639db2dd31ef501ab62e4"/>
@@ -1407,7 +1407,7 @@
 		<hash>8ad28f4a99367eb4e2a7536cdf766291</hash>
 		<legacyhash>4f2debde7465b91ef4701bf290e51fb9</legacyhash>
 	</game>
-	<game name="Retail/Hatsune Miku - Project Diva Extend (Japan) (Es) (v3.01) (Wyrdgirn) (60FPS)">
+	<game name="Retail/Hatsune Miku - Project Diva Extend/Hatsune Miku - Project Diva Extend (Japan) (Es) (v3.01) (Wyrdgirn) (60FPS)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva Extend (Japan) (Es) (v3.01) (Wyrdgirn) (60FPS)</description>
 		<rom name="Hatsune Miku - Project Diva Extend (Japan) (Es) (v3.01) (Wyrdgirn) (60FPS).iso" size="1799192576" crc="624e1632" md5="8a0175ba5dd610f62a192cb414b93550" sha1="0bfbceb72cf1b7f654194f910ad6b66a491118ab"/>
@@ -1415,7 +1415,7 @@
 		<hash>c094aefd76bceec2293f08fea6d4e6f3</hash>
 		<legacyhash>b949e0e8be4a9c54636c68e980e69ceb</legacyhash>
 	</game>
-	<game name="Retail/Hatsune Miku - Project Diva Extend (Japan, Asia) (60FPS)">
+	<game name="Retail/Hatsune Miku - Project Diva Extend/Hatsune Miku - Project Diva Extend (Japan, Asia) (60FPS)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva Extend (Japan, Asia) (60FPS)</description>
 		<rom name="Hatsune Miku - Project Diva Extend (Japan, Asia) (60FPS).iso" size="1799192576" crc="01610e7e" md5="782f0f222cfd6c00e693c803dae1f50b" sha1="96f0aced70835171a002c78b55619a4c5f73a59e"/>
@@ -1424,7 +1424,7 @@
 		<legacyhash>2173da43bb1b1b1c0e3fe8973d8a6c5a</legacyhash>
 	</game>
 	
-	<game name="Subset/Hatsune Miku - Project Diva Extend (Subset - Full Combo Songs)">
+	<game name="Subset/Hatsune Miku - Project Diva Extend/Hatsune Miku - Project Diva Extend (Subset - Full Combo Songs)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva Extend (Subset - Full Combo Songs)</description>
 		<rom name="Hatsune Miku - Project Diva Extend (Subset - Full Combo Songs).iso" size="1799192576" crc="541a21f3" md5="08d1a5c7554aeae63f557ffb8c551449" sha1="42ede47d2daf2a58b2b81ce4fc8fcce2d09e124d"/>
@@ -1432,7 +1432,7 @@
 		<hash>2bf464fc0aa88745376adca507e48f5d</hash>
 		<legacyhash>c2ccd8f62ec6dbe8cad2679ce40c2032</legacyhash>
 	</game>
-	<game name="Subset/Hatsune Miku - Project Diva Extend (Subset - Full Combo Songs) (60FPS)">
+	<game name="Subset/Hatsune Miku - Project Diva Extend/Hatsune Miku - Project Diva Extend (Subset - Full Combo Songs) (60FPS)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva Extend (Subset - Full Combo Songs) (60FPS)</description>
 		<rom name="Hatsune Miku - Project Diva Extend (Subset - Full Combo Songs) (60FPS).iso" size="1799192576" crc="f2e0d623" md5="529889adc2df59473ef6f2afd569d799" sha1="7487e060b9d2b8963d976c9e3a56c04ab8bd980c"/>
@@ -1450,7 +1450,7 @@
 		<legacyhash>005c19468e9afd49ceee448e1052eb8a</legacyhash>
 	</game>
 	
-	<game name="Retail/Hexyz Force (USA)">
+	<game name="Retail/Hexyz Force/Hexyz Force (USA)">
 		<category>PSP</category>
 		<description>Hexyz Force (USA)</description>
 		<rom name="Hexyz Force (USA).iso" size="708640768" crc="07aec822" md5="437ca3366263ebc0dc8ba5ab8c06bca0" sha1="4af8f9550f1e224ac98f1245b198a5e56edcb4f0"/>
@@ -1458,7 +1458,7 @@
 		<hash>9ca9181c192ea6c81b235869100e9096</hash>
 		<legacyhash>39aaa82b028cb642d5164f9eeb4eb4b9</legacyhash>
 	</game>
-	<game name="Retail/Hexyz Force (USA) (Undub) (v1.2)">
+	<game name="Retail/Hexyz Force/Hexyz Force (USA) (Undub) (v1.2)">
 		<category>PSP</category>
 		<description>Hexyz Force (USA) (Undub) (v1.2)</description>
 		<rom name="Hexyz Force (USA) (Undub) (v1.2).iso" size="592916480" crc="1d4f236e" md5="d256be1127ad46152252fe9345ff8eab" sha1="6b6cef2f23a3984d300a5679190034e70d6d6556"/>
@@ -1475,7 +1475,7 @@
 		<legacyhash>519631fe8682e7d442eb221656931409</legacyhash>
 	</game>
 	
-	<game name="Retail/Hot Shots Golf - Open Tee (Asia)">
+	<game name="Retail/Hot Shots Golf - Open Tee/Hot Shots Golf - Open Tee (Asia)">
 		<category>PSP</category>
 		<description>Hot Shots Golf - Open Tee (Asia)</description>
 		<rom name="Hot Shots Golf - Open Tee (Asia).iso" size="459702272" crc="0b160ad4" md5="5ed0d927e31542473168d75de021c71f" sha1="eb1bdde7fc0b0c6e84b4d85000374971b7b37e46"/>
@@ -1483,7 +1483,7 @@
 		<hash>75dae6957b4906668bbca1a2196929ac</hash>
 		<legacyhash>0ad36231c99d1d72857a827a7a2afeb2</legacyhash>
 	</game>
-	<game name="Retail/Hot Shots Golf - Open Tee (USA) (v2.00)">
+	<game name="Retail/Hot Shots Golf - Open Tee/Hot Shots Golf - Open Tee (USA) (v2.00)">
 		<category>PSP</category>
 		<description>Hot Shots Golf - Open Tee (USA) (v2.00)</description>
 		<rom name="Hot Shots Golf - Open Tee (USA) (v2.00).iso" size="459702272" crc="122c8697" md5="5bcbe48b621d0ff34d89a3721efc92b0" sha1="e47f36bbacab9a2fa0052d806378ca829eb2d91c"/>
@@ -1555,7 +1555,7 @@
 		<legacyhash>c0c9fae54d8efbccd15bc69e2f1eee49</legacyhash>
 	</game>
 	
-	<game name="Retail/Jeanne d'Arc (USA)">
+	<game name="Retail/Jeanne d'Arc/Jeanne d'Arc (USA)">
 		<category>PSP</category>
 		<description>Jeanne d'Arc (USA)</description>
 		<rom name="Jeanne d'Arc (USA).iso" size="1247412224" crc="d15fe905" md5="306f1eb4c983a555f3b548ad7c09386e" sha1="87b0e5fdbadaa0741adf5a5007d25d51639e6f9e"/>
@@ -1563,7 +1563,7 @@
 		<hash>9468c9f3b1cc569e1b07370b553ad968</hash>
 		<legacyhash>f5b0020aac4ce90c808fefd54f2bd494</legacyhash>
 	</game>
-	<game name="Retail/Jeanne d'arc (USA) (Es) (v1.0) (Artema Translations)">
+	<game name="Retail/Jeanne d'Arc/Jeanne d'arc (USA) (Es) (v1.0) (Artema Translations)">
 		<category>PSP</category>
 		<description>Jeanne d'arc (USA) (Es) (v1.0) (Artema Translations)</description>
 		<rom name="Jeanne d'arc (USA) (Es) (v1.0) (Artema Translations).iso" size="1042561024" crc="8c66f6cc" md5="e7edf9c6d54714d15ba6e85e0df0aa01" sha1="d5260fef196527cb7c26dd9cf1ebc1ea97790b55"/>
@@ -1571,7 +1571,7 @@
 		<hash>64bddf08b10adf5daf296d973cd21b50</hash>
 		<legacyhash>886aeeab3a82f755b1c04f2843fc41c5</legacyhash>
 	</game>
-	<game name="Retail/Jeanne d'Arc (USA) (Ru) (v0.3)">
+	<game name="Retail/Jeanne d'Arc/Jeanne d'Arc (USA) (Ru) (v0.3)">
 		<category>PSP</category>
 		<description>Jeanne d'Arc (USA) (Ru) (v0.3)</description>
 		<rom name="Jeanne d'Arc (USA) (Ru) (v0.3).iso" size="1247401984" crc="dc0219fb" md5="bb3d2603d6ab91ef96f9619eef0d111d" sha1="0c338ca9050fd8acb56f1daacfc17e3057fcb892"/>
@@ -1589,7 +1589,7 @@
 		<legacyhash>d96cbe68ce25650983054fbcc9f00b7a</legacyhash>
 	</game>
 	
-	<game name="Retail/K-ON! Houkago Live!! (Japan) (v1.01)">
+	<game name="Retail/K-ON! Houkago Live/K-ON! Houkago Live!! (Japan) (v1.01)">
 		<category>PSP</category>
 		<description>K-ON! Houkago Live!! (Japan) (v1.01)</description>
 		<rom name="K-ON! Houkago Live!! (Japan) (v1.01).iso" size="1420769280" crc="e28ef0b2" md5="57881b1dd83fb06ded7d6bb782dccac1" sha1="866ed4a8f9173167b7e5074bc9227538b755e737"/>
@@ -1597,7 +1597,7 @@
 		<hash>3a330199e2531f21e25655a1b8c3ba3d</hash>
 		<legacyhash>ba20990578d0075cdcfeb104950cac74</legacyhash>
 	</game>
-	<game name="Retail/K-ON! Houkago Live!! (Japan) (En) (v1.0) (Frain Breeze, Wxnder, KingSizzle)">
+	<game name="Retail/K-ON! Houkago Live/K-ON! Houkago Live!! (Japan) (En) (v1.0) (Frain Breeze, Wxnder, KingSizzle)">
 		<category>PSP</category>
 		<description>K-ON! Houkago Live!! (Japan) (En) (v1.0) (Frain Breeze, Wxnder, KingSizzle)</description>
 		<rom name="K-ON! Houkago Live!! (Japan) (En) (v1.0) (Frain Breeze, Wxnder, KingSizzle).iso" size="1756659712" crc="2f89d4e5" md5="fab6e288b6fad5570dd8e9d9c63afb17" sha1="7e0120b1557249a3678315d57b72c6fe4cbcfb92"/>
@@ -1759,7 +1759,7 @@
 		<legacyhash>ecf1d190214b0473aa6080b5d742c0fb</legacyhash>
 	</game>
 	
-	<game name="Retail/Manhunt 2 (USA, Canada)">
+	<game name="Retail/Manhunt 2/Manhunt 2 (USA, Canada)">
 		<category>PSP</category>
 		<description>Manhunt 2 (USA, Canada)</description>
 		<rom name="Manhunt 2 (USA, Canada).iso" size="1299513344" crc="6ac42daa" md5="674d20ee7b4b5640eec0bd8cdf31d3e1" sha1="cc48d55f8a936d121bddc6c04e1256ae5e9ecf57"/>
@@ -1767,7 +1767,7 @@
 		<hash>f1c12c01231c701cca5d99bd32f75c60</hash>
 		<legacyhash>f2d5705a57ce4fd03a9c793d7322c0cf</legacyhash>
 	</game>
-	<game name="Retail/Manhunt 2 (Europe) (En,Fr,De,Es,It) (v1.02) (PSP) (PSN)">
+	<game name="Retail/Manhunt 2/Manhunt 2 (Europe) (En,Fr,De,Es,It) (v1.02) (PSP) (PSN)">
 		<category>PSP</category>
 		<description>Manhunt 2 (Europe) (En,Fr,De,Es,It) (v1.02) (PSP) (PSN)</description>
 		<rom name="Manhunt 2 (Europe) (En,Fr,De,Es,It) (v1.02) (PSP) (PSN).iso" size="1305051136" crc="2cf6ba31" md5="fe9ec7bfc3d2d30dba88649c9f4fad25" sha1="9350e06a2ecbbea9726e0bb6e61545a2074b052a"/>
@@ -1794,7 +1794,7 @@
 		<legacyhash>aee315b940032f77c838d10e055d394e</legacyhash>
 	</game>
 	
-	<game name="Retail/Medal of Honor - Heroes (Germany)">
+	<game name="Retail/Medal of Honor - Heroes/Medal of Honor - Heroes (Germany)">
 		<category>PSP</category>
 		<description>Medal of Honor - Heroes (Germany)</description>
 		<rom name="Medal of Honor - Heroes (Germany).iso" size="1447067648" crc="9e870e6a" md5="f86eed8eca30863153f9c9c3d5ba24db" sha1="dcac3cff5ef6c5253c2ba6c70553dfe580310596"/>
@@ -1802,7 +1802,7 @@
 		<hash>1a97c160cb1e209dcc09c64addf4a3b7</hash>
 		<legacyhash>709728568b6d127265ac6c272c092d56</legacyhash>
 	</game>
-	<game name="Retail/Medal of Honor - Heroes (USA)">
+	<game name="Retail/Medal of Honor - Heroes/Medal of Honor - Heroes (USA)">
 		<category>PSP</category>
 		<description>Medal of Honor - Heroes (USA)</description>
 		<rom name="Medal of Honor - Heroes (USA).iso" size="1447002112" crc="250e420d" md5="cbed092c262a527ccecaf5ef424e20ee" sha1="4f09c1b92094f7884bf54c957b950b0be573b9f3"/>
@@ -1810,7 +1810,7 @@
 		<hash>4fa18bf4cb270e00f523b8c228bf567d</hash>
 		<legacyhash>59b6474ede22641b41a3891baad21bcb</legacyhash>
 	</game>
-	<game name="Retail/Medal of Honor - Heroes (Europe)">
+	<game name="Retail/Medal of Honor - Heroes/Medal of Honor - Heroes (Europe)">
 		<category>PSP</category>
 		<description>Medal of Honor - Heroes (Europe)</description>
 		<rom name="Medal of Honor - Heroes (Europe).iso" size="1447002112" crc="11bc8da6" md5="2baadc390167545b1b567a8ac2f29601" sha1="cb3b84eadd2373a311ea314e4b6b4a27af0af6d5"/>
@@ -1818,7 +1818,7 @@
 		<hash>7c360a4dda11e152aa4885fd26627bac</hash>
 		<legacyhash>6c46225644b6aca53e81b44fe7f23c52</legacyhash>
 	</game>
-	<game name="Retail/Medal of Honor - Heroes (Italy)">
+	<game name="Retail/Medal of Honor - Heroes/Medal of Honor - Heroes (Italy)">
 		<category>PSP</category>
 		<description>Medal of Honor - Heroes (Italy)</description>
 		<rom name="Medal of Honor - Heroes (Italy).iso" size="1447165952" crc="02167c39" md5="116a4cc03780d9a0197efc4534e0006c" sha1="7b530827bbc2d34208f92d0eaa22c082cfc5dc68"/>
@@ -1826,7 +1826,7 @@
 		<hash>81758436c93a6eba1aba391fa3ff9cdf</hash>
 		<legacyhash>7b4ef685a5d317590c327a0a9c3bd3b1</legacyhash>
 	</game>
-	<game name="Retail/Medal of Honor - Heroes (Netherlands)">
+	<game name="Retail/Medal of Honor - Heroes/Medal of Honor - Heroes (Netherlands)">
 		<category>PSP</category>
 		<description>Medal of Honor - Heroes (Netherlands)</description>
 		<rom name="Medal of Honor - Heroes (Netherlands).iso" size="1447002112" crc="94ec0b0c" md5="73fd1611c55ee07d0b7f208bd37028da" sha1="2d8e674f506296502f02d971a487c78336862d84"/>
@@ -1834,7 +1834,7 @@
 		<hash>a5d8eaaefe436c597ac6457f0e228729</hash>
 		<legacyhash>377613a0c18ee2dfb7050dc5fc9a0c7f</legacyhash>
 	</game>
-	<game name="Retail/Medal of Honor - Heroes (France)">
+	<game name="Retail/Medal of Honor - Heroes/Medal of Honor - Heroes (France)">
 		<category>PSP</category>
 		<description>Medal of Honor - Heroes (France)</description>
 		<rom name="Medal of Honor - Heroes (France).iso" size="1446871040" crc="5c21dc8e" md5="8f36411ae432126dd72a44d54168eb66" sha1="592411d6ce358e9d454b3bb510013585cdf3e2d9"/>
@@ -1842,7 +1842,7 @@
 		<hash>a79fb7b77105980a2df314411750b1ee</hash>
 		<legacyhash>d80c766516fc0f36eeed48bb055e1b87</legacyhash>
 	</game>
-	<game name="Retail/Medal of Honor - Heroes (Spain)">
+	<game name="Retail/Medal of Honor - Heroes/Medal of Honor - Heroes (Spain)">
 		<category>PSP</category>
 		<description>Medal of Honor - Heroes (Spain)</description>
 		<rom name="Medal of Honor - Heroes (Spain).iso" size="1447165952" crc="6181abd4" md5="90d7311f3dd96ce322a64685942a7c5c" sha1="64b0c9fa42b22c01ea317674c3789b4655afd6b2"/>
@@ -1932,7 +1932,7 @@
 		<legacyhash>f8d08cd40be3bd1fadb592ce0f8997db</legacyhash>
 	</game>
 	
-	<game name="Retail/Metal Gear Acid 2 (Europe) (En,Fr,De,Es,It)">
+	<game name="Retail/Metal Gear Acid 2/Metal Gear Acid 2 (Europe) (En,Fr,De,Es,It)">
 		<category>PSP</category>
 		<description>Metal Gear Acid 2 (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Metal Gear Acid 2 (Europe) (En,Fr,De,Es,It).iso" size="917340160" crc="324b1018" md5="f43c903c00242896563c5b84de0d4e55" sha1="443e21fe55607252cc59c2a80e94f524876af24f"/>
@@ -1940,7 +1940,7 @@
 		<hash>19487d36a2540a909cb5d70721117b98</hash>
 		<legacyhash>f77715c13b9cf60fc635031a074b55f2</legacyhash>
 	</game>
-	<game name="Retail/Metal Gear Acid 2 (USA)">
+	<game name="Retail/Metal Gear Acid 2/Metal Gear Acid 2 (USA)">
 		<category>PSP</category>
 		<description>Metal Gear Acid 2 (USA)</description>
 		<rom name="Metal Gear Acid 2 (USA).iso" size="917307392" crc="0c3ac8cd" md5="84c713bfb1eaeb55372efc2bb7fe0df3" sha1="87cebe80a93c4231bdbab26ad630c6d8e2fddab5"/>
@@ -1949,7 +1949,7 @@
 		<legacyhash>3fd8724cdeb55aec6d8f1ed3c2cec825</legacyhash>
 	</game>
 	
-	<game name="Retail/Metal Gear Solid - Peace Walker (USA) (En,Fr,Es) (v1.01)">
+	<game name="Retail/Metal Gear Solid - Peace Walker/Metal Gear Solid - Peace Walker (USA) (En,Fr,Es) (v1.01)">
 		<category>PSP</category>
 		<description>Metal Gear Solid - Peace Walker (USA) (En,Fr,Es) (v1.01)</description>
 		<rom name="Metal Gear Solid - Peace Walker (USA) (En,Fr,Es) (v1.01).iso" size="1646002176" crc="1a2c5ca5" md5="b8fe04e4fbeaefd67af2ac2622ed983a" sha1="957d88fea235b9da5716155b2445f06df50aec67"/>
@@ -1957,7 +1957,7 @@
 		<hash>bfbcf84b371fe46282c8b96969ec1a5a</hash>
 		<legacyhash>ca6adfa0cc869239d353de0e2f50a10b</legacyhash>
 	</game>
-	<game name="Retail/Metal Gear Solid - Peace Walker (Europe, Australia) (En,Fr,De,Es,It)">
+	<game name="Retail/Metal Gear Solid - Peace Walker/Metal Gear Solid - Peace Walker (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>PSP</category>
 		<description>Metal Gear Solid - Peace Walker (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<rom name="Metal Gear Solid - Peace Walker (Europe, Australia) (En,Fr,De,Es,It).iso" size="1646002176" crc="7d211ac4" md5="ac5b490b17b7e60124e15612a1b54b00" sha1="76031e8df71b208d13101dd82c03ea2740036668"/>
@@ -1965,7 +1965,7 @@
 		<hash>f1dcaac0a30855ad048f4c72755dacd5</hash>
 		<legacyhash>8c98dc9c5c9c8280b5834b46270e28bf</legacyhash>
 	</game>
-	<game name="Retail/Metal Gear Solid - Peace Walker (USA) (En,Fr,Es) (v1.01) (60FPS)">
+	<game name="Retail/Metal Gear Solid - Peace Walker/Metal Gear Solid - Peace Walker (USA) (En,Fr,Es) (v1.01) (60FPS)">
 		<category>PSP</category>
 		<description>Metal Gear Solid - Peace Walker (USA) (En,Fr,Es) (v1.01) (60FPS)</description>
 		<rom name="Metal Gear Solid - Peace Walker (USA) (En,Fr,Es) (v1.01) (60FPS).iso" size="1645989888" crc="a8a7b553" md5="0eb49d5749bb75fdebb73b24b27e53ab" sha1="31bb3dfe2a6954c51cd7d19c5865b8c1ed9230e2"/>
@@ -2062,7 +2062,7 @@
 		<legacyhash>294a4c5028d20fa3f93b2593626235a8</legacyhash>
 	</game>
 	
-	<game name="Retail/Monster Hunter Portable 3rd (TMO v5)">
+	<game name="Retail/Monster Hunter Portable 3rd/Monster Hunter Portable 3rd (TMO v5)">
 		<category>PSP</category>
 		<description>Monster Hunter Portable 3rd (TMO v5)</description>
 		<rom name="Monster Hunter Portable 3rd (TMO v5).iso" size="1207140352" crc="a72cfd88" md5="ade9c39199e886e1fb1e36a93b829e0f" sha1="960194812c2a7647fcd3756f17e7504555aae1a6"/>
@@ -2070,7 +2070,7 @@
 		<hash>8b9e9a82fe447607cf3c07d6852e21b1</hash>
 		<legacyhash>d2e703142f88c0cb5c4bf71fb1e12044</legacyhash>
 	</game>
-	<game name="Retail/Monster Hunter Portable 3rd (HD ver.) (Japan) (En) (v5) (Team Maverick ONE)">
+	<game name="Retail/Monster Hunter Portable 3rd/Monster Hunter Portable 3rd (HD ver.) (Japan) (En) (v5) (Team Maverick ONE)">
 		<category>PSP</category>
 		<description>Monster Hunter Portable 3rd (HD ver.) (Japan) (En) (v5) (Team Maverick ONE)</description>
 		<rom name="Monster Hunter Portable 3rd (HD ver.) (Japan) (En) (v5) (Team Maverick ONE).iso" size="1323565056" crc="80874121" md5="44761df383bd7e23c43911da0d82020a" sha1="7bdf4f925f72ae2822a161882af1b543fc218128"/>
@@ -2106,7 +2106,7 @@
 		<legacyhash>cfb4a20af67791bcbabcaaba4dc83f11</legacyhash>
 	</game>
 	
-	<game name="Retail/Naruto Shippuden - Ultimate Ninja Heroes 3 (Europe) (En,Fr,De,Es,It)">
+	<game name="Retail/Naruto Shippuden - Ultimate Ninja Heroes 3/Naruto Shippuden - Ultimate Ninja Heroes 3 (Europe) (En,Fr,De,Es,It)">
 		<category>PSP</category>
 		<description>Naruto Shippuden - Ultimate Ninja Heroes 3 (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Naruto Shippuden - Ultimate Ninja Heroes 3 (Europe) (En,Fr,De,Es,It).iso" size="1360363520" crc="6b6fe824" md5="cd9ae4049f4adf61951c73816a1c9290" sha1="212879306fe1fc1306406153efa9ca5b12ddd060"/>
@@ -2114,7 +2114,7 @@
 		<hash>3d01acb5915c48c0cd21ef1fa03f9568</hash>
 		<legacyhash>e250c7077c9f7ac8e0388a33f60fc445</legacyhash>
 	</game>
-	<game name="Retail/Naruto Shippuden - Ultimate Ninja Heroes 3 (USA)">
+	<game name="Retail/Naruto Shippuden - Ultimate Ninja Heroes 3/Naruto Shippuden - Ultimate Ninja Heroes 3 (USA)">
 		<category>PSP</category>
 		<description>Naruto Shippuden - Ultimate Ninja Heroes 3 (USA)</description>
 		<rom name="Naruto Shippuden - Ultimate Ninja Heroes 3 (USA).iso" size="1360363520" crc="2617678e" md5="ff0c5acaa68cd9ede1970c511e9a54bd" sha1="6c909c770564adbc0966ea6c75a317d9174f4a8c"/>
@@ -2150,7 +2150,7 @@
 		<legacyhash>5f21021fc75b12ec12ae23453acf254d</legacyhash>
 	</game>
 	
-	<game name="Retail/Nayuta no Kiseki (Japan) (En) (Flame) (v4.15)">
+	<game name="Retail/Nayuta no Kiseki/Nayuta no Kiseki (Japan) (En) (Flame) (v4.15)">
 		<category>PSP</category>
 		<description>Nayuta no Kiseki (Japan) (En) (Flame) (v4.15)</description>
 		<rom name="Nayuta no Kiseki (Japan) (En) (Flame) (v4.15).iso" size="831373312" crc="88c08fc1" md5="6cc975153b7998db4242baa17eb8d276" sha1="01e02d60dc7a05683d29c45a10cce41083cd809b"/>
@@ -2158,7 +2158,7 @@
 		<hash>4a91cfff0cbd7d85c95653089d6de649</hash>
 		<legacyhash>ca654376f904accee921adc16be2da4c</legacyhash>
 	</game>
-	<game name="Retail/Nayuta no Kiseki (Japan) (En) (dackst) (v1.08)">
+	<game name="Retail/Nayuta no Kiseki/Nayuta no Kiseki (Japan) (En) (dackst) (v1.08)">
 		<category>PSP</category>
 		<description>Nayuta no Kiseki (Japan) (En) (dackst) (v1.08)</description>
 		<rom name="Nayuta no Kiseki (Japan) (En) (dackst) (v1.08).iso" size="600262656" crc="75e466a9" md5="bda6803e59fdcc67a17829fb6b49e134" sha1="b4b35037854abeeb9a1283ba3a77b602a6d58705"/>
@@ -2167,7 +2167,7 @@
 		<legacyhash>d97940c8c8d13c4d6f32cc3368e932ac</legacyhash>
 	</game>
 	
-	<game name="Subset/Nayuta no Kiseki (Japan) (En) (Flame) (4.15) (Subset - Bonus)">
+	<game name="Subset/Nayuta no Kiseki/Nayuta no Kiseki (Japan) (En) (Flame) (4.15) (Subset - Bonus)">
 		<category>PSP</category>
 		<description>Nayuta no Kiseki (Japan) (En) (Flame) (4.15) (Subset - Bonus)</description>
 		<rom name="Nayuta no Kiseki (Japan) (En) (Flame) (4.15) (Subset - Bonus).iso" size="831373312" crc="8a6fdb6b" md5="82176b18c1f0717e4d1eb01e522d4ff3" sha1="3236362b838266f3dfddf47c8a4152dc6a29105c"/>
@@ -2175,7 +2175,7 @@
 		<hash>b079f140baf6c592dff8b53385955861</hash>
 		<legacyhash>798d068d45c19a709aa46cbc2ec25070</legacyhash>
 	</game>
-	<game name="Subset/Nayuta no Kiseki (Japan) (En) (dackst) (1.08) (Subset - Bonus)">
+	<game name="Subset/Nayuta no Kiseki/Nayuta no Kiseki (Japan) (En) (dackst) (1.08) (Subset - Bonus)">
 		<category>PSP</category>
 		<description>Nayuta no Kiseki (Japan) (En) (dackst) (1.08) (Subset - Bonus)</description>
 		<rom name="Nayuta no Kiseki (Japan) (En) (dackst) (1.08) (Subset - Bonus).iso" size="600262656" crc="11333abf" md5="fcdec835b0d65f55e76a864304403fc6" sha1="844447b8240b507092f7c42913c05b5d65c861dd"/>
@@ -2255,7 +2255,7 @@
 		<legacyhash>ef3b412e898e639d2bcd4aa991c3eb35</legacyhash>
 	</game>
 	
-	<game name="Retail/PaRappa the Rapper (USA)">
+	<game name="Retail/PaRappa the Rapper/PaRappa the Rapper (USA)">
 		<category>PSP</category>
 		<description>PaRappa the Rapper (USA)</description>
 		<rom name="PaRappa the Rapper (USA).iso" size="377290752" crc="9d677dff" md5="38fbdcbc90e976716782dc89c4dfcc95" sha1="bf19177775a2b24cd15d7d2292b603973fbfb6e3"/>
@@ -2263,7 +2263,7 @@
 		<hash>962c3e7e8c68bb48e020d7d8faf08600</hash>
 		<legacyhash>cde7daa33e49e96cb4f968e709f09cbc</legacyhash>
 	</game>
-	<game name="Retail/PaRappa the Rapper (Europe, Australia) (En,Fr,De,Es,It)">
+	<game name="Retail/PaRappa the Rapper/PaRappa the Rapper (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>PSP</category>
 		<description>PaRappa the Rapper (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<rom name="PaRappa the Rapper (Europe, Australia) (En,Fr,De,Es,It).iso" size="377290752" crc="e6c28cb8" md5="cbf42ba0bf7579762ddf95bc18a98f8c" sha1="dacf134b56bb66178f841b8e228023df34d15968"/>
@@ -2308,7 +2308,7 @@
 		<legacyhash>9f08e9203c0e149111cf323e63aceb76</legacyhash>
 	</game>
 	
-	<game name="Retail/Persona 2 - Batsu - Eternal Punishment (Japan)">
+	<game name="Retail/Persona 2 - Batsu/Persona 2 - Batsu - Eternal Punishment (Japan)">
 		<category>PSP</category>
 		<description>Persona 2 - Batsu - Eternal Punishment (Japan)</description>
 		<rom name="Persona 2 - Batsu - Eternal Punishment (Japan).iso" size="1297285120" crc="93c35b9b" md5="124e4a453afed1946873912823716b84" sha1="99ac0ea50e0789582cdfc053a8604944c98603da"/>
@@ -2316,7 +2316,7 @@
 		<hash>42650941b0eab3c40d31934b91595c7a</hash>
 		<legacyhash>2f2701a64b8c636000573af63b79eb30</legacyhash>
 	</game>
-	<game name="Retail/Persona 2 - Batsu (Eternal Punishment) (Japan) (En) (v1.0) (eiowlta,Sayucchi,DarTisD)">
+	<game name="Retail/Persona 2 - Batsu/Persona 2 - Batsu (Eternal Punishment) (Japan) (En) (v1.0) (eiowlta,Sayucchi,DarTisD)">
 		<category>PSP</category>
 		<description>Persona 2 - Batsu (Eternal Punishment) (Japan) (En) (v1.0) (eiowlta,Sayucchi,DarTisD)</description>
 		<rom name="Persona 2 - Batsu (Eternal Punishment) (Japan) (En) (v1.0) (eiowlta,Sayucchi,DarTisD).iso" size="693600256" crc="74d54703" md5="0b2f8e01481917d9f3d9524137a75cac" sha1="b5bd23004d5a0bf010945a402188f4cef12d8b6b"/>
@@ -2325,7 +2325,7 @@
 		<legacyhash>d0f14d350782af4a82b95dff4b2292f3</legacyhash>
 	</game>
 	
-	<game name="Retail/Phantasy Star Portable (Europe)">
+	<game name="Retail/Phantasy Star Portable/Phantasy Star Portable (Europe)">
 		<category>PSP</category>
 		<description>Phantasy Star Portable (Europe)</description>
 		<rom name="Phantasy Star Portable (Europe).iso" size="1099399168" crc="1e621766" md5="bd1d97dddb9b2f1a608be9abd40c8272" sha1="45fcb8647bbba5468aba9b491f5c9e0af898283c"/>
@@ -2333,7 +2333,7 @@
 		<hash>06fb0e863738bab28e39448a50178423</hash>
 		<legacyhash>fe6fdf1ff5fcfff1d240cb960705c613</legacyhash>
 	</game>
-	<game name="Retail/Phantasy Star Portable (USA)">
+	<game name="Retail/Phantasy Star Portable/Phantasy Star Portable (USA)">
 		<category>PSP</category>
 		<description>Phantasy Star Portable (USA)</description>
 		<rom name="Phantasy Star Portable (USA).iso" size="1099399168" crc="d3e5e6ad" md5="1746028b246ffdbf00fb426815d9627d" sha1="bb0309b9fe1d1d66a64c2ea4d677475b69dd1371"/>
@@ -2342,7 +2342,7 @@
 		<legacyhash>32cb39aaf29ebac8966e1f43fcd55cd5</legacyhash>
 	</game>
 	
-	<game name="Retail/Phantom Brave - The Hermuda Triangle (USA)">
+	<game name="Retail/Phantom Brave - The Hermuda Triangle/Phantom Brave - The Hermuda Triangle (USA)">
 		<category>PSP</category>
 		<description>Phantom Brave - The Hermuda Triangle (USA)</description>
 		<rom name="Phantom Brave - The Hermuda Triangle (USA).iso" size="797442048" crc="7f4dc345" md5="a7724b3c6292da99bc9ffd7f40741e4d" sha1="8739e80f62dc5c34851646a36b48ee5656b5abb5"/>
@@ -2350,7 +2350,7 @@
 		<hash>16764bc820f39f842b390018102f0957</hash>
 		<legacyhash>790f96939e00d970512f68108e202ed1</legacyhash>
 	</game>
-	<game name="Retail/Phantom Brave - The Hermuda Triangle (USA) (PSP) (PSN)">
+	<game name="Retail/Phantom Brave - The Hermuda Triangle/Phantom Brave - The Hermuda Triangle (USA) (PSP) (PSN)">
 		<category>PSP</category>
 		<description>Phantom Brave - The Hermuda Triangle (USA) (PSP) (PSN)</description>
 		<rom name="Phantom Brave - The Hermuda Triangle (USA) (PSP) (PSN).iso" size="797442048" crc="c74f003e" md5="a310a217036ba7a8ba42c25e1c7c49d0" sha1="a56689ce250217a880c0e467aeb6161ab27fe326"/>
@@ -2377,7 +2377,7 @@
 		<legacyhash>fd2efe63d88a5ba9d56d315600d9d9fe</legacyhash>
 	</game>
 	
-	<game name="Retail/Planetarian - Chiisa na Hoshi no Yume (Japan) (v2.00)">
+	<game name="Retail/Planetarian/Planetarian - Chiisa na Hoshi no Yume (Japan) (v2.00)">
 		<category>PSP</category>
 		<description>Planetarian - Chiisa na Hoshi no Yume (Japan) (v2.00)</description>
 		<rom name="Planetarian - Chiisa na Hoshi no Yume (Japan) (v2.00).iso" size="283213824" crc="bd363315" md5="40ed86779ae1ad875a64fc36db91338b" sha1="a25be92ccd77b2f2a2dcd3ec19abb6c01a17b2bc"/>
@@ -2385,7 +2385,7 @@
 		<hash>501e884a2accaf29b471cbc042e713b3</hash>
 		<legacyhash>a792ecbb973e7de5970a98b766ac05bf</legacyhash>
 	</game>
-	<game name="Retail/Planetarian - Chiisa na Hoshi no Yume (Japan) (v1.00 or v2.00) (En) (v1.0) (ShinjiGR)">
+	<game name="Retail/Planetarian/Planetarian - Chiisa na Hoshi no Yume (Japan) (v1.00 or v2.00) (En) (v1.0) (ShinjiGR)">
 		<category>PSP</category>
 		<description>Planetarian - Chiisa na Hoshi no Yume (Japan) (v1.00 or v2.00) (En) (v1.0) (ShinjiGR)</description>
 		<rom name="Planetarian - Chiisa na Hoshi no Yume (Japan) (v1.00 or v2.00) (En) (v1.0) (ShinjiGR).iso" size="284678144" crc="07414e88" md5="bbbd5ea3171e7416ec89a34a7f7b0fb0" sha1="1721f904d15a68221c5e48d1df33cc936bb6c054"/>
@@ -2393,7 +2393,7 @@
 		<hash>951ca50d673abd38ba7b61e0284aa7dc</hash>
 		<legacyhash>aa23457f19030458e78633f4e02f35b9</legacyhash>
 	</game>
-	<game name="Retail/Planetarian - Chiisa na Hoshi no Yume (Japan) (v1.02)">
+	<game name="Retail/Planetarian/Planetarian - Chiisa na Hoshi no Yume (Japan) (v1.02)">
 		<category>PSP</category>
 		<description>Planetarian - Chiisa na Hoshi no Yume (Japan) (v1.02)</description>
 		<rom name="Planetarian - Chiisa na Hoshi no Yume (Japan) (v1.02).iso" size="283213824" crc="bfc444a2" md5="756a33a6af9b9583a1b4a7c337b05bd3" sha1="150f1cd620558b2a5ad888b58131fc2d6ac822ae"/>
@@ -2438,7 +2438,7 @@
 		<legacyhash>1f7d22952294a8ba39ead74c50872181</legacyhash>
 	</game>
 	
-	<game name="Retail/Ridge Racer 2 (Asia) (En,Fr,De,Es,It)">
+	<game name="Retail/Ridge Racer 2/Ridge Racer 2 (Asia) (En,Fr,De,Es,It)">
 		<category>PSP</category>
 		<description>Ridge Racer 2 (Asia) (En,Fr,De,Es,It)</description>
 		<rom name="Ridge Racer 2 (Asia) (En,Fr,De,Es,It).iso" size="1523023872" crc="03886bd1" md5="8704e8df49fd9df11181ec464bb3ef8e" sha1="9ee57fc509b43f8f575bfab1056e39b686918801"/>
@@ -2446,7 +2446,7 @@
 		<hash>4efd51ecc4a7cce255efcf6e0ff06d62</hash>
 		<legacyhash>3ad6c9be3465afdfbcd9bef7d4809144</legacyhash>
 	</game>
-	<game name="Retail/Ridge Racer 2 (Europe, Australia) (En,Fr,De,Es,It)">
+	<game name="Retail/Ridge Racer 2/Ridge Racer 2 (Europe, Australia) (En,Fr,De,Es,It)">
 		<category>PSP</category>
 		<description>Ridge Racer 2 (Europe, Australia) (En,Fr,De,Es,It)</description>
 		<rom name="Ridge Racer 2 (Europe, Australia) (En,Fr,De,Es,It).iso" size="1523023872" crc="510f8bfa" md5="d7f46b419cc046e28832b0e273e27c0a" sha1="56dd3b5b53c9f3d3e719b5c23bf0fdcb571adf1a"/>
@@ -2491,7 +2491,7 @@
 		<legacyhash>77b284a7bcdcb2a3587a9960c9e1c9c7</legacyhash>
 	</game>
 	
-	<game name="Retail/Shadow of Destiny (USA)">
+	<game name="Retail/Shadow of Destiny/Shadow of Destiny (USA)">
 		<category>PSP</category>
 		<description>Shadow of Destiny (USA)</description>
 		<rom name="Shadow of Destiny (USA).iso" size="1098252288" crc="5636637f" md5="3dcadf40a8bcd4ddcfc7c7b51001364e" sha1="756058f70d1cffee6a2b075b05e3e8c232acfea4"/>
@@ -2499,7 +2499,7 @@
 		<hash>2991ecdb4d9a22dc40511b241bfb59a4</hash>
 		<legacyhash>887bb53eb92a56235aa40a80ce5c8eeb</legacyhash>
 	</game>
-	<game name="Retail/Shadow of Memories (Japan)">
+	<game name="Retail/Shadow of Destiny/Shadow of Memories (Japan)">
 		<category>PSP</category>
 		<description>Shadow of Memories (Japan)</description>
 		<rom name="Shadow of Memories (Japan).iso" size="1098383360" crc="0c66710e" md5="a1a31f3ed864fc79a489ff9d01cc6737" sha1="f8dd52f7e33e81b17dfc169a1475f77d7ec0fb20"/>
@@ -2507,7 +2507,7 @@
 		<hash>6108f4877ff2755f9404e1aa79ca3ebb</hash>
 	</game>
 	
-	<game name="Retail/Shin Megami Tensei - Persona (USA)">
+	<game name="Retail/Shin Megami Tensei - Persona/Shin Megami Tensei - Persona (USA)">
 		<category>PSP</category>
 		<description>Shin Megami Tensei - Persona (USA)</description>
 		<rom name="Shin Megami Tensei - Persona (USA).iso" size="820740096" crc="7756a333" md5="c75f75b0f1e92d7cca77d75585bebd82" sha1="ec190259efdac60801e25c9f7d1ce51cda8f94aa"/>
@@ -2515,7 +2515,7 @@
 		<hash>105fbe4883e86f6d5cd5c03ddd530fb1</hash>
 		<legacyhash>5f98376c526f671fcbb431b38b82b5be</legacyhash>
 	</game>
-	<game name="Retail/Shin Megami Tensei - Persona (USA) (Music Restoration) (v1.5.0) (TopCape)">
+	<game name="Retail/Shin Megami Tensei - Persona/Shin Megami Tensei - Persona (USA) (Music Restoration) (v1.5.0) (TopCape)">
 		<category>PSP</category>
 		<description>Shin Megami Tensei - Persona (USA) (Music Restoration) (v1.5.0) (TopCape)</description>
 		<rom name="Shin Megami Tensei - Persona (USA) (Music Restoration) (v1.5.0) (TopCape).iso" size="915177472" crc="91cc9704" md5="f55bf63db47898a17c9d83b090a79be9" sha1="db8370b36607950b6e289accd5122e566224c614"/>
@@ -2523,7 +2523,7 @@
 		<hash>f231a3acfbac8252a3ba58605d0bc5b3</hash>
 		<legacyhash>02e68adfb8346c188cea0836f902472b</legacyhash>
 	</game>
-	<game name="Retail/Shin Megami Tensei - Persona (USA) (Music Restoration) (v2.3.2) (TopCape)">
+	<game name="Retail/Shin Megami Tensei - Persona/Shin Megami Tensei - Persona (USA) (Music Restoration) (v2.3.2) (TopCape)">
 		<category>PSP</category>
 		<description>Shin Megami Tensei - Persona (USA) (Music Restoration) (v2.3.2) (TopCape)</description>
 		<rom name="Shin Megami Tensei - Persona (USA) (Music Restoration) (v2.3.2) (TopCape).iso" size="835010560" crc="2f5631e4" md5="230c711cec14fb553f86621d59c3b485" sha1="4a59e0b0eb195b1ff9d23ec9fb855c96b26d12b7"/>
@@ -2531,7 +2531,7 @@
 		<hash>71554d76ddb2a022569e073321dd4e2a</hash>
 	</game>
 	
-	<game name="Retail/Shin Megami Tensei - Persona 2 - Innocent Sin (USA)">
+	<game name="Retail/Shin Megami Tensei - Persona 2/Shin Megami Tensei - Persona 2 - Innocent Sin (USA)">
 		<category>PSP</category>
 		<description>Shin Megami Tensei - Persona 2 - Innocent Sin (USA)</description>
 		<rom name="Shin Megami Tensei - Persona 2 - Innocent Sin (USA).iso" size="1130889216" crc="58ae311a" md5="f7015d746b5b14b9194c29df5eeda845" sha1="d970d2cca78e46639f5191ac51b29a89f8e4edfc"/>
@@ -2539,7 +2539,7 @@
 		<hash>dcf3cb505ca49469ea2667d0398cea10</hash>
 		<legacyhash>f7c480a3e154dd6273c72a1ee2943464</legacyhash>
 	</game>
-	<game name="Retail/Shin Megami Tensei - Persona 2 - Innocent Sin (USA) (Undub) (v1.0) (AlternativeZero)">
+	<game name="Retail/Shin Megami Tensei - Persona 2/Shin Megami Tensei - Persona 2 - Innocent Sin (USA) (Undub) (v1.0) (AlternativeZero)">
 		<category>PSP</category>
 		<description>Shin Megami Tensei - Persona 2 - Innocent Sin (USA) (Undub) (v1.0) (AlternativeZero)</description>
 		<rom name="Shin Megami Tensei - Persona 2 - Innocent Sin (USA) (Undub) (v1.0) (AlternativeZero).iso" size="1130887168" crc="3acc6f1c" md5="de74ff14d1507131b172564de3089b79" sha1="71cd502814b6cf23dfe3dc6dcdf279d5e77c0811"/>
@@ -2555,7 +2555,7 @@
 		<hash>e9cdda3fdb86f74337226b191245ca5a</hash>
 	</game>
 	
-	<game name="Retail/Shin Megami Tensei - Persona 3 Portable (USA) (Es) (v1.0) (HxCannon)">
+	<game name="Retail/Shin Megami Tensei - Persona 3 Portable/Shin Megami Tensei - Persona 3 Portable (USA) (Es) (v1.0) (HxCannon)">
 		<category>PSP</category>
 		<description>Shin Megami Tensei - Persona 3 Portable (USA) (Es) (v1.0) (HxCannon)</description>
 		<rom name="Shin Megami Tensei - Persona 3 Portable (USA) (Es) (v1.0) (HxCannon).iso" size="1245159424" crc="60198265" md5="c9c50452bf4945ab56385717921d404d" sha1="42094f4e07f1815018674b1f868b765524a3073d"/>
@@ -2563,7 +2563,7 @@
 		<hash>9c009f251fa110d6f91100600fea2be2</hash>
 		<legacyhash>94b9f5e9a60bfc3d2ae634d2a6bfb58f</legacyhash>
 	</game>
-	<game name="Retail/Shin Megami Tensei - Persona 3 Portable (USA)">
+	<game name="Retail/Shin Megami Tensei - Persona 3 Portable/Shin Megami Tensei - Persona 3 Portable (USA)">
 		<category>PSP</category>
 		<description>Shin Megami Tensei - Persona 3 Portable (USA)</description>
 		<rom name="Shin Megami Tensei - Persona 3 Portable (USA).iso" size="1321861120" crc="fa047515" md5="72c194c04fbd2657acb418413c0de873" sha1="06b7ace9bc5293df7bf8609e652185543ab7d062"/>
@@ -2572,7 +2572,7 @@
 		<legacyhash>d752f028b5abada1a305aae9b4cce1f6</legacyhash>
 	</game>
 	
-	<game name="Retail/Shinseiki Evangelion - Koutetsu no Girlfriend 2nd -portable- (Japan) (En) (v1.01) (Mugi)">
+	<game name="Retail/Shinseiki Evangelion/Shinseiki Evangelion - Koutetsu no Girlfriend 2nd -portable- (Japan) (En) (v1.01) (Mugi)">
 		<category>PSP</category>
 		<description>Shinseiki Evangelion - Koutetsu no Girlfriend 2nd -portable- (Japan) (En) (v1.01) (Mugi)</description>
 		<rom name="Shinseiki Evangelion - Koutetsu no Girlfriend 2nd -portable- (Japan) (En) (v1.01) (Mugi).iso" size="296583168" crc="c15864d7" md5="381490d234b7b8f636036cd690afb0c5" sha1="151ea5b29d052eb1910a0cc341c4b423f2c9d5f4"/>
@@ -2580,7 +2580,7 @@
 		<hash>32ed8cc0274f1bff3960a67cfce4841f</hash>
 		<legacyhash>643dbc06fae48bdeea177bf803f0fc6b</legacyhash>
 	</game>
-	<game name="Retail/Shinseiki Evangelion - Koutetsu no Girlfriend 2nd -portable- (Japan) (En) (v1.02) (Mugi)">
+	<game name="Retail/Shinseiki Evangelion/Shinseiki Evangelion - Koutetsu no Girlfriend 2nd -portable- (Japan) (En) (v1.02) (Mugi)">
 		<category>PSP</category>
 		<description>Shinseiki Evangelion - Koutetsu no Girlfriend 2nd -portable- (Japan) (En) (v1.02) (Mugi)</description>
 		<rom name="Shinseiki Evangelion - Koutetsu no Girlfriend 2nd -portable- (Japan) (En) (v1.02) (Mugi).iso" size="296581120" crc="c7944e4e" md5="3a7f66f6825cc71b1bd14218c0ecb32d" sha1="a7fe455cc723a1c5005684d1e7eba68a2881caa5"/>
@@ -2615,7 +2615,7 @@
 		<legacyhash>bb9b54efb8bc5c2e6f2ee8f0593ed081</legacyhash>
 	</game>
 	
-	<game name="Retail/Sonic Rivals (Europe) (En,Fr,De,Es,It)">
+	<game name="Retail/Sonic Rivals/Sonic Rivals (Europe) (En,Fr,De,Es,It)">
 		<category>PSP</category>
 		<description>Sonic Rivals (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Sonic Rivals (Europe) (En,Fr,De,Es,It).iso" size="246349824" crc="dcbc235d" md5="7dfe83392b4a3cbdfeaa974bb97c2eb1" sha1="b46d1b2456129ed25ce66ca93d295c4f505e0283"/>
@@ -2623,7 +2623,7 @@
 		<hash>877bcac99abef7eb6c0cf96d284c0e66</hash>
 		<legacyhash>21807f815a223dfb0db8a7a92aee6d85</legacyhash>
 	</game>
-	<game name="Retail/Sonic Rivals (Europe) (En,Fr,De,Es,It) (60FPS)">
+	<game name="Retail/Sonic Rivals/Sonic Rivals (Europe) (En,Fr,De,Es,It) (60FPS)">
 		<category>PSP</category>
 		<description>Sonic Rivals (Europe) (En,Fr,De,Es,It) (60FPS)</description>
 		<rom name="Sonic Rivals (Europe) (En,Fr,De,Es,It) (60FPS).iso" size="246349824" crc="1e1ae640" md5="f0a08003a40385a2f503852a3d2fa47f" sha1="02b624176337f50a1d8519c4546287263f4607af"/>
@@ -2641,7 +2641,7 @@
 		<legacyhash>221b8c3938ee9e83d1c5f2d12bdba504</legacyhash>
 	</game>
 	
-	<game name="Retail/Soul Eater - Battle Resonance (Japan)">
+	<game name="Retail/Soul Eater - Battle Resonance/Soul Eater - Battle Resonance (Japan)">
 		<category>PSP</category>
 		<description>Soul Eater - Battle Resonance (Japan)</description>
 		<rom name="Soul Eater - Battle Resonance (Japan).iso" size="520683520" crc="d3d7dfec" md5="eb20e36c7eb23d94ac6288d8d765b5c8" sha1="33cb575acc7da5d8e5190041ac68239c13ba7c61"/>
@@ -2649,7 +2649,7 @@
 		<hash>d772bc1de547bf032c8a1e68efcec234</hash>
 		<legacyhash>73e1370964068fd57fc57a9dd1c02d4c</legacyhash>
 	</game>
-	<game name="Retail/Soul Eater - Battle Resonance (Japan) (En) (v1.0) (Anime Games Translation Team)">
+	<game name="Retail/Soul Eater - Battle Resonance/Soul Eater - Battle Resonance (Japan) (En) (v1.0) (Anime Games Translation Team)">
 		<category>PSP</category>
 		<description>Soul Eater - Battle Resonance (Japan) (En) (v1.0) (Anime Games Translation Team)</description>
 		<rom name="Soul Eater - Battle Resonance (Japan) (En) (v1.0) (Anime Games Translation Team).iso" size="520026112" crc="8c91d0c6" md5="87568191bab28aba318f89d072e70b61" sha1="1c0cf68d752df0f0b5cef50ea2a8e205ebf619e4"/>
@@ -2703,7 +2703,7 @@
 		<legacyhash>8befe0266a3d948158989cbb055ab2db</legacyhash>
 	</game>
 	
-	<game name="Retail/Star Ocean - First Departure (Europe)">
+	<game name="Retail/Star Ocean - First Departure/Star Ocean - First Departure (Europe)">
 		<category>PSP</category>
 		<description>Star Ocean - First Departure (Europe)</description>
 		<rom name="Star Ocean - First Departure (Europe).iso" size="1150746624" crc="434cfd0f" md5="1f3e0128e5c2f1a10a4a55ccac1d00a1" sha1="2c7afac802d2e868980ffdfe0bd5aac8be89c6d6"/>
@@ -2711,7 +2711,7 @@
 		<hash>3e3fd05b4834ce03aeec1007fd351f75</hash>
 		<legacyhash>b67e24f911b4501d1f7d991f0db4cbbe</legacyhash>
 	</game>
-	<game name="Retail/Star Ocean - First Departure (Europe) (Fr)">
+	<game name="Retail/Star Ocean - First Departure/Star Ocean - First Departure (Europe) (Fr)">
 		<category>PSP</category>
 		<description>Star Ocean - First Departure (Europe) (Fr)</description>
 		<rom name="Star Ocean - First Departure (Europe) (Fr).iso" size="1119807488" crc="27eb77a7" md5="4b69a2b1c0a6dbe8c63382a3131f0cfb" sha1="b14f11ffc06922d2254c98ddb2386d90e7064bbb"/>
@@ -2719,7 +2719,7 @@
 		<hash>b9a0e8296e6707a7975c397e55e8c0de</hash>
 		<legacyhash>23d1a4474f539020fb83ce140fd08e4c</legacyhash>
 	</game>
-	<game name="Retail/Star Ocean - First Departure (USA)">
+	<game name="Retail/Star Ocean - First Departure/Star Ocean - First Departure (USA)">
 		<category>PSP</category>
 		<description>Star Ocean - First Departure (USA)</description>
 		<rom name="Star Ocean - First Departure (USA).iso" size="1150746624" crc="6229a106" md5="dfa92699b8f5e73ca316eb159a56665f" sha1="360667574a93f84ec026cafab750b5158464c414"/>
@@ -2727,7 +2727,7 @@
 		<hash>0134b8f3a1770b8a89e03640d597aed3</hash>
 		<legacyhash>edb4b462ad7ab6bc2a430ad3040abb6e</legacyhash>
 	</game>
-	<game name="Retail/Star Ocean - First Departure (Undub) (v1.0) (Unknown)">
+	<game name="Retail/Star Ocean - First Departure/Star Ocean - First Departure (Undub) (v1.0) (Unknown)">
 		<category>PSP</category>
 		<description>Star Ocean - First Departure (Undub) (v1.0) (Unknown)</description>
 		<rom name="Star Ocean - First Departure (Undub) (v1.0) (Unknown).iso" size="1088411648" crc="1a8249c3" md5="5e7721acb67a5f7e53739f13e97e5d73" sha1="ef754240eab0088bb37e98be76facea4995470a4"/>
@@ -2735,7 +2735,7 @@
 		<hash>6e38e5d21535d07c6c5d6addda36a3e4</hash>
 	</game>
 	
-	<game name="Retail/Star Ocean - Second Evolution (USA)">
+	<game name="Retail/Star Ocean - Second Evolution/Star Ocean - Second Evolution (USA)">
 		<category>PSP</category>
 		<description>Star Ocean - Second Evolution (USA)</description>
 		<rom name="Star Ocean - Second Evolution (USA).iso" size="1439825920" crc="d4dbb3b7" md5="b5a7e82a0d01786b905a870a8d512b64" sha1="def1cd720dd8522dd04b0465691c720f27e6bf89"/>
@@ -2743,7 +2743,7 @@
 		<hash>7789b31d1c449b1525604208a974e873</hash>
 		<legacyhash>fff50ca584f730281e06281c8e8d4da7</legacyhash>
 	</game>
-	<game name="Retail/Star Ocean - Second Evolution (Europe)">
+	<game name="Retail/Star Ocean - Second Evolution/Star Ocean - Second Evolution (Europe)">
 		<category>PSP</category>
 		<description>Star Ocean - Second Evolution (Europe)</description>
 		<rom name="Star Ocean - Second Evolution (Europe).iso" size="1439825920" crc="9f5b9e8a" md5="68a87021c29c72065d8e7b5532a3b595" sha1="bb8a6085b93947c5af04c2178ea7ac1d90cdfa86"/>
@@ -2751,7 +2751,7 @@
 		<hash>9e9e4c7ca3bae7a00a14519e32eb2269</hash>
 		<legacyhash>6b0f012001d9aa4af6b332d886a661ac</legacyhash>
 	</game>
-	<game name="Retail/Star Ocean - Second Evolution (USA) (Undub) (v1.0) (Unknown)">
+	<game name="Retail/Star Ocean - Second Evolution/Star Ocean - Second Evolution (USA) (Undub) (v1.0) (Unknown)">
 		<category>PSP</category>
 		<description>Star Ocean - Second Evolution (USA) (Undub) (v1.0) (Unknown)</description>
 		<rom name="Star Ocean - Second Evolution (USA) (Undub) (v1.0) (Unknown).iso" size="1440065536" crc="35546ecb" md5="72aac653b89ec5a9cc1e98ab14a7d8d7" sha1="40de1cc0d062ba2c2ae57e85f00cfcea5fd72840"/>
@@ -2769,7 +2769,7 @@
 		<legacyhash>51c744ab1a543c86c4804f93c12f370e</legacyhash>
 	</game>
 	
-	<game name="Retail/Steins;Gate (Japan) (En) (v1.0.1) (HaselLoyance)">
+	<game name="Retail/Steins;Gate/Steins;Gate (Japan) (En) (v1.0.1) (HaselLoyance)">
 		<category>PSP</category>
 		<description>Steins;Gate (Japan) (En) (v1.0.1) (HaselLoyance)</description>
 		<rom name="Steins;Gate (Japan) (En) (v1.0.1) (HaselLoyance).iso" size="1236094976" crc="b2115b51" md5="1ba7713d1b6ce72481ce79fe6984febf" sha1="d5268675127e5204d6143275c6722491cfdcb122"/>
@@ -2777,7 +2777,7 @@
 		<hash>3efc62aed9f371b909ceee93697770db</hash>
 		<legacyhash>e420af8ce5a6357eae4d83c667fac98b</legacyhash>
 	</game>
-	<game name="Retail/Steins;Gate (Japan) (v1.01)">
+	<game name="Retail/Steins;Gate/Steins;Gate (Japan) (v1.01)">
 		<category>PSP</category>
 		<description>Steins;Gate (Japan) (v1.01)</description>
 		<rom name="Steins;Gate (Japan) (v1.01).iso" size="1379696640" crc="577ec8d5" md5="5ed76b04eac58b0e459bed06108eed74" sha1="9c6c99d60056ed42d89b1e01340dde7328d23c62"/>
@@ -2786,7 +2786,7 @@
 		<legacyhash>3565d3c3e52b6e1b78a64dc630e9c4ec</legacyhash>
 	</game>
 	
-	<game name="Retail/Street Fighter Alpha 3 Max (Europe)">
+	<game name="Retail/Street Fighter Alpha 3 Max/Street Fighter Alpha 3 Max (Europe)">
 		<category>PSP</category>
 		<description>Street Fighter Alpha 3 Max (Europe)</description>
 		<rom name="Street Fighter Alpha 3 Max (Europe).iso" size="246808576" crc="b7b8d744" md5="5f58de7e83a0270bead43103f6c0136e" sha1="6562c25bf07bc81ebcf7375105ec5bcce7daedc3"/>
@@ -2794,7 +2794,7 @@
 		<hash>7e0a3a4e9dcfd7fd562b475339242265</hash>
 		<legacyhash>7ffc9ddcd6bd7a54ebf3f6adf19df742</legacyhash>
 	</game>
-	<game name="Retail/Street Fighter Alpha 3 Max (USA)">
+	<game name="Retail/Street Fighter Alpha 3 Max/Street Fighter Alpha 3 Max (USA)">
 		<category>PSP</category>
 		<description>Street Fighter Alpha 3 Max (USA)</description>
 		<rom name="Street Fighter Alpha 3 Max (USA).iso" size="246808576" crc="e68c5f62" md5="204e3ac4c2678c4746e7f237bb93e58e" sha1="321ff2143b4c3e8aa24efcf52ffe577c9739f57b"/>
@@ -2821,7 +2821,7 @@
 		<legacyhash>93aec3ffe72e205aea2b038b65ee189c</legacyhash>
 	</game>
 	
-	<game name="Retail/Suzumiya Haruhi no Yakusoku (Japan) (Super Premium Box) (En) (v1.0) (EsperKnight)">
+	<game name="Retail/Suzumiya Haruhi no Yakusoku/Suzumiya Haruhi no Yakusoku (Japan) (Super Premium Box) (En) (v1.0) (EsperKnight)">
 		<category>PSP</category>
 		<description>Suzumiya Haruhi no Yakusoku (Japan) (Super Premium Box) (En) (v1.0) (EsperKnight)</description>
 		<rom name="Suzumiya Haruhi no Yakusoku (Japan) (Super Premium Box) (En) (v1.0) (EsperKnight).iso" size="1155715072" crc="df1897af" md5="6065e9b6732130b5102799aa26d2283a" sha1="6724e6fdc34ed2d58291977a9ba2af20cfaa4a6e"/>
@@ -2829,7 +2829,7 @@
 		<hash>1d2ae8246a5fe52fdc6b9ea39ff9b91d</hash>
 		<althash>5def5289ff00ec37ef18f3a89e7890d4</althash>
 	</game>
-	<game name="Retail/Suzumiya Haruhi no Yakusoku (Japan) (Super Premium Box)">
+	<game name="Retail/Suzumiya Haruhi no Yakusoku/Suzumiya Haruhi no Yakusoku (Japan) (Super Premium Box)">
 		<category>PSP</category>
 		<description>Suzumiya Haruhi no Yakusoku (Japan) (Super Premium Box)</description>
 		<rom name="Suzumiya Haruhi no Yakusoku (Japan) (Super Premium Box).iso" size="1539833856" crc="4dc8daff" md5="aa70d4223762399ccef051adcf3c1fa4" sha1="fac8783f0bb928263bb08cce2902570cabee7665"/>
@@ -2837,7 +2837,7 @@
 		<hash>4809ffbaac7e7ee84911a25f692e3ae8</hash>
 	</game>
 	
-	<game name="Retail/Sword Art Online - Infinity Moment (Japan) (Pt) (v1.0) (Unknown)">
+	<game name="Retail/Sword Art Online - Infinity Moment/Sword Art Online - Infinity Moment (Japan) (Pt) (v1.0) (Unknown)">
 		<category>PSP</category>
 		<description>Sword Art Online - Infinity Moment (Japan) (Pt) (v1.0) (Unknown)</description>
 		<rom name="Sword Art Online - Infinity Moment (Japan) (Pt) (v1.0) (Unknown).iso" size="1421625344" crc="b970d94a" md5="9dac8d8ba26ed5cbdaed6d7de536454a" sha1="0864df6ed04b30492511d0c4fcfbca0f8e3d6ef2"/>
@@ -2845,7 +2845,7 @@
 		<hash>3ea7224f0660bb29ad34a221646139f9</hash>
 		<legacyhash>79f2929255dc47e8d133fe1a7f985291</legacyhash>
 	</game>
-	<game name="Retail/Sword Art Online - Infinity Moment (Japan) (PSP) (PSN) (En) (v2.0) (HoaiTrung97)">
+	<game name="Retail/Sword Art Online - Infinity Moment/Sword Art Online - Infinity Moment (Japan) (PSP) (PSN) (En) (v2.0) (HoaiTrung97)">
 		<category>PSP</category>
 		<description>Sword Art Online - Infinity Moment (Japan) (PSP) (PSN) (En) (v2.0) (HoaiTrung97)</description>
 		<rom name="Sword Art Online - Infinity Moment (Japan) (PSP) (PSN) (En) (v2.0) (HoaiTrung97).iso" size="1204381696" crc="4f68b402" md5="0849e2dfc2bfa9565d82f46e0e9f1fd5" sha1="f965c53398a0940b5b12c18f9ba29f5457c5c975"/>
@@ -2853,7 +2853,7 @@
 		<hash>7588c98f278262dec6825ba7e0ec7014</hash>
 		<legacyhash>13f424cfe9c34936faa9788f536a3afc</legacyhash>
 	</game>
-	<game name="Retail/Sword Art Online - Infinity Moment (Japan)">
+	<game name="Retail/Sword Art Online - Infinity Moment/Sword Art Online - Infinity Moment (Japan)">
 		<category>PSP</category>
 		<description>Sword Art Online - Infinity Moment (Japan)</description>
 		<rom name="Sword Art Online - Infinity Moment (Japan).iso" size="1200226304" crc="d97acf65" md5="bcf29f8a7aa234c83fab6ab6aa842261" sha1="78da017a5c90e34101608e7ff187db0e02e22177"/>
@@ -2997,7 +2997,7 @@
 		<legacyhash>3ff37ebb3e3f433e4b220f8de5dc3785</legacyhash>
 	</game>
 	
-	<game name="Retail/Legend of Heroes, The - Trails in the Sky (USA)">
+	<game name="Retail/The Legend of Heroes - Trails in the Sky/Legend of Heroes, The - Trails in the Sky (USA)">
 		<category>PSP</category>
 		<description>Legend of Heroes, The - Trails in the Sky (USA)</description>
 		<rom name="Legend of Heroes, The - Trails in the Sky (USA).iso" size="1421639680" crc="1f8c6bea" md5="716f86d6631d0702829b97b0aef2f937" sha1="37ed4e7f374f4fcdaf400223d7aefa870343e950"/>
@@ -3005,7 +3005,7 @@
 		<hash>c183b117a01a596ce5cf0378ecc9b766</hash>
 		<legacyhash>cff66ecd124db9624bfda5cd4cbb40a0</legacyhash>
 	</game>
-	<game name="Retail/Legend of Heroes, The - Trails in the Sky (USA) (PSP) (PSN)">
+	<game name="Retail/The Legend of Heroes - Trails in the Sky/Legend of Heroes, The - Trails in the Sky (USA) (PSP) (PSN)">
 		<category>PSP</category>
 		<description>Legend of Heroes, The - Trails in the Sky (USA) (PSP) (PSN)</description>
 		<rom name="Legend of Heroes, The - Trails in the Sky (USA) (PSP) (PSN).iso" size="1421639680" crc="6815daeb" md5="0e364dfeba17722739b6b6f34a140738" sha1="4951f86e116f79b3c8e19296cb3c5f83433f7c71"/>
@@ -3022,7 +3022,7 @@
 		<legacyhash>907730169e7063d031c0934c5b7396a3</legacyhash>
 	</game>
 	
-	<game name="Retail/Legend of Heroes - Trails in the Sky - Second Chapter (USA) (PSN) (Disc 2)">
+	<game name="Retail/The Legend of Heroes - Trails in the Sky - Second Chapter/Legend of Heroes - Trails in the Sky - Second Chapter (USA) (PSN) (Disc 2)">
 		<category>PSP</category>
 		<description>Legend of Heroes - Trails in the Sky - Second Chapter (USA) (PSN) (Disc 2)</description>
 		<rom name="Legend of Heroes - Trails in the Sky - Second Chapter (USA) (PSN) (Disc 2).iso" size="1608417280" crc="56e99ecd" md5="fb9b050d8f58461cbb5dcef8e6e82175" sha1="53c47b56cb8548460ab772acf1b81c6e82a506e0"/>
@@ -3030,7 +3030,7 @@
 		<hash>168406f1e7f325798d87f89e94691a8e</hash>
 		<legacyhash>effa694e2515a44ba7a3db09ce995b9f</legacyhash>
 	</game>
-	<game name="Retail/Legend of Heroes - Trails in the Sky - Second Chapter (USA) (PSN) (Disc 1)">
+	<game name="Retail/The Legend of Heroes - Trails in the Sky - Second Chapter/Legend of Heroes - Trails in the Sky - Second Chapter (USA) (PSN) (Disc 1)">
 		<category>PSP</category>
 		<description>Legend of Heroes - Trails in the Sky - Second Chapter (USA) (PSN) (Disc 1)</description>
 		<rom name="Legend of Heroes - Trails in the Sky - Second Chapter (USA) (PSN) (Disc 1).iso" size="1359249408" crc="692b4894" md5="5fcdc01d4049d9f6e7259de495f071b8" sha1="e8d3e80938ef45936b7a1e6a1f16c7b13061b69c"/>
@@ -3084,7 +3084,7 @@
 		<legacyhash>d82c00d170fc60e27de5052009f75c2e</legacyhash>
 	</game>
 	
-	<game name="Retail/Toaru Majutsu no Index (Japan)">
+	<game name="Retail/Toaru Majutsu no Index/Toaru Majutsu no Index (Japan)">
 		<category>PSP</category>
 		<description>Toaru Majutsu no Index (Japan)</description>
 		<rom name="Toaru Majutsu no Index (Japan).iso" size="601456640" crc="9da98dfb" md5="786ef722be44f8e558736131990a0dd1" sha1="33f2b7dabb6b585a100e6ccbe21384a75e371c9a"/>
@@ -3092,7 +3092,7 @@
 		<hash>17d90c1f31764e83c5478196a457ba72</hash>
 		<legacyhash>83760c770180d6fc50d4b1565056a43e</legacyhash>
 	</game>
-	<game name="Retail/Toaru Majutsu no Index (Japan) (En) (v1.0) (JeruTz Translations)">
+	<game name="Retail/Toaru Majutsu no Index/Toaru Majutsu no Index (Japan) (En) (v1.0) (JeruTz Translations)">
 		<category>PSP</category>
 		<description>Toaru Majutsu no Index (Japan) (En) (v1.0) (JeruTz Translations)</description>
 		<rom name="Toaru Majutsu no Index (Japan) (En) (v1.0) (JeruTz Translations).iso" size="310720512" crc="13bc22ef" md5="afd0a8856b974decdb3506c177b5f4b5" sha1="51c39c531a0c7a9359f9486395bfeda153966f42"/>
@@ -3118,7 +3118,7 @@
 		<legacyhash>941c58bad136a9b623f006fe764020a3</legacyhash>
 	</game>
 	
-	<game name="Retail/ToraDora Portable! (Japan)">
+	<game name="Retail/ToraDora Portable/ToraDora Portable! (Japan)">
 		<category>PSP</category>
 		<description>ToraDora Portable! (Japan)</description>
 		<rom name="ToraDora Portable! (Japan).iso" size="1708949504" crc="60291298" md5="5a7dc070c37034941c2d526319c1eceb" sha1="4515296523395e5a2185fe14207245dd7542ba4d"/>
@@ -3126,14 +3126,14 @@
 		<hash>c684c8450fc81d88a45becf892afd55a</hash>
 		<legacyhash>b8393ca4edfcd1283b31be825b6405e0</legacyhash>
 	</game>
-	<game name="Retail/ToraDora Portable! (Japan) (Pt) (v1.1) (Unknown)">
+	<game name="Retail/ToraDora Portable/ToraDora Portable! (Japan) (Pt) (v1.1) (Unknown)">
 		<category>PSP</category>
 		<description>ToraDora Portable! (Japan) (Pt) (v1.1) (Unknown)</description>
 		<rom name="ToraDora Portable! (Japan) (Pt) (v1.1) (Unknown).iso" size="1708947456" crc="9634adbd" md5="24bac0ccfd6b293f585804eab86d82c2" sha1="ee6c7a204fe0e5dacf9a1121ace6a039c82666ef"/>
 		<url>https://retroachievements.org/game/18433/hashes</url>
 		<hash>8b619e48ce3657e9f4e331880b5faedc</hash>
 	</game>
-	<game name="Retail/ToraDora Portable! (Japan) (En) (v1.10) (verdelish, Chronoes, xyz)">
+	<game name="Retail/ToraDora Portable/ToraDora Portable! (Japan) (En) (v1.10) (verdelish, Chronoes, xyz)">
 		<category>PSP</category>
 		<description>ToraDora Portable! (Japan) (En) (v1.10) (verdelish, Chronoes, xyz)</description>
 		<rom name="ToraDora Portable! (Japan) (En) (v1.10) (verdelish, Chronoes, xyz).iso" size="1708947456" crc="42d1829f" md5="750fb5cfe68b642374615480b2bffdeb" sha1="24b0dfef1804be16f4994ed93dbbda461d146306"/>
@@ -3177,7 +3177,7 @@
 		<legacyhash>85ac1bbe29d484ce528cbde7e03e0c18</legacyhash>
 	</game>
 	
-	<game name="Retail/Valkyria Chronicles II (USA) (PSP) (PSN)">
+	<game name="Retail/Valkyria Chronicles II/Valkyria Chronicles II (USA) (PSP) (PSN)">
 		<category>PSP</category>
 		<description>Valkyria Chronicles II (USA) (PSP) (PSN)</description>
 		<rom name="Valkyria Chronicles II (USA) (PSP) (PSN).iso" size="1081737216" crc="a4923389" md5="18941ced1a6d3dba72336574db4af078" sha1="59b76cf14678788d3daf1de3167e947da3c85e89"/>
@@ -3185,7 +3185,7 @@
 		<hash>37122215ce750d67b7142f4c137e37ec</hash>
 		<legacyhash>da703e88c1edf479f04d392117ed97b6</legacyhash>
 	</game>
-	<game name="Retail/Valkyria Chronicles II (USA) (Undub)">
+	<game name="Retail/Valkyria Chronicles II/Valkyria Chronicles II (USA) (Undub)">
 		<category>PSP</category>
 		<description>Valkyria Chronicles II (USA) (Undub)</description>
 		<rom name="Valkyria Chronicles II (USA) (Undub).iso" size="1028814848" crc="3c6e1b95" md5="38c986832f630fa158952b5a0e8d97e2" sha1="85ac3da0a9ada2e942adcb84b3f0ff4dc9616f1b"/>
@@ -3193,7 +3193,7 @@
 		<hash>64488ab73d4466ee9d7ff5d80fcc97f4</hash>
 		<legacyhash>c230e6846bd6efa10c211e36a12c20b4</legacyhash>
 	</game>
-	<game name="Retail/Valkyria Chronicles II (USA)">
+	<game name="Retail/Valkyria Chronicles II/Valkyria Chronicles II (USA)">
 		<category>PSP</category>
 		<description>Valkyria Chronicles II (USA)</description>
 		<rom name="Valkyria Chronicles II (USA).iso" size="1081737216" crc="ece8d4f5" md5="471b3117bace212cc57b9b6089a24b1d" sha1="c20d26b251bd716b95067b91c4d19c0c3311cf7f"/>
@@ -3201,7 +3201,7 @@
 		<hash>677b5913e45b0ffac76119f9b55afb7a</hash>
 		<legacyhash>557848f3115bfc0421962f702a0514b0</legacyhash>
 	</game>
-	<game name="Retail/Valkyria Chronicles II (Europe)">
+	<game name="Retail/Valkyria Chronicles II/Valkyria Chronicles II (Europe)">
 		<category>PSP</category>
 		<description>Valkyria Chronicles II (Europe)</description>
 		<rom name="Valkyria Chronicles II (Europe).iso" size="1081737216" crc="e92e563e" md5="a9187c02e28c7e1638139087dc129604" sha1="3dce5f23091f1c0727bfadc63b182b080364a179"/>
@@ -3210,7 +3210,7 @@
 		<legacyhash>4ca027987134d2d1039d1a3960e076e0</legacyhash>
 	</game>
 	
-	<game name="Retail/Valkyrie Profile - Lenneth (USA)">
+	<game name="Retail/Valkyrie Profile - Lenneth/Valkyrie Profile - Lenneth (USA)">
 		<category>PSP</category>
 		<description>Valkyrie Profile - Lenneth (USA)</description>
 		<rom name="Valkyrie Profile - Lenneth (USA).iso" size="710410240" crc="344d20af" md5="0fc8df647c15d2d154759e2a1f6cfe8e" sha1="bc3762ccecf7ce8e5975b779265a18eb4817c8d3"/>
@@ -3218,7 +3218,7 @@
 		<hash>8903bab594e8ff84ebbc566f75573158</hash>
 		<legacyhash>6e8d47829a55fee8330fbdbb38cb2a18</legacyhash>
 	</game>
-	<game name="Retail/Valkyrie Profile - Lenneth (USA) (Undub)">
+	<game name="Retail/Valkyrie Profile - Lenneth/Valkyrie Profile - Lenneth (USA) (Undub)">
 		<category>PSP</category>
 		<description>Valkyrie Profile - Lenneth (USA) (Undub)</description>
 		<rom name="Valkyrie Profile - Lenneth (USA) (Undub).iso" size="697251840" crc="34862008" md5="bdb286f873c39996fe9cc91019e91783" sha1="1ab34e455cce3b3e2d303a3eec91441dfaff223e"/>
@@ -3226,7 +3226,7 @@
 		<legacyhash>84390e02ed118fdd24225dd4c4ef7caf</legacyhash>
 	</game>
 	
-	<game name="Retail/Vector TD (Europe) (minis) (PSN)">
+	<game name="Retail/Vector TD/Vector TD (Europe) (minis) (PSN)">
 		<category>Minis</category>
 		<description>Vector TD (Europe) (minis) (PSN)</description>
 		<rom name="Vector TD (Europe) (minis) (PSN).iso" size="128745472" crc="4b922a19" md5="b44b9005cb52c54b87bf913c0498bfcc" sha1="a2eceb39922ce9dc54107219da165f53187e9a98"/>
@@ -3234,7 +3234,7 @@
 		<hash>9db5430b8800edb5fb7c094728e562db</hash>
 		<legacyhash>e61f7459be73912a2427a62f28d1e7c7</legacyhash>
 	</game>
-	<game name="Retail/Vector TD (USA) (minis) (PSN)">
+	<game name="Retail/Vector TD/Vector TD (USA) (minis) (PSN)">
 		<category>Minis</category>
 		<description>Vector TD (USA) (minis) (PSN)</description>
 		<rom name="Vector TD (USA) (minis) (PSN).iso" size="128679936" crc="0dc4c4ff" md5="aea7fbc6e8b2cdd8007ac9a41e67133d" sha1="e0edf359379a0e21b1754ee377d9cce3376b5391"/>
@@ -3306,7 +3306,7 @@
 		<legacyhash>141ec43487d3d984d0581a32c734b1d1</legacyhash>
 	</game>
 	
-	<game name="Retail/Pinball Hall of Fame - The Williams Collection (USA)">
+	<game name="Retail/Williams Pinball Classics/Pinball Hall of Fame - The Williams Collection (USA)">
 		<category>PSP</category>
 		<description>Pinball Hall of Fame - The Williams Collection (USA)</description>
 		<rom name="Pinball Hall of Fame - The Williams Collection (USA).iso" size="392495104" crc="1f54e167" md5="9c2defe34bb55776ecfe86789383aa0c" sha1="f50ea7dcb5ce33015e10fab0e842e7f98fe97604"/>
@@ -3314,7 +3314,7 @@
 		<hash>12b25012a490e9118a9c7bfc7333857d</hash>
 		<legacyhash>7495b40b9faf2bba24489fad7dbbb217</legacyhash>
 	</game>
-	<game name="Retail/Williams Pinball Classics (Europe) (En,Fr,De,Es)">
+	<game name="Retail/Williams Pinball Classics/Williams Pinball Classics (Europe) (En,Fr,De,Es)">
 		<category>PSP</category>
 		<description>Williams Pinball Classics (Europe) (En,Fr,De,Es)</description>
 		<rom name="Williams Pinball Classics (Europe) (En,Fr,De,Es).iso" size="434503680" crc="c221ae35" md5="b2089012dcf0b6c4894e46855dd6677b" sha1="bdb1988411a2826c6a1f588967d8d8865af820a7"/>
@@ -3323,7 +3323,7 @@
 		<legacyhash>acd31dff17a5cb786b199a88d68b8f5c</legacyhash>
 	</game>
 	
-	<game name="Retail/WipEout Pure (USA) (En,Fr,Es) (v2.00) (60FPS)">
+	<game name="Retail/WipEout Pure/WipEout Pure (USA) (En,Fr,Es) (v2.00) (60FPS)">
 		<category>PSP</category>
 		<description>WipEout Pure (USA) (En,Fr,Es) (v2.00) (60FPS)</description>
 		<rom name="WipEout Pure (USA) (En,Fr,Es) (v2.00) (60FPS).iso" size="252968960" crc="60e42800" md5="262a5aff23d50ab7ba91b3f68d2cfb11" sha1="527bd2807f84778dcb54e5260fd947c849e3a15f"/>
@@ -3331,7 +3331,7 @@
 		<hash>5a9e1505d514a43b8480aecbae810806</hash>
 		<legacyhash>1f70bf6e6686bfb7c1b4eb223247bcfb</legacyhash>
 	</game>
-	<game name="Retail/WipEout Pure (USA) (En,Fr,Es) (v2.00)">
+	<game name="Retail/WipEout Pure/WipEout Pure (USA) (En,Fr,Es) (v2.00)">
 		<category>PSP</category>
 		<description>WipEout Pure (USA) (En,Fr,Es) (v2.00)</description>
 		<rom name="WipEout Pure (USA) (En,Fr,Es) (v2.00).iso" size="252968960" crc="4502c588" md5="33de1457c7b66662a3ba2712a66882bb" sha1="a962afd113f5d178c8acac4a9dc7c3ee7c6b0a26"/>
@@ -3403,7 +3403,7 @@
 		<legacyhash>5b5924055b5d3e371f134928cb972f7d</legacyhash>
 	</game>
 	
-	<game name="Retail/Ys - The Oath in Felghana (USA)">
+	<game name="Retail/Ys - The Oath in Felghana/Ys - The Oath in Felghana (USA)">
 		<category>PSP</category>
 		<description>Ys - The Oath in Felghana (USA)</description>
 		<rom name="Ys - The Oath in Felghana (USA).iso" size="1105985536" crc="3f236ec6" md5="ff39ebefa69ec9c8529d54dd261d7465" sha1="a177ac5df3fbd3608427f6ea9657bc273df3876d"/>
@@ -3411,7 +3411,7 @@
 		<hash>3785c400ab37047cc6592f04238fd7e8</hash>
 		<legacyhash>1135601bdee1d51a1abaf065ba5b2cd5</legacyhash>
 	</game>
-	<game name="Retail/Ys - The Oath in Felghana (USA) (PSN)">
+	<game name="Retail/Ys - The Oath in Felghana/Ys - The Oath in Felghana (USA) (PSN)">
 		<category>PSP</category>
 		<description>Ys - The Oath in Felghana (USA) (PSN)</description>
 		<rom name="Ys - The Oath in Felghana (USA) (PSN).iso" size="1105985536" crc="c86fcdfa" md5="49c4453585fb56d1898733eb7b2cca01" sha1="d3ebe7701ad2284097174481537534eed42e2878"/>
@@ -3429,7 +3429,7 @@
 		<legacyhash>a4cc5d03893658b5162328e2fba055c8</legacyhash>
 	</game>
 	
-	<game name="Retail/Yu-Gi-Oh! GX - ARC-V Tag Force Special (Japan) (PSN) (En) (v2.1) (FLS Gaming Projects)">
+	<game name="Retail/Yu-Gi-Oh! GX - ARC-V Tag Force Special/Yu-Gi-Oh! GX - ARC-V Tag Force Special (Japan) (PSN) (En) (v2.1) (FLS Gaming Projects)">
 		<category>PSP</category>
 		<description>Yu-Gi-Oh! GX - ARC-V Tag Force Special (Japan) (PSN) (En) (v2.1) (FLS Gaming Projects)</description>
 		<rom name="Yu-Gi-Oh! GX - ARC-V Tag Force Special (Japan) (PSN) (En) (v2.1) (FLS Gaming Projects).iso" size="767053824" crc="9e032ad9" md5="baedb9d53dce6d9269ec88c268aa6836" sha1="44f0d5bec7c4b313ca6db87984998421eec84610"/>
@@ -3437,7 +3437,7 @@
 		<hash>08d52097ea17186ff1a13b962ecbb72e</hash>
 		<legacyhash>36823c1fe4943ef1584ede4469da17a8</legacyhash>
 	</game>
-	<game name="Retail/Yu-Gi-Oh! ARC-V - Tag Force Special (Japan) (PSN)">
+	<game name="Retail/Yu-Gi-Oh! GX - ARC-V Tag Force Special/Yu-Gi-Oh! ARC-V - Tag Force Special (Japan) (PSN)">
 		<category>PSP</category>
 		<description>Yu-Gi-Oh! ARC-V - Tag Force Special (Japan) (PSN)</description>
 		<rom name="Yu-Gi-Oh! ARC-V - Tag Force Special (Japan) (PSN).iso" size="793116672" crc="66eac52d" md5="ccbcb4e4b5730fef112a33a5f45636a4" sha1="d332a0d047dbec50c4f126cb756857550b41358a"/>
@@ -3446,7 +3446,7 @@
 		<legacyhash>ec013283603a7071e5161614fd755c14</legacyhash>
 	</game>
 	
-	<game name="Retail/Yu-Gi-Oh! GX - Tag Force (Europe) (En,Fr,De,Es,It)">
+	<game name="Retail/Yu-Gi-Oh! GX - Tag Force/Yu-Gi-Oh! GX - Tag Force (Europe) (En,Fr,De,Es,It)">
 		<category>PSP</category>
 		<description>Yu-Gi-Oh! GX - Tag Force (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Yu-Gi-Oh! GX - Tag Force (Europe) (En,Fr,De,Es,It).iso" size="834895872" crc="170954c5" md5="719c99478032a4210ae877832061e9fd" sha1="6e46f4327050623035dcb5bc8da78985f02ab961"/>
@@ -3454,7 +3454,7 @@
 		<hash>e9c6248ba6ca2a062f88e627c03acd86</hash>
 		<legacyhash>5785f9853976f8ba9fcfac08c8442c2f</legacyhash>
 	</game>
-	<game name="Retail/Yu-Gi-Oh! GX - Tag Force (Europe) (Japanese Voices)">
+	<game name="Retail/Yu-Gi-Oh! GX - Tag Force/Yu-Gi-Oh! GX - Tag Force (Europe) (Japanese Voices)">
 		<category>PSP</category>
 		<description>Yu-Gi-Oh! GX - Tag Force (Europe) (Japanese Voices)</description>
 		<rom name="Yu-Gi-Oh! GX - Tag Force (Europe) (Japanese Voices).iso" size="834867200" crc="264b4bbc" md5="3529239a563aff1fef57ffe7a8143c14" sha1="3d0ceaa4059f0209d4eba7f6176f0523992f326f"/>

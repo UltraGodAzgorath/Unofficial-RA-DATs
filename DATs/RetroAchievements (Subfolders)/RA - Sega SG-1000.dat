@@ -5,8 +5,8 @@
 		<name>RA - Sega SG-1000</name>
 		<description>Sega SG-1000</description>
 		<category>Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250727</version>
+		<date>27 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/33/games</url>
@@ -29,14 +29,14 @@
 		<hash>be7798f9073f9a587ff0a36b646c65b7</hash>
 	</game>
 	
-	<game name="Homebrew/Foryster (USA) (v00.9) (Aftermarket)">
+	<game name="Homebrew/Foryster/Foryster (USA) (v00.9) (Aftermarket)">
 		<category></category>
 		<description>Foryster (USA) (v00.9) (Aftermarket)</description>
 		<rom name="Foryster (USA) (v00.9) (Aftermarket).sg" size="32768" crc="f8d7fa2c" md5="7aeb05029bdb9a571b1b72482daad5eb" sha1="6d9ed7208032ad3ec9011bbc999cea426aca46d3"/>
 		<url>https://retroachievements.org/game/25010/hashes</url>
 		<hash>7aeb05029bdb9a571b1b72482daad5eb</hash>
 	</game>
-	<game name="Homebrew/Foryster (USA) (v00.9 - Level 10 Fix) (Aftermarket)">
+	<game name="Homebrew/Foryster/Foryster (USA) (v00.9 - Level 10 Fix) (Aftermarket)">
 		<category></category>
 		<description>Foryster (USA) (v00.9 - Level 10 Fix) (Aftermarket)</description>
 		<rom name="Foryster (USA) (v00.9 - Level 10 Fix) (Aftermarket).sg" size="32768" crc="c3bdd92c" md5="1065ae51e06b8a07ce99998a37c7db79" sha1="f59be1768fbab79d1bffb886f4074d1e06498f9f"/>
@@ -60,14 +60,14 @@
 		<hash>ed86987c468fbdcf6255a22536c3bac1</hash>
 	</game>
 	
-	<game name="Homebrew/Jet Paco and Jet Puri (USA) (v1.0) (Aftermarket)">
+	<game name="Homebrew/Jet Paco and Jet Puri/Jet Paco and Jet Puri (USA) (v1.0) (Aftermarket)">
 		<category></category>
 		<description>Jet Paco and Jet Puri (USA) (v1.0) (Aftermarket)</description>
 		<rom name="Jet Paco and Jet Puri (USA) (v1.0) (Aftermarket).sg" size="49152" crc="d31c6b3b" md5="c07672a810c23e269a65a02e3893172a" sha1="e2dbe48a9a4490857ae7d51e306f6afba5aac3fa"/>
 		<url>https://retroachievements.org/game/25011/hashes</url>
 		<hash>c07672a810c23e269a65a02e3893172a</hash>
 	</game>
-	<game name="Homebrew/Jet Paco and Jet Puri (Europe) (v1.0) (Aftermarket)">
+	<game name="Homebrew/Jet Paco and Jet Puri/Jet Paco and Jet Puri (Europe) (v1.0) (Aftermarket)">
 		<category></category>
 		<description>Jet Paco and Jet Puri (Europe) (v1.0) (Aftermarket)</description>
 		<rom name="Jet Paco and Jet Puri (Europe) (v1.0) (Aftermarket).sg" size="49152" crc="3246adab" md5="e13c66c69904b94459fa46da26aca87e" sha1="4b36acfb4faacdbcce56baf3ddba5cd8d72ce047"/>
@@ -283,14 +283,14 @@
 		<hash>286ba24b335a1600dfc611a0a9fe7875</hash>
 	</game>
 	
-	<game name="Retail/Champion Baseball (Japan, Australia, New Zealand) (Ja)">
+	<game name="Retail/Champion Baseball/Champion Baseball (Japan, Australia, New Zealand) (Ja)">
 		<category></category>
 		<description>Champion Baseball (Japan, Australia, New Zealand) (Ja)</description>
 		<rom name="Champion Baseball (Japan, Australia, New Zealand) (Ja).sg" size="40960" crc="c0c16fa7" md5="308e337a863bb9fa952426ef99180aa7" sha1="85e5c2f354b9110e5f7c7dfcc7ab9814598b7956"/>
 		<url>https://retroachievements.org/game/24530/hashes</url>
 		<hash>308e337a863bb9fa952426ef99180aa7</hash>
 	</game>
-	<game name="Retail/Champion Baseball (Japan)">
+	<game name="Retail/Champion Baseball/Champion Baseball (Japan)">
 		<category></category>
 		<description>Champion Baseball (Japan)</description>
 		<rom name="Champion Baseball (Japan).sg" size="16384" crc="5970a12b" md5="f70d4bcf91d3ad9313f9800f35b49536" sha1="737b9478c4ce6df2afcd36f78011019f5d669226"/>
@@ -306,21 +306,21 @@
 		<hash>71c32b1cf1e85d217421068ac8ccc655</hash>
 	</game>
 	
-	<game name="Retail/Champion Boxing (Japan, New Zealand) (Ja)">
+	<game name="Retail/Champion Boxing/Champion Boxing (Japan, New Zealand) (Ja)">
 		<category></category>
 		<description>Champion Boxing (Japan, New Zealand) (Ja)</description>
 		<rom name="Champion Boxing (Japan, New Zealand) (Ja).sg" size="32768" crc="26f947d1" md5="3f54756fd73c3fbe33b56d7954d12f31" sha1="8cd55ee1efcab917087b80629ca18b4629edc15d"/>
 		<url>https://retroachievements.org/game/24531/hashes</url>
 		<hash>3f54756fd73c3fbe33b56d7954d12f31</hash>
 	</game>
-	<game name="Retail/Champion Boxing (Japan) (Rev 1)">
+	<game name="Retail/Champion Boxing/Champion Boxing (Japan) (Rev 1)">
 		<category></category>
 		<description>Champion Boxing (Japan) (Rev 1)</description>
 		<rom name="Champion Boxing (Japan) (Rev 1).sg" size="32768" crc="f8b2ac1d" md5="7527098abb9df1db29ba9f495b06998a" sha1="7a7ace132090f11bac4f4aec58bcbf6a2a1c6168"/>
 		<url>https://retroachievements.org/game/24531/hashes</url>
 		<hash>7527098abb9df1db29ba9f495b06998a</hash>
 	</game>
-	<game name="Retail/Champion Boxing (Taiwan) (Unl)">
+	<game name="Retail/Champion Boxing/Champion Boxing (Taiwan) (Unl)">
 		<category></category>
 		<description>Champion Boxing (Taiwan) (Unl)</description>
 		<rom name="Champion Boxing (Taiwan) (Unl).sg" size="32768" crc="15d2ce33" md5="3e346c6137cab263643e42411f64a74d" sha1="e55396be42c6cfbf47ff43d3e8faee1dc8fad807"/>
@@ -328,14 +328,14 @@
 		<hash>3e346c6137cab263643e42411f64a74d</hash>
 	</game>
 	
-	<game name="Retail/Champion Golf (Japan, Europe, Australia, New Zealand) (Ja)">
+	<game name="Retail/Champion Golf/Champion Golf (Japan, Europe, Australia, New Zealand) (Ja)">
 		<category></category>
 		<description>Champion Golf (Japan, Europe, Australia, New Zealand) (Ja)</description>
 		<rom name="Champion Golf (Japan, Europe, Australia, New Zealand) (Ja).sg" size="32768" crc="868419b5" md5="1d87490269964239b64244fcabd18fe1" sha1="05deb000f24b7d8625c6e9332dcc91416ed3258f"/>
 		<url>https://retroachievements.org/game/24532/hashes</url>
 		<hash>1d87490269964239b64244fcabd18fe1</hash>
 	</game>
-	<game name="Retail/Champion Golf (Japan) (Rev 1)">
+	<game name="Retail/Champion Golf/Champion Golf (Japan) (Rev 1)">
 		<category></category>
 		<description>Champion Golf (Japan) (Rev 1)</description>
 		<rom name="Champion Golf (Japan) (Rev 1).sg" size="32768" crc="5a904122" md5="3c01bb2a4414989378c252f45a4e5050" sha1="f58f14581919c431ac85da72fd1a39bbe1da5e66"/>
@@ -415,14 +415,14 @@
 		<hash>79f15598828e697e75c65130262d8d94</hash>
 	</game>
 	
-	<game name="Retail/Dragon Wang (Japan)">
+	<game name="Retail/Dragon Wang/Dragon Wang (Japan)">
 		<category></category>
 		<description>Dragon Wang (Japan)</description>
 		<rom name="Dragon Wang (Japan).sg" size="32768" crc="60f30138" md5="0528eed7e7ae46ec8298098f1a22d18f" sha1="78f26d0a1d4f08a6378700b81ab38fc7c0f6bdc0"/>
 		<url>https://retroachievements.org/game/13951/hashes</url>
 		<hash>0528eed7e7ae46ec8298098f1a22d18f</hash>
 	</game>
-	<game name="Retail/Dragon Wang (Japan) (Rev 1)">
+	<game name="Retail/Dragon Wang/Dragon Wang (Japan) (Rev 1)">
 		<category></category>
 		<description>Dragon Wang (Japan) (Rev 1)</description>
 		<rom name="Dragon Wang (Japan) (Rev 1).sg" size="32768" crc="99c3de21" md5="64d3cc8117292f6d5af8e1aad95bcb90" sha1="43807c9f634b8cf85aa5c3b2459885eedbb99955"/>
@@ -542,14 +542,14 @@
 		<hash>4b4f02eb3cf7d5f9dcd1311d72e6d742</hash>
 	</game>
 	
-	<game name="Retail/Mahjong (Japan) (Rev 1)">
+	<game name="Retail/Mahjong/Mahjong (Japan) (Rev 1)">
 		<category></category>
 		<description>Mahjong (Japan) (Rev 1)</description>
 		<rom name="Mahjong (Japan) (Rev 1).sg" size="24576" crc="1c137cab" md5="1dbb5c85962c2110ffe35ec536f96329" sha1="81015cea7e5ff08bd7d20953a702d47efdb8c11c"/>
 		<url>https://retroachievements.org/game/24550/hashes</url>
 		<hash>1dbb5c85962c2110ffe35ec536f96329</hash>
 	</game>
-	<game name="Retail/Mahjong (Japan)">
+	<game name="Retail/Mahjong/Mahjong (Japan)">
 		<category></category>
 		<description>Mahjong (Japan)</description>
 		<rom name="Mahjong (Japan).sg" size="24576" crc="6d909857" md5="d9da8a32bd3b18881dfa2b469c85944e" sha1="2e6810c0c0c02c0fdda6fcaeae835cf94ab9bcba"/>
@@ -565,14 +565,14 @@
 		<hash>cda3731948a50bb396b380f7fc82ec12</hash>
 	</game>
 	
-	<game name="Retail/N-Sub (Japan, Europe, Australia, New Zealand) (Ja)">
+	<game name="Retail/N-Sub/N-Sub (Japan, Europe, Australia, New Zealand) (Ja)">
 		<category></category>
 		<description>N-Sub (Japan, Europe, Australia, New Zealand) (Ja)</description>
 		<rom name="N-Sub (Japan, Europe, Australia, New Zealand) (Ja).sg" size="16384" crc="652bbd1e" md5="56c559d0d82a3e6fb2e87230d39f32f4" sha1="2640e267441bf25463a19273c46f3edb5e459496"/>
 		<url>https://retroachievements.org/game/24551/hashes</url>
 		<hash>56c559d0d82a3e6fb2e87230d39f32f4</hash>
 	</game>
-	<game name="Retail/N-Sub (Japan) (Alt)">
+	<game name="Retail/N-Sub/N-Sub (Japan) (Alt)">
 		<category></category>
 		<description>N-Sub (Japan) (Alt)</description>
 		<rom name="N-Sub (Japan) (Alt).sg" size="40960" crc="b377d6e1" md5="cfced1ba39adee6a75dc830ed9c12f73" sha1="aa3eae849553a5a176762466b101f312b8b968e4"/>
@@ -620,14 +620,14 @@
 		<hash>37f5e516d9fbce05052204b67379a6da</hash>
 	</game>
 	
-	<game name="Retail/Pachinko II (Taiwan) (Unl)">
+	<game name="Retail/Pachinko II/Pachinko II (Taiwan) (Unl)">
 		<category></category>
 		<description>Pachinko II (Taiwan) (Unl)</description>
 		<rom name="Pachinko II (Taiwan) (Unl).sg" size="16384" crc="6ebe81bf" md5="a3409283bf8c808a15095cc005a74975" sha1="ca0c66b4d48d6ade38e7f9093eea74ad090ecdb7"/>
 		<url>https://retroachievements.org/game/19164/hashes</url>
 		<hash>a3409283bf8c808a15095cc005a74975</hash>
 	</game>
-	<game name="Retail/Pachinko II (Japan)">
+	<game name="Retail/Pachinko II/Pachinko II (Japan)">
 		<category></category>
 		<description>Pachinko II (Japan)</description>
 		<rom name="Pachinko II (Japan).sg" size="16384" crc="fd7cb50a" md5="eadae13ff73047a47f354e258c12619e" sha1="1dbc4babbbb377a1ff59a11e550a9b1b5e742b02"/>
@@ -755,28 +755,28 @@
 		<hash>2cbd1f9f4927f9618390340f56f116a6</hash>
 	</game>
 	
-	<game name="Retail/Star Jacker (Japan, Europe) (En) (Rev 2)">
+	<game name="Retail/Star Jacker/Star Jacker (Japan, Europe) (En) (Rev 2)">
 		<category></category>
 		<description>Star Jacker (Japan, Europe) (En) (Rev 2)</description>
 		<rom name="Star Jacker (Japan, Europe) (En) (Rev 2).sg" size="32768" crc="3fe59505" md5="22200ef1461212cacdc58f6636d759fd" sha1="a2a06e7545ca1e0d522d0eb75a72b5b520f42330"/>
 		<url>https://retroachievements.org/game/13949/hashes</url>
 		<hash>22200ef1461212cacdc58f6636d759fd</hash>
 	</game>
-	<game name="Retail/Star Jacker (Japan, Europe, Australia, New Zealand) (En) (Rev 1)">
+	<game name="Retail/Star Jacker/Star Jacker (Japan, Europe, Australia, New Zealand) (En) (Rev 1)">
 		<category></category>
 		<description>Star Jacker (Japan, Europe, Australia, New Zealand) (En) (Rev 1)</description>
 		<rom name="Star Jacker (Japan, Europe, Australia, New Zealand) (En) (Rev 1).sg" size="32768" crc="7f25deca" md5="658ede490eae6af2b0f61dd136761d95" sha1="be078bfa5340f2e1d307b85d3648192972529e46"/>
 		<url>https://retroachievements.org/game/13949/hashes</url>
 		<hash>658ede490eae6af2b0f61dd136761d95</hash>
 	</game>
-	<game name="Retail/Star Jacker (Japan)">
+	<game name="Retail/Star Jacker/Star Jacker (Japan)">
 		<category></category>
 		<description>Star Jacker (Japan)</description>
 		<rom name="Star Jacker (Japan).sg" size="32768" crc="1ae94122" md5="eccad04698782862f3785ff9708f73e8" sha1="5d074708edf6c40dc6d80032cd91ff6197aa79c7"/>
 		<url>https://retroachievements.org/game/13949/hashes</url>
 		<hash>eccad04698782862f3785ff9708f73e8</hash>
 	</game>
-	<game name="Retail/Star Jacker (Taiwan) (Unl)">
+	<game name="Retail/Star Jacker/Star Jacker (Taiwan) (Unl)">
 		<category></category>
 		<description>Star Jacker (Taiwan) (Unl)</description>
 		<rom name="Star Jacker (Taiwan) (Unl).sg" size="32768" crc="df162201" md5="0104171ade3cfeaf10c92926869e2a52" sha1="2bc990615a6ea7f005e8458c9791f0098c4d4a85"/>
@@ -792,21 +792,21 @@
 		<hash>59d01bf1093a65e9ec08e533cfbbc5ff</hash>
 	</game>
 	
-	<game name="Retail/Black Onyx, The (Japan)">
+	<game name="Retail/The Black Onyx/Black Onyx, The (Japan)">
 		<category></category>
 		<description>Black Onyx, The (Japan)</description>
 		<rom name="Black Onyx, The (Japan).sg" size="32768" crc="26ecd094" md5="d2b0524a2cf5754c0fa1c900e9ecb06b" sha1="7ecb9ac646346900046a61ff0242d6c90a812eda"/>
 		<url>https://retroachievements.org/game/17798/hashes</url>
 		<hash>d2b0524a2cf5754c0fa1c900e9ecb06b</hash>
 	</game>
-	<game name="Retail/Black Onyx, The (Japan) (En) (v1.0) (SSTranslations)">
+	<game name="Retail/The Black Onyx/Black Onyx, The (Japan) (En) (v1.0) (SSTranslations)">
 		<category></category>
 		<description>Black Onyx, The (Japan) (En) (v1.0) (SSTranslations)</description>
 		<rom name="Black Onyx, The (Japan) (En) (v1.0) (SSTranslations).sg" size="65535" crc="626e30cc" md5="1da64bab6808f8b6df159c912d3b4072" sha1="2e2baee16a34839770587d5fab890080bbcd9550"/>
 		<url>https://retroachievements.org/game/17798/hashes</url>
 		<hash>1da64bab6808f8b6df159c912d3b4072</hash>
 	</game>
-	<game name="Retail/Black Onyx, The (Japan) (En - Enhanced) (v1.0) (SSTranslations)">
+	<game name="Retail/The Black Onyx/Black Onyx, The (Japan) (En - Enhanced) (v1.0) (SSTranslations)">
 		<category></category>
 		<description>Black Onyx, The (Japan) (En - Enhanced) (v1.0) (SSTranslations)</description>
 		<rom name="Black Onyx, The (Japan) (En - Enhanced) (v1.0) (SSTranslations).sg" size="65535" crc="3003d9bd" md5="e2fca5d8609135caf5f4e2a88e38eabb" sha1="5c46089a417add0f00a3cebf01dc59f53465d47b"/>
@@ -846,14 +846,14 @@
 		<hash>52bbf5336c190610a0fb1ab0bdaca455</hash>
 	</game>
 	
-	<game name="Retail/Zippy Race (Japan, Australia) (Ja)">
+	<game name="Retail/Zippy Race/Zippy Race (Japan, Australia) (Ja)">
 		<category></category>
 		<description>Zippy Race (Japan, Australia) (Ja)</description>
 		<rom name="Zippy Race (Japan, Australia) (Ja).sg" size="32768" crc="bc5d20df" md5="0eda34ba313d3bb34558fd5939b19794" sha1="8c48dbe187ff4b26d6244d38075565f284536d0c"/>
 		<url>https://retroachievements.org/game/24567/hashes</url>
 		<hash>0eda34ba313d3bb34558fd5939b19794</hash>
 	</game>
-	<game name="Retail/Zippy Race (Taiwan) (Unl)">
+	<game name="Retail/Zippy Race/Zippy Race (Taiwan) (Unl)">
 		<category></category>
 		<description>Zippy Race (Taiwan) (Unl)</description>
 		<rom name="Zippy Race (Taiwan) (Unl).sg" size="32768" crc="bcf441a5" md5="16856425e0bcc3ab475f46f7cfd00402" sha1="f6926d0c3c654a038cd5eec9aaa6876bce86fdaa"/>
