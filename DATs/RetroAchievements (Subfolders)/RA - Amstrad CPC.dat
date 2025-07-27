@@ -5,8 +5,8 @@
 		<name>RA - Amstrad CPC</name>
 		<description>Amstrad CPC</description>
 		<category>Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250727</version>
+		<date>27 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/37/games</url>
@@ -306,6 +306,14 @@
 		<hash>7bc8b730e3776e565816e2cfd7b9fc63</hash>
 	</game>
 	
+	<game name="Retail/Arkanoid (World) (CleanCpcDb)">
+		<category></category>
+		<description>Arkanoid (World) (CleanCpcDb)</description>
+		<rom name="Arkanoid (World) (CleanCpcDb).dsk" size="195379" crc="00e4bf51" md5="7034aac069febf8ee81732cb1e9e9854" sha1="1b2fb879ab7683d571f41ead005ec2ef544c09db"/>
+		<url>https://retroachievements.org/game/34029/hashes</url>
+		<hash>7034aac069febf8ee81732cb1e9e9854</hash>
+	</game>
+	
 	<game name="Retail/Batman The Movie (World) (CleanCpcDb)">
 		<category></category>
 		<description>Batman The Movie (World) (CleanCpcDb)</description>
@@ -341,6 +349,14 @@
 		<rom name="Beach Buggy Simulator (World) (Tosec).dsk" size="194816" crc="df29584c" md5="f92630c29bc56accacd43a6ceb8eac5d" sha1="6bf2f60394b72123cc03d44639001fb1cb3c8b09"/>
 		<url>https://retroachievements.org/game/9674/hashes</url>
 		<hash>F92630C29BC56ACCACD43A6CEB8EAC5D</hash>
+	</game>
+	
+	<game name="Retail/Billy La Banlieue (World) (CleanCpcDb)">
+		<category></category>
+		<description>Billy La Banlieue (World) (Tosec)</description>
+		<rom name="Billy La Banlieue (World) (Tosec).dsk" size="196143" crc="254b189b" md5="601ca490702d7181cecd06cd24fe6aaf" sha1="0e860d36482dd02fc97acaba7a09985c5233f23c"/>
+		<url>https://retroachievements.org/game/29692/hashes</url>
+		<hash>601ca490702d7181cecd06cd24fe6aaf</hash>
 	</game>
 	
 	<game name="Retail/Blade Warrior (World) (CleanCpcDb)">

@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation</name>
 		<description>Sony Playstation</description>
 		<category>No Subfolders</category>
-		<version>20250720</version>
-		<date>20 July 2025</date>
+		<version>20250727</version>
+		<date>27 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -254,6 +254,16 @@
 		<rom name="Resident Evil 3 - The Only One (v1.1) (BiohazardEsp) (Hack).bin" size="728750736" crc="3dc47521" md5="9e9b61f1ebba0b3f2d39bf138f2cbb8c" sha1="76ad9d43e892c0083e6f5c62477e4b63012b40c6"/>
 		<url>https://retroachievements.org/game/16172/hashes</url>
 		<hash>065d972a245399a7e4e460c6529841b5</hash>
+	</game>
+	
+	<game name="Resident Evil - Deep Freeze (v0.1) (Aydan Watkins) (Hack)">
+		<category>Hack</category>
+		<description>Resident Evil - Deep Freeze (v0.1) (Aydan Watkins) (Hack)</description>
+		<release name="Resident Evil - Deep Freeze (v0.1) (Aydan Watkins) (Hack)" region="World"/>
+		<rom name="Resident Evil - Deep Freeze (v0.1) (Aydan Watkins) (Hack).cue" size="123" crc="cc2c2bc3" md5="500f415d5b1abbe03cfb30030c3d7f51" sha1="9df2f77d1fb46cbf35051eec7f0813ce49b2e982"/>
+		<rom name="Resident Evil - Deep Freeze (v0.1) (Aydan Watkins) (Hack).bin" size="661678752" crc="f08a4d06" md5="d9d3211569141abe470d9b52748f5fc3" sha1="63f81bcf014840855ee4d0875093577c4b499543"/>
+		<url>https://retroachievements.org/game/29747/hashes</url>
+		<hash>eb04ced275ca400077327367da631142</hash>
 	</game>
 	
 	<game name="Sonic in Crash Bandicoot 2 (Airumu) (Hack)">
@@ -9129,6 +9139,26 @@
 		<hash>1a3d8cc79249004ad7f2352a67ab8fd6</hash>
 	</game>
 	
+	<game name="Racing Lagoon (Japan, Asia) (En) (v1.1) (Hilltop)">
+		<category>Retail</category>
+		<description>Racing Lagoon (Japan, Asia) (En) (v1.1) (Hilltop)</description>
+		<release name="Racing Lagoon (Japan, Asia) (En) (v1.1) (Hilltop)" region="Japan"/>
+		<rom name="Racing Lagoon (Japan, Asia) (En) (v1.1) (Hilltop).cue" size="115" crc="fc463639" md5="2903c7367f1180fad40ec8c45a6b6c61" sha1="368396f02090a15381b111d335bc0fd5a502ae82"/>
+		<rom name="Racing Lagoon (Japan, Asia) (En) (v1.1) (Hilltop).bin" size="748996752" crc="a780535f" md5="1d710cf3ba6874587a934c2eeb36b0fe" sha1="31c7cb9dacdcab9c69c5c9dbbd0e2466f5c0a300"/>
+		<url>https://retroachievements.org/game/18164/hashes</url>
+		<hash>9579538f0770e34c9d49c348e4cef267</hash>
+	</game>
+	
+	<game name="Racing Lagoon (Subset - Gearhead)">
+		<category>Subset</category>
+		<description>Racing Lagoon (Subset - Gearhead)</description>
+		<release name="Racing Lagoon (Subset - Gearhead)" region="World"/>
+		<rom name="Racing Lagoon (Subset - Gearhead).cue" size="99" crc="71cee729" md5="b8a12949f78a64dbcc0ca21b99eb9274" sha1="4dfb1268dbc5bf92fa345a8d3e8e2fb4fc1839f5"/>
+		<rom name="Racing Lagoon (Subset - Gearhead).bin" size="748996752" crc="13279d1d" md5="133c6a8bbd1eba7e448b44f4fb6e7046" sha1="b5283a15e0feb11d54051280757e0e79146bf214"/>
+		<url>https://retroachievements.org/game/34300/hashes</url>
+		<hash>bda3e35bb2f45569db7c05ef01902e7b</hash>
+	</game>
+	
 	<game name="Rage Racer (USA)">
 		<category>Retail</category>
 		<description>Rage Racer (USA)</description>
@@ -9303,6 +9333,78 @@
 		<rom name="RC de Go! (USA) (Track 2).bin" size="32163600" crc="9eb22530" md5="88aa16698a904e9841f2279a4e9beb23" sha1="bea344b803475b463195df6fd60834069afe246e"/>
 		<url>https://retroachievements.org/game/17199/hashes</url>
 		<hash>c74bb723c5e7586fdfcf4614123c1955</hash>
+	</game>
+	
+	<game name="Real Bout Garou Densetsu Special - Dominated Mind (Japan)">
+		<category>Retail</category>
+		<description>Real Bout Garou Densetsu Special - Dominated Mind (Japan)</description>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan).cue" size="4238" crc="2ba95d8d" md5="44bfdf64d87bd932709e5cc48a964421" sha1="4ba5c8ad56bfa2963209c67f60f56fb711279e80"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 01).bin" size="281985984" crc="29703810" md5="caf7074994aeab4f9067e4e26b71d78f" sha1="d6376364528fb02c183b3a56829ad93426d15ad9"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 02).bin" size="8460144" crc="9364c150" md5="c1126228ae3899ad696243896d4ce39f" sha1="ddd4e4c911843af6649ae7655750584bcec50e03"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 03).bin" size="1124256" crc="00e4cb3a" md5="6e3d0887bc88b3968d96a800a8f3c7a0" sha1="9f2a193e12fb0fad558fcaf74656f991dad7a8f9"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 04).bin" size="17258976" crc="ed217005" md5="3345e760f1f72bea6f15818f9aef858e" sha1="793372b859b2741698f63c99ee981ab3e491e19a"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 05).bin" size="18021024" crc="ff23f8a6" md5="a79e0ace04139cb83d66ac25d6c5b275" sha1="84bf125b7a45a41acae8eb59a651e23bf7bfbc9b"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 06).bin" size="20991600" crc="3a364593" md5="6476a19717756eb3596c99aaf598843f" sha1="48f9a178ca273926b8024ae89bea6368e34ca054"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 07).bin" size="20462400" crc="66ebb318" md5="6b53fa89ad207ddf5dbdc9ab14ba155d" sha1="96df03a10363bd42258bda404901a4f3320ba773"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 08).bin" size="19373424" crc="cae94116" md5="a61063944844f05654f4bc0199c392cc" sha1="70bc89a122e522a5c4745b26992541c9d3a3a3e2"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 09).bin" size="18874800" crc="5cf34a67" md5="82e0a02dbd6816706d4b7b1f4228c76d" sha1="4fed1d2422e8e0e98cd19cf2e7f2d613c0239dab"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 10).bin" size="3676176" crc="66d97127" md5="394990b640996535730597a8da59f848" sha1="e1bc4a452b5979008265ee9a6ca9cb5493daeb73"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 11).bin" size="16781520" crc="338c4920" md5="04f71d0883768121b4c5dfea6f1fc1b1" sha1="3810c6c77328f80a1759face2eb69800f3359098"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 12).bin" size="16527504" crc="5bfd62ce" md5="03e639f0a8298b324086a4bdeebee73e" sha1="5b24172f303e0f12627dc1b5eefcb4f6362ea6c8"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 13).bin" size="18265632" crc="e6f2f927" md5="2fa902b5437a0fd0689fa033f00e2bcb" sha1="f6edd593f3b90e4ea78e2ab8a78803bb676d5289"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 14).bin" size="17710560" crc="993c21a8" md5="25c437a49e9b2b612765c640b23199bf" sha1="20ecf0e350a2c4e36ec1d702ab02e5b2ae32fe72"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 15).bin" size="15805440" crc="c5495ffc" md5="af107458f93c98f3f874988fe3d68557" sha1="b7623a997cf56bd64914dcb9a80eff30a0ad9b00"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 16).bin" size="20888112" crc="9759b19e" md5="c455a0a6fe306649cc6107289b7e952c" sha1="970de44283092735cbff32c61c60156b62ac587d"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 17).bin" size="17922240" crc="4fe8509e" md5="01d64bdec9bd682a6c4d5c60f9fa63da" sha1="6ec43f7e7c2041052da2e5f314103aa40f73f404"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 18).bin" size="20883408" crc="90409499" md5="d33fd0e5c4846096a3b0a687be13e3ea" sha1="29341bb9fbe5d7e1af3efc4be262aa3a5f90bffc"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 19).bin" size="21732480" crc="752838ad" md5="b65d2a43005f2aff0650ff728a376401" sha1="a46d00867d98d85e1556eeecaa4e9aa6a34c834f"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 20).bin" size="18559632" crc="fd9b89f2" md5="f3314b5ac54932db6b872c07abdac95f" sha1="7d8e393b02edb8d08424b0fe8e838e9c33cde66c"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 21).bin" size="17498880" crc="e6bd44fd" md5="9446ce9d5d81c6e7d2b8543004751a59" sha1="235417efdc26c6ba38dc09ec2d22e922ed1d1d7e"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 22).bin" size="16334640" crc="39f77afd" md5="880499b2e5d5562b95fb7183dd1fca27" sha1="83a4247ee0c9d8e0cad65a559ef9926858305cc7"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 23).bin" size="19404000" crc="0f7002bc" md5="7ffcd9dc2b3713204f6f6f9e5f3a1825" sha1="3786661d6b4df07ebd5501c06d6e6d30c3e0ebcd"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 24).bin" size="3172848" crc="350170ce" md5="181d4ffd738f89378e1890906df9bdcc" sha1="7426101b7790c6fb269db249992598f44419c5ea"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 25).bin" size="1220688" crc="49997d1e" md5="8a05a6ba5c59d80011041ac9efbb3c33" sha1="a1ba1a53af6ffe38015237d8bcbca6f7e8b9900c"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 26).bin" size="21520800" crc="15519e35" md5="35daf23fc7df2b56294f0f289b2dd710" sha1="307aeed4724a883c8fc6514b41eb752eb2e6bc25"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 27).bin" size="21494928" crc="07874f54" md5="33ab535c79695480586b541d4c13f607" sha1="970cc050099c3499e14a2d3a82320217f0332e71"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Track 28).bin" size="32104800" crc="9b94ea54" md5="65aea234c174ee35fb574d981fe3fc4f" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a"/>
+		<url>https://retroachievements.org/game/13920/hashes</url>
+		<hash>1015c2a7fcfddaf0a4b25d5fa94d9b74</hash>
+	</game>
+	<game name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui)" cloneof="Real Bout Garou Densetsu Special - Dominated Mind (Japan)">
+		<category>Retail</category>
+		<description>Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui)</description>
+		<release name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui)" region="Japan"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui).cue" size="5302" crc="f6bcf761" md5="168f3379aa5f200a2cbeafb5d65816a0" sha1="94668c1e97e38f2bc9de1f57b2e21b97788714f7"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 1).bin" size="281985984" crc="e4a27892" md5="cdca551d525c8819bf81416fded5220b" sha1="1ac486fc5dcd9e5a636b158dab6a643cbadc43c2"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 02).bin" size="8460144" crc="9364c150" md5="c1126228ae3899ad696243896d4ce39f" sha1="ddd4e4c911843af6649ae7655750584bcec50e03"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 03).bin" size="1124256" crc="00e4cb3a" md5="6e3d0887bc88b3968d96a800a8f3c7a0" sha1="9f2a193e12fb0fad558fcaf74656f991dad7a8f9"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 04).bin" size="17258976" crc="ed217005" md5="3345e760f1f72bea6f15818f9aef858e" sha1="793372b859b2741698f63c99ee981ab3e491e19a"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 05).bin" size="18021024" crc="ff23f8a6" md5="a79e0ace04139cb83d66ac25d6c5b275" sha1="84bf125b7a45a41acae8eb59a651e23bf7bfbc9b"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 06).bin" size="20991600" crc="3a364593" md5="6476a19717756eb3596c99aaf598843f" sha1="48f9a178ca273926b8024ae89bea6368e34ca054"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 07).bin" size="20462400" crc="66ebb318" md5="6b53fa89ad207ddf5dbdc9ab14ba155d" sha1="96df03a10363bd42258bda404901a4f3320ba773"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 08).bin" size="19373424" crc="cae94116" md5="a61063944844f05654f4bc0199c392cc" sha1="70bc89a122e522a5c4745b26992541c9d3a3a3e2"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 09).bin" size="18874800" crc="5cf34a67" md5="82e0a02dbd6816706d4b7b1f4228c76d" sha1="4fed1d2422e8e0e98cd19cf2e7f2d613c0239dab"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 10).bin" size="3676176" crc="66d97127" md5="394990b640996535730597a8da59f848" sha1="e1bc4a452b5979008265ee9a6ca9cb5493daeb73"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 11).bin" size="16781520" crc="338c4920" md5="04f71d0883768121b4c5dfea6f1fc1b1" sha1="3810c6c77328f80a1759face2eb69800f3359098"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 12).bin" size="16527504" crc="5bfd62ce" md5="03e639f0a8298b324086a4bdeebee73e" sha1="5b24172f303e0f12627dc1b5eefcb4f6362ea6c8"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 13).bin" size="18265632" crc="e6f2f927" md5="2fa902b5437a0fd0689fa033f00e2bcb" sha1="f6edd593f3b90e4ea78e2ab8a78803bb676d5289"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 14).bin" size="17710560" crc="993c21a8" md5="25c437a49e9b2b612765c640b23199bf" sha1="20ecf0e350a2c4e36ec1d702ab02e5b2ae32fe72"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 15).bin" size="15805440" crc="c5495ffc" md5="af107458f93c98f3f874988fe3d68557" sha1="b7623a997cf56bd64914dcb9a80eff30a0ad9b00"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 16).bin" size="20888112" crc="9759b19e" md5="c455a0a6fe306649cc6107289b7e952c" sha1="970de44283092735cbff32c61c60156b62ac587d"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 17).bin" size="17922240" crc="4fe8509e" md5="01d64bdec9bd682a6c4d5c60f9fa63da" sha1="6ec43f7e7c2041052da2e5f314103aa40f73f404"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 18).bin" size="20883408" crc="90409499" md5="d33fd0e5c4846096a3b0a687be13e3ea" sha1="29341bb9fbe5d7e1af3efc4be262aa3a5f90bffc"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 19).bin" size="21732480" crc="752838ad" md5="b65d2a43005f2aff0650ff728a376401" sha1="a46d00867d98d85e1556eeecaa4e9aa6a34c834f"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 20).bin" size="18559632" crc="fd9b89f2" md5="f3314b5ac54932db6b872c07abdac95f" sha1="7d8e393b02edb8d08424b0fe8e838e9c33cde66c"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 21).bin" size="17498880" crc="e6bd44fd" md5="9446ce9d5d81c6e7d2b8543004751a59" sha1="235417efdc26c6ba38dc09ec2d22e922ed1d1d7e"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 22).bin" size="16334640" crc="39f77afd" md5="880499b2e5d5562b95fb7183dd1fca27" sha1="83a4247ee0c9d8e0cad65a559ef9926858305cc7"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 23).bin" size="19404000" crc="0f7002bc" md5="7ffcd9dc2b3713204f6f6f9e5f3a1825" sha1="3786661d6b4df07ebd5501c06d6e6d30c3e0ebcd"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 24).bin" size="3172848" crc="350170ce" md5="181d4ffd738f89378e1890906df9bdcc" sha1="7426101b7790c6fb269db249992598f44419c5ea"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 25).bin" size="1220688" crc="49997d1e" md5="8a05a6ba5c59d80011041ac9efbb3c33" sha1="a1ba1a53af6ffe38015237d8bcbca6f7e8b9900c"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 26).bin" size="21520800" crc="15519e35" md5="35daf23fc7df2b56294f0f289b2dd710" sha1="307aeed4724a883c8fc6514b41eb752eb2e6bc25"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 27).bin" size="21494928" crc="07874f54" md5="33ab535c79695480586b541d4c13f607" sha1="970cc050099c3499e14a2d3a82320217f0332e71"/>
+		<rom name="Real Bout Garou Densetsu Special - Dominated Mind (Japan) (Unlock Hidden Moves) (v1.0) (Miagui) (Track 28).bin" size="32104800" crc="9b94ea54" md5="65aea234c174ee35fb574d981fe3fc4f" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a"/>
+		<url>https://retroachievements.org/game/13920/hashes</url>
+		<hash>aaf4df43077c7dee68335e49b18048a7</hash>
 	</game>
 	
 	<game name="Real Robots - Final Attack (Japan)">
@@ -9798,6 +9900,32 @@
 		<rom name="Rockman - Battle &amp; Chase (Japan) (PlayStation the Best for Family).bin" size="650880720" crc="b84341bd" md5="92651d64029523e2922c5380612464bd" sha1="f6c9f719a363a9334ee50bb941e24d193d1879bf"/>
 		<url>https://retroachievements.org/game/5695/hashes</url>
 		<hash>21c8ec4552af9306ff7a650dc00e3036</hash>
+	</game>
+	
+	<game name="Rogue Trip - Vacation 2012 (USA)">
+		<category>Retail</category>
+		<description>Rogue Trip - Vacation 2012 (USA)</description>
+		<release name="Rogue Trip - Vacation 2012 (USA)" region="USA"/>
+		<rom name="Rogue Trip - Vacation 2012 (USA).cue" size="2141" crc="a762c700" md5="b8ed66a39f3f4b62768c13bfc681abd9" sha1="30d0c52b2774bc98cac86fb70b78703baebd9c11"/>
+		<rom name="Rogue Trip - Vacation 2012 (USA) (Track 01).bin" size="292442976" crc="e9f241dd" md5="6a950ab677e902dcecebc8f57cb4b7f9" sha1="75c180b48bd37ff4045b6c77ab3c295d816142cb"/>
+		<rom name="Rogue Trip - Vacation 2012 (USA) (Track 02).bin" size="28275744" crc="f9f88ee1" md5="aaa18b213db97402bb6669f10a555b12" sha1="912dd858bf1c87312d31ad54af68fe5df2e8df6b"/>
+		<rom name="Rogue Trip - Vacation 2012 (USA) (Track 03).bin" size="32114208" crc="91ce7c51" md5="83073c6f56a10b8e5c39fe904d1f77c5" sha1="56400d4fafd2b1711a4b4b8df92c38b67bef3f92"/>
+		<rom name="Rogue Trip - Vacation 2012 (USA) (Track 04).bin" size="33212592" crc="270f7a18" md5="5369add49c618227570d2e4c67e1128b" sha1="fefaab43637c8715d85c72d813f2d6d5f74d24e4"/>
+		<rom name="Rogue Trip - Vacation 2012 (USA) (Track 05).bin" size="31926048" crc="79c08ba1" md5="b4843e771d6183a1b9440e3a378169ef" sha1="a5cec5c0e1f99c6d521974ff36250bf99030114e"/>
+		<rom name="Rogue Trip - Vacation 2012 (USA) (Track 06).bin" size="11317824" crc="20474d69" md5="ebf8967b4c07f954c94e669626f362dc" sha1="2f6e56613f1c4558610c4bd926af8900fa80e01b"/>
+		<rom name="Rogue Trip - Vacation 2012 (USA) (Track 07).bin" size="32998560" crc="344284b4" md5="7cb04872a841c7f18e0cad5e68874692" sha1="81ca6af17cd0ec08864686b510c1b8c602540958"/>
+		<rom name="Rogue Trip - Vacation 2012 (USA) (Track 08).bin" size="31857840" crc="480ffbc7" md5="e6c7113cc1e855ef681936a2689d8af7" sha1="0cd9c295df6cee5878538854479a125f1e8e657f"/>
+		<rom name="Rogue Trip - Vacation 2012 (USA) (Track 09).bin" size="33541872" crc="5acdf9c7" md5="a22e71360a7f3f66eed49ed6118b3bd8" sha1="a4a4db10f8ba122d3022eb9e0c77481e8771eca0"/>
+		<rom name="Rogue Trip - Vacation 2012 (USA) (Track 10).bin" size="33682992" crc="cee32a44" md5="68ae80895026ed03eb4c1f3bc32fbffa" sha1="413170adf69303a9de8c4951731c201a0db52af5"/>
+		<rom name="Rogue Trip - Vacation 2012 (USA) (Track 11).bin" size="32629296" crc="17624aa4" md5="75d182c7971c233deb2afb5fb79ab0c9" sha1="c04f1997539d7be218d180ac39c1e589c1944e07"/>
+		<rom name="Rogue Trip - Vacation 2012 (USA) (Track 12).bin" size="12611424" crc="c2514d16" md5="c7ebe1b822a27de33fb11e85eaf3f2e4" sha1="184c88292e6d9faba60f88cc2a20c5d848ae8003"/>
+		<rom name="Rogue Trip - Vacation 2012 (USA) (Track 13).bin" size="31763760" crc="1115019f" md5="9afc33f6d6d5bd89f3ad3d465673533e" sha1="94dd92984c3b2907edda2e48373dee00f183660e"/>
+		<rom name="Rogue Trip - Vacation 2012 (USA) (Track 14).bin" size="32812752" crc="b09c140d" md5="8332983079efe83ebfbc468b24da6466" sha1="65fd1a0c6730d5d94cb584485114c6d1e8eedce7"/>
+		<rom name="Rogue Trip - Vacation 2012 (USA) (Track 15).bin" size="19956720" crc="5e8db91d" md5="33afd8435a163f958e23333af95bcb71" sha1="79ae09244469c2d016b097a9462e6e068c0ba2e3"/>
+		<rom name="Rogue Trip - Vacation 2012 (USA) (Track 16).bin" size="14191968" crc="b00dc716" md5="6827166c73895fffb5a96ff75f515751" sha1="354dd44e7b32590dc7ce958fdcc6a6a0b693c371"/>
+		<rom name="Rogue Trip - Vacation 2012 (USA) (Track 17).bin" size="32542272" crc="16823d61" md5="060c24ebe35ccd5117aec921150bda19" sha1="b4dd633c6177ce1bf68aa237aaa632302154d04d"/>
+		<url>https://retroachievements.org/game/5695/hashes</url>
+		<hash>35494fed2ad2ad15ce154e4b8ebd0e70</hash>
 	</game>
 	
 	<game name="Roll Away (USA)">

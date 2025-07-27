@@ -5,8 +5,8 @@
 		<name>RA - Sega CD (CHD)</name>
 		<description>Sega CD (CHD)</description>
 		<category>Subfolders</category>
-		<version>20250720</version>
-		<date>20 July 2025</date>
+		<version>20250727</version>
+		<date>27 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/9/games</url>
@@ -96,6 +96,14 @@
 		<rom name="Brutal - Paws of Fury (USA).chd" size="193776861" crc="cd37b880" md5="67cd2160f7a3c82871a14fd68a500f1a" sha1="444baedeb9417bffae66061b4a58369d87b3fee3"/>
 		<url>https://retroachievements.org/game/33141/hashes</url>
 		<hash>f551034768405cef3fd7c908377e80fe</hash>
+	</game>
+	
+	<game name="Retail/Chuck Rock (USA)">
+		<category></category>
+		<description>Chuck Rock (USA)</description>
+		<rom name="Chuck Rock (USA).chd" size="183479967" crc="b9031fbc" md5="3992b95b7a3d621f29327dc1ac9e5429" sha1="0c1ed2095d5fef97c73cfe4a38603101de73980d"/>
+		<url>https://retroachievements.org/game/16009/hashes</url>
+		<hash>1d82340d7ce33385951b16fe1f5ad4c1</hash>
 	</game>
 	
 	<game name="Retail/Crime Patrol (USA)">

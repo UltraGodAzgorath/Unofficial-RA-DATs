@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Color</name>
 		<description>Nintendo Game Boy Color</description>
 		<category>Subfolders</category>
-		<version>20250720</version>
-		<date>20 July 2025</date>
+		<version>20250727</version>
+		<date>27 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/6/games</url>
@@ -1669,6 +1669,14 @@
 		<rom name="Driver - You Are the Wheelman (USA) (En,Fr,De,Es,It).gbc" size="1048576" crc="d4c7f6df" md5="413e1acd7847d628364163eb2c97cecd" sha1="9add1e67f39f900f2c004e4d8bbd1fec368eef4c"/>
 		<url>https://retroachievements.org/game/4190/hashes</url>
 		<hash>413e1acd7847d628364163eb2c97cecd</hash>
+	</game>
+	
+	<game name="Retail/F1 Championship Season 2000 (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>F1 Championship Season 2000 (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="F1 Championship Season 2000 (Europe) (En,Fr,De,Es,It).gbc" size="2097152" crc="5c10315e" md5="4448c35bebf32629e23f64c61cc50565" sha1="dc566028e0e86f32d99d5b0846d4b113525be0a2"/>
+		<url>https://retroachievements.org/game/25855/hashes</url>
+		<hash>4448c35bebf32629e23f64c61cc50565</hash>
 	</game>
 	
 	<game name="Retail/Fix &amp; Foxi - Episode 1 - Lupo (Europe) (En,Fr,De)">

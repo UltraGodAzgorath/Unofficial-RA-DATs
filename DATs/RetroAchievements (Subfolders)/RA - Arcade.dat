@@ -5,8 +5,8 @@
 		<name>RA - Arcade</name>
 		<description>Arcade</description>
 		<category>Subfolders</category>
-		<version>20250720</version>
-		<date>20 July 2025</date>
+		<version>20250727</version>
+		<date>27 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/27/games</url>
@@ -2599,6 +2599,31 @@
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/17540/hashes</url>
 		<hash>7056D1ADF36953AE1BE0439E9E8B988A</hash>
+	</game>
+	
+	<game name="Retail/bzone">
+		<description>Battle Zone (rev 2)</description>
+		<category>FBNeo</category>
+		<rom name="036414-02.e1" size="2048" crc="13de36d5"/>
+		<rom name="036413-01.h1" size="2048" crc="5d9d9111"/>
+		<rom name="036412-01.j1" size="2048" crc="ab55cbd2"/>
+		<rom name="036411-01.k1" size="2048" crc="ad281297"/>
+		<rom name="036410-01.lm1" size="2048" crc="0b7bfaa4"/>
+		<rom name="036409-01.n1" size="2048" crc="1e14e919"/>
+		<rom name="036422-01.bc3" size="2048" crc="7414177b"/>
+		<rom name="036421-01.a3" size="2048" crc="8ea8f939"/>
+		<rom name="036408-01.k7" size="256" crc="5903af03"/>
+		<rom name="036174-01.b1" size="32" crc="8b04f921"/>
+		<rom name="036175-01.m1" size="256" crc="2af82e87"/>
+		<rom name="036176-01.l1" size="256" crc="b31f6e24"/>
+		<rom name="036177-01.k1" size="256" crc="8119b847"/>
+		<rom name="036178-01.j1" size="256" crc="09f5a4d5"/>
+		<rom name="036179-01.h1" size="256" crc="823b61ae"/>
+		<rom name="036180-01.f1" size="256" crc="276eadd5"/>
+		<video type="vector" orientation="horizontal" width="640" height="480" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/15018/hashes</url>
+		<hash>f259be1f4ab164a9181d5c36166af0c8</hash>
 	</game>
 	
 	<game name="Retail/berzerk">
@@ -12387,6 +12412,35 @@
 		<hash>A44A96BAFC4507B5D8A9C35A99F8636A</hash>
 	</game>
 	
+	<game name="Retail/pacland">
+		<description>Pac-Land (World)</description>
+		<category>FBNeo</category>
+		<release name="pacland" region="World"/>
+		<rom name="pl5_01b.8b" size="16384" crc="b0ea7631"/>
+		<rom name="pl5_02.8d" size="16384" crc="d903e84e"/>
+		<rom name="pl1_3.8e" size="16384" crc="aa9fa739"/>
+		<rom name="pl1_4.8f" size="16384" crc="2b895a90"/>
+		<rom name="pl1_5.8h" size="16384" crc="7af66200"/>
+		<rom name="pl3_6.8j" size="16384" crc="2ffe3319"/>
+		<rom name="pl1_7.3e" size="8192" crc="8c5becae"/>
+		<rom name="cus60-60a1.mcu" size="4096" crc="076ea82a"/>
+		<rom name="pl2_12.6n" size="8192" crc="a63c8726"/>
+		<rom name="pl4_13.6t" size="8192" crc="3ae582fd"/>
+		<rom name="pl1-9.6f" size="16384" crc="f5d5962b"/>
+		<rom name="pl1-8.6e" size="16384" crc="a2ebfa4a"/>
+		<rom name="pl1-10.7e" size="16384" crc="c7cf1904"/>
+		<rom name="pl1-11.7f" size="16384" crc="6621361a"/>
+		<rom name="pl1-2.1t" size="1024" crc="472885de"/>
+		<rom name="pl1-1.1r" size="1024" crc="a78ebdaf"/>
+		<rom name="pl1-5.5t" size="1024" crc="4b7ee712"/>
+		<rom name="pl1-4.4n" size="1024" crc="3a7be418"/>
+		<rom name="pl1-3.6l" size="1024" crc="80558da8"/>
+		<video type="raster" orientation="horizontal" width="288" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12193/hashes</url>
+		<hash>88f75c681d985805b3d2c500f21f6db2</hash>
+	</game>
+
 	<game name="Retail/pacman">
 		<description>Pac-Man (Midway)</description>
 		<category>FBNeo</category>

@@ -5,8 +5,8 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20250720</version>
-		<date>20 July 2025</date>
+		<version>20250727</version>
+		<date>27 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/3/games</url>
@@ -876,9 +876,9 @@
 	<game name="Hack/Final Fantasy VI/FFVI - Reimagined (v1.7) (DrakeyC) (Hack)">
 		<category>Super Nintendo</category>
 		<description>FFVI - Reimagined (v1.7) (DrakeyC) (Hack)</description>
-		<rom name="FFVI - Reimagined (v1.7) (DrakeyC) (Hack).sfc" size="4194304" crc="0bdf1e98" md5="8a9f55313c8311829f06d42aa2afcde9" sha1="2093cdeb948f4169d4d0d6f66a178ed337482e80"/>
+		<rom name="FFVI - Reimagined (v1.7) (DrakeyC) (Hack).sfc" size="4194304" crc="717f5b83" md5="26943ae9f9b7ac98cfa3605ab2a8947a" sha1="e6088dc3202c6eda91de2db65f96d42017b903a5"/>
 		<url>https://retroachievements.org/game/32659/hashes</url>
-		<hash>8a9f55313c8311829f06d42aa2afcde9</hash>
+		<hash>26943ae9f9b7ac98cfa3605ab2a8947a</hash>
 	</game>
 	
 	<game name="Hack/Final Fantasy VI/FFVI - A Soldier's Contingency (Flavor A) (v2.01) (Lightning Hawk) (Hack)">

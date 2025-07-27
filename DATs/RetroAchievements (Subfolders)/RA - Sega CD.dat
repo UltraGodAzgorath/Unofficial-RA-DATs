@@ -5,8 +5,8 @@
 		<name>RA - Sega CD</name>
 		<description>Sega CD</description>
 		<category>Subfolders</category>
-		<version>20250720</version>
-		<date>20 July 2025</date>
+		<version>20250727</version>
+		<date>27 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/9/games</url>
@@ -201,6 +201,25 @@
 		<rom name="Brutal - Paws of Fury (USA) (Track 15).bin" size="19081776" crc="34db734d" md5="2fd7953ffe4372a034f493f01689f094" sha1="790db5dc903099d71b72388e31d3f979e49c75c6"/>
 		<url>https://retroachievements.org/game/33141/hashes</url>
 		<hash>f551034768405cef3fd7c908377e80fe</hash>
+	</game>
+	
+	<game name="Retail/Chuck Rock (USA)">
+		<category></category>
+		<description>Chuck Rock (USA)</description>
+		<rom name="Chuck Rock (USA).cue" size="1226" crc="f11658ee" md5="6e52c090a24ab08cedb102e245a472e4" sha1="ad0ec7226674c3fd858bcf65565d94a5367faeff"/>
+		<rom name="Chuck Rock (USA) (Track 01).bin" size="12625536" crc="a2d666a8" md5="cd8aaeff0b7cb1de361c4c39d425763f" sha1="f0fc8bba5f404d0984f52a652dc9d541e0f20afa"/>
+		<rom name="Chuck Rock (USA) (Track 02).bin" size="42394800" crc="fd3e065d" md5="07cc7748add810f84e603345e8b1f56c" sha1="8390d77d5efe0f59f10fd7beabe32aa6b5c77326"/>
+		<rom name="Chuck Rock (USA) (Track 03).bin" size="42582960" crc="83b86646" md5="342db1070df38d4385f8f85b6a56d01d" sha1="125fddf6b335f1b72f6c41f7f848c0631583beae"/>
+		<rom name="Chuck Rock (USA) (Track 04).bin" size="41463408" crc="0d349191" md5="f02a9a3691ab92ace03fa281952e9cfb" sha1="cd57e5c6974cb07d9fd9aa1836e111105735daae"/>
+		<rom name="Chuck Rock (USA) (Track 05).bin" size="44977296" crc="02388c27" md5="9485cb17bf759035a0f4902e511d7518" sha1="4bc57643621acce16ca294f7dd71906244ee9c32"/>
+		<rom name="Chuck Rock (USA) (Track 06).bin" size="42190176" crc="97dc9ea2" md5="378f3b00221d75056b691acb9bfb568e" sha1="7faac5a8f2a6ec1dc4732ea624316a3c227ce7ae"/>
+		<rom name="Chuck Rock (USA) (Track 07).bin" size="19206432" crc="1b0111db" md5="d6d7b800ee715af9bdf7be1c7f57ee87" sha1="bac44756a5f0d1d77ac43108ba0ceadb7fdbb3bd"/>
+		<rom name="Chuck Rock (USA) (Track 08).bin" size="40132176" crc="0f8a5764" md5="b045b37fc4d6b487f45edf6a7ca59011" sha1="eae39fdd2e9688ff1ad6af208856741aeb250579"/>
+		<rom name="Chuck Rock (USA) (Track 09).bin" size="18413808" crc="bd002115" md5="0c154be0f5264d55f274c3c2c7b36f5a" sha1="55b66d4f2ddf6b32c6b1f3f51eb3046ddce38120"/>
+		<rom name="Chuck Rock (USA) (Track 10).bin" size="1434720" crc="7d8e8ef3" md5="646ba08f5af4fe256f1322a3521f33ee" sha1="baab80434cd74f499effef01460e6a73e27950d7"/>
+		<rom name="Chuck Rock (USA) (Track 11).bin" size="20718768" crc="cbe311c0" md5="9c3b1481589bf832a52ea932904d2920" sha1="66e0823a20c951e83a5077368396c1ef99e66c7e"/>
+		<url>https://retroachievements.org/game/16009/hashes</url>
+		<hash>1d82340d7ce33385951b16fe1f5ad4c1</hash>
 	</game>
 	
 	<game name="Retail/Crime Patrol (USA)">

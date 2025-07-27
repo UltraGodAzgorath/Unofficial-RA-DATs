@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>Subfolders</category>
-		<version>20250720</version>
-		<date>20 July 2025</date>
+		<version>20250727</version>
+		<date>27 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
@@ -1639,6 +1639,14 @@
 		<rom name="Digimon Story - Lost Evolution (Japan) (En).nds" size="67108864" crc="f9ad2754" md5="712fd6f9f36413842e81d6c45127a7ca" sha1="ef501dbed5f8c5f064093d177b48b0ec6126cb54"/>
 		<url>https://retroachievements.org/game/16155/hashes</url>
 		<hash>daf7ddd0703a4cc599914538b7a47b38</hash>
+	</game>
+	
+	<game name="Retail/Digimon World Championship (USA)">
+		<category></category>
+		<description>Digimon World Championship (USA)</description>
+		<rom name="Digimon World Championship (USA).nds" size="67108864" crc="ab98d34d" md5="27bfb9b58b50e64bc6eae9d54dc55383" sha1="6fe9ab535b0b4fdf1ed93998f808b0a04c6c0931"/>
+		<url>https://retroachievements.org/game/16154/hashes</url>
+		<hash>f7d1ae47199b6a12400e242522b037dc</hash>
 	</game>
 	
 	<game name="Retail/Digimon World - Dawn (USA)">

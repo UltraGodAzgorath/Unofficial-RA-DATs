@@ -5,8 +5,8 @@
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
 		<category>Subfolders</category>
-		<version>20250720</version>
-		<date>20 July 2025</date>
+		<version>20250727</version>
+		<date>27 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/16/games</url>
@@ -2085,7 +2085,6 @@
 		<rom name="Legend of Zelda, The - Twilight Princess (USA).rvz" size="929908128" crc="104029c6" md5="c68742bc0d1bfe93d5e13c384c621fd4" sha1="4ec0b52e4f25b4cfed6905ce0ba53f562e6989eb"/>
 		<url>https://retroachievements.org/game/3934/hashes</url>
 		<hash>0D02D0C796D09D6DF9109FFBA0DCA877</hash>
-		<althash>2b0b9f7f0ee38cd47e2589d44c52fc1b</althash>
 	</game>
 	
 	<game name="Subset/Legend of Zelda, The - Twilight Princess (Subset - Bonus)">
@@ -2110,6 +2109,14 @@
 		<rom name="Simpsons, The - Road Rage (USA).rvz" size="591019492" crc="8c609b4a" md5="73bddce1f432dc31e570e57631653316" sha1="276fd4cd6002ceb6c679d618c83f11661213d3db"/>
 		<url>https://retroachievements.org/game/6343/hashes</url>
 		<hash>25cd098ca8abb5ee642abb9a9459a575</hash>
+	</game>
+	
+	<game name="Retail/TMNT (USA) (En,Fr,Es)">
+		<category></category>
+		<description>TMNT (USA) (En,Fr,Es)</description>
+		<rom name="TMNT (USA) (En,Fr,Es).rvz" size="1054391956" crc="4df0cb1c" md5="5873fcd73c2fc6349a35dd117b102c68" sha1="4ed28e39ad86ed0a09cc5f254d76999868f48d2a"/>
+		<url>https://retroachievements.org/game/30443/hashes</url>
+		<hash>a8b6a692ac3a68f175857d1c8e1642dc</hash>
 	</game>
 	
 	<game name="Retail/Tony Hawk's Pro Skater 4 (USA)">

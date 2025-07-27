@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation 2</name>
 		<description>Sony Playstation 2</description>
 		<category>Subfolders</category>
-		<version>20250720</version>
-		<date>20 July 2025</date>
+		<version>20250727</version>
+		<date>27 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -730,6 +730,15 @@
 		<rom name="Blood Will Tell - Tezuka Osamu's Dororo (USA).iso" size="3217358848" crc="34d7b926" md5="fb0ab1b51ff7925e0acc37ad39c00e0d" sha1="d4f047c830d592d789392aecd755e1002e8a5227"/>
 		<url>https://retroachievements.org/game/21401/hashes</url>
 		<hash>27a8752d9b85b68c81cc29fd59ed6711</hash>
+	</game>
+	
+	<game name="Retail/Bloody Roar 3 (USA)">
+		<category></category>
+		<description>Bloody Roar 3 (USA)</description>
+		<rom name="Bloody Roar 3 (USA).cue" size="85" crc="bf578104" md5="51bca71ac92330d5096e5e8db894731b" sha1="9ccce293d1f08614bd65e8f6dacb62c670f6e7c2"/>
+		<rom name="Bloody Roar 3 (USA).bin" size="671924064" crc="a395d673" md5="4e5e2adedf5f3da5b5959b4f7960ca7b" sha1="62a733a3acc09e561de5f92880a13b9de7898c7e"/>
+		<url>https://retroachievements.org/game/19181/hashes</url>
+		<hash>543f5d3226a38cf8f2ca960e1c5d6548</hash>
 	</game>
 	
 	<game name="Retail/BMX XXX (USA)">
@@ -1778,6 +1787,23 @@
 		<hash>079e2674b59fcd8eed30fd3eadcce1f2</hash>
 	</game>
 	
+	<game name="Retail/Disney's Donald Duck - Goin' Quackers (USA)">
+		<category></category>
+		<description>Disney's Donald Duck - Goin' Quackers (USA)</description>
+		<rom name="Disney's Donald Duck - Goin' Quackers (USA).cue" size="109" crc="2aebf971" md5="ef5233d3ba73bd7d8f6294e96def8360" sha1="ab0636d5a60d78a39f0b994be8b5a71581b28262"/>
+		<rom name="Disney's Donald Duck - Goin' Quackers (USA).bin" size="713601504" crc="c82bd88e" md5="3ee611aac54987fa842a1817b21a079d" sha1="70107d18bfa88a8c70cfbbebc931dfb37348102d"/>
+		<url>https://retroachievements.org/game/20063/hashes</url>
+		<hash>e4fd1a7df88a5b5de3dc6e5d7befb612</hash>
+	</game>
+	
+	<game name="Retail/Downhill Domination (USA)">
+		<category></category>
+		<description>Downhill Domination (USA)</description>
+		<rom name="Downhill Domination (USA).iso" size="1557135360" crc="0c7b6ca4" md5="49fb1dcad50bc12a282dc3bbb7a910d7" sha1="1ccc0dc635a5e85c2ebcd3c2a136afe7320b0419"/>
+		<url>https://retroachievements.org/game/21701/hashes</url>
+		<hash>156678801132e3c0625a3e3a16ff983f</hash>
+	</game>
+	
 	<game name="Retail/Dragon Ball Z - Budokai (USA)">
 		<category></category>
 		<description>Dragon Ball Z - Budokai (USA)</description>
@@ -1895,6 +1921,14 @@
 		<rom name="Dragon Quest VIII - Journey of the Cursed King (Subset - Party and Records Chat).iso" size="4180148224" crc="177245bf" md5="15823c862adc60ccbaffe5e05c79202a" sha1="a5498ad21611fa31931e6657b09a8c67c27bd702"/>
 		<url>https://retroachievements.org/game/22840/hashes</url>
 		<hash>441191d6aeafdd3e88f0b16f84134ea7</hash>
+	</game>
+	
+	<game name="Retail/Drakan - The Ancients' Gates (USA)">
+		<category></category>
+		<description>Drakan - The Ancients' Gates (USA)</description>
+		<rom name="Drakan - The Ancients' Gates (USA).iso" size="1867776000" crc="edc5c92d" md5="e60f439aef9af4017189c4b037329b02" sha1="82b438f98070f5019f1061a186a270a48a5c4ca0"/>
+		<url>https://retroachievements.org/game/19126/hashes</url>
+		<hash>98f7ebf9656681d42ea0e5eafa89dbbf</hash>
 	</game>
 	
 	<game name="Retail/Drakengard (USA)">
@@ -6510,6 +6544,14 @@
 		<hash>7adb915325a8b5338e1dbbe340a9e794</hash>
 	</game>
 	
+	<game name="Retail/Syberia II (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Syberia II (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Syberia II (Europe) (En,Fr,De,Es,It).iso" size="4636508160" crc="4cb71412" md5="95e79f30235e3dd80be834a34f119397" sha1="ca7f1ecedd626383bcc13b5c8972a438e7a10610"/>
+		<url>https://retroachievements.org/game/22173/hashes</url>
+		<hash>4576379012746ec0e1ff89eddc3602bc</hash>
+	</game>
+	
 	<game name="Retail/Taiko no Tatsujin - Taiko Drum Master (Japan) (Tatacon Doukon Set)">
 		<category></category>
 		<description>Taiko no Tatsujin - Taiko Drum Master (Japan) (Tatacon Doukon Set)</description>
@@ -7453,6 +7495,14 @@
 		<rom name="Tony Hawk's Underground (USA).iso" size="4660396032" crc="2c33fa15" md5="39ed88773503866f9223f937d1ffd37d" sha1="b1c7b98412ce6921ea97af48627f0fd81ba0ec64"/>
 		<url>https://retroachievements.org/game/2993/hashes</url>
 		<hash>91110fe34391c4a42b51d2a5afa95c90</hash>
+	</game>
+	
+	<game name="Subset/Tony Hawk's Underground (Subset - RAdical Custom Goals &amp; Gaps)">
+		<category></category>
+		<description>Tony Hawk's Underground (Subset - RAdical Custom Goals &amp; Gaps)</description>
+		<rom name="Tony Hawk's Underground (Subset - RAdical Custom Goals &amp; Gaps).iso" size="4660396032" crc="77bc5432" md5="007832bcfe748786e950ce25fa27706f" sha1="87c9f2619a7460a0462615ad5e3dec32331cf8bf"/>
+		<url>https://retroachievements.org/game/20476/hashes</url>
+		<hash>cd2a910ffc33b502b2959f2dec7cdd6d</hash>
 	</game>
 	
 	<game name="Subset/Tony Hawk's Underground (USA) (Subset - Zero Stats)">

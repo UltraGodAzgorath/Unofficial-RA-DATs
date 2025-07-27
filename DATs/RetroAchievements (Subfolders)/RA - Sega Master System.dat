@@ -5,8 +5,8 @@
 		<name>RA - Sega Master System</name>
 		<description>Sega Master System</description>
 		<category>Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250727</version>
+		<date>27 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/11/games</url>
@@ -1148,6 +1148,15 @@
 		<rom name="Shinobi (USA, Europe, Brazil) (En) (Rev 1).sms" size="262144" crc="0c6fac4e" md5="3dd2c025185e19ac9bf1ed16b695c629" sha1="7c0778c055dc9c2b0aae1d166dbdb4734e55b9d1"/>
 		<url>https://retroachievements.org/game/10034/hashes</url>
 		<hash>3dd2c025185e19ac9bf1ed16b695c629</hash>
+	</game>
+	
+	<game name="Super Smash T.V. (Europe)">
+		<category>Retail</category>
+		<description>Super Smash T.V. (Europe)</description>
+		<release name="Super Smash T.V. (Europe)" region="Europe"/>
+		<rom name="Super Smash T.V. (Europe).sms" size="262144" crc="e0b1aff8" md5="fd65b6794d6778c7948cd9b8b02a12f5" sha1="b4515aad1cad31980d041632e23d3be82aa31828"/>
+		<url>https://retroachievements.org/game/11501/hashes</url>
+		<hash>fd65b6794d6778c7948cd9b8b02a12f5</hash>
 	</game>
 	
 	<game name="Retail/Snail Maze - SMS BIOS (v1.3) (USA, Europe)">

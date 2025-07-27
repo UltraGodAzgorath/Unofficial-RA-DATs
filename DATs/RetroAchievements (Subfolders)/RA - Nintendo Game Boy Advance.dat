@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>Subfolders</category>
-		<version>20250720</version>
-		<date>20 July 2025</date>
+		<version>20250727</version>
+		<date>27 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -4085,6 +4085,14 @@
 		<hash>ba5048bbfb02ebe3874b8ce1b6318ce4</hash>
 	</game>
 	
+	<game name="Retail/It's Mr. Pants (USA, Europe)">
+		<category></category>
+		<description>It's Mr. Pants (USA, Europe)</description>
+		<rom name="It's Mr. Pants (USA, Europe).gba" size="4194304" crc="757a4efb" md5="86f3a374af80e633531c538d9aeaf396" sha1="c49742f964a698ccce0520e24368a9d425a29b4d"/>
+		<url>https://retroachievements.org/game/4691/hashes</url>
+		<hash>86f3a374af80e633531c538d9aeaf396</hash>
+	</game>
+	
 	<game name="Retail/Jackie Chan Adventures - Legend of the Dark Hand (USA, Europe)">
 		<category></category>
 		<description>Jackie Chan Adventures - Legend of the Dark Hand (USA, Europe)</description>
@@ -4498,6 +4506,14 @@
 		<hash>7bc82e72f6b9f734766f6cd9faf43e66</hash>
 	</game>
 	
+	<game name="Retail/Mahjong Keiji (Japan)">
+		<category></category>
+		<description>Mahjong Keiji (Japan)</description>
+		<rom name="Mahjong Keiji (Japan).gba" size="4194304" crc="ad32a2d3" md5="6aa8f04421ad88f8f854fd0525b5a1a0" sha1="94279f146b5e62d6a29c67c6d1893137e1941270"/>
+		<url>https://retroachievements.org/game/9949/hashes</url>
+		<hash>6aa8f04421ad88f8f854fd0525b5a1a0</hash>
+	</game>
+	
 	<game name="Retail/Mario &amp; Luigi - Superstar Saga (Europe) (En,Fr,De,Es,It)">
 		<category></category>
 		<description>Mario &amp; Luigi - Superstar Saga (Europe) (En,Fr,De,Es,It)</description>
@@ -4685,6 +4701,14 @@
 		<rom name="Medal of Honor - Infiltrator (USA, Europe) (En,Fr,De).gba" size="16777216" crc="f23150a4" md5="78db66a92f5f4405266e154de49eea8d" sha1="47761911475e9548c81fed78e3d3336ddae89a58"/>
 		<url>https://retroachievements.org/game/5657/hashes</url>
 		<hash>78db66a92f5f4405266e154de49eea8d</hash>
+	</game>
+	
+	<game name="Retail/Medal of Honor - Underground (USA)">
+		<category></category>
+		<description>Medal of Honor - Underground (USA)</description>
+		<rom name="Medal of Honor - Underground (USA).gba" size="8388608" crc="6dfa0f50" md5="d15113e7b1843edfd258ad5f5051b418" sha1="b5c9b9e9db9e4b449269ed4422f0a7800843998f"/>
+		<url>https://retroachievements.org/game/8324/hashes</url>
+		<hash>d15113e7b1843edfd258ad5f5051b418</hash>
 	</game>
 	
 	<game name="Retail/Medarot G - Kabuto (Japan)">

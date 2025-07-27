@@ -5,8 +5,8 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>Subfolders</category>
-		<version>20250720</version>
-		<date>20 July 2025</date>
+		<version>20250727</version>
+		<date>27 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/2/games</url>
@@ -594,6 +594,14 @@
 		<rom name="SM64 - Mario and the Rod of Seasons (CowQuack) (Hack).z64" size="67108864" crc="cfe670b7" md5="570869c72552638bb6b41c834794f15c" sha1="91d8904040235fbce76a736cae1d6a689d1307bd"/>
 		<url>https://retroachievements.org/game/24184/hashes</url>
 		<hash>570869c72552638bb6b41c834794f15c</hash>
+	</game>
+	
+	<game name="Hack/Super Mario 64/SM64 - Mario Breaks Every Bone in His Body (v2.0) (CowQuack) (Hack)">
+		<category></category>
+		<description>SM64 - Mario Breaks Every Bone in His Body (v2.0) (CowQuack) (Hack)</description>
+		<rom name="SM64 - Mario Breaks Every Bone in His Body (v2.0) (CowQuack) (Hack).z64" size="21293200" crc="4e55ced5" md5="65779e8a2ef841267b46728275375386" sha1="6d5a139c8acd5a6907725652df923d3384fc7871"/>
+		<url>https://retroachievements.org/game/34305/hashes</url>
+		<hash>65779e8a2ef841267b46728275375386</hash>
 	</game>
 	
 	<game name="Hack/Super Mario 64/SM64 - Mario Goes Skateboarding 64 (En) (v1.0) (AphidKirby) (Hack)">

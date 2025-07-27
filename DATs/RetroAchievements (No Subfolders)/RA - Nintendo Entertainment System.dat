@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>No Subfolders</category>
-		<version>20250720</version>
-		<date>20 July 2025</date>
+		<version>20250727</version>
+		<date>27 July 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/7/games</url>
@@ -12431,6 +12431,15 @@
 		<rom name="Puyo Puyo (Japan).nes" size="131088" crc="a8857e10" md5="0a2b4e9e85541b0eb09041bb1a0b8d65" sha1="b88ed1c09a97afaa26307888a2b815b3eb6ee69e"/>
 		<url>https://retroachievements.org/game/8541/hashes</url>
 		<hash>f79056d88c1d3d3443d9a12f76da60d9</hash>
+	</game>
+	
+	<game name="Puzslot (Japan)">
+		<category>Retail</category>
+		<description>Puzslot (Japan)</description>
+		<release name="Puzslot (Japan)" region="Japan"/>
+		<rom name="Puzslot (Japan).nes" size="262160" crc="08449023" md5="71a1e83a46701ad26839c35b61fbe8ae" sha1="8d0fcbeadd4524d5f648b88c2bf47506025d466a"/>
+		<url>https://retroachievements.org/game/10403/hashes</url>
+		<hash>04de971fa984af0afa01bb503d53c90e</hash>
 	</game>
 	
 	<game name="Puzznic (USA)">
