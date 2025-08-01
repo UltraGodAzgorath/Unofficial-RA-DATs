@@ -2,8 +2,8 @@
 <!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
 	<header>
-		<name>RA - Sony Playstation 2</name>
-		<description>Sony Playstation 2</description>
+		<name>RA - Sony PlayStation 2</name>
+		<description>Sony PlayStation 2</description>
 		<category>Subfolders</category>
 		<version>20250727</version>
 		<date>27 July 2025</date>
@@ -1664,14 +1664,15 @@
 		<hash>3f945ba987b8443b7287ca641d628f8f</hash>
 	</game>
 	
-	<game name="Retail/Dino Stalker/Dino Stalker (USA)">
+	<game name="Retail/Dino Stalker (USA)">
 		<category></category>
 		<description>Dino Stalker (USA)</description>
 		<rom name="Dino Stalker (USA).iso" size="1558708224" crc="30392784" md5="0222013c4363e14f35362cae9876e95a" sha1="7ffed7fe34d7b0e2d8c867faa2e8b4491b9a5292"/>
 		<url>https://retroachievements.org/game/19032/hashes</url>
 		<hash>2c689b9c9d2d781ef8bf510adae66de5</hash>
 	</game>
-	<game name="Retail/Dino Stalker/Dinosaur Adventure (Europe) (En,Fr,De)">
+	
+	<game name="Retail/Dinosaur Adventure (Europe) (En,Fr,De)">
 		<category></category>
 		<description>Dinosaur Adventure (Europe) (En,Fr,De)</description>
 		<rom name="Dinosaur Adventure (Europe) (En,Fr,De).cue" size="104" crc="2dda738e" md5="de4c1ea7f7b643be90e6d5be4343bb48" sha1="18244fe9a497323366abaaf5381b2fa6a685aa4c"/>
@@ -3970,7 +3971,7 @@
 		<hash>1b17bdb20032b6db6aaaefb02cee37a5</hash>
 	</game>
 	
-	<game name="Retail/Drive to Survive/Drive to Survive (USA)">
+	<game name="Retail/Mashed - Fully Loaded/Drive to Survive (USA)">
 		<category></category>
 		<description>Drive to Survive (USA)</description>
 		<rom name="Drive to Survive (USA).cue" size="88" crc="d71d6d8c" md5="a302b16e6a4010a88fe44dd851f9c93d" sha1="086160e41a1ce64d30e0c927ea51a0b0f91016cc"/>
@@ -3978,7 +3979,7 @@
 		<url>https://retroachievements.org/game/20090/hashes</url>
 		<hash>d7eed39f8c9e9f8241d3d0b538ab3dab</hash>
 	</game>
-	<game name="Retail/Drive to Survive/Mashed - Fully Loaded (Europe) (En,Fr,De,Es,It)">
+	<game name="Retail/Mashed - Fully Loaded/Mashed - Fully Loaded (Europe) (En,Fr,De,Es,It)">
 		<category></category>
 		<description>Mashed - Fully Loaded (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Mashed - Fully Loaded (Europe) (En,Fr,De,Es,It).cue" size="113" crc="578830ff" md5="7dead9ceb76ad8336e2ada21594576ae" sha1="42596a399a635cbf9011fefdd2e40e9a4542d25d"/>
