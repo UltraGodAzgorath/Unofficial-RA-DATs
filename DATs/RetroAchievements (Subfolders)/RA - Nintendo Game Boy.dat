@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>Subfolders</category>
-		<version>20250720</version>
-		<date>20 July 2025</date>
+		<version>20250803</version>
+		<date>03 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/4/games</url>
@@ -211,6 +211,30 @@
 		<hash>7f971beee4aa677f9117800f206cf440</hash>
 	</game>
 	
+	<game name="Hack/SaGa 2 - A Haniwas Contingency (Average) (v1.02) (tehtmi) (Hack)">
+		<category></category>
+		<description>SaGa 2 - A Haniwas Contingency (Average) (v1.02) (tehtmi) (Hack)</description>
+		<rom name="SaGa 2 - A Haniwas Contingency (Average) (v1.02) (tehtmi).gb" size="524288" crc="d45dea39" md5="305b47e934fd8b731f79403e16c13691" sha1="659921b620887eb4ad303a40aed362028c65e04e"/>
+		<url>https://retroachievements.org/game/34094/hashes</url>
+		<hash>305b47e934fd8b731f79403e16c13691</hash>
+	</game>
+	
+	<game name="Subset/SaGa 2 - A Haniwas Contingency (Subset - Insane Mode)">
+		<category></category>
+		<description>SaGa 2 - A Haniwas Contingency (Subset - Insane Mode)</description>
+		<rom name="SaGa 2 - A Haniwas Contingency (Subset - Insane Mode).gb" size="524288" crc="c8274f94" md5="470ba1b4ac04fc2e52f874230c024911" sha1="4becd745e8a0cb1783cc54e26e1978ccd151d552"/>
+		<url>https://retroachievements.org/game/34095/hashes</url>
+		<hash>470ba1b4ac04fc2e52f874230c024911</hash>
+	</game>
+	
+	<game name="Subset/SaGa 2 - A Haniwas Contingency (Subset - Monotype Party)">
+		<category></category>
+		<description>SaGa 2 - A Haniwas Contingency (Subset - Monotype Party)</description>
+		<rom name="SaGa 2 - A Haniwas Contingency (Subset - Monotype Party).gb" size="524288" crc="643f3e9d" md5="a823a2677138ddef0e13eea955a393ce" sha1="baa21c68e8d7397dac4b3ec25cd087191f700547"/>
+		<url>https://retroachievements.org/game/34304/hashes</url>
+		<hash>a823a2677138ddef0e13eea955a393ce</hash>
+	</game>
+	
 	<game name="Hack/Metroid II - Return of Samus/Metroid II - Samus Goes to the Fridge to Get a Glass of Milk II (Hack)">
 		<category></category>
 		<description>Metroid II - Samus Goes to the Fridge to Get a Glass of Milk II (Hack)</description>
@@ -375,6 +399,14 @@
 		<rom name="204863 - A P.T. Silent Hills Demake (World) (GB Studio) (Jonshaw01) (Aftermarket).gb" size="524288" crc="62fcad3e" md5="28d77a7797b018be49c31f139912aba8" sha1="83fe12e34eb4a11a537c62c33c4cd863404a8c47"/>
 		<url>https://retroachievements.org/game/33578/hashes</url>
 		<hash>28d77a7797b018be49c31f139912aba8</hash>
+	</game>
+	
+	<game name="Homebrew/Adulting! (World) (v2.0) (Aftermarket)">
+		<category></category>
+		<description>Adulting! (World) (v2.0) (Aftermarket)</description>
+		<rom name="Adulting! (World) (v2.0) (Aftermarket).gb" size="524288" crc="e56d1244" md5="95a0f644d8778b1c934ac5ae8791d80f" sha1="d107bd8bf32d0d94a988466885fe1a44aae32c9a"/>
+		<url>https://retroachievements.org/game/12300/hashes</url>
+		<hash>95a0f644d8778b1c934ac5ae8791d80f</hash>
 	</game>
 	
 	<game name="Homebrew/Among Us (World) (GBComp2021) (Aftermarket)">
@@ -4203,10 +4235,10 @@
 		<url>https://retroachievements.org/game/2495/hashes</url>
 		<hash>3c268409bf6869a8707839a7dd1ee1c7</hash>
 	</game>
-	<game name="Retail/Spanky's Quest DX (World) (marc max) (v1.0)">
+	<game name="Retail/Spanky's Quest (DX Version) (World) (marc max) (v1.0)">
 		<category></category>
-		<description>Spanky's Quest DX (World) (marc max) (v1.0)</description>
-		<rom name="Spanky's Quest DX (World) (marc max) (v1.0).gb" size="131072" crc="1dc30141" md5="694b6d16d8010d179c92b69b2898cc16" sha1="e59c8258404fe2ac9473de9794a20b4637bd6ff8"/>
+		<description>Spanky's Quest (DX Version) (World) (marc max) (v1.0)</description>
+		<rom name="Spanky's Quest (DX Version) (World) (marc max) (v1.0).gb" size="131072" crc="1dc30141" md5="694b6d16d8010d179c92b69b2898cc16" sha1="e59c8258404fe2ac9473de9794a20b4637bd6ff8"/>
 		<url>https://retroachievements.org/game/2495/hashes</url>
 		<hash>694b6d16d8010d179c92b69b2898cc16</hash>
 	</game>

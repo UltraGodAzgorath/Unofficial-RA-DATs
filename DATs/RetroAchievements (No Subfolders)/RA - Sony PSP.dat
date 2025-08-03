@@ -5,8 +5,8 @@
 		<name>RA - Sony PSP</name>
 		<description>Sony PSP</description>
 		<category>No Subfolders</category>
-		<version>20250720</version>
-		<date>20 July 2025</date>
+		<version>20250803</version>
+		<date>03 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/41/games</url>
@@ -139,6 +139,16 @@
 		<url>https://retroachievements.org/game/14205/hashes</url>
 		<hash>9b3210dcc50cd879496b0b89d5af1fc8</hash>
 		<legacyhash>3a73b7ac17a05d613a69652e93808647</legacyhash>
+	</game>
+	
+	<game name="Air (Japan) (v1.02) (En) (v0.9) (patr0805)">
+		<category>Retail</category>
+		<description>Air (Japan) (v1.02) (En) (v0.9) (patr0805)</description>
+		<release name="Air (Japan) (v1.02) (En) (v0.9) (patr0805)" region="English"/>
+		<rom name="Air (Japan) (v1.02) (En) (v0.9) (patr0805).iso" size="1589899264" crc="6cbe90b4" md5="a01ee8125107c4939abcae37da8d7d3d" sha1="e7adc76ef045eaf2d4ec897013b0aa7ea0527022"/>
+		<url>https://retroachievements.org/game/24936/hashes</url>
+		<hash>5049dd74998b16d055e214d56894d15a</hash>
+		<legacyhash>d3096de07208e99c1b7a32691cddf707</legacyhash>
 	</game>
 	
 	<game name="AKB1-149 - Ren'ai Sousenkyo (Japan) (Game Disc)">
@@ -1807,6 +1817,24 @@
 		<url>https://retroachievements.org/game/30704/hashes</url>
 		<hash>eed8bd36c5179ba73c302d203a84eed0</hash>
 		<legacyhash>d2d3c1ea8c2524d15e4732da466332a2</legacyhash>
+	</game>
+	
+	<game name="Kurohyou - Ryuu ga Gotoku Shinshou (Japan, Asia) (En) (v1.2) (Teak K4L)" cloneof="Kurohyou - Ryu ga Gotoku Shinshou (Japan, Asia)">
+		<category>Retail</category>
+		<description>Kurohyou - Ryuu ga Gotoku Shinshou (Japan, Asia) (En) (v1.2) (Teak K4L)</description>
+		<release name="Kurohyou - Ryuu ga Gotoku Shinshou (Japan, Asia) (En) (v1.2) (Teak K4L)" region="English"/>
+		<rom name="Kurohyou - Ryuu ga Gotoku Shinshou (Japan, Asia) (En) (v1.2) (Teak K4L).iso" size="1238171648" crc="5da1afc2" md5="7bbaa6d23d31c5554cf5349eba50c7c5" sha1="e9af145e16fc25a9223f911844fe05026a2029a8"/>
+		<url>https://retroachievements.org/game/18382/hashes</url>
+		<hash>20c702154dcb15a842e78b99741a108e</hash>
+	</game>
+	<game name="Kurohyou - Ryu ga Gotoku Shinshou (Japan, Asia)">
+		<category>Retail</category>
+		<description>Kurohyou - Ryu ga Gotoku Shinshou (Japan, Asia)</description>
+		<release name="Kurohyou - Ryu ga Gotoku Shinshou (Japan, Asia)" region="Asia"/>
+		<release name="Kurohyou - Ryu ga Gotoku Shinshou (Japan, Asia)" region="Japan"/>
+		<rom name="Kurohyou - Ryu ga Gotoku Shinshou (Japan, Asia).iso" size="1238171648" crc="5da1afc2" md5="7bbaa6d23d31c5554cf5349eba50c7c5" sha1="e9af145e16fc25a9223f911844fe05026a2029a8"/>
+		<url>https://retroachievements.org/game/18382/hashes</url>
+		<hash>daefec9d78ae2851035654f10b3f8764</hash>
 	</game>
 	
 	<game name="LEGO Batman - The Videogame (Europe) (En,Fr,De,Es,It,Da)">

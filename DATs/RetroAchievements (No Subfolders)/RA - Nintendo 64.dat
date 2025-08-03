@@ -5,8 +5,8 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>No Subfolders</category>
-		<version>20250727</version>
-		<date>27 July 2025</date>
+		<version>20250803</version>
+		<date>03 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/2/games</url>
@@ -3191,6 +3191,23 @@
 		<rom name="SM64 - Super Mario and the Grand Star (v1.2) (Grand Star) (Hack).z64" size="67108864" crc="6d130be8" md5="0e2f4871350ce43a452f58ec795cbfdd" sha1="2c1d177358df5632d9ae17a2edd86fec51c5ac28"/>
 		<url>https://retroachievements.org/game/17736/hashes</url>
 		<hash>0e2f4871350ce43a452f58ec795cbfdd</hash>
+	</game>
+	
+	<game name="SM64 - Super Mario 64 and the Koopa Power (v1.0.2) (VenusFeuerFalle) (Hack)" cloneof="SM64 - Super Mario 64 and the Koopa Power (v1.1.2) (VenusFeuerFalle, LinCrash) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - Super Mario 64 and the Koopa Power (v1.0.2) (VenusFeuerFalle) (Hack)</description>
+		<release name="SM64 - Super Mario 64 and the Koopa Power (v1.0.2) (VenusFeuerFalle) (Hack)" region="World"/>
+		<rom name="SM64 - Super Mario 64 and the Koopa Power (v1.0.2) (VenusFeuerFalle) (Hack).z64" size="67108864" crc="779afc47" md5="87bb642d39484f8ff94617b8760b4187" sha1="e1a2e7d97046a63336ec5e3d7f1f4cb925c514f4"/>
+		<url>https://retroachievements.org/game/34314/hashes</url>
+		<hash>87bb642d39484f8ff94617b8760b4187</hash>
+	</game>
+	<game name="SM64 - Super Mario 64 and the Koopa Power (v1.1.2) (VenusFeuerFalle, LinCrash) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - Super Mario 64 and the Koopa Power (v1.1.2) (VenusFeuerFalle, LinCrash) (Hack)</description>
+		<release name="SM64 - Super Mario 64 and the Koopa Power (v1.1.2) (VenusFeuerFalle, LinCrash) (Hack)" region="World"/>
+		<rom name="SM64 - Super Mario 64 and the Koopa Power (v1.1.2) (VenusFeuerFalle, LinCrash) (Hack).z64" size="67108864" crc="997a1350" md5="530aa09c6fcea4f2b5d29578f4a64933" sha1="8dc613aa9da838ac9e13e66da6425dbe8100a05d"/>
+		<url>https://retroachievements.org/game/34314/hashes</url>
+		<hash>530aa09c6fcea4f2b5d29578f4a64933</hash>
 	</game>
 	
 	<game name="SM64 - Super Mario and the Marvel Adventure (v1.1) (Kampel125) (Hack)">

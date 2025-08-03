@@ -5,8 +5,8 @@
 		<name>RA - SNK Neo Geo CD</name>
 		<description>SNK Neo Geo CD</description>
 		<category>Subfolders</category>
-		<version>20250706</version>
-		<date>06 July 2025</date>
+		<version>20250803</version>
+		<date>03 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/56/games</url>
@@ -501,6 +501,16 @@
 		<hash>cb4d84873734317306f930a638536529</hash>
 	</game>
 	
+	<game name="Retail/League Bowling (Japan) (En,Ja)">
+		<category></category>
+		<description>League Bowling (Japan) (En,Ja)</description>
+		<rom name="League Bowling (Japan) (En,Ja).cue" size="260" crc="db20dec8" md5="959861ecf4beb66482298fd805f792df" sha1="3fa7db11984959f36d4da0e9cd168e2c7177cb05"/>
+		<rom name="League Bowling (Japan) (En,Ja) (Track 1).bin" size="4708704" crc="35567800" md5="99641994c11cd979384227ae009de8ce" sha1="5a5a980b6bd61037910b5df2d84d2c0d82e04659"/>
+		<rom name="League Bowling (Japan) (En,Ja) (Track 2).bin" size="5282592" crc="706beef8" md5="9987439f644291dc72bd2c7df7f08497" sha1="fe3d1b99c60d62593145bd6a61579f7178b8f0ca"/>
+		<url>https://retroachievements.org/game/9106/hashes</url>
+		<hash>3cc087e4318fff8aed8345449bfe760b</hash>
+	</game>
+	
 	<game name="Retail/Magician Lord (Japan) (En,Ja)">
 		<category></category>
 		<description>Magician Lord (Japan) (En,Ja)</description>
@@ -644,6 +654,43 @@
 		<rom name="Mutation Nation (Subset - Multi) (Track 25).bin" size="3010560" crc="3dc4f646" md5="4f5e024a8209073a0fcfa8505b0d039a" sha1="489e6eb5f5a87ac500bf0c6020bbf694bafd4ae3"/>
 		<url>https://retroachievements.org/game/26990/hashes</url>
 		<hash>293fc12273f61e9681ccaece7d56a814</hash>
+	</game>
+	
+	<game name="Retail/Nam-1975 (Japan) (En,Ja)">
+		<category></category>
+		<description>Nam-1975 (Japan) (En,Ja)</description>
+		<rom name="Nam-1975 (Japan) (En,Ja).cue" size="3247" crc="91754a99" md5="326b24421b72456f662f507ad26ab5b9" sha1="16799925e52c23294a06d9aedf14d77b49ce561a"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 01).bin" size="8822352" crc="4c4c7529" md5="06a79b9a920d50098fc217017d6a2aae" sha1="3dc58e5a8e8e54edd2a1bded8c883652d464c099"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 02).bin" size="5851776" crc="c4d3b83b" md5="d83f43f7c42282f943c91004a64ce4e9" sha1="59f186724c911ac3ec008655ebf11e236510949b"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 03).bin" size="5336688" crc="ac2a8e5b" md5="8b491d7efe0e27e96f426105b697bfba" sha1="b0232fba6f707992fa0ae6663f77d0d9bd9e8779"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 04).bin" size="51595824" crc="0d19d897" md5="3c1d853ddf8e8433eedea5b2f3411de4" sha1="015c8a45778fa6e30b4947aa9c5ab9b678fc6d05"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 05).bin" size="3941952" crc="28a730df" md5="96490f83106f2458386474cc723162aa" sha1="1a6b9359508a7aa9ce55a4068287ca11cfbf9930"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 06).bin" size="37559088" crc="e1dbf46e" md5="fd48819c1cf109fcb039b2d42f5967c5" sha1="f8b96e002d0d458b2b1af6e1590d22e9d6cd5e21"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 07).bin" size="4424112" crc="01c770d0" md5="fa7ac16519db961b1124808379125589" sha1="5b77d8dfe83f20569ad4c08f99b7787f16bb5a59"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 08).bin" size="3196368" crc="a4626a81" md5="c8908cc341d0138d87c85cb1b2bdbf14" sha1="8c2a11d7f1acbbb7e7215edead5f0c1deeeea7de"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 09).bin" size="3560928" crc="de7b77e2" md5="34e829ee3dc3c431c01096f3287c412b" sha1="bf967d9508f757dae82d5faee2311b1386545bc5"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 10).bin" size="5498976" crc="0942d4bc" md5="1d81fc2432fdf7c78d9e0c7e052d2403" sha1="14beaf3648081a4d0ea727d8b10b2664ee9a5c2a"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 11).bin" size="5315520" crc="cd8adf33" md5="22817f110aecec48c0f30cd707c949e2" sha1="ae755e73bff11c3668fea2b1095ab34388af7bb1"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 12).bin" size="46945920" crc="71b77f02" md5="ca2b29799f282c258a5c45b562d24b0d" sha1="d2bdf90e6639369c1a14e73d43070d2afcdc1a95"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 13).bin" size="3589152" crc="86b843a1" md5="cbc4026a5c434cc55eba30dc79f9d336" sha1="3ce895d3d84a1dedf1acc94308b89348c0a12e0b"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 14).bin" size="49163856" crc="867c56f2" md5="ff551c3fbe3e8057480bc5a3cd9b3400" sha1="b153e5ce7e3cb47efdf20accd9f39a7c5493bd39"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 15).bin" size="24820656" crc="abf73d39" md5="ea5240330d07a37396aefbaee4ea7c15" sha1="2ab96c55366e718764f40f9718d1789c9d1e999d"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 16).bin" size="41167056" crc="88ab00f9" md5="471c41841c7e4fa3ca6f1e59259e96ba" sha1="74b4f2e0b63a7427600638fc1f0a94d5bb580ad7"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 17).bin" size="25874352" crc="b5dbec71" md5="119643ecced860b376261308e9614618" sha1="a21117c7b87aebe3c17ef3068dba901d6dcd65ed"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 18).bin" size="40336800" crc="a1eab305" md5="f7ead47076cb96400dbc34924e5eafa9" sha1="0419cdf1f8a7453abc126e0ea3d5861ceaf2d28e"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 19).bin" size="4922736" crc="d7ae9726" md5="c590a3f6af0b5b8af93ba530556b4bc3" sha1="8f59c53033d1e2a3b0a89b320c09f48c683f3882"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 20).bin" size="4125408" crc="f8a5cc4b" md5="c1329156faf646407606a0066408e91e" sha1="86ed0400d5f5304ade3a631cc4c82140d2f3b8af"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 21).bin" size="3175200" crc="8a0839b7" md5="6740d2ac2a2be195482c40e2978d5c00" sha1="c23c2f9eac52270acb9d25bcfb1a321a86ff7653"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 22).bin" size="39537120" crc="05bdd685" md5="f8a759d0ab17e65414d867d1aafc869d" sha1="d4a1ce056621776568422bb3a95a7f8bb3d42d14"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 23).bin" size="34960128" crc="55339eba" md5="2529e0f9f8666fab8a8a76d9388ed996" sha1="93e576b109ed5938420fd210895da6771d0dc80e"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 24).bin" size="6275136" crc="e3b7d8a6" md5="6a12e8947eaf5ac7043c313a6e9535c5" sha1="8a28e38ccf8340a6021ec845b86d9ce2eca311b7"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 25).bin" size="11012064" crc="58ee6bdb" md5="507b1a38b8bc8b79d830c7989118cfd2" sha1="b036ace5f6e63ccf378d8e47705db89c780b7e96"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 26).bin" size="2201472" crc="eea8cbf9" md5="217ff41069c3a10d96c714f4754ef942" sha1="8275cab0b9c8ea0263c0af8764123774a7454f98"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 27).bin" size="12362112" crc="cd95029d" md5="940570ef1f5a20889ba5cd73fd1bc11a" sha1="924636f9e5831f20ab0fd8c5a6c30a5d89e41d43"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 28).bin" size="2236752" crc="b70be943" md5="85506a857e3c5aa6310b0bc32a02c9b0" sha1="d5776813f3b1cc8aae4d1cecfd043d5be5aa5e43"/>
+		<rom name="Nam-1975 (Japan) (En,Ja) (Track 29).bin" size="34943664" crc="a860655f" md5="58b3004420aecd970f417f5146b8db3e" sha1="6a4d95e74feb9ccbaf7d25cb2dc90aad3d340cf8"/>
+		<url>https://retroachievements.org/game/9141/hashes</url>
+		<hash>bd7fd18a24c392d25d712a3ae6ed98a2</hash>
 	</game>
 	
 	<game name="Retail/Neo Drift Out - New Technology (Japan)">

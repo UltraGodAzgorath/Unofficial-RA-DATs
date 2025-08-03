@@ -5,8 +5,8 @@
 		<name>RA - Atari 2600</name>
 		<description>Atari 2600</description>
 		<category>No Subfolders</category>
-		<version>20250720</version>
-		<date>20 July 2025</date>
+		<version>20250803</version>
+		<date>03 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/25/games</url>
@@ -1705,6 +1705,15 @@
 		<rom name="Texas Chainsaw Massacre, The (USA).a26" size="4096" crc="ec389caa" md5="5eeb81292992e057b290a5cd196f155d" sha1="717122a4184bc8db41e65ab7c369c40b21c048d9"/>
 		<url>https://retroachievements.org/game/13093/hashes</url>
 		<hash>5EEB81292992E057B290A5CD196F155D</hash>
+	</game>
+	
+	<game name="Tooth Protectors (USA)">
+		<category>Retail</category>
+		<description>Tooth Protectors (USA)</description>
+		<release name="Tooth Protectors (USA)" region="USA"/>
+		<rom name="Tooth Protectors (USA).a26" size="8192" crc="fd8c81e5" md5="fa2be8125c3c60ab83e1c0fe56922fcb" sha1="d82ac7237df54cc8688e3074b58433a7dd6b7d11"/>
+		<url>https://retroachievements.org/game/13318/hashes</url>
+		<hash>fa2be8125c3c60ab83e1c0fe56922fcb</hash>
 	</game>
 	
 	<game name="Towering Inferno (USA)">

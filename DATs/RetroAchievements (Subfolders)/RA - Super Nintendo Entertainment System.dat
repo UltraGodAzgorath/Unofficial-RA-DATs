@@ -5,8 +5,8 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20250727</version>
-		<date>27 July 2025</date>
+		<version>20250803</version>
+		<date>03 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/3/games</url>
@@ -556,21 +556,6 @@
 		<hash>fc5de414db9a5e712d74402a763016eb</hash>
 	</game>
 	
-	<game name="Hack/Donkey Kong Country/DKC2 - Brigand Barrage (v1.4) (Mattrizzle) (Hack)">
-		<category>Super Nintendo</category>
-		<description>DKC2 - Brigand Barrage (v1.4) (Mattrizzle) (Hack)</description>
-		<rom name="DKC2 - Brigand Barrage (v1.4) (Mattrizzle) (Hack).sfc" size="4194304" crc="76422452" md5="47bc16428dac534fa9729f97b2e9b5a9" sha1="75359e9f5470323dbfbdde68c52a69915e74c772"/>
-		<url>https://retroachievements.org/game/7873/hashes</url>
-		<hash>47bc16428dac534fa9729f97b2e9b5a9</hash>
-	</game>
-	<game name="Hack/Donkey Kong Country/DKC - Boss Blitz (v1.5) (Mattrizzle) (Hack)">
-		<category>Super Nintendo</category>
-		<description>DKC - Boss Blitz (v1.5) (Mattrizzle) (Hack)</description>
-		<rom name="DKC - Boss Blitz (v1.5) (Mattrizzle) (Hack).sfc" size="4194304" crc="9f4bcb18" md5="a4a3e8f035c6b0feb2eb42cc59512ffe" sha1="71735b562946e586feb70b121a072fd649ecd9e5"/>
-		<url>https://retroachievements.org/game/7873/hashes</url>
-		<hash>a4a3e8f035c6b0feb2eb42cc59512ffe</hash>
-	</game>
-	
 	<game name="Hack/Donkey Kong Country 2/DKC2 Unveiled (Pt-Br) (v8.1.2) (emptysys) (Hack)">
 		<category>Super Nintendo</category>
 		<description>DKC2 Unveiled (Pt-Br) (v8.1.2) (emptysys) (Hack)</description>
@@ -608,6 +593,21 @@
 		<rom name="DKC - DKC Mania (V2.0) (Hankhill89) (Hack).sfc" size="4194304" crc="6c0a0cb2" md5="4a8de110dbfb1da24b029684266f7926" sha1="3a0bbd23138adf5c2d0e0466a36f0786d277c861"/>
 		<url>https://retroachievements.org/game/18328/hashes</url>
 		<hash>4a8de110dbfb1da24b029684266f7926</hash>
+	</game>
+	
+	<game name="Hack/Donkey Kong Country/DKC2 - Brigand Barrage (v1.4) (Mattrizzle) (Hack)">
+		<category>Super Nintendo</category>
+		<description>DKC2 - Brigand Barrage (v1.4) (Mattrizzle) (Hack)</description>
+		<rom name="DKC2 - Brigand Barrage (v1.4) (Mattrizzle) (Hack).sfc" size="4194304" crc="76422452" md5="47bc16428dac534fa9729f97b2e9b5a9" sha1="75359e9f5470323dbfbdde68c52a69915e74c772"/>
+		<url>https://retroachievements.org/game/7873/hashes</url>
+		<hash>47bc16428dac534fa9729f97b2e9b5a9</hash>
+	</game>
+	<game name="Hack/Donkey Kong Country/DKC - Boss Blitz (v1.5) (Mattrizzle) (Hack)">
+		<category>Super Nintendo</category>
+		<description>DKC - Boss Blitz (v1.5) (Mattrizzle) (Hack)</description>
+		<rom name="DKC - Boss Blitz (v1.5) (Mattrizzle) (Hack).sfc" size="4194304" crc="9f4bcb18" md5="a4a3e8f035c6b0feb2eb42cc59512ffe" sha1="71735b562946e586feb70b121a072fd649ecd9e5"/>
+		<url>https://retroachievements.org/game/7873/hashes</url>
+		<hash>a4a3e8f035c6b0feb2eb42cc59512ffe</hash>
 	</game>
 	
 	<game name="Hack/Donkey Kong Country/DKC - Competition Cartridge (USA) (10-Minute) (Hack)">
@@ -1004,6 +1004,14 @@
 		<rom name="FFVI - Brave New World (v2.1) (Subset - Berserker New World) (Hack).sfc" size="3145728" crc="70791fdb" md5="ce006dc33ab3a46dab652483e8ce4c61" sha1="f0078166e5a17f8e8ad0ba002125d1577164f4af"/>
 		<url>https://retroachievements.org/game/30061/hashes</url>
 		<hash>ce006dc33ab3a46dab652483e8ce4c61</hash>
+	</game>
+	
+	<game name="Hack/Final Fantasy VI/FFVI - Brave New World Final Frontier (v2.1.9) (thzfunnymzn) (Hack)">
+		<category>Super Nintendo</category>
+		<description>FFVI - Brave New World Final Frontier (v2.1.9) (thzfunnymzn) (Hack)</description>
+		<rom name="FFVI - Brave New World Final Frontier (v2.1.9) (thzfunnymzn) (Hack).sfc" size="3145728" crc="ec0e91fa" md5="4c6d638890ebb8abceeb4ab6ef44347d" sha1="168a7e940f6bc7c7310ba68b490eac6851a89339"/>
+		<url>https://retroachievements.org/game/34093/hashes</url>
+		<hash>4c6d638890ebb8abceeb4ab6ef44347d</hash>
 	</game>
 	
 	<game name="Hack/Final Fantasy VI/FFVI - Divergent Paths (v1.4) (PowerPanda) (Hack)">
@@ -1733,6 +1741,14 @@
 		<rom name="SMW - Mario is Missing! Done Right (Gamma V) (Hack).sfc" size="4194304" crc="db417905" md5="292aff880b144a0c48e9952a5e684fa9" sha1="95d3b63f931b5d9bcb1025e1c00ed372743b7d6b"/>
 		<url>https://retroachievements.org/game/17046/hashes</url>
 		<hash>292aff880b144a0c48e9952a5e684fa9</hash>
+	</game>
+	
+	<game name="Hack/Super Mario World/SMW - Mario Left the Garage Door Open Again (v1.1.1) (Lizstar) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - Mario Left the Garage Door Open Again (v1.1.1) (Lizstar) (Hack)</description>
+		<rom name="SMW - Mario Left the Garage Door Open Again (v1.1.1) (Lizstar) (Hack).sfc" size="2097152" crc="68a2ed7f" md5="78641c3db6305a2e81c4edc154703846" sha1="6c5f96b34272ab85c0e60b1a5c9c833c5c5ded03"/>
+		<url>https://retroachievements.org/game/31359/hashes</url>
+		<hash>78641c3db6305a2e81c4edc154703846</hash>
 	</game>
 	
 	<game name="Hack/Super Mario World/SMW - Mario Mania (Sonic) (v1.1) (BlooberryPi) (Hack)">
@@ -7088,28 +7104,6 @@
 		<hash>36d4aba59259dab4144afa655e44cf25</hash>
 	</game>
 	
-	<game name="Retail/Fire Emblem - Seisen no Keifu (Japan) (En) (b7) (bookofholsety)">
-		<category>Super Famicom</category>
-		<description>Fire Emblem - Seisen no Keifu (Japan) (En) (b7) (bookofholsety)</description>
-		<rom name="Fire Emblem - Seisen no Keifu (Japan) (En) (b7) (bookofholsety).sfc" size="8388608" crc="0939af26" md5="442ecd86dac68b30ffb0e892aae2ed8f" sha1="2b6eb74646a527ba293b0e004db3e0134a28dc6c"/>
-		<url>https://retroachievements.org/game/2878/hashes</url>
-		<hash>442ecd86dac68b30ffb0e892aae2ed8f</hash>
-	</game>
-	<game name="Retail/Fire Emblem - Seisen no Keifu (Japan) (En) (v0.87d) (DarkTwilkitriNet)">
-		<category>Super Famicom</category>
-		<description>Fire Emblem - Seisen no Keifu (Japan) (En) (v0.87d) (DarkTwilkitriNet)</description>
-		<rom name="Fire Emblem - Seisen no Keifu (Japan) (En) (v0.87d) (DarkTwilkitriNet).sfc" size="4194304" crc="653e31fc" md5="c5d54f9a75826df2ee41830301227155" sha1="022dd8c7b6c30d5d3171166229fc0436262f7ae0"/>
-		<url>https://retroachievements.org/game/2878/hashes</url>
-		<hash>c5d54f9a75826df2ee41830301227155</hash>
-	</game>
-	<game name="Retail/Fire Emblem - Seisen no Keifu (Japan)">
-		<category>Super Famicom</category>
-		<description>Fire Emblem - Seisen no Keifu (Japan)</description>
-		<rom name="Fire Emblem - Seisen no Keifu (Japan).sfc" size="4194304" crc="dc0d8cf9" md5="d044f97be5fc00bd5e02c935f7e88058" sha1="90f0bdeaf0151899f96281258fcb30899fbd0d44"/>
-		<url>https://retroachievements.org/game/2878/hashes</url>
-		<hash>d044f97be5fc00bd5e02c935f7e88058</hash>
-	</game>
-	
 	<game name="Retail/Fire Emblem - Monshou no Nazo (Japan) (Rev 1)">
 		<category>Super Famicom</category>
 		<description>Fire Emblem - Monshou no Nazo (Japan) (Rev 1)</description>
@@ -7137,6 +7131,28 @@
 		<rom name="Fire Emblem - Mystery of the Emblem (Japan) (En) (Addendum) (v0.21) (RobertTheSable).sfc" size="4194304" crc="0d2ff282" md5="eb2c31971709221382590caa278f6052" sha1="c0200c357fed3e8b32a4a6a84decc99722f853f7"/>
 		<url>https://retroachievements.org/game/6388/hashes</url>
 		<hash>eb2c31971709221382590caa278f6052</hash>
+	</game>
+	
+	<game name="Retail/Fire Emblem - Seisen no Keifu (Japan) (En) (b7) (bookofholsety)">
+		<category>Super Famicom</category>
+		<description>Fire Emblem - Seisen no Keifu (Japan) (En) (b7) (bookofholsety)</description>
+		<rom name="Fire Emblem - Seisen no Keifu (Japan) (En) (b7) (bookofholsety).sfc" size="8388608" crc="0939af26" md5="442ecd86dac68b30ffb0e892aae2ed8f" sha1="2b6eb74646a527ba293b0e004db3e0134a28dc6c"/>
+		<url>https://retroachievements.org/game/2878/hashes</url>
+		<hash>442ecd86dac68b30ffb0e892aae2ed8f</hash>
+	</game>
+	<game name="Retail/Fire Emblem - Seisen no Keifu (Japan) (En) (v0.87d) (DarkTwilkitriNet)">
+		<category>Super Famicom</category>
+		<description>Fire Emblem - Seisen no Keifu (Japan) (En) (v0.87d) (DarkTwilkitriNet)</description>
+		<rom name="Fire Emblem - Seisen no Keifu (Japan) (En) (v0.87d) (DarkTwilkitriNet).sfc" size="4194304" crc="653e31fc" md5="c5d54f9a75826df2ee41830301227155" sha1="022dd8c7b6c30d5d3171166229fc0436262f7ae0"/>
+		<url>https://retroachievements.org/game/2878/hashes</url>
+		<hash>c5d54f9a75826df2ee41830301227155</hash>
+	</game>
+	<game name="Retail/Fire Emblem - Seisen no Keifu (Japan)">
+		<category>Super Famicom</category>
+		<description>Fire Emblem - Seisen no Keifu (Japan)</description>
+		<rom name="Fire Emblem - Seisen no Keifu (Japan).sfc" size="4194304" crc="dc0d8cf9" md5="d044f97be5fc00bd5e02c935f7e88058" sha1="90f0bdeaf0151899f96281258fcb30899fbd0d44"/>
+		<url>https://retroachievements.org/game/2878/hashes</url>
+		<hash>d044f97be5fc00bd5e02c935f7e88058</hash>
 	</game>
 	
 	<game name="Retail/Fire Emblem - Thracia 776 (Japan) (En) (LilManster) (v1.08) (Project Exile)">
@@ -11065,6 +11081,28 @@
 		<rom name="Shin Megami Tensei II (Japan) (En) (v1.0) (AGTP) (QoL) (v1.09) (Orden).sfc" size="2621440" crc="76990875" md5="fbac878466d4690acfd678c5fe202cb4" sha1="14757efa1431818acae4769604a94b7eb836c2e7"/>
 		<url>https://retroachievements.org/game/3496/hashes</url>
 		<hash>fbac878466d4690acfd678c5fe202cb4</hash>
+	</game>
+	
+	<game name="Retail/Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) (Ru) (Shedevr)">
+		<category>Super Famicom</category>
+		<description>Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) (Ru) (Shedevr)</description>
+		<rom name="Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) (Ru) (Shedevr).sfc" size="2097152" crc="3d9db00a" md5="55dca6402fc0574da700ec36a823551b" sha1="ef15f63aa0cda098938dd884e0c7707417056127"/>
+		<url>https://retroachievements.org/game/2423/hashes</url>
+		<hash>55dca6402fc0574da700ec36a823551b</hash>
+	</game>
+	<game name="Retail/Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan)">
+		<category>Super Famicom</category>
+		<description>Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan)</description>
+		<rom name="Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan).sfc" size="2097152" crc="31be696c" md5="73754658aae9024f23570b494ee86f01" sha1="5522830fec471f2e7b6456da426f198f8282af64"/>
+		<url>https://retroachievements.org/game/2423/hashes</url>
+		<hash>73754658aae9024f23570b494ee86f01</hash>
+	</game>
+	<game name="Retail/Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) (En) (v1.0) (AGTP)">
+		<category>Super Famicom</category>
+		<description>Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) (En) (v1.0) (AGTP)</description>
+		<rom name="Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) (En) (v1.0) (AGTP).sfc" size="2097152" crc="6c4d68c8" md5="fa61d22a6ecfbc59369726807c4be474" sha1="7856d9a20db2b5f233938a4fbdf07df84cba88a7"/>
+		<url>https://retroachievements.org/game/2423/hashes</url>
+		<hash>fa61d22a6ecfbc59369726807c4be474</hash>
 	</game>
 	
 	<game name="Retail/Sid Meier's Civilization (USA)">

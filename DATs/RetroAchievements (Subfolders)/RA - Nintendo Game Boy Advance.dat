@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>Subfolders</category>
-		<version>20250727</version>
-		<date>27 July 2025</date>
+		<version>20250803</version>
+		<date>03 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -3613,6 +3613,14 @@
 		<hash>d8d8a330e5471faef5b527b18aa24ad2</hash>
 	</game>
 	
+	<game name="Retail/Gauntlet - Dark Legacy (USA)">
+		<category></category>
+		<description>Gauntlet - Dark Legacy (USA)</description>
+		<rom name="Gauntlet - Dark Legacy (USA).gba" size="8388608" crc="e99de964" md5="2c6411d76d5438da19f193b630da1c63" sha1="3ea608f4ea2235886fa1d7256f6a9ae88c2c0e28"/>
+		<url>https://retroachievements.org/game/6194/hashes</url>
+		<hash>2c6411d76d5438da19f193b630da1c63</hash>
+	</game>
+	
 	<game name="Retail/Gekido Advance - Kintaro's Revenge (Europe) (En,Fr,De,Es,It)">
 		<category></category>
 		<description>Gekido Advance - Kintaro's Revenge (Europe) (En,Fr,De,Es,It)</description>
@@ -6608,6 +6616,13 @@
 		<rom name="Shrek - Hassle at the Castle (USA) (En,Fr,De,Es,It,Nl).gba" size="4194304" crc="09e7472c" md5="f986d79271e685679f0b5ecb673e9dea" sha1="afeb14671fad093fec0b3ab0e95e01a01de9f4d8"/>
 		<url>https://retroachievements.org/game/2161/hashes</url>
 		<hash>f986d79271e685679f0b5ecb673e9dea</hash>
+	</game>
+	<game name="Retail/Shrek - Hassle at the Castle (USA) (Ru) (v1.0) (MagicGame)">
+		<category></category>
+		<description>Shrek - Hassle at the Castle (USA) (Ru) (v1.0) (MagicGame)</description>
+		<rom name="Shrek - Hassle at the Castle (USA) (Ru) (v1.0) (MagicGame).gba" size="4194304" crc="fe1c6f48" md5="55515ba21dab2c4a3ff72a6e81a68f26" sha1="df03668a3f18e7f77fb18c5b8620a4cba4b06734"/>
+		<url>https://retroachievements.org/game/2161/hashes</url>
+		<hash>55515ba21dab2c4a3ff72a6e81a68f26</hash>
 	</game>
 	
 	<game name="Retail/Shrek - Swamp Kart Speedway (USA, Europe) (En,Fr,De,Es,It,Nl)">

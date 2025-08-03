@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>No Subfolders</category>
-		<version>20250727</version>
-		<date>27 July 2025</date>
+		<version>20250803</version>
+		<date>03 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
@@ -4510,6 +4510,15 @@
 		<hash>89f431748ac9c1328106c676adc6d085</hash>
 	</game>
 	
+	<game name="Pokemon - Mystery Dungeon - Blue Rescue Team (Subset - Bonus)">
+		<category>Retail</category>
+		<description>Pokemon - Mystery Dungeon - Blue Rescue Team (Subset - Bonus)</description>
+		<release name="Pokemon - Mystery Dungeon - Blue Rescue Team (Subset - Bonus)" region="Europe"/>
+		<rom name="Pokemon - Mystery Dungeon - Blue Rescue Team (Subset - Bonus).nds" size="33554432" crc="03097324" md5="3850fd37c45770fafb64d30c271a4b6a" sha1="06034397ee5d7d12fc6d79a59e04687f13d1e543"/>
+		<url>https://retroachievements.org/game/34053/hashes</url>
+		<hash>85da406377515bba6c7e2b70b3e6ffc0</hash>
+	</game>
+	
 	<game name="Pokemon - Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<description>Pokemon - Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It)</description>
@@ -5846,6 +5855,15 @@
 		<rom name="Super Scribblenauts (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="58abb811" md5="36c55649a8e13444c3584cd0f5c66d6a" sha1="8a4f7ce18cd450a745a8475f10d5a0005c0880af"/>
 		<url>https://retroachievements.org/game/16383/hashes</url>
 		<hash>8f933e7029442b0cf6f8ff291f06a06b</hash>
+	</game>
+	
+	<game name="Sushi Go-Round (USA) (En,Fr,De,Es,It) (NDSi Enhanced)">
+		<category>Retail</category>
+		<description>Sushi Go-Round (USA) (En,Fr,De,Es,It) (NDSi Enhanced)</description>
+		<release name="Sushi Go-Round (USA) (En,Fr,De,Es,It) (NDSi Enhanced)" region="USA"/>
+		<rom name="Sushi Go-Round (USA) (En,Fr,De,Es,It) (NDSi Enhanced).nds" size="33554432" crc="78ee391b" md5="30e36047f65bab14aa79275231fbbe0e" sha1="cfad4c25289769e5b079fa25020cca2bed5b4a19"/>
+		<url>https://retroachievements.org/game/18766/hashes</url>
+		<hash>16106b47c5b9466a11b4684c7911d53a</hash>
 	</game>
 	
 	<game name="Taiko no Tatsujin DS - Touch de Dokodon! (Japan) (Rev 1)">

@@ -5,8 +5,8 @@
 		<name>RA - Sega Master System</name>
 		<description>Sega Master System</description>
 		<category>No Subfolders</category>
-		<version>20250727</version>
-		<date>27 July 2025</date>
+		<version>20250803</version>
+		<date>03 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/11/games</url>
@@ -522,6 +522,13 @@
 		<url>https://retroachievements.org/game/10748/hashes</url>
 		<hash>24618ca4a223a36d2bfda10f42454687</hash>
 	</game>
+	<game name="Altered Beast (USA, Europe, Brazil) (Arcade Voices) (v1.2) (Maxim)" cloneof="Altered Beast (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Altered Beast (USA, Europe, Brazil) (Arcade Voices) (v1.2) (Maxim)</description>
+		<rom name="Altered Beast (USA, Europe, Brazil) (Arcade Voices) (v1.2) (Maxim).sms" size="524288" crc="69fb5775" md5="3592d7a8b2ebf31004d057991462bfe6" sha1="5de64f968c70bc3dc2c87c43a1fc3ccdfdec70b7"/>
+		<url>https://retroachievements.org/game/10748/hashes</url>
+		<hash>3592d7a8b2ebf31004d057991462bfe6</hash>
+	</game>
 	
 	<game name="Argos no Juujiken (Japan) (En)">
 		<category>Retail</category>
@@ -857,6 +864,17 @@
 		<rom name="Fantasy Zone II (USA, Europe, Brazil) (En).sms" size="262144" crc="b8b141f9" md5="481a01c4e768c535ee18d6d78815fc89" sha1="b84831378c7c19798b6fd560647e2941842bb80a"/>
 		<url>https://retroachievements.org/game/10191/hashes</url>
 		<hash>481a01c4e768c535ee18d6d78815fc89</hash>
+	</game>
+	
+	<game name="Fantasy Zone - The Maze (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Fantasy Zone - The Maze (USA, Europe, Brazil) (En)</description>
+		<release name="Fantasy Zone - The Maze (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Fantasy Zone - The Maze (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Fantasy Zone - The Maze (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Fantasy Zone - The Maze (USA, Europe, Brazil) (En).sms" size="131072" crc="d29889ad" md5="d37f86c678b2ad0018518ea7278db24b" sha1="a2cd356826c8116178394d8aba444cb636ef784e"/>
+		<url>https://retroachievements.org/game/10879/hashes</url>
+		<hash>d37f86c678b2ad0018518ea7278db24b</hash>
 	</game>
 	
 	<game name="Fire &amp; Ice (Brazil) (En)">

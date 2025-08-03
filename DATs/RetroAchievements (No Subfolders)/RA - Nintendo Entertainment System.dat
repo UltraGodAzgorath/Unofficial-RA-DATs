@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>No Subfolders</category>
-		<version>20250727</version>
-		<date>27 July 2025</date>
+		<version>20250803</version>
+		<date>03 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/7/games</url>
@@ -677,6 +677,15 @@
 		<rom name="Metroid - Rogue Dawn (v1.21) (Grimlock, Optomon, snarfblam) (Zero Suit Only) (Hack).nes" size="786448" crc="9d61e20f" md5="f59ad54358d972e423f6334225ee88cc" sha1="6673a152546f1963d9a0d9cce8b07e9d83f356c6"/>
 		<url>https://retroachievements.org/game/9597/hashes</url>
 		<hash>b3caf22250200c953adc3387df303b23</hash>
+	</game>
+	
+	<game name="Punch-Out!! - Mike Tyson Challenge Mode (v1.1) (Hexadecimal Mantis) (Hack)">
+		<category>Hack</category>
+		<description>Punch-Out!! - Mike Tyson Challenge Mode (v1.1) (Hexadecimal Mantis) (Hack)</description>
+		<release name="Punch-Out!! - Mike Tyson Challenge Mode (v1.1) (Hexadecimal Mantis) (Hack)" region="World"/>
+		<rom name="Punch-Out!! - Mike Tyson Challenge Mode (v1.1) (Hexadecimal Mantis) (Hack).nes" size="262160" crc="ca107b73" md5="5fb07128e7ff21653eb03eb604ce5a3f" sha1="ef9b42efa862a14101ffb05d1e4795f7200b1dbf"/>
+		<url>https://retroachievements.org/game/34327/hashes</url>
+		<hash>9592642c649a6864b0a9c292583e5ea9</hash>
 	</game>
 	
 	<game name="SMB3 - Mini Kaizo Bros. 3 (v1.0) (Mitchflowerpower) (Hack)">
@@ -3716,13 +3725,20 @@
 		<hash>472e4f023b0dccedd343a046679710fe</hash>
 	</game>
 	
+	<game name="Quattro Adventure (USA) (Unl) (Alt)" cloneof="Quattro Adventure (USA) (Unl)">
+		<category>Unlicensed</category>
+		<description>Quattro Adventure (USA) (Unl) (Alt)</description>
+		<rom name="Quattro Adventure (USA) (Unl) (Alt).nes" size="262160" crc="ee8e3a91" md5="d8660c72782af6bbf8881288ccc874d7" sha1="b402372554167343ed5cc6ae46c02351766ca208"/>
+		<url>https://retroachievements.org/game/4953/hashes</url>
+		<hash>c4afb62469145c5af016db8cdabf60aa</hash>
+	</game>
 	<game name="Quattro Adventure (USA) (Unl)">
 		<category>Unlicensed</category>
 		<description>Quattro Adventure (USA) (Unl)</description>
 		<release name="Quattro Adventure (USA) (Unl)" region="USA"/>
-		<rom name="Quattro Adventure (USA) (Unl).nes" size="262160" crc="ee8e3a91" md5="d8660c72782af6bbf8881288ccc874d7" sha1="b402372554167343ed5cc6ae46c02351766ca208"/>
+		<rom name="Quattro Adventure (USA) (Unl).nes" size="262160" crc="0e154ddd" md5="8af1cf416e52c695a7fc5e2941f5eadf" sha1="f2f2a87233b1dae5189361484698f1269ab836fe"/>
 		<url>https://retroachievements.org/game/4953/hashes</url>
-		<hash>c4afb62469145c5af016db8cdabf60aa</hash>
+		<hash>84b5f5805d84c96d28f54f7c9713a476</hash>
 	</game>
 	
 	<game name="Robodemons (USA) (Unl)">

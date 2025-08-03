@@ -5,8 +5,8 @@
 		<name>RA - Sony PlayStation</name>
 		<description>Sony PlayStation</description>
 		<category>Subfolders</category>
-		<version>20250727</version>
-		<date>27 July 2025</date>
+		<version>20250803</version>
+		<date>03 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -95,6 +95,15 @@
 		<hash>19d93a59c7a972bd2962006567a4558e</hash>
 	</game>
 	
+	<game name="Hack/Final Fantasy IX - Beatrix vs Beatrix vs Beatrix (v1.0) (Tirlititi) (Hack)">
+		<category></category>
+		<description>Final Fantasy IX - Beatrix vs Beatrix vs Beatrix (v1.0) (Tirlititi) (Hack)</description>
+		<rom name="Final Fantasy IX - Beatrix vs Beatrix vs Beatrix (v1.0) (Tirlititi) (Hack).cue" size="140" crc="60aedaf8" md5="2d6151609778b48f77601a3c0973f4fb" sha1="e9c9037ef7497dba41faab58c0c634dea55b2e68"/>
+		<rom name="Final Fantasy IX - Beatrix vs Beatrix vs Beatrix (v1.0) (Tirlititi) (Hack).bin" size="740715360" crc="ae41eb30" md5="bd175e5a2ced189d897820b995340c2f" sha1="6ca46bfb698aac3500e6e90af55cc63cd6241f97"/>
+		<url>https://retroachievements.org/game/25588/hashes</url>
+		<hash>4807533dd9c872d85e752e3b07623fcc</hash>
+	</game>
+	
 	<game name="Hack/Resident Evil 1.5 (Fixed) (Proto) (Hack)">
 		<category></category>
 		<description>Resident Evil 1.5 (Fixed) (Proto) (Hack)</description>
@@ -118,15 +127,6 @@
 		<rom name="Resident Evil 1.5 (Grant) (Proto) (Hack).bin" size="191523360" crc="20768ae3" md5="9387b5cd27b9bde136e5a25e5ad7a2e2" sha1="73772a6360e9317a8bfbf9fed3e8d4853004c9d2"/>
 		<url>https://retroachievements.org/game/17454/hashes</url>
 		<hash>6fb2418c1078867555c2c79fd08f5746</hash>
-	</game>
-	
-	<game name="Hack/Final Fantasy IX - Beatrix vs Beatrix vs Beatrix (v1.0) (Tirlititi) (Hack)">
-		<category></category>
-		<description>Final Fantasy IX - Beatrix vs Beatrix vs Beatrix (v1.0) (Tirlititi) (Hack)</description>
-		<rom name="Final Fantasy IX - Beatrix vs Beatrix vs Beatrix (v1.0) (Tirlititi) (Hack).cue" size="140" crc="60aedaf8" md5="2d6151609778b48f77601a3c0973f4fb" sha1="e9c9037ef7497dba41faab58c0c634dea55b2e68"/>
-		<rom name="Final Fantasy IX - Beatrix vs Beatrix vs Beatrix (v1.0) (Tirlititi) (Hack).bin" size="740715360" crc="ae41eb30" md5="bd175e5a2ced189d897820b995340c2f" sha1="6ca46bfb698aac3500e6e90af55cc63cd6241f97"/>
-		<url>https://retroachievements.org/game/25588/hashes</url>
-		<hash>4807533dd9c872d85e752e3b07623fcc</hash>
 	</game>
 	
 	<game name="Hack/Castlevania - Symphony of the Night - Reborn (Normal Mode) (v1.5.1) (MAUK) (Hack)">
@@ -3760,6 +3760,15 @@
 		<rom name="Fade to Black (USA) (En,Fr,De,Es,It).bin" size="617261232" crc="0f687cd2" md5="b0e6559c00e2510c3d72045bbfae0e14" sha1="cdd0ddbe768bcd89a04132b08d050164b3f13794"/>
 		<url>https://retroachievements.org/game/10702/hashes</url>
 		<hash>7c31208695c240edba09d91fc5f84cb3</hash>
+	</game>
+	
+	<game name="Retail/Fatal Fury - Wild Ambition (USA)">
+		<category></category>
+		<description>Fatal Fury - Wild Ambition (USA)</description>
+		<rom name="Fatal Fury - Wild Ambition (USA).cue" size="98" crc="16b3fc24" md5="169075f0769e58b10869a4ed9d2a41b0" sha1="251f09336adfc83997b01a35150801165b3fad2c"/>
+		<rom name="Fatal Fury - Wild Ambition (USA).bin" size="693830592" crc="70c88f0c" md5="6dbb08bcc1f40ae130c8705e4919541b" sha1="2a92c10686454526b06c5bbbb924b5e331952485"/>
+		<url>https://retroachievements.org/game/15378/hashes</url>
+		<hash>64e2847f1e614da244b0d6b6c4132b97</hash>
 	</game>
 	
 	<game name="Retail/Fear Effect (USA) (Disc 1)">
@@ -8028,15 +8037,6 @@
 		<rom name="Pink Panther - Pinkadelic Pursuit (USA) (Track 23).bin" size="32104800" crc="9b94ea54" md5="65aea234c174ee35fb574d981fe3fc4f" sha1="bd1fde88c2b79e3cf8821c969373460d51f3155a"/>
 		<url>https://retroachievements.org/game/16599/hashes</url>
 		<hash>89845f204552381fef97a4db1e4dc568</hash>
-	</game>
-	
-	<game name="Retail/Pitfall 3D - Beyond the Jungle (USA)">
-		<category></category>
-		<description>Pitfall 3D - Beyond the Jungle (USA)</description>
-		<rom name="Pitfall 3D - Beyond the Jungle (USA).cue" size="102" crc="3653a498" md5="9cd614d5405a3a017376cde0e19aabf4" sha1="a41ea1769e95622d2e48c9b41c81c3ad9b6bdef0"/>
-		<rom name="Pitfall 3D - Beyond the Jungle (USA).bin" size="549601248" crc="85185805" md5="431ec433e3414a68a88ad2ddc8433c18" sha1="0a9d92233b45cdca15827514ed74d482e265670a"/>
-		<url>https://retroachievements.org/game/17153/hashes</url>
-		<hash>b7f3d767113ffa16845b247a46692949</hash>
 	</game>
 	
 	<game name="Retail/Pocket Fighter (USA)">
@@ -12988,5 +12988,29 @@
 		<rom name="Yu-Gi-Oh! Forbidden Memories (USA).bin" size="517872768" crc="73e4c771" md5="c20bcde742e15c82d09bda1d6c6d62f2" sha1="d5785a41900a10968d4a28a390666c4b9879b796"/>
 		<url>https://retroachievements.org/game/11388/hashes</url>
 		<hash>b181396315dc9dd3656d5910ea65239b</hash>
+	</game>
+	<game name="Retail/Yu-Gi-Oh! Forbidden Memories (USA) (10 Cards Drop) (RA)" cloneof="Yu-Gi-Oh! Forbidden Memories (USA)">
+		<category></category>
+		<description>Yu-Gi-Oh! Forbidden Memories (USA)</description>
+		<rom name="Yu-Gi-Oh! Forbidden Memories (USA) (10 Cards Drop) (RA).cue" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Yu-Gi-Oh! Forbidden Memories (USA) (10 Cards Drop) (RA).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/11388/hashes</url>
+		<hash>f098f9b0c1a15aafd426e943c146d622</hash>
+	</game>
+	<game name="Retail/Yu-Gi-Oh! Forbidden Memories (USA) (15 Cards Drop) (RA)" cloneof="Yu-Gi-Oh! Forbidden Memories (USA)">
+		<category></category>
+		<description>Yu-Gi-Oh! Forbidden Memories (USA) (15 Cards Drop) (RA)</description>
+		<rom name="Yu-Gi-Oh! Forbidden Memories (USA) (15 Cards Drop) (RA).cue" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Yu-Gi-Oh! Forbidden Memories (USA) (15 Cards Drop) (RA).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/11388/hashes</url>
+		<hash>631178024cfe9edc82c863c55f9b318c</hash>
+	</game>
+	<game name="Retail/Yu-Gi-Oh! Forbidden Memories (USA) (5 Cards Drop) (RA)" cloneof="Yu-Gi-Oh! Forbidden Memories (USA)">
+		<category></category>
+		<description>Yu-Gi-Oh! Forbidden Memories (USA) (5 Cards Drop) (RA)</description>
+		<rom name="Yu-Gi-Oh! Forbidden Memories (USA) (5 Cards Drop) (RA).cue" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Yu-Gi-Oh! Forbidden Memories (USA) (5 Cards Drop) (RA).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/11388/hashes</url>
+		<hash>cf959b334fb6572a29ec35e280acb441</hash>
 	</game>
 </datafile>

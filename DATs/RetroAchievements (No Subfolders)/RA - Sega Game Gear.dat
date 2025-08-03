@@ -5,8 +5,8 @@
 		<name>RA - Sega Game Gear</name>
 		<description>Sega Game Gear</description>
 		<category>No Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250803</version>
+		<date>03 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/15/games</url>
@@ -766,6 +766,25 @@
 		<rom name="Prince of Persia (USA, Europe).sms" size="262144" crc="311d2863" md5="0d636c8d86dafd4f2c337e34e94b1e41" sha1="7820699ee6b214f3f02f724f4d7891184caf93f8"/>
 		<url>https://retroachievements.org/game/13407/hashes</url>
 		<hash>0d636c8d86dafd4f2c337e34e94b1e41</hash>
+	</game>
+	
+	<game name="Psychic World (USA, Europe, Brazil) (En) (Rev 1)">
+		<category>Retail</category>
+		<description>Psychic World (USA, Europe, Brazil) (En) (Rev 1)</description>
+		<release name="Psychic World (USA, Europe, Brazil) (En) (Rev 1)" region="Brazil"/>
+		<release name="Psychic World (USA, Europe, Brazil) (En) (Rev 1)" region="Europe"/>
+		<release name="Psychic World (USA, Europe, Brazil) (En) (Rev 1)" region="USA"/>
+		<rom name="Psychic World (USA, Europe, Brazil) (En) (Rev 1).sms" size="131072" crc="73779b22" md5="52cfddc12af6a3a64030f62ccf6aca83" sha1="3be13f79eeb26b82343afab3e740b3a1d35978eb"/>
+		<url>https://retroachievements.org/game/14059/hashes</url>
+		<hash>52cfddc12af6a3a64030f62ccf6aca83</hash>
+	</game>
+	<game name="Psychic World (Japan) (En)" cloneof="Psychic World (USA, Europe, Brazil) (En) (Rev 1)">
+		<category>Retail</category>
+		<description>Psychic World (Japan) (En)</description>
+		<release name="Psychic World (Japan) (En)" region="Japan"/>
+		<rom name="Psychic World (Japan) (En).sms" size="131072" crc="afcc7828" md5="a764b44555aadb48c519e7c85bdf7895" sha1="1c0074c811ed4eb369be31c1bc7d851e40ae8797"/>
+		<url>https://retroachievements.org/game/14059/hashes</url>
+		<hash>a764b44555aadb48c519e7c85bdf7895</hash>
 	</game>
 	
 	<game name="Puzzle &amp; Action - Tanto-R (Japan)">

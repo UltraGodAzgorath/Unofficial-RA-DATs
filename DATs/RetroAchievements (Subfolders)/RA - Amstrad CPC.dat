@@ -5,8 +5,8 @@
 		<name>RA - Amstrad CPC</name>
 		<description>Amstrad CPC</description>
 		<category>Subfolders</category>
-		<version>20250727</version>
-		<date>27 July 2025</date>
+		<version>20250803</version>
+		<date>03 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/37/games</url>
@@ -525,6 +525,15 @@
 		<rom name="Ikari Warriors (World) (Tosec).dsk" size="194816" crc="f426eeba" md5="5e942d63c7f83a3fcd7d42410cdf1a43" sha1="a9d06b839b514634d9b3f012593eb5a58d582836"/>
 		<url>https://retroachievements.org/game/15546/hashes</url>
 		<hash>5E942D63C7F83A3FCD7D42410CDF1A43</hash>
+	</game>
+	
+	<game name="Retail/Infernal Runner (World) (CleanCpcDb)">
+		<category></category>
+		<description>Infernal Runner (World) (CleanCpcDb)</description>
+		<release name="Infernal Runner (World) (CleanCpcDb)" region="World"/>
+		<rom name="Infernal Runner (World) (CleanCpcDb).dsk" size="68703" crc="e6183529" md5="11688842e6c01a182ff1c89c3429ac34" sha1="a06b246906f226f257a649e6480ea28b627bec26"/>
+		<url>https://retroachievements.org/game/27544/hashes</url>
+		<hash>11688842e6c01a182ff1c89c3429ac34</hash>
 	</game>
 	
 	<game name="Retail/Jet Set Willy/Jet Set Willy (World) (CleanCpcDb)">

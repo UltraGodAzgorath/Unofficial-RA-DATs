@@ -5,8 +5,8 @@
 		<name>RA - Arduboy</name>
 		<description>Arduboy</description>
 		<category>No Subfolders</category>
-		<version>20250711</version>
-		<date>11 July 2025</date>
+		<version>20250803</version>
+		<date>03 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/71/games</url>
@@ -206,6 +206,15 @@
 		<hash>F73F4F6714539FA8AE5A55EF32D420CA</hash>
 	</game>
 	
+	<game name="Bytes and Knights (World) (v3.1) (crait)">
+		<category>Retail</category>
+		<description>Bytes and Knights (World) (v3.1) (crait)</description>
+		<release name="Bytes and Knights (World) (v3.1) (crait)" region="World"/>
+		<rom name="Bytes and Knights (World) (v3.1) (crait).hex" size="382957" crc="bca786a9" md5="c4d4d10373319d98a1b2b4154ab4d9ac" sha1="48932b6599ba31bb5d69a329cfa30b498778a43c"/>
+		<url>https://retroachievements.org/game/33059/hashes</url>
+		<hash>2f75d4f8d0865685d6669587923b38d9</hash>
+	</game>
+	
 	<game name="CastleBoy (World) (Erwin's Collection)">
 		<category>Retail</category>
 		<description>CastleBoy (World) (Erwin's Collection)</description>
@@ -294,6 +303,15 @@
 		<rom name="Dark and Under (World) (Erwin's Collection).hex" size="74759" crc="1f001323" md5="0f43defeddea8b5fc033722080d24820" sha1="826ab468fb76c367e4955356a8f47a88532c5dc4"/>
 		<url>https://retroachievements.org/game/11123/hashes</url>
 		<hash>03E6AE7FC84878476D385F68E748000E</hash>
+	</game>
+	
+	<game name="Dazzle Dash (World) (brow1067)">
+		<category>Retail</category>
+		<description>Dazzle Dash (World) (brow1067)</description>
+		<release name="Dazzle Dash (World) (brow1067)" region="World"/>
+		<rom name="Dazzle Dash (World) (brow1067).hex" size="185579" crc="d20195b4" md5="3d45bde681af8b0ddffe19442b864c95" sha1="91b5342c08da5eaf45558d767f76af432b0e1521"/>
+		<url>https://retroachievements.org/game/30914/hashes</url>
+		<hash>7da09de005f835102d3880db5a1635be</hash>
 	</game>
 	
 	<game name="Dice of Fate (World) (Team A.R.G.)">
