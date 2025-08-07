@@ -3575,12 +3575,19 @@
 		<hash>20b538d9c53c3e76d20119e1b25e98fc</hash>
 	</game>
 	
-	<game name="Retail/Kingdom Hearts (USA)">
+	<game name="Retail/Kingdom Hearts/Kingdom Hearts (USA)">
 		<category></category>
 		<description>Kingdom Hearts (USA)</description>
 		<rom name="Kingdom Hearts (USA).iso" size="3041132544" crc="d231ed24" md5="3cf7399001c46a2b826f72625b24e6eb" sha1="fb14a4c785106c1b024d5afd712cdf9ff516802b"/>
 		<url>https://retroachievements.org/game/32650/hashes</url>
 		<hash>ed7e54ceb33be1ea438f6cfb58e139b5</hash>
+	</game>
+	<game name="Retail/Kingdom Hearts/Kingdom Hearts (Germany)">
+		<category></category>
+		<description>Kingdom Hearts (Germany)</description>
+		<rom name="Kingdom Hearts (Germany).iso" size="2764144640" crc="10cedd41" md5="be5dd9e4a43e4bcb8e76232e6f2fbfbf" sha1="1e07685a3f429607e3d702c36f0898d347d09022"/>
+		<url>https://retroachievements.org/game/32650/hashes</url>
+		<hash>49b2526444dde7509e016ba3fd582fca</hash>
 	</game>
 	
 	<game name="Retail/Kingdom Hearts II/Kingdom Hearts II (USA)">
@@ -6544,14 +6551,14 @@
 		<hash>7adb915325a8b5338e1dbbe340a9e794</hash>
 	</game>
 	
-	<game name="Retail/Syberia II (Europe) (En,Fr,De,Es,It)">
+	<game name="Retail/Syberia II/Syberia II (Europe) (En,Fr,De,Es,It)">
 		<category></category>
 		<description>Syberia II (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Syberia II (Europe) (En,Fr,De,Es,It).iso" size="4636508160" crc="4cb71412" md5="95e79f30235e3dd80be834a34f119397" sha1="ca7f1ecedd626383bcc13b5c8972a438e7a10610"/>
 		<url>https://retroachievements.org/game/22173/hashes</url>
 		<hash>4576379012746ec0e1ff89eddc3602bc</hash>
 	</game>
-	<game name="Retail/Syberia II (Russia)">
+	<game name="Retail/Syberia II/Syberia II (Russia)">
 		<category></category>
 		<description>Syberia II (Russia)</description>
 		<rom name="Syberia II (Russia).iso" size="2160885760" crc="4fc97a1c" md5="e7d835e9f7f4608782eed8bfb09ca1a5" sha1="9dfdabba0c2326443d6b62ff4eeab401906174f9"/>
