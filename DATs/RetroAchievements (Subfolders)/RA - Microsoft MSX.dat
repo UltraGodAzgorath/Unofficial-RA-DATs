@@ -5,8 +5,8 @@
 		<name>RA - Microsoft MSX</name>
 		<description>Microsoft MSX</description>
 		<category>Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250809</version>
+		<date>09 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/29/games</url>
@@ -645,25 +645,16 @@
 		<hash>24977e1834d83be97998d118c384ac24</hash>
 	</game>
 	
-	<game name="Retail/SD Snatcher/SD Snatcher (Japan) (En) (Melancholia) (Disk 1)">
-		<category>MSX2</category>
-		<description>SD Snatcher (Japan) (En) (Melancholia) (Disk 1)</description>
+	<game name="Retail/SD Snatcher/SD Snatcher (Japan) (En) (Melancholia)">
+		<category></category>
+		<description>SD Snatcher (Japan) (En) (Melancholia)</description>
+		<rom name="SD Snatcher (Japan) (En) (Melancholia).m3u" size="157" crc="83ba8496" md5="b15cd4b8aa0fb640d3d287fdf97f73e3" sha1="83703c52947a11229b0354bc210884c3f0fd345c"/>
 		<rom name="SD Snatcher (Japan) (En) (Melancholia) (Disk 1).dsk" size="737280" crc="1b3d3c89" md5="3bcf74b40f15eef5aab22a49781f9f1a" sha1="9d12c20f71c4049f8a8b65cc4f13fd7b54affadc"/>
-		<url>https://retroachievements.org/game/10505/hashes</url>
-		<hash>3BCF74B40F15EEF5AAB22A49781F9F1A</hash>
-	</game>
-	<game name="Retail/SD Snatcher/SD Snatcher (Japan) (En) (Melancholia) (Disk 2)">
-		<category>MSX2</category>
-		<description>SD Snatcher (Japan) (En) (Melancholia) (Disk 2)</description>
 		<rom name="SD Snatcher (Japan) (En) (Melancholia) (Disk 2).dsk" size="737280" crc="ac407e31" md5="6d1990d36783caf8b6e4d73ae22c98b1" sha1="4983041e918acd599e65c70de3101011c43b059a"/>
-		<url>https://retroachievements.org/game/10505/hashes</url>
-		<hash>6d1990d36783caf8b6e4d73ae22c98b1</hash>
-	</game>
-	<game name="Retail/SD Snatcher/SD Snatcher (Japan) (En) (Melancholia) (Disk 3)">
-		<category>MSX2</category>
-		<description>SD Snatcher (Japan) (En) (Melancholia) (Disk 3)</description>
 		<rom name="SD Snatcher (Japan) (En) (Melancholia) (Disk 3).dsk" size="737280" crc="f626f02e" md5="e4d3e483964c62ade5f07afdd81dd64b" sha1="0c4c993758e69a8f8fd79fbc4eef4cecdc156f32"/>
 		<url>https://retroachievements.org/game/10505/hashes</url>
+		<hash>3BCF74B40F15EEF5AAB22A49781F9F1A</hash>
+		<hash>6d1990d36783caf8b6e4d73ae22c98b1</hash>
 		<hash>e4d3e483964c62ade5f07afdd81dd64b</hash>
 	</game>
 	
@@ -714,39 +705,20 @@
 		<hash>92BA9DAB3C7A4AC6C8A130F6CCBAC91C</hash>
 	</game>
 	
-	<game name="Retail/Ancient Ys Vanished 3/Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 3 of 5) (Data Disk 2)">
-		<category>MSX2</category>
-		<description>Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 3 of 5) (Data Disk 2)</description>
-		<rom name="Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 3 of 5) (Data Disk 2).rom" size="737280" crc="8dceb3d2" md5="0705e4bc427ee6efc95a0d86a2be8113" sha1="55c64d109f5fa479b0a7145102aa197906fbace1"/>
-		<url>https://retroachievements.org/game/17365/hashes</url>
-		<hash>0705e4bc427ee6efc95a0d86a2be8113</hash>
-	</game>
-	<game name="Retail/Ancient Ys Vanished 3/Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 2 of 5) (Data Disk 1)">
-		<category>MSX2</category>
-		<description>Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 2 of 5) (Data Disk 1)</description>
-		<rom name="Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 2 of 5) (Data Disk 1).rom" size="737280" crc="cffb1c38" md5="230a2be93d991a5a8b899004f22cff4a" sha1="639b3a95d98a389b3986d4bd59afaf9171dbc64a"/>
-		<url>https://retroachievements.org/game/17365/hashes</url>
-		<hash>230a2be93d991a5a8b899004f22cff4a</hash>
-	</game>
-	<game name="Retail/Ancient Ys Vanished 3/Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 4 of 5) (Data Disk 3)">
-		<category>MSX2</category>
-		<description>Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 4 of 5) (Data Disk 3)</description>
-		<rom name="Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 4 of 5) (Data Disk 3).rom" size="737280" crc="e8484fd8" md5="2f34a6b207c333856d82165ef8876f21" sha1="7e4ceffd3777a90c4e2b5a89d6d3300ae543afaf"/>
-		<url>https://retroachievements.org/game/17365/hashes</url>
-		<hash>2f34a6b207c333856d82165ef8876f21</hash>
-	</game>
-	<game name="Retail/Ancient Ys Vanished 3/Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 1 of 5) (Game Disk)">
-		<category>MSX2</category>
-		<description>Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 1 of 5) (Game Disk)</description>
+	<game name="Retail/Ancient Ys Vanished 3/Ancient Ys Vanished 3 - Wanderers from Ys (World)">
+		<category></category>
+		<description>Ancient Ys Vanished 3 - Wanderers from Ys (World)</description>
+		<rom name="Ancient Ys Vanished 3 - Wanderers from Ys (World).m3u" size="409" crc="3713b311" md5="d5ec9de3610c12f4bb89eb793f6f8ccb" sha1="e1a504a8c07f4e0ad450845abecd798d43c8a913"/>
 		<rom name="Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 1 of 5) (Game Disk).rom" size="737280" crc="9c6e61a8" md5="bb13dde11d1a493c6b51d2efecc23093" sha1="f7b5aa0db294f6194a93e7db7e54e94721571b00"/>
-		<url>https://retroachievements.org/game/17365/hashes</url>
-		<hash>BB13DDE11D1A493C6B51D2EFECC23093</hash>
-	</game>
-	<game name="Retail/Ancient Ys Vanished 3/Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 5 of 5) (User Disk)">
-		<category>MSX2</category>
-		<description>Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 5 of 5) (User Disk)</description>
+		<rom name="Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 2 of 5) (Data Disk 1).rom" size="737280" crc="cffb1c38" md5="230a2be93d991a5a8b899004f22cff4a" sha1="639b3a95d98a389b3986d4bd59afaf9171dbc64a"/>
+		<rom name="Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 3 of 5) (Data Disk 2).rom" size="737280" crc="8dceb3d2" md5="0705e4bc427ee6efc95a0d86a2be8113" sha1="55c64d109f5fa479b0a7145102aa197906fbace1"/>
+		<rom name="Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 4 of 5) (Data Disk 3).rom" size="737280" crc="e8484fd8" md5="2f34a6b207c333856d82165ef8876f21" sha1="7e4ceffd3777a90c4e2b5a89d6d3300ae543afaf"/>
 		<rom name="Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 5 of 5) (User Disk).rom" size="737280" crc="81303a96" md5="ffc6e9f31fd867e1cec2185aada9b7e7" sha1="0040e4397ee10d7085e4842b5fed95c6e078bcc3"/>
 		<url>https://retroachievements.org/game/17365/hashes</url>
+		<hash>BB13DDE11D1A493C6B51D2EFECC23093</hash>
+		<hash>230a2be93d991a5a8b899004f22cff4a</hash>
+		<hash>0705e4bc427ee6efc95a0d86a2be8113</hash>
+		<hash>2f34a6b207c333856d82165ef8876f21</hash>
 		<hash>ffc6e9f31fd867e1cec2185aada9b7e7</hash>
 	</game>
 	

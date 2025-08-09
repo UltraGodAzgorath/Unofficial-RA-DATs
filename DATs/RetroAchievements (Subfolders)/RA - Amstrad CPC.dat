@@ -5,8 +5,8 @@
 		<name>RA - Amstrad CPC</name>
 		<description>Amstrad CPC</description>
 		<category>Subfolders</category>
-		<version>20250803</version>
-		<date>03 August 2025</date>
+		<version>20250809</version>
+		<date>09 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/37/games</url>
@@ -84,18 +84,14 @@
 		<hash>DB8CD2F5A347F3A700D0AE417406F68F</hash>
 	</game>
 	
-	<game name="Homebrew/Chibi Akuma's Episode 1 - Invasion/Chibi Akuma's Episode 1 - Invasion (Side A) (CleanCpcDb) (Aftermarket)">
+	<game name="Homebrew/Chibi Akuma's Episode 1 - Invasion/Chibi Akuma's Episode 1 - Invasion (CleanCpcDb) (Aftermarket)">
 		<category></category>
-		<description>Chibi Akuma's Episode 1 - Invasion (Side A) (CleanCpcDb) (Aftermarket)</description>
+		<description>Chibi Akuma's Episode 1 - Invasion (CleanCpcDb) (Aftermarket)</description>
+		<rom name="Chibi Akuma's Episode 1 - Invasion (CleanCpcDb) (Aftermarket).m3u" size="150" crc="e7880ad4" md5="0c08c8bd5fa6666aa5de812e482ddd8c" sha1="5d65522d9f3e000759d4b564259c657146a33fd7"/>
 		<rom name="Chibi Akuma's Episode 1 - Invasion (Side A) (CleanCpcDb) (Aftermarket).dsk" size="194816" crc="D851FDE0" md5="363C12BCA4B13C55824E5E3C88505237" sha1="F5A8737198A7CF60422F12ABF52CD37C16B60BAE"/>
-		<url>https://retroachievements.org/game/6925/hashes</url>
-		<hash>363C12BCA4B13C55824E5E3C88505237</hash>
-	</game>
-	<game name="Homebrew/Chibi Akuma's Episode 1 - Invasion/Chibi Akuma's Episode 1 - Invasion (Side B) (CleanCpcDb) (Aftermarket)">
-		<category></category>
-		<description>Chibi Akuma's Episode 1 - Invasion (Side B) (CleanCpcDb) (Aftermarket)</description>
 		<rom name="Chibi Akuma's Episode 1 - Invasion (Side B) (CleanCpcDb) (Aftermarket).dsk" size="194816" crc="3D75A099" md5="86143C5822123310B13E41BFEF9EC045" sha1="B7ECC916AFE1E3CB28058EDEB6FC8E855CF85DB3"/>
 		<url>https://retroachievements.org/game/6925/hashes</url>
+		<hash>363C12BCA4B13C55824E5E3C88505237</hash>
 		<hash>86143C5822123310B13E41BFEF9EC045</hash>
 	</game>
 	
@@ -223,19 +219,15 @@
 		<hash>A2822FF9296A828197467C16ECCCAB1B</hash>
 	</game>
 	
-	<game name="Homebrew/Superpix/Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Side B - Levels) (Aftermarket)">
+	<game name="Homebrew/Superpix/Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Aftermarket)">
 		<category></category>
-		<description>Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Side B - Levels) (Aftermarket)</description>
+		<description>Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Aftermarket)</description>
+		<rom name="Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Aftermarket).m3u" size="157" crc="04c61c5c" md5="ca7413471d55c8f91ad975cbeeb57748" sha1="f49a4eb44c7287fc5dcb79459d617c0efe5da983"/>
+		<rom name="Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Side A - Program) (Aftermarket).dsk" size="185856" crc="317444d8" md5="d46b20ff002beb4eb9dd27e6df4ee657" sha1="f4258e62e7ae58de6ef7a18dad165f7aaa457202"/>
 		<rom name="Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Side B - Levels) (Aftermarket).dsk" size="198400" crc="25a3b895" md5="2f465c4c990acb2fb5d2f137db914804" sha1="9db6d2ddbb079bf50f58b02aae56b9b3bf81f4e8"/>
 		<url>https://retroachievements.org/game/18817/hashes</url>
-		<hash>2F465C4C990ACB2FB5D2F137DB914804</hash>
-	</game>
-	<game name="Homebrew/Superpix/Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Side A - Program) (Aftermarket)">
-		<category></category>
-		<description>Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Side A - Program) (Aftermarket)</description>
-		<rom name="Superpix (2014) (En) (v1.2) (Crack'n'Rom) (Side A - Program) (Aftermarket).dsk" size="185856" crc="317444d8" md5="d46b20ff002beb4eb9dd27e6df4ee657" sha1="f4258e62e7ae58de6ef7a18dad165f7aaa457202"/>
-		<url>https://retroachievements.org/game/18817/hashes</url>
 		<hash>D46B20FF002BEB4EB9DD27E6DF4EE657</hash>
+		<hash>2F465C4C990ACB2FB5D2F137DB914804</hash>
 	</game>
 	
 	<game name="Homebrew/The Abduction of Oszar Z/Abduction of Oszar Z, The (UK) (2020) (Dreamin' Bits) (Aftermarket)">
@@ -253,32 +245,24 @@
 		<hash>872679C033A45500FFFDA573FA3A5D4F</hash>
 	</game>
 	
-	<game name="Homebrew/The Shadows of Sergoth/Shadows of Sergoth, The (Side B) (CleanCpcDb) (Aftermarket)">
+	<game name="Homebrew/The Shadows of Sergoth/Shadows Of Sergoth, The (CleanCpcDb) (Aftermarket)">
 		<category></category>
-		<description>Shadows of Sergoth, The (Side B) (CleanCpcDb) (Aftermarket)</description>
-		<rom name="Shadows of Sergoth, The (Side B) (CleanCpcDb) (Aftermarket).dsk" size="194816" crc="FDF9EBC0" md5="34C9E886D4E2E43860E36D61008DBB7E" sha1="7426EFE9DCFE03F0645709817DA2F82737BE5300"/>
-		<url>https://retroachievements.org/game/7072/hashes</url>
-		<hash>34C9E886D4E2E43860E36D61008DBB7E</hash>
-	</game>
-	<game name="Homebrew/The Shadows of Sergoth/Shadows of Sergoth, The (Side A) (CleanCpcDb) (Aftermarket)">
-		<category></category>
-		<description>Shadows of Sergoth, The (Side A) (CleanCpcDb) (Aftermarket)</description>
-		<rom name="Shadows of Sergoth, The (Side A) (CleanCpcDb) (Aftermarket).dsk" size="194816" crc="6D63F48A" md5="4D6C8E980A3B1A1343BA9353396ADA5E" sha1="00729F5506B22BC524F1F316C8DE8EF244485693"/>
+		<description>Shadows Of Sergoth, The (CleanCpcDb) (Aftermarket)</description>
+		<rom name="Shadows Of Sergoth, The (CleanCpcDb) (Aftermarket).m3u" size="128" crc="eda8ad66" md5="2380f86357752ef2be2cc04e524705dc" sha1="855966ae6a3e8f23c68f11c5bdffeb81ce8af80f"/>
+		<rom name="Shadows Of Sergoth, The (Side A) (CleanCpcDb) (Aftermarket).dsk" size="194816" crc="6D63F48A" md5="4D6C8E980A3B1A1343BA9353396ADA5E" sha1="00729F5506B22BC524F1F316C8DE8EF244485693"/>
+		<rom name="Shadows Of Sergoth, The (Side B) (CleanCpcDb) (Aftermarket).dsk" size="194816" crc="FDF9EBC0" md5="34C9E886D4E2E43860E36D61008DBB7E" sha1="7426EFE9DCFE03F0645709817DA2F82737BE5300"/>
 		<url>https://retroachievements.org/game/7072/hashes</url>
 		<hash>4D6C8E980A3B1A1343BA9353396ADA5E</hash>
+		<hash>34C9E886D4E2E43860E36D61008DBB7E</hash>
 	</game>
-	<game name="Homebrew/The Shadows of Sergoth/Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Side A) (Aftermarket)">
+	<game name="Homebrew/The Shadows of Sergoth/Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Aftermarket)">
 		<category></category>
-		<description>Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Side A) (Aftermarket)</description>
+		<description>Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Aftermarket)</description>
+		<rom name="Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Aftermarket).m3u" size="178" crc="6e661012" md5="5903426fe7fd1fda2d87eba34e429192" sha1="386fcb534220178ff2b885ab38c12d7753019e37"/>
 		<rom name="Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Side A) (Aftermarket).dsk" size="194816" crc="6fbf9b71" md5="82ce4f11cf0837f3f30d9be728b3cbce" sha1="679e425c2f90b93dde69810bdb5b336996ef82db"/>
-		<url>https://retroachievements.org/game/7072/hashes</url>
-		<hash>82CE4F11CF0837F3F30D9BE728B3CBCE</hash>
-	</game>
-	<game name="Homebrew/The Shadows of Sergoth/Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Side B) (Aftermarket)">
-		<category></category>
-		<description>Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Side B) (Aftermarket)</description>
 		<rom name="Shadows of Sergoth, The (2018) (Chris94, Kukulcan) (En,Fr,Es) (Side B) (Aftermarket).dsk" size="194816" crc="ff25843b" md5="8f3ca7c3abc050054743ba0609b56ba7" sha1="f172a8dd55b1b935e3f445ec5ddcf9cd9377378a"/>
 		<url>https://retroachievements.org/game/7072/hashes</url>
+		<hash>82CE4F11CF0837F3F30D9BE728B3CBCE</hash>
 		<hash>8F3CA7C3ABC050054743BA0609B56BA7</hash>
 	</game>
 	
