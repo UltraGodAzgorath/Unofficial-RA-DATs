@@ -5,8 +5,8 @@
 		<name>RA - Sony PlayStation 2</name>
 		<description>Sony PlayStation 2</description>
 		<category>Subfolders</category>
-		<version>20250803</version>
-		<date>03 August 2025</date>
+		<version>20250810</version>
+		<date>10 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -163,6 +163,14 @@
 		<rom name="Guitar Hero II - Deluxe - Brand New Hero (v1.0) (ParallaxDG) (Hack).iso" size="1934884864" crc="68275054" md5="44398619f62df3b068b0d4b66cfc80ce" sha1="dc3dbe1163e4d871f272616f57b06736be2b48c0"/>
 		<url>https://retroachievements.org/game/25167/hashes</url>
 		<hash>f5126dfd0eaa09f4e32081f755853746</hash>
+	</game>
+	
+	<game name="Hack/Guitar Hero III - Game Hits (v1.0) (Beto Luvas) (RA Hash Fix) (Hack)">
+		<category></category>
+		<description>Guitar Hero III - Game Hits (v1.0) (Beto Luvas) (RA Hash Fix) (Hack)</description>
+		<rom name="Guitar Hero III - Game Hits (v1.0) (Beto Luvas) (RA Hash Fix) (Hack).iso" size="3715399680" crc="30da30fe" md5="bca32d9e5e85d3203ab79e6447203aaf" sha1="63112fe5fb6de96564eab8123d0f5b5971814860"/>
+		<url>https://retroachievements.org/game/33666/hashes</url>
+		<hash>d4e325f5246d3f00fa3b50a841b8026c</hash>
 	</game>
 	
 	<game name="Hack/Guitar Hero III - ZV K-ON! 10th Anniversary (v2.0) (ztruck1) (RA Hash Fix) (Hack)">
@@ -459,15 +467,6 @@
 		<rom name="Ape Escape 2 (USA).iso" size="1780285440" crc="1d7e40f5" md5="567c25c07ae307d99c6c21f61ae7cd62" sha1="a2170559df85d873341fe0dc7dd11cdc004d9243"/>
 		<url>https://retroachievements.org/game/2688/hashes</url>
 		<hash>4d90e844a27e006e92e360411d56c7b5</hash>
-	</game>
-	
-	<game name="Retail/Piposaru 2001 (Japan)">
-		<category></category>
-		<description>Piposaru 2001 (Japan)</description>
-		<rom name="Piposaru 2001 (Japan).cue" size="87" crc="9891b237" md5="dbd1d36acf2e04f6a2adb67ffa421226" sha1="d579c2161c4d41271e8e0085c5ff21d110a92f1a"/>
-		<rom name="Piposaru 2001 (Japan).bin" size="678940080" crc="4f726b7b" md5="b5be3784211c3daf8340f4b93a36e7c5" sha1="7111aa0dd931097afa2edc79532a68587217e476"/>
-		<url>https://retroachievements.org/game/28952/hashes</url>
-		<hash>05d78be8c58753a3256fa37629052d93</hash>
 	</game>
 	
 	<game name="Retail/Ape Escape 3 (USA)">
@@ -2216,14 +2215,14 @@
 		<hash>b035cf7ab26c17d09e350ca45e94e0d6</hash>
 	</game>
 	
-	<game name="Retail/Fate-Stay Night - Realta Nua (Japan)">
+	<game name="Retail/Fate-Stay Night - Realta Nua/Fate-Stay Night - Realta Nua (Japan)">
 		<category></category>
 		<description>Fate-Stay Night - Realta Nua (Japan)</description>
 		<rom name="Fate-Stay Night - Realta Nua (Japan).iso" size="4510023680" crc="e914b4b7" md5="01d5c41c443e0b85ede54edf63647abf" sha1="83d3259e3fc9d8e761d8d1a85fd58d798a0d44a5"/>
 		<url>https://retroachievements.org/game/25384/hashes</url>
 		<hash>b90ff5672b86acb7ce8f281c29c82aac</hash>
 	</game>
-	<game name="Retail/Fate-Stay Night - Realta Nua (Japan) (En) (v1.0) (Beast's Lair)">
+	<game name="Retail/Fate-Stay Night - Realta Nua/Fate-Stay Night - Realta Nua (Japan) (En) (v1.0) (Beast's Lair)">
 		<category></category>
 		<description>Fate-Stay Night - Realta Nua (Japan) (En) (v1.0) (Beast's Lair)</description>
 		<rom name="Fate-Stay Night - Realta Nua (Japan) (En) (v1.0) (Beast's Lair).iso" size="4510023680" crc="641e181d" md5="da39689456dfa0e4126ea9d950078120" sha1="287886f09a22f45ee67167f735b17e5eb7bd5960"/>
@@ -4826,6 +4825,15 @@
 		<hash>5da5f99b295aca33525f22c9a0724aa8</hash>
 	</game>
 	
+	<game name="Retail/Piposaru 2001 (Japan)">
+		<category></category>
+		<description>Piposaru 2001 (Japan)</description>
+		<rom name="Piposaru 2001 (Japan).cue" size="87" crc="9891b237" md5="dbd1d36acf2e04f6a2adb67ffa421226" sha1="d579c2161c4d41271e8e0085c5ff21d110a92f1a"/>
+		<rom name="Piposaru 2001 (Japan).bin" size="678940080" crc="4f726b7b" md5="b5be3784211c3daf8340f4b93a36e7c5" sha1="7111aa0dd931097afa2edc79532a68587217e476"/>
+		<url>https://retroachievements.org/game/28952/hashes</url>
+		<hash>05d78be8c58753a3256fa37629052d93</hash>
+	</game>
+	
 	<game name="Retail/Disney Pirates of the Caribbean - At World's End (USA)">
 		<category></category>
 		<description>Disney Pirates of the Caribbean - At World's End (USA)</description>
@@ -6750,6 +6758,15 @@
 		<rom name="Test Drive - Eve of Destruction (USA).iso" size="1940553728" crc="9c0d901e" md5="368c17a22a78b7b26b59e8cce7f35240" sha1="792aeae2160faff1e1d38fa820366818d2814417"/>
 		<url>https://retroachievements.org/game/21151/hashes</url>
 		<hash>eaa0f47be08d06e8080423cdaed5f3f7</hash>
+	</game>
+	
+	<game name="Retail/Adventures of Cookie &amp; Cream, The (USA)">
+		<category></category>
+		<description>Adventures of Cookie &amp; Cream, The (USA)</description>
+		<release name="Adventures of Cookie &amp; Cream, The (USA)" region="USA"/>
+		<rom name="Adventures of Cookie &amp; Cream, The (USA).iso" size="1448148992" crc="1818ddde" md5="0ee1e14fccc6c2081c1e5e21e08a37da" sha1="27646b0d7918710ba843169a46cdfa4e3fcc0579"/>
+		<url>https://retroachievements.org/game/20667/hashes</url>
+		<hash>7885acde8780c0b307ae83afaa8b605e</hash>
 	</game>
 	
 	<game name="Retail/Bouncer, The (USA) (En,Ja)">

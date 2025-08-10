@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation</name>
 		<description>Sony Playstation</description>
 		<category>No Subfolders</category>
-		<version>20250803</version>
-		<date>03 August 2025</date>
+		<version>20250810</version>
+		<date>10 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -473,6 +473,16 @@
 		<rom name="Buzzy Bee (v1.1) (NDR008) (Aftermarket).bin" size="38692752" crc="4620d4e6" md5="8b27c7a0d8b67b782badbaffc16efecd" sha1="a97b07f79c1597419dd7afbf5abfa4e358023b3a"/>
 		<url>https://retroachievements.org/game/17967/hashes</url>
 		<hash>63cb7dbce98ab7233ee660020c373079</hash>
+	</game>
+	
+	<game name="Celeste Classic (Midnight Mirage Softworks) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Celeste Classic (Midnight Mirage Softworks) (Aftermarket)</description>
+		<release name="Celeste Classic (Midnight Mirage Softworks) (Aftermarket)" region="World"/>
+		<rom name="Celeste Classic (Midnight Mirage Softworks) (Aftermarket).cue" size="443" crc="6ea874fa" md5="4de69eb5b77c8da3f4c0b7407ed46138" sha1="68d7fb868e4cbd48020675a60600f293705dfb3f"/>
+		<rom name="Celeste Classic (Midnight Mirage Softworks) (Aftermarket).bin" size="37206288" crc="89f7fe6d" md5="31c01e62211abcb533b62770f0c78a80" sha1="7d8ed0ae83129e9d904e65c6652bbb1b5bbac3e2"/>
+		<url>https://retroachievements.org/game/26016/hashes</url>
+		<hash>569e50e741a39d8b806f55d4a5aa3990</hash>
 	</game>
 	
 	<game name="Five Nights at Freddy's (World) (v1.3.0) (Soeiz) (Aftermarket)">
@@ -9618,6 +9628,15 @@
 		<rom name="Resident Evil - Director's Cut (USA).bin" size="707027664" crc="a973b63a" md5="50d96c24761ebf5926719c7090f8bf22" sha1="d926cec7ac6a1665cc00039ab92dee6a6bebe824"/>
 		<url>https://retroachievements.org/game/11268/hashes</url>
 		<hash>fef5c16e4aed84e0402807c8b4217b9b</hash>
+	</game>
+	<game name="Resident Evil - Director's Cut (USA) (Ru) (Paradox)" cloneof="Resident Evil - Director's Cut (USA)">
+		<category>Retail</category>
+		<description>Resident Evil - Director's Cut (USA) (Ru) (Paradox)</description>
+		<release name="Resident Evil - Director's Cut (USA) (Ru) (Paradox)" region="Russia"/>
+		<rom name="Resident Evil - Director's Cut (USA) (Ru) (Paradox).cue" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Resident Evil - Director's Cut (USA) (Ru) (Paradox).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/11268/hashes</url>
+		<hash>18f02200bbe32713343d94c6cbe77982</hash>
 	</game>
 	
 	<game name="Resident Evil - Survivor (USA)">

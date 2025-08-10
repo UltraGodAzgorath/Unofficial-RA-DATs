@@ -5,8 +5,8 @@
 		<name>RA - Atari 2600</name>
 		<description>Atari 2600</description>
 		<category>Subfolders</category>
-		<version>20250803</version>
-		<date>03 August 2025</date>
+		<version>20250810</version>
+		<date>10 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/25/games</url>
@@ -923,6 +923,14 @@
 		<hash>58A82E1DA64A692FD727C25FAEF2ECC9</hash>
 	</game>
 	
+	<game name="Retail/Journey Escape (USA)">
+		<category></category>
+		<description>Journey Escape (USA)</description>
+		<rom name="Journey Escape (USA).a26" size="4096" crc="52ff8027" md5="718ae62c70af4e5fd8e932fee216948a" sha1="928eaa424b36d98078f9251d67fb13a8fddfafbd"/>
+		<url>https://retroachievements.org/game/33180/hashes</url>
+		<hash>718ae62c70af4e5fd8e932fee216948a</hash>
+	</game>
+	
 	<game name="Retail/Joust (USA)">
 		<category></category>
 		<description>Joust (USA)</description>
@@ -1073,6 +1081,15 @@
 		<rom name="Montezuma's Revenge - Featuring Panama Joe (USA).a26" size="8192" crc="e680a1c9" md5="3347a6dd59049b15a38394aa2dafa585" sha1="7dfeb1a8ec863c1e0f297113a1cc4185c215e81c"/>
 		<url>https://retroachievements.org/game/13341/hashes</url>
 		<hash>3347a6dd59049b15a38394aa2dafa585</hash>
+	</game>
+	
+	<game name="Moon Patrol (USA)">
+		<category>Retail</category>
+		<description>Moon Patrol (USA)</description>
+		<release name="Moon Patrol (USA)" region="USA"/>
+		<rom name="Moon Patrol (USA).a26" size="8192" crc="d641ef2d" md5="515046e3061b7b18aa3a551c3ae12673" sha1="dce778f397a325113f035722b7769492645d69eb"/>
+		<url>https://retroachievements.org/game/11686/hashes</url>
+		<hash>515046e3061b7b18aa3a551c3ae12673</hash>
 	</game>
 	
 	<game name="Retail/Moonsweeper (USA)">

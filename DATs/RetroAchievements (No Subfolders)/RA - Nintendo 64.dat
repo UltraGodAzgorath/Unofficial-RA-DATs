@@ -5,8 +5,8 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>No Subfolders</category>
-		<version>20250803</version>
-		<date>03 August 2025</date>
+		<version>20250810</version>
+		<date>10 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/2/games</url>
@@ -679,7 +679,6 @@
 	<game name="SM64 - Mario Goes Skateboarding 64 (En) (v1.0) (AphidKirby) (Hack)">
 		<category>Hack</category>
 		<description>SM64 - Mario Goes Skateboarding 64 (En) (v1.0) (AphidKirby) (Hack)</description>
-		<release name="SM64 - Mario Goes Skateboarding 64 (En) (v1.0) (AphidKirby) (Hack)" region="World"/>
 		<rom name="SM64 - Mario Goes Skateboarding 64 (En) (v1.0) (AphidKirby) (Hack).z64" size="67108864" crc="ed9e6d2a" md5="4257690b5c114fc60231f9d6e37b9e25" sha1="6ce6f6d9c952da14e78d29c18079985f2ec12a94"/>
 		<url>https://retroachievements.org/game/33084/hashes</url>
 		<hash>4257690b5c114fc60231f9d6e37b9e25</hash>
@@ -687,10 +686,25 @@
 	<game name="SM64 - Mario Goes Skateboarding 64 (Es) (v1.0) (AphidKirby) (Hack)" cloneof="SM64 - Mario Goes Skateboarding 64 (En) (v1.0) (AphidKirby) (Hack)">
 		<category>Hack</category>
 		<description>SM64 - Mario Goes Skateboarding 64 (Es) (v1.0) (AphidKirby) (Hack)</description>
-		<release name="SM64 - Mario Goes Skateboarding 64 (Es) (v1.0) (AphidKirby) (Hack)" region="Spain"/>
 		<rom name="SM64 - Mario Goes Skateboarding 64 (Es) (v1.0) (AphidKirby) (Hack).z64" size="67108864" crc="9c81356d" md5="bc915c05e82527f58f64bd447f4fb1e5" sha1="39293ccdc09b7a449e138c8e8e77826deb5d0168"/>
 		<url>https://retroachievements.org/game/33084/hashes</url>
 		<hash>bc915c05e82527f58f64bd447f4fb1e5</hash>
+	</game>
+	<game name="SM64 - Mario Goes Skateboarding 64 (En) (v2.0) (AphidKirby) (Hack)" cloneof="SM64 - Mario Goes Skateboarding 64 (En) (v1.0) (AphidKirby) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - Mario Goes Skateboarding 64 (En) (v2.0) (AphidKirby) (Hack)</description>
+		<release name="SM64 - Mario Goes Skateboarding 64 (En) (v2.0) (AphidKirby) (Hack)" region="World"/>
+		<rom name="SM64 - Mario Goes Skateboarding 64 (En) (v2.0) (AphidKirby) (Hack).z64" size="67108864" crc="d175a49d" md5="8905b2f0badc5dba1e4255ca459abafe" sha1="7ec8d52d3376371ed0c82cc2b6660aab2d269b63"/>
+		<url>https://retroachievements.org/game/33084/hashes</url>
+		<hash>8905b2f0badc5dba1e4255ca459abafe</hash>
+	</game>
+	<game name="SM64 - Mario Goes Skateboarding 64 (Es) (v2.0) (AphidKirby) (Hack)" cloneof="SM64 - Mario Goes Skateboarding 64 (En) (v1.0) (AphidKirby) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - Mario Goes Skateboarding 64 (Es) (v2.0) (AphidKirby) (Hack)</description>
+		<release name="SM64 - Mario Goes Skateboarding 64 (Es) (v2.0) (AphidKirby) (Hack)" region="Spain"/>
+		<rom name="SM64 - Mario Goes Skateboarding 64 (Es) (v2.0) (AphidKirby) (Hack).z64" size="67108864" crc="fece8a94" md5="70a8fb8b1f3b19b73fbf7c71e0e95d65" sha1="102dcc564a47e2103715deb367452587be56e0f8"/>
+		<url>https://retroachievements.org/game/33084/hashes</url>
+		<hash>70a8fb8b1f3b19b73fbf7c71e0e95d65</hash>
 	</game>
 	
 	<game name="SM64 - Mario in the Multiverse (v1.1.1) (rovertronic) (Hack)">
@@ -2758,6 +2772,15 @@
 		<rom name="SM64 - Star Revenge 4.9 - Adulterated Realty (v1.1) (BroDute) (Hack).z64" size="67108864" crc="8bc6b73f" md5="63b808504369affe2157e3ed8d96781e" sha1="ac863bf4cc251c9f19a8ec5873ea7c8b230cbebf"/>
 		<url>https://retroachievements.org/game/24301/hashes</url>
 		<hash>63b808504369affe2157e3ed8d96781e</hash>
+	</game>
+	
+	<game name="SM64 - Star Revenge 5 - Neo Blue Realm (v1.3) (BroDute) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - Star Revenge 5 - Neo Blue Realm (v1.3) (BroDute) (Hack)</description>
+		<release name="SM64 - Star Revenge 5 - Neo Blue Realm (v1.3) (BroDute) (Hack)" region="World"/>
+		<rom name="SM64 - Star Revenge 5 - Neo Blue Realm (v1.3) (BroDute) (Hack).z64" size="67108864" crc="281f5bf8" md5="f2006e902bea8392f73de4c21a09b49a" sha1="fca30a0558d3feac3e7c26c82927cff9f5188cb7"/>
+		<url>https://retroachievements.org/game/17505/hashes</url>
+		<hash>f2006e902bea8392f73de4c21a09b49a</hash>
 	</game>
 	
 	<game name="SM64 - Star Revenge 5.5 - Destroyed Memories (v1.3) (BroDute) (Hack)">
@@ -6187,6 +6210,15 @@
 		<rom name="Super Mario 64 (USA) (Es) (Mistergame).z64" size="25165824" crc="cf9f8b39" md5="e51a6ff9b2dbbd216158cacff35eb215" sha1="7b156eae442097ab16bea77115f0619e236deaef"/>
 		<url>https://retroachievements.org/game/10003/hashes</url>
 		<hash>E51A6FF9B2DBBD216158CACFF35EB215</hash>
+	</game>
+	
+	<game name="Super Mario 64 (Subset - A Button Challenge)">
+		<category>Subset</category>
+		<description>Super Mario 64 (Subset - A Button Challenge)</description>
+		<release name="Super Mario 64 (Subset - A Button Challenge)" region="World"/>
+		<rom name="Super Mario 64 (Subset - A Button Challenge).z64" size="8388608" crc="4be1379f" md5="50dab78045aa04b95adb97f4648d61b0" sha1="e8848c53498569132026c5862e368ae08f718513"/>
+		<url>https://retroachievements.org/game/34390/hashes</url>
+		<hash>50dab78045aa04b95adb97f4648d61b0</hash>
 	</game>
 	
 	<game name="Super Mario 64 (Subset - Bonus) (Analog Camera)">

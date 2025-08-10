@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>No Subfolders</category>
-		<version>20250803</version>
-		<date>03 August 2025</date>
+		<version>20250810</version>
+		<date>10 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/7/games</url>
@@ -360,6 +360,15 @@
 		<rom name="Ghostbusters Remastered (v1.1) (Nesrocks) (Hack).nes" size="98320" crc="92e41b24" md5="2f49e1333ca3afbb2c4ea60d1e99ba06" sha1="aa77574477536b5209a5debd5e9c8378b5d95ea0"/>
 		<url>https://retroachievements.org/game/14692/hashes</url>
 		<hash>31c090206a82aedb083b5b20e9e5866f</hash>
+	</game>
+	
+	<game name="Mike Tyson's Punch-Out - Glass Joe's Punch Out!! (v1.2) (Landa) (Hack)">
+		<category>Hack</category>
+		<description>Mike Tyson's Punch-Out - Glass Joe's Punch Out!! (v1.2) (Landa) (Hack)</description>
+		<release name="Mike Tyson's Punch-Out - Glass Joe's Punch Out!! (v1.2) (Landa) (Hack)" region="World"/>
+		<rom name="Mike Tyson's Punch-Out - Glass Joe's Punch Out!! (v1.2) (Landa) (Hack).nes" size="262160" crc="14c25c6d" md5="d49bea0a1b500e1b43c165e798cb1ab0" sha1="59bfc63eede0a5377674a968af6fa3e77ec0af9d"/>
+		<url>https://retroachievements.org/game/34399/hashes</url>
+		<hash>0e5d415741ebea44fc2048b82d5cd51a</hash>
 	</game>
 	
 	<game name="Guardian Legend, The - Secret Edition (v3.3) (Optomon) (Hack)">
@@ -1228,6 +1237,15 @@
 		<hash>66a9b14d950df9865841564193c8091e</hash>
 	</game>
 	
+	<game name="Somari - Sonic the Hedgehog Vol. 2 (29.01.23) (Terwilf) (Hack)">
+		<category>Hack</category>
+		<description>Somari - Sonic the Hedgehog Vol. 2 (29.01.23) (Terwilf) (Hack)</description>
+		<release name="Somari - Sonic the Hedgehog Vol. 2 (29.01.23) (Terwilf) (Hack)" region="World"/>
+		<rom name="Somari - Sonic the Hedgehog Vol. 2 (29.01.23) (Terwilf) (Hack).nes" size="786448" crc="24ab54cc" md5="a4d2b61378d480b1cfef1ca78dc9fc9c" sha1="f5d47a1de420225ea61ae6d3321c60b6215b6d95"/>
+		<url>https://retroachievements.org/game/31880/hashes</url>
+		<hash>0838c05c7f0987f6a29ae2bcf16bb9bb</hash>
+	</game>
+	
 	<game name="SMB3 - Super Calm Bros. (v1.1) (PACO) (Hack)">
 		<category>Hack</category>
 		<description>SMB3 - Super Calm Bros. (v1.1) (PACO) (Hack)</description>
@@ -1725,15 +1743,6 @@
 		<rom name="Nightmare on Elm Street, A - Son of a Hundred Maniacs (World) (v0.02) (Aftermarket).nes" size="524304" crc="1095bb84" md5="604bfe08a93c30ab88731ff84fb3bb79" sha1="28ad76ff21ecd65e15c9a70d3318750f1f41d674"/>
 		<url>https://retroachievements.org/game/21431/hashes</url>
 		<hash>b4b3588aec47be77fa34283ddc1b3d5d</hash>
-	</game>
-	
-	<game name="Adventures of Panzer, The (World) (v1.6) (Aftermarket)">
-		<category>Homebrew</category>
-		<description>Adventures of Panzer, The (World) (v1.6) (Aftermarket)</description>
-		<release name="Adventures of Panzer, The (World) (v1.6) (Aftermarket)" region="World"/>
-		<rom name="Adventures of Panzer, The (World) (v1.6) (Aftermarket).nes" size="524304" crc="d25cec2a" md5="ec18a51ccadf1434167270c0ba901b41" sha1="880424d39d22a728de3c015bb4151e773c29c7ef"/>
-		<url>https://retroachievements.org/game/18372/hashes</url>
-		<hash>bbe584521e781e8a402087c1928c8c99</hash>
 	</game>
 	
 	<game name="Alfonzo's Arctic Adventure (World) (Demo 3) (Aftermarket)" cloneof="Alfonzo's Arctic Adventure (World) (2021-08-03T083513) (Aftermarket)">
@@ -2755,6 +2764,15 @@
 		<rom name="Tapeworm - Disco Puzzle (World) (Aftermarket).nes" size="524304" crc="7c34c910" md5="211dcc5024df960433f204cc00a5b288" sha1="e0b312e4ffae1700339f2f9b3954654596b29201"/>
 		<url>https://retroachievements.org/game/19885/hashes</url>
 		<hash>c11d16ac8b21ed460df566dcea260008</hash>
+	</game>
+	
+	<game name="Adventures of Panzer, The (World) (v1.6) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Adventures of Panzer, The (World) (v1.6) (Aftermarket)</description>
+		<release name="Adventures of Panzer, The (World) (v1.6) (Aftermarket)" region="World"/>
+		<rom name="Adventures of Panzer, The (World) (v1.6) (Aftermarket).nes" size="524304" crc="d25cec2a" md5="ec18a51ccadf1434167270c0ba901b41" sha1="880424d39d22a728de3c015bb4151e773c29c7ef"/>
+		<url>https://retroachievements.org/game/18372/hashes</url>
+		<hash>bbe584521e781e8a402087c1928c8c99</hash>
 	</game>
 	
 	<game name="Tiny Golf (World) (Aftermarket)">
@@ -14225,6 +14243,23 @@
 		<hash>ced3c31404b2f2da3c4c6e6bb090e752</hash>
 	</game>
 	
+	<game name="Transformers (USA) (NintendoAge)" cloneof="Tatakae! Chou Robot Seimeitai Transformers - Convoy no Nazo (Japan)">
+		<category>Retail</category>
+		<description>Transformers (USA) (NintendoAge)</description>
+		<release name="Transformers (USA) (NintendoAge)" region="USA"/>
+		<rom name="Transformers (USA) (NintendoAge).nes" size="65552" crc="53d33884" md5="92afaf971a5f18b4c7680f49bb336dc6" sha1="42bfc7d7ccae4de0f3e81f82f36987ccd6d702fb"/>
+		<url>https://retroachievements.org/game/4105/hashes</url>
+		<hash>555dd82b2e970312c98ab43656fa66dc</hash>
+	</game>
+	<game name="Tatakae! Chou Robot Seimeitai Transformers - Convoy no Nazo (Japan)">
+		<category>Retail</category>
+		<description>Tatakae! Chou Robot Seimeitai Transformers - Convoy no Nazo (Japan)</description>
+		<release name="Tatakae! Chou Robot Seimeitai Transformers - Convoy no Nazo (Japan)" region="Japan"/>
+		<rom name="Tatakae! Chou Robot Seimeitai Transformers - Convoy no Nazo (Japan).nes" size="65552" crc="8b75ba7e" md5="df8f2a2626eff8848dc3ed1d941388d4" sha1="2c7c3e50725c8f9689ff29685e9244fe9b4f8c14"/>
+		<url>https://retroachievements.org/game/4105/hashes</url>
+		<hash>ccf632b8a8199cacaf66ecb5f3c2f384</hash>
+	</game>
+	
 	<game name="Tecmo Bowl (USA) (Rev 1)">
 		<category>Retail</category>
 		<description>Tecmo Bowl (USA) (Rev 1)</description>
@@ -15115,23 +15150,6 @@
 		<rom name="Druaga no Tou (Japan).nes" size="40976" crc="911c9127" md5="b63a55584796c106bcfd3e2c08ea1e3c" sha1="77c2d6556ad70ae2f7a05a40fd211baa7ab28f48"/>
 		<url>https://retroachievements.org/game/3709/hashes</url>
 		<hash>cb9df087de3200d3721c60e3bfc4c43a</hash>
-	</game>
-	
-	<game name="Transformers (USA) (NintendoAge)" cloneof="Tatakae! Chou Robot Seimeitai Transformers - Convoy no Nazo (Japan)">
-		<category>Retail</category>
-		<description>Transformers (USA) (NintendoAge)</description>
-		<release name="Transformers (USA) (NintendoAge)" region="USA"/>
-		<rom name="Transformers (USA) (NintendoAge).nes" size="65552" crc="53d33884" md5="92afaf971a5f18b4c7680f49bb336dc6" sha1="42bfc7d7ccae4de0f3e81f82f36987ccd6d702fb"/>
-		<url>https://retroachievements.org/game/4105/hashes</url>
-		<hash>555dd82b2e970312c98ab43656fa66dc</hash>
-	</game>
-	<game name="Tatakae! Chou Robot Seimeitai Transformers - Convoy no Nazo (Japan)">
-		<category>Retail</category>
-		<description>Tatakae! Chou Robot Seimeitai Transformers - Convoy no Nazo (Japan)</description>
-		<release name="Tatakae! Chou Robot Seimeitai Transformers - Convoy no Nazo (Japan)" region="Japan"/>
-		<rom name="Tatakae! Chou Robot Seimeitai Transformers - Convoy no Nazo (Japan).nes" size="65552" crc="8b75ba7e" md5="df8f2a2626eff8848dc3ed1d941388d4" sha1="2c7c3e50725c8f9689ff29685e9244fe9b4f8c14"/>
-		<url>https://retroachievements.org/game/4105/hashes</url>
-		<hash>ccf632b8a8199cacaf66ecb5f3c2f384</hash>
 	</game>
 	
 	<game name="Uncanny X-Men, The (USA)">

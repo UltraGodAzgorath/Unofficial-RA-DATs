@@ -5,8 +5,8 @@
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
 		<category>Subfolders</category>
-		<version>20250727</version>
-		<date>27 July 2025</date>
+		<version>20250810</version>
+		<date>10 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/16/games</url>
@@ -61,6 +61,21 @@
 		<rom name="MKDD - Double Dash Extended (v2.0) (M64) (Hack).rvz" size="1152494604" crc="a28f9acd" md5="4bd129355be996112eb3e2f866e83fbc" sha1="908cdbed84b1e45da8340fc2f1f16d901d75b5ad"/>
 		<url>https://retroachievements.org/game/29759/hashes</url>
 		<hash>38c3c820ec89119d788402888fc7d05b</hash>
+	</game>
+	
+	<game name="Hack/MKDD - Double Dash Plus (v3.3) (NTSC) (Hack)">
+		<category></category>
+		<description>MKDD - Double Dash Plus (v3.3) (NTSC) (Hack)</description>
+		<rom name="MKDD - Double Dash Plus (v3.3) (NTSC) (Hack).rvz" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/30150/hashes</url>
+		<hash>59a5f7223f3392911bd350020164e8d8</hash>
+	</game>
+	<game name="Hack/MKDD - Double Dash!! Plus (Hack)">
+		<category></category>
+		<description>MKDD - Double Dash!! Plus (Hack)</description>
+		<rom name="MKDD - Double Dash!! Plus (Hack).rvz" size="773941096" crc="ea3f68da" md5="99b7e46dfe52e0c0f40e3f4b8b693a42" sha1="06154d50e01dbfb5c2094711fcba101c9b772474"/>
+		<url>https://retroachievements.org/game/30150/hashes</url>
+		<hash>eac6965e4b579397917a72ca108b8a90</hash>
 	</game>
 	
 	<game name="Hack/Metroid Prime - Trial of Strength (v1.2) (Uncle Reggie) (Hack)">
@@ -149,7 +164,7 @@
 		<hash>62ef4020aa956287ee45294612caf195</hash>
 	</game>
 	
-	<game name="Hack/SMS - Super Mario Eclipse (v1.0.6) (Eclipse Team) (Hack)">
+	<game name="Hack/Super Mario Sunshine/SMS - Super Mario Eclipse (v1.0.6) (Eclipse Team) (Hack)">
 		<category></category>
 		<description>SMS - Super Mario Eclipse (v1.0.6) (Eclipse Team) (Hack)</description>
 		<release name="SMS - Super Mario Eclipse (v1.0.6) (Eclipse Team) (Hack)" region="World"/>
@@ -158,12 +173,19 @@
 		<hash>1938af2aee854415255e3220fc366dd1</hash>
 	</game>
 	
-	<game name="Hack/SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks) (Hack)">
+	<game name="Hack/Super Mario Sunshine/SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks) (Hack)">
 		<category></category>
 		<description>SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks) (Hack)</description>
 		<rom name="SMS - Super Mario Sunshine Arcade 2 (v1.1) (Augs SMSHacks) (Hack).rvz" size="587675120" crc="b4d798f9" md5="53ec6e2da09406991aeb0a63134e9f12" sha1="e3b95d7695346113e9400132213fcab6c4f70d13"/>
 		<url>https://retroachievements.org/game/28854/hashes</url>
 		<hash>24AB3DDA91DD1A156CA68942F44C15D4</hash>
+	</game>
+	<game name="Hack/Super Mario Sunshine/SMS - Super Mario Sunshine Arcade 2 (v1.2) (Augs SMSHacks) (Hack)">
+		<category></category>
+		<description>SMS - Super Mario Sunshine Arcade 2 (v1.2) (Augs SMSHacks) (Hack)</description>
+		<rom name="SMS - Super Mario Sunshine Arcade 2 (v1.2) (Augs SMSHacks) (Hack).rvz" size="587675120" crc="b4d798f9" md5="53ec6e2da09406991aeb0a63134e9f12" sha1="e3b95d7695346113e9400132213fcab6c4f70d13"/>
+		<url>https://retroachievements.org/game/28854/hashes</url>
+		<hash>ce058335a554ef5a5bed27c32b259808</hash>
 	</game>
 	
 	<game name="Homebrew/Xeno Crisis (World) (Aftermarket)">
@@ -1412,6 +1434,21 @@
 		<rom name="Shrek Extra Large (USA).rvz" size="291233076" crc="ca767cc4" md5="1d5bcb7c52f2d2df33b8241151cf7245" sha1="9b5a03896b5a802083080dd4c9fe2a3a3b0a24b1"/>
 		<url>https://retroachievements.org/game/28372/hashes</url>
 		<hash>5432987374fdadfbca06f4b0bfddb51c</hash>
+	</game>
+	
+	<game name="Retail/Skies of Arcadia - Legends (Europe) (En,Fr,De,Es)">
+		<category></category>
+		<description>Skies of Arcadia - Legends (Europe) (En,Fr,De,Es)</description>
+		<rom name="Skies of Arcadia - Legends (Europe) (En,Fr,De,Es).rvz" size="1306672980" crc="8f55d47e" md5="35aecbdf0bb7d7ccf7b5268b0b11be15" sha1="623ec5d06d934dc4d8e6385bb0919790b06f1274"/>
+		<url>https://retroachievements.org/game/15543/hashes</url>
+		<hash>01352040a55de2651d5150d0120579d1</hash>
+	</game>
+	<game name="Retail/Skies of Arcadia - Legends (Europe) (En,Fr,De,Es) (60Hz) (v1.0) (Maeson)">
+		<category></category>
+		<description>Skies of Arcadia - Legends (Europe) (En,Fr,De,Es) (60Hz) (v1.0) (Maeson)</description>
+		<rom name="Skies of Arcadia - Legends (Europe) (En,Fr,De,Es) (60Hz) (v1.0) (Maeson).rvz" size="1306672984" crc="994efdbc" md5="5187aff09992bb87656c3418ede81d50" sha1="1015c9111a319180b8fc8e801a2acf2587ca42c6"/>
+		<url>https://retroachievements.org/game/15543/hashes</url>
+		<hash>28bfcee583a2ddb99a44cdb9f9a815c5</hash>
 	</game>
 	
 	<game name="Retail/Sonic Adventure 2 - Battle (USA) (En,Ja,Fr,De,Es)">

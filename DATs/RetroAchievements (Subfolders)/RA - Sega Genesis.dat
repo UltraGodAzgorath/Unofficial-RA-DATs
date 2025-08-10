@@ -5,8 +5,8 @@
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
 		<category>Subfolders</category>
-		<version>20250727</version>
-		<date>27 July 2025</date>
+		<version>20250810</version>
+		<date>10 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/1/games</url>
@@ -59,6 +59,14 @@
 		<rom name="S&amp;K - Blue Sphere Plus (v11) (Main Memory) (Hack).md" size="1048576" crc="25faeefe" md5="921734da4123ecbc4494e32fcf071e56" sha1="12745b16207b1aebc6f411a3ab67e904bbfa160f"/>
 		<url>https://retroachievements.org/game/16281/hashes</url>
 		<hash>921734da4123ecbc4494e32fcf071e56</hash>
+	</game>
+	
+	<game name="Hack/Sonic the Hedgehog 2/Sonic 2 - Bubsy in Sonic 2 (4-25-15) (Pacca,Purple Star) (Hack)">
+		<category></category>
+		<description>Sonic 2 - Bubsy in Sonic 2 (4-25-15) (Pacca,Purple Star) (Hack)</description>
+		<rom name="Sonic 2 - Bubsy in Sonic 2 (4-25-15) (Pacca,Purple Star) (Hack).md" size="1048576" crc="1fe62a95" md5="64bfd8145d581041c165204cc0a105bd" sha1="c82b0b73af1fc91cc8ee9d997c9b2b29d6105b2d"/>
+		<url>https://retroachievements.org/game/17070/hashes</url>
+		<hash>64bfd8145d581041c165204cc0a105bd</hash>
 	</game>
 	
 	<game name="Hack/Sonic the Hedgehog/Sonic 1 - CrazySonic (v1.0) (Ralakimus) (Hack)">
@@ -505,6 +513,14 @@
 		<rom name="SoR2 - Syndicate Wars (v0.9) (Red Crimson) (Hack).md" size="2963148" crc="33e20cf3" md5="a061d3b953e7ad4d931e8e830364c376" sha1="78077aad49796e8f7e96e5a8fc2ad3d3140cfed3"/>
 		<url>https://retroachievements.org/game/8797/hashes</url>
 		<hash>a061d3b953e7ad4d931e8e830364c376</hash>
+	</game>
+	
+	<game name="Hack/Sonic the Hedgehog/Sonic 1 - Tails in Sonic the Hedgehog (v2.1.1) (Puto) (Hack)">
+		<category></category>
+		<description>Sonic 1 - Tails in Sonic the Hedgehog (v2.1.1) (Puto) (Hack)</description>
+		<rom name="Sonic 1 - Tails in Sonic the Hedgehog (v2.1.1) (Puto) (Hack).md" size="513270" crc="f8294d70" md5="e83e387387bba16afd576001a0861aed" sha1="69ae8a8a3831b762b5e1f7a0ef49a9489f4c4d4e"/>
+		<url>https://retroachievements.org/game/26731/hashes</url>
+		<hash>e83e387387bba16afd576001a0861aed</hash>
 	</game>
 	
 	<game name="Hack/Streets of Rage 2/SoR2 - Teenage Mutant Ninja Turtles - Shredder's Re-Revenge (v1.01) (savok) (Hack)">
@@ -4280,6 +4296,14 @@
 		<rom name="Pocahontas (USA).md" size="4194304" crc="6ddd1c6d" md5="04d546c82591ce29d7135c0e0fc5fdd2" sha1="b57ae70f1d735c8052991053297a0c878f8a9417"/>
 		<url>https://retroachievements.org/game/4390/hashes</url>
 		<hash>04d546c82591ce29d7135c0e0fc5fdd2</hash>
+	</game>
+	
+	<game name="Retail/Powerball (USA)">
+		<category></category>
+		<description>Powerball (USA)</description>
+		<rom name="Powerball (USA).md" size="524288" crc="7adf232f" md5="76d1381bbf7e02b8607482ecd23a7dab" sha1="217d64da0b09b88dfa3fd91b7fa081ec7a8666e0"/>
+		<url>https://retroachievements.org/game/15328/hashes</url>
+		<hash>76d1381bbf7e02b8607482ecd23a7dab</hash>
 	</game>
 	
 	<game name="Retail/Predator 2 (USA, Europe)">

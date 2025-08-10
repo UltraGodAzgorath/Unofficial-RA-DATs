@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>Subfolders</category>
-		<version>20250803</version>
-		<date>03 August 2025</date>
+		<version>20250810</version>
+		<date>10 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
@@ -1288,6 +1288,49 @@
 		<rom name="Carnival Games (USA) (En,Fr).nds" size="33554432" crc="e40bd22d" md5="345cb78250235fd813f69c8875901b43" sha1="11e4f34c72a3dd5f2c80224309fa9a14f7c97d22"/>
 		<url>https://retroachievements.org/game/16342/hashes</url>
 		<hash>5afd81dea5581155512e439cc3ba9ae1</hash>
+	</game>
+	
+	<game name="Retail/Cars - Mater-National Championship (USA)">
+		<category></category>
+		<description>Cars - Mater-National Championship (USA)</description>
+		<rom name="Cars - Mater-National Championship (USA).nds" size="33554432" crc="0a0a61d7" md5="ead2cb7f5086da973dc46fb43cd92d7d" sha1="db25ccc7d0e6e40be806816c0b01742fa92d02b2"/>
+		<url>https://retroachievements.org/game/17349/hashes</url>
+		<hash>60cf00632d7de86980b29b7c676f097e</hash>
+	</game>
+	<game name="Retail/Cars - Mater-National Championship (Europe) (En,Sv,Da)">
+		<category></category>
+		<description>Cars - Mater-National Championship (Europe) (En,Sv,Da)</description>
+		<rom name="Cars - Mater-National Championship (Europe) (En,Sv,Da).nds" size="33554432" crc="57dcf8f4" md5="caec7ecba5c06be0ec6e874a6be38684" sha1="30f22dc9d64e5eacca6c885a442a19afc0b0152b"/>
+		<url>https://retroachievements.org/game/17349/hashes</url>
+		<hash>cf7f53905194e81dc05934eb7e355e4b</hash>
+	</game>
+	<game name="Retail/Cars - Hook International (Germany)">
+		<category></category>
+		<description>Cars - Hook International (Germany)</description>
+		<rom name="Cars - Hook International (Germany).nds" size="33554432" crc="1bda19e0" md5="3fae2fb96a47bb0996b7d6a47dde5670" sha1="4f0d585b9a021f3a016a2d75f4179c96d13df2a4"/>
+		<url>https://retroachievements.org/game/17349/hashes</url>
+		<hash>98c3af692102672824287ff29b2f85e1</hash>
+	</game>
+	<game name="Retail/Cars - Mater-National Championship (Europe) (Fr,Nl)">
+		<category></category>
+		<description>Cars - Mater-National Championship (Europe) (Fr,Nl)</description>
+		<rom name="Cars - Mater-National Championship (Europe) (Fr,Nl).nds" size="33554432" crc="78c3ca39" md5="277d5cbfa0aa29a99de31fbfdd4cba8e" sha1="d7181ab6b4285f9a1e8ecaa8aee98aaf8fdd97c3"/>
+		<url>https://retroachievements.org/game/17349/hashes</url>
+		<hash>7a089d3ab75131fbf1ff87ff79abc27c</hash>
+	</game>
+	<game name="Retail/Cars - La Coppa Internazionale di Carl Attrezzi (Italy)">
+		<category></category>
+		<description>Cars - La Coppa Internazionale di Carl Attrezzi (Italy)</description>
+		<rom name="Cars - La Coppa Internazionale di Carl Attrezzi (Italy).nds" size="33554432" crc="43308fe0" md5="e956b6185b6b07b37b18c0d8d4746f38" sha1="b0a1184ae94b77398126154426f94210f154e640"/>
+		<url>https://retroachievements.org/game/17349/hashes</url>
+		<hash>1efa2789728d9b491d485f6f27dcbec6</hash>
+	</game>
+	<game name="Retail/Cars - La Copa Internacional de Mate (Spain)">
+		<category></category>
+		<description>Cars - La Copa Internacional de Mate (Spain)</description>
+		<rom name="Cars - La Copa Internacional de Mate (Spain).nds" size="33554432" crc="43308fe0" md5="e956b6185b6b07b37b18c0d8d4746f38" sha1="b0a1184ae94b77398126154426f94210f154e640"/>
+		<url>https://retroachievements.org/game/17349/hashes</url>
+		<hash>d260266481a4a69d8d9b2f846b75128d</hash>
 	</game>
 	
 	<game name="Retail/Cartoon Network Racing (Europe) (En,Fr,De,Es,It,Sv,No,Da)">
