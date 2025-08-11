@@ -1,3 +1,3 @@
-echo "*.cue text eol=crlf" >> .gitattributes
-echo "*.gdi text eol=crlf" >> .gitattributes
-echo "*.m3u text eol=crlf" >> .gitattributes
+*.cue  text eol=crlf
+*.gdi  text eol=crlf
+*.m3u  text eol=crlf
