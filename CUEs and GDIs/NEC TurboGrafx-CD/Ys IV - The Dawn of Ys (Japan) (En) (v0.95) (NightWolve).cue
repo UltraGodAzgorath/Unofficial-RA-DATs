@@ -1,5 +1,4 @@
 FILE "Ys IV - The Dawn of Ys (Japan) (En) (v0.95) (NightWolve).bin" BINARY
-
   REM SESSION 01        (*)
     TRACK 01 AUDIO
       INDEX 01 00:00:00
