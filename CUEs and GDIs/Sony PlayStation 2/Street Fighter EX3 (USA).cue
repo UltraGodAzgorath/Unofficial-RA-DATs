@@ -1,3 +1,0 @@
-FILE "Street Fighter EX3 (USA).bin" BINARY
-  TRACK 01 MODE2/2352
-    INDEX 01 00:00:00
