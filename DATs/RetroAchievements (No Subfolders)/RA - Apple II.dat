@@ -5,8 +5,8 @@
 		<name>RA - Apple II</name>
 		<description>Apple II</description>
 		<category>No Subfolders</category>
-		<version>20250720</version>
-		<date>20 July 2025</date>
+		<version>20250812</version>
+		<date>12 August 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/38/games</url>
@@ -62,7 +62,7 @@
 		<category>Retail</category>
 		<description>A.E. (World) (WozADay)</description>
 		<release name="A.E. (World) (WozADay)" region="World"/>
-		<rom name="000.m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="A.E. (World) (WozADay)m3u" size="72" crc="611040e6" md5="b0d523daa71b0f402a39ff755c9b4baa" sha1="9438f8755333b7c71faca4da786f008de7c41fa4"/>
 		<rom name="A.E. (World) (Side A) (WozADay).woz" size="168206" crc="06e2e82a" md5="957c6ac3752bcd138b7b6932db34b51d" sha1="dbd31e80d1077788be5eebc016c3201ddcb7c026"/>
 		<rom name="A.E. (World) (Side B) (WozADay).woz" size="234766" crc="d0a7dadf" md5="a4df0c61d951483d8bbea9a03f3449a0" sha1="5a0700afe19e7c2163bc41e1cf59f81330ce632c"/>
 		<url>https://retroachievements.org/game/22130/hashes</url>
@@ -194,7 +194,7 @@
 		<category>Retail</category>
 		<description>Conan (World) (WozADay)</description>
 		<release name="Conan (World) (WozADay)" region="World"/>
-		<rom name="000.m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Conan (World) (WozADay).m3u" size="74" crc="3e853752" md5="b8617c57ea7eca7d03e43e9f36fa5903" sha1="70a311dbb208854b467fcce5777277b459a8280b"/>
 		<rom name="Conan (World) (Side A) (WozADay).woz" size="251151" crc="507ac26c" md5="c528fa485c130352470ce07f33334223" sha1="2f29e393dd1009e1020766dd3efa6c83d9ccd6a5"/>
 		<rom name="Conan (World) (Side B) (WozADay).woz" size="238759" crc="488b2831" md5="d8f4bafb48c1b663bdb846037dca15e0" sha1="8e4676a1a537fa92a358b9f0b198d0ce7a700ab3"/>
 		<url>https://retroachievements.org/game/30974/hashes</url>
@@ -233,7 +233,7 @@
 		<category>Retail</category>
 		<description>Dark Lord (World) (WozADay)</description>
 		<release name="Dark Lord (World) (WozADay)" region="World"/>
-		<rom name="000.m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Dark Lord (World) (WozADay).m3u" size="82" crc="6334a409" md5="e99c1ab1fa95ac05fd54ba7b741ccaae" sha1="1dd948774bdceb8f969cad59e4b18a468fd27bdb"/>
 		<rom name="Dark Lord (World) (Side A) (WozADay).woz" size="228125" crc="4962c92d" md5="dceb7f41c35891323a35a2ed81a55b45" sha1="3a6d6940fd0192d33d4dbd464a76b397bd9ea46b"/>
 		<rom name="Dark Lord (World) (Side B) (WozADay).woz" size="228125" crc="22aec95a" md5="41673ba6275bb4665e22616e33799d47" sha1="a9cd4bc209cf2435d34e524bca8b8296daaa307a"/>
 		<url>https://retroachievements.org/game/32644/hashes</url>
@@ -254,7 +254,7 @@
 		<category>Retail</category>
 		<description>Donald Duck's Playground (World) (Tosec)</description>
 		<release name="Donald Duck's Playground (World) (Tosec)" region="World"/>
-		<rom name="000.m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Donald Duck's Playground (World) (Tosec).m3u" size="108" crc="c6590ead" md5="7a892ed6b81360a7ec99fb0491128669" sha1="dab31ea3e3df3f1268509fd4017328638da9311e"/>
 		<rom name="Donald Duck's Playground (World) (Side A) (Tosec).dsk" size="143360" crc="75e28fbf" md5="60f45339fbe46f408592bca103cfe39a" sha1="4dc8b4dbf3bd6be1a3cd2193450127b039d6dce2"/>
 		<rom name="Donald Duck's Playground (World) (Side B) (Tosec).dsk" size="143360" crc="370ac09c" md5="5eec6a88baa3f36a219a13125f6e2163" sha1="bdc2536e4caed7ed02b408f776c438c8fcb66223"/>
 		<url>https://retroachievements.org/game/22129/hashes</url>
@@ -422,7 +422,7 @@
 		<category>Retail</category>
 		<description>Gold Rush! (World) (WozADay)</description>
 		<release name="Gold Rush! (World) (WozADay)" region="World"/>
-		<rom name="000.m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Gold Rush! (World) (WozADay).m3u" size="702" crc="385feb30" md5="69ea35845f9e5df7cce3fc3555d1371d" sha1="7622728e6f858503f35f734090ba1aa252f2380d"/>
 		<rom name="Gold Rush! (World) (Disk 1A) (WozADay).woz" size="234823" crc="353becc5" md5="0c21eeed49f7eaa4ad68948626639b03" sha1="4017229d3201a124fd6e3279e5636a22f1db2ed4"/>
 		<rom name="Gold Rush! (World) (Disk 1B) (WozADay).woz" size="234823" crc="65579b17" md5="d09912eede9424eafc4ad463fee93eba" sha1="719361e313bdbec9750d905cc9e6df1fcd0b4309"/>
 		<rom name="Gold Rush! (World) (Disk 2A) (WozADay).woz" size="234823" crc="402a1809" md5="bdcfed7a8d7d3146cf061a45fa2c84d8" sha1="e7bfc6707a0dc06a3a056e65ff97e98ba5c832f6"/>
@@ -478,7 +478,7 @@
 		<category>Retail</category>
 		<description>Indiana Jones and the Temple of Doom (World) (WozADay)</description>
 		<release name="Indiana Jones and the Temple of Doom (World) (WozADay)" region="World"/>
-		<rom name="000.m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Indiana Jones and the Temple of Doom (World) (WozADay).m3u" size="136" crc="31ddfcf2" md5="fd2bd3acd457d4a74f01cbc875c22869" sha1="2a510b9f6a4d89c802137691dbd9d7bd50626b8b"/>
 		<rom name="Indiana Jones and the Temple of Doom (World) (Side A) (WozADay).woz" size="234774" crc="b2fd5a62" md5="b7ff77f70a15a05295f8a7b104bd8907" sha1="825cfc98c220a58a5bcc4a9d48c584bd5c8ddb2a"/>
 		<rom name="Indiana Jones and the Temple of Doom (World) (Side B) (WozADay).woz" size="234774" crc="887d8284" md5="71e31e6ab2bf001f7838e75e9811ca33" sha1="a8d3fd906e10e7deddf33d8ec0b5b95e3c504d84"/>
 		<url>https://retroachievements.org/game/32161/hashes</url>
@@ -507,7 +507,7 @@
 	<game name="King's Quest (World) (AppleAsIMov) (TheBlade)" cloneof="King's Quest (World) (4AM)">
 		<category>Retail</category>
 		<description>King's Quest (World) (AppleAsIMov) (TheBlade)</description>
-		<rom name="000.m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="King's Quest (World) (AppleAsIMov) (TheBlade).m3u" size="181" crc="84c39d2b" md5="eb5da3c8a134a325b2151065000ce089" sha1="486d5843e0bf9286db65adb4001360a57e7c6507"/>
 		<rom name="King's Quest (World) (Disk 1A) (AppleAsIMov) (TheBlade).dsk" size="232960" crc="99a58231" md5="13a81608986755022e048338450afb1a" sha1="f38d5c4756aafd9b9ab1c4c10643622cd21ab45b"/>
 		<rom name="King's Quest (World) (Disk 1B) (AppleAsIMov) (TheBlade).dsk" size="232960" crc="3a811fa7" md5="c7d0d8e28da4c4ee93ef059230260c62" sha1="e3a480755172e5a2f7b46a8800fc2282e264186a"/>
 		<rom name="King's Quest (World) (Disk 2A) (AppleAsIMov) (TheBlade).dsk" size="232960" crc="6dcb8517" md5="c5c91d02d70478080f376e280592db9d" sha1="606ec2d5df63c5b7addbcc6696fea2ac4f4ff8dd"/>
@@ -520,7 +520,7 @@
 		<category>Retail</category>
 		<description>King's Quest (World) (4AM)</description>
 		<release name="King's Quest (World) (4AM)" region="World"/>
-		<rom name="000.m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="King's Quest (World) (4AM).m3u" size="124" crc="89df7543" md5="e4a24557c37c5c678e69bc4a3e052855" sha1="28e5991f00b6dcd4ea53f3fb1c8e66b26a643c99"/>
 		<rom name="King's Quest (World) (Disk 1A) (4AM).dsk" size="143360" crc="b7542a8a" md5="5ce474d9ee686f66ffff6e6f26a90418" sha1="57df97d42cb6ba3e08a725823de2ba0f00b799a0"/>
 		<rom name="King's Quest (World) (Disk 1B) (4AM).dsk" size="143360" crc="b39dc9ff" md5="0abf79679eb7d33ccae220ab9229cb27" sha1="612d93007050cd47f1216b406a7fbb62f9ab75a0"/>
 		<rom name="King's Quest (World) (Disk 2A) (4AM).dsk" size="143360" crc="2fd0b2b2" md5="f4c6c8c11e3fab4fc22e44be3c535f67" sha1="2c179d77b3216af2d30dc083369052054258b5a9"/>
@@ -532,7 +532,7 @@
 	<game name="King's Quest (World) (Tosec)" cloneof="King's Quest (World) (4AM)">
 		<category>Retail</category>
 		<description>King's Quest (World) (Tosec)</description>
-		<rom name="000.m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="King's Quest (World) (Tosec).m3u" size="176" crc="c35cff65" md5="575681756810c6f7e939ba17a38090b8" sha1="63721202bd2f5f0beb283dcd3da8144477e41048"/>
 		<rom name="King's Quest (World) (Disk 1A) (Tosec).nib" size="232960" crc="5b5c80f9" md5="ebb389599debac2b554c431bfb0f919c" sha1="4ad47d2f8d19b11e362c222694356b0536f34448"/>
 		<rom name="King's Quest (World) (Disk 1B) (Tosec).nib" size="232960" crc="45ae3886" md5="6a2bd8ce8b19436d2ce455b751aadb31" sha1="563f67b9d44a2d5ba410da4533bef73a5c04797e"/>
 		<rom name="King's Quest (World) (Disk 2A) (Tosec).nib" size="232960" crc="09b6969a" md5="1895ddb08c2068a66f9df3765a29f5bf" sha1="87da424d5eac53a05fc2403a44c3e92cfa68f49c"/>
@@ -546,7 +546,7 @@
 	<game name="King's Quest (World) (WozADay)" cloneof="King's Quest (World) (4AM)">
 		<category>Retail</category>
 		<description>King's Quest (World) (WozADay)</description>
-		<rom name="000.m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="King's Quest (World) (WozADay).m3u" size="136" crc="639702be" md5="31b902ec9f3464da4a61bd3ddf932036" sha1="992f1f556a22ee82d0327c60ed60d654a6d8d53c"/>
 		<rom name="King's Quest (World) (Disk 1A) (WozADay).woz" size="234862" crc="c28ba31f" md5="38027dd56819f2a03c5945179866332a" sha1="ed05892f119773d794393f94083eeb9a0f2513e7"/>
 		<rom name="King's Quest (World) (Disk 1B) (WozADay).woz" size="234862" crc="65c51608" md5="ad6f0b49d6777a4baa9fa645be8f8c72" sha1="6203dee86fc511ad5f90b6ada914b2b4faf368bb"/>
 		<rom name="King's Quest (World) (Disk 2A) (WozADay).woz" size="234862" crc="e89d0f26" md5="3df2f894d07e22b18631053d7dd3d00a" sha1="c44892bf0710b86fda0b30703170c0c16d21a2f0"/>
@@ -559,7 +559,7 @@
 	<game name="King's Quest II - Romancing the Throne (World) (AppleAsIMov)" cloneof="King's Quest II - Romancing the Throne (World) (WozADay)">
 		<category>Retail</category>
 		<description>King's Quest II - Romancing the Throne (World) (AppleAsIMov)</description>
-		<rom name="000.m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="King's Quest II - Romancing the Throne (World) (AppleAsIMov).m3u" size="378" crc="7b765f0b" md5="412ff3c4a1cba78a4d2a03b56844d7a7" sha1="3e7d74be96f9b174ce31496c5ef8e1cbc764ccc2"/>
 		<rom name="King's Quest II - Romancing the Throne (World) (Disk 1A) (AppleAsIMov).nib" size="232960" crc="13c2f010" md5="51fecf807b7369288714fa67492d0209" sha1="cd2ad4cf3e6f7b5e4cf0703144ba68638cd446f0"/>
 		<rom name="King's Quest II - Romancing the Throne (World) (Disk 1B) (AppleAsIMov).nib" size="232960" crc="1b1a2260" md5="654f982ff24269dedf646052ec469f94" sha1="9e33f5c9744177b6192680ebfdb6101663213fc0"/>
 		<rom name="King's Quest II - Romancing the Throne (World) (Disk 2A) (AppleAsIMov).nib" size="232960" crc="9bf04e5e" md5="74571c7ecfa0f2f6686a8ff70029b595" sha1="6377c21fa71b98272ce553f8732412cfaf6bcae1"/>
@@ -576,7 +576,7 @@
 		<category>Retail</category>
 		<description>King's Quest II - Romancing the Throne (World) (WozADay)</description>
 		<release name="King's Quest II - Romancing the Throne (World) (WozADay)" region="World"/>
-		<rom name="000.m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="King's Quest II - Romancing the Throne (World) (WozADay).m3u" size="358" crc="ad300212" md5="589f6dd1c39dae1bc72b5834ab3b9c8e" sha1="2e43cc256bb8f7a8f36cbdec162237cef541fde5"/>
 		<rom name="King's Quest II - Romancing the Throne (World) (Disk 1A) (WozADay).woz" size="234882" crc="86bd5fcb" md5="0717faca504daa539e6b2771e256d3ed" sha1="e02bddc74822ccf98c0d083877d3028fa8fde80b"/>
 		<rom name="King's Quest II - Romancing the Throne (World) (Disk 1B) (WozADay).woz" size="234882" crc="40d6ecab" md5="56443afd0f1fd3bef2d7b1765d4c3b01" sha1="c014b50a459635178766d4359ac24aefd689f085"/>
 		<rom name="King's Quest II - Romancing the Throne (World) (Disk 2A) (WozADay).woz" size="234882" crc="a9b6e810" md5="313fb09806ab5696be6ebfa710688d6b" sha1="2ae2fa2e41f91a24f2a8e2f489f991212e540c86"/>
@@ -592,7 +592,7 @@
 	<game name="King's Quest II - Romancing the Throne (1985) (Sierra OnLine) (The Blade)" cloneof="King's Quest II - Romancing the Throne (World) (WozADay)">
 		<category>Retail</category>
 		<description>King's Quest II - Romancing the Throne (1985) (Sierra OnLine) (The Blade)</description>
-		<rom name="000.m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="King's Quest II - Romancing the Throne (1985) (Sierra OnLine) (The Blade).m3u" size="474" crc="3ce99d96" md5="08a110bdaca2a57887e7cfce560a2d77" sha1="0ad5435eaf5a6b5ab6ccea77a9e67ee27918fd8d"/>
 		<rom name="King's Quest II - Romancing the Throne (1985) (Sierra OnLine) (The Blade) (Disk 1 - Side A).nib" size="232960" crc="589bfe41" md5="d8549ae7a488ab18289a02c13461d24b" sha1="9523fcce12e73c9032cb96390724c877879c3ee1"/>
 		<rom name="King's Quest II - Romancing the Throne (1985) (Sierra OnLine) (The Blade) (Disk 1 - Side B).nib" size="232960" crc="4bc574fa" md5="239f0238141ba3ecb100d015d543ac1f" sha1="c9ab71b2b23ca681f698810e6548141ed11d627f"/>
 		<rom name="King's Quest II - Romancing the Throne (1985) (Sierra OnLine) (The Blade) (Disk 2 - Side A).nib" size="232960" crc="a089c0d3" md5="e077d01f89c5d87fdf1f85890f579ed4" sha1="a14e3eb908375fff4b7478e2a35a837f23a24267"/>
@@ -609,7 +609,7 @@
 	<game name="King's Quest III - To Heir is Human (World) (AppleAsIMov)" cloneof="King's Quest III - To Heir is Human (World) (4AM)">
 		<category>Retail</category>
 		<description>King's Quest III - To Heir is Human (World) (AppleAsIMov)</description>
-		<rom name="000.m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="King's Quest III - To Heir is Human (World) (AppleAsIMov).m3u" size="728" crc="a5f62ad8" md5="1268a20204bd9be4fbfb872abfdb3853" sha1="fe6ebac85c7809d42817ff3936fd257d16c63b7e"/>
 		<rom name="King's Quest III - To Heir is Human (World) (Disk 1A) (AppleAsIMov).nib" size="232960" crc="1813f38a" md5="672bc970b2fb7ce5196aaea5f352db0a" sha1="c5d456858a920ee92a787a4d39a926b0f7448037"/>
 		<rom name="King's Quest III - To Heir is Human (World) (Disk 1B) (AppleAsIMov).nib" size="232960" crc="896abefc" md5="5f7173c2f1b83c1d3f1689d2e6828527" sha1="67de2963f5a45d67dbb8898795254a0a82c5e80d"/>
 		<rom name="King's Quest III - To Heir is Human (World) (Disk 2A) (AppleAsIMov).nib" size="232960" crc="7ca8c660" md5="39defab9848473f907ae74014bf3043d" sha1="d00d5ef4ecf8abe3d7e831e197af9ba1ece2bfff"/>
@@ -636,7 +636,7 @@
 		<category>Retail</category>
 		<description>King's Quest III - To Heir is Human (World) (4AM)</description>
 		<release name="King's Quest III - To Heir is Human (World) (4AM)" region="World"/>
-		<rom name="000.m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="King's Quest III - To Heir is Human (World) (4AM).m3u" size="648" crc="4d30c15f" md5="e7b5e07b5b8662829a8e9fea08a70165" sha1="becf6e820b6c65d9445386bc7fac985ceed8f8c8"/>
 		<rom name="King's Quest III - To Heir is Human (World) (Disk 1A) (4AM).dsk" size="143360" crc="8a977778" md5="6797501abd69a5ebf43a0afd7a1a123a" sha1="3546df14878f201bbbb3c3c31cc33890f1b49090"/>
 		<rom name="King's Quest III - To Heir is Human (World) (Disk 1B) (4AM).dsk" size="143360" crc="dd88b2c3" md5="f35cf26bef5a3e60e5a0cbedfe39a038" sha1="e79817ac1d65f4a3b7bde274304d5c32a0c2cf4b"/>
 		<rom name="King's Quest III - To Heir is Human (World) (Disk 2A) (4AM).dsk" size="143360" crc="5d606a41" md5="a728e92049696db5e164d95ef3fdb7cc" sha1="c47e8f7d2f04a5f4019b2e62f2d592e954f04658"/>
@@ -662,7 +662,7 @@
 	<game name="King's Quest III - To Heir is Human (World) (WozADay)" cloneof="King's Quest III - To Heir is Human (World) (4AM)">
 		<category>Retail</category>
 		<description>King's Quest III - To Heir is Human (World) (WozADay)</description>
-		<rom name="000.m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="King's Quest III - To Heir is Human (World) (WozADay).m3u" size="688" crc="5730230e" md5="706da415b63195c8593417ca413a896b" sha1="dc8701ad529a7715ec5e145f90f263b401a040e6"/>
 		<rom name="King's Quest III - To Heir is Human (World) (Disk 1A) (WozADay).woz" size="235049" crc="111cb4d4" md5="007c38d9195c68203e017c004298a7e2" sha1="82bea99d24d98cd392ff396174b94f6229e90264"/>
 		<rom name="King's Quest III - To Heir is Human (World) (Disk 1B) (WozADay).woz" size="235049" crc="be67af31" md5="17cc68fd948ae386a252fe3f508ea848" sha1="57b75d33440252acaf4f8c3d3add3ee3be972eda"/>
 		<rom name="King's Quest III - To Heir is Human (World) (Disk 2A) (WozADay).woz" size="235049" crc="ac51874b" md5="698039cd1a7926f6e806dd03b8192c5d" sha1="e97464f589f06a9fe2f4ca0e2ba4729d99cd0b43"/>
@@ -690,7 +690,7 @@
 		<category>Retail</category>
 		<description>King's Quest IV - The Perils of Rosella (World) (WozADay)</description>
 		<release name="King's Quest IV - The Perils of Rosella (World) (WozADay)" region="World"/>
-		<rom name="000.m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="King's Quest IV - The Perils of Rosella (World) (WozADay).m3u" size="1166" crc="15edc36f" md5="f17349ae091a5e839359774f6a543f01" sha1="71d7d9251576275a974fb8f057d91e0c5bb282c9"/>
 		<rom name="King's Quest IV - The Perils of Rosella (World) (Disk 1A) (WozADay).woz" size="235026" crc="4637b7f9" md5="da07139cb035afe5ce0c7e22d328fb5e" sha1="6a4eb9ccebc0c73ab671d31ab78fde86457fe9fd"/>
 		<rom name="King's Quest IV - The Perils of Rosella (World) (Disk 1B) (WozADay).woz" size="235026" crc="e4137905" md5="8a5d200bdcbced560d4909353f261313" sha1="c24b1fa30dc09ba8c75198f43afe7b2a33def2e7"/>
 		<rom name="King's Quest IV - The Perils of Rosella (World) (Disk 2A) (WozADay).woz" size="235026" crc="cb65d66c" md5="63437eb5bf3a7abb729379f2d249ee5a" sha1="38458c64f2fb9ff6e714ef381b793c993521f642"/>
@@ -730,7 +730,7 @@
 		<category>Retail</category>
 		<description>La Femme qui ne supportait pas les ordinateurs... (1985) (Froggy Software)</description>
 		<release name="La Femme qui ne supportait pas les ordinateurs... (1985) (Froggy Software)" region="World"/>
-		<rom name="000.m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="La Femme qui ne supportait pas les ordinateurs... (1985) (Froggy Software).m3u" size="176" crc="5eb1eb0e" md5="1ed5f7d9582a93673b7dcd4b74640059" sha1="a79b53765e82d040dd41d95e6679504c15df0053"/>
 		<rom name="La Femme qui ne supportait pas les ordinateurs... (1985) (Froggy Software) (Disk 1).dsk" size="143360" crc="1fa3f4c9" md5="9d3749dceb156e166fea18765263ba92" sha1="605cfd5a7896f555b3685caedcde78fd309c263f"/>
 		<rom name="La Femme qui ne supportait pas les ordinateurs... (1985) (Froggy Software) (Disk 2).dsk" size="143360" crc="1661e4a9" md5="b70feb11a48af379b44300e8a20e47ca" sha1="18d77b7d0cfcd9ec0d6c7873c1e12670e6ecfb99"/>
 		<url>https://retroachievements.org/game/14391/hashes</url>
@@ -742,7 +742,7 @@
 		<category>Retail</category>
 		<description>Leisure Suit Larry I (in The Land of The Lounge Lizards) (World) (WozADay)</description>
 		<release name="Leisure Suit Larry I (in The Land of The Lounge Lizards) (World) (WozADay)" region="World"/>
-		<rom name="000.m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Leisure Suit Larry I (in The Land of The Lounge Lizards) (World) (WozADay).m3u" size="448" crc="dd6e1dba" md5="36d09b9ad29c1fe48b51032f868a13b3" sha1="e70dc4593b3e36f2f50652cc1abb5e8f8c5c7c44"/>
 		<rom name="Leisure Suit Larry I (in The Land of The Lounge Lizards) (World) (Disk 1A) (WozADay).woz" size="234888" crc="a1de126d" md5="bc7cb21febf7b3e6b405fae9fa03a4e8" sha1="44232e6c20a9e68f72c2c7629ff83c2dc99f79d6"/>
 		<rom name="Leisure Suit Larry I (in The Land of The Lounge Lizards) (World) (Disk 1B) (WozADay).woz" size="235596" crc="09f704cb" md5="3883aa9885c29ab327c234d5801f74e4" sha1="745360380088aa61fd056259e37feb1df9b9758c"/>
 		<rom name="Leisure Suit Larry I (in The Land of The Lounge Lizards) (World) (Disk 2A) (WozADay).woz" size="235596" crc="effd0ae7" md5="58385d0c76c5d01990e0be16062e8633" sha1="c38c74c059cf063887bb74a0af4ed8e6dc682b54"/>
@@ -800,7 +800,7 @@
 	<game name="Maniac Mansion (World) (WozADay)" cloneof="Maniac Mansion (World) (4AM)">
 		<category>Retail</category>
 		<description>Maniac Mansion (World) (WozADay)</description>
-		<rom name="000.m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Maniac Mansion (World) (WozADay).m3u" size="94" crc="8ecf9b3f" md5="ddf28879f33d2e7dfaf1a14040706e2c" sha1="76481c998f899c3de6c26ef934e8751a7b16ba87"/>
 		<rom name="Maniac Mansion (World) (Disk 1A) (WozADay).woz" size="234764" crc="b5e15813" md5="18ec40ab05a0a4b6a9344ed5ab398f20" sha1="5f6ed27c94b6c97614a5ffe3752ee89ea961425e"/>
 		<rom name="Maniac Mansion (World) (Disk 1B) (WozADay).woz" size="234764" crc="b0050215" md5="fa971de45d11f586136d12adda9cfc3f" sha1="4b088c42b306b82402e3dc7b040f6dce0f61ebb3"/>
 		<url>https://retroachievements.org/game/16360/hashes</url>
@@ -810,7 +810,7 @@
 	<game name="Maniac Mansion (World) (Tosec)" cloneof="Maniac Mansion (World) (4AM)">
 		<category>Retail</category>
 		<description>Maniac Mansion (World) (Tosec)</description>
-		<rom name="000.m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Maniac Mansion (World) (Tosec).m3u" size="90" crc="11681741" md5="39c9797d6feff86c54562bf2f9457bf4" sha1="4d5a900dadba1e445ef265f23b0cfac372d69351"/>
 		<rom name="Maniac Mansion (World) (Disk 1A) (Tosec).dsk" size="143360" crc="15798a84" md5="394d0b39eb51ee850c45c31591f1bc7c" sha1="ab53e8223a5f05d49550d1421bc55b2e2bd63825"/>
 		<rom name="Maniac Mansion (World) (Disk 1B) (Tosec).dsk" size="143360" crc="de0a27e2" md5="fd7e3593570af7bcbfbfd030063849d2" sha1="823be1e6dac320029806b7d1d8e521ae66ab3dac"/>
 		<url>https://retroachievements.org/game/16360/hashes</url>
@@ -878,33 +878,18 @@
 		<hash>4cdace0399c61ccb173a4c1c6a5edf60</hash>
 	</game>
 	
-	<game name="Mixed-Up Mother Goose (Disk 1A) (WozADay)">
+	<game name="Mixed-Up Mother Goose (WozADay)">
 		<category>Retail</category>
-		<description>Mixed-Up Mother Goose (Disk 1A) (WozADay)</description>
-		<release name="Mixed-Up Mother Goose (Disk 1A) (WozADay)" region="World"/>
+		<description>Mixed-Up Mother Goose (WozADay)</description>
+		<release name="Mixed-Up Mother Goose (WozADay)" region="World"/>
+		<rom name="Mixed-Up Mother Goose (WozADay).m3u" size="186" crc="f63314dd" md5="b0d1cbd3b7e8c49b37e7dc771425d616" sha1="371c175ed7f2c2f1250de9e2fc6750590e5dd807"/>
 		<rom name="Mixed-Up Mother Goose (Disk 1A) (WozADay).woz" size="234889" crc="e5936135" md5="15f23a580ecd3e9d9efea3b45cbc05ae" sha1="ce0dace644e3c3615a2547c0a8e6ba7dc8728528"/>
+		<rom name="Mixed-Up Mother Goose (Disk 1B) (WozADay).woz" size="234889" crc="8d6f807d" md5="5ed28661a35e81b8030d2c2696ffcacc" sha1="6612b325ea9321cee56a757f23842ad8430f8bd5"/>
+		<rom name="Mixed-Up Mother Goose (Disk 2A) (WozADay).woz" size="234889" crc="4e3367e5" md5="dcdca0c58c46b2b4847cf91b52962191" sha1="73c96fc31a387f0bbbaba27378ea4ca2b4dbc2e4"/>
+		<rom name="Mixed-Up Mother Goose (Disk 2B) (WozADay).woz" size="234889" crc="1d0ddec9" md5="49a19cedd57c72330f2b2ed78a8306be" sha1="455191cc4b028b0b845a9365d1004f65fb082ff4"/>
 		<url>https://retroachievements.org/game/18954/hashes</url>
 		<hash>15f23a580ecd3e9d9efea3b45cbc05ae</hash>
-	</game>
-	<game name="Mixed-Up Mother Goose (Disk 2A) (WozADay)" cloneof="Mixed-Up Mother Goose (Disk 1A) (WozADay)">
-		<category>Retail</category>
-		<description>Mixed-Up Mother Goose (Disk 2A) (WozADay)</description>
-		<release name="Mixed-Up Mother Goose (Disk 2A) (WozADay)" region="World"/>
-		<rom name="Mixed-Up Mother Goose (Disk 2A) (WozADay).woz" size="234889" crc="4e3367e5" md5="dcdca0c58c46b2b4847cf91b52962191" sha1="73c96fc31a387f0bbbaba27378ea4ca2b4dbc2e4"/>
-		<url>https://retroachievements.org/game/18954/hashes</url>
 		<hash>dcdca0c58c46b2b4847cf91b52962191</hash>
-	</game>
-	<game name="Mixed-Up Mother Goose (Disk 1B) (WozADay)">
-		<category>Retail</category>
-		<description>Mixed-Up Mother Goose (Disk 1B) (WozADay)</description>
-		<rom name="Mixed-Up Mother Goose (Disk 1B) (WozADay).woz" size="234889" crc="8d6f807d" md5="5ed28661a35e81b8030d2c2696ffcacc" sha1="6612b325ea9321cee56a757f23842ad8430f8bd5"/>
-		<note>Not linked but needed to run game.</note>
-	</game>
-	<game name="Mixed-Up Mother Goose (Disk 2B) (WozADay)">
-		<category>Retail</category>
-		<description>Mixed-Up Mother Goose (Disk 2B) (WozADay)</description>
-		<rom name="Mixed-Up Mother Goose (Disk 2B) (WozADay).woz" size="234889" crc="1d0ddec9" md5="49a19cedd57c72330f2b2ed78a8306be" sha1="455191cc4b028b0b845a9365d1004f65fb082ff4"/>
-		<note>Not linked but needed to run game.</note>
 	</game>
 	
 	<game name="Mystery House (World) (4AM)">
@@ -968,27 +953,15 @@
 		<hash>C30FD9280C403E711B66AE9D7BDBCBCA</hash>
 	</game>
 	
-	<game name="Paranoiak (France) (Disk 1A) (Tosec)" cloneof="Paranoiak (1984) (Froggy Software) (Chip Select Crack) (Disk 2)">
+	<game name="Paranoiak (France) (Tosec)">
 		<category>Retail</category>
-		<description>Paranoiak (France) (Disk 1A) (Tosec)</description>
+		<description>Paranoiak (France) (Tosec)</description>
+		<rom name="Paranoiak (France) (Tosec).m3u" size="82" crc="2a027d29" md5="76821e32cad43df8091eac417a6e11b4" sha1="9ac533f5389c7a9ed2621b29c2cc6ece2b274409"/>
 		<rom name="Paranoiak (France) (Disk 1A) (Tosec).dsk" size="143360" crc="0e664d69" md5="9771f313dda522e8c65407e94c173fb2" sha1="9c2a6091bc9b07dc12799b0c273305b01d8d3d7f"/>
-		<url>https://retroachievements.org/game/14038/hashes</url>
-		<hash>9771F313DDA522E8C65407E94C173FB2</hash>
-	</game>
-	<game name="Paranoiak (France) (Disk 1B) (Tosec)" cloneof="Paranoiak (1984) (Froggy Software) (Chip Select Crack) (Disk 2)">
-		<category>Retail</category>
-		<description>Paranoiak (France) (Disk 1B) (Tosec)</description>
 		<rom name="Paranoiak (France) (Disk 1B) (Tosec).dsk" size="143360" crc="62cc6021" md5="ddc76a12c8dcd197b8d5395bf80f9461" sha1="d5cc4e4107efc8d4179bb5fc54125f8e2142bea4"/>
 		<url>https://retroachievements.org/game/14038/hashes</url>
+		<hash>9771F313DDA522E8C65407E94C173FB2</hash>
 		<hash>DDC76A12C8DCD197B8D5395BF80F9461</hash>
-	</game>
-	<game name="Paranoiak (1984) (Froggy Software) (Chip Select Crack) (Disk 2)">
-		<category>Retail</category>
-		<description>Paranoiak (1984) (Froggy Software) (Chip Select Crack) (Disk 2)</description>
-		<release name="Paranoiak (1984) (Froggy Software) (Chip Select Crack) (Disk 2)" region="World"/>
-		<rom name="Paranoiak (1984) (Froggy Software) (Chip Select Crack) (Disk 2).dsk" size="143360" crc="a7b2b091" md5="fc40e6016f06eb748ead9b072c53b6aa" sha1="ef3b51e87f3a2c2c034870b4e0b3cb486c02b7ca"/>
-		<url>https://retroachievements.org/game/14038/hashes</url>
-		<hash>FC40E6016F06EB748EAD9B072C53B6AA</hash>
 	</game>
 
 	<game name="Pooyan (World) (WozADay)">
@@ -1000,49 +973,36 @@
 		<hash>2f4aa83a3de7b99c33fac3a773b09d37</hash>
 	</game>
 	
-	<game name="Prince of Persia (1989) (Broderbund) (Rebuilt from Source) (Disk B)" cloneof="Prince of Persia (World) (Disk 1B) (WozADay)">
+	<game name="Prince of Persia (World) (WozADay)">
 		<category>Retail</category>
-		<description>Prince of Persia (1989) (Broderbund) (Rebuilt from Source) (Disk B)</description>
-		<rom name="Prince of Persia (1989) (Broderbund) (Rebuilt from Source) (Disk B).nib" size="232960" crc="6af84266" md5="4f319042ecb13e6a6090456d18b2aef3" sha1="64744920e918e65c30b90fea63b760b4097a03d2"/>
-		<url>https://retroachievements.org/game/13925/hashes</url>
-		<hash>4F319042ECB13E6A6090456D18B2AEF3</hash>
-	</game>
-	<game name="Prince of Persia (World) (Disk 1A) (WozADay)">
-		<category>Retail</category>
-		<description>Prince of Persia (World) (Disk 1A) (WozADay)</description>
-		<release name="Prince of Persia (World) (Disk 1A) (WozADay)" region="World"/>
+		<description>Prince of Persia (World) (WozADay)</description>
+		<release name="Prince of Persia (World) (WozADay)" region="World"/>
+		<rom name="Prince of Persia (World) (WozADay).m3u" size="98" crc="312462f1" md5="6e2c38883f09ba5392bbb89ba86c01bc" sha1="5b75757c023eb03891efca694ec934c0e9d283f5"/>
 		<rom name="Prince of Persia (World) (Disk 1A) (WozADay).woz" size="233481" crc="a3820127" md5="7314dbc241b9a21cc004eb428bb7e070" sha1="bf7c7c03fcc93b989a8a7e566ec711888553a9de"/>
-		<url>https://retroachievements.org/game/13925/hashes</url>
-		<hash>7314DBC241B9A21CC004EB428BB7E070</hash>
-	</game>
-	<game name="Prince of Persia (World) (Disk 1B) (WozADay)">
-		<category>Retail</category>
-		<description>Prince of Persia (World) (Disk 1B) (WozADay)</description>
-		<release name="Prince of Persia (World) (Disk 1B) (WozADay)" region="World"/>
 		<rom name="Prince of Persia (World) (Disk 1B) (WozADay).woz" size="233481" crc="6de94d52" md5="d566f78651f70fad171111bf38e2cfca" sha1="931e264563390d1e76cef9a7db31492643f45b49"/>
 		<url>https://retroachievements.org/game/13925/hashes</url>
+		<hash>7314DBC241B9A21CC004EB428BB7E070</hash>
 		<hash>D566F78651F70FAD171111BF38E2CFCA</hash>
 	</game>
-	<game name="Prince of Persia (1989) (Broderbund) (Rebuilt from Source) (Disk A)" cloneof="Prince of Persia (World) (Disk 1A) (WozADay)">
+	<game name="Prince of Persia (1989) (Broderbund) (Rebuilt from Source)" cloneof="Prince of Persia (World) (WozADay)">
 		<category>Retail</category>
-		<description>Prince of Persia (1989) (Broderbund) (Rebuilt from Source) (Disk A)</description>
+		<description>Prince of Persia (1989) (Broderbund) (Rebuilt from Source)</description>
+		<rom name="Prince of Persia (1989) (Broderbund) (Rebuilt from Source).m3u" size="144" crc="e8f4cd84" md5="dcffd45a9048eee40c38b89c6ba75e6e" sha1="47d8ad85315947c5bebbb8e086a76e99bdabed60"/>
 		<rom name="Prince of Persia (1989) (Broderbund) (Rebuilt from Source) (Disk A).nib" size="232960" crc="b2715492" md5="d7c976c61c01f620e7cb1d3a5d432601" sha1="610108ac42dbc3f061606eea97b2a8cfd039e9dc"/>
+		<rom name="Prince of Persia (1989) (Broderbund) (Rebuilt from Source) (Disk B).nib" size="232960" crc="6af84266" md5="4f319042ecb13e6a6090456d18b2aef3" sha1="64744920e918e65c30b90fea63b760b4097a03d2"/>
 		<url>https://retroachievements.org/game/13925/hashes</url>
 		<hash>D7C976C61C01F620E7CB1D3A5D432601</hash>
+		<hash>4F319042ECB13E6A6090456D18B2AEF3</hash>
 	</game>
 	
-	<game name="Hulk, The (World) (Disk 1A) (Tosec)" cloneof="Questprobe featuring The Hulk (World) (4AM)">
+	<game name="Hulk, The (World) (Tosec)" cloneof="Questprobe featuring The Hulk (World) (4AM)">
 		<category>Retail</category>
-		<description>Hulk, The (World) (Disk 1A) (Tosec)</description>
+		<description>Hulk, The (World) (Tosec)</description>
+		<rom name="Hulk, The (World) (Tosec).m3u" size="80" crc="3cba976a" md5="11a37322df4e7a2f0cdd08997d3bbc47" sha1="62478a93cd68ce786ed70d51a33133f874f6b269"/>
 		<rom name="Hulk, The (World) (Disk 1A) (Tosec).do" size="143360" crc="2be1305b" md5="142eb7771b9767548fe8c68baefbb0b0" sha1="3cbb0d2d9564884f2212781117f1912872a9fb28"/>
-		<url>https://retroachievements.org/game/14320/hashes</url>
-		<hash>142EB7771B9767548FE8C68BAEFBB0B0</hash>
-	</game>
-	<game name="Hulk, The (World) (Disk 1B) (Tosec)" cloneof="Questprobe featuring The Hulk (World) (4AM)">
-		<category>Retail</category>
-		<description>Hulk, The (World) (Disk 1B) (Tosec)</description>
 		<rom name="Hulk, The (World) (Disk 1B) (Tosec).do" size="143360" crc="0961e874" md5="4211479afa2281582afd474bac7c863b" sha1="9c7d8601a4b9718f68d1cac11789b84c65bff399"/>
 		<url>https://retroachievements.org/game/14320/hashes</url>
+		<hash>142EB7771B9767548FE8C68BAEFBB0B0</hash>
 		<hash>4211479AFA2281582AFD474BAC7C863B</hash>
 	</game>
 	<game name="Questprobe featuring The Hulk (World) (4AM)">
@@ -1072,197 +1032,74 @@
 		<hash>9c57651762323da6c786df1bd1c9984e</hash>
 	</game>
 	
-	<game name="Space Quest II (World) (Disk 1A) (WozADay)">
+	<game name="Space Quest II (World) (WozADay)">
 		<category>Retail</category>
-		<description>Space Quest II (World) (Disk 1A) (WozADay)</description>
-		<release name="Space Quest II (World) (Disk 1A) (WozADay)" region="World"/>
+		<description>Space Quest II (World) (WozADay)</description>
+		<release name="Space Quest II (World) (WozADay)" region="World"/>
+		<rom name="Space Quest II (World) (WozADay).m3u" size="382" crc="2fb75fc1" md5="8453ce73ffcfea369b484f68586fef9a" sha1="12a48b9334c48201bcd2feadd195a874f9d1d287"/>
 		<rom name="Space Quest II (World) (Disk 1A) (WozADay).woz" size="234888" crc="711e8349" md5="37323a3833c87cf78344621cb6f07050" sha1="86455e96a2695259399f59798bea24813e80db07"/>
-		<url>https://retroachievements.org/game/18958/hashes</url>
-		<hash>37323a3833c87cf78344621cb6f07050</hash>
-	</game>
-	<game name="Space Quest II (World) (Disk 1B) (WozADay)">
-		<category>Retail</category>
-		<description>Space Quest II (World) (Disk 1B) (WozADay)</description>
-		<release name="Space Quest II (World) (Disk 1B) (WozADay)" region="World"/>
 		<rom name="Space Quest II (World) (Disk 1B) (WozADay).woz" size="235596" crc="8374b722" md5="c98952f0fbb1c27a92dbf053a875f721" sha1="3da1f035dc7eb1920969d1e10a3e47287163cf05"/>
-		<url>https://retroachievements.org/game/18958/hashes</url>
-		<hash>c98952f0fbb1c27a92dbf053a875f721</hash>
-	</game>
-	<game name="Space Quest II (World) (Disk 2A) (WozADay)">
-		<category>Retail</category>
-		<description>Space Quest II (World) (Disk 2A) (WozADay)</description>
-		<release name="Space Quest II (World) (Disk 2A) (WozADay)" region="World"/>
 		<rom name="Space Quest II (World) (Disk 2A) (WozADay).woz" size="235596" crc="a29da317" md5="42707d78fe179c092d692a05c71927bc" sha1="ab590eb95460e713b09f5746994807cbacd8ef3a"/>
-		<url>https://retroachievements.org/game/18958/hashes</url>
-		<hash>42707d78fe179c092d692a05c71927bc</hash>
-	</game>
-	<game name="Space Quest II (World) (Disk 2B) (WozADay)">
-		<category>Retail</category>
-		<description>Space Quest II (World) (Disk 2B) (WozADay)</description>
-		<release name="Space Quest II (World) (Disk 2B) (WozADay)" region="World"/>
 		<rom name="Space Quest II (World) (Disk 2B) (WozADay).woz" size="235596" crc="a98b53fc" md5="5045844b415d6f0df37ead4bd1deb11c" sha1="a19a8dcf9ea45b127939733215a045cad8f3c2e2"/>
-		<url>https://retroachievements.org/game/18958/hashes</url>
-		<hash>5045844b415d6f0df37ead4bd1deb11c</hash>
-	</game>
-	<game name="Space Quest II (World) (Disk 3A) (WozADay)">
-		<category>Retail</category>
-		<description>Space Quest II (World) (Disk 3A) (WozADay)</description>
-		<release name="Space Quest II (World) (Disk 3A) (WozADay)" region="World"/>
 		<rom name="Space Quest II (World) (Disk 3A) (WozADay).woz" size="235596" crc="4bbcd458" md5="27e95535fc4d12ad25e44be6f9ce9c42" sha1="2469aeac61f548284111d0a5335c8982303948e4"/>
-		<url>https://retroachievements.org/game/18958/hashes</url>
-		<hash>27e95535fc4d12ad25e44be6f9ce9c42</hash>
-	</game>
-	<game name="Space Quest II (World) (Disk 3B) (WozADay)">
-		<category>Retail</category>
-		<description>Space Quest II (World) (Disk 3B) (WozADay)</description>
-		<release name="Space Quest II (World) (Disk 3B) (WozADay)" region="World"/>
 		<rom name="Space Quest II (World) (Disk 3B) (WozADay).woz" size="235596" crc="09126b5b" md5="dc2dc9e66f498812e6d04a1048023e4f" sha1="97f71dc5cb6c2618aa7de7a03d67ba8246beb494"/>
-		<url>https://retroachievements.org/game/18958/hashes</url>
-		<hash>dc2dc9e66f498812e6d04a1048023e4f</hash>
-	</game>
-	<game name="Space Quest II (World) (Disk 4A) (WozADay)">
-		<category>Retail</category>
-		<description>Space Quest II (World) (Disk 4A) (WozADay)</description>
-		<release name="Space Quest II (World) (Disk 4A) (WozADay)" region="World"/>
 		<rom name="Space Quest II (World) (Disk 4A) (WozADay).woz" size="235596" crc="72c6e40f" md5="a9b5edcebfb5fe8d9d90c60235822c38" sha1="57b232ae44f97a6b65fb7f401bdc2d9eb898bbca"/>
-		<url>https://retroachievements.org/game/18958/hashes</url>
-		<hash>a9b5edcebfb5fe8d9d90c60235822c38</hash>
-	</game>
-	<game name="Space Quest II (World) (Disk 4B) (WozADay)">
-		<category>Retail</category>
-		<description>Space Quest II (World) (Disk 4B) (WozADay)</description>
-		<release name="Space Quest II (World) (Disk 4B) (WozADay)" region="World"/>
 		<rom name="Space Quest II (World) (Disk 4B) (WozADay).woz" size="235596" crc="494cbd18" md5="6c999ec3a98c6126e04608e34f34413d" sha1="fd13223056eed412739c2400b1d19c6291ca05e6"/>
 		<url>https://retroachievements.org/game/18958/hashes</url>
+		<hash>37323a3833c87cf78344621cb6f07050</hash>
+		<hash>c98952f0fbb1c27a92dbf053a875f721</hash>
+		<hash>42707d78fe179c092d692a05c71927bc</hash>
+		<hash>5045844b415d6f0df37ead4bd1deb11c</hash>
+		<hash>27e95535fc4d12ad25e44be6f9ce9c42</hash>
+		<hash>dc2dc9e66f498812e6d04a1048023e4f</hash>
+		<hash>a9b5edcebfb5fe8d9d90c60235822c38</hash>
 		<hash>6c999ec3a98c6126e04608e34f34413d</hash>
 	</game>
 	
-	<game name="Space Quest I (The Sarien Encounter) (World) (Disk 1B) (Appleasimov) (TheBlade)" cloneof="Space Quest I (The Sarien Encounter) (World) (Disk 1B) (4AM)">
+	<game name="Space Quest I (The Sarien Encounter) (World) (Appleasimov) (TheBlade)" cloneof="Space Quest I (The Sarien Encounter) (World) (4AM)">
 		<category>Retail</category>
-		<description>Space Quest I (The Sarien Encounter) (World) (Disk 1B) (Appleasimov) (TheBlade)</description>
-		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 1B) (Appleasimov) (TheBlade).dsk" size="232960" crc="bd4b8645" md5="1b0829123798c8a2621bd5bec09447f9" sha1="9e2eea00b714ae22e8b79c417abdd2c9dd4fd837"/>
-		<url>https://retroachievements.org/game/18951/hashes</url>
-		<hash>1B0829123798C8A2621BD5BEC09447F9</hash>
-	</game>
-	<game name="Space Quest I (The Sarien Encounter) (World) (Disk 2B) (Appleasimov) (TheBlade)" cloneof="Space Quest I (The Sarien Encounter) (World) (Disk 2B) (4AM)">
-		<category>Retail</category>
-		<description>Space Quest I (The Sarien Encounter) (World) (Disk 2B) (Appleasimov) (TheBlade)</description>
-		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 2B) (Appleasimov) (TheBlade).dsk" size="232960" crc="6d64bc73" md5="2ab3435530a899c6064f069bceb2c0df" sha1="a0cbe8f8a625ebbb160fa6be9e2dcfa441e00256"/>
-		<url>https://retroachievements.org/game/18951/hashes</url>
-		<hash>2AB3435530A899C6064F069BCEB2C0DF</hash>
-	</game>
-	<game name="Space Quest I (The Sarien Encounter) (World) (Disk 4A) (4AM)">
-		<category>Retail</category>
-		<description>Space Quest I (The Sarien Encounter) (World) (Disk 4A) (4AM)</description>
-		<release name="Space Quest I (The Sarien Encounter) (World) (Disk 4A) (4AM)" region="World"/>
-		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 4A) (4AM).dsk" size="143360" crc="7d32c1fe" md5="2d10b0a2eec341411d45f0f9b705be62" sha1="0e8a7a2da6e36ffa1425a85bd7ef49461f74a4cf"/>
-		<url>https://retroachievements.org/game/18951/hashes</url>
-		<hash>2D10B0A2EEC341411D45F0F9B705BE62</hash>
-	</game>
-	<game name="Space Quest I (The Sarien Encounter) (World) (Disk 2B) (4AM)">
-		<category>Retail</category>
-		<description>Space Quest I (The Sarien Encounter) (World) (Disk 2B) (4AM)</description>
-		<release name="Space Quest I (The Sarien Encounter) (World) (Disk 2B) (4AM)" region="World"/>
-		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 2B) (4AM).dsk" size="143360" crc="acd261ca" md5="37e78e57ee8b8dc52a4af06a7f8fad90" sha1="909b3214ed1770d22d58c74ce8a6ed8bf342c5ce"/>
-		<url>https://retroachievements.org/game/18951/hashes</url>
-		<hash>37E78E57EE8B8DC52A4AF06A7F8FAD90</hash>
-	</game>
-	<game name="Space Quest I (The Sarien Encounter) (World) (Disk 1A) (Appleasimov) (TheBlade)" cloneof="Space Quest I (The Sarien Encounter) (World) (Disk 1A) (4AM)">
-		<category>Retail</category>
-		<description>Space Quest I (The Sarien Encounter) (World) (Disk 1A) (Appleasimov) (TheBlade)</description>
+		<description>Space Quest I (The Sarien Encounter) (World) (Appleasimov) (TheBlade)</description>
+		<rom name="Space Quest I (The Sarien Encounter) (World) (Appleasimov) (TheBlade).m3u" size="678" crc="9cd7cf23" md5="00371abedab380d21cc27c1ede0de85b" sha1="46cc00251bb84274a8a9ec9869684d2b4b6e1123"/>
 		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 1A) (Appleasimov) (TheBlade).dsk" size="232960" crc="fc52de07" md5="500e83093b5011d7e752cf9858b34d9b" sha1="5da7e2c74fcbb788dd781561fccc006eff816b23"/>
-		<url>https://retroachievements.org/game/18951/hashes</url>
-		<hash>500E83093B5011D7E752CF9858B34D9B</hash>
-	</game>
-	<game name="Space Quest I (The Sarien Encounter) (World) (Disk 3B) (Appleasimov) (TheBlade)" cloneof="Space Quest I (The Sarien Encounter) (World) (Disk 3B) (4AM)">
-		<category>Retail</category>
-		<description>Space Quest I (The Sarien Encounter) (World) (Disk 3B) (Appleasimov) (TheBlade)</description>
+		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 1B) (Appleasimov) (TheBlade).dsk" size="232960" crc="bd4b8645" md5="1b0829123798c8a2621bd5bec09447f9" sha1="9e2eea00b714ae22e8b79c417abdd2c9dd4fd837"/>
+		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 2A) (Appleasimov) (TheBlade).dsk" size="232960" crc="c23bec2f" md5="ab261515b456c2dd6c1d7ae6a6c13178" sha1="1d0df586d2807d767d3f930a174b4db96223f1d7"/>
+		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 2B) (Appleasimov) (TheBlade).dsk" size="232960" crc="6d64bc73" md5="2ab3435530a899c6064f069bceb2c0df" sha1="a0cbe8f8a625ebbb160fa6be9e2dcfa441e00256"/>
+		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 3A) (Appleasimov) (TheBlade).dsk" size="232960" crc="ac967061" md5="fb8e7bee636e36fbb599188155b56627" sha1="db9966ad03accd666d0e859382e4a1121b1434db"/>
 		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 3B) (Appleasimov) (TheBlade).dsk" size="232960" crc="c40beb90" md5="54e297b5007e72458f760bba4e1154f5" sha1="99995a42a1e82ab39b78eb37e8204ac77550a3d4"/>
-		<url>https://retroachievements.org/game/18951/hashes</url>
-		<hash>54E297B5007E72458F760BBA4E1154F5</hash>
-	</game>
-	<game name="Space Quest I (The Sarien Encounter) (World) (Disk 1A) (Appleasimov) (TheBlade) (Alt)" cloneof="Space Quest I (The Sarien Encounter) (World) (Disk 1A) (4AM)">
-		<category>Retail</category>
-		<description>Space Quest I (The Sarien Encounter) (World) (Disk 1A) (Appleasimov) (TheBlade) (Alt)</description>
-		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 1A) (Appleasimov) (TheBlade) (Alt).dsk" size="232960" crc="cb2e1cac" md5="68B4687A664173975D280789B55ED51A" sha1="6dcfec0e5caf0e67aad70723d5d7494d61cfdeba"/>
-		<url>https://retroachievements.org/game/18951/hashes</url>
-		<hash>68B4687A664173975D280789B55ED51A</hash>
-	</game>
-	<game name="Space Quest I (The Sarien Encounter) (World) (Disk 3B) (4AM)">
-		<category>Retail</category>
-		<description>Space Quest I (The Sarien Encounter) (World) (Disk 3B) (4AM)</description>
-		<release name="Space Quest I (The Sarien Encounter) (World) (Disk 3B) (4AM)" region="World"/>
-		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 3B) (4AM).dsk" size="143360" crc="1ada1276" md5="75bcc6ddb2d10af7d645d0caeee7ca18" sha1="ae07ab7f0fae764fc4ec602d90fb959c0cd322e1"/>
-		<url>https://retroachievements.org/game/18951/hashes</url>
-		<hash>75BCC6DDB2D10AF7D645D0CAEEE7CA18</hash>
-	</game>
-	<game name="Space Quest I (The Sarien Encounter) (World) (Disk 3A) (4AM)">
-		<category>Retail</category>
-		<description>Space Quest I (The Sarien Encounter) (World) (Disk 3A) (4AM)</description>
-		<release name="Space Quest I (The Sarien Encounter) (World) (Disk 3A) (4AM)" region="World"/>
-		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 3A) (4AM).dsk" size="143360" crc="6ada0a57" md5="7fcc5367140b92865ea9f7b798774296" sha1="bc33913d2f832adca1c9c2f2d319c2c41594ce66"/>
-		<url>https://retroachievements.org/game/18951/hashes</url>
-		<hash>7FCC5367140B92865EA9F7B798774296</hash>
-	</game>
-	<game name="Space Quest I (The Sarien Encounter) (World) (Disk 2A) (4AM)">
-		<category>Retail</category>
-		<description>Space Quest I (The Sarien Encounter) (World) (Disk 2A) (4AM)</description>
-		<release name="Space Quest I (The Sarien Encounter) (World) (Disk 2A) (4AM)" region="World"/>
-		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 2A) (4AM).dsk" size="143360" crc="af36bcf5" md5="99ec7fd32ea5b9369cc764691194e3da" sha1="c8c7ef1834800808b519be8fd2c38c8bc7a01ae3"/>
-		<url>https://retroachievements.org/game/18951/hashes</url>
-		<hash>99EC7FD32EA5B9369CC764691194E3DA</hash>
-	</game>
-	<game name="Space Quest I (The Sarien Encounter) (World) (Disk 4B) (Appleasimov) (TheBlade)" cloneof="Space Quest I (The Sarien Encounter) (World) (Disk 4B) (4AM)">
-		<category>Retail</category>
-		<description>Space Quest I (The Sarien Encounter) (World) (Disk 4B) (Appleasimov) (TheBlade)</description>
+		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 4A) (Appleasimov) (TheBlade).dsk" size="232960" crc="9001c937" md5="fb967dd9b5618c059c25dab5d3662f41" sha1="232f4d29e944f918e1c236db9ac2c8aaf2c04a93"/>
 		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 4B) (Appleasimov) (TheBlade).dsk" size="232960" crc="a789ac60" md5="a6329c61ffe49b690bce3833a1c251c7" sha1="a7e12a012d25e441f770ba3eaeee4299bfa34a54"/>
 		<url>https://retroachievements.org/game/18951/hashes</url>
+		<hash>500E83093B5011D7E752CF9858B34D9B</hash>
+		<hash>1B0829123798C8A2621BD5BEC09447F9</hash>
+		<hash>AB261515B456C2DD6C1D7AE6A6C13178</hash>
+		<hash>2AB3435530A899C6064F069BCEB2C0DF</hash>
+		<hash>FB8E7BEE636E36FBB599188155B56627</hash>
+		<hash>54E297B5007E72458F760BBA4E1154F5</hash>
+		<hash>FB967DD9B5618C059C25DAB5D3662F41</hash>
 		<hash>A6329C61FFE49B690BCE3833A1C251C7</hash>
 	</game>
-	<game name="Space Quest I (The Sarien Encounter) (World) (Disk 2A) (Appleasimov) (TheBlade)" cloneof="Space Quest I (The Sarien Encounter) (World) (Disk 2A) (4AM)">
+	<game name="Space Quest I (The Sarien Encounter) (World) (4AM)">
 		<category>Retail</category>
-		<description>Space Quest I (The Sarien Encounter) (World) (Disk 2A) (Appleasimov) (TheBlade)</description>
-		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 2A) (Appleasimov) (TheBlade).dsk" size="232960" crc="c23bec2f" md5="ab261515b456c2dd6c1d7ae6a6c13178" sha1="1d0df586d2807d767d3f930a174b4db96223f1d7"/>
-		<url>https://retroachievements.org/game/18951/hashes</url>
-		<hash>AB261515B456C2DD6C1D7AE6A6C13178</hash>
-	</game>
-	<game name="Space Quest I (The Sarien Encounter) (World) (Disk 1B) (4AM)">
-		<category>Retail</category>
-		<description>Space Quest I (The Sarien Encounter) (World) (Disk 1B) (4AM)</description>
-		<release name="Space Quest I (The Sarien Encounter) (World) (Disk 1B) (4AM)" region="World"/>
+		<description>Space Quest I (The Sarien Encounter) (World) (4AM)</description>
+		<release name="Space Quest I (The Sarien Encounter) (World) (4AM)" region="World"/>
+		<rom name="Space Quest I (The Sarien Encounter) (World) (4AM).m3u" size="526" crc="b42f6783" md5="c1eca59066b5dc275ef1dd3fa0a08229" sha1="27753f72c20a3dfbaae7fa65c9fdd9f7d8c10522"/>
+		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 1A) (4AM).dsk" size="143360" crc="27ed4182" md5="d63fa32740d865e1d5eeefe5fbe098fc" sha1="44e08db3763a2c4ea82280440c9ef24ec30b6bd0"/>
 		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 1B) (4AM).dsk" size="143360" crc="15110cd5" md5="be57e9d546be71d721c32b5dc14719b4" sha1="22cb2c91eb83a0bbdd983ac34324189d60dc7c2a"/>
-		<url>https://retroachievements.org/game/18951/hashes</url>
-		<hash>BE57E9D546BE71D721C32B5DC14719B4</hash>
-	</game>
-	<game name="Space Quest I (The Sarien Encounter) (World) (Disk 4B) (4AM)">
-		<category>Retail</category>
-		<description>Space Quest I (The Sarien Encounter) (World) (Disk 4B) (4AM)</description>
-		<release name="Space Quest I (The Sarien Encounter) (World) (Disk 4B) (4AM)" region="World"/>
+		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 2A) (4AM).dsk" size="143360" crc="af36bcf5" md5="99ec7fd32ea5b9369cc764691194e3da" sha1="c8c7ef1834800808b519be8fd2c38c8bc7a01ae3"/>
+		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 2B) (4AM).dsk" size="143360" crc="acd261ca" md5="37e78e57ee8b8dc52a4af06a7f8fad90" sha1="909b3214ed1770d22d58c74ce8a6ed8bf342c5ce"/>
+		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 3A) (4AM).dsk" size="143360" crc="6ada0a57" md5="7fcc5367140b92865ea9f7b798774296" sha1="bc33913d2f832adca1c9c2f2d319c2c41594ce66"/>
+		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 3B) (4AM).dsk" size="143360" crc="1ada1276" md5="75bcc6ddb2d10af7d645d0caeee7ca18" sha1="ae07ab7f0fae764fc4ec602d90fb959c0cd322e1"/>
+		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 4A) (4AM).dsk" size="143360" crc="7d32c1fe" md5="2d10b0a2eec341411d45f0f9b705be62" sha1="0e8a7a2da6e36ffa1425a85bd7ef49461f74a4cf"/>
 		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 4B) (4AM).dsk" size="143360" crc="2a5cc94f" md5="cccd7ad05ef9730acaa6285213a22700" sha1="d5146f79ddb4e9d9ecfebc213c443b91656ddf00"/>
 		<url>https://retroachievements.org/game/18951/hashes</url>
-		<hash>CCCD7AD05EF9730ACAA6285213A22700</hash>
-	</game>
-	<game name="Space Quest I (The Sarien Encounter) (World) (Disk 1A) (4AM)">
-		<category>Retail</category>
-		<description>Space Quest I (The Sarien Encounter) (World) (Disk 1A) (4AM)</description>
-		<release name="Space Quest I (The Sarien Encounter) (World) (Disk 1A) (4AM)" region="World"/>
-		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 1A) (4AM).dsk" size="143360" crc="27ed4182" md5="d63fa32740d865e1d5eeefe5fbe098fc" sha1="44e08db3763a2c4ea82280440c9ef24ec30b6bd0"/>
-		<url>https://retroachievements.org/game/18951/hashes</url>
 		<hash>D63FA32740D865E1D5EEEFE5FBE098FC</hash>
-	</game>
-	<game name="Space Quest I (The Sarien Encounter) (World) (Disk 3A) (Appleasimov) (TheBlade)" cloneof="Space Quest I (The Sarien Encounter) (World) (Disk 3A) (4AM)">
-		<category>Retail</category>
-		<description>Space Quest I (The Sarien Encounter) (World) (Disk 3A) (Appleasimov) (TheBlade)</description>
-		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 3A) (Appleasimov) (TheBlade).dsk" size="232960" crc="ac967061" md5="fb8e7bee636e36fbb599188155b56627" sha1="db9966ad03accd666d0e859382e4a1121b1434db"/>
-		<url>https://retroachievements.org/game/18951/hashes</url>
-		<hash>FB8E7BEE636E36FBB599188155B56627</hash>
-	</game>
-	<game name="Space Quest I (The Sarien Encounter) (World) (Disk 4A) (Appleasimov) (TheBlade)" cloneof="Space Quest I (The Sarien Encounter) (World) (Disk 4A) (4AM)">
-		<category>Retail</category>
-		<description>Space Quest I (The Sarien Encounter) (World) (Disk 4A) (Appleasimov) (TheBlade)</description>
-		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 4A) (Appleasimov) (TheBlade).dsk" size="232960" crc="9001c937" md5="fb967dd9b5618c059c25dab5d3662f41" sha1="232f4d29e944f918e1c236db9ac2c8aaf2c04a93"/>
-		<url>https://retroachievements.org/game/18951/hashes</url>
-		<hash>FB967DD9B5618C059C25DAB5D3662F41</hash>
+		<hash>BE57E9D546BE71D721C32B5DC14719B4</hash>
+		<hash>99EC7FD32EA5B9369CC764691194E3DA</hash>
+		<hash>37E78E57EE8B8DC52A4AF06A7F8FAD90</hash>
+		<hash>7FCC5367140B92865EA9F7B798774296</hash>
+		<hash>75BCC6DDB2D10AF7D645D0CAEEE7CA18</hash>
+		<hash>2D10B0A2EEC341411D45F0F9B705BE62</hash>
+		<hash>CCCD7AD05EF9730ACAA6285213A22700</hash>
 	</game>
 	
 	<game name="Space Subtraction (World) (Tosec)">
@@ -1314,8 +1151,7 @@
 		<description>Super Bunny (World) (WozADay)</description>
 		<rom name="Super Bunny (World) (WozADay).dsk" size="234736" crc="ba11fb03" md5="4d27bccbad1092b7eb7b06f5df038df2" sha1="20b41e813f7612b334ca07f09dc6d593fe9e4cf6"/>
 		<url>https://retroachievements.org/game/24889/hashes</url>
-		<hash>4d27bccbad1092b7eb7b06f5df038df2
-</hash>
+		<hash>4d27bccbad1092b7eb7b06f5df038df2</hash>
 	</game>
 	
 	<game name="Super Othello (World) (Tosec)">
@@ -1345,196 +1181,96 @@
 		<hash>BAA866C80409D9EC9972273210B96132</hash>
 	</game>
 	
-	<game name="Tempete sur les Bermudes (France) (Disk 1A) (Tosec)">
+	<game name="Tempete sur les Bermudes (France) (Tosec)">
 		<category>Retail</category>
-		<description>Tempete sur les Bermudes (France) (Disk 1A) (Tosec)</description>
-		<release name="Tempete sur les Bermudes (France) (Disk 1A) (Tosec)" region="France"/>
+		<description>Tempete sur les Bermudes (France) (Tosec)</description>
+		<release name="Tempete sur les Bermudes (France) (Tosec)" region="France"/>
+		<rom name="Tempete sur les Bermudes (France) (Tosec).m3u" size="112" crc="e42495e7" md5="eaeac5e142ee4ca951919f5830465281" sha1="364b3a5f081d0f7a1fe6e3a5f1c47139935e6087"/>
 		<rom name="Tempete sur les Bermudes (France) (Disk 1A) (Tosec).dsk" size="143360" crc="012cf1de" md5="5a053ac8277ebd949c0d88c385388eca" sha1="2482bf53e62ce1682fdf31e2e761444a5107f7bf"/>
-		<url>https://retroachievements.org/game/22568/hashes</url>
-		<hash>5A053AC8277EBD949C0D88C385388ECA</hash>
-	</game>
-	<game name="Tempete sur les Bermudes (France) (Disk 1B) (Tosec)">
-		<category>Retail</category>
-		<description>Tempete sur les Bermudes (France) (Disk 1B) (Tosec)</description>
-		<release name="Tempete sur les Bermudes (France) (Disk 1B) (Tosec)" region="France"/>
 		<rom name="Tempete sur les Bermudes (France) (Disk 1B) (Tosec).dsk" size="143360" crc="37dcb200" md5="5c8b398eea4363b3efad4100a58bf6ba" sha1="1cfcaa8368e3d90f93ddd4ba70d1464508c4ebf8"/>
 		<url>https://retroachievements.org/game/22568/hashes</url>
+		<hash>5A053AC8277EBD949C0D88C385388ECA</hash>
 		<hash>5C8B398EEA4363B3EFAD4100A58BF6BA</hash>
 	</game>
 	
-	<game name="Black Cauldron, The (World) (Disk 2B) (Appleasimov)" cloneof="Black Cauldron, The (World) (Disk 2B) (4AM)">
+	<game name="Black Cauldron, The (World) (4AM)">
 		<category>Retail</category>
-		<description>Black Cauldron, The (World) (Disk 2B) (Appleasimov)</description>
-		<rom name="Black Cauldron, The (World) (Disk 2B) (Appleasimov).nib" size="232960" crc="6da857be" md5="02de27187fd6446daae8303066611f13" sha1="46327a3639eb19f081455391bc5778fabe1deea8"/>
-		<url>https://retroachievements.org/game/14478/hashes</url>
-		<hash>02DE27187FD6446DAAE8303066611F13</hash>
-	</game>
-	<game name="Black Cauldron, The (World) (Disk 3A) (Appleasimov)" cloneof="Black Cauldron, The (World) (Disk 3A) (4AM)">
-		<category>Retail</category>
-		<description>Black Cauldron, The (World) (Disk 3A) (Appleasimov)</description>
-		<rom name="Black Cauldron, The (World) (Disk 3A) (Appleasimov).nib" size="232960" crc="f1c571bb" md5="0d0ef0cace8ccde940c06781efe2fd78" sha1="48a33b60f668ea15827643f2272939c5fd8ee245"/>
-		<url>https://retroachievements.org/game/14478/hashes</url>
-		<hash>0D0EF0CACE8CCDE940C06781EFE2FD78</hash>
-	</game>
-	<game name="Black Cauldron, The (World) (Disk 3A) (4AM)">
-		<category>Retail</category>
-		<description>Black Cauldron, The (World) (Disk 3A) (4AM)</description>
-		<release name="Black Cauldron, The (World) (Disk 3A) (4AM)" region="World"/>
+		<description>Black Cauldron, The (World) (4AM)</description>
+		<release name="Black Cauldron, The (World) (4AM)" region="World"/>
+		<rom name="Black Cauldron, The (World) (4AM).m3u" size="243" crc="f235fb42" md5="c82a31df10ffc6f4ac87115640ed3677" sha1="fe58cdc8bfc125c271e45859695268b7fbda2bbb"/>
+		<rom name="Black Cauldron, The (World) (Disk 1A) (4AM).dsk" size="143360" crc="233c8d02" md5="8899ad83dbda2e772393f98abefdc058" sha1="50066a783c3be11a3ca4662f092b649cdfd7fe86"/>
+		<rom name="Black Cauldron, The (World) (Disk 1B) (4AM).dsk" size="143360" crc="e5ca8f24" md5="6af43b5d837688b373529947d3fb04fc" sha1="dc08253015f34193d45658864d01c7be42a984d2"/>
+		<rom name="Black Cauldron, The (World) (Disk 2A) (4AM).dsk" size="143360" crc="ce0141d7" md5="9214fdb0b3a53c5f4160ac681a2002bd" sha1="e4714561eba2c6dad4d0cac9c73e90947bbd4182"/>
+		<rom name="Black Cauldron, The (World) (Disk 2B) (4AM).dsk" size="143360" crc="60f44185" md5="a7cea209c45dacf4474753a701b4229d" sha1="98d4800082d9c44a1909004e5fa6a7cedf7f34c6"/>
 		<rom name="Black Cauldron, The (World) (Disk 3A) (4AM).dsk" size="143360" crc="093ba3c4" md5="3493f40aec829f98e4cf6ff739ff0f81" sha1="632735ee231ed9d23604bd24ab9c00d62cb4d5bc"/>
 		<url>https://retroachievements.org/game/14478/hashes</url>
+		<hash>8899AD83DBDA2E772393F98ABEFDC058</hash>
+		<hash>6AF43B5D837688B373529947D3FB04FC</hash>
+		<hash>9214FDB0B3A53C5F4160AC681A2002BD</hash>
+		<hash>A7CEA209C45DACF4474753A701B4229D</hash>
 		<hash>3493F40AEC829F98E4CF6FF739FF0F81</hash>
 	</game>
-	<game name="Black Cauldron, The (World) (Disk 1B) (Appleasimov)" cloneof="Black Cauldron, The (World) (Disk 1B) (4AM)">
+	<game name="Black Cauldron, The (World) (Appleasimov)" cloneof="Black Cauldron, The (World) (4AM)">
 		<category>Retail</category>
-		<description>Black Cauldron, The (World) (Disk 1B) (Appleasimov)</description>
-		<rom name="Black Cauldron, The (World) (Disk 1B) (Appleasimov).nib" size="232960" crc="4972126a" md5="66f82e26d9417757ece6253dc140967c" sha1="0ec670a251d779e7fc89b5e7f5c3f38fd0b09d70"/>
-		<url>https://retroachievements.org/game/14478/hashes</url>
-		<hash>66F82E26D9417757ECE6253DC140967C</hash>
-	</game>
-	<game name="Black Cauldron, The (World) (Disk 1B) (4AM)">
-		<category>Retail</category>
-		<description>Black Cauldron, The (World) (Disk 1B) (4AM)</description>
-		<release name="Black Cauldron, The (World) (Disk 1B) (4AM)" region="World"/>
-		<rom name="Black Cauldron, The (World) (Disk 1B) (4AM).dsk" size="143360" crc="e5ca8f24" md5="6af43b5d837688b373529947d3fb04fc" sha1="dc08253015f34193d45658864d01c7be42a984d2"/>
-		<url>https://retroachievements.org/game/14478/hashes</url>
-		<hash>6AF43B5D837688B373529947D3FB04FC</hash>
-	</game>
-	<game name="Black Cauldron, The (World) (Disk 1A) (4AM)">
-		<category>Retail</category>
-		<description>Black Cauldron, The (World) (Disk 1A) (4AM)</description>
-		<release name="Black Cauldron, The (World) (Disk 1A) (4AM)" region="World"/>
-		<rom name="Black Cauldron, The (World) (Disk 1A) (4AM).dsk" size="143360" crc="233c8d02" md5="8899ad83dbda2e772393f98abefdc058" sha1="50066a783c3be11a3ca4662f092b649cdfd7fe86"/>
-		<url>https://retroachievements.org/game/14478/hashes</url>
-		<hash>8899AD83DBDA2E772393F98ABEFDC058</hash>
-	</game>
-	<game name="Black Cauldron, The (World) (Disk 2A) (Appleasimov)" cloneof="Black Cauldron, The (World) (Disk 2A) (4AM)">
-		<category>Retail</category>
-		<description>Black Cauldron, The (World) (Disk 2A) (Appleasimov)</description>
-		<rom name="Black Cauldron, The (World) (Disk 2A) (Appleasimov).nib" size="232960" crc="29946ced" md5="89d90b22588fc4217348e334c60c6900" sha1="1b9f3319a34af42743707ca5b47a9317ee3e4c99"/>
-		<url>https://retroachievements.org/game/14478/hashes</url>
-		<hash>89D90B22588FC4217348E334C60C6900</hash>
-	</game>
-	<game name="Black Cauldron, The (World) (Disk 2A) (4AM)">
-		<category>Retail</category>
-		<description>Black Cauldron, The (World) (Disk 2A) (4AM)</description>
-		<release name="Black Cauldron, The (World) (Disk 2A) (4AM)" region="World"/>
-		<rom name="Black Cauldron, The (World) (Disk 2A) (4AM).dsk" size="143360" crc="ce0141d7" md5="9214fdb0b3a53c5f4160ac681a2002bd" sha1="e4714561eba2c6dad4d0cac9c73e90947bbd4182"/>
-		<url>https://retroachievements.org/game/14478/hashes</url>
-		<hash>9214FDB0B3A53C5F4160AC681A2002BD</hash>
-	</game>
-	<game name="Black Cauldron, The (World) (Disk 2B) (4AM)">
-		<category>Retail</category>
-		<description>Black Cauldron, The (World) (Disk 2B) (4AM)</description>
-		<release name="Black Cauldron, The (World) (Disk 2B) (4AM)" region="World"/>
-		<rom name="Black Cauldron, The (World) (Disk 2B) (4AM).dsk" size="143360" crc="60f44185" md5="a7cea209c45dacf4474753a701b4229d" sha1="98d4800082d9c44a1909004e5fa6a7cedf7f34c6"/>
-		<url>https://retroachievements.org/game/14478/hashes</url>
-		<hash>A7CEA209C45DACF4474753A701B4229D</hash>
-	</game>
-	<game name="Black Cauldron, The (World) (Disk 1A) (Appleasimov)" cloneof="Black Cauldron, The (World) (Disk 1A) (4AM)">
-		<category>Retail</category>
-		<description>Black Cauldron, The (World) (Disk 1A) (Appleasimov)</description>
+		<description>Black Cauldron, The (World) (Appleasimov)</description>
+		<rom name="Black Cauldron, The (World) (Appleasimov).m3u" size="283" crc="eaa7d507" md5="ecf6902e694d1471e8b9c3f802123ca6" sha1="5633fb2a71d2b26feacea60677c8af1fa9bdd281"/>
 		<rom name="Black Cauldron, The (World) (Disk 1A) (Appleasimov).nib" size="232960" crc="2036a8e5" md5="dbcc564fdd15795c4b994af26a01a09e" sha1="46515431b7824c74dc994e6a67a84982927153f7"/>
+		<rom name="Black Cauldron, The (World) (Disk 1B) (Appleasimov).nib" size="232960" crc="4972126a" md5="66f82e26d9417757ece6253dc140967c" sha1="0ec670a251d779e7fc89b5e7f5c3f38fd0b09d70"/>
+		<rom name="Black Cauldron, The (World) (Disk 2A) (Appleasimov).nib" size="232960" crc="29946ced" md5="89d90b22588fc4217348e334c60c6900" sha1="1b9f3319a34af42743707ca5b47a9317ee3e4c99"/>
+		<rom name="Black Cauldron, The (World) (Disk 2B) (Appleasimov).nib" size="232960" crc="6da857be" md5="02de27187fd6446daae8303066611f13" sha1="46327a3639eb19f081455391bc5778fabe1deea8"/>
+		<rom name="Black Cauldron, The (World) (Disk 3A) (Appleasimov).nib" size="232960" crc="f1c571bb" md5="0d0ef0cace8ccde940c06781efe2fd78" sha1="48a33b60f668ea15827643f2272939c5fd8ee245"/>
 		<url>https://retroachievements.org/game/14478/hashes</url>
 		<hash>DBCC564FDD15795C4B994AF26A01A09E</hash>
+		<hash>66F82E26D9417757ECE6253DC140967C</hash>
+		<hash>89D90B22588FC4217348E334C60C6900</hash>
+		<hash>02DE27187FD6446DAAE8303066611F13</hash>
+		<hash>0D0EF0CACE8CCDE940C06781EFE2FD78</hash>
 	</game>
-	<game name="Black Cauldron, The (World) (Disk 1A) (WozADay)" cloneof="Black Cauldron, The (World) (Disk 1A) (4AM)">
+	<game name="Black Cauldron, The (World) (WozADay)" cloneof="Black Cauldron, The (World) (4AM)">
 		<category>Retail</category>
-		<description>Black Cauldron, The (World) (Disk 1A) (WozADay)</description>
+		<description>Black Cauldron, The (World) (WozADay)</description>
+		<rom name="Black Cauldron, The (World) (WozADay).m3u" size="263" crc="d2cfa90f" md5="b86389de6439d9e23a0945690e54b16d" sha1="501d14086d7e64119ba6fd2b0d57b22cc1685d9a"/>
 		<rom name="Black Cauldron, The (World) (Disk 1A) (WozADay).woz" size="234860" crc="b3611b80" md5="20521505afaa87bb93533172f0ab5467" sha1="c477f162eff8e233c87279c9563bffdfa536b157"/>
-		<url>https://retroachievements.org/game/14478/hashes</url>
-		<hash>20521505afaa87bb93533172f0ab5467</hash>
-	</game>
-	<game name="Black Cauldron, The (World) (Disk 1B) (WozADay)" cloneof="Black Cauldron, The (World) (Disk 1B) (4AM)">
-		<category>Retail</category>
-		<description>Black Cauldron, The (World) (Disk 1B) (WozADay)</description>
 		<rom name="Black Cauldron, The (World) (Disk 1B) (WozADay).woz" size="234860" crc="74cddf88" md5="7ee36f4258c655325bef305300bd6f6e" sha1="53bca0ebb15a9a74ffea6451cab001e7ccd80538"/>
-		<url>https://retroachievements.org/game/14478/hashes</url>
-		<hash>7ee36f4258c655325bef305300bd6f6e</hash>
-	</game>
-	<game name="Black Cauldron, The (World) (Disk 2A) (WozADay)" cloneof="Black Cauldron, The (World) (Disk 2A) (4AM)">
-		<category>Retail</category>
-		<description>Black Cauldron, The (World) (Disk 2A) (WozADay)</description>
 		<rom name="Black Cauldron, The (World) (Disk 2A) (WozADay).woz" size="234860" crc="8801f2f6" md5="db2d941216029330a9fe89a65dfdd459" sha1="993c1803bdcc5154042521d1e39879c630f2c53f"/>
-		<url>https://retroachievements.org/game/14478/hashes</url>
-		<hash>db2d941216029330a9fe89a65dfdd459</hash>
-	</game>
-	<game name="Black Cauldron, The (World) (Disk 2B) (WozADay)" cloneof="Black Cauldron, The (World) (Disk 2B) (4AM)">
-		<category>Retail</category>
-		<description>Black Cauldron, The (World) (Disk 2B) (WozADay)</description>
 		<rom name="Black Cauldron, The (World) (Disk 2B) (WozADay).woz" size="234860" crc="27fac508" md5="a3fad474e60da976c32c29bf7db7d7f7" sha1="35aa60561d89a6dfdc3000a440c507c6d70c3f84"/>
-		<url>https://retroachievements.org/game/14478/hashes</url>
-		<hash>a3fad474e60da976c32c29bf7db7d7f7</hash>
-	</game>
-	<game name="Black Cauldron, The (World) (Disk 3A) (WozADay)" cloneof="Black Cauldron, The (World) (Disk 3A) (4AM)">
-		<category>Retail</category>
-		<description>Black Cauldron, The (World) (Disk 3A) (WozADay)</description>
 		<rom name="Black Cauldron, The (World) (Disk 3A) (WozADay).woz" size="234860" crc="d04b463b" md5="147464e241a0b6065c49e1880f0f6e0a" sha1="cd1ee2ac9eec05f6fe133a505077769d621ae751"/>
 		<url>https://retroachievements.org/game/14478/hashes</url>
+		<hash>20521505afaa87bb93533172f0ab5467</hash>
+		<hash>7ee36f4258c655325bef305300bd6f6e</hash>
+		<hash>db2d941216029330a9fe89a65dfdd459</hash>
+		<hash>a3fad474e60da976c32c29bf7db7d7f7</hash>
 		<hash>147464e241a0b6065c49e1880f0f6e0a</hash>
 	</game>
 	
-	<game name="Dark Crystal, The (World) (Disk 1A) (4AM)">
+	<game name="Dark Crystal, The (World) (4AM)">
 		<category>Retail</category>
-		<description>Dark Crystal, The (World) (Disk 1A) (4AM)</description>
-		<release name="Dark Crystal, The (World) (Disk 1A) (4AM)" region="World"/>
+		<description>Dark Crystal, The (World) (4AM)</description>
+		<release name="Dark Crystal, The (World) (4AM)" region="World"/>
+		<rom name="Dark Crystal, The (World) (4AM).m3u" size="186" crc="13d24d15" md5="b30b6cb443cfb977c2c65a63931875c0" sha1="64e61b4d13ae0e111d9360d324823e3f1d62c969"/>
 		<rom name="Dark Crystal, The (World) (Disk 1A) (4AM).woz" size="143360" crc="c7b5b770" md5="8c419c88edf6f36cc3c60061997dbb60" sha1="8e4ea902267057fb6d268d2e7fdc9ad2afd94ad6"/>
-		<url>https://retroachievements.org/game/18957/hashes</url>
-		<hash>8c419c88edf6f36cc3c60061997dbb60</hash>
-	</game>
-	<game name="Dark Crystal, The (World) (Disk 1B) (4AM)">
-		<category>Retail</category>
-		<description>Dark Crystal, The (World) (Disk 1B) (4AM)</description>
-		<release name="Dark Crystal, The (World) (Disk 1B) (4AM)" region="World"/>
 		<rom name="Dark Crystal, The (World) (Disk 1B) (4AM).woz" size="143360" crc="f2726e17" md5="133277cd78897f0a9a3c3c76c4919e5b" sha1="867f6af97bb848e98d5d1dfb396eca4330df0034"/>
-		<url>https://retroachievements.org/game/18957/hashes</url>
-		<hash>133277cd78897f0a9a3c3c76c4919e5b</hash>
-	</game>
-	<game name="Dark Crystal, The (World) (Disk 2A) (4AM)">
-		<category>Retail</category>
-		<description>Dark Crystal, The (World) (Disk 2A) (4AM)</description>
-		<release name="Dark Crystal, The (World) (Disk 2A) (4AM)" region="World"/>
 		<rom name="Dark Crystal, The (World) (Disk 2A) (4AM).woz" size="143360" crc="3aed0b89" md5="d587819b395b331434ec083b6cc56a04" sha1="9db31bc4e22474d6a5da8899c51146d9d2d6a858"/>
-		<url>https://retroachievements.org/game/18957/hashes</url>
-		<hash>d587819b395b331434ec083b6cc56a04</hash>
-	</game>
-	<game name="Dark Crystal, The (World) (Disk 2B) (4AM)">
-		<category>Retail</category>
-		<description>Dark Crystal, The (World) (Disk 2B) (4AM)</description>
-		<release name="Dark Crystal, The (World) (Disk 2B) (4AM)" region="World"/>
 		<rom name="Dark Crystal, The (World) (Disk 2B) (4AM).woz" size="143360" crc="a3ce1109" md5="c325ea40e0b8864f121c1d35d90f3534" sha1="dbb2dbcca7e2892f00d920b346627424a587518f"/>
 		<url>https://retroachievements.org/game/18957/hashes</url>
+		<hash>8c419c88edf6f36cc3c60061997dbb60</hash>
+		<hash>133277cd78897f0a9a3c3c76c4919e5b</hash>
+		<hash>d587819b395b331434ec083b6cc56a04</hash>
 		<hash>c325ea40e0b8864f121c1d35d90f3534</hash>
 	</game>
-	<game name="Dark Crystal, The (World) (Disk 1A) (WozADay)" cloneof="Dark Crystal, The (World) (Disk 1A) (4AM)">
+	<game name="Dark Crystal, The (World) (WozADay)" cloneof="Dark Crystal, The (World) (4AM)">
 		<category>Retail</category>
-		<description>Dark Crystal, The (World) (Disk 1A) (WozADay)</description>
-		<release name="Dark Crystal, The (World) (Disk 1A) (WozADay)" region="World"/>
+		<description>Dark Crystal, The (World) (WozADay)</description>
+		<release name="Dark Crystal, The (World) (WozADay)" region="World"/>
+		<rom name="Dark Crystal, The (World) (WozADay).m3u" size="202" crc="3585e8c7" md5="d63ba96555c98d19bb555e7367a2045a" sha1="deb96506a7f5ff2d2a62ea82ec653a42acf50606"/>
 		<rom name="Dark Crystal, The (World) (Disk 1A) (WozADay).woz" size="235514" crc="0567c1fa" md5="6e530176714c4accaa0975fc127f767b" sha1="12546079b3bec0aafad004b9890972ddf16f1e22"/>
-		<url>https://retroachievements.org/game/18957/hashes</url>
-		<hash>6e530176714c4accaa0975fc127f767b</hash>
-	</game>
-	<game name="Dark Crystal, The (World) (Disk 1B) (WozADay)" cloneof="Dark Crystal, The (World) (Disk 1B) (4AM)">
-		<category>Retail</category>
-		<description>Dark Crystal, The (World) (Disk 1B) (WozADay)</description>
-		<release name="Dark Crystal, The (World) (Disk 1B) (WozADay)" region="World"/>
 		<rom name="Dark Crystal, The (World) (Disk 1B) (WozADay).woz" size="235514" crc="73b14838" md5="64d7c44540c341832213258d4e9d099e" sha1="29b99a7d2cf1af3ee4a2db6e9c2689e040f0c15d"/>
-		<url>https://retroachievements.org/game/18957/hashes</url>
-		<hash>64d7c44540c341832213258d4e9d099e</hash>
-	</game>
-	<game name="Dark Crystal, The (World) (Disk 2A) (WozADay)" cloneof="Dark Crystal, The (World) (Disk 2A) (4AM)">
-		<category>Retail</category>
-		<description>Dark Crystal, The (World) (Disk 2A) (WozADay)</description>
-		<release name="Dark Crystal, The (World) (Disk 2A) (WozADay)" region="World"/>
 		<rom name="Dark Crystal, The (World) (Disk 2A) (WozADay).woz" size="235514" crc="82072c10" md5="c119adee8fe46f45c03b1e4fbdfea059" sha1="772a2e802e7cb610161a7be95053d920677a2cba"/>
-		<url>https://retroachievements.org/game/18957/hashes</url>
-		<hash>c119adee8fe46f45c03b1e4fbdfea059</hash>
-	</game>
-	<game name="Dark Crystal, The (World) (Disk 2B) (WozADay)" cloneof="Dark Crystal, The (World) (Disk 2B) (4AM)">
-		<category>Retail</category>
-		<description>Dark Crystal, The (World) (Disk 2B) (WozADay)</description>
-		<release name="Dark Crystal, The (World) (Disk 2B) (WozADay)" region="World"/>
 		<rom name="Dark Crystal, The (World) (Disk 2B) (WozADay).woz" size="235514" crc="f423959a" md5="59b0d152c4fcfcf064c9488af3f444f3" sha1="7381235bbe1dccf36ff682257ae6f0e6d82fba25"/>
 		<url>https://retroachievements.org/game/18957/hashes</url>
+		<hash>6e530176714c4accaa0975fc127f767b</hash>
+		<hash>64d7c44540c341832213258d4e9d099e</hash>
+		<hash>c119adee8fe46f45c03b1e4fbdfea059</hash>
 		<hash>59b0d152c4fcfcf064c9488af3f444f3</hash>
 	</game>
 	
@@ -1565,150 +1301,63 @@
 		<hash>9893862a9a93f438f68884e3970ccc50</hash>
 	</game>
 	
-	<game name="Wizard of Oz, The (World) (Disk A) (WozADay)">
+	<game name="Wizard of Oz, The (World) (WozADay)">
 		<category>Retail</category>
-		<description>Wizard of Oz, The (World) (Disk A) (WozADay)</description>
-		<release name="Wizard of Oz, The (World) (Disk A) (WozADay)" region="World"/>
+		<description>Wizard of Oz, The (World) (WozADay)</description>
+		<release name="Wizard of Oz, The (World) (WozADay)" region="World"/>
+		<rom name="Wizard of Oz, The (World) (WozADay).m3u" size="198" crc="a334f2d8" md5="74c1838e155422c2993efaf82d9e17d6" sha1="45910824e79c5a24d06c8df9de9a678556084863"/>
 		<rom name="Wizard of Oz, The (World) (Disk A) (WozADay).woz" size="234866" crc="4522de5f" md5="73c4587d0a3d6521f098e2c6feb2370b" sha1="b2459cf8ea2791d82b5da58e7b0aa25caf140f94"/>
-		<url>https://retroachievements.org/game/32104/hashes</url>
-		<hash>73c4587d0a3d6521f098e2c6feb2370b</hash>
-	</game>
-	<game name="Wizard of Oz, The (World) (Disk B) (WozADay)">
-		<category>Retail</category>
-		<description>Wizard of Oz, The (World) (Disk B) (WozADay)</description>
-		<release name="Wizard of Oz, The (World) (Disk B) (WozADay)" region="World"/>
 		<rom name="Wizard of Oz, The (World) (Disk B) (WozADay).woz" size="234866" crc="e9de932e" md5="2a300b2238167a5e616690046f6216c3" sha1="fa02f177b45bde15ffc06101031fd01ca8710033"/>
-		<url>https://retroachievements.org/game/32104/hashes</url>
-		<hash>2a300b2238167a5e616690046f6216c3</hash>
-	</game>
-	<game name="Wizard of Oz, The (World) (Disk C) (WozADay)">
-		<category>Retail</category>
-		<description>Wizard of Oz, The (World) (Disk C) (WozADay)</description>
-		<release name="Wizard of Oz, The (World) (Disk C) (WozADay)" region="World"/>
 		<rom name="Wizard of Oz, The (World) (Disk C) (WozADay).woz" size="234866" crc="0ed1d4cb" md5="af4c28edaac7efa7d866c49ec7f96421" sha1="78a9fb5edb2fd249e7804607cd7bd3ee248115af"/>
-		<url>https://retroachievements.org/game/32104/hashes</url>
-		<hash>af4c28edaac7efa7d866c49ec7f96421</hash>
-	</game>
-	<game name="Wizard of Oz, The (World) (Disk D) (WozADay)">
-		<category>Retail</category>
-		<description>Wizard of Oz, The (World) (Disk D) (WozADay)</description>
-		<release name="Wizard of Oz, The (World) (Disk D) (WozADay)" region="World"/>
 		<rom name="Wizard of Oz, The (World) (Disk D) (WozADay).woz" size="234866" crc="1c0e7e78" md5="1e98b45543bfa45cd8b4dbd96c3323a8" sha1="25d7e25b66c475d0881138ba302be722683df6e6"/>
 		<url>https://retroachievements.org/game/32104/hashes</url>
+		<hash>73c4587d0a3d6521f098e2c6feb2370b</hash>
+		<hash>2a300b2238167a5e616690046f6216c3</hash>
+		<hash>af4c28edaac7efa7d866c49ec7f96421</hash>
 		<hash>1e98b45543bfa45cd8b4dbd96c3323a8</hash>
 	</game>
 	
-	<game name="Time Zone (World) (v1.1) (Disk A) (WozADay)">
+	<game name="Time Zone (World) (v1.1) (WozADay)">
 		<category>Retail</category>
-		<description>Time Zone (World) (v1.1) (Disk A) (WozADay)</description>
-		<release name="Time Zone (World) (v1.1) (Disk A) (WozADay)" region="World"/>
+		<description>Time Zone (World) (v1.1) (WozADay)</description>
+		<release name="Time Zone (World) (v1.1) (WozADay)" region="World"/>
+		<rom name="Time Zone (World) (v1.1) (WozADay).m3u" size="586" crc="3eed8b52" md5="85328436ab6991983d41ec0c2426cbdd" sha1="ef053c30d6468e4e267b946d029eef99caff034d"/>
 		<rom name="Time Zone (World) (v1.1) (Disk A) (WozADay).woz" size="234882" crc="9dd9bcbb" md5="15f0390bb59ae0ee1b05c8a3549f9136" sha1="18ad98f30f49af2fa9f9cae99ad77b4709f21ac4"/>
-		<url>https://retroachievements.org/game/32343/hashes</url>
-		<hash>15f0390bb59ae0ee1b05c8a3549f9136</hash>
-	</game>
-	<game name="Time Zone (World) (v1.1) (Disk B) (WozADay)">
-		<category>Retail</category>
-		<description>Time Zone (World) (v1.1) (Disk B) (WozADay)</description>
-		<release name="Time Zone (World) (v1.1) (Disk B) (WozADay)" region="World"/>
 		<rom name="Time Zone (World) (v1.1) (Disk B) (WozADay).woz" size="234882" crc="b0e640d9" md5="97175de30b2c232eac3a4cd281194787" sha1="f568d25a10a624937b5c0a7f5a7d285e9706e214"/>
-		<url>https://retroachievements.org/game/32343/hashes</url>
-		<hash>97175de30b2c232eac3a4cd281194787</hash>
-	</game>
-	<game name="Time Zone (World) (v1.1) (Disk C) (WozADay)">
-		<category>Retail</category>
-		<description>Time Zone (World) (v1.1) (Disk C) (WozADay)</description>
-		<release name="Time Zone (World) (v1.1) (Disk C) (WozADay)" region="World"/>
 		<rom name="Time Zone (World) (v1.1) (Disk C) (WozADay).woz" size="234882" crc="f1bc7998" md5="a6512ace8ae19d68452e393a37273896" sha1="875c3c74236477c2aefad415b2906490b6c5b134"/>
-		<url>https://retroachievements.org/game/32343/hashes</url>
-		<hash>a6512ace8ae19d68452e393a37273896</hash>
-	</game>
-	<game name="Time Zone (World) (v1.1) (Disk D) (WozADay)">
-		<category>Retail</category>
-		<description>Time Zone (World) (v1.1) (Disk D) (WozADay)</description>
-		<release name="Time Zone (World) (v1.1) (Disk D) (WozADay)" region="World"/>
 		<rom name="Time Zone (World) (v1.1) (Disk D) (WozADay).woz" size="234882" crc="fe0c102d" md5="8b43e21a6bbefe126c9a25d0cf79311c" sha1="f7cbca00e759c4395baabbcd3b142d487d4785c1"/>
-		<url>https://retroachievements.org/game/32343/hashes</url>
-		<hash>8b43e21a6bbefe126c9a25d0cf79311c</hash>
-	</game>
-	<game name="Time Zone (World) (v1.1) (Disk E) (WozADay)">
-		<category>Retail</category>
-		<description>Time Zone (World) (v1.1) (Disk E) (WozADay)</description>
-		<release name="Time Zone (World) (v1.1) (Disk E) (WozADay)" region="World"/>
 		<rom name="Time Zone (World) (v1.1) (Disk E) (WozADay).woz" size="234882" crc="30bc6bde" md5="b38299459778943bd504870277547738" sha1="12f1badcaddf514ea2ad8adc91134f8a17996122"/>
-		<url>https://retroachievements.org/game/32343/hashes</url>
-		<hash>b38299459778943bd504870277547738</hash>
-	</game>
-	<game name="Time Zone (World) (v1.1) (Disk F) (WozADay)">
-		<category>Retail</category>
-		<description>Time Zone (World) (v1.1) (Disk F) (WozADay)</description>
-		<release name="Time Zone (World) (v1.1) (Disk F) (WozADay)" region="World"/>
 		<rom name="Time Zone (World) (v1.1) (Disk F) (WozADay).woz" size="234882" crc="93963177" md5="42113d37e9be4db9e87a7ff0de37bcf1" sha1="fb4fabaa5ef5f2d2530682ac4a4ddec64b1b2824"/>
-		<url>https://retroachievements.org/game/32343/hashes</url>
-		<hash>42113d37e9be4db9e87a7ff0de37bcf1</hash>
-	</game>
-	<game name="Time Zone (World) (v1.1) (Disk G) (WozADay)">
-		<category>Retail</category>
-		<description>Time Zone (World) (v1.1) (Disk G) (WozADay)</description>
-		<release name="Time Zone (World) (v1.1) (Disk G) (WozADay)" region="World"/>
 		<rom name="Time Zone (World) (v1.1) (Disk G) (WozADay).woz" size="234882" crc="3ee201e6" md5="48d54c62f5fac4b3b4e5661d60e4cac0" sha1="97006b422e543c845e46c5e85a1f65758c2c146c"/>
-		<url>https://retroachievements.org/game/32343/hashes</url>
-		<hash>48d54c62f5fac4b3b4e5661d60e4cac0</hash>
-	</game>
-	<game name="Time Zone (World) (v1.1) (Disk H) (WozADay)">
-		<category>Retail</category>
-		<description>Time Zone (World) (v1.1) (Disk H) (WozADay)</description>
-		<release name="Time Zone (World) (v1.1) (Disk H) (WozADay)" region="World"/>
 		<rom name="Time Zone (World) (v1.1) (Disk H) (WozADay).woz" size="234882" crc="efba5ced" md5="05fea0fa803ef62bede527772c8f6cd5" sha1="6399284ba922097e794731a70babbd5d91b864bb"/>
-		<url>https://retroachievements.org/game/32343/hashes</url>
-		<hash>05fea0fa803ef62bede527772c8f6cd5</hash>
-	</game>
-	<game name="Time Zone (World) (v1.1) (Disk I) (WozADay)">
-		<category>Retail</category>
-		<description>Time Zone (World) (v1.1) (Disk I) (WozADay)</description>
-		<release name="Time Zone (World) (v1.1) (Disk I) (WozADay)" region="World"/>
 		<rom name="Time Zone (World) (v1.1) (Disk I) (WozADay).woz" size="234882" crc="57ca6357" md5="8ea8f8bb7cfb30e23430445736f49ea6" sha1="ca7f12495f0c014a6a8395fb36c82ee9f372c0dc"/>
-		<url>https://retroachievements.org/game/32343/hashes</url>
-		<hash>8ea8f8bb7cfb30e23430445736f49ea6</hash>
-	</game>
-	<game name="Time Zone (World) (v1.1) (Disk J) (WozADay)">
-		<category>Retail</category>
-		<description>Time Zone (World) (v1.1) (Disk J) (WozADay)</description>
-		<release name="Time Zone (World) (v1.1) (Disk J) (WozADay)" region="World"/>
 		<rom name="Time Zone (World) (v1.1) (Disk J) (WozADay).woz" size="234882" crc="afb5b9d2" md5="543840d1ac12097de2bb21b31ec61283" sha1="b5323943e5f04f7e773a26a593fdd5697b58ac29"/>
-		<url>https://retroachievements.org/game/32343/hashes</url>
-		<hash>543840d1ac12097de2bb21b31ec61283</hash>
-	</game>
-	<game name="Time Zone (World) (v1.1) (Disk K) (WozADay)">
-		<category>Retail</category>
-		<description>Time Zone (World) (v1.1) (Disk K) (WozADay)</description>
-		<release name="Time Zone (World) (v1.1) (Disk K) (WozADay)" region="World"/>
 		<rom name="Time Zone (World) (v1.1) (Disk K) (WozADay).woz" size="234882" crc="ae166b20" md5="357df1fd3cbfc808c7c48d5a2d11a49b" sha1="2901bb34acd69e8c2bceddaa3141b6d7f09403e7"/>
-		<url>https://retroachievements.org/game/32343/hashes</url>
-		<hash>357df1fd3cbfc808c7c48d5a2d11a49b</hash>
-	</game>
-	<game name="Time Zone (World) (v1.1) (Disk L) (WozADay)">
-		<category>Retail</category>
-		<description>Time Zone (World) (v1.1) (Disk L) (WozADay)</description>
-		<release name="Time Zone (World) (v1.1) (Disk L) (WozADay)" region="World"/>
 		<rom name="Time Zone (World) (v1.1) (Disk L) (WozADay).woz" size="234882" crc="e5521794" md5="bfa5c0df411c2cc599e6db0fd55632f1" sha1="7eb9d72811f682c06cb087ad195900930197746d"/>
 		<url>https://retroachievements.org/game/32343/hashes</url>
+		<hash>15f0390bb59ae0ee1b05c8a3549f9136</hash>
+		<hash>97175de30b2c232eac3a4cd281194787</hash>
+		<hash>a6512ace8ae19d68452e393a37273896</hash>
+		<hash>8b43e21a6bbefe126c9a25d0cf79311c</hash>
+		<hash>b38299459778943bd504870277547738</hash>
+		<hash>42113d37e9be4db9e87a7ff0de37bcf1</hash>
+		<hash>48d54c62f5fac4b3b4e5661d60e4cac0</hash>
+		<hash>05fea0fa803ef62bede527772c8f6cd5</hash>
+		<hash>8ea8f8bb7cfb30e23430445736f49ea6</hash>
+		<hash>543840d1ac12097de2bb21b31ec61283</hash>
+		<hash>357df1fd3cbfc808c7c48d5a2d11a49b</hash>
 		<hash>bfa5c0df411c2cc599e6db0fd55632f1</hash>
 	</game>
 	
-	<game name="Trinity (World) (Disk 1A) (WozADay)">
+	<game name="Trinity (World) (WozADay)">
 		<category>Retail</category>
-		<description>Trinity (World) (Disk 1A) (WozADay)</description>
-		<release name="Trinity (World) (Disk 1A) (WozADay)" region="World"/>
+		<description>Trinity (World) (WozADay)</description>
+		<release name="Trinity (World) (WozADay)" region="World"/>
+		<rom name="Trinity (World) (WozADay).m3u" size="80" crc="125d6f42" md5="028cd7c56bf36f517e4ebf56fecb7a27" sha1="f2bc22fca2cffd30ca01c602b6e9be1201e3619f"/>
 		<rom name="Trinity (World) (Disk 1A) (WozADay).woz" size="234744" crc="1b9bf646" md5="7fcf5e1ee6c41594d138760a32eb79b4" sha1="dfcb84e4b61bf958fa838e7556c46e36c32e15d6"/>
-		<url>https://retroachievements.org/game/25627/hashes</url>
-		<hash>7FCF5E1EE6C41594D138760A32EB79B4</hash>
-	</game>
-	<game name="Trinity (World) (Disk 1B) (WozADay)">
-		<category>Retail</category>
-		<description>Trinity (World) (Disk 1B) (WozADay)</description>
-		<release name="Trinity (World) (Disk 1B) (WozADay)" region="World"/>
 		<rom name="Trinity (World) (Disk 1B) (WozADay).woz" size="234744" crc="6b814a97" md5="f41cad109c9a98522796f47b46f76dc2" sha1="4e6ae3a33788e47bac09a7d8f6e160d879f8b263"/>
 		<url>https://retroachievements.org/game/25627/hashes</url>
+		<hash>7FCF5E1EE6C41594D138760A32EB79B4</hash>
 		<hash>F41CAD109C9A98522796F47B46F76DC2</hash>
 	</game>
 	
@@ -1728,258 +1377,127 @@
 		<hash>6531BEA603D8E36665DE43C8A306A355</hash>
 	</game>
 	
-	<game name="Ultima II - Revenge of the Enchantress (World) (Disk 1A) (Tosec)">
+	<game name="Ultima II - Revenge of the Enchantress (World) (Tosec)">
 		<category>Retail</category>
-		<description>Ultima II - Revenge of the Enchantress (World) (Disk 1A) (Tosec)</description>
-		<release name="Ultima II - Revenge of the Enchantress (World) (Disk 1A) (Tosec)" region="World"/>
+		<description>Ultima II - Revenge of the Enchantress (World) (Tosec)</description>
+		<release name="Ultima II - Revenge of the Enchantress (World) (Tosec)" region="World"/>
+		<rom name="Ultima II - Revenge of the Enchantress (World) (Tosec).m3u" size="208" crc="7ba3d32f" md5="7bd7204b862df1e52c5e41ad29771316" sha1="4c5ef1dbcefbc834145412684dd9b63bd7e2a4cf"/>
 		<rom name="Ultima II - Revenge of the Enchantress (World) (Disk 1A) (Tosec).dsk" size="143360" crc="91f9f927" md5="291a52352de2f6346e3865f211d3b019" sha1="60de2103a229b1d6f07f1bb976d5506d037866d5"/>
-		<url>https://retroachievements.org/game/22745/hashes</url>
-		<hash>291A52352DE2F6346E3865F211D3B019</hash>
-	</game>
-	<game name="Ultima II - Revenge of the Enchantress (World) (Disk 2B) (Tosec)">
-		<category>Retail</category>
-		<description>Ultima II - Revenge of the Enchantress (World) (Disk 2B) (Tosec)</description>
-		<release name="Ultima II - Revenge of the Enchantress (World) (Disk 2B) (Tosec)" region="World"/>
+		<rom name="Ultima II - Revenge of the Enchantress (World) (Disk 1B) (Tosec).dsk" size="143360" crc="684db5c6" md5="56ac22c53f7abae9316d0592dce5787f" sha1="adbb46eb002f5d30d6deac92946eb2a45eb67a1d"/>
 		<rom name="Ultima II - Revenge of the Enchantress (World) (Disk 2B) (Tosec).dsk" size="143360" crc="2b2bfc38" md5="4009dad9f2d6882514c5a9b0c164abba" sha1="043ef92aa49ff42e6db2a88e7ed219485ae59623"/>
 		<url>https://retroachievements.org/game/22745/hashes</url>
+		<hash>291A52352DE2F6346E3865F211D3B019</hash>
+		<hash>56AC22C53F7ABAE9316D0592DCE5787F</hash>
 		<hash>4009DAD9F2D6882514C5A9B0C164ABBA</hash>
 	</game>
-	<game name="Ultima II - Revenge of the Enchantress (World) (Disk 1B) (Tosec)">
-		<category>Retail</category>
-		<description>Ultima II - Revenge of the Enchantress (World) (Disk 1B) (Tosec)</description>
-		<release name="Ultima II - Revenge of the Enchantress (World) (Disk 1B) (Tosec)" region="World"/>
-		<rom name="Ultima II - Revenge of the Enchantress (World) (Disk 1B) (Tosec).dsk" size="143360" crc="684db5c6" md5="56ac22c53f7abae9316d0592dce5787f" sha1="adbb46eb002f5d30d6deac92946eb2a45eb67a1d"/>
-		<url>https://retroachievements.org/game/22745/hashes</url>
-		<hash>56AC22C53F7ABAE9316D0592DCE5787F</hash>
-	</game>
 	
-	<game name="Ultima III - Exodus (World) (Side A) (WozADay)">
+	<game name="Ultima III - Exodus (World) (WozADay)">
 		<category>Retail</category>
-		<description>Ultima III - Exodus (World) (Side A) (WozADay)</description>
-		<release name="Ultima III - Exodus (World) (Side A) (WozADay)" region="World"/>
+		<description>Ultima III - Exodus (World) (WozADay)</description>
+		<release name="Ultima III - Exodus (World) (WozADay)" region="World"/>
+		<rom name="Ultima III - Exodus (World) (WozADay).m3u" size="102" crc="6343a40e" md5="1f967ce4791303e45b32d6d636cbb186" sha1="36c38b078d30cf58693b541b43d7291e4c3671c5"/>
 		<rom name="Ultima III - Exodus (World) (Side A) (WozADay).woz" size="121621" crc="1bba6693" md5="ee355b7f0fe5447c9e7de4a4b80e3690" sha1="2ce436033547c06f42032a5e09a0831559244542"/>
-		<url>https://retroachievements.org/game/27573/hashes</url>
-		<hash>ee355b7f0fe5447c9e7de4a4b80e3690</hash>
-	</game>
-	<game name="Ultima III - Exodus (World) (Side B) (WozADay)">
-		<category>Retail</category>
-		<description>Ultima III - Exodus (World) (Side B) (WozADay)</description>
-		<release name="Ultima III - Exodus (World) (Side B) (WozADay)" region="World"/>
 		<rom name="Ultima III - Exodus (World) (Side B) (WozADay).woz" size="234779" crc="709136f8" md5="99fa9d5c91ec95cefad32fa57d3463cc" sha1="5918806b47c79e468a41f3b7daa5beca1a25abab"/>
 		<url>https://retroachievements.org/game/27573/hashes</url>
+		<hash>ee355b7f0fe5447c9e7de4a4b80e3690</hash>
 		<hash>99fa9d5c91ec95cefad32fa57d3463cc</hash>
 	</game>
 	
-	<game name="Ultima IV - Quest of the Avatar (World) (Side A - Program) (4AM)">
+	<game name="Ultima IV - Quest of the Avatar (World) (4AM)">
 		<category>Retail</category>
-		<description>Ultima IV - Quest of the Avatar (World) (Side A - Program) (4AM)</description>
-		<release name="Ultima IV - Quest of the Avatar (World) (Side A - Program) (4AM)" region="World"/>
+		<description>Ultima IV - Quest of the Avatar (World) (4AM)</description>
+		<release name="Ultima IV - Quest of the Avatar (World) (4AM)" region="World"/>
+		<rom name="Ultima IV - Quest of the Avatar (World) (4AM).m3u" size="283" crc="f2a28a5d" md5="0859c3766a16c907d117bd5d4ee6fdc7" sha1="2301ec9f94c3ece7bfa80516d67acfcd0eea2499"/>
 		<rom name="Ultima IV - Quest of the Avatar (World) (Side A - Program) (4AM).dsk" size="143360" crc="165b2b0d" md5="40d402ce16e5beaaeba319ae3ba66bce" sha1="de6785de3b3a1d443d8e4c1aee4e17f70ede5c08"/>
-		<url>https://retroachievements.org/game/27574/hashes</url>
-		<hash>40d402ce16e5beaaeba319ae3ba66bce</hash>
-	</game>
-	<game name="Ultima IV - Quest of the Avatar (World) (Side B - Towne) (4AM)">
-		<category>Retail</category>
-		<description>Ultima IV - Quest of the Avatar (World) (Side B - Towne) (4AM)</description>
-		<release name="Ultima IV - Quest of the Avatar (World) (Side B - Towne) (4AM)" region="World"/>
 		<rom name="Ultima IV - Quest of the Avatar (World) (Side B - Towne) (4AM).dsk" size="143360" crc="2323f5ea" md5="0f474d0a535e14f28b020d1050037e94" sha1="ed5088e7624c899989768ae530d96a2f296a3b0f"/>
-		<url>https://retroachievements.org/game/27574/hashes</url>
-		<hash>0f474d0a535e14f28b020d1050037e94</hash>
-	</game>
-	<game name="Ultima IV - Quest of the Avatar (World) (Side C - Britannia) (4AM)">
-		<category>Retail</category>
-		<description>Ultima IV - Quest of the Avatar (World) (Side C - Britannia) (4AM)</description>
-		<release name="Ultima IV - Quest of the Avatar (World) (Side C - Britannia) (4AM)" region="World"/>
 		<rom name="Ultima IV - Quest of the Avatar (World) (Side C - Britannia) (4AM).dsk" size="143360" crc="f4d69a6e" md5="20d945cc40de1dac36a7561d5956f644" sha1="7f138590deb61388e612683bbc890f16d397421c"/>
-		<url>https://retroachievements.org/game/27574/hashes</url>
-		<hash>20d945cc40de1dac36a7561d5956f644</hash>
-	</game>
-	<game name="Ultima IV - Quest of the Avatar (World) (Side D - Underworld) (4AM)">
-		<category>Retail</category>
-		<description>Ultima IV - Quest of the Avatar (World) (Side D - Underworld) (4AM)</description>
-		<release name="Ultima IV - Quest of the Avatar (World) (Side D - Underworld) (4AM)" region="World"/>
 		<rom name="Ultima IV - Quest of the Avatar (World) (Side D - Underworld) (4AM).dsk" size="143360" crc="4b0f3f9f" md5="1609a5cb17140e694ca3e9041b2d3f50" sha1="3818785c303165ac2bc1f4bb9657b58aa4c9069a"/>
 		<url>https://retroachievements.org/game/27574/hashes</url>
+		<hash>40d402ce16e5beaaeba319ae3ba66bce</hash>
+		<hash>0f474d0a535e14f28b020d1050037e94</hash>
+		<hash>20d945cc40de1dac36a7561d5956f644</hash>
 		<hash>1609a5cb17140e694ca3e9041b2d3f50</hash>
 	</game>
-	<game name="Ultima IV - Quest of the Avatar (World) (Side A - Program) (WozADay)" cloneof="Ultima IV - Quest of the Avatar (World) (Side A - Program) (4AM)">
+	<game name="Ultima IV - Quest of the Avatar (World) (WozADay)" cloneof="Ultima IV - Quest of the Avatar (World) (Side A - Program) (4AM)">
 		<category>Retail</category>
-		<description>Ultima IV - Quest of the Avatar (World) (Side A - Program) (WozADay)</description>
+		<description>Ultima IV - Quest of the Avatar (World) (WozADay)</description>
+		<rom name="Ultima IV - Quest of the Avatar (World) (WozADay).m3u" size="297" crc="f2a28a5d" md5="0859c3766a16c907d117bd5d4ee6fdc7" sha1="2301ec9f94c3ece7bfa80516d67acfcd0eea2499"/>
 		<rom name="Ultima IV - Quest of the Avatar (World) (Side A - Program) (WozADay).woz" size="240170" crc="9e1d5595" md5="c89b0b45333d336aca11af5d8449a7bb" sha1="a2de1815ffe51b4bdaad8b6abe8ec935911ec394"/>
-		<url>https://retroachievements.org/game/27574/hashes</url>
-		<hash>c89b0b45333d336aca11af5d8449a7bb</hash>
-	</game>
-	<game name="Ultima IV - Quest of the Avatar (World) (Side C - Britannia) (WozADay)" cloneof="Ultima IV - Quest of the Avatar (World) (Side C - Britannia) (4AM)">
-		<category>Retail</category>
-		<description>Ultima IV - Quest of the Avatar (World) (Side C - Britannia) (WozADay)</description>
-		<rom name="Ultima IV - Quest of the Avatar (World) (Side C - Britannia) (WozADay).woz" size="233520" crc="ac61d6c4" md5="702459f52eace781dc8faf0ad0fa60f3" sha1="846bfcebf3dafa9642d290ea8d1619e580573e1a"/>
-		<url>https://retroachievements.org/game/27574/hashes</url>
-		<hash>702459f52eace781dc8faf0ad0fa60f3</hash>
-	</game>
-	<game name="Ultima IV - Quest of the Avatar (World) (Side B - Towne) (WozADay)" cloneof="Ultima IV - Quest of the Avatar (World) (Side B - Towne) (4AM)">
-		<category>Retail</category>
-		<description>Ultima IV - Quest of the Avatar (World) (Side B - Towne) (WozADay)</description>
 		<rom name="Ultima IV - Quest of the Avatar (World) (Side B - Towne) (WozADay).woz" size="233516" crc="8ba7e933" md5="3b5c55cf1f1e74a2d01ebcd37326e3f3" sha1="f100cec0ae9d04a25f687fc3c1d76b139266826e"/>
-		<url>https://retroachievements.org/game/27574/hashes</url>
-		<hash>3b5c55cf1f1e74a2d01ebcd37326e3f3</hash>
-	</game>
-	<game name="Ultima IV - Quest of the Avatar (World) (Side D - Underworld) (WozADay)" cloneof="Ultima IV - Quest of the Avatar (World) (Side D - Underworld) (4AM)">
-		<category>Retail</category>
-		<description>Ultima IV - Quest of the Avatar (World) (Side D - Underworld) (WozADay)</description>
+		<rom name="Ultima IV - Quest of the Avatar (World) (Side C - Britannia) (WozADay).woz" size="233520" crc="ac61d6c4" md5="702459f52eace781dc8faf0ad0fa60f3" sha1="846bfcebf3dafa9642d290ea8d1619e580573e1a"/>
 		<rom name="Ultima IV - Quest of the Avatar (World) (Side D - Underworld) (WozADay).woz" size="233521" crc="7daab34f" md5="6f8625bd37422cc9977aa306ff4342fc" sha1="d365cb92dd1c737a3c8773f432fe4c880019f324"/>
 		<url>https://retroachievements.org/game/27574/hashes</url>
+		<hash>c89b0b45333d336aca11af5d8449a7bb</hash>
+		<hash>3b5c55cf1f1e74a2d01ebcd37326e3f3</hash>
+		<hash>702459f52eace781dc8faf0ad0fa60f3</hash>
 		<hash>6f8625bd37422cc9977aa306ff4342fc</hash>
 	</game>
 	
-	<game name="Ultima V - Warriors of Destiny (World) (Disk 1A - Program) (4AM)" cloneof="Ultima V - Warriors of Destiny (World) (Disk 1A - Program) (WozADay)">
+	<game name="Ultima V - Warriors of Destiny (World) (4AM)" cloneof="Ultima V - Warriors of Destiny (World) (Disk 1A - Program) (WozADay)">
 		<category>Retail</category>
-		<description>Ultima V - Warriors of Destiny (World) (Disk 1A - Program) (4AM)</description>
+		<description>Ultima V - Warriors of Destiny (World) (4AM)</description>
+		<rom name="Ultima V - Warriors of Destiny (World) (4AM).m3u" size="558" crc="a514d275" md5="660941dbfa1642d2f8d861cb22955315" sha1="ad3c1f3a169d5c7ac14513040ee8b6ed083efcb9"/>
 		<rom name="Ultima V - Warriors of Destiny (World) (Disk 1A - Program) (4AM).dsk" size="143360" crc="299da587" md5="d641fc4c79ec5628f3ecaad5b82b85b3" sha1="06606409c7d7425a3558829a0884b299bde3f0ba"/>
-		<url>https://retroachievements.org/game/27575/hashes</url>
-		<hash>d641fc4c79ec5628f3ecaad5b82b85b3</hash>
-	</game>
-	<game name="Ultima V - Warriors of Destiny (World) (Disk 1B - Dungeon) (4AM)" cloneof="Ultima V - Warriors of Destiny (World) (Disk 1B - Dungeon) (WozADay)">
-		<category>Retail</category>
-		<description>Ultima V - Warriors of Destiny (World) (Disk 1B - Dungeon) (4AM)</description>
 		<rom name="Ultima V - Warriors of Destiny (World) (Disk 1B - Dungeon) (4AM).dsk" size="143360" crc="bb2823bb" md5="42052bb3a7c492edfad9a614019894cf" sha1="0184fa1c0513052d522872c1cce2b5c12371d4ae"/>
-		<url>https://retroachievements.org/game/27575/hashes</url>
-		<hash>42052bb3a7c492edfad9a614019894cf</hash>
-	</game>
-	<game name="Ultima V - Warriors of Destiny (World) (Disk 2A - Britannia) (4AM)" cloneof="Ultima V - Warriors of Destiny (World) (Disk 2A - Britannia) (WozADay)">
-		<category>Retail</category>
-		<description>Ultima V - Warriors of Destiny (World) (Disk 2A - Britannia) (4AM)</description>
 		<rom name="Ultima V - Warriors of Destiny (World) (Disk 2A - Britannia) (4AM).dsk" size="143360" crc="aa4c6c87" md5="c93274855abf94a53e3c565f2901c4f9" sha1="a5e41dab3b38380fd4bfebd217934b3c64beb6f1"/>
-		<url>https://retroachievements.org/game/27575/hashes</url>
-		<hash>c93274855abf94a53e3c565f2901c4f9</hash>
-	</game>
-	<game name="Ultima V - Warriors of Destiny (World) (Disk 2B - Underworld) (4AM)" cloneof="Ultima V - Warriors of Destiny (World) (Disk 2B - Underworld) (WozADay)">
-		<category>Retail</category>
-		<description>Ultima V - Warriors of Destiny (World) (Disk 2B - Underworld) (4AM)</description>
 		<rom name="Ultima V - Warriors of Destiny (World) (Disk 2B - Underworld) (4AM).dsk" size="143360" crc="cadb9cf5" md5="d974c645bc50002751f3ff83c69fb09b" sha1="39b0217ce1dd098ef502b843a9e57c5888a96b1c"/>
-		<url>https://retroachievements.org/game/27575/hashes</url>
-		<hash>d974c645bc50002751f3ff83c69fb09b</hash>
-	</game>
-	<game name="Ultima V - Warriors of Destiny (World) (Disk 3A - Towne) (4AM)" cloneof="Ultima V - Warriors of Destiny (World) (Disk 3A - Towne) (WozADay)">
-		<category>Retail</category>
-		<description>Ultima V - Warriors of Destiny (World) (Disk 3A - Towne) (4AM)</description>
 		<rom name="Ultima V - Warriors of Destiny (World) (Disk 3A - Towne) (4AM).dsk" size="143360" crc="90f74781" md5="67f5c52a96c0fcf14277aa040f40835c" sha1="5e1da7806377674f1918191a743072e7907ab753"/>
-		<url>https://retroachievements.org/game/27575/hashes</url>
-		<hash>67f5c52a96c0fcf14277aa040f40835c</hash>
-	</game>
-	<game name="Ultima V - Warriors of Destiny (World) (Disk 3B - Dwelling) (4AM)" cloneof="Ultima V - Warriors of Destiny (World) (Disk 3B - Dwelling) (WozADay)">
-		<category>Retail</category>
-		<description>Ultima V - Warriors of Destiny (World) (Disk 3B - Dwelling) (4AM)</description>
 		<rom name="Ultima V - Warriors of Destiny (World) (Disk 3B - Dwelling) (4AM).dsk" size="143360" crc="4966c93c" md5="dc00b3716ae020f06a56ed9ec69a0178" sha1="a35e7682a9b569e4d8b651fc10a3614ba5329862"/>
-		<url>https://retroachievements.org/game/27575/hashes</url>
-		<hash>dc00b3716ae020f06a56ed9ec69a0178</hash>
-	</game>
-	<game name="Ultima V - Warriors of Destiny (World) (Disk 4A - Castle) (4AM)" cloneof="Ultima V - Warriors of Destiny (World) (Disk 4A - Castle) (WozADay)">
-		<category>Retail</category>
-		<description>Ultima V - Warriors of Destiny (World) (Disk 4A - Castle) (4AM)</description>
 		<rom name="Ultima V - Warriors of Destiny (World) (Disk 4A - Castle) (4AM).dsk" size="143360" crc="99fb8af2" md5="f03829460cd5a2eed6ba462509c5ebc9" sha1="e9c8d78973ff2d079d646a3e6b9e05a6fab59db2"/>
-		<url>https://retroachievements.org/game/27575/hashes</url>
-		<hash>f03829460cd5a2eed6ba462509c5ebc9</hash>
-	</game>
-	<game name="Ultima V - Warriors of Destiny (World) (Disk 4B - Keep) (4AM)" cloneof="Ultima V - Warriors of Destiny (World) (Disk 4B - Keep) (WozADay)">
-		<category>Retail</category>
-		<description>Ultima V - Warriors of Destiny (World) (Disk 4B - Keep) (4AM)</description>
 		<rom name="Ultima V - Warriors of Destiny (World) (Disk 4B - Keep) (4AM).dsk" size="143360" crc="9d0d1dac" md5="182bf7619e91986d0ef77b923b98c167" sha1="ee06c9c4fea4aca0baa307d063ba2b2b86725295"/>
 		<url>https://retroachievements.org/game/27575/hashes</url>
+		<hash>d641fc4c79ec5628f3ecaad5b82b85b3</hash>
+		<hash>42052bb3a7c492edfad9a614019894cf</hash>
+		<hash>c93274855abf94a53e3c565f2901c4f9</hash>
+		<hash>d974c645bc50002751f3ff83c69fb09b</hash>
+		<hash>67f5c52a96c0fcf14277aa040f40835c</hash>
+		<hash>dc00b3716ae020f06a56ed9ec69a0178</hash>
+		<hash>f03829460cd5a2eed6ba462509c5ebc9</hash>
 		<hash>182bf7619e91986d0ef77b923b98c167</hash>
 	</game>
-	<game name="Ultima V - Warriors of Destiny (World) (Disk 1A - Program) (WozADay)">
+	<game name="Ultima V - Warriors of Destiny (World) (WozADay)">
 		<category>Retail</category>
-		<description>Ultima V - Warriors of Destiny (World) (Disk 1A - Program) (WozADay)</description>
-		<release name="Ultima V - Warriors of Destiny (World) (Disk 1A - Program) (WozADay)" region="World"/>
+		<description>Ultima V - Warriors of Destiny (World) (WozADay)</description>
+		<release name="Ultima V - Warriors of Destiny (World) (WozADay)" region="World"/>
+		<rom name="Ultima V - Warriors of Destiny (World) (WozADay).m3u" size="590" crc="16eadf8d" md5="e40ba031b53313d5a4cdf3de27116fe1" sha1="b04294698c23e4c2fe4d9f12299cb29c9a21634d"/>
 		<rom name="Ultima V - Warriors of Destiny (World) (Disk 1A - Program) (WozADay).woz" size="233616" crc="77708654" md5="b913c9f4d09e68b7fce8d2fe0f3f658c" sha1="3623aadefb9b2635cd56635ddb21b6d3f4b6dc63"/>
-		<url>https://retroachievements.org/game/27575/hashes</url>
-		<hash>b913c9f4d09e68b7fce8d2fe0f3f658c</hash>
-	</game>
-	<game name="Ultima V - Warriors of Destiny (World) (Disk 2A - Britannia) (WozADay)">
-		<category>Retail</category>
-		<description>Ultima V - Warriors of Destiny (World) (Disk 2A - Britannia) (WozADay)</description>
-		<release name="Ultima V - Warriors of Destiny (World) (Disk 2A - Britannia) (WozADay)" region="World"/>
+		<rom name="Ultima V - Warriors of Destiny (World) (Disk 1B - Dungeon) (WozADay).woz" size="233620" crc="7f981d04" md5="206f0fadd2daf14b191bce6072f8455c" sha1="d97fbd4d7eba2b65fc28e6d9bb19c9e1c4f18d58"/>
 		<rom name="Ultima V - Warriors of Destiny (World) (Disk 2A - Britannia) (WozADay).woz" size="233622" crc="8141d042" md5="63c6323c43545624ed0076d3bd74dc90" sha1="ddb85c2ee8bbbb4a66f5e87821df82744b3e3b8f"/>
-		<url>https://retroachievements.org/game/27575/hashes</url>
-		<hash>63c6323c43545624ed0076d3bd74dc90</hash>
-	</game>
-	<game name="Ultima V - Warriors of Destiny (World) (Disk 3B - Dwelling) (WozADay)">
-		<category>Retail</category>
-		<description>Ultima V - Warriors of Destiny (World) (Disk 3B - Dwelling) (WozADay)</description>
-		<release name="Ultima V - Warriors of Destiny (World) (Disk 3B - Dwelling) (WozADay)" region="World"/>
-		<rom name="Ultima V - Warriors of Destiny (World) (Disk 3B - Dwelling) (WozADay).woz" size="233621" crc="fa6127b1" md5="97c1270a23e4f0869387a7f27c38a6b8" sha1="40e4c9054cee15edacdd378e6734052bc3237ee5"/>
-		<url>https://retroachievements.org/game/27575/hashes</url>
-		<hash>97c1270a23e4f0869387a7f27c38a6b8</hash>
-	</game>
-	<game name="Ultima V - Warriors of Destiny (World) (Disk 3A - Towne) (WozADay)">
-		<category>Retail</category>
-		<description>Ultima V - Warriors of Destiny (World) (Disk 3A - Towne) (WozADay)</description>
-		<release name="Ultima V - Warriors of Destiny (World) (Disk 3A - Towne) (WozADay)" region="World"/>
+		<rom name="Ultima V - Warriors of Destiny (World) (Disk 2B - Underworld) (WozADay).woz" size="233623" crc="60a5113b" md5="163b975aa865aab6740294a859651935" sha1="0f6ee9ea94e917042a074934b41a318486099fff"/>
 		<rom name="Ultima V - Warriors of Destiny (World) (Disk 3A - Towne) (WozADay).woz" size="233618" crc="578b66cf" md5="fa501d6291fd7f79f24061f4417adc47" sha1="d13d98470df0f58e9ef2b8ab68aae979831f8d3e"/>
-		<url>https://retroachievements.org/game/27575/hashes</url>
-		<hash>fa501d6291fd7f79f24061f4417adc47</hash>
-	</game>
-	<game name="Ultima V - Warriors of Destiny (World) (Disk 4A - Castle) (WozADay)">
-		<category>Retail</category>
-		<description>Ultima V - Warriors of Destiny (World) (Disk 4A - Castle) (WozADay)</description>
-		<release name="Ultima V - Warriors of Destiny (World) (Disk 4A - Castle) (WozADay)" region="World"/>
+		<rom name="Ultima V - Warriors of Destiny (World) (Disk 3B - Dwelling) (WozADay).woz" size="233621" crc="fa6127b1" md5="97c1270a23e4f0869387a7f27c38a6b8" sha1="40e4c9054cee15edacdd378e6734052bc3237ee5"/>
 		<rom name="Ultima V - Warriors of Destiny (World) (Disk 4A - Castle) (WozADay).woz" size="233619" crc="48d5bad1" md5="e52d5759de785fc34792dc3dc216d696" sha1="02c1f89411e86096f88e28eb3f6199553efccc90"/>
-		<url>https://retroachievements.org/game/27575/hashes</url>
-		<hash>e52d5759de785fc34792dc3dc216d696</hash>
-	</game>
-	<game name="Ultima V - Warriors of Destiny (World) (Disk 4B - Keep) (WozADay)">
-		<category>Retail</category>
-		<description>Ultima V - Warriors of Destiny (World) (Disk 4B - Keep) (WozADay)</description>
-		<release name="Ultima V - Warriors of Destiny (World) (Disk 4B - Keep) (WozADay)" region="World"/>
 		<rom name="Ultima V - Warriors of Destiny (World) (Disk 4B - Keep) (WozADay).woz" size="233617" crc="51638f02" md5="0d0ef46237a5970d634a338ccde5e2ce" sha1="d1bb7658d0056a9a769ecb15e1c69b41780f9e67"/>
 		<url>https://retroachievements.org/game/27575/hashes</url>
+		<hash>b913c9f4d09e68b7fce8d2fe0f3f658c</hash>
+		<hash>206f0fadd2daf14b191bce6072f8455c</hash>
+		<hash>63c6323c43545624ed0076d3bd74dc90</hash>
+		<hash>163b975aa865aab6740294a859651935</hash>
+		<hash>97c1270a23e4f0869387a7f27c38a6b8</hash>
+		<hash>fa501d6291fd7f79f24061f4417adc47</hash>
+		<hash>e52d5759de785fc34792dc3dc216d696</hash>
 		<hash>0d0ef46237a5970d634a338ccde5e2ce</hash>
 	</game>
-	<game name="Ultima V - Warriors of Destiny (World) (Disk 1B - Dungeon) (WozADay)">
-		<category>Retail</category>
-		<description>Ultima V - Warriors of Destiny (World) (Disk 1B - Dungeon) (WozADay)</description>
-		<release name="Ultima V - Warriors of Destiny (World) (Disk 1B - Dungeon) (WozADay)" region="World"/>
-		<rom name="Ultima V - Warriors of Destiny (World) (Disk 1B - Dungeon) (WozADay).woz" size="233620" crc="7f981d04" md5="206f0fadd2daf14b191bce6072f8455c" sha1="d97fbd4d7eba2b65fc28e6d9bb19c9e1c4f18d58"/>
-		<url>https://retroachievements.org/game/27575/hashes</url>
-		<hash>206f0fadd2daf14b191bce6072f8455c</hash>
-	</game>
-	<game name="Ultima V - Warriors of Destiny (World) (Disk 2B - Underworld) (WozADay)">
-		<category>Retail</category>
-		<description>Ultima V - Warriors of Destiny (World) (Disk 2B - Underworld) (WozADay)</description>
-		<release name="Ultima V - Warriors of Destiny (World) (Disk 2B - Underworld) (WozADay)" region="World"/>
-		<rom name="Ultima V - Warriors of Destiny (World) (Disk 2B - Underworld) (WozADay).woz" size="233623" crc="60a5113b" md5="163b975aa865aab6740294a859651935" sha1="0f6ee9ea94e917042a074934b41a318486099fff"/>
-		<url>https://retroachievements.org/game/27575/hashes</url>
-		<hash>163b975aa865aab6740294a859651935</hash>
-	</game>
 	
-	<game name="Ulysses and the Golden Fleece (World) (Side A) (WozADay)">
+	<game name="Ulysses and the Golden Fleece (World) (WozADay)">
 		<category>Retail</category>
-		<description>Ulysses and the Golden Fleece (World) (Side A) (WozADay)</description>
-		<release name="Ulysses and the Golden Fleece (World) (Side A) (WozADay)" region="World"/>
+		<description>Ulysses and the Golden Fleece (World) (WozADay)</description>
+		<release name="Ulysses and the Golden Fleece (World) (WozADay)" region="World"/>
+		<rom name="Ulysses and the Golden Fleece (World) (WozADay).m3u" size="122" crc="54fcc869" md5="7306362fbab35b3ea2f0d85683253a3d" sha1="d9c973eeeb28d3453f2d263f39acd971dedf6888"/>
 		<rom name="Ulysses and the Golden Fleece (World) (Side A) (WozADay).woz" size="242146" crc="21d6194d" md5="d837732de99cf814e160d93672f1c559" sha1="86ef1ae8cbeb738c9167adefbbc87a85ed5f7615"/>
-		<url>https://retroachievements.org/game/31999/hashes</url>
-		<hash>d837732de99cf814e160d93672f1c559</hash>
-	</game>
-	<game name="Ulysses and the Golden Fleece (World) (Side B) (WozADay)">
-		<category>Retail</category>
-		<description>Ulysses and the Golden Fleece (World) (Side B) (WozADay)</description>
-		<release name="Ulysses and the Golden Fleece (World) (Side B) (WozADay)" region="World"/>
 		<rom name="Ulysses and the Golden Fleece (World) (Side B) (WozADay).woz" size="235510" crc="7168c183" md5="391cc09141418de2a6c929fa907babe9" sha1="e5b2b512c68a98ee4d436acaeaab33aa4e5798b9"/>
 		<url>https://retroachievements.org/game/31999/hashes</url>
+		<hash>d837732de99cf814e160d93672f1c559</hash>
 		<hash>391cc09141418de2a6c929fa907babe9</hash>
 	</game>
-	<game name="Ulysses and the Golden Fleece (World) (Side A) (Tosec)" cloneof="Ulysses and the Golden Fleece (World) (Side A) (WozADay)">
+	<game name="Ulysses and the Golden Fleece (World) (Tosec)" cloneof="Ulysses and the Golden Fleece (World) (Side A) (WozADay)">
 		<category>Retail</category>
-		<description>Ulysses and the Golden Fleece (World) (Side A) (Tosec)</description>
+		<description>Ulysses and the Golden Fleece (World) (Tosec)</description>
+		<rom name="Ulysses and the Golden Fleece (World) (Tosec).m3u" size="118" crc="51be6099" md5="3b270adefe98b941c54e654b779b8ccd" sha1="f63d8d47e9e6261f16ceb6968dff2d8e7f75c7c9"/>
 		<rom name="Ulysses and the Golden Fleece (World) (Side A) (Tosec).dsk" size="143360" crc="16bc8688" md5="49256e89c1badaf8c523015cb1c39375" sha1="03d278402fd1d59ca1524f2785d104c5e7f52443"/>
-		<url>https://retroachievements.org/game/31999/hashes</url>
-		<hash>49256e89c1badaf8c523015cb1c39375</hash>
-	</game>
-	<game name="Ulysses and the Golden Fleece (World) (Side B) (Tosec)" cloneof="Ulysses and the Golden Fleece (World) (Side B) (WozADay)">
-		<category>Retail</category>
-		<description>Ulysses and the Golden Fleece (World) (Side B) (Tosec)</description>
 		<rom name="Ulysses and the Golden Fleece (World) (Side B) (Tosec).dsk" size="143360" crc="9862ff3e" md5="3fb477266fdced934332c803a78105b4" sha1="d118ef98794ea8a5e02816499859dce3afc302bf"/>
 		<url>https://retroachievements.org/game/31999/hashes</url>
+		<hash>49256e89c1badaf8c523015cb1c39375</hash>
 		<hash>3fb477266fdced934332c803a78105b4</hash>
 	</game>
 	
@@ -1992,118 +1510,67 @@
 		<hash>C8AE6C569A8EEBA48AFEA85881B1FF37</hash>
 	</game>
 	
-	<game name="Wasteland (World) (Disc 2 Side A) (Tosec)">
+	<game name="Wasteland (World) (Tosec)">
 		<category>Retail</category>
-		<description>Wasteland (World) (Disc 2 Side A) (Tosec)</description>
-		<release name="Wasteland (World) (Disc 2 Side A) (Tosec)" region="World"/>
-		<rom name="Wasteland (World) (Disc 2 Side A) (Tosec).dsk" size="143360" crc="456544dc" md5="8369f8bd8971ac160998b6b44d40dd8a" sha1="1d0fd72cd7bbaac395e2c22e0a1f038d33bc9fcd"/>
-		<url>https://retroachievements.org/game/14021/hashes</url>
-		<hash>8369f8bd8971ac160998b6b44d40dd8a</hash>
-	</game>
-	<game name="Wasteland (World) (Disc 1 Side B) (Tosec)">
-		<category>Retail</category>
-		<description>Wasteland (World) (Disc 1 Side B) (Tosec)</description>
-		<release name="Wasteland (World) (Disc 1 Side B) (Tosec)" region="World"/>
-		<rom name="Wasteland (World) (Disc 1 Side B) (Tosec).dsk" size="143360" crc="ea57131c" md5="8942c0af30f7d4d8a8c3061d28eb3dff" sha1="9a6edce3db2b28b5bc5f9655a22bbec042f04b65"/>
-		<url>https://retroachievements.org/game/14021/hashes</url>
-		<hash>8942c0af30f7d4d8a8c3061d28eb3dff</hash>
-	</game>
-	<game name="Wasteland (World) (Disc 1 Side B) (Tosec) (Alt)" cloneof="Wasteland (World) (Disc 1 Side A) (Tosec)">
-		<category>Retail</category>
-		<description>Wasteland (World) (Disc 1 Side B) (Tosec) (Alt)</description>
-		<rom name="Wasteland (World) (Disc 1 Side B) (Tosec) (Alt).dsk" size="143360" crc="07291123" md5="9fc328d5eab51b6b52952f941160adf7" sha1="faa526d6bce182246da0af54e45351e69a90b659"/>
-		<url>https://retroachievements.org/game/14021/hashes</url>
-		<hash>9fc328d5eab51b6b52952f941160adf7</hash>
-	</game>
-	<game name="Wasteland (World) (Disc 1 Side A) (Tosec)">
-		<category>Retail</category>
-		<description>Wasteland (World) (Disc 1 Side A) (Tosec)</description>
-		<release name="Wasteland (World) (Disc 1 Side A) (Tosec)" region="World"/>
+		<description>Wasteland (World) (Tosec)</description>
+		<release name="Wasteland (World) (Tosec)" region="World"/>
+		<rom name="Wasteland (World) (Tosec).m3u" size="186" crc="ebf247d5" md5="cf1553b41bc9b07fafd61e62a63e4de7" sha1="5d2c00619c8a8311e3eb7085565f1eeae6f837b9"/>
 		<rom name="Wasteland (World) (Disc 1 Side A) (Tosec).dsk" size="143360" crc="0b9acdb1" md5="d7530f1821131dc54a08a12a85b5ede9" sha1="85de855084997b8256c52690a71bbcb68138a50c"/>
-		<url>https://retroachievements.org/game/14021/hashes</url>
-		<hash>d7530f1821131dc54a08a12a85b5ede9</hash>
-	</game>
-	<game name="Wasteland (World) (Disc 2 Side B) (Tosec)">
-		<category>Retail</category>
-		<description>Wasteland (World) (Disc 2 Side B) (Tosec)</description>
-		<release name="Wasteland (World) (Disc 2 Side B) (Tosec)" region="World"/>
+		<rom name="Wasteland (World) (Disc 1 Side B) (Tosec).dsk" size="143360" crc="ea57131c" md5="8942c0af30f7d4d8a8c3061d28eb3dff" sha1="9a6edce3db2b28b5bc5f9655a22bbec042f04b65"/>
+		<rom name="Wasteland (World) (Disc 2 Side A) (Tosec).dsk" size="143360" crc="456544dc" md5="8369f8bd8971ac160998b6b44d40dd8a" sha1="1d0fd72cd7bbaac395e2c22e0a1f038d33bc9fcd"/>
 		<rom name="Wasteland (World) (Disc 2 Side B) (Tosec).dsk" size="143360" crc="4ec6ec73" md5="e54a6559ac78c2ec08e34efa291ab5f8" sha1="6f39c484acd6f61260c2c3c4aee722f40958b5f3"/>
 		<url>https://retroachievements.org/game/14021/hashes</url>
+		<hash>d7530f1821131dc54a08a12a85b5ede9</hash>
+		<hash>8942c0af30f7d4d8a8c3061d28eb3dff</hash>
+		<hash>8369f8bd8971ac160998b6b44d40dd8a</hash>
 		<hash>e54a6559ac78c2ec08e34efa291ab5f8</hash>
 	</game>
 	
-	<game name="Wheel of Fortune (World) (Tosec)" cloneof="Wheel of Fortune (World) (Side A) (Tosec)">
+	<game name="Wheel of Fortune (World) (Tosec)">
 		<category>Retail</category>
 		<description>Wheel of Fortune (World) (Tosec)</description>
-		<rom name="Wheel of Fortune (World) (Tosec).dsk" size="143360" crc="ea651ed3" md5="94a70fed0893d60084b59d4e4a955924" sha1="b808c13a8b1a88e70037478a4cbbb98ed6bd0d28"/>
-		<url>https://retroachievements.org/game/32091/hashes</url>
-		<hash>94a70fed0893d60084b59d4e4a955924</hash>
-	</game>
-	<game name="Wheel of Fortune (World) (Side A) (Tosec)">
-		<category>Retail</category>
-		<description>Wheel of Fortune (World) (Side A) (Tosec)</description>
-		<release name="Wheel of Fortune (World) (Side A) (Tosec)" region="World"/>
+		<release name="Wheel of Fortune (World) (Tosec)" region="World"/>
+		<rom name="Wheel of Fortune (World) (Tosec).m3u" size="92" crc="5347613a" md5="317db32b23be414ca5bf16ec62f28e96" sha1="35aa9cdebde759be04aafa69d374353865334d20"/>
 		<rom name="Wheel of Fortune (World) (Side A) (Tosec).dsk" size="143360" crc="ea6925f5" md5="5f7d5ebc16f129d6967fff6539e272fb" sha1="4d060a840046e2baa14205b290b4824f7a1f70b0"/>
-		<url>https://retroachievements.org/game/32091/hashes</url>
-		<hash>5f7d5ebc16f129d6967fff6539e272fb</hash>
-	</game>
-	<game name="Wheel of Fortune (World) (Side B) (Tosec)">
-		<category>Retail</category>
-		<description>Wheel of Fortune (World) (Side B) (Tosec)</description>
-		<release name="Wheel of Fortune (World) (Side B) (Tosec)" region="World"/>
 		<rom name="Wheel of Fortune (World) (Side B) (Tosec).dsk" size="143360" crc="dc7e554f" md5="a67b2944154b4dda4731cb2e31d81691" sha1="c5fe8783626e7851b7b7cf1bf20f15c3cfbc0967"/>
 		<url>https://retroachievements.org/game/32091/hashes</url>
+		<hash>5f7d5ebc16f129d6967fff6539e272fb</hash>
 		<hash>a67b2944154b4dda4731cb2e31d81691</hash>
 	</game>
 	
-	<game name="Where in North Dakota is Carmen Sandiego (World) (Disk 1A) (WozADay)">
+	<game name="Where in North Dakota is Carmen Sandiego (World) (WozADay)">
 		<category>Retail</category>
-		<description>Where in North Dakota is Carmen Sandiego (World) (Disk 1A) (WozADay)</description>
-		<release name="Where in North Dakota is Carmen Sandiego (World) (Disk 1A) (WozADay)" region="World"/>
+		<description>Where in North Dakota is Carmen Sandiego (World) (WozADay)</description>
+		<release name="Where in North Dakota is Carmen Sandiego (World) (WozADay)" region="World"/>
+		<rom name="Where in North Dakota is Carmen Sandiego (World) (WozADay).m3u" size="146" crc="b72f7791" md5="cc5d4272e0ea1fe172b85c427317e278" sha1="40504e87d3b54c7e94b7d55280b973a4fa8c7aad"/>
 		<rom name="Where in North Dakota is Carmen Sandiego (World) (Disk 1A) (WozADay).woz" size="234963" crc="482c92f4" md5="f8390801d740b6537268e72cabc6cc5d" sha1="e59481a41d75aca6e670cf9ea87c6f0a1b14646a"/>
-		<url>https://retroachievements.org/game/25719/hashes</url>
-		<hash>F8390801D740B6537268E72CABC6CC5D</hash>
-	</game>
-	<game name="Where in North Dakota is Carmen Sandiego (World) (Disk 1B) (WozADay)">
-		<category>Retail</category>
-		<description>Where in North Dakota is Carmen Sandiego (World) (Disk 1B) (WozADay)</description>
-		<release name="Where in North Dakota is Carmen Sandiego (World) (Disk 1B) (WozADay)" region="World"/>
 		<rom name="Where in North Dakota is Carmen Sandiego (World) (Disk 1B) (WozADay).woz" size="234963" crc="cf47fe0c" md5="6cb0d076de2acd89366e053de6196ebe" sha1="25c5bbbdf0f4265e0a63de456c3a4258d87afc95"/>
 		<url>https://retroachievements.org/game/25719/hashes</url>
+		<hash>F8390801D740B6537268E72CABC6CC5D</hash>
 		<hash>6CB0D076DE2ACD89366E053DE6196EBE</hash>
 	</game>
 	
-	<game name="Where in the World is Carmen Sandiego? (World) (Side A) (WozADay)">
+	<game name="Where in the World is Carmen Sandiego? (World) (WozADay)">
 		<category>Retail</category>
-		<description>Where in the World is Carmen Sandiego? (World) (Side A) (WozADay)</description>
-		<release name="Where in the World is Carmen Sandiego? (World) (Side A) (WozADay)" region="World"/>
+		<description>Where in the World is Carmen Sandiego? (World) (WozADay)</description>
+		<release name="Where in the World is Carmen Sandiego? (World) (WozADay)" region="World"/>
+		<rom name="Where in the World is Carmen Sandiego? (World) (WozADay).m3u" size="138" crc="821f0502" md5="5c229c17c36cd898843b35c25739ed24" sha1="8155e7f934393651769094ee6d520a475169215e"/>
 		<rom name="Where in the World is Carmen Sandiego? (World) (Side A) (WozADay).woz" size="332120" crc="9e9bc183" md5="e20582a89ba7076bf3181d55268da290" sha1="bfcf9c5156a3bd57384f14656d7da9adfe546d2e"/>
-		<url>https://retroachievements.org/game/14037/hashes</url>
-		<hash>e20582a89ba7076bf3181d55268da290</hash>
-	</game>
-	<game name="Where in the World is Carmen Sandiego? (World) (Side B) (WozADay)">
-		<category>Retail</category>
-		<description>Where in the World is Carmen Sandiego? (World) (Side B) (WozADay)</description>
-		<release name="Where in the World is Carmen Sandiego? (World) (Side B) (WozADay)" region="World"/>
 		<rom name="Where in the World is Carmen Sandiego? (World) (Side B) (WozADay).woz" size="234840" crc="771e61bd" md5="912ffd8be228c97deaaeb08e7520176c" sha1="672a843e9d7b927b8f2d14d0ea3679913add4175"/>
 		<url>https://retroachievements.org/game/14037/hashes</url>
+		<hash>e20582a89ba7076bf3181d55268da290</hash>
 		<hash>912ffd8be228c97deaaeb08e7520176c</hash>
 	</game>
 	
-	<game name="Winnie the Pooh in the Hundred Acre Wood (World) (Side A) (WozADay)">
+	<game name="Winnie the Pooh in the Hundred Acre Wood (World) (WozADay)">
 		<category>Retail</category>
-		<description>Winnie the Pooh in the Hundred Acre Wood (World) (Side A) (WozADay)</description>
-		<release name="Winnie the Pooh in the Hundred Acre Wood (World) (Side A) (WozADay)" region="World"/>
+		<description>Winnie the Pooh in the Hundred Acre Wood (World) (WozADay)</description>
+		<release name="Winnie the Pooh in the Hundred Acre Wood (World) (WozADay)" region="World"/>
+		<rom name="Winnie the Pooh in the Hundred Acre Wood (World) (WozADay).m3u" size="144" crc="4de9f700" md5="b478ce63a1475e17ed006c1edfd441a5" sha1="07909bc9c1bf1646343cb5f9e5855416c5d80d76"/>
 		<rom name="Winnie the Pooh in the Hundred Acre Wood (World) (Side A) (WozADay).woz" size="234802" crc="73997920" md5="48d5a95911742c869ce8a93086f87072" sha1="d6b8176c8753f05da2f72b1f1b96e8718d18ab88"/>
-		<url>https://retroachievements.org/game/32905/hashes</url>
-		<hash>48d5a95911742c869ce8a93086f87072</hash>
-	</game>
-	<game name="Winnie the Pooh in the Hundred Acre Wood (World) (Side B) (WozADay)">
-		<category>Retail</category>
-		<description>Winnie the Pooh in the Hundred Acre Wood (World) (Side B) (WozADay)</description>
-		<release name="Winnie the Pooh in the Hundred Acre Wood (World) (Side B) (WozADay)" region="World"/>
 		<rom name="Winnie the Pooh in the Hundred Acre Wood (World) (Side B) (WozADay).woz" size="234802" crc="06be776d" md5="eac803c863cd1fc78f21b666b30f618d" sha1="d1826e1eaac9625c9924b55e51f0fbb68af745bd"/>
 		<url>https://retroachievements.org/game/32905/hashes</url>
+		<hash>48d5a95911742c869ce8a93086f87072</hash>
 		<hash>eac803c863cd1fc78f21b666b30f618d</hash>
 	</game>
 	
