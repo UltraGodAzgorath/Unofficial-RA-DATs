@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>RA - 3DO Interactive Multiplayer</name>
+		<description>3DO Interactive Multiplayer</description>
+		<category>No Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
+		<homepage>https://retroachievements.org</homepage>
+		<url>https://retroachievements.org/system/43/games</url>
+		<titlecount>33</titlecount>
+		<hashcount>33</hashcount>
+	</header>
+	<game name="Wreckman (World) (v1.0.0) (retroloveletter) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Wreckman (World) (v1.0.0) (retroloveletter) (Aftermarket)</description>
+		<rom name="Wreckman (World) (v1.0.0) (retroloveletter) (Aftermarket).iso" size="4030464" crc="d2d2fbaf" md5="0204286b4659a7de0a9ac9dd37a394fa" sha1="d21203a11444bd3eb07522737f61fc8a36e46f2a"/>
+		<url>https://retroachievements.org/game/24160/hashes</url>
+		<hash>33031A9305CAB3EB38AF9F163FAFE307</hash>
+	</game>
+	
+	<game name="Alone in the Dark (USA)">
+		<category>Retail</category>
+		<description>Alone in the Dark (USA)</description>
+		<rom name="Alone in the Dark (USA).cue" size="112" crc="f0cc6002" md5="f049e609a84075e17edb3c3d671f21cd" sha1="71fe34a6f5c2a6e20d98f479c34fc99268a20bf9"/>
+		<rom name="Alone in the Dark (USA).bin" size="422184000" crc="2c03e3af" md5="192de93ff970cc04caa49d4a723a390f" sha1="d643c74677b283ec01431c6457d21f888747c77b"/>
+		<url>https://retroachievements.org/game/8368/hashes</url>
+		<hash>4D7F2E1B2E8B9D9D14F083FAE44D9760</hash>
+	</game>
+
+	<game name="Alone in the Dark 2 (USA)">
+		<category>Retail</category>
+		<description>Alone in the Dark 2 (USA)</description>
+		<rom name="Alone in the Dark 2 (USA).cue" size="114" crc="fb1fe530" md5="46902a501402ca94fb5cb7158dcbb138" sha1="ee6867e30372f07be18d8e01bb561691f4127d48"/>
+		<rom name="Alone in the Dark 2 (USA).bin" size="674906400" crc="c4351a5e" md5="0cbb06c9daa8239837624111c8ae1132" sha1="feef790130d05ca5446be4550e4f8799e5f983aa"/>
+		<url>https://retroachievements.org/game/7895/hashes</url>
+		<hash>2B8F6037654255AAC56FF5C12C0B44E6</hash>
+	</game>
+
+	<game name="Drug Wars (USA)">
+		<category>Retail</category>
+		<description>Drug Wars (USA)</description>
+		<rom name="Drug Wars (USA).cue" size="104" crc="98d65fd0" md5="78c0033f269e6c0cce422ffcae95d953" sha1="e551dbae7f8e21163c339454e4b4c9689adf2b5d"/>
+		<rom name="Drug Wars (USA).bin" size="688322208" crc="96436a20" md5="d5186ccef16cde0779a3be0b15659574" sha1="9bfa677541194f76923f11d240dc312844614dde"/>
+		<url>https://retroachievements.org/game/16827/hashes</url>
+		<hash>BDBCAFE60B41F0BE7EC07CAC9515CB38</hash>
+	</game>
+
+	<game name="Doom (USA, Japan)">
+		<category>Retail</category>
+		<description>Doom (USA, Japan)</description>
+		<rom name="Doom (USA, Japan).cue" size="106" crc="d8b6893f" md5="f922d7c1f2485f6c9ddf8660d87f58a7" sha1="e683240f607808542a4b2f28900bcbe348d5e251"/>
+		<rom name="Doom (USA, Japan).bin" size="241903200" crc="c238cd13" md5="58bd8257d9c1a759923195439245e01e" sha1="e46733bb1401671ed76ca64894cd55b2098a57fa"/>
+		<url>https://retroachievements.org/game/16617/hashes</url>
+		<hash>C93CBEF8E885C2EC83BC1732890A0D1F</hash>
+	</game>
+
+	<game name="Dragon's Lair (USA, Korea)">
+		<category>Retail</category>
+		<description>Dragon's Lair (USA, Korea)</description>
+		<rom name="Dragon's Lair (USA, Korea).cue" size="115" crc="d96c405c" md5="66efb422246cb04f315165c776dac6dc" sha1="28df49f2be549e5cd99403320fda19d86439216c"/>
+		<rom name="Dragon's Lair (USA, Korea).bin" size="241555104" crc="f4a59b09" md5="8e3b094cd8c3bba316556d8acf48ae0e" sha1="7707fab1d30b2a06051ffbac2938def751a7f118"/>
+		<url>https://retroachievements.org/game/16826/hashes</url>
+		<hash>468D11B409BCE3FF2FACEE054A8494AD</hash>
+	</game>
+
+	<game name="Escape from Monster Manor (USA)">
+		<category>Retail</category>
+		<description>Escape from Monster Manor (USA)</description>
+		<rom name="Escape from Monster Manor (USA).cue" size="120" crc="8106662e" md5="b9c29252e14c791687c855a16aa14b6b" sha1="e2257e93cc8ba5edac3017f83983ad5835317f18"/>
+		<rom name="Escape from Monster Manor (USA).bin" size="542611104" crc="3bafd40d" md5="7387f48a956d43028444ef7259041107" sha1="5663315cfe066af79a03a9d5cc7a1cf52dd4e068"/>
+		<url>https://retroachievements.org/game/17743/hashes</url>
+		<hash>76D55D10938F936B9707D4578E8440A7</hash>
+	</game>
+
+	<game name="Fatty Bear's Birthday Surprise (USA)">
+		<category>Retail</category>
+		<description>Fatty Bear's Birthday Surprise (USA)</description>
+		<rom name="Fatty Bear's Birthday Surprise (USA).cue" size="125" crc="08acc4d8" md5="94341545cbaaccc880e9a935ace83e8b" sha1="789ff7c0f065e98079b8acff1a47e16cc2c27cb5"/>
+		<rom name="Fatty Bear's Birthday Surprise (USA).bin" size="97048224" crc="5be08d03" md5="32e1eab392c0c8f38b8bd245bcb62f5d" sha1="172f03f611746d5a8c6afa96d79ea0094c9c04c1"/>
+		<url>https://retroachievements.org/game/16411/hashes</url>
+		<hash>7A7A41A239FE4D026BE6DFA761933FB5</hash>
+	</game>
+
+	<game name="Fatty Bear's Funpack (USA)">
+		<category>Retail</category>
+		<description>Fatty Bear's Funpack (USA)</description>
+		<rom name="Fatty Bear's Funpack (USA).cue" size="115" crc="0b26561a" md5="3573865e8721cf29d340d81d387a1a35" sha1="3295d619535b7d510c49383e680fa74abed1274d"/>
+		<rom name="Fatty Bear's Funpack (USA).bin" size="97048224" crc="41288903" md5="81a81e6fe64007112084237b4ce5af57" sha1="07ccc89ba11c872fef895fd27b84b483d2b5074b"/>
+		<url>https://retroachievements.org/game/16412/hashes</url>
+		<hash>F148536A4E707A4418AAD19BA80A9515</hash>
+	</game>
+	
+	<game name="Hello Kitty - Asobi no Omochabako (Japan)">
+		<category>Retail</category>
+		<description>Hello Kitty - Asobi no Omochabako (Japan)</description>
+		<rom name="Hello Kitty - Asobi no Omochabako (Japan).cue" size="107" crc="c655d441" md5="b16238ef334bd6da9c0c73ffae45cce2" sha1="614e380436a57f4af3292718f9f1b701c9f0e0b8"/>
+		<rom name="Hello Kitty - Asobi no Omochabako (Japan).bin" size="241202304" crc="399c3d92" md5="f1c30033cdc5cfffb3ab84f3d7b52f33" sha1="911452d9df321b4cfec53fa11bd4e72259c41c6c"/>
+		<url>https://retroachievements.org/game/21353/hashes</url>
+		<hash>89bda405b722c648e28576f4652011e9</hash>
+	</game>
+
+	<game name="Hitchcock ni Chousen (Japan)">
+		<category>Retail</category>
+		<description>Hitchcock ni Chousen (Japan)</description>
+		<rom name="Hitchcock ni Chousen (Japan).cue" size="117" crc="4592d9d5" md5="05d5315d919e8f58ee2416b0072dbc3d" sha1="10ca28ad349a7f6c2fcf606a8c497f477c64eeeb"/>
+		<rom name="Hitchcock ni Chousen (Japan).bin" size="64181376" crc="a96654ec" md5="c9b0656c70d374468c36c4ec46479e52" sha1="585d88392364f03c565c44372bee0fe4725cf067"/>
+		<url>https://retroachievements.org/game/20239/hashes</url>
+		<hash>D215521CC942A81B1439162469C53809</hash>
+	</game>
+
+	<game name="Jurassic Park Interactive (USA)">
+		<category>Retail</category>
+		<description>Jurassic Park Interactive (USA)</description>
+		<rom name="Jurassic Park Interactive (USA).cue" size="120" crc="aa476fc4" md5="33a9553751abcb94b40dedc040a165fa" sha1="b8682fae550d2fd317d9c6a571a19e900174de43"/>
+		<rom name="Jurassic Park Interactive (USA).bin" size="457962624" crc="39f8dc1e" md5="41980ac5e4d0ca09244a031ee4cf3965" sha1="09dfdf1129673a8bfc50de80bf5b94a17f68ca19"/>
+		<url>https://retroachievements.org/game/16640/hashes</url>
+		<hash>BBB1A1C3FC825365407DAE73A65E2C61</hash>
+	</game>
+
+	<game name="Kingdom - The Far Reaches (USA, Europe)">
+		<category>Retail</category>
+		<description>Kingdom - The Far Reaches (USA, Europe)</description>
+		<rom name="Kingdom - The Far Reaches (USA, Europe).cue" size="128" crc="dcfa5fca" md5="fc6463b08e291c56860fa78ac27528d4" sha1="5064851c8743a81a0db4362aca548bb30c47102d"/>
+		<rom name="Kingdom - The Far Reaches (USA, Europe).bin" size="775877760" crc="760b7d3c" md5="5ace589136862b21e5f42963fabd3cf8" sha1="97b74dfcc25b4e315d9327cfc518ceec5f522a49"/>
+		<url>https://retroachievements.org/game/8400/hashes</url>
+		<hash>32295BD44A4885B170D2073739D4FEC2</hash>
+	</game>
+
+	<game name="Mad Dog II - The Lost Gold (USA)">
+		<category>Retail</category>
+		<description>Mad Dog II - The Lost Gold (USA)</description>
+		<rom name="Mad Dog II - The Lost Gold (USA).cue" size="121" crc="8913c0b0" md5="b10fd151ab753c398260bd25a3f435a5" sha1="a044bf068b523933789531c5ae8ff61f3997e235"/>
+		<rom name="Mad Dog II - The Lost Gold (USA).bin" size="650135136" crc="03a7ab44" md5="631916d5cbbfb71821ed444b2ac38ad2" sha1="35a30a7f8c55562410ed57782bc6d2e7829f4544"/>
+		<url>https://retroachievements.org/game/21265/hashes</url>
+		<hash>d2843fb9937587e9a0b77e067770b0ab</hash>
+	</game>
+
+	<game name="MegaRace (USA, Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>MegaRace (USA, Europe) (En,Fr,De,Es,It)</description>
+		<rom name="MegaRace (USA, Europe) (En,Fr,De,Es,It).cue" size="128" crc="a50d7799" md5="0af860c77812d98b7a6b5bce3a4e878a" sha1="328f4a0356d5ae26e8a7e39b77a791302f46378a"/>
+		<rom name="MegaRace (USA, Europe) (En,Fr,De,Es,It).bin" size="771408960" crc="a5baa497" md5="0dcbe251a83fdff54ee72674cdefe608" sha1="c1c5486722ce26568c293c145712d549670297d2"/>
+		<url>https://retroachievements.org/game/16837/hashes</url>
+		<hash>6adf88dffbb1e563aac10098f3bf5fa7</hash>
+	</game>
+
+	<game name="Mind Teazzer (USA)">
+		<category>Retail</category>
+		<description>Mind Teazzer (USA)</description>
+		<rom name="Mind Teazzer (USA).cue" size="107" crc="b83ea3b3" md5="8e37f2998752f3e6d45b972009b470ac" sha1="f673e03e27ed25235b88c413348da4308d2c4b53"/>
+		<rom name="Mind Teazzer (USA).bin" size="722891904" crc="1864670f" md5="8b747957dfb35f1467e225a51e43b56d" sha1="a954b2d0c908f6d903bebb78ec4f336b531c02b1"/>
+		<url>https://retroachievements.org/game/16550/hashes</url>
+		<hash>2D13FCA9767858FB7B93DA2C74F525F9</hash>
+	</game>
+
+	<game name="Myst (USA)">
+		<category>Retail</category>
+		<description>Myst (USA)</description>
+		<rom name="Myst (USA).cue" size="99" crc="c0e439c0" md5="64a7f32db8182cf144820caba6474792" sha1="ea1e6d0790162d9dd83d125f9f9de489f0e56b9e"/>
+		<rom name="Myst (USA).bin" size="746976384" crc="1bbd2184" md5="2f65dedc136ca2ea0869c46e30b5b535" sha1="a8f0b8640dd12058e97072b83412a2074bbd3020"/>
+		<url>https://retroachievements.org/game/16839/hashes</url>
+		<hash>E3254945201DE3D713ABE8BA9338EFAE</hash>
+	</game>
+
+	<game name="Onee-san to Issho! Janken Paradise (Japan)">
+		<category>Retail</category>
+		<description>Onee-san to Issho! Janken Paradise (Japan)</description>
+		<rom name="Onee-san to Issho! Janken Paradise (Japan).cue" size="154" crc="37c17e1f" md5="618ed27a5297b987f131e2ceaef60bee" sha1="dc7de23a33cb214049cbedb5fd5ffa18b5be3521"/>
+		<rom name="Onee-san to Issho! Janken Paradise (Japan).bin" size="602817600" crc="6d50a358" md5="006e66ea4bd3f5650a008a3ebc61be01" sha1="dccf8f65730074160bea5bb8c1d13f9ed3e2fa52"/>
+		<url>https://retroachievements.org/game/20506/hashes</url>
+		<hash>D902E9258441BC01D81DC15F2A39D1D7</hash>
+	</game>
+
+	<game name="Onee-san to Issho! Kisekae Paradise (Japan)">
+		<category>Retail</category>
+		<description>Onee-san to Issho! Kisekae Paradise (Japan)</description>
+		<rom name="Onee-san to Issho! Kisekae Paradise (Japan).cue" size="132" crc="5526e9eb" md5="2c3b4596ed0863b7e65747181366e584" sha1="b8abc83d223658b530e8eb466533d99663a2dbec"/>
+		<rom name="Onee-san to Issho! Kisekae Paradise (Japan).bin" size="709645440" crc="af83316a" md5="a11e43a7ac3e27feef0bee5792f7a08b" sha1="0354cb2fac5a5b40f6c866a2c0b2936481320c3b"/>
+		<url>https://retroachievements.org/game/20507/hashes</url>
+		<hash>c4cd53e4b988b699029ab11b27657c59</hash>
+	</game>
+
+	<game name="Plumbers Don't Wear Ties (USA)">
+		<category>Retail</category>
+		<description>Plumbers Don't Wear Ties (USA)</description>
+		<rom name="Plumbers Don't Wear Ties (USA).cue" size="119" crc="d9089182" md5="a900a352731b6f171663b35a0a20aef4" sha1="fc1b3588410be08f4e3126df4c58cbb3ef84500a"/>
+		<rom name="Plumbers Don't Wear Ties (USA).bin" size="708789312" crc="8b8cfd44" md5="6bb8b63a6d1c1c187d1c2e882f378a4f" sha1="b446f85c7237c0c765d407788fa4e999ff896e95"/>
+		<url>https://retroachievements.org/game/16397/hashes</url>
+		<hash>4570E692AC07D2242AB9141F1BB9000D</hash>
+	</game>
+
+	<game name="Pretty Soldier SailorMoon S (Japan)">
+		<category>Retail</category>
+		<description>Pretty Soldier SailorMoon S (Japan)</description>
+		<rom name="Pretty Soldier SailorMoon S (Japan).cue" size="101" crc="ac662f9f" md5="b8432df9f691ba36e848b19f86bca351" sha1="b2a7b1642a5916ba8852a231adaa60f6f4633386"/>
+		<rom name="Pretty Soldier SailorMoon S (Japan).bin" size="686765184" crc="926d3eca" md5="285ec465b40cccc212ef0fb4bc243fbe" sha1="849e04b1698e841488f2cb528a4b956e77e4fdf6"/>
+		<url>https://retroachievements.org/game/16406/hashes</url>
+		<hash>01293A81CA1A0EE3CDA2D5F398E403E4</hash>
+	</game>
+
+	<game name="Rise of the Robots (USA)">
+		<category>Retail</category>
+		<description>Rise of the Robots (USA)</description>
+		<rom name="Rise of the Robots (USA).cue" size="113" crc="2275d931" md5="a885f28c7d0cfa46fbeb0e245b03c8e7" sha1="606466b6f7bcaf8cad3a1ace121d2c7bd0a13f7c"/>
+		<rom name="Rise of the Robots (USA).bin" size="669049920" crc="47aca7cf" md5="d84c00efaac8dd30c968df811edf1352" sha1="76a3891af45f95b9f9030b840235e4642d0d0c42"/>
+		<url>https://retroachievements.org/game/16852/hashes</url>
+		<hash>923d162e786de7c32c5e2496603914fb</hash>
+	</game>
+
+	<game name="Seal of the Pharaoh (USA)">
+		<category>Retail</category>
+		<description>Seal of the Pharaoh (USA)</description>
+		<rom name="Seal of the Pharaoh (USA).cue" size="114" crc="b36d257d" md5="99e83624320efe6584b886846b8288b9" sha1="1cca44e9b9efbc988eeae1e4bbcf1bf11dd2e21a"/>
+		<rom name="Seal of the Pharaoh (USA).bin" size="602817600" crc="a5e340bd" md5="f58f7135990c761154b5341088f89ab6" sha1="122a5707539a00a584b028a52d3fb2b516b045e5"/>
+		<url>https://retroachievements.org/game/7705/hashes</url>
+		<hash>CD54D1E1B8D680A9F1085B30EE992411</hash>
+	</game>
+
+	<game name="Shelley Duvall's It's a Bird's Life (USA)">
+		<category>Retail</category>
+		<description>Shelley Duvall's It's a Bird's Life (USA)</description>
+		<rom name="Shelley Duvall's It's a Bird's Life (USA).cue" size="130" crc="af2d9f5f" md5="35dc778855a0eda510691bc49d72f30e" sha1="8c331732073f9904812e736b64629cf2b3e2cb45"/>
+		<rom name="Shelley Duvall's It's a Bird's Life (USA).bin" size="404125344" crc="9b29dd4b" md5="d5019c6d0666a2be0ae537b59f7b86c5" sha1="46331607319db6127beb900de49ecaa7480c298d"/>
+		<url>https://retroachievements.org/game/21309/hashes</url>
+		<hash>E1A98C71E85E3DB717339B607739BAC4</hash>
+	</game>
+
+	<game name="Star Wars - Rebel Assault (USA, Europe)">
+		<category>Retail</category>
+		<description>Star Wars - Rebel Assault (USA, Europe)</description>
+		<rom name="Star Wars - Rebel Assault (USA, Europe).cue" size="128" crc="a6bc47e0" md5="c410adf4a5e54e6714277a3a7b371a45" sha1="738aa079d51db9a7d8068bb0a3a3b2cc78c94105"/>
+		<rom name="Star Wars - Rebel Assault (USA, Europe).bin" size="530564160" crc="2e8261ac" md5="1a17726f1abcdac56c1a45abcfba0488" sha1="6d1469166770cc751c5d33e7bdd77273e48ecbbc"/>
+		<url>https://retroachievements.org/game/16864/hashes</url>
+		<hash>90e4b7dda0d2b9d5117086271bdfa5ff</hash>
+	</game>
+	
+	<game name="Starblade (Canada)">
+		<category>Retail</category>
+		<description>Starblade (Canada)</description>
+		<rom name="Starblade (Canada).cue" size="107" crc="ea2ab9f9" md5="6637fde7bdc5ad7a0b932008f7c86666" sha1="15ca9030fccad8a19739c62c96611b46a20f808c"/>
+		<rom name="Starblade (Canada).bin" size="663028800" crc="abc02e0e" md5="4f4db2beb088eae894e7191cc57e6b42" sha1="030079df62b6b005a163fe62917f313872795cc6"/>
+		<url>https://retroachievements.org/game/16865/hashes</url>
+		<hash>15A0ECF45F13BCB56E5ECE58E0085622</hash>
+	</game>
+
+	<game name="Strahl (USA)">
+		<category>Retail</category>
+		<description>Strahl (USA)</description>
+		<rom name="Strahl (USA).cue" size="101" crc="4669eb9d" md5="ba0916f2d1e3497e8019efb58f00e1ff" sha1="dc93508a3943dbd28ecc8d1837a6db5da2027449"/>
+		<rom name="Strahl (USA).bin" size="759018624" crc="b2d9fdaf" md5="f91b47c6786a3fc1f5415c5cc55a043b" sha1="646bc6b359af5f1f1329e856eb6bd6de56938678"/>
+		<url>https://retroachievements.org/game/17739/hashes</url>
+		<hash>7DF7061B2830E9D95E5F822A68CD2188</hash>
+	</game>
+
+	<game name="Super Street Fighter II Turbo (USA)">
+		<category>Retail</category>
+		<description>Super Street Fighter II Turbo (USA)</description>
+		<rom name="Super Street Fighter II Turbo (USA).cue" size="124" crc="65bce358" md5="44c28d372316c103803fb37ee5d605a7" sha1="d9c8d4473ab9653b0fa730a520c4307d0e0bf04a"/>
+		<rom name="Super Street Fighter II Turbo (USA).bin" size="356807808" crc="1a8c1036" md5="80fcce53e91f402663edeac9d46cd795" sha1="4ed5d08eada0daed27c631fb75227eaf1918444d"/>
+		<url>https://retroachievements.org/game/16528/hashes</url>
+		<hash>C2A97A18E2DB5297518BD25FDF047C85</hash>
+	</game>
+
+	<game name="Incredible Machine, The (USA)">
+		<category>Retail</category>
+		<description>Incredible Machine, The (USA)</description>
+		<rom name="Incredible Machine, The (USA).cue" size="118" crc="1a57a2b6" md5="b2a729eb236e5c39f263c30f203d4ff9" sha1="2a4b96a83f0a251347dd4353158f17afb337be1d"/>
+		<rom name="Incredible Machine, The (USA).bin" size="467944512" crc="66c929a2" md5="e428eeb0074c0a39fbf53450324b7912" sha1="a88a79a2706090e3e49cc65f730cc9667ada7407"/>
+		<url>https://retroachievements.org/game/16832/hashes</url>
+		<hash>1A1438FB896409E1EDFF3D8C327DEBEC</hash>
+	</game>
+	
+	<game name="Yakyuuken Special, The (Japan)">
+		<category>Retail</category>
+		<description>Yakyuuken Special, The (Japan)</description>
+		<rom name="Yakyuuken Special, The (Japan).cue" size="119" crc="5b2ca41d" md5="8b3b56cd1b619ccc3de9b46b4a72c7c6" sha1="c3bfbc309454d3f3c08b2184a6d2dc4d570040f1"/>
+		<rom name="Yakyuuken Special, The (Japan).bin" size="634983552" crc="2282b9b9" md5="c48c742ab8398c4a748206f2aeef6087" sha1="b5846ce6e3da36ca762dd700889a93a5c4c804e6"/>
+		<url>https://retroachievements.org/game/20265/hashes</url>
+		<hash>CB4FA2A7D8B6C1750EF10CCED6336885</hash>
+	</game>
+	
+	<game name="Trip'd (USA, Europe)">
+		<category>Retail</category>
+		<description>Trip'd (USA, Europe)</description>
+		<rom name="Trip'd (USA, Europe).cue" size="132" crc="6e7de1eb" md5="7df5765c4766cc75ba446150e6ece0ee" sha1="3afecac91b52f5add1cae3704fbefb384b6f6b90"/>
+		<rom name="Trip'd (USA, Europe).bin" size="99451968" crc="65bdc9f0" md5="18ed2d933d1317f222fe9a1ee4bfd740" sha1="fb2ffb1f423f6ee934cdf2b2407d2077e100a37e"/>
+		<url>https://retroachievements.org/game/16508/hashes</url>
+		<hash>8657B3440B4C177EDF2E6E9607B0C319</hash>
+	</game>
+
+	<game name="Wolfenstein 3D (USA)">
+		<category>Retail</category>
+		<description>Wolfenstein 3D (USA)</description>
+		<rom name="Wolfenstein 3D (USA).cue" size="109" crc="af18bb31" md5="88e037916bc3e03e2c4d13536b1e61f0" sha1="197a18c4468cb079fb204a69a758c15c5f424c47"/>
+		<rom name="Wolfenstein 3D (USA).bin" size="133363104" crc="cd23091e" md5="b635fb5f28f8c0a058bd40a2fb79337c" sha1="fee290ef7293b5facdc75bcdc332968836cef738"/>
+		<url>https://retroachievements.org/game/16872/hashes</url>
+		<hash>71841df1c47503cce8a735dffd3898db</hash>
+	</game>
+
+	<game name="Yu Yu Hakusho (Japan)">
+		<category>Retail</category>
+		<description>Yu Yu Hakusho (Japan)</description>
+		<rom name="Yu Yu Hakusho (Japan).cue" size="133" crc="4cfeea99" md5="68751cece702378bef5ba7df3d6ae72d" sha1="b7b82dbf10e1570173ebdd29a14f20f09f782b94"/>
+		<rom name="Yu Yu Hakusho (Japan).bin" size="566690880" crc="c7509e96" md5="27cd7fc858669444994d41f0bd389141" sha1="754342c0242de2b748599ae4d90de0efae03a3f1"/>
+		<url>https://retroachievements.org/game/16407/hashes</url>
+		<hash>9A14A399C139FACCFE4A356D5384D0A0</hash>
+	</game>
+</datafile>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>RA - Fairchild Channel F</name>
+		<description>Fairchild Channel F</description>
+		<category>No Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
+		<homepage>https://retroachievements.org</homepage>
+		<url>https://retroachievements.org/system/57/games</url>
+		<titlecount>33</titlecount>
+		<hashcount>36</hashcount>
+	</header>
+	<game name="2048-F8 (USA) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>2048-F8 (USA) (Aftermarket)</description>
+		<release name="2048-F8 (USA) (Aftermarket)" region="World"/>
+		<rom name="2048-F8 (USA) (Aftermarket).bin" size="4702" crc="d737aadd" md5="88c078fe7229add65f031b601064543e" sha1="726676f0a204d05f8c2f754d6369cc384c3b7925"/>
+		<url>https://retroachievements.org/game/20267/hashes</url>
+		<hash>88C078FE7229ADD65F031B601064543E</hash>
+	</game>
+	
+	<game name="3rees (USA) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>3rees (USA) (Aftermarket)</description>
+		<release name="3rees (USA) (Aftermarket)" region="World"/>
+		<rom name="3rees (USA) (Aftermarket).bin" size="5444" crc="f203f9cf" md5="1a7590de88e21345f60ec2bc8b2b9269" sha1="bc2c1f82a6568d5724c46e152af1b846b869a3aa"/>
+		<url>https://retroachievements.org/game/10302/hashes</url>
+		<hash>1A7590DE88E21345F60EC2BC8B2B9269</hash>
+	</game>
+	
+	<game name="Boxing (USA) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Boxing (USA) (Aftermarket)</description>
+		<release name="Boxing (USA) (Aftermarket)" region="World"/>
+		<rom name="Boxing (USA) (Aftermarket).bin" size="4096" crc="2e8aa291" md5="65a71a450cae1e60589efcf9b1a10456" sha1="f34411ab9d872bc5899dd6c6f1e9dd7daf9d37fd"/>
+		<url>https://retroachievements.org/game/22567/hashes</url>
+		<hash>65A71A450CAE1E60589EFCF9B1A10456</hash>
+	</game>
+	
+	<game name="Centipede (USA) (v1.01) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Centipede (USA) (v1.01) (Aftermarket)</description>
+		<release name="Centipede (USA) (v1.01) (Aftermarket)" region="World"/>
+		<rom name="Centipede (USA) (v1.01) (Aftermarket).bin" size="8105" crc="146e2370" md5="74c3961468a024d30095b0b4314e4eb0" sha1="87353ed1e8794f68378e16634908fe08c215f51c"/>
+		<url>https://retroachievements.org/game/20237/hashes</url>
+		<hash>74C3961468A024D30095B0B4314E4EB0</hash>
+	</game>
+	
+	<game name="Fnvader (USA) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Fnvader (USA) (Aftermarket)</description>
+		<release name="Fnvader (USA) (Aftermarket)" region="World"/>
+		<rom name="Fnvader (USA) (Aftermarket).bin" size="4349" crc="9e52e997" md5="5f2c587bf948be2b67cfae924e4508bb" sha1="e047f0406b46381b1ee94042d89131763daca8e7"/>
+		<url>https://retroachievements.org/game/8985/hashes</url>
+		<hash>5F2C587BF948BE2B67CFAE924E4508BB</hash>
+	</game>
+	
+	<game name="Shark (USA) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Shark (USA) (Aftermarket)</description>
+		<release name="Shark (USA) (Aftermarket)" region="World"/>
+		<rom name="Shark (USA) (Aftermarket).bin" size="3072" crc="e4bd59a1" md5="3f101828e1e64235a673f337addb3952" sha1="65a529a63407c7bc467af445af851207600f73be"/>
+		<url>https://retroachievements.org/game/22416/hashes</url>
+		<hash>3F101828E1E64235A673F337ADDB3952</hash>
+	</game>
+	
+	<game name="Speed Race (USA) (Directional Controls) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Speed Race (USA) (Directional Controls) (Aftermarket)</description>
+		<release name="Speed Race (USA) (Directional Controls) (Aftermarket)" region="World"/>
+		<rom name="Speed Race (USA) (Directional Controls) (Aftermarket).bin" size="2046" crc="29897ff8" md5="a7b94e4941ed058ff4af9cedc21b808b" sha1="99e4af26bbcc5df10995ffbcd73fd7cd8629611f"/>
+		<url>https://retroachievements.org/game/9086/hashes</url>
+		<hash>A7B94E4941ED058FF4AF9CEDC21B808B</hash>
+	</game>
+	<game name="Speed Race (USA) (Twist Controls) (Aftermarket)" cloneof="Speed Race (USA) (Directional Controls) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Speed Race (USA) (Twist Controls) (Aftermarket)</description>
+		<rom name="Speed Race (USA) (Twist Controls) (Aftermarket).bin" size="2046" crc="7635b11f" md5="b17b3c8744c4ac8a550212b016dcae5b" sha1="dadadc3a23347c6efe2f5f5020c269bbfcdea61a"/>
+		<url>https://retroachievements.org/game/9086/hashes</url>
+		<hash>B17B3C8744C4AC8A550212B016DCAE5B</hash>
+	</game>
+	
+	<game name="Submarine (USA) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Submarine (USA) (Aftermarket)</description>
+		<release name="Submarine (USA) (Aftermarket)" region="World"/>
+		<rom name="Submarine (USA) (Aftermarket).bin" size="2046" crc="636b4ea1" md5="ece8baaf22ef385939e5c37e496cc60c" sha1="f8629ca015312dea362fbeaae32359431048c4e3"/>
+		<url>https://retroachievements.org/game/25416/hashes</url>
+		<hash>ECE8BAAF22EF385939E5C37E496CC60C</hash>
+	</game>
+	
+	<game name="Tents and Trees (USA) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Tents and Trees (USA) (Aftermarket)</description>
+		<release name="Tents and Trees (USA) (Aftermarket)" region="World"/>
+		<rom name="Tents and Trees (USA) (Aftermarket).bin" size="3800" crc="02257e89" md5="0d272a1c51bfe148ad12105f3f39446d" sha1="f01a3956ec1d39018541a7be731776eaee191914"/>
+		<url>https://retroachievements.org/game/20238/hashes</url>
+		<hash>0D272A1C51BFE148AD12105F3F39446D</hash>
+	</game>
+	
+	<game name="Pac-Man (USA) (v2006-02-20,b28) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Pac-Man (USA) (v2006-02-20,b28) (Aftermarket)</description>
+		<release name="Pac-Man (USA) (v2006-02-20,b28) (Aftermarket)" region="World"/>
+		<rom name="Pac-Man (USA) (v2006-02-20,b28) (Aftermarket).bin" size="4096" crc="39ec3044" md5="1ae3fb8784c395c07bbd37bb44476871" sha1="633de00bb19b8dcc41658ba9601a3393aa044cf6"/>
+		<url>https://retroachievements.org/game/20217/hashes</url>
+		<hash>1AE3FB8784C395C07BBD37BB44476871</hash>
+	</game>
+	
+	<game name="Tetris (USA) (2004) (Trauner, Peter) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Tetris (USA) (2004) (Trauner, Peter) (Aftermarket)</description>
+		<release name="Tetris (USA) (2004) (Trauner, Peter) (Aftermarket)" region="World"/>
+		<rom name="Tetris (USA) (2004) (Trauner, Peter) (Aftermarket).bin" size="4096" crc="44c556fa" md5="2aebeda05478e8b7f5c1eca037ac6c2f" sha1="98f73b2119ec2195117c6fcd290d8eb2d6410907"/>
+		<url>https://retroachievements.org/game/20220/hashes</url>
+		<hash>2AEBEDA05478E8B7F5C1ECA037AC6C2F</hash>
+	</game>
+	
+	<game name="wrdl-f (World) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>wrdl-f (World) (Aftermarket)</description>
+		<release name="wrdl-f (World) (Aftermarket)" region="World"/>
+		<rom name="wrdl-f (World) (Aftermarket).rom" size="8161" crc="0ae07b86" md5="745479a23fb09dda3df3179c56719ca8" sha1="cbe3eef9b8de73f600f704b381b594be29c1f345"/>
+		<url>https://retroachievements.org/game/20231/hashes</url>
+		<hash>745479A23FB09DDA3DF3179C56719CA8</hash>
+	</game>
+	
+	<game name="Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)">
+		<category>Retail</category>
+		<description>Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)</description>
+		<release name="Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)" region="USA"/>
+		<rom name="Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA).bin" size="2048" crc="ff4768b0" md5="7e5c26a6d1f9a90c68669a9800ba522d" sha1="8edfb668b3eb759f8597fb13b1aeaf43aaf53680"/>
+		<url>https://retroachievements.org/game/20216/hashes</url>
+		<hash>7E5C26A6D1F9A90C68669A9800BA522D</hash>
+	</game>
+	
+	<game name="Desert Fox, Shooting Gallery (USA)">
+		<category>Retail</category>
+		<description>Desert Fox, Shooting Gallery (USA)</description>
+		<release name="Desert Fox, Shooting Gallery (USA)" region="USA"/>
+		<rom name="Desert Fox, Shooting Gallery (USA).bin" size="2048" crc="1570934b" md5="4f11f13cbca685cb20e888f87b3b1586" sha1="3440928903f39354e1358018cebf12a00c8dff77"/>
+		<url>https://retroachievements.org/game/10290/hashes</url>
+		<hash>4F11F13CBCA685CB20E888F87B3B1586</hash>
+	</game>
+	
+	<game name="Video Blackjack (USA)">
+		<category>Retail</category>
+		<description>Video Blackjack (USA)</description>
+		<release name="Video Blackjack (USA)" region="USA"/>
+		<rom name="Video Blackjack (USA).bin" size="2048" crc="e98d4456" md5="b074c867f235fb69ced96c6916673b45" sha1="86579196567c9686009ad271263269181496a9c7"/>
+		<url>https://retroachievements.org/game/9084/hashes</url>
+		<hash>B074C867F235FB69CED96C6916673B45</hash>
+	</game>
+	
+	<game name="Spitfire (USA)">
+		<category>Retail</category>
+		<description>Spitfire (USA)</description>
+		<release name="Spitfire (USA)" region="USA"/>
+		<rom name="Spitfire (USA).bin" size="2048" crc="5357c5f6" md5="1b409fe1154584f4d1ab76b344a73d99" sha1="9af18e7fa3b2d040f33cbe2286392ce5fe31d0df"/>
+		<url>https://retroachievements.org/game/10299/hashes</url>
+		<hash>1B409FE1154584F4D1AB76B344A73D99</hash>
+	</game>
+	
+	<game name="Math Quiz I - Addition + Subtraction (USA)">
+		<category>Retail</category>
+		<description>Math Quiz I - Addition + Subtraction (USA)</description>
+		<release name="Math Quiz I - Addition + Subtraction (USA)" region="USA"/>
+		<rom name="Math Quiz I - Addition + Subtraction (USA).bin" size="2048" crc="bb4c24a2" md5="a8e6103fcae4d0f9e14d9edcfc3fc493" sha1="f0bfdc8f6beed2ef54add820c5e164005d2d1d25"/>
+		<url>https://retroachievements.org/game/9083/hashes</url>
+		<hash>A8E6103FCAE4D0F9E14D9EDCFC3FC493</hash>
+	</game>
+	
+	<game name="Math Quiz II - Multiplication + Division (USA)">
+		<category>Retail</category>
+		<description>Math Quiz II - Multiplication + Division (USA)</description>
+		<release name="Math Quiz II - Multiplication + Division (USA)" region="USA"/>
+		<rom name="Math Quiz II - Multiplication + Division (USA).bin" size="2048" crc="4aa7ea97" md5="86b77eafdf7b806e19e01724987e384f" sha1="4c643e00f32629c066e778be92f37e3f7bfd1ad6"/>
+		<url>https://retroachievements.org/game/9085/hashes</url>
+		<hash>86B77EAFDF7B806E19E01724987E384F</hash>
+	</game>
+	
+	<game name="Magic Numbers - Mind Reader + Nim (USA)">
+		<category>Retail</category>
+		<description>Magic Numbers - Mind Reader + Nim (USA)</description>
+		<release name="Magic Numbers - Mind Reader + Nim (USA)" region="USA"/>
+		<rom name="Magic Numbers - Mind Reader + Nim (USA).bin" size="2048" crc="24da0529" md5="4c10fa5c7316c59efa241043fc67dfa8" sha1="4b696a4f8a20f6dcd6a4ba690756d862956515a4"/>
+		<url>https://retroachievements.org/game/9082/hashes</url>
+		<hash>4C10FA5C7316C59EFA241043FC67DFA8</hash>
+	</game>
+	
+	<game name="Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA)">
+		<category>Retail</category>
+		<description>Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA)</description>
+		<release name="Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA)" region="USA"/>
+		<rom name="Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA).bin" size="2048" crc="4d42b296" md5="6565df74539476d66fd78de1bac0259c" sha1="a7b70fb6f24bb1dd79f2cbb1e57b3edb04332e04"/>
+		<url>https://retroachievements.org/game/10301/hashes</url>
+		<hash>6565DF74539476D66FD78DE1BAC0259C</hash>
+	</game>
+	
+	<game name="Robot War, Torpedo Alley (USA)">
+		<category>Retail</category>
+		<description>Robot War, Torpedo Alley (USA)</description>
+		<release name="Robot War, Torpedo Alley (USA)" region="USA"/>
+		<rom name="Robot War, Torpedo Alley (USA).bin" size="2048" crc="38241e4f" md5="3783b6ac359e21b99cfa17773aa811c6" sha1="87f3f9afcc232d767cf6a5040c88b31283f76199"/>
+		<url>https://retroachievements.org/game/9058/hashes</url>
+		<hash>3783B6AC359E21B99CFA17773AA811C6</hash>
+	</game>
+	
+	<game name="Sonar Search (USA)">
+		<category>Retail</category>
+		<description>Sonar Search (USA)</description>
+		<release name="Sonar Search (USA)" region="USA"/>
+		<rom name="Sonar Search (USA).bin" size="2048" crc="dbdc56bf" md5="4cb12edae37df23851884b82ca410754" sha1="a15449eec75382af6dd71e766cae1171308d192c"/>
+		<url>https://retroachievements.org/game/20219/hashes</url>
+		<hash>4CB12EDAE37DF23851884B82CA410754</hash>
+	</game>
+	
+	<game name="Memory Match 1 &amp; 2 (USA)">
+		<category>Retail</category>
+		<description>Memory Match 1 &amp; 2 (USA)</description>
+		<release name="Memory Match 1 &amp; 2 (USA)" region="USA"/>
+		<rom name="Memory Match 1 &amp; 2 (USA).bin" size="2048" crc="104b5e18" md5="2b3ca549e27579e4519a765fd8f52d0f" sha1="e46406119020c85002513b1c01352f76dcd604a4"/>
+		<url>https://retroachievements.org/game/20215/hashes</url>
+		<hash>2B3CA549E27579E4519A765FD8F52D0F</hash>
+	</game>
+	
+	<game name="Dodge It (USA)">
+		<category>Retail</category>
+		<description>Dodge It (USA)</description>
+		<release name="Dodge It (USA)" region="USA"/>
+		<rom name="Dodge It (USA).bin" size="2048" crc="e3c1811c" md5="6ffedaed3c5cd8ba74d98901849cc451" sha1="54fdab06a07f84d073858f56a054a59ec0b1142e"/>
+		<url>https://retroachievements.org/game/10303/hashes</url>
+		<hash>6FFEDAED3C5CD8BA74D98901849CC451</hash>
+	</game>
+	
+	<game name="Hangman (USA)">
+		<category>Retail</category>
+		<description>Hangman (USA)</description>
+		<release name="Hangman (USA)" region="USA"/>
+		<rom name="Hangman (USA).bin" size="3072" crc="9238d6ce" md5="0124cd0b61df5502aabd59029ccb6d5a" sha1="19166d49dec273cae1f2dbac983b130d282ed231"/>
+		<url>https://retroachievements.org/game/10305/hashes</url>
+		<hash>0124CD0B61DF5502AABD59029CCB6D5A</hash>
+	</game>
+	<game name="Rat' Mal (Germany)" cloneof="Hangman (USA)">
+		<category>Retail</category>
+		<description>Rat' Mal (Germany)</description>
+		<release name="Rat' Mal (Germany)" region="Germany"/>
+		<rom name="Rat' Mal (Germany).bin" size="3072" crc="87752425" md5="913ecbaa30816c6d78de8651251761fc" sha1="35f3fb741b643c4b8e8fdbff4ed0ea24402c4528"/>
+		<url>https://retroachievements.org/game/10305/hashes</url>
+		<hash>913ECBAA30816C6D78DE8651251761FC</hash>
+	</game>
+	<game name="Ordtaevling (Sweden)" cloneof="Hangman (USA)">
+		<category>Retail</category>
+		<description>Ordtaevling (Sweden)</description>
+		<release name="Ordtaevling (Sweden)" region="Sweden"/>
+		<rom name="Ordtaevling (Sweden).bin" size="3072" crc="3a386e79" md5="c2a44d22d3865b036479e9311c74d3ad" sha1="62509545b8eef641c432705ff82cd8264c3e1d82"/>
+		<url>https://retroachievements.org/game/10305/hashes</url>
+		<hash>C2A44D22D3865B036479E9311C74D3AD</hash>
+	</game>
+	
+	<game name="Checkers (USA)">
+		<category>Retail</category>
+		<description>Checkers (USA)</description>
+		<release name="Checkers (USA)" region="USA"/>
+		<rom name="Checkers (USA).bin" size="2048" crc="fdae7044" md5="35d61d40ef7ec337cba092aabac74dbd" sha1="2683b330dc2350341a51f1e3bdf75922bb425a9e"/>
+		<url>https://retroachievements.org/game/8976/hashes</url>
+		<hash>35D61D40EF7EC337CBA092AABAC74DBD</hash>
+	</game>
+	
+	<game name="Video Whizball (USA)">
+		<category>Retail</category>
+		<description>Video Whizball (USA)</description>
+		<release name="Video Whizball (USA)" region="USA"/>
+		<rom name="Video Whizball (USA).bin" size="3072" crc="65fdfe49" md5="90a9b3952568f91502a7088bfb0ae07e" sha1="61babb950ebc0b0acab29acf5dcbecc60dcd70a3"/>
+		<url>https://retroachievements.org/game/10304/hashes</url>
+		<hash>90A9B3952568F91502A7088BFB0AE07E</hash>
+	</game>
+	
+	<game name="Bowling (USA)">
+		<category>Retail</category>
+		<description>Bowling (USA)</description>
+		<release name="Bowling (USA)" region="USA"/>
+		<rom name="Bowling (USA).bin" size="2048" crc="94322c79" md5="25e231e7a464a32b4715bfb47af89240" sha1="82d49201ee82e8cba6a907aca80969796a84d7f4"/>
+		<url>https://retroachievements.org/game/20213/hashes</url>
+		<hash>25E231E7A464A32B4715BFB47AF89240</hash>
+	</game>
+	
+	<game name="Slot Machine (USA)">
+		<category>Retail</category>
+		<description>Slot Machine (USA)</description>
+		<release name="Slot Machine (USA)" region="USA"/>
+		<rom name="Slot Machine (USA).bin" size="2048" crc="b7eabd08" md5="dfb66ee145fab65062fdeadafc8dc34c" sha1="97e12dba298460ce466509e9aefb82fe2503ef6f"/>
+		<url>https://retroachievements.org/game/20218/hashes</url>
+		<hash>DFB66EE145FAB65062FDEADAFC8DC34C</hash>
+	</game>
+	
+	<game name="Galactic Space Wars, Lunar Lander (USA)">
+		<category>Retail</category>
+		<description>Galactic Space Wars, Lunar Lander (USA)</description>
+		<release name="Galactic Space Wars, Lunar Lander (USA)" region="USA"/>
+		<rom name="Galactic Space Wars, Lunar Lander (USA).bin" size="2048" crc="c8ef3410" md5="9e0711b140e22729687db1e1354980ab" sha1="fc3cadc90d73ce7e3b32b5c9a855d621e79c592a"/>
+		<url>https://retroachievements.org/game/10306/hashes</url>
+		<hash>9E0711B140E22729687DB1E1354980AB</hash>
+	</game>
+	
+	<game name="Alien Invasion (USA)">
+		<category>Retail</category>
+		<description>Alien Invasion (USA)</description>
+		<release name="Alien Invasion (USA)" region="USA"/>
+		<rom name="Alien Invasion (USA).bin" size="4096" crc="85e00865" md5="f7bf7d55a7660ffa80d08ad1ba903ff7" sha1="1837e95e6631687fc6d008207e56a31705d55cdf"/>
+		<url>https://retroachievements.org/game/8990/hashes</url>
+		<hash>F7BF7D55A7660FFA80D08AD1BA903FF7</hash>
+	</game>
+	
+	<game name="Schach (Germany)">
+		<category>Retail</category>
+		<description>Schach (Germany)</description>
+		<release name="Schach (Germany)" region="Germany"/>
+		<rom name="Schach (Germany).bin" size="6144" crc="04fb6dce" md5="5568205f926333914dedc8ef8bf16af2" sha1="cbbaa8522fee16a0cc13ed3140d41e22919da24b"/>
+		<url>https://retroachievements.org/game/9009/hashes</url>
+		<hash>5568205F926333914DEDC8EF8BF16AF2</hash>
+	</game>
+</datafile>

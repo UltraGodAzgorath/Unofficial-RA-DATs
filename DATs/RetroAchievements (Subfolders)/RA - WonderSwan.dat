@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>RA - WonderSwan</name>
+		<description>WonderSwan</description>
+		<category>Subfolders</category>
+		<version>20250622</version>
+		<date>22 June 2025</date>
+		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
+		<homepage>https://retroachievements.org</homepage>
+		<url>https://retroachievements.org/system/53/games</url>
+		<titlecount>48</titlecount>
+		<hashcount>65</hashcount>
+	</header>
+	<game name="Homebrew/Atop the Witch's Tower (World) (v1.1) (Aftermarket)">
+		<category>WonderSwan Color</category>
+		<description>Atop the Witch's Tower (World) (v1.1) (Aftermarket)</description>
+		<rom name="Atop the Witch's Tower (World) (v1.1) (Aftermarket).wsc" size="131072" crc="23e814cc" md5="db3569afdb8d8f553da626970f1804e7" sha1="1487a981e576bf8248818b1f1a12c947760be511"/>
+		<url>https://retroachievements.org/game/26483/hashes</url>
+		<hash>db3569afdb8d8f553da626970f1804e7</hash>
+	</game>
+	
+	<game name="Homebrew/Cracky Mini (World) (v20240612) (Aftermarket)">
+		<category>WonderSwan</category>
+		<description>Cracky Mini (World) (v20240612) (Aftermarket)</description>
+		<rom name="Cracky Mini (World) (v20240612) (Aftermarket).wsc" size="65536" crc="3071302b" md5="2ad72633b07f623b6eb0a641ec44dfd3" sha1="0323adb8a740466f7d2b6f29dc55acaee357be48"/>
+		<url>https://retroachievements.org/game/32532/hashes</url>
+		<hash>2ad72633b07f623b6eb0a641ec44dfd3</hash>
+	</game>
+	
+	<game name="Homebrew/Mazy (World) (v20230618) (Aftermarket)">
+		<category>WonderSwan Color</category>
+		<description>Mazy (World) (v20230618) (Aftermarket)</description>
+		<rom name="Mazy (World) (v20230618) (Aftermarket).wsc" size="65536" crc="2620c258" md5="4ea83a19867a3e32749b1c9d898583ca" sha1="d7dd04a77d8c0edee79df61a3cd7f308fdde611d"/>
+		<url>https://retroachievements.org/game/32952/hashes</url>
+		<hash>4ea83a19867a3e32749b1c9d898583ca</hash>
+	</game>
+	
+	<game name="Homebrew/Wondersnake (World) (Aftermarket)">
+		<category>WonderSwan Color</category>
+		<description>Wondersnake (World) (Aftermarket)</description>
+		<rom name="Wondersnake (World) (Aftermarket).wsc" size="524288" crc="a0591f00" md5="f8706cc921099ce84b2dd154b3cbbac6" sha1="fec915b4993f2d84ea30bd0fa4d8575e9074d292"/>
+		<url>https://retroachievements.org/game/19897/hashes</url>
+		<hash>F8706CC921099CE84B2DD154B3CBBAC6</hash>
+	</game>
+	
+	<game name="Retail/Battle Spirit - Digimon Frontier (Japan) (Rev 1)">
+		<category>WonderSwan Color</category>
+		<description>Battle Spirit - Digimon Frontier (Japan) (Rev 1)</description>
+		<rom name="Battle Spirit - Digimon Frontier (Japan) (Rev 1).wsc" size="4194304" crc="8ba49dab" md5="5fd4676d03e21bf3eee5c9c0236c992c" sha1="fffb1aea34e0a96113cd10ba9de515000d27bfe6"/>
+		<url>https://retroachievements.org/game/16138/hashes</url>
+		<hash>5fd4676d03e21bf3eee5c9c0236c992c</hash>
+	</game>
+	
+	<game name="Retail/beatmania for WonderSwan (Japan)">
+		<category>WonderSwan</category>
+		<description>beatmania for WonderSwan (Japan)</description>
+		<rom name="beatmania for WonderSwan (Japan).ws" size="16777216" crc="324622c9" md5="b814e71eb1d079466a9535566d605280" sha1="544e76133fa53fc0ae5e00e3465b9cf634f14fd0"/>
+		<url>https://retroachievements.org/game/20516/hashes</url>
+		<hash>B814E71EB1D079466A9535566D605280</hash>
+	</game>
+	
+	<game name="Retail/Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket)">
+		<category>WonderSwan Color</category>
+		<description>Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket)</description>
+		<rom name="Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket).wsc" size="524288" crc="deaec59b" md5="50425331b91ee4273df1d56d7dcd519f" sha1="0a250a6e7d09787ea2062347a69f0452412c6b8d"/>
+		<url>https://retroachievements.org/game/22100/hashes</url>
+		<hash>50425331B91EE4273DF1D56D7DCD519F</hash>
+	</game>
+	
+	<game name="Retail/Chocobo no Fushigi na Dungeon/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2)">
+		<category>WonderSwan</category>
+		<description>Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2)</description>
+		<rom name="Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2).ws" size="2097152" crc="ccaa4853" md5="edbc77ab0d585447d927318a6eb66c9b" sha1="3b62fd2841602f1077270848ab7a3aad58712ee9"/>
+		<url>https://retroachievements.org/game/16362/hashes</url>
+		<hash>EDBC77AB0D585447D927318A6EB66C9B</hash>
+	</game>
+	<game name="Retail/Chocobo no Fushigi na Dungeon/Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2) (En) (v1.1) (Specialagentape)">
+		<category>WonderSwan</category>
+		<description>Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2) (En) (v1.1) (Specialagentape)</description>
+		<rom name="Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2) (En) (v1.1) (Specialagentape).ws" size="2097152" crc="ac2e344c" md5="ee0334d932ad9763965a8888e2cccb27" sha1="bac3ef43033974b6e2d9652a824f5411be0af0e2"/>
+		<url>https://retroachievements.org/game/16362/hashes</url>
+		<hash>EE0334D932AD9763965A8888E2CCCB27</hash>
+	</game>
+	
+	<game name="Retail/Dicing Knight/Dicing Knight. (Japan)">
+		<category>WonderSwan Color</category>
+		<description>Dicing Knight. (Japan)</description>
+		<rom name="Dicing Knight. (Japan).wsc" size="2097152" crc="1887389c" md5="098b747bf9d88f651735b45197e393e1" sha1="1e4d8e8b3d16083968055cc76b604da91fa0a132"/>
+		<url>https://retroachievements.org/game/14599/hashes</url>
+		<hash>098B747BF9D88F651735B45197E393E1</hash>
+	</game>
+	<game name="Retail/Dicing Knight/Dicing Knight. (Japan) (En) (v1.0) (Aeon Genesis)">
+		<category>WonderSwan Color</category>
+		<description>Dicing Knight. (Japan) (En) (v1.0) (Aeon Genesis)</description>
+		<rom name="Dicing Knight. (Japan) (En) (v1.0) (Aeon Genesis).wsc" size="2097152" crc="56f4e554" md5="6e8848993a51e0226ba4be18e7bb6b73" sha1="106dca0fd84ba59dd98f13ee5ab6e4832105b8b3"/>
+		<url>https://retroachievements.org/game/14599/hashes</url>
+		<hash>6E8848993A51E0226BA4BE18E7BB6B73</hash>
+	</game>
+	
+	<game name="Retail/Digimon - Ver. WonderSwan (Hong Kong) (En)">
+		<category>WonderSwan</category>
+		<description>Digimon - Ver. WonderSwan (Hong Kong) (En)</description>
+		<rom name="Digimon - Ver. WonderSwan (Hong Kong) (En).ws" size="2097152" crc="94ea6ffc" md5="d5f7fbf06c57aa50f08c14e64d2e02a2" sha1="5cc59ec1687fe83ec5fb048d3dfc37849747df34"/>
+		<url>https://retroachievements.org/game/16149/hashes</url>
+		<hash>D5F7FBF06C57AA50F08C14E64D2E02A2</hash>
+	</game>
+	
+	<game name="Retail/Digimon Adventure 02/Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1)">
+		<category>WonderSwan</category>
+		<description>Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1)</description>
+		<rom name="Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1).ws" size="2097152" crc="6ededaf8" md5="2cb264ba76b88452d7576992f2b90dbf" sha1="44a5502b70ea75926b87377e3f634c8093bc574a"/>
+		<url>https://retroachievements.org/game/16143/hashes</url>
+		<hash>2cb264ba76b88452d7576992f2b90dbf</hash>
+	</game>
+	<game name="Retail/Digimon Adventure 02/Digimon Adventure 02 - Tag Tamers (Japan) (En) (v1.4.5) (USC)">
+		<category>WonderSwan</category>
+		<description>Digimon Adventure 02 - Tag Tamers (Japan) (En) (v1.4.5) (USC)</description>
+		<rom name="Digimon Adventure 02 - Tag Tamers (Japan) (En) (v1.4.5) (USC).ws" size="2097152" crc="885058a9" md5="521dee8107ef14ffc0e0b3795207d9fd" sha1="5dd7f045071c15451ee5828154566a0c6be24cc2"/>
+		<url>https://retroachievements.org/game/16143/hashes</url>
+		<hash>521dee8107ef14ffc0e0b3795207d9fd</hash>
+	</game>
+	
+	<game name="Retail/Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong) (En)">
+		<category>WonderSwan Color</category>
+		<description>Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong) (En)</description>
+		<rom name="Digimon - Anode Tamer &amp; Cathode Tamer - Veedramon Version (Hong Kong) (En).wsc" size="4194304" crc="77689273" md5="47b23a84817217cc5b9bbd85fe634174" sha1="7a6411cf8a4d91e8a4e0532779f11bdd25b92363"/>
+		<url>https://retroachievements.org/game/16139/hashes</url>
+		<hash>47b23a84817217cc5b9bbd85fe634174</hash>
+	</game>
+	
+	<game name="Retail/Digimon Tamers - Battle Spirit (Japan, Korea) (En,Ja)">
+		<category>WonderSwan Color</category>
+		<description>Digimon Tamers - Battle Spirit (Japan, Korea) (En,Ja)</description>
+		<rom name="Digimon Tamers - Battle Spirit (Japan, Korea) (En,Ja).wsc" size="4194304" crc="c927bfcb" md5="71146ab7c32bd1524c27da0faefcf46a" sha1="757e92177385a14d979227edee1cb544b4c56bd6"/>
+		<url>https://retroachievements.org/game/16144/hashes</url>
+		<hash>71146ab7c32bd1524c27da0faefcf46a</hash>
+	</game>
+	
+	<game name="Retail/Digimon Tamers/Digimon Tamers - Battle Spirit Ver. 1.5 (Japan)">
+		<category>WonderSwan Color</category>
+		<description>Digimon Tamers - Battle Spirit Ver. 1.5 (Japan)</description>
+		<rom name="Digimon Tamers - Battle Spirit Ver. 1.5 (Japan).wsc" size="8388608" crc="6caad4a2" md5="7e1be9ec064d8e1e92f26668c8a74326" sha1="3f39ff494a3d8dd9d55a2e7cf86b47f1c8e8a156"/>
+		<url>https://retroachievements.org/game/16145/hashes</url>
+		<hash>7E1BE9EC064D8E1E92F26668C8A74326</hash>
+	</game>
+	<game name="Retail/Digimon Tamers/Digimon Tamers - Battle Spirit Ver. 1.5 (Japan) (En) (v1.0) (Buckwheat)">
+		<category>WonderSwan Color</category>
+		<description>Digimon Tamers - Battle Spirit Ver. 1.5 (Japan) (En) (v1.0) (Buckwheat)</description>
+		<rom name="Digimon Tamers - Battle Spirit Ver. 1.5 (Japan) (En) (v1.0) (Buckwheat).wsc" size="8388608" crc="e2865024" md5="bfafb9bc64fc88bb71f5936172c2abcd" sha1="2fa3e95d93b0f84791bc1b4ce6135175aae5b3ef"/>
+		<url>https://retroachievements.org/game/16145/hashes</url>
+		<hash>BFAFB9BC64FC88BB71F5936172C2ABCD</hash>
+	</game>
+	
+	<game name="Retail/Final Fantasy/Final Fantasy (Japan) (En) (v0.91) (Kalas)">
+		<category>WonderSwan Color</category>
+		<description>Final Fantasy (Japan) (En) (v0.91) (Kalas)</description>
+		<rom name="Final Fantasy (Japan) (En) (v0.91) (Kalas).wsc" size="4194304" crc="df94a149" md5="0d5c239eb1b99b4ab756acda11992ce3" sha1="08e70b98918df5e5cf2fe057908ce5e8a69e05fe"/>
+		<url>https://retroachievements.org/game/15580/hashes</url>
+		<hash>0d5c239eb1b99b4ab756acda11992ce3</hash>
+	</game>
+	<game name="Retail/Final Fantasy/Final Fantasy (Japan)">
+		<category>WonderSwan Color</category>
+		<description>Final Fantasy (Japan)</description>
+		<rom name="Final Fantasy (Japan).wsc" size="4194304" crc="b7243e88" md5="e36650ac50df69d1832a0d496c165db2" sha1="26628eb76c16880b6faf2e706778d91a60144078"/>
+		<url>https://retroachievements.org/game/15580/hashes</url>
+		<hash>e36650ac50df69d1832a0d496c165db2</hash>
+	</game>
+	
+	<game name="Retail/Final Fantasy IV/Final Fantasy IV (Japan)">
+		<category>WonderSwan Color</category>
+		<description>Final Fantasy IV (Japan)</description>
+		<rom name="Final Fantasy IV (Japan).wsc" size="4194304" crc="f699d6d1" md5="47d83279cbdbd91c51cb7b0063d5d3e5" sha1="6d707e88c85d1b5ef708631e709668006a9ee244"/>
+		<url>https://retroachievements.org/game/15582/hashes</url>
+		<hash>47D83279CBDBD91C51CB7B0063D5D3E5</hash>
+	</game>
+	<game name="Retail/Final Fantasy IV/Final Fantasy IV (Japan) (En) (v0.5) (MottZilla)">
+		<category>WonderSwan Color</category>
+		<description>Final Fantasy IV (Japan) (En) (v0.5) (MottZilla)</description>
+		<rom name="Final Fantasy IV (Japan) (En) (v0.5) (MottZilla).wsc" size="4194304" crc="e677a591" md5="4de69e86a05f6e82bdf02374f79a669f" sha1="1c8bbb23532454103ccecff1542acefc223125ea"/>
+		<url>https://retroachievements.org/game/15582/hashes</url>
+		<hash>4DE69E86A05F6E82BDF02374F79A669F</hash>
+	</game>
+	
+	<game name="Retail/Final Lap Special - GT &amp; Formula Machine (Japan)">
+		<category>WonderSwan Color</category>
+		<description>Final Lap Special - GT &amp; Formula Machine (Japan)</description>
+		<rom name="Final Lap Special - GT &amp; Formula Machine (Japan).wsc" size="4194304" crc="b07e6a56" md5="0870f205e8a0148cc75d642f00558057" sha1="4c3f092b095bdb0afdaf8d32d4c54b4d6c209c96"/>
+		<url>https://retroachievements.org/game/14960/hashes</url>
+		<hash>0870F205E8A0148CC75D642F00558057</hash>
+	</game>
+	
+	<game name="Retail/Golden Axe (Japan)">
+		<category>WonderSwan Color</category>
+		<description>Golden Axe (Japan)</description>
+		<rom name="Golden Axe (Japan).wsc" size="4194304" crc="bc944a98" md5="55c9cc830000f0aaf721eac69d1703cc" sha1="87661841ca63e99b04c0f6dc4ba3454c897e0c6d"/>
+		<url>https://retroachievements.org/game/17245/hashes</url>
+		<hash>55C9CC830000F0AAF721EAC69D1703CC</hash>
+	</game>
+	
+	<game name="Retail/Guilty Gear Petit (Japan)">
+		<category>WonderSwan Color</category>
+		<description>Guilty Gear Petit (Japan)</description>
+		<rom name="Guilty Gear Petit (Japan).wsc" size="2097152" crc="9750bc2a" md5="be0f50bc4470711a31be0bd33c775ad2" sha1="6d8f8fd330f32374b55cf6b998196a7db2131073"/>
+		<url>https://retroachievements.org/game/17959/hashes</url>
+		<hash>BE0F50BC4470711A31BE0BD33C775AD2</hash>
+	</game>
+	
+	<game name="Retail/Guilty Gear Petit 2 (Japan)">
+		<category>WonderSwan Color</category>
+		<description>Guilty Gear Petit 2 (Japan)</description>
+		<rom name="Guilty Gear Petit 2 (Japan).wsc" size="4194304" crc="d7a12bd5" md5="1eb91e6b46ab5624c7b707ea7b7abe9d" sha1="f7aeab6724154f7ef6a389f9f18b7100045e1064"/>
+		<url>https://retroachievements.org/game/17829/hashes</url>
+		<hash>1EB91E6B46AB5624C7B707EA7B7ABE9D</hash>
+	</game>
+	
+	<game name="Retail/Hataraku Chocobo/Hataraku Chocobo (Japan) (En) (v1.01) (Specialagentape)">
+		<category>WonderSwan Color</category>
+		<description>Hataraku Chocobo (Japan) (En) (v1.01) (Specialagentape)</description>
+		<rom name="Hataraku Chocobo (Japan) (En) (v1.01) (Specialagentape).wsc" size="1048576" crc="b6528093" md5="907ed96e5e12c55212bb15265d59801b" sha1="580be88475d0fe5acc0629b42278df9e97d9a98f"/>
+		<url>https://retroachievements.org/game/17766/hashes</url>
+		<hash>907ED96E5E12C55212BB15265D59801B</hash>
+	</game>
+	<game name="Retail/Hataraku Chocobo/Hataraku Chocobo (Japan)">
+		<category>WonderSwan Color</category>
+		<description>Hataraku Chocobo (Japan)</description>
+		<rom name="Hataraku Chocobo (Japan).wsc" size="1048576" crc="7a29e9a6" md5="ebab0f1f4148d54437834971d9756431" sha1="9bd63ed48926b27be70333fbe07da2ceed56328a"/>
+		<url>https://retroachievements.org/game/17766/hashes</url>
+		<hash>EBAB0F1F4148D54437834971D9756431</hash>
+	</game>
+	
+	<game name="Retail/Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21)">
+		<category>WonderSwan Color</category>
+		<description>Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21)</description>
+		<rom name="Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21).wsc" size="2097152" crc="85c4c9a1" md5="b017d367af1ba43171beba3e184d9ee9" sha1="58c691cb31f96eea5689693fd23768d02e8b133f"/>
+		<url>https://retroachievements.org/game/14594/hashes</url>
+		<hash>B017D367AF1BA43171BEBA3E184D9EE9</hash>
+	</game>
+	
+	<game name="Retail/Kaze no Klonoa - Moonlight Museum/Kaze no Klonoa - Moonlight Museum (Japan)">
+		<category>WonderSwan</category>
+		<description>Kaze no Klonoa - Moonlight Museum (Japan)</description>
+		<rom name="Kaze no Klonoa - Moonlight Museum (Japan).ws" size="1048576" crc="80c6ef12" md5="5e907dd88b3cfb2855a18fb1bf689860" sha1="207a3ceb9a09eabca6e455deeb7035e7e04c9795"/>
+		<url>https://retroachievements.org/game/14601/hashes</url>
+		<hash>5E907DD88B3CFB2855A18FB1BF689860</hash>
+	</game>
+	<game name="Retail/Kaze no Klonoa - Moonlight Museum/Kaze no Klonoa - Moonlight Museum (Japan) (En) (v0.511) (PowerStone05)">
+		<category>WonderSwan</category>
+		<description>Kaze no Klonoa - Moonlight Museum (Japan) (En) (v0.511) (PowerStone05)</description>
+		<rom name="Kaze no Klonoa - Moonlight Museum (Japan) (En) (v0.511) (PowerStone05).ws" size="1048576" crc="d4e0cb07" md5="a33445feef853e11fb75f255e1460be5" sha1="0690e73285e0587e93b1f4c813b3484467d2eaca"/>
+		<url>https://retroachievements.org/game/14601/hashes</url>
+		<hash>A33445FEEF853E11FB75F255E1460BE5</hash>
+	</game>
+	<game name="Retail/Kaze no Klonoa - Moonlight Museum/Kaze no Klonoa - Moonlight Museum (Japan) (En) (v1.1) (Raccoon Sam)">
+		<category>WonderSwan</category>
+		<description>Kaze no Klonoa - Moonlight Museum (Japan) (En) (v1.1) (Raccoon Sam)</description>
+		<rom name="Kaze no Klonoa - Moonlight Museum (Japan) (En) (v1.1) (Raccoon Sam).ws" size="1048576" crc="411b86dc" md5="ad934d799209e78462ff261dc61655d1" sha1="e0bbc67b67bd61c462115e311da764ff3ca1f7a0"/>
+		<url>https://retroachievements.org/game/14601/hashes</url>
+		<hash>AD934D799209E78462FF261DC61655D1</hash>
+	</game>
+	
+	<game name="Retail/Lode Runner for WonderSwan (Japan)">
+		<category>WonderSwan</category>
+		<description>Lode Runner for WonderSwan (Japan)</description>
+		<rom name="Lode Runner for WonderSwan (Japan).ws" size="1048576" crc="21279e82" md5="c7445937d6fbc462256bd2ebcdbf3c25" sha1="847f51592f181aa68061900700149b86cdba651b"/>
+		<url>https://retroachievements.org/game/17250/hashes</url>
+		<hash>C7445937D6FBC462256BD2EBCDBF3C25</hash>
+	</game>
+	
+	<game name="Retail/Makaimura for WonderSwan (Japan)">
+		<category>WonderSwan</category>
+		<description>Makaimura for WonderSwan (Japan)</description>
+		<rom name="Makaimura for WonderSwan (Japan).ws" size="2097152" crc="00b31fbb" md5="f06beaff2703728baa8dddc0ddeb7094" sha1="5eaeab859e5f647fac354dad285a311387ea126b"/>
+		<url>https://retroachievements.org/game/614/hashes</url>
+		<hash>F06BEAFF2703728BAA8DDDC0DDEB7094</hash>
+	</game>
+	
+	<game name="Retail/Mr. Driller (Japan)">
+		<category>WonderSwan Color</category>
+		<description>Mr. Driller (Japan)</description>
+		<rom name="Mr. Driller (Japan).wsc" size="2097152" crc="5555d95c" md5="9d600bfe28196609fbe4fb5b89486cbc" sha1="209232f1e91c05140529d466c0ef6b7ad3386de1"/>
+		<url>https://retroachievements.org/game/14597/hashes</url>
+		<hash>9D600BFE28196609FBE4FB5B89486CBC</hash>
+	</game>
+	
+	<game name="Retail/Neon Genesis Evangelion/Neon Genesis Evangelion - Shito Ikusei (Japan) (En) (v1.0) (AGTT)">
+		<category>WonderSwan</category>
+		<description>Neon Genesis Evangelion - Shito Ikusei (Japan) (En) (v1.0) (AGTT)</description>
+		<rom name="Neon Genesis Evangelion - Shito Ikusei (Japan) (En) (v1.0) (AGTT).ws" size="2097152" crc="189b7610" md5="e9016134c7c84eeabc3ec273949f7ced" sha1="5a60622180a132b01c88c83683c7bc454dc9d513"/>
+		<url>https://retroachievements.org/game/17551/hashes</url>
+		<hash>e9016134c7c84eeabc3ec273949f7ced</hash>
+	</game>
+	<game name="Retail/Neon Genesis Evangelion/Neon Genesis Evangelion - Shito Ikusei (Japan) (En) (v1.1) (AGTT)">
+		<category>WonderSwan</category>
+		<description>Neon Genesis Evangelion - Shito Ikusei (Japan) (En) (v1.1) (AGTT)</description>
+		<rom name="Neon Genesis Evangelion - Shito Ikusei (Japan) (En) (v1.1) (AGTT).ws" size="2097152" crc="3ee26e52" md5="329f6dd7f50a8c77f64c57c9f486a94e" sha1="eab9c676f1cf85e9679255127dc5bcd8cd121229"/>
+		<url>https://retroachievements.org/game/17551/hashes</url>
+		<hash>329f6dd7f50a8c77f64c57c9f486a94e</hash>
+	</game>
+	
+	<game name="Retail/Ou-chan no Oekaki Logic (Japan)">
+		<category>WonderSwan</category>
+		<description>Ou-chan no Oekaki Logic (Japan)</description>
+		<rom name="Ou-chan no Oekaki Logic (Japan).ws" size="524288" crc="631bd97a" md5="5e92e316ce0998edbec00b31a6f2e112" sha1="0f73d3112b1184f74e728cf1252ffbee6a146fa6"/>
+		<url>https://retroachievements.org/game/14731/hashes</url>
+		<hash>5E92E316CE0998EDBEC00B31A6F2E112</hash>
+	</game>
+	
+	<game name="Retail/From TV Animation One Piece - Grand Battle Swan Colosseum (Japan)">
+		<category>WonderSwan Color</category>
+		<description>From TV Animation One Piece - Grand Battle Swan Colosseum (Japan)</description>
+		<rom name="From TV Animation One Piece - Grand Battle Swan Colosseum (Japan).wsc" size="8388608" crc="f8a1dd2b" md5="7fa6a3034b8c03fca0b756fb5526ce62" sha1="01e765bf356cdcb413bfd27c6321f7449465766a"/>
+		<url>https://retroachievements.org/game/14769/hashes</url>
+		<hash>7FA6A3034B8C03FCA0B756FB5526CE62</hash>
+	</game>
+	
+	<game name="Retail/Pocket Fighter (Japan)">
+		<category>WonderSwan</category>
+		<description>Pocket Fighter (Japan)</description>
+		<rom name="Pocket Fighter (Japan).ws" size="2097152" crc="35361250" md5="e79dddc7db77ad96c52b0b7690f8c1b1" sha1="fb8d0f4e58a4192989ec71eb6e392d182aaa3eec"/>
+		<url>https://retroachievements.org/game/17830/hashes</url>
+		<hash>E79DDDC7DB77AD96C52B0B7690F8C1B1</hash>
+	</game>
+	
+	<game name="Retail/Rainbow Islands - Putty's Party/Rainbow Islands - Putty's Party (Japan)">
+		<category>WonderSwan</category>
+		<description>Rainbow Islands - Putty's Party (Japan)</description>
+		<rom name="Rainbow Islands - Putty's Party (Japan).ws" size="2097152" crc="8f8608ad" md5="854bd4105d726bf7e76fef8393d6ead0" sha1="759deb79a3fc3befed705d7264e4b88adbadacc7"/>
+		<url>https://retroachievements.org/game/14876/hashes</url>
+		<hash>854BD4105D726BF7E76FEF8393D6EAD0</hash>
+	</game>
+	<game name="Retail/Rainbow Islands - Putty's Party/Rainbow Islands - Putty's Party (Japan) (En) (v1.0) (USC)">
+		<category>WonderSwan</category>
+		<description>Rainbow Islands - Putty's Party (Japan) (En) (v1.0) (USC)</description>
+		<rom name="Rainbow Islands - Putty's Party (Japan) (En) (v1.0) (USC).ws" size="2097152" crc="30a866cd" md5="8f8cfc1917925a6477fcc914ac910f5a" sha1="09a11f0058f1decf0c2e1e0627a22e669ab49ca9"/>
+		<url>https://retroachievements.org/game/14876/hashes</url>
+		<hash>8F8CFC1917925A6477FCC914AC910F5A</hash>
+	</game>
+	
+	<game name="Retail/Rhyme Rider Kerorican (Japan)">
+		<category>WonderSwan Color</category>
+		<description>Rhyme Rider Kerorican (Japan)</description>
+		<rom name="Rhyme Rider Kerorican (Japan).wsc" size="4194304" crc="60706555" md5="04237a449794b5a7a8e4a3572707befc" sha1="5973306a864c3804ee10b209e45067807d39a4de"/>
+		<url>https://retroachievements.org/game/5357/hashes</url>
+		<hash>04237A449794B5A7A8E4A3572707BEFC</hash>
+	</game>
+	
+	<game name="Retail/Riviera - Yakusoku no Chi Riviera (Japan)">
+		<category>WonderSwan Color</category>
+		<description>Riviera - Yakusoku no Chi Riviera (Japan)</description>
+		<rom name="Riviera - Yakusoku no Chi Riviera (Japan).wsc" size="8388608" crc="2460b45a" md5="3e62a6b6af656fcac225cd02446acb9d" sha1="a8f8d3efc9b2d5741081e05f517d746ee5437f87"/>
+		<url>https://retroachievements.org/game/14657/hashes</url>
+		<hash>3E62A6B6AF656FCAC225CD02446ACB9D</hash>
+	</game>
+	
+	<game name="Retail/Rockman &amp; Forte/Rockman &amp; Forte - Mirai Kara no Chousensha (Japan)">
+		<category>WonderSwan</category>
+		<description>Rockman &amp; Forte - Mirai Kara no Chousensha (Japan)</description>
+		<rom name="Rockman &amp; Forte - Mirai Kara no Chousensha (Japan).ws" size="2097152" crc="cd206a9e" md5="523004d48e9d606e1557c2c57af6790b" sha1="9f8829aa8ea523e8370cbb2acd2acce056bb7958"/>
+		<url>https://retroachievements.org/game/14593/hashes</url>
+		<hash>523004D48E9D606E1557C2C57AF6790B</hash>
+	</game>
+	<game name="Retail/Rockman &amp; Forte/Rockman &amp; Forte - Mirai Kara no Chousensha (Japan) (En) (v1.2.1) (NikcDC)">
+		<category>WonderSwan</category>
+		<description>Rockman &amp; Forte - Mirai Kara no Chousensha (Japan) (En) (v1.2.1) (NikcDC)</description>
+		<rom name="Rockman &amp; Forte - Mirai Kara no Chousensha (Japan) (En) (v1.2.1) (NikcDC).ws" size="2097152" crc="3bcd3422" md5="cadd7d9a54d7debffc52a02ff127a5b7" sha1="38e0a889f287fdb98baa1219c648c031a6682e44"/>
+		<url>https://retroachievements.org/game/14593/hashes</url>
+		<hash>CADD7D9A54D7DEBFFC52A02FF127A5B7</hash>
+	</game>
+	
+	<game name="Retail/Rockman EXE WS/Rockman EXE WS (Japan) (En) (v1.0) (Greiga Master)">
+		<category>WonderSwan Color</category>
+		<description>Rockman EXE WS (Japan) (En) (v1.0) (Greiga Master)</description>
+		<rom name="Rockman EXE WS (Japan) (En) (v1.0) (Greiga Master).wsc" size="4194304" crc="a8c02e74" md5="20379c41873b0d99a2baaf2ef959e1e6" sha1="79f7821791d99a4e6a912ff60bb10eb8ccb0bcd0"/>
+		<url>https://retroachievements.org/game/14596/hashes</url>
+		<hash>20379C41873B0D99A2BAAF2EF959E1E6</hash>
+	</game>
+	<game name="Retail/Rockman EXE WS/Rockman EXE WS (Japan)">
+		<category>WonderSwan Color</category>
+		<description>Rockman EXE WS (Japan)</description>
+		<rom name="Rockman EXE WS (Japan).wsc" size="4194304" crc="658c4b98" md5="a66390da2c2defcf092eb107edaf4fa0" sha1="b4a3ff3b72639f27d1a6f449b0335074aeb9e603"/>
+		<url>https://retroachievements.org/game/14596/hashes</url>
+		<hash>A66390DA2C2DEFCF092EB107EDAF4FA0</hash>
+	</game>
+	
+	<game name="Retail/Rockman EXE - N1 Battle (Japan) (Rev 1)">
+		<category>WonderSwan Color</category>
+		<description>Rockman EXE - N1 Battle (Japan) (Rev 1)</description>
+		<rom name="Rockman EXE - N1 Battle (Japan) (Rev 1).wsc" size="4194304" crc="1f10ca75" md5="d902afdadf17b452621c50a1ffda2fa9" sha1="9b4786adca7b83fe66a9d4b9fd4ffaf32abe7656"/>
+		<url>https://retroachievements.org/game/18432/hashes</url>
+		<hash>D902AFDADF17B452621C50A1FFDA2FA9</hash>
+	</game>
+	
+	<game name="Retail/SD Gundam - Operation U.C. (Japan)">
+		<category>WonderSwan Color</category>
+		<description>SD Gundam - Operation U.C. (Japan)</description>
+		<rom name="SD Gundam - Operation U.C. (Japan).wsc" size="2097152" crc="f0acda5c" md5="12c3cca0ef52343509dda1c1fb4c1b65" sha1="152c4d63b1b17f2c717a43efc75d718b614f9ddc"/>
+		<url>https://retroachievements.org/game/4965/hashes</url>
+		<hash>12C3CCA0EF52343509DDA1C1FB4C1B65</hash>
+	</game>
+	
+	<game name="Retail/Shanghai Pocket (Japan)">
+		<category>WonderSwan</category>
+		<description>Shanghai Pocket (Japan)</description>
+		<rom name="Shanghai Pocket (Japan).ws" size="524288" crc="1c489351" md5="37772a59d2fc13b07ba6260b3c4299da" sha1="d64b9b2d567d1cea5960f64e5bdf83d4514446da"/>
+		<url>https://retroachievements.org/game/25178/hashes</url>
+		<hash>37772A59D2FC13B07BA6260B3C4299DA</hash>
+	</game>
+	
+	<game name="Retail/Side Pocket for WonderSwan (Japan)">
+		<category>WonderSwan</category>
+		<description>Side Pocket for WonderSwan (Japan)</description>
+		<rom name="Side Pocket for WonderSwan (Japan).ws" size="1048576" crc="8655269e" md5="496100bcd73fbfa39e473c6ddee190b2" sha1="4a756dab81e0101475dc2e5494270f3df7dac1e6"/>
+		<url>https://retroachievements.org/game/25087/hashes</url>
+		<hash>496100bcd73fbfa39e473c6ddee190b2</hash>
+	</game>
+	
+	<game name="Retail/Space Invaders (Japan)">
+		<category>WonderSwan</category>
+		<description>Space Invaders (Japan)</description>
+		<rom name="Space Invaders (Japan).ws" size="1048576" crc="8d83014f" md5="5558b39b21cc90b0b2f0a4358c043eec" sha1="54dd6e3fe81a8a384a0ffdd7a39211a5de9174c7"/>
+		<url>https://retroachievements.org/game/14873/hashes</url>
+		<hash>5558B39B21CC90B0B2F0A4358C043EEC</hash>
+	</game>
+	
+	<game name="Retail/D's Garage 21 Koubo Game - Tane o Maku Tori (Japan)">
+		<category>WonderSwan</category>
+		<description>D's Garage 21 Koubo Game - Tane o Maku Tori (Japan)</description>
+		<rom name="D's Garage 21 Koubo Game - Tane o Maku Tori (Japan).ws" size="1048576" crc="b1caec06" md5="e39e90944a683b9d4a996a53804826f0" sha1="83e190af2e25fbb3e93b1d5835c52fe6f1d279ce"/>
+		<url>https://retroachievements.org/game/20348/hashes</url>
+		<hash>E39E90944A683B9D4A996A53804826F0</hash>
+	</game>
+	
+	<game name="Retail/Tekken Card Challenge (Japan)">
+		<category>WonderSwan</category>
+		<description>Tekken Card Challenge (Japan)</description>
+		<rom name="Tekken Card Challenge (Japan).ws" size="1048576" crc="e7c608e5" md5="1e8bca5c31f62a9dd1121884351a2885" sha1="96a9ce5e56dc0c9648027ad4454e6f35e88d9a07"/>
+		<url>https://retroachievements.org/game/2533/hashes</url>
+		<hash>1E8BCA5C31F62A9DD1121884351A2885</hash>
+	</game>
+	
+	<game name="Retail/Tetris (Japan)">
+		<category>WonderSwan Color</category>
+		<description>Tetris (Japan)</description>
+		<rom name="Tetris (Japan).wsc" size="1048576" crc="7b0caea9" md5="b7e66090d059f77636161fa4e21f3e89" sha1="1a86403d7896d60fcb7a4c09367f5a976c7ea5a5"/>
+		<url>https://retroachievements.org/game/16704/hashes</url>
+		<hash>B7E66090D059F77636161FA4E21F3E89</hash>
+	</game>
+	
+	<game name="Retail/Makai Toushi Sa-Ga/Makai Toushi Sa-Ga (Japan)">
+		<category>WonderSwan Color</category>
+		<description>Makai Toushi Sa-Ga (Japan)</description>
+		<rom name="Makai Toushi Sa-Ga (Japan).wsc" size="4194304" crc="1b6f5f30" md5="957137e7d5249c02fecff063e0c86e87" sha1="6b7a9b810c932974cbda4de7178cf0ea5a90e628"/>
+		<url>https://retroachievements.org/game/14602/hashes</url>
+		<hash>957137E7D5249C02FECFF063E0C86E87</hash>
+	</game>
+	<game name="Retail/Makai Toushi Sa-Ga/Makai Toushi Sa-Ga (Japan) (En) (v1.2) (Tower Reversed)">
+		<category>WonderSwan Color</category>
+		<description>Makai Toushi Sa-Ga (Japan) (En) (v1.2) (Tower Reversed)</description>
+		<rom name="Makai Toushi Sa-Ga (Japan) (En) (v1.2) (Tower Reversed).wsc" size="4194304" crc="a4308378" md5="f1d130f871a4440be635322c73662049" sha1="f800e5305292a81be738f15426269329a8d139b1"/>
+		<url>https://retroachievements.org/game/14602/hashes</url>
+		<hash>F1D130F871A4440BE635322C73662049</hash>
+	</game>
+	
+	<game name="Subset/Makai Toushi Sa-Ga (Subset - Solo Class)/Makai Toushi Sa-Ga (Japan) (En) (Subset - Solo Class)">
+		<category>WonderSwan Color</category>
+		<description>Makai Toushi Sa-Ga (Japan) (En) (Subset - Solo Class)</description>
+		<rom name="Makai Toushi Sa-Ga (Japan) (En) (Subset - Solo Class).wsc" size="4194304" crc="f79986d0" md5="1edff9c7eb20454dcd2cd6c6e23fc7c6" sha1="98435b40985247a9f2358aff1c164a75ff0071bb"/>
+		<url>https://retroachievements.org/game/18495/hashes</url>
+		<hash>1EDFF9C7EB20454DCD2CD6C6E23FC7C6</hash>
+	</game>
+	<game name="Subset/Makai Toushi Sa-Ga (Subset - Solo Class)/Makai Toushi Sa-Ga (Subset - Solo Class)">
+		<category>WonderSwan Color</category>
+		<description>Makai Toushi Sa-Ga (Subset - Solo Class)</description>
+		<rom name="Makai Toushi Sa-Ga (Subset - Solo Class).wsc" size="4194304" crc="48c65a98" md5="AC0B4121EAD3C4B1EC102A57D1BB697D" sha1="9fbd69d1102a3924779a43b4dbf05862b1369afe"/>
+		<url>https://retroachievements.org/game/18495/hashes</url>
+		<hash>AC0B4121EAD3C4B1EC102A57D1BB697D</hash>
+	</game>
+	
+	<game name="Retail/Turntablist - DJ Battle (Japan)">
+		<category>WonderSwan</category>
+		<description>Turntablist - DJ Battle (Japan)</description>
+		<rom name="Turntablist - DJ Battle (Japan).ws" size="4194304" crc="0d5171f0" md5="144b29a9997c016fb4b2bb05e3965cfe" sha1="858f1f57b5522a1701cc8a0abae43cec948e26a6"/>
+		<url>https://retroachievements.org/game/19382/hashes</url>
+		<hash>144B29A9997C016FB4B2BB05E3965CFE</hash>
+	</game>
+	
+	<game name="Retail/Wizardry Scenario 1/Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan) (En) (v1.1) (Hengki Kusuma Adi)">
+		<category>WonderSwan Color</category>
+		<description>Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan) (En) (v1.1) (Hengki Kusuma Adi)</description>
+		<rom name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan) (En) (v1.1) (Hengki Kusuma Adi).wsc" size="2097152" crc="2c055c98" md5="a9eca898b6014e7ce23b9493b2d12efe" sha1="22fca73a28893a213f3760f54d3d61a81c95753c"/>
+		<url>https://retroachievements.org/game/14595/hashes</url>
+		<hash>A9ECA898B6014E7CE23B9493B2D12EFE</hash>
+	</game>
+	<game name="Retail/Wizardry Scenario 1/Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan)">
+		<category>WonderSwan Color</category>
+		<description>Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan)</description>
+		<rom name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan).wsc" size="2097152" crc="15e55706" md5="f0ba64cd7b88eab7add0f7af02080072" sha1="c1ad383d337dba8a63295cfb8c7ca8470c893c67"/>
+		<url>https://retroachievements.org/game/14595/hashes</url>
+		<hash>F0BA64CD7B88EAB7ADD0F7AF02080072</hash>
+	</game>
+	<game name="Retail/Wizardry Scenario 1/Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan) (En) (v1.1) (WonderGate Unlock) (v1.0) (Justin Gibbins)">
+		<category>WonderSwan Color</category>
+		<description>Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan) (En) (v1.1) (WonderGate Unlock) (v1.0) (Justin Gibbins)</description>
+		<rom name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan) (En) (v1.1) (WonderGate Unlock) (v1.0) (Justin Gibbins).wsc" size="2097152" crc="cdd7406e" md5="b6a7421c5731a2991f07290263d8bcec" sha1="9aee594d7bfe1ff508b42ba93e77e20daf7413e8"/>
+		<url>https://retroachievements.org/game/14595/hashes</url>
+		<hash>B6A7421C5731A2991F07290263D8BCEC</hash>
+	</game>
+	
+	<game name="Retail/XI Little (Japan)">
+		<category>WonderSwan Color</category>
+		<description>XI Little (Japan)</description>
+		<rom name="XI Little (Japan).wsc" size="2097152" crc="25e2ba75" md5="3c5e5826998dcf3ee18b9396c860df6f" sha1="97c29917a78918a6905fd61a1466971cfd2a33c6"/>
+		<url>https://retroachievements.org/game/16703/hashes</url>
+		<hash>3C5E5826998DCF3EE18B9396C860DF6F</hash>
+	</game>
+</datafile>

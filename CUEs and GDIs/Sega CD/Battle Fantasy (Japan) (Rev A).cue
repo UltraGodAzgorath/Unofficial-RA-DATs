@@ -1,0 +1,224 @@
+CATALOG 0000000000000
+FILE "Battle Fantasy (Japan) (Rev A) (Track 01).bin" BINARY
+  TRACK 01 MODE1/2352
+    INDEX 01 00:00:00
+FILE "Battle Fantasy (Japan) (Rev A) (Track 02).bin" BINARY
+  TRACK 02 AUDIO
+    ISRC GAJPN9100001
+    INDEX 00 00:00:00
+    INDEX 01 00:02:00
+FILE "Battle Fantasy (Japan) (Rev A) (Track 03).bin" BINARY
+  TRACK 03 AUDIO
+    ISRC GAJPN9100002
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 04).bin" BINARY
+  TRACK 04 AUDIO
+    ISRC GAJPN9100003
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 05).bin" BINARY
+  TRACK 05 AUDIO
+    ISRC GAJPN9100004
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 06).bin" BINARY
+  TRACK 06 AUDIO
+    ISRC GAJPN9100005
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 07).bin" BINARY
+  TRACK 07 AUDIO
+    ISRC GAJPN9100006
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 08).bin" BINARY
+  TRACK 08 AUDIO
+    ISRC GAJPN9100007
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 09).bin" BINARY
+  TRACK 09 AUDIO
+    ISRC GAJPN9100008
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 10).bin" BINARY
+  TRACK 10 AUDIO
+    ISRC GAJPN9100009
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 11).bin" BINARY
+  TRACK 11 AUDIO
+    ISRC GAJPN9100010
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 12).bin" BINARY
+  TRACK 12 AUDIO
+    ISRC GAJPN9100011
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 13).bin" BINARY
+  TRACK 13 AUDIO
+    ISRC GAJPN9100012
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 14).bin" BINARY
+  TRACK 14 AUDIO
+    ISRC GAJPN9100013
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 15).bin" BINARY
+  TRACK 15 AUDIO
+    ISRC GAJPN9100014
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 16).bin" BINARY
+  TRACK 16 AUDIO
+    ISRC GAJPN9100015
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 17).bin" BINARY
+  TRACK 17 AUDIO
+    ISRC GAJPN9100016
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 18).bin" BINARY
+  TRACK 18 AUDIO
+    ISRC GAJPN9100017
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 19).bin" BINARY
+  TRACK 19 AUDIO
+    ISRC GAJPN9100018
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 20).bin" BINARY
+  TRACK 20 AUDIO
+    ISRC GAJPN9100019
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 21).bin" BINARY
+  TRACK 21 AUDIO
+    ISRC GAJPN9100020
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 22).bin" BINARY
+  TRACK 22 AUDIO
+    ISRC GAJPN9100021
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 23).bin" BINARY
+  TRACK 23 AUDIO
+    ISRC GAJPN9100022
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 24).bin" BINARY
+  TRACK 24 AUDIO
+    ISRC GAJPN9100023
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 25).bin" BINARY
+  TRACK 25 AUDIO
+    ISRC GAJPN9100024
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 26).bin" BINARY
+  TRACK 26 AUDIO
+    ISRC GAJPN9100025
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 27).bin" BINARY
+  TRACK 27 AUDIO
+    ISRC GAJPN9100026
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 28).bin" BINARY
+  TRACK 28 AUDIO
+    ISRC GAJPN9100027
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 29).bin" BINARY
+  TRACK 29 AUDIO
+    ISRC GAJPN9100028
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 30).bin" BINARY
+  TRACK 30 AUDIO
+    ISRC GAJPN9100029
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 31).bin" BINARY
+  TRACK 31 AUDIO
+    ISRC GAJPN9100030
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 32).bin" BINARY
+  TRACK 32 AUDIO
+    ISRC GAJPN9100031
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 33).bin" BINARY
+  TRACK 33 AUDIO
+    ISRC GAJPN9100032
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 34).bin" BINARY
+  TRACK 34 AUDIO
+    ISRC GAJPN9100033
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 35).bin" BINARY
+  TRACK 35 AUDIO
+    ISRC GAJPN9100034
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 36).bin" BINARY
+  TRACK 36 AUDIO
+    ISRC GAJPN9100035
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 37).bin" BINARY
+  TRACK 37 AUDIO
+    ISRC GAJPN9100036
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 38).bin" BINARY
+  TRACK 38 AUDIO
+    ISRC GAJPN9100037
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 39).bin" BINARY
+  TRACK 39 AUDIO
+    ISRC GAJPN9100038
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 40).bin" BINARY
+  TRACK 40 AUDIO
+    ISRC GAJPN9100039
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 41).bin" BINARY
+  TRACK 41 AUDIO
+    ISRC GAJPN9100040
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 42).bin" BINARY
+  TRACK 42 AUDIO
+    ISRC GAJPN9100041
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 43).bin" BINARY
+  TRACK 43 AUDIO
+    ISRC GAJPN9100042
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 44).bin" BINARY
+  TRACK 44 AUDIO
+    ISRC GAJPN9100043
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
+FILE "Battle Fantasy (Japan) (Rev A) (Track 45).bin" BINARY
+  TRACK 45 AUDIO
+    ISRC GAJPN9100044
+    INDEX 00 00:00:00
+    INDEX 01 00:01:74
