@@ -4082,7 +4082,7 @@
 	<game name="Kingdom Hearts - Final Mix (En) (v2.001)" cloneof="Kingdom Hearts - Final Mix (Japan, Asia)">
 		<category>Retail</category>
 		<description>Kingdom Hearts - Final Mix (En) (v2.001)</description>
-		<rom name="Kingdom Hearts - Final Mix (En) (v2.001).iso" size="3542571008" crc="19dca8e9" md5="73505ce44fa7a1e79c03de0d11a87f3c" sha1="7bf5bada2132c99cf616528b90964919b35b1fac"/>
+		<rom name="Kingdom Hearts - Final Mix (En) (v2.001).iso" size="3540092928" crc="516e0144" md5="1136628a8e81a6c5c9669b7de178243f" sha1="f71628f70648a0e8d78b5d8b7bbda679eeb5deb9"/>
 		<url>https://retroachievements.org/game/2780/hashes</url>
 		<hash>b7491a8f23023ac780bcf4d7616b9b99</hash>
 	</game>
@@ -5795,7 +5795,7 @@
 		<category>Subset</category>
 		<description>Resident Evil - Outbreak (Subset - Online Multiplayer) (Japan)</description>
 		<release name="Resident Evil - Outbreak (Subset - Online Multiplayer) (Japan)" region="Japan"/>
-		<rom name="Resident Evil - Outbreak (Subset - Online Multiplayer) (Japan).iso" size="4698767360" crc="f4f2417e" md5="f79fbe8fd8229eca319c5d609d350cc2" sha1="d7f91f95c73fe18b3fbdce7620db1bdd44213f26"/>
+		<rom name="Resident Evil - Outbreak (Subset - Online Multiplayer) (Japan).iso" size="4698767360" crc="a110229e" md5="ea7a9d4a1a5e1d8c972870d5c5e1e7b6" sha1="6b4e8a11448a96a40a030d81f6d7d3e61f1a712e"/>
 		<url>https://retroachievements.org/game/29739/hashes</url>
 		<hash>db2bda4ac4fb139ce2b46c9fbbdaab3a</hash>
 	</game>
@@ -5826,15 +5826,15 @@
 		<hash>6721a59ea679daa5586c93421febd407</hash>
 	</game>
 	
-	<game name="Resident Evil - Outbreak - File 2 (Subset - Online Multiplayer)">
+	<game name="Resident Evil - Outbreak - File 2 (Subset - Online Multiplayer) (Japan)">
 		<category>Subset</category>
-		<description>Resident Evil - Outbreak - File 2 (Subset - Online Multiplayer)</description>
-		<release name="Resident Evil - Outbreak - File 2 (Subset - Online Multiplayer)" region="World"/>
-		<rom name="Resident Evil - Outbreak - File 2 (Subset - Online Multiplayer).iso" size="4698767360" crc="9a4766ee" md5="bdd18a7cdb37847d6f3c01d6fe103b7e" sha1="5fad452c7f8722a1f7e9f0167c4766905165cc9d"/>
+		<description>Resident Evil - Outbreak - File 2 (Subset - Online Multiplayer) (Japan)</description>
+		<release name="Resident Evil - Outbreak - File 2 (Subset - Online Multiplayer) (Japan)" region="Japan"/>
+		<rom name="Resident Evil - Outbreak - File 2 (Subset - Online Multiplayer) (Japan).iso" size="4698767360" crc="ef5ba40b" md5="d0d19f25ec746c7aca4d6b2cad37c3b5" sha1="004ef2e6354d0c8a74cfb7ec609f07f50db12f8a"/>
 		<url>https://retroachievements.org/game/29740/hashes</url>
 		<hash>5faa8c7b62bff020d5c7ca752d0a8f37</hash>
 	</game>
-	<game name="Resident Evil - Outbreak - File 2 (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer)" cloneof="Resident Evil - Outbreak - File 2 (Subset - Online Multiplayer)">
+	<game name="Resident Evil - Outbreak - File 2 (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer)" cloneof="Resident Evil - Outbreak - File 2 (Subset - Online Multiplayer) (Japan)">
 		<category>Subset</category>
 		<description>Resident Evil - Outbreak - File 2 (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer)</description>
 		<release name="Resident Evil - Outbreak - File 2 (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer)" region="English"/>

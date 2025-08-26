@@ -3364,7 +3364,7 @@
 		<category>Retail</category>
 		<description>Half-Life (USA) (Widescreen) (v1.0) (Souzooka)</description>
 		<release name="Half-Life (USA) (Widescreen) (v1.0) (Souzooka)" region="USA"/>
-		<rom name="Half-Life (USA) (Widescreen) (v1.0) (Souzooka).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Half-Life (USA) (Widescreen) (v1.0) (Souzooka).chd" size="280962439" crc="9c80a6de" md5="1ce0700f2e6dd432100e9a3845cdb6d7" sha1="5d9ff8e1c2eeeb2c3f2dd6a4dbf2acd7cb0023cf"/>
 		<url>https://retroachievements.org/game/3058/hashes</url>
 		<hash>3b4ddd90e193eebae4bcc732de9a2eb2</hash>
 	</game>
@@ -3970,7 +3970,7 @@
 		<category>Subset</category>
 		<description>Kingdom Hearts II - Final Mix (Subset - Level 1 Critical Mode)</description>
 		<release name="Kingdom Hearts II - Final Mix (Subset - Level 1 Critical Mode)" region="World"/>
-		<rom name="Kingdom Hearts II - Final Mix (Subset - Level 1 Critical Mode).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Kingdom Hearts II - Final Mix (Subset - Level 1 Critical Mode).chd" size="3538026690" crc="1a537e8d" md5="3b51e140dc1c17f0770eeacd9d062b70" sha1="61ebdbe918a6fa358de06a82618a78f6a9ad671d"/>
 		<url>https://retroachievements.org/game/25083/hashes</url>
 		<hash>93b1d189f27c9e162d69b619dadc2c8d</hash>
 	</game>
@@ -4013,7 +4013,7 @@
 	<game name="Kingdom Hearts - Final Mix (En) (v2.001)" cloneof="Kingdom Hearts - Final Mix (Japan, Asia)">
 		<category>Retail</category>
 		<description>Kingdom Hearts - Final Mix (En) (v2.001)</description>
-		<rom name="Kingdom Hearts - Final Mix (En) (v2.001).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Kingdom Hearts - Final Mix (En) (v2.001).chd" size="2992754056" crc="aab9fb55" md5="d276f0002ff80d3350a8363684b8129f" sha1="a0a6e68c56deb35ce264b9a71324bf311fa94824"/>
 		<url>https://retroachievements.org/game/2780/hashes</url>
 		<hash>b7491a8f23023ac780bcf4d7616b9b99</hash>
 	</game>
@@ -5697,7 +5697,7 @@
 		<category>Subset</category>
 		<description>Resident Evil - Outbreak (Subset - Online Multiplayer) (Japan)</description>
 		<release name="Resident Evil - Outbreak (Subset - Online Multiplayer) (Japan)" region="Japan"/>
-		<rom name="Resident Evil - Outbreak (Subset - Online Multiplayer) (Japan).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Resident Evil - Outbreak (Subset - Online Multiplayer) (Japan).chd" size="3294233732" crc="edea1e28" md5="a59eacafcf90ca4b489c2eae07bd329b" sha1="d076c0854c8d43c821e8a8474a27dc62383bcc76"/>
 		<url>https://retroachievements.org/game/29739/hashes</url>
 		<hash>db2bda4ac4fb139ce2b46c9fbbdaab3a</hash>
 	</game>
@@ -5728,15 +5728,15 @@
 		<hash>6721a59ea679daa5586c93421febd407</hash>
 	</game>
 	
-	<game name="Resident Evil - Outbreak - File 2 (Subset - Online Multiplayer)">
+	<game name="Resident Evil - Outbreak - File 2 (Subset - Online Multiplayer) (Japan)">
 		<category>Subset</category>
-		<description>Resident Evil - Outbreak - File 2 (Subset - Online Multiplayer)</description>
-		<release name="Resident Evil - Outbreak - File 2 (Subset - Online Multiplayer)" region="World"/>
-		<rom name="Resident Evil - Outbreak - File 2 (Subset - Online Multiplayer).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<description>Resident Evil - Outbreak - File 2 (Subset - Online Multiplayer) (Japan)</description>
+		<release name="Resident Evil - Outbreak - File 2 (Subset - Online Multiplayer) (Japan)" region="Japan"/>
+		<rom name="Resident Evil - Outbreak - File 2 (Subset - Online Multiplayer) (Japan).chd" size="3472777077" crc="e0feb234" md5="0eba8c323a126aacf9e6bdcf87b40179" sha1="0c5a36fc48ea5eb23a2b7e998994622be206fce7"/>
 		<url>https://retroachievements.org/game/29740/hashes</url>
 		<hash>5faa8c7b62bff020d5c7ca752d0a8f37</hash>
 	</game>
-	<game name="Resident Evil - Outbreak - File 2 (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer)" cloneof="Resident Evil - Outbreak - File 2 (Subset - Online Multiplayer)">
+	<game name="Resident Evil - Outbreak - File 2 (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer)" cloneof="Resident Evil - Outbreak - File 2 (Subset - Online Multiplayer) (Japan)">
 		<category>Subset</category>
 		<description>Resident Evil - Outbreak - File 2 (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer)</description>
 		<release name="Resident Evil - Outbreak - File 2 (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer)" region="English"/>
@@ -7913,7 +7913,7 @@
 		<category>Retail</category>
 		<description>Simpsons Skateboarding, The (USA)</description>
 		<release name="Simpsons Skateboarding, The (USA)" region="USA"/>
-		<rom name="Simpsons Skateboarding, The (USA).chd" size="524555194" crc="04e21d03" md5="3b0126679b75299464d845a9154effb2" sha1="241c48168ffd988c1be096a283893c15c377e27e"/>
+		<rom name="Simpsons Skateboarding, The (USA).chd" size="524555194" crc="f03da662" md5="6211e39ffd5ec2231bf0272e2de19d4e" sha1="62b98e882425eb877543f0b83a85ec89cc54c010"/>
 		<url>https://retroachievements.org/game/20669/hashes</url>
 		<hash>b5ecd256c7719bc7e219e10605e94629</hash>
 	</game>
