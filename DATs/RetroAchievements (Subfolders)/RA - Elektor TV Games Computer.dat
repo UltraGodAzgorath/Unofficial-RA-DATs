@@ -5,8 +5,8 @@
 		<name>RA - Elektor TV Games Computer</name>
 		<description>Elektor TV Games Computer</description>
 		<category>Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250906</version>
+		<date>06 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/75/games</url>
@@ -48,9 +48,9 @@
 	<game name="Retail/Car Race (Europe) (Peter Marschat)">
 		<category></category>
 		<description>Car Race (Europe) (Peter Marschat)</description>
-		<rom name="Car Race (Europe) (Peter Marschat).tvc" size="3414" crc="08d46655" md5="b9dfc7a7864764c87217dac2f965ab5b" sha1="a70afe1a48c1787963ab82e702f84a088064c12c"/>
+		<rom name="Car Race (Europe) (Peter Marschat).tvc" size="1179" crc="e07489e9" md5="ff1a7bdd03150f744431a506c641e451" sha1="90fa4f79aa2fcdb7b35d1aa963a7d0d9a8430f80"/>
 		<url>https://retroachievements.org/game/24684/hashes</url>
-		<hash>58A2483A264A8C8C5901ED90CA51F5D5</hash>
+		<hash>ff1a7bdd03150f744431a506c641e451</hash>
 	</game>
 	
 	<game name="Retail/Catapult (Europe) (ESS-010-5)">
@@ -144,9 +144,9 @@
 	<game name="Retail/Newton (Europe) (ESS-011-B)">
 		<category></category>
 		<description>Newton (Europe) (ESS-011-B)</description>
-		<rom name="Newton (Europe) (ESS-011-B).tvc" size="4096" crc="f544eef0" md5="7e81d128dab7608c1031f5178db13372" sha1="4bad5f568edadf3c987302bb4a9c0feea311cd26"/>
+		<rom name="Newton (Europe) (ESS-011-B).tvc" size="1797" crc="86b038d1" md5="f94d028134169f434134ad2d5a3bf2fc" sha1="bd49371b1bfc4a3d675c3e335f9db4fb4ebc2ea5"/>
 		<url>https://retroachievements.org/game/24653/hashes</url>
-		<hash>69768909B778878667883F4CA7446625</hash>
+		<hash>f94d028134169f434134ad2d5a3bf2fc</hash>
 	</game>
 	
 	<game name="Retail/Omega Landing (Europe) (ESS-011-7)">
