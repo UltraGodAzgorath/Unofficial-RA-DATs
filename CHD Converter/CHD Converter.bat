@@ -6,17 +6,17 @@ ECHO ===========================================================================
 ECHO				  	CHDMAN OPTIONS
 ECHO =================================================================================
 ECHO.
-ECHO		A - Compress CD to CHD		(BIN+CUE and/or ISO)
-ECHO		B - Compress GDI to CHD		(GDI+BIN+RAW)
-ECHO		C - Compress DVD to CHD		(ISO)
-ECHO		D - Compress DVD to CHD		(PSP ISO)
+ECHO		A - Compress CD to CHD		(BIN+CUE and/or ISO; PS1 and earlier)
+ECHO		B - Compress GDI to CHD		(GDI+BIN+RAW; Dreamcast)
+ECHO		C - Compress DVD to CHD		(ISO; PS2)
+ECHO		D - Compress DVD to CHD		(ISO; PSP)
 ECHO.
-ECHO		J - Extract CHD to CD BIN+CUE	(e.g. PS1, CD32, NeoGeo CD etc...)
-ECHO		K - Extract CHD to GDI		(e.g. Dreamcast)
-ECHO		L - Extract CHD to CD ISO	(e.g. PS2*)
-ECHO		M - Extract CHD to DVD ISO	(e.g. PSP, PS2*)
+ECHO		J - Extract CHD to CD BIN+CUE	(PS1 and earlier)
+ECHO		K - Extract CHD to GDI		(Dreamcast)
+ECHO		L - Extract CHD to CD ISO	(PS2*)
+ECHO		M - Extract CHD to DVD ISO	(PSP and PS2*)
 ECHO.
-ECHO		*The majority of PS2 games are DVD based, a few games are CD based
+ECHO		*The majority of PS2 games are DVD-based, a few games are CD-based
 ECHO.
 ECHO		R - Convert CD CHD to DVD CHD	(if an old CD CHD should be a DVD CHD)
 ECHO		S - Convert PSP CD CHD to PSP DVD CHD	(if an old PSP CD CHD should be a PSP DVD CHD)
@@ -82,6 +82,10 @@ GOTO MENU
 
 :CompressDVD
 for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd -f
+for /r %%i in (*.cue) do chdman createcd -i "%%i" -o "%%~ni.chd"
+ECHO ---------------------------------------------------------------------------------
+ECHO Number of Input BIN files:
+dir /A:-D /B *.bin 2>nul | find /c /v ""
 ECHO ---------------------------------------------------------------------------------
 ECHO Number of Input ISO files:
 dir /A:-D /B *.iso 2>nul | find /c /v ""
