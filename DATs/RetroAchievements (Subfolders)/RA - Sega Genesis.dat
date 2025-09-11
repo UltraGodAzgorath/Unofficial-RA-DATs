@@ -5,8 +5,8 @@
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
 		<category>Subfolders</category>
-		<version>20250810</version>
-		<date>10 August 2025</date>
+		<version>20250911</version>
+		<date>11 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/1/games</url>
@@ -4122,6 +4122,119 @@
 		<hash>61921a08de0b28e44bf63f4d0b2542f7</hash>
 	</game>
 	
+	<game name="Retail/Phantasy Star II - Text Adventures/Phantasy Star II - Anne's Adventure (Japan) (SegaNet)">
+		<category></category>
+		<description>Phantasy Star II - Anne's Adventure (Japan) (SegaNet)</description>
+		<rom name="Phantasy Star II - Anne's Adventure (Japan) (SegaNet).md" size="000" crc="000" md5="10195dfcde401acafd406f2640e384de" sha1="000"/>
+		<url>https://retroachievements.org/game/408/hashes</url>
+		<hash>10195dfcde401acafd406f2640e384de</hash>
+	</game>
+	<game name="Retail/Phantasy Star II - Text Adventures/Phantasy Star II - Huey's Adventure (Japan) (SegaNet)">
+		<category></category>
+		<description>Phantasy Star II - Huey's Adventure (Japan) (SegaNet)</description>
+		<rom name="Phantasy Star II - Huey's Adventure (Japan) (SegaNet).md" size="000" crc="000" md5="4efb0bc21c9df35ff39eb1862f972c47" sha1="000"/>
+		<url>https://retroachievements.org/game/408/hashes</url>
+		<hash>4efb0bc21c9df35ff39eb1862f972c47</hash>
+	</game>
+	<game name="Retail/Phantasy Star II - Text Adventures/Phantasy Star II - Shilka's Adventure (Japan) (SegaNet)">
+		<category></category>
+		<description>Phantasy Star II - Shilka's Adventure (Japan) (SegaNet)</description>
+		<rom name="Phantasy Star II - Shilka's Adventure (Japan) (SegaNet).md" size="000" crc="000" md5="5abe74899da838cc9dc7cabfb4d8f816" sha1="000"/>
+		<url>https://retroachievements.org/game/408/hashes</url>
+		<hash>5abe74899da838cc9dc7cabfb4d8f816</hash>
+	</game>
+	<game name="Retail/Phantasy Star II - Text Adventures/Phantasy Star II - Amia's Adventure (Japan) (SegaNet)">
+		<category></category>
+		<description>Phantasy Star II - Amia's Adventure (Japan) (SegaNet)</description>
+		<rom name="Phantasy Star II - Amia's Adventure (Japan) (SegaNet).md" size="000" crc="000" md5="76cb3b2ec8b827ec9288d28bc8d0cd3b" sha1="000"/>
+		<url>https://retroachievements.org/game/408/hashes</url>
+		<hash>76cb3b2ec8b827ec9288d28bc8d0cd3b</hash>
+	</game>
+	<game name="Retail/Phantasy Star II - Text Adventures/Phantasy Star II - Yushis's Adventure (Japan) (SegaNet)">
+		<category></category>
+		<description>Phantasy Star II - Yushis's Adventure (Japan) (SegaNet)</description>
+		<rom name="Phantasy Star II - Yushis's Adventure (Japan) (SegaNet).md" size="000" crc="000" md5="83f22a27147bdfd85d405daf111fde92" sha1="000"/>
+		<url>https://retroachievements.org/game/408/hashes</url>
+		<hash>83f22a27147bdfd85d405daf111fde92</hash>
+	</game>
+	<game name="Retail/Phantasy Star II - Text Adventures/Phantasy Star II - Rudger's Adventure (Japan) (SegaNet)">
+		<category></category>
+		<description>Phantasy Star II - Rudger's Adventure (Japan) (SegaNet)</description>
+		<rom name="Phantasy Star II - Rudger's Adventure (Japan) (SegaNet).md" size="000" crc="000" md5="8ce3458a47e1dcb75982403e8b3cbf3f" sha1="000"/>
+		<url>https://retroachievements.org/game/408/hashes</url>
+		<hash>8ce3458a47e1dcb75982403e8b3cbf3f</hash>
+	</game>
+	<game name="Retail/Phantasy Star II - Text Adventures/Phantasy Star II - Nei's Adventure (Japan) (SegaNet)">
+		<category></category>
+		<description>Phantasy Star II - Nei's Adventure (Japan) (SegaNet)</description>
+		<rom name="Phantasy Star II - Nei's Adventure (Japan) (SegaNet).md" size="000" crc="000" md5="d60bc80b482dfc1b31cb6c383f3fd88c" sha1="000"/>
+		<url>https://retroachievements.org/game/408/hashes</url>
+		<hash>d60bc80b482dfc1b31cb6c383f3fd88c</hash>
+	</game>
+	<game name="Retail/Phantasy Star II - Text Adventures/Phantasy Star II - Kinds's Adventure (Japan) (SegaNet)">
+		<category></category>
+		<description>Phantasy Star II - Kinds's Adventure (Japan) (SegaNet)</description>
+		<rom name="Phantasy Star II - Kinds's Adventure (Japan) (SegaNet).md" size="000" crc="000" md5="dbe39f02548beaae0aa652dc4874c09e" sha1="000"/>
+		<url>https://retroachievements.org/game/408/hashes</url>
+		<hash>dbe39f02548beaae0aa652dc4874c09e</hash>
+	</game>
+	<game name="Retail/Phantasy Star II - Text Adventures/Phantasy Star II - Anne's Adventure (Japan) (En) (v20100710) (Jon Najar)" cloneof="Phantasy Star II - Anne's Adventure (Japan) (SegaNet)">
+		<category></category>
+		<description>Phantasy Star II - Anne's Adventure (Japan) (En) (v20100710) (Jon Najar)</description>
+		<rom name="Phantasy Star II - Anne's Adventure (Japan) (En) (v20100710) (Jon Najar).md" size="000" crc="000" md5="cee72632b13d435674b2ddac637c5f8e" sha1="000"/>
+		<url>https://retroachievements.org/game/408/hashes</url>
+		<hash>cee72632b13d435674b2ddac637c5f8e</hash>
+	</game>
+	<game name="Retail/Phantasy Star II - Text Adventures/Phantasy Star II - Amia's Adventure (Japan) (En) (v20100710) (Jon Najar)" cloneof="Phantasy Star II - Amia's Adventure (Japan) (SegaNet)">
+		<category></category>
+		<description>Phantasy Star II - Amia's Adventure (Japan) (En) (v20100710) (Jon Najar)</description>
+		<rom name="Phantasy Star II - Amia's Adventure (Japan) (En) (v20100710) (Jon Najar).md" size="000" crc="000" md5="cbdf6fe34574675dbd9da1cfccd6b9f5" sha1="000"/>
+		<url>https://retroachievements.org/game/408/hashes</url>
+		<hash>cbdf6fe34574675dbd9da1cfccd6b9f5</hash>
+	</game>
+	<game name="Retail/Phantasy Star II - Text Adventures/Phantasy Star II - Yushis's Adventure (Japan) (En) (v20100710) (Jon Najar)" cloneof="Phantasy Star II - Yushis's Adventure (Japan) (SegaNet)">
+		<category></category>
+		<description>Phantasy Star II - Yushis's Adventure (Japan) (En) (v20100710) (Jon Najar)</description>
+		<rom name="Phantasy Star II - Yushis's Adventure (Japan) (En) (v20100710) (Jon Najar).md" size="000" crc="000" md5="3c1ce24f8d84735d67fc6e0380c5e4c5" sha1="000"/>
+		<url>https://retroachievements.org/game/408/hashes</url>
+		<hash>3c1ce24f8d84735d67fc6e0380c5e4c5</hash>
+	</game>
+	<game name="Retail/Phantasy Star II - Text Adventures/Phantasy Star II - Huey's Adventure (Japan) (En) (v20100710) (Jon Najar)" cloneof="Phantasy Star II - Huey's Adventure (Japan) (SegaNet)">
+		<category></category>
+		<description>Phantasy Star II - Huey's Adventure (Japan) (En) (v20100710) (Jon Najar)</description>
+		<rom name="Phantasy Star II - Huey's Adventure (Japan) (En) (v20100710) (Jon Najar).md" size="000" crc="000" md5="12260bf5b7863f4489d627865dba1eec" sha1="000"/>
+		<url>https://retroachievements.org/game/408/hashes</url>
+		<hash>12260bf5b7863f4489d627865dba1eec</hash>
+	</game>
+	<game name="Retail/Phantasy Star II - Text Adventures/Phantasy Star II - Kinds's Adventure (Japan) (En) (v20100710) (Jon Najar)" cloneof="Phantasy Star II - Kinds's Adventure (Japan) (SegaNet)">
+		<category></category>
+		<description>Phantasy Star II - Kinds's Adventure (Japan) (En) (v20100710) (Jon Najar)</description>
+		<rom name="Phantasy Star II - Kinds's Adventure (Japan) (En) (v20100710) (Jon Najar).md" size="000" crc="000" md5="ca9c437ccf387fb581f9ee00cfb14f34" sha1="000"/>
+		<url>https://retroachievements.org/game/408/hashes</url>
+		<hash>ca9c437ccf387fb581f9ee00cfb14f34</hash>
+	</game>
+	<game name="Retail/Phantasy Star II - Text Adventures/Phantasy Star II - Nei's Adventure (Japan) (En) (v20100710) (Jon Najar)" cloneof="Phantasy Star II - Nei's Adventure (Japan) (SegaNet)">
+		<category></category>
+		<description>Phantasy Star II - Nei's Adventure (Japan) (En) (v20100710) (Jon Najar)</description>
+		<rom name="Phantasy Star II - Nei's Adventure (Japan) (En) (v20100710) (Jon Najar).md" size="000" crc="000" md5="30fb373aa2d47af800712f6897823309" sha1="000"/>
+		<url>https://retroachievements.org/game/408/hashes</url>
+		<hash>30fb373aa2d47af800712f6897823309</hash>
+	</game>
+	<game name="Retail/Phantasy Star II - Text Adventures/Phantasy Star II - Shilka's Adventure (Japan) (En) (v20100710) (Jon Najar)" cloneof="Phantasy Star II - Shilka's Adventure (Japan) (SegaNet)">
+		<category></category>
+		<description>Phantasy Star II - Shilka's Adventure (Japan) (En) (v20100710) (Jon Najar)</description>
+		<rom name="Phantasy Star II - Shilka's Adventure (Japan) (En) (v20100710) (Jon Najar).md" size="000" crc="000" md5="35d2cd35f238c59b645f77be6e64ab81" sha1="000"/>
+		<url>https://retroachievements.org/game/408/hashes</url>
+		<hash>35d2cd35f238c59b645f77be6e64ab81</hash>
+	</game>
+	<game name="Retail/Phantasy Star II - Text Adventures/Phantasy Star II - Rudger's Adventure (Japan) (En) (v20100710) (Jon Najar)" cloneof="Phantasy Star II - Rudger's Adventure (Japan) (SegaNet)">
+		<category></category>
+		<description>Phantasy Star II - Rudger's Adventure (Japan) (En) (v20100710) (Jon Najar)</description>
+		<rom name="Phantasy Star II - Rudger's Adventure (Japan) (En) (v20100710) (Jon Najar).md" size="000" crc="000" md5="dbc8487b78b63efc151b80ea89de17ff" sha1="000"/>
+		<url>https://retroachievements.org/game/408/hashes</url>
+		<hash>dbc8487b78b63efc151b80ea89de17ff</hash>
+	</game>
+	
 	<game name="Retail/Phantasy Star III - Generations of Doom (USA, Europe, Korea) (En)">
 		<category></category>
 		<description>Phantasy Star III - Generations of Doom (USA, Europe, Korea) (En)</description>
@@ -4993,6 +5106,14 @@
 		<hash>9df8251cbfe05a47a5ff8fd9cf328b32</hash>
 	</game>
 
+	<game name="Retail/Soldiers of Fortune (USA)">
+		<category></category>
+		<description>Soldiers of Fortune (USA)</description>
+		<rom name="Soldiers of Fortune (USA).md" size="000" crc="000" md5="b90ff517cba6492377e02d23fcda4b80" sha1="000"/>
+		<url>https://retroachievements.org/game/5877/hashes</url>
+		<hash>b90ff517cba6492377e02d23fcda4b80</hash>
+	</game>
+	
 	<game name="Retail/Sonic &amp; Knuckles (World)">
 		<category></category>
 		<description>Sonic &amp; Knuckles (World)</description>

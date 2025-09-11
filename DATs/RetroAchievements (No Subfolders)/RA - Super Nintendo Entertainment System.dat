@@ -5,8 +5,8 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>No Subfolders</category>
-		<version>20250803</version>
-		<date>03 August 2025</date>
+		<version>20250911</version>
+		<date>11 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/3/games</url>
@@ -441,20 +441,28 @@
 		<hash>55db37f90772f3bce5690f0b77ac73a1</hash>
 	</game>
 	
+	<game name="SMW - Chomper Ville (v2011-04-20) (SMWFanatic) (Hack)" cloneof="SMW - Chomper Ville (v2011-04-20) (SMWFanatic) (Hack)">
+		<category>Hack</category>
+		<description>SMW - Chomper Ville (v2011-04-20) (SMWFanatic) (Hack)</description>
+		<rom name="SMW - Chomper Ville (v2011-04-20) (SMWFanatic) (Hack).sfc" size="000" crc="000" md5="4c7828aa9798ef21a740692b5c1c4669" sha1="000"/>
+		<url>https://retroachievements.org/game/34495/hashes</url>
+		<hash>4c7828aa9798ef21a740692b5c1c4669</hash>
+	</game>
+	<game name="SMW - Chomper Ville (v2011-04-20) (Inf. Lives) (SMWFanatic) (Hack)">
+		<category>Hack</category>
+		<description>SMW - Chomper Ville (v2011-04-20) (Inf. Lives) (SMWFanatic) (Hack)</description>
+		<release name="SMW - Chomper Ville (v2011-04-20) (Inf. Lives) (SMWFanatic) (Hack)" region="World"/>
+		<rom name="SMW - Chomper Ville (v2011-04-20) (Inf. Lives) (SMWFanatic) (Hack).sfc" size="000" crc="000" md5="e0db3f6076f2d54f1de885b82c3794f0" sha1="000"/>
+		<url>https://retroachievements.org/game/34495/hashes</url>
+		<hash>e0db3f6076f2d54f1de885b82c3794f0</hash>
+	</game>
+	
 	<game name="Chrono Trigger - Flames of Eternity (vRC7D) (Giro) (Hack)" cloneof="Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack)">
 		<category>Hack</category>
 		<description>Chrono Trigger - Flames of Eternity (vRC7D) (Giro) (Hack)</description>
 		<rom name="Chrono Trigger - Flames of Eternity (vRC7D) (Giro) (Hack).sfc" size="6291456" crc="23906f1e" md5="a5db4d8c8fbdc278ccf28419bd46a90e" sha1="a022a67e0c4e9094bfbdc44cb51314b884b6c708"/>
 		<url>https://retroachievements.org/game/1383/hashes</url>
 		<hash>a5db4d8c8fbdc278ccf28419bd46a90e</hash>
-	</game>
-	<game name="Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack)">
-		<category>Hack</category>
-		<description>Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack)</description>
-		<release name="Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack)" region="World"/>
-		<rom name="Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack).sfc" size="6291456" crc="e27250dc" md5="57ee0cb754638c08e6a432060d4abe63" sha1="84eddccf7b784939f5be8fbead5bc7f6212e4757"/>
-		<url>https://retroachievements.org/game/1383/hashes</url>
-		<hash>57ee0cb754638c08e6a432060d4abe63</hash>
 	</game>
 	<game name="Chrono Trigger - Flames of Eternity (Pt) (v2.0) (Retsuge) (Hack)" cloneof="Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack)">
 		<category>Hack</category>
@@ -463,6 +471,14 @@
 		<rom name="Chrono Trigger - Flames of Eternity (Pt) (v2.0) (Retsuge) (Hack).sfc" size="6291456" crc="010551a9" md5="83d199bf78b106d2f6d0306959bef4e6" sha1="e90df3c45c6b31d1e6c0647005efe022f34421b1"/>
 		<url>https://retroachievements.org/game/1383/hashes</url>
 		<hash>83d199bf78b106d2f6d0306959bef4e6</hash>
+	</game>
+	<game name="Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack)">
+		<category>Hack</category>
+		<description>Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack)</description>
+		<release name="Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack)" region="World"/>
+		<rom name="Chrono Trigger - Flames of Eternity (Final) (Giro, Cubear) (Hack).sfc" size="000" crc="000" md5="196130bd682f1db9bce0bf8e0d056c0b" sha1="000"/>
+		<url>https://retroachievements.org/game/1383/hashes</url>
+		<hash>196130bd682f1db9bce0bf8e0d056c0b</hash>
 	</game>
 	
 	<game name="Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Hack)" cloneof="Chrono Trigger - Chrono Trigger - Prophet's Guile (v1.0) (Kajar Laboratories) (Crash Fix) (v0.1) (clymax) (Hack)">
@@ -963,13 +979,13 @@
 		<hash>4647b4b003b39f51a6fc6a7ccb116729</hash>
 	</game>
 	
-	<game name="FFVI Reimagined (v1.7) (DrakeyC) (Hack)">
+	<game name="FFVI - Reimagined (v1.7) (DrakeyC) (Hack)">
 		<category>Hack</category>
-		<description>FFVI Reimagined (v1.7) (DrakeyC) (Hack)</description>
-		<release name="FFVI Reimagined (v1.7) (DrakeyC) (Hack)" region="World"/>
-		<rom name="FFVI Reimagined (v1.7) (DrakeyC) (Hack).sfc" size="4194304" crc="717f5b83" md5="26943ae9f9b7ac98cfa3605ab2a8947a" sha1="e6088dc3202c6eda91de2db65f96d42017b903a5"/>
+		<description>FFVI - Reimagined (v1.7) (DrakeyC) (Hack)</description>
+		<release name="FFVI - Reimagined (v1.7) (DrakeyC) (Hack)" region="World"/>
+		<rom name="FFVI - Reimagined (v1.7) (DrakeyC) (Hack).sfc" size="000" crc="000" md5="6f29ca82fe37ad99acf2238b66bfb66c" sha1="000"/>
 		<url>https://retroachievements.org/game/32659/hashes</url>
-		<hash>26943ae9f9b7ac98cfa3605ab2a8947a</hash>
+		<hash>6f29ca82fe37ad99acf2238b66bfb66c</hash>
 	</game>
 	
 	<game name="FFVI - A Soldier's Contingency (Flavor A) (v2.01) (Lightning Hawk) (Hack)" cloneof="FFVI - A Soldier's Contingency (Flavor A) (v2.02) (Lightning Hawk) (Hack)">
@@ -2705,9 +2721,9 @@
 		<category>Hack</category>
 		<description>SMW - A Plumber for All Seasons (WhiteYoshiEgg) (v2021-10-09) (Hack)</description>
 		<release name="SMW - A Plumber for All Seasons (WhiteYoshiEgg) (v2021-10-09) (Hack)" region="World"/>
-		<rom name="SMW - A Plumber for All Seasons (WhiteYoshiEgg) (v2021-10-09) (Hack).sfc" size="4194304" crc="1c42fe34" md5="325de3e006de9a0effbbed39cd2397f6" sha1="a660de013d01da249df840ae4b5a5a3ba542c593"/>
+		<rom name="SMW - A Plumber for All Seasons (WhiteYoshiEgg) (v2021-10-09) (Hack).sfc" size="000" crc="000" md5="cdb770284b8f0fb7ad6ca24b7fbb5e44" sha1="000"/>
 		<url>https://retroachievements.org/game/2865/hashes</url>
-		<hash>325de3e006de9a0effbbed39cd2397f6</hash>
+		<hash>cdb770284b8f0fb7ad6ca24b7fbb5e44</hash>
 	</game>
 	
 	<game name="Prince Of Persia - Evolution (USA) (v1.0) (salvadorc17) (Hack)">
@@ -3082,6 +3098,15 @@
 		<rom name="SMW - Bowser's Return (Ice Man) (Hack).sfc" size="4194304" crc="cfec4afd" md5="5295a7481c96be8fb0d2c487ef91dc0f" sha1="ceb0def029c3f13220e322e1c68e41d42b074bbc"/>
 		<url>https://retroachievements.org/game/5647/hashes</url>
 		<hash>5295a7481c96be8fb0d2c487ef91dc0f</hash>
+	</game>
+	
+	<game name="SMW - Gaiden (v1.13) (SMWG Team) (Hack)">
+		<category>Hack</category>
+		<description>SMW - Gaiden (v1.13) (SMWG Team) (Hack)</description>
+		<release name="SMW - Gaiden (v1.13) (SMWG Team) (Hack)" region="World"/>
+		<rom name="SMW - Gaiden (v1.13) (SMWG Team) (Hack).sfc" size="000" crc="000" md5="ab1f18177f0b078eaf9a97bdeab0ba6d" sha1="000"/>
+		<url>https://retroachievements.org/game/18548/hashes</url>
+		<hash>ab1f18177f0b078eaf9a97bdeab0ba6d</hash>
 	</game>
 	
 	<game name="SMW - Il Maniero Spettrale (En) (v1.3.1) (Duraner Hawkeye,RednGreen,Storm Kyleis) (Hack)">
@@ -5628,6 +5653,14 @@
 		<url>https://retroachievements.org/game/446/hashes</url>
 		<hash>90bb70c75f0000492f99725de54c264f</hash>
 	</game>
+	<game name="Brandish (USA) (Pt) (v1.0) (GreenGoblin,Odin)" cloneof="Brandish (USA)">
+		<category>Retail</category>
+		<description>Brandish (USA) (Pt) (v1.0) (GreenGoblin,Odin)</description>
+		<release name="Brandish (USA) (Pt) (v1.0) (GreenGoblin,Odin)" region="Portugal"/>
+		<rom name="Brandish (USA) (Pt) (v1.0) (GreenGoblin,Odin).sfc" size="000" crc="000" md5="e42a54f0b0457c2234271b241c2b7fb9" sha1="000"/>
+		<url>https://retroachievements.org/game/446/hashes</url>
+		<hash>e42a54f0b0457c2234271b241c2b7fb9</hash>
+	</game>
 	
 	<game name="Brandish 2 - The Planet Buster (Japan) (En) (v1.0) (Synchronicity)">
 		<category>Retail</category>
@@ -6940,6 +6973,13 @@
 		<url>https://retroachievements.org/game/1405/hashes</url>
 		<hash>232badbb3c605641465ac461e92ffb2e</hash>
 	</game>
+	<game name="Dragon Quest I &amp; II (Japan) (En) (v2.0) (RPGOne) (Addendum) (v1.053rtm) (Rod Merida)" cloneof="Dragon Quest I &amp; II (Japan)">
+		<category>Retail</category>
+		<description>Dragon Quest I &amp; II (Japan) (En) (v2.0) (RPGOne) (Addendum) (v1.053rtm) (Rod Merida)</description>
+		<rom name="Dragon Quest I &amp; II (Japan) (En) (v2.0) (RPGOne) (Addendum) (v1.053rtm) (Rod Merida).sfc" size="000" crc="000" md5="d4f294305fa536fc7974e764900f2fcc" sha1="000"/>
+		<url>https://retroachievements.org/game/1405/hashes</url>
+		<hash>d4f294305fa536fc7974e764900f2fcc</hash>
+	</game>
 	
 	<game name="Dragon Quest III - Soshite Densetsu he... (Japan) (En) (v1.1) (DaMarsMan)" cloneof="Dragon Quest III - Soshite Densetsu e... (Japan)">
 		<category>Retail</category>
@@ -7718,6 +7758,13 @@
 		<url>https://retroachievements.org/game/1386/hashes</url>
 		<hash>f56ae26c93cd09ba256b002b83b2d26b</hash>
 	</game>
+	<game name="Final Fantasy V Spoof (v1.01) (Tzepish)" cloneof="Final Fantasy V (Japan)">
+		<category>Retail</category>
+		<description>Final Fantasy V Spoof (v1.01) (Tzepish)</description>
+		<rom name="Final Fantasy V Spoof (v1.01) (Tzepish).sfc" size="000" crc="000" md5="e002240962051854afbf2e89bcb25128" sha1="000"/>
+		<url>https://retroachievements.org/game/1386/hashes</url>
+		<hash>e002240962051854afbf2e89bcb25128</hash>
+	</game>
 	
 	<game name="Final Fantasy III (USA) (Rev 1)">
 		<category>Retail</category>
@@ -8152,6 +8199,38 @@
 		<hash>7da54082f302c3f781539f371691ec2f</hash>
 	</game>
 	
+	<game name="Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (Rev 2)">
+		<category>Retail</category>
+		<description>Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (Rev 2)</description>
+		<release name="Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (Rev 2)" region="Japan"/>
+		<rom name="Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (Rev 2).sfc" size="000" crc="000" md5="19da7f2058c6a96e3471ca8a65234095" sha1="000"/>
+		<url>https://retroachievements.org/game/2925/hashes</url>
+		<hash>19da7f2058c6a96e3471ca8a65234095</hash>
+	</game>
+	<game name="Go for it! Goemon - The Twinkling Journey (Japan) (En) (v3.0) (DDSTranslation)" cloneof="Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (Rev 2)">>
+		<category>Retail</category>
+		<description>Go for it! Goemon - The Twinkling Journey (Japan) (En) (v3.0) (DDSTranslation)</description>
+		<release name="Go for it! Goemon - The Twinkling Journey (Japan) (En) (v3.0) (DDSTranslation)" region="English"/>
+		<rom name="Go for it! Goemon - The Twinkling Journey (Japan) (En) (v3.0) (DDSTranslation).sfc" size="000" crc="000" md5="1a13988bf52cc202a78045ac70e34ad8" sha1="000"/>
+		<url>https://retroachievements.org/game/2925/hashes</url>
+		<hash>1a13988bf52cc202a78045ac70e34ad8</hash>
+	</game>
+	<game name="Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan)" cloneof="Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (Rev 2)">>
+		<category>Retail</category>
+		<description>Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan)</description>
+		<rom name="Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan).sfc" size="000" crc="000" md5="a53bee4978d7c8e13cdec5151207de54" sha1="000"/>
+		<url>https://retroachievements.org/game/2925/hashes</url>
+		<hash>a53bee4978d7c8e13cdec5151207de54</hash>
+	</game>
+	<game name="Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (De) (v0.99) (Poe)" cloneof="Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (Rev 2)">
+		<category>Retail</category>
+		<description>Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (De) (v0.99) (Poe)</description>
+		<release name="Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (De) (v0.99) (Poe)" region="Germany"/>
+		<rom name="Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (De) (v0.99) (Poe).sfc" size="000" crc="000" md5="b3fca51a47bd3d5e10e1efc9d6cb5a1f" sha1="000"/>
+		<url>https://retroachievements.org/game/2925/hashes</url>
+		<hash>b3fca51a47bd3d5e10e1efc9d6cb5a1f</hash>
+	</game>
+	
 	<game name="Gangan Gan-chan (Japan)">
 		<category>Retail</category>
 		<description>Gangan Gan-chan (Japan)</description>
@@ -8417,6 +8496,21 @@
 		<rom name="Gourmet Sentai Barayarou (Japan).sfc" size="2097152" crc="9f717d76" md5="b29ea2c67d6ecabf99c22829058f710b" sha1="8c0b12f4258ec74adb6a165c1e83b6cc20b97a60"/>
 		<url>https://retroachievements.org/game/2953/hashes</url>
 		<hash>b29ea2c67d6ecabf99c22829058f710b</hash>
+	</game>
+	<game name="Gourmet Warriors (USA) (Piko Interactive)" cloneof="Gourmet Sentai Barayarou (Japan)">
+		<category>Retail</category>
+		<description>Gourmet Warriors (USA) (Piko Interactive)</description>
+		<release name="Gourmet Warriors (USA) (Piko Interactive)" region="USA"/>
+		<rom name="Gourmet Warriors (USA) (Piko Interactive).sfc" size="000" crc="000" md5="28a00d931075150c46a1129e5cdea922" sha1="000"/>
+		<url>https://retroachievements.org/game/2953/hashes</url>
+		<hash>28a00d931075150c46a1129e5cdea922</hash>
+	</game>
+	<game name="Gourmet Sentai Barayarou (Japan) (En) (v1.0) (chillyfeez)" cloneof="Gourmet Sentai Barayarou (Japan)">
+		<category>Retail</category>
+		<description>Gourmet Sentai Barayarou (Japan) (En) (v1.0) (chillyfeez)</description>
+		<rom name="Gourmet Sentai Barayarou (Japan) (En) (v1.0) (chillyfeez).sfc" size="000" crc="000" md5="0b84cfa9f165f8ebd8bdf632df6b08d6" sha1="000"/>
+		<url>https://retroachievements.org/game/2953/hashes</url>
+		<hash>0b84cfa9f165f8ebd8bdf632df6b08d6</hash>
 	</game>
 	
 	<game name="GP-1 - Part II (USA)">
@@ -11371,14 +11465,6 @@
 		<hash>478a2723ff6db38428d9b26cf0d504bf</hash>
 	</game>
 	
-	<game name="Kiki Kaikai - Nazo no Kuro Manteau (Japan)" cloneof="Pocky &amp; Rocky (Europe)">
-		<category>Retail</category>
-		<description>Kiki Kaikai - Nazo no Kuro Manteau (Japan)</description>
-		<release name="Kiki Kaikai - Nazo no Kuro Manteau (Japan)" region="Japan"/>
-		<rom name="Kiki Kaikai - Nazo no Kuro Manteau (Japan).sfc" size="1048576" crc="1c57f2c6" md5="37453d3e43601bc7c4b3c6fae4cb1397" sha1="9afc61ff13312112880d6d5854baa6b529e0f250"/>
-		<url>https://retroachievements.org/game/1103/hashes</url>
-		<hash>37453d3e43601bc7c4b3c6fae4cb1397</hash>
-	</game>
 	<game name="Pocky &amp; Rocky (Europe)">
 		<category>Retail</category>
 		<description>Pocky &amp; Rocky (Europe)</description>
@@ -13266,6 +13352,15 @@
 		<hash>669efc8aa7365b5854d3653ab5598dc9</hash>
 	</game>
 	
+	<game name="Super Mario All-Stars + Super Mario World (USA) (Subset - Super Mariothon)">
+		<category>Subset</category>
+		<description>Super Mario All-Stars + Super Mario World (USA) (Subset - Super Mariothon)</description>
+		<release name="Super Mario All-Stars + Super Mario World (USA) (Subset - Super Mariothon)" region="USA"/>
+		<rom name="Super Mario All-Stars + Super Mario World (USA) (Subset - Super Mariothon)" size="000" crc="000" md5="7ecaf3e2e021c8a836041c85886f4594" sha1="000"/>
+		<url>https://retroachievements.org/game/34497/hashes</url>
+		<hash>7ecaf3e2e021c8a836041c85886f4594</hash>
+	</game>
+	
 	<game name="Super Mario Kart (USA)" cloneof="Super Mario Kart (Europe)">
 		<category>Retail</category>
 		<description>Super Mario Kart (USA)</description>
@@ -13880,6 +13975,14 @@
 		<rom name="Tales of Phantasia (Japan) (Pt) (v1.0) (Emuroms).sfc" size="6291456" crc="f91e9f0e" md5="eb3a7ef7a7e224ee35b390adc0da45cb" sha1="93b6caf93ec9e5266ba446a56c0aed58589d628c"/>
 		<url>https://retroachievements.org/game/2209/hashes</url>
 		<hash>eb3a7ef7a7e224ee35b390adc0da45cb</hash>
+	</game>
+	<game name="Tales of Phantasia (Japan) (Es) (v100.3) (Traducciones Magno)" cloneof="Tales of Phantasia (Japan)">
+		<category>Retail</category>
+		<description>Tales of Phantasia (Japan) (Es) (v100.3) (Traducciones Magno)</description>
+		<release name="Tales of Phantasia (Japan) (Es) (v100.3) (Traducciones Magno)" region="Spain"/>
+		<rom name="Tales of Phantasia (Japan) (Es) (v100.3) (Traducciones Magno).sfc" size="000" crc="000" md5="6c4ed1ee8586d3c0f9d8dfae133100d1" sha1="000"/>
+		<url>https://retroachievements.org/game/2209/hashes</url>
+		<hash>6c4ed1ee8586d3c0f9d8dfae133100d1</hash>
 	</game>
 	
 	<game name="Tamori no Picross (Japan) (8-13) (b)">
