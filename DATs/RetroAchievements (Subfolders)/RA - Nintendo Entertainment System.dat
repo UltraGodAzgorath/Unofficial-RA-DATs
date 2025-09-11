@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20250810</version>
-		<date>10 August 2025</date>
+		<version>20250911</version>
+		<date>11 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/7/games</url>
@@ -173,13 +173,6 @@
 		<rom name="Celeste Mario's Zap &amp; Dash! (v1.0) (w7N) (Patch) (Hack).nes" size="40976" crc="7e6f59ed" md5="d51340329d59fb20eb2039227b590e2e" sha1="f0c80dcef2f9e4a46a7bbaade4f18203d3f2114e"/>
 		<url>https://retroachievements.org/game/25038/hashes</url>
 		<hash>6e1ccbed013e5cc203a190d1f12ad1d8</hash>
-	</game>
-	<game name="Hack/Super Mario Bros/Celeste Mario's Zap &amp; Dash! (v1.0) (w7N) (Hack)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Celeste Mario's Zap &amp; Dash! (v1.0) (w7N) (Hack)</description>
-		<rom name="Celeste Mario's Zap &amp; Dash! (v1.0) (w7N) (Hack).nes" size="393232" crc="abc3bc39" md5="7960ded91bfb74573366f26603d0261b" sha1="841c96888bf36a431a5dce3913df564f5b5cb16a"/>
-		<url>https://retroachievements.org/game/25038/hashes</url>
-		<hash>882be9e6d775999f66096f5fb662424f</hash>
 	</game>
 	
 	<game name="Hack/Chocobo Kwehst (v1.0) (Maeson) (Hack)">
@@ -794,6 +787,14 @@
 		<rom name="Rockman 2 - Basic Master (v1.2) (Tatsu) (Hack).nes" size="262160" crc="8a98de20" md5="d4c34c1b3d14444624a0b3d19a3b9b77" sha1="b516ce749fad65b5774443668f21fd6ab386eaa7"/>
 		<url>https://retroachievements.org/game/5759/hashes</url>
 		<hash>f0c3085c0fa8100b5e3a04a08ce86d69</hash>
+	</game>
+	
+	<game name="Hack/Rockman 2 - Basic Master (v1.2) (Tatsu) (Hack)">
+		<category></category>
+		<description>Rockman 2 - Basic Master (v1.2) (Tatsu) (Hack)</description>
+		<rom name="Rockman 2 - Basic Master (v1.2) (Tatsu) (Hack).nes" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/1690/hashes</url>
+		<hash>a4b6728bd51fe9b8913525267c209f32</hash>
 	</game>
 	
 	<game name="Hack/Rockman 2 - Gray Zone (v1.2) (Wined) (Hack)">
@@ -2564,6 +2565,15 @@
 		<hash>ae1b9f4f5794a639c5345caac835f934</hash>
 	</game>
 	
+	<game name="Yun (World) (v5) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Yun (World) (v5) (Aftermarket)</description>
+		<release name="Yun (World) (v5) (Aftermarket)" region="World"/>
+		<rom name="Yun (World) (v5) (Aftermarket).nes" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/5256/hashes</url>
+		<hash>e0de883f48bc1878ecbc8d0648f6c2cb</hash>
+	</game>
+	
 	<game name="Homebrew/Zooming Secretary (World) (v1.02) (Aftermarket)">
 		<category>Nintendo &amp; Famicom</category>
 		<description>Zooming Secretary (World) (v1.02) (Aftermarket)</description>
@@ -3537,6 +3547,30 @@
 		<hash>afd08feb5b1cd3594c4f2b7b2e669b61</hash>
 	</game>
 	
+	<game name="Chaoji Zhan Hun - Super Contra 7 (China) (Pirate) (Unl)" cloneof="Super Contra 8 (China) (En) (Pirate) (Unl)">
+		<category>Unlicensed</category>
+		<description>Chaoji Zhan Hun - Super Contra 7 (China) (Pirate) (Unl)</description>
+		<release name="Chaoji Zhan Hun - Super Contra 7 (China) (Pirate) (Unl)" region="China"/>
+		<rom name="Chaoji Zhan Hun - Super Contra 7 (China) (Pirate) (Unl).nes" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/33720/hashes</url>
+		<hash>294338f8898fb6633df0995ec3bcca1b</hash>
+	</game>
+	<game name="Chaoji Zhan Hun - Super Contra 7 (China) (960418) (Pirate) (Unl)" cloneof="Super Contra 8 (China) (En) (Pirate) (Unl)">
+		<category>Unlicensed</category>
+		<description>Chaoji Zhan Hun - Super Contra 7 (China) (960418) (Pirate) (Unl)</description>
+		<rom name="Chaoji Zhan Hun - Super Contra 7 (China) (960418) (Pirate) (Unl).nes" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/33720/hashes</url>
+		<hash>d8f0921bd60bbc7c18a4e1f707e5486e</hash>
+	</game>
+	<game name="Super Contra 8 (China) (En) (Pirate) (Unl)">
+		<category>Unlicensed</category>
+		<description>Super Contra 8 (China) (En) (Pirate) (Unl)</description>
+		<release name="Super Contra 8 (China) (En) (Pirate) (Unl)" region="English"/>
+		<rom name="Super Contra 8 (China) (En) (Pirate) (Unl).nes" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/33720/hashes</url>
+		<hash>a9f62d479baf78165e34aaf475174de8</hash>
+	</game>
+	
 	<game name="Unlicensed/Super Donkey Kong 2 (Unl)">
 		<category>Nintendo &amp; Famicom</category>
 		<description>Super Donkey Kong 2  (Unl)</description>
@@ -3620,6 +3654,14 @@
 		<rom name="Titenic (Asia) (En) (Unl).nes" size="393232" crc="18cef626" md5="8890de22311773a47fe347fed5d057af" sha1="271d266cec2921146d0e71a131d775a584478d7f"/>
 		<url>https://retroachievements.org/game/8654/hashes</url>
 		<hash>c5b336ddb50969d8171306a6a773bdf9</hash>
+	</game>
+	
+	<game name="Unlicensed/Toobin' (USA) (Unl)">
+		<category>Nintendo &amp; Famicom</category>
+		<description>Toobin' (USA) (Unl)</description>
+		<rom name="Toobin' (USA) (Unl).nes" size="196624" crc="1461f263" md5="1d0084cadaef9c015dfc36bb137b6109" sha1="c41e7c4d3198432ffee22192963231eee89b5c6f"/>
+		<url>https://retroachievements.org/game/2037/hashes</url>
+		<hash>6d87b3cb41d36eba79e6e5cc3a6666f1</hash>
 	</game>
 	
 	<game name="Unlicensed/Toy Story (Asia) (En) (Unl)">
@@ -5587,6 +5629,14 @@
 		<rom name="Cyber Stadium Series - Base Wars (USA).nes" size="262160" crc="8b0bba89" md5="4af259949661e4f37eb15d3ed3d2f313" sha1="20cd6e0e64f1c91e453aec26bfd9461e1fc6587b"/>
 		<url>https://retroachievements.org/game/1457/hashes</url>
 		<hash>c6f4d04f074019db52cb7ffe03f16dca</hash>
+	</game>
+	
+	<game name="Retail/Daiku no Gen-san 2 - Akage no Dan no Gyakushuu (Japan)">
+		<category>Nintendo &amp; Famicom</category>
+		<description>Daiku no Gen-san 2 - Akage no Dan no Gyakushuu (Japan)</description>
+		<rom name="Daiku no Gen-san 2 - Akage no Dan no Gyakushuu (Japan).nes" size="524304" crc="d4e7afed" md5="26beb7d75ba187c7672fe5a32780ee47" sha1="3503be4f2202633bc94bf1cc6269da6f5bdc50b0"/>
+		<url>https://retroachievements.org/game/5815/hashes</url>
+		<hash>89665cf9a11b2e2bf6add52c8c2b512b</hash>
 	</game>
 	
 	<game name="Retail/Darkman (USA)">
@@ -7686,14 +7736,6 @@
 		<rom name="Daiku no Gen-san (Japan).nes" size="262160" crc="c398fc85" md5="ec27d46b220b2598b408a0a120674ff8" sha1="3309ef78e063a25139868aeaa3d3039de96ba781"/>
 		<url>https://retroachievements.org/game/6394/hashes</url>
 		<hash>45dcac14fff3388ed7813195193b50cd</hash>
-	</game>
-	
-	<game name="Retail/Daiku no Gen-san 2 - Akage no Dan no Gyakushuu (Japan)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Daiku no Gen-san 2 - Akage no Dan no Gyakushuu (Japan)</description>
-		<rom name="Daiku no Gen-san 2 - Akage no Dan no Gyakushuu (Japan).nes" size="524304" crc="d4e7afed" md5="26beb7d75ba187c7672fe5a32780ee47" sha1="3503be4f2202633bc94bf1cc6269da6f5bdc50b0"/>
-		<url>https://retroachievements.org/game/5815/hashes</url>
-		<hash>89665cf9a11b2e2bf6add52c8c2b512b</hash>
 	</game>
 	
 	<game name="Retail/Harlem Globetrotters (USA)">
@@ -12943,6 +12985,14 @@
 		<hash>5b0e571558c8c796937b96af469561c6</hash>
 	</game>
 	
+	<game name="Retail/Tetris (Nintendo) (Subset - Master)">
+		<category></category>
+		<description>Tetris (Nintendo) (Subset - Master)</description>
+		<rom name="Tetris (Nintendo) (Subset - Master).nes" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/34489/hashes</url>
+		<hash>4ef1a460a9356e63477e5538760e0a62</hash>
+	</game>
+	
 	<game name="Retail/Tetris (USA) (Tengen)">
 		<category>Nintendo &amp; Famicom</category>
 		<description>Tetris (USA) (Tengen)</description>
@@ -13570,6 +13620,14 @@
 		<hash>c510177d6bde87f2aa00dfcc3de9f825</hash>
 	</game>
 	
+	<game name="Retail/Simpsons, The - Bartman Meets Radioactive Man (USA)">
+		<category></category>
+		<description>Simpsons, The - Bartman Meets Radioactive Man (USA)</description>
+		<rom name="Simpsons, The - Bartman Meets Radioactive Man (USA).nes" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/1950/hashes</url>
+		<hash>394c0aa89801b02a1d0591412ed6d971</hash>
+	</game>
+	
 	<game name="Retail/Smurfs, The (Europe) (En,Fr,De,Es)">
 		<category>Nintendo &amp; Famicom</category>
 		<description>Smurfs, The (Europe) (En,Fr,De,Es)</description>
@@ -13771,14 +13829,6 @@
 		<rom name="Tombs &amp; Treasure (USA).nes" size="262160" crc="dffdd09e" md5="c97f8c62666bc44a9dea4b1f170bc815" sha1="bb4fe88f0e743a0c2d6c1a11a20bc8ca0138079e"/>
 		<url>https://retroachievements.org/game/2036/hashes</url>
 		<hash>5c7222553020ae8940e4ab9de5cb9342</hash>
-	</game>
-	
-	<game name="Retail/Toobin' (USA)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Toobin' (USA)</description>
-		<rom name="Toobin' (USA).nes" size="196624" crc="1461f263" md5="1d0084cadaef9c015dfc36bb137b6109" sha1="c41e7c4d3198432ffee22192963231eee89b5c6f"/>
-		<url>https://retroachievements.org/game/2037/hashes</url>
-		<hash>6d87b3cb41d36eba79e6e5cc3a6666f1</hash>
 	</game>
 	
 	<game name="Retail/Top Gun (USA)">

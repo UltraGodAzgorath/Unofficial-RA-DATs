@@ -5,8 +5,8 @@
 		<name>RA - Sega Game Gear</name>
 		<description>Sega Game Gear</description>
 		<category>No Subfolders</category>
-		<version>20250803</version>
-		<date>03 August 2025</date>
+		<version>20250911</version>
+		<date>11 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/15/games</url>
@@ -366,6 +366,15 @@
 		<rom name="GG Portrait - Yuuki Akira (Japan).gg" size="524288" crc="51159f8f" md5="82d3c23cf9617174aa47bed8e76438df" sha1="4cbb453663665a06e986a6ab015a041463b48373"/>
 		<url>https://retroachievements.org/game/17036/hashes</url>
 		<hash>82d3c23cf9617174aa47bed8e76438df</hash>
+	</game>
+	
+	<game name="Gunstar Heroes (Japan)">
+		<category>Retail</category>
+		<description>Gunstar Heroes (Japan)</description>
+		<release name="Gunstar Heroes (Japan)" region="Japan"/>
+		<rom name="Gunstar Heroes (Japan).gg" size="000" crc="000" md5="c46d46f3ab4873cb1ed7ae8b9b70f2b4" sha1="000"/>
+		<url>https://retroachievements.org/game/12624/hashes</url>
+		<hash>c46d46f3ab4873cb1ed7ae8b9b70f2b4</hash>
 	</game>
 
 	<game name="Halley Wars (USA, Europe, Brazil) (En)">

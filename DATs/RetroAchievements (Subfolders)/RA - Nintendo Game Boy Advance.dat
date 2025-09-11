@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>Subfolders</category>
-		<version>20250810</version>
-		<date>10 August 2025</date>
+		<version>20250911</version>
+		<date>11 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -956,12 +956,28 @@
 		<hash>5174f0efdb27136a8d2df79e8b932219</hash>
 	</game>
 	
+	<game name="Homebrew/Celeste (World) (v1.1 Beta) (Aftermarket)">
+		<category></category>
+		<description>Celeste (World) (v1.1 Beta) (Aftermarket)</description>
+		<rom name="Celeste (World) (v1.1 Beta) (Aftermarket).gba" size="000" crc="000" md5="b80cc711be05a40a2707fbf8027f120e" sha1="000"/>
+		<url>https://retroachievements.org/game/24913/hashes</url>
+		<hash>b80cc711be05a40a2707fbf8027f120e</hash>
+	</game>
+	
 	<game name="Homebrew/Celeste Classic (World) (v1.2) (Aftermarket)">
 		<category></category>
 		<description>Celeste Classic (World) (v1.2) (Aftermarket)</description>
 		<rom name="Celeste Classic (World) (v1.2) (Aftermarket).gba" size="5418424" crc="ff0e8ada" md5="9bcd687293600451abdd0f181b2427e8" sha1="08512605e5c02e81a72e24c2c8d4959d8e84e1f4"/>
 		<url>https://retroachievements.org/game/16209/hashes</url>
 		<hash>9bcd687293600451abdd0f181b2427e8</hash>
+	</game>
+	
+	<game name="Homebrew/Celeste Classic 2 (World) (v1.0) (Skaleee) (Aftermarket)">
+		<category></category>
+		<description>Celeste Classic 2 (World) (v1.0) (Skaleee) (Aftermarket)</description>
+		<rom name="Celeste Classic 2 (World) (v1.0) (Skaleee) (Aftermarket).gba" size="000" crc="000" md5="c54284810931820a1b3e9e86b7aac6f1" sha1="000"/>
+		<url>https://retroachievements.org/game/34096/hashes</url>
+		<hash>c54284810931820a1b3e9e86b7aac6f1</hash>
 	</game>
 	
 	<game name="Homebrew/Coin Fall (World) (Aftermarket)">
@@ -1189,6 +1205,14 @@
 		<rom name="Popeye Meets Ali Baba's Forty Thieves (World) (Aftermarket).gba" size="25067520" crc="3d2b7e9a" md5="564728f953486c7f8af022f7765bcc93" sha1="7ed0b27ce1537610d62e3265ee1d8e7aa09ac649"/>
 		<url>https://retroachievements.org/game/19895/hashes</url>
 		<hash>564728f953486c7f8af022f7765bcc93</hash>
+	</game>
+	
+	<game name="Homebrew/Portal Advance (World) (v20161112) (Ashley Samuelson) (Aftermarket)">
+		<category></category>
+		<description>Portal Advance (World) (v20161112) (Ashley Samuelson) (Aftermarket)</description>
+		<rom name="Portal Advance (World) (v20161112) (Ashley Samuelson) (Aftermarket).gba" size="000" crc="000" md5="65080cc9ae25fc558c6fb0a1eb0a3b2b" sha1="000"/>
+		<url>https://retroachievements.org/game/33742/hashes</url>
+		<hash>65080cc9ae25fc558c6fb0a1eb0a3b2b</hash>
 	</game>
 	
 	<game name="Homebrew/Radicorn (World) (Aftermarket)">
@@ -1680,6 +1704,14 @@
 		<rom name="Barbie - The Princess and the Pauper (USA).gba" size="4194304" crc="f508a7b7" md5="64082d14d8a4abe32fb8b062d9c0b9ed" sha1="432ed848343ad3c66bcb3acf245cacbb829f5f9c"/>
 		<url>https://retroachievements.org/game/8075/hashes</url>
 		<hash>64082d14d8a4abe32fb8b062d9c0b9ed</hash>
+	</game>
+	
+	<game name="Retail/Batman Begins (USA, Europe) (En,Fr,De,Es,It,Nl)">
+		<category></category>
+		<description>Batman Begins (USA, Europe) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Batman Begins (USA, Europe) (En,Fr,De,Es,It,Nl).gba" size="000" crc="000" md5="8c48059bf2c40a78b9739edf5ea411cb" sha1="000"/>
+		<url>https://retroachievements.org/game/5287/hashes</url>
+		<hash>8c48059bf2c40a78b9739edf5ea411cb</hash>
 	</game>
 	
 	<game name="Retail/Battle B-Daman (USA)">
@@ -3830,6 +3862,14 @@
 		<hash>c283484d8f35b059bbff9e4d852c5420</hash>
 	</game>
 	
+	<game name="Retail/Advance GTA (Japan) (En) (Rev 1)">
+		<category></category>
+		<description>Advance GTA (Japan) (En) (Rev 1)</description>
+		<rom name="Advance GTA (Japan) (En) (Rev 1).gba" size="000" crc="000" md5="266da549741dbc9b9c902c113b13b4b6" sha1="000"/>
+		<url>https://retroachievements.org/game/8209/hashes</url>
+		<hash>266da549741dbc9b9c902c113b13b4b6</hash>
+	</game>
+	
 	<game name="Retail/Guilty Gear X - Advance Edition (USA)">
 		<category></category>
 		<description>Guilty Gear X - Advance Edition (USA)</description>
@@ -3898,6 +3938,14 @@
 		<rom name="Gyakuten Saiban 3 (Japan) (En) (h3rmit) (v015.8).gba" size="12805236" crc="ac456caa" md5="4ef304a3503a90579246ef7dae85e78a" sha1="a733e689f5b91642470034e42bfc3612d089a25d"/>
 		<url>https://retroachievements.org/game/7857/hashes</url>
 		<hash>4ef304a3503a90579246ef7dae85e78a</hash>
+	</game>
+	
+	<game name="Retail/Hachiemon (Japan)">
+		<category></category>
+		<description>Hachiemon (Japan)</description>
+		<rom name="Hachiemon (Japan).gba" size="000" crc="000" md5="6c8460b00a7dcade834b0579116771db" sha1="000"/>
+		<url>https://retroachievements.org/game/9704/hashes</url>
+		<hash>6c8460b00a7dcade834b0579116771db</hash>
 	</game>
 	
 	<game name="Retail/Hajime no Ippo - The Fighting! (Japan) (En) (v1.0) (Markliujy)">
@@ -4075,6 +4123,14 @@
 		<rom name="Hot Wheels - Velocity X (Europe).gba" size="8388608" crc="a7ddbca3" md5="b19314e2b31266364a7a12d9d4b00b85" sha1="dda8ebba4d68f93dbb213de5a898864ead18ebe8"/>
 		<url>https://retroachievements.org/game/7374/hashes</url>
 		<hash>b19314e2b31266364a7a12d9d4b00b85</hash>
+	</game>
+	
+	<game name="Retail/I Spy Challenger! (USA)">
+		<category></category>
+		<description>I Spy Challenger! (USA)</description>
+		<rom name="I Spy Challenger! (USA).gba" size="000" crc="000" md5="a3201407f7988a563f4dfb243db02bcb" sha1="000"/>
+		<url>https://retroachievements.org/game/6947/hashes</url>
+		<hash>a3201407f7988a563f4dfb243db02bcb</hash>
 	</game>
 	
 	<game name="Retail/IK+ (USA)">

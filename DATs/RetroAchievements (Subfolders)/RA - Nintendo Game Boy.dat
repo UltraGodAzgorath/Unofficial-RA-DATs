@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>Subfolders</category>
-		<version>20250810</version>
-		<date>10 August 2025</date>
+		<version>20250911</version>
+		<date>11 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/4/games</url>
@@ -4724,6 +4724,13 @@
 		<rom name="Final Fantasy Legend, The (USA).gb" size="131072" crc="8046148f" md5="d5c27ff8cb1b69cb56df4ff170e2baf0" sha1="901dfc83c72e172d35a376835807fc788444a9bb"/>
 		<url>https://retroachievements.org/game/2478/hashes</url>
 		<hash>d5c27ff8cb1b69cb56df4ff170e2baf0</hash>
+	</game>
+	<game name="Retail/The Final Fantasy Legend DX (v1.0.1) (theadamrippon)">
+		<category></category>
+		<description>The Final Fantasy Legend DX (v1.0.1) (theadamrippon)</description>
+		<rom name="The Final Fantasy Legend DX (v1.0.1) (theadamrippon).gb" size="000" crc="000" md5="8645f33476770262a51fd914e519a1ad" sha1="000"/>
+		<url>https://retroachievements.org/game/2478/hashes</url>
+		<hash>8645f33476770262a51fd914e519a1ad</hash>
 	</game>
 	
 	<game name="Retail/Flintstones, The (USA, Europe)">

@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>No Subfolders</category>
-		<version>20250810</version>
-		<date>10 August 2025</date>
+		<version>20250911</version>
+		<date>11 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/4/games</url>
@@ -4492,38 +4492,6 @@
 		<hash>e30ffbab1f239f09b226477d84db1368</hash>
 	</game>
 	
-	<game name="Pokemon Blue Version (Subset - Professor Oak Challenge)">
-		<category>Subset</category>
-		<description>Pokemon Blue Version (Subset - Professor Oak Challenge)</description>
-		<release name="Pokemon Blue Version (Subset - Professor Oak Challenge)" region="World"/>
-		<rom name="Pokemon Blue Version (Subset - Professor Oak Challenge).gb" size="1048576" crc="c5cf6e82" md5="4af8f86a951858ead007e4c6f0202f56" sha1="6fbdd2d94226333f0e53e43d5be92bea40f8326b"/>
-		<url>https://retroachievements.org/game/29295/hashes</url>
-		<hash>4af8f86a951858ead007e4c6f0202f56</hash>
-	</game>
-	
-	<game name="Pokemon Red Version (Subset - Professor Oak Challenge)">
-		<category>Subset</category>
-		<description>Pokemon Red Version (Subset - Professor Oak Challenge)</description>
-		<release name="Pokemon Red Version (Subset - Professor Oak Challenge)" region="World"/>
-		<rom name="Pokemon Red Version (Subset - Professor Oak Challenge).gb" size="1048576" crc="346814a7" md5="72ff69e125ac889dafe8043a7111f92e" sha1="51c940df109474fcd01344b954ddc23da26329b9"/>
-		<url>https://retroachievements.org/game/16084/hashes</url>
-		<hash>72ff69e125ac889dafe8043a7111f92e</hash>
-	</game>
-	
-	<game name="Pokemon - Red Version (USA, Europe) (Fast Red)" cloneof="Pokemon - Blue Version (USA, Europe) (Fast Red)">
-		<category>Retail</category>
-		<description>Pokemon - Red Version (USA, Europe) (Fast Red)</description>
-		<rom name="Pokemon - Red Version (USA, Europe) (SGB Enhanced) (Fast Red).gb" size="1048576" crc="7943aea8" md5="3132056c8f17e4088b95e4264ca59575" sha1="e7bfd2c2245597da5016e682fca8f19665c6cfd0"/>
-		<url>https://retroachievements.org/game/724/hashes</url>
-		<hash>3132056c8f17e4088b95e4264ca59575</hash>
-	</game>
-	<game name="Pokemon - Red Version (USA, Europe) (SGB Enhanced)" cloneof="Pokemon - Blue Version (USA, Europe) (Fast Red)">
-		<category>Retail</category>
-		<description>Pokemon - Red Version (USA, Europe) (SGB Enhanced)</description>
-		<rom name="Pokemon - Red Version (USA, Europe) (SGB Enhanced).gb" size="1048576" crc="9f7fdd53" md5="3d45c1ee9abd5738df46d2bdda8b57dc" sha1="ea9bcae617fdf159b045185467ae58b2e4a48b9a"/>
-		<url>https://retroachievements.org/game/724/hashes</url>
-		<hash>3d45c1ee9abd5738df46d2bdda8b57dc</hash>
-	</game>
 	<game name="Pokemon - Blue Version (USA, Europe) (SGB Enhanced)" cloneof="Pokemon - Blue Version (USA, Europe) (Fast Red)">
 		<category>Retail</category>
 		<description>Pokemon - Blue Version (USA, Europe) (SGB Enhanced)</description>
@@ -4537,6 +4505,39 @@
 		<rom name="Pokemon - Blue Version (USA, Europe) (Fast Red).gb" size="1048576" crc="35334b5c" md5="cbfa8ac9c2181eeca72ae2c8e6019f88" sha1="5030c1114554207191f2e6ffb1f2920cf3d7c668"/>
 		<url>https://retroachievements.org/game/724/hashes</url>
 		<hash>cbfa8ac9c2181eeca72ae2c8e6019f88</hash>
+	</game>
+	
+	<game name="Pokemon Blue Version (Subset - Professor Oak Challenge)">
+		<category>Subset</category>
+		<description>Pokemon Blue Version (Subset - Professor Oak Challenge)</description>
+		<release name="Pokemon Blue Version (Subset - Professor Oak Challenge)" region="World"/>
+		<rom name="Pokemon Blue Version (Subset - Professor Oak Challenge).gb" size="1048576" crc="c5cf6e82" md5="4af8f86a951858ead007e4c6f0202f56" sha1="6fbdd2d94226333f0e53e43d5be92bea40f8326b"/>
+		<url>https://retroachievements.org/game/29295/hashes</url>
+		<hash>4af8f86a951858ead007e4c6f0202f56</hash>
+	</game>
+	
+	<game name="Pokemon - Red Version (USA, Europe) (Fast Red)">
+		<category>Retail</category>
+		<description>Pokemon - Red Version (USA, Europe) (Fast Red)</description>
+		<rom name="Pokemon - Red Version (USA, Europe) (SGB Enhanced) (Fast Red).gb" size="1048576" crc="7943aea8" md5="3132056c8f17e4088b95e4264ca59575" sha1="e7bfd2c2245597da5016e682fca8f19665c6cfd0"/>
+		<url>https://retroachievements.org/game/724/hashes</url>
+		<hash>3132056c8f17e4088b95e4264ca59575</hash>
+	</game>
+	<game name="Pokemon - Red Version (USA, Europe) (SGB Enhanced)" cloneof="Pokemon - Red Version (USA, Europe) (Fast Red)">
+		<category>Retail</category>
+		<description>Pokemon - Red Version (USA, Europe) (SGB Enhanced)</description>
+		<rom name="Pokemon - Red Version (USA, Europe) (SGB Enhanced).gb" size="1048576" crc="9f7fdd53" md5="3d45c1ee9abd5738df46d2bdda8b57dc" sha1="ea9bcae617fdf159b045185467ae58b2e4a48b9a"/>
+		<url>https://retroachievements.org/game/724/hashes</url>
+		<hash>3d45c1ee9abd5738df46d2bdda8b57dc</hash>
+	</game>
+	
+	<game name="Pokemon Red Version (Subset - Professor Oak Challenge)">
+		<category>Subset</category>
+		<description>Pokemon Red Version (Subset - Professor Oak Challenge)</description>
+		<release name="Pokemon Red Version (Subset - Professor Oak Challenge)" region="World"/>
+		<rom name="Pokemon Red Version (Subset - Professor Oak Challenge).gb" size="1048576" crc="346814a7" md5="72ff69e125ac889dafe8043a7111f92e" sha1="51c940df109474fcd01344b954ddc23da26329b9"/>
+		<url>https://retroachievements.org/game/16084/hashes</url>
+		<hash>72ff69e125ac889dafe8043a7111f92e</hash>
 	</game>
 	
 	<game name="Pokemon - Red Version (Subset - Bonus)" cloneof="Pokemon - Blue Version (Subset - Bonus) (Fast Red)">
@@ -5404,6 +5405,13 @@
 		<rom name="Final Fantasy Legend, The (USA).gb" size="131072" crc="8046148f" md5="d5c27ff8cb1b69cb56df4ff170e2baf0" sha1="901dfc83c72e172d35a376835807fc788444a9bb"/>
 		<url>https://retroachievements.org/game/2478/hashes</url>
 		<hash>d5c27ff8cb1b69cb56df4ff170e2baf0</hash>
+	</game>
+	<game name="The Final Fantasy Legend DX (v1.0.1) (theadamrippon)" cloneof="Final Fantasy Legend, The (USA)">
+		<category>Retail</category>
+		<description>The Final Fantasy Legend DX (v1.0.1) (theadamrippon)</description>
+		<rom name="The Final Fantasy Legend DX (v1.0.1) (theadamrippon).gb" size="000" crc="000" md5="8645f33476770262a51fd914e519a1ad" sha1="000"/>
+		<url>https://retroachievements.org/game/2478/hashes</url>
+		<hash>8645f33476770262a51fd914e519a1ad</hash>
 	</game>
 	
 	<game name="Flintstones, The (USA, Europe)">

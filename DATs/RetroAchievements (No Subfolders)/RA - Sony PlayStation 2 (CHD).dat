@@ -287,6 +287,22 @@
 		<hash>bd6be54489b136255cba1268dd23a39f</hash>
 	</game>
 	
+	<game name="Mega Man X7 (USA) (Proto) (2003-02-20)" cloneof="Mega Man X7 (USA) (Proto) (2003-05-11)">
+		<category>Prototype</category>
+		<description>Mega Man X7 (USA) (Proto) (2003-02-20)</description>
+		<rom name="Mega Man X7 (USA) (Proto) (2003-02-20).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/34496/hashes</url>
+		<hash>619daa77bceae554d17ed2715ac6ac85</hash>
+	</game>
+	<game name="Mega Man X7 (USA) (Proto) (2003-05-11)">
+		<category>Prototype</category>
+		<description>Mega Man X7 (USA) (Proto) (2003-05-11)</description>
+		<release name="Mega Man X7 (USA) (Proto) (2003-05-11)" region="World"/>
+		<rom name="Mega Man X7 (USA) (Proto) (2003-05-11).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/34496/hashes</url>
+		<hash>c1f3ee0510e270290fa5de345a62426d</hash>
+	</game>
+	
 	<game name="Nicktoons Slap Shot (USA) (Proto) (2004-03-25)">
 		<category>Prototype</category>
 		<description>Nicktoons Slap Shot (USA) (Proto) (2004-03-25)</description>
@@ -393,6 +409,22 @@
 		<hash>069a7d479543d5afa55a7fba628977b1</hash>
 	</game>
 	
+	<game name="25 to Life (USA)" cloneof="25 to Life (USA) (60fps) (v1.0) (Souzooka)">
+		<category>Retail</category>
+		<description>25 to Life (USA)</description>
+		<rom name="25 to Life (USA).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/29824/hashes</url>
+		<hash>b6d5f544963f3e2c2f283502a647013f</hash>
+	</game>
+	<game name="25 to Life (USA) (60fps) (v1.0) (Souzooka)">
+		<category>Retail</category>
+		<description>25 to Life (USA) (60fps) (v1.0) (Souzooka)</description>
+		<release name="25 to Life (USA) (60fps) (v1.0) (Souzooka)" region="USA"/>
+		<rom name="25 to Life (USA) (60fps) (v1.0) (Souzooka).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/29824/hashes</url>
+		<hash>aa7e4b0fa9c273c4ae26470217591b88</hash>
+	</game>
+	
 	<game name="50 Cent - Bulletproof (USA)">
 		<category>Retail</category>
 		<description>50 Cent - Bulletproof (USA)</description>
@@ -418,6 +450,32 @@
 		<rom name="Ace Combat 04 - Shattered Skies (USA).chd" size="2741956745" crc="b8918f3b" md5="225cbe17df847af579631d5f32b494cf" sha1="3009706b1717a87353099de37e9a648368f9e1c9"/>
 		<url>https://retroachievements.org/game/3127/hashes</url>
 		<hash>95d144fc041ea080750e381f0212c297</hash>
+	</game>
+	
+	<game name="Ace Combat 5 - The Unsung War (USA) (En,Ja)">
+		<category>Retail</category>
+		<description>Ace Combat 5 - The Unsung War (USA) (En,Ja)</description>
+		<release name="Ace Combat 5 - The Unsung War (USA) (En,Ja)" region="USA"/>
+		<rom name="Ace Combat 5 - The Unsung War (USA) (En,Ja).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/3129/hashes</url>
+		<hash>4bd0d47c6010ed0250bcb6a6c9e89d10</hash>
+	</game>
+	<game name="Ace Combat - Squadron Leader (Europe, Australia) (En,Fr,De,Es,It)" cloneof="Ace Combat 5 - The Unsung War (USA) (En,Ja)">
+		<category>Retail</category>
+		<description>Ace Combat - Squadron Leader (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<release name="Ace Combat - Squadron Leader (Europe, Australia) (En,Fr,De,Es,It)" region="Australia"/>
+		<release name="Ace Combat - Squadron Leader (Europe, Australia) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="Ace Combat - Squadron Leader (Europe, Australia) (En,Fr,De,Es,It).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/3129/hashes</url>
+		<hash>09232e8bfe8f628237deb8f377bd33f3</hash>
+	</game>
+	<game name="Ace Combat 5 - The Unsung War (Japan)" cloneof="Ace Combat 5 - The Unsung War (USA) (En,Ja)">
+		<category>Retail</category>
+		<description>Ace Combat 5 - The Unsung War (Japan)</description>
+		<release name="Ace Combat 5 - The Unsung War (Japan)" region="Japan"/>
+		<rom name="Ace Combat 5 - The Unsung War (Japan).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/3129/hashes</url>
+		<hash>0764a8a77c0e61b53bca42b946cbde24</hash>
 	</game>
 	
 	<game name="Ace Combat Zero - The Belkan War (USA)" cloneof="Ace Combat - The Belkan War (Europe, Australia) (En,Fr,De,Es,It)">
@@ -591,6 +649,15 @@
 		<hash>a59ad20569353a736c768d77dc178c0c</hash>
 	</game>
 	
+	<game name="Asterix &amp; Obelix XXL 2 (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Asterix &amp; Obelix XXL 2 (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Asterix &amp; Obelix XXL 2 (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="Asterix &amp; Obelix XXL 2 (Europe) (En,Fr,De,Es,It).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/22599/hashes</url>
+		<hash>ccca02696159a2360bdbdf151febbd95</hash>
+	</game>
+	
 	<game name="Atelier Iris - Eternal Mana (USA)">
 		<category>Retail</category>
 		<description>Atelier Iris - Eternal Mana (USA)</description>
@@ -634,6 +701,23 @@
 		<rom name="Nickelodeon Barnyard (USA).chd" size="663041592" crc="a3d2007d" md5="f846e96f80217cc55527b0e4737634a8" sha1="ab831b540214db698e995c6e0769bdbed10861a6"/>
 		<url>https://retroachievements.org/game/20694/hashes</url>
 		<hash>fc422b53b0abd79012f8b37793d2f1f1</hash>
+	</game>
+	
+	<game name="Batman Begins (Europe) (En,Fr,De,Es,It,Nl,Sv)" cloneof="Batman Begins (USA)">
+		<category>Retail</category>
+		<description>Batman Begins (Europe) (En,Fr,De,Es,It,Nl,Sv)</description>
+		<release name="Batman Begins (Europe) (En,Fr,De,Es,It,Nl,Sv)" region="Europe"/>
+		<rom name="Batman Begins (Europe) (En,Fr,De,Es,It,Nl,Sv).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/20924/hashes</url>
+		<hash>41bab55d9f1fb841b79c6bfbe42c8845</hash>
+	</game>
+	<game name="Batman Begins (USA)">
+		<category>Retail</category>
+		<description>Batman Begins (USA)</description>
+		<release name="Batman Begins (USA)" region="USA"/>
+		<rom name="Batman Begins (USA).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/20924/hashes</url>
+		<hash>a9086da2cce97df2a5d6722f102efef6</hash>
 	</game>
 	
 	<game name="Batman - Vengeance (Europe) (En,Fr,De,Es,It,Nl)">
@@ -875,6 +959,15 @@
 		<hash>c63cc1fe21fbf30becdd60dbf17b3a5a</hash>
 	</game>
 	
+	<game name="Buffy the Vampire Slayer - Chaos Bleeds (USA)">
+		<category>Retail</category>
+		<description>Buffy the Vampire Slayer - Chaos Bleeds (USA)</description>
+		<release name="Buffy the Vampire Slayer - Chaos Bleeds (USA)" region="USA"/>
+		<rom name="Buffy the Vampire Slayer - Chaos Bleeds (USA).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/20839/hashes</url>
+		<hash>7c59ec5f291a2ded69036e8cb52a9bcc</hash>
+	</game>
+	
 	<game name="Bully (USA)">
 		<category>Retail</category>
 		<description>Bully (USA)</description>
@@ -980,6 +1073,39 @@
 		<rom name="Call of Duty - Finest Hour (USA) (v1.04).chd" size="1524899459" crc="c32b75ed" md5="ffccf72a9813b3fcd3f789a8c72f91ba" sha1="dead7ba9d3b8c018276a621bb6271cfcc862980d"/>
 		<url>https://retroachievements.org/game/20926/hashes</url>
 		<hash>65cf50525aad8917a91e20139b4b2af8</hash>
+	</game>
+	
+	<game name="Call of Duty - World at War - Final Fronts (USA) (En,Fr)">
+		<category>Retail</category>
+		<description>Call of Duty - World at War - Final Fronts (USA) (En,Fr)</description>
+		<release name="Call of Duty - World at War - Final Fronts (USA) (En,Fr)" region="USA"/>
+		<rom name="Call of Duty - World at War - Final Fronts (USA) (En,Fr).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/20927/hashes</url>
+		<hash>f6bc6f6f04d811d69e43dd7a9d2aae79</hash>
+	</game>
+	<game name="Call of Duty - World at War - Final Fronts (Europe) (En,Fr,Es,It)" cloneof="Call of Duty - World at War - Final Fronts (USA) (En,Fr)">
+		<category>Retail</category>
+		<description>Call of Duty - World at War - Final Fronts (Europe) (En,Fr,Es,It)</description>
+		<release name="Call of Duty - World at War - Final Fronts (Europe) (En,Fr,Es,It)" region="Europe"/>
+		<rom name="Call of Duty - World at War - Final Fronts (Europe) (En,Fr,Es,It).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/20927/hashes</url>
+		<hash>201c110c49900394f2d78a4a2a8b5a3b</hash>
+	</game>
+	<game name="Call of Duty - World at War - Final Fronts (Germany)" cloneof="Call of Duty - World at War - Final Fronts (USA) (En,Fr)">
+		<category>Retail</category>
+		<description>Call of Duty - World at War - Final Fronts (Germany)</description>
+		<release name="Call of Duty - World at War - Final Fronts (Germany)" region="Germany"/>
+		<rom name="Call of Duty - World at War - Final Fronts (Germany).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/20927/hashes</url>
+		<hash>dc3f55f087ba8bd0dbfae4a461fc8d83</hash>
+	</game>
+	<game name="Call of Duty - World at War - Final Fronts (Korea) (En,Fr)" cloneof="Call of Duty - World at War - Final Fronts (USA) (En,Fr)">
+		<category>Retail</category>
+		<description>Call of Duty - World at War - Final Fronts (Korea) (En,Fr)</description>
+		<release name="Call of Duty - World at War - Final Fronts (Korea) (En,Fr)" region="Korea"/>
+		<rom name="Call of Duty - World at War - Final Fronts (Korea) (En,Fr).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/20927/hashes</url>
+		<hash>ee0c5034486d8441e47f895fbc27ee29</hash>
 	</game>
 	
 	<game name="Capcom Fighting Evolution (USA)">
@@ -3099,14 +3225,6 @@
 		<rom name="Grand Theft Auto - Vice City (USA) (v3.00).chd" size="1664028383" crc="72060a6e" md5="ea18e581a4f5e36319d57395ffb43a72" sha1="2dd167cfc39f7f121461c7579d8366420693129e"/>
 		<url>https://retroachievements.org/game/2739/hashes</url>
 		<hash>d1957288756ba9b96d3bc501f66981a4</hash>
-	</game>
-	<game name="Grand Theft Auto - Vice City (USA) (v3.00) (60FPS) (v1.0) (Souzooka)" cloneof="Grand Theft Auto - Vice City (USA) (v3.00)">
-		<category>Retail</category>
-		<description>Grand Theft Auto - Vice City (USA) (v3.00) (60FPS) (v1.0) (Souzooka)</description>
-		<release name="Grand Theft Auto - Vice City (USA) (v3.00) (60FPS) (v1.0) (Souzooka)" region="USA"/>
-		<rom name="Grand Theft Auto - Vice City (USA) (v3.00) (60FPS) (v1.0) (Souzooka).chd" size="1664028384" crc="345f6e76" md5="d29d02d6e2fc131ccfed2751e8ba6ea8" sha1="cb037aae3a457e622aab0379b322ee21d78da2cc"/>
-		<url>https://retroachievements.org/game/2739/hashes</url>
-		<hash>7eeca0b49efcfe51c7d74fb015cc8af1</hash>
 	</game>
 	
 	<game name="Grand Theft Auto - Vice City Stories (USA)">

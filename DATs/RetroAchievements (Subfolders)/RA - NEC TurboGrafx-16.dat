@@ -5,8 +5,8 @@
 		<name>RA - NEC TurboGrafx-16</name>
 		<description>NEC TurboGrafx-16</description>
 		<category>Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250911</version>
+		<date>11 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/8/games</url>
@@ -380,6 +380,21 @@
 		<rom name="Coryoon (Japan).pce" size="524288" crc="b4d29e3b" md5="a02c4e74d78c7e02f1ff1dbf13aca711" sha1="709595f04defcc55181f7502a0065e4c22d5fb19"/>
 		<url>https://retroachievements.org/game/7902/hashes</url>
 		<hash>A02C4E74D78C7E02F1FF1DBF13ACA711</hash>
+	</game>
+	
+	<game name="Retail/Cratermaze (USA)">
+		<category></category>
+		<description>Cratermaze (USA)</description>
+		<rom name="Cratermaze (USA).pce" size="000" crc="000" md5="653c1be1f0f5e032bc3ec6b4e2823b98" sha1="000"/>
+		<url>https://retroachievements.org/game/2286/hashes</url>
+		<hash>653c1be1f0f5e032bc3ec6b4e2823b98</hash>
+	</game>
+	<game name="Retail/Doraemon - Meikyuu Daisakusen (Japan)">
+		<category></category>
+		<description>Doraemon - Meikyuu Daisakusen (Japan)</description>
+		<rom name="Doraemon - Meikyuu Daisakusen (Japan).pce" size="000" crc="000" md5="77cf3e53c5e4fbef73087893cdeec84f" sha1="000"/>
+		<url>https://retroachievements.org/game/2286/hashes</url>
+		<hash>77cf3e53c5e4fbef73087893cdeec84f</hash>
 	</game>
 	
 	<game name="Retail/Cyber-Core (USA)">

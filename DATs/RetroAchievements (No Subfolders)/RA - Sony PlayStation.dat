@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation</name>
 		<description>Sony Playstation</description>
 		<category>No Subfolders</category>
-		<version>20250810</version>
-		<date>10 August 2025</date>
+		<version>20250911</version>
+		<date>11 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -101,6 +101,25 @@
 		<rom name="Resident Evil 0 - Demake (v0.1) (Demo) (Hack).bin" size="568786512" crc="aade6b8a" md5="aefa8f53118ce3ec2e9a10e7fba93a1e" sha1="36e68f5f56eccb18b92ee6a886200dc695c7bf42"/>
 		<url>https://retroachievements.org/game/24704/hashes</url>
 		<hash>19d93a59c7a972bd2962006567a4558e</hash>
+	</game>
+	
+	<game name="Resident Evil - The Prison (v1.2) (Aydan Watkins) (Hack)">
+		<category>Hack</category>
+		<description>Resident Evil - The Prison (v1.2) (Aydan Watkins) (Hack)</description>
+		<release name="Resident Evil - The Prison (v1.2) (Aydan Watkins) (Hack)" region="World"/>
+		<rom name="Resident Evil - The Prison (v1.2) (Aydan Watkins) (Hack).cue" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Resident Evil - The Prison (v1.2) (Aydan Watkins) (Hack).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/18733/hashes</url>
+		<hash>39ccf8963a5f78f2fe6dcbc8a325363c</hash>
+	</game>
+	<game name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins) (Hack)">
+		<category>Hack</category>
+		<description>Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins) (Hack)</description>
+		<release name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins) (Hack)" region="World"/>
+		<rom name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins) (Hack).cue" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins) (Hack).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/18733/hashes</url>
+		<hash>b5049bf00964de2151d2f30e1c8ef403</hash>
 	</game>
 	
 	<game name="Final Fantasy IX - Beatrix vs Beatrix vs Beatrix (v1.0) (Tirlititi) (Hack)">
@@ -495,14 +514,23 @@
 		<hash>095fb925d59be46a03d3230bcdc5d7d7</hash>
 	</game>
 	
-	<game name="Five Nights at Freddy's 2 (World) (v1.0.3) (Soeiz) (Aftermarket)">
+	<game name="Five Nights at Freddy's 2 (World) (v1.0.3b) (Soeiz) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Five Nights at Freddy's 2 (World) (v1.0.3) (Soeiz) (Aftermarket)</description>
-		<release name="Five Nights at Freddy's 2 (World) (v1.0.3) (Soeiz) (Aftermarket)" region="World"/>
-		<rom name="Five Nights at Freddy's 2 (World) (v1.0.3) (Soeiz) (Aftermarket).cue" size="130" crc="57c5161e" md5="f6625e6db9cf39f56566bce02037c6df" sha1="96a41333678141cf9a31c08250e65464bd3dffe1"/>
-		<rom name="Five Nights at Freddy's 2 (World) (v1.0.3) (Soeiz) (Aftermarket).bin" size="126850416" crc="46fa0ea2" md5="2d83239ad3153bf2bc6eb0895f220408" sha1="d58cd3b117fe644f8c085c4b887bac1c793d2cfa"/>
+		<description>Five Nights at Freddy's 2 (World) (v1.0.3b) (Soeiz) (Aftermarket)</description>
+		<release name="Five Nights at Freddy's 2 (World) (v1.0.3b) (Soeiz) (Aftermarket)" region="World"/>
+		<rom name="Five Nights at Freddy's 2 (World) (v1.0.3b) (Soeiz) (Aftermarket).cue" size="131" crc="d3d164c8" md5="5b7fa576e54ec63c5f9f28056de2954a" sha1="6ca9ce339518f6d400fc1b7aa318c1b62f469da3"/>
+		<rom name="Five Nights at Freddy's 2 (World) (v1.0.3b) (Soeiz) (Aftermarket).bin" size="126850416" crc="46fa0ea2" md5="2d83239ad3153bf2bc6eb0895f220408" sha1="d58cd3b117fe644f8c085c4b887bac1c793d2cfa"/>
 		<url>https://retroachievements.org/game/30916/hashes</url>
 		<hash>fe4c0f66e5b016b99538ebbf270a3030</hash>
+	</game>
+	<game name="Five Nights at Freddy's 2 (World) (v1.0.3a) (Soeiz) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Five Nights at Freddy's 2 (World) (v1.0.3a) (Soeiz) (Aftermarket)</description>
+		<release name="Five Nights at Freddy's 2 (World) (v1.0.3a) (Soeiz) (Aftermarket)" region="World"/>
+		<rom name="Five Nights at Freddy's 2 (World) (v1.0.3a) (Soeiz) (Aftermarket).cue" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Five Nights at Freddy's 2 (World) (v1.0.3a) (Soeiz) (Aftermarket).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/30916/hashes</url>
+		<hash>d8839286d8d0b81ccbd075158d2294e6</hash>
 	</game>
 	
 	<game name="Magic Castle (Net Yaroze) (v2021-05-07) (Kaiga) (Aftermarket)">
@@ -735,55 +763,6 @@
 		<hash>95f1fb0af5234175ec1c1c25bdc1815e</hash>
 	</game>
 	
-	<game name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1)">
-		<category>Retail</category>
-		<description>Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1)</description>
-		<release name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1)" region="Asia"/>
-		<release name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1)" region="Japan"/>
-		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1).cue" size="125" crc="433c5ace" md5="0f79804e8048beb7590d85b5399da4d9" sha1="01ede4ca12e86e45624480f7514e37fbf1bec9b6"/>
-		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1).bin" size="723813888" crc="b86e0f52" md5="50760963ae8a26ea0188b165f05b33a1" sha1="a23e046b1eb695e02d214d269fca70dbe0a437f7"/>
-		<url>https://retroachievements.org/game/11308/hashes</url>
-		<hash>34c17c453e473a495aba0ced0cb75c21</hash>
-	</game>
-	<game name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1)">
-		<category>Retail</category>
-		<description>Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1)</description>
-		<release name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1)" region="Asia"/>
-		<release name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1)" region="Japan"/>
-		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1).cue" size="125" crc="a8961273" md5="f44163ecb1ff673e3921fd79c12ce5cf" sha1="8dbc7fb3680f066b496ab813597ce2301cf11cf9"/>
-		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1).bin" size="716287488" crc="ccdda3b5" md5="30f7dce98b6901290cb26c9baf27268f" sha1="8c6d58308eb389a7b18bc213a6d1e23d14fd3c10"/>
-		<url>https://retroachievements.org/game/11308/hashes</url>
-		<hash>63e54a7f2936767384f873ca2cf351b6</hash>
-	</game>
-	<game name="Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 1)" cloneof="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1)">
-		<category>Retail</category>
-		<description>Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 1)</description>
-		<release name="Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 1)" region="Spain"/>
-		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 1).cue" size="142" crc="349d6e8d" md5="0bafa8466152fb249b8aca6638f45b6e" sha1="ab67ebcf28abf8f54dcb395a1fc0eb3e12257b7d"/>
-		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 1).bin" size="715102080" crc="cf3aaaff" md5="106568482cf0f46321fc3a68aaea38f8" sha1="191bb6d1bea92901370a4c250e870444087558b5"/>
-		<url>https://retroachievements.org/game/11308/hashes</url>
-		<hash>fc31f6f6b9020bba349f4784dd6f23ca</hash>
-	</game>
-	<game name="Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 2)" cloneof="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1)">
-		<category>Retail</category>
-		<description>Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 2)</description>
-		<release name="Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 2)" region="Spain"/>
-		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 2).cue" size="142" crc="35c0485c" md5="26dd64918b1f6464c602a34e6efc638b" sha1="5fe6f06562b565cf87bde550d99de4a2cd4e0f2c"/>
-		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 2).bin" size="722628480" crc="9746f2c9" md5="b7bad987f8b49f2c9227fe66c5a37547" sha1="059048967262c2607ef25acab39aa09725d18db6"/>
-		<url>https://retroachievements.org/game/11308/hashes</url>
-		<hash>49f712c75256b40d0e4a6dd2b6575724</hash>
-	</game>
-	
-	<game name="Action Man - Operation Extreme (USA)">
-		<category>Retail</category>
-		<description>Action Man - Operation Extreme (USA)</description>
-		<release name="Action Man - Operation Extreme (USA)" region="USA"/>
-		<rom name="Action Man - Operation Extreme (USA).cue" size="102" crc="cf924cc1" md5="9f9ab1ff2968b54cf901a49971c68f27" sha1="bd6fbb3575f9a2d3072f2a76de2cbb52f8f4e377"/>
-		<rom name="Action Man - Operation Extreme (USA).bin" size="553089264" crc="9d4dbbcb" md5="8b0b65e5ea7c3431ab0bb7391c81118d" sha1="d0e4834cb0ee6aca998223c8068872972da1c869"/>
-		<url>https://retroachievements.org/game/823/hashes</url>
-		<hash>c2c5e81becdb0c93e96456efae8d95e9</hash>
-	</game>
-	
 	<game name="Air Combat (USA)">
 		<category>Retail</category>
 		<description>Air Combat (USA)</description>
@@ -854,6 +833,55 @@
 		<rom name="Air Combat (USA) (Track 63).bin" size="42796992" crc="df07e201" md5="e39f4fc9326ac17019c63547665beb5b" sha1="56cbbf607b9f3c4fe620bb6f6a84349a349a755a"/>
 		<url>https://retroachievements.org/game/11423/hashes</url>
 		<hash>ef49defdf0ca32291e6d205028c0be4f</hash>
+	</game>
+	
+	<game name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1)">
+		<category>Retail</category>
+		<description>Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1)</description>
+		<release name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1)" region="Asia"/>
+		<release name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1)" region="Japan"/>
+		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1).cue" size="125" crc="433c5ace" md5="0f79804e8048beb7590d85b5399da4d9" sha1="01ede4ca12e86e45624480f7514e37fbf1bec9b6"/>
+		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1).bin" size="723813888" crc="b86e0f52" md5="50760963ae8a26ea0188b165f05b33a1" sha1="a23e046b1eb695e02d214d269fca70dbe0a437f7"/>
+		<url>https://retroachievements.org/game/11308/hashes</url>
+		<hash>34c17c453e473a495aba0ced0cb75c21</hash>
+	</game>
+	<game name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1)">
+		<category>Retail</category>
+		<description>Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1)</description>
+		<release name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1)" region="Asia"/>
+		<release name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1)" region="Japan"/>
+		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1).cue" size="125" crc="a8961273" md5="f44163ecb1ff673e3921fd79c12ce5cf" sha1="8dbc7fb3680f066b496ab813597ce2301cf11cf9"/>
+		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1).bin" size="716287488" crc="ccdda3b5" md5="30f7dce98b6901290cb26c9baf27268f" sha1="8c6d58308eb389a7b18bc213a6d1e23d14fd3c10"/>
+		<url>https://retroachievements.org/game/11308/hashes</url>
+		<hash>63e54a7f2936767384f873ca2cf351b6</hash>
+	</game>
+	<game name="Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 1)" cloneof="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1)">
+		<category>Retail</category>
+		<description>Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 1)</description>
+		<release name="Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 1)" region="Spain"/>
+		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 1).cue" size="142" crc="349d6e8d" md5="0bafa8466152fb249b8aca6638f45b6e" sha1="ab67ebcf28abf8f54dcb395a1fc0eb3e12257b7d"/>
+		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 1).bin" size="715102080" crc="cf3aaaff" md5="106568482cf0f46321fc3a68aaea38f8" sha1="191bb6d1bea92901370a4c250e870444087558b5"/>
+		<url>https://retroachievements.org/game/11308/hashes</url>
+		<hash>fc31f6f6b9020bba349f4784dd6f23ca</hash>
+	</game>
+	<game name="Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 2)" cloneof="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1)">
+		<category>Retail</category>
+		<description>Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 2)</description>
+		<release name="Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 2)" region="Spain"/>
+		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 2).cue" size="142" crc="35c0485c" md5="26dd64918b1f6464c602a34e6efc638b" sha1="5fe6f06562b565cf87bde550d99de4a2cd4e0f2c"/>
+		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 2).bin" size="722628480" crc="9746f2c9" md5="b7bad987f8b49f2c9227fe66c5a37547" sha1="059048967262c2607ef25acab39aa09725d18db6"/>
+		<url>https://retroachievements.org/game/11308/hashes</url>
+		<hash>49f712c75256b40d0e4a6dd2b6575724</hash>
+	</game>
+	
+	<game name="Action Man - Operation Extreme (USA)">
+		<category>Retail</category>
+		<description>Action Man - Operation Extreme (USA)</description>
+		<release name="Action Man - Operation Extreme (USA)" region="USA"/>
+		<rom name="Action Man - Operation Extreme (USA).cue" size="102" crc="cf924cc1" md5="9f9ab1ff2968b54cf901a49971c68f27" sha1="bd6fbb3575f9a2d3072f2a76de2cbb52f8f4e377"/>
+		<rom name="Action Man - Operation Extreme (USA).bin" size="553089264" crc="9d4dbbcb" md5="8b0b65e5ea7c3431ab0bb7391c81118d" sha1="d0e4834cb0ee6aca998223c8068872972da1c869"/>
+		<url>https://retroachievements.org/game/823/hashes</url>
+		<hash>c2c5e81becdb0c93e96456efae8d95e9</hash>
 	</game>
 	
 	<game name="Akuji the Heartless (USA)">
@@ -1940,6 +1968,16 @@
 		<hash>7e18f785eba16cd5cebf54e01101fce0</hash>
 	</game>
 	
+	<game name="Building Crush! (Japan)">
+		<category>Retail</category>
+		<description>Building Crush! (Japan)</description>
+		<release name="Building Crush! (Japan)" region="Japan"/>
+		<rom name="Building Crush! (Japan).cue" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Building Crush! (Japan).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/31558/hashes</url>
+		<hash>d97e33ea15c69e6aa9e739cbb24305ba</hash>
+	</game>
+	
 	<game name="Bushido Blade (USA)">
 		<category>Retail</category>
 		<description>Bushido Blade (USA)</description>
@@ -2553,6 +2591,25 @@
 		<rom name="Colin McRae Rally 2.0 (USA) (En,De,It) (Lili, Riedler) (v1.1) (Track 2).bin" size="33868800" crc="3f9896b3" md5="441eeb4204aafc104bf1863b743a13a2" sha1="a55870eae893408b85b4274d19e349a7a447b84b"/>
 		<url>https://retroachievements.org/game/14634/hashes</url>
 		<hash>791e392657853cda03d49599ad1914c9</hash>
+	</game>
+	
+	<game name="Colony Wars - Red Sun (USA)">
+		<category>Retail</category>
+		<description>Colony Wars - Red Sun (USA)</description>
+		<release name="Colony Wars - Red Sun (USA)" region="USA"/>
+		<rom name="Colony Wars - Red Sun (USA).cue" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Colony Wars - Red Sun (USA).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/11672/hashes</url>
+		<hash>a4628d93b8c27fbafd387f55a11c3436</hash>
+	</game>
+	<game name="Colony Wars - Red Sun (Europe)" cloneof="Colony Wars - Red Sun (USA)">
+		<category>Retail</category>
+		<description>Colony Wars - Red Sun (Europe)</description>
+		<release name="Colony Wars - Red Sun (Europe)" region="Europe"/>
+		<rom name="Colony Wars - Red Sun (Europe).cue" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Colony Wars - Red Sun (Europe).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/11672/hashes</url>
+		<hash>c83772498dc62890e5e131bf34490a08</hash>
 	</game>
 	
 	<game name="Colony Wars - Vengeance (Europe)" cloneof="Colony Wars - Vengeance (USA)">
@@ -4693,6 +4750,16 @@
 		<rom name="Frogger 2 - Swampy's Revenge (USA).bin" size="371338464" crc="dfa0ef5f" md5="c8cd4f236c9a6d6acee5a418282dea4b" sha1="f2f0f071c5a4ad096d6eec749c95026d9a693f90"/>
 		<url>https://retroachievements.org/game/13443/hashes</url>
 		<hash>ed34198dfb6596da6d7a94987bea21c8</hash>
+	</game>
+	
+	<game name="Front Mission 3 (USA)">
+		<category>Retail</category>
+		<description>Front Mission 3 (USA)</description>
+		<release name="Front Mission 3 (USA)" region="USA"/>
+		<rom name="Front Mission 3 (USA).cue" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Front Mission 3 (USA).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/11263/hashes</url>
+		<hash>1ed80d5fa5374344ed71472ac1b0eead</hash>
 	</game>
 	
 	<game name="Future Cop - L.A.P.D. (USA)">
@@ -7301,15 +7368,6 @@
 		<hash>d84a42e1ad160c40d5049f398704dec6</hash>
 	</game>
 	
-	<game name="Monster Rancher 2 (Subset - 389 Major 4)">
-		<category>Subset</category>
-		<description>Monster Rancher 2 (Subset - 389 Major 4)</description>
-		<release name="Monster Rancher 2 (Subset - 389 Major 4)" region="USA"/>
-		<rom name="Monster Rancher 2 (Subset - 389 Major 4).cue" size="106" crc="4cc59316" md5="29004ce59172c00d3429b3b759ca9fc3" sha1="9dce341473e9357f655ed22f373035dc282d31e8"/>
-		<rom name="Monster Rancher 2 (Subset - 389 Major 4).bin" size="451280592" crc="3904a08c" md5="496a5ce3ca3949ee256ece4e4ab5213a" sha1="05e3fc9613663c70f183f8611fbc59b1f6329c72"/>
-		<url>https://retroachievements.org/game/32120/hashes</url>
-		<hash>05818755ed7ba092aef2a3bb681d0118</hash>
-	</game>
 	<game name="Monster Rancher 2 (Subset - 389 Legend Cup Champions)">
 		<category>Subset</category>
 		<description>Monster Rancher 2 (Subset - 389 Legend Cup Champions)</description>
@@ -7318,6 +7376,16 @@
 		<rom name="Monster Rancher 2 (Subset - 389 Legend Cup Champions).bin" size="451280592" crc="b8dc68c9" md5="c301cac069a10779dcab0ae5a7f334c1" sha1="94aa32ec2a2ebcaa7b16e59fe517b4b5da04bed1"/>
 		<url>https://retroachievements.org/game/32120/hashes</url>
 		<hash>1c1565ed69e14606fa508ebc5ee452fc</hash>
+	</game>
+	
+	<game name="Monster Rancher Battle Card - Episode II (USA)">
+		<category>Subset</category>
+		<description>Monster Rancher Battle Card - Episode II (USA)</description>
+		<release name="Monster Rancher Battle Card - Episode II (USA)" region="USA"/>
+		<rom name="Monster Rancher Battle Card - Episode II (USA).cue" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Monster Rancher Battle Card - Episode II (USA).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/17498/hashes</url>
+		<hash>10c01742568fcc0a99c7f7cf67631acf</hash>
 	</game>
 	
 	<game name="Monster Rancher Hop-A-Bout (USA)">
@@ -8852,6 +8920,16 @@
 		<hash>71cf587d22819530e731ae32a0f6f516</hash>
 	</game>
 	
+	<game name="Pop'n Music 6 (Japan)">
+		<category>Retail</category>
+		<description>Pop'n Music 6 (Japan)</description>
+		<release name="Pop'n Music 6 (Japan)" region="Japan"/>
+		<rom name="Pop'n Music 6 (Japan).cue" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Pop'n Music 6 (Japan).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/19396/hashes</url>
+		<hash>f5c1025a2c5d3c1c980d9b14b68dbed6</hash>
+	</game>
+	
 	<game name="Pop'n Music - Animation Melody (Japan)">
 		<category>Retail</category>
 		<description>Pop'n Music - Animation Melody (Japan)</description>
@@ -9647,6 +9725,14 @@
 		<rom name="Resident Evil - Survivor (USA).bin" size="425730816" crc="ff8550fa" md5="56fc491dd5eafcf84c7bf0f65c4e03f0" sha1="19ee4d5633919418080fbcf093b6de450405d28a"/>
 		<url>https://retroachievements.org/game/11419/hashes</url>
 		<hash>7f009ee09a398be094220e3e943ac458</hash>
+	</game>
+	<game name="Resident Evil - Survivor (USA) (Light Gun Support) (Raziel)" cloneof="Resident Evil - Survivor (USA)">
+		<category>Retail</category>
+		<description>Resident Evil - Survivor (USA) (Light Gun Support) (Raziel)</description>
+		<rom name="Resident Evil - Survivor (USA) (Light Gun Support) (Raziel).cue" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Resident Evil - Survivor (USA) (Light Gun Support) (Raziel).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/11419/hashes</url>
+		<hash>391d2b7e6a5d87eb04db05573f12a45b</hash>
 	</game>
 	
 	<game name="Persona (USA)">
@@ -11382,6 +11468,15 @@
 		<hash>deae8f7792dbd07867cb5bf2b25173a6</hash>
 	</game>
 	
+	<game name="Suzuki Bakuhatsu (Japan)">
+		<category>Retail</category>
+		<description>Suzuki Bakuhatsu (Japan)</description>
+		<release name="Suzuki Bakuhatsu (Japan)" region="Japan"/>
+		<rom name="Suzuki Bakuhatsu (Japan).cue" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/21999/hashes</url>
+		<hash>d5a2e2e59fd52cb08ccac936bdd8791e</hash>
+	</game>
+	
 	<game name="Sydney 2000 (USA)">
 		<category>Retail</category>
 		<description>Sydney 2000 (USA)</description>
@@ -12082,6 +12177,16 @@
 		<hash>9896c99525e761d54ebc214b5b9c3df4</hash>
 	</game>
 	
+	<game name="Walt Disney's The Jungle Book - Rhythm n' Groove (Subset - Crazy Perfect Full Clear)">
+		<category>Subset</category>
+		<description>Walt Disney's The Jungle Book - Rhythm n' Groove (Subset - Crazy Perfect Full Clear)</description>
+		<release name="Walt Disney's The Jungle Book - Rhythm n' Groove (Subset - Crazy Perfect Full Clear)" region="World"/>
+		<rom name="Walt Disney's The Jungle Book - Rhythm n' Groove (Subset - Crazy Perfect Full Clear).cue" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Walt Disney's The Jungle Book - Rhythm n' Groove (Subset - Crazy Perfect Full Clear).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/34501/hashes</url>
+		<hash>bf0f77301387212379f7182a343589b7</hash>
+	</game>
+	
 	<game name="King of Fighters '97, The (Japan)">
 		<category>Retail</category>
 		<description>King of Fighters '97, The (Japan)</description>
@@ -12329,6 +12434,16 @@
 		<rom name="SuperLite 1500 Series - The Tetris (Japan).bin" size="58212000" crc="bf1322a5" md5="fd56b6dec5a592158b81dc614973268f" sha1="92624fc19d63669810a4834955b17f1d769d6b45"/>
 		<url>https://retroachievements.org/game/836/hashes</url>
 		<hash>47c0e60ca708412509d1bd36656ea6f9</hash>
+	</game>
+	
+	<game name="Theme Hospital (Europe) (En,Fr,De,Es,It,Sv)">
+		<category>Retail</category>
+		<description>Theme Hospital (Europe) (En,Fr,De,Es,It,Sv)</description>
+		<release name="Theme Hospital (Europe) (En,Fr,De,Es,It,Sv)" region="Japan"/>
+		<rom name="Theme Hospital (Europe) (En,Fr,De,Es,It,Sv).cue" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Theme Hospital (Europe) (En,Fr,De,Es,It,Sv).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/13969/hashes</url>
+		<hash>75e94d00ff8719f3137f175f18e1f4ee</hash>
 	</game>
 	
 	<game name="Disney Presents Tigger's Honey Hunt (USA)">
@@ -13796,29 +13911,6 @@
 		<hash>438824b203fe13270d0e46243f9499c3</hash>
 	</game>
 	
-	<game name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It)">
-		<category>Retail</category>
-		<description>WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It)</description>
-		<release name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It)" region="Europe"/>
-		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue" size="2054" crc="01ac6575" md5="bc1f14e6234d047f9e4c256e9901e9ee" sha1="53486ae835b38ee4ea0905156c059c073f906ff3"/>
-		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="94660944" crc="a0e9e5c2" md5="b9d48f139544051893f45eed62780e42" sha1="a7bb5cdafdf97ba1cd99cc832439f57ce0c39a8a"/>
-		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 02).bin" size="43472016" crc="3058588f" md5="e868eeae81bddf113cc5eeffe2c7f091" sha1="1ab3a1225cbb7ae70b4e165a8c448552f63a5456"/>
-		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 03).bin" size="32911536" crc="08afc337" md5="26cc951fedd4b9da2152dfbcfdf505a9" sha1="5a02fae4aa81abe346c3d8c6d6afa86af0df2ca0"/>
-		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 04).bin" size="45706416" crc="6b9b4720" md5="fab19a45b7605675670539091e1bad9d" sha1="7c9927feb991aaf714181a2c3a045318c82d63dc"/>
-		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 05).bin" size="44490432" crc="ce50f38b" md5="43a06f9bfc62a99d75fbad87add147be" sha1="fa49d2284bf05d96ab1aae1200ce94f42b510e78"/>
-		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 06).bin" size="44518656" crc="cb688ad4" md5="63639ec65313ee6a4a11948398164a70" sha1="05357cf0b316e207e99e231ad289f17dd2cad6a0"/>
-		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 07).bin" size="39297216" crc="ae2df12f" md5="6355ba71d3aa01aaac92f261ed0fcc25" sha1="ddcdfff3142d804a90205b8bf9bfad60f8f2ecdb"/>
-		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 08).bin" size="38991456" crc="5eeffc5c" md5="d4d01f4e840fa66c508cb7a260086258" sha1="e7dd9d91a04ce214342439e157df6f4e3b774dfe"/>
-		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 09).bin" size="45410064" crc="303281da" md5="892ea613090dffafa05f368ab689254c" sha1="a21043158f9fb199220db805e43216f7b2533d0a"/>
-		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 10).bin" size="44953776" crc="2fa1bdf9" md5="e1b354c0279badc539845f2c2eabdd65" sha1="22d6c12b7d5f08103e9f4e8e04961f5a833c66ff"/>
-		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 11).bin" size="45106656" crc="82a23edd" md5="1a64f88c57c44d18b82eec49a6a05723" sha1="f67edec39211285513bf35d32227650e3f15e5ad"/>
-		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 12).bin" size="39179616" crc="0d23c295" md5="ca2f5b4cc767b68ba5b296c61e9ad31b" sha1="a956cc2b399a24429d017e8c8095117aa06387ad"/>
-		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 13).bin" size="42914592" crc="573b1523" md5="96f8d32adbec0774bd72cc6711dddff0" sha1="e9101cb49dc0182ecaf9e277123ce640c41283c2"/>
-		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 14).bin" size="43961232" crc="0df630aa" md5="d3210c8fd2724365ce24b31455d38774" sha1="1245bb5263d95b06dee6094b041365aca3b2522f"/>
-		<url>https://retroachievements.org/game/13912/hashes</url>
-		<hash>d4142fdde2ad46ddf74029bad9f818be</hash>
-	</game>
-	
 	<game name="WipEout 2097 (Europe)">
 		<category>Retail</category>
 		<description>WipEout 2097 (Europe)</description>
@@ -13858,6 +13950,29 @@
 		<rom name="Wipeout XL (USA) (Track 12).bin" size="55885872" crc="280d423e" md5="fb704fc0301394ed8a4afca0165814e0" sha1="601507f68eeae7df49384b7d968c5651a0f984d8"/>
 		<url>https://retroachievements.org/game/13913/hashes</url>
 		<hash>611479cd0e25800874e3b01d0e0efa2d</hash>
+	</game>
+	
+	<game name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It)</description>
+		<release name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It).cue" size="2054" crc="01ac6575" md5="bc1f14e6234d047f9e4c256e9901e9ee" sha1="53486ae835b38ee4ea0905156c059c073f906ff3"/>
+		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 01).bin" size="94660944" crc="a0e9e5c2" md5="b9d48f139544051893f45eed62780e42" sha1="a7bb5cdafdf97ba1cd99cc832439f57ce0c39a8a"/>
+		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 02).bin" size="43472016" crc="3058588f" md5="e868eeae81bddf113cc5eeffe2c7f091" sha1="1ab3a1225cbb7ae70b4e165a8c448552f63a5456"/>
+		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 03).bin" size="32911536" crc="08afc337" md5="26cc951fedd4b9da2152dfbcfdf505a9" sha1="5a02fae4aa81abe346c3d8c6d6afa86af0df2ca0"/>
+		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 04).bin" size="45706416" crc="6b9b4720" md5="fab19a45b7605675670539091e1bad9d" sha1="7c9927feb991aaf714181a2c3a045318c82d63dc"/>
+		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 05).bin" size="44490432" crc="ce50f38b" md5="43a06f9bfc62a99d75fbad87add147be" sha1="fa49d2284bf05d96ab1aae1200ce94f42b510e78"/>
+		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 06).bin" size="44518656" crc="cb688ad4" md5="63639ec65313ee6a4a11948398164a70" sha1="05357cf0b316e207e99e231ad289f17dd2cad6a0"/>
+		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 07).bin" size="39297216" crc="ae2df12f" md5="6355ba71d3aa01aaac92f261ed0fcc25" sha1="ddcdfff3142d804a90205b8bf9bfad60f8f2ecdb"/>
+		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 08).bin" size="38991456" crc="5eeffc5c" md5="d4d01f4e840fa66c508cb7a260086258" sha1="e7dd9d91a04ce214342439e157df6f4e3b774dfe"/>
+		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 09).bin" size="45410064" crc="303281da" md5="892ea613090dffafa05f368ab689254c" sha1="a21043158f9fb199220db805e43216f7b2533d0a"/>
+		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 10).bin" size="44953776" crc="2fa1bdf9" md5="e1b354c0279badc539845f2c2eabdd65" sha1="22d6c12b7d5f08103e9f4e8e04961f5a833c66ff"/>
+		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 11).bin" size="45106656" crc="82a23edd" md5="1a64f88c57c44d18b82eec49a6a05723" sha1="f67edec39211285513bf35d32227650e3f15e5ad"/>
+		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 12).bin" size="39179616" crc="0d23c295" md5="ca2f5b4cc767b68ba5b296c61e9ad31b" sha1="a956cc2b399a24429d017e8c8095117aa06387ad"/>
+		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 13).bin" size="42914592" crc="573b1523" md5="96f8d32adbec0774bd72cc6711dddff0" sha1="e9101cb49dc0182ecaf9e277123ce640c41283c2"/>
+		<rom name="WipEout 3 - Special Edition (Europe) (En,Fr,De,Es,It) (Track 14).bin" size="43961232" crc="0df630aa" md5="d3210c8fd2724365ce24b31455d38774" sha1="1245bb5263d95b06dee6094b041365aca3b2522f"/>
+		<url>https://retroachievements.org/game/13912/hashes</url>
+		<hash>d4142fdde2ad46ddf74029bad9f818be</hash>
 	</game>
 	
 	<game name="Wonder Trek (Japan)">
