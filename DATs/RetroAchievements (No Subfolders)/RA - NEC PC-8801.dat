@@ -672,6 +672,15 @@
 		<hash>d2bf8ef1abf7bb47e54da38a286f4ac8</hash>
 	</game>
 	
+	<game name="Soukoban (World) (NeoKobe)">
+		<category>Retail</category>
+		<description>Soukoban (World) (NeoKobe)</description>
+		<release name="Soukoban (World) (NeoKobe)" region="World"/>
+		<rom name="Soukoban (World) (NeoKobe).d88" size="66240" crc="afb96353" md5="e9ff3dfb280a795bf2ca8ade11be5683" sha1="017a0c125bf30fbbefc55cd313948562097cb054"/>
+		<url>https://retroachievements.org/game/14405/hashes</url>
+		<hash>e9ff3dfb280a795bf2ca8ade11be5683</hash>
+	</game>
+	
 	<game name="Solitaire Royale (World) (NeoKobe)">
 		<category>Retail</category>
 		<description>Solitaire Royale (World) (NeoKobe)</description>
@@ -681,15 +690,6 @@
 		<rom name="Solitaire Royale (World) (NeoKobe) (User Disk).d88" size="5584" crc="7ee2e85e" md5="5275e0556b8616553b6f7f8bbf73a70f" sha1="41bb107eb4a0e36796720cb09a4caac022a2eeb8"/>
 		<url>https://retroachievements.org/game/14135/hashes</url>
 		<hash>ee4c7205d56384f37414f7f199484ece</hash>
-	</game>
-	
-	<game name="Soukoban (World) (NeoKobe)">
-		<category>Retail</category>
-		<description>Soukoban (World) (NeoKobe)</description>
-		<release name="Soukoban (World) (NeoKobe)" region="World"/>
-		<rom name="Soukoban (World) (NeoKobe).d88" size="66240" crc="afb96353" md5="e9ff3dfb280a795bf2ca8ade11be5683" sha1="017a0c125bf30fbbefc55cd313948562097cb054"/>
-		<url>https://retroachievements.org/game/14405/hashes</url>
-		<hash>e9ff3dfb280a795bf2ca8ade11be5683</hash>
 	</game>
 	
 	<game name="Space Harrier (World) (NeoKobe) (Disk 1)">

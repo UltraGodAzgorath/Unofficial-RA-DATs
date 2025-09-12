@@ -5,8 +5,8 @@
 		<name>RA - SNK Neo Geo CD</name>
 		<description>SNK Neo Geo CD</description>
 		<category>No Subfolders</category>
-		<version>20250803</version>
-		<date>03 August 2025</date>
+		<version>20250912</version>
+		<date>12 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/56/games</url>
@@ -1000,6 +1000,16 @@
 		<rom name="Shougi no Tatsujin - Master of Syougi (Japan) (Track 12).bin" size="4010160" crc="e88d9762" md5="e4a586a3888b126d43010a6cf05ccc59" sha1="d2032f5f1b7b5c1f154147b33c5b949916835411"/>
 		<rom name="Shougi no Tatsujin - Master of Syougi (Japan) (Track 13).bin" size="13662768" crc="a668dcd4" md5="dd2a59673b2613f2073b9343d6b2a2a2" sha1="2bf55e60a773cceb885d3f13af7c3395195fece2"/>
 		<url>https://retroachievements.org/game/23868/hashes</url>
+		<hash>26e2b6677508159f29b408f143ae5b03</hash>
+	</game>
+	
+	<game name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA)">
+		<category>Retail</category>
+		<description>Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA)</description>
+		<release name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA)" region="Japan"/>
+		<release name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA)" region="USA"/>
+		<rom name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA).cue" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/23835/hashes</url>
 		<hash>26e2b6677508159f29b408f143ae5b03</hash>
 	</game>
 	

@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation 2</name>
 		<description>Sony Playstation 2</description>
 		<category>No Subfolders</category>
-		<version>20250810</version>
-		<date>10 August 2025</date>
+		<version>20250912</version>
+		<date>12 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -5482,6 +5482,40 @@
 		<hash>d148e4db7510e46bec196e9f2610f2d3</hash>
 	</game>
 	
+	<game name="OutRun 2006 - Coast 2 Coast (USA) (En,Fr,Es)" cloneof="OutRun 2006 - Coast 2 Coast (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<description>OutRun 2006 - Coast 2 Coast (USA) (En,Fr,Es)</description>
+		<release name="OutRun 2006 - Coast 2 Coast (USA) (En,Fr,Es)" region="USA"/>
+		<rom name="OutRun 2006 - Coast 2 Coast (USA) (En,Fr,Es).iso" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/20859/hashes</url>
+		<hash>3fa470a17c5808092074604bd0094733</hash>
+	</game>
+	<game name="OutRun 2006 - Coast 2 Coast (Europe) (En,Fr,De,Es,It)" cloneof="OutRun 2006 - Coast 2 Coast (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<description>OutRun 2006 - Coast 2 Coast (Europe) (En,Fr,De,Es,It)</description>
+		<release name="OutRun 2006 - Coast 2 Coast (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="OutRun 2006 - Coast 2 Coast (Europe) (En,Fr,De,Es,It).iso" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/20859/hashes</url>
+		<hash>c07fb50f6a805f6f875777d0ed3d25d5</hash>
+	</game>
+	<game name="OutRun 2 SP (Japan)" cloneof="OutRun 2006 - Coast 2 Coast (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<description>OutRun 2 SP (Japan)</description>
+		<release name="OutRun 2 SP (Japan)" region="Japan"/>
+		<rom name="OutRun 2 SP (Japan).iso" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/20859/hashes</url>
+		<hash>4fb5e3c880c1fb5ad23e6a035d4c4947</hash>
+	</game>
+	<game name="OutRun 2 SP (Japan) (En) (v1.0) (TheMrIron2)" cloneof="OutRun 2006 - Coast 2 Coast (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<description>OutRun 2 SP (Japan) (En) (v1.0) (TheMrIron2)</description>
+		<release name="OutRun 2 SP (Japan) (En) (v1.0) (TheMrIron2)" region="English"/>
+		<rom name="OutRun 2 SP (Japan) (En) (v1.0) (TheMrIron2).iso" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/20859/hashes</url>
+		<hash>f03b063720f04389536849f80b64e77a</hash>
+	</game>
+	
+	
 	<game name="DreamWorks Over the Hedge (USA)">
 		<category>Retail</category>
 		<description>DreamWorks Over the Hedge (USA)</description>
@@ -5598,6 +5632,23 @@
 		<rom name="Disney Pirates of the Caribbean - At World's End (USA).iso" size="1289027584" crc="08108481" md5="dd26811ad6db20764cc8454f04e85539" sha1="d027e76592cfe03e87e26e6722113a022c899d48"/>
 		<url>https://retroachievements.org/game/20853/hashes</url>
 		<hash>3912d769d8c8e2932752afd3a2b6564b</hash>
+	</game>
+	
+	<game name="Disney's PK - Out of the Shadows (USA) (En,Fr,De,It)">
+		<category>Retail</category>
+		<description>Disney's PK - Out of the Shadows (USA) (En,Fr,De,It)</description>
+		<release name="Disney's PK - Out of the Shadows (USA) (En,Fr,De,It)" region="USA"/>
+		<rom name="Disney's PK - Out of the Shadows (USA) (En,Fr,De,It).iso" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/20750/hashes</url>
+		<hash>873907017178e976e7d7470210d67497</hash>
+	</game>
+	<game name="Disney's Donald Duck PK (Europe) (En,Fr,De,Es,It)" cloneof="Disney's PK - Out of the Shadows (USA) (En,Fr,De,It)">
+		<category>Retail</category>
+		<description>Disney's Donald Duck PK (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Disney's Donald Duck PK (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="Disney's Donald Duck PK (Europe) (En,Fr,De,Es,It).iso" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/20750/hashes</url>
+		<hash>186415f7721aff0ebef19421b8038665</hash>
 	</game>
 	
 	<game name="Planetarian - Chiisa na Hoshi no Yume (Japan)">
@@ -5756,6 +5807,15 @@
 		<hash>dbccdc04c535a907629c03cf60f836b8</hash>
 	</game>
 	
+	<game name="Project - Snowblind (USA)">
+		<category>Retail</category>
+		<description>Project - Snowblind (USA)</description>
+		<release name="Project - Snowblind (USA)" region="USA"/>
+		<rom name="Project - Snowblind (USA).iso" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/21058/hashes</url>
+		<hash>70d138e16ea5f063300c3d3a0b50602c</hash>
+	</game>
+	
 	<game name="Psi-Ops - The Mindgate Conspiracy (USA)">
 		<category>Retail</category>
 		<description>Psi-Ops - The Mindgate Conspiracy (USA)</description>
@@ -5901,6 +5961,15 @@
 		<rom name="Raw Danger (Europe) (NTSC Mode + Performance) (v1.0) (Souzooka).iso" size="1620639744" crc="32257c45" md5="84bd0d5d4acf8c6fae2b08e8fdce0488" sha1="9564c4955bff85831da3b8d0376b3c74b3e0ab64"/>
 		<url>https://retroachievements.org/game/5616/hashes</url>
 		<hash>79a6c918d2300d6683705fcc7b50955a</hash>
+	</game>
+	
+	<game name="Rayman 2 - Revolution (USA) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Rayman 2 - Revolution (USA) (En,Fr,De,Es,It)</description>
+		<release name="Rayman 2 - Revolution (USA) (En,Fr,De,Es,It)" region="USA"/>
+		<rom name="Rayman 2 - Revolution (USA) (En,Fr,De,Es,It).iso" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/2995/hashes</url>
+		<hash>bfb764eb384f618b72496eb66578fea5</hash>
 	</game>
 	
 	<game name="Rayman 3 - Hoodlum Havoc (USA) (En,Fr,De,Es,It)">
@@ -6259,6 +6328,15 @@
 		<rom name="Samurai Western (USA).iso" size="3428777984" crc="2f5d837a" md5="f117a5d77affe3d8cc0f4ec064c845a8" sha1="6aa77ca9769192770e03b2b17626be490926f048"/>
 		<url>https://retroachievements.org/game/21068/hashes</url>
 		<hash>9a1ac8f3d48a9807a678caab7d5715f6</hash>
+	</game>
+	
+	<game name="Saru! Get You! 2 - Ukki Ukki Disc (Japan)">
+		<category>Retail</category>
+		<description>Saru! Get You! 2 - Ukki Ukki Disc (Japan)</description>
+		<release name="Saru! Get You! 2 - Ukki Ukki Disc (Japan)" region="Japan"/>
+		<rom name="Saru! Get You! 2 - Ukki Ukki Disc (Japan).iso" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/34492/hashes</url>
+		<hash>52a9a4cf4de1e2f7ad7a8615b8dea377</hash>
 	</game>
 	
 	<game name="Scarface - The World Is Yours (USA)">
@@ -7658,6 +7736,15 @@
 		<hash>78b7874c15652ead1c80160c722ebc78</hash>
 	</game>
 	
+	<game name="Teen Titans (USA)">
+		<category>Retail</category>
+		<description>Teen Titans (USA)</description>
+		<release name="Teen Titans (USA)" region="USA"/>
+		<rom name="Teen Titans (USA).iso" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/21147/hashes</url>
+		<hash>77685ff3d70b70ec7288489efca67b7b</hash>
+	</game>
+	
 	<game name="Teenage Mutant Ninja Turtles (USA)">
 		<category>Retail</category>
 		<description>Teenage Mutant Ninja Turtles (USA)</description>
@@ -8502,6 +8589,15 @@
 		<hash>4141f51e484626991a91f1df1071d6b5</hash>
 	</game>
 	
+	<game name="Tom Clancy's Splinter Cell (USA)">
+		<category>Retail</category>
+		<description>Tom Clancy's Splinter Cell (USA)</description>
+		<release name="Tom Clancy's Splinter Cell (USA)" region="USA"/>
+		<rom name="Tom Clancy's Splinter Cell (USA).iso" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/2998/hashes</url>
+		<hash>74d131f9787fe98d749ef3e6854f784a</hash>
+	</game>
+	
 	<game name="Lara Croft Tomb Raider - Anniversary (USA)">
 		<category>Retail</category>
 		<description>Lara Croft Tomb Raider - Anniversary (USA)</description>
@@ -9127,6 +9223,23 @@
 		<rom name="Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 2).iso" size="4515954688" crc="1855b442" md5="3bdd9a387aa259d11f39d81158b1972d" sha1="9902a798f2f4a7d7a4af6078ec3e5ec5107d5450"/>
 		<url>https://retroachievements.org/game/3212/hashes</url>
 		<hash>74814a149ccbe11243ce74ce792f8e74</hash>
+	</game>
+	
+	<game name="Xenosaga Episode III - Also sprach Zarathustra (Subset - No Level Up) (Disc 1)">
+		<category>Subset</category>
+		<description>Xenosaga Episode III - Also sprach Zarathustra (Subset - No Level Up) (Disc 1)</description>
+		<release name="Xenosaga Episode III - Also sprach Zarathustra (Subset - No Level Up) (Disc 1)" region="World"/>
+		<rom name="Xenosaga Episode III - Also sprach Zarathustra (Subset - No Level Up) (Disc 1).iso" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/20350/hashes</url>
+		<hash>81614f7a04c59d0c7e5cf962390ffff0</hash>
+	</game>
+	<game name="Xenosaga Episode III - Also sprach Zarathustra (Subset - No Level Up) (Disc 2)">
+		<category>Subset</category>
+		<description>Xenosaga Episode III - Also sprach Zarathustra (Subset - No Level Up) (Disc 2)</description>
+		<release name="Xenosaga Episode III - Also sprach Zarathustra (Subset - No Level Up) (Disc 2)" region="World"/>
+		<rom name="Xenosaga Episode III - Also sprach Zarathustra (Subset - No Level Up) (Disc 2).iso" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/20350/hashes</url>
+		<hash>e6771f1a3ca6884da05fc33b28074dc9</hash>
 	</game>
 	
 	<game name="XGIII - Extreme G Racing (USA)">

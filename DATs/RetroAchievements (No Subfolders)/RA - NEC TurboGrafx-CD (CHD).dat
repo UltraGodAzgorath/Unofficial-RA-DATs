@@ -5,8 +5,8 @@
 		<name>RA - NEC TurboGrafx-CD (CHD)</name>
 		<description>NEC TurboGrafx-CD (CHD)</description>
 		<category>No Subfolders</category>
-		<version>20250706</version>
-		<date>06 July 2025</date>
+		<version>20250912</version>
+		<date>12 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/76/games</url>
@@ -22,6 +22,15 @@
 		<rom name="Jessie Jaeger in Cleopatra's Curse (World) (Aftermarket).chd" size="223893463" crc="283463ac" md5="8066216a085753813be94959b345eaef" sha1="7848cbddd1648bb921387059b8a30e4cc0cb3b9a"/>
 		<url>https://retroachievements.org/game/28690/hashes</url>
 		<hash>298734ae483ac59e9f3c37aa1c1b090d</hash>
+	</game>
+	
+	<game name="Revival Chase (USA) (En,Fr) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Revival Chase (USA) (En,Fr) (Aftermarket)</description>
+		<release name="Revival Chase (USA) (En,Fr) (Aftermarket)" region="World"/>
+		<rom name="Revival Chase (USA) (En,Fr) (Aftermarket).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/22904/hashes</url>
+		<hash>518bf8ee44071aeb26ade0369360a172</hash>
 	</game>
 	
 	<game name="Ultimate Rally Club (USA) (OrionSoft) (Aftermarket)">

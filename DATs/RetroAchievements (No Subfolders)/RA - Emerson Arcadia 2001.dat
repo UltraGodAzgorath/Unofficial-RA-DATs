@@ -5,8 +5,8 @@
 		<name>RA - Emerson Arcadia 2001</name>
 		<description>Emerson Arcadia 2001</description>
 		<category>No Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250912</version>
+		<date>12 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/73/games</url>
@@ -94,7 +94,7 @@
 		<release name="Doraemon (Japan) (1983) (Bandai)" region="Japan"/>
 		<rom name="Doraemon (Japan) (1983) (Bandai).bin" size="8192" crc="62c45881" md5="2938509d9c2a2316b460b2a617581771" sha1="a16fda96d00c8b08bb362f2573a45939aa6be051"/>
 		<url>https://retroachievements.org/game/24686/hashes</url>
-		<hash>FBB02515F81F6E163E0AD74085CCD0E8</hash>
+		<hash>2938509d9c2a2316b460b2a617581771</hash>
 	</game>
 	
 	<game name="Escape (USA, Europe)">
@@ -113,7 +113,7 @@
 		<release name="Funky Fish (Europe)" region="Europe"/>
 		<rom name="Funky Fish (Europe).bin" size="8192" crc="77c19320" md5="668af35d78d4c4286ada370013a4fc54" sha1="e56be2ecd8284cd43a44620d56d6615766f45451"/>
 		<url>https://retroachievements.org/game/21592/hashes</url>
-		<hash>03103A22374C20E9FC642798AF14DA19</hash>
+		<hash>668af35d78d4c4286ada370013a4fc54</hash>
 	</game>
 	
 	<game name="Hobo (Europe)">
@@ -122,7 +122,7 @@
 		<release name="Hobo (Europe)" region="Europe"/>
 		<rom name="Hobo (Europe).bin" size="8192" crc="1cec4b21" md5="9640b53728b797b11f90c912a8ccadaf" sha1="cebb340cb0a50b2815dafc6df8f46d814015a49f"/>
 		<url>https://retroachievements.org/game/21595/hashes</url>
-		<hash>8F9E596C87BB930E8A6C9E11AD19F9DE</hash>
+		<hash>9640b53728b797b11f90c912a8ccadaf</hash>
 	</game>
 	
 	<game name="Jump Bug (1982) (UA) (DE)" cloneof="Jump Bug (Europe)">
@@ -131,7 +131,7 @@
 		<release name="Jump Bug (1982) (UA) (DE)" region="Germany"/>
 		<rom name="Jump Bug (1982) (UA) (DE).bin" size="8192" crc="dc0264b8" md5="6f2cfbf3c07d1b096f096fc8a763e500" sha1="bf3ccf7a54409f22ca4295b1df1c01bfbbe9f0a2"/>
 		<url>https://retroachievements.org/game/21597/hashes</url>
-		<hash>15DFAF2EBE12EED5BB7CA8166D75944A</hash>
+		<hash>6f2cfbf3c07d1b096f096fc8a763e500</hash>
 	</game>
 	<game name="Jump Bug (Europe)">
 		<category>Retail</category>
@@ -139,7 +139,7 @@
 		<release name="Jump Bug (Europe)" region="Europe"/>
 		<rom name="Jump Bug (Europe).bin" size="8192" crc="97060a54" md5="78574f28c2cb0d19f2656925fa048042" sha1="d0ace24fd1f3805e46b077e8a4770f922157c8c4"/>
 		<url>https://retroachievements.org/game/21597/hashes</url>
-		<hash>CB45418FB2F287D0AEC2F760E5835B70</hash>
+		<hash>78574f28c2cb0d19f2656925fa048042</hash>
 	</game>
 	
 	<game name="Jungler (USA, Europe)">
@@ -149,7 +149,7 @@
 		<release name="Jungler (USA, Europe)" region="USA"/>
 		<rom name="Jungler (USA, Europe).bin" size="8192" crc="dfb5dd55" md5="bf10520aef366afdcf6c29e1c97afefe" sha1="8d6e32ab3cc872017c597e61c076330015411435"/>
 		<url>https://retroachievements.org/game/21598/hashes</url>
-		<hash>168093F68509335F26196F44694D7D44</hash>
+		<hash>bf10520aef366afdcf6c29e1c97afefe</hash>
 	</game>
 	
 	<game name="Missile War (USA, Europe)">
@@ -168,7 +168,7 @@
 		<release name="Mobile Soldier Gundam (1983) (Bandai) (JP)" region="Japan"/>
 		<rom name="Mobile Soldier Gundam (1983) (Bandai) (JP).bin" size="8192" crc="1241f128" md5="eca02a18e0ff4222283ab16947fe6911" sha1="4b07a88b06008ddfc3676983e826e107caf3ba0f"/>
 		<url>https://retroachievements.org/game/24688/hashes</url>
-		<hash>8F368ED8A1B8F8272846A96878FF5C14</hash>
+		<hash>eca02a18e0ff4222283ab16947fe6911</hash>
 	</game>
 	
 	<game name="Nibblemen (Europe)">
@@ -193,7 +193,7 @@
 		<release name="Pleiades (Europe)" region="Europe"/>
 		<rom name="Pleiades (Europe).bin" size="8192" crc="4f19fd9b" md5="a9bc2c25fd1c4cd8024b2c69939252b0" sha1="bdb7ce3d4552c82be3cf8db43d5ad103f9d9cc91"/>
 		<url>https://retroachievements.org/game/21604/hashes</url>
-		<hash>760DF0E156FC41AEDB5DDC5B0FDAA96D</hash>
+		<hash>a9bc2c25fd1c4cd8024b2c69939252b0</hash>
 	</game>
 	
 	<game name="R2D Tank (Europe)">
@@ -230,7 +230,7 @@
 		<release name="Route 16 (Europe)" region="Europe"/>
 		<rom name="Route 16 (Europe).bin" size="8192" crc="8169864e" md5="376d97f9f74ab1c64fc888385506027b" sha1="6f6d0c0e2ae06112643c63cb6892f8c7269c98a6"/>
 		<url>https://retroachievements.org/game/21608/hashes</url>
-		<hash>4BBAB011CC65DE8BCAD882BEFC616207</hash>
+		<hash>376d97f9f74ab1c64fc888385506027b</hash>
 	</game>
 	
 	<game name="Space Mission (USA, Europe)">
@@ -277,7 +277,7 @@
 		<release name="Super Dimension Fortress Macross (1983) (Bandai) (JP)" region="Japan"/>
 		<rom name="Super Dimension Fortress Macross (1983) (Bandai) (JP).bin" size="8192" crc="4c885af2" md5="60ee33a137802d27b5b0567ff4de52ae" sha1="3d24ab9e42ff44a223bb53c5491dea7f41691df2"/>
 		<url>https://retroachievements.org/game/24689/hashes</url>
-		<hash>01E8AF7A69BEB5632C8EDC157C7F50AE</hash>
+		<hash>60ee33a137802d27b5b0567ff4de52ae</hash>
 	</game>
 	
 	<game name="Tanks a Lot (USA, Europe)">
@@ -287,7 +287,7 @@
 		<release name="Tanks a Lot (USA, Europe)" region="USA"/>
 		<rom name="Tanks a Lot (USA, Europe).bin" size="4096" crc="0076422e" md5="3bc3df43b6d82f10cf9651372a784f9b" sha1="c431d5190e86f3dfbb3e8b1a3b9bec82bb5014ae"/>
 		<url>https://retroachievements.org/game/21618/hashes</url>
-		<hash>06692F79DE7DCB0BE79D4468E26EB72E</hash>
+		<hash>3bc3df43b6d82f10cf9651372a784f9b</hash>
 	</game>
 	
 	<game name="The End (Europe)">

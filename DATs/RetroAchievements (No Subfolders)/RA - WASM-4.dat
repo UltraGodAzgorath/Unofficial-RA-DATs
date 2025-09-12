@@ -5,8 +5,8 @@
 		<name>RA - WASM-4</name>
 		<description>WASM-4</description>
 		<category>No Subfolders</category>
-		<version>20250720</version>
-		<date>20 July 2025</date>
+		<version>20250912</version>
+		<date>12 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/72/games</url>
@@ -403,6 +403,15 @@
 		<rom name="StarPilot W (World) (Spaceman1701).wasm" size="46744" crc="8d6a3451" md5="335808621244e3519259d656c6531e08" sha1="a81aba7585adb79d26d76a324802eca5235c3bf8"/>
 		<url>https://retroachievements.org/game/20381/hashes</url>
 		<hash>335808621244E3519259D656C6531E08</hash>
+	</game>
+	
+	<game name="Strikeforce (World) (iszn_11)">
+		<category>Retail</category>
+		<description>Strikeforce (World) (iszn_11)</description>
+		<release name="Strikeforce (World) (iszn_11)" region="World"/>
+		<rom name="Strikeforce (World) (iszn_11).wasm" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/21391/hashes</url>
+		<hash>3f31058874aefb6de9273c841cdb2e69</hash>
 	</game>
 	
 	<game name="Tail Gunner (World) (Dial0)">

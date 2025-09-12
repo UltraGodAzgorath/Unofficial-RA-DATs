@@ -5,8 +5,8 @@
 		<name>RA - Sega Saturn (CHD)</name>
 		<description>Sega Saturn (CHD)</description>
 		<category>No Subfolders</category>
-		<version>20250727</version>
-		<date>27 July 2025</date>
+		<version>20250912</version>
+		<date>12 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/39/games</url>
@@ -76,21 +76,6 @@
 		<rom name="Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (2M).chd" size="334137218" crc="2db65407" md5="f852a528b6f6e6118d5f55814ed2325b" sha1="49f541add29211786b2afb9faf521aade6fa49c6"/>
 		<url>https://retroachievements.org/game/14514/hashes</url>
 		<hash>b38060f45ab282ea629c91d630f81422</hash>
-	</game>
-	<game name="Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (En) (v1.021) (KoD)" cloneof="Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (2M)">
-		<category>Retail</category>
-		<description>Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (En) (v1.021) (KoD)</description>
-		<rom name="Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (En) (v1.021) (KoD).chd" size="331577845" crc="aa363f54" md5="1b2b536547d66bfeb0f4f64966612b0a" sha1="1a5b739b67d21df976d75887279a46b01770d077"/>
-		<url>https://retroachievements.org/game/14514/hashes</url>
-		<hash>19410380dcda0b770bd766836ce9f032</hash>
-	</game>
-	<game name="Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (En) (PSP Script) (v1.1) (Meduza Team)" cloneof="Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (2M)">
-		<category>Retail</category>
-		<description>Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (En) (PSP Script) (v1.1) (Meduza Team)</description>
-		<release name="Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (En) (PSP Script) (v1.1) (Meduza Team)" region="English"/>
-		<rom name="Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (En) (PSP Script) (v1.1) (Meduza Team).chd" size="336570628" crc="5c0ae736" md5="0b29d8618e0f00e8ecad72cbde1eeeec" sha1="5d91741acf50d84b474dfc32806c5cb053c12423"/>
-		<url>https://retroachievements.org/game/14514/hashes</url>
-		<hash>19410380dcda0b770bd766836ce9f032</hash>
 	</game>
 	
 	<game name="Albert Odyssey - Legend of Eldean (USA)">
@@ -439,6 +424,39 @@
 		<hash>f7b95a01fb1e635b0bfec4665930303c</hash>
 	</game>
 	
+	<game name="Deep Fear (USA) (Disc 1) (Unl)">
+		<category>Retail</category>
+		<description>Deep Fear (USA) (Disc 1) (Unl)</description>
+		<release name="Deep Fear (USA) (Disc 1) (Unl)" region="USA"/>
+		<rom name="Deep Fear (USA) (Disc 1) (Unl).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/8307/hashes</url>
+		<hash>0cb84f8a21db4b965d432445ae485c8b</hash>
+	</game>
+	<game name="Deep Fear (Europe) (Disc 1)" cloneof="Deep Fear (USA) (Disc 1) (Unl)">
+		<category>Retail</category>
+		<description>Deep Fear (Europe) (Disc 1)</description>
+		<release name="Deep Fear (Europe) (Disc 1)" region="Europe"/>
+		<rom name="Deep Fear (Europe) (Disc 1).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/8307/hashes</url>
+		<hash>1c1f56cfa86d977624a45aa30e7b9f76</hash>
+	</game>
+	<game name="Deep Fear (Europe) (Disc 2)" cloneof="Deep Fear (USA) (Disc 2) (Unl)">
+		<category>Retail</category>
+		<description>Deep Fear (Europe) (Disc 2)</description>
+		<release name="Deep Fear (Europe) (Disc 2)" region="Europe"/>
+		<rom name="Deep Fear (Europe) (Disc 2).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/8307/hashes</url>
+		<hash>27f2c4b2427a209c5cc43ada72223685</hash>
+	</game>
+	<game name="Deep Fear (USA) (Disc 2) (Unl)">
+		<category>Retail</category>
+		<description>Deep Fear (USA) (Disc 2) (Unl)</description>
+		<release name="Deep Fear (USA) (Disc 2) (Unl)" region="USA"/>
+		<rom name="Deep Fear (USA) (Disc 2) (Unl).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/8307/hashes</url>
+		<hash>cca651875bf4b4426339203924bb4fb8</hash>
+	</game>
+	
 	<game name="DeJig - Aqua World (Japan)">
 		<category>Retail</category>
 		<description>DeJig - Aqua World (Japan)</description>
@@ -782,6 +800,15 @@
 		<rom name="Keiou Yuugekitai - Katsugeki-hen (Japan).chd" size="340075863" crc="798831e5" md5="763ce6eaa8517aa7f6ec605eb1e9dd1b" sha1="0bfd4969d8562514f42e0d8e7b83e10b1f6ba804"/>
 		<url>https://retroachievements.org/game/8802/hashes</url>
 		<hash>57079953e27f48e73117a25d829c91cf</hash>
+	</game>
+	
+	<game name="Koi no Summer Fantasy - in Miyazaki Seagaia (Japan)">
+		<category>Retail</category>
+		<description>Koi no Summer Fantasy - in Miyazaki Seagaia (Japan)</description>
+		<release name="Koi no Summer Fantasy - in Miyazaki Seagaia (Japan)" region="Japan"/>
+		<rom name="Koi no Summer Fantasy - in Miyazaki Seagaia (Japan).chd" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/33996/hashes</url>
+		<hash>b7147d7b4d70a74f5fffdbbb401a8d03</hash>
 	</game>
 	
 	<game name="Kyuutenkai (Japan)">

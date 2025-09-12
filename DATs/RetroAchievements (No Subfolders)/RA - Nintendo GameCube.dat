@@ -5,8 +5,8 @@
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
 		<category>No Subfolders</category>
-		<version>20250911</version>
-		<date>11 September 2025</date>
+		<version>20250912</version>
+		<date>12 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/16/games</url>
@@ -1537,6 +1537,13 @@
 		<rom name="Resident Evil 3 - Nemesis (USA).rvz" size="793172512" crc="5352d880" md5="6af1a948c9c79c2b2e162310fde6c94a" sha1="fd0c9601e9d63e96441add34abae75a0ee0feb78"/>
 		<url>https://retroachievements.org/game/6870/hashes</url>
 		<hash>7D980856F5F09B295FA3278645CF229F</hash>
+	</game>
+	<game name="Resident Evil 3 - Nemesis (Unknown)" cloneof="Resident Evil 3 - Nemesis (USA)">
+		<category>Retail</category>
+		<description>Resident Evil 3 - Nemesis (Unknown)</description>
+		<rom name="Resident Evil 3 - Nemesis (Unknown).rvz" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/6870/hashes</url>
+		<hash>027fe88ad51b493eb37f3e4f49ad0b59</hash>
 	</game>
 	
 	<game name="Resident Evil 4 (USA) (Disc 1)">
