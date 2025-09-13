@@ -5,8 +5,8 @@
 		<name>RA - Arduboy</name>
 		<description>Arduboy</description>
 		<category>No Subfolders</category>
-		<version>20250803</version>
-		<date>03 August 2025</date>
+		<version>20250913</version>
+		<date>13 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/71/games</url>
@@ -868,14 +868,6 @@
 		<hash>AACC854EBB449E34C1C5C518C97C6B1E</hash>
 	</game>
 	
-	<game name="Yatzy (World) (Erwin's Collection)">
-		<category>Retail</category>
-		<description>Yatzy (World) (Erwin's Collection)</description>
-		<release name="Yatzy (World) (Erwin's Collection)" region="World"/>
-		<rom name="Yatzy (World) (Erwin's Collection).hex" size="51796" crc="4b033db3" md5="3056674a55c13e63ad845e6da6f73c67" sha1="6b545faa616ff0b28162565a754908913f847180"/>
-		<url>https://retroachievements.org/game/23781/hashes</url>
-		<hash>3056674a55c13e63ad845e6da6f73c67</hash>
-	</game>
 	<game name="Yatzy (World) (v1.3)" cloneof="Yatzy (World) (Erwin's Collection)">
 		<category>Retail</category>
 		<description>Yatzy (World) (v1.3)</description>

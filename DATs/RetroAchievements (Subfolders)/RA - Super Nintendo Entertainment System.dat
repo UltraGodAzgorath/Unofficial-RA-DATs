@@ -896,20 +896,6 @@
 		<hash>6f29ca82fe37ad99acf2238b66bfb66c</hash>
 	</game>
 	
-	<game name="Hack/Final Fantasy VI/FFVI - A Soldier's Contingency (Flavor A) (v2.01) (Lightning Hawk) (Hack)">
-		<category>Super Nintendo</category>
-		<description>FFVI - A Soldier's Contingency (Flavor A) (v2.01) (Lightning Hawk) (Hack)</description>
-		<rom name="FFVI - A Soldier's Contingency (Flavor A) (v2.01) (Lightning Hawk) (Hack).sfc" size="6291456" crc="fd1a4f8b" md5="82e7bff11473aa404492c3f6e5de02bd" sha1="08f6b5e13c3cb2549e190255ca5f812e5bc5be3c"/>
-		<url>https://retroachievements.org/game/22452/hashes</url>
-		<hash>82e7bff11473aa404492c3f6e5de02bd</hash>
-	</game>
-	<game name="Hack/Final Fantasy VI/FFVI - A Soldier's Contingency (Flavor B) (v2.01) (Lightning Hawk) (Hack)">
-		<category>Super Nintendo</category>
-		<description>FFVI - A Soldier's Contingency (Flavor B) (v2.01) (Lightning Hawk) (Hack)</description>
-		<rom name="FFVI - A Soldier's Contingency (Flavor B) (v2.01) (Lightning Hawk) (Hack).sfc" size="6291456" crc="23e51b38" md5="bd5943e3c83517a820c0add7c89da74a" sha1="e2858af52659a43e0e974aa2082b4edfedb7816f"/>
-		<url>https://retroachievements.org/game/22452/hashes</url>
-		<hash>bd5943e3c83517a820c0add7c89da74a</hash>
-	</game>
 	<game name="Hack/Final Fantasy VI/FFVI - A Soldier's Contingency (Flavor A) (v2.02) (Lightning Hawk) (Hack)">
 		<category>Super Nintendo</category>
 		<description>FFVI - A Soldier's Contingency (Flavor A) (v2.02) (Lightning Hawk) (Hack)</description>
@@ -925,20 +911,6 @@
 		<hash>2b1eca06a66d17c1f15a2631beee0e23</hash>
 	</game>
 	
-	<game name="Hack/Final Fantasy VI/FFVI - A Soldier's Contingency (Monster Flavor A) (v2.01) (Lightning Hawk) (Hack)">
-		<category>Super Nintendo</category>
-		<description>FFVI - A Soldier's Contingency (Monster Flavor A) (v2.01) (Lightning Hawk) (Hack)</description>
-		<rom name="FFVI - A Soldier's Contingency (Monster Flavor A) (v2.01) (Lightning Hawk) (Hack).sfc" size="6291456" crc="1cc70c28" md5="91cd006047454d4a5924fdde87f79a9e" sha1="d7a3609bcc38c25facefd15ecb2561eb086f62fe"/>
-		<url>https://retroachievements.org/game/31180/hashes</url>
-		<hash>91cd006047454d4a5924fdde87f79a9e</hash>
-	</game>
-	<game name="Hack/Final Fantasy VI/FFVI - A Soldier's Contingency (Monster Flavor B) (v2.01) (Lightning Hawk) (Hack)">
-		<category>Super Nintendo</category>
-		<description>FFVI - A Soldier's Contingency (Monster Flavor B) (v2.01) (Lightning Hawk) (Hack)</description>
-		<rom name="FFVI - A Soldier's Contingency (Monster Flavor B) (v2.01) (Lightning Hawk) (Hack).sfc" size="6291456" crc="c238589b" md5="d316b62e6b6e3604dc1e9593e192153a" sha1="60ac460cbe508846b0ab7b991c014ff69b3f665d"/>
-		<url>https://retroachievements.org/game/31180/hashes</url>
-		<hash>d316b62e6b6e3604dc1e9593e192153a</hash>
-	</game>
 	<game name="Hack/Final Fantasy VI/FFVI - A Soldier's Contingency (Monster Flavor A) (v2.02) (Lightning Hawk) (Hack)">
 		<category>Super Nintendo</category>
 		<description>FFVI - A Soldier's Contingency (Monster Flavor A) (v2.02) (Lightning Hawk) (Hack)</description>
@@ -11354,21 +11326,7 @@
 		<hash>0da2ae976f1c4b08243d2419812ab3a4</hash>
 	</game>
 	
-	<game name="Retail/Sparkster/Sparkster (Europe)">
-		<category>Super Nintendo</category>
-		<description>Sparkster (Europe)</description>
-		<rom name="Sparkster (Europe).sfc" size="1048576" crc="f43c155c" md5="03b64e37d5b5f8b92e8681940f2e0f75" sha1="c498e8304034121e1266c777900757a37bd5ccfa"/>
-		<url>https://retroachievements.org/game/1174/hashes</url>
-		<hash>03b64e37d5b5f8b92e8681940f2e0f75</hash>
-	</game>
-	<game name="Retail/Sparkster/Sparkster (Europe) (Fr) (Generation IX)">
-		<category>Super Nintendo</category>
-		<description>Sparkster (Europe) (Fr) (Generation IX)</description>
-		<rom name="Sparkster (Europe) (Fr) (Generation IX).sfc" size="1048576" crc="78d9dbe1" md5="38bf344adb532b01b9f72786d6babb43" sha1="336aa207970e01f721ff5e27c7bb3a6ec9c7d75c"/>
-		<url>https://retroachievements.org/game/1174/hashes</url>
-		<hash>38bf344adb532b01b9f72786d6babb43</hash>
-	</game>
-	<game name="Retail/Sparkster/Sparkster (USA)">
+	<game name="Retail/Sparkster (USA)">
 		<category>Super Nintendo</category>
 		<description>Sparkster (USA)</description>
 		<rom name="Sparkster (USA).sfc" size="1048576" crc="40d11c94" md5="e00ef4c1b9e17d5fa2d8367402d28a08" sha1="0ac5326401903212c6565a7a982f60a56017c1ef"/>
