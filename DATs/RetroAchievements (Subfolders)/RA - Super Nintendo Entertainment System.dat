@@ -5,8 +5,8 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20250911</version>
-		<date>11 September 2025</date>
+		<version>20250913</version>
+		<date>13 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/3/games</url>
@@ -398,14 +398,14 @@
 	<game name="Hack/Super Mario World/SMW - Chomper Ville (v2011-04-20) (SMWFanatic) (Hack)">
 		<category>Super Nintendo</category>
 		<description>SMW - Chomper Ville (v2011-04-20) (SMWFanatic) (Hack)</description>
-		<rom name="SMW - Chomper Ville (v2011-04-20) (SMWFanatic) (Hack).md" size="000" crc="000" md5="4c7828aa9798ef21a740692b5c1c4669" sha1="000"/>
+		<rom name="SMW - Chomper Ville (v2011-04-20) (SMWFanatic) (Hack).sfc" size="1048576" crc="54012087" md5="4c7828aa9798ef21a740692b5c1c4669" sha1="f670b7fea2dfbe4e5e8c4648a5d60c4ec1cef878"/>
 		<url>https://retroachievements.org/game/34495/hashes</url>
 		<hash>4c7828aa9798ef21a740692b5c1c4669</hash>
 	</game>
 	<game name="Hack/Super Mario World/SMW - Chomper Ville (v2011-04-20) (Inf. Lives) (SMWFanatic) (Hack)">
 		<category>Super Nintendo</category>
 		<description>SMW - Chomper Ville (v2011-04-20) (Inf. Lives) (SMWFanatic) (Hack)</description>
-		<rom name="SMW - Chomper Ville (v2011-04-20) (Inf. Lives) (SMWFanatic) (Hack).md" size="000" crc="000" md5="e0db3f6076f2d54f1de885b82c3794f0" sha1="000"/>
+		<rom name="SMW - Chomper Ville (v2011-04-20) (Inf. Lives) (SMWFanatic) (Hack).sfc" size="1048576" crc="7e301736" md5="e0db3f6076f2d54f1de885b82c3794f0" sha1="d55a3513e03d625ea20fab09b05ba1f05094ac9b"/>
 		<url>https://retroachievements.org/game/34495/hashes</url>
 		<hash>e0db3f6076f2d54f1de885b82c3794f0</hash>
 	</game>
@@ -891,7 +891,7 @@
 	<game name="Hack/Final Fantasy VI/FFVI - Reimagined (v1.7) (DrakeyC) (Hack)">
 		<category>Super Nintendo</category>
 		<description>FFVI - Reimagined (v1.7) (DrakeyC) (Hack)</description>
-		<rom name="FFVI - Reimagined (v1.7) (DrakeyC) (Hack).sfc" size="000" crc="000" md5="6f29ca82fe37ad99acf2238b66bfb66c" sha1="000"/>
+		<rom name="FFVI - Reimagined (v1.7) (DrakeyC) (Hack).sfc" size="4194304" crc="667f6e04" md5="6f29ca82fe37ad99acf2238b66bfb66c" sha1="d8c7045155d5c0d9e38fe3b6701857ec4d3fbd3e"/>
 		<url>https://retroachievements.org/game/32659/hashes</url>
 		<hash>6f29ca82fe37ad99acf2238b66bfb66c</hash>
 	</game>
@@ -2458,7 +2458,7 @@
 	<game name="Hack/Super Mario World/SMW - A Plumber for All Seasons (WhiteYoshiEgg) (v2021-10-09) (Hack)">
 		<category>Super Nintendo</category>
 		<description>SMW - A Plumber for All Seasons (WhiteYoshiEgg) (v2021-10-09) (Hack)</description>
-		<rom name="SMW - A Plumber for All Seasons (WhiteYoshiEgg) (v2021-10-09) (Hack).sfc" size="000" crc="000" md5="cdb770284b8f0fb7ad6ca24b7fbb5e44" sha1="000"/>
+		<rom name="SMW - A Plumber for All Seasons (WhiteYoshiEgg) (v2021-10-09) (Hack).sfc" size="4194304" crc="b5b8ab63" md5="cdb770284b8f0fb7ad6ca24b7fbb5e44" sha1="52c102ff9e944affcd90192aff0ce891c3307617"/>
 		<url>https://retroachievements.org/game/2865/hashes</url>
 		<hash>cdb770284b8f0fb7ad6ca24b7fbb5e44</hash>
 	</game>
@@ -2800,7 +2800,7 @@
 	<game name="Hack/Super Mario World/SMW - Gaiden (v1.13) (SMWG Team) (Hack)">
 		<category>Super Nintendo</category>
 		<description>SMW - Gaiden (v1.13) (SMWG Team) (Hack)</description>
-		<rom name="SMW - Gaiden (v1.13) (SMWG Team) (Hack).sfc" size="000" crc="000" md5="ab1f18177f0b078eaf9a97bdeab0ba6d" sha1="000"/>
+		<rom name="SMW - Gaiden (v1.13) (SMWG Team) (Hack).sfc" size="4194304" crc="118a4951" md5="ab1f18177f0b078eaf9a97bdeab0ba6d" sha1="2aed791679b09bd226101c4aba57752e27bdf6b0"/>
 		<url>https://retroachievements.org/game/18548/hashes</url>
 		<hash>ab1f18177f0b078eaf9a97bdeab0ba6d</hash>
 	</game>
@@ -5086,7 +5086,7 @@
 	<game name="Retail/Brandish (USA) (Pt) (v1.0) (GreenGoblin,Odin)">
 		<category>Super Nintendo</category>
 		<description>Brandish (USA) (Pt) (v1.0) (GreenGoblin,Odin)</description>
-		<rom name="Brandish (USA) (Pt) (v1.0) (GreenGoblin,Odin).sfc" size="000" crc="000" md5="e42a54f0b0457c2234271b241c2b7fb9" sha1="000"/>
+		<rom name="Brandish (USA) (Pt) (v1.0) (GreenGoblin,Odin).sfc" size="1572864" crc="3c5828c1" md5="e42a54f0b0457c2234271b241c2b7fb9" sha1="1eb75479a212ff47c88c919440934f1d96db3b3e"/>
 		<url>https://retroachievements.org/game/446/hashes</url>
 		<hash>e42a54f0b0457c2234271b241c2b7fb9</hash>
 	</game>
@@ -6269,7 +6269,7 @@
 	<game name="Retail/Dragon Quest I &amp; II/Dragon Quest I &amp; II (Japan) (En) (v2.0) (RPGOne) (Addendum) (v1.053rtm) (Rod Merida)">
 		<category></category>
 		<description>Dragon Quest I &amp; II (Japan) (En) (v2.0) (RPGOne) (Addendum) (v1.053rtm) (Rod Merida)</description>
-		<rom name="Dragon Quest I &amp; II (Japan) (En) (v2.0) (RPGOne) (Addendum) (v1.053rtm) (Rod Merida).sfc" size="000" crc="000" md5="d4f294305fa536fc7974e764900f2fcc" sha1="000"/>
+		<rom name="Dragon Quest I &amp; II (Japan) (En) (v2.0) (RPGOne) (Addendum) (v1.053rtm) (Rod Merida).sfc" size="2097152" crc="59e27f1a" md5="d4f294305fa536fc7974e764900f2fcc" sha1="77a76fc6ab696279c5dbfdd4ad8a52eb6e8f16bd"/>
 		<url>https://retroachievements.org/game/1405/hashes</url>
 		<hash>d4f294305fa536fc7974e764900f2fcc</hash>
 	</game>
@@ -6990,7 +6990,7 @@
 	<game name="Retail/Final Fantasy V/Final Fantasy V Spoof (v1.01) (Tzepish)">
 		<category>Super Nintendo</category>
 		<description>Final Fantasy V Spoof (v1.01) (Tzepish)</description>
-		<rom name="Final Fantasy V Spoof (v1.01) (Tzepish).sfc" size="000" crc="000" md5="e002240962051854afbf2e89bcb25128" sha1="000"/>
+		<rom name="Final Fantasy V Spoof (v1.01) (Tzepish).sfc" size="2621440" crc="9a2ee9a8" md5="e002240962051854afbf2e89bcb25128" sha1="43bce4efd3857bf36310c3d91bae71e36b5eafbd"/>
 		<url>https://retroachievements.org/game/1386/hashes</url>
 		<hash>e002240962051854afbf2e89bcb25128</hash>
 	</game>
@@ -7389,28 +7389,28 @@
 	<game name="Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (Rev 2)">
 		<category>Super Nintendo</category>
 		<description>Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (Rev 2)</description>
-		<rom name="Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (Rev 2).sfc" size="000" crc="000" md5="19da7f2058c6a96e3471ca8a65234095" sha1="000"/>
+		<rom name="Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (Rev 2).sfc" size="3145728" crc="c20720c2" md5="19da7f2058c6a96e3471ca8a65234095" sha1="a12c8c8d9056d3096bbb82a0b9e6492ec453da0a"/>
 		<url>https://retroachievements.org/game/2925/hashes</url>
 		<hash>19da7f2058c6a96e3471ca8a65234095</hash>
 	</game>
 	<game name="Go for it! Goemon - The Twinkling Journey (Japan) (En) (v3.0) (DDSTranslation)">
 		<category>Super Nintendo</category>
 		<description>Go for it! Goemon - The Twinkling Journey (Japan) (En) (v3.0) (DDSTranslation)</description>
-		<rom name="Go for it! Goemon - The Twinkling Journey (Japan) (En) (v3.0) (DDSTranslation).sfc" size="000" crc="000" md5="1a13988bf52cc202a78045ac70e34ad8" sha1="000"/>
+		<rom name="Go for it! Goemon - The Twinkling Journey (Japan) (En) (v3.0) (DDSTranslation).sfc" size="4194304" crc="a3334a66" md5="1a13988bf52cc202a78045ac70e34ad8" sha1="3bca946ebb5a4875fe9271738ac1c5238a65f3d2"/>
 		<url>https://retroachievements.org/game/2925/hashes</url>
 		<hash>1a13988bf52cc202a78045ac70e34ad8</hash>
 	</game>
 	<game name="Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan)">
 		<category>Super Nintendo</category>
 		<description>Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan)</description>
-		<rom name="Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan).sfc" size="000" crc="000" md5="a53bee4978d7c8e13cdec5151207de54" sha1="000"/>
+		<rom name="Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan).sfc" size="3145728" crc="bb9d8e56" md5="a53bee4978d7c8e13cdec5151207de54" sha1="ee71384e286f088508a736b7305ad5efecfbcc1a"/>
 		<url>https://retroachievements.org/game/2925/hashes</url>
 		<hash>a53bee4978d7c8e13cdec5151207de54</hash>
 	</game>
 	<game name="Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (De) (v0.99) (Poe)">
 		<category>Super Nintendo</category>
 		<description>Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (De) (v0.99) (Poe)</description>
-		<rom name="Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (De) (v0.99) (Poe).sfc" size="000" crc="000" md5="b3fca51a47bd3d5e10e1efc9d6cb5a1f" sha1="000"/>
+		<rom name="Ganbare Goemon Kirakira Douchuu - Boku ga Dancer ni Natta Wake (Japan) (De) (v0.99) (Poe).sfc" size="4194304" crc="eed9aded" md5="b3fca51a47bd3d5e10e1efc9d6cb5a1f" sha1="59c64d90769b1c9ded16817a209fa8c143c03d4e"/>
 		<url>https://retroachievements.org/game/2925/hashes</url>
 		<hash>b3fca51a47bd3d5e10e1efc9d6cb5a1f</hash>
 	</game>
@@ -7658,14 +7658,14 @@
 	<game name="Retail/Gourmet Sentai Barayarou/Gourmet Warriors (USA) (Piko Interactive)">
 		<category>Super Nintendo</category>
 		<description>Gourmet Warriors (USA) (Piko Interactive)</description>
-		<rom name="Gourmet Warriors (USA) (Piko Interactive).sfc" size="000" crc="000" md5="28a00d931075150c46a1129e5cdea922" sha1="000"/>
+		<rom name="Gourmet Warriors (USA) (Piko Interactive).sfc" size="2621440" crc="b1731446" md5="28a00d931075150c46a1129e5cdea922" sha1="a34385584f49c013171b9865755b31a1dd27b48b"/>
 		<url>https://retroachievements.org/game/2953/hashes</url>
 		<hash>28a00d931075150c46a1129e5cdea922</hash>
 	</game>
 	<game name="Retail/Gourmet Sentai Barayarou/Gourmet Sentai Barayarou (Japan) (En) (v1.0) (chillyfeez)">
 		<category>Super Nintendo</category>
 		<description>Gourmet Sentai Barayarou (Japan) (En) (v1.0) (chillyfeez)</description>
-		<rom name="Gourmet Sentai Barayarou (Japan) (En) (v1.0) (chillyfeez).sfc" size="000" crc="000" md5="0b84cfa9f165f8ebd8bdf632df6b08d6" sha1="000"/>
+		<rom name="Gourmet Sentai Barayarou (Japan) (En) (v1.0) (chillyfeez).sfc" size="3145728" crc="851cfa88" md5="0b84cfa9f165f8ebd8bdf632df6b08d6" sha1="c545023135c1174b04393b250f9d04c426d84fba"/>
 		<url>https://retroachievements.org/game/2953/hashes</url>
 		<hash>0b84cfa9f165f8ebd8bdf632df6b08d6</hash>
 	</game>
@@ -11988,7 +11988,7 @@
 	<game name="Subset/Super Mario All-Stars + Super Mario World (USA) (Subset - Super Mariothon)">
 		<category>Super Nintendo</category>
 		<description>Super Mario All-Stars + Super Mario World (USA) (Subset - Super Mariothon)</description>
-		<rom name="Super Mario All-Stars + Super Mario World (USA) (Subset - Super Mariothon)" size="000" crc="000" md5="7ecaf3e2e021c8a836041c85886f4594" sha1="000"/>
+		<rom name="Super Mario All-Stars + Super Mario World (USA) (Subset - Super Mariothon).sfc" size="2621440" crc="f84305b1" md5="7ecaf3e2e021c8a836041c85886f4594" sha1="d245e41a2b590f7d63666b0772cbddfb26f254a2"
 		<url>https://retroachievements.org/game/34497/hashes</url>
 		<hash>7ecaf3e2e021c8a836041c85886f4594</hash>
 	</game>
@@ -12544,7 +12544,7 @@
 	<game name="Retail/Tales of Phantasia/Tales of Phantasia (Japan) (Es) (v100.3) (Traducciones Magno)">
 		<category>Super Nintendo</category>
 		<description>Tales of Phantasia (Japan) (Es) (v100.3) (Traducciones Magno)</description>
-		<rom name="Tales of Phantasia (Japan) (Es) (v100.3) (Traducciones Magno).sfc" size="000" crc="000" md5="6c4ed1ee8586d3c0f9d8dfae133100d1" sha1="000"/>
+		<rom name="Tales of Phantasia (Japan) (Es) (v100.3) (Traducciones Magno).sfc" size="6291456" crc="5bcc6373" md5="6c4ed1ee8586d3c0f9d8dfae133100d1" sha1="c9e266fedf7f6076930b7b60c9231e43293a55bb"/>
 		<url>https://retroachievements.org/game/2209/hashes</url>
 		<hash>6c4ed1ee8586d3c0f9d8dfae133100d1</hash>
 	</game>

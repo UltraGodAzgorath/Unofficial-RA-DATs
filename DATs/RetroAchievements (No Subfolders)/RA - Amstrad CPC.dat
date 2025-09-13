@@ -5,8 +5,8 @@
 		<name>RA - Amstrad CPC</name>
 		<description>Amstrad CPC</description>
 		<category>No Subfolders</category>
-		<version>20250912</version>
-		<date>12 September 2025</date>
+		<version>20250913</version>
+		<date>13 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/37/games</url>
@@ -466,9 +466,9 @@
 		<category>Retail</category>
 		<description>Dustin (Spain) (CleanCpcDb)</description>
 		<release name="Dustin (Spain) (CleanCpcDb)" region="Spain"/>
-		<rom name="Dustin (Spain) (CleanCpcDb).dsk" size="000" crc="000" md5="f67ca607925f5d2057fdc0588b94b0c0" sha1="000"/>
+		<rom name="Dustin (Spain) (CleanCpcDb).dsk" size="204544" crc="B4FE5896" md5="F67CA607925F5D2057FDC0588B94B0C0" sha1="BF3AE0C9FA270F460C4D16528E8A17B00E214A2E"/>
 		<url>https://retroachievements.org/game/33185/hashes</url>
-		<hash>f67ca607925f5d2057fdc0588b94b0c0</hash>
+		<hash>F67CA607925F5D2057FDC0588B94B0C0</hash>
 	</game>
 	
 	<game name="Gabrielle (France) (CleanCpcDb)">

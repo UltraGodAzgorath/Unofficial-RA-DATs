@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>No Subfolders</category>
-		<version>20250911</version>
-		<date>11 September 2025</date>
+		<version>20250913</version>
+		<date>13 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/7/games</url>
@@ -865,11 +865,11 @@
 		<url>https://retroachievements.org/game/5759/hashes</url>
 		<hash>046b395147cd6f9533d01a7f7c0124a5</hash>
 	</game>
-	<game name="MM2 - Basic Master (v1.2) (Tatsu) (Hack)">
+	<game name="MM2 - Basic Master (v1.0) (Tatsu) (Hack)">
 		<category>Hack</category>
-		<description>MM2 - Basic Master (v1.2) (Tatsu) (Hack)</description>
-		<release name="MM2 - Basic Master (v1.2) (Tatsu) (Hack)" region="World"/>
-		<rom name="MM2 - Basic Master (v1.2) (Tatsu) (Hack).nes" size="262160" crc="8a98de20" md5="d4c34c1b3d14444624a0b3d19a3b9b77" sha1="b516ce749fad65b5774443668f21fd6ab386eaa7"/>
+		<description>MM2 - Basic Master (v1.0) (Tatsu) (Hack)</description>
+		<release name="MM2 - Basic Master (v1.0) (Tatsu) (Hack)" region="World"/>
+		<rom name="MM2 - Basic Master (v1.0) (Tatsu) (Hack).nes" size="262160" crc="8a98de20" md5="d4c34c1b3d14444624a0b3d19a3b9b77" sha1="b516ce749fad65b5774443668f21fd6ab386eaa7"/>
 		<url>https://retroachievements.org/game/5759/hashes</url>
 		<hash>f0c3085c0fa8100b5e3a04a08ce86d69</hash>
 	</game>
@@ -878,7 +878,7 @@
 		<category>Hack</category>
 		<description>Rockman 2 - Basic Master (v1.2) (Tatsu) (Hack)</description>
 		<release name="Rockman 2 - Basic Master (v1.2) (Tatsu) (Hack)" region="World"/>
-		<rom name="Rockman 2 - Basic Master (v1.2) (Tatsu) (Hack).nes" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Rockman 2 - Basic Master (v1.2) (Tatsu) (Hack).nes" size="262160" crc="df673dfc" md5="770d5253d6579b3417778c51747c4b58" sha1="bf918d5bd34bf72ef9330ed2920fe3ce7b25c607"/>
 		<url>https://retroachievements.org/game/1690/hashes</url>
 		<hash>a4b6728bd51fe9b8913525267c209f32</hash>
 	</game>
@@ -2843,7 +2843,7 @@
 		<category>Homebrew</category>
 		<description>Yun (World) (v5) (Aftermarket)</description>
 		<release name="Yun (World) (v5) (Aftermarket)" region="World"/>
-		<rom name="Yun (World) (v5) (Aftermarket).nes" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Yun (World) (v5) (Aftermarket).nes" size="65552" crc="04940713" md5="ad1cf569c8cf113beeec3362581b9f0a" sha1="f016bf14732bbed06d9bbc7854e5d8fb1ee301fa"/>
 		<url>https://retroachievements.org/game/5256/hashes</url>
 		<hash>e0de883f48bc1878ecbc8d0648f6c2cb</hash>
 	</game>
@@ -3927,14 +3927,14 @@
 		<category>Unlicensed</category>
 		<description>Chaoji Zhan Hun - Super Contra 7 (China) (Pirate) (Unl)</description>
 		<release name="Chaoji Zhan Hun - Super Contra 7 (China) (Pirate) (Unl)" region="China"/>
-		<rom name="Chaoji Zhan Hun - Super Contra 7 (China) (Pirate) (Unl).nes" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Chaoji Zhan Hun - Super Contra 7 (China) (Pirate) (Unl).nes" size="262160" crc="6e21829d" md5="0fc97521e5615036e7f2a2b16eef54f8" sha1="4b09900146e299f452c25499622db1d6a16ac3c5"/>
 		<url>https://retroachievements.org/game/33720/hashes</url>
 		<hash>294338f8898fb6633df0995ec3bcca1b</hash>
 	</game>
 	<game name="Chaoji Zhan Hun - Super Contra 7 (China) (960418) (Pirate) (Unl)" cloneof="Super Contra 8 (China) (En) (Pirate) (Unl)">
 		<category>Unlicensed</category>
 		<description>Chaoji Zhan Hun - Super Contra 7 (China) (960418) (Pirate) (Unl)</description>
-		<rom name="Chaoji Zhan Hun - Super Contra 7 (China) (960418) (Pirate) (Unl).nes" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Chaoji Zhan Hun - Super Contra 7 (China) (960418) (Pirate) (Unl).nes" size="262160" crc="39f6e5a6" md5="b35869b01cbe32c8ba622ef511ec4605" sha1="35bbe8be65e5ee7f0f551b605f37cfc416530f4f"/>
 		<url>https://retroachievements.org/game/33720/hashes</url>
 		<hash>d8f0921bd60bbc7c18a4e1f707e5486e</hash>
 	</game>
@@ -3942,7 +3942,7 @@
 		<category>Unlicensed</category>
 		<description>Super Contra 8 (China) (En) (Pirate) (Unl)</description>
 		<release name="Super Contra 8 (China) (En) (Pirate) (Unl)" region="English"/>
-		<rom name="Super Contra 8 (China) (En) (Pirate) (Unl).nes" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Super Contra 8 (China) (En) (Pirate) (Unl).nes" size="262160" crc="c3ac975b" md5="3fd94541eb31adfc4cee6a3e7cb59b3f" sha1="bb7e1a5c01d6f27620696502a09624c64085ef9f"/>
 		<url>https://retroachievements.org/game/33720/hashes</url>
 		<hash>a9f62d479baf78165e34aaf475174de8</hash>
 	</game>
@@ -5717,7 +5717,7 @@
 		<category>Subset</category>
 		<description>Castlevania II - Simon's Quest (Subset - Full Game Damageless)</description>
 		<release name="Castlevania II - Simon's Quest (Subset - Full Game Damageless)" region="World"/>
-		<rom name="Castlevania II - Simon's Quest (Subset - Full Game Damageless).nes" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Castlevania II - Simon's Quest (Subset - Full Game Damageless).nes" size="262160" crc="6fd9458c" md5="dc874b35aeccef000901448a4c7494b2" sha1="8b3419c5562e3f3724feb8b49b67443c2ae6c77e"/>
 		<url>https://retroachievements.org/game/34505/hashes</url>
 		<hash>6396078ec874ce73bced3d841b82ca78</hash>
 	</game>
@@ -14494,7 +14494,7 @@
 		<category>Retail</category>
 		<description>Tetris (Nintendo) (Subset - Master)</description>
 		<release name="Tetris (Nintendo) (Subset - Master)" region="USA"/>
-		<rom name="Tetris (Nintendo) (Subset - Master).nes" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Tetris (Nintendo) (Subset - Master).nes" size="49168" crc="337ee448" md5="91f573dbb29278523e776957288bfd55" sha1="87ba54804ee8ff2545a97344056f4df1ccc9409f"/>
 		<url>https://retroachievements.org/game/34489/hashes</url>
 		<hash>4ef1a460a9356e63477e5538760e0a62</hash>
 	</game>
@@ -15199,7 +15199,7 @@
 		<category>Retail</category>
 		<description>Simpsons, The - Bartman Meets Radioactive Man (USA)</description>
 		<release name="Simpsons, The - Bartman Meets Radioactive Man (USA)" region="USA"/>
-		<rom name="Simpsons, The - Bartman Meets Radioactive Man (USA).nes" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Simpsons, The - Bartman Meets Radioactive Man (USA).nes" size="393232" crc="83ac9c8b" md5="501f1d8cf5cfce79c896a3bfa4af94aa" sha1="14c7842a2f2a248c424dd5d94869d774b96b4b32"/>
 		<url>https://retroachievements.org/game/1950/hashes</url>
 		<hash>394c0aa89801b02a1d0591412ed6d971</hash>
 	</game>

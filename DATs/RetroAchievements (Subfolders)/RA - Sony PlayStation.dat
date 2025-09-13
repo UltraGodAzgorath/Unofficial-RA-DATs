@@ -5,8 +5,8 @@
 		<name>RA - Sony PlayStation</name>
 		<description>Sony PlayStation</description>
 		<category>Subfolders</category>
-		<version>20250911</version>
-		<date>11 September 2025</date>
+		<version>20250913</version>
+		<date>13 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -95,11 +95,11 @@
 		<hash>19d93a59c7a972bd2962006567a4558e</hash>
 	</game>
 	
-	<game name="Hack/Resident Evil - The Prison (v1.2) (Aydan Watkins) (Hack)">
+	<game name="Hack/Resident Evil Survivor Redux - The Prison (v1.2) (Aydan Watkins) (Hack)">
 		<category></category>
-		<description>Resident Evil - The Prison (v1.2) (Aydan Watkins) (Hack)</description>
-		<rom name="Resident Evil - The Prison (v1.2) (Aydan Watkins) (Hack).cue" size="000" crc="000" md5="000" sha1="000"/>
-		<rom name="Resident Evil - The Prison (v1.2) (Aydan Watkins) (Hack).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<description>Resident Evil Survivor Redux - The Prison (v1.2) (Aydan Watkins) (Hack)</description>
+		<rom name="Resident Evil Survivor Redux - The Prison (v1.2) (Aydan Watkins) (Hack).cue" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Resident Evil Survivor Redux - The Prison (v1.2) (Aydan Watkins) (Hack).bin" size="000" crc="000" md5="000" sha1="000"/>
 		<url>https://retroachievements.org/game/18733/hashes</url>
 		<hash>39ccf8963a5f78f2fe6dcbc8a325363c</hash>
 	</game>
@@ -481,8 +481,8 @@
 		<category>Homebrew</category>
 		<description>Five Nights at Freddy's 2 (World) (v1.0.3a) (Soeiz) (Aftermarket)</description>
 		<release name="Five Nights at Freddy's 2 (World) (v1.0.3a) (Soeiz) (Aftermarket)" region="World"/>
-		<rom name="Five Nights at Freddy's 2 (World) (v1.0.3a) (Soeiz) (Aftermarket).cue" size="000" crc="000" md5="000" sha1="000"/>
-		<rom name="Five Nights at Freddy's 2 (World) (v1.0.3a) (Soeiz) (Aftermarket).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Five Nights at Freddy's 2 (World) (v1.0.3a) (Soeiz) (Aftermarket).cue" size="131" crc="3dd58599" md5="76ce17f42aa60465e91ab7e685d5f598" sha1="038afa29f8d3d6d407f78c25101dfda7c9797618"/>
+		<rom name="Five Nights at Freddy's 2 (World) (v1.0.3a) (Soeiz) (Aftermarket).bin" size="126850416" crc="894efb62" md5="54ced92c597f3febc4927c4914ca10c0" sha1="f89df9e5a3494e01f96ad8a36ea8d5213e8cdec5"/>
 		<url>https://retroachievements.org/game/30916/hashes</url>
 		<hash>d8839286d8d0b81ccbd075158d2294e6</hash>
 	</game>
@@ -1813,8 +1813,23 @@
 	<game name="Retail/Building Crush! (Japan)">
 		<category></category>
 		<description>Building Crush! (Japan)</description>
-		<rom name="Building Crush! (Japan).cue" size="000" crc="000" md5="000" sha1="000"/>
-		<rom name="Building Crush! (Japan).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Building Crush! (Japan).cue" size="1870" crc="2c838e13" md5="8ec5e6aa7e6f9c400e96d14ee5ad79db" sha1="3feefec419e7c6e4d7d39ed6e7b913ef1ea00681"/>
+		<rom name="Building Crush! (Japan) (Track 01).bin" size="15617280" crc="f4380eed" md5="64720d6c9766290d4436f557a8416c31" sha1="e43713ae680602facfc02183b3d59561a4357f42"/>
+		<rom name="Building Crush! (Japan) (Track 02).bin" size="16334640" crc="d2c11027" md5="36a2f0d459b6585f074875faced979e8" sha1="5383cae98c1448f970497245b4f8ddda85b9bc33"/>
+		<rom name="Building Crush! (Japan) (Track 03).bin" size="14587104" crc="e61a1a41" md5="ce35a2ad039ea2b3f6d3f320b78d0233" sha1="b13a18c1e99c1bd71fbb6def4904da715510d03c"/>
+		<rom name="Building Crush! (Japan) (Track 04).bin" size="17284848" crc="6b7ef10a" md5="c7d312cb2935c25f9ad6a63a640faf19" sha1="7eace90bf815ff8b8b1d5b51d57f6efff87a18d7"/>
+		<rom name="Building Crush! (Japan) (Track 05).bin" size="18180960" crc="cbf52467" md5="7b86f3a329892f4862f6cb641073d4ae" sha1="a0e48f6d1cc89738beb8885f0fd8d4d94e3f5391"/>
+		<rom name="Building Crush! (Japan) (Track 06).bin" size="17294256" crc="e7e3017f" md5="7f8899da22009d4dc56d1abe642b8ae6" sha1="498fe6959d9f36d1f73f17829c8956869ec41412"/>
+		<rom name="Building Crush! (Japan) (Track 07).bin" size="16609824" crc="37b7719c" md5="990ee45ee83c6142e552ee90549adf1e" sha1="7168f21fea1100dd2443615da7b7d303569a9272"/>
+		<rom name="Building Crush! (Japan) (Track 08).bin" size="16485168" crc="0364461e" md5="b4e0bbb408fa98cf86a92bd142a90120" sha1="341325c5b4ee2784693a7f055a07576cf1c2f2eb"/>
+		<rom name="Building Crush! (Japan) (Track 09).bin" size="18597264" crc="6cab253d" md5="b07978f536c1e8172433d01a23d36aa8" sha1="25d44806251d8074362fa3690e79178647c2f12c"/>
+		<rom name="Building Crush! (Japan) (Track 10).bin" size="16609824" crc="887815c7" md5="e5e79d82f5a0967d557f5890c076cbed" sha1="8a65cf00bf4ba2dc4d8f4cded51ba94bed0c747c"/>
+		<rom name="Building Crush! (Japan) (Track 11).bin" size="16586304" crc="cccc3925" md5="d6444415e3dfe389207bbd04b17ffd78" sha1="280d0186c63d863a0cb30c8a4d50f9a769eefd16"/>
+		<rom name="Building Crush! (Japan) (Track 12).bin" size="1199520" crc="3c2d5d5e" md5="6025b82ab5b8bbf5aa691f605ac82729" sha1="44c6e04d792dc225d4b07e06c2bbe2aa7138d705"/>
+		<rom name="Building Crush! (Japan) (Track 13).bin" size="1519392" crc="bd60cbf7" md5="1d6a752d9bae3cf07e7a7ebf528e9265" sha1="3df13dda3bd9981fc0b8ceac9df0817eda9fad5d"/>
+		<rom name="Building Crush! (Japan) (Track 14).bin" size="17115504" crc="284d5d49" md5="f049040063888c71c4a8509e27be8efd" sha1="b8a28272589c45698c95f0999d1c1ec10b338ec1"/>
+		<rom name="Building Crush! (Japan) (Track 15).bin" size="39929904" crc="86177884" md5="c261473f4da948ecce17bb9739132207" sha1="d0c6a7a9d42e820438b8a2cb7b8dea2f258a7c80"/>
+		<rom name="Building Crush! (Japan) (Track 16).bin" size="39929904" crc="86177884" md5="c261473f4da948ecce17bb9739132207" sha1="d0c6a7a9d42e820438b8a2cb7b8dea2f258a7c80"/>
 		<url>https://retroachievements.org/game/31558/hashes</url>
 		<hash>d97e33ea15c69e6aa9e739cbb24305ba</hash>
 	</game>
@@ -2387,16 +2402,16 @@
 	<game name="Retail/Colony Wars - Red Sun (USA)">
 		<category></category>
 		<description>Colony Wars - Red Sun (USA)</description>
-		<rom name="Colony Wars - Red Sun (USA).cue" size="000" crc="000" md5="000" sha1="000"/>
-		<rom name="Colony Wars - Red Sun (USA).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Colony Wars - Red Sun (USA).cue" size="93" crc="20b80eac" md5="b24fc67692a029e4102c36085da02f6f" sha1="2efa9776f35d975d6cf43e3ce40c81f91f2daff8"/>
+		<rom name="Colony Wars - Red Sun (USA).bin" size="697450320" crc="d475b99c" md5="978507959bab6666b96fbb222c40b1f6" sha1="a2e9b43caac15c2afc63781947428bd64a735e2e"/>
 		<url>https://retroachievements.org/game/11672/hashes</url>
 		<hash>a4628d93b8c27fbafd387f55a11c3436</hash>
 	</game>
 	<game name="Retail/Colony Wars - Red Sun (Europe)">
 		<category></category>
 		<description>Colony Wars - Red Sun (Europe)</description>
-		<rom name="Colony Wars - Red Sun (Europe).cue" size="000" crc="000" md5="000" sha1="000"/>
-		<rom name="Colony Wars - Red Sun (Europe).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Colony Wars - Red Sun (Europe).cue" size="96" crc="99f1f70f" md5="5ce4aab52a7a6f7545432bd0eefcd40f" sha1="bb8f61a07d2596fc91b72f5fe96081556ad2a5f6"/>
+		<rom name="Colony Wars - Red Sun (Europe).bin" size="697438560" crc="9772473c" md5="777f34d2dc57349b4ed3df29d660e6b3" sha1="08260392d48d18ebbbedb4444a9a2263ad8f77cc"/>
 		<url>https://retroachievements.org/game/11672/hashes</url>
 		<hash>c83772498dc62890e5e131bf34490a08</hash>
 	</game>
@@ -4372,8 +4387,8 @@
 	<game name="Retail/Front Mission 3 (USA)">
 		<category></category>
 		<description>Front Mission 3 (USA)</description>
-		<rom name="Front Mission 3 (USA).cue" size="000" crc="000" md5="000" sha1="000"/>
-		<rom name="Front Mission 3 (USA).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Front Mission 3 (USA).cue" size="87" crc="0228572b" md5="a53bc8d7cf1b87938728636accfdb651" sha1="6062f100b6f1691f77e2014996323a8487f47631"/>
+		<rom name="Front Mission 3 (USA).bin" size="616837872" crc="f22c541a" md5="1ef72c80da919babed1404a244b51782" sha1="a563b24d13e2c8714d3da6dcb0b3111108ee5fef"/>
 		<url>https://retroachievements.org/game/11263/hashes</url>
 		<hash>1ed80d5fa5374344ed71472ac1b0eead</hash>
 	</game>
@@ -6795,8 +6810,9 @@
 		<category>Subset</category>
 		<description>Monster Rancher Battle Card - Episode II (USA)</description>
 		<release name="Monster Rancher Battle Card - Episode II (USA)" region="USA"/>
-		<rom name="Monster Rancher Battle Card - Episode II (USA).cue" size="000" crc="000" md5="000" sha1="000"/>
-		<rom name="Monster Rancher Battle Card - Episode II (USA).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Monster Rancher Battle Card - Episode II (USA).cue" size="262" crc="8a8441ee" md5="0a28861f75d12f44dcae0a437ee32752" sha1="00b22e2bafa157bde840063a329530298ec9eeb7"/>
+		<rom name="Monster Rancher Battle Card - Episode II (USA) (Track 1).bin" size="168438480" crc="fc4b8a28" md5="2b3851e6d33f2b450ea66b4210989c8c" sha1="9450eaff545efd49938fe897a49b01bd08680c8c"/>
+		<rom name="Monster Rancher Battle Card - Episode II (USA) (Track 2).bin" size="32634000" crc="cf8bc268" md5="8a791879d4bb4ec9e3c44630d9e20131" sha1="52b066377c2cf39fb0fc150d52296a0243a85eec"/>
 		<url>https://retroachievements.org/game/17498/hashes</url>
 		<hash>10c01742568fcc0a99c7f7cf67631acf</hash>
 	</game>
@@ -8227,8 +8243,8 @@
 	<game name="Retail/Pop'n Music 6 (Japan)">
 		<category></category>
 		<description>Pop'n Music 6 (Japan)</description>
-		<rom name="Pop'n Music 6 (Japan).cue" size="000" crc="000" md5="000" sha1="000"/>
-		<rom name="Pop'n Music 6 (Japan).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Pop'n Music 6 (Japan).cue" size="87" crc="9513323a" md5="17a7495d56f4caa8eb656ee01a00c336" sha1="db0915ccd3ebf5bd24cf476438c518a3fe017d2d"/>
+		<rom name="Pop'n Music 6 (Japan).bin" size="666792000" crc="f89d20a9" md5="22452fb92b05b8c45d40f452a81cc96e" sha1="4314b66e816b2d653f40cff0c0454cbed6c75647"/>
 		<url>https://retroachievements.org/game/19396/hashes</url>
 		<hash>f5c1025a2c5d3c1c980d9b14b68dbed6</hash>
 	</game>
@@ -8977,8 +8993,8 @@
 	<game name="Retail/Resident Evil - Survivor (USA) (Light Gun Support) (Raziel)">
 		<category></category>
 		<description>Resident Evil - Survivor (USA) (Light Gun Support) (Raziel)</description>
-		<rom name="Resident Evil - Survivor (USA) (Light Gun Support) (Raziel).cue" size="000" crc="000" md5="000" sha1="000"/>
-		<rom name="Resident Evil - Survivor (USA) (Light Gun Support) (Raziel).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Resident Evil - Survivor (USA) (Light Gun Support) (Raziel).cue" size="125" crc="23f62e90" md5="b375db913b10a38411572630f003f1c6" sha1="72f9d84861cb0060a5ec1015211cb42648f8a373"/>
+		<rom name="Resident Evil - Survivor (USA) (Light Gun Support) (Raziel).bin" size="425730816" crc="6eb4926c" md5="cdd002f54d168adc09b6eac6f6b2e2fb" sha1="34b4878d9bad67f6bffe8a221854cb525db2f8e6"/>
 		<url>https://retroachievements.org/game/11419/hashes</url>
 		<hash>391d2b7e6a5d87eb04db05573f12a45b</hash>
 	</game>
@@ -10595,7 +10611,8 @@
 	<game name="Retail/Suzuki Bakuhatsu (Japan)">
 		<category></category>
 		<description>Suzuki Bakuhatsu (Japan)</description>
-		<rom name="Suzuki Bakuhatsu (Japan).cue" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Suzuki Bakuhatsu (Japan).cue" size="90" crc="386c291b" md5="c0b8d49d14f35a041a025285c6b4a7c7" sha1="ed9df67e6dfd60deae56a187d136938a34102918"/>
+		<rom name="Suzuki Bakuhatsu (Japan).bin" size="677865216" crc="ec9f6b6a" md5="444f3f8ce00bfbdbdc62a4625aa1b1cf" sha1="d744a241123c06e88bc4821d594d4fff2a8b8419"/>
 		<url>https://retroachievements.org/game/21999/hashes</url>
 		<hash>d5a2e2e59fd52cb08ccac936bdd8791e</hash>
 	</game>
@@ -11252,8 +11269,8 @@
 	<game name="Subset/Walt Disney's The Jungle Book - Rhythm n' Groove (Subset - Crazy Perfect Full Clear)">
 		<category></category>
 		<description>Walt Disney's The Jungle Book - Rhythm n' Groove (Subset - Crazy Perfect Full Clear)</description>
-		<rom name="Walt Disney's The Jungle Book - Rhythm n' Groove (Subset - Crazy Perfect Full Clear).cue" size="000" crc="000" md5="000" sha1="000"/>
-		<rom name="Walt Disney's The Jungle Book - Rhythm n' Groove (Subset - Crazy Perfect Full Clear).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Walt Disney's The Jungle Book - Rhythm n' Groove (Subset - Crazy Perfect Full Clear).cue" size="150" crc="bcc0aa55" md5="f9637cc4839036c307dbe1b4ecc89f54" sha1="529f11d6b2648ce171a3201c7403e4ef44733f11"/>
+		<rom name="Walt Disney's The Jungle Book - Rhythm n' Groove (Subset - Crazy Perfect Full Clear).bin" size="749403648" crc="c1278d40" md5="7d5d3f03915500dcef383f4c2641fba3" sha1="2e4e5578f50c50be32d9c728aa92a1ed54cd6f90"/>
 		<url>https://retroachievements.org/game/34501/hashes</url>
 		<hash>bf0f77301387212379f7182a343589b7</hash>
 	</game>
@@ -11487,6 +11504,15 @@
 		<rom name="SuperLite 1500 Series - The Tetris (Japan).bin" size="58212000" crc="bf1322a5" md5="fd56b6dec5a592158b81dc614973268f" sha1="92624fc19d63669810a4834955b17f1d769d6b45"/>
 		<url>https://retroachievements.org/game/836/hashes</url>
 		<hash>47c0e60ca708412509d1bd36656ea6f9</hash>
+	</game>
+	
+	<game name="Retail/Theme Hospital (Europe) (En,Fr,De,Es,It,Sv)">
+		<category></category>
+		<description>Theme Hospital (Europe) (En,Fr,De,Es,It,Sv)</description>
+		<rom name="Theme Hospital (Europe) (En,Fr,De,Es,It,Sv).cue" size="109" crc="771d5f4d" md5="ccde001cede4876ffe793a469de16958" sha1="b4a8413b67d18a771c7bbafa558c47f68f90783c"/>
+		<rom name="Theme Hospital (Europe) (En,Fr,De,Es,It,Sv).bin" size="304725120" crc="07f246b2" md5="0b387bdb27bd19f917c1bcbc66b23ade" sha1="9b3a2400e99be07dbd5df8d106a2f7267446c764"/>
+		<url>https://retroachievements.org/game/13969/hashes</url>
+		<hash>75e94d00ff8719f3137f175f18e1f4ee</hash>
 	</game>
 	
 	<game name="Retail/Disney Presents Tigger's Honey Hunt (USA)">

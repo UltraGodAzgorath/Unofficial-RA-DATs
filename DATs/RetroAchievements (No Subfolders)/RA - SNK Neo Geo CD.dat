@@ -5,8 +5,8 @@
 		<name>RA - SNK Neo Geo CD</name>
 		<description>SNK Neo Geo CD</description>
 		<category>No Subfolders</category>
-		<version>20250912</version>
-		<date>12 September 2025</date>
+		<version>20250913</version>
+		<date>13 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/56/games</url>
@@ -1008,7 +1008,19 @@
 		<description>Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA)</description>
 		<release name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA)" region="Japan"/>
 		<release name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA)" region="USA"/>
-		<rom name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA).cue" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA).cue" size="1674" crc="cca90e2c" md5="def155015f5ea689cd449d2d22dce3cc" sha1="bb87f206e637227cb1bb064058bcbf1bbf13d668"/>
+		<rom name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA) (Track 01).bin" size="10139472" crc="999747b1" md5="8ae0edee592b657d610fd459878481f5" sha1="fc5c36934ec5a9c0ba3461f8fc7ce8509902e171"/>
+		<rom name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA) (Track 02).bin" size="56584416" crc="68cac229" md5="b805a3ce1c9b21fc49fee810c0051dd0" sha1="aabd6bc5d7ba99c658050e451a737f14e0b7b112"/>
+		<rom name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA) (Track 03).bin" size="56913696" crc="8c25424c" md5="5510d4b483511479f40d727996c15231" sha1="e648cb981052784be5eff2f54ac55c05415e5118"/>
+		<rom name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA) (Track 04).bin" size="56048160" crc="978b9a43" md5="1b9742bbdf6b480ec2f70b04cfbb954b" sha1="02f1fb1ee9204815cd355a63dd1f996e98ea4970"/>
+		<rom name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA) (Track 05).bin" size="57487584" crc="f2397eb3" md5="a8d7029ceb75c4343e1008bf50f6cd21" sha1="e9468df39da1e13574a44f43044d61e42db188ee"/>
+		<rom name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA) (Track 06).bin" size="56102256" crc="cfa04267" md5="3c667873828c6ad28b59a34e6aca3863" sha1="5448c2adf5352c314a52b5d3174f0df37e8872ed"/>
+		<rom name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA) (Track 07).bin" size="13272336" crc="6c387cb3" md5="835463358d973e3483e66f7b648e3f36" sha1="27e5962e2aa898d885f3933225c076042b5a2148"/>
+		<rom name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA) (Track 08).bin" size="4932144" crc="fe266910" md5="4493a9e9c0ec8f5564f4625f9fdc42e5" sha1="84312944f20ad27de319bf60a723258b3e4c7926"/>
+		<rom name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA) (Track 09).bin" size="3492720" crc="68617df8" md5="b054f79f52582b9ca227105a400c5f13" sha1="108b27f2678cb509d0de9c45039785fea5e183a8"/>
+		<rom name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA) (Track 10).bin" size="36698256" crc="143da5de" md5="869ae7c0d4ddd73e6aca3d1e92b0903e" sha1="f108ec16e087f23cd2777ea60b577324a4d5d526"/>
+		<rom name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA) (Track 11).bin" size="3118752" crc="2269524b" md5="22176550f890aef57a23f95a1e3c8436" sha1="101d28e49adf035f397a74cb765edab6c50c0bfe"/>
+		<rom name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA) (Track 12).bin" size="25354560" crc="1a5856ed" md5="3efb82dd51cae7290b6b87a3b65a18c5" sha1="225c9fb63e804fcac13d0f646b18fa78dd1e107f"/>
 		<url>https://retroachievements.org/game/23835/hashes</url>
 		<hash>26e2b6677508159f29b408f143ae5b03</hash>
 	</game>

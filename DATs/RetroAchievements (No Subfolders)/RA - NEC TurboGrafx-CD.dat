@@ -5,8 +5,8 @@
 		<name>RA - NEC TurboGrafx-CD</name>
 		<description>NEC TurboGrafx-CD</description>
 		<category>No Subfolders</category>
-		<version>20250912</version>
-		<date>12 September 2025</date>
+		<version>20250913</version>
+		<date>13 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/76/games</url>
@@ -37,11 +37,23 @@
 		<hash>298734ae483ac59e9f3c37aa1c1b090d</hash>
 	</game>
 	
-	<game name="Revival Chase (USA) (En,Fr) (Aftermarket)">
+	<game name="Revival Chase (USA) (En,Fr) (Unl)">
 		<category>Homebrew</category>
-		<description>Revival Chase (USA) (En,Fr) (Aftermarket)</description>
-		<release name="Revival Chase (USA) (En,Fr) (Aftermarket)" region="World"/>
-		<rom name="Revival Chase (USA) (En,Fr) (Aftermarket).iso" size="000" crc="000" md5="000" sha1="000"/>
+		<description>Revival Chase (USA) (En,Fr) (Unl)</description>
+		<release name="Revival Chase (USA) (En,Fr) (Unl)" region="World"/>
+		<rom name="Revival Chase (USA) (En,Fr) (Unl).cue" size="1518" crc="3f6da1a3" md5="48533166925183cd6df80ea67f3415e8" sha1="f7481fb27806322080d2b57aa36c4604fa6262fd"/>
+		<rom name="Revival Chase (USA) (En,Fr) (Unl) (Track 01).bin" size="5115600" crc="6ffad6a2" md5="820322423b1fa93019514903edcfcf73" sha1="405d4fad91304a0de94ef36bc10bec082bf3404d"/>
+		<rom name="Revival Chase (USA) (En,Fr) (Unl) (Track 02).bin" size="24733632" crc="efb59ee7" md5="25483acdd242cb27c1080765e85953e1" sha1="fbe108459e04b2744dc5d2e0cdcc796ff25bb62f"/>
+		<rom name="Revival Chase (USA) (En,Fr) (Unl) (Track 03).bin" size="12348000" crc="0765a3e5" md5="8e9ed2d3e658d211f0edf8c97de066f4" sha1="48abd54e5c4a948045902674cd205a61d612b3fc"/>
+		<rom name="Revival Chase (USA) (En,Fr) (Unl) (Track 04).bin" size="3880800" crc="b8cd000c" md5="2ea41f7aa9ec1898b7d38263c795f1b8" sha1="bde111daac1bd77214a0fe2f0ffd182cba06801b"/>
+		<rom name="Revival Chase (USA) (En,Fr) (Unl) (Track 05).bin" size="11642400" crc="c1aa24e3" md5="dd03bbc12634f30150512ac5b83d264c" sha1="33d0a1a85d564702babc64bfb98e72b5bde8fd66"/>
+		<rom name="Revival Chase (USA) (En,Fr) (Unl) (Track 06).bin" size="14817600" crc="14c9926d" md5="ae1498439668b524bbd18d1c3df8749e" sha1="f3c7067b7625120e821948ec3869e8c9de0917e3"/>
+		<rom name="Revival Chase (USA) (En,Fr) (Unl) (Track 07).bin" size="25930800" crc="15cd52c6" md5="042098ae4ac8bc339a832afda2ec421f" sha1="6e60015936ed5982c50bc26856a3fbd832c44e65"/>
+		<rom name="Revival Chase (USA) (En,Fr) (Unl) (Track 08).bin" size="23284800" crc="9cd7ca50" md5="9d39a91d7b78f9ab929484deae9be232" sha1="46de2e1f1119449bc4dcf0ebb18bc07a92b02d00"/>
+		<rom name="Revival Chase (USA) (En,Fr) (Unl) (Track 09).bin" size="1411200" crc="c7116ea8" md5="f64ca55c7ecd4fb6619ed31536b1f376" sha1="5cef71d1c142700be03293d94ef2be04352d983c"/>
+		<rom name="Revival Chase (USA) (En,Fr) (Unl) (Track 10).bin" size="33516000" crc="a6ede8d6" md5="ddca5802a5d593ab941f6c06a5cc0c06" sha1="728fd313377d0463e49ad9813c1a6b165625077b"/>
+		<rom name="Revival Chase (USA) (En,Fr) (Unl) (Track 11).bin" size="27518400" crc="6590a53d" md5="f80eac0babbd2a7b954e3f9db3caa582" sha1="eece8b0cf9a150a6a6ee9c95937bf434f566f8d4"/>
+		<rom name="Revival Chase (USA) (En,Fr) (Unl) (Track 12).bin" size="27845328" crc="3b0939c2" md5="3730b2d4a7198fb4ea729b107615e616" sha1="be3ba047fe2f442efed44bcd35f245062f0cf05c"/>
 		<url>https://retroachievements.org/game/22904/hashes</url>
 		<hash>518bf8ee44071aeb26ade0369360a172</hash>
 	</game>

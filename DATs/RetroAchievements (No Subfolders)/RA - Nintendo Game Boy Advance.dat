@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>No Subfolders</category>
-		<version>20250911</version>
-		<date>11 September 2025</date>
+		<version>20250913</version>
+		<date>13 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -1064,7 +1064,7 @@
 		<category>Homebrew</category>
 		<description>Celeste (World) (v1.1 Beta) (Aftermarket)</description>
 		<release name="Celeste (World) (v1.1 Beta) (Aftermarket)" region="World"/>
-		<rom name="Celeste (World) (v1.1 Beta) (Aftermarket).gba" size="000" crc="000" md5="b80cc711be05a40a2707fbf8027f120e" sha1="000"/>
+		<rom name="Celeste (World) (v1.1 Beta) (Aftermarket).gba" size="1049632" crc="093e3f81" md5="b80cc711be05a40a2707fbf8027f120e" sha1="28e06f2cf9782a68a2fe17fabdab95ef91212d6e"/>
 		<url>https://retroachievements.org/game/24913/hashes</url>
 		<hash>b80cc711be05a40a2707fbf8027f120e</hash>
 	</game>
@@ -1082,7 +1082,7 @@
 		<category>Homebrew</category>
 		<description>Celeste Classic 2 (World) (v1.0) (Skaleee) (Aftermarket)</description>
 		<release name="Celeste Classic 2 (World) (v1.0) (Skaleee) (Aftermarket)" region="World"/>
-		<rom name="Celeste Classic 2 (World) (v1.0) (Skaleee) (Aftermarket).gba" size="000" crc="000" md5="c54284810931820a1b3e9e86b7aac6f1" sha1="000"/>
+		<rom name="Celeste Classic 2 (World) (v1.0) (Skaleee) (Aftermarket).gba" size="4506328" crc="069607d0" md5="c54284810931820a1b3e9e86b7aac6f1" sha1="19dc1dd4e53722dc64cd1e7f97847b4cabf2f658"/>
 		<url>https://retroachievements.org/game/34096/hashes</url>
 		<hash>c54284810931820a1b3e9e86b7aac6f1</hash>
 	</game>
@@ -1343,7 +1343,7 @@
 		<category>Homebrew</category>
 		<description>Portal Advance (World) (v20161112) (Ashley Samuelson) (Aftermarket)</description>
 		<release name="Portal Advance (World) (v20161112) (Ashley Samuelson) (Aftermarket)" region="World"/>
-		<rom name="Portal Advance (World) (v20161112) (Ashley Samuelson) (Aftermarket).gba" size="000" crc="000" md5="65080cc9ae25fc558c6fb0a1eb0a3b2b" sha1="000"/>
+		<rom name="Portal Advance (World) (v20161112) (Ashley Samuelson) (Aftermarket).gba" size="201176" crc="50f6efe7" md5="65080cc9ae25fc558c6fb0a1eb0a3b2b" sha1="72bbae5413aee1f31aa5f7015ea4871448c03f89"/>
 		<url>https://retroachievements.org/game/33742/hashes</url>
 		<hash>65080cc9ae25fc558c6fb0a1eb0a3b2b</hash>
 	</game>
@@ -1914,7 +1914,7 @@
 		<category>Retail</category>
 		<description>Batman Begins (USA, Europe) (En,Fr,De,Es,It,Nl)</description>
 		<release name="Batman Begins (USA, Europe) (En,Fr,De,Es,It,Nl)" region="USA"/>
-		<rom name="Batman Begins (USA, Europe) (En,Fr,De,Es,It,Nl).gba" size="000" crc="000" md5="8c48059bf2c40a78b9739edf5ea411cb" sha1="000"/>
+		<rom name="Batman Begins (USA, Europe) (En,Fr,De,Es,It,Nl).gba" size="16777216" crc="83c90106" md5="8c48059bf2c40a78b9739edf5ea411cb" sha1="05c7c1bea2b0cb77976e07c8f2a8b0ef5d1f5685"/>
 		<url>https://retroachievements.org/game/5287/hashes</url>
 		<hash>8c48059bf2c40a78b9739edf5ea411cb</hash>
 	</game>
@@ -4359,7 +4359,7 @@
 		<category>Retail</category>
 		<description>Advance GTA (Japan) (En) (Rev 1)</description>
 		<release name="Advance GTA (Japan) (En) (Rev 1)" region="Japan"/>
-		<rom name="Advance GTA (Japan) (En) (Rev 1).gba" size="000" crc="000" md5="266da549741dbc9b9c902c113b13b4b6" sha1="000"/>
+		<rom name="Advance GTA (Japan) (En) (Rev 1).gba" size="8388608" crc="fca59484" md5="266da549741dbc9b9c902c113b13b4b6" sha1="d93aba5e7f1195f357578106940e2bd916dcf02d"/>
 		<url>https://retroachievements.org/game/8209/hashes</url>
 		<hash>266da549741dbc9b9c902c113b13b4b6</hash>
 	</game>
@@ -4447,7 +4447,7 @@
 		<category>Retail</category>
 		<description>Hachiemon (Japan)</description>
 		<release name="Hachiemon (Japan)" region="Japan"/>
-		<rom name="Hachiemon (Japan).gba" size="000" crc="000" md5="6c8460b00a7dcade834b0579116771db" sha1="000"/>
+		<rom name="Hachiemon (Japan).gba" size="4194304" crc="47c45b41" md5="6c8460b00a7dcade834b0579116771db" sha1="10c16950388599846c2a61cacc315ba81a752deb"/>
 		<url>https://retroachievements.org/game/9704/hashes</url>
 		<hash>6c8460b00a7dcade834b0579116771db</hash>
 	</game>
@@ -4661,7 +4661,7 @@
 		<category>Retail</category>
 		<description>I Spy Challenger! (USA)</description>
 		<release name="I Spy Challenger! (USA)" region="USA"/>
-		<rom name="I Spy Challenger! (USA).gba" size="000" crc="000" md5="a3201407f7988a563f4dfb243db02bcb" sha1="000"/>
+		<rom name="I Spy Challenger! (USA).gba" size="8388608" crc="946d2cbb" md5="a3201407f7988a563f4dfb243db02bcb" sha1="532934239ea1151927fd45298d918e0646a6bea4"/>
 		<url>https://retroachievements.org/game/6947/hashes</url>
 		<hash>a3201407f7988a563f4dfb243db02bcb</hash>
 	</game>

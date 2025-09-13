@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>Subfolders</category>
-		<version>20250911</version>
-		<date>11 September 2025</date>
+		<version>20250913</version>
+		<date>13 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
@@ -1065,7 +1065,7 @@
 	<game name="Retail/Avatar - The Last Airbender (USA)">
 		<category></category>
 		<description>Avatar - The Last Airbender (USA)</description>
-		<rom name="Avatar - The Last Airbender (USA).nds" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Avatar - The Last Airbender (USA).nds" size="67108864" crc="ffe264d5" md5="9c74123626572faa3ca9f27c28be0b78" sha1="b5bdc88489ad74399e2ed968d816669e594a5f74"/>
 		<url>https://retroachievements.org/game/7976/hashes</url>
 		<hash>76b7bea6a603edfbea8f956b7e6387b4</hash>
 	</game>
@@ -1586,7 +1586,7 @@
 	<game name="Retail/Crash Boom Bang! (USA)">
 		<category></category>
 		<description>Crash Boom Bang! (USA)</description>
-		<rom name="Crash Boom Bang! (USA).nds" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Crash Boom Bang! (USA).nds" size="67108864" crc="4f7705e9" md5="a763e26b413cd6a5722de4a12c57b544" sha1="e9cf7eef82f201938691a1a901675d7765c3e529"/>
 		<url>https://retroachievements.org/game/16540/hashes</url>
 		<hash>4a2fda1d73ee6ac0110e5d1996c7c95a</hash>
 	</game>
@@ -2105,7 +2105,7 @@
 	<game name="Retail/Final Fantasy Crystal Chronicles - Ring of Fates (Europe) (En,Fr,De,Es)">
 		<category></category>
 		<description>Final Fantasy Crystal Chronicles - Ring of Fates (Europe) (En,Fr,De,Es)</description>
-		<rom name="Final Fantasy Crystal Chronicles - Ring of Fates (Europe) (En,Fr,De,Es).nds" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Final Fantasy Crystal Chronicles - Ring of Fates (Europe) (En,Fr,De,Es).nds" size="134217728" crc="295a54eb" md5="102c92cc35c12fa13848bd74b209a393" sha1="e7aa73affc4106081c2c04a63540937af399bb25"/>
 		<url>https://retroachievements.org/game/16244/hashes</url>
 		<hash>8e25fe590d0b0099f5fc10a50bd55f29</hash>
 	</game>
@@ -2397,7 +2397,7 @@
 	<game name="Retail/Horrible Histories - Ruthless Romans (Europe) (En,Fr,De,Es,It)">
 		<category></category>
 		<description>Horrible Histories - Ruthless Romans (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="Horrible Histories - Ruthless Romans (Europe) (En,Fr,De,Es,It).nds" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Horrible Histories - Ruthless Romans (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="78a2a298" md5="098f5e0e0a753e833081725adecadb17" sha1="0fccde1d52305780b3f5e7e8fac46f7baa97c8e0"/>
 		<url>https://retroachievements.org/game/16339/hashes</url>
 		<hash>e96b40c226603d63788eec0f5295ad5f</hash>
 	</game>
@@ -4991,49 +4991,49 @@
 	<game name="Retail/Shrek - Ogres &amp; Dronkeys/Shrek - Ogres &amp; Dronkeys (United Kingdom)">
 		<category></category>
 		<description>Shrek - Ogres &amp; Dronkeys (United Kingdom)</description>
-		<rom name="Shrek - Ogres &amp; Dronkeys (United Kingdom).nds" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Shrek - Ogres &amp; Dronkeys (United Kingdom).nds" size="67108864" crc="267b48d4" md5="22f170cef0349f47d1ce163101a91bf9" sha1="11c76a9b573ab7a9878664c3228a46df3a21c89f"/>
 		<url>https://retroachievements.org/game/16554/hashes</url>
 		<hash>d63e16d2f192f2ddbbdd07255c8c109f</hash>
 	</game>
 	<game name="Retail/Shrek - Ogres &amp; Dronkeys/Shrek - Oger und Dresel (Germany)">
 		<category></category>
 		<description>Shrek - Oger und Dresel (Germany)</description>
-		<rom name=".nds" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Shrek - Oger und Dresel (Germany).nds" size="67108864" crc="ae009e20" md5="ea10a921b7389e74fd4d4255fb9f7870" sha1="96b935cb2544b8dc36f495d86fe39f853178645c"/>
 		<url>https://retroachievements.org/game/16554/hashes</url>
 		<hash>b6454c6ecd6d6632d8987385a275f9e9</hash>
 	</game>
 	<game name="Retail/Shrek - Ogres &amp; Dronkeys/Shrek - Ogres &amp; Dronkeys (Netherlands)">
 		<category></category>
 		<description>Shrek - Ogres &amp; Dronkeys (Netherlands)</description>
-		<rom name="Shrek - Ogres &amp; Dronkeys (Netherlands).nds" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Shrek - Ogres &amp; Dronkeys (Netherlands).nds" size="67108864" crc="9a9c345b" md5="13ec84a1ffb26f6a4ee36a7b952f9cdc" sha1="25ee60ff4f555f3b886bf49e755a5b51902d67fd"/>
 		<url>https://retroachievements.org/game/16554/hashes</url>
 		<hash>fce8b35a6b84f157a165e3b0b4353985</hash>
 	</game>
 	<game name="Retail/Shrek - Ogres &amp; Dronkeys/Shrek - Ogres &amp; Dronkeys (USA)">
 		<category></category>
 		<description>Shrek - Ogres &amp; Dronkeys (USA)</description>
-		<rom name="Shrek - Ogres &amp; Dronkeys (USA).nds" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Shrek - Ogres &amp; Dronkeys (USA).nds" size="67108864" crc="4cd060fc" md5="ba4a26b3ea505b166c8338403e4ea322" sha1="06e3252e5d45f0673503cc1e1c10172176d6c410"/>
 		<url>https://retroachievements.org/game/16554/hashes</url>
 		<hash>70fa0b78341df60109c66283549d8f41</hash>
 	</game>
 	<game name="Retail/Shrek - Ogres &amp; Dronkeys/Shrek - Ogres et Dranons (France)">
 		<category></category>
 		<description>Shrek - Ogres et Dranons (France)</description>
-		<rom name="Shrek - Ogres et Dranons (France).nds" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Shrek - Ogres et Dranons (France).nds" size="67108864" crc="3eca9325" md5="dca7ed5ec8f7f1c0970e369cb9b9f85e" sha1="34290eec477b4eab9f8d1696c5ec52c860e500fa"/>
 		<url>https://retroachievements.org/game/16554/hashes</url>
 		<hash>dbbe9d2e6896fc66aacb97a83a3c756e</hash>
 	</game>
 	<game name="Retail/Shrek - Ogres &amp; Dronkeys/Shrek - Ogritos y Drasnos (Spain)">
 		<category></category>
 		<description>Shrek - Ogritos y Drasnos (Spain)</description>
-		<rom name="Shrek - Ogritos y Drasnos (Spain).nds" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Shrek - Ogritos y Drasnos (Spain).nds" size="67108864" crc="0061511f" md5="aceb020fef2163f4561b387ed900c6d9" sha1="34e4abcd2cf39214a25cc6e97122e655fc7959fa"/>
 		<url>https://retroachievements.org/game/16554/hashes</url>
 		<hash>627d1755f07e1730f15c6fa23125f892</hash>
 	</game>
 	<game name="Retail/Shrek - Ogres &amp; Dronkeys/Shrek - Orchetti e Ciuchini (Italy)">
 		<category></category>
 		<description>Shrek - Orchetti e Ciuchini (Italy)</description>
-		<rom name="Shrek - Orchetti e Ciuchini (Italy).nds" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Shrek - Orchetti e Ciuchini (Italy).nds" size="67108864" crc="0d0a6ef2" md5="8ffaa2354371b9eb1b1014094b7dea4d" sha1="5a699780834f2d8fdaf3280a74d4108ecb1ac3af"/>
 		<url>https://retroachievements.org/game/16554/hashes</url>
 		<hash>ce40ff78fb073bc6446bb6ffdef9a67d</hash>
 	</game>

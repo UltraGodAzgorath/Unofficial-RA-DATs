@@ -5,8 +5,8 @@
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
 		<category>No Subfolders</category>
-		<version>20250912</version>
-		<date>12 September 2025</date>
+		<version>20250913</version>
+		<date>13 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/16/games</url>
@@ -90,7 +90,7 @@
 	<game name="Paper Mario TTYD - The Tower of Trials (v3.10 r54) (Jdaster64) (Hack)" cloneof="Paper Mario TTYD - The Tower of Trials (v3.11.1 r56) (Jdaster64) (Hack)">
 		<category>Hack</category>
 		<description>Paper Mario TTYD - The Tower of Trials (v3.10 r54) (Jdaster64) (Hack)</description>
-		<rom name="Paper Mario TTYD - The Tower of Trials (v3.10 r54) (Jdaster64) (Hack).rvz" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Paper Mario TTYD - The Tower of Trials (v3.10 r54) (Jdaster64) (Hack).rvz" size="337457508" crc="2b2c99d6" md5="05836d782a3ab43b5adda0cffd38263d" sha1="ac10eb36d45677780da02924549a92c287141132"/>
 		<url>https://retroachievements.org/game/31187/hashes</url>
 		<hash>fa9de0bc1c19b3184b5be10a8ff4706c</hash>
 	</game>
@@ -98,7 +98,7 @@
 		<category>Hack</category>
 		<description>Paper Mario TTYD - The Tower of Trials (v3.11.1 r56) (Jdaster64) (Hack)</description>
 		<release name="Paper Mario TTYD - The Tower of Trials (v3.11.1 r56) (Jdaster64) (Hack)" region="World"/>
-		<rom name="Paper Mario TTYD - The Tower of Trials (v3.11.1 r56) (Jdaster64) (Hack).rvz" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Paper Mario TTYD - The Tower of Trials (v3.11.1 r56) (Jdaster64) (Hack).rvz" size="337458024" crc="d8c74918" md5="08a94d98148f4092566ec48f6906f5bd" sha1="1ad6979e9d33195f672d1ed17acd3ef6b692e1db"/>
 		<url>https://retroachievements.org/game/31187/hashes</url>
 		<hash>e5601a8ba965c19cb3915d0e319ae3e9</hash>
 	</game>
@@ -107,7 +107,7 @@
 		<category>Hack</category>
 		<description>Pikmin 2 - Pikmin 1^2 (v1.1) (PikHacker) (Hack)</description>
 		<release name="Pikmin 2 - Pikmin 1^2 (v1.1) (PikHacker) (Hack)" region="World"/>
-		<rom name="Pikmin 2 - Pikmin 1^2 (v1.1) (PikHacker) (Hack).rvz" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Pikmin 2 - Pikmin 1^2 (v1.1) (PikHacker) (Hack).rvz" size="1166334264" crc="2b378144" md5="e387b5e3d1ca033b29a1416bd4f48ac8" sha1="1aae1fcf1589ca9e9194436c2d29258015fd90e4"/>
 		<url>https://retroachievements.org/game/32657/hashes</url>
 		<hash>f45d751b8a2131de52cbcdb98e4ac227</hash>
 	</game>
@@ -1349,7 +1349,7 @@
 	<game name="Pikmin (USA)" cloneof="Pikmin (USA) (Rev 1)">
 		<category>Retail</category>
 		<description>Pikmin (USA)</description>
-		<rom name="Pikmin (USA).rvz" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Pikmin (USA).rvz" size="555226924" crc="f2f31518" md5="df5a6de6750ea8163cd71d749c1ac7a9" sha1="874a6c54b360270a74d5fc533185816f3e553211"/>
 		<url>https://retroachievements.org/game/15540/hashes</url>
 		<hash>7ce5f148c0e82f75918bf85fafbbaa9f</hash>
 	</game>
@@ -1538,10 +1538,11 @@
 		<url>https://retroachievements.org/game/6870/hashes</url>
 		<hash>7D980856F5F09B295FA3278645CF229F</hash>
 	</game>
-	<game name="Resident Evil 3 - Nemesis (Unknown)" cloneof="Resident Evil 3 - Nemesis (USA)">
+	<game name="Resident Evil 3 - Nemesis (USA) (Ru) (v1.0) (Akella, Ivan89el)" cloneof="Resident Evil 3 - Nemesis (USA)">
 		<category>Retail</category>
-		<description>Resident Evil 3 - Nemesis (Unknown)</description>
-		<rom name="Resident Evil 3 - Nemesis (Unknown).rvz" size="000" crc="000" md5="000" sha1="000"/>
+		<description>Resident Evil 3 - Nemesis (USA) (Ru) (v1.0) (Akella, Ivan89el)</description>
+		<release name="Resident Evil 3 - Nemesis (USA) (Ru) (v1.0) (Akella, Ivan89el)" region="Russia"/>
+		<rom name="Resident Evil 3 - Nemesis (USA) (Ru) (v1.0) (Akella, Ivan89el).rvz" size="923497d4" crc="923497d4" md5="ef6805e8869d89d6cecbaad5210a39c6" sha1="c0e5cf63f97a6e6a95f4623e770168f4af15b7b0"/>
 		<url>https://retroachievements.org/game/6870/hashes</url>
 		<hash>027fe88ad51b493eb37f3e4f49ad0b59</hash>
 	</game>
@@ -2425,7 +2426,7 @@
 		<category>Retail</category>
 		<description>TimeSplitters - Future Perfect (USA)</description>
 		<release name="TimeSplitters - Future Perfect (USA)" region="USA"/>
-		<rom name="TimeSplitters - Future Perfect (USA).rvz" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="TimeSplitters - Future Perfect (USA).rvz" size="1046840276" crc="329b03c9" md5="90e7ad1498b68cf1bbd18d633268781a" sha1="64432bc59e31d0d3e9e60526c7f71cbfd32591d2"/>
 		<url>https://retroachievements.org/game/3774/hashes</url>
 		<hash>a925b0cd2194524439f0f35a359ec0bc</hash>
 	</game>

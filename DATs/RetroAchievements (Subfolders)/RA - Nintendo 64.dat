@@ -5,8 +5,8 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>Subfolders</category>
-		<version>20250911</version>
-		<date>11 September 2025</date>
+		<version>20250913</version>
+		<date>13 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/2/games</url>
@@ -489,7 +489,7 @@
 	<game name="Hack/Super Mario 64/SM64 - Katze Stuck in the Toilet 64 (Console Compatible) (Tomatobird8) (Hack)">
 		<category>Nintendo 64</category>
 		<description>SM64 - Katze Stuck in the Toilet 64 (Console Compatible) (Tomatobird8) (Hack)</description>
-		<rom name="SM64 - Katze Stuck in the Toilet 64 (Console Compatible) (Tomatobird8) (Hack).z64" size="000" crc="000" md5="3070a074b89292d7edc9879473eb5231" sha1="000"/>
+		<rom name="SM64 - Katze Stuck in the Toilet 64 (Console Compatible) (Tomatobird8) (Hack).z64" size="8851824" crc="c1da101c" md5="3070a074b89292d7edc9879473eb5231" sha1="6448c44a02d44c4492521ce1897b68d7aea2a758"/>
 		<url>https://retroachievements.org/game/34484/hashes</url>
 		<hash>3070a074b89292d7edc9879473eb5231</hash>
 	</game>
@@ -1226,7 +1226,7 @@
 	<game name="Hack/Super Mario 64/SM64 - Omega Mario 64 (v1.1) (Omega_Merk, FrostyZako) (Hack)">
 		<category>Nintendo 64</category>
 		<description>SM64 - Omega Mario 64 (v1.1) (Omega_Merk, FrostyZako) (Hack)</description>
-		<rom name="SM64 - Omega Mario 64 (v1.1) (Omega_Merk, FrostyZako) (Hack).z64" size="000" crc="000" md5="f87d6a9a0018fb018b3e43d62347f231" sha1="000"/>
+		<rom name="SM64 - Omega Mario 64 (v1.1) (Omega_Merk, FrostyZako) (Hack).z64" size="67108864" crc="da0ea233" md5="f87d6a9a0018fb018b3e43d62347f231" sha1="592e98af79cd6c7fe572dc66a0cd7374949b434e"/>
 		<url>https://retroachievements.org/game/34504/hashes</url>
 		<hash>f87d6a9a0018fb018b3e43d62347f231</hash>
 	</game>
@@ -1365,7 +1365,7 @@
 	<game name="Hack/Quest 64 - Hard Mode (v0.9.8.2) (Landmine36) (Hack)">
 		<category>Nintendo 64</category>
 		<description>Quest 64 - Hard Mode (v0.9.8.2) (Landmine36) (Hack)</description>
-		<rom name="Quest 64 - Hard Mode (v0.9.8.2) (Landmine36) (Hack).z64" size="000" crc="000" md5="7d6426f22bedbba9f3b956d489d072ba" sha1="000"/>
+		<rom name="Quest 64 - Hard Mode (v0.9.8.2) (Landmine36) (Hack).z64" size="16892044" crc="4d3324a8" md5="7d6426f22bedbba9f3b956d489d072ba" sha1="bc703c1271cf297fe2fc06c7adf3c6fefe97ba45"/>
 		<url>https://retroachievements.org/game/18278/hashes</url>
 		<hash>7d6426f22bedbba9f3b956d489d072ba</hash>
 	</game>
@@ -2622,7 +2622,7 @@
 	<game name="Hack/Super Mario 64/SM64 - Green Demon Challenge (v2.0) (IngoH) (Hack)">
 		<category>Nintendo 64</category>
 		<description>SM64 - Green Demon Challenge (v2.0) (IngoH) (Hack)</description>
-		<rom name="SM64 - Green Demon Challenge (v2.0) (IngoH) (Hack).z64" size="000" crc="000" md5="e9dd0b7adf0193f444a718be230e565b" sha1="000"/>
+		<rom name="SM64 - Green Demon Challenge (v2.0) (IngoH) (Hack).z64" size="67108864" crc="197d31cd" md5="e9dd0b7adf0193f444a718be230e565b" sha1="306886c41ede52cebc4bbbb83dfd3daba8096b0f"/>
 		<url>https://retroachievements.org/game/15373/hashes</url>
 		<hash>e9dd0b7adf0193f444a718be230e565b</hash>
 	</game>
@@ -3218,7 +3218,7 @@
 		<category>Nintendo 64</category>
 		<description>LoZ - Romhack Jam 1 - Barjack's Merda (Barjack) (Hack)</description>
 		<release name="LoZ - Romhack Jam 1 - Barjack's Merda (Barjack) (Hack)" region="World"/>
-		<rom name="LoZ - Romhack Jam 1 - Barjack's Merda (Barjack) (Hack).z64" size="000" crc="000" md5="04deca5e128eeef38a8cf100d8cdbb79" sha1="000"/>
+		<rom name="LoZ - Romhack Jam 1 - Barjack's Merda (Barjack) (Hack).z64" size="57348096" crc="837829d1" md5="04deca5e128eeef38a8cf100d8cdbb79" sha1="78b0479cee802477b0ba42dd5986e8337849892f"/>
 		<url>https://retroachievements.org/game/34498/hashes</url>
 		<hash>04deca5e128eeef38a8cf100d8cdbb79</hash>
 	</game>
@@ -3226,7 +3226,7 @@
 		<category>Nintendo 64</category>
 		<description>LoZ - Romhack Jam 1 - Reality Estate (v1.1) (Jinnosuke, Corrhaid, Chadlight) (Hack)</description>
 		<release name="LoZ - Romhack Jam 1 - Reality Estate (v1.1) (Jinnosuke, Corrhaid, Chadlight) (Hack)" region="World"/>
-		<rom name="LoZ - Romhack Jam 1 - Reality Estate (v1.1) (Jinnosuke, Corrhaid, Chadlight) (Hack).z64" size="000" crc="000" md5="e5c3c8477abb0901915f52a3f41eaf3d" sha1="000"/>
+		<rom name="LoZ - Romhack Jam 1 - Reality Estate (v1.1) (Jinnosuke, Corrhaid, Chadlight) (Hack).z64" size="24223744" crc="ddd22369" md5="e5c3c8477abb0901915f52a3f41eaf3d" sha1="aee31fcff0cf192920c44165b3923acf3b477c76"/>
 		<url>https://retroachievements.org/game/34498/hashes</url>
 		<hash>e5c3c8477abb0901915f52a3f41eaf3d</hash>
 	</game>
@@ -3234,7 +3234,7 @@
 		<category>Nintendo 64</category>
 		<description>LoZ - Romhack Jam 1 - Halflight Shrine (PlushimaTitania) (Hack)</description>
 		<release name="LoZ - Romhack Jam 1 - Halflight Shrine (PlushimaTitania) (Hack)" region="World"/>
-		<rom name="LoZ - Romhack Jam 1 - Halflight Shrine (PlushimaTitania) (Hack).z64" size="000" crc="000" md5="e01e7afe6e6edc60bdc755ad4dfb717e" sha1="000"/>
+		<rom name="LoZ - Romhack Jam 1 - Halflight Shrine (PlushimaTitania) (Hack).z64" size="56999936" crc="0f69bb25" md5="e01e7afe6e6edc60bdc755ad4dfb717e" sha1="acf8df1634853c743cc56c95ae82ea73ed7170bb"/>
 		<url>https://retroachievements.org/game/34498/hashes</url>
 		<hash>e01e7afe6e6edc60bdc755ad4dfb717e</hash>
 	</game>
@@ -3242,7 +3242,7 @@
 		<category>Nintendo 64</category>
 		<description>LoZ - Romhack Jam 1 - Return To Stone Tower (v1.3) (Nokaubure) (Hack)</description>
 		<release name="LoZ - Romhack Jam 1 - Return To Stone Tower (v1.3) (Nokaubure) (Hack)" region="World"/>
-		<rom name="LoZ - Romhack Jam 1 - Return To Stone Tower (v1.3) (Nokaubure) (Hack).z64" size="000" crc="000" md5="680480a85e2985ed609d6dde913a2506" sha1="000"/>
+		<rom name="LoZ - Romhack Jam 1 - Return To Stone Tower (v1.3) (Nokaubure) (Hack).z64" size="27885568" crc="64b14e9d" md5="680480a85e2985ed609d6dde913a2506" sha1="76a7642963c809f1fca31018a708807aaffad224"/>
 		<url>https://retroachievements.org/game/34498/hashes</url>
 		<hash>680480a85e2985ed609d6dde913a2506</hash>
 	</game>
@@ -3250,7 +3250,7 @@
 		<category>Nintendo 64</category>
 		<description>LoZ - Romhack Jam 1 - Mechanical Shrine (v1.3) (arthurc) (Hack)</description>
 		<release name="LoZ - Romhack Jam 1 - Mechanical Shrine (v1.3) (arthurc) (Hack)" region="World"/>
-		<rom name="LoZ - Romhack Jam 1 - Mechanical Shrine (v1.3) (arthurc) (Hack).z64" size="000" crc="000" md5="4e76858409fe32bca0e9fccc4f7bd4e1" sha1="000"/>
+		<rom name="LoZ - Romhack Jam 1 - Mechanical Shrine (v1.3) (arthurc) (Hack).z64" size="33554432" crc="06a5d352" md5="4e76858409fe32bca0e9fccc4f7bd4e1" sha1="fb6cb45e5c630bfa2db068d29f4264fe3d1b1684"/>
 		<url>https://retroachievements.org/game/34498/hashes</url>
 		<hash>4e76858409fe32bca0e9fccc4f7bd4e1</hash>
 	</game>
@@ -6026,14 +6026,14 @@
 	<game name="Retail/World Driver Championship (Europe) (En,Fr,De,Es,It)">
 		<category>Nintendo 64</category>
 		<description>World Driver Championship (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="World Driver Championship (Europe) (En,Fr,De,Es,It).z64" size="000" crc="000" md5="431de8f6611a8131b536f0ede1f330d9" sha1="000"/>
+		<rom name="World Driver Championship (Europe) (En,Fr,De,Es,It).z64" size="16777216" crc="76151df6" md5="431de8f6611a8131b536f0ede1f330d9" sha1="7b054d1580cc263429eb6961ad6ed6e0140e1df0"/>
 		<url>https://retroachievements.org/game/10091/hashes</url>
 		<hash>431de8f6611a8131b536f0ede1f330d9</hash>
 	</game>
 	<game name="Retail/World Driver Championship (USA)">
 		<category>Nintendo 64</category>
 		<description>World Driver Championship (USA)</description>
-		<rom name="World Driver Championship (USA).z64" size="000" crc="000" md5="7C567A5BB1AD4CBE414FB6BBFF66E336" sha1="000"/>
+		<rom name="World Driver Championship (USA).z64" size="16777216" crc="5e4acbfa" md5="7c567a5bb1ad4cbe414fb6bbff66e336" sha1="93227776f59b42e9fb1c942eba9d5b465eeb3979"/>
 		<url>https://retroachievements.org/game/10091/hashes</url>
 		<hash>7C567A5BB1AD4CBE414FB6BBFF66E336</hash>
 	</game>

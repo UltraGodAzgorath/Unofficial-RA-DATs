@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Color</name>
 		<description>Nintendo Game Boy Color</description>
 		<category>No Subfolders</category>
-		<version>20250911</version>
-		<date>11 September 2025</date>
+		<version>20250913</version>
+		<date>13 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/6/games</url>
@@ -4333,7 +4333,7 @@
 		<description>Turok - Rage Wars (USA, Europe) (En,Fr,De,Es)</description>
 		<release name="Turok - Rage Wars (USA, Europe) (En,Fr,De,Es)" region="Europe"/>
 		<release name="Turok - Rage Wars (USA, Europe) (En,Fr,De,Es)" region="USA"/>
-		<rom name="Turok - Rage Wars (USA, Europe) (En,Fr,De,Es).gbc" size="000" crc="000" md5="2d7d0adcec6f72ca0755862c5fddf353" sha1="000"/>
+		<rom name="Turok - Rage Wars (USA, Europe) (En,Fr,De,Es).gbc" size="1048576" crc="786b5ab4" md5="2d7d0adcec6f72ca0755862c5fddf353" sha1="ce95e00b6e9d7dfb952e8cdf590a4c6948a6340e"/>
 		<url>https://retroachievements.org/game/4108/hashes</url>
 		<hash>2d7d0adcec6f72ca0755862c5fddf353</hash>
 	</game>

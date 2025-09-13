@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>No Subfolders</category>
-		<version>20250912</version>
-		<date>12 September 2025</date>
+		<version>20250913</version>
+		<date>13 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/4/games</url>
@@ -139,56 +139,56 @@
 	<game name="Pokemon - PureRGB - PureRed (v2.6.2) (Vortyne) (Hack)" cloneof="Pokemon - PureRGB - PureBlue (v2.6.4) (Vortiene) (Hack)">
 		<category>Hack</category>
 		<description>Pokemon - PureRGB - PureRed (v2.6.2) (Vortyne) (Hack)</description>
-		<rom name="Pokemon - PureRGB - PureRed (v2.6.2) (Vortyne) (Hack)" size="000" crc="000" md5="0ee583a9be10502141e07d214f84f6ba" sha1="000"/>
+		<rom name="Pokemon - PureRGB - PureRed (v2.6.2) (Vortyne) (Hack).gb" size="1048576" crc="01c4980f" md5="0ee583a9be10502141e07d214f84f6ba" sha1="663c6e55fe35885f8cdeb992a2fc20cbcd6d2fe2"/>
 		<url>https://retroachievements.org/game/32009/hashes</url>
 		<hash>0ee583a9be10502141e07d214f84f6ba</hash>
 	</game>
 	<game name="Pokemon - PureRGB - PureBlue (v2.6.2) (Vortyne) (Hack)" cloneof="Pokemon - PureRGB - PureBlue (v2.6.4) (Vortiene) (Hack)">
 		<category>Hack</category>
 		<description>Pokemon - PureRGB - PureBlue (v2.6.2) (Vortyne) (Hack)</description>
-		<rom name="Pokemon - PureRGB - PureBlue (v2.6.2) (Vortyne) (Hack)" size="000" crc="000" md5="3ab51f5f32df9ace20e3f469a4a09c23" sha1="000"/>
+		<rom name="Pokemon - PureRGB - PureBlue (v2.6.2) (Vortyne) (Hack).gb" size="1048576" crc="021ed1e6" md5="3ab51f5f32df9ace20e3f469a4a09c23" sha1="489cf571e18573a5869ebeecdfde69ac09a0b3d8"/>
 		<url>https://retroachievements.org/game/32009/hashes</url>
 		<hash>3ab51f5f32df9ace20e3f469a4a09c23</hash>
 	</game>
 	<game name="Pokemon - PureRGB - PureGreen (v2.6.2) (Vortyne) (Hack)" cloneof="Pokemon - PureRGB - PureBlue (v2.6.4) (Vortiene) (Hack)">
 		<category>Hack</category>
 		<description>Pokemon - PureRGB - PureGreen (v2.6.2) (Vortyne) (Hack)</description>
-		<rom name="Pokemon - PureRGB - PureGreen (v2.6.2) (Vortyne) (Hack)" size="000" crc="000" md5="0b5c445d36c2e6125917a6071656c1e4" sha1="000"/>
+		<rom name="Pokemon - PureRGB - PureGreen (v2.6.2) (Vortyne) (Hack).gb" size="1048576" crc="26f0d962" md5="0b5c445d36c2e6125917a6071656c1e4" sha1="9ff1462058630562ba785f673b3227a4cb70cb9f"/>
 		<url>https://retroachievements.org/game/32009/hashes</url>
 		<hash>0b5c445d36c2e6125917a6071656c1e4</hash>
 	</game>
 	<game name="Pokemon - PureRGB - PureGreen (v2.6.3) (Vortiene) (Hack)" cloneof="Pokemon - PureRGB - PureBlue (v2.6.4) (Vortiene) (Hack)">
 		<category>Hack</category>
 		<description>Pokemon - PureRGB - PureGreen (v2.6.3) (Vortiene) (Hack)</description>
-		<rom name="Pokemon - PureRGB - PureGreen (v2.6.3) (Vortiene) (Hack)" size="000" crc="000" md5="5d180f1df08f71ebc64f31721b95d201" sha1="000"/>
+		<rom name="Pokemon - PureRGB - PureGreen (v2.6.3) (Vortiene) (Hack).gb" size="1048576" crc="033abdbd" md5="5d180f1df08f71ebc64f31721b95d201" sha1="ed0090bd27d9055c15a339399269b4248d2707c6"/>
 		<url>https://retroachievements.org/game/32009/hashes</url>
 		<hash>5d180f1df08f71ebc64f31721b95d201</hash>
 	</game>
 	<game name="Pokemon - PureRGB - PureRed (v2.6.3) (Vortiene) (Hack)" cloneof="Pokemon - PureRGB - PureBlue (v2.6.4) (Vortiene) (Hack)">
 		<category>Hack</category>
 		<description>Pokemon - PureRGB - PureRed (v2.6.3) (Vortiene) (Hack)</description>
-		<rom name="Pokemon - PureRGB - PureRed (v2.6.3) (Vortiene) (Hack)" size="000" crc="000" md5="d0b7052c5440dc7c63e81b55b1782ba5" sha1="000"/>
+		<rom name="Pokemon - PureRGB - PureRed (v2.6.3) (Vortiene) (Hack).gb" size="1048576" crc="fa4ce089" md5="d0b7052c5440dc7c63e81b55b1782ba5" sha1="03a5e34fec03133e6ba5773f8a2aaaef5152d5be"/>
 		<url>https://retroachievements.org/game/32009/hashes</url>
 		<hash>d0b7052c5440dc7c63e81b55b1782ba5</hash>
 	</game>
 	<game name="Pokemon - PureRGB - PureBlue (v2.6.3) (Vortiene) (Hack)" cloneof="Pokemon - PureRGB - PureBlue (v2.6.4) (Vortiene) (Hack)">
 		<category>Hack</category>
 		<description>Pokemon - PureRGB - PureBlue (v2.6.3) (Vortiene) (Hack)</description>
-		<rom name="Pokemon - PureRGB - PureBlue (v2.6.3) (Vortiene) (Hack)" size="000" crc="000" md5="bd69d9c06fe77707c5b3ad1fe6f26041" sha1="000"/>
+		<rom name="Pokemon - PureRGB - PureBlue (v2.6.3) (Vortiene) (Hack).gb" size="1048576" crc="6f8282ff" md5="bd69d9c06fe77707c5b3ad1fe6f26041" sha1="d251622dd30e249cf794b7d581d289e9d1690038"/>
 		<url>https://retroachievements.org/game/32009/hashes</url>
 		<hash>bd69d9c06fe77707c5b3ad1fe6f26041</hash>
 	</game>
 	<game name="Pokemon - PureRGB - PureRed (v2.6.4) (Vortiene) (Hack)" cloneof="Pokemon - PureRGB - PureBlue (v2.6.4) (Vortiene) (Hack)">
 		<category>Hack</category>
 		<description>Pokemon - PureRGB - PureRed (v2.6.4) (Vortiene) (Hack)</description>
-		<rom name="Pokemon - PureRGB - PureRed (v2.6.4) (Vortiene) (Hack)" size="000" crc="000" md5="3abfdb86bde17c9cc50d1b1b295de8e7" sha1="000"/>
+		<rom name="Pokemon - PureRGB - PureRed (v2.6.4) (Vortiene) (Hack).gb" size="1048576" crc="c9eaef84" md5="3abfdb86bde17c9cc50d1b1b295de8e7" sha1="e758448695d16675baac59a33bf616e022899661"/>
 		<url>https://retroachievements.org/game/32009/hashes</url>
 		<hash>3abfdb86bde17c9cc50d1b1b295de8e7</hash>
 	</game>
 	<game name="Pokemon - PureRGB - PureGreen (v2.6.4) (Vortiene) (Hack)" cloneof="Pokemon - PureRGB - PureBlue (v2.6.4) (Vortiene) (Hack)">
 		<category>Hack</category>
 		<description>Pokemon - PureRGB - PureGreen (v2.6.4) (Vortiene) (Hack)</description>
-		<rom name="Pokemon - PureRGB - PureGreen (v2.6.4) (Vortiene) (Hack)" size="000" crc="000" md5="fb81050af0248b3f451944eb52fb9a14" sha1="000"/>
+		<rom name="Pokemon - PureRGB - PureGreen (v2.6.4) (Vortiene) (Hack).gb" size="1048576" crc="d8022a7d" md5="fb81050af0248b3f451944eb52fb9a14" sha1="62d36224679205da6503f33a8e810f260446d2c0"/>
 		<url>https://retroachievements.org/game/32009/hashes</url>
 		<hash>fb81050af0248b3f451944eb52fb9a14</hash>
 	</game>
@@ -196,7 +196,7 @@
 		<category>Hack</category>
 		<description>Pokemon - PureRGB - PureBlue (v2.6.4) (Vortiene) (Hack)</description>
 		<release name="Pokemon - PureRGB - PureBlue (v2.6.4) (Vortiene) (Hack)" region="World"/>
-		<rom name="Pokemon - PureRGB - PureBlue (v2.6.4) (Vortiene) (Hack)" size="000" crc="000" md5="3d78ba61d68f59bd23727fc2c402fa7b" sha1="000"/>
+		<rom name="Pokemon - PureRGB - PureBlue (v2.6.4) (Vortiene) (Hack).gb" size="1048576" crc="2176e3db" md5="3d78ba61d68f59bd23727fc2c402fa7b" sha1="aa3a6a17dcf2f3903374a46a5ef0e44213db9af2"/>
 		<url>https://retroachievements.org/game/32009/hashes</url>
 		<hash>3d78ba61d68f59bd23727fc2c402fa7b</hash>
 	</game>
@@ -287,7 +287,7 @@
 		<category>Hack</category>
 		<description>Pokemon - Yellow - Velvet Special Hatenna Edition (v1.2) (PeanutellaXO) (Hack)</description>
 		<release name="Pokemon - Yellow - Velvet Special Hatenna Edition (v1.2) (PeanutellaXO) (Hack)" region="World"/>
-		<rom name="Pokemon - Yellow - Velvet Special Hatenna Edition (v1.2) (PeanutellaXO) (Hack)" size="000" crc="000" md5="1790b5b1ddd2f3beae480a465910d333" sha1="000"/>
+		<rom name="Pokemon - Yellow - Velvet Special Hatenna Edition (v1.2) (PeanutellaXO) (Hack).gb" size="1048576" crc="dec12e69" md5="1790b5b1ddd2f3beae480a465910d333" sha1="27b2f29a22f70ad9857e179422af4d53d15791c7"/>
 		<url>https://retroachievements.org/game/12799/hashes</url>
 		<hash>1790b5b1ddd2f3beae480a465910d333</hash>
 	</game>
@@ -490,7 +490,7 @@
 		<category>Homebrew</category>
 		<description>Senshijidaino kyoryu - DINOPREHIS! (World) (1997 Beta) (En) (v1.0) (AgamemnonGaming) (Aftermarket)</description>
 		<release name="Senshijidaino kyoryu - DINOPREHIS! (World) (1997 Beta) (En) (v1.0) (AgamemnonGaming) (Aftermarket)" region="World"/>
-		<rom name="Senshijidaino kyoryu - DINOPREHIS! (World) (1997 Beta) (En) (v1.0) (AgamemnonGaming) (Aftermarket).gb" size="000" crc="000" md5="7936b12937a175abb39e199c9feed508" sha1="000"/>
+		<rom name="Senshijidaino kyoryu - DINOPREHIS! (World) (1997 Beta) (En) (v1.0) (AgamemnonGaming) (Aftermarket).gb" size="524288" crc="deb7337f" md5="7936b12937a175abb39e199c9feed508" sha1="25a10f54915c9cba0d9e0e496fc27e7700734d7b"/>
 		<url>https://retroachievements.org/game/30164/hashes</url>
 		<hash>7936b12937a175abb39e199c9feed508</hash>
 	</game>
@@ -598,7 +598,7 @@
 		<category>Homebrew</category>
 		<description>Birdie Bartender (World) (Aftermarket)</description>
 		<release name="Birdie Bartender (World) (Aftermarket)" region="World"/>
-		<rom name="Birdie Bartender (World) (Aftermarket).gb" size="000" crc="000" md5="d7cd156ef19534ec9353fa016b391395" sha1="000"/>
+		<rom name="Birdie Bartender (World) (Aftermarket).gb" size="262144" crc="30abbe05" md5="d7cd156ef19534ec9353fa016b391395" sha1="893f6d9748d16197ec70b078e924dcbaaed29a5e"/>
 		<url>https://retroachievements.org/game/19859/hashes</url>
 		<hash>d7cd156ef19534ec9353fa016b391395</hash>
 	</game>
@@ -979,7 +979,7 @@
 		<category>Homebrew</category>
 		<description>Melanie and the Magic Forest (World) (v1.1) (GB Compatible) (Aftermarket)</description>
 		<release name="Melanie and the Magic Forest (World) (v1.1) (GB Compatible) (Aftermarket)" region="World"/>
-		<rom name="Melanie and the Magic Forest (World) (v1.1) (GB Compatible) (Aftermarket).gb" size="000" crc="000" md5="6669ba8e9dcd087124ab657c8a8ad0db" sha1="000"/>
+		<rom name="Melanie and the Magic Forest (World) (v1.1) (GB Compatible) (Aftermarket).gb" size="524288" crc="2d0b4ebf" md5="6669ba8e9dcd087124ab657c8a8ad0db" sha1="fe106123c88c965fa23304caddfbfa3f64a46a31"/>
 		<url>https://retroachievements.org/game/21558/hashes</url>
 		<hash>6669ba8e9dcd087124ab657c8a8ad0db</hash>
 	</game>
@@ -1163,7 +1163,7 @@
 	<game name="Space Landing (World) (Steam) (Maurizio) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>Space Landing (World) (Steam) (Maurizio) (Aftermarket)</description>
-		<rom name="Space Landing (World) (Steam) (Maurizio) (Aftermarket)" size="000" crc="000" md5="08e447a6164cefd3e56212cd36e11e6f" sha1="000"/>
+		<rom name="Space Landing (World) (Steam) (Maurizio) (Aftermarket).gb" size="524288" crc="3949375f" md5="08e447a6164cefd3e56212cd36e11e6f" sha1="dc3a64a7971ca53a01c18234bf9648612c865058"/>
 		<url>https://retroachievements.org/game/22048/hashes</url>
 		<hash>08e447a6164cefd3e56212cd36e11e6f</hash>
 	</game>
@@ -2621,7 +2621,7 @@
 		<category>Retail</category>
 		<description>Final Fantasy Legend II DX (v1.0) (theadamrippon)</description>
 		<release name="Final Fantasy Legend II DX (v1.0) (theadamrippon)" region="USA"/>
-		<rom name="Final Fantasy Legend II DX (v1.0) (theadamrippon).gb" size="000" crc="000" md5="66bcd8472c6aba72843920822a856deb" sha1="000"/>
+		<rom name="Final Fantasy Legend II DX (v1.0) (theadamrippon).gb" size="524288" crc="57d43e55" md5="66bcd8472c6aba72843920822a856deb" sha1="b5cf0d26f295bc27987472dccfc696fa37dcc87a"/>
 		<url>https://retroachievements.org/game/2479/hashes</url>
 		<hash>66bcd8472c6aba72843920822a856deb</hash>
 	</game>
@@ -2644,7 +2644,7 @@
 	<game name="Final Fantasy Legend III DX (v1.0) (theadamrippon)" cloneof="Final Fantasy Legend III (USA)">
 		<category>Retail</category>
 		<description>Final Fantasy Legend III DX (v1.0) (theadamrippon)</description>
-		<rom name="Final Fantasy Legend III DX (v1.0) (theadamrippon).gb" size="000" crc="000" md5="4e70d913df7ddf0f45155ccb79963c2d" sha1="000"/>
+		<rom name="Final Fantasy Legend III DX (v1.0) (theadamrippon).gb" size="524288" crc="97431ef5" md5="4e70d913df7ddf0f45155ccb79963c2d" sha1="e68f1064dcf992eb97e9aa99b067de620f95cb31"/>
 		<url>https://retroachievements.org/game/700/hashes</url>
 		<hash>4e70d913df7ddf0f45155ccb79963c2d</hash>
 	</game>
@@ -5430,7 +5430,7 @@
 	<game name="The Final Fantasy Legend DX (v1.0.1) (theadamrippon)" cloneof="Final Fantasy Legend, The (USA)">
 		<category>Retail</category>
 		<description>The Final Fantasy Legend DX (v1.0.1) (theadamrippon)</description>
-		<rom name="The Final Fantasy Legend DX (v1.0.1) (theadamrippon).gb" size="000" crc="000" md5="8645f33476770262a51fd914e519a1ad" sha1="000"/>
+		<rom name="The Final Fantasy Legend DX (v1.0.1) (theadamrippon).gb" size="262144" crc="13d18ff0" md5="8645f33476770262a51fd914e519a1ad" sha1="7f411f44b74d68efe0a205176b3b010a133f7745"/>
 		<url>https://retroachievements.org/game/2478/hashes</url>
 		<hash>8645f33476770262a51fd914e519a1ad</hash>
 	</game>
