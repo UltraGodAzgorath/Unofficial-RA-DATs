@@ -6,15 +6,15 @@ ECHO ===========================================================================
 ECHO				  	CHDMAN OPTIONS
 ECHO =================================================================================
 ECHO.
-ECHO		A - Compress CD to CHD		(BIN+CUE and/or ISO; PS1 and earlier)
-ECHO		B - Compress GDI to CHD		(GDI+BIN+RAW; Dreamcast)
-ECHO		C - Compress DVD to CHD		(ISO; PS2)
-ECHO		D - Compress DVD to CHD		(ISO; PSP)
+ECHO		A - Convert BIN+CUE and/or ISO to CHD	(For PS1 and earlier roms, excluding Dreamcast roms.)
+ECHO		B - Convert BIN+CUE and/or GDI to CHD	(For Dreamcast roms only.)
+ECHO		C - Convert BIN+CUE and/or ISO to CHD	(For PS2 roms only.)
+ECHO		D - Convert ISO to CHD			(For PSP roms only.)
 ECHO.
-ECHO		J - Extract CHD to CD BIN+CUE	(PS1 and earlier)
-ECHO		K - Extract CHD to GDI		(Dreamcast)
-ECHO		L - Extract CHD to CD ISO	(PS2*)
-ECHO		M - Extract CHD to DVD ISO	(PSP and PS2*)
+ECHO		J - Convert CHD to BIN+CUE		(For PS1 and earlier roms.)
+ECHO		K - Convert CHD to GDI			(For Dreamcast roms only.)
+ECHO		L - Convert CHD to CD ISO		(For CD PS2* roms.)
+ECHO		M - Convert CHD to DVD ISO		(For PSP and DVD PS2* roms.)
 ECHO.
 ECHO		*The majority of PS2 games are DVD-based, a few games are CD-based
 ECHO.
@@ -25,9 +25,9 @@ ECHO		Z - EXIT
 ECHO.
 ECHO		Notes: 
 ECHO.		
-ECHO		i) Some EU PS1 games have extra .sbi protection files. Keep these files together!
-ECHO		ii) 3DO and Jaguar game CD's need to be kept in .cdi format
-ECHO		iii) This program has been tested on chdman.exe from MAME 0.272
+ECHO		1) Some EU PS1 games have extra .sbi protection files. Keep these files together!
+ECHO		2) 3DO and Jaguar game CD's need to be kept in .cdi format
+ECHO		3) This program has been tested on chdman.exe from MAME 0.272
 ECHO.
 ECHO =================================================================================
 ECHO.
@@ -70,7 +70,10 @@ CALL :SUB_DelBINCUE
 GOTO MENU
 
 :CompressGDI
-for /r %%i in (*.gdi) do chdman createcd -i "%%i" -o "%%~ni.chd"
+for /r %%i in (*.cue, *.gdi) do chdman createcd -i "%%i" -o "%%~ni.chd"
+ECHO ---------------------------------------------------------------------------------
+ECHO Number of Input CUE files:
+dir /A:-D /B *.cue 2>nul | find /c /v ""
 ECHO ---------------------------------------------------------------------------------
 ECHO Number of Input GDI files:
 dir /A:-D /B *.gdi 2>nul | find /c /v ""
@@ -199,7 +202,7 @@ ECHO.
 ECHO				 	DELETE OPTIONS
 ECHO _________________________________________________________________________________
 ECHO.
-ECHO			1 - Delete Input GDI+BIN+RAW File(s)
+ECHO			1 - Delete Input BIN+CUE and/or GDI+BIN+RAW File(s)
 ECHO			2 - Return to Main Menu
 ECHO.
 ECHO		Notes: 
