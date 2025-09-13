@@ -84,7 +84,7 @@ CALL :SUB_DelGDI
 GOTO MENU
 
 :CompressDVD
-for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd -f
+for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd
 for /r %%i in (*.cue) do chdman createcd -i "%%i" -o "%%~ni.chd"
 ECHO ---------------------------------------------------------------------------------
 ECHO Number of Input BIN files:
@@ -99,7 +99,7 @@ CALL :SUB_DelISO
 GOTO MENU
 
 :CompressDVD-PSP
-for /r %%i in (*.iso) do chdman createdvd -hs 2048 -i "%%i" -o "%%~ni.chd" -c zstd -f
+for /r %%i in (*.iso) do chdman createdvd -hs 2048 -i "%%i" -o "%%~ni.chd" -c zstd
 ECHO ---------------------------------------------------------------------------------
 ECHO Number of Input ISO files:
 dir /A:-D /B *.iso 2>nul | find /c /v ""
@@ -157,14 +157,14 @@ GOTO MENU
 :ConvertCHD
 for /r %%i in (*.chd) do chdman extractcd -i "%%i" -o "%%~ni.cue" -ob "%%~ni.iso"
 Del *.cue
-for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd -f
+for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd
 Del *.iso
 GOTO MENU
 
 :ConvertCHD-PSP
 for /r %%i in (*.chd) do chdman extractcd -i "%%i" -o "%%~ni.cue" -ob "%%~ni.iso"
 Del *.cue
-for /r %%i in (*.iso) do chdman createdvd -hs 2048 -i "%%i" -o "%%~ni.chd" -c zstd -f
+for /r %%i in (*.iso) do chdman createdvd -hs 2048 -i "%%i" -o "%%~ni.chd" -c zstd
 Del *.iso
 GOTO MENU
 
