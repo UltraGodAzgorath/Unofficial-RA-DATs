@@ -72,7 +72,7 @@ GOTO MENU
 :CompressGDI
 for /r %%i in (*.cue, *.gdi) do chdman createcd -i "%%i" -o "%%~ni.chd"
 ECHO ---------------------------------------------------------------------------------
-ECHO Number of Input CUE files:
+ECHO Number of Input BIN files:
 dir /A:-D /B *.cue 2>nul | find /c /v ""
 ECHO ---------------------------------------------------------------------------------
 ECHO Number of Input GDI files:
@@ -155,16 +155,16 @@ CALL :SUB_DelCHDISO
 GOTO MENU
 
 :ConvertCHD
-for /r %%i in (*.chd) do chdman extractcd -i "%%i" -o "%%~ni.cue" -ob "%%~ni.iso"
+for /r %%i in (*.chd) do chdman extractcd -i "%%i" -o "%%~ni.cue" -ob "%%~ni.iso" -f
 Del *.cue
-for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd
+for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd -f
 Del *.iso
 GOTO MENU
 
 :ConvertCHD-PSP
-for /r %%i in (*.chd) do chdman extractcd -i "%%i" -o "%%~ni.cue" -ob "%%~ni.iso"
+for /r %%i in (*.chd) do chdman extractcd -i "%%i" -o "%%~ni.cue" -ob "%%~ni.iso" -f
 Del *.cue
-for /r %%i in (*.iso) do chdman createdvd -hs 2048 -i "%%i" -o "%%~ni.chd" -c zstd
+for /r %%i in (*.iso) do chdman createdvd -hs 2048 -i "%%i" -o "%%~ni.chd" -c zstd -f
 Del *.iso
 GOTO MENU
 
