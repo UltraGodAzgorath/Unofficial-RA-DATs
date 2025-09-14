@@ -56,7 +56,7 @@ IF %M%==S GOTO ConvertCHD-PSP
 IF %M%==Z EXIT
 
 :CompressCD
-for /r %%i in (*.cue, *.iso) do chdman createcd -i "%%i" -o "%%~ni.chd" -c zstd
+for /r %%i in (*.cue, *.iso) do chdman createcd -i "%%i" -o "%%~ni.chd"
 ECHO ---------------------------------------------------------------------------------
 ECHO Number of Input BIN files:
 dir /A:-D /B *.bin 2>nul | find /c /v ""
@@ -70,7 +70,7 @@ CALL :SUB_DelBINCUE
 GOTO MENU
 
 :CompressGDI
-for /r %%i in (*.cue, *.gdi) do chdman createcd -i "%%i" -o "%%~ni.chd" -c zstd
+for /r %%i in (*.cue, *.gdi) do chdman createcd -i "%%i" -o "%%~ni.chd"
 ECHO ---------------------------------------------------------------------------------
 ECHO Number of Input CUE files:
 dir /A:-D /B *.cue 2>nul | find /c /v ""
@@ -84,8 +84,8 @@ CALL :SUB_DelGDI
 GOTO MENU
 
 :CompressDVD
-for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd
-for /r %%i in (*.cue) do chdman createcd -i "%%i" -o "%%~ni.chd" -c zstd
+for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd"
+for /r %%i in (*.cue) do chdman createcd -i "%%i" -o "%%~ni.chd"
 ECHO ---------------------------------------------------------------------------------
 ECHO Number of Input BIN files:
 dir /A:-D /B *.bin 2>nul | find /c /v ""
@@ -99,7 +99,7 @@ CALL :SUB_DelISO
 GOTO MENU
 
 :CompressDVD-PSP
-for /r %%i in (*.iso) do chdman createdvd -hs 2048 -i "%%i" -o "%%~ni.chd" -c zstd
+for /r %%i in (*.iso) do chdman createdvd -hs 2048 -i "%%i" -o "%%~ni.chd"
 ECHO ---------------------------------------------------------------------------------
 ECHO Number of Input ISO files:
 dir /A:-D /B *.iso 2>nul | find /c /v ""
