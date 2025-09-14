@@ -6,15 +6,15 @@ ECHO ===========================================================================
 ECHO				  	CHDMAN OPTIONS
 ECHO =================================================================================
 ECHO.
-ECHO		A - Convert BIN+CUE and/or ISO to CHD	(For PS1 and earlier roms, excluding Dreamcast roms.)
-ECHO		B - Convert BIN+CUE and/or GDI to CHD	(For Dreamcast roms only.)
-ECHO		C - Convert BIN+CUE and/or ISO to CHD	(For PS2 roms only.)
-ECHO		D - Convert ISO to CHD			(For PSP roms only.)
+ECHO		A - Convert BIN+CUE and/or ISO to CD CHD	(For PS1 and earlier roms, excluding Dreamcast roms.)
+ECHO		B - Convert BIN+CUE and/or GDI to CD CHD	(For Dreamcast roms only.)
+ECHO		C - Convert BIN+CUE and/or ISO to DVD CHD	(For PS2 roms only.)
+ECHO		D - Convert ISO to CHD				(For PSP roms only.)
 ECHO.
-ECHO		J - Convert CHD to BIN+CUE		(For PS1 and earlier roms.)
-ECHO		K - Convert CHD to GDI			(For Dreamcast roms only.)
-ECHO		L - Convert CHD to CD ISO		(For CD PS2* roms.)
-ECHO		M - Convert CHD to DVD ISO		(For PSP and DVD PS2* roms.)
+ECHO		J - Convert CHD to BIN+CUE		 	(For PS1 and earlier roms.)
+ECHO		K - Convert CHD to GDI			 	(For Dreamcast roms only.)
+ECHO		L - Convert CHD to CD ISO		 	(For CD PS2* roms.)
+ECHO		M - Convert CHD to DVD ISO		 	(For PSP and DVD PS2* roms.)
 ECHO.
 ECHO		*The majority of PS2 games are DVD-based, a few games are CD-based
 ECHO.
@@ -56,7 +56,7 @@ IF %M%==S GOTO ConvertCHD-PSP
 IF %M%==Z EXIT
 
 :CompressCD
-for /r %%i in (*.cue, *.iso) do chdman createcd -i "%%i" -o "%%~ni.chd"
+for /r %%i in (*.cue, *.iso) do chdman createcd -i "%%i" -o "%%~ni.chd" -c zstd
 ECHO ---------------------------------------------------------------------------------
 ECHO Number of Input BIN files:
 dir /A:-D /B *.bin 2>nul | find /c /v ""
@@ -70,7 +70,7 @@ CALL :SUB_DelBINCUE
 GOTO MENU
 
 :CompressGDI
-for /r %%i in (*.cue, *.gdi) do chdman createcd -i "%%i" -o "%%~ni.chd"
+for /r %%i in (*.cue, *.gdi) do chdman createcd -i "%%i" -o "%%~ni.chd" -c zstd
 ECHO ---------------------------------------------------------------------------------
 ECHO Number of Input CUE files:
 dir /A:-D /B *.cue 2>nul | find /c /v ""
@@ -85,7 +85,7 @@ GOTO MENU
 
 :CompressDVD
 for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd
-for /r %%i in (*.cue) do chdman createcd -i "%%i" -o "%%~ni.chd"
+for /r %%i in (*.cue) do chdman createcd -i "%%i" -o "%%~ni.chd" -c zstd
 ECHO ---------------------------------------------------------------------------------
 ECHO Number of Input BIN files:
 dir /A:-D /B *.bin 2>nul | find /c /v ""

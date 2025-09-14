@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation</name>
 		<description>Sony Playstation</description>
 		<category>No Subfolders</category>
-		<version>20250913</version>
-		<date>13 September 2025</date>
+		<version>20250914</version>
+		<date>14 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -107,8 +107,8 @@
 		<category>Hack</category>
 		<description>Resident Evil Survivor Redux - The Prison (v1.2) (Aydan Watkins) (Hack)</description>
 		<release name="Resident Evil Survivor Redux - The Prison (v1.2) (Aydan Watkins) (Hack)" region="World"/>
-		<rom name="Resident Evil Survivor Redux - The Prison (v1.2) (Aydan Watkins) (Hack).cue" size="000" crc="000" md5="000" sha1="000"/>
-		<rom name="Resident Evil Survivor Redux - The Prison (v1.2) (Aydan Watkins) (Hack).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Resident Evil Survivor Redux - The Prison (v1.2) (Aydan Watkins) (Hack).cue" size="137" crc="354ee85d" md5="990956e54863190c6b598f87518b31e4" sha1="d68f69087ab7d7f1e1f61ad2500ddaeb77da78fc"/>
+		<rom name="Resident Evil Survivor Redux - The Prison (v1.2) (Aydan Watkins) (Hack).bin" size="661391808" crc="77c186a0" md5="0a1b8672a1e67d52d2313360d0ec90de" sha1="95d835eed104cd839395d7b09039d1f33bc52773"/>
 		<url>https://retroachievements.org/game/18733/hashes</url>
 		<hash>39ccf8963a5f78f2fe6dcbc8a325363c</hash>
 	</game>
@@ -116,8 +116,8 @@
 		<category>Hack</category>
 		<description>Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins) (Hack)</description>
 		<release name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins) (Hack)" region="World"/>
-		<rom name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins) (Hack).cue" size="000" crc="000" md5="000" sha1="000"/>
-		<rom name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins) (Hack).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins) (Hack).cue" size="134" crc="d8c024f4" md5="4152d165a0bf4618255a48337ee17e31" sha1="20a4b44b8fb6c8d9cb97c105e6110cedfd719045"/>
+		<rom name="Resident Evil Survivor Redux - The Church (Demo) (Aydan Watkins) (Hack).bin" size="661027248" crc="6ec403d1" md5="23cdd171b7909528f834f0c9765f27c0" sha1="029593955983a15f900c763622e0ce78bed1288f"/>
 		<url>https://retroachievements.org/game/18733/hashes</url>
 		<hash>b5049bf00964de2151d2f30e1c8ef403</hash>
 	</game>
@@ -9662,7 +9662,7 @@
 		<description>Resident Evil 2 - Dual Shock Ver. (USA) (Es) (Doblaje) (v2.01) (Uncle Victor) (Disc 1)</description>
 		<release name="Resident Evil 2 - Dual Shock Ver. (USA) (Es) (Doblaje) (v2.01) (Uncle Victor) (Disc 1)" region="Spain"/>
 		<rom name="Resident Evil 2 - Dual Shock Ver. (USA) (Es) (Doblaje) (v2.01) (Uncle Victor) (Disc 1).cue" size="342" crc="4cce5a66" md5="279e021ea998168918a7cd79ada3503a" sha1="4d774936be74df3a14377852e3c585c7047f9bc0"/>
-		<rom name="Resident Evil 2 - Dual Shock Ver. (USA) (Es) (Doblaje) (v2.01) (Uncle Victor) (Disc 1) (Track 1).bin" size="668737104" crc="37c614e7" md5="f313c9b915d7b70ab2fe4002e084b502" sha1="955f39000aa2888b6012d8dd17e3efad5c317bdb"/>
+		<rom name="Resident Evil 2 - Dual Shock Ver. (USA) (Es) (Doblaje) (v2.01) (Uncle Victor) (Disc 1) (Track 1).bin" size="668737104" crc="5bfa6a14" md5="9309c15242bf646e0a558beaa21001b3" sha1="a8d4a3fb3422b6d2b0b1752f980939ac88db8ba5"/>
 		<rom name="Resident Evil 2 - Dual Shock Ver. (USA) (Es) (Doblaje) (v2.01) (Uncle Victor) (Disc 1) (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538"/>
 		<url>https://retroachievements.org/game/11245/hashes</url>
 		<hash>fc1719931d3d1f5dea926399177513e9</hash>
@@ -9672,7 +9672,7 @@
 		<description>Resident Evil 2 - Dual Shock Ver. (USA) (Es) (Doblaje) (v2.01) (Uncle Victor) (Disc 2)</description>
 		<release name="Resident Evil 2 - Dual Shock Ver. (USA) (Es) (Doblaje) (v2.01) (Uncle Victor) (Disc 2)" region="Spain"/>
 		<rom name="Resident Evil 2 - Dual Shock Ver. (USA) (Es) (Doblaje) (v2.01) (Uncle Victor) (Disc 2).cue" size="342" crc="b6bc0d03" md5="214a4db477e95e975dce5547a423fa87" sha1="6e6d8279836ea4e697de243f094d8aed38073faa"/>
-		<rom name="Resident Evil 2 - Dual Shock Ver. (USA) (Es) (Doblaje) (v2.01) (Uncle Victor) (Disc 2) (Track 1).bin" size="670938576" crc="66a10d56" md5="f245ca975553eda81bd7d76562bc062e" sha1="8d3b5a0a136126676e16d1e7cef748591ab2497d"/>
+		<rom name="Resident Evil 2 - Dual Shock Ver. (USA) (Es) (Doblaje) (v2.01) (Uncle Victor) (Disc 2) (Track 1).bin" size="670938576" crc="87b829e5" md5="b18f06bb6faaa29a63b5ad648b538b13" sha1="fe3f2ca221fa37e927f8c29817aff884871b86f5"/>
 		<rom name="Resident Evil 2 - Dual Shock Ver. (USA) (Es) (Doblaje) (v2.01) (Uncle Victor) (Disc 2) (Track 2).bin" size="37396800" crc="7976083e" md5="2d7b5e8e94a91bf5423b2356f6a34863" sha1="d9f92af296360772e62caa4cb276de3fa74f5538"/>
 		<url>https://retroachievements.org/game/11245/hashes</url>
 		<hash>199911462f78e24522a91c3efd10379f</hash>
@@ -12451,16 +12451,6 @@
 		<rom name="SuperLite 1500 Series - The Tetris (Japan).bin" size="58212000" crc="bf1322a5" md5="fd56b6dec5a592158b81dc614973268f" sha1="92624fc19d63669810a4834955b17f1d769d6b45"/>
 		<url>https://retroachievements.org/game/836/hashes</url>
 		<hash>47c0e60ca708412509d1bd36656ea6f9</hash>
-	</game>
-	
-	<game name="Theme Hospital (Europe) (En,Fr,De,Es,It,Sv)">
-		<category>Retail</category>
-		<description>Theme Hospital (Europe) (En,Fr,De,Es,It,Sv)</description>
-		<release name="Theme Hospital (Europe) (En,Fr,De,Es,It,Sv)" region="Europe"/>
-		<rom name="Theme Hospital (Europe) (En,Fr,De,Es,It,Sv).cue" size="109" crc="771d5f4d" md5="ccde001cede4876ffe793a469de16958" sha1="b4a8413b67d18a771c7bbafa558c47f68f90783c"/>
-		<rom name="Theme Hospital (Europe) (En,Fr,De,Es,It,Sv).bin" size="304725120" crc="07f246b2" md5="0b387bdb27bd19f917c1bcbc66b23ade" sha1="9b3a2400e99be07dbd5df8d106a2f7267446c764"/>
-		<url>https://retroachievements.org/game/13969/hashes</url>
-		<hash>75e94d00ff8719f3137f175f18e1f4ee</hash>
 	</game>
 	
 	<game name="Disney Presents Tigger's Honey Hunt (USA)">
