@@ -6,54 +6,107 @@ ECHO ===========================================================================
 ECHO				  	CHDMAN OPTIONS
 ECHO =================================================================================
 ECHO.
-ECHO		A - Convert BIN+CUE and/or ISO to CD CHD	(For PS1 and earlier roms, excluding Dreamcast roms.)
-ECHO		B - Convert BIN+CUE and/or GDI to CD CHD	(For Dreamcast roms only.)
-ECHO		C - Convert BIN+CUE and/or ISO to DVD CHD	(For PS2 roms only.)
-ECHO		D - Convert ISO to CHD				(For PSP roms only.)
+ECHO		A - Compress CD to CHD.			(PS1 and earlier)
+ECHO		B - Compress DVD to CHD.		(PS2 and PSP)
 ECHO.
-ECHO		J - Convert CHD to BIN+CUE		 	(For PS1 and earlier roms.)
-ECHO		K - Convert CHD to GDI			 	(For Dreamcast roms only.)
-ECHO		L - Convert CHD to CD ISO		 	(For CD PS2* roms.)
-ECHO		M - Convert CHD to DVD ISO		 	(For PSP and DVD PS2* roms.)
+ECHO		C - Extract CHD to CD BIN+CUE		(PS1 and earlier)
+ECHO		D - Extract CHD to GDI			(Dreamcast)
+ECHO		E - Extract CHD to CD ISO		(PS2*)
+ECHO		F - Extract CHD to DVD ISO		(PS2* and PSP)
 ECHO.
 ECHO		*The majority of PS2 games are DVD-based, a few games are CD-based
 ECHO.
-ECHO		R - Convert CD CHD to DVD CHD	(if an old CD CHD should be a DVD CHD)
-ECHO		S - Convert PSP CD CHD to PSP DVD CHD	(if an old PSP CD CHD should be a PSP DVD CHD)
+ECHO		G - Convert CD CHD to DVD CHD		(if an old CD CHD should be a DVD CHD)
+ECHO		H - Convert PSP CD CHD to PSP DVD CHD	(if an old PSP CD CHD should be a PSP DVD CHD)
 ECHO.
 ECHO		Z - EXIT
 ECHO.
 ECHO		Notes: 
 ECHO.		
-ECHO		1) Some EU PS1 games have extra .sbi protection files. Keep these files together!
-ECHO		2) 3DO and Jaguar game CD's need to be kept in .cdi format
-ECHO		3) This program has been tested on chdman.exe from MAME 0.272
+ECHO		i)	Some EU PS1 games have extra .sbi protection files. Keep these files together!
+ECHO		ii)	Jaguar CD roms need to be kept in CDI or CUE+BIN format.
+ECHO		iii)	If 3DO roms are in CDI format, keep them in that format.
+ECHO		iv)	This program has been tested on chdman.exe from MAME 0.272 up to 0.280.
 ECHO.
 ECHO =================================================================================
 ECHO.
-CHOICE /N /C:ABCDJKLMRSZ /M "Choose the desired option from above menu: "%1
+CHOICE /N /C:ABCDEFGHZ /M "Choose the desired option from above menu: "%1
 IF ERRORLEVEL 1 SET M=A
 IF ERRORLEVEL 2 SET M=B
 IF ERRORLEVEL 3 SET M=C
 IF ERRORLEVEL 4 SET M=D
-IF ERRORLEVEL 5 SET M=J
-IF ERRORLEVEL 6 SET M=K
-IF ERRORLEVEL 7 SET M=L
-IF ERRORLEVEL 8 SET M=M
-IF ERRORLEVEL 9 SET M=R
-IF ERRORLEVEL 10 SET M=S
-IF ERRORLEVEL 11 SET M=Z
-IF %M%==A GOTO CompressCD
-IF %M%==B GOTO CompressGDI
-IF %M%==C GOTO CompressDVD
-IF %M%==D GOTO CompressDVD-PSP
-IF %M%==J GOTO ExtractBIN
-IF %M%==K GOTO ExtractGDI
-IF %M%==L GOTO ExtractCDISO
-IF %M%==M GOTO ExtractDVDISO
-IF %M%==R GOTO ConvertCHD
-IF %M%==S GOTO ConvertCHD-PSP
+IF ERRORLEVEL 5 SET M=E
+IF ERRORLEVEL 6 SET M=F
+IF ERRORLEVEL 7 SET M=G
+IF ERRORLEVEL 8 SET M=H
+IF ERRORLEVEL 9 SET M=Z
+IF %M%==A GOTO PlatformCD
+IF %M%==B GOTO PlatformDVD
+IF %M%==C GOTO ExtractBIN
+IF %M%==D GOTO ExtractGDI
+IF %M%==E GOTO ExtractCDISO
+IF %M%==F GOTO ExtractDVDISO
+IF %M%==G GOTO ConvertCHD
+IF %M%==H GOTO ConvertCHD-PSP
 IF %M%==Z EXIT
+
+:PlatformCD
+ECHO _________________________________________________________________________________
+ECHO.
+ECHO				 	CD PLATFORM OPTIONS
+ECHO _________________________________________________________________________________
+ECHO.
+ECHO			1 - 3DO Interactive Multiplayer
+ECHO			2 - NEC PC-FX
+ECHO			3 - NEC TurboGrafx-CD
+ECHO			4 - Sega CD
+ECHO			5 - Sega Dreamcast
+ECHO			6 - Sega Saturn
+ECHO			7 - SNK Neo Geo CD
+ECHO			8 - Sony Playstation 1
+ECHO			9 - Return to Main Menu
+ECHO.
+ECHO _________________________________________________________________________________
+ECHO.
+CHOICE /N /C:123456789 /M "Choose the platform that you want to convert to CHD."%1
+IF ERRORLEVEL 1 SET M=1
+IF ERRORLEVEL 2 SET M=2
+IF ERRORLEVEL 3 SET M=3
+IF ERRORLEVEL 4 SET M=4
+IF ERRORLEVEL 5 SET M=5
+IF ERRORLEVEL 6 SET M=6
+IF ERRORLEVEL 7 SET M=7
+IF ERRORLEVEL 8 SET M=8
+IF ERRORLEVEL 9 SET M=9
+IF %M%==1 GOTO CompressCD
+IF %M%==2 GOTO CompressCD
+IF %M%==3 GOTO CompressCD
+IF %M%==4 GOTO CompressCDZ
+IF %M%==5 GOTO CompressCDZ
+IF %M%==6 GOTO CompressCDZ
+IF %M%==7 GOTO CompressCDZ
+IF %M%==8 GOTO CompressCDZ
+IF %M%==9 GOTO MENU
+
+:PlatformDVD
+ECHO _________________________________________________________________________________
+ECHO.
+ECHO				 	DVD PLATFORM OPTIONS
+ECHO _________________________________________________________________________________
+ECHO.
+ECHO			1 - Sony Playstation 2
+ECHO			2 - Sony Playstation Portable
+ECHO			3 - Return to Main Menu
+ECHO.
+ECHO _________________________________________________________________________________
+ECHO.
+CHOICE /N /C:123 /M "Choose the platform that you want to convert to CHD."%1
+IF ERRORLEVEL 1 SET M=1
+IF ERRORLEVEL 2 SET M=2
+IF ERRORLEVEL 3 SET M=3
+IF %M%==1 GOTO CompressDVDZ
+IF %M%==2 GOTO CompressDVDZ
+IF %M%==3 GOTO MENU
 
 :CompressCD
 for /r %%i in (*.cue, *.iso) do chdman createcd -i "%%i" -o "%%~ni.chd"
@@ -69,23 +122,8 @@ dir /A:-D /B *.chd 2>nul | find /c /v ""
 CALL :SUB_DelBINCUE
 GOTO MENU
 
-:CompressGDI
-for /r %%i in (*.cue, *.gdi) do chdman createcd -i "%%i" -o "%%~ni.chd"
-ECHO ---------------------------------------------------------------------------------
-ECHO Number of Input BIN files:
-dir /A:-D /B *.cue 2>nul | find /c /v ""
-ECHO ---------------------------------------------------------------------------------
-ECHO Number of Input GDI files:
-dir /A:-D /B *.gdi 2>nul | find /c /v ""
-ECHO ---------------------------------------------------------------------------------
-ECHO Number of Output CHD files:
-dir /A:-D /B *.chd 2>nul | find /c /v ""
-CALL :SUB_DelGDI
-GOTO MENU
-
-:CompressDVD
-for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd"
-for /r %%i in (*.cue) do chdman createcd -i "%%i" -o "%%~ni.chd"
+:CompressCDZ
+for /r %%i in (*.cue, *.gdi, *.iso) do chdman createcd -i "%%i" -o "%%~ni.chd" -c zstd
 ECHO ---------------------------------------------------------------------------------
 ECHO Number of Input BIN files:
 dir /A:-D /B *.bin 2>nul | find /c /v ""
@@ -95,11 +133,15 @@ dir /A:-D /B *.iso 2>nul | find /c /v ""
 ECHO ---------------------------------------------------------------------------------
 ECHO Number of Output CHD files:
 dir /A:-D /B *.chd 2>nul | find /c /v ""
-CALL :SUB_DelISO
+CALL :SUB_DelBINCUE
 GOTO MENU
 
-:CompressDVD-PSP
-for /r %%i in (*.iso) do chdman createdvd -hs 2048 -i "%%i" -o "%%~ni.chd"
+:CompressDVDZ
+for /r %%i in (*.cue) do chdman createcd -i "%%i" -o "%%~ni.chd" -c zstd
+for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd
+ECHO ---------------------------------------------------------------------------------
+ECHO Number of Input BIN files:
+dir /A:-D /B *.bin 2>nul | find /c /v ""
 ECHO ---------------------------------------------------------------------------------
 ECHO Number of Input ISO files:
 dir /A:-D /B *.iso 2>nul | find /c /v ""
@@ -155,16 +197,16 @@ CALL :SUB_DelCHDISO
 GOTO MENU
 
 :ConvertCHD
-for /r %%i in (*.chd) do chdman extractcd -i "%%i" -o "%%~ni.cue" -ob "%%~ni.iso" -f
+for /r %%i in (*.chd) do chdman extractcd -i "%%i" -o "%%~ni.cue" -ob "%%~ni.iso"
 Del *.cue
 for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd -f
 Del *.iso
 GOTO MENU
 
 :ConvertCHD-PSP
-for /r %%i in (*.chd) do chdman extractcd -i "%%i" -o "%%~ni.cue" -ob "%%~ni.iso" -f
+for /r %%i in (*.chd) do chdman extractcd -i "%%i" -o "%%~ni.cue" -ob "%%~ni.iso"
 Del *.cue
-for /r %%i in (*.iso) do chdman createdvd -hs 2048 -i "%%i" -o "%%~ni.chd" -c zstd -f
+for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd -f
 Del *.iso
 GOTO MENU
 
