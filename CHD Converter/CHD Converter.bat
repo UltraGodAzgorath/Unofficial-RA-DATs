@@ -123,7 +123,7 @@ CALL :SUB_DelBINCUE
 GOTO MENU
 
 :CompressCDZ
-for /r %%i in (*.cue, *.gdi, *.iso) do chdman createcd -i "%%i" -o "%%~ni.chd" -c zstd
+for /r %%i in (*.cue, *.gdi, *.iso) do chdman createcd -i "%%i" -o "%%~ni.chd" -c cdzs,cdzl,cdfl
 ECHO ---------------------------------------------------------------------------------
 ECHO Number of Input BIN files:
 dir /A:-D /B *.bin 2>nul | find /c /v ""
@@ -137,8 +137,8 @@ CALL :SUB_DelBINCUE
 GOTO MENU
 
 :CompressDVDZ
-for /r %%i in (*.cue) do chdman createcd -i "%%i" -o "%%~ni.chd" -c zstd
-for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd
+for /r %%i in (*.cue) do chdman createcd -i "%%i" -o "%%~ni.chd" -c cdzs,cdzl,cdfl
+for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd,zlib,huff,flac
 ECHO ---------------------------------------------------------------------------------
 ECHO Number of Input BIN files:
 dir /A:-D /B *.bin 2>nul | find /c /v ""
@@ -199,14 +199,14 @@ GOTO MENU
 :ConvertCHD
 for /r %%i in (*.chd) do chdman extractcd -i "%%i" -o "%%~ni.cue" -ob "%%~ni.iso"
 Del *.cue
-for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd -f
+for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd,zlib,huff,flac -f
 Del *.iso
 GOTO MENU
 
 :ConvertCHD-PSP
 for /r %%i in (*.chd) do chdman extractcd -i "%%i" -o "%%~ni.cue" -ob "%%~ni.iso"
 Del *.cue
-for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd -f
+for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd,zlib,huff,flac -f
 Del *.iso
 GOTO MENU
 
