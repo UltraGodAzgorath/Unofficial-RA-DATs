@@ -85,10 +85,12 @@
 		<hash>D193DEE874BAFBDA2122340BFB7CD715</hash>
 	</machine>
 
-	<machine name="Retail/J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)">
+	<machine name="Retail/J. B. Harold - Blue Chicago Blues (Japan)">
 		<category></category>
-		<description>J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)</description>
+		<description>J. B. Harold - Blue Chicago Blues (Japan)</description>
+		<rom name="J. B. Harold - Blue Chicago Blues (Japan).m3u" size="110" crc="cf53e332" md5="ca3f07833db70d342e754baafbe33f2b" sha1="1cbc9ebfbf1400b2ed1eb47c91fbdfe1a8e817fb"/>
 		<disk name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 1).chd" sha1="97e605651b71c50f11d22787578c0e980079d2ac"/>
+		<disk name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 2).chd" sha1="a3850bf22182afba890107d8093bd2dc585e274a"/>
 		<url>https://retroachievements.org/game/16436/hashes</url>
 		<hash>4EAAAD6532C74A9FFDFF85A971AFE43C</hash>
 	</machine>

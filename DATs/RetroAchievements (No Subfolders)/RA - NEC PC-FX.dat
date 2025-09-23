@@ -93,11 +93,13 @@
 		<hash>D193DEE874BAFBDA2122340BFB7CD715</hash>
 	</machine>
 
-	<machine name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)">
+	<machine name="J. B. Harold - Blue Chicago Blues (Japan)">
 		<category>Retail</category>
-		<description>J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)</description>
-		<release name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 1)" region="Japan"/>
+		<description>J. B. Harold - Blue Chicago Blues (Japan)</description>
+		<release name="J. B. Harold - Blue Chicago Blues (Japan)" region="Japan"/>
+		<rom name="J. B. Harold - Blue Chicago Blues (Japan).m3u" size="110" crc="cf53e332" md5="ca3f07833db70d342e754baafbe33f2b" sha1="1cbc9ebfbf1400b2ed1eb47c91fbdfe1a8e817fb"/>
 		<disk name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 1).chd" sha1="97e605651b71c50f11d22787578c0e980079d2ac"/>
+		<disk name="J. B. Harold - Blue Chicago Blues (Japan) (Disc 2).chd" sha1="a3850bf22182afba890107d8093bd2dc585e274a"/>
 		<url>https://retroachievements.org/game/16436/hashes</url>
 		<hash>4EAAAD6532C74A9FFDFF85A971AFE43C</hash>
 	</machine>
@@ -115,7 +117,7 @@
 		<category>Retail</category>
 		<description>Last Imperial Prince (Japan)</description>
 		<release name="Last Imperial Prince (Japan)" region="Japan"/>
-		<rom name="Last Imperial Prince (Japan).m3u" size="84" crc="04963161" sha1="1150c7fd90dfb2b32c1f78be46b59c68fefd6521" md5="33fc102d1f5061e0e73b315229252198"/>
+		<rom name="Last Imperial Prince (Japan).m3u" size="84" crc="04963161" md5="33fc102d1f5061e0e73b315229252198" sha1="1150c7fd90dfb2b32c1f78be46b59c68fefd6521"/>
 		<disk name="Last Imperial Prince (Japan) (Disc A).chd" sha1="d50c7c8d9215d5bd8041af7894e6a17ec705fe79"/>
 		<disk name="Last Imperial Prince (Japan) (Disc B).chd" sha1="17d197c4d0784d4bc58fb8038edbb0d56bbb4b0e"/>
 		<url>https://retroachievements.org/game/9373/hashes</url>
