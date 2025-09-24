@@ -320,18 +320,14 @@
 		<hash>7c5fde505da8ae5ac58ce8442f5ef793</hash>
 	</machine>
 	
-	<machine name="Homebrew/VS. Impostor V4 (Tomscop) (Aftermarket) (Disc 1)">
+	<machine name="Homebrew/VS. Impostor V4 (Tomscop) (Aftermarket)">
 		<category></category>
-		<description>VS. Impostor V4 (Tomscop) (Aftermarket) (Disc 1)</description>
+		<description>VS. Impostor V4 (Tomscop) (Aftermarket)</description>
+		<rom name="VS. Impostor V4 (Tomscop) (Aftermarket).m3u" size="106" crc="4ea43fb5" md5="11bc9c529964b1782992927fce90342f" sha1="ee2d2849f0f34213bac37b877547a50494000080"/>
 		<disk name="VS. Impostor V4 (Tomscop) (Aftermarket) (Disc 1).chd" sha1="5eb576da1edd8625d0dc6105b08dc908cc52b354"/>
-		<url>https://retroachievements.org/game/24988/hashes</url>
-		<hash>3799e3fc7fe2dd18dc4fdb2bdf750477</hash>
-	</machine>
-	<machine name="Homebrew/VS. Impostor V4 (Tomscop) (Aftermarket) (Disc 2)">
-		<category></category>
-		<description>VS. Impostor V4 (Tomscop) (Aftermarket) (Disc 2)</description>
 		<disk name="VS. Impostor V4 (Tomscop) (Aftermarket) (Disc 2).chd" sha1="3d245c69804cf41a33f07a21d50e2ad8089a8872"/>
 		<url>https://retroachievements.org/game/24988/hashes</url>
+		<hash>3799e3fc7fe2dd18dc4fdb2bdf750477</hash>
 		<hash>8ae324a30c5b27a5bcbadb62162d1975</hash>
 	</machine>
 	
@@ -487,19 +483,15 @@
 		<hash>41d47080d3797cb5dd0669b3bb1422f8</hash>
 	</machine>
 	
-	<machine name="Unlicensed/Yakyuuken Special, The - Kon'ya wa 12-kaisen!! (Unl) (Disc 2)">
+	<machine name="Unlicensed/Yakyuuken Special, The - Kon'ya wa 12-kaisen!! (Unl)">
 		<category></category>
-		<description>Yakyuuken Special, The - Kon'ya wa 12-kaisen!! (Unl) (Disc 2)</description>
+		<description>Yakyuuken Special, The - Kon'ya wa 12-kaisen!! (Unl)</description>
+		<rom name="Yakyuuken Special, The - Kon&apos;ya wa 12-kaisen!! (Unl).m3u" size="146" crc="4f1a66ad" sha1="fbf99c4396f53c6ec909cb41413b9116353a8585" md5="3713ac5cc2f773726783b5a8ec391dda"/>
+		<disk name="Yakyuuken Special, The - Kon'ya wa 12-kaisen!! (Unl) (Disc 1).chd" sha1="61f8f7da6c7af67ebd4dbd97e5b42c0ad6949d42"/>
 		<disk name="Yakyuuken Special, The - Kon'ya wa 12-kaisen!! (Unl) (Disc 2).chd" sha1="778fc6a5eeef1d4dd7f96a9f1fbac7642146fc83"/>
 		<url>https://retroachievements.org/game/20264/hashes</url>
-		<hash>b1605730afb5b48608c703c87a8c27bb</hash>
-	</machine>
-	<machine name="Unlicensed/Yakyuuken Special, The - Kon'ya wa 12-kaisen!! (Unl) (Disc 1)">
-		<category></category>
-		<description>Yakyuuken Special, The - Kon'ya wa 12-kaisen!! (Unl) (Disc 1)</description>
-		<disk name="Yakyuuken Special, The - Kon'ya wa 12-kaisen!! (Unl) (Disc 1).chd" sha1="61f8f7da6c7af67ebd4dbd97e5b42c0ad6949d42"/>
-		<url>https://retroachievements.org/game/20264/hashes</url>
 		<hash>c3e1ee387e69fad88baa8295e53b1420</hash>
+		<hash>b1605730afb5b48608c703c87a8c27bb</hash>
 	</machine>
 	
 	<machine name="Retail/007 Racing (USA)">
@@ -581,32 +573,24 @@
 		<hash>ef49defdf0ca32291e6d205028c0be4f</hash>
 	</machine>
 	
-	<machine name="Retail/Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1)">
+	<machine name="Retail/Ace Combat 3 - Electrosphere (Japan, Asia) (Rev 1)">
 		<category></category>
-		<description>Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1)</description>
-		<disk name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 2) (Rev 1).chd" sha1="5df1f20ab18c4473784613303f9077941f08b040"/>
-		<url>https://retroachievements.org/game/11308/hashes</url>
-		<hash>34c17c453e473a495aba0ced0cb75c21</hash>
-	</machine>
-	<machine name="Retail/Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1)">
-		<category></category>
-		<description>Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1)</description>
-		<disk name="Ace Combat 3 - Electrosphere (Japan, Asia) (Disc 1) (Rev 1).chd" sha1="2932b1ba9307840a6a561bd66819b169715a61dd"/>
+		<description>Ace Combat 3 - Electrosphere (Japan, Asia) (Rev 1)</description>
+		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Rev 1).m3u" size="128" crc="6d010559" sha1="3ccdaf5b715ec3fd58a5a2daf7603c5352ff67a9" md5="7b258f5a22f37cc74c6904633ef25bdc"/>
+		<disk name="Ace Combat 3 - Electrosphere (Japan, Asia) (Rev 1) (Disc 1).chd" sha1="2932b1ba9307840a6a561bd66819b169715a61dd"/>
+		<disk name="Ace Combat 3 - Electrosphere (Japan, Asia) (Rev 1) (Disc 2).chd" sha1="5df1f20ab18c4473784613303f9077941f08b040"/>
 		<url>https://retroachievements.org/game/11308/hashes</url>
 		<hash>63e54a7f2936767384f873ca2cf351b6</hash>
+		<hash>34c17c453e473a495aba0ced0cb75c21</hash>
 	</machine>
-	<machine name="Retail/Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 1)">
+	<machine name="Retail/Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1)">
 		<category></category>
-		<description>Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 1)</description>
+		<description>Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1)</description>
+		<rom name="Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1).m3u" size="162" crc="2aefb2df" sha1="e81160d3c793aa56968f4ce8641e8835d96426a8" md5="7c7060261dd84ec94ad97cde33b098c2"/>
 		<disk name="Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 1).chd" sha1="0196b6da672da1898eb1d0a5336a1e3506f0b2e8"/>
-		<url>https://retroachievements.org/game/11308/hashes</url>
-		<hash>fc31f6f6b9020bba349f4784dd6f23ca</hash>
-	</machine>
-	<machine name="Retail/Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 2)">
-		<category></category>
-		<description>Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 2)</description>
 		<disk name="Ace Combat 3 - Electrosphere (Japan, Asia) (Es) (Tio Victor) (v1.1) (Disc 2).chd" sha1="2fe52fdf8d5a3fcfc4f450f8a5fbe5814c535288"/>
 		<url>https://retroachievements.org/game/11308/hashes</url>
+		<hash>fc31f6f6b9020bba349f4784dd6f23ca</hash>
 		<hash>49f712c75256b40d0e4a6dd2b6575724</hash>
 	</machine>
 	
@@ -658,46 +642,34 @@
 		<hash>fde0ddbe2c6840f86cfbf58862b955ba</hash>
 	</machine>
 	
-	<machine name="Retail/Alone in the Dark - The New Nightmare (USA) (Disc 1)">
+	<machine name="Retail/Alone in the Dark - The New Nightmare (USA)">
 		<category></category>
-		<description>Alone in the Dark - The New Nightmare (USA) (Disc 1)</description>
+		<description>Alone in the Dark - The New Nightmare (USA)</description>
+		<rom name="Alone in the Dark - The New Nightmare (USA).m3u" size="114" crc="c8141b05" sha1="45d9f2a0aa90a3bdca390c66a758a156a72052d9" md5="65719194acb69541f001bcc650e391e3"/>
 		<disk name="Alone in the Dark - The New Nightmare (USA) (Disc 1).chd" sha1="513cea356f7ba3337847d65b51d6be4caf704a55"/>
-		<url>https://retroachievements.org/game/11393/hashes</url>
-		<hash>09a626cc691d80c3e0200ab1cbfef5bc</hash>
-	</machine>
-	<machine name="Retail/Alone in the Dark - The New Nightmare (USA) (Disc 2)">
-		<category></category>
-		<description>Alone in the Dark - The New Nightmare (USA) (Disc 2)</description>
 		<disk name="Alone in the Dark - The New Nightmare (USA) (Disc 2).chd" sha1="f56299339595bd71cffe0e8b6ad345d1bc5af40a"/>
 		<url>https://retroachievements.org/game/11393/hashes</url>
+		<hash>09a626cc691d80c3e0200ab1cbfef5bc</hash>
 		<hash>b5bc84cdf2b8ea7873880c94c1103ab9</hash>
 	</machine>
-	<machine name="Retail/Alone in the Dark - The New Nightmare (USA) (Ru) (Disc 1)">
+	<machine name="Retail/Alone in the Dark - The New Nightmare (USA) (Ru)">
 		<category></category>
-		<description>Alone in the Dark - The New Nightmare (USA) (Ru) (Disc 1)</description>
+		<description>Alone in the Dark - The New Nightmare (USA) (Ru)</description>
+		<rom name="Alone in the Dark - The New Nightmare (USA) (Ru).m3u" size="124" crc="41d7aa0b" sha1="1a562c5c1c3c0cd274b363b79bf29b916cac99af" md5="f42b6cb7fc06bd764026324563576188"/>
 		<disk name="Alone in the Dark - The New Nightmare (USA) (Ru) (Disc 1).chd" sha1="1802404078476cb5a8c6a9aed362c02d2e4c1467"/>
-		<url>https://retroachievements.org/game/11393/hashes</url>
-		<hash>6b3e1f8a7c64e2041d294887295739dd</hash>
-	</machine>
-	<machine name="Retail/Alone in the Dark - The New Nightmare (USA) (Ru) (Disc 2)">
-		<category></category>
-		<description>Alone in the Dark - The New Nightmare (USA) (Ru) (Disc 2)</description>
 		<disk name="Alone in the Dark - The New Nightmare (USA) (Ru) (Disc 2).chd" sha1="d5375028cec5479220246bab336a4c2ad81e0856"/>
 		<url>https://retroachievements.org/game/11393/hashes</url>
+		<hash>6b3e1f8a7c64e2041d294887295739dd</hash>
 		<hash>7a562ca3568e005c6a39dfe9a2919449</hash>
 	</machine>
-	<machine name="Retail/Alone in the Dark - The New Nightmare (Europe) (Disc 1)">
+	<machine name="Retail/Alone in the Dark - The New Nightmare (Europe)">
 		<category></category>
-		<description>Alone in the Dark - The New Nightmare (Europe) (Disc 1)</description>
+		<description>Alone in the Dark - The New Nightmare (Europe)</description>
+		<rom name="Alone in the Dark - The New Nightmare (Europe).m3u" size="120" crc="799ba069" sha1="604860996c88f73194372e392c01492d6ac4d52a" md5="069d833685e689ad52eadad3e70c08d0"/>
 		<disk name="Alone in the Dark - The New Nightmare (Europe) (Disc 1).chd" sha1="5217d003ce9116bb32b200868eeb08e83bf84814"/>
-		<url>https://retroachievements.org/game/11393/hashes</url>
-		<hash>02f8910fdf2f9199b70a2b1ebe80db0e</hash>
-	</machine>
-	<machine name="Retail/Alone in the Dark - The New Nightmare (Europe) (Disc 2)">
-		<category></category>
-		<description>Alone in the Dark - The New Nightmare (Europe) (Disc 2)</description>
 		<disk name="Alone in the Dark - The New Nightmare (Europe) (Disc 2).chd" sha1="82412189a12d13c4ef724994f53b9896741c3e81"/>
 		<url>https://retroachievements.org/game/11393/hashes</url>
+		<hash>02f8910fdf2f9199b70a2b1ebe80db0e</hash>
 		<hash>2d7c135c3757c64561baa3ce023935d0</hash>
 	</machine>
 	
@@ -717,88 +689,64 @@
 		<hash>3a787ed165dbf6b122af6892aa5994ab</hash>
 	</machine>
 	
-	<machine name="Retail/Amerzone - The Explorer's Legacy (Europe) (Disc 1)">
+	<machine name="Retail/Amerzone - The Explorer's Legacy (Europe)">
 		<category></category>
-		<description>Amerzone - The Explorer's Legacy (Europe) (Disc 1)</description>
+		<description>Amerzone - The Explorer's Legacy (Europe)</description>
+		<rom name="Amerzone - The Explorer's Legacy (Europe).m3u" size="110" crc="f2ef51d5" sha1="893d545bad66b409603cc60a6c0b514c58c1e00a" md5="394c7bb176d9b31c3028d550759c110d"/>
 		<disk name="Amerzone - The Explorer's Legacy (Europe) (Disc 1).chd" sha1="d0b6c61938a08b775904c3219dbe595dc144c1a6"/>
-		<url>https://retroachievements.org/game/17583/hashes</url>
-		<hash>cdef3fbc84ff01b6e4b57f84ac5710f6</hash>
-	</machine>
-	<machine name="Retail/Amerzone - The Explorer's Legacy (Europe) (Disc 2)">
-		<category></category>
-		<description>Amerzone - The Explorer's Legacy (Europe) (Disc 2)</description>
 		<disk name="Amerzone - The Explorer's Legacy (Europe) (Disc 2).chd" sha1="498f196d19807e6c4a3700f6d826e7dd5fbf62d0"/>
 		<url>https://retroachievements.org/game/17583/hashes</url>
+		<hash>cdef3fbc84ff01b6e4b57f84ac5710f6</hash>
 		<hash>b3060c5bfd988725a5205097a38cba42</hash>
 	</machine>
-	<machine name="Retail/Amerzone, L' (France) (Disc 1)">
+	<machine name="Retail/Amerzone, L' (France)">
 		<category></category>
-		<description>Amerzone, L' (France) (Disc 1)</description>
+		<description>Amerzone, L' (France)</description>
+		<rom name="Amerzone, L' (France).m3u" size="70" crc="a527f0d9" sha1="1d858bea67d76e078ce4a9e2ed47c72bcd2b2b9b" md5="a6507767d8798c19c664dcde1df48acb"/>
 		<disk name="Amerzone, L' (France) (Disc 1).chd" sha1="79e96126d9bcbab13610812176814292b053c3c8"/>
-		<url>https://retroachievements.org/game/17583/hashes</url>
-		<hash>439d3405711d724d21d348e55016ab6d</hash>
-	</machine>
-	<machine name="Retail/Amerzone, L' (France) (Disc 2)">
-		<category></category>
-		<description>Amerzone, L' (France) (Disc 2)</description>
 		<disk name="Amerzone, L' (France) (Disc 2).chd" sha1="a273182a6456932aca33fbdf6d44177ad731903f"/>
 		<url>https://retroachievements.org/game/17583/hashes</url>
+		<hash>439d3405711d724d21d348e55016ab6d</hash>
 		<hash>025e1e47ba9def2a051cb874fa075d32</hash>
 	</machine>
-	<machine name="Retail/Amerzone - Das Testament des Forschungsreisenden (Germany) (Disc 1)">
+	<machine name="Retail/Amerzone - Das Testament des Forschungsreisenden (Germany)">
 		<category></category>
-		<description>Amerzone - Das Testament des Forschungsreisenden (Germany) (Disc 1)</description>
+		<description>Amerzone - Das Testament des Forschungsreisenden (Germany)</description>
+		<rom name="Amerzone - Das Testament des Forschungsreisenden (Germany).m3u" size="114" crc="c8141b05" sha1="45d9f2a0aa90a3bdca390c66a758a156a72052d9" md5="65719194acb69541f001bcc650e391e3"/>
 		<disk name="Amerzone - Das Testament des Forschungsreisenden (Germany) (Disc 1).chd" sha1="60f2c8e7c0175184d05d1d8b02cab989f7d5951f"/>
-		<url>https://retroachievements.org/game/17583/hashes</url>
-		<hash>0015374a4c87a5188a7d4d43a215257d</hash>
-	</machine>
-	<machine name="Retail/Amerzone - Das Testament des Forschungsreisenden (Germany) (Disc 2)">
-		<category></category>
-		<description>Amerzone - Das Testament des Forschungsreisenden (Germany) (Disc 2)</description>
 		<disk name="Amerzone - Das Testament des Forschungsreisenden (Germany) (Disc 2).chd" sha1="81f473452a6342188fc86f9e594cd635a3b62dfa"/>
 		<url>https://retroachievements.org/game/17583/hashes</url>
+		<hash>0015374a4c87a5188a7d4d43a215257d</hash>
 		<hash>b5892c02d2da8680dd7d5f24d76891de</hash>
 	</machine>
-	<machine name="Retail/Amerzone - El Legado del Explorador (Spain) (Disc 1)">
+	<machine name="Retail/Amerzone - El Legado del Explorador (Spain)">
 		<category></category>
-		<description>Amerzone - El Legado del Explorador (Spain) (Disc 1)</description>
+		<description>Amerzone - El Legado del Explorador (Spain)</description>
+		<rom name="Amerzone - El Legado del Explorador (Spain).m3u" size="114" crc="0604fdbe" sha1="c2bfaf617650f0ad902fb0299a2ca0023ee9ad98" md5="cf077ff8cac2dcc8da3d5f168cf71294"/>
 		<disk name="Amerzone - El Legado del Explorador (Spain) (Disc 1).chd" sha1="812edd50affba6dfb5af9d61c29ccd42feb4ec64"/>
-		<url>https://retroachievements.org/game/17583/hashes</url>
-		<hash>d3101536d2cffed847eae2975a8d268e</hash>
-	</machine>
-	<machine name="Retail/Amerzone - El Legado del Explorador (Spain) (Disc 2)">
-		<category></category>
-		<description>Amerzone - El Legado del Explorador (Spain) (Disc 2)</description>
 		<disk name="Amerzone - El Legado del Explorador (Spain) (Disc 2).chd" sha1="ab67aba19ae0bfae75648540c01adaeb35150f1c"/>
 		<url>https://retroachievements.org/game/17583/hashes</url>
+		<hash>d3101536d2cffed847eae2975a8d268e</hash>
 		<hash>a36f761f297bf3b69b7e400bdb41c559</hash>
 	</machine>
-	<machine name="Retail/Amerzone - Il Testamento dell'Esploratore (Italy) (Disc 1)">
+	<machine name="Retail/Amerzone - Il Testamento dell'Esploratore (Italy)">
 		<category></category>
-		<description>Amerzone - Il Testamento dell'Esploratore (Italy) (Disc 1)</description>
+		<description>Amerzone - Il Testamento dell'Esploratore (Italy)</description>
+		<rom name="Amerzone - Il Testamento dell'Esploratore (Italy).m3u" size="126" crc="4b458d8b" sha1="240988e6f2a8db987a81d4661b36a24e45b2a953" md5="a0b25f23f3cf4f69dfa7d0379785df2c"/>
 		<disk name="Amerzone - Il Testamento dell'Esploratore (Italy) (Disc 1).chd" sha1="32cebdc58162ff3ce80d27ae7ba55586656325ad"/>
-		<url>https://retroachievements.org/game/17583/hashes</url>
-		<hash>69794e42a0ee6211c95b38d2a0406551</hash>
-	</machine>
-	<machine name="Retail/Amerzone - Il Testamento dell'Esploratore (Italy) (Disc 2)">
-		<category></category>
-		<description>Amerzone - Il Testamento dell'Esploratore (Italy) (Disc 2)</description>
 		<disk name="Amerzone - Il Testamento dell'Esploratore (Italy) (Disc 2).chd" sha1="6fc94c06b1bb76c1575c435506a6ce516642cab2"/>
 		<url>https://retroachievements.org/game/17583/hashes</url>
+		<hash>69794e42a0ee6211c95b38d2a0406551</hash>
 		<hash>ecf95dfb704472021366f9a848628662</hash>
 	</machine>
-	<machine name="Retail/Amerzone - O Testamento do Explorador (Portugal) (Disc 1)">
+	<machine name="Retail/Amerzone - O Testamento do Explorador (Portugal)">
 		<category></category>
-		<description>Amerzone - O Testamento do Explorador (Portugal) (Disc 1)</description>
+		<description>Amerzone - O Testamento do Explorador (Portugal)</description>
+		<rom name="Amerzone - O Testamento do Explorador (Portugal).m3u" size="124" crc="e43977bc" sha1="b9b35b6d3aeb85f3acbb534781303617225bcb3f" md5="c9a9dde4a842e8ebbf68c2eb066aa82b"/>
 		<disk name="Amerzone - O Testamento do Explorador (Portugal) (Disc 1).chd" sha1="e4179ab2c6e181506ea82f001377d78b6a4db44e"/>
-		<url>https://retroachievements.org/game/17583/hashes</url>
-		<hash>131b03b7d57f7e47b7e30455738e4ec7</hash>
-	</machine>
-	<machine name="Retail/Amerzone - O Testamento do Explorador (Portugal) (Disc 2)">
-		<category></category>
-		<description>Amerzone - O Testamento do Explorador (Portugal) (Disc 2)</description>
 		<disk name="Amerzone - O Testamento do Explorador (Portugal) (Disc 2).chd" sha1="31503e94890c0b1e87e3f5f8604f9baae0792277"/>
 		<url>https://retroachievements.org/game/17583/hashes</url>
+		<hash>131b03b7d57f7e47b7e30455738e4ec7</hash>
 		<hash>636d95a35e59ea34fbcfe90967a1443a</hash>
 	</machine>
 	
@@ -2441,87 +2389,87 @@
 		<hash>db64b6e6d2a5b485df6af06a7c860a73</hash>
 	</machine>
 	
-	<machine name="Retail/Driver 2 - Back on the Streets (France) (Disc 1) (Rev 1)">
+	<machine name="Retail/Driver 2 - Back on the Streets (France) (Rev 1) (Disc 1)">
 		<category></category>
-		<description>Driver 2 - Back on the Streets (France) (Disc 1) (Rev 1)</description>
-		<disk name="Driver 2 - Back on the Streets (France) (Disc 1) (Rev 1).chd" sha1="2aeae644c311b8d6938204efd77c8f775f2ee6a3"/>
+		<description>Driver 2 - Back on the Streets (France) (Rev 1) (Disc 1)</description>
+		<disk name="Driver 2 - Back on the Streets (France) (Rev 1) (Disc 1).chd" sha1="2aeae644c311b8d6938204efd77c8f775f2ee6a3"/>
 		<url>https://retroachievements.org/game/11588/hashes</url>
 		<hash>043bc3c81d91bee9d47a164613a4f833</hash>
 	</machine>
-	<machine name="Retail/Driver 2 - Back on the Streets (Germany) (Disc 1) (Rev 1)">
+	<machine name="Retail/Driver 2 - Back on the Streets (Germany) (Rev 1) (Disc 1)">
 		<category></category>
-		<description>Driver 2 - Back on the Streets (Germany) (Disc 1) (Rev 1)</description>
-		<disk name="Driver 2 - Back on the Streets (Germany) (Disc 1) (Rev 1).chd" sha1="0f902d8f01b123dc88ef34205be7e36103af6e1e"/>
+		<description>Driver 2 - Back on the Streets (Germany) (Rev 1) (Disc 1)</description>
+		<disk name="Driver 2 - Back on the Streets (Germany) (Rev 1) (Disc 1).chd" sha1="0f902d8f01b123dc88ef34205be7e36103af6e1e"/>
 		<url>https://retroachievements.org/game/11588/hashes</url>
 		<hash>1f515fdaa30c59c208af5106f527f6ac</hash>
 	</machine>
-	<machine name="Retail/Driver 2 (USA) (Disc 2) (Rev 1)">
+	<machine name="Retail/Driver 2 (USA) (Rev 1) (Disc 2)">
 		<category></category>
-		<description>Driver 2 (USA) (Disc 2) (Rev 1)</description>
-		<disk name="Driver 2 (USA) (Disc 2) (Rev 1).chd" sha1="c5014e627310d3d719e04801a1b035844a7c0ee9"/>
+		<description>Driver 2 (USA) (Rev 1) (Disc 2)</description>
+		<disk name="Driver 2 (USA) (Rev 1) (Disc 2).chd" sha1="c5014e627310d3d719e04801a1b035844a7c0ee9"/>
 		<url>https://retroachievements.org/game/11588/hashes</url>
 		<hash>2b499528873637d509226a17e45de687</hash>
 	</machine>
-	<machine name="Retail/Driver 2 - Back on the Streets (France) (Disc 2) (Rev 1)">
+	<machine name="Retail/Driver 2 - Back on the Streets (France) (Rev 1) (Disc 2)">
 		<category></category>
-		<description>Driver 2 - Back on the Streets (France) (Disc 2) (Rev 1)</description>
-		<disk name="Driver 2 - Back on the Streets (France) (Disc 2) (Rev 1).chd" sha1="1e21d03103a2483ea4a607704fc812b6ca2b8e73"/>
+		<description>Driver 2 - Back on the Streets (France) (Rev 1) (Disc 2)</description>
+		<disk name="Driver 2 - Back on the Streets (France) (Rev 1) (Disc 2).chd" sha1="1e21d03103a2483ea4a607704fc812b6ca2b8e73"/>
 		<url>https://retroachievements.org/game/11588/hashes</url>
 		<hash>6413a6175c9ccd233831268885eade21</hash>
 	</machine>
-	<machine name="Retail/Driver 2 - Back on the Streets (Germany) (Disc 2) (Rev 1)">
+	<machine name="Retail/Driver 2 - Back on the Streets (Germany) (Rev 1) (Disc 2)">
 		<category></category>
-		<description>Driver 2 - Back on the Streets (Germany) (Disc 2) (Rev 1)</description>
-		<disk name="Driver 2 - Back on the Streets (Germany) (Disc 2) (Rev 1).chd" sha1="83686ee09078b422f451c2eda9af2ea25ebae497"/>
+		<description>Driver 2 - Back on the Streets (Germany) (Rev 1) (Disc 2)</description>
+		<disk name="Driver 2 - Back on the Streets (Germany) (Rev 1) (Disc 2).chd" sha1="83686ee09078b422f451c2eda9af2ea25ebae497"/>
 		<url>https://retroachievements.org/game/11588/hashes</url>
 		<hash>7118244494ca59a605c30eec1922ffc0</hash>
 	</machine>
-	<machine name="Retail/Driver 2 - Back on the Streets (Spain) (Disc 1) (Rev 1)">
+	<machine name="Retail/Driver 2 - Back on the Streets (Spain) (Rev 1) (Disc 1)">
 		<category></category>
-		<description>Driver 2 - Back on the Streets (Spain) (Disc 1) (Rev 1)</description>
-		<disk name="Driver 2 - Back on the Streets (Spain) (Disc 1) (Rev 1).chd" sha1="41fe391114de496c6abdc43bbd2f776119e728e0"/>
+		<description>Driver 2 - Back on the Streets (Spain) (Rev 1) (Disc 1)</description>
+		<disk name="Driver 2 - Back on the Streets (Spain) (Rev 1) (Disc 1).chd" sha1="41fe391114de496c6abdc43bbd2f776119e728e0"/>
 		<url>https://retroachievements.org/game/11588/hashes</url>
 		<hash>8aa5eb45aa1f4f539b07aba95bfce308</hash>
 	</machine>
-	<machine name="Retail/Driver 2 - Back on the Streets (Europe) (Disc 2) (Rev 1)">
+	<machine name="Retail/Driver 2 - Back on the Streets (Europe) (Rev 1) (Disc 2)">
 		<category></category>
-		<description>Driver 2 - Back on the Streets (Europe) (Disc 2) (Rev 1)</description>
-		<disk name="Driver 2 - Back on the Streets (Europe) (Disc 2) (Rev 1).chd" sha1="2dd746873d57ccbfd62f70f4f63c637186600e58"/>
+		<description>Driver 2 - Back on the Streets (Europe) (Rev 1) (Disc 2)</description>
+		<disk name="Driver 2 - Back on the Streets (Europe) (Rev 1) (Disc 2).chd" sha1="2dd746873d57ccbfd62f70f4f63c637186600e58"/>
 		<url>https://retroachievements.org/game/11588/hashes</url>
 		<hash>8c9f5ca7dbea61f0f5b7c20c52d49de1</hash>
 	</machine>
-	<machine name="Retail/Driver 2 (USA) (Disc 1) (Rev 1)">
+	<machine name="Retail/Driver 2 (USA) (Rev 1) (Disc 1)">
 		<category></category>
-		<description>Driver 2 (USA) (Disc 1) (Rev 1)</description>
-		<disk name="Driver 2 (USA) (Disc 1) (Rev 1).chd" sha1="5a6c7c8177bd826a3b6e6fbb565e0c3002aa3855"/>
+		<description>Driver 2 (USA) (Rev 1) (Disc 1)</description>
+		<disk name="Driver 2 (USA) (Rev 1) (Disc 1).chd" sha1="5a6c7c8177bd826a3b6e6fbb565e0c3002aa3855"/>
 		<url>https://retroachievements.org/game/11588/hashes</url>
 		<hash>917bf6ee457d21754e8ef709ed9ada54</hash>
 	</machine>
-	<machine name="Retail/Driver 2 - Back on the Streets (Italy) (Disc 2) (Rev 1)">
+	<machine name="Retail/Driver 2 - Back on the Streets (Italy) (Rev 1) (Disc 2)">
 		<category></category>
-		<description>Driver 2 - Back on the Streets (Italy) (Disc 2) (Rev 1)</description>
-		<disk name="Driver 2 - Back on the Streets (Italy) (Disc 2) (Rev 1).chd" sha1="2cf85912db7527b24581a740f9b009a44e967c06"/>
+		<description>Driver 2 - Back on the Streets (Italy) (Rev 1) (Disc 2)</description>
+		<disk name="Driver 2 - Back on the Streets (Italy) (Rev 1) (Disc 2).chd" sha1="2cf85912db7527b24581a740f9b009a44e967c06"/>
 		<url>https://retroachievements.org/game/11588/hashes</url>
 		<hash>ddb82f974c72ec740174e4d2d17fbb98</hash>
 	</machine>
-	<machine name="Retail/Driver 2 - Back on the Streets (Italy) (Disc 1) (Rev 1)">
+	<machine name="Retail/Driver 2 - Back on the Streets (Italy) (Rev 1) (Disc 1)">
 		<category></category>
-		<description>Driver 2 - Back on the Streets (Italy) (Disc 1) (Rev 1)</description>
-		<disk name="Driver 2 - Back on the Streets (Italy) (Disc 1) (Rev 1).chd" sha1="2d7fc00351575c3bac358dc79051f8eaef9bc466"/>
+		<description>Driver 2 - Back on the Streets (Italy) (Rev 1) (Disc 1)</description>
+		<disk name="Driver 2 - Back on the Streets (Italy) (Rev 1) (Disc 1).chd" sha1="2d7fc00351575c3bac358dc79051f8eaef9bc466"/>
 		<url>https://retroachievements.org/game/11588/hashes</url>
 		<hash>e2d8d2f66fc0a13b1a3b8501b9c9a5d6</hash>
 	</machine>
-	<machine name="Retail/Driver 2 - Back on the Streets (Europe) (Disc 1) (Rev 1)">
+	<machine name="Retail/Driver 2 - Back on the Streets (Europe) (Rev 1) (Disc 1)">
 		<category></category>
-		<description>Driver 2 - Back on the Streets (Europe) (Disc 1) (Rev 1)</description>
-		<disk name="Driver 2 - Back on the Streets (Europe) (Disc 1) (Rev 1).chd" sha1="ce4045fa43c89606b1d51b10edc1d3361c3eaa72"/>
+		<description>Driver 2 - Back on the Streets (Europe) (Rev 1) (Disc 1)</description>
+		<disk name="Driver 2 - Back on the Streets (Europe) (Rev 1) (Disc 1).chd" sha1="ce4045fa43c89606b1d51b10edc1d3361c3eaa72"/>
 		<url>https://retroachievements.org/game/11588/hashes</url>
 		<hash>ea045a225c98d9f58f673ea2dd223040</hash>
 	</machine>
-	<machine name="Retail/Driver 2 - Back on the Streets (Spain) (Disc 2) (Rev 1)">
+	<machine name="Retail/Driver 2 - Back on the Streets (Spain) (Rev 1) (Disc 2)">
 		<category></category>
-		<description>Driver 2 - Back on the Streets (Spain) (Disc 2) (Rev 1)</description>
-		<disk name="Driver 2 - Back on the Streets (Spain) (Disc 2) (Rev 1).chd" sha1="0ee349d89e0f9c3332854a9253315e1cae10af66"/>
+		<description>Driver 2 - Back on the Streets (Spain) (Rev 1) (Disc 2)</description>
+		<disk name="Driver 2 - Back on the Streets (Spain) (Rev 1) (Disc 2).chd" sha1="0ee349d89e0f9c3332854a9253315e1cae10af66"/>
 		<url>https://retroachievements.org/game/11588/hashes</url>
 		<hash>f630b04afb9aa0ac9fc720e7e258f325</hash>
 	</machine>
@@ -4534,10 +4482,10 @@
 		<url>https://retroachievements.org/game/11244/hashes</url>
 		<hash>5dfa249c6e70096c79ad77a74e3a2019</hash>
 	</machine>
-	<machine name="Retail/Metal Gear Solid (USA) (Disc 1) (Rev 1)">
+	<machine name="Retail/Metal Gear Solid (USA) (Rev 1) (Disc 1)">
 		<category></category>
-		<description>Metal Gear Solid (USA) (Disc 1) (Rev 1)</description>
-		<disk name="Metal Gear Solid (USA) (Disc 1) (Rev 1).chd" sha1="2327370c48ca0388bcb30ed7ea1c5a5aaf9fa4b3"/>
+		<description>Metal Gear Solid (USA) (Rev 1) (Disc 1)</description>
+		<disk name="Metal Gear Solid (USA) (Rev 1) (Disc 1).chd" sha1="2327370c48ca0388bcb30ed7ea1c5a5aaf9fa4b3"/>
 		<url>https://retroachievements.org/game/11244/hashes</url>
 		<hash>8c8db8c41e2a4c7d0ef7fc1c2f74ef7a</hash>
 	</machine>
@@ -4576,10 +4524,10 @@
 		<url>https://retroachievements.org/game/11244/hashes</url>
 		<hash>e4b3bc4a5b3ce6df943f97f6663526d7</hash>
 	</machine>
-	<machine name="Retail/Metal Gear Solid (USA) (Disc 2) (Rev 1)">
+	<machine name="Retail/Metal Gear Solid (USA) (Rev 1) (Disc 2)">
 		<category></category>
-		<description>Metal Gear Solid (USA) (Disc 2) (Rev 1)</description>
-		<disk name="Metal Gear Solid (USA) (Disc 2) (Rev 1).chd" sha1="52559f84ac167052e35c3c14dced9d1072907690"/>
+		<description>Metal Gear Solid (USA) (Rev 1) (Disc 2)</description>
+		<disk name="Metal Gear Solid (USA) (Rev 1) (Disc 2).chd" sha1="52559f84ac167052e35c3c14dced9d1072907690"/>
 		<url>https://retroachievements.org/game/11244/hashes</url>
 		<hash>efffcf2f30383fded020cd6611fbe47d</hash>
 	</machine>
@@ -5306,19 +5254,19 @@
 		<hash>248e739606f2fe50a8ddf914ad48e040</hash>
 	</machine>
 	
-	<machine name="Retail/OverBlood 2 (Europe) (Disc 2) (Rev 1)">
+	<machine name="Retail/OverBlood 2 (Europe) (Rev 1) (Disc 2)">
 		<category></category>
-		<description>OverBlood 2 (Europe) (Disc 2) (Rev 1)</description>
-		<release name="OverBlood 2 (Europe) (Disc 2) (Rev 1)" region="Europe"/>
-		<disk name="OverBlood 2 (Europe) (Disc 2) (Rev 1).chd" sha1="077ba616cbcd9c06bd0363c2f980e12137aaeed6"/>
+		<description>OverBlood 2 (Europe) (Rev 1) (Disc 2)</description>
+		<release name="OverBlood 2 (Europe) (Rev 1) (Disc 2)" region="Europe"/>
+		<disk name="OverBlood 2 (Europe) (Rev 1) (Disc 2).chd" sha1="077ba616cbcd9c06bd0363c2f980e12137aaeed6"/>
 		<url>https://retroachievements.org/game/9264/hashes</url>
 		<hash>05671a14d996ad0923ee56cc02287720</hash>
 	</machine>
-	<machine name="Retail/OverBlood 2 (Europe) (Disc 1) (Rev 1)">
+	<machine name="Retail/OverBlood 2 (Europe) (Rev 1) (Disc 1)">
 		<category></category>
-		<description>OverBlood 2 (Europe) (Disc 1) (Rev 1)</description>
-		<release name="OverBlood 2 (Europe) (Disc 1) (Rev 1)" region="Europe"/>
-		<disk name="OverBlood 2 (Europe) (Disc 1) (Rev 1).chd" sha1="ed7c225f594ddd0d1a315314184b3fd0bc8e605d"/>
+		<description>OverBlood 2 (Europe) (Rev 1) (Disc 1)</description>
+		<release name="OverBlood 2 (Europe) (Rev 1) (Disc 1)" region="Europe"/>
+		<disk name="OverBlood 2 (Europe) (Rev 1) (Disc 1).chd" sha1="ed7c225f594ddd0d1a315314184b3fd0bc8e605d"/>
 		<url>https://retroachievements.org/game/9264/hashes</url>
 		<hash>7ce40283eac4b4218b67a07f9a1939ed</hash>
 	</machine>
