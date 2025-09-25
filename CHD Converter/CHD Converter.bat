@@ -33,7 +33,7 @@ ECHO		iv)	This program has been tested on chdman.exe from MAME 0.272 up to 0.280
 ECHO.
 ECHO =================================================================================
 ECHO.
-CHOICE /N /C:ABCDEFGZ /M "Choose the desired option from above menu: "%1
+CHOICE /N /C:ABCDEFGHIJZ /M "Choose the desired option from above menu: "%1
 IF ERRORLEVEL 1 SET M=A
 IF ERRORLEVEL 2 SET M=B
 IF ERRORLEVEL 3 SET M=C

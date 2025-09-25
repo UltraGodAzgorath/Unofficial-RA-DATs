@@ -394,12 +394,19 @@
 		<hash>569e50e741a39d8b806f55d4a5aa3990</hash>
 	</machine>
 	
-	<machine name="Homebrew/Five Nights at Freddy's (World) (v1.3.0) (Soeiz) (Aftermarket)">
+	<machine name="Homebrew/Five Nights at Freddy's (World) (v1.3.0a) (Soeiz) (Aftermarket)">
 		<category></category>
-		<description>Five Nights at Freddy's (World) (v1.3.0) (Soeiz) (Aftermarket)</description>
-		<disk name="Five Nights at Freddy's (World) (v1.3.0) (Soeiz) (Aftermarket).chd" sha1="0f3d8db218c5aa9f719eb183beada5eec938b53c"/>
+		<description>Five Nights at Freddy's (World) (v1.3.0a) (Soeiz) (Aftermarket)</description>
+		<disk name="Five Nights at Freddy's (World) (v1.3.0a) (Soeiz) (Aftermarket).chd" sha1="0f3d8db218c5aa9f719eb183beada5eec938b53c"/>
 		<url>https://retroachievements.org/game/30915/hashes</url>
 		<hash>095fb925d59be46a03d3230bcdc5d7d7</hash>
+	</machine>
+	<machine name="Homebrew/Five Nights at Freddy's (World) (v1.3.0b) (Soeiz) (Aftermarket)">
+		<category></category>
+		<description>Five Nights at Freddy's (World) (v1.3.0b) (Soeiz) (Aftermarket)</description>
+		<disk name="Five Nights at Freddy's (World) (v1.3.0b) (Soeiz) (Aftermarket).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/30915/hashes</url>
+		<hash>35dd60741748f817094cdd5792452660</hash>
 	</machine>
 	
 	<machine name="Homebrew/Five Nights at Freddy's 2 (World) (v1.0.3b) (Soeiz) (Aftermarket)">
