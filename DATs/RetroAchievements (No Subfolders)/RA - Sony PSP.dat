@@ -12,6 +12,8 @@
 		<url>https://retroachievements.org/system/41/games</url>
 		<titlecount>302</titlecount>
 		<hashcount>402/779</hashcount>
+		<clrmamepro forcepacking="unzip"/>
+		<romvault forcepacking="unzip"/>
 	</header>
 	<machine name="Dot Hack--Link (Japan)">
 		<category>Retail</category>
