@@ -2,22 +2,19 @@ ECHO OFF
 CLS
 :MENU
 ECHO.
-ECHO =================================================================================
+ECHO ======================================================================================================================
 ECHO				  	CHDMAN OPTIONS
-ECHO =================================================================================
+ECHO ======================================================================================================================
 ECHO.
 ECHO		A - Compress CD to Standard CHD		(cdlz,cdzl,cdfl)
 ECHO		B - Compress CD to ZSTD CHD		(cdzs,cdzl,cdfl)
-ECHO		C - Compress DVD to Standard CHD**	(lzma,zlib,huff,flac)
-ECHO		D - Compress DVD to ZSTD CHD**		(zstd,zlib,huff,flac)
+ECHO		C - Compress DVD to Standard CHD	(lzma,zlib,huff,flac)
+ECHO		D - Compress DVD to ZSTD CHD		(zstd,zlib,huff,flac)
 ECHO.
-ECHO		E - Extract CHD to CD BIN+CUE		(PS1 and earlier)
-ECHO		F - Extract CHD to GDI			(Dreamcast)
-ECHO		G - Extract CHD to CD ISO		(PS2*)
-ECHO		H - Extract CHD to DVD ISO		(PS2* and PSP)
-ECHO.
-ECHO		*The majority of PS2 games are DVD-based, a few games are CD-based
-ECHO		**This option will convert both CDs and DVDs in the same folder to the appropriate CHDs.
+ECHO		E - Extract CHD to CD BIN+CUE		(For PS1 and earlier)
+ECHO		F - Extract CHD to GDI			(For Dreamcast)
+ECHO		G - Extract CHD to CD ISO		(For PS2 CDs)
+ECHO		H - Extract CHD to DVD ISO		(For PS2 DVDs and PSP)
 ECHO.
 ECHO		I - Convert CD CHD to DVD CHD		(if an old CD CHD should be a DVD CHD)
 ECHO		J - Convert PSP CD CHD to PSP DVD CHD	(if an old PSP CD CHD should be a PSP DVD CHD)
@@ -31,7 +28,7 @@ ECHO		ii)	Jaguar CD roms need to be kept in CDI or BIN+CUE format.
 ECHO		iii)	If 3DO roms are in CDI format, keep them in that format.
 ECHO		iv)	This program has been tested on chdman.exe from MAME 0.272 up to 0.280.
 ECHO.
-ECHO =================================================================================
+ECHO ======================================================================================================================
 ECHO.
 CHOICE /N /C:ABCDEFGHIJZ /M "Choose the desired option from above menu: "%1
 IF ERRORLEVEL 1 SET M=A
@@ -46,7 +43,7 @@ IF ERRORLEVEL 9 SET M=I
 IF ERRORLEVEL 10 SET M=J
 IF ERRORLEVEL 11 SET M=Z
 IF %M%==A GOTO CompressCD
-IF %M%==B GOTO CompressCDZ
+IF %M%==B GOTO Warning
 IF %M%==C GOTO CompressDVD
 IF %M%==D GOTO CompressDVDZ
 IF %M%==E GOTO ExtractBIN
@@ -56,6 +53,35 @@ IF %M%==H GOTO ExtractDVDISO
 IF %M%==I GOTO ConvertCHD
 IF %M%==J GOTO ConvertCHD-PSP
 IF %M%==Z EXIT
+
+:Warning
+ECHO.
+ECHO ======================================================================================================================
+ECHO				 	WARNING!!!
+ECHO ======================================================================================================================
+ECHO.
+ECHO		Do not convert these platforms to ZSTD CHD due to no ZSTD support/compatibility:
+ECHO.
+ECHO			i) 	3DO Interactive Multiplayer
+ECHO			ii) 	NEC PC-FX
+ECHO			iii) 	NEC TurboGrafx-CD*
+ECHO.
+ECHO		* The Beetle PCE and Beetle PCE Fast cores support ZSTD but can't run
+ECHO		SuperGrafx roms, while the Beetle SuperGrafx core can run SuperGrafx
+ECHO		roms but doesn't have ZSTD support/compatibility.
+ECHO.
+ECHO		Do you still want to convert this platform to ZSTD CHD?
+ECHO.
+ECHO			Y - Yes
+ECHO			N - No (Go back to Main Menu)
+ECHO.
+ECHO ======================================================================================================================
+ECHO.
+CHOICE /N /C:NY /M "Choose the desired option from above menu: "%1
+IF ERRORLEVEL 1 SET M=N
+IF ERRORLEVEL 2 SET M=Y
+IF %M%==Y GOTO CompressCDZ
+IF %M%==N GOTO MENU
 
 :CompressCD
 for /r %%i in (*.cue, *.gdi, *.iso) do chdman createcd -i "%%i" -o "%%~ni.chd"
@@ -181,10 +207,9 @@ Del *.iso
 GOTO MENU
 
 :SUB_DelBINCUE
-ECHO _________________________________________________________________________________
-ECHO.
+ECHO ======================================================================================================================
 ECHO				 	DELETE OPTIONS
-ECHO _________________________________________________________________________________
+ECHO ======================================================================================================================
 ECHO.
 ECHO			1 - Delete Input BIN+CUE and/or ISO File(s)
 ECHO			2 - Return to Main Menu
@@ -194,8 +219,9 @@ ECHO.
 ECHO		If the Input vs. Output file numbers above don't match, then you
 ECHO		should exit this program and check the files manually before
 ECHO		deleting anything. An example is CHDMAN failing to process a file 
-ECHO		because of non-standard characters in the input file name
-ECHO _________________________________________________________________________________
+ECHO		because of non-standard characters in the input file name.
+ECHO.
+ECHO ======================================================================================================================
 ECHO.
 CHOICE /N /C:12 /M "Choose 1 or 2"%1
 IF ERRORLEVEL 1 SET M=1
@@ -209,10 +235,9 @@ Del *.cue
 CALL :MENU
 
 :SUB_DelGDI
-ECHO _________________________________________________________________________________
-ECHO.
+ECHO ======================================================================================================================
 ECHO				 	DELETE OPTIONS
-ECHO _________________________________________________________________________________
+ECHO ======================================================================================================================
 ECHO.
 ECHO			1 - Delete Input BIN+CUE and/or GDI+BIN+RAW File(s)
 ECHO			2 - Return to Main Menu
@@ -222,8 +247,9 @@ ECHO.
 ECHO		If the Input vs. Output file numbers above don't match, then you
 ECHO		should exit this program and check the files manually before
 ECHO		deleting anything. An example is CHDMAN failing to process a file 
-ECHO		because of non-standard characters in the input file name
-ECHO _________________________________________________________________________________
+ECHO		because of non-standard characters in the input file name.
+ECHO.
+ECHO ======================================================================================================================
 ECHO.
 CHOICE /N /C:12 /M "Choose 1 or 2"%1
 IF ERRORLEVEL 1 SET M=1
@@ -237,10 +263,9 @@ Del *.raw
 CALL :MENU
 
 :SUB_DelISO
-ECHO _________________________________________________________________________________
-ECHO.
+ECHO ======================================================================================================================
 ECHO				 	DELETE OPTIONS
-ECHO _________________________________________________________________________________
+ECHO ======================================================================================================================
 ECHO.
 ECHO				1 - Delete Input ISO File(s)
 ECHO				2 - Return to Main Menu
@@ -251,7 +276,8 @@ ECHO		If the Input vs. Output file numbers above don't match, then you
 ECHO		should exit this program and check the files manually before
 ECHO		deleting anything. An example is CHDMAN failing to process a file 
 ECHO		because of non-standard characters in the input file name
-ECHO _________________________________________________________________________________
+ECHO.
+ECHO ======================================================================================================================
 ECHO.
 CHOICE /N /C:12 /M "Choose 1 or 2"%1
 IF ERRORLEVEL 1 SET M=1
@@ -264,10 +290,9 @@ CALL :MENU
 
 
 :SUB_DelCHD
-ECHO _________________________________________________________________________________
-ECHO.
+ECHO ======================================================================================================================
 ECHO				  	DELETE OPTIONS
-ECHO _________________________________________________________________________________
+ECHO ======================================================================================================================
 ECHO.
 ECHO				1 - Delete Input CHD File(s)
 ECHO				2 - Return to Main Menu
@@ -277,8 +302,9 @@ ECHO.
 ECHO		If the Input vs. Output file numbers above don't match, then you
 ECHO		should exit this program and check the files manually before
 ECHO		deleting anything. An example is CHDMAN failing to process a file 
-ECHO		because of non-standard characters in the input file name
-ECHO _________________________________________________________________________________
+ECHO		because of non-standard characters in the input file name.
+ECHO.
+ECHO ======================================================================================================================
 ECHO.
 CHOICE /N /C:12 /M "Choose 1 or 2"%1
 IF ERRORLEVEL 1 SET M=1
@@ -290,10 +316,9 @@ Del *.chd
 CALL :MENU
 
 :SUB_DelCHDISO
-ECHO _________________________________________________________________________________
-ECHO.
+ECHO ======================================================================================================================
 ECHO				  	DELETE OPTIONS
-ECHO _________________________________________________________________________________
+ECHO ======================================================================================================================
 ECHO.
 ECHO				1 - Delete Input CHD File(s)
 ECHO				2 - Return to Main Menu
@@ -303,8 +328,9 @@ ECHO.
 ECHO		If the Input vs. Output file numbers above don't match, then you
 ECHO		may have mixed CD and DVD CHD files. DO NOT delete the input files,
 ECHO		Return to main menu and re-run with the other Extract ISO option and 
-ECHO		re-check the Input vs. Output file numbers before deleting any CHD's
-ECHO _________________________________________________________________________________
+ECHO		re-check the Input vs. Output file numbers before deleting any CHD's.
+ECHO.
+ECHO ======================================================================================================================
 ECHO.
 CHOICE /N /C:12 /M "Choose 1 or 2"%1
 IF ERRORLEVEL 1 SET M=1
