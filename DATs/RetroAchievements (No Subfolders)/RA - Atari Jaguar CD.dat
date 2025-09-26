@@ -12,6 +12,8 @@
 		<url>https://retroachievements.org/system/77/games</url>
 		<titlecount>17</titlecount>
 		<hashcount>18</hashcount>
+		<clrmamepro forcepacking="unzip"/>
+		<romvault forcepacking="unzip"/>
 	</header>
 	<game name="Home Run Derby (World) (v2.0) (MGNS8M) (Demo) (Aftermarket)">
 		<category>Homebrew</category>
