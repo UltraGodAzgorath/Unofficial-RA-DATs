@@ -72,8 +72,8 @@ ECHO		roms but doesn't have ZSTD support/compatibility.
 ECHO.
 ECHO		Do you still want to convert this platform to ZSTD CHD?
 ECHO.
-ECHO			1 - Yes, convert CD to ZSTD CHD
-ECHO			2 - Yes, convert Standard CD CHD to ZSTD CHD
+ECHO			1 - Yes, Compress CD to ZSTD CHD
+ECHO			2 - Yes, Convert Standard CD CHD to ZSTD CHD
 ECHO			3 - No (Go back to Main Menu)
 ECHO.
 ECHO ======================================================================================================================
