@@ -16,8 +16,8 @@ ECHO		F - Extract CHD to GDI			(For Dreamcast)
 ECHO		G - Extract CHD to CD ISO		(For PS2 CDs)
 ECHO		H - Extract CHD to DVD ISO		(For PS2 DVDs and PSP)
 ECHO.
-ECHO		I - Convert CD CHD to DVD CHD		(if an old CD CHD should be a DVD CHD)
-ECHO		J - Convert PSP CD CHD to PSP DVD CHD	(if an old PSP CD CHD should be a PSP DVD CHD)
+ECHO		I - Convert Standard CD CHD to ZSTD CHD
+ECHO		J - Convert Standard DVD CHD to ZSTD CHD
 ECHO.
 ECHO		Z - EXIT
 ECHO.
@@ -50,8 +50,8 @@ IF %M%==E GOTO ExtractBIN
 IF %M%==F GOTO ExtractGDI
 IF %M%==G GOTO ExtractCDISO
 IF %M%==H GOTO ExtractDVDISO
-IF %M%==I GOTO ConvertCHD
-IF %M%==J GOTO ConvertCHD-PSP
+IF %M%==I GOTO ConvertCDCHD
+IF %M%==J GOTO ConvertDVDCHD
 IF %M%==Z EXIT
 
 :Warning
@@ -192,18 +192,19 @@ dir /A:-D /B *.iso 2>nul | find /c /v ""
 CALL :SUB_DelCHDISO
 GOTO MENU
 
-:ConvertCHD
-for /r %%i in (*.chd) do chdman extractcd -i "%%i" -o "%%~ni.cue" -ob "%%~ni.iso"
-Del *.cue
-for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd,zlib,huff,flac -f
-Del *.iso
+:ConvertCDCHD
+for /r %%i in (*.chd) do chdman extractcd -i "%%i" -o "%%~ni.cue" -ob "%%~ni.bin"
+Del *.CHD
+for /r %%i in (*.cue) do chdman createcd -i "%%i" -o "%%~ni.chd" -c cdzs,cdzl,cdfl
+Del *.CUE
+Del *.BIN
 GOTO MENU
 
-:ConvertCHD-PSP
-for /r %%i in (*.chd) do chdman extractcd -i "%%i" -o "%%~ni.cue" -ob "%%~ni.iso"
-Del *.cue
-for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd,zlib,huff,flac -f
-Del *.iso
+:ConvertDVDCHD
+for /r %%i in (*.chd) do chdman extractdvd -i "%%i" -o "%%~ni.iso"
+Del *.CHD
+for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd,zlib,huff,flac
+Del *.ISO
 GOTO MENU
 
 :SUB_DelBINCUE
