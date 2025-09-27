@@ -80,7 +80,7 @@ ECHO ===========================================================================
 ECHO.
 CHOICE /N /C:123 /M "Choose the desired option from above menu: "%1
 IF ERRORLEVEL 1 SET M=1
-IF ERRORLEVEL 1 SET M=2
+IF ERRORLEVEL 2 SET M=2
 IF ERRORLEVEL 3 SET M=3
 IF %M%==1 GOTO CompressCDZ
 IF %M%==2 GOTO ConvertCDCHD
