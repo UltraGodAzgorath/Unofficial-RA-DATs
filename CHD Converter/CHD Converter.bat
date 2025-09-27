@@ -50,7 +50,7 @@ IF %M%==E GOTO ExtractBIN
 IF %M%==F GOTO ExtractGDI
 IF %M%==G GOTO ExtractCDISO
 IF %M%==H GOTO ExtractDVDISO
-IF %M%==I GOTO ConvertCDCHD
+IF %M%==I GOTO Warning
 IF %M%==J GOTO ConvertDVDCHD
 IF %M%==Z EXIT
 
@@ -60,7 +60,7 @@ ECHO ===========================================================================
 ECHO				 	WARNING!!!
 ECHO ======================================================================================================================
 ECHO.
-ECHO		Do not convert these platforms to ZSTD CHD due to no ZSTD support/compatibility:
+ECHO		Do not convert these CD platforms to ZSTD CHD due to no ZSTD support/compatibility:
 ECHO.
 ECHO			i) 	3DO Interactive Multiplayer
 ECHO			ii) 	NEC PC-FX
@@ -72,16 +72,19 @@ ECHO		roms but doesn't have ZSTD support/compatibility.
 ECHO.
 ECHO		Do you still want to convert this platform to ZSTD CHD?
 ECHO.
-ECHO			Y - Yes
-ECHO			N - No (Go back to Main Menu)
+ECHO			1 - Yes, convert CD to ZSTD CHD
+ECHO			2 - Yes, convert Standard CD CHD to ZSTD CHD
+ECHO			3 - No (Go back to Main Menu)
 ECHO.
 ECHO ======================================================================================================================
 ECHO.
-CHOICE /N /C:NY /M "Choose the desired option from above menu: "%1
-IF ERRORLEVEL 1 SET M=N
-IF ERRORLEVEL 2 SET M=Y
-IF %M%==Y GOTO CompressCDZ
-IF %M%==N GOTO MENU
+CHOICE /N /C:123 /M "Choose the desired option from above menu: "%1
+IF ERRORLEVEL 1 SET M=1
+IF ERRORLEVEL 1 SET M=2
+IF ERRORLEVEL 3 SET M=3
+IF %M%==1 GOTO CompressCDZ
+IF %M%==2 GOTO ConvertCDCHD
+IF %M%==3 GOTO MENU
 
 :CompressCD
 for /r %%i in (*.cue, *.gdi, *.iso) do chdman createcd -i "%%i" -o "%%~ni.chd"
