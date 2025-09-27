@@ -197,17 +197,14 @@ GOTO MENU
 
 :ConvertCDCHD
 for /r %%i in (*.chd) do chdman extractcd -i "%%i" -o "%%~ni.cue" -ob "%%~ni.bin"
-Del *.CHD
-for /r %%i in (*.cue) do chdman createcd -i "%%i" -o "%%~ni.chd" -c cdzs,cdzl,cdfl
-Del *.CUE
-Del *.BIN
+for /r %%i in (*.cue) do chdman createcd -i "%%i" -o "%%~ni.chd" -c cdzs,cdzl,cdfl -f
+CALL :SUB_DelBINCUE
 GOTO MENU
 
 :ConvertDVDCHD
 for /r %%i in (*.chd) do chdman extractdvd -i "%%i" -o "%%~ni.iso"
-Del *.CHD
-for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd,zlib,huff,flac
-Del *.ISO
+for /r %%i in (*.iso) do chdman createdvd -i "%%i" -o "%%~ni.chd" -c zstd,zlib,huff,flac -f
+CALL :SUB_DelISO
 GOTO MENU
 
 :SUB_DelBINCUE
