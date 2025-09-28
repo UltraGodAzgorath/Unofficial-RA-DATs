@@ -5,8 +5,8 @@
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
 		<category>Subfolders</category>
-		<version>20250913</version>
-		<date>13 September 2025</date>
+		<version>20250928</version>
+		<date>28 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/1/games</url>
@@ -1062,6 +1062,21 @@
 		<hash>182898fb5913e2c4397a12008637dcea</hash>
 	</game>
 	
+	<game name="Unlicensed/Sonic Jam 6/Sonic Jam 6 (Taiwan) (En) (Pirate)">
+		<category></category>
+		<description>Sonic Jam 6 (Taiwan) (En) (Pirate)</description>
+		<rom name="Sonic Jam 6 (Taiwan) (En) (Pirate).md" size="000" crc="000" md5="601dbecadde306ab238443193c76c918" sha1="000"/>
+		<url>https://retroachievements.org/game/14607/hashes</url>
+		<hash>601dbecadde306ab238443193c76c918</hash>
+	</game>
+	<game name="Unlicensed/Sonic Jam 6/Sonic Jam 6 (Taiwan) (En) (Pirate) (Black Screen Fix) (Alexdatadestroyer)">
+		<category></category>
+		<description>Sonic Jam 6 (Taiwan) (En) (Pirate) (Black Screen Fix) (Alexdatadestroyer)</description>
+		<rom name="Sonic Jam 6 (Taiwan) (En) (Pirate) (Black Screen Fix) (Alexdatadestroyer).md" size="000" crc="000" md5="8e2907b6c7a47e4c011e5902b4135f0e" sha1="000"/>
+		<url>https://retroachievements.org/game/14607/hashes</url>
+		<hash>8e2907b6c7a47e4c011e5902b4135f0e</hash>
+	</game>
+	
 	<game name="Unlicensed/Super Donkey Kong 99 (Taiwan) (En) (Unl)">
 		<category></category>
 		<description>Super Donkey Kong 99 (Taiwan) (En) (Unl)</description>
@@ -1471,6 +1486,14 @@
 		<rom name="Ballz 3D - The Battle of the Ballz (USA, Europe).md" size="2097152" crc="b362b705" md5="339a8c9a96fcdedb2922b04bcc34f0d2" sha1="4825cb9245a701cc59900c57a7a5fa70edc160f0"/>
 		<url>https://retroachievements.org/game/9902/hashes</url>
 		<hash>339a8c9a96fcdedb2922b04bcc34f0d2</hash>
+	</game>
+	
+	<game name="Retail/Barbie Super Model (USA)">
+		<category></category>
+		<description>Barbie Super Model (USA)</description>
+		<rom name="Barbie Super Model (USA).md" size="000" crc="000" md5="57705b055973733e8b9c25373a80f28c" sha1="000"/>
+		<url>https://retroachievements.org/game/7039/hashes</url>
+		<hash>57705b055973733e8b9c25373a80f28c</hash>
 	</game>
 	
 	<game name="Retail/Bare Knuckle III (Japan) (En) (Twilight Translations)">
@@ -3103,6 +3126,14 @@
 		<hash>089771a4c22d69f039e5c18bf4b2d84a</hash>
 	</game>
 	
+	<game name="Retail/Home Alone 2 - Lost in New York (USA)">
+		<category></category>
+		<description>Home Alone 2 - Lost in New York (USA)</description>
+		<rom name="Home Alone 2 - Lost in New York (USA).md" size="000" crc="000" md5="9ccafedaed5426819fefc3ae17a04fd2" sha1="000"/>
+		<url>https://retroachievements.org/game/4294/hashes</url>
+		<hash>9ccafedaed5426819fefc3ae17a04fd2</hash>
+	</game>
+	
 	<game name="Retail/Hook (USA)">
 		<category></category>
 		<description>Hook (USA)</description>
@@ -3789,6 +3820,14 @@
 		<rom name="Mickey Mania - Timeless Adventures of Mickey Mouse (USA) (Es) (v1.0) (Wave).md" size="2097152" crc="a65dae53" md5="f5bcc0b3fc58ce5df04b7861f2d6eb3b" sha1="24c39d2e211879d97512e19bf3f2025f79b12653"/>
 		<url>https://retroachievements.org/game/2545/hashes</url>
 		<hash>f5bcc0b3fc58ce5df04b7861f2d6eb3b</hash>
+	</game>
+	
+	<game name="Retail/Mickey's Ultimate Challenge (USA)">
+		<category></category>
+		<description>Mickey's Ultimate Challenge (USA)</description>
+		<rom name="Mickey's Ultimate Challenge (USA).md" size="000" crc="000" md5="34b498ba6ea5caf365cbaf6dd8c7be65" sha1="000"/>
+		<url>https://retroachievements.org/game/90/hashes</url>
+		<hash>34b498ba6ea5caf365cbaf6dd8c7be65</hash>
 	</game>
 	
 	<game name="Retail/Micro Machines - Turbo Tournament 96 (Europe) (J-Cart)">
@@ -4592,6 +4631,14 @@
 		<rom name="Richard Scarry's Busytown (USA).md" size="2097152" crc="7bb60c3f" md5="06ddc929a7bf834c40344ac83a4acc97" sha1="42e5ac265e3bf82c44dca70deb71b0aa08acf1a9"/>
 		<url>https://retroachievements.org/game/17555/hashes</url>
 		<hash>06ddc929a7bf834c40344ac83a4acc97</hash>
+	</game>
+	
+	<game name="Retail/Rings of Power (USA, Europe) (Cheats Disabled) (v1.0) (Bartis1989)">
+		<category></category>
+		<description>Rings of Power (USA, Europe) (Cheats Disabled) (v1.0) (Bartis1989)</description>
+		<rom name="Rings of Power (USA, Europe) (Cheats Disabled) (v1.0) (Bartis1989).md" size="000" crc="000" md5="b78430b26a276939d64f73c9b9aea8e6" sha1="000"/>
+		<url>https://retroachievements.org/game/4414/hashes</url>
+		<hash>b78430b26a276939d64f73c9b9aea8e6</hash>
 	</game>
 	
 	<game name="Retail/Ristar - The Shooting Star (Japan, Korea) (En)">

@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>No Subfolders</category>
-		<version>20250913</version>
-		<date>13 September 2025</date>
+		<version>20250928</version>
+		<date>28 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -337,15 +337,6 @@
 		<hash>c17c11ca978c60b98009b49f6818e237</hash>
 	</game>
 	
-	<game name="Fire Emblem - Last Promise, The (Hack)">
-		<category>Hack</category>
-		<description>Fire Emblem - Last Promise, The (Hack)</description>
-		<release name="Fire Emblem - Last Promise, The (Hack)" region="World"/>
-		<rom name="Fire Emblem - Last Promise, The (Hack).gba" size="32505856" crc="d1c6e5d5" md5="485740f0f0036d32bdf7369334be13e0" sha1="1c09cbe7f5d23a37ad2404efb4f2b536943f8cd5"/>
-		<url>https://retroachievements.org/game/15933/hashes</url>
-		<hash>485740f0f0036d32bdf7369334be13e0</hash>
-	</game>
-	
 	<game name="Mega Man Battle Network 6 - Cybeast Falzar - MegaRock Patch (Hack)">
 		<category>Hack</category>
 		<description>Mega Man Battle Network 6 - Cybeast Falzar - MegaRock Patch (Hack)</description>
@@ -674,6 +665,22 @@
 		<hash>8529f3a45d32bce4da637976fcf269d4</hash>
 	</game>
 	
+	<game name="Pokemon - Recharged Emerald (v2.2.5) (Jaizu) (Hack)" cloneof="Pokemon - Recharged Emerald (v2.2.6) (Jaizu) (Hack)">
+		<category>Hack</category>
+		<description>Pokemon - Recharged Emerald (v2.2.5) (Jaizu) (Hack)</description>
+		<rom name="Pokemon - Recharged Emerald (v2.2.5) (Jaizu) (Hack).gba" size="000" crc="000" md5="eceaa049048a61ebe66f3f58e3723a5b" sha1="000"/>
+		<url>https://retroachievements.org/game/32844/hashes</url>
+		<hash>eceaa049048a61ebe66f3f58e3723a5b</hash>
+	</game>
+	<game name="Pokemon - Recharged Emerald (v2.2.6) (Jaizu) (Hack)">
+		<category>Hack</category>
+		<description>Pokemon - Recharged Emerald (v2.2.6) (Jaizu) (Hack)</description>
+		<release name="Pokemon - Recharged Emerald (v2.2.6) (Jaizu) (Hack)" region="World"/>
+		<rom name="Pokemon - Recharged Emerald (v2.2.6) (Jaizu) (Hack).gba" size="000" crc="000" md5="f258589489cb284a1115ae26db5f8111" sha1="000"/>
+		<url>https://retroachievements.org/game/32844/hashes</url>
+		<hash>f258589489cb284a1115ae26db5f8111</hash>
+	</game>
+	
 	<game name="Pokemon - Recharged Yellow (Jaizu) (v1.8.0) (Hack)">
 		<category>Hack</category>
 		<description>Pokemon - Recharged Yellow (Jaizu) (v1.8.0) (Hack)</description>
@@ -895,6 +902,15 @@
 		<rom name="Super Metroid - GBA Edition (v3.0) (Hack).gba" size="33554432" crc="b4e1da85" md5="ae340ff5e044ccca4b3efbb61c154c1c" sha1="730e1c76e798b7801f504da63504a4790817a734"/>
 		<url>https://retroachievements.org/game/9842/hashes</url>
 		<hash>ae340ff5e044ccca4b3efbb61c154c1c</hash>
+	</game>
+	
+	<game name="Fire Emblem - Last Promise, The (Hack)">
+		<category>Hack</category>
+		<description>Fire Emblem - Last Promise, The (Hack)</description>
+		<release name="Fire Emblem - Last Promise, The (Hack)" region="World"/>
+		<rom name="Fire Emblem - Last Promise, The (Hack).gba" size="32505856" crc="d1c6e5d5" md5="485740f0f0036d32bdf7369334be13e0" sha1="1c09cbe7f5d23a37ad2404efb4f2b536943f8cd5"/>
+		<url>https://retroachievements.org/game/15933/hashes</url>
+		<hash>485740f0f0036d32bdf7369334be13e0</hash>
 	</game>
 	
 	<game name="Doom - The Ultimate Doom (Subliminal Siren) (Hack)">
@@ -7235,6 +7251,15 @@
 		<hash>1e3fd614dc43edbbf9df51262057f2cc</hash>
 	</game>
 	
+	<game name="Scooby-Doo! - Mystery Mayhem (Europe) (En,Fr,De)">
+		<category>Retail</category>
+		<description>Scooby-Doo! - Mystery Mayhem (Europe) (En,Fr,De)</description>
+		<release name="Scooby-Doo! - Mystery Mayhem (Europe) (En,Fr,De)" region="Europe"/>
+		<rom name="Scooby-Doo! - Mystery Mayhem (Europe) (En,Fr,De).gba" size="000" crc="000" md5="9cff0577973c0219738da5995edcf3ae" sha1="000"/>
+		<url>https://retroachievements.org/game/6771/hashes</url>
+		<hash>9cff0577973c0219738da5995edcf3ae</hash>
+	</game>
+	
 	<game name="Scooby-Doo! - Unmasked (Europe) (Es,It)" cloneof="Scooby-Doo! - Unmasked (Europe) (En,Fr)">
 		<category>Retail</category>
 		<description>Scooby-Doo! - Unmasked (Europe) (Es,It)</description>
@@ -8945,6 +8970,15 @@
 		<rom name="Lara Croft Tomb Raider - The Prophecy (USA) (En,Fr,De,Es,It).gba" size="8388608" crc="556f40fa" md5="ba38712ad91c6c0287298d4c53ad48b1" sha1="25d1c4c412ada421b88a88dba89a0ffd23f6f75d"/>
 		<url>https://retroachievements.org/game/8582/hashes</url>
 		<hash>ba38712ad91c6c0287298d4c53ad48b1</hash>
+	</game>
+	
+	<game name="Tonka - On the Job (USA)">
+		<category>Retail</category>
+		<description>Tonka - On the Job (USA)</description>
+		<release name="Tonka - On the Job (USA)" region="USA"/>
+		<rom name="Tonka - On the Job (USA).gba" size="000" crc="000" md5="ee91c4582d9b0cc494fcb71173b43e17" sha1="000"/>
+		<url>https://retroachievements.org/game/9803/hashes</url>
+		<hash>ee91c4582d9b0cc494fcb71173b43e17</hash>
 	</game>
 	
 	<game name="Tony Hawk's Pro Skater 2 (USA, Europe)">

@@ -5,8 +5,8 @@
 		<name>RA - Atari 2600</name>
 		<description>Atari 2600</description>
 		<category>Subfolders</category>
-		<version>20250913</version>
-		<date>13 September 2025</date>
+		<version>20250928</version>
+		<date>28 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/25/games</url>
@@ -865,6 +865,14 @@
 		<rom name="Gangster Alley (USA).a26" size="4096" crc="03c2452c" md5="20edcc3aa6c189259fa7e2f044a99c49" sha1="8cf49d43bd62308df788cfacbfcd80e9226c7590"/>
 		<url>https://retroachievements.org/game/16271/hashes</url>
 		<hash>20EDCC3AA6C189259FA7E2F044A99C49</hash>
+	</game>
+	
+	<game name="Retail/Ghost Manor (USA)">
+		<category></category>
+		<description>Ghost Manor (USA)</description>
+		<rom name="Ghost Manor (USA).a26" size="000" crc="000" md5="2bee7f226d506c217163bad4ab1768c0" sha1="000"/>
+		<url>https://retroachievements.org/game/16353/hashes</url>
+		<hash>2bee7f226d506c217163bad4ab1768c0</hash>
 	</game>
 	
 	<game name="Retail/Ghostbusters (USA)">

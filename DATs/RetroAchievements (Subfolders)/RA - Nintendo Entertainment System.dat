@@ -5,22 +5,14 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20250913</version>
-		<date>13 September 2025</date>
+		<version>20250928</version>
+		<date>28 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/7/games</url>
 		<titlecount>1066</titlecount>
 		<hashcount>1942/1946</hashcount>
 	</header>
-	<game name="Hack/Super Mario Bros/SMB1 - Adventures of Jerry Mouse, The - The Rescue of Nibbles (v1.0.1) (Green Jerry) (Hack)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>SMB1 - Adventures of Jerry Mouse, The - The Rescue of Nibbles (v1.0.1) (Green Jerry) (Hack)</description>
-		<rom name="SMB1 - Adventures of Jerry Mouse, The - The Rescue of Nibbles (v1.0.1) (Green Jerry) (Hack).nes" size="40976" crc="d0b3e47c" md5="c63c7831c2f2479f402edbb9ff135599" sha1="cb2ed0d41a3ccd8a66bef5d0376ea92df0d64218"/>
-		<url>https://retroachievements.org/game/16203/hashes</url>
-		<hash>9d767a9b1da289b71f92842ee4b3d3bf</hash>
-	</game>
-	
 	<game name="Hack/Moai-kun - Angry Birds (v1.0) (Googie) (Hack)">
 		<category>Nintendo &amp; Famicom</category>
 		<description>Moai-kun - Angry Birds (v1.0) (Googie) (Hack)</description>
@@ -43,51 +35,6 @@
 		<rom name="Mike Tyson's Punch-Out - Bald Bull's Punch Out!! (v2.0) (Master Phred) (Hack).nes" size="262160" crc="ba6030c1" md5="df8688d9378ad6b4f5cb3d8c28637e35" sha1="6f59e69a68cb91ec3db3bebe719de7865d4289ce"/>
 		<url>https://retroachievements.org/game/33769/hashes</url>
 		<hash>a06c99227bd2aca6c9f4de9d4a3df0e6</hash>
-	</game>
-	
-	<game name="Hack/Battle of Olympus, The (USA) (Item Randomizer) (v1.41) (clymax) (Hack)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Battle of Olympus, The (USA) (Item Randomizer) (v1.41) (clymax) (Hack)</description>
-		<rom name="Battle of Olympus, The (USA) (Item Randomizer) (v1.41) (clymax) (Hack).nes" size="262160" crc="d39bd614" md5="fec903f5e9994d0c33e612f63acc6e9b" sha1="3cd9d4eebe069a8ef4768b4d2803a7487ff62576"/>
-		<url>https://retroachievements.org/game/27741/hashes</url>
-		<hash>d615ed26e03f207e4e17385558433eef</hash>
-	</game>
-	<game name="Hack/Battle of Olympus, The (USA) (Item Randomizer) (v1.75) (clymax) (Hack)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Battle of Olympus, The (USA) (Item Randomizer) (v1.75) (clymax) (Hack)</description>
-		<rom name="Battle of Olympus, The (USA) (Item Randomizer) (v1.75) (clymax) (Hack).nes" size="262160" crc="ec55410b" md5="e6d626351c315dc9b4f69e30ac551f10" sha1="5575a893e0da20f8e1e2ea8923a787105a758197"/>
-		<url>https://retroachievements.org/game/27741/hashes</url>
-		<hash>8c3edf69ba966467b6f09b7445ccbd87</hash>
-	</game>
-	<game name="Hack/Battle of Olympus, The (USA) (Item Randomizer) (v1.76) (clymax) (Hack)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Battle of Olympus, The (USA) (Item Randomizer) (v1.76) (clymax) (Hack)</description>
-		<rom name="Battle of Olympus, The (USA) (Item Randomizer) (v1.76) (clymax) (Hack).nes" size="262160" crc="d8e48c2e" md5="1d56cf90d8643843c16a6b481219d41a" sha1="8b5b0e1b2f8512758e424f2ffe3e78977ec4c0be"/>
-		<url>https://retroachievements.org/game/27741/hashes</url>
-		<hash>2fc25d5e57fdb752870eb12dba243541</hash>
-	</game>
-	
-	<game name="Subset/Battle of Olympus, The (Item Randomizer) (v1.75) (clymax) (Subset - Bonus) (Hack)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Battle of Olympus, The (Item Randomizer) (v1.75) (clymax) (Subset - Bonus) (Hack)</description>
-		<rom name="Battle of Olympus, The (Item Randomizer) (v1.75) (clymax) (Subset - Bonus) (Hack).nes" size="262160" crc="16274fbb" md5="153f25bf6dd8c6107b0cca5615e3a3a8" sha1="e54aaba234347ce926efa956622f9519c0b7ea14"/>
-		<url>https://retroachievements.org/game/28137/hashes</url>
-		<hash>a6fe74bb1dffb79956f0d516734dd4b4</hash>
-	</game>
-	<game name="Subset/Battle of Olympus, The (Item Randomizer) (v1.76) (clymax) (Subset - Bonus) (Hack)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Battle of Olympus, The (Item Randomizer) (v1.76) (clymax) (Subset - Bonus) (Hack)</description>
-		<rom name="Battle of Olympus, The (Item Randomizer) (v1.76) (clymax) (Subset - Bonus) (Hack).nes" size="262160" crc="2296829e" md5="53561c417317761eb6770f430c57b3a0" sha1="bfac3aee55d9af3147239ff6ebb80d569b1d8a5c"/>
-		<url>https://retroachievements.org/game/28137/hashes</url>
-		<hash>78157893755e1eb7068fb8524e99e305</hash>
-	</game>
-	
-	<game name="Hack/Super Mario Bros 2/SMB2 - Beatles, The - Adventures in Pepperland (v1.2) (NesDraug) (Hack)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>SMB2 - Beatles, The - Adventures in Pepperland (v1.2) (NesDraug) (Hack)</description>
-		<rom name="SMB2 - Beatles, The - Adventures in Pepperland (v1.2) (NesDraug) (Hack).nes" size="524304" crc="74aa8762" md5="892fec82c675cd9e7e61d6fb915d9916" sha1="7727b30e1f80132d7b14068e382177dacf6f5620"/>
-		<url>https://retroachievements.org/game/18176/hashes</url>
-		<hash>a66fff59d16b72ddfaa0f19b352f1ed9</hash>
 	</game>
 	
 	<game name="Hack/Blaster Master - Pimp Your Ride (v1.1) (Jigglysaint) (Hack)">
@@ -328,14 +275,6 @@
 		<rom name="Mike Tyson's Punch-Out - Glass Joe's Punch Out!! (v1.2) (Landa) (Hack).nes" size="262160" crc="aae1c425" md5="151a8cdbebbe15a7b77d8e39ed2ce433" sha1="cc0a7351182e1e436ebaaa6e8c71228f0287f43f"/>
 		<url>https://retroachievements.org/game/34399/hashes</url>
 		<hash>0e5d415741ebea44fc2048b82d5cd51a</hash>
-	</game>
-	
-	<game name="Hack/Guardian Legend, The - Secret Edition (v3.3) (Optomon) (Hack)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Guardian Legend, The - Secret Edition (v3.3) (Optomon) (Hack)</description>
-		<rom name="Guardian Legend, The - Secret Edition (v3.3) (Optomon) (Hack).nes" size="131088" crc="01683a55" md5="3edbaf9db6b5da23361e3b50fd77f9ef" sha1="0ea260e7a5740e993272075f228f694045dc2047"/>
-		<url>https://retroachievements.org/game/5992/hashes</url>
-		<hash>cf1c914900ba499b8199f808dab9dbba</hash>
 	</game>
 	
 	<game name="Hack/Gun.Smoke - Hell's Maw (v1.0) (Hexadigital) (Hack)">
@@ -663,6 +602,14 @@
 		<rom name="R.C. Pro Am (Rev 1) - Mario Kart (Hack).nes" size="65552" crc="a1b578b6" md5="4b59bd9da7b8423a79d9d6751f133484" sha1="d49d1f39c37e0a6e616c309ef726f19487afe750"/>
 		<url>https://retroachievements.org/game/15647/hashes</url>
 		<hash>7ab461dec5c3e11c10392005d4c183b1</hash>
+	</game>
+	
+	<game name="Hack/Mike Tyson's Punch-Out - Nightmare Punch-Out!! (v1.5) (Landa) (Hack)">
+		<category></category>
+		<description>Mike Tyson's Punch-Out - Nightmare Punch-Out!! (v1.5) (Landa) (Hack)</description>
+		<rom name="Mike Tyson's Punch-Out - Nightmare Punch-Out!! (v1.5) (Landa) (Hack).nes" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/34493/hashes</url>
+		<hash>8aa770b10bdf0094d44a0236c89e51dd</hash>
 	</game>
 	
 	<game name="Hack/Ninja Gaiden/Ninja Gaiden (Upgrade A) (Normal) (v1.0) (magus) (Hack)">
@@ -1225,6 +1172,67 @@
 		<hash>c773537cefc2957a9bd21544c7272eeb</hash>
 	</game>
 	
+	<game name="Hack/Super Mario Bros/SMB1 - Adventures of Jerry Mouse, The - The Rescue of Nibbles (v1.0.1) (Green Jerry) (Hack)">
+		<category>Nintendo &amp; Famicom</category>
+		<description>SMB1 - Adventures of Jerry Mouse, The - The Rescue of Nibbles (v1.0.1) (Green Jerry) (Hack)</description>
+		<rom name="SMB1 - Adventures of Jerry Mouse, The - The Rescue of Nibbles (v1.0.1) (Green Jerry) (Hack).nes" size="40976" crc="d0b3e47c" md5="c63c7831c2f2479f402edbb9ff135599" sha1="cb2ed0d41a3ccd8a66bef5d0376ea92df0d64218"/>
+		<url>https://retroachievements.org/game/16203/hashes</url>
+		<hash>9d767a9b1da289b71f92842ee4b3d3bf</hash>
+	</game>
+	
+	<game name="Hack/Battle of Olympus, The (USA) (Item Randomizer) (v1.41) (clymax) (Hack)">
+		<category>Nintendo &amp; Famicom</category>
+		<description>Battle of Olympus, The (USA) (Item Randomizer) (v1.41) (clymax) (Hack)</description>
+		<rom name="Battle of Olympus, The (USA) (Item Randomizer) (v1.41) (clymax) (Hack).nes" size="262160" crc="d39bd614" md5="fec903f5e9994d0c33e612f63acc6e9b" sha1="3cd9d4eebe069a8ef4768b4d2803a7487ff62576"/>
+		<url>https://retroachievements.org/game/27741/hashes</url>
+		<hash>d615ed26e03f207e4e17385558433eef</hash>
+	</game>
+	<game name="Hack/Battle of Olympus, The (USA) (Item Randomizer) (v1.75) (clymax) (Hack)">
+		<category>Nintendo &amp; Famicom</category>
+		<description>Battle of Olympus, The (USA) (Item Randomizer) (v1.75) (clymax) (Hack)</description>
+		<rom name="Battle of Olympus, The (USA) (Item Randomizer) (v1.75) (clymax) (Hack).nes" size="262160" crc="ec55410b" md5="e6d626351c315dc9b4f69e30ac551f10" sha1="5575a893e0da20f8e1e2ea8923a787105a758197"/>
+		<url>https://retroachievements.org/game/27741/hashes</url>
+		<hash>8c3edf69ba966467b6f09b7445ccbd87</hash>
+	</game>
+	<game name="Hack/Battle of Olympus, The (USA) (Item Randomizer) (v1.76) (clymax) (Hack)">
+		<category>Nintendo &amp; Famicom</category>
+		<description>Battle of Olympus, The (USA) (Item Randomizer) (v1.76) (clymax) (Hack)</description>
+		<rom name="Battle of Olympus, The (USA) (Item Randomizer) (v1.76) (clymax) (Hack).nes" size="262160" crc="d8e48c2e" md5="1d56cf90d8643843c16a6b481219d41a" sha1="8b5b0e1b2f8512758e424f2ffe3e78977ec4c0be"/>
+		<url>https://retroachievements.org/game/27741/hashes</url>
+		<hash>2fc25d5e57fdb752870eb12dba243541</hash>
+	</game>
+	
+	<game name="Subset/Battle of Olympus, The (Item Randomizer) (v1.75) (clymax) (Subset - Bonus) (Hack)">
+		<category>Nintendo &amp; Famicom</category>
+		<description>Battle of Olympus, The (Item Randomizer) (v1.75) (clymax) (Subset - Bonus) (Hack)</description>
+		<rom name="Battle of Olympus, The (Item Randomizer) (v1.75) (clymax) (Subset - Bonus) (Hack).nes" size="262160" crc="16274fbb" md5="153f25bf6dd8c6107b0cca5615e3a3a8" sha1="e54aaba234347ce926efa956622f9519c0b7ea14"/>
+		<url>https://retroachievements.org/game/28137/hashes</url>
+		<hash>a6fe74bb1dffb79956f0d516734dd4b4</hash>
+	</game>
+	<game name="Subset/Battle of Olympus, The (Item Randomizer) (v1.76) (clymax) (Subset - Bonus) (Hack)">
+		<category>Nintendo &amp; Famicom</category>
+		<description>Battle of Olympus, The (Item Randomizer) (v1.76) (clymax) (Subset - Bonus) (Hack)</description>
+		<rom name="Battle of Olympus, The (Item Randomizer) (v1.76) (clymax) (Subset - Bonus) (Hack).nes" size="262160" crc="2296829e" md5="53561c417317761eb6770f430c57b3a0" sha1="bfac3aee55d9af3147239ff6ebb80d569b1d8a5c"/>
+		<url>https://retroachievements.org/game/28137/hashes</url>
+		<hash>78157893755e1eb7068fb8524e99e305</hash>
+	</game>
+	
+	<game name="Hack/Super Mario Bros 2/SMB2 - Beatles, The - Adventures in Pepperland (v1.2) (NesDraug) (Hack)">
+		<category>Nintendo &amp; Famicom</category>
+		<description>SMB2 - Beatles, The - Adventures in Pepperland (v1.2) (NesDraug) (Hack)</description>
+		<rom name="SMB2 - Beatles, The - Adventures in Pepperland (v1.2) (NesDraug) (Hack).nes" size="524304" crc="74aa8762" md5="892fec82c675cd9e7e61d6fb915d9916" sha1="7727b30e1f80132d7b14068e382177dacf6f5620"/>
+		<url>https://retroachievements.org/game/18176/hashes</url>
+		<hash>a66fff59d16b72ddfaa0f19b352f1ed9</hash>
+	</game>
+	
+	<game name="Hack/Guardian Legend, The - Secret Edition (v3.3) (Optomon) (Hack)">
+		<category>Nintendo &amp; Famicom</category>
+		<description>Guardian Legend, The - Secret Edition (v3.3) (Optomon) (Hack)</description>
+		<rom name="Guardian Legend, The - Secret Edition (v3.3) (Optomon) (Hack).nes" size="131088" crc="01683a55" md5="3edbaf9db6b5da23361e3b50fd77f9ef" sha1="0ea260e7a5740e993272075f228f694045dc2047"/>
+		<url>https://retroachievements.org/game/5992/hashes</url>
+		<hash>cf1c914900ba499b8199f808dab9dbba</hash>
+	</game>
+	
 	<game name="Hack/Legend of Zelda, The - Legend of Banjo (v3.3.1) (Charade) (Hack)">
 		<category>Nintendo &amp; Famicom</category>
 		<description>Legend of Zelda, The - Legend of Banjo (v3.3.1) (Charade) (Hack)</description>
@@ -1497,20 +1505,20 @@
 		<hash>7a82cd5eb14a26eb8f1afbc1edc197a6</hash>
 	</game>
 	
-	<game name="Homebrew/Secret of NecroNancy, The (World) (Aftermarket)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Secret of NecroNancy, The (World) (Aftermarket)</description>
-		<rom name="Secret of NecroNancy, The (World) (Aftermarket).nes" size="524304" crc="ac32808c" md5="0d09e19cf38f13a796044148a4cdf84b" sha1="78362162cd781ce1a6d13e3eb541dcf791fdf369"/>
-		<url>https://retroachievements.org/game/25033/hashes</url>
-		<hash>1ca504d1fe7e644bba9be98b8be62b47</hash>
-	</game>
-	
 	<game name="Homebrew/Super Bat Puncher (World) (En) (Aftermarket)">
 		<category>Nintendo &amp; Famicom</category>
 		<description>Super Bat Puncher (World) (En) (Aftermarket)</description>
 		<rom name="Super Bat Puncher (World) (En) (Aftermarket).nes" size="131088" crc="53d50b0e" md5="977764708c7414e16496ad9a4fa81142" sha1="c3799d270eeae544f273d6cffea3af2e42768ea7"/>
 		<url>https://retroachievements.org/game/11833/hashes</url>
 		<hash>0b83f342ee590ae4e6797c42a3ed0a6f</hash>
+	</game>
+	
+	<game name="Homebrew/Secret of NecroNancy, The (World) (Aftermarket)">
+		<category>Nintendo &amp; Famicom</category>
+		<description>Secret of NecroNancy, The (World) (Aftermarket)</description>
+		<rom name="Secret of NecroNancy, The (World) (Aftermarket).nes" size="524304" crc="ac32808c" md5="0d09e19cf38f13a796044148a4cdf84b" sha1="78362162cd781ce1a6d13e3eb541dcf791fdf369"/>
+		<url>https://retroachievements.org/game/25033/hashes</url>
+		<hash>1ca504d1fe7e644bba9be98b8be62b47</hash>
 	</game>
 	
 	<game name="Homebrew/Cookie Clicker (World) (Proto) (Aftermarket)">
@@ -1621,14 +1629,6 @@
 		<rom name="Anguna - Scourge of the Goblin King (World) (Rev 1) (Aftermarket).nes" size="524304" crc="17645a49" md5="a0367111ddf09b7d3557abe82a517db2" sha1="8c0859a4360d257e77cf23417f754f63bb738def"/>
 		<url>https://retroachievements.org/game/22519/hashes</url>
 		<hash>bccccf762a113e42923a20f592ff12fc</hash>
-	</game>
-	
-	<game name="Homebrew/Arm Wrestling Classic, The (World) (Aftermarket)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Arm Wrestling Classic, The (World) (Aftermarket)</description>
-		<rom name="Arm Wrestling Classic, The (World) (Aftermarket).nes" size="524304" crc="b7e30b28" md5="c2ac5f977d0ff02e9870a7abf03fdcc2" sha1="6ce0ac41bccce43681f156d2707973df204253cb"/>
-		<url>https://retroachievements.org/game/19882/hashes</url>
-		<hash>818cad96b53efd26b1bb5d593765440f</hash>
 	</game>
 	
 	<game name="Homebrew/Astro Ninja Man (Japan) (Aftermarket)">
@@ -2189,14 +2189,6 @@
 		<hash>141f58c07a561001f4b833f59a437d56</hash>
 	</game>
 	
-	<game name="Homebrew/Ninja of the 4 Seasons, The (World) (v1.1) (Aftermarket)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Ninja of the 4 Seasons, The (World) (v1.1) (Aftermarket)</description>
-		<rom name="Ninja of the 4 Seasons, The (World) (v1.1) (Aftermarket).nes" size="524304" crc="d2c2012d" md5="770ac736847033a4bbb8e000aa0c4cec" sha1="d70e40422df5d69b3652600a5a46b87b940d3e31"/>
-		<url>https://retroachievements.org/game/17751/hashes</url>
-		<hash>d7d55c7f8d71872500f68c2a8fb21b41</hash>
-	</game>
-	
 	<game name="Homebrew/NNNNNN (World) (Aftermarket)">
 		<category>Nintendo &amp; Famicom</category>
 		<description>NNNNNN (World) (Aftermarket)</description>
@@ -2509,12 +2501,20 @@
 		<hash>bbe584521e781e8a402087c1928c8c99</hash>
 	</game>
 	
-	<game name="Homebrew/Tiny Golf (World) (Aftermarket)">
+	<game name="Homebrew/Arm Wrestling Classic, The (World) (Aftermarket)">
 		<category>Nintendo &amp; Famicom</category>
-		<description>Tiny Golf (World) (Aftermarket)</description>
-		<rom name="Tiny Golf (World) (Aftermarket).nes" size="24592" crc="3017006b" md5="bcac2628968defe076ad197fc09df9de" sha1="d73f776645b40393afdfd722931f151dc103273b"/>
-		<url>https://retroachievements.org/game/29886/hashes</url>
-		<hash>8094cec65bca1aa638070f7026e21972</hash>
+		<description>Arm Wrestling Classic, The (World) (Aftermarket)</description>
+		<rom name="Arm Wrestling Classic, The (World) (Aftermarket).nes" size="524304" crc="b7e30b28" md5="c2ac5f977d0ff02e9870a7abf03fdcc2" sha1="6ce0ac41bccce43681f156d2707973df204253cb"/>
+		<url>https://retroachievements.org/game/19882/hashes</url>
+		<hash>818cad96b53efd26b1bb5d593765440f</hash>
+	</game>
+	
+	<game name="Homebrew/Ninja of the 4 Seasons, The (World) (v1.1) (Aftermarket)">
+		<category>Nintendo &amp; Famicom</category>
+		<description>Ninja of the 4 Seasons, The (World) (v1.1) (Aftermarket)</description>
+		<rom name="Ninja of the 4 Seasons, The (World) (v1.1) (Aftermarket).nes" size="524304" crc="d2c2012d" md5="770ac736847033a4bbb8e000aa0c4cec" sha1="d70e40422df5d69b3652600a5a46b87b940d3e31"/>
+		<url>https://retroachievements.org/game/17751/hashes</url>
+		<hash>d7d55c7f8d71872500f68c2a8fb21b41</hash>
 	</game>
 	
 	<game name="Homebrew/Tower of Turmoil, The (World) (v1.03) (Aftermarket)">
@@ -2523,6 +2523,14 @@
 		<rom name="Tower of Turmoil, The (World) (v1.03) (Aftermarket).nes" size="524304" crc="624a1632" md5="e4034b65eacb55e324a5559f019c3bb6" sha1="5bdef5503e5b61fd74548b7af69cf3debbafb46d"/>
 		<url>https://retroachievements.org/game/7611/hashes</url>
 		<hash>0c34e2f35d167befda4f5091f805fd0d</hash>
+	</game>
+	
+	<game name="Homebrew/Tiny Golf (World) (Aftermarket)">
+		<category>Nintendo &amp; Famicom</category>
+		<description>Tiny Golf (World) (Aftermarket)</description>
+		<rom name="Tiny Golf (World) (Aftermarket).nes" size="24592" crc="3017006b" md5="bcac2628968defe076ad197fc09df9de" sha1="d73f776645b40393afdfd722931f151dc103273b"/>
+		<url>https://retroachievements.org/game/29886/hashes</url>
+		<hash>8094cec65bca1aa638070f7026e21972</hash>
 	</game>
 	
 	<game name="Homebrew/Trophy (World) (Aftermarket)">
@@ -2604,6 +2612,14 @@
 		<rom name="Bugs Bunny Birthday Bash (USA) (Proto) (Beta).nes" size="262160" crc="9aa2937a" md5="6610492e0fb4002aa1e41cca8763b7d1" sha1="bbc2f8714a41cdb8383e715c804d1b1472c81c96"/>
 		<url>https://retroachievements.org/game/12749/hashes</url>
 		<hash>1b10dbd40acbdffd31b4678244dcec45</hash>
+	</game>
+	
+	<game name="Unlicensed/Cheetahmen II (USA) (PacoChan) (v2.1) (Unl)">
+		<category>Nintendo &amp; Famicom</category>
+		<description>Cheetahmen II (USA) (PacoChan) (v2.1) (Unl)</description>
+		<rom name="Cheetahmen II (USA) (PacoChan) (v2.1) (Unl).nes" size="393232" crc="bf045539" md5="976da9af31090b066b9d1bf40fd14564" sha1="9cb492db34d7f2c9db71ffa89217bcd507cd2970"/>
+		<url>https://retroachievements.org/game/4583/hashes</url>
+		<hash>b67b175138358bacf63d06eefcb631af</hash>
 	</game>
 	
 	<game name="Prototype/Drac's Night Out (USA) (Proto)">
@@ -2818,14 +2834,6 @@
 		<hash>41127a3387b8a350bcfb0fc81aa0627d</hash>
 	</game>
 	
-	<game name="Unlicensed/Cheetahmen II (USA) (PacoChan) (v2.1) (Unl)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Cheetahmen II (USA) (PacoChan) (v2.1) (Unl)</description>
-		<rom name="Cheetahmen II (USA) (PacoChan) (v2.1) (Unl).nes" size="393232" crc="bf045539" md5="976da9af31090b066b9d1bf40fd14564" sha1="9cb492db34d7f2c9db71ffa89217bcd507cd2970"/>
-		<url>https://retroachievements.org/game/4583/hashes</url>
-		<hash>b67b175138358bacf63d06eefcb631af</hash>
-	</game>
-	
 	<game name="Unlicensed/Crash Bandicoot (Nice Code Software) (Unl)">
 		<category>Nintendo &amp; Famicom</category>
 		<description>Crash Bandicoot (Nice Code Software) (Unl)</description>
@@ -2877,14 +2885,6 @@
 		<rom name="Dreamworld Pogie (World) (2017-02-03) (Kickstarter, Evercade) (Unl).nes" size="131088" crc="6a70aa33" md5="11c963bf25caeeb50f4d395d227eb798" sha1="cecea3fffdc0d70a5a714ddd14c2efce3dedd9d2"/>
 		<url>https://retroachievements.org/game/2406/hashes</url>
 		<hash>27948dd484177fa4502e9c87afc897f3</hash>
-	</game>
-	
-	<game name="Unlicensed/Escape from Atlantis, The (USA) (Proto 2) (Unl)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Escape from Atlantis, The (USA) (Proto 2) (Unl)</description>
-		<rom name="Escape from Atlantis, The (USA) (Proto 2) (Unl).nes" size="131088" crc="3676822f" md5="b5ebc9111c583bbd7d57788bd3458976" sha1="f2da5ca68d0def55eef92d5f44a43b8c3b7f4779"/>
-		<url>https://retroachievements.org/game/5375/hashes</url>
-		<hash>473039c69061a1b5fca5c277c4a0622e</hash>
 	</game>
 	
 	<game name="Unlicensed/Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl)">
@@ -3587,20 +3587,20 @@
 		<hash>5870755e1652c3c62bf21c319853fb15</hash>
 	</game>
 	
-	<game name="Unlicensed/Super Shinobi, The (Asia) (En) (Ka Sheng) (Unl)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Super Shinobi, The (Asia) (En) (Ka Sheng) (Unl)</description>
-		<rom name="Super Shinobi, The (Asia) (En) (Ka Sheng) (Unl).nes" size="524304" crc="40ff9b14" md5="531766021caac9fe066db28130063283" sha1="e3c2ea7e4fd225bde210eb77f8e11654f74e693f"/>
-		<url>https://retroachievements.org/game/5347/hashes</url>
-		<hash>5c6bee47aaae1c76f3b4a5b3e34f10de</hash>
-	</game>
-	
 	<game name="Unlicensed/Tagin' Dragon (USA) (Unl)">
 		<category>Nintendo &amp; Famicom</category>
 		<description>Tagin' Dragon (USA) (Unl)</description>
 		<rom name="Tagin' Dragon (USA) (Unl).nes" size="49168" crc="38ac6734" md5="fb3d34368ef3112cf7ce57260a8d25dd" sha1="07df16e53f66d8cc5e915bb8a24dd93eb2e9fe81"/>
 		<url>https://retroachievements.org/game/4628/hashes</url>
 		<hash>c4bfc3fdec05be0dffe68beed760dfc0</hash>
+	</game>
+	
+	<game name="Unlicensed/Escape from Atlantis, The (USA) (Proto 2) (Unl)">
+		<category>Nintendo &amp; Famicom</category>
+		<description>Escape from Atlantis, The (USA) (Proto 2) (Unl)</description>
+		<rom name="Escape from Atlantis, The (USA) (Proto 2) (Unl).nes" size="131088" crc="3676822f" md5="b5ebc9111c583bbd7d57788bd3458976" sha1="f2da5ca68d0def55eef92d5f44a43b8c3b7f4779"/>
+		<url>https://retroachievements.org/game/5375/hashes</url>
+		<hash>473039c69061a1b5fca5c277c4a0622e</hash>
 	</game>
 	
 	<game name="Unlicensed/Dongfang de Chuanshuo Zhi Fengyin Dao (China) (Unl)">
@@ -3646,6 +3646,14 @@
 		<rom name="Legend of Zelda, The - Triforce of the Gods (China) (En) (pacnsacdave) (v1.1) (Unl).nes" size="2097259" crc="7bfe3590" md5="cba5237bdd24506d75e7b4a194b3c097" sha1="6e07687f9e45a4e79d5e95a34537c76f2485af11"/>
 		<url>https://retroachievements.org/game/14227/hashes</url>
 		<hash>cba5237bdd24506d75e7b4a194b3c097</hash>
+	</game>
+	
+	<game name="Unlicensed/Super Shinobi, The (Asia) (En) (Ka Sheng) (Unl)">
+		<category>Nintendo &amp; Famicom</category>
+		<description>Super Shinobi, The (Asia) (En) (Ka Sheng) (Unl)</description>
+		<rom name="Super Shinobi, The (Asia) (En) (Ka Sheng) (Unl).nes" size="524304" crc="40ff9b14" md5="531766021caac9fe066db28130063283" sha1="e3c2ea7e4fd225bde210eb77f8e11654f74e693f"/>
+		<url>https://retroachievements.org/game/5347/hashes</url>
+		<hash>5c6bee47aaae1c76f3b4a5b3e34f10de</hash>
 	</game>
 	
 	<game name="Unlicensed/Titenic (Asia) (En) (Unl)">
@@ -8609,7 +8617,7 @@
 	<game name="Retail/Ki no Bouken - The Quest of Ki (Japan) (En) (Zynk Oxhyde) (v2.0) (Alt)">
 		<category>Nintendo &amp; Famicom</category>
 		<description>Ki no Bouken - The Quest of Ki (Japan) (En) (Zynk Oxhyde) (v2.0) (Alt)</description>
-		<rom name="Ki no Bouken - The Quest of Ki (Japan) (En) (Zynk Oxhyde) (v2.0) (Alt).nes" size="196624" crc="0aa84f9a" md5="9e7e713243e61c3af106e1f6870b0f3f" sha1="f275e205cbc28ca69901ffff12552f165caf013f"/>
+		<rom name="Ki no Bouken - The Quest of Ki (Japan) (En) (Zynk Oxhyde) (v2.0) (Alt).nes" size="196624" crc="6b5f1bab" md5="1cea9ae3b1fce106c6a718bb2b0c3331" sha1="1d3463564b4fba82a1a20503686552ecd852870e"/>
 		<url>https://retroachievements.org/game/3710/hashes</url>
 		<hash>1628f6e1565aa15ed9f2145d211331de</hash>
 	</game>
@@ -8623,7 +8631,7 @@
 	<game name="Retail/Ki no Bouken - The Quest of Ki (Japan) (En) (Zynk Oxhyde) (v2.0)">
 		<category>Nintendo &amp; Famicom</category>
 		<description>Ki no Bouken - The Quest of Ki (Japan) (En) (Zynk Oxhyde) (v2.0)</description>
-		<rom name="Ki no Bouken - The Quest of Ki (Japan) (En) (Zynk Oxhyde) (v2.0).nes" size="196624" crc="0aa84f9a" md5="9e7e713243e61c3af106e1f6870b0f3f" sha1="f275e205cbc28ca69901ffff12552f165caf013f"/>
+		<rom name="Ki no Bouken - The Quest of Ki (Japan) (En) (Zynk Oxhyde) (v2.0).nes" size="196624" crc="7243f962" md5="9c47b8a84b0943f469ca777d6204976d" sha1="3235f7f850d78550c226ae9254d5629ce44ad758"/>
 		<url>https://retroachievements.org/game/3710/hashes</url>
 		<hash>9d151f627aa16de47072073a11037ce9</hash>
 	</game>
@@ -10472,7 +10480,7 @@
 	<game name="Retail/Ninja Gaiden (USA) (Zh) (TPU) (v20030301)">
 		<category>Nintendo &amp; Famicom</category>
 		<description>Ninja Gaiden (USA) (Zh) (TPU) (v20030301)</description>
-		<rom name="Ninja Gaiden (USA) (Zh) (TPU) (v20030301).nes" size="262160" crc="738ae5f4" md5="2bb9961856f6306295cdff8372d10f78" sha1="4aebae8d7c7c833405c6e768668ee0c78e50c4e2"/>
+		<rom name="Ninja Gaiden (USA) (Zh) (TPU) (v20030301).nes" size="393232" crc="db58837b" md5="74102e8c75eaa8627047a4dd2deb0d6e" sha1="96c18e30f56bdafa25802743fe8ca803a9d3f72f"/>
 		<url>https://retroachievements.org/game/1859/hashes</url>
 		<hash>fc3dfdaa46c3baf807633a892d651d3a</hash>
 	</game>
@@ -12963,21 +12971,6 @@
 		<hash>fe78b86e0578748b3671c3aeb4ad3d6b</hash>
 	</game>
 	
-	<game name="Retail/Tetris (Bulletproof) (Japan) (En) (Rev 2)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Tetris (Bulletproof) (Japan) (En) (Rev 2)</description>
-		<rom name="Tetris (Bulletproof) (Japan) (En) (Rev 2).nes" size="49168" crc="4b91412f" md5="0c3644938c9507ba44184a5c44e76571" sha1="bede232928cd6510f2e15fd3758289bce5765465"/>
-		<url>https://retroachievements.org/game/2021/hashes</url>
-		<hash>127f9833ba881aa52a51c08409effa95</hash>
-	</game>
-	<game name="Retail/Tetris (Bulletproof) (Japan) (En) (Rev 2) (Conventional Controls Edition) (clymax) (v1.0)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Tetris (Bulletproof) (Japan) (En) (Rev 2) (Conventional Controls Edition) (clymax) (v1.0)</description>
-		<rom name="Tetris (Bulletproof) (Japan) (En) (Rev 2) (Conventional Controls Edition) (clymax) (v1.0).nes" size="49168" crc="e0ea2f20" md5="9a4217802a5d9da9f01e3a1ff105a3a8" sha1="3c9885d8689b65b8742526b0d8e059dfc0bbe4f7"/>
-		<url>https://retroachievements.org/game/2021/hashes</url>
-		<hash>423906bbc0227562e7201f4662fc8623</hash>
-	</game>
-	
 	<game name="Retail/Tetris (Europe)">
 		<category>Nintendo &amp; Famicom</category>
 		<description>Tetris (Europe)</description>
@@ -12991,6 +12984,21 @@
 		<rom name="Tetris (USA).nes" size="49168" crc="d16ea396" md5="886012ac3b3fbf4a244dead999788fe8" sha1="3026d28b63d94c921fe58364f8b0659d10b5a0ac"/>
 		<url>https://retroachievements.org/game/2022/hashes</url>
 		<hash>5b0e571558c8c796937b96af469561c6</hash>
+	</game>
+	
+	<game name="Retail/Tetris (Bulletproof) (Japan) (En) (Rev 2)">
+		<category>Nintendo &amp; Famicom</category>
+		<description>Tetris (Bulletproof) (Japan) (En) (Rev 2)</description>
+		<rom name="Tetris (Bulletproof) (Japan) (En) (Rev 2).nes" size="49168" crc="4b91412f" md5="0c3644938c9507ba44184a5c44e76571" sha1="bede232928cd6510f2e15fd3758289bce5765465"/>
+		<url>https://retroachievements.org/game/2021/hashes</url>
+		<hash>127f9833ba881aa52a51c08409effa95</hash>
+	</game>
+	<game name="Retail/Tetris (Bulletproof) (Japan) (En) (Rev 2) (Conventional Controls Edition) (clymax) (v1.0)">
+		<category>Nintendo &amp; Famicom</category>
+		<description>Tetris (Bulletproof) (Japan) (En) (Rev 2) (Conventional Controls Edition) (clymax) (v1.0)</description>
+		<rom name="Tetris (Bulletproof) (Japan) (En) (Rev 2) (Conventional Controls Edition) (clymax) (v1.0).nes" size="49168" crc="e0ea2f20" md5="9a4217802a5d9da9f01e3a1ff105a3a8" sha1="3c9885d8689b65b8742526b0d8e059dfc0bbe4f7"/>
+		<url>https://retroachievements.org/game/2021/hashes</url>
+		<hash>423906bbc0227562e7201f4662fc8623</hash>
 	</game>
 	
 	<game name="Retail/Tetris (Nintendo) (Subset - Master)">

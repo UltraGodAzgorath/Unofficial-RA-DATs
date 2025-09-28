@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation 2</name>
 		<description>Sony Playstation 2</description>
 		<category>No Subfolders</category>
-		<version>20250922</version>
-		<date>22 September 2025</date>
+		<version>20250928</version>
+		<date>28 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -552,6 +552,15 @@
 		<disk name="Amplitude (USA).chd" sha1="9d539c3313c92d16cc1b6a5ac5eb8466927d97d5"/>
 		<url>https://retroachievements.org/game/2661/hashes</url>
 		<hash>5039baf72fcb8c189ac4898f90bc9c3f</hash>
+	</machine>
+	
+	<machine name="Animal Soccer World (Europe) (En,Fr,De)">
+		<category>Retail</category>
+		<description>Animal Soccer World (Europe) (En,Fr,De)</description>
+		<release name="Animal Soccer World (Europe) (En,Fr,De)" region="USA"/>
+		<disk name="Animal Soccer World (Europe) (En,Fr,De).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/20769/hashes</url>
+		<hash>64c417311858a3c50c5ce0f9d6cd9042</hash>
 	</machine>
 	
 	<machine name="Anubis II (Europe)">
@@ -1225,6 +1234,38 @@
 		<hash>82c893b4f661d6683f1f352876fb85c9</hash>
 	</machine>
 	
+	<machine name="Gadget Racers (USA)">
+		<category>Retail</category>
+		<description>Gadget Racers (USA)</description>
+		<release name="Gadget Racers (USA)" region="USA"/>
+		<disk name="Gadget Racers (USA).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/21361/hashes</url>
+		<hash>fd3ace419460a1c03d1fee0d0fb7ffba</hash>
+	</machine>
+	<machine name="Penny Racers (Europe) (En,Fr,De)" cloneof="Gadget Racers (USA)">
+		<category>Retail</category>
+		<description>Penny Racers (Europe) (En,Fr,De)</description>
+		<release name="Penny Racers (Europe) (En,Fr,De)" region="Europe"/>
+		<disk name="Penny Racers (Europe) (En,Fr,De).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/21361/hashes</url>
+		<hash>5e319f0ac3058fc3fd724af92ffa30f3</hash>
+	</machine>
+	<machine name="Choro Q HG (Japan)" cloneof="Gadget Racers (USA)">
+		<category>Retail</category>
+		<description>Choro Q HG (Japan)</description>
+		<disk name="Choro Q HG (Japan).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/21361/hashes</url>
+		<hash>e15b0b761c01218806b1f4d3186dcca4</hash>
+	</machine>
+	<machine name="Choro Q HG (Japan) (Jenny Hi-Grade Box)" cloneof="Gadget Racers (USA)">
+		<category>Retail</category>
+		<description>Choro Q HG (Japan) (Jenny Hi-Grade Box)</description>
+		<release name="Choro Q HG (Japan) (Jenny Hi-Grade Box)" region="Japan"/>
+		<disk name="Choro Q HG (Japan) (Jenny Hi-Grade Box).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/21361/hashes</url>
+		<hash>7419b7aa827e9953eaa6ecfa359e6ab2</hash>
+	</machine>
+	
 	<machine name="Road Trip (USA)">
 		<category>Retail</category>
 		<description>Road Trip (USA)</description>
@@ -1754,6 +1795,23 @@
 		<hash>6514d51cd04720c57cb2b8de6149a8e8</hash>
 	</machine>
 	
+	<machine name="Demolition Girl (Europe)">
+		<category>Retail</category>
+		<description>Demolition Girl (Europe)</description>
+		<release name="Demolition Girl (Europe)" region="Europe"/>
+		<disk name="Demolition Girl (Europe).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/19137/hashes</url>
+		<hash>ccbc72712341d3ac73f44532a0d1aa46</hash>
+	</machine>
+	<machine name="Simple 2000 Series Vol. 50 - The Daibijin (Japan)" cloneof="Demolition Girl (Europe)">
+		<category>Retail</category>
+		<description>Simple 2000 Series Vol. 50 - The Daibijin (Japan)</description>
+		<release name="Simple 2000 Series Vol. 50 - The Daibijin (Japan)" region="Japan"/>
+		<disk name="Simple 2000 Series Vol. 50 - The Daibijin (Japan).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/19137/hashes</url>
+		<hash>09ff9a75bf72ab6d4beb239fc2911545</hash>
+	</machine>
+	
 	<machine name="Devil Kings (USA)">
 		<category>Retail</category>
 		<description>Devil Kings (USA)</description>
@@ -1971,6 +2029,16 @@
 		<hash>87c0205440f3c1031c71e63ff27c367f</hash>
 	</machine>
 	
+	<machine name="Disney Sing It - Party Hits (Europe, Australia) (En,De,Es)">
+		<category>Retail</category>
+		<description>Disney Sing It - Party Hits (Europe, Australia) (En,De,Es)</description>
+		<release name="Disney Sing It - Party Hits (Europe, Australia) (En,De,Es)" region="Australia"/>
+		<release name="Disney Sing It - Party Hits (Europe, Australia) (En,De,Es)" region="Europe"/>
+		<disk name="Disney Sing It - Party Hits (Europe, Australia) (En,De,Es).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/34678/hashes</url>
+		<hash>30d45b541a49983aef782d3d60d6f7a6</hash>
+	</machine>
+	
 	<machine name="Disney Think Fast (USA)">
 		<category>Retail</category>
 		<description>Disney Think Fast (USA)</description>
@@ -2037,7 +2105,7 @@
 		<category>Retail</category>
 		<description>Downhill Domination (USA)</description>
 		<release name="Downhill Domination (USA)" region="USA"/>
-		<disk name="Downhill Domination (USA).chd" sha1="afec4b7ec0d89c25c4ebf76fe88d6c2c157b05a9"/>
+		<disk name="Downhill Domination (USA).chd" sha1="2bf9a599c627264d05dd6eada9cf6c80b0b2e46c"/>
 		<url>https://retroachievements.org/game/21701/hashes</url>
 		<hash>156678801132e3c0625a3e3a16ff983f</hash>
 	</machine>
@@ -4244,6 +4312,15 @@
 		<hash>601c65c0a99800abe6ddd39de74d73bf</hash>
 	</machine>
 	
+	<machine name="Kingdom Hearts - Final Mix (Subset - Proud Level 1)">
+		<category>Subset</category>
+		<description>Kingdom Hearts - Final Mix (Subset - Proud Level 1)</description>
+		<release name="Kingdom Hearts - Final Mix (Subset - Proud Level 1)" region="World"/>
+		<disk name="Kingdom Hearts - Final Mix (Subset - Proud Level 1).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/20736/hashes</url>
+		<hash>7c1cc2b248d9f7d809bb6d0759b22379</hash>
+	</machine>
+	
 	<machine name="Kinnikuman - Muscle Grand Prix 2 - Tokumori (Japan)">
 		<category>Retail</category>
 		<description>Kinnikuman - Muscle Grand Prix 2 - Tokumori (Japan)</description>
@@ -4580,6 +4657,15 @@
 		<disk name="Max Payne (USA) (Anti-Cheat) (Bartis1989).chd" sha1="8e17b6ec01963b76fea39478a88c9f28c7b2690f"/>
 		<url>https://retroachievements.org/game/19129/hashes</url>
 		<hash>dd5f58908acd8062a13551de7a1d5fbe</hash>
+	</machine>
+	
+	<machine name="Max Payne 2 - The Fall of Max Payne (USA)">
+		<category>Retail</category>
+		<description>Max Payne 2 - The Fall of Max Payne (USA)</description>
+		<release name="Max Payne 2 - The Fall of Max Payne (USA)" region="USA"/>
+		<disk name="Max Payne 2 - The Fall of Max Payne (USA).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/19130/hashes</url>
+		<hash>24c812b95e7ca504b2f7460244697bd5</hash>
 	</machine>
 	
 	<machine name="Maximo vs Army of Zin (USA)">
@@ -5262,6 +5348,24 @@
 		<hash>67b768dd9916a42b321f611c0e4eb631</hash>
 	</machine>
 	
+	<machine name="Nicktoons - Attack of the Toybots (USA)">
+		<category>Retail</category>
+		<description>Nicktoons - Attack of the Toybots (USA)</description>
+		<release name="Nicktoons - Attack of the Toybots (USA)" region="USA"/>
+		<disk name="Nicktoons - Attack of the Toybots (USA).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/20703/hashes</url>
+		<hash>cbaca634a190e3323f183c5d65b9aa05</hash>
+	</machine>
+	
+	<machine name="Nicktoons - Attack of the Toybots (Subset - Multi)">
+		<category>Subset</category>
+		<description>Nicktoons - Attack of the Toybots (Subset - Multi)</description>
+		<release name="Nicktoons - Attack of the Toybots (Subset - Multi)" region="World"/>
+		<disk name="Nicktoons - Attack of the Toybots (Subset - Multi).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/33608/hashes</url>
+		<hash>fe0c87571c83b2af29d5614a2224ebc0</hash>
+	</machine>
+	
 	<machine name="Nicktoons - Battle for Volcano Island (USA)">
 		<category>Retail</category>
 		<description>Nicktoons - Battle for Volcano Island (USA)</description>
@@ -5358,6 +5462,13 @@
 		<disk name="Onimusha 2 - Samurai's Destiny (USA).chd" sha1="af05c8754998d33159714d5bff84a3b43ced452d"/>
 		<url>https://retroachievements.org/game/8484/hashes</url>
 		<hash>63b3b6d2b76a94bf14d3280dd225d2ae</hash>
+	</machine>
+	<machine name="Onimusha 2 - Samurai's Destiny (USA) (Undub) (v2021-02-14) (swosho)" cloneof="Onimusha 2 - Samurai's Destiny (USA)">
+		<category>Retail</category>
+		<description>Onimusha 2 - Samurai's Destiny (USA) (Undub) (v2021-02-14) (swosho)</description>
+		<disk name="Onimusha 2 - Samurai's Destiny (USA) (Undub) (v2021-02-14) (swosho).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/8484/hashes</url>
+		<hash>c3a7465d3fe51ec66670a80917fdde0a</hash>
 	</machine>
 	
 	<machine name="Onimusha 3 - Demon Siege (USA)">
@@ -5974,7 +6085,7 @@
 		<category>Subset</category>
 		<description>Resident Evil - Outbreak (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer)</description>
 		<release name="Resident Evil - Outbreak (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer)" region="English"/>
-		<disk name="Resident Evil - Outbreak (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer).chd" sha1="54ccaf488134fadd41a8ecf2620d54fa8b4ba81a"/>
+		<disk name="Resident Evil - Outbreak (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer).chd" sha1="000"/>
 		<url>https://retroachievements.org/game/29739/hashes</url>
 		<hash>1168ae415f3c2c4ed5e282dbea366f6e</hash>
 	</machine>
@@ -6009,7 +6120,7 @@
 		<category>Subset</category>
 		<description>Resident Evil - Outbreak - File 2 (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer)</description>
 		<release name="Resident Evil - Outbreak - File 2 (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer)" region="English"/>
-		<disk name="Resident Evil - Outbreak - File 2 (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer).chd" sha1="e1948aad2a7b239c9ebe95f5326ec8948179eab7"/>
+		<disk name="Resident Evil - Outbreak - File 2 (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer).chd" sha1="000"/>
 		<url>https://retroachievements.org/game/29740/hashes</url>
 		<hash>06e870bea69005e081c226fdea1d7511</hash>
 	</machine>
@@ -6064,6 +6175,23 @@
 		<disk name="Ridge Racer V (USA).chd" sha1="65079791738b4b21407753328a703b4d2ed22e8b"/>
 		<url>https://retroachievements.org/game/19173/hashes</url>
 		<hash>335ad726f71252c54d6c129fadd9e429</hash>
+	</machine>
+	
+	<machine name="RoadKill (USA)">
+		<category>Retail</category>
+		<description>RoadKill (USA)</description>
+		<release name="RoadKill (USA)" region="USA"/>
+		<disk name="RoadKill (USA).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/19233/hashes</url>
+		<hash>15736e3e8fcda50305ca1172422b5b6a</hash>
+	</machine>
+	<machine name="RoadKill (Europe) (En,Fr,Es,It)" cloneof="RoadKill (USA)">
+		<category>Retail</category>
+		<description>RoadKill (Europe) (En,Fr,Es,It)</description>
+		<release name="RoadKill (Europe) (En,Fr,Es,It)" region="Europe"/>
+		<disk name="RoadKill (Europe) (En,Fr,Es,It).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/19233/hashes</url>
+		<hash>4a7e02929c41373f61e9f8048ea0bad8</hash>
 	</machine>
 	
 	<machine name="Rock'N'Roll Adventures (Europe)">
@@ -6542,6 +6670,27 @@
 		<url>https://retroachievements.org/game/2657/hashes</url>
 		<hash>e26d1fec86be5754175b72bec0b5d187</hash>
 	</machine>
+	<machine name="Shin Megami Tensei - Persona 3 FES (USA) (Es) (v1.1b) (TraduSquare)" cloneof="Shin Megami Tensei - Persona 3 FES (USA)">
+		<category>Retail</category>
+		<description>Shin Megami Tensei - Persona 3 FES (USA) (Es) (v1.1b) (TraduSquare)</description>
+		<disk name="Shin Megami Tensei - Persona 3 FES (USA) (Es) (v1.1b) (TraduSquare).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/2657/hashes</url>
+		<hash>1b8907ceadd31e5a1ec9b70bb569ba2a</hash>
+	</machine>
+	<machine name="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Remix BGM) (v1.01) (Fei)" cloneof="Shin Megami Tensei - Persona 3 FES (USA)">
+		<category>Retail</category>
+		<description>Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Remix BGM) (v1.01) (Fei)</description>
+		<disk name="Shin Megami Tensei - Persona 3 FES (USA) (Direct Commands) (v1.1) (TGE) (Undub - Remix BGM) (v1.01) (Fei).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/2657/hashes</url>
+		<hash>235ba0069852347546924d46f6f88be6</hash>
+	</machine>
+	<machine name="Shin Megami Tensei - Persona 3 FES (USA) (Undub - Remix BGM) (v1.01) (Fei)" cloneof="Shin Megami Tensei - Persona 3 FES (USA)">
+		<category>Retail</category>
+		<description>Shin Megami Tensei - Persona 3 FES (USA) (Undub - Remix BGM) (v1.01) (Fei)</description>
+		<disk name="Shin Megami Tensei - Persona 3 FES (USA) (Undub - Remix BGM) (v1.01) (Fei).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/2657/hashes</url>
+		<hash>dc8ade764b7b940c188c802655d91bfa</hash>
+	</machine>
 	
 	<machine name="Shin Megami Tensei - Persona 3 FES (Subset - Orpheus Only)">
 		<category>Subset</category>
@@ -6609,6 +6758,15 @@
 		<disk name="Shinobi (USA) (En,Ja) (Subset - Akujiki's Wrath).chd" sha1="f373c38929ea8ae4ea04a66f358e3bab5357e0d7"/>
 		<url>https://retroachievements.org/game/25036/hashes</url>
 		<hash>3e0e77f3cf7b06a62a4f605bf831d9d8</hash>
+	</machine>
+	
+	<machine name="Shinobido - Way of the Ninja (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Shinobido - Way of the Ninja (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Shinobido - Way of the Ninja (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<disk name="Shinobido - Way of the Ninja (Europe) (En,Fr,De,Es,It).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/22879/hashes</url>
+		<hash>69a55e7fb9f479a8057f8832cb699d3c</hash>
 	</machine>
 	
 	<machine name="Shrek 2 (USA)">
@@ -8612,6 +8770,32 @@
 		<hash>67ef91da5535fca2af56b5711f6faf11</hash>
 	</machine>
 	
+	<machine name="Disney-Pixar Toy Story 3 (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<description>Disney-Pixar Toy Story 3 (USA) (En,Fr,Es)</description>
+		<release name="Disney-Pixar Toy Story 3 (USA) (En,Fr,Es)" region="USA"/>
+		<disk name="Disney-Pixar Toy Story 3 (USA) (En,Fr,Es).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/20855/hashes</url>
+		<hash>79ab10baa5cdd617b1d842bb46ced51f</hash>
+	</machine>
+	<machine name="Disney-Pixar Toy Story 3 (Europe) (En,Fr,De,Es,It,Nl)" cloneof="Disney-Pixar Toy Story 3 (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<description>Disney-Pixar Toy Story 3 (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<release name="Disney-Pixar Toy Story 3 (Europe) (En,Fr,De,Es,It,Nl)" region="Europe"/>
+		<disk name="Disney-Pixar Toy Story 3 (Europe) (En,Fr,De,Es,It,Nl).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/20855/hashes</url>
+		<hash>7de39db7e7e498b7361ca7926fa2b37a</hash>
+	</machine>
+	
+	<machine name="Transformers (USA) (AntiCheat Patch) (v1.1) (Souzooka)">
+		<category>Retail</category>
+		<description>Transformers (USA) (AntiCheat Patch) (v1.1) (Souzooka)</description>
+		<release name="Transformers (USA) (AntiCheat Patch) (v1.1) (Souzooka)" region="USA"/>
+		<disk name="Transformers (USA) (AntiCheat Patch) (v1.1) (Souzooka).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/19091/hashes</url>
+		<hash>5ba6567a2382f77633d56523abce865f</hash>
+	</machine>
+	
 	<machine name="Transformers - The Game (USA)">
 		<category>Retail</category>
 		<description>Transformers - The Game (USA)</description>
@@ -8619,6 +8803,15 @@
 		<disk name="Transformers - The Game (USA).chd" sha1="9aa589c28d62b4821ed7ee958eac267922eb57a2"/>
 		<url>https://retroachievements.org/game/21166/hashes</url>
 		<hash>ccea9e97d323d21c852598a5f5db0a2d</hash>
+	</machine>
+	
+	<machine name="Disney's Treasure Planet (USA)">
+		<category>Retail</category>
+		<description>Disney's Treasure Planet (USA)</description>
+		<release name="Disney's Treasure Planet (USA)" region="USA"/>
+		<disk name="Disney's Treasure Planet (USA).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/24130/hashes</url>
+		<hash>ccf5c29c865838338ccc58cc005c5c6b</hash>
 	</machine>
 	
 	<machine name="True Crime - Streets of LA (USA)">
@@ -8803,6 +8996,15 @@
 		<disk name="Wallace &amp; Gromit - The Curse of the Were-Rabbit (USA).chd" sha1="d26829fd17d00c245c6c3960c9ee926c40365cf9"/>
 		<url>https://retroachievements.org/game/21933/hashes</url>
 		<hash>4e788271004bd14cbc9a4a6dc16350fc</hash>
+	</machine>
+	
+	<machine name="War of the Monsters (USA)">
+		<category>Retail</category>
+		<description>War of the Monsters (USA)</description>
+		<release name="War of the Monsters (USA)" region="USA"/>
+		<disk name="War of the Monsters (USA).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/21174/hashes</url>
+		<hash>10bb3e54fc413eab8960fc3faa9e580e</hash>
 	</machine>
 	
 	<machine name="Warriors Orochi (USA)">

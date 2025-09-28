@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation</name>
 		<description>Sony Playstation</description>
 		<category>No Subfolders</category>
-		<version>20250927</version>
-		<date>27 September 2025</date>
+		<version>20250928</version>
+		<date>28 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -722,6 +722,15 @@
 		<hash>fde0ddbe2c6840f86cfbf58862b955ba</hash>
 	</machine>
 	
+	<machine name="Zen Nihon Joshi Pro Wrestling - Joou Densetsu - Yume no Taikousen (Japan)">
+		<category>Retail</category>
+		<description>Zen Nihon Joshi Pro Wrestling - Joou Densetsu - Yume no Taikousen (Japan)</description>
+		<release name="Zen Nihon Joshi Pro Wrestling - Joou Densetsu - Yume no Taikousen (Japan)" region="Japan"/>
+		<disk name="Zen Nihon Joshi Pro Wrestling - Joou Densetsu - Yume no Taikousen (Japan).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/34884/hashes</url>
+		<hash>bad2d852d10b39e91cece67d265f4976</hash>
+	</machine>
+	
 	<machine name="Alone in the Dark - The New Nightmare (USA)" cloneof="Alone in the Dark - The New Nightmare (Europe)">
 		<category>Retail</category>
 		<description>Alone in the Dark - The New Nightmare (USA)</description>
@@ -1073,6 +1082,15 @@
 		<disk name="Battle Arena Toshinden (USA).chd" sha1="64e5b9f4443b4770668d26c46a8d711017e5f41b"/>
 		<url>https://retroachievements.org/game/11414/hashes</url>
 		<hash>c8e8047b602dfd7c1bb17afab2a81b6d</hash>
+	</machine>
+	
+	<machine name="Battle Athletess - Daiundoukai GTO (Grand Trial Onnanoco) (Japan)">
+		<category>Retail</category>
+		<description>Battle Athletess - Daiundoukai GTO (Grand Trial Onnanoco) (Japan)</description>
+		<release name="Battle Athletess - Daiundoukai GTO (Grand Trial Onnanoco) (Japan)" region="Japan"/>
+		<disk name="Battle Athletess - Daiundoukai GTO (Grand Trial Onnanoco) (Japan).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/31567/hashes</url>
+		<hash>ec5a3d43751eea0649689033c7df4141</hash>
 	</machine>
 	
 	<machine name="Battle Hunter (USA)">
@@ -1983,6 +2001,15 @@
 		<hash>b5d93804305630d3c5cf648df652514c</hash>
 	</machine>
 	
+	<machine name="Crash Bash (USA) (Menu Glitch Fix) (v1.0) (manakoDE)">
+		<category>Retail</category>
+		<description>Crash Bash (USA) (Menu Glitch Fix) (v1.0) (manakoDE)</description>
+		<release name="Crash Bash (USA) (Menu Glitch Fix) (v1.0) (manakoDE)" region="USA"/>
+		<disk name="Crash Bash (USA) (Menu Glitch Fix) (v1.0) (manakoDE).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/10907/hashes</url>
+		<hash>2078233751ee9d063f26cecf32e898fc</hash>
+	</machine>
+	
 	<machine name="CTR - Crash Team Racing (USA)">
 		<category>Retail</category>
 		<description>CTR - Crash Team Racing (USA)</description>
@@ -2312,6 +2339,15 @@
 		<disk name="Deception III - Dark Delusion (USA).chd" sha1="d82a6458e569f2c49c8c9ad0683f73aa56fdf308"/>
 		<url>https://retroachievements.org/game/8409/hashes</url>
 		<hash>fa4e864cb3ac39c9b4b22cca75e142b8</hash>
+	</machine>
+	
+	<machine name="Descent (USA)">
+		<category>Retail</category>
+		<description>Descent (USA)</description>
+		<release name="Descent (USA)" region="USA"/>
+		<disk name="Descent (USA).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/3830/hashes</url>
+		<hash>a52967a37c5608927d16ef715ba004a2</hash>
 	</machine>
 	
 	<machine name="Destruction Derby Raw (USA)">
@@ -3435,6 +3471,15 @@
 		<hash>c2dbeff6eb114133ada08c36cb022adb</hash>
 	</machine>
 	
+	<machine name="Gubble (Japan)">
+		<category>Retail</category>
+		<description>Gubble (Japan)</description>
+		<release name="Gubble (Japan)" region="Japan"/>
+		<disk name="Gubble (Japan).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/19555/hashes</url>
+		<hash>bfc5182166b39727c3a3ddae416257a3</hash>
+	</machine>
+	
 	<machine name="Guilty Gear (USA)">
 		<category>Retail</category>
 		<description>Guilty Gear (USA)</description>
@@ -4429,6 +4474,15 @@
 		<hash>b12f6edd6d4bd0c0c6445af7293cf5c9</hash>
 	</machine>
 	
+	<machine name="Magical Drop III (Europe) (En,Fr,De,Es,It,Nl) (Disc 1)">
+		<category>Retail</category>
+		<description>Magical Drop III (Europe) (En,Fr,De,Es,It,Nl) (Disc 1)</description>
+		<release name="Magical Drop III (Europe) (En,Fr,De,Es,It,Nl) (Disc 1)" region="Europe"/>
+		<disk name="Magical Drop III (Europe) (En,Fr,De,Es,It,Nl) (Disc 1).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/31342/hashes</url>
+		<hash>519b1420d26175106d0459cdb40bdb7a</hash>
+	</machine>
+	
 	<machine name="Marvel vs. Capcom - Clash of Super Heroes (USA)">
 		<category>Retail</category>
 		<description>Marvel vs. Capcom - Clash of Super Heroes (USA)</description>
@@ -4445,6 +4499,38 @@
 		<disk name="Mary-Kate and Ashley - Crush Course (USA).chd" sha1="c4259ab7de890a21bc686ca82f968739d527e9b4"/>
 		<url>https://retroachievements.org/game/11157/hashes</url>
 		<hash>80aa26d71e1e79f7bf9299aa7597d50a</hash>
+	</machine>
+	
+	<machine name="MDK (USA)">
+		<category>Retail</category>
+		<description>MDK (USA)</description>
+		<release name="MDK (USA)" region="USA"/>
+		<disk name="MDK (USA).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/11604/hashes</url>
+		<hash>055bb9a8c5ffb185f9086a4827324a4c</hash>
+	</machine>
+	<machine name="MDK (USA) (Uk) (v1.0) (dynwayv)" cloneof="MDK (USA)">
+		<category>Retail</category>
+		<description>MDK (USA) (Uk) (v1.0) (dynwayv)</description>
+		<release name="MDK (USA) (Uk) (v1.0) (dynwayv)" region="United Kingdom"/>
+		<disk name="MDK (USA) (Uk) (v1.0) (dynwayv).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/11604/hashes</url>
+		<hash>ece45ec5e5fe3f5270721e897b54160a</hash>
+	</machine>
+	<machine name="MDK (USA) (Sv) (v1.0) (dynwayv)" cloneof="MDK (USA)">
+		<category>Retail</category>
+		<description>MDK (USA) (Sv) (v1.0) (dynwayv)</description>
+		<release name="MDK (USA) (Sv) (v1.0) (dynwayv)" region="El Selvado"/>
+		<disk name="MDK (USA) (Sv) (v1.0) (dynwayv).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/11604/hashes</url>
+		<hash>3c01de739c588842244469a989edbfbd</hash>
+	</machine>
+	<machine name="MDK (USA) (En,De,It,Es,Fr) (v1.0) (dynwayv)" cloneof="MDK (USA)">
+		<category>Retail</category>
+		<description>MDK (USA) (En,De,It,Es,Fr) (v1.0) (dynwayv)</description>
+		<disk name="MDK (USA) (En,De,It,Es,Fr) (v1.0) (dynwayv).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/11604/hashes</url>
+		<hash>65caa8756f35b0dfe5ba4da9734f273c</hash>
 	</machine>
 	
 	<machine name="MechWarrior 2 - 31st Century Combat - Arcade Combat Edition (USA)">
@@ -8907,6 +8993,47 @@
 		<hash>900c3105631eaa4ff91d58ccff6a12ae</hash>
 	</machine>
 	
+	<machine name="X-COM - UFO Defense (USA)">
+		<category>Retail</category>
+		<description>X-COM - UFO Defense (USA)</description>
+		<release name="X-COM - UFO Defense (USA)" region="USA"/>
+		<disk name="X-COM - UFO Defense (USA).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/13493/hashes</url>
+		<hash>e0f1c25ee530d26ba44ee57a54bb7d12</hash>
+	</machine>
+	<machine name="X-COM - UFO Defense (USA) (De) (v1.0) (KeiTH)" cloneof="X-COM - UFO Defense (USA)">
+		<category>Retail</category>
+		<description>X-COM - UFO Defense (USA) (De) (v1.0) (KeiTH)</description>
+		<release name="X-COM - UFO Defense (USA) (De) (v1.0) (KeiTH)" region="Germany"/>
+		<disk name="X-COM - UFO Defense (USA) (De) (v1.0) (KeiTH).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/13493/hashes</url>
+		<hash>f0a164caec8ead4c9526f057f27ac542</hash>
+	</machine>
+	<machine name="X-COM - UFO Defense (USA) (Es) (v1.0) (KeiTH)" cloneof="X-COM - UFO Defense (USA)">
+		<category>Retail</category>
+		<description>X-COM - UFO Defense (USA) (Es) (v1.0) (KeiTH)</description>
+		<release name="X-COM - UFO Defense (USA) (Es) (v1.0) (KeiTH)" region="Spain"/>
+		<disk name="X-COM - UFO Defense (USA) (Es) (v1.0) (KeiTH).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/13493/hashes</url>
+		<hash>c77c91e5ce1aea62bc12880f8a14cf7c</hash>
+	</machine>
+	<machine name="X-COM - UFO Defense (USA) (Fr) (v1.0) (KeiTH)" cloneof="X-COM - UFO Defense (USA)">
+		<category>Retail</category>
+		<description>X-COM - UFO Defense (USA) (Fr) (v1.0) (KeiTH)</description>
+		<release name="X-COM - UFO Defense (USA) (Fr) (v1.0) (KeiTH)" region="France"/>
+		<disk name="X-COM - UFO Defense (USA) (Fr) (v1.0) (KeiTH).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/13493/hashes</url>
+		<hash>acaa77a81257268f44ddd27e1c701ffc</hash>
+	</machine>
+	<machine name="X-COM - UFO Defense (USA) (It) (v1.0) (KeiTH)" cloneof="X-COM - UFO Defense (USA)">
+		<category>Retail</category>
+		<description>X-COM - UFO Defense (USA) (It) (v1.0) (KeiTH)</description>
+		<release name="X-COM - UFO Defense (USA) (It) (v1.0) (KeiTH)" region="Italy"/>
+		<disk name="X-COM - UFO Defense (USA) (It) (v1.0) (KeiTH).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/13493/hashes</url>
+		<hash>c9df579d61e3a991f8be6707a220b567</hash>
+	</machine>
+	
 	<machine name="X-Men - Mutant Academy (USA)">
 		<category>Retail</category>
 		<description>X-Men - Mutant Academy (USA)</description>
@@ -8975,6 +9102,15 @@
 		<url>https://retroachievements.org/game/11248/hashes</url>
 		<hash>91e42f4a4209a1f66d65bcd791e3d6d4</hash>
 		<hash>dee7f33027da63dea9be3c1e5f8321e9</hash>
+	</machine>
+	
+	<machine name="Yetisports World Tour (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Yetisports World Tour (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Yetisports World Tour (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<disk name="Yetisports World Tour (Europe) (En,Fr,De,Es,It).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/33446/hashes</url>
+		<hash>dd884fd01527c38819f53f162a20093c</hash>
 	</machine>
 	
 	<machine name="Yu-Gi-Oh! Forbidden Memories (USA)">

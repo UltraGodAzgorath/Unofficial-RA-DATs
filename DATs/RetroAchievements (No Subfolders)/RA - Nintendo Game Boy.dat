@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>No Subfolders</category>
-		<version>20250913</version>
-		<date>13 September 2025</date>
+		<version>20250928</version>
+		<date>28 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/4/games</url>
@@ -46,15 +46,6 @@
 		<rom name="Pocket Monsters Gold Version (Non-Debug) (Demo).gb" size="1048576" crc="6afe9180" md5="fd3819f2c0a9bc864c9c7eab107d4c7f" sha1="5a0cb44a053c00e7c37f6aa0d0bd8da4e3a3a185"/>
 		<url>https://retroachievements.org/game/12745/hashes</url>
 		<hash>fd3819f2c0a9bc864c9c7eab107d4c7f</hash>
-	</game>
-	
-	<game name="SML - 2nd Super Super Mario Land, The (Hack)">
-		<category>Hack</category>
-		<description>SML - 2nd Super Super Mario Land, The (Hack)</description>
-		<release name="SML - 2nd Super Super Mario Land, The (Hack)" region="World"/>
-		<rom name="SML - 2nd Super Super Mario Land, The (Hack).gb" size="65536" crc="8f221c1e" md5="d28cedbf9defa80efb2c9c5b070373b1" sha1="5352c4ce26062894f1e27f88a7d1ba6d9655d824"/>
-		<url>https://retroachievements.org/game/7411/hashes</url>
-		<hash>d28cedbf9defa80efb2c9c5b070373b1</hash>
 	</game>
 	
 	<game name="Mario's Picross X (Hack)">
@@ -417,6 +408,15 @@
 		<hash>98d8f8ee2569aaecc1e2e5024c234941</hash>
 	</game>
 	
+	<game name="SML - 2nd Super Super Mario Land, The (Hack)">
+		<category>Hack</category>
+		<description>SML - 2nd Super Super Mario Land, The (Hack)</description>
+		<release name="SML - 2nd Super Super Mario Land, The (Hack)" region="World"/>
+		<rom name="SML - 2nd Super Super Mario Land, The (Hack).gb" size="65536" crc="8f221c1e" md5="d28cedbf9defa80efb2c9c5b070373b1" sha1="5352c4ce26062894f1e27f88a7d1ba6d9655d824"/>
+		<url>https://retroachievements.org/game/7411/hashes</url>
+		<hash>d28cedbf9defa80efb2c9c5b070373b1</hash>
+	</game>
+	
 	<game name="Twitch Plays Pokemon - Anniversary Red (v4.7.3c) (Hack)">
 		<category>Hack</category>
 		<description>Twitch Plays Pokemon - Anniversary Red (v4.7.3c) (Hack)</description>
@@ -627,15 +627,6 @@
 		<rom name="Black Castle (World) (Aftermarket).gb" size="65536" crc="10f577c7" md5="15db12b81db55364a5c0b064b22e569f" sha1="45d979be572bb820835d2ecd4e990cd1eadbf5a6"/>
 		<url>https://retroachievements.org/game/17412/hashes</url>
 		<hash>15db12b81db55364a5c0b064b22e569f</hash>
-	</game>
-	
-	<game name="Bouncing Ball, The (World) (Aftermarket)">
-		<category>Homebrew</category>
-		<description>Bouncing Ball, The (World) (Aftermarket)</description>
-		<release name="Bouncing Ball, The (World) (Aftermarket)" region="World"/>
-		<rom name="Bouncing Ball, The (World) (Aftermarket).gb" size="65536" crc="42ddf53e" md5="3cf985dde797f178b8446aefedf5cd20" sha1="5d331f2e66d7d3f4b4b0fcbaf6ab4b1a0147db3e"/>
-		<url>https://retroachievements.org/game/6631/hashes</url>
-		<hash>3cf985dde797f178b8446aefedf5cd20</hash>
 	</game>
 	
 	<game name="Bug Bites! (World) (Aftermarket)">
@@ -876,6 +867,15 @@
 		<hash>a079653cbee238c70ca3a35601822b82</hash>
 	</game>
 	
+	<game name="Game of Life Kuzushi (World) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Game of Life Kuzushi (World) (Aftermarket)</description>
+		<release name="Game of Life Kuzushi (World) (Aftermarket)" region="World"/>
+		<rom name="Game of Life Kuzushi (World) (Aftermarket).gb" size="000" crc="000" md5="b04d10af7ff5010c90be47948158f016" sha1="000"/>
+		<url>https://retroachievements.org/game/34534/hashes</url>
+		<hash>b04d10af7ff5010c90be47948158f016</hash>
+	</game>
+	
 	<game name="GameBoy WORDLE (World) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>GameBoy WORDLE (World) (Aftermarket)</description>
@@ -892,6 +892,23 @@
 		<rom name="Gorf the Ghost Saves Halloween (World) (GB Compatible) (Aftermarket).gb" size="262144" crc="ab10cec6" md5="1b9515262a8a57ef1366bed635c604e4" sha1="9dcaa6824fab806683737bdf1c76609c68c451a5"/>
 		<url>https://retroachievements.org/game/31198/hashes</url>
 		<hash>1b9515262a8a57ef1366bed635c604e4</hash>
+	</game>
+	
+	<game name="GSPS - The Game (Poland) (Pl) (v1.0) (zachariasz455) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>GSPS - The Game (Poland) (Pl) (v1.0) (zachariasz455) (Aftermarket)</description>
+		<release name="GSPS - The Game (Poland) (Pl) (v1.0) (zachariasz455) (Aftermarket)" region="Poland"/>
+		<rom name="GSPS - The Game (Poland) (Pl) (v1.0) (zachariasz455) (Aftermarket).gb" size="000" crc="000" md5="df77829789b41cc5be505e8cdce80ce1" sha1="000"/>
+		<url>https://retroachievements.org/game/34129/hashes</url>
+		<hash>df77829789b41cc5be505e8cdce80ce1</hash>
+	</game>
+	<game name="GSPS - The Game (Poland) (En) (v1.0) (zachariasz455) (Aftermarket)" cloneof="GSPS - The Game (Poland) (Pl) (v1.0) (zachariasz455) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>GSPS - The Game (Poland) (En) (v1.0) (zachariasz455) (Aftermarket)</description>
+		<release name="GSPS - The Game (Poland) (En) (v1.0) (zachariasz455) (Aftermarket)" region="World"/>
+		<rom name="GSPS - The Game (Poland) (En) (v1.0) (zachariasz455) (Aftermarket).gb" size="000" crc="000" md5="01cf4c043f69a9924f2a689e3fa60157" sha1="000"/>
+		<url>https://retroachievements.org/game/34129/hashes</url>
+		<hash>01cf4c043f69a9924f2a689e3fa60157</hash>
 	</game>
 	
 	<game name="Gunman Clive (World) (Aftermarket)">
@@ -1213,6 +1230,15 @@
 		<hash>2554c7f6365dbf59ec1a73f0124a70b4</hash>
 	</game>
 	
+	<game name="Bouncing Ball, The (World) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Bouncing Ball, The (World) (Aftermarket)</description>
+		<release name="Bouncing Ball, The (World) (Aftermarket)" region="World"/>
+		<rom name="Bouncing Ball, The (World) (Aftermarket).gb" size="65536" crc="42ddf53e" md5="3cf985dde797f178b8446aefedf5cd20" sha1="5d331f2e66d7d3f4b4b0fcbaf6ab4b1a0147db3e"/>
+		<url>https://retroachievements.org/game/6631/hashes</url>
+		<hash>3cf985dde797f178b8446aefedf5cd20</hash>
+	</game>
+	
 	<game name="Dead in My Living Room, The (World) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>Dead in My Living Room, The (World) (Aftermarket)</description>
@@ -1270,6 +1296,15 @@
    		<rom name="Traumatarium (World) (2021-12-09) (Aftermarket).gb" size="2097152" crc="15afd765" md5="0aea35682c6853ec1f36f69a999ae2cb" sha1="c12e603492f8bcfffd28dd4733c7bc445c507642"/>
    		<url>https://retroachievements.org/game/22572/hashes</url>
 		<hash>0aea35682c6853ec1f36f69a999ae2cb</hash>
+	</game>
+	
+	<game name="Uma Musume Delish Derby (World) (shiki) (Aftermarket)">
+   		<category>Homebrew</category>
+		<description>Uma Musume Delish Derby (World) (shiki) (Aftermarket)</description>
+   		<release name="Uma Musume Delish Derby (World) (shiki) (Aftermarket)" region="World"/>
+   		<rom name="Uma Musume Delish Derby (World) (shiki) (Aftermarket).gb" size="000" crc="000" md5="a6d142742d41b624217123bd020f8391" sha1="000"/>
+   		<url>https://retroachievements.org/game/34313/hashes</url>
+		<hash>a6d142742d41b624217123bd020f8391</hash>
 	</game>
 	
 	<game name="UNPAN (World) (GB Studio) (Aftermarket)">
@@ -1352,15 +1387,6 @@
 		<hash>8b4d9ea149c4cd156bd4ce0db1127943</hash>
 	</game>
 	
-	<game name="Adventures of Pinocchio, The (Europe) (Proto)">
-		<category>Prototype</category>
-		<description>Adventures of Pinocchio, The (Europe) (Proto)</description>
-		<release name="Adventures of Pinocchio, The (Europe) (Proto)" region="Europe"/>
-		<rom name="Adventures of Pinocchio, The (Europe) (Proto).gb" size="65536" crc="0b9de1dc" md5="ba78ac0638f36a89386b690d619f13b1" sha1="6808d5a5fba9b58d67e91f22a2860e4e72f6eec1"/>
-		<url>https://retroachievements.org/game/4937/hashes</url>
-		<hash>ba78ac0638f36a89386b690d619f13b1</hash>
-	</game>
-	
 	<game name="Diablo (USA) (Proto)">
 		<category>Prototype</category>
 		<description>Diablo (USA) (Proto)</description>
@@ -1368,6 +1394,15 @@
 		<rom name="Diablo (USA) (Proto).gb" size="131072" crc="aaaad0b6" md5="28e1605572aec89f7d210775e51cb8da" sha1="8982410ac627618628a8b823c0608cc8b5653f41"/>
 		<url>https://retroachievements.org/game/9026/hashes</url>
 		<hash>28e1605572aec89f7d210775e51cb8da</hash>
+	</game>
+	
+	<game name="Adventures of Pinocchio, The (Europe) (Proto)">
+		<category>Prototype</category>
+		<description>Adventures of Pinocchio, The (Europe) (Proto)</description>
+		<release name="Adventures of Pinocchio, The (Europe) (Proto)" region="Europe"/>
+		<rom name="Adventures of Pinocchio, The (Europe) (Proto).gb" size="65536" crc="0b9de1dc" md5="ba78ac0638f36a89386b690d619f13b1" sha1="6808d5a5fba9b58d67e91f22a2860e4e72f6eec1"/>
+		<url>https://retroachievements.org/game/4937/hashes</url>
+		<hash>ba78ac0638f36a89386b690d619f13b1</hash>
 	</game>
 	
 	<game name="King James Bible (USA) (Unl)">
@@ -3966,6 +4001,16 @@
 		<rom name="Mortal Kombat (USA, Europe).gb" size="262144" crc="90eb0929" md5="b3474bab3eda25bdb1508ed53765fb30" sha1="59752879efaf2f271ce4b8a9d4a455056a2985d0"/>
 		<url>https://retroachievements.org/game/716/hashes</url>
 		<hash>b3474bab3eda25bdb1508ed53765fb30</hash>
+	</game>
+	
+	<game name="Mortal Kombat 3 (USA, Europe)">
+		<category>Retail</category>
+		<description>Mortal Kombat 3 (USA, Europe)</description>
+		<release name="Mortal Kombat 3 (USA, Europe)" region="Europe"/>
+		<release name="Mortal Kombat 3 (USA, Europe)" region="USA"/>
+		<rom name="Mortal Kombat 3 (USA, Europe).gb" size="000" crc="000" md5="c19d61e31d6aebc12abf80d628a7bd09" sha1="000"/>
+		<url>https://retroachievements.org/game/718/hashes</url>
+		<hash>c19d61e31d6aebc12abf80d628a7bd09</hash>
 	</game>
 	
 	<game name="Mortal Kombat II (USA, Europe)">

@@ -5,8 +5,8 @@
 		<name>RA - Sony PSP</name>
 		<description>Sony PSP</description>
 		<category>Subfolders</category>
-		<version>20250916</version>
-		<date>16 September 2025</date>
+		<version>20250928</version>
+		<date>28 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/41/games</url>
@@ -119,6 +119,14 @@
 		<url>https://retroachievements.org/game/21510/hashes</url>
 		<hash>69f525ee1a1faf67c46e2f65b3321b38</hash>
 		<legacyhash>7af033156fdd0635eb4bc408fa9086ef</legacyhash>
+	</machine>
+	
+	<machine name="Retail/Ace Combat X - Skies of Deception (USA) (En,Ja,Fr,De,Es,It,Ko)">
+		<category></category>
+		<description>Ace Combat X - Skies of Deception (USA) (En,Ja,Fr,De,Es,It,Ko)</description>
+		<disk name="Ace Combat X - Skies of Deception (USA) (En,Ja,Fr,De,Es,It,Ko).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/3884/hashes</url>
+		<hash>f9d853f1c7bb22861a1d73976b85c517</hash>
 	</machine>
 	
 	<machine name="Retail/Age of Zombies (USA) (minis) (PSN)">

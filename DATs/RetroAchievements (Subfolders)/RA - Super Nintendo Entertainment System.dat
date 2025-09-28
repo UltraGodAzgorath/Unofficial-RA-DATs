@@ -5,8 +5,8 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20250913</version>
-		<date>13 September 2025</date>
+		<version>20250928</version>
+		<date>18 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/3/games</url>
@@ -51,14 +51,6 @@
 		<rom name="SMW - 100 Rooms of Enemies (Arcade Mode) (v2.0) (Daizo Dee Von) (Hack).sfc" size="2097152" crc="6abfff16" md5="41d848ac3e9cc267bde84719edd8d8df" sha1="af10bd8e2a816ab9e349ceca56a4475e82e24f02"/>
 		<url>https://retroachievements.org/game/23723/hashes</url>
 		<hash>41d848ac3e9cc267bde84719edd8d8df</hash>
-	</game>
-	
-	<game name="Hack/Super Mario World/SMW - 11th Annual Vanilla Level Design Contest, The (v1.4) (smwcentral.net) (Hack)">
-		<category>Super Nintendo</category>
-		<description>SMW - 11th Annual Vanilla Level Design Contest, The (v1.4) (smwcentral.net) (Hack)</description>
-		<rom name="SMW - 11th Annual Vanilla Level Design Contest, The (v1.4) (smwcentral.net) (Hack).sfc" size="8388608" crc="13e5e9ce" md5="98f13f2ab307c84eea5c4965006cfe7c" sha1="7400eda4b369019fa5f791985291dc9211c808a3"/>
-		<url>https://retroachievements.org/game/19504/hashes</url>
-		<hash>98f13f2ab307c84eea5c4965006cfe7c</hash>
 	</game>
 	
 	<game name="Hack/Super Mario World/SMW - 1st Kochobo Dourado (v2.0) (Marios Group, TheMorganah) (Hack)">
@@ -117,22 +109,6 @@
 		<hash>c29e9b1a5777828fa8de171ae3ca23a3</hash>
 	</game>
 	
-	<game name="Hack/Super Mario World/SMW - 3 Lost Challenges, The (v1.0) (SuperMudkip1) (Hack)">
-		<category>Super Nintendo</category>
-		<description>SMW - 3 Lost Challenges, The (v1.0) (SuperMudkip1) (Hack)</description>
-		<rom name="SMW - 3 Lost Challenges, The (v1.0) (SuperMudkip1) (Hack).sfc" size="4194304" crc="b26d74e7" md5="bec8b1d71a26493f37062e2503fcc290" sha1="d682ebc42ffb140e84ff99c37bc656b7de1565b5"/>
-		<url>https://retroachievements.org/game/28597/hashes</url>
-		<hash>bec8b1d71a26493f37062e2503fcc290</hash>
-	</game>
-	
-	<game name="Hack/Super Mario World/SMW - 7th Annual Vanilla Level Design Contest, The (SMW Central) (Hack)">
-		<category>Super Nintendo</category>
-		<description>SMW - 7th Annual Vanilla Level Design Contest, The (SMW Central) (Hack)</description>
-		<rom name="SMW - 7th Annual Vanilla Level Design Contest, The (SMW Central) (Hack).sfc" size="4194304" crc="6c4c1f76" md5="a7bcd665da8b839600dfe22c46623ce1" sha1="1d4f68d7e7b6ef747037db22fd344c60cd7cf6df"/>
-		<url>https://retroachievements.org/game/6647/hashes</url>
-		<hash>a7bcd665da8b839600dfe22c46623ce1</hash>
-	</game>
-	
 	<game name="Hack/Super Mario World/SMW - 9th Annual Vanilla Level Design Contest, The (v1.11) (smwcentral.net) (Hack)">
 		<category>Super Nintendo</category>
 		<description>SMW - 9th Annual Vanilla Level Design Contest, The (v1.11) (smwcentral.net) (Hack)</description>
@@ -149,12 +125,28 @@
 		<hash>00fce515551b8617f1df204f0fb41b2c</hash>
 	</game>
 	
+	<game name="Hack/Super Mario World/SMW - Goomba's Walk, A (v1.0) (Luks) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - Goomba's Walk, A (v1.0) (Luks) (Hack)</description>
+		<rom name="SMW - Goomba's Walk, A (v1.0) (Luks) (Hack).sfc" size="2097152" crc="2245a8ab" md5="4548f36373f15633dd20e842f8ee815a" sha1="f66175f780e2254967acbe330b7eb15040dd7f6c"/>
+		<url>https://retroachievements.org/game/22699/hashes</url>
+		<hash>4548f36373f15633dd20e842f8ee815a</hash>
+	</game>
+	
 	<game name="Hack/Super Mario World/SMW - A Haunted Christmas (Team Haunted) (Hack)">
 		<category>Super Nintendo</category>
 		<description>SMW - A Haunted Christmas (Team Haunted) (Hack)</description>
 		<rom name="SMW - A Haunted Christmas (Team Haunted) (Hack).sfc" size="4194304" crc="48144655" md5="0331988a6e3d6c95bfb11d27a9ad4d3b" sha1="ca5bcfa8f68753a1025349c20b0187520ef9135c"/>
 		<url>https://retroachievements.org/game/7147/hashes</url>
 		<hash>0331988a6e3d6c95bfb11d27a9ad4d3b</hash>
+	</game>
+	
+	<game name="Hack/Super Mario World/SMW - A Plumber for All Seasons (WhiteYoshiEgg) (v2021-11-09) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - A Plumber for All Seasons (WhiteYoshiEgg) (v2021-11-09) (Hack)</description>
+		<rom name="SMW - A Plumber for All Seasons (WhiteYoshiEgg) (v2021-11-09) (Hack).sfc" size="4194304" crc="b5b8ab63" md5="cdb770284b8f0fb7ad6ca24b7fbb5e44" sha1="52c102ff9e944affcd90192aff0ce891c3307617"/>
+		<url>https://retroachievements.org/game/2865/hashes</url>
+		<hash>cdb770284b8f0fb7ad6ca24b7fbb5e44</hash>
 	</game>
 	
 	<game name="Hack/Super Mario World/SMW - A Rushed Project (v1.4) (GalacticSpear) (Hack)">
@@ -1162,14 +1154,6 @@
 		<hash>5ae4f2601a8a0e2f957b625763de6e5f</hash>
 	</game>
 	
-	<game name="Hack/Super Mario World/SMW - Goomba's Walk, A (v1.0) (Luks) (Hack)">
-		<category>Super Nintendo</category>
-		<description>SMW - Goomba's Walk, A (v1.0) (Luks) (Hack)</description>
-		<rom name="SMW - Goomba's Walk, A (v1.0) (Luks) (Hack).sfc" size="2097152" crc="2245a8ab" md5="4548f36373f15633dd20e842f8ee815a" sha1="f66175f780e2254967acbe330b7eb15040dd7f6c"/>
-		<url>https://retroachievements.org/game/22699/hashes</url>
-		<hash>4548f36373f15633dd20e842f8ee815a</hash>
-	</game>
-	
 	<game name="Hack/Super Mario World/SMW - Grand Poo World 2 (Barbarian) (1.1) (Hack)">
 		<category>Super Nintendo</category>
 		<description>SMW - Grand Poo World 2 (Barbarian) (1.1) (Hack)</description>
@@ -1305,14 +1289,6 @@
 		<hash>6f84b80e9f1f85775424175f21ce9395</hash>
 	</game>
 	
-	<game name="Hack/Super Mario World/SMW - Hunt for the Chocolate Egg, The (v1.0.2) (Green Jerry) (Hack)">
-		<category>Super Nintendo</category>
-		<description>SMW - Hunt for the Chocolate Egg, The (v1.0.2) (Green Jerry) (Hack)</description>
-		<rom name="SMW - Hunt for the Chocolate Egg, The (v1.0.2) (Green Jerry) (Hack).sfc" size="2097152" crc="1bcc7236" md5="e9f47509668889eb21f56c3e3fe3e9f7" sha1="bb508d5584865ea8d2bf4f52c42db0bb84b59c6f"/>
-		<url>https://retroachievements.org/game/14313/hashes</url>
-		<hash>e9f47509668889eb21f56c3e3fe3e9f7</hash>
-	</game>
-	
 	<game name="Hack/Super Metroid/Hyper Metroid (v1.0) (RealRed) (Hack)">
 		<category>Super Nintendo</category>
 		<description>Hyper Metroid (v1.0) (RealRed) (Hack)</description>
@@ -1407,14 +1383,6 @@
 		<rom name="SMW - Joe Biden for the PS2 2 Re-elected (v1.0) (SubliminalSiren) (Hack).sfc" size="2097152" crc="929ba8e4" md5="d0a652b699cfda44a70cc35be682250b" sha1="156392493eae98d82d1707700ff1148bf10a63f0"/>
 		<url>https://retroachievements.org/game/25690/hashes</url>
 		<hash>d0a652b699cfda44a70cc35be682250b</hash>
-	</game>
-	
-	<game name="Hack/Super Mario World/SMW - Joy of Kaizo, The (v1.6) (NaroGugul) (Hack)">
-		<category>Super Nintendo</category>
-		<description>SMW - Joy of Kaizo, The (v1.6) (NaroGugul) (Hack)</description>
-		<rom name="SMW - Joy of Kaizo, The (v1.6) (NaroGugul) (Hack).sfc" size="4194304" crc="edaa8c9c" md5="cf5f089c1d27aea35fc72adf9c6eac5f" sha1="09b08217be72bda146498299b53348433aa6ef50"/>
-		<url>https://retroachievements.org/game/16213/hashes</url>
-		<hash>cf5f089c1d27aea35fc72adf9c6eac5f</hash>
 	</game>
 	
 	<game name="Hack/Super Mario World/SMW - Janked Up Mario Party (JUMP Team, worldpeace) (Hack)">
@@ -1541,113 +1509,12 @@
 		<hash>46b4da387bdd7aa0a598bfe618e9dadf</hash>
 	</game>
 	
-	<game name="Hack/The Legend of Zelda - A Link to the Past/LoZALttP - Hylian Legacy (v1.042) (IntimFuchtler) (Hack)">
-		<category>Super Nintendo</category>
-		<description>LoZALttP - Hylian Legacy (v1.042) (IntimFuchtler) (Hack)</description>
-		<rom name="LoZALttP - Hylian Legacy (v1.042) (IntimFuchtler) (Hack).sfc" size="2097152" crc="c59afb3f" md5="0815444d4012004b5facdfe8cb4a1fb5" sha1="f119df8e7ffe544b8c776b6230b3038feb3f5129"/>
-		<url>https://retroachievements.org/game/18312/hashes</url>
-		<hash>0815444d4012004b5facdfe8cb4a1fb5</hash>
-	</game>
-	
-	<game name="Hack/The Legend of Zelda - A Link to the Past/LoZALttP - Allhallows Eve (v1.03) (Allhallows Team) (Hack)">
-		<category>Super Nintendo</category>
-		<description>LoZALttP - Allhallows Eve (v1.03) (Allhallows Team) (Hack)</description>
-		<rom name="LoZALttP - Allhallows Eve (v1.03) (Allhallows Team) (Hack).sfc" size="2097152" crc="e39f3952" md5="6c558374ac16bb9eb603c976a677a029" sha1="277083e5eb32c68b6a7b5405384c9eb0254652c3"/>
-		<url>https://retroachievements.org/game/28329/hashes</url>
-		<hash>6c558374ac16bb9eb603c976a677a029</hash>
-	</game>
-	
-	<game name="Hack/The Legend of Zelda - A Link to the Past/LoZALttP - Echoes of the Past (v1.1.0) (SkierLink) (Hack)">
-		<category>Super Nintendo</category>
-		<description>LoZALttP - Echoes of the Past (v1.1.0) (SkierLink) (Hack)</description>
-		<rom name="LoZALttP - Echoes of the Past (v1.1.0) (SkierLink) (Hack).sfc" size="2097152" crc="66967ae1" md5="02ae4c23220f358b02b1f724a9943cc4" sha1="38fbeeb3929d594e38e21fe41494b95a43551fb3"/>
-		<url>https://retroachievements.org/game/20060/hashes</url>
-		<hash>02ae4c23220f358b02b1f724a9943cc4</hash>
-	</game>
-	
-	<game name="Hack/Legend of Zelda, The - A Link to the Past/LoZALttP - Gerudo Exile (v1.3) (GwelioGopher) (Hack)">
-		<category>Super Nintendo</category>
-		<description>LoZALttP - Gerudo Exile (v1.3) (GwelioGopher) (Hack)</description>
-		<rom name="LoZALttP - Gerudo Exile (v1.3) (GwelioGopher) (Hack).sfc" size="3145728" crc="7e096ea3" md5="6399ef74b01b889e7c4e4cc5b8583a98" sha1="f5326b31081e0b323261d2b3c94ec49304afb202"/>
-		<url>https://retroachievements.org/game/20343/hashes</url>
-		<hash>6399ef74b01b889e7c4e4cc5b8583a98</hash>
-	</game>
-	
-	<game name="Hack/Legend of Zelda, The - A Link to the Past/LoZALttP - Goddess of Wisdom (SePH) (Unk Rev) (Hack)">
-		<category>Super Nintendo</category>
-		<description>LoZALttP - Goddess of Wisdom (SePH) (Unk Rev) (Hack)</description>
-		<rom name="LoZALttP - Goddess of Wisdom (SePH) (Unk Rev) (Hack).sfc" size="1572864" crc="7c3896a3" md5="3dcd4155bae3cbe2e15ba6e17191d158" sha1="3d577b60c23ddfa68d16440f53e79913eda4b813"/>
-		<url>https://retroachievements.org/game/5994/hashes</url>
-		<hash>3dcd4155bae3cbe2e15ba6e17191d158</hash>
-	</game>
-	<game name="Hack/Legend of Zelda, The - A Link to the Past/LoZALttP - Goddess of Wisdom (v3.0) (SePH) (Hack)">
-		<category>Super Nintendo</category>
-		<description>LoZALttP - Goddess of Wisdom (v3.0) (SePH) (Hack)</description>
-		<rom name="LoZALttP - Goddess of Wisdom (v3.0) (SePH) (Hack).sfc" size="1572864" crc="f22e4ddb" md5="3fab84fedf46adf3870bf572ce5548c7" sha1="41da0d6629c5d4b436c5825fa6c6ef35b2b8145a"/>
-		<url>https://retroachievements.org/game/5994/hashes</url>
-		<hash>3fab84fedf46adf3870bf572ce5548c7</hash>
-	</game>
-	
-	<game name="Hack/Legend of Zelda, The - A Link to the Past/LoZALttP - Parallel Worlds (v1.23) (Euclid,SePH) (Hack)">
-		<category>Super Nintendo</category>
-		<description>LoZALttP - Parallel Worlds (v1.23) (Euclid,SePH) (Hack)</description>
-		<rom name="LoZALttP - Parallel Worlds (v1.23) (Euclid,SePH) (Hack).sfc" size="2097152" crc="ddd61cbe" md5="ef94b014589181d12d566791f8bc8af6" sha1="2937534d2095436274faf2bbae1812cb4fc9b76e"/>
-		<url>https://retroachievements.org/game/2345/hashes</url>
-		<hash>ef94b014589181d12d566791f8bc8af6</hash>
-	</game>
-	<game name="Hack/Legend of Zelda, The - A Link to the Past/LoZALttP - Parallel Worlds (v1.1) (Euclid,SePH) (Hack)">
-		<category>Super Nintendo</category>
-		<description>LoZALttP - Parallel Worlds (v1.1) (Euclid,SePH) (Hack)</description>
-		<rom name="LoZALttP - Parallel Worlds (v1.1) (Euclid,SePH) (Hack).sfc" size="1572864" crc="26b7fe42" md5="f43ef6a5ff9b2e4922e76629a701b4dc" sha1="5b819b62afec08efbf130df04f8643aefb67579a"/>
-		<url>https://retroachievements.org/game/2345/hashes</url>
-		<hash>f43ef6a5ff9b2e4922e76629a701b4dc</hash>
-	</game>
-	<game name="Hack/Legend of Zelda, The - A Link to the Past/LoZALttP - Parallel Worlds (v1.0) (Euclid,SePH) (Hack)">
-		<category>Super Nintendo</category>
-		<description>LoZALttP - Parallel Worlds (v1.0) (Euclid,SePH) (Hack)</description>
-		<rom name="LoZALttP - Parallel Worlds (v1.0) (Euclid,SePH) (Hack).sfc" size="1572864" crc="26791eb5" md5="faefb815590a2adc786ad1467558e3da" sha1="22e3ed032c7f0969e75bf8c4997206bfb9ee6c3b"/>
-		<url>https://retroachievements.org/game/2345/hashes</url>
-		<hash>faefb815590a2adc786ad1467558e3da</hash>
-	</game>
-	
-	<game name="Hack/The Legend of Zelda - A Link to the Past/LoZALttP - PuzzleDude's Quest (v1.0) (8K Pad) (Jamiras) (Hack)">
-		<category>Super Nintendo</category>
-		<description>LoZALttP - PuzzleDude's Quest (v1.0) (8K Pad) (Jamiras) (Hack)</description>
-		<rom name="LoZALttP - PuzzleDude's Quest (v1.0) (8K Pad) (Jamiras) (Hack).sfc" size="1056768" crc="e65a7617" md5="1f2160baba3bcdd7d6c9155db8e2d0d2" sha1="22215e1335b771133f3678b1b0bbe6d65cfe01fa"/>
-		<url>https://retroachievements.org/game/9511/hashes</url>
-		<hash>1f2160baba3bcdd7d6c9155db8e2d0d2</hash>
-	</game>
-	
-	<game name="Hack/The Legend of Zelda - A Link to the Past/LoZALttP - Secrets of the Past (v1.01) (Superskuj) (Hack)">
-		<category>Super Nintendo</category>
-		<description>LoZALttP - Secrets of the Past (v1.01) (Superskuj) (Hack)</description>
-		<rom name="LoZALttP - Secrets of the Past (v1.01) (Superskuj) (Hack).sfc" size="2097152" crc="b6e69450" md5="347b2e5a8a2998c15fe60ee23c6ab838" sha1="52f3c9a86aec246a59c31894fbd78e8c6b7a706f"/>
-		<url>https://retroachievements.org/game/19889/hashes</url>
-		<hash>347b2e5a8a2998c15fe60ee23c6ab838</hash>
-	</game>
-	
-	<game name="Hack/Legend of Zelda, The - A Link to the Past/LoZALttP - The Shadow's Fall (v2.0) (Jared Brian) (Hack)">
-		<category>Super Nintendo</category>
-		<description>LoZALttP - The Shadow's Fall (v2.0) (Jared Brian) (Hack)</description>
-		<rom name="LoZALttP - The Shadow's Fall (v2.0) (Jared Brian) (Hack).sfc" size="2097152" crc="126f58dd" md5="7210ed8608440ab78fe7d69705136154" sha1="b89d9619afd59636262fd2468435ef246975168f"/>
-		<url>https://retroachievements.org/game/25800/hashes</url>
-		<hash>7210ed8608440ab78fe7d69705136154</hash>
-	</game>
-	
 	<game name="Hack/Super Mario World/SMW - Legends of Mario (v1.2) (Hack)">
 		<category>Super Nintendo</category>
 		<description>SMW - Legends of Mario (v1.2) (Hack)</description>
 		<rom name="SMW - Legends of Mario (v1.2) (Hack).sfc" size="2097152" crc="feac0dfa" md5="b3060b012f71ac28ddaac1e45dd4ea76" sha1="b8098a15b048ffec1db638ccff29c8cae1cb8f8e"/>
 		<url>https://retroachievements.org/game/11709/hashes</url>
 		<hash>b3060b012f71ac28ddaac1e45dd4ea76</hash>
-	</game>
-	
-	<game name="Hack/Super Mario World/SMW - Lost Levels Enhanced, The (Pac) (Hack)">
-		<category>Super Nintendo</category>
-		<description>SMW - Lost Levels Enhanced, The (Pac) (Hack)</description>
-		<rom name="SMW - Lost Levels Enhanced, The (Pac) (Hack).sfc" size="4194304" crc="f58ca178" md5="6a863d91460edaaa7227f3270d28066b" sha1="e5110ad97e04a9db3d363519f41f53f237eec320"/>
-		<url>https://retroachievements.org/game/9392/hashes</url>
-		<hash>6a863d91460edaaa7227f3270d28066b</hash>
 	</game>
 	
 	<game name="Hack/Super Mario World/SMW - Love Yourself (v1.0) (Chondontore) (Hack)">
@@ -2356,14 +2223,6 @@
 		<hash>a9bed25aeab5d2b9530ac10eeebad422</hash>
 	</game>
 	
-	<game name="Hack/Super Mario World/SMW - The Ninji Saga (The Kins) (Hack)">
-		<category>Super Nintendo</category>
-		<description>SMW - The Ninji Saga (The Kins) (Hack)</description>
-		<rom name="SMW - The Ninji Saga (The Kins) (Hack).sfc" size="2097152" crc="65e5f39f" md5="03e1fb12f214955f3c325f29a377c125" sha1="0a6eadf34278b91e86c267799d3e757860ef6f90"/>
-		<url>https://retroachievements.org/game/24369/hashes</url>
-		<hash>03e1fb12f214955f3c325f29a377c125</hash>
-	</game>
-	
 	<game name="Hack/Super Mario World/SMW - Nonsense (v1.0.2) (MiracleWater) (Hack)">
 		<category>Super Nintendo</category>
 		<description>SMW - Nonsense (v1.0.2) (MiracleWater) (Hack)</description>
@@ -2427,12 +2286,12 @@
 		<hash>81317b808c4365a9df49039e4a133769</hash>
 	</game>
 	
-	<game name="Hack/Super Mario World/SMW - A Plumber for All Seasons (WhiteYoshiEgg) (v2021-11-09) (Hack)">
+	<game name="Hack/Super Mario World/SMW - Polyphony (v1.1.1) (TomatoPhalanges) (Hack)">
 		<category>Super Nintendo</category>
-		<description>SMW - A Plumber for All Seasons (WhiteYoshiEgg) (v2021-11-09) (Hack)</description>
-		<rom name="SMW - A Plumber for All Seasons (WhiteYoshiEgg) (v2021-11-09) (Hack).sfc" size="4194304" crc="b5b8ab63" md5="cdb770284b8f0fb7ad6ca24b7fbb5e44" sha1="52c102ff9e944affcd90192aff0ce891c3307617"/>
-		<url>https://retroachievements.org/game/2865/hashes</url>
-		<hash>cdb770284b8f0fb7ad6ca24b7fbb5e44</hash>
+		<description>SMW - Polyphony (v1.1.1) (TomatoPhalanges) (Hack)</description>
+		<rom name="SMW - Polyphony (v1.1.1) (TomatoPhalanges) (Hack).sfc" size="000" crc="000" md5="4054ef350628ab9743425c0f3bd499a9" sha1="000"/>
+		<url>https://retroachievements.org/game/3445/hashes</url>
+		<hash>4054ef350628ab9743425c0f3bd499a9</hash>
 	</game>
 	
 	<game name="Hack/Prince Of Persia - Evolution (USA) (v1.0) (salvadorc17) (Hack)">
@@ -2652,36 +2511,12 @@
 		<hash>300d548532aad29fe1c300fc4b94697f</hash>
 	</game>
 	
-	<game name="Hack/Super Mario World/SMW - Second Reality Project 2 Reloaded, The - Zycloboo's Challenge (FPI) (Hack)">
-		<category>Super Nintendo</category>
-		<description>SMW - Second Reality Project 2 Reloaded, The - Zycloboo's Challenge (FPI) (Hack)</description>
-		<rom name="SMW - Second Reality Project 2 Reloaded, The - Zycloboo's Challenge (FPI) (Hack).sfc" size="4194304" crc="19d8713e" md5="d6b3a58a6edfdfaa6073b3168bf0f3ab" sha1="96cd7946867da91b492f0b259ef152267df5f82c"/>
-		<url>https://retroachievements.org/game/2950/hashes</url>
-		<hash>d6b3a58a6edfdfaa6073b3168bf0f3ab</hash>
-	</game>
-	
-	<game name="Hack/Super Mario World/SMW - Second Reality Project Reloaded, The (FPI) (Hack)">
-		<category>Super Nintendo</category>
-		<description>SMW - Second Reality Project Reloaded, The (FPI) (Hack)</description>
-		<rom name="SMW - Second Reality Project Reloaded, The (FPI) (Hack).sfc" size="4194304" crc="1c5853df" md5="cd40f300557491ccecea37228af46a34" sha1="6354e06b62f4ee68e956354f872b4458b374b8c8"/>
-		<url>https://retroachievements.org/game/9349/hashes</url>
-		<hash>cd40f300557491ccecea37228af46a34</hash>
-	</game>
-	
 	<game name="Hack/Super Mario World/SMW - Seek the Discrepancy (v1.0) (Fyre150) (Hack)">
 		<category>Super Nintendo</category>
 		<description>SMW - Seek the Discrepancy (v1.0) (Fyre150) (Hack)</description>
 		<rom name="SMW - Seek the Discrepancy (v1.0) (Fyre150) (Hack).sfc" size="2097152" crc="590c3dcc" md5="158f5ff98946167d9f67c6fa7ff2dec8" sha1="43a0dd3ae941f430f68024c552c55f5a3215692a"/>
 		<url>https://retroachievements.org/game/25318/hashes</url>
 		<hash>158f5ff98946167d9f67c6fa7ff2dec8</hash>
-	</game>
-	
-	<game name="Hack/Super Mario World/SMW - Senate, The (Fornaxus) (Hack)">
-		<category>Super Nintendo</category>
-		<description>SMW - Senate, The (Fornaxus) (Hack)</description>
-		<rom name="SMW - Senate, The (Fornaxus) (Hack).sfc" size="4194304" crc="364aa960" md5="50855b025b8684f6e986a6d9cf637108" sha1="f97dc000e0e8227d672fbbd50484f3d657dbc639"/>
-		<url>https://retroachievements.org/game/16190/hashes</url>
-		<hash>50855b025b8684f6e986a6d9cf637108</hash>
 	</game>
 	
 	<game name="Hack/Super Mario World/SMW - Shell's Kitchen - Nico's Journey (Saphros) (Hack)">
@@ -3580,14 +3415,6 @@
 		<hash>4032f604f1e2a50508c563409fd39e75</hash>
 	</game>
 	
-	<game name="Hack/Super Mario World/SMW - The Team Shell (v3.0) (Jikurein,Team Shell,xamexer) (Hack)">
-		<category>Super Nintendo</category>
-		<description>SMW - The Team Shell (v3.0) (Jikurein,Team Shell,xamexer) (Hack)</description>
-		<rom name="SMW - The Team Shell (v3.0) (Jikurein,Team Shell,xamexer) (Hack).sfc" size="4194304" crc="548f8fe2" md5="ceb2ed3011bd43221a4cc38d7c05c97e" sha1="6748344f24bcd4983f9a6e5a24c541471d294226"/>
-		<url>https://retroachievements.org/game/27757/hashes</url>
-		<hash>ceb2ed3011bd43221a4cc38d7c05c97e</hash>
-	</game>
-	
 	<game name="Hack/Super Mario World/SMW - Tebeo (2020-11-28) (Nirv) (Hack)">
 		<category>Super Nintendo</category>
 		<description>SMW - Tebeo (2020-11-28) (Nirv) (Hack)</description>
@@ -3602,6 +3429,46 @@
 		<rom name="Terranigma - Boss Rush (v0.4) (crediar) (Hack).sfc" size="6291456" crc="5458e803" md5="f1fa8991f3d19f1d5dd4153d6502af34" sha1="008db29a9703ad4860882c7ca55c2a036fa037ba"/>
 		<url>https://retroachievements.org/game/32932/hashes</url>
 		<hash>f1fa8991f3d19f1d5dd4153d6502af34</hash>
+	</game>
+	
+	<game name="Hack/Super Mario World/SMW - 11th Annual Vanilla Level Design Contest, The (v1.4) (smwcentral.net) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - 11th Annual Vanilla Level Design Contest, The (v1.4) (smwcentral.net) (Hack)</description>
+		<rom name="SMW - 11th Annual Vanilla Level Design Contest, The (v1.4) (smwcentral.net) (Hack).sfc" size="8388608" crc="13e5e9ce" md5="98f13f2ab307c84eea5c4965006cfe7c" sha1="7400eda4b369019fa5f791985291dc9211c808a3"/>
+		<url>https://retroachievements.org/game/19504/hashes</url>
+		<hash>98f13f2ab307c84eea5c4965006cfe7c</hash>
+	</game>
+	
+	<game name="Hack/Super Mario World/SMW - 3 Lost Challenges, The (v1.0) (SuperMudkip1) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - 3 Lost Challenges, The (v1.0) (SuperMudkip1) (Hack)</description>
+		<rom name="SMW - 3 Lost Challenges, The (v1.0) (SuperMudkip1) (Hack).sfc" size="4194304" crc="b26d74e7" md5="bec8b1d71a26493f37062e2503fcc290" sha1="d682ebc42ffb140e84ff99c37bc656b7de1565b5"/>
+		<url>https://retroachievements.org/game/28597/hashes</url>
+		<hash>bec8b1d71a26493f37062e2503fcc290</hash>
+	</game>
+	
+	<game name="Hack/Super Mario World/SMW - 7th Annual Vanilla Level Design Contest, The (SMW Central) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - 7th Annual Vanilla Level Design Contest, The (SMW Central) (Hack)</description>
+		<rom name="SMW - 7th Annual Vanilla Level Design Contest, The (SMW Central) (Hack).sfc" size="4194304" crc="6c4c1f76" md5="a7bcd665da8b839600dfe22c46623ce1" sha1="1d4f68d7e7b6ef747037db22fd344c60cd7cf6df"/>
+		<url>https://retroachievements.org/game/6647/hashes</url>
+		<hash>a7bcd665da8b839600dfe22c46623ce1</hash>
+	</game>
+	
+	<game name="Hack/Super Mario World/SMW - Hunt for the Chocolate Egg, The (v1.0.2) (Green Jerry) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - Hunt for the Chocolate Egg, The (v1.0.2) (Green Jerry) (Hack)</description>
+		<rom name="SMW - Hunt for the Chocolate Egg, The (v1.0.2) (Green Jerry) (Hack).sfc" size="2097152" crc="1bcc7236" md5="e9f47509668889eb21f56c3e3fe3e9f7" sha1="bb508d5584865ea8d2bf4f52c42db0bb84b59c6f"/>
+		<url>https://retroachievements.org/game/14313/hashes</url>
+		<hash>e9f47509668889eb21f56c3e3fe3e9f7</hash>
+	</game>
+	
+	<game name="Hack/Super Mario World/SMW - Joy of Kaizo, The (v1.6) (NaroGugul) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - Joy of Kaizo, The (v1.6) (NaroGugul) (Hack)</description>
+		<rom name="SMW - Joy of Kaizo, The (v1.6) (NaroGugul) (Hack).sfc" size="4194304" crc="edaa8c9c" md5="cf5f089c1d27aea35fc72adf9c6eac5f" sha1="09b08217be72bda146498299b53348433aa6ef50"/>
+		<url>https://retroachievements.org/game/16213/hashes</url>
+		<hash>cf5f089c1d27aea35fc72adf9c6eac5f</hash>
 	</game>
 	
 	<game name="Hack/The Legend of Zelda - A Link to the Past/LoZALttP - A Link to the Islands (Darklink7884) (2.5) (Hack)">
@@ -3620,12 +3487,153 @@
 		<hash>64cb90f27dc8d827fae525cebd5ce4dd</hash>
 	</game>
 	
+	<game name="Hack/The Legend of Zelda - A Link to the Past/LoZALttP - Hylian Legacy (v1.042) (IntimFuchtler) (Hack)">
+		<category>Super Nintendo</category>
+		<description>LoZALttP - Hylian Legacy (v1.042) (IntimFuchtler) (Hack)</description>
+		<rom name="LoZALttP - Hylian Legacy (v1.042) (IntimFuchtler) (Hack).sfc" size="2097152" crc="c59afb3f" md5="0815444d4012004b5facdfe8cb4a1fb5" sha1="f119df8e7ffe544b8c776b6230b3038feb3f5129"/>
+		<url>https://retroachievements.org/game/18312/hashes</url>
+		<hash>0815444d4012004b5facdfe8cb4a1fb5</hash>
+	</game>
+	
+	<game name="Hack/The Legend of Zelda - A Link to the Past/LoZALttP - Allhallows Eve (v1.03) (Allhallows Team) (Hack)">
+		<category>Super Nintendo</category>
+		<description>LoZALttP - Allhallows Eve (v1.03) (Allhallows Team) (Hack)</description>
+		<rom name="LoZALttP - Allhallows Eve (v1.03) (Allhallows Team) (Hack).sfc" size="2097152" crc="e39f3952" md5="6c558374ac16bb9eb603c976a677a029" sha1="277083e5eb32c68b6a7b5405384c9eb0254652c3"/>
+		<url>https://retroachievements.org/game/28329/hashes</url>
+		<hash>6c558374ac16bb9eb603c976a677a029</hash>
+	</game>
+	
 	<game name="Hack/The Legend of Zelda - A Link to the Past/LoZALttP - Zelda3 Cube (v1.0) (PuzzleDude) (Hack)">
 		<category>Super Nintendo</category>
 		<description>LoZALttP - Zelda3 Cube (v1.0) (PuzzleDude) (Hack)</description>
 		<rom name="LoZALttP - Zelda3 Cube (v1.0) (PuzzleDude) (Hack).sfc" size="2097152" crc="900ae428" md5="761a082aae1c8bbe118b786010ec27af" sha1="fa6a225c75c3155f6c8fb6c3f5d04100eb8441ef"/>
 		<url>https://retroachievements.org/game/10339/hashes</url>
 		<hash>761a082aae1c8bbe118b786010ec27af</hash>
+	</game>
+	
+	<game name="Hack/The Legend of Zelda - A Link to the Past/LoZALttP - Echoes of the Past (v1.1.0) (SkierLink) (Hack)">
+		<category>Super Nintendo</category>
+		<description>LoZALttP - Echoes of the Past (v1.1.0) (SkierLink) (Hack)</description>
+		<rom name="LoZALttP - Echoes of the Past (v1.1.0) (SkierLink) (Hack).sfc" size="2097152" crc="66967ae1" md5="02ae4c23220f358b02b1f724a9943cc4" sha1="38fbeeb3929d594e38e21fe41494b95a43551fb3"/>
+		<url>https://retroachievements.org/game/20060/hashes</url>
+		<hash>02ae4c23220f358b02b1f724a9943cc4</hash>
+	</game>
+	
+	<game name="Hack/Legend of Zelda, The - A Link to the Past/LoZALttP - Gerudo Exile (v1.3) (GwelioGopher) (Hack)">
+		<category>Super Nintendo</category>
+		<description>LoZALttP - Gerudo Exile (v1.3) (GwelioGopher) (Hack)</description>
+		<rom name="LoZALttP - Gerudo Exile (v1.3) (GwelioGopher) (Hack).sfc" size="3145728" crc="7e096ea3" md5="6399ef74b01b889e7c4e4cc5b8583a98" sha1="f5326b31081e0b323261d2b3c94ec49304afb202"/>
+		<url>https://retroachievements.org/game/20343/hashes</url>
+		<hash>6399ef74b01b889e7c4e4cc5b8583a98</hash>
+	</game>
+	
+	<game name="Hack/Legend of Zelda, The - A Link to the Past/LoZALttP - Goddess of Wisdom (SePH) (Unk Rev) (Hack)">
+		<category>Super Nintendo</category>
+		<description>LoZALttP - Goddess of Wisdom (SePH) (Unk Rev) (Hack)</description>
+		<rom name="LoZALttP - Goddess of Wisdom (SePH) (Unk Rev) (Hack).sfc" size="1572864" crc="7c3896a3" md5="3dcd4155bae3cbe2e15ba6e17191d158" sha1="3d577b60c23ddfa68d16440f53e79913eda4b813"/>
+		<url>https://retroachievements.org/game/5994/hashes</url>
+		<hash>3dcd4155bae3cbe2e15ba6e17191d158</hash>
+	</game>
+	<game name="Hack/Legend of Zelda, The - A Link to the Past/LoZALttP - Goddess of Wisdom (v3.0) (SePH) (Hack)">
+		<category>Super Nintendo</category>
+		<description>LoZALttP - Goddess of Wisdom (v3.0) (SePH) (Hack)</description>
+		<rom name="LoZALttP - Goddess of Wisdom (v3.0) (SePH) (Hack).sfc" size="1572864" crc="f22e4ddb" md5="3fab84fedf46adf3870bf572ce5548c7" sha1="41da0d6629c5d4b436c5825fa6c6ef35b2b8145a"/>
+		<url>https://retroachievements.org/game/5994/hashes</url>
+		<hash>3fab84fedf46adf3870bf572ce5548c7</hash>
+	</game>
+	
+	<game name="Hack/Legend of Zelda, The - A Link to the Past/LoZALttP - Parallel Worlds (v1.23) (Euclid,SePH) (Hack)">
+		<category>Super Nintendo</category>
+		<description>LoZALttP - Parallel Worlds (v1.23) (Euclid,SePH) (Hack)</description>
+		<rom name="LoZALttP - Parallel Worlds (v1.23) (Euclid,SePH) (Hack).sfc" size="2097152" crc="ddd61cbe" md5="ef94b014589181d12d566791f8bc8af6" sha1="2937534d2095436274faf2bbae1812cb4fc9b76e"/>
+		<url>https://retroachievements.org/game/2345/hashes</url>
+		<hash>ef94b014589181d12d566791f8bc8af6</hash>
+	</game>
+	<game name="Hack/Legend of Zelda, The - A Link to the Past/LoZALttP - Parallel Worlds (v1.1) (Euclid,SePH) (Hack)">
+		<category>Super Nintendo</category>
+		<description>LoZALttP - Parallel Worlds (v1.1) (Euclid,SePH) (Hack)</description>
+		<rom name="LoZALttP - Parallel Worlds (v1.1) (Euclid,SePH) (Hack).sfc" size="1572864" crc="26b7fe42" md5="f43ef6a5ff9b2e4922e76629a701b4dc" sha1="5b819b62afec08efbf130df04f8643aefb67579a"/>
+		<url>https://retroachievements.org/game/2345/hashes</url>
+		<hash>f43ef6a5ff9b2e4922e76629a701b4dc</hash>
+	</game>
+	<game name="Hack/Legend of Zelda, The - A Link to the Past/LoZALttP - Parallel Worlds (v1.0) (Euclid,SePH) (Hack)">
+		<category>Super Nintendo</category>
+		<description>LoZALttP - Parallel Worlds (v1.0) (Euclid,SePH) (Hack)</description>
+		<rom name="LoZALttP - Parallel Worlds (v1.0) (Euclid,SePH) (Hack).sfc" size="1572864" crc="26791eb5" md5="faefb815590a2adc786ad1467558e3da" sha1="22e3ed032c7f0969e75bf8c4997206bfb9ee6c3b"/>
+		<url>https://retroachievements.org/game/2345/hashes</url>
+		<hash>faefb815590a2adc786ad1467558e3da</hash>
+	</game>
+	
+	<game name="Hack/The Legend of Zelda - A Link to the Past/LoZALttP - PuzzleDude's Quest (v1.0) (8K Pad) (Jamiras) (Hack)">
+		<category>Super Nintendo</category>
+		<description>LoZALttP - PuzzleDude's Quest (v1.0) (8K Pad) (Jamiras) (Hack)</description>
+		<rom name="LoZALttP - PuzzleDude's Quest (v1.0) (8K Pad) (Jamiras) (Hack).sfc" size="1056768" crc="e65a7617" md5="1f2160baba3bcdd7d6c9155db8e2d0d2" sha1="22215e1335b771133f3678b1b0bbe6d65cfe01fa"/>
+		<url>https://retroachievements.org/game/9511/hashes</url>
+		<hash>1f2160baba3bcdd7d6c9155db8e2d0d2</hash>
+	</game>
+	
+	<game name="Hack/The Legend of Zelda - A Link to the Past/LoZALttP - Secrets of the Past (v1.01) (Superskuj) (Hack)">
+		<category>Super Nintendo</category>
+		<description>LoZALttP - Secrets of the Past (v1.01) (Superskuj) (Hack)</description>
+		<rom name="LoZALttP - Secrets of the Past (v1.01) (Superskuj) (Hack).sfc" size="2097152" crc="b6e69450" md5="347b2e5a8a2998c15fe60ee23c6ab838" sha1="52f3c9a86aec246a59c31894fbd78e8c6b7a706f"/>
+		<url>https://retroachievements.org/game/19889/hashes</url>
+		<hash>347b2e5a8a2998c15fe60ee23c6ab838</hash>
+	</game>
+	
+	<game name="Hack/Legend of Zelda, The - A Link to the Past/LoZALttP - The Shadow's Fall (v2.0) (Jared Brian) (Hack)">
+		<category>Super Nintendo</category>
+		<description>LoZALttP - The Shadow's Fall (v2.0) (Jared Brian) (Hack)</description>
+		<rom name="LoZALttP - The Shadow's Fall (v2.0) (Jared Brian) (Hack).sfc" size="2097152" crc="126f58dd" md5="7210ed8608440ab78fe7d69705136154" sha1="b89d9619afd59636262fd2468435ef246975168f"/>
+		<url>https://retroachievements.org/game/25800/hashes</url>
+		<hash>7210ed8608440ab78fe7d69705136154</hash>
+	</game>
+	
+	<game name="Hack/Super Mario World/SMW - Lost Levels Enhanced, The (Pac) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - Lost Levels Enhanced, The (Pac) (Hack)</description>
+		<rom name="SMW - Lost Levels Enhanced, The (Pac) (Hack).sfc" size="4194304" crc="f58ca178" md5="6a863d91460edaaa7227f3270d28066b" sha1="e5110ad97e04a9db3d363519f41f53f237eec320"/>
+		<url>https://retroachievements.org/game/9392/hashes</url>
+		<hash>6a863d91460edaaa7227f3270d28066b</hash>
+	</game>
+	
+	<game name="Hack/Super Mario World/SMW - The Ninji Saga (The Kins) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - The Ninji Saga (The Kins) (Hack)</description>
+		<rom name="SMW - The Ninji Saga (The Kins) (Hack).sfc" size="2097152" crc="65e5f39f" md5="03e1fb12f214955f3c325f29a377c125" sha1="0a6eadf34278b91e86c267799d3e757860ef6f90"/>
+		<url>https://retroachievements.org/game/24369/hashes</url>
+		<hash>03e1fb12f214955f3c325f29a377c125</hash>
+	</game>
+	
+	<game name="Hack/Super Mario World/SMW - Second Reality Project 2 Reloaded, The - Zycloboo's Challenge (FPI) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - Second Reality Project 2 Reloaded, The - Zycloboo's Challenge (FPI) (Hack)</description>
+		<rom name="SMW - Second Reality Project 2 Reloaded, The - Zycloboo's Challenge (FPI) (Hack).sfc" size="4194304" crc="19d8713e" md5="d6b3a58a6edfdfaa6073b3168bf0f3ab" sha1="96cd7946867da91b492f0b259ef152267df5f82c"/>
+		<url>https://retroachievements.org/game/2950/hashes</url>
+		<hash>d6b3a58a6edfdfaa6073b3168bf0f3ab</hash>
+	</game>
+	
+	<game name="Hack/Super Mario World/SMW - Second Reality Project Reloaded, The (FPI) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - Second Reality Project Reloaded, The (FPI) (Hack)</description>
+		<rom name="SMW - Second Reality Project Reloaded, The (FPI) (Hack).sfc" size="4194304" crc="1c5853df" md5="cd40f300557491ccecea37228af46a34" sha1="6354e06b62f4ee68e956354f872b4458b374b8c8"/>
+		<url>https://retroachievements.org/game/9349/hashes</url>
+		<hash>cd40f300557491ccecea37228af46a34</hash>
+	</game>
+	
+	<game name="Hack/Super Mario World/SMW - Senate, The (Fornaxus) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - Senate, The (Fornaxus) (Hack)</description>
+		<rom name="SMW - Senate, The (Fornaxus) (Hack).sfc" size="4194304" crc="364aa960" md5="50855b025b8684f6e986a6d9cf637108" sha1="f97dc000e0e8227d672fbbd50484f3d657dbc639"/>
+		<url>https://retroachievements.org/game/16190/hashes</url>
+		<hash>50855b025b8684f6e986a6d9cf637108</hash>
+	</game>
+	
+	<game name="Hack/Super Mario World/SMW - The Team Shell (v3.0) (Jikurein,Team Shell,xamexer) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - The Team Shell (v3.0) (Jikurein,Team Shell,xamexer) (Hack)</description>
+		<rom name="SMW - The Team Shell (v3.0) (Jikurein,Team Shell,xamexer) (Hack).sfc" size="4194304" crc="548f8fe2" md5="ceb2ed3011bd43221a4cc38d7c05c97e" sha1="6748344f24bcd4983f9a6e5a24c541471d294226"/>
+		<url>https://retroachievements.org/game/27757/hashes</url>
+		<hash>ceb2ed3011bd43221a4cc38d7c05c97e</hash>
 	</game>
 	
 	<game name="Hack/Super Mario World/SMW - Things (Sweetdude) (Hack)">
@@ -3865,6 +3873,21 @@
 		<rom name="SMW - Xalabaias Adventure (MaxwelHacks) (Hack).sfc" size="4194304" crc="1c4d5c4a" md5="b0c16ea13d0fa06d7e3f4aae01899a04" sha1="92ad28e453e073f3c907b15a2d9062e6509b3908"/>
 		<url>https://retroachievements.org/game/16223/hashes</url>
 		<hash>b0c16ea13d0fa06d7e3f4aae01899a04</hash>
+	</game>
+	
+	<game name="Hack/Super Mario World/SMW - Yosamikalo (v2008-11-19) (KingYoshi89) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - Yosamikalo (v2008-11-19) (KingYoshi89) (Hack)</description>
+		<rom name="SMW - Yosamikalo (v2008-11-19) (KingYoshi89) (Hack).sfc" size="000" crc="000" md5="359c3ba1d7c24b049be172eac422794e" sha1="000"/>
+		<url>https://retroachievements.org/game/34878/hashes</url>
+		<hash>359c3ba1d7c24b049be172eac422794e</hash>
+	</game>
+	<game name="Hack/Super Mario World/SMW - Yosamikalo (v2008-11-19) (Inf. Lives) (KingYoshi89) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - Yosamikalo (v2008-11-19) (Inf. Lives) (KingYoshi89) (Hack)</description>
+		<rom name="SMW - Yosamikalo (v2008-11-19) (Inf. Lives) (KingYoshi89) (Hack).sfc" size="000" crc="000" md5="bd3cdbfda1046e0a3e12ce46e5981980" sha1="000"/>
+		<url>https://retroachievements.org/game/34878/hashes</url>
+		<hash>bd3cdbfda1046e0a3e12ce46e5981980</hash>
 	</game>
 	
 	<game name="Hack/Super Mario World/SMW - YUMP (2017-07-17) (JUMP TEAM, Lazy, idol) (Hack)">
@@ -4956,6 +4979,13 @@
 		<url>https://retroachievements.org/game/1366/hashes</url>
 		<hash>d485bf5e99a2fa8f6afef8e1049aab26</hash>
 	</game>
+	<game name="Bishoujo Senshi Sailor Moon - Another Story (Japan) (Es) (v1.0) (Max1323)">
+		<category>Retail</category>
+		<description>Bishoujo Senshi Sailor Moon - Another Story (Japan) (Es) (v1.0) (Max1323)</description>
+		<rom name="Bishoujo Senshi Sailor Moon - Another Story (Japan) (Es) (v1.0) (Max1323).sfc" size="000" crc="000" md5="8e4e3801e84c43b693cbb4b1f85bb909" sha1="000"/>
+		<url>https://retroachievements.org/game/1366/hashes</url>
+		<hash>8e4e3801e84c43b693cbb4b1f85bb909</hash>
+	</game>
 	
 	<game name="Retail/Blackthorne/Blackthorne (USA) (Ru) (Shedevr)">
 		<category>Super Nintendo</category>
@@ -5235,6 +5265,91 @@
 		<rom name="Super Aleste (Japan) (En) (v1.0) (tettsui77).sfc" size="1572864" crc="77c70c74" md5="fbc724d47c0bd7cb7cbc56d42803d1d7" sha1="9600fbdd7b37911298dd4a73f3d09680543bf1d7"/>
 		<url>https://retroachievements.org/game/244/hashes</url>
 		<hash>fbc724d47c0bd7cb7cbc56d42803d1d7</hash>
+	</game>
+	
+	<game name="Retail/BS Super Mario USA - Power Challenge/BS Super Mario USA - Power Challenge - Dai-3-kai (Japan) (SoundLink)">
+		<category>Satellaview</category>
+		<description>BS Super Mario USA - Power Challenge - Dai-3-kai (Japan) (SoundLink)</description>
+		<rom name="BS Super Mario USA - Power Challenge - Dai-3-kai (Japan) (SoundLink).sfc" size="000" crc="000" md5="62331bfa00172b3e2705dc33dc93e1ee" sha1="000"/>
+		<url>https://retroachievements.org/game/23003/hashes</url>
+		<hash>62331bfa00172b3e2705dc33dc93e1ee</hash>
+	</game>
+	<game name="Retail/BS Super Mario USA - Power Challenge/BS Super Mario USA - Power Challenge - Dai-1-kai (Japan) (SoundLink)">
+		<category>Satellaview</category>
+		<description>BS Super Mario USA - Power Challenge - Dai-1-kai (Japan) (SoundLink)</description>
+		<rom name="BS Super Mario USA - Power Challenge - Dai-1-kai (Japan) (SoundLink).sfc" size="000" crc="000" md5="be58760840703a1f1f36b3bfa2e7b108" sha1="000"/>
+		<url>https://retroachievements.org/game/23003/hashes</url>
+		<hash>be58760840703a1f1f36b3bfa2e7b108</hash>
+	</game>
+	<game name="Retail/BS Super Mario USA - Power Challenge/BS Super Mario USA - Power Challenge - Dai-2-kai (Japan) (SoundLink)">
+		<category>Satellaview</category>
+		<description>BS Super Mario USA - Power Challenge - Dai-2-kai (Japan) (SoundLink)</description>
+		<rom name="BS Super Mario USA - Power Challenge - Dai-2-kai (Japan) (SoundLink).sfc" size="000" crc="000" md5="effd7e9360be56da5a9876b45a5989fc" sha1="000"/>
+		<url>https://retroachievements.org/game/23003/hashes</url>
+		<hash>effd7e9360be56da5a9876b45a5989fc</hash>
+	</game>
+	<game name="Retail/BS Super Mario USA - Power Challenge/BS Super Mario USA - Power Challenge - Dai-4-kai (Japan) (SoundLink)">
+		<category>Satellaview</category>
+		<description>BS Super Mario USA - Power Challenge - Dai-4-kai (Japan) (SoundLink)</description>
+		<rom name="BS Super Mario USA - Power Challenge - Dai-4-kai (Japan) (SoundLink).sfc" size="000" crc="000" md5="f08e24ffd1c2b1f0c85cd81ba72c66bd" sha1="000"/>
+		<url>https://retroachievements.org/game/23003/hashes</url>
+		<hash>f08e24ffd1c2b1f0c85cd81ba72c66bd</hash>
+	</game>
+	<game name="Retail/BS Super Mario USA - Power Challenge/BS Super Mario USA - Power Challenge - Week 1 (Japan) (Improvement) (v1.1) (Conn)">
+		<category>Satellaview</category>
+		<description>BS Super Mario USA - Power Challenge - Week 1 (Japan) (Improvement) (v1.1) (Conn)</description>
+		<rom name="BS Super Mario USA - Power Challenge - Week 1 (Japan) (Improvement) (v1.1) (Conn).sfc" size="000" crc="000" md5="506f7d161960e4385577a5626aa80124" sha1="000"/>
+		<url>https://retroachievements.org/game/23003/hashes</url>
+		<hash>506f7d161960e4385577a5626aa80124</hash>
+	</game>
+	<game name="Retail/BS Super Mario USA - Power Challenge/BS Super Mario USA - Power Challenge - Week 1 (Japan) (Improvement) (v1.1) (Conn) (En) (v1.0) (pacnsacdave)">
+		<category>Satellaview</category>
+		<description>BS Super Mario USA - Power Challenge - Week 1 (Japan) (Improvement) (v1.1) (Conn) (En) (v1.0) (pacnsacdave)</description>
+		<rom name="BS Super Mario USA - Power Challenge - Week 1 (Japan) (Improvement) (v1.1) (Conn) (En) (v1.0) (pacnsacdave).sfc" size="000" crc="000" md5="7aca67c5fec3f20ccb522edaac19821a" sha1="000"/>
+		<url>https://retroachievements.org/game/23003/hashes</url>
+		<hash>7aca67c5fec3f20ccb522edaac19821a</hash>
+	</game>
+	<game name="Retail/BS Super Mario USA - Power Challenge/BS Super Mario USA - Power Challenge - Week 2 (Japan) (Improvement) (v1.1) (Conn)">
+		<category>Satellaview</category>
+		<description>BS Super Mario USA - Power Challenge - Week 2 (Japan) (Improvement) (v1.1) (Conn)</description>
+		<rom name="BS Super Mario USA - Power Challenge - Week 2 (Japan) (Improvement) (v1.1) (Conn).sfc" size="000" crc="000" md5="887e9d1af2192c55314b07112c3f9818" sha1="000"/>
+		<url>https://retroachievements.org/game/23003/hashes</url>
+		<hash>887e9d1af2192c55314b07112c3f9818</hash>
+	</game>
+	<game name="Retail/BS Super Mario USA - Power Challenge/BS Super Mario USA - Power Challenge - Week 2 (Japan) (Improvement) (v1.1) (Conn) (En) (v1.0) (pacnsacdave)">
+		<category>Satellaview</category>
+		<description>BS Super Mario USA - Power Challenge - Week 2 (Japan) (Improvement) (v1.1) (Conn) (En) (v1.0) (pacnsacdave)</description>
+		<rom name="BS Super Mario USA - Power Challenge - Week 2 (Japan) (Improvement) (v1.1) (Conn) (En) (v1.0) (pacnsacdave).sfc" size="000" crc="000" md5="25b4d32c87e25f303a1ac87434028f5d" sha1="000"/>
+		<url>https://retroachievements.org/game/23003/hashes</url>
+		<hash>25b4d32c87e25f303a1ac87434028f5d</hash>
+	</game>
+	<game name="Retail/BS Super Mario USA - Power Challenge/BS Super Mario USA - Power Challenge - Week 3 (Japan) (Improvement) (v1.1) (Conn)">
+		<category>Satellaview</category>
+		<description>BS Super Mario USA - Power Challenge - Week 3 (Japan) (Improvement) (v1.1) (Conn)</description>
+		<rom name="BS Super Mario USA - Power Challenge - Week 3 (Japan) (Improvement) (v1.1) (Conn).sfc" size="000" crc="000" md5="159528e718285656001292083f141c64" sha1="000"/>
+		<url>https://retroachievements.org/game/23003/hashes</url>
+		<hash>159528e718285656001292083f141c64</hash>
+	</game>
+	<game name="Retail/BS Super Mario USA - Power Challenge/BS Super Mario USA - Power Challenge - Week 3 (Japan) (Improvement) (v1.1) (Conn) (En) (v1.0) (pacnsacdave)">
+		<category>Satellaview</category>
+		<description>BS Super Mario USA - Power Challenge - Week 3 (Japan) (Improvement) (v1.1) (Conn) (En) (v1.0) (pacnsacdave)</description>
+		<rom name="BS Super Mario USA - Power Challenge - Week 3 (Japan) (Improvement) (v1.1) (Conn) (En) (v1.0) (pacnsacdave).sfc" size="000" crc="000" md5="0789eca39067b3a12510eb5676335ec3" sha1="000"/>
+		<url>https://retroachievements.org/game/23003/hashes</url>
+		<hash>0789eca39067b3a12510eb5676335ec3</hash>
+	</game>
+	<game name="Retail/BS Super Mario USA - Power Challenge/BS Super Mario USA - Power Challenge - Week 4 (Japan) (Improvement) (v1.1) (Conn)">
+		<category>Satellaview</category>
+		<description>BS Super Mario USA - Power Challenge - Week 4 (Japan) (Improvement) (v1.1) (Conn)</description>
+		<rom name="BS Super Mario USA - Power Challenge - Week 4 (Japan) (Improvement) (v1.1) (Conn).sfc" size="000" crc="000" md5="bbb778e1023ac5da2edde430b7df9e29" sha1="000"/>
+		<url>https://retroachievements.org/game/23003/hashes</url>
+		<hash>bbb778e1023ac5da2edde430b7df9e29</hash>
+	</game>
+	<game name="Retail/BS Super Mario USA - Power Challenge/BS Super Mario USA - Power Challenge - Week 4 (Japan) (Improvement) (v1.1) (Conn) (En) (v1.0) (pacnsacdave)">
+		<category>Satellaview</category>
+		<description>BS Super Mario USA - Power Challenge - Week 4 (Japan) (Improvement) (v1.1) (Conn) (En) (v1.0) (pacnsacdave)</description>
+		<rom name="BS Super Mario USA - Power Challenge - Week 4 (Japan) (Improvement) (v1.1) (Conn) (En) (v1.0) (pacnsacdave).sfc" size="000" crc="000" md5="d5d65fcfcf125aa4050784b964b2ce54" sha1="000"/>
+		<url>https://retroachievements.org/game/23003/hashes</url>
+		<hash>d5d65fcfcf125aa4050784b964b2ce54</hash>
 	</game>
 	
 	<game name="Retail/BS Zelda no Densetsu/BS Zelda no Densetsu (Restoration Map 1) (Japan) (En)">
@@ -6239,7 +6354,7 @@
 		<hash>232badbb3c605641465ac461e92ffb2e</hash>
 	</game>
 	<game name="Retail/Dragon Quest I &amp; II/Dragon Quest I &amp; II (Japan) (En) (v2.0) (RPGOne) (Addendum) (v1.053rtm) (Rod Merida)">
-		<category></category>
+		<category>Super Nintendo</category>
 		<description>Dragon Quest I &amp; II (Japan) (En) (v2.0) (RPGOne) (Addendum) (v1.053rtm) (Rod Merida)</description>
 		<rom name="Dragon Quest I &amp; II (Japan) (En) (v2.0) (RPGOne) (Addendum) (v1.053rtm) (Rod Merida).sfc" size="2097152" crc="59e27f1a" md5="d4f294305fa536fc7974e764900f2fcc" sha1="77a76fc6ab696279c5dbfdd4ad8a52eb6e8f16bd"/>
 		<url>https://retroachievements.org/game/1405/hashes</url>
@@ -12059,6 +12174,13 @@
 		<rom name="Super Mario World - Super Mario Bros. 4 (Japan).sfc" size="524288" crc="0ec0ddac" md5="4e4f8f4cfdaabffdde20c8053202d4f0" sha1="f977afabf24ed269d86366209a460450bbc37e76"/>
 		<url>https://retroachievements.org/game/228/hashes</url>
 		<hash>4e4f8f4cfdaabffdde20c8053202d4f0</hash>
+	</game>
+	<game name="RetailSuper Mario World (USA) (Pt) (v2.0) (BMatSantos)">
+		<category>Super Nintendo</category>
+		<description>Super Mario World (USA) (Pt) (v2.0) (BMatSantos)</description>
+		<rom name="Super Mario World (USA) (Pt) (v2.0) (BMatSantos).sfc" size="000" crc="000" md5="734e9ea8c1ac436218ca4d3b1f9ff6a4" sha1="000"/>
+		<url>https://retroachievements.org/game/228/hashes</url>
+		<hash>734e9ea8c1ac436218ca4d3b1f9ff6a4</hash>
 	</game>
 	
 	<game name="Subset/Super Mario World (Subset - Bonus)">

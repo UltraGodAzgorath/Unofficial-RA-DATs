@@ -5,8 +5,8 @@
 		<name>RA - Atari Lynx</name>
 		<description>Atari Lynx</description>
 		<category>No Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20250928</version>
+		<date>28 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/13/games</url>
@@ -197,6 +197,15 @@
 		<rom name="Dracula - The Undead (USA, Europe).lyx" size="262144" crc="33bb74c7" md5="3ff35996887c2ff95e275085efbbbbed" sha1="8f393f0fa8ce832e6298db72f539ce4b961700e2"/>
 		<url>https://retroachievements.org/game/10862/hashes</url>
 		<hash>3FF35996887C2FF95E275085EFBBBBED</hash>
+	</game>
+	
+	<game name="Gates of Zendocon (World)">
+		<category>Retail</category>
+		<description>Gates of Zendocon (World)</description>
+		<release name="Gates of Zendocon (World)" region="World"/>
+		<rom name="Gates of Zendocon (World).lnx" size="000" crc="000" md5="d5be9118bcb14243468001b08c4aa21a" sha1="000"/>
+		<url>https://retroachievements.org/game/11494/hashes</url>
+		<hash>d5be9118bcb14243468001b08c4aa21a</hash>
 	</game>
 	
 	<game name="Gauntlet - The Third Encounter (World)">

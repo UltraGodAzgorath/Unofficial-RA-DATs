@@ -5,8 +5,8 @@
 		<name>RA - Magnavox Odyssey 2</name>
 		<description>Magnavox Odyssey 2</description>
 		<category>Subfolders</category>
-		<version>20250711</version>
-		<date>11 July 2025</date>
+		<version>20250928</version>
+		<date>28 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/23/games</url>
@@ -59,6 +59,14 @@
 		<rom name="Alien Invaders - Plus (USA, Europe).bin" size="2048" crc="71ae8533" md5="4d6cfb7da66c8d9327b3ccdce9852509" sha1="9ba0737fdee2918375725bb5230d075a2f847159"/>
 		<url>https://retroachievements.org/game/16957/hashes</url>
 		<hash>4D6CFB7DA66C8D9327B3CCDCE9852509</hash>
+	</game>
+	
+	<game name="Retail/Atlantis (USA, Europe)">
+		<category></category>
+		<description>Atlantis (USA, Europe)</description>
+		<rom name="Atlantis (USA, Europe).bin" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/16959/hashes</url>
+		<hash>7d23df55dfaca55bc4c87677855f4a45</hash>
 	</game>
 	
 	<game name="Retail/Attack of the Timelord (USA)">

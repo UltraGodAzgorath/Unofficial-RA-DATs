@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Color</name>
 		<description>Nintendo Game Boy Color</description>
 		<category>Subfolders</category>
-		<version>20250913</version>
-		<date>13 September 2025</date>
+		<version>20250928</version>
+		<date>28 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/6/games</url>
@@ -26,29 +26,6 @@
 		<rom name="Pokemon - Crystal Clear (Color Filter) (ShockSlayer) (v2.5.11) (Hack).gbc" size="2097152" crc="fc33d126" md5="3737dfc080c16b0ee36db9313186eb79" sha1="6fc677bf7a9db103cb9ee11ac08d26782e69ae41"/>
 		<url>https://retroachievements.org/game/13389/hashes</url>
 		<hash>3737dfc080c16b0ee36db9313186eb79</hash>
-	</game>
-	
-	<game name="Hack/Legend of Zelda - Link's Awakening/LoZLA - Hard Awakening DX (v1.1) (Hack)">
-		<category></category>
-		<description>LoZLA - Hard Awakening DX (v1.1) (Hack)</description>
-		<rom name="LoZLA - Hard Awakening DX (v1.1) (Hack).gbc" size="1048576" crc="4a00fbb6" md5="004f82ab432f77c3114644337fdd5b08" sha1="4e00aee537f40af3a984c1c8241ab02ec3ed987b"/>
-		<url>https://retroachievements.org/game/6251/hashes</url>
-		<hash>004f82ab432f77c3114644337fdd5b08</hash>
-	</game>
-	<game name="Hack/Legend of Zelda - Link's Awakening/LoZLA - Hard Awakening DX (v1.0) (Hack)">
-		<category></category>
-		<description>LoZLA - Hard Awakening DX (v1.0) (Hack)</description>
-		<rom name="LoZLA - Hard Awakening DX (v1.0) (Hack).gbc" size="1048576" crc="cdb45fc5" md5="64b5b80b005cc6e470c7aa9844ac3f8b" sha1="e0fefc1191994495c81b5908cb1071ecad3cf1d2"/>
-		<url>https://retroachievements.org/game/6251/hashes</url>
-		<hash>64b5b80b005cc6e470c7aa9844ac3f8b</hash>
-	</game>
-	
-	<game name="Hack/Legend of Zelda - Link's Awakening/LoZLA - New Awakening (Hack)">
-		<category></category>
-		<description>LoZLA - New Awakening (Hack)</description>
-		<rom name="LoZLA - New Awakening (Hack).gbc" size="1048576" crc="a8f6b512" md5="301f97ba8ef635f053296d9ef53e991c" sha1="c81200724e25a7316725848911859b89c348f7f8"/>
-		<url>https://retroachievements.org/game/9028/hashes</url>
-		<hash>301f97ba8ef635f053296d9ef53e991c</hash>
 	</game>
 	
 	<game name="Hack/Pokemon - Crystal/Pokemon - Black and White 3 - Genesis (Hack)">
@@ -174,6 +151,29 @@
 		<hash>0eb06307fe73c3d23744987457c93515</hash>
 	</game>
 	
+	<game name="Hack/Legend of Zelda - Link's Awakening/LoZLA - Hard Awakening DX (v1.1) (Hack)">
+		<category></category>
+		<description>LoZLA - Hard Awakening DX (v1.1) (Hack)</description>
+		<rom name="LoZLA - Hard Awakening DX (v1.1) (Hack).gbc" size="1048576" crc="4a00fbb6" md5="004f82ab432f77c3114644337fdd5b08" sha1="4e00aee537f40af3a984c1c8241ab02ec3ed987b"/>
+		<url>https://retroachievements.org/game/6251/hashes</url>
+		<hash>004f82ab432f77c3114644337fdd5b08</hash>
+	</game>
+	<game name="Hack/Legend of Zelda - Link's Awakening/LoZLA - Hard Awakening DX (v1.0) (Hack)">
+		<category></category>
+		<description>LoZLA - Hard Awakening DX (v1.0) (Hack)</description>
+		<rom name="LoZLA - Hard Awakening DX (v1.0) (Hack).gbc" size="1048576" crc="cdb45fc5" md5="64b5b80b005cc6e470c7aa9844ac3f8b" sha1="e0fefc1191994495c81b5908cb1071ecad3cf1d2"/>
+		<url>https://retroachievements.org/game/6251/hashes</url>
+		<hash>64b5b80b005cc6e470c7aa9844ac3f8b</hash>
+	</game>
+	
+	<game name="Hack/Legend of Zelda - Link's Awakening/LoZLA - New Awakening (Hack)">
+		<category></category>
+		<description>LoZLA - New Awakening (Hack)</description>
+		<rom name="LoZLA - New Awakening (Hack).gbc" size="1048576" crc="a8f6b512" md5="301f97ba8ef635f053296d9ef53e991c" sha1="c81200724e25a7316725848911859b89c348f7f8"/>
+		<url>https://retroachievements.org/game/9028/hashes</url>
+		<hash>301f97ba8ef635f053296d9ef53e991c</hash>
+	</game>
+	
 	<game name="Hack/Pokemon - Silver/Pokemon - Touhoumon Ordinary Version (Hack)">
 		<category></category>
 		<description>Pokemon - Touhoumon Ordinary Version (Hack)</description>
@@ -243,14 +243,6 @@
 		<rom name="20 Second Platformer, A (World) (v1.1) (GB Compatible) (Aftermarket).gbc" size="131072" crc="2edc4684" md5="900f66d94349339d3b416b5ff0806314" sha1="a00b40a3f31bd875f4a0376d22099c3822c9ef98"/>
 		<url>https://retroachievements.org/game/22589/hashes</url>
 		<hash>900f66d94349339d3b416b5ff0806314</hash>
-	</game>
-	
-	<game name="Homebrew/Best Text Adventure, The (World) (Aftermarket)">
-		<category></category>
-		<description>Best Text Adventure, The (World) (Aftermarket)</description>
-		<rom name="Best Text Adventure, The (World) (Aftermarket).gbc" size="1048576" crc="7b13d437" md5="e15744f9e33180f5825c0242900f5a89" sha1="6689a6180096160a44349338e29f2002f2f26da1"/>
-		<url>https://retroachievements.org/game/29687/hashes</url>
-		<hash>e15744f9e33180f5825c0242900f5a89</hash>
 	</game>
 	
 	<game name="Homebrew/Blinky's Revenge (World) (Aftermarket)">
@@ -510,30 +502,6 @@
 		<hash>afe14eef683f3eb910b67ea2e3feb124</hash>
 	</game>
 	
-	<game name="Homebrew/Mandalorian, The - Chapter 3 - The Sin (World) (Aftermarket)">
-		<category></category>
-		<description>Mandalorian, The - Chapter 3 - The Sin (World) (Aftermarket)</description>
-		<rom name="Mandalorian, The - Chapter 3 - The Sin (World) (Aftermarket).gbc" size="524288" crc="1d758544" md5="91c3d238305f308e00fca917d996bb40" sha1="644a6409949520b1c7a654eed6a156d35967ec1c"/>
-		<url>https://retroachievements.org/game/28190/hashes</url>
-		<hash>91c3d238305f308e00fca917d996bb40</hash>
-	</game>
-	
-	<game name="Homebrew/Mayor of Sanctuary, The (World) (GB Compatible) (Aftermarket)">
-		<category></category>
-		<description>Mayor of Sanctuary, The (World) (GB Compatible) (Aftermarket)</description>
-		<rom name="Mayor of Sanctuary, The (World) (GB Compatible) (Aftermarket).gbc" size="2097152" crc="da6bcf24" md5="8e8c54501fee6101a0a42df1c23adc5c" sha1="c0f328d96f07d43dbfac68debd39e2e133b7b328"/>
-		<url>https://retroachievements.org/game/29152/hashes</url>
-		<hash>8e8c54501fee6101a0a42df1c23adc5c</hash>
-	</game>
-	
-	<game name="Homebrew/The Mist (World) (Aftermarket)">
-		<category></category>
-		<description>The Mist (World) (Aftermarket)</description>
-		<rom name="The Mist (World) (Aftermarket).gbc" size="524288" crc="f088ffbd" md5="dafb6629c51cdf4bb11f9b6154321aa0" sha1="6d10498e8d7934d7b481118760fdb62469fba07b"/>
-		<url>https://retroachievements.org/game/28238/hashes</url>
-		<hash>dafb6629c51cdf4bb11f9b6154321aa0</hash>
-	</game>
-	
 	<game name="Homebrew/My Saturday Grounded (World) (Aftermarket)">
 		<category></category>
 		<description>My Saturday Grounded (World) (Aftermarket)</description>
@@ -724,12 +692,44 @@
 		<hash>9b3077bf785168c3d19d05173c443421</hash>
 	</game>
 	
+	<game name="Homebrew/Best Text Adventure, The (World) (Aftermarket)">
+		<category></category>
+		<description>Best Text Adventure, The (World) (Aftermarket)</description>
+		<rom name="Best Text Adventure, The (World) (Aftermarket).gbc" size="1048576" crc="7b13d437" md5="e15744f9e33180f5825c0242900f5a89" sha1="6689a6180096160a44349338e29f2002f2f26da1"/>
+		<url>https://retroachievements.org/game/29687/hashes</url>
+		<hash>e15744f9e33180f5825c0242900f5a89</hash>
+	</game>
+	
+	<game name="Homebrew/Mandalorian, The - Chapter 3 - The Sin (World) (Aftermarket)">
+		<category></category>
+		<description>Mandalorian, The - Chapter 3 - The Sin (World) (Aftermarket)</description>
+		<rom name="Mandalorian, The - Chapter 3 - The Sin (World) (Aftermarket).gbc" size="524288" crc="1d758544" md5="91c3d238305f308e00fca917d996bb40" sha1="644a6409949520b1c7a654eed6a156d35967ec1c"/>
+		<url>https://retroachievements.org/game/28190/hashes</url>
+		<hash>91c3d238305f308e00fca917d996bb40</hash>
+	</game>
+	
+	<game name="Homebrew/Mayor of Sanctuary, The (World) (GB Compatible) (Aftermarket)">
+		<category></category>
+		<description>Mayor of Sanctuary, The (World) (GB Compatible) (Aftermarket)</description>
+		<rom name="Mayor of Sanctuary, The (World) (GB Compatible) (Aftermarket).gbc" size="2097152" crc="da6bcf24" md5="8e8c54501fee6101a0a42df1c23adc5c" sha1="c0f328d96f07d43dbfac68debd39e2e133b7b328"/>
+		<url>https://retroachievements.org/game/29152/hashes</url>
+		<hash>8e8c54501fee6101a0a42df1c23adc5c</hash>
+	</game>
+	
 	<game name="Homebrew/Melting Apartment, The (World) (Aftermarket)">
 		<category></category>
 		<description>Melting Apartment, The (World) (Aftermarket)</description>
 		<rom name="Melting Apartment, The (World) (Aftermarket).gbc" size="524288" crc="07a2e41b" md5="8f325b05c4d5cb9b98fe8ac87e310525" sha1="2c0087d9af656ebd6705c33b7397f976eab6d623"/>
 		<url>https://retroachievements.org/game/31975/hashes</url>
 		<hash>8f325b05c4d5cb9b98fe8ac87e310525</hash>
+	</game>
+	
+	<game name="Homebrew/Mist, The (World) (v1.3.3) (Aftermarket)">
+		<category></category>
+		<description>Mist, The (World) (v1.3.3) (Aftermarket)</description>
+		<rom name="Mist, The (World) (v1.3.3) (Aftermarket).gbc" size="524288" crc="f088ffbd" md5="dafb6629c51cdf4bb11f9b6154321aa0" sha1="6d10498e8d7934d7b481118760fdb62469fba07b"/>
+		<url>https://retroachievements.org/game/28238/hashes</url>
+		<hash>dafb6629c51cdf4bb11f9b6154321aa0</hash>
 	</game>
 	
 	<game name="Homebrew/Tobu Tobu Girl Deluxe (World) (GB Compatible) (Aftermarket)">
@@ -1101,6 +1101,14 @@
 		<rom name="Ballistic (USA) (GB Compatible).gbc" size="524288" crc="a9050f72" md5="3b783f3fded9c61f2f9bb1d956bfd6cd" sha1="28dfdc00ec7e353f4aae4c65d671300c0b97ab90"/>
 		<url>https://retroachievements.org/game/13091/hashes</url>
 		<hash>3b783f3fded9c61f2f9bb1d956bfd6cd</hash>
+	</game>
+	
+	<game name="Retail/Barbie - Fashion Pack Games (USA, Europe) (GB Compatible)">
+		<category></category>
+		<description>Barbie - Fashion Pack Games (USA, Europe) (GB Compatible)</description>
+		<rom name="Barbie - Fashion Pack Games (USA, Europe) (GB Compatible).gbc" size="000" crc="000" md5="45eeade46bd85f80af13af9dce572b9c" sha1="000"/>
+		<url>https://retroachievements.org/game/6009/hashes</url>
+		<hash>45eeade46bd85f80af13af9dce572b9c</hash>
 	</game>
 	
 	<game name="Retail/Barbie - Ocean Discovery (USA) (GB Compatible)">
@@ -3842,6 +3850,14 @@
 		<rom name="Uno (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible).gbc" size="1048576" crc="70760cce" md5="f1e27ad24bb3bf71d1d7b048ae21f0b5" sha1="b33214a4cd05f58dd019a77b1260bf557293c826"/>
 		<url>https://retroachievements.org/game/12940/hashes</url>
 		<hash>f1e27ad24bb3bf71d1d7b048ae21f0b5</hash>
+	</game>
+	
+	<game name="Retail/Vigilante 8 (USA) (Rumble Version)">
+		<category></category>
+		<description>Vigilante 8 (USA) (Rumble Version)</description>
+		<rom name="Vigilante 8 (USA) (Rumble Version).gbc" size="000" crc="000" md5="cb5348c1b469d698eccddce99a16d384" sha1="000"/>
+		<url>https://retroachievements.org/game/9109/hashes</url>
+		<hash>cb5348c1b469d698eccddce99a16d384</hash>
 	</game>
 	
 	<game name="Retail/Wario Land 3 (World) (En,Ja)">

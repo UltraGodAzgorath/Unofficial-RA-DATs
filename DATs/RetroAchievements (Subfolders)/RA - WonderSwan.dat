@@ -268,6 +268,36 @@
 		<hash>C7445937D6FBC462256BD2EBCDBF3C25</hash>
 	</game>
 	
+	<game name="Retail/Makai Toushi Sa-Ga/Makai Toushi Sa-Ga (Japan)">
+		<category>WonderSwan Color</category>
+		<description>Makai Toushi Sa-Ga (Japan)</description>
+		<rom name="Makai Toushi Sa-Ga (Japan).wsc" size="4194304" crc="1b6f5f30" md5="957137e7d5249c02fecff063e0c86e87" sha1="6b7a9b810c932974cbda4de7178cf0ea5a90e628"/>
+		<url>https://retroachievements.org/game/14602/hashes</url>
+		<hash>957137E7D5249C02FECFF063E0C86E87</hash>
+	</game>
+	<game name="Retail/Makai Toushi Sa-Ga/Makai Toushi Sa-Ga (Japan) (En) (v1.2) (Tower Reversed)">
+		<category>WonderSwan Color</category>
+		<description>Makai Toushi Sa-Ga (Japan) (En) (v1.2) (Tower Reversed)</description>
+		<rom name="Makai Toushi Sa-Ga (Japan) (En) (v1.2) (Tower Reversed).wsc" size="4194304" crc="a4308378" md5="f1d130f871a4440be635322c73662049" sha1="f800e5305292a81be738f15426269329a8d139b1"/>
+		<url>https://retroachievements.org/game/14602/hashes</url>
+		<hash>F1D130F871A4440BE635322C73662049</hash>
+	</game>
+	
+	<game name="Subset/Makai Toushi Sa-Ga (Subset - Solo Class)/Makai Toushi Sa-Ga (Japan) (En) (Subset - Solo Class)">
+		<category>WonderSwan Color</category>
+		<description>Makai Toushi Sa-Ga (Japan) (En) (Subset - Solo Class)</description>
+		<rom name="Makai Toushi Sa-Ga (Japan) (En) (Subset - Solo Class).wsc" size="4194304" crc="f79986d0" md5="1edff9c7eb20454dcd2cd6c6e23fc7c6" sha1="98435b40985247a9f2358aff1c164a75ff0071bb"/>
+		<url>https://retroachievements.org/game/18495/hashes</url>
+		<hash>1EDFF9C7EB20454DCD2CD6C6E23FC7C6</hash>
+	</game>
+	<game name="Subset/Makai Toushi Sa-Ga (Subset - Solo Class)/Makai Toushi Sa-Ga (Subset - Solo Class)">
+		<category>WonderSwan Color</category>
+		<description>Makai Toushi Sa-Ga (Subset - Solo Class)</description>
+		<rom name="Makai Toushi Sa-Ga (Subset - Solo Class).wsc" size="4194304" crc="48c65a98" md5="AC0B4121EAD3C4B1EC102A57D1BB697D" sha1="9fbd69d1102a3924779a43b4dbf05862b1369afe"/>
+		<url>https://retroachievements.org/game/18495/hashes</url>
+		<hash>AC0B4121EAD3C4B1EC102A57D1BB697D</hash>
+	</game>
+	
 	<game name="Retail/Makaimura for WonderSwan (Japan)">
 		<category>WonderSwan</category>
 		<description>Makaimura for WonderSwan (Japan)</description>
@@ -446,36 +476,6 @@
 		<rom name="Tetris (Japan).wsc" size="1048576" crc="7b0caea9" md5="b7e66090d059f77636161fa4e21f3e89" sha1="1a86403d7896d60fcb7a4c09367f5a976c7ea5a5"/>
 		<url>https://retroachievements.org/game/16704/hashes</url>
 		<hash>B7E66090D059F77636161FA4E21F3E89</hash>
-	</game>
-	
-	<game name="Retail/Makai Toushi Sa-Ga/Makai Toushi Sa-Ga (Japan)">
-		<category>WonderSwan Color</category>
-		<description>Makai Toushi Sa-Ga (Japan)</description>
-		<rom name="Makai Toushi Sa-Ga (Japan).wsc" size="4194304" crc="1b6f5f30" md5="957137e7d5249c02fecff063e0c86e87" sha1="6b7a9b810c932974cbda4de7178cf0ea5a90e628"/>
-		<url>https://retroachievements.org/game/14602/hashes</url>
-		<hash>957137E7D5249C02FECFF063E0C86E87</hash>
-	</game>
-	<game name="Retail/Makai Toushi Sa-Ga/Makai Toushi Sa-Ga (Japan) (En) (v1.2) (Tower Reversed)">
-		<category>WonderSwan Color</category>
-		<description>Makai Toushi Sa-Ga (Japan) (En) (v1.2) (Tower Reversed)</description>
-		<rom name="Makai Toushi Sa-Ga (Japan) (En) (v1.2) (Tower Reversed).wsc" size="4194304" crc="a4308378" md5="f1d130f871a4440be635322c73662049" sha1="f800e5305292a81be738f15426269329a8d139b1"/>
-		<url>https://retroachievements.org/game/14602/hashes</url>
-		<hash>F1D130F871A4440BE635322C73662049</hash>
-	</game>
-	
-	<game name="Subset/Makai Toushi Sa-Ga (Subset - Solo Class)/Makai Toushi Sa-Ga (Japan) (En) (Subset - Solo Class)">
-		<category>WonderSwan Color</category>
-		<description>Makai Toushi Sa-Ga (Japan) (En) (Subset - Solo Class)</description>
-		<rom name="Makai Toushi Sa-Ga (Japan) (En) (Subset - Solo Class).wsc" size="4194304" crc="f79986d0" md5="1edff9c7eb20454dcd2cd6c6e23fc7c6" sha1="98435b40985247a9f2358aff1c164a75ff0071bb"/>
-		<url>https://retroachievements.org/game/18495/hashes</url>
-		<hash>1EDFF9C7EB20454DCD2CD6C6E23FC7C6</hash>
-	</game>
-	<game name="Subset/Makai Toushi Sa-Ga (Subset - Solo Class)/Makai Toushi Sa-Ga (Subset - Solo Class)">
-		<category>WonderSwan Color</category>
-		<description>Makai Toushi Sa-Ga (Subset - Solo Class)</description>
-		<rom name="Makai Toushi Sa-Ga (Subset - Solo Class).wsc" size="4194304" crc="48c65a98" md5="AC0B4121EAD3C4B1EC102A57D1BB697D" sha1="9fbd69d1102a3924779a43b4dbf05862b1369afe"/>
-		<url>https://retroachievements.org/game/18495/hashes</url>
-		<hash>AC0B4121EAD3C4B1EC102A57D1BB697D</hash>
 	</game>
 	
 	<game name="Retail/Turntablist - DJ Battle (Japan)">

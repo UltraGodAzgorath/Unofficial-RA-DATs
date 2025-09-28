@@ -5,8 +5,8 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>Subfolders</category>
-		<version>20250913</version>
-		<date>13 September 2025</date>
+		<version>20250928</version>
+		<date>28 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/2/games</url>
@@ -160,6 +160,14 @@
 		<rom name="SM64 - Balloon Slider Mania (v1.0) (Mel,ArcticJaguar725) (Hack).z64" size="54057272" crc="66912c32" md5="26b5e7e58817c661ba0758e3b0a7ae29" sha1="21f9f1b761236e90a5a3de879d6e882705f48c59"/>
 		<url>https://retroachievements.org/game/30890/hashes</url>
 		<hash>26b5e7e58817c661ba0758e3b0a7ae29</hash>
+	</game>
+	
+	<game name="Hack/Banjo Kazooie/BK - The Corrupted Jiggies (v1.0) (Sorra1-Mods) (Hack)">
+		<category></category>
+		<description>BK - The Corrupted Jiggies (v1.0) (Sorra1-Mods) (Hack)</description>
+		<rom name="BK - The Corrupted Jiggies (v1.0) (Sorra1-Mods) (Hack).z64" size="000" crc="000" md5="295ddc270a3f55ef8acaab39f70c65bd" sha1="000"/>
+		<url>https://retroachievements.org/game/34487/hashes</url>
+		<hash>295ddc270a3f55ef8acaab39f70c65bd</hash>
 	</game>
 	
 	<game name="Hack/Banjo Kazooie/BK - Banjo-Dreamie (v1.0) (Loggo) (Hack)">
@@ -3735,6 +3743,22 @@
 		<hash>5c71cec59736d53a060f5ab68d5bd9a2</hash>
 	</game>
 	
+	<game name="Hack/Super Mario 64/SM64 - TsucnenT's Treasures (v1.0) (TsucnenT) (Hack)">
+		<category></category>
+		<description>SM64 - TsucnenT's Treasures (v1.0) (TsucnenT) (Hack)</description>
+		<rom name="SM64 - TsucnenT's Treasures (v1.0) (TsucnenT) (Hack).z64" size="000" crc="000" md5="3580b6eb0e26f89f9d89a615ef1663c4" sha1="000"/>
+		<url>https://retroachievements.org/game/34885/hashes</url>
+		<hash>3580b6eb0e26f89f9d89a615ef1663c4</hash>
+	</game>
+	
+	<game name="Hack/Super Mario 64/SM64 - TsucnenT's Treasures 2 (v1.0) (TsucnenT) (Hack)">
+		<category></category>
+		<description>SM64 - TsucnenT's Treasures 2 (v1.0) (TsucnenT) (Hack)</description>
+		<rom name="SM64 - TsucnenT's Treasures 2 (v1.0) (TsucnenT) (Hack).z64" size="000" crc="000" md5="2d0e8090ef236fca175c1fcc44b2732c" sha1="000"/>
+		<url>https://retroachievements.org/game/34886/hashes</url>
+		<hash>2d0e8090ef236fca175c1fcc44b2732c</hash>
+	</game>
+	
 	<game name="Hack/Paper Mario/PM - Ultimate Goomboss Challenge (v1) (nine) (Hack)">
 		<category>Nintendo 64</category>
 		<description>PM - Ultimate Goomboss Challenge (v1) (nine) (Hack)</description>
@@ -4276,6 +4300,13 @@
 		<rom name="Densha de Go! 64 (Japan) (En) (v1.01) (Zoinkity).z64" size="31457280" crc="4cb52323" md5="fdffa662ae3357bf5970338ee7589f6c" sha1="34c45fe569a22185da5c3e707cd7eee46ad82492"/>
 		<url>https://retroachievements.org/game/12986/hashes</url>
 		<hash>fdffa662ae3357bf5970338ee7589f6c</hash>
+	</game>
+	<game name="Retail/Densha de Go! 64 (Japan) (En) (v1.03) (Zoinkity)">
+		<category>Nintendo 64</category>
+		<description>Densha de Go! 64 (Japan) (En) (v1.03) (Zoinkity)</description>
+		<rom name="Densha de Go! 64 (Japan) (En) (v1.03) (Zoinkity).z64" size="000" crc="000" md5="91131a1bb91aa42d3e8f2aa55948041f" sha1="000"/>
+		<url>https://retroachievements.org/game/12986/hashes</url>
+		<hash>91131a1bb91aa42d3e8f2aa55948041f</hash>
 	</game>
 	
 	<game name="Retail/Destruction Derby 64 (USA)">
@@ -4999,6 +5030,14 @@
 		<rom name="Paper Mario (Europe) (En,Fr,De,Es) (Subset - Glitch Showcase).z64" size="50331648" crc="63804352" md5="59930296c994278c7311c55de48f01e2" sha1="6f792aa7902a59a1297e813d2c476372c1e1ba61"/>
 		<url>https://retroachievements.org/game/33114/hashes</url>
 		<hash>59930296c994278c7311c55de48f01e2</hash>
+	</game>
+	
+	<game name="Retail/Paperboy (USA)">
+		<category></category>
+		<description>Paperboy (USA)</description>
+		<rom name="Paperboy (USA).z64" size="000" crc="000" md5="C4CBCB54B010A5A71FE5CAA391E5C25F" sha1="000"/>
+		<url>https://retroachievements.org/game/10660/hashes</url>
+		<hash>C4CBCB54B010A5A71FE5CAA391E5C25F</hash>
 	</game>
 	
 	<game name="Retail/Perfect Dark (USA)">

@@ -5,8 +5,8 @@
 		<name>RA - Sega Saturn</name>
 		<description>Sega Saturn</description>
 		<category>No Subfolders</category>
-		<version>20250917</version>
-		<date>17 September 2025</date>
+		<version>20250928</version>
+		<date>28 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/39/games</url>
@@ -1496,6 +1496,15 @@
 		<disk name="House of the Dead, The (USA).chd" sha1="bacb7fd0cbb275a93cfb60b2e1175065bc62f0f0"/>
 		<url>https://retroachievements.org/game/14507/hashes</url>
 		<hash>dbe3a5996d27e1a12e0b3bc891668551</hash>
+	</machine>
+	
+	<machine name="Legend of Oasis, The (USA)">
+		<category>Retail</category>
+		<description>Legend of Oasis, The (USA)</description>
+		<release name="Legend of Oasis, The (USA)" region="USA"/>
+		<disk name="Legend of Oasis, The (USA).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/14542/hashes</url>
+		<hash>4f6ab49745fa06590042fc4ecdc5666f</hash>
 	</machine>
 	
 	<machine name="Mansion of Hidden Souls, The (USA)">

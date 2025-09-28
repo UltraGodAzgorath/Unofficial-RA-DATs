@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>No Subfolders</category>
-		<version>20250913</version>
-		<date>13 September 2025</date>
+		<version>20250928</version>
+		<date>28 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
@@ -1189,6 +1189,13 @@
 		<url>https://retroachievements.org/game/7807/hashes</url>
 		<hash>b42dce5e2885760c89f8056e7ca409ed</hash>
 	</game>
+	<game name="Avalon Code (Europe) (En,Fr,De) (Undub) (v1.0) (Unknown)" cloneof="Avalon Code (Europe) (En,Fr,De)">
+		<category>Retail</category>
+		<description>Avalon Code (Europe) (En,Fr,De) (Undub) (v1.0) (Unknown)</description>
+		<rom name="Avalon Code (Europe) (En,Fr,De) (Undub) (v1.0) (Unknown).nds" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/7807/hashes</url>
+		<hash>2a94af89e298b6328ac2c9f7d19ec023</hash>
+	</game>
 	
 	<game name="Avatar - The Last Airbender (USA)">
 		<category>Retail</category>
@@ -1444,6 +1451,15 @@
 		<rom name="Burnout Legends (Europe) (En,Fr,De,Es,It,Nl).nds" size="33554432" crc="6c7ebce5" md5="8044f0fec879b2572a784cc0aa9a110b" sha1="3c118de1c4ed7fc00757c7b9449ff0adbda9622b"/>
 		<url>https://retroachievements.org/game/17675/hashes</url>
 		<hash>6f9c286c61448d746b83d23f8b8adda8</hash>
+	</game>
+	
+	<game name="Cake Mania (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Cake Mania (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Cake Mania (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="Cake Mania (Europe) (En,Fr,De,Es,It).nds" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/5648/hashes</url>
+		<hash>332aaf4fc581f60a77e1cfca91b5e350</hash>
 	</game>
 	
 	<game name="Carnival Games (USA) (En,Fr)">
@@ -4458,7 +4474,7 @@
 		<category>Subset</category>
 		<description>Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)</description>
 		<release name="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)" region="USA"/>
-		<rom name="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge).nds" size="134217728" crc="ed783999" md5="724a6564d97a50489c5e471f5b40e9e0" sha1="8e5f186f5831bc209641a319e8b15901f40c02fd"/>
+		<rom name="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge).nds" size="134217728" crc="ea13253d" md5="b4b0fe88fbc2b36e206ee510bd8c757a" sha1="26c4a3144a957a046b16bce84768766e8d76f6f7"/>
 		<url>https://retroachievements.org/game/22862/hashes</url>
 		<hash>b52b9ee675d0dc91dc2f52ef470bcdf8</hash>
 	</game>
@@ -5137,6 +5153,23 @@
 		<hash>924ab20f7e26c7a4b083514116afd56e</hash>
 	</game>
 	
+	<game name="Puyo Puyo!! - Puyopuyo 20th Anniversary (Japan)">
+		<category>Retail</category>
+		<description>Puyo Puyo!! - Puyopuyo 20th Anniversary (Japan)</description>
+		<release name="Puyo Puyo!! - Puyopuyo 20th Anniversary (Japan)" region="Japan"/>
+		<rom name="Puyo Puyo!! - Puyopuyo 20th Anniversary (Japan).nds" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/14822/hashes</url>
+		<hash>a004047cc4732cd768cbeb1002f45c15</hash>
+	</game>
+	<game name="Puyo Puyo!! - Puyopuyo 20th Anniversary (Japan) (En) (v1.0) (Precise Museum)" cloneof="Puyo Puyo!! - Puyopuyo 20th Anniversary (Japan)">
+		<category>Retail</category>
+		<description>Puyo Puyo!! - Puyopuyo 20th Anniversary (Japan) (En) (v1.0) (Precise Museum)</description>
+		<release name="Puyo Puyo!! - Puyopuyo 20th Anniversary (Japan) (En) (v1.0) (Precise Museum)" region="English"/>
+		<rom name="Puyo Puyo!! - Puyopuyo 20th Anniversary (Japan) (En) (v1.0) (Precise Museum).nds" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/14822/hashes</url>
+		<hash>f5d9c3c1e23ffa28107750727bacb0ce</hash>
+	</game>
+	
 	<game name="Art Puzzle - Das Kunstmagazin - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<description>Art Puzzle - Das Kunstmagazin - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It)</description>
@@ -5339,6 +5372,23 @@
 		<rom name="Ragnarok DS (USA).nds" size="134217728" crc="caaa43ce" md5="a8287405f1f1e7e881a1a4cedc89ae31" sha1="b522065a9a9123fe86dd2219681f78073ad90bf2"/>
 		<url>https://retroachievements.org/game/9931/hashes</url>
 		<hash>b3faced79f99ad1a2b579f6a255b7c29</hash>
+	</game>
+	
+	<game name="Rayman DS (Europe) (En,Fr,De,Es,It)" cloneof="Rayman DS (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Rayman DS (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Rayman DS (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="Rayman DS (Europe) (En,Fr,De,Es,It).nds" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/12934/hashes</url>
+		<hash>153b703067ad3c08ae518d3e44799b6b</hash>
+	</game>
+	<game name="Rayman DS (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<description>Rayman DS (USA) (En,Fr,Es)</description>
+		<release name="Rayman DS (USA) (En,Fr,Es)" region="USA"/>
+		<rom name="Rayman DS (USA) (En,Fr,Es).nds" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/12934/hashes</url>
+		<hash>6838ba945ddcf116315dcd5d2cc73b4d</hash>
 	</game>
 	
 	<game name="Resident Evil - Deadly Silence (USA) (Pt)" cloneof="Resident Evil - Deadly Silence (USA)">

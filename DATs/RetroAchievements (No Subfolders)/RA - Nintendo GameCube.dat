@@ -5,8 +5,8 @@
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
 		<category>No Subfolders</category>
-		<version>20250913</version>
-		<date>13 September 2025</date>
+		<version>20250928</version>
+		<date>28 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/16/games</url>
@@ -112,6 +112,15 @@
 		<hash>f45d751b8a2131de52cbcdb98e4ac227</hash>
 	</game>
 	
+	<game name="Pikmin 1² (Subset - Randomizer Run)">
+		<category>Subset</category>
+		<description>Pikmin 1² (Subset - Randomizer Run)</description>
+		<release name="Pikmin 1² (Subset - Randomizer Run)" region="World"/>
+		<rom name="Pikmin 1² (Subset - Randomizer Run).rvz" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/34508/hashes</url>
+		<hash>b4799cdf60ffa240d24e7444c0f28713</hash>
+	</game>
+	
 	<game name="Pikmin 2 - Caveless Edition (v1.21) (Cutscenes and Purple Pikmin) (Bugabread) (Hack)">
 		<category>Hack</category>
 		<description>Pikmin 2 - Caveless Edition (v1.21) (Cutscenes and Purple Pikmin) (Bugabread) (Hack)</description>
@@ -209,7 +218,7 @@
 		<category>Hack</category>
 		<description>SMS - Super Mario Sunshine Arcade 2 (v1.2) (Augs SMSHacks) (Hack)</description>
 		<release name="SMS - Super Mario Sunshine Arcade 2 (v1.2) (Augs SMSHacks) (Hack)" region="World"/>
-		<rom name="SMS - Super Mario Sunshine Arcade 2 (v1.2) (Augs SMSHacks) (Hack).rvz" size="587675120" crc="b4d798f9" md5="53ec6e2da09406991aeb0a63134e9f12" sha1="e3b95d7695346113e9400132213fcab6c4f70d13"/>
+		<rom name="SMS - Super Mario Sunshine Arcade 2 (v1.2) (Augs SMSHacks) (Hack).rvz" size="000" crc="000" md5="000" sha1="000"/>
 		<url>https://retroachievements.org/game/28854/hashes</url>
 		<hash>ce058335a554ef5a5bed27c32b259808</hash>
 	</game>
@@ -1229,6 +1238,23 @@
 		<rom name="Naruto - Gekitou Ninja Taisen! 3 (Japan) (Rev 1).rvz" size="803981736" crc="74558c02" md5="88cf217f59b42f51b22c543adc556be7" sha1="69245659177bbbf54d9e233ccdacc1491e5b9c08"/>
 		<url>https://retroachievements.org/game/30329/hashes</url>
 		<hash>ba03edfe739e8dcd332287d5666788a8</hash>
+	</game>
+	
+	<game name="Naruto - Gekitou Ninja Taisen! 4 (Japan)">
+		<category>Retail</category>
+		<description>Naruto - Gekitou Ninja Taisen! 4 (Japan)</description>
+		<release name="Naruto - Gekitou Ninja Taisen! 4 (Japan)" region="Japan"/>
+		<rom name="Naruto - Gekitou Ninja Taisen! 4 (Japan).rvz" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/30330/hashes</url>
+		<hash>6c2dc4c76fca3ed8cbf2830e427690b4</hash>
+	</game>
+	<game name="Naruto - Gekitou Ninja Taisen! 4 (Japan) (En) (Kosheh)" cloneof="Naruto - Gekitou Ninja Taisen! 4 (Japan)">
+		<category>Retail</category>
+		<description>Naruto - Gekitou Ninja Taisen! 4 (Japan) (En) (Kosheh)</description>
+		<release name="Naruto - Gekitou Ninja Taisen! 4 (Japan) (En) (Kosheh)" region="English"/>
+		<rom name="Naruto - Gekitou Ninja Taisen! 4 (Japan) (En) (Kosheh).rvz" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/30330/hashes</url>
+		<hash>c9bcafa71713a796ca9726445cf92098</hash>
 	</game>
 	
 	<game name="Neighbors from Hell (Europe) (En,Fr,De,Es,It)">
