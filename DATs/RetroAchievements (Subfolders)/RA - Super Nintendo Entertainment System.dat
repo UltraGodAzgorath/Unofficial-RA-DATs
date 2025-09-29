@@ -6,12 +6,12 @@
 		<description>Super Nintendo Entertainment System</description>
 		<category>Subfolders</category>
 		<version>20250928</version>
-		<date>18 September 2025</date>
+		<date>28 September 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/3/games</url>
-		<titlecount>1063</titlecount>
-		<hashcount>1865/2046</hashcount>
+		<titlecount>1089</titlecount>
+		<hashcount>1906/2088</hashcount>
 	</header>
 	<game name="Hack/Super Mario World/SMW - 'the (2016-01-05) (underway,Medic,Torchkas) (Hack)">
 		<category>Super Nintendo</category>
@@ -3657,7 +3657,7 @@
 		<description>SMW - TIAGHTPIYJSPKW (v1.1.1) (Various) (Hack)</description>
 		<rom name="SMW - TIAGHTPIYJSPKW (v1.1.1) (Various) (Hack).sfc" size="4194304" crc="3f798d95" md5="7e3b51b187e6c4f693475579cf1a62d8" sha1="e0ac2a5d3de7410ec350f84de48766427a099e93"/>
 		<url>https://retroachievements.org/game/3468/hashes</url>
-		<hash>7e3b51</hash>
+		<hash>7e3b51b187e6c4f693475579cf1a62d8</hash>
 	</game>
 	
 	<game name="Hack/Super Mario World/SMW - Tortured Souls (v1.2) (RZRider) (Hack)">
@@ -6958,6 +6958,14 @@
 		<rom name="Fighter's History (USA) (Rev 1).sfc" size="2621440" crc="3d17f6ea" md5="4181e243ae146d471dc5c292dce772ac" sha1="10f7bb5592e128cc17c5c2a564f6c681785227ed"/>
 		<url>https://retroachievements.org/game/633/hashes</url>
 		<hash>4181e243ae146d471dc5c292dce772ac</hash>
+	</game>
+	
+	<game name="Retail/Fighter's History - Mizoguchi Kikiippatsu!! (Japan)">
+		<category>Super Nintendo</category>
+		<description>Fighter's History - Mizoguchi Kikiippatsu!! (Japan)</description>
+		<rom name="Fighter's History - Mizoguchi Kikiippatsu!! (Japan).sfc" size="000" crc="000" md5="6c3bf666a198666b3632f2786d5e5ce0" sha1="000"/>
+		<url>https://retroachievements.org/game/2872/hashes</url>
+		<hash>6c3bf666a198666b3632f2786d5e5ce0</hash>
 	</game>
 	
 	<game name="Retail/Final Fantasy II/Final Fantasy II (USA) (Rev 1)">

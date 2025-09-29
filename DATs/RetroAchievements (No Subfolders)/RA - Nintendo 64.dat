@@ -10,8 +10,8 @@
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/2/games</url>
-		<titlecount>436</titlecount>
-		<hashcount>769</hashcount>
+		<titlecount>465</titlecount>
+		<hashcount>809</hashcount>
 	</header>
 	<game name="007 - The Spy Who Loved Me 64 (Various) (Demo) (Hack)">
 		<category>Hack</category>
@@ -5102,6 +5102,23 @@
 		<rom name="Gauntlet Legends (USA).z64" size="16777216" crc="64765e82" md5="9cb963e8b71f18568f78ec1af120362e" sha1="0489dcce749c6a5102681d288ed0616a4b94e99d"/>
 		<url>https://retroachievements.org/game/10268/hashes</url>
 		<hash>9CB963E8B71F18568F78EC1AF120362E</hash>
+	</game>
+	
+	<game name="Getter Love!! - Cho Renai Party Game Tanjou (Japan)">
+		<category>Retail</category>
+		<description>Getter Love!! - Cho Renai Party Game Tanjou (Japan)</description>
+		<release name="Getter Love!! - Cho Renai Party Game Tanjou (Japan)" region="Japan"/>
+		<rom name="Getter Love!! - Cho Renai Party Game Tanjou (Japan).z64" size="000" crc="000" md5="5270d98f9e67dc7ef354ece109c2a18f" sha1="000"/>
+		<url>https://retroachievements.org/game/10282/hashes</url>
+		<hash>5270d98f9e67dc7ef354ece109c2a18f</hash>
+	</game>
+	<game name="Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.01) (ozidual)" cloneof="Getter Love!! - Cho Renai Party Game Tanjou (Japan)">
+		<category>Retail</category>
+		<description>Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.01) (ozidual)</description>
+		<release name="Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.01) (ozidual)" region="English"/>
+		<rom name="Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.01) (ozidual).z64" size="000" crc="000" md5="0ac7a16f8afcc03031835c89d095d7b9" sha1="000"/>
+		<url>https://retroachievements.org/game/10282/hashes</url>
+		<hash>0ac7a16f8afcc03031835c89d095d7b9</hash>
 	</game>
 	
 	<game name="Gex 3 - Deep Cover Gecko (USA)">
