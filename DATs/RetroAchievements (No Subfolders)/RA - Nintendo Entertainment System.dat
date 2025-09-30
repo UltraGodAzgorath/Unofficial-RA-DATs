@@ -10,8 +10,8 @@
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/7/games</url>
-		<titlecount>1066</titlecount>
-		<hashcount>1942/1946</hashcount>
+		<titlecount>1084</titlecount>
+		<hashcount>1965/1968</hashcount>
 	</header>
 	<game name="Moai-kun - Angry Birds (v1.0) (Googie) (Hack)">
 		<category>Hack</category>
@@ -1894,6 +1894,15 @@
 		<rom name="Carpet Shark (World) (Aftermarket).nes" size="524304" crc="61343c92" md5="56c7129ccb79ec7d3817f88d24e239f9" sha1="0a1935eb76e075587b0a133d13952ebc97b55a34"/>
 		<url>https://retroachievements.org/game/17614/hashes</url>
 		<hash>9bad63db4d2b777decd0acca626d17c4</hash>
+	</game>
+	
+	<game name="Celeste (USA) (PICO-8 Port) (iProgramInCpp) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Celeste (USA) (PICO-8 Port) (iProgramInCpp) (Aftermarket)</description>
+		<release name="Celeste (USA) (PICO-8 Port) (iProgramInCpp) (Aftermarket)" region="World"/>
+		<rom name="Celeste (USA) (PICO-8 Port) (iProgramInCpp) (Aftermarket).nes" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/25608/hashes</url>
+		<hash>05e8cce2efa8d05dfa739d03221dcf7e</hash>
 	</game>
 	
 	<game name="Chase (World) (v1.2) (Aftermarket)">
@@ -3801,6 +3810,23 @@
 		<rom name="Shenqi Baobei (China) (Unl).nes" size="1048592" crc="a4b14134" md5="108cb1bd7fef68ea43c2f3040bca3c1e" sha1="4a18c80bd2b62fc00fd9006acba514ecbaffba0a"/>
 		<url>https://retroachievements.org/game/27588/hashes</url>
 		<hash>e6561131d4bda3409012b3da0379ba80</hash>
+	</game>
+	
+	<game name="Chrono Trigger - Shikong Zhi Lun (China) (Pirate) (Unl)">
+		<category>Unlicensed</category>
+		<description>Chrono Trigger - Shikong Zhi Lun (China) (Pirate) (Unl)</description>
+		<release name="Chrono Trigger - Shikong Zhi Lun (China) (Pirate) (Unl)" region="China"/>
+		<rom name="Chrono Trigger - Shikong Zhi Lun (China) (Pirate) (Unl).nes" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/6258/hashes</url>
+		<hash>27fd3ba457290496e95de79760cb4f5c</hash>
+	</game>
+	<game name="Chrono Trigger - Shi Kong Zhi Lun (China) (En + Extras) (v1.1) (pacnsnac, Cubear) (Unl)" cloneof="Chrono Trigger - Shikong Zhi Lun (China) (Pirate) (Unl)">
+		<category>Unlicensed</category>
+		<description>Chrono Trigger - Shi Kong Zhi Lun (China) (En + Extras) (v1.1) (pacnsnac, Cubear) (Unl)</description>
+		<release name="Chrono Trigger - Shi Kong Zhi Lun (China) (En + Extras) (v1.1) (pacnsnac, Cubear) (Unl)" region="English"/>
+		<rom name="Chrono Trigger - Shi Kong Zhi Lun (China) (En + Extras) (v1.1) (pacnsnac, Cubear) (Unl).nes" size="000" crc="000" md5="000" sha1="000"/>
+		<url>https://retroachievements.org/game/6258/hashes</url>
+		<hash>0d4c23f2663ec2118cc5ae2d44daaac9</hash>
 	</game>
 	
 	<game name="Shudu (Unl)">

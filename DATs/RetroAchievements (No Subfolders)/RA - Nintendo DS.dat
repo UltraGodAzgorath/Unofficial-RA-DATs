@@ -10,8 +10,8 @@
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
-		<titlecount>539</titlecount>
-		<hashcount>709</hashcount>
+		<titlecount>566</titlecount>
+		<hashcount>757</hashcount>
 	</header>
 	<game name="Metroid Prime - Hunters - First Hunt (Europe) (En,Fr,De,Es,It) (Not for Resale) (Demo)">
 		<category>Demo</category>
@@ -1457,7 +1457,7 @@
 		<category>Retail</category>
 		<description>Cake Mania (Europe) (En,Fr,De,Es,It)</description>
 		<release name="Cake Mania (Europe) (En,Fr,De,Es,It)" region="Europe"/>
-		<rom name="Cake Mania (Europe) (En,Fr,De,Es,It).nds" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Cake Mania (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="ee4a5de7" md5="a77a2234ae222cbba99b414cf9e48be8" sha1="8acfd5c964fdd76c55fd0b18fca611c6f683393e"/>
 		<url>https://retroachievements.org/game/5648/hashes</url>
 		<hash>332aaf4fc581f60a77e1cfca91b5e350</hash>
 	</game>
@@ -2731,6 +2731,15 @@
 		<rom name="Hotel Transylvania (Europe) (En,Fr,Nl).nds" size="67108864" crc="e0065997" md5="884536de3a774608ace3d0e438a44531" sha1="ae4e2850b8badd13910a6b2f9f42bcb59d477884"/>
 		<url>https://retroachievements.org/game/29831/hashes</url>
 		<hash>fbab3ac3d907e67dfebba82fadbc1f47</hash>
+	</game>
+	
+	<game name="House M.D. - The Official Game (Europe) (En,Fr,De)">
+		<category>Retail</category>
+		<description>House M.D. - The Official Game (Europe) (En,Fr,De)</description>
+		<release name="House M.D. - The Official Game (Europe) (En,Fr,De)" region="Europe"/>
+		<rom name="House M.D. - The Official Game (Europe) (En,Fr,De).nds" size="67108864" crc="f1704ca6" md5="3267bf251cef974197ffdf624aeec8fc" sha1="68abce46cd5b77a3b1bcf53d993ca59c03c87bec"/>
+		<url>https://retroachievements.org/game/25049/hashes</url>
+		<hash>3d8420ee16b823d234786def2cbc1c66</hash>
 	</game>
 	
 	<game name="iCarly (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)">
@@ -5157,7 +5166,7 @@
 		<category>Retail</category>
 		<description>Puyo Puyo!! - Puyopuyo 20th Anniversary (Japan)</description>
 		<release name="Puyo Puyo!! - Puyopuyo 20th Anniversary (Japan)" region="Japan"/>
-		<rom name="Puyo Puyo!! - Puyopuyo 20th Anniversary (Japan).nds" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Puyo Puyo!! - Puyopuyo 20th Anniversary (Japan).nds" size="67108864" crc="aae3a6b9" md5="f8d7bd7073fa384561888c8e4624174a" sha1="fd7694296a093a8620e11eadb2c5938cc13fa753"/>
 		<url>https://retroachievements.org/game/14822/hashes</url>
 		<hash>a004047cc4732cd768cbeb1002f45c15</hash>
 	</game>
@@ -5378,7 +5387,7 @@
 		<category>Retail</category>
 		<description>Rayman DS (Europe) (En,Fr,De,Es,It)</description>
 		<release name="Rayman DS (Europe) (En,Fr,De,Es,It)" region="Europe"/>
-		<rom name="Rayman DS (Europe) (En,Fr,De,Es,It).nds" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Rayman DS (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="3aa858b9" md5="57eadb68ba208d3b4edf9e4ee46f01d4" sha1="158082697998d58881a82edc23c29e5e35d3c4b7"/>
 		<url>https://retroachievements.org/game/12934/hashes</url>
 		<hash>153b703067ad3c08ae518d3e44799b6b</hash>
 	</game>
@@ -5386,7 +5395,7 @@
 		<category>Retail</category>
 		<description>Rayman DS (USA) (En,Fr,Es)</description>
 		<release name="Rayman DS (USA) (En,Fr,Es)" region="USA"/>
-		<rom name="Rayman DS (USA) (En,Fr,Es).nds" size="000" crc="000" md5="000" sha1="000"/>
+		<rom name="Rayman DS (USA) (En,Fr,Es).nds" size="33554432" crc="aa6ea8e3" md5="eb7c3c00d28c3dc0ab50cc715c91cb33" sha1="731a82cfe3d85f171cd00cd816866006a099ae21"/>
 		<url>https://retroachievements.org/game/12934/hashes</url>
 		<hash>6838ba945ddcf116315dcd5d2cc73b4d</hash>
 	</game>

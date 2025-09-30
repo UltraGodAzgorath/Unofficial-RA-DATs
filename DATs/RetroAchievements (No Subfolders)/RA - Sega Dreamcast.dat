@@ -10,8 +10,8 @@
 		<author>Ultra God Azgorath</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/40/games</url>
-		<titlecount>129</titlecount>
-		<hashcount>187</hashcount>
+		<titlecount>131</titlecount>
+		<hashcount>190</hashcount>
 		<clrmamepro forcepacking="unzip"/>
 		<romvault forcepacking="unzip"/>
 	</header>
@@ -401,6 +401,15 @@
 		<disk name="Dance Dance Revolution - Club Version - Dreamcast Edition (Japan).chd" sha1="7aced930d4a4a291d6ef8ef10863480b892eb5d2"/>
 		<url>https://retroachievements.org/game/19420/hashes</url>
 		<hash>0e6710233d1c687c870fc6c0deeaa481</hash>
+	</machine>
+	
+	<machine name="Daytona USA 2001 (Europe) (En,Fr,De,Es)">
+		<category>Retail</category>
+		<description>Daytona USA 2001 (Europe) (En,Fr,De,Es)</description>
+		<release name="Daytona USA 2001 (Europe) (En,Fr,De,Es)" region="Europe"/>
+		<disk name="Daytona USA 2001 (Europe) (En,Fr,De,Es).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/8412/hashes</url>
+		<hash>02d78cda793af4743591446655573428</hash>
 	</machine>
 	
 	<machine name="Dead or Alive 2 (USA)">

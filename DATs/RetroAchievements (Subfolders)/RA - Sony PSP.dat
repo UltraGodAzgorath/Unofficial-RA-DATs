@@ -10,8 +10,9 @@
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/41/games</url>
-		<titlecount>302</titlecount>
-		<hashcount>402/779</hashcount>
+		<titlecount>313</titlecount>
+		<hashcount>407/796</hashcount>
+		<legacyhashcount>380</legacyhashcount>
 		<clrmamepro forcepacking="unzip"/>
 		<romvault forcepacking="unzip"/>
 	</header>
@@ -2903,7 +2904,7 @@
 		<disk name="Suzumiya Haruhi no Yakusoku (Japan) (Super Premium Box) (En) (v1.0) (EsperKnight).chd" sha1="9319bfaa1c7137802dafc849e26a625e6d6517b0"/>
 		<url>https://retroachievements.org/game/24910/hashes</url>
 		<hash>1d2ae8246a5fe52fdc6b9ea39ff9b91d</hash>
-		<althash>5def5289ff00ec37ef18f3a89e7890d4</althash>
+		<legacyhash>5def5289ff00ec37ef18f3a89e7890d4</legacyhash>
 	</machine>
 	<machine name="Retail/Suzumiya Haruhi no Yakusoku/Suzumiya Haruhi no Yakusoku (Japan) (Super Premium Box)">
 		<category>PSP</category>

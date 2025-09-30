@@ -10,8 +10,8 @@
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/6/games</url>
-		<titlecount>362</titlecount>
-		<hashcount>537</hashcount>
+		<titlecount>374</titlecount>
+		<hashcount>552</hashcount>
 	</header>
 	<game name="Hack/Pokemon - Crystal/Pokemon - Crystal Clear (ShockSlayer) (v2.5.11) (Hack)">
 		<category></category>
@@ -1106,7 +1106,7 @@
 	<game name="Retail/Barbie - Fashion Pack Games (USA, Europe) (GB Compatible)">
 		<category></category>
 		<description>Barbie - Fashion Pack Games (USA, Europe) (GB Compatible)</description>
-		<rom name="Barbie - Fashion Pack Games (USA, Europe) (GB Compatible).gbc" size="000" crc="000" md5="45eeade46bd85f80af13af9dce572b9c" sha1="000"/>
+		<rom name="Barbie - Fashion Pack Games (USA, Europe) (GB Compatible).gbc" size="1048576" crc="09ee93a8" md5="45eeade46bd85f80af13af9dce572b9c" sha1="fecbde9125d2ce9c8e772f9078ebaccd196caa43"/>
 		<url>https://retroachievements.org/game/6009/hashes</url>
 		<hash>45eeade46bd85f80af13af9dce572b9c</hash>
 	</game>
@@ -2334,48 +2334,64 @@
 		<hash>e6009a3556e22fa2f42134999759d366</hash>
 	</game>
 	
-	<game name="Retail/Medarot 3 - Kabuto Version (Japan)">
+	<game name="Retail/Medarot 3 - Kabuto Version/Medarot 3 - Kabuto Version (Japan)">
 		<category></category>
 		<description>Medarot 3 - Kabuto Version (Japan)</description>
 		<rom name="Medarot 3 - Kabuto Version (Japan).gbc" size="4194304" crc="e655632c" md5="cbc55f3bb98f8c0443917ae477e56e51" sha1="5478069c840b5b13e2413771f35fdc844d1974f1"/>
 		<url>https://retroachievements.org/game/16089/hashes</url>
 		<hash>cbc55f3bb98f8c0443917ae477e56e51</hash>
 	</game>
-	<game name="Retail/Medarot 3 - Kabuto Version (Japan) (En) (Cash Medal Chameleon) (v1.0)">
+	<game name="Retail/Medarot 3 - Kabuto Version/Medarot 3 - Kabuto Version (Japan) (En) (v1.0) (Cash Medal Chameleon)">
 		<category></category>
-		<description>Medarot 3 - Kabuto Version (Japan) (En) (Cash Medal Chameleon) (v1.0)</description>
-		<rom name="Medarot 3 - Kabuto Version (Japan) (En) (Cash Medal Chameleon) (v1.0).gbc" size="4194304" crc="a744f9c9" md5="66039ffd2bd4ec27b8dd43c3ee0b7b7c" sha1="11ba564b3dd09df5838c68d0be765d7cd34117f9"/>
+		<description>Medarot 3 - Kabuto Version (Japan) (En) (v1.0) (Cash Medal Chameleon)</description>
+		<rom name="Medarot 3 - Kabuto Version (Japan) (En) (v1.0) (Cash Medal Chameleon).gbc" size="4194304" crc="a744f9c9" md5="66039ffd2bd4ec27b8dd43c3ee0b7b7c" sha1="11ba564b3dd09df5838c68d0be765d7cd34117f9"/>
 		<url>https://retroachievements.org/game/16089/hashes</url>
 		<hash>66039ffd2bd4ec27b8dd43c3ee0b7b7c</hash>
 	</game>
-	<game name="Retail/Medarot 3 - Kabuto Version (Japan) (En) (Cash Medal Chameleon) (20250225)">
+	<game name="Retail/Medarot 3 - Kabuto Version/Medarot 3 - Kabuto Version (Japan) (En) (20250225) (Cash Medal Chameleon)">
 		<category></category>
-		<description>Medarot 3 - Kabuto Version (Japan) (En) (Cash Medal Chameleon) (20250225)</description>
-		<rom name="Medarot 3 - Kabuto Version (Japan) (En) (Cash Medal Chameleon) (20250225).gbc" size="4194304" crc="617b545e" md5="0ca36ed6f60bd296619be20a1ea046f7" sha1="a9980c46492598ab0557b2dae0d9d91e1017f0a7"/>
+		<description>Medarot 3 - Kabuto Version (Japan) (En) (20250225) (Cash Medal Chameleon)</description>
+		<rom name="Medarot 3 - Kabuto Version (Japan) (En) (20250225) (Cash Medal Chameleon).gbc" size="4194304" crc="617b545e" md5="0ca36ed6f60bd296619be20a1ea046f7" sha1="a9980c46492598ab0557b2dae0d9d91e1017f0a7"/>
 		<url>https://retroachievements.org/game/16089/hashes</url>
 		<hash>0ca36ed6f60bd296619be20a1ea046f7</hash>
 	</game>
+	<game name="Retail/Medarot 3 - Kabuto Version/Medarot 3 - Kabuto Version (Japan) (En) (20250714) (Cash Medal Chameleon)" cloneof="Medarot 3 - Kabuto Version (Japan)">
+		<category></category>
+		<description>Medarot 3 - Kabuto Version (Japan) (En) (20250714) (Cash Medal Chameleon)</description>
+		<release name="Medarot 3 - Kabuto Version (Japan) (En) (20250714) (Cash Medal Chameleon)" region="English"/>
+		<rom name="Medarot 3 - Kabuto Version (Japan) (En) (20250714) (Cash Medal Chameleon).gbc" size="000" crc="000" md5="6ecf562c4b58d714473106a82a053701" sha1="000"/>
+		<url>https://retroachievements.org/game/16089/hashes</url>
+		<hash>6ecf562c4b58d714473106a82a053701</hash>
+	</game>
 	
-	<game name="Retail/Medarot 3 - Kuwagata Version (Japan)">
+	<game name="Retail/Medarot 3 - Kuwagata Version/Medarot 3 - Kuwagata Version (Japan)">
 		<category></category>
 		<description>Medarot 3 - Kuwagata Version (Japan)</description>
 		<rom name="Medarot 3 - Kuwagata Version (Japan).gbc" size="4194304" crc="bc617834" md5="dabfbdc9aba5f2edc21f884c52881e0d" sha1="5207698702d206046dd105b07e0c0bbdbc6ed39c"/>
 		<url>https://retroachievements.org/game/16090/hashes</url>
 		<hash>dabfbdc9aba5f2edc21f884c52881e0d</hash>
 	</game>
-	<game name="Retail/Medarot 3 - Kuwagata Version (Japan) (En) (Cash Medal Chameleon) (v1.0)">
+	<game name="Retail/Medarot 3 - Kuwagata Version/Medarot 3 - Kuwagata Version (Japan) (En) (v1.0) (Cash Medal Chameleon)">
 		<category></category>
-		<description>Medarot 3 - Kuwagata Version (Japan) (En) (Cash Medal Chameleon) (v1.0)</description>
-		<rom name="Medarot 3 - Kuwagata Version (Japan) (En) (Cash Medal Chameleon) (v1.0).gbc" size="4194304" crc="bef23a92" md5="debaaabe98cfca4555b1f775d5ea35a2" sha1="435b8d0a2292c9f32fc9bdc1dab65bcf476948bb"/>
+		<description>Medarot 3 - Kuwagata Version (Japan) (En) (v1.0) (Cash Medal Chameleon)</description>
+		<rom name="Medarot 3 - Kuwagata Version (Japan) (En) (v1.0) (Cash Medal Chameleon).gbc" size="4194304" crc="bef23a92" md5="debaaabe98cfca4555b1f775d5ea35a2" sha1="435b8d0a2292c9f32fc9bdc1dab65bcf476948bb"/>
 		<url>https://retroachievements.org/game/16090/hashes</url>
 		<hash>debaaabe98cfca4555b1f775d5ea35a2</hash>
 	</game>
-	<game name="Retail/Medarot 3 - Kuwagata Version (Japan) (En) (Cash Medal Chameleon) (20250225)">
+	<game name="Retail/Medarot 3 - Kuwagata Version/Medarot 3 - Kuwagata Version (Japan) (En) (20250225) (Cash Medal Chameleon)">
 		<category></category>
-		<description>Medarot 3 - Kuwagata Version (Japan) (En) (Cash Medal Chameleon) (20250225)</description>
-		<rom name="Medarot 3 - Kuwagata Version (Japan) (En) (Cash Medal Chameleon) (20250225).gbc" size="4194304" crc="1e1fa29e" md5="b378d40a74b79cfcc58984534c4ca25a" sha1="4146880b9ff106f2c0d83067198aacca24930b2e"/>
+		<description>Medarot 3 - Kuwagata Version (Japan) (En) (20250225) (Cash Medal Chameleon)</description>
+		<rom name="Medarot 3 - Kuwagata Version (Japan) (En) (20250225) (Cash Medal Chameleon).gbc" size="4194304" crc="1e1fa29e" md5="b378d40a74b79cfcc58984534c4ca25a" sha1="4146880b9ff106f2c0d83067198aacca24930b2e"/>
 		<url>https://retroachievements.org/game/16090/hashes</url>
 		<hash>b378d40a74b79cfcc58984534c4ca25a</hash>
+	</game>
+	<game name="Retail/Medarot 3 - Kuwagata Version/Medarot 3 - Kuwagata Version (Japan) (En) (20250714) (Cash Medal Chameleon)" cloneof="Medarot 3 - Kuwagata Version (Japan)">
+		<category></category>
+		<description>Medarot 3 - Kuwagata Version (Japan) (En) (20250714) (Cash Medal Chameleon)</description>
+		<release name="Medarot 3 - Kuwagata Version (Japan) (En) (20250714) (Cash Medal Chameleon)" region="English"/>
+		<rom name="Medarot 3 - Kuwagata Version (Japan) (En) (20250714) (Cash Medal Chameleon).gbc" size="000" crc="000" md5="78e8483109e9c5ca67cbae6e4f33b20f" sha1="000"/>
+		<url>https://retroachievements.org/game/16090/hashes</url>
+		<hash>78e8483109e9c5ca67cbae6e4f33b20f</hash>
 	</game>
 	
 	<game name="Retail/Mega Man Xtreme (USA, Europe) (GB Compatible)">
@@ -3855,7 +3871,7 @@
 	<game name="Retail/Vigilante 8 (USA) (Rumble Version)">
 		<category></category>
 		<description>Vigilante 8 (USA) (Rumble Version)</description>
-		<rom name="Vigilante 8 (USA) (Rumble Version).gbc" size="000" crc="000" md5="cb5348c1b469d698eccddce99a16d384" sha1="000"/>
+		<rom name="Vigilante 8 (USA) (Rumble Version).gbc" size="1048576" crc="d1a188dc" md5="cb5348c1b469d698eccddce99a16d384" sha1="4e4ce54c06e8f71ba6e0d8fc8550c177dcf660fd"/>
 		<url>https://retroachievements.org/game/9109/hashes</url>
 		<hash>cb5348c1b469d698eccddce99a16d384</hash>
 	</game>

@@ -10,8 +10,8 @@
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
-		<titlecount>762</titlecount>
-		<hashcount>1079</hashcount>
+		<titlecount>792</titlecount>
+		<hashcount>1126/1127</hashcount>
 		<clrmamepro forcepacking="unzip"/>
 		<romvault forcepacking="unzip"/>
 	</header>
@@ -7058,6 +7058,14 @@
 		<disk name="Spider-Man (USA).chd" sha1="196e5fb8bc1a96db65107abd338593198a207fae"/>
 		<url>https://retroachievements.org/game/11319/hashes</url>
 		<hash>e720c1c756a8d5c701e78905484cc926</hash>
+	</machine>
+	<machine name="Spider-Man (USA) (Ru) (v1.0) (Triada-Fargus)" cloneof="Spider-Man (USA)">
+		<category>Retail</category>
+		<description>Spider-Man (USA) (Ru) (v1.0) (Triada-Fargus)</description>
+		<release name="Spider-Man (USA) (Ru) (v1.0) (Triada-Fargus)" region="Russia"/>
+		<disk name="Spider-Man (USA) (Ru) (v1.0) (Triada-Fargus).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/11319/hashes</url>
+		<hash>675af9e9411476c76e0454bd0d1e1a63</hash>
 	</machine>
 	
 	<machine name="Spider-Man 2 - Enter - Electro (USA)" cloneof="Spider-Man 2 - Enter - Electro (USA) (Rev 1)">

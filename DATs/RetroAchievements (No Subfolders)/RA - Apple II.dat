@@ -10,8 +10,8 @@
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/38/games</url>
-		<titlecount>97</titlecount>
-		<hashcount>307</hashcount>
+		<titlecount>100</titlecount>
+		<hashcount>321/326</hashcount>
 	</header>
 	<game name="Flapple Bird (2020) (v1.1) (140K) (digarok) (Aftermarket)">
 		<category>Homebrew</category>
@@ -19,7 +19,7 @@
 		<release name="Flapple Bird (2020) (v1.1) (140K) (digarok) (Aftermarket)" region="World"/>
 		<rom name="Flapple Bird (2020) (v1.1) (140K) (digarok) (Aftermarket).po" size="143360" crc="fec87f3a" md5="a317e53a10a9db16d7471b23907116c9" sha1="98edb9e4ef74421803e8128c4042150b48761870"/>
 		<url>https://retroachievements.org/game/20042/hashes</url>
-		<hash>A317E53A10A9DB16D7471B23907116C9</hash>
+		<hash>a317e53a10a9db16d7471b23907116c9</hash>
 	</game>
 	
 	<game name="Portal (Tosec) (Aftermarket)">
@@ -28,7 +28,7 @@
 		<release name="Portal (Tosec) (Aftermarket)" region="World"/>
 		<rom name="Portal (Tosec) (Aftermarket).dsk" size="143360" crc="df8ffed6" md5="a375198073297139a26db57347f93e90" sha1="489b385bbcfe9ce7287b98ad7bd4c36f03f07618"/>
 		<url>https://retroachievements.org/game/16129/hashes</url>
-		<hash>A375198073297139A26DB57347F93E90</hash>
+		<hash>a375198073297139a26db57347f93e90</hash>
 	</game>
 	
 	<game name="Pyramid of Ra (2018) (v1.03) (Naspite Labs) (Aftermarket)">
@@ -46,7 +46,7 @@
 		<release name="Sudoku (Tosec) (Aftermarket)" region="World"/>
 		<rom name="Sudoku (Tosec) (Aftermarket).dsk" size="143360" crc="5cf5c66d" md5="bd92a051c2098b3090b865365caa3571" sha1="bfdb8e741988f2439ba91cddc318d5cf88387e47"/>
 		<url>https://retroachievements.org/game/14674/hashes</url>
-		<hash>BD92A051C2098B3090B865365CAA3571</hash>
+		<hash>bd92a051c2098b3090b865365caa3571</hash>
 	</game>
 	
 	<game name="Where in Hell is Carmen Santiago (1990) (St. John M. Morrison) (Aftermarket)">
@@ -94,7 +94,7 @@
 		<release name="Apple Bowl (World) (Tosec)" region="World"/>
 		<rom name="Apple Bowl (World) (Tosec).dsk" size="143360" crc="8ebc6802" md5="ac05cb753b77cf22622493c51bc47203" sha1="f49da28cc60b9442082fda59ff71330128d72ec1"/>
 		<url>https://retroachievements.org/game/22163/hashes</url>
-		<hash>AC05CB753B77CF22622493C51BC47203</hash>
+		<hash>ac05cb753b77cf22622493c51bc47203</hash>
 	</game>
 	
 	<game name="Battle of Hoth (World) (Tosec)">
@@ -112,14 +112,14 @@
 		<release name="Black Magic (World) (WozADay)" region="World"/>
 		<rom name="Black Magic (World) (WozADay).woz" size="252868" crc="9579ff50" md5="57ce0a35c7580cc964368da2887b878e" sha1="50106741bfb8c7a78adb0b1c40b39d166509fcda"/>
 		<url>https://retroachievements.org/game/20414/hashes</url>
-		<hash>57CE0A35C7580CC964368DA2887B878E</hash>
+		<hash>57ce0a35c7580cc964368da2887b878e</hash>
 	</game>
 	<game name="Black Magic (World) (Tosec)" cloneof="Black Magic (World) (WozADay)">
 		<category>Retail</category>
 		<description>Black Magic (World) (Tosec)</description>
 		<rom name="Black Magic (World) (Tosec).woz" size="143360" crc="b4f3d2ef" md5="b2f2706629fbf84b980659d6535ced33" sha1="40bc76ee03c9fdfa5b7cba6ae10bd30eb12279bf"/>
 		<url>https://retroachievements.org/game/20414/hashes</url>
-		<hash>B2F2706629FBF84B980659D6535CED33</hash>
+		<hash>b2f2706629fbf84b980659d6535ced33</hash>
 	</game>
 	
 	<game name="Both Barrels (World) (WozADay)">
@@ -137,7 +137,7 @@
 		<release name="Breakout (World) (Tosec)" region="World"/>
 		<rom name="Breakout (World) (Tosec).do" size="143360" crc="3e11433e" md5="daff679b6c57e6a9213212b4c7a79093" sha1="c747481daa49ec99b3c557eace2f27e8c7b9d15e"/>
 		<url>https://retroachievements.org/game/14022/hashes</url>
-		<hash>DAFF679B6C57E6A9213212B4C7A79093</hash>
+		<hash>daff679b6c57e6a9213212b4c7a79093</hash>
 	</game>
 	
 	<game name="Castle Wolfenstein (World) (4AM)">
@@ -146,21 +146,21 @@
 		<release name="Castle Wolfenstein (World) (4AM)" region="World"/>
 		<rom name="Castle Wolfenstein (World) (4AM).dsk" size="143360" crc="d884c241" md5="462ffae94631792f90ef2e9541b79a9f" sha1="559a8cd5d584e7a132647b897e0ecad64c07fe0a"/>
 		<url>https://retroachievements.org/game/13929/hashes</url>
-		<hash>462FFAE94631792F90EF2E9541B79A9F</hash>
+		<hash>462ffae94631792f90ef2e9541b79a9f</hash>
 	</game>
 	<game name="Castle Wolfenstein (World) (Tosec)" cloneof="Castle Wolfenstein (World) (4AM)">
 		<category>Retail</category>
 		<description>Castle Wolfenstein (World) (Tosec)</description>
 		<rom name="Castle Wolfenstein (World) (Tosec).do" size="143403" crc="6a1f0034" md5="519dd5c639ae29dde3a8e7c0b33beeb1" sha1="db089d57b2e5d8a0843aa253cfa38392ec55b436"/>
 		<url>https://retroachievements.org/game/13929/hashes</url>
-		<hash>519DD5C639AE29DDE3A8E7C0B33BEEB1</hash>
+		<hash>519dd5c639ae29dde3a8e7c0b33beeb1</hash>
 	</game>
 	<game name="Castle Wolfenstein (World) (Tosec) (Alt)" cloneof="Castle Wolfenstein (World) (4AM)">
 		<category>Retail</category>
 		<description>Castle Wolfenstein (World) (Tosec) (Alt)</description>
 		<rom name="Castle Wolfenstein (World) (Tosec) (Alt).do" size="143360" crc="669051c0" md5="d3ec33dd785a8ef8f7a2e43fe01ef58a" sha1="a2e3fe250d41ccaec423aec78a8d83047e59672f"/>
 		<url>https://retroachievements.org/game/13929/hashes</url>
-		<hash>D3EC33DD785A8EF8F7A2E43FE01EF58A</hash>
+		<hash>d3ec33dd785a8ef8f7a2e43fe01ef58a</hash>
 	</game>
 	
 	<game name="Cavern Creatures (World) (WozADay)">
@@ -226,7 +226,7 @@
 		<release name="Dangerous Dave in the deserted Pirate's Hideout! (World) (Tosec)" region="World"/>
 		<rom name="Dangerous Dave in the deserted Pirate's Hideout! (World) (Tosec).po" size="143360" crc="8f8328a2" md5="41fdddcf581d2c01657c95d59a585c30" sha1="ca20be79466d84ead0c4053deda32a11e730b4df"/>
 		<url>https://retroachievements.org/game/19570/hashes</url>
-		<hash>41FDDDCF581D2C01657C95D59A585C30</hash>
+		<hash>41fdddcf581d2c01657c95d59a585c30</hash>
 	</game>
 	
 	<game name="Dark Lord (World) (WozADay)">
@@ -268,7 +268,7 @@
 		<release name="Donald's Alphabet Chase (1988) (Westwood Associates) (Cracked)" region="World"/>
 		<rom name="Donald's Alphabet Chase (1988) (Westwood Associates) (Cracked).dsk" size="143360" crc="f08cf26d" md5="b6712d0f0a84e8fb7bf8c0461bd11eb4" sha1="0555236ba122cd618261893abe46fc90742f99c4"/>
 		<url>https://retroachievements.org/game/22160/hashes</url>
-		<hash>B6712D0F0A84E8FB7BF8C0461BD11EB4</hash>
+		<hash>b6712d0f0a84e8fb7bf8c0461bd11eb4</hash>
 	</game>
 	
 	<game name="Donkey Kong (World) (Tosec)">
@@ -277,7 +277,7 @@
 		<release name="Donkey Kong (World) (Tosec)" region="World"/>
 		<rom name="Donkey Kong (World) (Tosec).dsk" size="143360" crc="99d02b9b" md5="a3bcfbb732ad5a21d95b909d7bf17a23" sha1="da84dee6fe1b90e99af1309bc3c0264786a2d5b2"/>
 		<url>https://retroachievements.org/game/14184/hashes</url>
-		<hash>A3BCFBB732AD5A21D95B909D7BF17A23</hash>
+		<hash>a3bcfbb732ad5a21d95b909d7bf17a23</hash>
 	</game>
 	
 	<game name="Eamon Adventure - 001 - Main Hall &amp; Beginners Cave (World) (Tosec)">
@@ -365,7 +365,7 @@
 		<release name="Evolution (World) (Tosec)" region="World"/>
 		<rom name="Evolution (World) (Tosec).dsk" size="143360" crc="c4e6b52b" md5="b5a99fe7eb633705189f6d87ab3b819f" sha1="1921109dcb690e99fe546041b4dd657d95d8ab51"/>
 		<url>https://retroachievements.org/game/17741/hashes</url>
-		<hash>B5A99FE7EB633705189F6D87AB3B819F</hash>
+		<hash>b5a99fe7eb633705189f6d87ab3b819f</hash>
 	</game>
 	
 	<game name="Fix It (1985) (Random House)" cloneof="FixIt (World) (4AM)">
@@ -373,7 +373,7 @@
 		<description>Fix It (1985) (Random House)</description>
 		<rom name="Fix It (1985) (Random House).dsk" size="143360" crc="133a67a4" md5="fcf1978328dec5ddffcbeaa0c0d40209" sha1="e09e55aa5a2c0bd0c534b28523e35e12a2daf96c"/>
 		<url>https://retroachievements.org/game/27437/hashes</url>
-		<hash>FCF1978328DEC5DDFFCBEAA0C0D40209</hash>
+		<hash>fcf1978328dec5ddffcbeaa0c0d40209</hash>
 	</game>
 	<game name="FixIt (World) (4AM)">
 		<category>Retail</category>
@@ -381,7 +381,7 @@
 		<release name="FixIt (World) (4AM)" region="World"/>
 		<rom name="FixIt (World) (4AM).dsk" size="143360" crc="e2440fed" md5="d0cdf48d06543609bb633fb51568b1ad" sha1="b62075756ac922ed19990362be8aea2b8c406ba1"/>
 		<url>https://retroachievements.org/game/27437/hashes</url>
-		<hash>D0CDF48D06543609BB633FB51568B1AD</hash>
+		<hash>d0cdf48d06543609bb633fb51568b1ad</hash>
 	</game>
 	
 	<game name="Fraction Munchers (World) (WozADay)">
@@ -408,7 +408,7 @@
 		<release name="Galaxian (World) (4AM)" region="World"/>
 		<rom name="Galaxian (World) (4AM).dsk" size="143360" crc="b2087527" md5="7e6783f2d7880b3792b311366eaf61f1" sha1="06da74bcbe71432bd541ba310a5bde1b72b84dda"/>
 		<url>https://retroachievements.org/game/16188/hashes</url>
-		<hash>7E6783F2D7880B3792B311366EAF61F1</hash>
+		<hash>7e6783f2d7880b3792b311366eaf61f1</hash>
 	</game>
 	<game name="Galaxian (World) (WozADay)" cloneof="Galaxian (World) (4AM)">
 		<category>Retail</category>
@@ -440,22 +440,22 @@
 		<rom name="Gold Rush! (World) (Disk 8A) (WozADay).woz" size="234823" crc="0d6cd2e5" md5="18df775193b32eab624b8bf1cbc39e61" sha1="5fd0a83ea530e010a34353f3a663887aa16c3964"/>
 		<rom name="Gold Rush! (World) (Disk 8B) (WozADay).woz" size="234823" crc="9894e285" md5="9b9a67399b2cb7ff3dd4e9d2270a2321" sha1="63a441f0bee1b130b7883e2bbfc20882884c40ef"/>
 		<url>https://retroachievements.org/game/18959/hashes</url>
-		<hash>0C21EEED49F7EAA4AD68948626639B03</hash>
-		<hash>D09912EEDE9424EAFC4AD463FEE93EBA</hash>
-		<hash>BDCFED7A8D7D3146CF061A45FA2C84D8</hash>
-		<hash>53CE40C404777FB07D6797B27A13D81B</hash>
-		<hash>CC578760F16CF582DA130725016C4244</hash>
-		<hash>C0F155ABF5CAB2B5F3D3258D69F63547</hash>
-		<hash>7B523FD100E14F721C9CDC548EBD48BB</hash>
-		<hash>5AFA32799F94E53CB3825D49ADFF8A45</hash>
-		<hash>434A9D62A1577E21D362BA56D6445F9F</hash>
-		<hash>E7F0F9F6F27FE2EE535A8A187FA5994B</hash>
-		<hash>AF9F48002CF9412FB346912669A55DE6</hash>
-		<hash>CA650F407D3BD06D400C10342D3853BB</hash>
-		<hash>BB76158B741ED7D5E9C403858149ECBE</hash>
-		<hash>0ED1EF9C085ACA863340EA948449E847</hash>
-		<hash>18DF775193B32EAB624B8BF1CBC39E61</hash>
-		<hash>9B9A67399B2CB7FF3DD4E9D2270A2321</hash>
+		<hash>0c21eeed49f7eaa4ad68948626639b03</hash>
+		<hash>d09912eede9424eafc4ad463fee93eba</hash>
+		<hash>bdcfed7a8d7d3146cf061a45fa2c84d8</hash>
+		<hash>53ce40c404777fb07d6797b27a13d81b</hash>
+		<hash>cc578760f16cf582da130725016c4244</hash>
+		<hash>c0f155abf5cab2b5f3d3258d69f63547</hash>
+		<hash>7b523fd100e14f721c9cdc548ebd48bb</hash>
+		<hash>5afa32799f94e53cb3825d49adff8a45</hash>
+		<hash>434a9d62a1577e21d362ba56d6445f9f</hash>
+		<hash>e7f0f9f6f27fe2ee535a8a187fa5994b</hash>
+		<hash>af9f48002cf9412fb346912669a55de6</hash>
+		<hash>ca650f407d3bd06d400c10342d3853bb</hash>
+		<hash>bb76158b741ed7d5e9c403858149ecbe</hash>
+		<hash>0ed1ef9c085aca863340ea948449e847</hash>
+		<hash>18df775193b32eab624b8bf1cbc39e61</hash>
+		<hash>9b9a67399b2cb7ff3dd4e9d2270a2321</hash>
 	</game>
 	
 	<game name="Hard Hat Mack (World) (Tosec)" cloneof="Hard Hat Mack (World) (WozADay)">
@@ -463,7 +463,7 @@
 		<description>Hard Hat Mack (World) (Tosec)</description>
 		<rom name="Hard Hat Mack (World) (Tosec).dsk" size="143360" crc="6270fc97" md5="2fb9e6d698d5ca4c6c28ec4fd72acc5c" sha1="4384b1fc30eefcb1f963d3cf2d5e8b958d5bbdba"/>
 		<url>https://retroachievements.org/game/14322/hashes</url>
-		<hash>2FB9E6D698D5CA4C6C28EC4FD72ACC5C</hash>
+		<hash>2fb9e6d698d5ca4c6c28ec4fd72acc5c</hash>
 	</game>
 	<game name="Hard Hat Mack (World) (WozADay)">
 		<category>Retail</category>
@@ -471,7 +471,7 @@
 		<release name="Hard Hat Mack (World) (WozADay)" region="World"/>
 		<rom name="Hard Hat Mack (World) (WozADay).woz" size="226887" crc="82a26a65" md5="aba173f5138eb06495c484aa0fca25b2" sha1="7fe8fa5f6c0a303221f6f6c4fd542feaec2c84e3"/>
 		<url>https://retroachievements.org/game/14322/hashes</url>
-		<hash>ABA173F5138EB06495C484AA0FCA25B2</hash>
+		<hash>aba173f5138eb06495c484aa0fca25b2</hash>
 	</game>
 	
 	<game name="Indiana Jones and the Temple of Doom (World) (WozADay)">
@@ -501,7 +501,7 @@
 		<release name="Karateka (World) (Tosec)" region="World"/>
 		<rom name="Karateka (World) (Tosec).dsk" size="143360" crc="5a5a298b" md5="c4e9ba49171ba4724ca4fac2d96f7791" sha1="eb7bb8c11e06e24ac603932ca3cf3cedfc2b55bb"/>
 		<url>https://retroachievements.org/game/13936/hashes</url>
-		<hash>C4E9BA49171BA4724CA4FAC2D96F7791</hash>
+		<hash>c4e9ba49171ba4724ca4fac2d96f7791</hash>
 	</game>
 
 	<game name="King's Quest (World) (AppleAsIMov) (TheBlade)" cloneof="King's Quest (World) (4AM)">
@@ -512,9 +512,9 @@
 		<rom name="King's Quest (World) (Disk 1B) (AppleAsIMov) (TheBlade).dsk" size="232960" crc="3a811fa7" md5="c7d0d8e28da4c4ee93ef059230260c62" sha1="e3a480755172e5a2f7b46a8800fc2282e264186a"/>
 		<rom name="King's Quest (World) (Disk 2A) (AppleAsIMov) (TheBlade).dsk" size="232960" crc="6dcb8517" md5="c5c91d02d70478080f376e280592db9d" sha1="606ec2d5df63c5b7addbcc6696fea2ac4f4ff8dd"/>
 		<url>https://retroachievements.org/game/14398/hashes</url>
-		<hash>13A81608986755022E048338450AFB1A</hash>
-		<hash>C7D0D8E28DA4C4EE93EF059230260C62</hash>
-		<hash>C5C91D02D70478080F376E280592DB9D</hash>
+		<hash>13a81608986755022e048338450afb1a</hash>
+		<hash>c7d0d8e28da4c4ee93ef059230260c62</hash>
+		<hash>c5c91d02d70478080f376e280592db9d</hash>
 	</game>
 	<game name="King's Quest (World) (4AM)">
 		<category>Retail</category>
@@ -525,9 +525,9 @@
 		<rom name="King's Quest (World) (Disk 1B) (4AM).dsk" size="143360" crc="b39dc9ff" md5="0abf79679eb7d33ccae220ab9229cb27" sha1="612d93007050cd47f1216b406a7fbb62f9ab75a0"/>
 		<rom name="King's Quest (World) (Disk 2A) (4AM).dsk" size="143360" crc="2fd0b2b2" md5="f4c6c8c11e3fab4fc22e44be3c535f67" sha1="2c179d77b3216af2d30dc083369052054258b5a9"/>
 		<url>https://retroachievements.org/game/14398/hashes</url>
-		<hash>5CE474D9EE686F66FFFF6E6F26A90418</hash>
-		<hash>0ABF79679EB7D33CCAE220AB9229CB27</hash>
-		<hash>F4C6C8C11E3FAB4FC22E44BE3C535F67</hash>
+		<hash>5ce474d9ee686f66ffff6e6f26a90418</hash>
+		<hash>0abf79679eb7d33ccae220ab9229cb27</hash>
+		<hash>f4c6c8c11e3fab4fc22e44be3c535f67</hash>
 	</game>
 	<game name="King's Quest (World) (Tosec)" cloneof="King's Quest (World) (4AM)">
 		<category>Retail</category>
@@ -538,10 +538,10 @@
 		<rom name="King's Quest (World) (Disk 2A) (Tosec).nib" size="232960" crc="09b6969a" md5="1895ddb08c2068a66f9df3765a29f5bf" sha1="87da424d5eac53a05fc2403a44c3e92cfa68f49c"/>
 		<rom name="King's Quest (World) (Save Disk) (Tosec).nib" size="232960" crc="83934385" md5="92088fe43463ece00e33e0cc150c4a0e" sha1="3492218db606732968f67a59cc9d68b58d8cb42e"/>
 		<url>https://retroachievements.org/game/14398/hashes</url>
-		<hash>EBB389599DEBAC2B554C431BFB0F919C</hash>
-		<hash>6A2BD8CE8B19436D2CE455B751AADB31</hash>
-		<hash>1895DDB08C2068A66F9DF3765A29F5BF</hash>
-		<hash>92088FE43463ECE00E33E0CC150C4A0E</hash>
+		<hash>ebb389599debac2b554c431bfb0f919c</hash>
+		<hash>6a2bd8ce8b19436d2ce455b751aadb31</hash>
+		<hash>1895ddb08c2068a66f9df3765a29f5bf</hash>
+		<hash>92088fe43463ece00e33e0cc150c4a0e</hash>
 	</game>
 	<game name="King's Quest (World) (WozADay)" cloneof="King's Quest (World) (4AM)">
 		<category>Retail</category>
@@ -566,11 +566,11 @@
 		<rom name="King's Quest II - Romancing the Throne (World) (Disk 2B) (AppleAsIMov).nib" size="232960" crc="977a188c" md5="46ca9ce71dd984496684fc671fb18af1" sha1="0f0b49499f30bdc3d53c064007cdedd7be510787"/>
 		<rom name="King's Quest II - Romancing the Throne (World) (Disk 3A) (AppleAsIMov).nib" size="232960" crc="d3c6f2b0" md5="9998017630a30d635dff03bbd5515925" sha1="c7311296bfb9d60cc554b4c70cd26d2fc5616d7e"/>
 		<url>https://retroachievements.org/game/17138/hashes</url>
-		<hash>51FECF807B7369288714FA67492D0209</hash>
-		<hash>654F982FF24269DEDF646052EC469F94</hash>
-		<hash>74571C7ECFA0F2F6686A8FF70029B595</hash>
-		<hash>46CA9CE71DD984496684FC671FB18AF1</hash>
-		<hash>9998017630A30D635DFF03BBD5515925</hash>
+		<hash>51fecf807b7369288714fa67492d0209</hash>
+		<hash>654f982ff24269dedf646052ec469f94</hash>
+		<hash>74571c7ecfa0f2f6686a8ff70029b595</hash>
+		<hash>46ca9ce71dd984496684fc671fb18af1</hash>
+		<hash>9998017630a30d635dff03bbd5515925</hash>
 	</game>
 	<game name="King's Quest II - Romancing the Throne (World) (WozADay)">
 		<category>Retail</category>
@@ -599,11 +599,11 @@
 		<rom name="King's Quest II - Romancing the Throne (1985) (Sierra OnLine) (The Blade) (Disk 2 - Side B).nib" size="232960" crc="ebd7ba56" md5="da01ed6b55920013f63e2d79fbb15660" sha1="3b6bdf27d68ef4942fdc398b1ac82e456226cb76"/>
 		<rom name="King's Quest II - Romancing the Throne (1985) (Sierra OnLine) (The Blade) (Disk 3).nib" size="232960" crc="2eb068a1" md5="0fe0171c101d92659530af44be9df553" sha1="6c8849be4c338b0e1756481f2c87d0c157eec246"/>
 		<url>https://retroachievements.org/game/17138/hashes</url>
-		<hash>D8549AE7A488AB18289A02C13461D24B</hash>
-		<hash>239F0238141BA3ECB100D015D543AC1F</hash>
-		<hash>E077D01F89C5D87FDF1F85890F579ED4</hash>
-		<hash>DA01ED6B55920013F63E2D79FBB15660</hash>
-		<hash>0FE0171C101D92659530AF44BE9DF553</hash>
+		<hash>d8549ae7a488ab18289a02c13461d24b</hash>
+		<hash>239f0238141ba3ecb100d015d543ac1f</hash>
+		<hash>e077d01f89c5d87fdf1f85890f579ed4</hash>
+		<hash>da01ed6b55920013f63e2d79fbb15660</hash>
+		<hash>0fe0171c101d92659530af44be9df553</hash>
 	</game>
 	
 	<game name="King's Quest III - To Heir is Human (World) (AppleAsIMov)" cloneof="King's Quest III - To Heir is Human (World) (4AM)">
@@ -621,16 +621,16 @@
 		<rom name="King's Quest III - To Heir is Human (World) (Disk 5A) (AppleAsIMov).nib" size="232960" crc="d510bf01" md5="56ee4e9df35fc0a381b429229d56b0a6" sha1="ba957b8cb68d3c0d3096628372d060653d132a26"/>
 		<rom name="King's Quest III - To Heir is Human (World) (Disk 5B) (AppleAsIMov).nib" size="232960" crc="52ea3c26" md5="7d9c8e44565f77a456edec06a7ab7522" sha1="0fc4c5040632524244d30f367712313ed6af0e2f"/>
 		<url>https://retroachievements.org/game/17931/hashes</url>
-		<hash>672BC970B2FB7CE5196AAEA5F352DB0A</hash>
-		<hash>5F7173C2F1B83C1D3F1689D2E6828527</hash>
-		<hash>39DEFAB9848473F907AE74014BF3043D</hash>
-		<hash>F852AC1BC5DD5399FA4643498E6B3676</hash>
-		<hash>2A46AFECDC07D35CCEC48AB1D599A9C1</hash>
-		<hash>4D9E6C26013DBFD5CC69B7D2F6CF64F4</hash>
-		<hash>EECFF1EF24C4E4A6C127D6DC75266CDB</hash>
-		<hash>AE274568A27E15729CC50A0251E57CA7</hash>
-		<hash>56EE4E9DF35FC0A381B429229D56B0A6</hash>
-		<hash>7D9C8E44565F77A456EDEC06A7AB7522</hash>
+		<hash>672bc970b2fb7ce5196aaea5f352db0a</hash>
+		<hash>5f7173c2f1b83c1d3f1689d2e6828527</hash>
+		<hash>39defab9848473f907ae74014bf3043d</hash>
+		<hash>f852ac1bc5dd5399fa4643498e6b3676</hash>
+		<hash>2a46afecdc07d35ccec48ab1d599a9c1</hash>
+		<hash>4d9e6c26013dbfd5cc69b7d2f6cf64f4</hash>
+		<hash>eecff1ef24c4e4a6c127d6dc75266cdb</hash>
+		<hash>ae274568a27e15729cc50a0251e57ca7</hash>
+		<hash>56ee4e9df35fc0a381b429229d56b0a6</hash>
+		<hash>7d9c8e44565f77a456edec06a7ab7522</hash>
 	</game>
 	<game name="King's Quest III - To Heir is Human (World) (4AM)">
 		<category>Retail</category>
@@ -648,16 +648,16 @@
 		<rom name="King's Quest III - To Heir is Human (World) (Disk 5A) (4AM).dsk" size="143360" crc="8b303da7" md5="60002b432259775ae0ebaa570d9028b8" sha1="a7532a9a7b482453cfac78cdcea1f69f1ee2e9da"/>
 		<rom name="King's Quest III - To Heir is Human (World) (Disk 5B) (4AM).dsk" size="143360" crc="73b6f6f6" md5="1ca154925f519bbed3e71d2819088cb7" sha1="f24f7c5d4fee54b15a9e2707ade60d6911ff4eda"/>
 		<url>https://retroachievements.org/game/17931/hashes</url>
-		<hash>6797501ABD69A5EBF43A0AFD7A1A123A</hash>
-		<hash>F35CF26BEF5A3E60E5A0CBEDFE39A038</hash>
-		<hash>A728E92049696DB5E164D95EF3FDB7CC</hash>
-		<hash>E1A71AC3AC8BBB76054985608D17ECAE</hash>
-		<hash>3988249F343013A5F6B77F7849768C5C</hash>
-		<hash>22EEC53103E160640D4DDDFA5241EF59</hash>
-		<hash>BF8E0F8706328C2BD14CAF31D4BF1375</hash>
-		<hash>4C139A3F6766F3C3E18D60FEF7395FC3</hash>
-		<hash>60002B432259775AE0EBAA570D9028B8</hash>
-		<hash>1CA154925F519BBED3E71D2819088CB7</hash>
+		<hash>6797501abd69a5ebf43a0afd7a1a123a</hash>
+		<hash>f35cf26bef5a3e60e5a0cbedfe39a038</hash>
+		<hash>a728e92049696db5e164d95ef3fdb7cc</hash>
+		<hash>e1a71ac3ac8bbb76054985608d17ecae</hash>
+		<hash>3988249f343013a5f6b77f7849768c5c</hash>
+		<hash>22eec53103e160640d4dddfa5241ef59</hash>
+		<hash>bf8e0f8706328c2bd14caf31d4bf1375</hash>
+		<hash>4c139a3f6766f3c3e18d60fef7395fc3</hash>
+		<hash>60002b432259775ae0ebaa570d9028b8</hash>
+		<hash>1ca154925f519bbed3e71d2819088cb7</hash>
 	</game>
 	<game name="King's Quest III - To Heir is Human (World) (WozADay)" cloneof="King's Quest III - To Heir is Human (World) (4AM)">
 		<category>Retail</category>
@@ -708,22 +708,22 @@
 		<rom name="King's Quest IV - The Perils of Rosella (World) (Disk 8A) (WozADay).woz" size="235026" crc="57e62367" md5="2648141a6e66b21393332d2aafb12c4d" sha1="c9d31e22986e8bf29c1463e8e396f95f7534ac65"/>
 		<rom name="King's Quest IV - The Perils of Rosella (World) (Disk 8B) (WozADay).woz" size="235026" crc="b86151c6" md5="2fd4768b0b84fcc1d699bd89d58c4365" sha1="9180baa113f7f85c03f1a836934a69bf3dca451c"/>
 		<url>https://retroachievements.org/game/18952/hashes</url>
-		<hash>DA07139CB035AFE5CE0C7E22D328FB5E</hash>
-		<hash>8A5D200BDCBCED560D4909353F261313</hash>
-		<hash>63437EB5BF3A7ABB729379F2D249EE5A</hash>
-		<hash>A7482109EA51EA787440ABD221D45D18</hash>
-		<hash>2F72CAAAE8E445733C92FBDF50A1D8F5</hash>
-		<hash>C578D2209649BCD13A2F0C3348F47883</hash>
-		<hash>A81635E7C78AA0B9B1943328ACE3C258</hash>
-		<hash>1973093045B7D45ABC3B01E1358CCE99</hash>
-		<hash>9A199C2E1C05D0703A10A444E23E9557</hash>
-		<hash>BD40F55C1D509BF37F321A7FF0860237</hash>
-		<hash>468496A71FB71EA4F2185F282F37578A</hash>
-		<hash>3BA47A7E6371C86B8263B0A8EAD4F151</hash>
-		<hash>BA972C0E987BF9FBAA20BC2D87BF7ED6</hash>
-		<hash>B3AB225F9999018D396F2090434C0298</hash>
-		<hash>2648141A6E66B21393332D2AAFB12C4D</hash>
-		<hash>2FD4768B0B84FCC1D699BD89D58C4365</hash>
+		<hash>da07139cb035afe5ce0c7e22d328fb5e</hash>
+		<hash>8a5d200bdcbced560d4909353f261313</hash>
+		<hash>63437eb5bf3a7abb729379f2d249ee5a</hash>
+		<hash>a7482109ea51ea787440abd221d45d18</hash>
+		<hash>2f72caaae8e445733c92fbdf50a1d8f5</hash>
+		<hash>c578d2209649bcd13a2f0c3348f47883</hash>
+		<hash>a81635e7c78aa0b9b1943328ace3c258</hash>
+		<hash>1973093045b7d45abc3b01e1358cce99</hash>
+		<hash>9a199c2e1c05d0703a10a444e23e9557</hash>
+		<hash>bd40f55c1d509bf37f321a7ff0860237</hash>
+		<hash>468496a71fb71ea4f2185f282f37578a</hash>
+		<hash>3ba47a7e6371c86b8263b0a8ead4f151</hash>
+		<hash>ba972c0e987bf9fbaa20bc2d87bf7ed6</hash>
+		<hash>b3ab225f9999018d396f2090434c0298</hash>
+		<hash>2648141a6e66b21393332d2aafb12c4d</hash>
+		<hash>2fd4768b0b84fcc1d699bd89d58c4365</hash>
 	</game>
 	
 	<game name="La Femme qui ne supportait pas les ordinateurs... (1985) (Froggy Software)">
@@ -734,8 +734,8 @@
 		<rom name="La Femme qui ne supportait pas les ordinateurs... (1985) (Froggy Software) (Disk 1).dsk" size="143360" crc="1fa3f4c9" md5="9d3749dceb156e166fea18765263ba92" sha1="605cfd5a7896f555b3685caedcde78fd309c263f"/>
 		<rom name="La Femme qui ne supportait pas les ordinateurs... (1985) (Froggy Software) (Disk 2).dsk" size="143360" crc="1661e4a9" md5="b70feb11a48af379b44300e8a20e47ca" sha1="18d77b7d0cfcd9ec0d6c7873c1e12670e6ecfb99"/>
 		<url>https://retroachievements.org/game/14391/hashes</url>
-		<hash>9D3749DCEB156E166FEA18765263BA92</hash>
-		<hash>B70FEB11A48AF379B44300E8A20E47CA</hash>
+		<hash>9d3749dceb156e166fea18765263ba92</hash>
+		<hash>b70feb11a48af379b44300e8a20e47ca</hash>
 	</game>
 	
 	<game name="Leisure Suit Larry I (in The Land of The Lounge Lizards) (World) (WozADay)">
@@ -749,11 +749,11 @@
 		<rom name="Leisure Suit Larry I (in The Land of The Lounge Lizards) (World) (Disk 2B) (WozADay).woz" size="235596" crc="02985a4a" md5="a4c727ffd18b58414b1cd6c975829de2" sha1="3c564f9b14cf397796e3b9fd41490281b0e6200f"/>
 		<rom name="Leisure Suit Larry I (in The Land of The Lounge Lizards) (World) (Disk 3A) (WozADay).woz" size="235596" crc="1463b109" md5="48efe5e32963ed8b794221b0f5283972" sha1="32f48c48e87fe716de1db5cfd1b52694a4fe2750"/>
 		<url>https://retroachievements.org/game/13935/hashes</url>
-		<hash>BC7CB21FEBF7B3E6B405FAE9FA03A4E8</hash>
-		<hash>3883AA9885C29AB327C234D5801F74E4</hash>
-		<hash>58385D0C76C5D01990E0BE16062E8633</hash>
-		<hash>A4C727FFD18B58414B1CD6C975829DE2</hash>
-		<hash>48EFE5E32963ED8B794221B0F5283972</hash>
+		<hash>bc7cb21febf7b3e6b405fae9fa03a4e8</hash>
+		<hash>3883aa9885c29ab327c234d5801f74e4</hash>
+		<hash>58385d0c76c5d01990e0be16062e8633</hash>
+		<hash>a4c727ffd18b58414b1cd6c975829de2</hash>
+		<hash>48efe5e32963ed8b794221b0f5283972</hash>
 	</game>
 	
 	<game name="Lemonade Stand (World) (Tosec)">
@@ -762,7 +762,7 @@
 		<release name="Lemonade Stand (World) (Tosec)" region="World"/>
 		<rom name="Lemonade Stand (World) (Tosec).dsk" size="143360" crc="f9e8efee" md5="6d11ec35cae44ebab4550e6a0edff8bd" sha1="b52f68f6beb7d8834e22e70356cd53a4201eb282"/>
 		<url>https://retroachievements.org/game/26622/hashes</url>
-		<hash>6D11EC35CAE44EBAB4550E6A0EDFF8BD</hash>
+		<hash>6d11ec35cae44ebab4550e6a0edff8bd</hash>
 	</game>
 	
 	<game name="Lode Runner (World) (Tosec)" cloneof="Lode Runner (World) (4AM)">
@@ -770,7 +770,7 @@
 		<description>Lode Runner (World) (Tosec)</description>
 		<rom name="Lode Runner (World) (Tosec).dsk" size="143360" crc="39e2bd1d" md5="98ba542f94d25a635fd313710fd758f9" sha1="7b717af711853115d808ca0451d05b76841bc705"/>
 		<url>https://retroachievements.org/game/14225/hashes</url>
-		<hash>98BA542F94D25A635FD313710FD758F9</hash>
+		<hash>98ba542f94d25a635fd313710fd758f9</hash>
 	</game>
 	<game name="Lode Runner (World) (4AM)">
 		<category>Retail</category>
@@ -778,14 +778,14 @@
 		<release name="Lode Runner (World) (4AM)" region="World"/>
 		<rom name="Lode Runner (World) (4AM).dsk" size="143360" crc="148a8095" md5="b2397861f6b8974134d238ad3ad9c4fc" sha1="2293b9b3f73e207d5d9e8d62a7c29774e8ac2913"/>
 		<url>https://retroachievements.org/game/14225/hashes</url>
-		<hash>B2397861F6B8974134D238AD3AD9C4FC</hash>
+		<hash>b2397861f6b8974134d238ad3ad9c4fc</hash>
 	</game>
 	<game name="Lode Runner (World) (WozADay)" cloneof="Lode Runner (World) (4AM)">
 		<category>Retail</category>
 		<description>Lode Runner (World) (WozADay)</description>
 		<rom name="Lode Runner (World) (WozADay).woz" size="353289" crc="62728de0" md5="f491b82b944c8d55c7ce82c3056df556" sha1="8bbad930b34415be05e854e1cad20326d2dc9390"/>
 		<url>https://retroachievements.org/game/14225/hashes</url>
-		<hash>F491B82B944C8D55C7CE82C3056DF556</hash>
+		<hash>f491b82b944c8d55c7ce82c3056df556</hash>
 	</game>
 
 	<game name="Lunar Greenhouse (World) (WozADay)">
@@ -794,7 +794,7 @@
 		<release name="Lunar Greenhouse (World) (WozADay)" region="World"/>
 		<rom name="Lunar Greenhouse (World) (WozADay).woz" size="234824" crc="418d7ad6" md5="7ca5fbd67cb158ed65abec3bd8564348" sha1="a78e4f6ebda70b5d41acc30543c6dc1204d3dfed"/>
 		<url>https://retroachievements.org/game/20057/hashes</url>
-		<hash>7CA5FBD67CB158ED65ABEC3BD8564348</hash>
+		<hash>7ca5fbd67cb158ed65abec3bd8564348</hash>
 	</game>
 	
 	<game name="Maniac Mansion (World) (WozADay)" cloneof="Maniac Mansion (World) (4AM)">
@@ -804,8 +804,8 @@
 		<rom name="Maniac Mansion (World) (Disk 1A) (WozADay).woz" size="234764" crc="b5e15813" md5="18ec40ab05a0a4b6a9344ed5ab398f20" sha1="5f6ed27c94b6c97614a5ffe3752ee89ea961425e"/>
 		<rom name="Maniac Mansion (World) (Disk 1B) (WozADay).woz" size="234764" crc="b0050215" md5="fa971de45d11f586136d12adda9cfc3f" sha1="4b088c42b306b82402e3dc7b040f6dce0f61ebb3"/>
 		<url>https://retroachievements.org/game/16360/hashes</url>
-		<hash>18EC40AB05A0A4B6A9344ED5AB398F20</hash>
-		<hash>FA971DE45D11F586136D12ADDA9CFC3F</hash>
+		<hash>18ec40ab05a0a4b6a9344ed5ab398f20</hash>
+		<hash>fa971de45d11f586136d12adda9cfc3f</hash>
 	</game>
 	<game name="Maniac Mansion (World) (Tosec)" cloneof="Maniac Mansion (World) (4AM)">
 		<category>Retail</category>
@@ -814,8 +814,8 @@
 		<rom name="Maniac Mansion (World) (Disk 1A) (Tosec).dsk" size="143360" crc="15798a84" md5="394d0b39eb51ee850c45c31591f1bc7c" sha1="ab53e8223a5f05d49550d1421bc55b2e2bd63825"/>
 		<rom name="Maniac Mansion (World) (Disk 1B) (Tosec).dsk" size="143360" crc="de0a27e2" md5="fd7e3593570af7bcbfbfd030063849d2" sha1="823be1e6dac320029806b7d1d8e521ae66ab3dac"/>
 		<url>https://retroachievements.org/game/16360/hashes</url>
-		<hash>394D0B39EB51EE850C45C31591F1BC7C</hash>
-		<hash>FD7E3593570AF7BCBFBFD030063849D2</hash>
+		<hash>394d0b39eb51ee850c45c31591f1bc7c</hash>
+		<hash>fd7e3593570af7bcbfbfd030063849d2</hash>
 	</game>
 	<game name="Maniac Mansion (World) (4AM)">
 		<category>Retail</category>
@@ -823,14 +823,14 @@
 		<release name="Maniac Mansion (World) (4AM)" region="World"/>
 		<rom name="Maniac Mansion (World) (4AM).dsk" size="143360" crc="b353887f" md5="296a70f4211395db9dde69552bf381d7" sha1="59551145b051d6f071314c7e235792061566881d"/>
 		<url>https://retroachievements.org/game/16360/hashes</url>
-		<hash>296A70F4211395DB9DDE69552BF381D7</hash>
+		<hash>296a70f4211395db9dde69552bf381d7</hash>
 	</game>
 	<game name="Maniac Mansion (World) (AppleAsIMov)" cloneof="Maniac Mansion (World) (4AM)">
 		<category>Retail</category>
 		<description>Maniac Mansion (World) (AppleAsIMov)</description>
 		<rom name="Maniac Mansion (World) (AppleAsIMov).dsk" size="143360" crc="7bfcc8be" md5="6d3e9a44861d2e34df5e081eca2d72b3" sha1="37de48200b0e68ab89db5903bd8b27af4adeedb5"/>
 		<url>https://retroachievements.org/game/16360/hashes</url>
-		<hash>6D3E9A44861D2E34DF5E081ECA2D72B3</hash>
+		<hash>6d3e9a44861d2e34df5e081eca2d72b3</hash>
 	</game>
 	
 	<game name="Mario Bros. (World) (Tosec)">
@@ -839,7 +839,7 @@
 		<release name="Mario Bros. (World) (Tosec)" region="World"/>
 		<rom name="Mario Bros. (World) (Tosec).do" size="143360" crc="c9516933" md5="30de3faafa79af65f7b901bf6365503a" sha1="49c46eaa2395cbd130ed4b3ecfa3db408593e9db"/>
 		<url>https://retroachievements.org/game/14183/hashes</url>
-		<hash>30DE3FAAFA79AF65F7B901BF6365503A</hash>
+		<hash>30de3faafa79af65f7b901bf6365503a</hash>
 	</game>
 	
 	<game name="Megabots (World) (4AM)">
@@ -848,7 +848,7 @@
 		<release name="Megabots (World) (4AM)" region="World"/>
 		<rom name="Megabots (World) (4AM).dsk" size="143360" crc="2a2b8208" md5="1208cc0b1d18d6b6b077164fca770c9b" sha1="1843919c3ed5bee5723b7ee6fa696753bafa1a37"/>
 		<url>https://retroachievements.org/game/14024/hashes</url>
-		<hash>1208CC0B1D18D6B6B077164FCA770C9B</hash>
+		<hash>1208cc0b1d18d6b6b077164fca770c9b</hash>
 	</game>
 	
 	<game name="Mind Castle I (World) (WozADay)">
@@ -925,7 +925,7 @@
 		<release name="Nibbler (World) (Tosec)" region="World"/>
 		<rom name="Nibbler (World) (Tosec).nib" size="232960" crc="5f0f98fb" md5="e1c816373c793c50c96b62ad5fb7500f" sha1="164cc85ac58fc41ed7e25d89ed6110fca5ab4008"/>
 		<url>https://retroachievements.org/game/14724/hashes</url>
-		<hash>E1C816373C793C50C96B62AD5FB7500F</hash>
+		<hash>e1c816373c793c50c96b62ad5fb7500f</hash>
 	</game>
 	
 	<game name="Number Munchers (World) (Tosec)">
@@ -934,7 +934,7 @@
 		<release name="Number Munchers (World) (Tosec)" region="World"/>
 		<rom name="Number Munchers (World) (Tosec).dsk" size="143360" crc="c42de4c8" md5="9b55fc36780dcdc7be8e7149d08af750" sha1="4725fc7e170d315b57fa91edb68fdcf16d32077b"/>
 		<url>https://retroachievements.org/game/14034/hashes</url>
-		<hash>9B55FC36780DCDC7BE8E7149D08AF750</hash>
+		<hash>9b55fc36780dcdc7be8e7149d08af750</hash>
 	</game>
 	
 	<game name="Odell Lake (World) (4AM)">
@@ -943,7 +943,7 @@
 		<release name="Odell Lake (World) (4AM)" region="World"/>
 		<rom name="Odell Lake (World) (4AM).dsk" size="143360" crc="f3a5b62a" md5="235600cb734020deef456a14617225b0" sha1="b2ce3a070cc2c7d2f95ee0cca16f5a13c41d8cbc"/>
 		<url>https://retroachievements.org/game/14231/hashes</url>
-		<hash>235600CB734020DEEF456A14617225B0</hash>
+		<hash>235600cb734020deef456a14617225b0</hash>
 	</game>
 	
 	<game name="Pac-Man (World) (Tosec)">
@@ -952,14 +952,14 @@
 		<release name="Pac-Man (World) (Tosec)" region="World"/>
 		<rom name="Pac-Man (World) (Tosec).do" size="143360" crc="b02e3684" md5="6d323b42925299e361579b50c60bd32e" sha1="f80fcf39bd5c035a665dede00a4522961c1fcf7c"/>
 		<url>https://retroachievements.org/game/13932/hashes</url>
-		<hash>6D323B42925299E361579B50C60BD32E</hash>
+		<hash>6d323b42925299e361579b50c60bd32e</hash>
 	</game>
 	<game name="Taxman (World) (Tosec)" cloneof="Pac-Man (World) (Tosec)">
 		<category>Retail</category>
 		<description>Taxman (World) (Tosec)</description>
 		<rom name="Taxman (World) (Tosec).do" size="143360" crc="402c2d3a" md5="c30fd9280c403e711b66ae9d7bdbcbca" sha1="01bf5694b320c4ff204476439dfb1aefbd0bbdd5"/>
 		<url>https://retroachievements.org/game/13932/hashes</url>
-		<hash>C30FD9280C403E711B66AE9D7BDBCBCA</hash>
+		<hash>c30fd9280c403e711b66ae9d7bdbcbca</hash>
 	</game>
 	
 	<game name="Paranoiak (France) (Tosec)">
@@ -969,8 +969,8 @@
 		<rom name="Paranoiak (France) (Disk 1A) (Tosec).dsk" size="143360" crc="0e664d69" md5="9771f313dda522e8c65407e94c173fb2" sha1="9c2a6091bc9b07dc12799b0c273305b01d8d3d7f"/>
 		<rom name="Paranoiak (France) (Disk 1B) (Tosec).dsk" size="143360" crc="62cc6021" md5="ddc76a12c8dcd197b8d5395bf80f9461" sha1="d5cc4e4107efc8d4179bb5fc54125f8e2142bea4"/>
 		<url>https://retroachievements.org/game/14038/hashes</url>
-		<hash>9771F313DDA522E8C65407E94C173FB2</hash>
-		<hash>DDC76A12C8DCD197B8D5395BF80F9461</hash>
+		<hash>9771f313dda522e8c65407e94c173fb2</hash>
+		<hash>ddc76a12c8dcd197b8d5395bf80f9461</hash>
 	</game>
 
 	<game name="Pooyan (World) (WozADay)">
@@ -990,8 +990,8 @@
 		<rom name="Prince of Persia (World) (Disk 1A) (WozADay).woz" size="233481" crc="a3820127" md5="7314dbc241b9a21cc004eb428bb7e070" sha1="bf7c7c03fcc93b989a8a7e566ec711888553a9de"/>
 		<rom name="Prince of Persia (World) (Disk 1B) (WozADay).woz" size="233481" crc="6de94d52" md5="d566f78651f70fad171111bf38e2cfca" sha1="931e264563390d1e76cef9a7db31492643f45b49"/>
 		<url>https://retroachievements.org/game/13925/hashes</url>
-		<hash>7314DBC241B9A21CC004EB428BB7E070</hash>
-		<hash>D566F78651F70FAD171111BF38E2CFCA</hash>
+		<hash>7314dbc241b9a21cc004eb428bb7e070</hash>
+		<hash>d566f78651f70fad171111bf38e2cfca</hash>
 	</game>
 	<game name="Prince of Persia (1989) (Broderbund) (Rebuilt from Source)" cloneof="Prince of Persia (World) (WozADay)">
 		<category>Retail</category>
@@ -1000,8 +1000,8 @@
 		<rom name="Prince of Persia (1989) (Broderbund) (Rebuilt from Source) (Disk A).nib" size="232960" crc="b2715492" md5="d7c976c61c01f620e7cb1d3a5d432601" sha1="610108ac42dbc3f061606eea97b2a8cfd039e9dc"/>
 		<rom name="Prince of Persia (1989) (Broderbund) (Rebuilt from Source) (Disk B).nib" size="232960" crc="6af84266" md5="4f319042ecb13e6a6090456d18b2aef3" sha1="64744920e918e65c30b90fea63b760b4097a03d2"/>
 		<url>https://retroachievements.org/game/13925/hashes</url>
-		<hash>D7C976C61C01F620E7CB1D3A5D432601</hash>
-		<hash>4F319042ECB13E6A6090456D18B2AEF3</hash>
+		<hash>d7c976c61c01f620e7cb1d3a5d432601</hash>
+		<hash>4f319042ecb13e6a6090456d18b2aef3</hash>
 	</game>
 	
 	<game name="Hulk, The (World) (Tosec)" cloneof="Questprobe featuring The Hulk (World) (4AM)">
@@ -1011,8 +1011,8 @@
 		<rom name="Hulk, The (World) (Disk 1A) (Tosec).do" size="143360" crc="2be1305b" md5="142eb7771b9767548fe8c68baefbb0b0" sha1="3cbb0d2d9564884f2212781117f1912872a9fb28"/>
 		<rom name="Hulk, The (World) (Disk 1B) (Tosec).do" size="143360" crc="0961e874" md5="4211479afa2281582afd474bac7c863b" sha1="9c7d8601a4b9718f68d1cac11789b84c65bff399"/>
 		<url>https://retroachievements.org/game/14320/hashes</url>
-		<hash>142EB7771B9767548FE8C68BAEFBB0B0</hash>
-		<hash>4211479AFA2281582AFD474BAC7C863B</hash>
+		<hash>142eb7771b9767548fe8c68baefbb0b0</hash>
+		<hash>4211479afa2281582afd474bac7c863b</hash>
 	</game>
 	<game name="Questprobe featuring The Hulk (World) (4AM)">
 		<category>Retail</category>
@@ -1020,7 +1020,7 @@
 		<release name="Questprobe featuring The Hulk (World) (4AM)" region="World"/>
 		<rom name="Questprobe featuring The Hulk (World) (4AM).dsk" size="143360" crc="566a41db" md5="c05df3fa4a519917d7fd05f2ce52aaca" sha1="b125479ba450f1ac73020008d3267caaaba38c19"/>
 		<url>https://retroachievements.org/game/14320/hashes</url>
-		<hash>C05DF3FA4A519917D7FD05F2CE52AACA</hash>
+		<hash>c05df3fa4a519917d7fd05f2ce52aaca</hash>
 	</game>
 	
 	<game name="Rainy Day Games (World) (Tosec)">
@@ -1029,7 +1029,7 @@
 		<release name="Rainy Day Games (World) (Tosec)" region="World"/>
 		<rom name="Rainy Day Games (World) (Tosec).dsk" size="143360" crc="280e1f57" md5="e256e4abeaf9af224902ca7c6bb8654d" sha1="de91a07c9ea034457c0d9296aae30915d19fa1c0"/>
 		<url>https://retroachievements.org/game/25207/hashes</url>
-		<hash>E256E4ABEAF9AF224902CA7C6BB8654D</hash>
+		<hash>e256e4abeaf9af224902ca7c6bb8654d</hash>
 	</game>
 	
 	<game name="Realm of Impossibility (World) (WozADay)">
@@ -1078,14 +1078,14 @@
 		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 4A) (Appleasimov) (TheBlade).dsk" size="232960" crc="9001c937" md5="fb967dd9b5618c059c25dab5d3662f41" sha1="232f4d29e944f918e1c236db9ac2c8aaf2c04a93"/>
 		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 4B) (Appleasimov) (TheBlade).dsk" size="232960" crc="a789ac60" md5="a6329c61ffe49b690bce3833a1c251c7" sha1="a7e12a012d25e441f770ba3eaeee4299bfa34a54"/>
 		<url>https://retroachievements.org/game/18951/hashes</url>
-		<hash>500E83093B5011D7E752CF9858B34D9B</hash>
-		<hash>1B0829123798C8A2621BD5BEC09447F9</hash>
-		<hash>AB261515B456C2DD6C1D7AE6A6C13178</hash>
-		<hash>2AB3435530A899C6064F069BCEB2C0DF</hash>
-		<hash>FB8E7BEE636E36FBB599188155B56627</hash>
-		<hash>54E297B5007E72458F760BBA4E1154F5</hash>
-		<hash>FB967DD9B5618C059C25DAB5D3662F41</hash>
-		<hash>A6329C61FFE49B690BCE3833A1C251C7</hash>
+		<hash>500e83093b5011d7e752cf9858b34d9b</hash>
+		<hash>1b0829123798c8a2621bd5bec09447f9</hash>
+		<hash>ab261515b456c2dd6c1d7ae6a6c13178</hash>
+		<hash>2ab3435530a899c6064f069bceb2c0df</hash>
+		<hash>fb8e7bee636e36fbb599188155b56627</hash>
+		<hash>54e297b5007e72458f760bba4e1154f5</hash>
+		<hash>fb967dd9b5618c059c25dab5d3662f41</hash>
+		<hash>a6329c61ffe49b690bce3833a1c251c7</hash>
 	</game>
 	<game name="Space Quest I (The Sarien Encounter) (World) (4AM)">
 		<category>Retail</category>
@@ -1101,14 +1101,14 @@
 		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 4A) (4AM).dsk" size="143360" crc="7d32c1fe" md5="2d10b0a2eec341411d45f0f9b705be62" sha1="0e8a7a2da6e36ffa1425a85bd7ef49461f74a4cf"/>
 		<rom name="Space Quest I (The Sarien Encounter) (World) (Disk 4B) (4AM).dsk" size="143360" crc="2a5cc94f" md5="cccd7ad05ef9730acaa6285213a22700" sha1="d5146f79ddb4e9d9ecfebc213c443b91656ddf00"/>
 		<url>https://retroachievements.org/game/18951/hashes</url>
-		<hash>D63FA32740D865E1D5EEEFE5FBE098FC</hash>
-		<hash>BE57E9D546BE71D721C32B5DC14719B4</hash>
-		<hash>99EC7FD32EA5B9369CC764691194E3DA</hash>
-		<hash>37E78E57EE8B8DC52A4AF06A7F8FAD90</hash>
-		<hash>7FCC5367140B92865EA9F7B798774296</hash>
-		<hash>75BCC6DDB2D10AF7D645D0CAEEE7CA18</hash>
-		<hash>2D10B0A2EEC341411D45F0F9B705BE62</hash>
-		<hash>CCCD7AD05EF9730ACAA6285213A22700</hash>
+		<hash>d63fa32740d865e1d5eeefe5fbe098fc</hash>
+		<hash>be57e9d546be71d721c32b5dc14719b4</hash>
+		<hash>99ec7fd32ea5b9369cc764691194e3da</hash>
+		<hash>37e78e57ee8b8dc52a4af06a7f8fad90</hash>
+		<hash>7fcc5367140b92865ea9f7b798774296</hash>
+		<hash>75bcc6ddb2d10af7d645d0caeee7ca18</hash>
+		<hash>2d10b0a2eec341411d45f0f9b705be62</hash>
+		<hash>cccd7ad05ef9730acaa6285213a22700</hash>
 	</game>
 	
 	<game name="Space Subtraction (World) (Tosec)">
@@ -1117,7 +1117,7 @@
 		<release name="Space Subtraction (World) (Tosec)" region="World"/>
 		<rom name="Space Subtraction (World) (Tosec).dsk" size="143360" crc="d0d4265a" md5="4b24f3c661a58a466930abb4f60c44e6" sha1="c21e350a2d29c70326c077d810a5feced5f64ccc"/>
 		<url>https://retroachievements.org/game/20419/hashes</url>
-		<hash>4B24F3C661A58A466930ABB4F60C44E6</hash>
+		<hash>4b24f3c661a58a466930abb4f60c44e6</hash>
 	</game>
 	
 	<game name="Spare Change (World) (Tosec)">
@@ -1126,7 +1126,7 @@
 		<release name="Spare Change (World) (Tosec)" region="World"/>
 		<rom name="Spare Change (World) (Tosec).dsk" size="143360" crc="43dbfdc8" md5="c0dd0c4390de706afc0a1e2e48e181af" sha1="b7c58a4361f6da99e5b9f93453566a2930e127a4"/>
 		<url>https://retroachievements.org/game/18693/hashes</url>
-		<hash>C0DD0C4390DE706AFC0A1E2E48E181AF</hash>
+		<hash>c0dd0c4390de706afc0a1e2e48e181af</hash>
 	</game>
 	
 	<game name="Stickybear Math 2 (World) (4AM)">
@@ -1135,7 +1135,7 @@
 		<release name="Stickybear Math 2 (World) (4AM)" region="World"/>
 		<rom name="Stickybear Math 2 (World) (4AM).dsk" size="143360" crc="a1e20f04" md5="f9bc68768f40f145955ca341b9976b00" sha1="889bc1466291a0e36410a1304a2ef2579d205ba9"/>
 		<url>https://retroachievements.org/game/27029/hashes</url>
-		<hash>F9BC68768F40F145955CA341B9976B00</hash>
+		<hash>f9bc68768f40f145955ca341b9976b00</hash>
 	</game>
 	
 	<game name="Stickybear Shapes (World) (Tosec)">
@@ -1144,7 +1144,7 @@
 		<release name="Stickybear Shapes (World) (Tosec)" region="World"/>
 		<rom name="Stickybear Shapes (World) (Tosec).dsk" size="143360" crc="9058bb71" md5="53fc8eedaa36e3546ca874ea5d26d408" sha1="f7b6e7773965e1e4d7cee716c51ab6656ef6db06"/>
 		<url>https://retroachievements.org/game/27028/hashes</url>
-		<hash>53FC8EEDAA36E3546CA874EA5D26D408</hash>
+		<hash>53fc8eedaa36e3546ca874ea5d26d408</hash>
 	</game>
 	
 	<game name="Super Bunny (World) (Tosec)">
@@ -1169,7 +1169,7 @@
 		<release name="Super Othello (World) (Tosec)" region="World"/>
 		<rom name="Super Othello (World) (Tosec).dsk" size="143360" crc="f721dda6" md5="9e059aea68928d80ff77ea225045395b" sha1="12e90873ec1a324b3365469be51122eec777e195"/>
 		<url>https://retroachievements.org/game/25283/hashes</url>
-		<hash>9E059AEA68928D80FF77EA225045395B</hash>
+		<hash>9e059aea68928d80ff77ea225045395b</hash>
 	</game>
 	
 	<game name="Swashbuckler (World) (Tosec)">
@@ -1178,7 +1178,7 @@
 		<release name="Swashbuckler (World) (Tosec)" region="World"/>
 		<rom name="Swashbuckler (World) (Tosec).do" size="143360" crc="4492cde2" md5="6f44d0ab68ebcc8c72b8082e15dba419" sha1="cbcf68ed7bc8688b2abd9dcbaf9864b5ab7c360a"/>
 		<url>https://retroachievements.org/game/22170/hashes</url>
-		<hash>6F44D0AB68EBCC8C72B8082E15DBA419</hash>
+		<hash>6f44d0ab68ebcc8c72b8082e15dba419</hash>
 	</game>
 	
 	<game name="Tapper (World) (Tosec)">
@@ -1187,7 +1187,7 @@
 		<release name="Tapper (World) (Tosec)" region="World"/>
 		<rom name="Tapper (World) (Tosec).do" size="143360" crc="e86b1b99" md5="baa866c80409d9ec9972273210b96132" sha1="7af7c32e3b21c0aa69290d7535b26089fc865999"/>
 		<url>https://retroachievements.org/game/14215/hashes</url>
-		<hash>BAA866C80409D9EC9972273210B96132</hash>
+		<hash>baa866c80409d9ec9972273210b96132</hash>
 	</game>
 	
 	<game name="Tempete sur les Bermudes (France) (Tosec)">
@@ -1198,8 +1198,8 @@
 		<rom name="Tempete sur les Bermudes (France) (Disk 1A) (Tosec).dsk" size="143360" crc="012cf1de" md5="5a053ac8277ebd949c0d88c385388eca" sha1="2482bf53e62ce1682fdf31e2e761444a5107f7bf"/>
 		<rom name="Tempete sur les Bermudes (France) (Disk 1B) (Tosec).dsk" size="143360" crc="37dcb200" md5="5c8b398eea4363b3efad4100a58bf6ba" sha1="1cfcaa8368e3d90f93ddd4ba70d1464508c4ebf8"/>
 		<url>https://retroachievements.org/game/22568/hashes</url>
-		<hash>5A053AC8277EBD949C0D88C385388ECA</hash>
-		<hash>5C8B398EEA4363B3EFAD4100A58BF6BA</hash>
+		<hash>5a053ac8277ebd949c0d88c385388eca</hash>
+		<hash>5c8b398eea4363b3efad4100a58bf6ba</hash>
 	</game>
 	
 	<game name="Black Cauldron, The (World) (4AM)">
@@ -1213,11 +1213,11 @@
 		<rom name="Black Cauldron, The (World) (Disk 2B) (4AM).dsk" size="143360" crc="60f44185" md5="a7cea209c45dacf4474753a701b4229d" sha1="98d4800082d9c44a1909004e5fa6a7cedf7f34c6"/>
 		<rom name="Black Cauldron, The (World) (Disk 3A) (4AM).dsk" size="143360" crc="093ba3c4" md5="3493f40aec829f98e4cf6ff739ff0f81" sha1="632735ee231ed9d23604bd24ab9c00d62cb4d5bc"/>
 		<url>https://retroachievements.org/game/14478/hashes</url>
-		<hash>8899AD83DBDA2E772393F98ABEFDC058</hash>
-		<hash>6AF43B5D837688B373529947D3FB04FC</hash>
-		<hash>9214FDB0B3A53C5F4160AC681A2002BD</hash>
-		<hash>A7CEA209C45DACF4474753A701B4229D</hash>
-		<hash>3493F40AEC829F98E4CF6FF739FF0F81</hash>
+		<hash>8899ad83dbda2e772393f98abefdc058</hash>
+		<hash>6af43b5d837688b373529947d3fb04fc</hash>
+		<hash>9214fdb0b3a53c5f4160ac681a2002bd</hash>
+		<hash>a7cea209c45dacf4474753a701b4229d</hash>
+		<hash>3493f40aec829f98e4cf6ff739ff0f81</hash>
 	</game>
 	<game name="Black Cauldron, The (World) (Appleasimov)" cloneof="Black Cauldron, The (World) (4AM)">
 		<category>Retail</category>
@@ -1229,11 +1229,11 @@
 		<rom name="Black Cauldron, The (World) (Disk 2B) (Appleasimov).nib" size="232960" crc="6da857be" md5="02de27187fd6446daae8303066611f13" sha1="46327a3639eb19f081455391bc5778fabe1deea8"/>
 		<rom name="Black Cauldron, The (World) (Disk 3A) (Appleasimov).nib" size="232960" crc="f1c571bb" md5="0d0ef0cace8ccde940c06781efe2fd78" sha1="48a33b60f668ea15827643f2272939c5fd8ee245"/>
 		<url>https://retroachievements.org/game/14478/hashes</url>
-		<hash>DBCC564FDD15795C4B994AF26A01A09E</hash>
-		<hash>66F82E26D9417757ECE6253DC140967C</hash>
-		<hash>89D90B22588FC4217348E334C60C6900</hash>
-		<hash>02DE27187FD6446DAAE8303066611F13</hash>
-		<hash>0D0EF0CACE8CCDE940C06781EFE2FD78</hash>
+		<hash>dbcc564fdd15795c4b994af26a01a09e</hash>
+		<hash>66f82e26d9417757ece6253dc140967c</hash>
+		<hash>89d90b22588fc4217348e334c60c6900</hash>
+		<hash>02de27187fd6446daae8303066611f13</hash>
+		<hash>0d0ef0cace8ccde940c06781efe2fd78</hash>
 	</game>
 	<game name="Black Cauldron, The (World) (WozADay)" cloneof="Black Cauldron, The (World) (4AM)">
 		<category>Retail</category>
@@ -1298,7 +1298,7 @@
 		<release name="Lurking Horror, The (World) (Tosec)" region="World"/>
 		<rom name="Lurking Horror, The (World) (Tosec).dsk" size="143360" crc="bcddc13b" md5="d17bc88c8170b5f63ff55d5ae723a58f" sha1="a2c35ed77ea8b2a85455fc26706e4db7bc5b1311"/>
 		<url>https://retroachievements.org/game/22860/hashes</url>
-		<hash>D17BC88C8170B5F63FF55D5AE723A58F</hash>
+		<hash>d17bc88c8170b5f63ff55d5ae723a58f</hash>
 	</game>
 	
 	<game name="Rocky Horror Show, The (World) (WozADay)">
@@ -1366,8 +1366,8 @@
 		<rom name="Trinity (World) (Disk 1A) (WozADay).woz" size="234744" crc="1b9bf646" md5="7fcf5e1ee6c41594d138760a32eb79b4" sha1="dfcb84e4b61bf958fa838e7556c46e36c32e15d6"/>
 		<rom name="Trinity (World) (Disk 1B) (WozADay).woz" size="234744" crc="6b814a97" md5="f41cad109c9a98522796f47b46f76dc2" sha1="4e6ae3a33788e47bac09a7d8f6e160d879f8b263"/>
 		<url>https://retroachievements.org/game/25627/hashes</url>
-		<hash>7FCF5E1EE6C41594D138760A32EB79B4</hash>
-		<hash>F41CAD109C9A98522796F47B46F76DC2</hash>
+		<hash>7fcf5e1ee6c41594d138760a32eb79b4</hash>
+		<hash>f41cad109c9a98522796f47b46f76dc2</hash>
 	</game>
 	
 	<game name="Ultima I - The First Age of Darkness (World) (Tosec)">
@@ -1376,14 +1376,14 @@
 		<release name="Ultima I - The First Age of Darkness (World) (Tosec)" region="World"/>
 		<rom name="Ultima I - The First Age of Darkness (World) (Tosec).po" size="143360" crc="ce249c6a" md5="301a1f55e3ac6f5dd283fd199a380cc0" sha1="5f75e29b9f4acfe82c6a4383ef5139f3e5749ccb"/>
 		<url>https://retroachievements.org/game/13926/hashes</url>
-		<hash>301A1F55E3AC6F5DD283FD199A380CC0</hash>
+		<hash>301a1f55e3ac6f5dd283fd199a380cc0</hash>
 	</game>
 	<game name="Ultima I - The First Age of Darkness (World) (Tosec) (Alt)" cloneof="Ultima I - The First Age of Darkness (World) (Tosec)">
 		<category>Retail</category>
 		<description>Ultima I - The First Age of Darkness (World) (Tosec) (Alt)</description>
 		<rom name="Ultima I - The First Age of Darkness (World) (Tosec) (Alt).po" size="143360" crc="adf1b2b1" md5="6531bea603d8e36665de43c8a306a355" sha1="5663a8bdf1aeeaf9084a83ac6d787c5cdadbc651"/>
 		<url>https://retroachievements.org/game/13926/hashes</url>
-		<hash>6531BEA603D8E36665DE43C8A306A355</hash>
+		<hash>6531bea603d8e36665de43c8a306a355</hash>
 	</game>
 	
 	<game name="Ultima II - Revenge of the Enchantress (World) (Tosec)">
@@ -1395,9 +1395,9 @@
 		<rom name="Ultima II - Revenge of the Enchantress (World) (Disk 1B) (Tosec).dsk" size="143360" crc="684db5c6" md5="56ac22c53f7abae9316d0592dce5787f" sha1="adbb46eb002f5d30d6deac92946eb2a45eb67a1d"/>
 		<rom name="Ultima II - Revenge of the Enchantress (World) (Disk 2B) (Tosec).dsk" size="143360" crc="2b2bfc38" md5="4009dad9f2d6882514c5a9b0c164abba" sha1="043ef92aa49ff42e6db2a88e7ed219485ae59623"/>
 		<url>https://retroachievements.org/game/22745/hashes</url>
-		<hash>291A52352DE2F6346E3865F211D3B019</hash>
-		<hash>56AC22C53F7ABAE9316D0592DCE5787F</hash>
-		<hash>4009DAD9F2D6882514C5A9B0C164ABBA</hash>
+		<hash>291a52352de2f6346e3865f211d3b019</hash>
+		<hash>56ac22c53f7abae9316d0592dce5787f</hash>
+		<hash>4009dad9f2d6882514c5a9b0c164abba</hash>
 	</game>
 	
 	<game name="Ultima III - Exodus (World) (WozADay)">
@@ -1516,7 +1516,7 @@
 		<release name="Viper (World) (Tosec)" region="World"/>
 		<rom name="Viper (World) (Tosec).dsk" size="143360" crc="633ab1d0" md5="c8ae6c569a8eeba48afea85881b1ff37" sha1="213e012e6331f6db03c2b3b97959939386b7918b"/>
 		<url>https://retroachievements.org/game/22529/hashes</url>
-		<hash>C8AE6C569A8EEBA48AFEA85881B1FF37</hash>
+		<hash>c8ae6c569a8eeba48afea85881b1ff37</hash>
 	</game>
 	
 	<game name="Wasteland (World) (Tosec)">
@@ -1555,8 +1555,8 @@
 		<rom name="Where in North Dakota is Carmen Sandiego (World) (Disk 1A) (WozADay).woz" size="234963" crc="482c92f4" md5="f8390801d740b6537268e72cabc6cc5d" sha1="e59481a41d75aca6e670cf9ea87c6f0a1b14646a"/>
 		<rom name="Where in North Dakota is Carmen Sandiego (World) (Disk 1B) (WozADay).woz" size="234963" crc="cf47fe0c" md5="6cb0d076de2acd89366e053de6196ebe" sha1="25c5bbbdf0f4265e0a63de456c3a4258d87afc95"/>
 		<url>https://retroachievements.org/game/25719/hashes</url>
-		<hash>F8390801D740B6537268E72CABC6CC5D</hash>
-		<hash>6CB0D076DE2ACD89366E053DE6196EBE</hash>
+		<hash>f8390801d740b6537268e72cabc6cc5d</hash>
+		<hash>6cb0d076de2acd89366e053de6196ebe</hash>
 	</game>
 	
 	<game name="Where in the World is Carmen Sandiego? (World) (WozADay)">
@@ -1598,7 +1598,7 @@
 		<release name="Word Munchers (World) (4AM)" region="World"/>
 		<rom name="Word Munchers (World) (4AM).dsk" size="143360" crc="7425e4be" md5="1f02c711f1df715bb45f34cecb6f45f2" sha1="5bc2266a4dc0e18fe74781b6b9061958834f995a"/>
 		<url>https://retroachievements.org/game/18715/hashes</url>
-		<hash>1F02C711F1DF715BB45F34CECB6F45F2</hash>
+		<hash>1f02c711f1df715bb45f34cecb6f45f2</hash>
 	</game>
 	
 	<game name="Zork I - The Great Underground Empire (World) (4AM)">
@@ -1607,6 +1607,6 @@
 		<release name="Zork I - The Great Underground Empire (World) (4AM)" region="World"/>
 		<rom name="Zork I - The Great Underground Empire (World) (4AM).dsk" size="143360" crc="a0176100" md5="b3f18618df671c8722f3daa12a2671ab" sha1="b3abf950dc7b561dbdb39468a87cdbf6ec43efbe"/>
 		<url>https://retroachievements.org/game/13924/hashes</url>
-		<hash>B3F18618DF671C8722F3DAA12A2671AB</hash>
+		<hash>b3f18618df671c8722f3daa12a2671ab</hash>
 	</game>
 </datafile>

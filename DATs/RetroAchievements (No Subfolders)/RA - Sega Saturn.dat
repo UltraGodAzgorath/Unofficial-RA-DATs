@@ -10,8 +10,8 @@
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/39/games</url>
-		<titlecount>151</titlecount>
-		<hashcount>191</hashcount>
+		<titlecount>155</titlecount>
+		<hashcount>196</hashcount>
 		<clrmamepro forcepacking="unzip"/>
 		<romvault forcepacking="unzip"/>
 	</header>
@@ -218,7 +218,7 @@
 		<release name="Blazing Dragons (France)" region="France"/>
 		<disk name="Blazing Dragons (France).chd" sha1="3a155cab6a1adb4feecc0045ffd35cf03a87a221"/>
 		<url>https://retroachievements.org/game/4918/hashes</url>
-		<hash>41EC78CBF95DA243D0740334277B9EE5</hash>
+		<hash>41ec78cbf95da243d0740334277b9ee5</hash>
 	</machine>
 	<machine name="Blazing Dragons (Germany)" cloneof="Blazing Dragons (USA)">
 		<category>Retail</category>
@@ -226,7 +226,7 @@
 		<release name="Blazing Dragons (Germany)" region="Germany"/>
 		<disk name="Blazing Dragons (Germany).chd" sha1="d36a1179cec88475cf9760f2c4f6893db59ccc43"/>
 		<url>https://retroachievements.org/game/4918/hashes</url>
-		<hash>60F247B23E0BA872D51B7B767D1CFB27</hash>
+		<hash>60f247b23e0ba872d51b7b767d1cfb27</hash>
 	</machine>
 	
 	<machine name="Bug! (USA)">
@@ -773,7 +773,7 @@
 		<release name="In the Hunt (Subset - Multi)" region="USA"/>
 		<disk name="In the Hunt (Subset - Multi).chd" sha1="7758638af56b1ab7a67651e15bf441fc0db3eb9b"/>
 		<url>https://retroachievements.org/game/28617/hashes</url>
-		<hash>04FBC8FEB4393818CBA7516D91FA839A</hash>
+		<hash>04fbc8feb4393818cba7516d91fa839a</hash>
 	</machine>
 	
 	<machine name="Jung Rhythm (Japan)">

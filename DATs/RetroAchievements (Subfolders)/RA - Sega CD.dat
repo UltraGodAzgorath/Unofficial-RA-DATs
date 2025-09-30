@@ -10,8 +10,8 @@
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/9/games</url>
-		<titlecount>52</titlecount>
-		<hashcount>63</hashcount>
+		<titlecount>84</titlecount>
+		<hashcount>97</hashcount>
 		<clrmamepro forcepacking="unzip"/>
 		<romvault forcepacking="unzip"/>
 	</header>
@@ -349,6 +349,14 @@
 		<disk name="Mortal Kombat (USA).chd" sha1="06fc7e387c193c28d1068cf74609de36021eca2b"/>
 		<url>https://retroachievements.org/game/15402/hashes</url>
 		<hash>42f6c9c6512d0262392d4be743d9ea11</hash>
+	</machine>
+	
+	<machine name="Retail/NFL Football Trivia Challenge (USA)">
+		<category></category>
+		<description>NFL Football Trivia Challenge (USA)</description>
+		<disk name="NFL Football Trivia Challenge (USA).chd" sha1="000"/>
+		<url>https://retroachievements.org/game/34896/hashes</url>
+		<hash>137d103d696f6229f90e5d3c9de6af28</hash>
 	</machine>
 	
 	<machine name="Retail/Night Trap (USA)">

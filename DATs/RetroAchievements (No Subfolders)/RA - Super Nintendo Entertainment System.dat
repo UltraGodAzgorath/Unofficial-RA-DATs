@@ -5864,28 +5864,28 @@
 	<game name="BS Super Mario USA - Power Challenge - Dai-3-kai (Japan) (SoundLink)" cloneof="BS Super Mario USA - Power Challenge - Week 3 (Japan) (Improvement) (v1.1) (Conn)">
 		<category>Retail</category>
 		<description>BS Super Mario USA - Power Challenge - Dai-3-kai (Japan) (SoundLink)</description>
-		<rom name="BS Super Mario USA - Power Challenge - Dai-3-kai (Japan) (SoundLink).sfc" size="000" crc="000" md5="62331bfa00172b3e2705dc33dc93e1ee" sha1="000"/>
+		<rom name="BS Super Mario USA - Power Challenge - Dai-3-kai (Japan) (SoundLink).sfc" size="1048576" crc="c0c90a80" md5="62331bfa00172b3e2705dc33dc93e1ee" sha1="4078d1756b53c230670bd5ae8285629f6173b373"/>
 		<url>https://retroachievements.org/game/23003/hashes</url>
 		<hash>62331bfa00172b3e2705dc33dc93e1ee</hash>
 	</game>
 	<game name="BS Super Mario USA - Power Challenge - Dai-1-kai (Japan) (SoundLink)" cloneof="BS Super Mario USA - Power Challenge - Week 1 (Japan) (Improvement) (v1.1) (Conn)">
 		<category>Retail</category>
 		<description>BS Super Mario USA - Power Challenge - Dai-1-kai (Japan) (SoundLink)</description>
-		<rom name="BS Super Mario USA - Power Challenge - Dai-1-kai (Japan) (SoundLink).sfc" size="000" crc="000" md5="be58760840703a1f1f36b3bfa2e7b108" sha1="000"/>
+		<rom name="BS Super Mario USA - Power Challenge - Dai-1-kai (Japan) (SoundLink).sfc" size="1048576" crc="88fa31cc" md5="be58760840703a1f1f36b3bfa2e7b108" sha1="7dc4d3d2a11f2f4e05d7306053211131b7aa6d9f"/>
 		<url>https://retroachievements.org/game/23003/hashes</url>
 		<hash>be58760840703a1f1f36b3bfa2e7b108</hash>
 	</game>
 	<game name="BS Super Mario USA - Power Challenge - Dai-2-kai (Japan) (SoundLink)" cloneof="BS Super Mario USA - Power Challenge - Week 2 (Japan) (Improvement) (v1.1) (Conn)">
 		<category>Retail</category>
 		<description>BS Super Mario USA - Power Challenge - Dai-2-kai (Japan) (SoundLink)</description>
-		<rom name="BS Super Mario USA - Power Challenge - Dai-2-kai (Japan) (SoundLink).sfc" size="000" crc="000" md5="effd7e9360be56da5a9876b45a5989fc" sha1="000"/>
+		<rom name="BS Super Mario USA - Power Challenge - Dai-2-kai (Japan) (SoundLink).sfc" size="1048576" crc="dedb049d" md5="effd7e9360be56da5a9876b45a5989fc" sha1="3a64fefc0a2a0c9a666917d0b685474c2073947c"/>
 		<url>https://retroachievements.org/game/23003/hashes</url>
 		<hash>effd7e9360be56da5a9876b45a5989fc</hash>
 	</game>
 	<game name="BS Super Mario USA - Power Challenge - Dai-4-kai (Japan) (SoundLink)" cloneof="BS Super Mario USA - Power Challenge - Week 4 (Japan) (Improvement) (v1.1) (Conn)">
 		<category>Retail</category>
 		<description>BS Super Mario USA - Power Challenge - Dai-4-kai (Japan) (SoundLink)</description>
-		<rom name="BS Super Mario USA - Power Challenge - Dai-4-kai (Japan) (SoundLink).sfc" size="000" crc="000" md5="f08e24ffd1c2b1f0c85cd81ba72c66bd" sha1="000"/>
+		<rom name="BS Super Mario USA - Power Challenge - Dai-4-kai (Japan) (SoundLink).sfc" size="1048576" crc="d05b537c" md5="f08e24ffd1c2b1f0c85cd81ba72c66bd" sha1="0f8cba643d66d8da0d8d05faefcf65a79b081efc"/>
 		<url>https://retroachievements.org/game/23003/hashes</url>
 		<hash>f08e24ffd1c2b1f0c85cd81ba72c66bd</hash>
 	</game>
@@ -6955,7 +6955,7 @@
 		<release name="Dragon Ball Z - La Legende Saien (France)" region="France"/>
 		<rom name="Dragon Ball Z - La Legende Saien (France).sfc" size="2097152" crc="8f24f886" md5="36e1391f0b1f29f16ef5d4eb83c3725b" sha1="827c071f8aebe93f80576800266f74f82ff9e41b"/>
 		<url>https://retroachievements.org/game/594/hashes</url>
-		<hash>36E1391F0B1F29F16EF5D4EB83C3725B</hash>
+		<hash>36e1391f0b1f29f16ef5d4eb83c3725b</hash>
 	</game>
 	<game name="Dragon Ball Z - Super Butouden 2 (Japan)" cloneof="Dragon Ball Z - Super Butouden 2 (Japan) (Rev 1)">
 		<category>Retail</category>
@@ -7736,7 +7736,7 @@
 		<category>Retail</category>
 		<description>Fighter's History - Mizoguchi Kikiippatsu!! (Japan)</description>
 		<release name="Fighter's History - Mizoguchi Kikiippatsu!! (Japan)" region="Japan"/>
-		<rom name="Fighter's History - Mizoguchi Kikiippatsu!! (Japan).sfc" size="000" crc="000" md5="6c3bf666a198666b3632f2786d5e5ce0" sha1="000"/>
+		<rom name="Fighter's History - Mizoguchi Kikiippatsu!! (Japan).sfc" size="3145728" crc="65bb5dc4" md5="6c3bf666a198666b3632f2786d5e5ce0" sha1="2269681db3bca3730024dfa601e6648fd8af4e02"/>
 		<url>https://retroachievements.org/game/2872/hashes</url>
 		<hash>6c3bf666a198666b3632f2786d5e5ce0</hash>
 	</game>
@@ -14239,9 +14239,9 @@
 		<category>Retail</category>
 		<description>Terranigma (Spain) (NTSC)</description>
 		<release name="Terranigma (Spain) (NTSC)" region="Spain"/>
-		<rom name="Terranigma (Spain) (NTSC).sfc" size="4194304" crc="86287e9c" md5="02F21F536CCAD02A316837B4D6A8FB25" sha1="90340298c5a6da5abcc413d9e9336f62c7858b96"/>
+		<rom name="Terranigma (Spain) (NTSC).sfc" size="4194304" crc="86287e9c" md5="02f21f536ccad02a316837b4d6a8fb25" sha1="90340298c5a6da5abcc413d9e9336f62c7858b96"/>
 		<url>https://retroachievements.org/game/242/hashes</url>
-		<hash>02F21F536CCAD02A316837B4D6A8FB25</hash>
+		<hash>02f21f536ccad02a316837b4d6a8fb25</hash>
 	</game>
 	<game name="Terranigma (Europe) (Sv) (v1.0) (MThorelli)" cloneof="Terranigma (Europe)">
 		<category>Retail</category>
@@ -14319,17 +14319,17 @@
 	<game name="Terranigma (Germany) (NTSC)" cloneof="Terranigma (Europe)">
 		<category>Retail</category>
 		<description>Terranigma (Germany) (NTSC)</description>
-		<rom name="Terranigma (Germany) (NTSC).sfc" size="4194304" crc="078ce675" md5="6CCB32CEEAB9C1A57DC0555F3C4C666F" sha1="7215ad45ba7128ea2bbed62dfe001c0e640e06a0"/>
+		<rom name="Terranigma (Germany) (NTSC).sfc" size="4194304" crc="078ce675" md5="6ccb32ceeab9c1a57dc0555f3c4c666f" sha1="7215ad45ba7128ea2bbed62dfe001c0e640e06a0"/>
 		<url>https://retroachievements.org/game/242/hashes</url>
-		<hash>6CCB32CEEAB9C1A57DC0555F3C4C666F</hash>
+		<hash>6ccb32ceeab9c1a57dc0555f3c4c666f</hash>
 	</game>
 	<game name="Terranigma (France) (NTSC)" cloneof="Terranigma (Europe)">
 		<category>Retail</category>
 		<description>Terranigma (France) (NTSC)</description>
 		<release name="Terranigma (France) (NTSC)" region="France"/>
-		<rom name="Terranigma (France) (NTSC).sfc" size="4194304" crc="5fa83f64" md5="6E06BC4A4F43F0CC69F78A87906F3BBB" sha1="0dd217a09eb26e97d9caf719d1c2f17efa79a895"/>
+		<rom name="Terranigma (France) (NTSC).sfc" size="4194304" crc="5fa83f64" md5="6e06bc4a4f43f0cc69f78a87906f3bbb" sha1="0dd217a09eb26e97d9caf719d1c2f17efa79a895"/>
 		<url>https://retroachievements.org/game/242/hashes</url>
-		<hash>6E06BC4A4F43F0CC69F78A87906F3BBB</hash>
+		<hash>6e06bc4a4f43f0cc69f78a87906f3bbb</hash>
 	</game>
 	<game name="Terranigma (Europe) (Pl) (v1.0)" cloneof="Terranigma (Europe)">
 		<category>Retail</category>
@@ -14350,15 +14350,15 @@
 		<description>Terranigma (France)</description>
 		<rom name="Terranigma (France).sfc" size="4194304" crc="614a7090" md5="8995ffe9fa821aa54a7c17bff7647f66" sha1="4f8a5771cb11757a31a026e5892b9434a3a405cb"/>
 		<url>https://retroachievements.org/game/242/hashes</url>
-		<hash>8995FFE9FA821AA54A7C17BFF7647F66</hash>
+		<hash>8995ffe9fa821aa54a7c17bff7647f66</hash>
 	</game>
 	<game name="Terranigma (Germany) (Rev 1) (NTSC)" cloneof="Terranigma (Europe)">
 		<category>Retail</category>
 		<description>Terranigma (Germany) (Rev 1) (NTSC)</description>
 		<release name="Terranigma (Germany) (Rev 1) (NTSC)" region="Germany"/>
-		<rom name="Terranigma (Germany) (Rev 1) (NTSC).sfc" size="4194304" crc="97f65e13" md5="988EF692078D136BB1A41737F54CFF50" sha1="278412237fec86a6c7b37a7ecf5f84bad3dc87ff"/>
+		<rom name="Terranigma (Germany) (Rev 1) (NTSC).sfc" size="4194304" crc="97f65e13" md5="988ef692078d136bb1a41737f54cff50" sha1="278412237fec86a6c7b37a7ecf5f84bad3dc87ff"/>
 		<url>https://retroachievements.org/game/242/hashes</url>
-		<hash>988EF692078D136BB1A41737F54CFF50</hash>
+		<hash>988ef692078d136bb1a41737f54cff50</hash>
 	</game>
 	<game name="Terranigma (Europe) (Ko) (NTSC)" cloneof="Terranigma (Europe)">
 		<category>Retail</category>
