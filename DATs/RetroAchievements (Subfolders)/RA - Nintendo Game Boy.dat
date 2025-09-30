@@ -783,7 +783,7 @@
 	<game name="Homebrew/Game of Life Kuzushi (World) (Aftermarket)">
 		<category></category>
 		<description>Game of Life Kuzushi (World) (Aftermarket)</description>
-		<rom name="Game of Life Kuzushi (World) (Aftermarket).gb" size="000" crc="000" md5="b04d10af7ff5010c90be47948158f016" sha1="000"/>
+		<rom name="Game of Life Kuzushi (World) (Aftermarket).gb" size="65536" crc="53f8ef87" md5="b04d10af7ff5010c90be47948158f016" sha1="6c88a33d034751ddd2a3932521112352708ef7a7"/>
 		<url>https://retroachievements.org/game/34534/hashes</url>
 		<hash>b04d10af7ff5010c90be47948158f016</hash>
 	</game>
@@ -804,17 +804,17 @@
 		<hash>1b9515262a8a57ef1366bed635c604e4</hash>
 	</game>
 	
-	<game name="Homebrew/GSPS - The Game (Poland) (Pl) (v1.0) (zachariasz455) (Aftermarket)">
+	<game name="Homebrew/GSPS - The Game (Poland) (v1.0) (zachariasz455) (Aftermarket)">
 		<category></category>
-		<description>GSPS - The Game (Poland) (Pl) (v1.0) (zachariasz455) (Aftermarket)</description>
-		<rom name="GSPS - The Game (Poland) (Pl) (v1.0) (zachariasz455) (Aftermarket).gb" size="000" crc="000" md5="df77829789b41cc5be505e8cdce80ce1" sha1="000"/>
+		<description>GSPS - The Game (Poland) (v1.0) (zachariasz455) (Aftermarket)</description>
+		<rom name="GSPS - The Game (Poland) (v1.0) (zachariasz455) (Aftermarket).gb" size="524288" crc="8045c88e" md5="df77829789b41cc5be505e8cdce80ce1" sha1="2c32a0199d53b750c57dfa5fac4f862bf92812c7"/>
 		<url>https://retroachievements.org/game/34129/hashes</url>
 		<hash>df77829789b41cc5be505e8cdce80ce1</hash>
 	</game>
 	<game name="Homebrew/GSPS - The Game (Poland) (En) (v1.0) (zachariasz455) (Aftermarket)">
 		<category></category>
 		<description>GSPS - The Game (Poland) (En) (v1.0) (zachariasz455) (Aftermarket)</description>
-		<rom name="GSPS - The Game (Poland) (En) (v1.0) (zachariasz455) (Aftermarket).gb" size="000" crc="000" md5="01cf4c043f69a9924f2a689e3fa60157" sha1="000"/>
+		<rom name="GSPS - The Game (Poland) (En) (v1.0) (zachariasz455) (Aftermarket).gb" size="524288" crc="8465b47b" md5="01cf4c043f69a9924f2a689e3fa60157" sha1="ed5f63a9c600ff8a85e0bad52a0b78fe04efed99"/>
 		<url>https://retroachievements.org/game/34129/hashes</url>
 		<hash>01cf4c043f69a9924f2a689e3fa60157</hash>
 	</game>
@@ -1170,7 +1170,7 @@
 	<game name="Homebrew/Uma Musume Delish Derby (World) (shiki) (Aftermarket)">
    		<category></category>
 		<description>Uma Musume Delish Derby (World) (shiki) (Aftermarket)</description>
-   		<rom name="Uma Musume Delish Derby (World) (shiki) (Aftermarket).gb" size="000" crc="000" md5="a6d142742d41b624217123bd020f8391" sha1="000"/>
+   		<rom name="Uma Musume Delish Derby (World) (shiki) (Aftermarket).gb" size="524288" crc="f49053b1" md5="a6d142742d41b624217123bd020f8391" sha1="fedcaf30b093d4a7cb68f4b155ecb4a5e0ae4d91"/>
    		<url>https://retroachievements.org/game/34313/hashes</url>
 		<hash>a6d142742d41b624217123bd020f8391</hash>
 	</game>
