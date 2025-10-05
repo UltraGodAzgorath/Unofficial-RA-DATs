@@ -4894,6 +4894,7 @@
 	<game name="Alien 3 (USA)" cloneof="Alien 3 (Europe)">
 		<category>Retail</category>
 		<description>Alien 3 (USA)</description>
+		<release name="Alien 3 (USA)" region="USA"/>
 		<rom name="Alien 3 (USA).sfc" size="1048576" crc="98e2ac15" md5="09120ba8c0052997481117683b4e70db" sha1="7c29a915c28c534c8a67a940e86d8346958f4fa1"/>
 		<url>https://retroachievements.org/game/273/hashes</url>
 		<hash>09120ba8c0052997481117683b4e70db</hash>
