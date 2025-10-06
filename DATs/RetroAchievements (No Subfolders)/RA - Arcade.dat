@@ -12930,6 +12930,7 @@
 	<game name="triplfun">
 		<description>Triple Fun</description>
 		<category>Retail</category>
+		<release name="triplfun" region="World"/>
 		<rom name="05.bin" size="524288" crc="06eb3821"/>
 		<rom name="04.bin" size="524288" crc="37a5c46e"/>
 		<rom name="09.bin" size="524288" crc="98cc8ca5"/>
