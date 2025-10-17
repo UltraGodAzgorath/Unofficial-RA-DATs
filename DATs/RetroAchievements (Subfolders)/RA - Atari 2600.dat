@@ -5,8 +5,8 @@
 		<name>RA - Atari 2600</name>
 		<description>Atari 2600</description>
 		<category>Subfolders</category>
-		<version>20250929</version>
-		<date>29 September 2025</date>
+		<version>20251014</version>
+		<date>14 October 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/25/games</url>
@@ -689,14 +689,6 @@
 		<rom name="Crystal Castles (USA).a26" size="16384" crc="9007b5ac" md5="1c6eb740d3c485766cade566abab8208" sha1="2e4ee5ee040b08be1fe568602d1859664e607efb"/>
 		<url>https://retroachievements.org/game/13028/hashes</url>
 		<hash>1c6eb740d3c485766cade566abab8208</hash>
-	</game>
-	
-	<game name="Retail/Custer's Revenge (USA)">
-		<category></category>
-		<description>Custer's Revenge (USA)</description>
-		<rom name="Custer's Revenge (USA).a26" size="4096" crc="21283941" md5="58513bae774360b96866a07ca0e8fd8e" sha1="4b3d02b59e17520b4d60236568d5cb50a4e6aeb3"/>
-		<url>https://retroachievements.org/game/12722/hashes</url>
-		<hash>58513bae774360b96866a07ca0e8fd8e</hash>
 	</game>
 	
 	<game name="Retail/Demon Attack (USA) (Rev 1)">

@@ -5,8 +5,8 @@
 		<name>RA - NEC PC-8801</name>
 		<description>NEC PC-8801</description>
 		<category>Subfolders</category>
-		<version>20250914</version>
-		<date>14 September 2025</date>
+		<version>20251014</version>
+		<date>14 October 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/47/games</url>
@@ -27,14 +27,6 @@
 		<rom name="Hopman (2023) (Inufuto) (Aftermarket).d88" size="348848" crc="06db7ca7" md5="17fce162c8ac66bad21bb8e801bd8bb3" sha1="94f920f9d2a4cb601d7bc97dbe7497d94d5473bd"/>
 		<url>https://retroachievements.org/game/28625/hashes</url>
 		<hash>17fce162c8ac66bad21bb8e801bd8bb3</hash>
-	</game>
-	
-	<game name="Retail/177 (Japan) (NeoKobe)">
-		<category></category>
-		<description>177 (Japan) (NeoKobe)</description>
-		<rom name="177 (Japan) (NeoKobe).d88" size="348848" crc="8b578336" md5="6675451bad0928cc3f05aa241a6f067f" sha1="b5474986284006a143e7c5229e54107f859c2b62"/>
-		<url>https://retroachievements.org/game/6978/hashes</url>
-		<hash>6675451bad0928cc3f05aa241a6f067f</hash>
 	</game>
 	
 	<game name="Retail/1942 (Japan) (NeoKobe)">

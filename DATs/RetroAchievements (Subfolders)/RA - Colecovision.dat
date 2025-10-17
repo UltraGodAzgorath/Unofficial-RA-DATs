@@ -5,8 +5,8 @@
 		<name>RA - Colecovision</name>
 		<description>Colecovision</description>
 		<category>Subfolders</category>
-		<version>20250711</version>
-		<date>11 July 2025</date>
+		<version>20251014</version>
+		<date>14 October 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/44/games</url>
@@ -99,6 +99,14 @@
 		<hash>e34e775b40367815197dc4086aab2f89</hash>
 	</game>
 
+	<game name="Homebrew/Where's Derpy (USA) (v1.2) (gameblabla) (Aftermarket)">
+		<category></category>
+		<description>Where's Derpy (USA) (v1.2) (gameblabla) (Aftermarket)</description>
+		<rom name="Where's Derpy (USA) (v1.2) (gameblabla) (Aftermarket).col" size="27740" crc="53059516" md5="291282d0946c56d3763044d73fbff74c" sha1="a595ebac485814cd6e4c40b33dfbcab25d0e9c03"/>
+		<url>https://retroachievements.org/game/34944/hashes</url>
+		<hash>291282d0946c56d3763044d73fbff74c</hash>
+	</game>
+	
 	<game name="Prototype/Pac-Man (USA) (Proto)">
 		<category></category>
 		<description>Pac-Man (USA) (Proto)</description>

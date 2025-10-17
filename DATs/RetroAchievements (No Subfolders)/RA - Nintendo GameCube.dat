@@ -5,8 +5,8 @@
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
 		<category>No Subfolders</category>
-		<version>20250928</version>
-		<date>28 September 2025</date>
+		<version>20251014</version>
+		<date>14 October 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/16/games</url>
@@ -1204,6 +1204,15 @@
 		<rom name="Metroid Prime 2 - Echoes (Europe) (En,Fr,De,Es,It).rvz" size="1237499564" crc="e19cc84f" md5="06fe3ffd8cf26df8630ff0a749a9fddc" sha1="b1c0f84357b223346990612bd6663f607ef99aa3"/>
 		<url>https://retroachievements.org/game/7683/hashes</url>
 		<hash>354bf09bd6c3185d32097df1b3f2e0e9</hash>
+	</game>
+	
+	<game name="Muppets - Party Cruise (USA)">
+		<category>Retail</category>
+		<description>Muppets - Party Cruise (USA)</description>
+		<release name="Muppets - Party Cruise (USA)" region="USA"/>
+		<rom name="Muppets - Party Cruise (USA).rvz" size="907402788" crc="53132754" md5="216fbde5d432e9dea52e7449a1b70db7" sha1="b43c48245fd88363cfe2948bd169ae9c0f641e9a"/>
+		<url>https://retroachievements.org/game/30543/hashes</url>
+		<hash>1db71ce557c78865a750b1287eb56735</hash>
 	</game>
 	
 	<game name="Naruto - Clash of Ninja (USA)">

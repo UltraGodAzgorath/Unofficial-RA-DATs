@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20250928</version>
-		<date>28 September 2025</date>
+		<version>20251014</version>
+		<date>14 October 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/7/games</url>
@@ -6410,6 +6410,13 @@
 		<url>https://retroachievements.org/game/1471/hashes</url>
 		<hash>e9bdb8adbc6e6eeffd2eb14ef8969e40</hash>
 	</game>
+	<game name="Retail/Dragon Warrior (USA) (Es) (Crackowia) (v1.02)">
+		<category></category>
+		<description>Dragon Warrior (USA) (Es) (Crackowia) (v1.02)</description>
+		<rom name="Dragon Warrior (USA) (Es) (Crackowia) (v1.02).nes" size="81936" crc="375964ed" md5="3169370c40c3b9f3e9ec95cdbbdb578b" sha1="ebacb07868139f01a517f17a1fbd57ed0bd6ec4e"/>
+		<url>https://retroachievements.org/game/1471/hashes</url>
+		<hash>fe6de71e47d7ebb24bb7b87ac70e461a</hash>
+	</game>
 	
 	<game name="Retail/Dragon Quest II - Akuryou no Kamigami (Japan)">
 		<category>Nintendo &amp; Famicom</category>
@@ -6884,6 +6891,21 @@
 		<rom name="Felix the Cat (USA) (Brightness Fix) (Ilya Indigo) (v1.0).nes" size="262160" crc="451b5ed6" md5="355ae564a4437012b5de6d2e954452f3" sha1="37fa1b70e63eca4f81681ffa7538e381d41020e4"/>
 		<url>https://retroachievements.org/game/1683/hashes</url>
 		<hash>e25ee2816c4f6fcd28715ddcfbde7788</hash>
+	</game>
+	
+	<game name="Retail/Ferrari Grand Prix Challenge/Ferrari Grand Prix Challenge (Europe)">
+		<category></category>
+		<description>Ferrari Grand Prix Challenge (Europe)</description>
+		<rom name="Ferrari Grand Prix Challenge (Europe).nes" size="262160" crc="6bde581c" md5="769be7ff92328392a10bce0dbe20cc19" sha1="ef95485879532fb40ddd22db27b38737ece0c88a"/>
+		<url>https://retroachievements.org/game/1684/hashes</url>
+		<hash>1221be996b62de20d847054cbbbc271b</hash>
+	</game>
+	<game name="Retail/Ferrari Grand Prix Challenge/Ferrari Grand Prix Challenge (USA)">
+		<category>Retail</category>
+		<description>Ferrari Grand Prix Challenge (USA)</description>
+		<rom name="Ferrari Grand Prix Challenge (USA).nes" size="262160" crc="32ee7f38" md5="f13e3f96af68856ba3a83a6839d4478b" sha1="5348099a0b87179a26a877d7944250a535ef00e0"/>
+		<url>https://retroachievements.org/game/1684/hashes</url>
+		<hash>67206b17d7a669c44d47a1e05d955d83</hash>
 	</game>
 	
 	<game name="Retail/Fester's Quest (Europe)">

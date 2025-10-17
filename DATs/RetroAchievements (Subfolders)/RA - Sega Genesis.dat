@@ -5,8 +5,8 @@
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
 		<category>Subfolders</category>
-		<version>20250928</version>
-		<date>28 September 2025</date>
+		<version>20251014</version>
+		<date>14 October 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/1/games</url>
@@ -19,6 +19,14 @@
 		<rom name="Sonic 1 - Gatoslip - X-Mas Demo (v2023-12-07) (VAdaPEGA) (Demo) (Hack).md" size="3248004" crc="56903a5b" md5="b4c6bcd0b0db9d2cc0f47e2fbb86a97b" sha1="c52bef7f846db64d24d33f3bc064f5d41a07041f"/>
 		<url>https://retroachievements.org/game/30734/hashes</url>
 		<hash>b4c6bcd0b0db9d2cc0f47e2fbb86a97b</hash>
+	</game>
+	
+	<game name="Hack/Sonic the Hedgehog/Sonic 1 - Pantufa the Cat - Extended Edition (SHC2020) (VAdaPEGA) (Hack)">
+		<category></category>
+		<description>Sonic 1 - Pantufa the Cat - Extended Edition (SHC2020) (VAdaPEGA) (Hack)</description>
+		<rom name="Sonic 1 - Pantufa the Cat - Extended Edition (SHC2020) (VAdaPEGA) (Hack).md" size="2652230" crc="8639aea0" md5="0073325e4b4b86db19154f6a52e2a817" sha1="6ba9e4147a36721106f2c86f5c29f38a11ca910b"/>
+		<url>https://retroachievements.org/game/31909/hashes</url>
+		<hash>0073325e4b4b86db19154f6a52e2a817</hash>
 	</game>
 	
 	<game name="Hack/Sonic the Hedgehog/Sonic 1 - 137E0 Action 1 Steak (SHC2016) (LuigiXHero) (Hack)">
@@ -2229,6 +2237,14 @@
 		<hash>f7125fcd53073459a6b9b4e57ff71257</hash>
 	</game>
 	
+	<game name="Retail/Darius (World) (Genesis Mini, Mega Drive Mini)">
+		<category></category>
+		<description>Darius (World) (Genesis Mini, Mega Drive Mini)</description>
+		<rom name="Darius (World) (Genesis Mini, Mega Drive Mini).md" size="4194304" crc="26ca4234" md5="05dac074b9f194d74c44848eb15ad53f" sha1="4841d8f05a73cb7c5f98b710f14ebd72be1a6504"/>
+		<url>https://retroachievements.org/game/31684/hashes</url>
+		<hash>05dac074b9f194d74c44848eb15ad53f</hash>
+	</game>
+	
 	<game name="Retail/Dark Castle (USA, Europe)">
 		<category></category>
 		<description>Dark Castle (USA, Europe)</description>
@@ -3718,6 +3734,13 @@
 		<url>https://retroachievements.org/game/116/hashes</url>
 		<hash>bb891aec8a7dfe6164033f57af2025bd</hash>
 	</game>
+	<game name="Retail/Mega Man - The Wily Wars (SRAM) (v1.0) (Plombo) (Protoman Fix) (v1.1) (Stifu)">
+		<category></category>
+		<description>Mega Man - The Wily Wars (SRAM) (v1.0) (Plombo) (Protoman Fix) (v1.1) (Stifu)</description>
+		<rom name="Mega Man - The Wily Wars (SRAM) (v1.0) (Plombo) (Protoman Fix) (v1.1) (Stifu).md" size="2097152" crc="f81eb0e2" md5="62ffd9a4aa8a88b1c2711ddb053c9009" sha1="a2414b1fec93db52a6b743a0f11f48cd631cbeaa"/>
+		<url>https://retroachievements.org/game/116/hashes</url>
+		<hash>62ffd9a4aa8a88b1c2711ddb053c9009</hash>
+	</game>
 	
 	<game name="Retail/Mega Turrican (USA)">
 		<category></category>
@@ -5200,21 +5223,36 @@
 		<hash>50acbea2461d179b2bf11460a1cc6409</hash>
 	</game>
 
-	<game name="Retail/Sonic The Hedgehog (USA, Europe) (Ru) (NewGame)">
+	<game name="Retail/Sonic Eraser (Japan) (SegaNet)">
+		<category></category>
+		<description>Sonic Eraser (Japan) (SegaNet)</description>
+		<rom name="Sonic Eraser (Japan) (SegaNet).md" size="262144" crc="62d8a0e7" md5="ff65f5666f84f0b2d9d6b535188bcd14" sha1="be70d4246be49c0301a1402bd93f28c58b558a8d"/>
+		<url>https://retroachievements.org/game/12931/hashes</url>
+		<hash>ff65f5666f84f0b2d9d6b535188bcd14</hash>
+	</game>
+	
+	<game name="Retail/Sonic The Hedgehog/Sonic The Hedgehog (USA, Europe) (Ru) (NewGame)">
 		<category></category>
 		<description>Sonic The Hedgehog (USA, Europe) (Ru) (NewGame)</description>
 		<rom name="Sonic The Hedgehog (USA, Europe) (Ru) (NewGame).md" size="524288" crc="6cc1b581" md5="1b1d9ac862c387367e904036114c4825" sha1="835ac39991a11fbc715ab3ad9a28468906feb3f1"/>
 		<url>https://retroachievements.org/game/1/hashes</url>
 		<hash>1b1d9ac862c387367e904036114c4825</hash>
 	</game>
-	<game name="Retail/Sonic The Hedgehog (USA, Europe)">
+	<game name="Retail/Sonic The Hedgehog/Sonic The Hedgehog (USA, Europe)">
 		<category></category>
 		<description>Sonic The Hedgehog (USA, Europe)</description>
 		<rom name="Sonic The Hedgehog (USA, Europe).md" size="524288" crc="f9394e97" md5="1bc674be034e43c96b86487ac69d9293" sha1="6ddb7de1e17e7f6cdb88927bd906352030daa194"/>
 		<url>https://retroachievements.org/game/1/hashes</url>
 		<hash>1bc674be034e43c96b86487ac69d9293</hash>
 	</game>
-
+	<game name="Retail/Sonic The Hedgehog/Sonic 1 - Boomed (QoL Fix) (VAdaPEGA)">
+		<category></category>
+		<description>Sonic 1 - Boomed (QoL Fix) (VAdaPEGA)</description>
+		<rom name="Sonic 1 - Boomed (QoL Fix) (VAdaPEGA).md" size="2307904" crc="09e946f7" md5="4382459fead8b3790199b68fd3b0fc76" sha1="a24b5d5ce1092510fb99f10ffe06422e4a55ced6"/>
+		<url>https://retroachievements.org/game/1/hashes</url>
+		<hash>4382459fead8b3790199b68fd3b0fc76</hash>
+	</game>
+	
 	<game name="Retail/Sonic The Hedgehog (Japan, Europe, Korea) (En)">
 		<category></category>
 		<description>Sonic The Hedgehog (Japan, Europe, Korea) (En)</description>

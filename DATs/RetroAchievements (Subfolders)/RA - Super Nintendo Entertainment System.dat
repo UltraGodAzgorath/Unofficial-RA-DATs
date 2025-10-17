@@ -5,8 +5,8 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20250928</version>
-		<date>28 September 2025</date>
+		<version>20251014</version>
+		<date>14 October 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/3/games</url>
@@ -9338,14 +9338,6 @@
 		<hash>2c74a8f784b0a2fa28d5e68ca2243f17</hash>
 	</game>
 	
-	<game name="Subset/Mega Man Soccer (USA)">
-		<category>Super Nintendo</category>
-		<description>Mega Man Soccer (USA)</description>
-		<rom name="Mega Man Soccer (USA).sfc" size="1310720" crc="fa9ee2ce" md5="9e886f686da276b00c4671967d396a79" sha1="7e59c9457829ed3f0fbd9cd0ceeb3432a4739e98"/>
-		<url>https://retroachievements.org/game/1021/hashes</url>
-		<hash>9e886f686da276b00c4671967d396a79</hash>
-	</game>
-	
 	<game name="Retail/Mega Man X/Rockman X (Japan) (Rev 1)">
 		<category>Super Nintendo</category>
 		<description>Rockman X (Japan) (Rev 1)</description>
@@ -9476,6 +9468,14 @@
 		<rom name="Mega Man X3 (Subset - Bonus).sfc" size="2097152" crc="b5bdd296" md5="6c3b5ed7a9943c68d07d580cc945a7ea" sha1="d6d4a108b704d5ef86f7da75967fa76c49986f21"/>
 		<url>https://retroachievements.org/game/5859/hashes</url>
 		<hash>6c3b5ed7a9943c68d07d580cc945a7ea</hash>
+	</game>
+	
+	<game name="Subset/Mega Man Soccer (USA)">
+		<category>Super Nintendo</category>
+		<description>Mega Man Soccer (USA)</description>
+		<rom name="Mega Man Soccer (USA).sfc" size="1310720" crc="fa9ee2ce" md5="9e886f686da276b00c4671967d396a79" sha1="7e59c9457829ed3f0fbd9cd0ceeb3432a4739e98"/>
+		<url>https://retroachievements.org/game/1021/hashes</url>
+		<hash>9e886f686da276b00c4671967d396a79</hash>
 	</game>
 	
 	<game name="Retail/Melfand Stories/Melfand Stories (Japan)">
@@ -12195,6 +12195,14 @@
 		<rom name="Super Mario World (Subset - Bonus).sfc" size="524288" crc="f4ae8246" md5="a409a0d29d0e16092b1b610ec0f9f7e7" sha1="2f23374ccc555ee7f5b28cded63bf62c35ed4302"/>
 		<url>https://retroachievements.org/game/9390/hashes</url>
 		<hash>a409a0d29d0e16092b1b610ec0f9f7e7</hash>
+	</game>
+	
+	<game name="Subset/Super Mario World (Subset - Sub 90-Minute 96 Exit Speedrun)">
+		<category>Super Nintendo</category>
+		<description>Super Mario World (Subset - Sub 90-Minute 96 Exit Speedrun)</description>
+		<rom name="Super Mario World (Subset - Sub 90-Minute 96 Exit Speedrun).sfc" size="524288" crc="8bdc48dc" md5="5b2c2e7e4f3eca3bd8bb76eab35f3116" sha1="6a2bdc4cd9eac98ce6a12ab6cab4f660cbd492fa"/>
+		<url>https://retroachievements.org/game/34233/hashes</url>
+		<hash>5b2c2e7e4f3eca3bd8bb76eab35f3116</hash>
 	</game>
 	
 	<game name="Retail/Super Mario World 2/Super Mario World 2 - Yoshi's Island (USA)">

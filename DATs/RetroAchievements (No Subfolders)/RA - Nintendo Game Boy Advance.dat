@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>No Subfolders</category>
-		<version>20250928</version>
-		<date>28 September 2025</date>
+		<version>20251014</version>
+		<date>14 October 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -688,6 +688,15 @@
 		<rom name="Pokemon - Recharged Yellow (Jaizu) (v1.8.0) (Hack).gba" size="16777216" crc="ceffa1f8" md5="9d54170472e5a37fc92602b838fe754e" sha1="be5033598e91d0e80fa93e551406f02a7876d7c2"/>
 		<url>https://retroachievements.org/game/29758/hashes</url>
 		<hash>9d54170472e5a37fc92602b838fe754e</hash>
+	</game>
+	
+	<game name="Pokemon - Scorched Silver (v1.3) (Sloo) (Hack)">
+		<category>Hack</category>
+		<description>Pokemon - Scorched Silver (v1.3) (Sloo) (Hack)</description>
+		<release name="Pokemon - Scorched Silver (v1.3) (Sloo) (Hack)" region="World"/>
+		<rom name="Pokemon - Scorched Silver (v1.3) (Sloo) (Hack).gba" size="33554432" crc="a0639593" md5="f7af51cecd3e170cc373fba01753053c" sha1="67949d03fd3dbfcec7903857560128ae6438110b"/>
+		<url>https://retroachievements.org/game/31892/hashes</url>
+		<hash>f7af51cecd3e170cc373fba01753053c</hash>
 	</game>
 	
 	<game name="Pokemon - Snakewood (Alt) (Cutlerine) (Hack)" cloneof="Pokemon - Snakewood (Cutlerine) (Hack)">
@@ -1597,6 +1606,15 @@
 		<hash>e0d9909f402dac923114675ce44d6b48</hash>
 	</game>
 	
+	<game name="Three-in-One Pack - Risk + Battleship + Clue (USA)">
+		<category>Retail</category>
+		<description>Three-in-One Pack - Risk + Battleship + Clue (USA)</description>
+		<release name="Three-in-One Pack - Risk + Battleship + Clue (USA)" region="USA"/>
+		<rom name="Three-in-One Pack - Risk + Battleship + Clue (USA).gba" size="4194304" crc="f6f70922" md5="1cd909a6837e4175244b71b83d2fdd1f" sha1="35d7fe8c1a36a4f924c28ff0e9c728c819b52405"/>
+		<url>https://retroachievements.org/game/13127/hashes</url>
+		<hash>1cd909a6837e4175244b71b83d2fdd1f</hash>
+	</game>
+	
 	<game name="Action Man - Robot Atak (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<description>Action Man - Robot Atak (Europe) (En,Fr,De,Es,It)</description>
@@ -1746,6 +1764,15 @@
 		<rom name="Army Men Advance (USA, Europe) (Pt) (Evil Darkness).gba" size="4194304" crc="45f86343" md5="4b4928fd4c2c481e8cf7022f93d8dd8f" sha1="9d0a550c4bdfdb8984ed44c61924e3ae699434bb"/>
 		<url>https://retroachievements.org/game/8046/hashes</url>
 		<hash>4b4928fd4c2c481e8cf7022f93d8dd8f</hash>
+	</game>
+	
+	<game name="Army Men - Operation Green (USA) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Army Men - Operation Green (USA) (En,Fr,De,Es,It)</description>
+		<release name="Army Men - Operation Green (USA) (En,Fr,De,Es,It)" region="USA"/>
+		<rom name="Army Men - Operation Green (USA) (En,Fr,De,Es,It).gba" size="4194304" crc="6d174e28" md5="60eb386e45d38b41fa10cd2535f681d8" sha1="b0fa4769cddbc66bc333ad45658524a4aeeec755"/>
+		<url>https://retroachievements.org/game/5689/hashes</url>
+		<hash>60eb386e45d38b41fa10cd2535f681d8</hash>
 	</game>
 	
 	<game name="Asterix &amp; Obelix XXL (Europe) (En,Fr,De,Es,It,Nl)">
@@ -3433,6 +3460,15 @@
 		<hash>a57a5ea8c43957ee5974dd02ae305d1f</hash>
 	</game>
 	
+	<game name="Drake &amp; Josh (USA) (En,Fr)">
+		<category>Retail</category>
+		<description>Drake &amp; Josh (USA) (En,Fr)</description>
+		<release name="Drake &amp; Josh (USA) (En,Fr)" region="USA"/>
+		<rom name="Drake &amp; Josh (USA) (En,Fr).gba" size="4194304" crc="63a4422e" md5="ca1e7ca13fc27ec962b8163d8e94dce0" sha1="07499bf3329bcd38f4dd8bb7e392e44957243534"/>
+		<url>https://retroachievements.org/game/9720/hashes</url>
+		<hash>ca1e7ca13fc27ec962b8163d8e94dce0</hash>
+	</game>
+	
 	<game name="Drill Dozer (USA)">
 		<category>Retail</category>
 		<description>Drill Dozer (USA)</description>
@@ -4671,6 +4707,15 @@
 		<rom name="Hot Wheels - Velocity X (Europe).gba" size="8388608" crc="a7ddbca3" md5="b19314e2b31266364a7a12d9d4b00b85" sha1="dda8ebba4d68f93dbb213de5a898864ead18ebe8"/>
 		<url>https://retroachievements.org/game/7374/hashes</url>
 		<hash>b19314e2b31266364a7a12d9d4b00b85</hash>
+	</game>
+	
+	<game name="Hot Wheels - World Race (USA)">
+		<category>Retail</category>
+		<description>Hot Wheels - World Race (USA)</description>
+		<release name="Hot Wheels - World Race (USA)" region="USA"/>
+		<rom name="Hot Wheels - World Race (USA).gba" size="8388608" crc="cb313505" md5="91cc97b4023b7876f4ac783c2c4de2bd" sha1="4045cb4551399537812d81b76bdd5cb46c4c7c06"/>
+		<url>https://retroachievements.org/game/9296/hashes</url>
+		<hash>91cc97b4023b7876f4ac783c2c4de2bd</hash>
 	</game>
 	
 	<game name="I Spy Challenger! (USA)">
@@ -6571,6 +6616,14 @@
 		<rom name="Pokemon - Emerald Version (USA, Europe) (32-Bit RTC + Timer RNG Fix) (MWisBest).gba" size="16777216" crc="67c39b5a" md5="054b20eed28e84b0102062a89ae7ebb1" sha1="bfe52fb1b279792bc02aa5ebb7e162cb91435f4f"/>
 		<url>https://retroachievements.org/game/668/hashes</url>
 		<hash>054b20eed28e84b0102062a89ae7ebb1</hash>
+	</game>
+	<game name="Pokemon - Smaragd-Edition (Germany)" cloneof="Pokemon - Emerald Version (USA, Europe)">
+		<category>Retail</category>
+		<description>Pokemon - Smaragd-Edition (Germany)</description>
+		<release name="Pokemon - Smaragd-Edition (Germany)" region="Germany"/>
+		<rom name="Pokemon - Smaragd-Edition (Germany).gba" size="16777216" crc="34c9df89" md5="f793a854654b467211fc32c4062cb183" sha1="61c2eb2b380b1a75f0c94b767a2d4c26cd7ce4e3"/>
+		<url>https://retroachievements.org/game/668/hashes</url>
+		<hash>f793a854654b467211fc32c4062cb183</hash>
 	</game>
 	
 	<game name="Pokemon - Emerald Version (Subset - Mudkip vs. The World (ft. Castform))">
@@ -8806,6 +8859,23 @@
 		<hash>b3a719f647a84f5496c0ad97d5de6370</hash>
 	</game>
 	
+	<game name="Scorpion King, The - Sword of Osiris (USA)">
+		<category>Retail</category>
+		<description>Scorpion King, The - Sword of Osiris (USA)</description>
+		<release name="Scorpion King, The - Sword of Osiris (USA)" region="USA"/>
+		<rom name="Scorpion King, The - Sword of Osiris (USA).gba" size="4194304" crc="6e0a8585" md5="8620aeb89f00dd3e3c2a500ba75ce2de" sha1="2224c8080f48073e568d1b75eec32e18bc1f5a09"/>
+		<url>https://retroachievements.org/game/9339/hashes</url>
+		<hash>8620aeb89f00dd3e3c2a500ba75ce2de</hash>
+	</game>
+	<game name="Scorpion King, The - Sword of Osiris (Europe) (En,Fr,De,Es,It)" cloneof="Scorpion King, The - Sword of Osiris (USA)">
+		<category>Retail</category>
+		<description>Scorpion King, The - Sword of Osiris (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Scorpion King, The - Sword of Osiris (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="Scorpion King, The - Sword of Osiris (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="d5410d32" md5="bf8fac941521947c92ba860d570927c4" sha1="9a483e98d72b1d7d8579511cc9344e5d27bcee61"/>
+		<url>https://retroachievements.org/game/9339/hashes</url>
+		<hash>bf8fac941521947c92ba860d570927c4</hash>
+	</game>
+	
 	<game name="Simpsons, The - Road Rage (USA, Europe)">
 		<category>Retail</category>
 		<description>Simpsons, The - Road Rage (USA, Europe)</description>
@@ -9070,6 +9140,15 @@
 		<rom name="Ultimate Muscle - The Kinnikuman Legacy - The Path of the Superhero (USA).gba" size="16777216" crc="bb85ad55" md5="a4e4230baf0e3b819c84eae58097cdb0" sha1="d502ab791843d2359726983032390ce037894c67"/>
 		<url>https://retroachievements.org/game/32715/hashes</url>
 		<hash>a4e4230baf0e3b819c84eae58097cdb0</hash>
+	</game>
+	
+	<game name="Ultimate Spider-Man (USA)">
+		<category>Retail</category>
+		<description>Ultimate Spider-Man (USA)</description>
+		<release name="Ultimate Spider-Man (USA)" region="USA"/>
+		<rom name="Ultimate Spider-Man (USA).gba" size="16777216" crc="931e2c18" md5="11beb7fd8ce6c8a3d4987274835e0843" sha1="1f5959b66dafb33c9fa01389c23214b38b0fcc79"/>
+		<url>https://retroachievements.org/game/6408/hashes</url>
+		<hash>11beb7fd8ce6c8a3d4987274835e0843</hash>
 	</game>
 	
 	<game name="V-Rally 3 (Europe) (En,Fr,De,Es,It)">

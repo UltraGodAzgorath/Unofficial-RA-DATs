@@ -5,14 +5,22 @@
 		<name>RA - Nintendo DSi</name>
 		<description>Nintendo DSi</description>
 		<category>Subfolders</category>
-		<version>20250630</version>
-		<date>30 June 2025</date>
+		<version>20251014</version>
+		<date>14 October 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/78/games</url>
 		<titlecount>67</titlecount>
 		<hashcount>73</hashcount>
 	</header>
+	<game name="Retail/1001 Blockbusters (Europe)">
+		<category></category>
+		<description>1001 Blockbusters (Europe)</description>
+		<rom name="1001 Blockbusters (Europe).nds" size="6066176" crc="bf7060df" md5="eabdb473b369678f5818241584c6cfaf" sha1="219f92c87bf47756aa88029d72317d6074b0c114"/>
+		<url>https://retroachievements.org/game/22404/hashes</url>
+		<hash>c3ca202fd995ca013ef3b4896e5dc93d</hash>
+	</game>
+	
 	<game name="Retail/1001 Crystal Mazes Collection (Europe) (En,Fr,De,Es)">
 		<category></category>
 		<description>1001 Crystal Mazes Collection (Europe) (En,Fr,De,Es)</description>

@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>Subfolders</category>
-		<version>20250928</version>
-		<date>28 September 2025</date>
+		<version>20251014</version>
+		<date>14 October 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
@@ -1121,6 +1121,14 @@
 		<rom name="Beat City (Europe) (En,De,Es,It).nds" size="8388608" crc="2c000d79" md5="3870354d33e98a1052240afd5c90b7d3" sha1="1619223a354c597e1f9c17c5c35d4fc90ae1dd1d"/>
 		<url>https://retroachievements.org/game/19147/hashes</url>
 		<hash>e5f77bd1a09557f89214ed23f605a63a</hash>
+	</game>
+	
+	<game name="Retail/Bee Movie Game (Europe)">
+		<category></category>
+		<description>Bee Movie Game (Europe)</description>
+		<rom name="Bee Movie Game (Europe).nds" size="33554432" crc="52bda44b" md5="21ba3d950568394bb21cf892b2f529ce" sha1="d26b4d47da04c6cf83645cf0d6c95c3f848e0e12"/>
+		<url>https://retroachievements.org/game/22304/hashes</url>
+		<hash>744746113b36d5400588f1a35ded6363</hash>
 	</game>
 	
 	<game name="Retail/Beetle King (Europe)">
@@ -2865,6 +2873,22 @@
 		<hash>ef1dfa5e9f0c3be5af14ab80dde8fc82</hash>
 	</game>
 	
+	<game name="Retail/Lufia - Curse of the Sinistrals (USA)">
+		<category></category>
+		<description>Lufia - Curse of the Sinistrals (USA)</description>
+		<rom name="Lufia - Curse of the Sinistrals (USA).nds" size="67108864" crc="cac43a4e" md5="33c5b4f9580c8a8ab48e15b04c925a6a" sha1="019908480071470b8549885a87a88b17b2330cd5"/>
+		<url>https://retroachievements.org/game/3858/hashes</url>
+		<hash>9be761bbee45ecb8175beac712af6859</hash>
+	</game>
+	
+	<game name="Subset/Lufia - Curse of the Sinistrals (Subset - Ancient Cave Variety Pack)">
+		<category></category>
+		<description>Lufia - Curse of the Sinistrals (Subset - Ancient Cave Variety Pack)</description>
+		<rom name="Lufia - Curse of the Sinistrals (Subset - Ancient Cave Variety Pack).nds" size="67108864" crc="67e2806f" md5="d43e71d72e7381e973aed5336a6ad837" sha1="9cd0f22c2a46e10cf8e2ce8b67525d2ac0c1ecf3"/>
+		<url>https://retroachievements.org/game/29845/hashes</url>
+		<hash>8b17d8b2bcb12af225f84abe81000ae7</hash>
+	</game>
+	
 	<game name="Retail/Luminous Arc (USA)">
 		<category></category>
 		<description>Luminous Arc (USA)</description>
@@ -4331,6 +4355,14 @@
 		<hash>85f54f655e1b82f79984c4df3b35fcc9</hash>
 	</game>
 	
+	<game name="Subset/Pokemon - White Version 2 (Subset - Completionist)">
+		<category></category>
+		<description>Pokemon - White Version 2 (Subset - Completionist)</description>
+		<rom name="Pokemon - White Version 2 (Subset - Completionist).nds" size="536870912" crc="9f68a6ba" md5="2d8adf3f2b648f178ebb62d26bfec30e" sha1="5b7d0100db67ae815ed91ed87356e5be06c16039"/>
+		<url>https://retroachievements.org/game/34046/hashes</url>
+		<hash>a58d1a7d1c23e6f2622437856cb36920</hash>
+	</game>
+	
 	<game name="Subset/Pokemon - White Version 2 (Subset - Challenge Mode)">
 		<category></category>
 		<description>Pokemon - White Version 2 (Subset - Challenge Mode)</description>
@@ -5104,6 +5136,28 @@
 		<rom name="Sid Meier's Civilization Revolution (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="e0fd4f1c" md5="712fe5eb97869a2e818fa158d78adb1d" sha1="173aef193ea8629ec2b93187774878ecf097d555"/>
 		<url>https://retroachievements.org/game/17947/hashes</url>
 		<hash>a7df537fb9c194d5e979e0a76deb8520</hash>
+	</game>
+	
+	<game name="Retail/SimAnimals (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)">
+		<category></category>
+		<description>SimAnimals (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)</description>
+		<rom name="SimAnimals (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da).nds" size="134217728" crc="21e3683a" md5="48c8afe56a6c648cab5b78af9160ab6d" sha1="24634f0d0e7c3970fc22b65c1d14b95a4269536e"/>
+		<url>https://retroachievements.org/game/27151/hashes</url>
+		<hash>520f7c6fd1ae8c953df5480af6ccd551</hash>
+	</game>
+	<game name="Retail/SimAnimals (Japan) (En,Ja)">
+		<category></category>
+		<description>SimAnimals (Japan) (En,Ja)</description>
+		<rom name="SimAnimals (Japan) (En,Ja).nds" size="134217728" crc="9888b3ae" md5="f471814567527da0ad2f3754e074765f" sha1="08797718a312c51f1218c5da08d060bcd9c571d6"/>
+		<url>https://retroachievements.org/game/27151/hashes</url>
+		<hash>8fb0c03ef305b33635547c9232d8a08c</hash>
+	</game>
+	<game name="Retail/SimAnimals (Korea) (En,Ko)">
+		<category></category>
+		<description>SimAnimals (Korea) (En,Ko)</description>
+		<rom name="SimAnimals (Korea) (En,Ko).nds" size="134217728" crc="900e1cb3" md5="e8fa907aab2797dd59d7b9f470dc05ac" sha1="1b8ac4b46db56c1f928aeef92be3ca6182323430"/>
+		<url>https://retroachievements.org/game/27151/hashes</url>
+		<hash>8a3314958cb107a92de35ed597479cbb</hash>
 	</game>
 	
 	<game name="Retail/Sokoban DS (Europe) (En,Fr,De,Es,It)">

@@ -5,8 +5,8 @@
 		<name>RA - Arcade</name>
 		<description>Arcade</description>
 		<category>No Subfolders</category>
-		<version>20250928</version>
-		<date>28 September 2025</date>
+		<version>20251014</version>
+		<date>14 October 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/27/games</url>
@@ -2011,44 +2011,44 @@
 		<rom name="096-v1.v1" size="2097152" crc="e2c32074"/>
 		<rom name="096-v2.v2" size="2097152" crc="a290eee7"/>
 		<rom name="096-v3.v3" size="2097152" crc="199d12ea"/>
-		<rom name="sp-s3.sp1" merge="sp-s3.sp1" size="131072" crc="91b64be3"/>
-		<rom name="sp-s2.sp1" merge="sp-s2.sp1" size="131072" crc="9036d879"/>
-		<rom name="sp-s.sp1" merge="sp-s.sp1" size="131072" crc="c7f2fa45"/>
-		<rom name="sp-u2.sp1" merge="sp-u2.sp1" size="131072" crc="e72943de"/>
-		<rom name="sp1-u2" merge="sp1-u2" size="131072" crc="62f021f4"/>
-		<rom name="sp-e.sp1" merge="sp-e.sp1" size="131072" crc="2723a5b5"/>
-		<rom name="sp1-u4.bin" merge="sp1-u4.bin" size="131072" crc="1179a30f"/>
-		<rom name="sp1-u3.bin" merge="sp1-u3.bin" size="131072" crc="2025b7a2"/>
-		<rom name="vs-bios.rom" merge="vs-bios.rom" size="131072" crc="f0e8f27d"/>
-		<rom name="sp-j2.sp1" merge="sp-j2.sp1" size="131072" crc="acede59c"/>
-		<rom name="sp1.jipan.1024" merge="sp1.jipan.1024" size="131072" crc="9fb0abe4"/>
-		<rom name="sp-45.sp1" merge="sp-45.sp1" size="524288" crc="03cc9f6a"/>
-		<rom name="sp-j3.sp1" merge="sp-j3.sp1" size="524288" crc="486cb450"/>
-		<rom name="japan-j3.bin" merge="japan-j3.bin" size="131072" crc="dff6d41f"/>
-		<rom name="sp1-j3.bin" merge="sp1-j3.bin" size="131072" crc="fbc6d469"/>
-		<rom name="neo-po.bin" merge="neo-po.bin" size="131072" crc="16d0c132"/>
-		<rom name="neo-epo.bin" merge="neo-epo.bin" size="131072" crc="d27a71f1"/>
-		<rom name="neodebug.bin" merge="neodebug.bin" size="131072" crc="698ebb7d"/>
-		<rom name="sp-1v1_3db8c.bin" merge="sp-1v1_3db8c.bin" size="131072" crc="162f0ebe"/>
-		<rom name="uni-bios_4_0.rom" merge="uni-bios_4_0.rom" size="131072" crc="a7aab458"/>
-		<rom name="uni-bios_3_3.rom" merge="uni-bios_3_3.rom" size="131072" crc="24858466"/>
-		<rom name="uni-bios_3_2.rom" merge="uni-bios_3_2.rom" size="131072" crc="a4e8b9b3"/>
-		<rom name="uni-bios_3_1.rom" merge="uni-bios_3_1.rom" size="131072" crc="0c58093f"/>
-		<rom name="uni-bios_3_0.rom" merge="uni-bios_3_0.rom" size="131072" crc="a97c89a9"/>
-		<rom name="uni-bios_2_3.rom" merge="uni-bios_2_3.rom" size="131072" crc="27664eb5"/>
-		<rom name="uni-bios_2_3o.rom" merge="uni-bios_2_3o.rom" size="131072" crc="601720ae"/>
-		<rom name="uni-bios_2_2.rom" merge="uni-bios_2_2.rom" size="131072" crc="2d50996a"/>
-		<rom name="uni-bios_2_1.rom" merge="uni-bios_2_1.rom" size="131072" crc="8dabf76b"/>
-		<rom name="uni-bios_2_0.rom" merge="uni-bios_2_0.rom" size="131072" crc="0c12c2ad"/>
-		<rom name="uni-bios_1_3.rom" merge="uni-bios_1_3.rom" size="131072" crc="b24b44a0"/>
-		<rom name="uni-bios_1_2.rom" merge="uni-bios_1_2.rom" size="131072" crc="4fa698e9"/>
-		<rom name="uni-bios_1_2o.rom" merge="uni-bios_1_2o.rom" size="131072" crc="e19d3ce9"/>
-		<rom name="uni-bios_1_1.rom" merge="uni-bios_1_1.rom" size="131072" crc="5dda0d84"/>
-		<rom name="uni-bios_1_0.rom" merge="uni-bios_1_0.rom" size="131072" crc="0ce453a0"/>
-		<rom name="neopen.sp1" merge="neopen.sp1" size="131072" crc="cb915e76"/>
-		<rom name="sm1.sm1" merge="sm1.sm1" size="131072" crc="94416d67"/>
-		<rom name="sfix.sfix" merge="sfix.sfix" size="131072" crc="c2ea0cfd"/>
-		<rom name="000-lo.lo" merge="000-lo.lo" size="131072" crc="5a86cff2"/>
+		<rom name="sp-s3.sp1" crc="91b64be3"/>
+		<rom name="sp-s2.sp1" crc="9036d879"/>
+		<rom name="sp-s.sp1" crc="c7f2fa45"/>
+		<rom name="sp-u2.sp1" crc="e72943de"/>
+		<rom name="sp1-u2" crc="62f021f4"/>
+		<rom name="sp-e.sp1" crc="2723a5b5"/>
+		<rom name="sp1-u4.bin" crc="1179a30f"/>
+		<rom name="sp1-u3.bin" crc="2025b7a2"/>
+		<rom name="vs-bios.rom" crc="f0e8f27d"/>
+		<rom name="sp-j2.sp1" crc="acede59c"/>
+		<rom name="sp1.jipan.1024" crc="9fb0abe4"/>
+		<rom name="sp-45.sp1" crc="03cc9f6a"/>
+		<rom name="sp-j3.sp1" crc="486cb450"/>
+		<rom name="japan-j3.bin" crc="dff6d41f"/>
+		<rom name="sp1-j3.bin" crc="fbc6d469"/>
+		<rom name="neo-po.bin" crc="16d0c132"/>
+		<rom name="neo-epo.bin" crc="d27a71f1"/>
+		<rom name="neodebug.bin" crc="698ebb7d"/>
+		<rom name="sp-1v1_3db8c.bin" crc="162f0ebe"/>
+		<rom name="uni-bios_4_0.rom" crc="a7aab458"/>
+		<rom name="uni-bios_3_3.rom" crc="24858466"/>
+		<rom name="uni-bios_3_2.rom" crc="a4e8b9b3"/>
+		<rom name="uni-bios_3_1.rom" crc="0c58093f"/>
+		<rom name="uni-bios_3_0.rom" crc="a97c89a9"/>
+		<rom name="uni-bios_2_3.rom" crc="27664eb5"/>
+		<rom name="uni-bios_2_3o.rom" crc="601720ae"/>
+		<rom name="uni-bios_2_2.rom" crc="2d50996a"/>
+		<rom name="uni-bios_2_1.rom" crc="8dabf76b"/>
+		<rom name="uni-bios_2_0.rom" crc="0c12c2ad"/>
+		<rom name="uni-bios_1_3.rom" crc="b24b44a0"/>
+		<rom name="uni-bios_1_2.rom" crc="4fa698e9"/>
+		<rom name="uni-bios_1_2o.rom" crc="e19d3ce9"/>
+		<rom name="uni-bios_1_1.rom" crc="5dda0d84"/>
+		<rom name="uni-bios_1_0.rom" crc="0ce453a0"/>
+		<rom name="neopen.sp1" crc="cb915e76"/>
+		<rom name="sm1.sm1" crc="94416d67"/>
+		<rom name="sfix.sfix" crc="c2ea0cfd"/>
+		<rom name="000-lo.lo" crc="5a86cff2"/>
 		<video type="raster" orientation="horizontal" width="304" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/12664/hashes</url>
@@ -2862,22 +2862,22 @@
 		<biosset name="bios12" description="epr-23610b (Australia)"/>
 		<biosset name="bios13" description="epr-23605c (multi-region hack)"/>
 		<rom name="317-0317-com.pic" size="16384" crc="ef65fe73" sha1="2c02d1570c1fdad56bc684c60bb17255c73c6d45"/>
-		<rom name="epr-23605.ic27" merge="epr-23605.ic27" size="2097152" crc="5731e446" sha1="787b0844fc408cf124c12405c095c59948709ea6"/>
-		<rom name="epr-23605a.ic27" merge="epr-23605a.ic27" size="2097152" crc="7bc3fc2d" sha1="a4a9531a7c66ff30046908cf71f6c7b6fb59c392"/>
-		<rom name="epr-23605b.ic27" merge="epr-23605b.ic27" size="2097152" crc="3a3242d4" sha1="aaca4df51ef91d926f8191d372f3dfe1d20d9484"/>
-		<rom name="epr-23605c.ic27" merge="epr-23605c.ic27" size="2097152" crc="297ea6ed" sha1="cfbfe57c80e6ee86a101fa83aec0a01e00c0f42a"/>
-		<rom name="epr-23605c_multi.ic27" merge="epr-23605c_multi.ic27" size="2097152" crc="353fdbcd" sha1="a8b7dce572b74e02e65cb949b2c366c87625157f"/>
-		<rom name="epr-23607.ic27" merge="epr-23607.ic27" size="2097152" crc="2b55add2" sha1="547de5f97d3183c8cd069c4fa3c09f13d8b637d9"/>
-		<rom name="epr-23607b.ic27" merge="epr-23607b.ic27" size="2097152" crc="f308c5e9" sha1="5470ab1cee6afecbd8ca8cf40f8fbe4ec2cb1471"/>
-		<rom name="epr-23607c.ic27" merge="epr-23607c.ic27" size="2097152" crc="750e254b" sha1="81d0b1a076c274c6bd7c53b65e7b80e14fe039e1"/>
-		<rom name="epr-23608.ic27" merge="epr-23608.ic27" size="2097152" crc="929cc3a6" sha1="47d00c818de23f733a4a33b1bbc72eb8aa729246"/>
-		<rom name="epr-23608a.ic27" merge="epr-23608a.ic27" size="2097152" crc="e8f884d1" sha1="28f4de747bb3cf860b9ebf897322fbc5d7c1e156"/>
-		<rom name="epr-23608b.ic27" merge="epr-23608b.ic27" size="2097152" crc="a554b1e3" sha1="343b727a3619d1c75a9b6d4cc156a9050447f155"/>
-		<rom name="epr-23608c.ic27" merge="epr-23608c.ic27" size="2097152" crc="6ef1dd8e" sha1="25ef957ec1c58fdaff5e89102002bca6c38832c5"/>
-		<rom name="epr-23609b.ic27" merge="epr-23609b.ic27" size="2097152" crc="99e3751f" sha1="8a244f75595c49d2a37a42ab96b6bab35163ca0e"/>
-		<rom name="epr-23610b.ic27" merge="epr-23610b.ic27" size="2097152" crc="de8e1267" sha1="0b3a36446c308fcbfe3647df45c848091e8797f1"/>
-		<rom name="main_eeprom.bin" merge="main_eeprom.bin" size="128" crc="fea29cbb" sha1="4099f1747aafa07db34f6e072cd9bfaa83bae10e"/>
-		<rom name="x76f100_eeprom.bin" merge="x76f100_eeprom.bin" size="132" crc="3ea24b6a" sha1="3a730ebcf56e0060fef6b1b02eb2eb7cfb7e61dc"/>
+		<rom name="epr-23605.ic27" sha1="787b0844fc408cf124c12405c095c59948709ea6"/>
+		<rom name="epr-23605a.ic27" sha1="a4a9531a7c66ff30046908cf71f6c7b6fb59c392"/>
+		<rom name="epr-23605b.ic27" sha1="aaca4df51ef91d926f8191d372f3dfe1d20d9484"/>
+		<rom name="epr-23605c.ic27" sha1="cfbfe57c80e6ee86a101fa83aec0a01e00c0f42a"/>
+		<rom name="epr-23605c_multi.ic27" sha1="a8b7dce572b74e02e65cb949b2c366c87625157f"/>
+		<rom name="epr-23607.ic27" sha1="547de5f97d3183c8cd069c4fa3c09f13d8b637d9"/>
+		<rom name="epr-23607b.ic27" sha1="5470ab1cee6afecbd8ca8cf40f8fbe4ec2cb1471"/>
+		<rom name="epr-23607c.ic27" sha1="81d0b1a076c274c6bd7c53b65e7b80e14fe039e1"/>
+		<rom name="epr-23608.ic27" sha1="47d00c818de23f733a4a33b1bbc72eb8aa729246"/>
+		<rom name="epr-23608a.ic27" sha1="28f4de747bb3cf860b9ebf897322fbc5d7c1e156"/>
+		<rom name="epr-23608b.ic27" sha1="343b727a3619d1c75a9b6d4cc156a9050447f155"/>
+		<rom name="epr-23608c.ic27" sha1="25ef957ec1c58fdaff5e89102002bca6c38832c5"/>
+		<rom name="epr-23609b.ic27" sha1="8a244f75595c49d2a37a42ab96b6bab35163ca0e"/>
+		<rom name="epr-23610b.ic27" sha1="0b3a36446c308fcbfe3647df45c848091e8797f1"/>
+		<rom name="main_eeprom.bin" sha1="4099f1747aafa07db34f6e072cd9bfaa83bae10e"/>
+		<rom name="x76f100_eeprom.bin" sha1="3a730ebcf56e0060fef6b1b02eb2eb7cfb7e61dc"/>
 		<disk name="gds-0014" sha1="2d784ed2f5c00189af8480c9ab5ae9d8b7a152d2" region="gdrom"/>
 		<device_ref name="sh7091"/>
 		<device_ref name="timer"/>
@@ -6721,6 +6721,53 @@
 		<hash>715b50388fc01b4e356b7227aec29722</hash>
 	</game>
 	
+	<game name="fghthistu" cloneof="fghthist">
+		<description>Fighter's History (US ver 42-09, DE-0396-0 PCB)</description>
+		<category>Retail</category>
+		<release name="fghthistu" region="USA"/>
+		<rom name="lj00-3.1f" size="524288" crc="17543d60"/>
+		<rom name="lj01-3.2f" size="524288" crc="e255d48f"/>
+		<rom name="lj02-.17k" size="65536" crc="146a1063"/>
+		<rom name="mbf00-8.8a" crc="d3e9b580"/>
+		<rom name="mbf01-8.9a" crc="0c6ed2eb"/>
+		<rom name="mbf02-16.16d" crc="c19c5953"/>
+		<rom name="mbf04-16.18d" crc="f6a23fd7"/>
+		<rom name="mbf03-16.17d" crc="37d25c75"/>
+		<rom name="mbf05-16.19d" crc="137be66d"/>
+		<rom name="mbf06.15k" crc="fb513903"/>
+		<rom name="mbf07.16k" crc="51d4adc7"/>
+		<rom name="kt-00.8j" crc="7294354b"/>
+		<rom name="ve-00.3d" crc="384d316c"/>
+		<rom name="ve-01.4d" size="279" crc="4ba7e6a9"/>
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/13284/hashes</url>
+		<hash>bff892a489a8ecf5cd690462487bcfc2</hash>
+	</game>
+	<game name="fghthist">
+		<description>Fighter's History (World ver 43-09, DE-0395-1 PCB)</description>
+		<category>Retail</category>
+		<release name="fghthist" region="World"/>
+		<rom name="lc00-1.1f" size="524288" crc="61a76a16"/>
+		<rom name="lc01-1.2f" size="524288" crc="6f2740d1"/>
+		<rom name="lc02-1.18k" size="65536" crc="5fd2309c"/>
+		<rom name="mbf00-8.8a" size="1048576" crc="d3e9b580"/>
+		<rom name="mbf01-8.9a" size="1048576" crc="0c6ed2eb"/>
+		<rom name="mbf02-16.16d" size="2097152" crc="c19c5953"/>
+		<rom name="mbf04-16.18d" size="2097152" crc="f6a23fd7"/>
+		<rom name="mbf03-16.17d" size="2097152" crc="37d25c75"/>
+		<rom name="mbf05-16.19d" size="2097152" crc="137be66d"/>
+		<rom name="mbf06.15k" size="524288" crc="fb513903"/>
+		<rom name="mbf07.16k" size="524288" crc="51d4adc7"/>
+		<rom name="kt-00.8j" size="512" crc="7294354b"/>
+		<rom name="ve-00.3d" size="279" crc="384d316c"/>
+		<rom name="ve-01a.4d" size="279" crc="109613c8"/>
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/13284/hashes</url>
+		<hash>cecfe940a0ba0b7bd6cbb7433beaffc8</hash>
+	</game>
+	
 	<game name="ffight">
 		<description>Final Fight (World, set 1)</description>
 		<category>Retail</category>
@@ -9174,6 +9221,64 @@
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/12473/hashes</url>
 		<hash>9111add31d272deb33d7aed4281c0e76</hash>
+	</game>
+	
+	<game name="karnovr">
+		<description>Karnov's Revenge / Fighter's History Dynamite</description>
+		<category>Retail</category>
+		<release name="karnovr" region="World"/>
+		<rom name="066-p1.p1" size="1048576" crc="8c86fd22"/>
+		<rom name="066-s1.s1" size="131072" crc="bae5d5e5"/>
+		<rom name="066-c1.c1" size="2097152" crc="09dfe061"/>
+		<rom name="066-c2.c2" size="2097152" crc="e0f6682a"/>
+		<rom name="066-c3.c3" size="2097152" crc="a673b4f7"/>
+		<rom name="066-c4.c4" size="2097152" crc="cb3dc5f4"/>
+		<rom name="066-c5.c5" size="2097152" crc="9a28785d"/>
+		<rom name="066-c6.c6" size="2097152" crc="c15c01ed"/>
+		<rom name="066-m1.m1" size="131072" crc="030beae4"/>
+		<rom name="066-v1.v1" size="2097152" crc="0b7ea37a"/>
+		<rom name="sp-s3.sp1" crc="91b64be3"/>
+		<rom name="sp-s2.sp1" crc="9036d879"/>
+		<rom name="sp-s.sp1" crc="c7f2fa45"/>
+		<rom name="sp-u2.sp1" crc="e72943de"/>
+		<rom name="sp1-u2" crc="62f021f4"/>
+		<rom name="sp-e.sp1" crc="2723a5b5"/>
+		<rom name="sp1-u4.bin" crc="1179a30f"/>
+		<rom name="sp1-u3.bin" crc="2025b7a2"/>
+		<rom name="vs-bios.rom" crc="f0e8f27d"/>
+		<rom name="sp-j2.sp1" crc="acede59c"/>
+		<rom name="sp1.jipan.1024" crc="9fb0abe4"/>
+		<rom name="sp-45.sp1" crc="03cc9f6a"/>
+		<rom name="sp-j3.sp1" crc="486cb450"/>
+		<rom name="japan-j3.bin" crc="dff6d41f"/>
+		<rom name="sp1-j3.bin" crc="fbc6d469"/>
+		<rom name="neo-po.bin" crc="16d0c132"/>
+		<rom name="neo-epo.bin" crc="d27a71f1"/>
+		<rom name="neodebug.bin" crc="698ebb7d"/>
+		<rom name="sp-1v1_3db8c.bin" crc="162f0ebe"/>
+		<rom name="uni-bios_4_0.rom" crc="a7aab458"/>
+		<rom name="uni-bios_3_3.rom" crc="24858466"/>
+		<rom name="uni-bios_3_2.rom" crc="a4e8b9b3"/>
+		<rom name="uni-bios_3_1.rom" crc="0c58093f"/>
+		<rom name="uni-bios_3_0.rom" crc="a97c89a9"/>
+		<rom name="uni-bios_2_3.rom" crc="27664eb5"/>
+		<rom name="uni-bios_2_3o.rom" crc="601720ae"/>
+		<rom name="uni-bios_2_2.rom" crc="2d50996a"/>
+		<rom name="uni-bios_2_1.rom" crc="8dabf76b"/>
+		<rom name="uni-bios_2_0.rom" crc="0c12c2ad"/>
+		<rom name="uni-bios_1_3.rom" crc="b24b44a0"/>
+		<rom name="uni-bios_1_2.rom" crc="4fa698e9"/>
+		<rom name="uni-bios_1_2o.rom" crc="e19d3ce9"/>
+		<rom name="uni-bios_1_1.rom" crc="5dda0d84"/>
+		<rom name="uni-bios_1_0.rom" crc="0ce453a0"/>
+		<rom name="neopen.sp1" crc="cb915e76"/>
+		<rom name="sm1.sm1" crc="94416d67"/>
+		<rom name="sfix.sfix" crc="c2ea0cfd"/>
+		<rom name="000-lo.lo" crc="5a86cff2"/>
+		<video type="raster" orientation="horizontal" width="304" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/13297/hashes</url>
+		<hash>b853bc7ea4064d08d570819b42594034</hash>
 	</game>
 	
 	<game name="ket">
@@ -23812,6 +23917,30 @@
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/13825/hashes</url>
 		<hash>35b43f65caf0f38daaa9af61658f8c92</hash>
+	</game>
+	
+	<game name="wrally">
+		<description>World Rally Championship (version 1.0, checksum DE0D, 08 Nov 1993)</description>
+		<category>Retail</category>
+		<release name="wrally" region="World"/>
+		<rom name="invers_taula_c23_coche_8-11-93_e.bin" size="524288" crc="593189bf"/>
+		<rom name="invers_taula_c22_coche_8-11-93_o.bin" size="524288" crc="af91579b"/>
+		<rom name="wrdallas.bin" size="32768" crc="547d1768"/>
+		<rom name="worldr21.i13" size="524288" crc="b7fddb12"/>
+		<rom name="worldr20.i11" size="524288" crc="58b2809a"/>
+		<rom name="worldr19.i09" size="524288" crc="018b35bb"/>
+		<rom name="worldr18.i07" size="524288" crc="b37c807e"/>
+		<rom name="worldr14.c01" size="524288" crc="e931c2ee"/>
+		<rom name="worldr15.c03" size="524288" crc="11f0fe2c"/>
+		<rom name="tibpal20l8-25cnt.b23" size="741" crc="a1c780ed"/>
+		<rom name="gal16v8-25lnc.h21" size="260" status="nodump"/>
+		<rom name="tibpal20l8-25cnt.h15" size="741" crc="a39efdc6"/>
+		<rom name="pal16r4-e2.bin" size="260" crc="15fee75c"/>
+		<rom name="pal16r8-b15.bin" size="260" crc="b50337a6"/>
+		<video type="raster" orientation="horizontal" width="368" height="232" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/27016/hashes</url>
+		<hash>e07e71e9d01b6aeb7622741b93a5b1fd</hash>
 	</game>
 	
 	<game name="xmenaa" cloneof="xmen">

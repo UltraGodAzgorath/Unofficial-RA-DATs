@@ -5,8 +5,8 @@
 		<name>RA - Sony PlayStation</name>
 		<description>Sony PlayStation</description>
 		<category>Subfolders</category>
-		<version>20250928</version>
-		<date>28 September 2025</date>
+		<version>20251014</version>
+		<date>14 October 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -2582,6 +2582,16 @@
 		<hash>69adcb0d4f7c19e349272c6cc2eec9ec</hash>
 	</machine>
 	
+	<machine name="Retail/Evil Dead - Hail to the King (USA)">
+		<category></category>
+		<description>Evil Dead - Hail to the King (USA)</description>
+		<rom name="Evil Dead - Hail to the King (USA).m3u" size="96" crc="8d7aced0" md5="26206c4f06cc22b4abffaa1f2f3587b1" sha1="87e68fd3dc7ac2f7f5deea2264c868f34f42c1a8"/>
+		<disk name="Evil Dead - Hail to the King (USA) (Disc 1).chd" sha1="7c7040443a25a40f6c9565f444f66252a65694ae"/>
+		<disk name="Evil Dead - Hail to the King (USA) (Disc 2).chd" sha1="63316862a820480c39977fbba2ceca1ce4154a05"/>
+		<url>https://retroachievements.org/game/5954/hashes</url>
+		<hash>5e9031dafcae4e2844cbfd67f8619122</hash>
+	</machine>
+	
 	<machine name="Retail/Evil Zone (USA)">
 		<category></category>
 		<description>Evil Zone (USA)</description>
@@ -3224,10 +3234,10 @@
 		<url>https://retroachievements.org/game/11250/hashes</url>
 		<hash>25392ec4167fa54080fb744eae45497c</hash>
 	</machine>
-	<machine name="Retail/Harvest Moon - Back to Nature (USA) (Id)">
+	<machine name="Retail/Harvest Moon - Back to Nature (USA) (Id) (v1.0) (Palapa)">
 		<category></category>
-		<description>Harvest Moon - Back to Nature (USA) (Id)</description>
-		<disk name="Harvest Moon - Back to Nature (USA) (Id).chd" sha1="8cb3664d085d305695fe15cc2d006c86f0a635cb"/>
+		<description>Harvest Moon - Back to Nature (USA) (Id) (v1.0) (Palapa)</description>
+		<disk name="Harvest Moon - Back to Nature (USA) (Id) (v1.0) (Palapa).chd" sha1="8cb3664d085d305695fe15cc2d006c86f0a635cb"/>
 		<url>https://retroachievements.org/game/11250/hashes</url>
 		<hash>eed7764afa067701582ba33b6a2ebf22</hash>
 	</machine>
@@ -4010,6 +4020,14 @@
 		<hash>519b1420d26175106d0459cdb40bdb7a</hash>
 	</machine>
 	
+	<machine name="Retail/Martian Gothic - Unification (USA)">
+		<category></category>
+		<description>Martian Gothic - Unification (USA)</description>
+		<disk name="Martian Gothic - Unification (USA).chd" sha1="04c0036af9cce8528e79d8c426b28ff1fb914809"/>
+		<url>https://retroachievements.org/game/16570/hashes</url>
+		<hash>1e4cba080fe4c3c4c5bec498a7739a3a</hash>
+	</machine>
+	
 	<machine name="Retail/Marvel vs. Capcom - Clash of Super Heroes (USA)">
 		<category></category>
 		<description>Marvel vs. Capcom - Clash of Super Heroes (USA)</description>
@@ -4101,6 +4119,14 @@
 		<disk name="Mega Man 8 (USA).chd" sha1="e4e71e460de78f5a571f46fb2e1f5b940c9477c3"/>
 		<url>https://retroachievements.org/game/11365/hashes</url>
 		<hash>56e1638cce2742e679578cb75406b772</hash>
+	</machine>
+	
+	<machine name="Retail/Rockman - Battle &amp; Chase (Japan) (PlayStation the Best for Family)">
+		<category></category>
+		<description>Rockman - Battle &amp; Chase (Japan) (PlayStation the Best for Family)</description>
+		<disk name="Rockman - Battle &amp; Chase (Japan) (PlayStation the Best for Family).chd" sha1="47972c0a928934a6a2cd3ec08608f721b840e4ed"/>
+		<url>https://retroachievements.org/game/5695/hashes</url>
+		<hash>21c8ec4552af9306ff7a650dc00e3036</hash>
 	</machine>
 	
 	<machine name="Retail/Mega Man Legends (USA)">
@@ -5912,14 +5938,6 @@
 		<hash>1105da76e969ea68bd0dabfab66a9727</hash>
 	</machine>
 	
-	<machine name="Retail/Rockman - Battle &amp; Chase (Japan) (PlayStation the Best for Family)">
-		<category></category>
-		<description>Rockman - Battle &amp; Chase (Japan) (PlayStation the Best for Family)</description>
-		<disk name="Rockman - Battle &amp; Chase (Japan) (PlayStation the Best for Family).chd" sha1="47972c0a928934a6a2cd3ec08608f721b840e4ed"/>
-		<url>https://retroachievements.org/game/5695/hashes</url>
-		<hash>21c8ec4552af9306ff7a650dc00e3036</hash>
-	</machine>
-	
 	<machine name="Retail/Rogue Trip - Vacation 2012 (USA)">
 		<category></category>
 		<description>Rogue Trip - Vacation 2012 (USA)</description>
@@ -5974,6 +5992,14 @@
 		<disk name="Running Wild (USA).chd" sha1="58f9fdbe3edb6bbfaef15e267139499099fd0732"/>
 		<url>https://retroachievements.org/game/14423/hashes</url>
 		<hash>34a34bafa20147f6050d9d326c62d1a8</hash>
+	</machine>
+	
+	<machine name="Retail/Rupupu Cube - Lup Salad (Japan)">
+		<category></category>
+		<description>Rupupu Cube - Lup Salad (Japan)</description>
+		<disk name="Rupupu Cube - Lup Salad (Japan).chd" sha1="b5517cf6f7bc1e0075dfd93d792ae8c83f856d59"/>
+		<url>https://retroachievements.org/game/18430/hashes</url>
+		<hash>3757446364dcdff18ae30a5103897ae0</hash>
 	</machine>
 	
 	<machine name="Retail/Iznogoud (Europe) (En,Fr,De,It,Nl)">
@@ -6038,6 +6064,27 @@
 		<disk name="Segare Ijiri (Japan).chd" sha1="c1f1bc032921c544d393359e79a6b987574ab72f"/>
 		<url>https://retroachievements.org/game/18824/hashes</url>
 		<hash>c27039ca45c3f934a6a4c8160671f254</hash>
+	</machine>
+	
+	<machine name="Retail/Serial Experiments Lain (Japan)">
+		<category></category>
+		<description>Serial Experiments Lain (Japan)</description>
+		<rom name="Serial Experiments Lain (Japan).m3u" size="90" crc="6e137a39" md5="1274e1411407a4f432515e6830d80d2f" sha1="53e2c15a0cd82990e35a8e7ccd60c2a27255a8c1"/>
+		<disk name="Serial Experiments Lain (Japan) (Disc 1)" sha1="7c199f3630c04516a509f186acb27ca943c6ca9d"/>
+		<disk name="Serial Experiments Lain (Japan) (Disc 2)" sha1="eaeb08f9c2747c97546e1eb71234ca2e33b20cbc"/>
+		<url>https://retroachievements.org/game/18237/hashes</url>
+		<hash>f6bf8e46c5fcf5fe82b96ea678260962</hash>
+		<hash>010806de86c6468da36ce4dd9bd83b18</hash>
+	</machine>
+	<machine name="Retail/Serial Experiments Lain (Japan) (En) (v1.0) (carlosrhv)">
+		<category></category>
+		<description>Serial Experiments Lain (Japan) (En) (v1.0) (carlosrhv)</description>
+		<rom name="Serial Experiments Lain (Japan) (En) (v1.0) (carlosrhv).m3u" size="138" crc="46bf7625" md5="8e0897911fa7efb6751d272e16477eae" sha1="72b449f784697a64fac80009f4edc5b6d93bebbd"/>
+		<disk name="Serial Experiments Lain (Japan) (En) (v1.0) (carlosrhv) (Disc 1).chd" sha1="db85fc9773ce98b9328718bd965e10ba4d23dc15"/>
+		<disk name="Serial Experiments Lain (Japan) (En) (v1.0) (carlosrhv) (Disc 2).chd" sha1="7981486de1705547cd8411e4d43afa5264f65443"/>
+		<url>https://retroachievements.org/game/18237/hashes</url>
+		<hash>6174103153fe588027171d3692b41389</hash>
+		<hash>b7051b24f7c9ede944bca05b3a5da345</hash>
 	</machine>
 	
 	<machine name="Retail/Sesame Street Sports (USA)">
@@ -7330,6 +7377,14 @@
 		<hash>47c0e60ca708412509d1bd36656ea6f9</hash>
 	</machine>
 	
+	<machine name="Retail/Three Stooges, The (USA)">
+		<category></category>
+		<description>Three Stooges, The (USA)</description>
+		<disk name="Three Stooges, The (USA).chd" sha1="01d519a07510122a1edb49a9553b0638cf49db71"/>
+		<url>https://retroachievements.org/game/32087/hashes</url>
+		<hash>4d8d5f88d7fce23ab92f01fc82e036b4</hash>
+	</machine>
+	
 	<machine name="Retail/Disney Presents Tigger's Honey Hunt (USA)">
 		<category></category>
 		<description>Disney Presents Tigger's Honey Hunt (USA)</description>
@@ -7398,6 +7453,14 @@
 		<disk name="Tobal 2 (Japan) (En) (Infinite Lupine Translations, r4dius) (v1.01b).chd" sha1="5966c5c0275cd482dd1d9b49cc647556f8585d4f"/>
 		<url>https://retroachievements.org/game/3089/hashes</url>
 		<hash>c3c342ccd9d7a9ffe3882d5454be130b</hash>
+	</machine>
+	
+	<machine name="Retail/Tobal No. 1 (USA)">
+		<category></category>
+		<description>Tobal No. 1 (USA)</description>
+		<disk name="Tobal No. 1 (USA).chd" sha1="7bd2e70f7ba76f4c53a6603cec568e35fe5732cd"/>
+		<url>https://retroachievements.org/game/17000/hashes</url>
+		<hash>ca2a969e943809c6f6e56af54edcf3c4</hash>
 	</machine>
 	
 	<machine name="Retail/Tom and Jerry in House Trap (USA)">

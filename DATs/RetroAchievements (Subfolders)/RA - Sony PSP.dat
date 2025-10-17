@@ -5,8 +5,8 @@
 		<name>RA - Sony PSP</name>
 		<description>Sony PSP</description>
 		<category>Subfolders</category>
-		<version>20250928</version>
-		<date>28 September 2025</date>
+		<version>20251014</version>
+		<date>14 October 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/41/games</url>
@@ -711,6 +711,22 @@
 		<url>https://retroachievements.org/game/18142/hashes</url>
 		<hash>e66458b3d4338cc08f753df342c4adb9</hash>
 		<legacyhash>686c89c8730a874ee524bd159465d63d</legacyhash>
+	</machine>
+	
+	<machine name="Retail/Digivice Ver Portable (Japan) (PSN)">
+		<category>PSP</category>
+		<description>Digivice Ver Portable (Japan) (PSN)</description>
+		<disk name="Digivice Ver Portable (Japan) (PSN).chd" sha1="5d2770ae10acc6fffb40f610a7823910da4e83c7"/>
+		<url>https://retroachievements.org/game/18366/hashes</url>
+		<hash>436ceb68658b81c42b1294dac1188357</hash>
+		<legacyhash>1f633be812ce98d4aaa8275689fa1359</legacyhash>
+	</machine>
+	<machine name="Retail/Digivice Ver Portable (Japan) (PSN) (Es) (v1.0) (Bunkai)">
+		<category>PSP</category>
+		<description>Digivice Ver Portable (Japan) (PSN) (Es) (v1.0) (Bunkai)</description>
+		<disk name="Digivice Ver Portable (Japan) (PSN) (Es) (v1.0) (Bunkai).chd" sha1="c35df02c9aadf943c2b3f3192dbadf4b4f965d44"/>
+		<url>https://retroachievements.org/game/18366/hashes</url>
+		<hash>6ed5c568614941f02c240fa756319e81</hash>
 	</machine>
 	
 	<machine name="Retail/Diner Dash (Europe) (En,Fr,De,Es,It)">
@@ -2761,6 +2777,15 @@
 		<url>https://retroachievements.org/game/18455/hashes</url>
 		<hash>13174b10a9340581c8d75777850a1f23</hash>
 		<legacyhash>f5e6c0628483a902c42b36b9b3e0639f</legacyhash>
+	</machine>
+	
+	<machine name="Retail/Split-Second - Velocity (Europe) (En,Fr,De,Es,It,Ru)">
+		<category></category>
+		<description>Split-Second - Velocity (Europe) (En,Fr,De,Es,It,Ru)</description>
+		<disk name="Split-Second - Velocity (Europe) (En,Fr,De,Es,It,Ru).chd" sha1="31f11a2100f75a12ef177561416b018881c69118"/>
+		<url>https://retroachievements.org/game/18474/hashes</url>
+		<hash>612710a7c3bf99784a767473a0c03c5b</hash>
+		<legacyhash>316c8793896cd929873e042863cad6bf</legacyhash>
 	</machine>
 	
 	<machine name="Retail/SpongeBob's Truth or Square (USA)">

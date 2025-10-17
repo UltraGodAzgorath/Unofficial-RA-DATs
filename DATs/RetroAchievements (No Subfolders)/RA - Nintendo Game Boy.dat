@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>No Subfolders</category>
-		<version>20250928</version>
-		<date>28 September 2025</date>
+		<version>20251014</version>
+		<date>14 October 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/4/games</url>
@@ -91,24 +91,6 @@
 		<rom name="Pokemon - Little Cup Red (Hack).gb" size="1048576" crc="0ba09347" md5="1ef07bec11e159d0cb8092799c96356a" sha1="556dd48ff6150d2da3c67daa74729d4c61ea5c08"/>
 		<url>https://retroachievements.org/game/16548/hashes</url>
 		<hash>1ef07bec11e159d0cb8092799c96356a</hash>
-	</game>
-	
-	<game name="Pokemon - Periwinkle Version - Special Blobbos Edition (Hack)">
-		<category>Hack</category>
-		<description>Pokemon - Periwinkle Version - Special Blobbos Edition (Hack)</description>
-		<release name="Pokemon - Periwinkle Version - Special Blobbos Edition (Hack)" region="World"/>
-		<rom name="Pokemon - Periwinkle Version - Special Blobbos Edition (Hack).gb" size="2097152" crc="67b96ba3" md5="eddac02481d810c49b54891c48acf340" sha1="3501b403362cf96f54acf9ba3b28ae9089576ce8"/>
-		<url>https://retroachievements.org/game/7798/hashes</url>
-		<hash>eddac02481d810c49b54891c48acf340</hash>
-	</game>
-	
-	<game name="Pokemon - Periwinkle Version - Special Blobbos Edition (Subset - Professor Oak's Challenge)">
-		<category>Subset</category>
-		<description>Pokemon - Periwinkle Version - Special Blobbos Edition (Subset - Professor Oak's Challenge)</description>
-		<release name="Pokemon - Periwinkle Version - Special Blobbos Edition (Subset - Professor Oak's Challenge)" region="World"/>
-		<rom name="Pokemon - Periwinkle Version - Special Blobbos Edition (Subset - Professor Oak's Challenge).gb" size="2097152" crc="f4ac0d11" md5="860dfa9cd63619affdbab75ba7b01414" sha1="3a52840eeea64b49789414cfe48a44cc88ec133b"/>
-		<url>https://retroachievements.org/game/28590/hashes</url>
-		<hash>860dfa9cd63619affdbab75ba7b01414</hash>
 	</game>
 	
 	<game name="Pokemon - Professor Oak Challenge (Blue Version) (Hack)">
@@ -290,6 +272,15 @@
 		<rom name="Pokemon - Yellow Legacy (Hack).gb" size="2097152" crc="e7d07a3f" md5="1891782030c2583075ce593167ec46c3" sha1="2ac87de42afc70ef6016805acb3b206644417f97"/>
 		<url>https://retroachievements.org/game/18444/hashes</url>
 		<hash>1891782030c2583075ce593167ec46c3</hash>
+	</game>
+	
+	<game name="Pokemon - Yellow - Cramorant Edition (Hack)">
+		<category>Hack</category>
+		<description>Pokemon - Yellow - Cramorant Edition (Hack)</description>
+		<release name="Pokemon - Yellow - Cramorant Edition (Hack)" region="World"/>
+		<rom name="Pokemon - Yellow - Cramorant Edition (Hack).gb" size="2097152" crc="7625f5ea" md5="4311e7667d4edafba75ff0397856b25d" sha1="3ab0b7cb2608750d1770b39768630e80ad3f0606"/>
+		<url>https://retroachievements.org/game/24702/hashes</url>
+		<hash>4311e7667d4edafba75ff0397856b25d</hash>
 	</game>
 	
 	<game name="Pokemon - Battle Factory (Hack)">
@@ -3019,6 +3010,16 @@
 		<hash>6993211741eea010f51b1c20b05d4c43</hash>
 	</game>
 	
+	<game name="Home Alone 2 - Lost in New York (USA, Europe)">
+		<category>Retail</category>
+		<description>Home Alone 2 - Lost in New York (USA, Europe)</description>
+		<release name="Home Alone 2 - Lost in New York (USA, Europe)" region="Europe"/>
+		<release name="Home Alone 2 - Lost in New York (USA, Europe)" region="USA"/>
+		<rom name="Home Alone 2 - Lost in New York (USA, Europe).gb" size="131072" crc="e8e430f1" md5="0611b365116b22c1aaa7e3ce4faed5ed" sha1="853e6f96bcba40bc4cfa72898b02aebc3f9d9498"/>
+		<url>https://retroachievements.org/game/7409/hashes</url>
+		<hash>0611b365116b22c1aaa7e3ce4faed5ed</hash>
+	</game>
+	
 	<game name="Ikari no Yousai 2 (Japan)">
 		<category>Retail</category>
 		<description>Ikari no Yousai 2 (Japan)</description>
@@ -5605,6 +5606,16 @@
 		<rom name="Simpsons, The - Bart &amp; the Beanstalk (USA, Europe).gb" size="131072" crc="517a614c" md5="19058077b12ac22580aae17b3dd1233f" sha1="98a2d90717d8c9f7feb2d7653aaab6faa0f3ee64"/>
 		<url>https://retroachievements.org/game/2560/hashes</url>
 		<hash>19058077b12ac22580aae17b3dd1233f</hash>
+	</game>
+	
+	<game name="Simpsons, The - Itchy &amp; Scratchy - Miniature Golf Madness (USA, Europe)">
+		<category>Retail</category>
+		<description>Simpsons, The - Itchy &amp; Scratchy - Miniature Golf Madness (USA, Europe)</description>
+		<release name="Simpsons, The - Itchy &amp; Scratchy - Miniature Golf Madness (USA, Europe)" region="Europe"/>
+		<release name="Simpsons, The - Itchy &amp; Scratchy - Miniature Golf Madness (USA, Europe)" region="USA"/>
+		<rom name="Simpsons, The - Itchy &amp; Scratchy - Miniature Golf Madness (USA, Europe).gb" size="131072" crc="ddb147e5" md5="ed0a8885341ee6a201873b2038c87582" sha1="1dbb3eb39e0a2d695136880e6dd0557eb48ebf21"/>
+		<url>https://retroachievements.org/game/2461/hashes</url>
+		<hash>ed0a8885341ee6a201873b2038c87582</hash>
 	</game>
 	
 	<game name="Smurfs, The (Europe) (En,Fr,De,Es)">

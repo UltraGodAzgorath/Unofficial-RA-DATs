@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Color</name>
 		<description>Nintendo Game Boy Color</description>
 		<category>No Subfolders</category>
-		<version>20250928</version>
-		<date>28 September 2025</date>
+		<version>20251014</version>
+		<date>14 October 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/6/games</url>
@@ -2025,6 +2025,15 @@
 		<hash>a9cc81bffb2d1d3a9caa38f04e6f6c1d</hash>
 	</game>
 	
+	<game name="Halloween Racer (Europe) (En,Fr,De,Es,It,Pt)">
+		<category>Retail</category>
+		<description>Halloween Racer (Europe) (En,Fr,De,Es,It,Pt)</description>
+		<release name="Halloween Racer (Europe) (En,Fr,De,Es,It,Pt)" region="Europe"/>
+		<rom name="Halloween Racer (Europe) (En,Fr,De,Es,It,Pt).gbc" size="1048576" crc="70f3b431" md5="2e20e9cbff75913f4e123242a404a2a9" sha1="15bf27a7847817fbbb9cb7729b8046a6d70164c5"/>
+		<url>https://retroachievements.org/game/6276/hashes</url>
+		<hash>2e20e9cbff75913f4e123242a404a2a9</hash>
+	</game>
+	
 	<game name="Hamtaro - Ham-Hams Unite! (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<description>Hamtaro - Ham-Hams Unite! (Europe) (En,Fr,De,Es,It)</description>
@@ -3683,6 +3692,15 @@
 		<rom name="Snoopy Tennis (Europe) (En,Fr,De,Es,It,Nl).gbc" size="1048576" crc="8c2d9b43" md5="d3c6c44a4f6021b4d5a6454a87af9a6c" sha1="e51347bb82e44a2ecefeb3f220a0b3def6daf514"/>
 		<url>https://retroachievements.org/game/27310/hashes</url>
 		<hash>d3c6c44a4f6021b4d5a6454a87af9a6c</hash>
+	</game>
+	
+	<game name="Snow White and the Seven Dwarfs (USA)">
+		<category>Retail</category>
+		<description>Snow White and the Seven Dwarfs (USA)</description>
+		<release name="Snow White and the Seven Dwarfs (USA)" region="USA"/>
+		<rom name="Snow White and the Seven Dwarfs (USA).gbc" size="1048576" crc="8dd38534" md5="0c1c350ce431ace4328c0e935fa2f41b" sha1="865e5bd17e336b4696fb891bc21c966ef2e186c9"/>
+		<url>https://retroachievements.org/game/3673/hashes</url>
+		<hash>0c1c350ce431ace4328c0e935fa2f41b</hash>
 	</game>
 	
 	<game name="Space Invaders (USA, Europe) (GB Compatible)">

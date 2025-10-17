@@ -5,8 +5,8 @@
 		<name>RA - Atari Lynx</name>
 		<description>Atari Lynx</description>
 		<category>Subfolders</category>
-		<version>20250929</version>
-		<date>29 September 2025</date>
+		<version>20251014</version>
+		<date>14 October 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/13/games</url>
@@ -122,6 +122,14 @@
 		<rom name="Bill &amp; Ted's Excellent Adventure (USA, Europe).lyx" size="262144" crc="143a313e" md5="87dff4f4d5e1e4a7132d19f94d4e9b3a" sha1="f09ce08d93a479feaceceb79eb48b337aff49fae"/>
 		<url>https://retroachievements.org/game/11490/hashes</url>
 		<hash>87dff4f4d5e1e4a7132d19f94d4e9b3a</hash>
+	</game>
+	
+	<game name="Retail/Block Out (USA, Europe)">
+		<category></category>
+		<description>Block Out (USA, Europe)</description>
+		<rom name="Block Out (USA, Europe).lnx" size="131072" crc="3cd75df3" md5="c81abf2919effd525b83c2103b75e6ca" sha1="ae177cf76953b7e0a56b03096bb5c9c9c9051177"/>
+		<url>https://retroachievements.org/game/11235/hashes</url>
+		<hash>c81abf2919effd525b83c2103b75e6ca</hash>
 	</game>
 	
 	<game name="Retail/California Games (World)">

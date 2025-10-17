@@ -5,8 +5,8 @@
 		<name>RA - Sony PlayStation 2</name>
 		<description>Sony PlayStation 2</description>
 		<category>Subfolders</category>
-		<version>20250928</version>
-		<date>28 September 2025</date>
+		<version>20251014</version>
+		<date>14 October 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -5590,6 +5590,14 @@
 		<hash>0700ea3d8173fc6160e939049639b743</hash>
 	</machine>
 	
+	<machine name="Retail/Nickelodeon Rugrats - Royal Ransom (USA)">
+		<category></category>
+		<description>Nickelodeon Rugrats - Royal Ransom (USA)</description>
+		<disk name="Nickelodeon Rugrats - Royal Ransom (USA).chd" sha1="f41a0394f9970c5f2fac7c6428ab780cd5a8dc1c"/>
+		<url>https://retroachievements.org/game/24497/hashes</url>
+		<hash>6959213136b4679680a16e9344169647</hash>
+	</machine>
+	
 	<machine name="Retail/Rule of Rose/Rule of Rose (Europe) (En,Fr,De,Es,It)">
 		<category></category>
 		<description>Rule of Rose (Europe) (En,Fr,De,Es,It)</description>
@@ -7739,6 +7747,15 @@
 		<hash>50cc09f64a5116b6578de5dfaedf505e</hash>
 	</machine>
 	
+	<machine name="Tomb Raider - Underworld (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<description>Tomb Raider - Underworld (USA) (En,Fr,Es)</description>
+		<release name="Tomb Raider - Underworld (USA) (En,Fr,Es)" region="USA"/>
+		<disk name="Tomb Raider - Underworld (USA) (En,Fr,Es).chd" sha1="46e6f60587b0f6ef0b0acf9cdcc78a0dcfda1fee"/>
+		<url>https://retroachievements.org/game/21163/hashes</url>
+		<hash>34f73bd0e0b69b04f2cb9bc9a63287f7</hash>
+	</machine>
+	
 	<machine name="Retail/Tony Hawk's American Wasteland (USA) (Collector's Edition)">
 		<category></category>
 		<description>Tony Hawk's American Wasteland (USA) (Collector's Edition)</description>
@@ -7879,6 +7896,14 @@
 		<disk name="Disney's Treasure Planet (USA).chd" sha1="52e8ce26bff60df8a2d9ec2b8768ef58403b9d97"/>
 		<url>https://retroachievements.org/game/24130/hashes</url>
 		<hash>ccf5c29c865838338ccc58cc005c5c6b</hash>
+	</machine>
+	
+	<machine name="Retail/Triggerheart Exelica Enhanced (Japan)">
+		<category></category>
+		<description>Triggerheart Exelica Enhanced (Japan)</description>
+		<disk name="Triggerheart Exelica Enhanced (Japan).chd" sha1="be59f26a082b450fe9541718d0f951c2128b6b5e"/>
+		<url>https://retroachievements.org/game/19184/hashes</url>
+		<hash>a83b98721376a73370c94555abe52603</hash>
 	</machine>
 	
 	<machine name="Retail/True Crime - Streets of LA/True Crime - Streets of LA (USA)">
@@ -8113,6 +8138,14 @@
 		<disk name="Wild Arms 4 (USA) (Undub) (Unknown).chd" sha1="a1f352953a529211f836ca088870101f9e7527de"/>
 		<url>https://retroachievements.org/game/2686/hashes</url>
 		<hash>60421b91e80b61699ba23fe55f4a1ef2</hash>
+	</machine>
+	
+	<machine name="Retail/Wild Arms 5 (Europe) (En,Fr,It)">
+		<category></category>
+		<description>Wild Arms 5 (Europe) (En,Fr,It)</description>
+		<disk name="Wild Arms 5 (Europe) (En,Fr,It).chd" sha1="48238f427e4751a89cd5ea0796aebab97556d425"/>
+		<url>https://retroachievements.org/game/2687/hashes</url>
+		<hash>87b2f895bedd197110e4f962af5cffa7</hash>
 	</machine>
 	
 	<machine name="Retail/Wild Arms - Alter Code - F (USA)">

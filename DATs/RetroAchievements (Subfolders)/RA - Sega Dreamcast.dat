@@ -5,8 +5,8 @@
 		<name>RA - Sega Dreamcast</name>
 		<description>Sega Dreamcast</description>
 		<category>Subfolders</category>
-		<version>20250927</version>
-		<date>27 September 2025</date>
+		<version>20251014</version>
+		<date>14 October 2025</date>
 		<author>Ultra God Azgorath</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/40/games</url>
@@ -1130,6 +1130,14 @@
 		<disk name="Spider-Man (USA).chd" sha1="b64ff2005db953a782654a599cbcc71b8fd03dda"/>
 		<url>https://retroachievements.org/game/10848/hashes</url>
 		<hash>29b6a3ad956dbd79475ca1e7d00a6a51</hash>
+	</machine>
+	
+	<machine name="Retail/Star Wars - Episode I - Jedi Power Battles (USA)">
+		<category></category>
+		<description>Star Wars - Episode I - Jedi Power Battles (USA)</description>
+		<disk name="Star Wars - Episode I - Jedi Power Battles (USA).chd" sha1="db86776728f1c8cb3407b7e2e61fb58dafb934e0"/>
+		<url>https://retroachievements.org/game/6419/hashes</url>
+		<hash>9cfbb85f22d77b43aba881739c08fc37</hash>
 	</machine>
 	
 	<machine name="Retail/Street Fighter Alpha 3 (USA)">

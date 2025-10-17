@@ -5,8 +5,8 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>Subfolders</category>
-		<version>20250928</version>
-		<date>28 September 2025</date>
+		<version>20251014</version>
+		<date>14 October 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/2/games</url>
@@ -479,19 +479,12 @@
 		<hash>a7b16d92339115f4cc1399c4f4708cc1</hash>
 	</game>
 	
-	<game name="Hack/Legend of Zelda - Ocarina of Time/LoZOoT - Hero of Law (v1.03) (Newer Team) (Hack)">
-		<category>Nintendo 64</category>
-		<description>LoZOoT - Hero of Law (v1.03) (Newer Team) (Hack)</description>
-		<rom name="LoZOoT - Hero of Law (v1.03) (Newer Team) (Hack).z64" size="8388608" crc="bcb139c5" md5="d826e04d46be813079bff7e8720d0f98" sha1="dfa98fbdcc3aefa0c44c76f7c1284d4f61a7c589"/>
+	<game name="Hack/Legend of Zelda - Ocarina of Time/LoZOoT - Hero of Law (v1.10) (Newer Team) (Hack)">
+		<category></category>
+		<description>LoZOoT - Hero of Law (v1.10) (Newer Team) (Hack)</description>
+		<rom name="LoZOoT - Hero of Law (v1.10) (Newer Team) (Hack).z64" size="8388608" crc="bd599967" md5="3eba56d724a9b0c540ed62b9c878425a" sha1="82626e3db0fbdc3d6c96b668c9c25aa77713723a"/>
 		<url>https://retroachievements.org/game/34006/hashes</url>
-		<hash>d826e04d46be813079bff7e8720d0f98</hash>
-	</game>
-	<game name="Hack/Legend of Zelda - Ocarina of Time/LoZOoT - Hero of Law (v1.04) (Newer Team) (Hack)">
-		<category>Nintendo 64</category>
-		<description>LoZOoT - Hero of Law (v1.04) (Newer Team) (Hack)</description>
-		<rom name="LoZOoT - Hero of Law (v1.04) (Newer Team) (Hack).z64" size="8388608" crc="3ed35b5c" md5="6f9476d767e61960c1dafbb006d4923a" sha1="c8acb9bc4c6bf80d54ea09deff7e9c364c8d3549"/>
-		<url>https://retroachievements.org/game/34006/hashes</url>
-		<hash>6f9476d767e61960c1dafbb006d4923a</hash>
+		<hash>3eba56d724a9b0c540ed62b9c878425a</hash>
 	</game>
 	
 	<game name="Hack/Super Mario 64/SM64 - Katze Stuck in the Toilet 64 (Console Compatible) (Tomatobird8) (Hack)">
@@ -1261,6 +1254,14 @@
 		<rom name="SM64 - P Rank 64 (CowQuack) (Hack).z64" size="7207200" crc="bd475ea7" md5="97b24cca7d08d4ff41164d1d6a013b3b" sha1="3a1e92417591668ff8079d19752a6379fffa18d6"/>
 		<url>https://retroachievements.org/game/23907/hashes</url>
 		<hash>97b24cca7d08d4ff41164d1d6a013b3b</hash>
+	</game>
+	
+	<game name="Hack/Super Mario 64/SM64 - Pacmario (v1.0) (Nebula) (Hack)">
+		<category></category>
+		<description>SM64 - Pacmario (v1.0) (Nebula) (Hack)</description>
+		<rom name="SM64 - Pacmario (v1.0) (Nebula) (Hack).z64" size="8441024" crc="c3f3c973" md5="77b7b9bf40e8b8ab04b474d912979459" sha1="c58e92af32f6a75f409874525fad6ab6e727cb4a"/>
+		<url>https://retroachievements.org/game/34478/hashes</url>
+		<hash>77b7b9bf40e8b8ab04b474d912979459</hash>
 	</game>
 	
 	<game name="Hack/Paper Mario/PM - Black Pit (v1.3.2) (eldexter) (Hack)">
@@ -2506,6 +2507,14 @@
 		<rom name="SM64 - Star Revenge 6.5 - Wrath of the Dim. Flower (v1.1.1) (BroDute) (Hack).z64" size="67108864" crc="601628e7" md5="32cb417c8c8953728905ffdaf9f3a579" sha1="0bedef452169bbc59c3ae4111b3c63e6b0e0f873"/>
 		<url>https://retroachievements.org/game/19409/hashes</url>
 		<hash>32cb417c8c8953728905ffdaf9f3a579</hash>
+	</game>
+	
+	<game name="Hack/Super Mario 64 - Star Revenge/SM64 - Star Revenge 6.9 - Luigi Lost in Time (v1.1) (Hack)">
+		<category></category>
+		<description>SM64 - Star Revenge 6.9 - Luigi Lost in Time (v1.1) (Hack)</description>
+		<rom name="SM64 - Star Revenge 6.9 - Luigi Lost in Time (v1.1) (Hack).z64" size="67108864" crc="bae7ef0b" md5="3f6f8a405bd953f617781f82f6cc9cd5" sha1="11f300fe1e59be24be4392a2ef5b8e1788e50b3b"/>
+		<url>https://retroachievements.org/game/19408/hashes</url>
+		<hash>3f6f8a405bd953f617781f82f6cc9cd5</hash>
 	</game>
 	
 	<game name="Hack/Super Mario 64 - Star Revenge/SM64 - Star Revenge 7 - Park of Time (v1.1) (BroDute) (Hack)">
@@ -4223,14 +4232,6 @@
 		<hash>42da4c7d040f9e7cd046a42ec3e68027</hash>
 	</game>
 	
-	<game name="Retail/Conker's Bad Fur Day (Europe)">
-		<category>Nintendo 64</category>
-		<description>Conker's Bad Fur Day (Europe)</description>
-		<rom name="Conker's Bad Fur Day (Europe).z64" size="67108864" crc="4667cfe9" md5="05194d49c14e52055df72a54d40791e1" sha1="ee7bc6656fd1e1d9ffb3d19add759f28b88df710"/>
-		<url>https://retroachievements.org/game/10164/hashes</url>
-		<hash>05194d49c14e52055df72a54d40791e1</hash>
-	</game>
-	
 	<game name="Subset/Conker's Bad Fur Day (Subset - Bonus)">
 		<category>Nintendo 64</category>
 		<description>Conker's Bad Fur Day (Subset - Bonus)</description>
@@ -4550,12 +4551,26 @@
 		<url>https://retroachievements.org/game/10282/hashes</url>
 		<hash>5270d98f9e67dc7ef354ece109c2a18f</hash>
 	</game>
+	<game name="Retail/Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.03) (ozidual)">
+		<category>Nintendo 64</category>
+		<description>Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.03) (ozidual)</description>
+		<rom name="Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.03) (ozidual).z64" size="12582912" crc="f37a40f6" md5="4677619c31c5dfda8448308c558f480d" sha1="736112b94fc4bd68c2685e7669398b4774ab3484"/>
+		<url>https://retroachievements.org/game/10282/hashes</url>
+		<hash>4677619c31c5dfda8448308c558f480d</hash>
+	</game>
 	<game name="Retail/Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.01) (ozidual)">
 		<category>Nintendo 64</category>
 		<description>Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.01) (ozidual)</description>
 		<rom name="Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.01) (ozidual).z64" size="12582912" crc="26ce64f2" md5="0ac7a16f8afcc03031835c89d095d7b9" sha1="7c443e824d7589d2bd8bd88231ac3acf178def6f"/>
 		<url>https://retroachievements.org/game/10282/hashes</url>
 		<hash>0ac7a16f8afcc03031835c89d095d7b9</hash>
+	</game>
+	<game name="Retail/Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.03 - Controller Pak E) (ozidual)">
+		<category>Nintendo 64</category>
+		<description>Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.03 - Controller Pak E) (ozidual)</description>
+		<rom name="Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.03 - Controller Pak E) (ozidual).z64" size="12582912" crc="128d2938" md5="e2fe94804e7127eb6b78e25e8a775060" sha1="c3771d8b120b1767a6410f3ebf3c87ef40b701b7"/>
+		<url>https://retroachievements.org/game/10282/hashes</url>
+		<hash>e2fe94804e7127eb6b78e25e8a775060</hash>
 	</game>
 	
 	<game name="Retail/Gex 3 - Deep Cover Gecko (USA)">
