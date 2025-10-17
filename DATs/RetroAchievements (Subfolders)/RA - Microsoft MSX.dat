@@ -5,8 +5,8 @@
 		<name>RA - Microsoft MSX</name>
 		<description>Microsoft MSX</description>
 		<category>Subfolders</category>
-		<version>20250809</version>
-		<date>09 August 2025</date>
+		<version>20251017</version>
+		<date>17 October 2025</date>
 		<author>Ultra God Azgorath, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/29/games</url>
@@ -29,6 +29,54 @@
 		<hash>e40432b864c4b7440f8b265ebfa0a7f5</hash>
 	</game>
 	
+	<game name="Homebrew/Binary Battle (2024) (v1.1) (Haplo) (Aftermarket)">
+		<category>MSX</category>
+		<description>Binary Battle (2024) (v1.1) (Haplo) (Aftermarket)</description>
+		<rom name="Binary Battle (2024) (v1.1) (Haplo) (Aftermarket).rom" size="32768" crc="7f56a3a1" md5="b5efcd7124009068b63f8b144baa3a89" sha1="a60aa28d883060adcbd9f6dd0d845d5500ed8598"/>/>
+		<url>https://retroachievements.org/game/33865/hashes</url>
+		<hash>b5efcd7124009068b63f8b144baa3a89</hash>
+	</game>
+	
+	<game name="Homebrew/BitLogic (2015) (v1.0 - Final) (OXiAB Game Studio) (Aftermarket)">
+		<category>MSX</category>
+		<description>BitLogic (2015) (v1.0 - Final) (OXiAB Game Studio) (Aftermarket)</description>
+		<rom name="BitLogic (2015) (v1.0 - Final) (OXiAB Game Studio) (Aftermarket).rom" size="262144" crc="a3dd2687" md5="7848f094ab4786e5cdcd499ec745d12b" sha1="a38ace5c3d1877f4e5704fdeb2d1b405f1153bc5"/>/>
+		<url>https://retroachievements.org/game/33868/hashes</url>
+		<hash>7848f094ab4786e5cdcd499ec745d12b</hash>
+	</game>
+	
+	<game name="Homebrew/Caos Begins (2007) (Hikaru Games) (Aftermarket)">
+		<category>MSX</category>
+		<description>Caos Begins (2007) (Hikaru Games) (Aftermarket)</description>
+		<rom name="Caos Begins (2007) (Hikaru Games) (Aftermarket).rom" size="32768" crc="44421f97" md5="c672c9d37070244f13902036f74bb641" sha1="37f302291c75847f4b87a82e3acbbf62eab625f8"/>
+		<url>https://retroachievements.org/game/33788/hashes</url>
+		<hash>c672c9d37070244f13902036f74bb641</hash>
+	</game>
+	
+	<game name="Homebrew/Caverns of Titan (2005) (v1.1) (JLTurSan) (Aftermarket)">
+		<category>MSX</category>
+		<description>Caverns of Titan (2005) (v1.1) (JLTurSan) (Aftermarket)</description>
+		<rom name="Caverns of Titan (2005) (v1.1) (JLTurSan) (Aftermarket).rom" size="16384" crc="9e02db6c" md5="015a4f70f73c9d59452b716e2cc0c2d0" sha1="c5568fc07bfb193b43ad7c840787f274d9c1e42f"/>
+		<url>https://retroachievements.org/game/33817/hashes</url>
+		<hash>015a4f70f73c9d59452b716e2cc0c2d0</hash>
+	</game>
+	
+	<game name="Homebrew/Cube Droid Holiday Special (2024) (MSX2) (bitsofbas) (Aftermarket)">
+		<category>MSX</category>
+		<description>Cube Droid Holiday Special (2024) (MSX2) (bitsofbas) (Aftermarket)</description>
+		<rom name="Cube Droid Holiday Special (2024) (MSX2) (bitsofbas) (Aftermarket).rom" size="65536" crc="39da7b9f" md5="f763bb7ac109f205c1484348c676422b" sha1="1828231318ae242bbbd812166ac9a2534f5b8bd5"/>
+		<url>https://retroachievements.org/game/34127/hashes</url>
+		<hash>f763bb7ac109f205c1484348c676422b</hash>
+	</game>
+	
+	<game name="Homebrew/Cube Droid Saves the Galaxy (2024) (MSX2) (bitsofbas) (Aftermarket)">
+		<category>MSX</category>
+		<description>Cube Droid Saves the Galaxy (2024) (MSX2) (bitsofbas) (Aftermarket)</description>
+		<rom name="Cube Droid Saves the Galaxy (2024) (MSX2) (bitsofbas) (Aftermarket).rom" size="65536" crc="988d0550" md5="68a51418081e4ea60402b436625a5c5e" sha1="1ffe495b64a49deed84f42c3ac22410db309e637"/>
+		<url>https://retroachievements.org/game/34126/hashes</url>
+		<hash>68a51418081e4ea60402b436625a5c5e</hash>
+	</game>
+	
 	<game name="Homebrew/Deep Dungeon Adventure (World) (Aftermarket)">
 		<category>MSX</category>
 		<description>Deep Dungeon Adventure (World) (Aftermarket)</description>
@@ -45,12 +93,97 @@
 		<hash>c60cacd6c1a8d390eae9e73e1f4da697</hash>
 	</game>
 	
+	<game name="Homebrew/Grazers (2024) (v1.1) (Snauts) (Aftermarket)">
+		<category>MSX</category>
+		<description>Grazers (2024) (v1.1) (Snauts) (Aftermarket)</description>
+		<rom name="Grazers (2024) (v1.1) (Snauts) (Aftermarket).rom" size="32768" crc="5670651f" md5="713e9fd8449a7f07b754fbd53b5f55be" sha1="4a96c5d525a3511fc7fa694f0bc6a506869e1abe"/>
+		<url>https://retroachievements.org/game/34531/hashes</url>
+		<hash>713e9fd8449a7f07b754fbd53b5f55be</hash>
+	</game>
+	
+	<game name="Homebrew/Lilly's Saga - The Stones of Evergreen (v1.2) (2022) (MSXdev22) (Fabulous 8bit) (Aftermarket)">
+		<category>MSX</category>
+		<description>Lilly's Saga - The Stones of Evergreen (v1.2) (2022) (MSXdev22) (Fabulous 8bit) (Aftermarket)</description>
+		<rom name="Lilly's Saga - The Stones of Evergreen (v1.2) (2022) (MSXdev22) (Fabulous 8bit) (Aftermarket).rom" size="1245184" crc="76e6b758" md5="95203b134222aff061bfa171cf915524" sha1="d18e26f75f6d978fefe56efea46f59b9ad1b71a5"/>
+		<url>https://retroachievements.org/game/32953/hashes</url>
+		<hash>95203b134222aff061bfa171cf915524</hash>
+	</game>
+	
 	<game name="Homebrew/Brunilda (World) (v1.1) (Aftermarket)">
 		<category>MSX</category>
 		<description>Brunilda (World) (v1.1) (Aftermarket)</description>
 		<rom name="Brunilda (World) (v1.1) (Aftermarket).rom" size="1277952" crc="9eb9bad0" md5="e64516057017949edf78d8517a14028b" sha1="fe239a9d71352f4b45e6df64a38341544c197cfb"/>
 		<url>https://retroachievements.org/game/18514/hashes</url>
 		<hash>e64516057017949edf78d8517a14028b</hash>
+	</game>
+	
+	<game name="Homebrew/Lotus F3 (2007) (dvik &amp; joyrex) (Aftermarket)">
+		<category>MSX</category>
+		<description>Lotus F3 (2007) (dvik &amp; joyrex) (Aftermarket)</description>
+		<rom name="Lotus F3 (2007) (dvik &amp; joyrex) (Aftermarket).rom" size="131072" crc="565022a4" md5="240a86ea85c688a313f5752e4e1bd188" sha1="0f2c5a7c6cc9ff591c911e4f3f204e425bd3cf50"/>
+		<url>https://retroachievements.org/game/33856/hashes</url>
+		<hash>240a86ea85c688a313f5752e4e1bd188</hash>
+	</game>
+	
+	<game name="Homebrew/Magical Bocco 20541 (2024) (meichnpp) (Aftermarket)">
+		<category>MSX</category>
+		<description>Magical Bocco 20541 (2024) (meichnpp) (Aftermarket)</description>
+		<rom name="Magical Bocco 20541 (2024) (meichnpp) (Aftermarket).dsk" size="737280" crc="2189ff15" md5="d15d2c5f4915c892fff2aee62d90f55e" sha1="8efa4a8c8ffb014149827bb2a8c73a83662e61d2"/>
+		<url>https://retroachievements.org/game/33781/hashes</url>
+		<hash>d15d2c5f4915c892fff2aee62d90f55e</hash>
+	</game>
+	
+	<game name="Homebrew/Maiden's Extreme Fist 'BUN-GA-RUA' (2024) (v1.1.2) (Retromixis) (Aftermarket)">
+		<category>MSX</category>
+		<description>Maiden's Extreme Fist 'BUN-GA-RUA' (2024) (v1.1.2) (Retromixis) (Aftermarket)</description>
+		<rom name="Maiden's Extreme Fist 'BUN-GA-RUA' (2024) (v1.1.2) (Retromixis) (Aftermarket).rom" size="524288" crc="e54b6041" md5="432de13f52afed4c625bfa3373396000" sha1="78506eb97d2f137e85ed61aa0e3ae093d1539be6"/>
+		<url>https://retroachievements.org/game/33986/hashes</url>
+		<hash>432de13f52afed4c625bfa3373396000</hash>
+	</game>
+	
+	<game name="Homebrew/Malaika Prehistoric Quest/Malaika Prehistoric Quest (2006) (v1.0) (Karoshi Corp) (Aftermarket)">
+		<category>MSX</category>
+		<description>Malaika Prehistoric Quest (2006) (v1.0) (Karoshi Corp) (Aftermarket)</description>
+		<rom name="Malaika Prehistoric Quest (2006) (v1.0) (Karoshi Corp) (Aftermarket).rom" size="32768" crc="224a9a3d" md5="083c10e659e67f91fe062a4424c9e96e" sha1="e94d34d164f5379ea85464b51743461e3f6c92ab"/>
+		<url>https://retroachievements.org/game/33835/hashes</url>
+		<hash>083c10e659e67f91fe062a4424c9e96e</hash>
+	</game>
+	<game name="Homebrew/Malaika Prehistoric Quest/Malaika Prehistoric Quest (2006) (v1.1) (Karoshi Corp) (Aftermarket)">
+		<category>MSX</category>
+		<description>Malaika Prehistoric Quest (2006) (v1.1) (Karoshi Corp) (Aftermarket)</description>
+		<rom name="Malaika Prehistoric Quest (2006) (v1.1) (Karoshi Corp) (Aftermarket).rom" size="32768" crc="2076e940" md5="d70674dc01b0270afecd4d2eb847006f" sha1="e6a0d6c40419647e6b17d30a000331a904c8f5df"/>
+		<url>https://retroachievements.org/game/33835/hashes</url>
+		<hash>d70674dc01b0270afecd4d2eb847006f</hash>
+	</game>
+	<game name="Homebrew/Malaika Prehistoric Quest/Malaika Prehistoric Quest (2006) (v1.2) (Karoshi Corp) (Aftermarket)">
+		<category>MSX</category>
+		<description>Malaika Prehistoric Quest (2006) (v1.2) (Karoshi Corp) (Aftermarket)</description>
+		<rom name="Malaika Prehistoric Quest (2006) (v1.2) (Karoshi Corp) (Aftermarket).rom" size="32768" crc="4add0e80" md5="d0e4cda770bd59aaf4a8fbab9953247a" sha1="480fe052ff41f6f6aaa745c413012d1610f02c90"/>
+		<url>https://retroachievements.org/game/33835/hashes</url>
+		<hash>d0e4cda770bd59aaf4a8fbab9953247a</hash>
+	</game>
+	<game name="Homebrew/Malaika Prehistoric Quest/Malaika Prehistoric Quest (2006) (v1.3) (Karoshi Corp) (Aftermarket)">
+		<category>MSX</category>
+		<description>Malaika Prehistoric Quest (2006) (v1.3) (Karoshi Corp) (Aftermarket)</description>
+		<rom name="Malaika Prehistoric Quest (2006) (v1.3) (Karoshi Corp) (Aftermarket).rom" size="32768" crc="3ddf42ac" md5="8ec2f123539b3e68b076c6892f02311c" sha1="d7bd6e84edcaf6d99abaf6597813501926bda398"/>
+		<url>https://retroachievements.org/game/33835/hashes</url>
+		<hash>8ec2f123539b3e68b076c6892f02311c</hash>
+	</game>
+	
+	<game name="Homebrew/Minesweeper (2024) (v1.03) (Under4Mhz) (Aftermarket)">
+		<category>MSX</category>
+		<description>Minesweeper (2024) (v1.03) (Under4Mhz) (Aftermarket)</description>
+		<rom name="Minesweeper (2024) (v1.03) (Under4Mhz) (Aftermarket).rom" size="16384" crc="6aa779ac" md5="9df8bd94865204e67a5f308fafa09da6" sha1="06d66829c9eb29c681140fb592c2957e30c5e760"/>
+		<url>https://retroachievements.org/game/34085/hashes</url>
+		<hash>9df8bd94865204e67a5f308fafa09da6</hash>
+	</game>
+	
+	<game name="Homebrew/My Sacred Place (2022) (Mario Cavalcanti) (Aftermarket)">
+		<category>MSX</category>
+		<description>My Sacred Place (2022) (Mario Cavalcanti) (Aftermarket)</description>
+		<rom name="My Sacred Place (2022) (Mario Cavalcanti) (Aftermarket).rom" size="49152" crc="56840614" md5="ac7ab0ae39364df4c2a15c4e1ff07972" sha1="77f6ecdedff4a949f1f12449bf7a850edeb6459e"/>
+		<url>https://retroachievements.org/game/33893/hashes</url>
+		<hash>ac7ab0ae39364df4c2a15c4e1ff07972</hash>
 	</game>
 	
 	<game name="Homebrew/Ninja Savior (2020) (v1.0) (Relevo) (Aftermarket)">
@@ -67,6 +200,14 @@
 		<rom name="PAC-01 (2021) (ARC8) (Aftermarket).rom" size="32768" crc="c22e6f4f" md5="2f8f2935031e27c753e3d45f77994c3a" sha1="623bcc57d6ac6aaa18f2e374ce32b482f5d7894b"/>
 		<url>https://retroachievements.org/game/18832/hashes</url>
 		<hash>2f8f2935031e27c753e3d45f77994c3a</hash>
+	</game>
+	
+	<game name="Homebrew/Pentacorn Quest (2023) (v1.1) (Robosoft) (Aftermarket)">
+		<category>MSX</category>
+		<description>Pentacorn Quest (2023) (v1.1) (Robosoft) (Aftermarket)</description>
+		<rom name="Pentacorn Quest (2023) (v1.1) (Robosoft) (Aftermarket).rom" size="49152" crc="883c5abe" md5="037eff9751af0a3a009cbd53b4756663" sha1="4e00f654c0c5ebbd8c4bec4adc9be0ba54555d3f"/>
+		<url>https://retroachievements.org/game/33799/hashes</url>
+		<hash>037eff9751af0a3a009cbd53b4756663</hash>
 	</game>
 	
 	<game name="Homebrew/Phenix Corrupta (2023) (v1.0) (512K) (MSXdev23) (Casper Croes) (Aftermarket)">
@@ -107,12 +248,44 @@
 		<hash>928a4aa69681355654d77f0bba9cc07e</hash>
 	</game>
 	
+	<game name="Homebrew/Pointless Fighting (2014) (Baka-Yo! Softcorp) (Aftermarket)">
+		<category>MSX</category>
+		<description>Pointless Fighting (2014) (Baka-Yo! Softcorp) (Aftermarket)</description>
+		<rom name="Pointless Fighting (2014) (Baka-Yo! Softcorp) (Aftermarket).rom" size="2097152" crc="eb07b1fe" md5="f7271e5aa599888ca85ce5cee4691e79" sha1="f026d150f97a1c9a13a5d5ce3e2621f7214b9dbb"/>
+		<url>https://retroachievements.org/game/33907/hashes</url>
+		<hash>f7271e5aa599888ca85ce5cee4691e79</hash>
+	</game>
+	
+	<game name="Homebrew/Poppie Land (2025) (meichnpp) (Aftermarket)">
+		<category>MSX</category>
+		<description>Poppie Land (2025) (meichnpp) (Aftermarket)</description>
+		<rom name="Poppie Land (2025) (meichnpp) (Aftermarket).dsk" size="737280" crc="d4429226" md5="616a8884d755fd1d2137233fc7cae9ff" sha1="615c48fd0a2a1d89875d3fe39cc0173cbd66071e"/>
+		<url>https://retroachievements.org/game/33900/hashes</url>
+		<hash>616a8884d755fd1d2137233fc7cae9ff</hash>
+	</game>
+	
 	<game name="Homebrew/Pornoman (19xx) (Knight Software) (Aftermarket)">
 		<category>MSX</category>
 		<description>Pornoman (19xx) (Knight Software) (Aftermarket)</description>
 		<rom name="Pornoman (19xx) (Knight Software) (Aftermarket).rom" size="737280" crc="6c9d3977" md5="9e016a6f8743655eacc8e22e96d95c4e" sha1="98266bd9ff2155e8e013ff24d39712d21bdb495c"/>
 		<url>https://retroachievements.org/game/20240/hashes</url>
 		<hash>9e016a6f8743655eacc8e22e96d95c4e</hash>
+	</game>
+	
+	<game name="Homebrew/Pretty Kingdom (2014) (Nerlaska Studio) (Aftermarket)">
+		<category>MSX</category>
+		<description>Pretty Kingdom (2014) (Nerlaska Studio) (Aftermarket)</description>
+		<rom name="Pretty Kingdom (2014) (Nerlaska Studio) (Aftermarket).rom" size="32768" crc="cb2d148c" md5="bed677ac0f7f10a9846fd8f1ec9328d0" sha1="bb23232a5d3d4c1d78647cce520a9accecb3cb4f"/>
+		<url>https://retroachievements.org/game/33793/hashes</url>
+		<hash>bed677ac0f7f10a9846fd8f1ec9328d0</hash>
+	</game>
+	
+	<game name="Homebrew/Princess Paloma's Rescue (2024) (v1.2) (InfiniteMSX) (Aftermarket)">
+		<category>MSX</category>
+		<description>Princess Paloma's Rescue (2024) (v1.2) (InfiniteMSX) (Aftermarket)</description>
+		<rom name="Princess Paloma's Rescue (2024) (v1.2) (InfiniteMSX) (Aftermarket).rom" size="262144" crc="b3127ebd" md5="09024800c962f456f4c7f1886a637641" sha1="be7183464a0959bc70475571f16bac864723249a"/>
+		<url>https://retroachievements.org/game/33800/hashes</url>
+		<hash>09024800c962f456f4c7f1886a637641</hash>
 	</game>
 	
 	<game name="Homebrew/Relevo's Snowboarding (2020) (Relevo) (Aftermarket)">
@@ -123,12 +296,81 @@
 		<hash>fa981f360f91acedb91cb60a3202f36a</hash>
 	</game>
 	
+	<game name="Homebrew/S.o.L.o./S.o.L.o. (2021) (v1.0) (En) (Roolandoo) (Aftermarket)">
+		<category>MSX</category>
+		<description>S.o.L.o. (2021) (v1.0) (En) (Roolandoo) (Aftermarket)</description>
+		<rom name="S.o.L.o. (2021) (v1.0) (En) (Roolandoo) (Aftermarket).rom" size="49152" crc="b06abc90" md5="6b6bf20d7a5557f44ebf2dc23347a5e1" sha1="efadd1e32314dd4f548fb4b6dbf7ef618b6e9322"/>
+		<url>https://retroachievements.org/game/33895/hashes</url>
+		<hash>6b6bf20d7a5557f44ebf2dc23347a5e1</hash>
+	</game>
+	<game name="Homebrew/S.o.L.o./S.o.L.o. (2021) (v1.0) (Es) (Roolandoo) (Aftermarket)">
+		<category>MSX</category>
+		<description>S.o.L.o. (2021) (v1.0) (Es) (Roolandoo) (Aftermarket)</description>
+		<rom name="S.o.L.o. (2021) (v1.0) (Es) (Roolandoo) (Aftermarket).rom" size="49152" crc="3b426a04" md5="d0743965e39ec01b79131e88590b44c1" sha1="43f0611853fc40b5674ad775be9eeb4068664e0b"/>
+		<url>https://retroachievements.org/game/33895/hashes</url>
+		<hash>d0743965e39ec01b79131e88590b44c1</hash>
+	</game>
+	
+	<game name="Homebrew/Snake and Rhino in the Sketchbook (2023) (v1.0) (ARC8) (Aftermarket)">
+		<category>MSX</category>
+		<description>Snake and Rhino in the Sketchbook (2023) (v1.0) (ARC8) (Aftermarket)</description>
+		<rom name="Snake and Rhino in the Sketchbook (2023) (v1.0) (ARC8) (Aftermarket).rom" size="49152" crc="f396a696" md5="f4f464eac58f8c16ae5c1bb4560abaf0" sha1="2fb84bfd3a81c37fee9ff069e6f172edff615cf7"/>
+		<url>https://retroachievements.org/game/33985/hashes</url>
+		<hash>f4f464eac58f8c16ae5c1bb4560abaf0</hash>
+	</game>
+	
+	<game name="Homebrew/Step (2021) (v1.2) (ASCII16) (Uninteresting) (Aftermarket)">
+		<category>MSX</category>
+		<description>Step (2021) (v1.2) (ASCII16) (Uninteresting) (Aftermarket)</description>
+		<rom name="Step (2021) (v1.2) (ASCII16) (Uninteresting) (Aftermarket).rom" size="131072" crc="03379ef8" md5="cd28442c350b764ac473d3ebcbebc6bf" sha1="d487b8e86306eb65764cf1119b1a1e4cd9b3f129"/>
+		<url>https://retroachievements.org/game/34169/hashes</url>
+		<hash>cd28442c350b764ac473d3ebcbebc6bf</hash>
+	</game>
+	
 	<game name="Homebrew/Sudoku (2006) (32K) (MSXdev06) (dvik &amp; joyrex) (Aftermarket)">
 		<category>MSX</category>
 		<description>Sudoku (2006) (32K) (MSXdev06) (dvik &amp; joyrex) (Aftermarket)</description>
 		<rom name="Sudoku (2006) (32K) (MSXdev06) (dvik &amp; joyrex) (Aftermarket).rom" size="32768" crc="8a70a96b" md5="2df142939c9e1147f814099856fd6361" sha1="120d477cd28b48b8a63efb34920ac331b54e66e5"/>
 		<url>https://retroachievements.org/game/16506/hashes</url>
 		<hash>2df142939c9e1147f814099856fd6361</hash>
+	</game>
+	
+	<game name="Homebrew/Tales of Popolon/Tales of Popolon (2017) (En) (Brain Games) (Aftermarket)">
+		<category>MSX</category>
+		<description>Tales of Popolon (2017) (En) (Brain Games) (Aftermarket)</description>
+		<rom name="Tales of Popolon (2017) (En) (Brain Games) (Aftermarket).rom" size="32768" crc="d9b6c432" md5="b4b8793fc2101329e39a9eaea27a7585" sha1="a5a7ef13918d5eebd4bf7fc56f133c6a2e4aa952"/>
+		<url>https://retroachievements.org/game/34005/hashes</url>
+		<hash>b4b8793fc2101329e39a9eaea27a7585</hash>
+	</game>
+	<game name="Homebrew/Tales of Popolon/Tales of Popolon (2017) (Es) (Brain Games) (Aftermarket)">
+		<category>MSX</category>
+		<description>Tales of Popolon (2017) (Es) (Brain Games) (Aftermarket)</description>
+		<rom name="Tales of Popolon (2017) (Es) (Brain Games) (Aftermarket).rom" size="32768" crc="aaac8ff4" md5="d7d418514e3cff546c53b9de3f43be72" sha1="a38dc03d40d46fc5b3f53c3421a1fa8a49302d5c"/>
+		<url>https://retroachievements.org/game/34005/hashes</url>
+		<hash>d7d418514e3cff546c53b9de3f43be72</hash>
+	</game>
+	
+	<game name="Homebrew/Teodoro no sabe volar/Teodoro no sabe volar (2012) (En) (Retroworks, Dimension Z) (Aftermarket)">
+		<category>MSX</category>
+		<description>Teodoro no sabe volar (2012) (En) (Retroworks, Dimension Z) (Aftermarket)</description>
+		<rom name="Teodoro no sabe volar (2012) (En) (Retroworks, Dimension Z) (Aftermarket).rom" size="32768" crc="d2d53275" md5="bf5fc1e33109289475084b5033edc87a" sha1="ae04c82e2ecde28bfcd19dc39b6c4978410aa908"/>
+		<url>https://retroachievements.org/game/33791/hashes</url>
+		<hash>bf5fc1e33109289475084b5033edc87a</hash>
+	</game>
+	<game name="Homebrew/Teodoro no sabe volar/Teodoro no sabe volar (2012) (Es) (Retroworks, Dimension Z) (Aftermarket)">
+		<category>MSX</category>
+		<description>Teodoro no sabe volar (2012) (Es) (Retroworks, Dimension Z) (Aftermarket)</description>
+		<rom name="Teodoro no sabe volar (2012) (Es) (Retroworks, Dimension Z) (Aftermarket).rom" size="32768" crc="ec05665c" md5="88a8cbd98141026aec62fafc91357f3c" sha1="6e44688cd709dc551fc51b6322f49333c4673dfd"/>
+		<url>https://retroachievements.org/game/33791/hashes</url>
+		<hash>88a8cbd98141026aec62fafc91357f3c</hash>
+	</game>
+	
+	<game name="Homebrew/Cure, The (2005) (XL2S Entertainment) (Aftermarket)">
+		<category>MSX</category>
+		<description>Cure, The (2005) (XL2S Entertainment) (Aftermarket)</description>
+		<rom name="Cure, The (2005) (XL2S Entertainment) (Aftermarket).rom" size="49152" crc="7f855276" md5="4876eaf017883717249015770ca881f4" sha1="e82bbd2d9dbbb30a2b4a259954c5484fa236733a"/>
+		<url>https://retroachievements.org/game/33786/hashes</url>
+		<hash>4876eaf017883717249015770ca881f4</hash>
 	</game>
 	
 	<game name="Homebrew/The Sword of Ianna/Sword of Ianna, The (World) (Fr) (v1.2) (Aftermarket)">
@@ -144,6 +386,29 @@
 		<rom name="Sword of Ianna, The (World) (En,Es) (v1.2) (Aftermarket).rom" size="720896" crc="3e9aeb2b" md5="a5cbdd2d012cccd49b8bce76db66e55c" sha1="82cf4caa78571a750403e592e3ac87c249ac4604"/>
 		<url>https://retroachievements.org/game/18786/hashes</url>
 		<hash>a5cbdd2d012cccd49b8bce76db66e55c</hash>
+	</game>
+	
+	<game name="Homebrew/Traffic Jam (2006) (Imanok) (Aftermarket)">
+		<category>MSX</category>
+		<description>Traffic Jam (2006) (Imanok) (Aftermarket)</description>
+		<rom name="Traffic Jam (2006) (Imanok) (Aftermarket).rom" size="32768" crc="6b495c60" md5="c405d4af33c77cc902211b9308031449" sha1="e6af71c99290b6ff2da9d3667e2046651e2c9fca"/>
+		<url>https://retroachievements.org/game/33837/hashes</url>
+		<hash>c405d4af33c77cc902211b9308031449</hash>
+	</game>
+	
+	<game name="Homebrew/Transball/Transball (2016) (En) (v1.3.2) (Braingames) (Aftermarket)">
+		<category>MSX</category>
+		<description>Transball (2016) (En) (v1.3.2) (Braingames) (Aftermarket)</description>
+		<rom name="Transball (2016) (En) (v1.3.2) (Braingames) (Aftermarket).rom" size="32768" crc="cbcf03c5" md5="a58689d44636dfeb752ae49b549ab625" sha1="a2a7974e024e3ab9cef8739557fff3e066d57064"/>
+		<url>https://retroachievements.org/game/34905/hashes</url>
+		<hash>a58689d44636dfeb752ae49b549ab625</hash>
+	</game>
+	<game name="Homebrew/Transball/Transball (2016) (Es) (v1.3.2) (Braingames) (Aftermarket)">
+		<category>MSX</category>
+		<description>Transball (2016) (Es) (v1.3.2) (Braingames) (Aftermarket)</description>
+		<rom name="Transball (2016) (Es) (v1.3.2) (Braingames) (Aftermarket).rom" size="32768" crc="80776cee" md5="f45889716effd3c2bc801693181189f8" sha1="81035452cfa19a5505807a126eaacc57242b0bc0"/>
+		<url>https://retroachievements.org/game/34905/hashes</url>
+		<hash>f45889716effd3c2bc801693181189f8</hash>
 	</game>
 	
 	<game name="Homebrew/Westen House/Westen House (World) (v1.3.1) (Aftermarket)">
@@ -166,6 +431,54 @@
 		<rom name="Westen House (World) (Pt) (v1.3.1) (Aftermarket).rom" size="49152" crc="45042115" md5="f7c02d92ac0045270f42cdca5c196332" sha1="478933f689d0e6d6df5b6a1387ed8a4056575dcc"/>
 		<url>https://retroachievements.org/game/18595/hashes</url>
 		<hash>f7c02d92ac0045270f42cdca5c196332</hash>
+	</game>
+	
+	<game name="Homebrew/Where Is It - The Quest for the 10th Island (2021) (v1.0) (Ricco59) (Aftermarket)">
+		<category>MSX</category>
+		<description>Where Is It - The Quest for the 10th Island (2021) (v1.0) (Ricco59) (Aftermarket)</description>
+		<rom name="Where Is It - The Quest for the 10th Island (2021) (v1.0) (Ricco59) (Aftermarket).rom" size="32768" crc="e1abcfb8" md5="56544155f910e8edd851c52836517a18" sha1="0e6c12f499357ce22ceac909cae730eee63ac1e3"/>
+		<url>https://retroachievements.org/game/34391/hashes</url>
+		<hash>56544155f910e8edd851c52836517a18</hash>
+	</game>
+	
+	<game name="Homebrew/Who Dares Wins (2016) (RetroForce) (Aftermarket)">
+		<category>MSX</category>
+		<description>Who Dares Wins (2016) (RetroForce) (Aftermarket)</description>
+		<rom name="Who Dares Wins (2016) (RetroForce) (Aftermarket).rom" size="262144" crc="ba806b22" md5="5bec2f26c5e87a51c1d86352a5896c07" sha1="4ebd62ae6a43846de266c193b92c962e464e4a6f"/>
+		<url>https://retroachievements.org/game/34325/hashes</url>
+		<hash>5bec2f26c5e87a51c1d86352a5896c07</hash>
+	</game>
+	
+	<game name="Homebrew/Wing Warriors (2015) (EGS, Kitmaker) (Aftermarket)">
+		<category>MSX</category>
+		<description>Wing Warriors (2015) (EGS, Kitmaker) (Aftermarket)</description>
+		<rom name="Wing Warriors (2015) (EGS, Kitmaker) (Aftermarket).rom" size="49152" crc="207d0e62" md5="170687b7119215d7c0002c00c41f628d" sha1="4b934f0c383136ff315d04a56d2a8631169f9628"/>
+		<url>https://retroachievements.org/game/33794/hashes</url>
+		<hash>170687b7119215d7c0002c00c41f628d</hash>
+	</game>
+	
+	<game name="Homebrew/XRacing (2018) (v1.0.5) (Brain Games) (Aftermarket)">
+		<category>MSX</category>
+		<description>XRacing (2018) (v1.0.5) (Brain Games) (Aftermarket)</description>
+		<rom name="XRacing (2018) (v1.0.5) (Brain Games) (Aftermarket).rom" size="49152" crc="74ac3ce1" md5="3a053ed7d346ea3b257f0f9edc1fed5f" sha1="f2b4590570276c0b44f8b695a155d6bfadcaac41"/>
+		<url>https://retroachievements.org/game/33981/hashes</url>
+		<hash>3a053ed7d346ea3b257f0f9edc1fed5f</hash>
+	</game>
+	
+	<game name="Homebrew/XSpelunker (2017) (v1.4.3) (32K) (Brain Games) (Aftermarket)">
+		<category>MSX</category>
+		<description>XSpelunker (2017) (v1.4.3) (32K) (Brain Games) (Aftermarket)</description>
+		<rom name="XSpelunker (2017) (v1.4.3) (32K) (Brain Games) (Aftermarket).rom" size="32768" crc="2cd7d688" md5="3c4a05c9f667362c317510ed8c55fec4" sha1="cb1ed9d5383561d18a92a91ede08275cea1e66dd"/>
+		<url>https://retroachievements.org/game/31894/hashes</url>
+		<hash>3c4a05c9f667362c317510ed8c55fec4</hash>
+	</game>
+	
+	<game name="Unlicensed/Dr. Hello (Korea) (1991) (Sis Co.) (Unl)">
+		<category>MSX</category>
+		<description>Dr. Hello (Korea) (1991) (Sis Co.) (Unl)</description>
+		<rom name="Dr. Hello (Korea) (1991) (Sis Co.) (Unl).rom" size="32768" crc="cf5a9b92" md5="3196bf9713c2625023d3dca66337f313" sha1="872937bc37540b3152e050e3a318a660d8f9d7c9"/>
+		<url>https://retroachievements.org/game/34402/hashes</url>
+		<hash>3196bf9713c2625023d3dca66337f313</hash>
 	</game>
 	
 	<game name="Unlicensed/Super Boy I (Korea) (Unl)">
@@ -192,6 +505,21 @@
 		<hash>ca1e0e7bdd2a0be70129b1de97746e40</hash>
 	</game>
 	
+	<game name="Retail/1942/1942 (Japan)">
+		<category>MSX</category>
+		<description>1942 (Japan)</description>
+		<rom name="1942 (Japan).rom" size="131072" crc="a27787af" md5="284f6df2bc8b829bc99775b52a00c509" sha1="0733cd627467a866846e15caf1770a5594eaf4cc"/>
+		<url>https://retroachievements.org/game/33969/hashes</url>
+		<hash>284f6df2bc8b829bc99775b52a00c509</hash>
+	</game>
+	<game name="Retail/1942/1942 (Japan) (Alt)">
+		<category>MSX</category>
+		<description>1942 (Japan) (Alt)</description>
+		<rom name="1942 (Japan) (Alt).rom" size="131072" crc="e54ee601" md5="61ecf8cf74e340691e584afee719a66e" sha1="da397e783d677d1a78fff222d9d6cb48b915dada"/>
+		<url>https://retroachievements.org/game/33969/hashes</url>
+		<hash>61ecf8cf74e340691e584afee719a66e</hash>
+	</game>
+	
 	<game name="Retail/Aleste/Aleste (Japan) (Alt)">
 		<category>MSX2</category>
 		<description>Aleste (Japan) (Alt)</description>
@@ -212,6 +540,39 @@
 		<rom name="Aleste (Japan).rom" size="262144" crc="c29edd84" md5="7087b51f3ccfdf314ce60d5d8aaf644a" sha1="12f6f31f495bfb384c9ca9067bfbf8f98af6adf9"/>
 		<url>https://retroachievements.org/game/7578/hashes</url>
 		<hash>7087b51f3ccfdf314ce60d5d8aaf644a</hash>
+	</game>
+	
+	<game name="Retail/Aleste 2/Aleste 2 (Japan)">
+		<category>MSX</category>
+		<description>Aleste 2 (Japan)</description>
+		<rom name="Aleste 2 (Japan).m3u" size="91" crc="e781c910" md5="ea6903dfc6948e079440a9092d143b67" sha1="1c7474ac1ce34610f56546d0d51a178a359d2c06"/>
+		<rom name="Aleste 2 (Japan) (Disk 1).rom" size="737280" crc="234b534c" md5="883e46527da292c148769425b30ad685" sha1="224260bac42b56195a428fee85fad7fab5bf74b9"/>
+		<rom name="Aleste 2 (Japan) (Disk 2).rom" size="737280" crc="11020432" md5="52b1591d7cd5921b8256e213a6859600" sha1="365355f6f25a40d106b0e8787451967804e36e40"/>
+		<rom name="Aleste 2 (Japan) (Disk 3).rom" size="737280" crc="680afec8" md5="f5be2140761d3f3b36cf62598ed6004b" sha1="82314e1d70087dd853eafe05d1bbac0c87b7bee4"/>
+		<url>https://retroachievements.org/game/3287/hashes</url>
+		<hash>883e46527da292c148769425b30ad685</hash>
+		<hash>52b1591d7cd5921b8256e213a6859600</hash>
+		<hash>f5be2140761d3f3b36cf62598ed6004b</hash>
+	</game>
+	<game name="Retail/Aleste 2/Aleste 2 (Japan) (En) (v1.0) (Woomb, BacklogOddy)">
+		<category>MSX</category>
+		<description>Aleste 2 (Japan) (En) (v1.0) (Woomb, BacklogOddy)</description>
+		<rom name="Aleste 2 (Japan) (En) (v1.0) (Woomb, BacklogOddy).m3u" size="190" crc="23f57c3e" md5="fef6e385b98344385361e5c0d6ad63e8" sha1="84e4a8779756b5ede2e94cee4cd5991fee0425e2"/>
+		<rom name="Aleste 2 (Japan) (En) (v1.0) (Woomb, BacklogOddy) (Disk 1).rom" size="737280" crc="b4247921" md5="8683ed888917cea1d39b6bd38d8f8d2e" sha1="aa1db2ca8ef82da6f6e8349139fee5b9fe0cb8e8"/>
+		<rom name="Aleste 2 (Japan) (En) (v1.0) (Woomb, BacklogOddy) (Disk 2).rom" size="737280" crc="d8487d95" md5="48a74800dbb4aa783684b8c2118a37bd" sha1="3cbc14c3050bfc362a1d5c9f019a892aa16aeff8"/>
+		<rom name="Aleste 2 (Japan) (En) (v1.0) (Woomb, BacklogOddy) (Disk 3).rom" size="737280" crc="da3012b1" md5="223b53955c02b5a9b0f11603f6a10102" sha1="982010be143422cbc7b02e0d2e4a369c502b92f2"/>
+		<url>https://retroachievements.org/game/3287/hashes</url>
+		<hash>8683ed888917cea1d39b6bd38d8f8d2e</hash>
+		<hash>48a74800dbb4aa783684b8c2118a37bd</hash>
+		<hash>223b53955c02b5a9b0f11603f6a10102</hash>
+	</game>
+	
+	<game name="Retail/Aleste Gaiden (Japan)">
+		<category>MSX</category>
+		<description>Aleste Gaiden (Japan)</description>
+		<rom name="Aleste Gaiden (Japan).rom" size="737280" crc="32307564" md5="ca312782335d99849ca3529ffd5832fe" sha1="d8150e889b32275e7dd2b0e42d2a2769c6e57053"/>
+		<url>https://retroachievements.org/game/34400/hashes</url>
+		<hash>ca312782335d99849ca3529ffd5832fe</hash>
 	</game>
 	
 	<game name="Retail/Aliens - Alien 2/Aliens - Alien 2 (Japan)">
@@ -273,12 +634,28 @@
 		<hash>dc3f1aba221492b5b2d9ead9b36e8a07</hash>
 	</game>
 	
+	<game name="Retail/Athletic Land (Japan)">
+		<category>MSX</category>
+		<description>Athletic Land (Japan)</description>
+		<rom name="Athletic Land (Japan).rom" size="16384" crc="7b1acdea" md5="2ad5cea9a2f22cb66b95317bb864e176" sha1="90bdd12d632d2e909ac5d69235ad0366f430b734"/>
+		<url>https://retroachievements.org/game/27466/hashes</url>
+		<hash>2ad5cea9a2f22cb66b95317bb864e176</hash>
+	</game>
+	
 	<game name="Retail/Bomberman (Japan)">
 		<category>MSX</category>
 		<description>Bomberman (Japan)</description>
 		<rom name="Bomberman (Japan).rom" size="8192" crc="9a5aef05" md5="7a277f7ac3fcc30b995cbd672c8fc094" sha1="5324e053709ff8da6c18ae4afba6a2e0c3a722ba"/>
 		<url>https://retroachievements.org/game/17735/hashes</url>
 		<hash>7a277f7ac3fcc30b995cbd672c8fc094</hash>
+	</game>
+	
+	<game name="Retail/Bosconian (Japan)">
+		<category>MSX</category>
+		<description>Bosconian (Japan)</description>
+		<rom name="Bosconian (Japan).rom" size="32768" crc="02f1997a" md5="cf6ff5a10589cb4bfb7a181df45379c9" sha1="451cbb072011b26a7e0bc9931e67995a71f5fd6f"/>
+		<url>https://retroachievements.org/game/31520/hashes</url>
+		<hash>cf6ff5a10589cb4bfb7a181df45379c9</hash>
 	</game>
 	
 	<game name="Retail/Burgertime (Japan)">
@@ -295,6 +672,22 @@
 		<rom name="Choro Q (Japan).rom" size="16384" crc="5506bf9b" md5="fb48d5e9cdea7d080dbcf1702f533642" sha1="99f9e9753edbaee820e36a1a58f1cd7ae2b26265"/>
 		<url>https://retroachievements.org/game/17726/hashes</url>
 		<hash>fb48d5e9cdea7d080dbcf1702f533642</hash>
+	</game>
+	
+	<game name="Retail/Circus Charlie (Japan) (Wii U Virtual Console)">
+		<category>MSX</category>
+		<description>Circus Charlie (Japan) (Wii U Virtual Console)</description>
+		<rom name="Circus Charlie (Japan) (Wii U Virtual Console).rom" size="16384" crc="83b8d8f3" md5="5995cc6f08fdc9e883ecce34d1398029" sha1="ae6d0efd55def94274f4cec459df8927d132675a"/>
+		<url>https://retroachievements.org/game/25086/hashes</url>
+		<hash>5995cc6f08fdc9e883ecce34d1398029</hash>
+	</game>
+	
+	<game name="Retail/Contra (Japan) (Wii U Virtual Console)">
+		<category>MSX2</category>
+		<description>Contra (Japan) (Wii U Virtual Console)</description>
+		<rom name="Contra (Japan) (Wii U Virtual Console).rom" size="131072" crc="4e82660d" md5="855dc91e683d897662c2f676b4dc3e3a" sha1="90003c78975d00b1e5612fd00dffabb70d616ecd"/>
+		<url>https://retroachievements.org/game/25091/hashes</url>
+		<hash>855dc91e683d897662c2f676b4dc3e3a</hash>
 	</game>
 	
 	<game name="Retail/Dragon Quest (Japan)">
@@ -327,6 +720,37 @@
 		<hash>b6a39a89fb0df0be5dff7d64f5fe8900</hash>
 	</game>
 	
+	<game name="Retail/Dragon Quest II (Japan) (Alt)">
+		<category>MSX2</category>
+		<description>Dragon Quest II (Japan) (Alt)</description>
+		<rom name="Dragon Quest II (Japan) (Alt).rom" size="262144" crc="e012ee7a" md5="92139e59f1e8fe30d5550112b300cc5c" sha1="77fcce7b7c9c915fb0adff059141d4d4307f5a22"/>
+		<url>https://retroachievements.org/game/16402/hashes</url>
+		<hash>92139e59f1e8fe30d5550112b300cc5c</hash>
+	</game>
+	<game name="Retail/Dragon Quest II (Japan)">
+		<category>MSX2</category>
+		<description>Dragon Quest II (Japan)</description>
+		<rom name="Dragon Quest II (Japan).rom" size="262144" crc="0bf0c3f5" md5="b2e0120f0a937fab09a37a252ab0faea" sha1="05280f0a26ac5c42ab63b80a487bb909683e7461"/>
+		<url>https://retroachievements.org/game/16402/hashes</url>
+		<hash>b2e0120f0a937fab09a37a252ab0faea</hash>
+	</game>
+	
+	<game name="Retail/Droids en el Planeta Ingo (Spain)">
+		<category>MSX</category>
+		<description>Droids en el Planeta Ingo (Spain)</description>
+		<rom name="Droids en el Planeta Ingo (Spain).rom" size="32768" crc="8f719431" md5="580e3b618990eaaf1c06553550e0ff62" sha1="3b09ad0f8bd590e0e202e5b3e4dfd347d90043af"/>
+		<url>https://retroachievements.org/game/34405/hashes</url>
+		<hash>580e3b618990eaaf1c06553550e0ff62</hash>
+	</game>
+	
+	<game name="Retail/F-1 Spirit - The Way to Formula-1 (Japan)">
+		<category>MSX</category>
+		<description>F-1 Spirit - The Way to Formula-1 (Japan)</description>
+		<rom name="F-1 Spirit - The Way to Formula-1 (Japan).rom" size="131072" crc="12bfd3a9" md5="603d4c819a51d0c20ff9fa9f902d3ffd" sha1="ff72a1788d47f9876d9fabd720f6a289fb409090"/>
+		<url>https://retroachievements.org/game/34535/hashes</url>
+		<hash>603d4c819a51d0c20ff9fa9f902d3ffd</hash>
+	</game>
+	
 	<game name="Retail/Final Fantasy/Final Fantasy (Japan) (En) (v20221212) (FCC Translation)">
 		<category>MSX2</category>
 		<description>Final Fantasy (Japan) (En) (v20221212) (FCC Translation)</description>
@@ -342,6 +766,75 @@
 		<hash>d280e5d6e58ab80430dafd57b515ec81</hash>
 	</game>
 	
+	<game name="Retail/Fire Rescue (Japan)">
+		<category>MSX</category>
+		<description>Fire Rescue (Japan)</description>
+		<rom name="Fire Rescue (Japan).rom" size="16384" crc="8005a9ba" md5="de4dadeea372b1883fecd5365b40a87c" sha1="0889ca383bcf24198db1fb2dd23dea1bf8c18be8"/>
+		<url>https://retroachievements.org/game/34326/hashes</url>
+		<hash>de4dadeea372b1883fecd5365b40a87c</hash>
+	</game>
+	
+	<game name="Retail/Ganbare Goemon! - Karakuri Douchuu/Ganbare Goemon! - Karakuri Douchuu (Japan) (Wii U Virtual Console)">
+		<category>MSX2</category>
+		<description>Ganbare Goemon! - Karakuri Douchuu (Japan) (Wii U Virtual Console)</description>
+		<rom name="Ganbare Goemon! - Karakuri Douchuu (Japan) (Wii U Virtual Console).rom" size="131072" crc="40e53ea3" md5="44c47ae77d38ee95d311f90204ed4ac5" sha1="fd71df03b0e9f3caf701ecfc6d5232060cab3b13"/>
+		<url>https://retroachievements.org/game/3269/hashes</url>
+		<hash>44c47ae77d38ee95d311f90204ed4ac5</hash>
+	</game>
+	<game name="Retail/Ganbare Goemon! - Karakuri Douchuu/Ganbare Goemon! - Karakuri Douchuu (Japan) (En) (v0.9.5) (MSX Translations)">
+		<category>MSX2</category>
+		<description>Ganbare Goemon! - Karakuri Douchuu (Japan) (En) (v0.9.5) (MSX Translations)</description>
+		<rom name="Ganbare Goemon! - Karakuri Douchuu (Japan) (En) (v0.9.5) (MSX Translations).rom" size="131072" crc="06b213ff" md5="c5ec0e2d716c3ba652b5cdfa908546e5" sha1="993a662586b2c27c9a8c76b628d8273e7577d1b4"/>
+		<url>https://retroachievements.org/game/3269/hashes</url>
+		<hash>c5ec0e2d716c3ba652b5cdfa908546e5</hash>
+	</game>
+	
+	<game name="Retail/Gojira vs 3 Daikaijuu/Gojira vs 3 Daikaijuu (Japan)">
+		<category>MSX</category>
+		<description>Gojira vs 3 Daikaijuu (Japan)</description>
+		<rom name="Gojira vs 3 Daikaijuu (Japan).rom" size="16384" crc="be071826" md5="8a7c8149f1f3b7a5fc93cd66a7fb2ad5" sha1="2dacf7a08857cbdc706d24b4a46665113d16ff99"/>
+		<url>https://retroachievements.org/game//hashes</url>
+		<hash>8a7c8149f1f3b7a5fc93cd66a7fb2ad5</hash>
+	</game>
+	<game name="Retail/Gojira vs 3 Daikaijuu/Gojira vs 3 Daikaijuu (Japan) (Alt)">
+		<category>MSX</category>
+		<description>Gojira vs 3 Daikaijuu (Japan) (Alt)</description>
+		<rom name="Gojira vs 3 Daikaijuu (Japan) (Alt).rom" size="16384" crc="83d44b03" md5="95e14d5795b7deaa7863b52d6a43d32c" sha1="83fba43371d8d3c50a97c96923e52b40df2a7816"/>
+		<url>https://retroachievements.org/game/28047/hashes</url>
+		<hash>95e14d5795b7deaa7863b52d6a43d32c</hash>
+	</game>
+	
+	<game name="Retail/Golvellius/Golvellius (Japan) (En) (v1.0) (Novalia Spirit)">
+		<category>MSX</category>
+		<description>Golvellius (Japan) (En) (v1.0) (Novalia Spirit)</description>
+		<rom name="Golvellius (Japan) (En) (v1.0) (Novalia Spirit).rom" size="131072" crc="67cbd6d1" md5="9fc9ee41ce35ce4e1068e22277265f6d" sha1="8b7e4bc408a8c715943bfa00069f2d517b39a748"/>
+		<url>https://retroachievements.org/game/3263/hashes</url>
+		<hash>9fc9ee41ce35ce4e1068e22277265f6d</hash>
+	</game>
+	<game name="Retail/Golvellius/Golvellius (Japan)">
+		<category>MSX</category>
+		<description>Golvellius (Japan)</description>
+		<rom name="Golvellius (Japan).rom" size="131072" crc="5eac55df" md5="ab0fe259831647da8f6e8dcf24fb0b45" sha1="7a4126934f9e68c34bf00dd3d9a9e753c05ee73f"/>
+		<url>https://retroachievements.org/game/3263/hashes</url>
+		<hash>ab0fe259831647da8f6e8dcf24fb0b45</hash>
+	</game>
+	
+	<game name="Retail/Hyper Rally (Japan)">
+		<category>MSX</category>
+		<description>Hyper Rally (Japan)</description>
+		<rom name="Hyper Rally (Japan).rom" size="16384" crc="f94d452e" md5="d302ba993f34a093e64829a8c60a7993" sha1="7dfe091e02f6c1b21bd65e44eb5052d564d0ef92"/>
+		<url>https://retroachievements.org/game/27468/hashes</url>
+		<hash>d302ba993f34a093e64829a8c60a7993</hash>
+	</game>
+	
+	<game name="Retail/Hyper Sports 1 (Japan)">
+		<category>MSX</category>
+		<description>Hyper Sports 1 (Japan)</description>
+		<rom name="Hyper Sports 1 (Japan).rom" size="16384" crc="18db4ff2" md5="b870891550234b6ada5d876f88c57b6f" sha1="2c85b993671de612e9338d094565a4eb32a97ea0"/>
+		<url>https://retroachievements.org/game/20355/hashes</url>
+		<hash>b870891550234b6ada5d876f88c57b6f</hash>
+	</game>
+	
 	<game name="Retail/Kick It/Kick It (Japan)">
 		<category>MSX</category>
 		<description>Kick It (Japan)</description>
@@ -355,6 +848,21 @@
 		<rom name="Kick It (Japan) (Alt).rom" size="32768" crc="3424a220" md5="d31c47fe1203347c802ca568adee87a6" sha1="f033ab8a33e2d7a8ac1313b862bc138138b4346e"/>
 		<url>https://retroachievements.org/game/32486/hashes</url>
 		<hash>d31c47fe1203347c802ca568adee87a6</hash>
+	</game>
+	
+	<game name="Retail/King Kong 2 - Yomigaeru Densetsu/King Kong 2 - Yomigaeru Densetsu (Japan)">
+		<category>MSX2</category>
+		<description>King Kong 2 - Yomigaeru Densetsu (Japan)</description>
+		<rom name="King Kong 2 - Yomigaeru Densetsu (Japan).rom" size="131072" crc="23b78a2d" md5="a7bc0525d6367fe9b32eb568a14133e7" sha1="fe4bd35e87dd50fddd255172129b9bec38691188"/>
+		<url>https://retroachievements.org/game/25625/hashes</url>
+		<hash>a7bc0525d6367fe9b32eb568a14133e7</hash>
+	</game>
+	<game name="Retail/King Kong 2 - Yomigaeru Densetsu/King Kong 2 - Yomigaeru Densetu (Japan) (En) (v1.0) (Imanok)">
+		<category>MSX2</category>
+		<description>King Kong 2 - Yomigaeru Densetu (Japan) (En) (v1.0) (Imanok)</description>
+		<rom name="King Kong 2 - Yomigaeru Densetu (Japan) (En) (v1.0) (Imanok).rom" size="131072" crc="7e73dd51" md5="63d47b222f8e54a69d7702daee2e9cb3" sha1="e178917d1974ac85fd58cb93b936eb9a6f44ba0d"/>
+		<url>https://retroachievements.org/game/25625/hashes</url>
+		<hash>63d47b222f8e54a69d7702daee2e9cb3</hash>
 	</game>
 	
 	<game name="Retail/King's Valley (Japan, Europe) (En)">
@@ -389,12 +897,52 @@
 		<hash>0924cf4480c9a4f3fbd922449900c913</hash>
 	</game>
 	
+	<game name="Retail/Konami's Billiards (Europe)">
+		<category>MSX</category>
+		<description>Konami's Billiards (Europe)</description>
+		<rom name="Konami's Billiards (Europe).rom" size="8192" crc="0b65fe4d" md5="fc6d84b56c654da2bd5a07c51059795e" sha1="fc6660a202dbd228c9e0d7c404340d1dcc1e2844"/>
+		<url>https://retroachievements.org/game/27469/hashes</url>
+		<hash>fc6d84b56c654da2bd5a07c51059795e</hash>
+	</game>
+	
+	<game name="Retail/Konami's Boxing (Japan)">
+		<category>MSX</category>
+		<description>Konami's Boxing (Japan)</description>
+		<rom name="Konami's Boxing (Japan).rom" size="32768" crc="3a442408" md5="3c276ae556ddd0feea9df0d5d31a5e1d" sha1="7adb6812f3702b93aa2b2a872722bbd40915670d"/>
+		<url>https://retroachievements.org/game/27470/hashes</url>
+		<hash>3c276ae556ddd0feea9df0d5d31a5e1d</hash>
+	</game>
+	
 	<game name="Retail/Konami's Golf (Japan)">
 		<category>MSX</category>
 		<description>Konami's Golf (Japan)</description>
 		<rom name="Konami's Golf (Japan).rom" size="16384" crc="08c7e406" md5="7d22b53c88fe5b6b352e9af89e1c16d3" sha1="6a3a68836a468cc761a268175c64d53c4c1c48bd"/>
 		<url>https://retroachievements.org/game/20358/hashes</url>
 		<hash>7d22b53c88fe5b6b352e9af89e1c16d3</hash>
+	</game>
+	
+	<game name="Retail/Konami's Tennis (Japan)">
+		<category>MSX</category>
+		<description>Konami's Tennis (Japan)</description>
+		<rom name="Konami's Tennis (Japan).rom" size="16384" crc="61726be4" md5="d7c2393662307613df1b8d497b11d147" sha1="5f6972e9e374753faf092409f1ee10bba5231b66"/>
+		<url>https://retroachievements.org/game/27472/hashes</url>
+		<hash>d7c2393662307613df1b8d497b11d147</hash>
+	</game>
+	
+	<game name="Retail/Lupin Sansei - Cagliostro no Shiro (Japan)">
+		<category>MSX2</category>
+		<description>Lupin Sansei - Cagliostro no Shiro (Japan)</description>
+		<rom name="Lupin Sansei - Cagliostro no Shiro (Japan).rom" size="131072" crc="c4096e6b" md5="14c078a9ed5c14ac54a6eb5e94fa34d2" sha1="e89fc7437d8f9aed1640689a32ebbf047699b147"/>
+		<url>https://retroachievements.org/game/34906/hashes</url>
+		<hash>14c078a9ed5c14ac54a6eb5e94fa34d2</hash>
+	</game>
+	
+	<game name="Retail/Magical Tree (Japan)">
+		<category>MSX</category>
+		<description>Magical Tree (Japan)</description>
+		<rom name="Magical Tree (Japan).rom" size="16384" crc="827038a2" md5="91181b037e4a772149a00990e9f8b51c" sha1="b82dc590aadc930b43db303bb3e3458e7695e3b5"/>
+		<url>https://retroachievements.org/game/25093/hashes</url>
+		<hash>91181b037e4a772149a00990e9f8b51c</hash>
 	</game>
 	
 	<game name="Retail/Mappy/Mappy (Japan)">
@@ -575,12 +1123,67 @@
 		<hash>c5608ca985c415e52bf202e679446330</hash>
 	</game>
 	
+	<game name="Retail/Monkey Academy (Japan)">
+		<category>MSX</category>
+		<description>Monkey Academy (Japan)</description>
+		<rom name="Monkey Academy (Japan).rom" size="16384" crc="98cd6912" md5="ad8f1b9ba57345e38020bc0df4aabc41" sha1="8b2626f8dbbb3e97a5087b340a3f3d56c8ee84d1"/>
+		<url>https://retroachievements.org/game/34485/hashes</url>
+		<hash>ad8f1b9ba57345e38020bc0df4aabc41</hash>
+	</game>
+	
+	<game name="Retail/Monopoly (World)">
+		<category>MSX</category>
+		<description>Monopoly (World)</description>
+		<rom name="Monopoly (World).rom" size="737280" crc="9f273c23" md5="fdf7c6bf2822e42a65d18727e11b5438" sha1="9ef9609ffed1efc7dcb9923e59f657de54a50fe9"/>
+		<url>https://retroachievements.org/game/11067/hashes</url>
+		<hash>fdf7c6bf2822e42a65d18727e11b5438</hash>
+	</game>
+	
+	<game name="Retail/Mr. Do's Wild Ride (Japan)">
+		<category>MSX</category>
+		<description>Mr. Do's Wild Ride (Japan)</description>
+		<rom name="Mr. Do's Wild Ride (Japan).rom" size="16384" crc="6786a7ee" md5="f2c5eae5e6d01f4a3509dc71e6cac660" sha1="e9b3652482a5b09ae662203f8758a30aa23af62f"/>
+		<url>https://retroachievements.org/game/33416/hashes</url>
+		<hash>f2c5eae5e6d01f4a3509dc71e6cac660</hash>
+	</game>
+	
+	<game name="Retail/Gradius 2 (Japan, Europe) (En) (Wii U Virtual Console)">
+		<category>MSX</category>
+		<description>Gradius 2 (Japan, Europe) (En) (Wii U Virtual Console)</description>
+		<rom name="Gradius 2 (Japan, Europe) (En) (Wii U Virtual Console).rom" size="131072" crc="db847b2b" md5="abbcfc00f71051434e0e82e29b6ea1ef" sha1="d63e20369f98487767810a0c57603bef6a2a07e5"/>
+		<url>https://retroachievements.org/game/10498/hashes</url>
+		<hash>abbcfc00f71051434e0e82e29b6ea1ef</hash>
+	</game>
+	
+	<game name="Retail/Nuts &amp; Milk (Japan)">
+		<category>MSX</category>
+		<description>Nuts &amp; Milk (Japan)</description>
+		<rom name="Nuts &amp; Milk (Japan).rom" size="737280" crc="0dc9b642" md5="8aa4399eede7ffd1070ddc4fb2f100c7" sha1="a10d6897e7e7759e6f0e36c212aa29d9cbe5fe17"/>
+		<url>https://retroachievements.org/game/26509/hashes</url>
+		<hash>8aa4399eede7ffd1070ddc4fb2f100c7</hash>
+	</game>
+	
 	<game name="Retail/Oh Shit! (World)">
 		<category>MSX2</category>
 		<description>Oh Shit! (World)</description>
 		<rom name="Oh Shit! (World).rom" size="32768" crc="1d34e4e0" md5="1721862f3f033e74607af9e26688403d" sha1="9a369b52f92269073dd7b7e72919d6b1d19fe63d"/>
 		<url>https://retroachievements.org/game/17069/hashes</url>
 		<hash>1721862f3f033e74607af9e26688403d</hash>
+	</game>
+	
+	<game name="Retail/Becky/Becky (Japan) (En) (v1.0) (Sargon,hap)">
+		<category>MSX</category>
+		<description>Becky (Japan) (En) (v1.0) (Sargon,hap)</description>
+		<rom name="Becky (Japan) (En) (v1.0) (Sargon,hap).rom" size="16384" crc="909b81fb" md5="8c83a0920b10a01f44ad50d3613708de" sha1="4eb5c8e5bc0b0c1bcfc55c53a819d5d592eb0551"/>
+		<url>https://retroachievements.org/game/4026/hashes</url>
+		<hash>8c83a0920b10a01f44ad50d3613708de</hash>
+	</game>
+	<game name="Retail/Becky/Becky (Japan)">
+		<category>MSX</category>
+		<description>Becky (Japan)</description>
+		<rom name="Becky (Japan).rom" size="16384" crc="a580b72a" md5="c47b53b72c6c3588ea5b881c0fcdba2b" sha1="d69d4a6f2834b20df3a2afbd7a927220e96e31e1"/>
+		<url>https://retroachievements.org/game/4026/hashes</url>
+		<hash>c47b53b72c6c3588ea5b881c0fcdba2b</hash>
 	</game>
 	
 	<game name="Retail/Out Run (Japan)">
@@ -614,6 +1217,21 @@
 		<hash>d4f8d8a7e052a0d6246ac2b5afdc729e</hash>
 	</game>
 	
+	<game name="Retail/Pentagram/Pentagram (1986) (A.C.G.)">
+		<category>MSX</category>
+		<description>Pentagram (1986) (A.C.G.)</description>
+		<rom name="Pentagram (1986) (A.C.G.).rom" size="32768" crc="c3ec7f61" md5="09dada521e1764070a482bd73432e240" sha1="c40e2f4a4b4cbd458684a393cc6ea29a82fc91f8"/>
+		<url>https://retroachievements.org/game/34027/hashes</url>
+		<hash>09dada521e1764070a482bd73432e240</hash>
+	</game>
+	<game name="Retail/Pentagram/Pentagram (1986) (A.C.G.) (BLOAD'CAS-',R)">
+		<category>MSX</category>
+		<description>Pentagram (1986) (A.C.G.) (BLOAD'CAS-',R)</description>
+		<rom name="Pentagram (1986) (A.C.G.) (BLOAD'CAS-',R).cas" size="40209" crc="1d0fe2a6" md5="f5c81b3dbc4f25ec5216f1a434fb6fc9" sha1="363b5a70d6f7b54ac47bc19b27f57b7712a08855"/>
+		<url>https://retroachievements.org/game/34027/hashes</url>
+		<hash>f5c81b3dbc4f25ec5216f1a434fb6fc9</hash>
+	</game>
+	
 	<game name="Retail/Picture Puzzle/Picture Puzzle (Japan)">
 		<category>MSX</category>
 		<description>Picture Puzzle (Japan)</description>
@@ -629,12 +1247,105 @@
 		<hash>ac0bc988775b9c65c92cfb200f9b1beb</hash>
 	</game>
 	
+	<game name="Retail/Pippols (Japan)">
+		<category>MSX</category>
+		<description>Pippols (Japan)</description>
+		<rom name="Pippols (Japan).rom" size="16384" crc="be6a5e19" md5="f4afc761cda302c78f20f81c1922aa36" sha1="10e63eba7d2b10d946822f21e7fd106f5dfab632"/>
+		<url>https://retroachievements.org/game/26625/hashes</url>
+		<hash>f4afc761cda302c78f20f81c1922aa36</hash>
+	</game>
+	
+	<game name="Retail/Princess Maker (Japan) (En) (v1.0) (Teo Lopez Del Castillo)">
+		<category>MSX</category>
+		<description>Princess Maker (Japan) (En) (v1.0) (Teo Lopez Del Castillo)</description>
+		<rom name="Princess Maker (Japan) (En) (v1.0) (Teo Lopez Del Castillo).m3u" size="593" crc="c400395b" md5="a1f079831b0fef621631a48aec2ce2f1" sha1="e2985b644419ce2aa49d4bbb8a65e4127e302466"/>
+		<rom name="Princess Maker (Japan) (En) (v1.0) (Teo Lopez Del Castillo) (Disk 1).rom" size="737280" crc="1da7b4ca" md5="7ba941b04bfdfbaac43fdd83c7a80942" sha1="475fd7261c660a0fb22bc2ac6d8f13623e9decb5"/>
+		<rom name="Princess Maker (Japan) (En) (v1.0) (Teo Lopez Del Castillo) (Disk 2).rom" size="737280" crc="2490a3db" md5="c618f19a7285659146764257c4f79090" sha1="ba38317ab8d0f21b52bb800ef7cdef569720a1d0"/>
+		<rom name="Princess Maker (Japan) (En) (v1.0) (Teo Lopez Del Castillo) (Disk 3).rom" size="737280" crc="dc691b46" md5="5824767da22e2a9e5a04201738b0e948" sha1="c6a5e12078494d4f281fc122c3bc1845e95baf41"/>
+		<rom name="Princess Maker (Japan) (En) (v1.0) (Teo Lopez Del Castillo) (Disk 4).rom" size="737280" crc="b92f2fb2" md5="79cf4631ce1e93afd9390e0d24ddd75f" sha1="a50503623b9040ff727092a880fcf3ee319d0a98"/>
+		<rom name="Princess Maker (Japan) (En) (v1.0) (Teo Lopez Del Castillo) (Disk 5).rom" size="737280" crc="766d43e6" md5="fc68d417c66616de5c51005a05741c49" sha1="bf40d2404849e41e0084e950e5c36cb5b5cdd254"/>
+		<rom name="Princess Maker (Japan) (En) (v1.0) (Teo Lopez Del Castillo) (Disk 6).rom" size="737280" crc="3ab55228" md5="457af8d3b5a6082c9c08e705256cc044" sha1="dfb2a415da453164f4eafd619e534aeadc0b022e"/>
+		<rom name="Princess Maker (Japan) (En) (v1.0) (Teo Lopez Del Castillo) (Disk 7).rom" size="737280" crc="2d2670a3" md5="e78728c594abd9a5abb05a9833079285" sha1="e96973c3fc72e2f0be22543623cbf3869a3a578e"/>
+		<rom name="Princess Maker (Japan) (En) (v1.0) (Teo Lopez Del Castillo) (User Disk).dsk" size="737280" crc="e2cd7bc6" md5="ea61b2746e3d0d944953f857f7d98731" sha1="a5bc3edd87e34638bb152a18d08f198d356b307a"/>
+		<url>https://retroachievements.org/game/21450/hashes</url>
+		<hash>7ba941b04bfdfbaac43fdd83c7a80942</hash>
+		<hash>c618f19a7285659146764257c4f79090</hash>
+		<hash>5824767da22e2a9e5a04201738b0e948</hash>
+		<hash>79cf4631ce1e93afd9390e0d24ddd75f</hash>
+		<hash>fc68d417c66616de5c51005a05741c49</hash>
+		<hash>457af8d3b5a6082c9c08e705256cc044</hash>
+		<hash>e78728c594abd9a5abb05a9833079285</hash>
+		<hash>ea61b2746e3d0d944953f857f7d98731</hash>
+	</game>
+	
+	<game name="Subset/Princess Maker (Subset - 33 Endings)">
+		<category>MSX</category>
+		<description>Princess Maker (Subset - 33 Endings)</description>
+		<rom name="Princess Maker (Subset - 33 Endings).m3u" size="409" crc="7a046b4d" md5="5b1f94144ae264e7f902b42864215aa1" sha1="9598db52f0004efdea57bc3ec8549159c353313a"/>
+		<rom name="Princess Maker (Subset - 33 Endings) (Disk 1).rom" size="737280" crc="01c1039e" md5="adc6b3444f2af75bada0397d76237df5" sha1="b799b84a981285710aef4e5c2d3096064dc74514"/>
+		<rom name="Princess Maker (Subset - 33 Endings) (Disk 2).rom" size="737280" crc="38f6148f" md5="7e30abb1fa38053b548fac6d78c3ad2b" sha1="4abe827213d81d295d59d6d850c1dab6dd2ee0cc"/>
+		<rom name="Princess Maker (Subset - 33 Endings) (Disk 3).rom" size="737280" crc="8d69fc27" md5="864b3cb01ab7109e7d727a89d2d972b5" sha1="4444ae66a9deba9680986ed115647f97d09ef4a5"/>
+		<rom name="Princess Maker (Subset - 33 Endings) (Disk 4).rom" size="737280" crc="2afc8c17" md5="ce49690dbad086705520eac8fbc8495c" sha1="70338716a5f8838e884220de6a90854c98fcee5e"/>
+		<rom name="Princess Maker (Subset - 33 Endings) (Disk 5).rom" size="737280" crc="6a0bf4b2" md5="d3231e6da1da302c462bb4a862c6d49b" sha1="ca8d8eb5f1474b63355aaa4e6bff1bd539d71e75"/>
+		<rom name="Princess Maker (Subset - 33 Endings) (Disk 6).rom" size="737280" crc="26d3e57c" md5="a001efd0ef6d14cb03051bd8a644f1b0" sha1="44443dd4f08c1f90c3797d7151d99ddd5f8edfcd"/>
+		<rom name="Princess Maker (Subset - 33 Endings) (Disk 7).rom" size="737280" crc="3140c7f7" md5="484bdf9af80983fddf0601321875f0ca" sha1="fabfb20cb66ee93d1219264d9deb8a449434c8fe"/>
+		<rom name="Princess Maker (Subset - 33 Endings) (User Disk).rom" size="737280" crc="3c2a20f7" md5="3895420eb9b26a95645c4106ce18d170" sha1="679c7a449c9254a3841cf43fe4e20e236a1f05d7"/>
+		<url>https://retroachievements.org/game/34303/hashes</url>
+		<hash>adc6b3444f2af75bada0397d76237df5</hash>
+		<hash>7e30abb1fa38053b548fac6d78c3ad2b</hash>
+		<hash>864b3cb01ab7109e7d727a89d2d972b5</hash>
+		<hash>ce49690dbad086705520eac8fbc8495c</hash>
+		<hash>d3231e6da1da302c462bb4a862c6d49b</hash>
+		<hash>a001efd0ef6d14cb03051bd8a644f1b0</hash>
+		<hash>484bdf9af80983fddf0601321875f0ca</hash>
+		<hash>3895420eb9b26a95645c4106ce18d170</hash>
+	</game>
+	
+	<game name="Retail/Psycho World/Psycho World (Japan)">
+		<category>MSX</category>
+		<description>Psycho World (Japan)</description>
+		<rom name="Psycho World (Japan).rom" size="737280" crc="a95b26b4" md5="709c5545b009db92a9c9501cf622fb9c" sha1="105317da4cad0b47b55389eba099384f39606720"/>
+		<url>https://retroachievements.org/game/32667/hashes</url>
+		<hash>709c5545b009db92a9c9501cf622fb9c</hash>
+	</game>
+	<game name="Retail/Psycho World/Psycho World (Japan) (En) (v3.0) (Django &amp; FRS)">
+		<category>MSX</category>
+		<description>Psycho World (Japan) (En) (v3.0) (Django &amp; FRS)</description>
+		<rom name="Psycho World (Japan) (En) (v3.0) (Django &amp; FRS).rom" size="737280" crc="689bc588" md5="7acdd430663bd14cab248aedea63a980" sha1="eabb3a336c7a7a541705b0570171fe5508bbe7e2"/>
+		<url>https://retroachievements.org/game/32667/hashes</url>
+		<hash>7acdd430663bd14cab248aedea63a980</hash>
+	</game>
+	
 	<game name="Retail/Put Up (World)">
 		<category>MSX</category>
 		<description>Put Up (World)</description>
 		<rom name="Put Up (World).dsk" size="737280" crc="0aa8c4c1" md5="223189c6823f7376d133d44507068d19" sha1="be2aead592892d133512cb337c251e09db156861"/>
 		<url>https://retroachievements.org/game/28365/hashes</url>
 		<hash>223189c6823f7376d133d44507068d19</hash>
+	</game>
+	
+	<game name="Retail/Quarth (Japan) (Wii U Virtual Console)">
+		<category>MSX2</category>
+		<description>Quarth (Japan) (Wii U Virtual Console)</description>
+		<rom name="Quarth (Japan) (Wii U Virtual Console).rom" size="131072" crc="a0014e7f" md5="b34b756e16f07e26c2052823bab93592" sha1="0c62591033aa4e5e6b9eeb21eb2e5e60dcd8ee8e"/>
+		<url>https://retroachievements.org/game/25094/hashes</url>
+		<hash>b34b756e16f07e26c2052823bab93592</hash>
+	</game>
+	
+	<game name="Retail/Rastan Saga (Japan)">
+		<category>MSX2</category>
+		<description>Rastan Saga (Japan)</description>
+		<rom name="Rastan Saga (Japan).rom" size="262144" crc="84461e73" md5="114264bbcd0fdfa7bd083a983606a200" sha1="f787271597abbcb1297e4e8a4a9561959a195649"/>
+		<url>https://retroachievements.org/game/33995/hashes</url>
+		<hash>114264bbcd0fdfa7bd083a983606a200</hash>
+	</game>
+	
+	<game name="Retail/Rise Out from Dungeons (Japan)">
+		<category>MSX</category>
+		<description>Rise Out from Dungeons (Japan)</description>
+		<rom name="Rise Out from Dungeons (Japan).rom" size="16384" crc="6a6d37cf" md5="53025aa48a41a6a1b7fab88b93074d6f" sha1="5fbc5d6a01e66a1c456b82ac1190ccde61bc7832"/>
+		<url>https://retroachievements.org/game/34513/hashes</url>
+		<hash>53025aa48a41a6a1b7fab88b93074d6f</hash>
 	</game>
 	
 	<game name="Retail/Rune Master II (Japan) (En) (v1.0) (Oasis) (Bug Fix) (v1.0) (232)">
@@ -646,7 +1357,7 @@
 	</game>
 	
 	<game name="Retail/SD Snatcher/SD Snatcher (Japan) (En) (Melancholia)">
-		<category></category>
+		<category>MSX</category>
 		<description>SD Snatcher (Japan) (En) (Melancholia)</description>
 		<rom name="SD Snatcher (Japan) (En) (Melancholia).m3u" size="157" crc="83ba8496" md5="b15cd4b8aa0fb640d3d287fdf97f73e3" sha1="83703c52947a11229b0354bc210884c3f0fd345c"/>
 		<rom name="SD Snatcher (Japan) (En) (Melancholia) (Disk 1).dsk" size="737280" crc="1b3d3c89" md5="3bcf74b40f15eef5aab22a49781f9f1a" sha1="9d12c20f71c4049f8a8b65cc4f13fd7b54affadc"/>
@@ -656,6 +1367,31 @@
 		<hash>3bcf74b40f15eef5aab22a49781f9f1a</hash>
 		<hash>6d1990d36783caf8b6e4d73ae22c98b1</hash>
 		<hash>e4d3e483964c62ade5f07afdd81dd64b</hash>
+	</game>
+	
+	<game name="Retail/Golvellius II/Golvellius II (Japan)">
+		<category>MSX</category>
+		<description>Golvellius II (Japan)</description>
+		<rom name="Golvellius II (Japan).m3u" size="145" crc="a22a335f" md5="91dbce40fbb0274223d44ab958c79582" sha1="834246516ff8133dd0df125206f55bb11ef72343"/>
+		<rom name="Golvellius II (Japan) (Disk 1) (Opening Disk).rom" size="737280" crc="966446ab" md5="5dba87d2635a4f0d0dea9b8fce7041ba" sha1="e7f2dae1e5b927905027b8aea245994f9fb36b19"/>
+		<rom name="Golvellius II (Japan) (Disk 2) (Game Disk).rom" size="737280" crc="322fc815" md5="fa8c09c2922d58fb8741edd6ead69810" sha1="839fe87d070f4b13ea8466bd56c0f83003e351a5"/>
+		<rom name="Golvellius II (Japan) (Disk 3) (User Disk).rom" size="737280" crc="9ce38420" md5="3d7e912a3a61765bf5c2c30d7973fe33" sha1="bcb29907992b6ef84d93a13fdff554c0a0340a82"/>
+		<url>https://retroachievements.org/game/16404/hashes</url>
+		<hash>5dba87d2635a4f0d0dea9b8fce7041ba</hash>
+		<hash>fa8c09c2922d58fb8741edd6ead69810</hash>
+		<hash>3d7e912a3a61765bf5c2c30d7973fe33</hash>
+	</game>
+	<game name="Retail/Golvellius II/Golvellius II (Japan) (En) (v1.0) (Woomb)">
+		<category>MSX</category>
+		<description>Golvellius II (Japan) (En) (v1.0) (Woomb)</description>
+		<rom name="Golvellius II (Japan) (En) (v1.0) (Woomb).m3u" size="205" crc="f711b6b3" md5="5cdbf33408737168e4c6df5017072d4c" sha1="ce84322d346a6afd8f276d4d66f1565a454f07f4"/>
+		<rom name="Golvellius II (Japan) (En) (v1.0) (Woomb) (Disk 1) (Opening Disk).rom" size="737280" crc="4e15b878" md5="edb0e03541e35928691c39ca35c41fee" sha1="89d878369c4f9aed67133773f58811cb4aba6def"/>
+		<rom name="Golvellius II (Japan) (En) (v1.0) (Woomb) (Disk 2) (Game Disk).rom" size="737280" crc="a76817e4" md5="e9e5ccceec749c25bac7ffb14543fa5e" sha1="8b318d439180f59730aba404cd5b9e21c4b058d6"/>
+		<rom name="Golvellius II (Japan) (En) (v1.0) (Woomb) (Disk 3) (User Disk).rom" size="737280" crc="60abd4f2" md5="120da73aa408d584352dfbf3813a417e" sha1="507f040278be2c5040c99a9e467634f7bd930dcc"/>
+		<url>https://retroachievements.org/game/16404/hashes</url>
+		<hash>edb0e03541e35928691c39ca35c41fee</hash>
+		<hash>e9e5ccceec749c25bac7ffb14543fa5e</hash>
+		<hash>120da73aa408d584352dfbf3813a417e</hash>
 	</game>
 	
 	<game name="Retail/Silviana (Japan) (En) (v091213) (Jon Najar)">
@@ -674,12 +1410,66 @@
 		<hash>f78b9f4ea885cf072e5b41dce9f15436</hash>
 	</game>
 	
+	<game name="Retail/Super Cooks/Super Cooks (Japan)">
+		<category>MSX</category>
+		<description>Super Cooks (Japan)</description>
+		<rom name="Super Cooks (Japan).rom" size="737280" crc="3651f13f" md5="a71e74b0d373d6e93551889822af9fee" sha1="32229235366d7467724ebdca219115b438a1899c"/>
+		<url>https://retroachievements.org/game/32666/hashes</url>
+		<hash>a71e74b0d373d6e93551889822af9fee</hash>
+	</game>
+	<game name="Retail/Super Cooks/Super Cooks (Japan) (En) (v1.0) (Django Translations)">
+		<category>MSX</category>
+		<description>Super Cooks (Japan) (En) (v1.0) (Django Translations)</description>
+		<rom name="Super Cooks (Japan) (En) (v1.0) (Django Translations).rom" size="737280" crc="c130aa63" md5="bfa9a1d26acaf2699be8b832bca66f50" sha1="7d6d184a81aa2642b81ba6fe75a7b121b11feb51"/>
+		<url>https://retroachievements.org/game/32666/hashes</url>
+		<hash>bfa9a1d26acaf2699be8b832bca66f50</hash>
+	</game>
+	
+	<game name="Retail/Tank Battalion (Japan)">
+		<category>MSX</category>
+		<description>Tank Battalion (Japan)</description>
+		<rom name="Tank Battalion (Japan).rom" size="8192" crc="f48a0c3b" md5="2cc55ac499325b6f245ca1d0aca14f3d" sha1="5bbcbd47f05a2742cfb0cad88856eb2df6e469fe"/>
+		<url>https://retroachievements.org/game/26184/hashes</url>
+		<hash>2cc55ac499325b6f245ca1d0aca14f3d</hash>
+	</game>
+	
+	<game name="Retail/Tengoku Yoitoko/Tengoku Yoitoko (Japan) (En) (v1.0.2) (MSX Translations)">
+		<category>MSX2</category>
+		<description>Tengoku Yoitoko (Japan) (En) (v1.0.2) (MSX Translations)</description>
+		<rom name="Tengoku Yoitoko (Japan) (En) (v1.0.2) (MSX Translations).rom" size="131072" crc="cbde2bf9" md5="783f58fa61bf122b78a9807c5ed35205" sha1="72c3010cdcd6994ce7d15e77e366036c2ece2f5b"/>
+		<url>https://retroachievements.org/game/4011/hashes</url>
+		<hash>783f58fa61bf122b78a9807c5ed35205</hash>
+	</game>
+	<game name="Retail/Tengoku Yoitoko/Tengoku Yoitoko (Japan)">
+		<category>MSX2</category>
+		<description>Tengoku Yoitoko (Japan)</description>
+		<rom name="Tengoku Yoitoko (Japan).rom" size="131072" crc="7e637801" md5="88e940bb5c15d201bf1779821c10d923" sha1="00c70cf37c71cb8f99567ae407ff6dd52c4774c2"/>
+		<url>https://retroachievements.org/game/4011/hashes</url>
+		<hash>88e940bb5c15d201bf1779821c10d923</hash>
+	</game>
+	
+	<game name="Retail/Castle, The (Japan)">
+		<category>MSX</category>
+		<description>Castle, The (Japan)</description>
+		<rom name="Castle, The (Japan).rom" size="32768" crc="2149c32d" md5="5ae339850b9ee628a9326c95dcab040c" sha1="615c08820b926e28b143cd7812852e011d3eeffb"/>
+		<url>https://retroachievements.org/game/33461/hashes</url>
+		<hash>5ae339850b9ee628a9326c95dcab040c</hash>
+	</game>
+	
 	<game name="Retail/Goonies, The (Japan)">
 		<category>MSX</category>
 		<description>Goonies, The (Japan)</description>
 		<rom name="Goonies, The (Japan).rom" size="32768" crc="db327847" md5="24a6d9cfa9e38e120678a538663e8ad2" sha1="b1248f7b9d4e16a894555c51c533d3fd9a90802e"/>
 		<url>https://retroachievements.org/game/25185/hashes</url>
 		<hash>24a6d9cfa9e38e120678a538663e8ad2</hash>
+	</game>
+	
+	<game name="Retail/Stone of Wisdom, The (Japan)">
+		<category>MSX</category>
+		<description>Stone of Wisdom, The (Japan)</description>
+		<rom name="Stone of Wisdom, The (Japan).rom" size="32768" crc="8c7a7435" md5="c5b05f12e6c3bfe8f8391e949508eff7" sha1="3950f22265139a84cf57f3c0936e7927173f3d7a"/>
+		<url>https://retroachievements.org/game/33195/hashes</url>
+		<hash>c5b05f12e6c3bfe8f8391e949508eff7</hash>
 	</game>
 	
 	<game name="Retail/Treasure of Usas, The (Japan, Europe) (En)">
@@ -705,8 +1495,16 @@
 		<hash>92ba9dab3c7a4ac6c8a130f6ccbac91c</hash>
 	</game>
 	
+	<game name="Retail/Wicket el Ewok (Spain)">
+		<category>MSX</category>
+		<description>Wicket el Ewok (Spain)</description>
+		<rom name="Wicket el Ewok (Spain).rom" size="32768" crc="d42e3740" md5="f32d5d24d218a9813ea86aae08c78c73" sha1="ef6f0db4c9858a96f9a83cda414112087ad64b78"/>
+		<url>https://retroachievements.org/game/34533/hashes</url>
+		<hash>f32d5d24d218a9813ea86aae08c78c73</hash>
+	</game>
+	
 	<game name="Retail/Ancient Ys Vanished 3/Ancient Ys Vanished 3 - Wanderers from Ys (World)">
-		<category></category>
+		<category>MSX</category>
 		<description>Ancient Ys Vanished 3 - Wanderers from Ys (World)</description>
 		<rom name="Ancient Ys Vanished 3 - Wanderers from Ys (World).m3u" size="409" crc="3713b311" md5="d5ec9de3610c12f4bb89eb793f6f8ccb" sha1="e1a504a8c07f4e0ad450845abecd798d43c8a913"/>
 		<rom name="Ancient Ys Vanished 3 - Wanderers from Ys (World) (Disk 1 of 5) (Game Disk).rom" size="737280" crc="9c6e61a8" md5="bb13dde11d1a493c6b51d2efecc23093" sha1="f7b5aa0db294f6194a93e7db7e54e94721571b00"/>
@@ -735,6 +1533,21 @@
 		<rom name="Ancient Ys Vanished - Omen (Japan) (Alt).rom" size="737280" crc="dce166b2" md5="c52e2ea87b469952ad4817a0196bd010" sha1="6c7672ba7602e2e1c7e09309b7fa8776b1b5a904"/>
 		<url>https://retroachievements.org/game/17363/hashes</url>
 		<hash>c52e2ea87b469952ad4817a0196bd010</hash>
+	</game>
+	
+	<game name="Retail/Yuurei-kun/Yuurei-kun (Japan)">
+		<category>MSX2</category>
+		<description>Yuurei-kun (Japan)</description>
+		<rom name="Yuurei-kun (Japan).rom" size="262144" crc="712ae3c6" md5="fd325b9f4997d70397f59379e679e420" sha1="efed48854beb2803d9f2b5644edff2aacf7c6af9"/>
+		<url>https://retroachievements.org/game/34012/hashes</url>
+		<hash>fd325b9f4997d70397f59379e679e420</hash>
+	</game>
+	<game name="Retail/Yuurei-kun/Yuurei-kun - Mr. Ghost (Japan) (En) (v1.0.0) (MSX Translations)">
+		<category>MSX2</category>
+		<description>Yuurei-kun - Mr. Ghost (Japan) (En) (v1.0.0) (MSX Translations)</description>
+		<rom name="Yuurei-kun - Mr. Ghost (Japan) (En) (v1.0.0) (MSX Translations).rom" size="262144" crc="95bb4bf8" md5="d1b13768cac94bd4acaa68315df4ae15" sha1="c0d9b7ca46e4c6a96961a18550ef2c71545ac6a5"/>
+		<url>https://retroachievements.org/game/34012/hashes</url>
+		<hash>d1b13768cac94bd4acaa68315df4ae15</hash>
 	</game>
 	
 	<game name="Retail/Zoom 909 (Japan)">
