@@ -5,8 +5,8 @@
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
 		<category>No Subfolders</category>
-		<version>20251014</version>
-		<date>14 October 2025</date>
+		<version>20251018</version>
+		<date>18 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/16/games</url>
@@ -40,6 +40,15 @@
 		<rom name="Friday Night Funkin - Friday Night Pikmin (Hack).rvz" size="94312096" crc="fb3f3426" md5="a1593883bdaababb5be898282831a6c8" sha1="92abfa8fc6e2f57e4578f25a4a8904fa6b488911"/>
 		<url>https://retroachievements.org/game/29873/hashes</url>
 		<hash>fcc17c7d5ba68b2e6f17c818a5f9d092</hash>
+	</game>
+	
+	<game name="Luigi's Mansion Beta Restoration Revamped (v1.3) (Portable Productions) (Hack)">
+		<category>Hack</category>
+		<description>Luigi's Mansion Beta Restoration Revamped (v1.3) (Portable Productions) (Hack)</description>
+		<release name="Luigi's Mansion Beta Restoration Revamped (v1.3) (Portable Productions) (Hack)" region="World"/>
+		<rom name="Luigi's Mansion Beta Restoration Revamped (v1.3) (Portable Productions) (Hack).rvz" size="152319936" crc="6550705f" md5="18142fcdf4399c52726e55a4ae5e2964" sha1="4845575305c3fb2e80407a47f64dfea0d709765a"/>
+		<url>https://retroachievements.org/game/30151/hashes</url>
+		<hash>c03d5588464987036d7b7b4ebc9f2cfd</hash>
 	</game>
 	
 	<game name="Luigi's Mansion - Halloween Haunt (v1.0) (Colby) (Hack)">

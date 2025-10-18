@@ -5,8 +5,8 @@
 		<name>RA - Microsoft MSX</name>
 		<description>Microsoft MSX</description>
 		<category>No Subfolders</category>
-		<version>20251017</version>
-		<date>17 October 2025</date>
+		<version>20251018</version>
+		<date>18 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/29/games</url>
@@ -29,6 +29,15 @@
 		<rom name="10 Lines Princess (World) (Aftermarket).rom" size="737280" crc="bb022514" md5="e40432b864c4b7440f8b265ebfa0a7f5" sha1="bfa9fe277158141a700915da73d7980e516e50de"/>
 		<url>https://retroachievements.org/game/29094/hashes</url>
 		<hash>e40432b864c4b7440f8b265ebfa0a7f5</hash>
+	</game>
+	
+	<game name="Balloon Buster (2022) (v1.0) (Hakogame) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Balloon Buster (2022) (v1.0) (Hakogame) (Aftermarket)</description>
+		<release name="Balloon Buster (2022) (v1.0) (Hakogame) (Aftermarket)" region="World"/>
+		<rom name="Balloon Buster (2022) (v1.0) (Hakogame) (Aftermarket).rom" size="131072" crc="d8975d68" md5="2f35dd613b36690251aeb5c6cd5ecf1f" sha1="d81a11ba78fe472355740a96c8681cc3281fd2a0"/>
+		<url>https://retroachievements.org/game/33879/hashes</url>
+		<hash>2f35dd613b36690251aeb5c6cd5ecf1f</hash>
 	</game>
 	
 	<game name="Binary Battle (2024) (v1.1) (Haplo) (Aftermarket)">

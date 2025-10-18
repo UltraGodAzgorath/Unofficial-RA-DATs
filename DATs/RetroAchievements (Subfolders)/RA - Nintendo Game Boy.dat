@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>Subfolders</category>
-		<version>20251014</version>
-		<date>14 October 2025</date>
+		<version>20251018</version>
+		<date>18 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/4/games</url>
@@ -251,12 +251,19 @@
 		<hash>1891782030c2583075ce593167ec46c3</hash>
 	</game>
 	
-	<game name="Hack/Pokemon - Yellow/Pokemon - Yellow - Cramorant Edition (Hack)">
+	<game name="Hack/Pokemon - Yellow/Pokemon - Cramorant Edition (v1.5) (Cram-o-dev) (Hack)">
 		<category></category>
-		<description>Pokemon - Yellow - Cramorant Edition (Hack)</description>
-		<rom name="Pokemon - Yellow - Cramorant Edition (Hack).gb" size="2097152" crc="7625f5ea" md5="4311e7667d4edafba75ff0397856b25d" sha1="3ab0b7cb2608750d1770b39768630e80ad3f0606"/>
+		<description>Pokemon - Cramorant Edition (v1.5) (Cram-o-dev) (Hack)</description>
+		<rom name="Pokemon - Cramorant Edition (v1.5) (Cram-o-dev) (Hack).gb" size="2097152" crc="7625f5ea" md5="4311e7667d4edafba75ff0397856b25d" sha1="3ab0b7cb2608750d1770b39768630e80ad3f0606"/>
 		<url>https://retroachievements.org/game/24702/hashes</url>
 		<hash>4311e7667d4edafba75ff0397856b25d</hash>
+	</game>
+	<game name="Hack/Pokemon - Yellow/Pokemon - Cramorant Edition (v1.5) (Alt Voice) (Cram-o-dev) (Hack)">
+		<category></category>
+		<description>Pokemon - Cramorant Edition (v1.5) (Alt Voice) (Cram-o-dev) (Hack)</description>
+		<rom name="Pokemon - Cramorant Edition (v1.5) (Alt Voice) (Cram-o-dev) (Hack).gb" size="2097152" crc="769ede8b" md5="8a02e978f2f413944cff4112b446e22c" sha1="16e91e558bf4a188a4ba63657a873ea4669c71c0"/>
+		<url>https://retroachievements.org/game/24702/hashes</url>
+		<hash>8a02e978f2f413944cff4112b446e22c</hash>
 	</game>
 	
 	<game name="Hack/Pokemon - Red/Pokemon - Battle Factory (Hack)">

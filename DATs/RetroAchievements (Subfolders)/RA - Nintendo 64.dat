@@ -5,8 +5,8 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>Subfolders</category>
-		<version>20251014</version>
-		<date>14 October 2025</date>
+		<version>20251018</version>
+		<date>18 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/2/games</url>
@@ -5770,6 +5770,28 @@
 		<rom name="Legend of Zelda, The - Majora's Mask (Subset - 4th Day).z64" size="33554432" crc="2dc57e0c" md5="e54fcb0b39a197b22c470d188fafb934" sha1="255e7e36e8f04cf329cde72cff35f8f999836a82"/>
 		<url>https://retroachievements.org/game/29800/hashes</url>
 		<hash>e54fcb0b39a197b22c470d188fafb934</hash>
+	</game>
+	
+	<game name="Subset/Legend of Zelda, The - Majora's Mask (Japan) (Subset - Glitch Showcase)">
+		<category>Nintendo 64</category>
+		<description>Legend of Zelda, The - Majora's Mask (Japan) (Subset - Glitch Showcase)</description>
+		<rom name="Legend of Zelda, The - Majora's Mask (Japan) (Subset - Glitch Showcase).z64" size="33554432" crc="f1c5bedc" md5="dea8b7aa5fe22abec2e3031cc72236a3" sha1="f8dc96bd80dddcc55619c32294b4b1bf143a4279"/>
+		<url>https://retroachievements.org/game/34500/hashes</url>
+		<hash>dea8b7aa5fe22abec2e3031cc72236a3</hash>
+	</game>
+	<game name="Subset/Legend of Zelda, The - Majora's Mask (USA) (Subset - Glitch Showcase)">
+		<category>Nintendo 64</category>
+		<description>Legend of Zelda, The - Majora's Mask (USA) (USA) (Subset - Glitch Showcase)</description>
+		<rom name="Legend of Zelda, The - Majora's Mask (USA) (USA) (Subset - Glitch Showcase).z64" size="33554432" crc="9762e0ba" md5="9da9a2d4f8c83c563d2c88c8f9058916" sha1="1119aedd49701db246ac320cd4e3fd7b979ca634"/>
+		<url>https://retroachievements.org/game/34500/hashes</url>
+		<hash>9da9a2d4f8c83c563d2c88c8f9058916</hash>
+	</game>
+	<game name="Subset/Legend of Zelda, The - Majora's Mask (USA) (Pt) (Subset - Glitch Showcase)">
+		<category>Nintendo 64</category>
+		<description>Legend of Zelda, The - Majora's Mask (USA) (Pt) (Subset - Glitch Showcase)</description>
+		<rom name="Legend of Zelda, The - Majora's Mask (USA) (Pt) (Subset - Glitch Showcase).z64" size="33554432" crc="5efeab6a" md5="963b0f26bf166a336892c61f92eaea0e" sha1="3132f631d16769f5aee76756102ab978a467c46e"/>
+		<url>https://retroachievements.org/game/34500/hashes</url>
+		<hash>963b0f26bf166a336892c61f92eaea0e</hash>
 	</game>
 	
 	<game name="Retail/Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v14)">

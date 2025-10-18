@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>Subfolders</category>
-		<version>20251014</version>
-		<date>14 October 2025</date>
+		<version>20251018</version>
+		<date>18 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
@@ -1255,6 +1255,28 @@
 		<rom name="Blue Dragon Plus (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="7782665a" md5="4938ae0fa0d0d1b27fa2ff1126758fe5" sha1="231fab373c84df5fa5342f72706521963669e71d"/>
 		<url>https://retroachievements.org/game/16634/hashes</url>
 		<hash>9dcc9307456c8d583db45cfddede3971</hash>
+	</game>
+	
+	<game name="Retail/Bob the Builder - Festival of Fun (Europe) (En,Pt,No,Da,Fi)">
+		<category></category>
+		<description>Bob the Builder - Festival of Fun (Europe) (En,Pt,No,Da,Fi)</description>
+		<rom name="Bob the Builder - Festival of Fun (Europe) (En,Pt,No,Da,Fi).nds" size="33554432" crc="7220d016" md5="cc67aeffec248cd0a07914ba4a8c71f0" sha1="a42752018ea95ff0f81b162f0ec1257cc8ac14fa"/>
+		<url>https://retroachievements.org/game/24347/hashes</url>
+		<hash>f74811d50548f1be17a4f001c3671b08</hash>
+	</game>
+	<game name="Retail/Bob the Builder - Festival of Fun (Europe) (En,Es)">
+		<category></category>
+		<description>Bob the Builder - Festival of Fun (Europe) (En,Es)</description>
+		<rom name="Bob the Builder - Festival of Fun (Europe) (En,Es).nds" size="33554432" crc="ca4dc482" md5="b0eadac076bc5510897e2e7144b17af2" sha1="1a1d39f7c9a4024fa6c4bf5e9e05009fb9ae4de9"/>
+		<url>https://retroachievements.org/game/24347/hashes</url>
+		<hash>4874d34d0b7bb15d5e1af5e41c205343</hash>
+	</game>
+	<game name="Retail/Bob the Builder - Festival of Fun (Europe) (En,Fr,De,Nl)">
+		<category></category>
+		<description>Bob the Builder - Festival of Fun (Europe) (En,Fr,De,Nl)</description>
+		<rom name="Bob the Builder - Festival of Fun (Europe) (En,Fr,De,Nl).nds" size="33554432" crc="0234674f" md5="fe027ae53f85e6c3db3592764e856555" sha1="6e26e4edd5f4e990d9da66ba8ff0110787b7b086"/>
+		<url>https://retroachievements.org/game/24347/hashes</url>
+		<hash>0fa39948ef83df513472557da3777889</hash>
 	</game>
 	
 	<game name="Retail/Bolt (Europe) (En,Fr,De,Es,It,Nl)">

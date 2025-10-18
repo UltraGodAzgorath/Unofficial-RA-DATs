@@ -5,8 +5,8 @@
 		<name>RA - Arcade</name>
 		<description>Arcade</description>
 		<category>Subfolders</category>
-		<version>20251014</version>
-		<date>14 October 2025</date>
+		<version>20251018</version>
+		<date>18 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/27/games</url>
@@ -6920,6 +6920,73 @@
 		<hash>b8140b5e33c53b0f7dd3cc368951a4dd</hash>
 	</game>
 	
+	<game name="Retail/galaga88">
+		<description>Galaga '88</description>
+		<category>FBNeo</category>
+		<rom name="g81_s0.bin" size="65536" crc="164a3fdc"/>
+		<rom name="g81_s1.bin" size="65536" crc="16a4b784"/>
+		<rom name="g81_p0.bin" size="65536" crc="0f0778ca"/>
+		<rom name="g81_p1.bin" size="65536" crc="e68cb351"/>
+		<rom name="g81_p5.bin" size="65536" crc="4fbd3f6c"/>
+		<rom name="g82_p6.bin" size="65536" crc="403d01c1"/>
+		<rom name="g82_p7.bin" size="65536" crc="df75b7fc"/>
+		<rom name="cus64-64a1.mcu" size="4096" crc="ffb5c0bd"/>
+		<rom name="g81_v0.bin" size="65536" crc="86921dd4"/>
+		<rom name="g81_v1.bin" size="65536" crc="9c300e16"/>
+		<rom name="g81_v2.bin" size="65536" crc="5316b4b0"/>
+		<rom name="g81_v3.bin" size="65536" crc="dc077af4"/>
+		<rom name="g81_v4.bin" size="65536" crc="ac0279a7"/>
+		<rom name="g81_v5.bin" size="65536" crc="014ddba1"/>
+		<rom name="g8_chr-8.bin" size="131072" crc="3862ed0a"/>
+		<rom name="g8_chr-0.bin" size="131072" crc="68559c78"/>
+		<rom name="g8_chr-1.bin" size="131072" crc="3dc0f93f"/>
+		<rom name="g8_chr-2.bin" size="131072" crc="dbf26f1f"/>
+		<rom name="g8_chr-3.bin" size="131072" crc="f5d6cac5"/>
+		<rom name="g8_obj-0.bin" size="131072" crc="d7112e3f"/>
+		<rom name="g8_obj-1.bin" size="131072" crc="680db8e7"/>
+		<rom name="g8_obj-2.bin" size="131072" crc="13c97512"/>
+		<rom name="g8_obj-3.bin" size="131072" crc="3ed3941b"/>
+		<rom name="g8_obj-4.bin" size="131072" crc="370ff4ad"/>
+		<rom name="g8_obj-5.bin" size="131072" crc="b0645169"/>
+		<video type="raster" orientation="vertical" width="224" height="288" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12140/hashes</url>
+		<hash>372ec6bf0d3ee67b7bb9578dff9ff044</hash>
+	</game>
+	<game name="Retail/galaga88j" cloneof="galaga88">
+		<description>Galaga '88 (Japan)</description>
+		<category>FBNeo</category>
+		<rom name="g81_s0.bin" size="65536" crc="164a3fdc"/>
+		<rom name="g81_s1.bin" size="65536" crc="16a4b784"/>
+		<rom name="g81_p0.bin" size="65536" crc="0f0778ca"/>
+		<rom name="g81_p1.bin" size="65536" crc="e68cb351"/>
+		<rom name="g81_p5.bin" size="65536" crc="4fbd3f6c"/>
+		<rom name="g81_p6.bin" size="65536" crc="e7203707"/>
+		<rom name="g81_p7.bin" size="65536" crc="7c10965d"/>
+		<rom name="cus64-64a1.mcu" size="4096" crc="ffb5c0bd"/>
+		<rom name="g81_v0.bin" size="65536" crc="86921dd4"/>
+		<rom name="g81_v1.bin" size="65536" crc="9c300e16"/>
+		<rom name="g81_v2.bin" size="65536" crc="5316b4b0"/>
+		<rom name="g81_v3.bin" size="65536" crc="dc077af4"/>
+		<rom name="g81_v4.bin" size="65536" crc="ac0279a7"/>
+		<rom name="g81_v5.bin" size="65536" crc="014ddba1"/>
+		<rom name="g8_chr-8.bin" size="131072" crc="3862ed0a"/>
+		<rom name="g8_chr-0.bin" size="131072" crc="68559c78"/>
+		<rom name="g8_chr-1.bin" size="131072" crc="3dc0f93f"/>
+		<rom name="g8_chr-2.bin" size="131072" crc="dbf26f1f"/>
+		<rom name="g8_chr-3.bin" size="131072" crc="f5d6cac5"/>
+		<rom name="g8_obj-0.bin" size="131072" crc="d7112e3f"/>
+		<rom name="g8_obj-1.bin" size="131072" crc="680db8e7"/>
+		<rom name="g8_obj-2.bin" size="131072" crc="13c97512"/>
+		<rom name="g8_obj-3.bin" size="131072" crc="3ed3941b"/>
+		<rom name="g8_obj-4.bin" size="131072" crc="370ff4ad"/>
+		<rom name="g8_obj-5.bin" size="131072" crc="b0645169"/>
+		<video type="raster" orientation="vertical" width="224" height="288" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12140/hashes</url>
+		<hash>be3270f6305edfae92eb8c99856cb194</hash>
+	</game>
+	
 	<game name="Retail/galaxian">
 		<description>Galaxian (Namco set 1)</description>
 		<category>FBNeo</category>
@@ -11625,6 +11692,20 @@
 		<hash>ebafe82223c025c731589dde0e6b8214</hash>
 	</game>
 	
+	<game name="Retail/mmpork">
+		<description>Muchi Muchi Pork! (2007/ 4/17 MASTER VER.)</description>
+		<category>FBNeo</category>
+		<release name="mmpork" region="World"/>
+		<rom name="u4" size="2097152" crc="d06cfa42"/>
+		<rom name="u2" size="138412032" crc="1ee961b8"/>
+		<rom name="u23" size="4194304" crc="4a4b36df"/>
+		<rom name="u24" size="4194304" crc="ce83d07b"/>
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/28948/hashes</url>
+		<hash>7f83afd81a406f82fb91ebbb87b4b850</hash>
+	</game>
+	
 	<game name="Retail/mushisam">
 		<description>Mushihime-Sama (2004/10/12.MASTER VER.)</description>
 		<category>FBNeo</category>
@@ -11802,6 +11883,59 @@
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/12323/hashes</url>
 		<hash>49608f90881c51825b3bd2c414f21fba</hash>
+	</game>
+	
+	<game name="Retail/neomrdo">
+		<description>Neo Mr. Do!</description>
+		<category>FBNeo</category>
+		<rom name="207-p1.p1" size="1048576" crc="334ea51e"/>
+		<rom name="207-s1.s1" size="131072" crc="6aebafce"/>
+		<rom name="207-c1.c1" size="2097152" crc="c7541b9d"/>
+		<rom name="207-c2.c2" size="2097152" crc="f57166d2"/>
+		<rom name="207-m1.m1" size="131072" crc="b5b74a95"/>
+		<rom name="207-v1.v1" size="2097152" crc="4143c052"/>
+		<rom name="sp-s3.sp1" size="131072" crc="91b64be3"/>
+		<rom name="sp-s2.sp1" size="131072" crc="9036d879"/>
+		<rom name="sp-s.sp1" size="131072" crc="c7f2fa45"/>
+		<rom name="sp-u2.sp1" size="131072" crc="e72943de"/>
+		<rom name="sp1-u2" size="131072" crc="62f021f4"/>
+		<rom name="sp-e.sp1" size="131072" crc="2723a5b5"/>
+		<rom name="sp1-u4.bin" size="131072" crc="1179a30f"/>
+		<rom name="sp1-u3.bin" size="131072" crc="2025b7a2"/>
+		<rom name="vs-bios.rom" size="131072" crc="f0e8f27d"/>
+		<rom name="sp-j2.sp1" size="131072" crc="acede59c"/>
+		<rom name="sp1.jipan.1024" size="131072" crc="9fb0abe4"/>
+		<rom name="sp-45.sp1" size="524288" crc="03cc9f6a"/>
+		<rom name="sp-j3.sp1" size="524288" crc="486cb450"/>
+		<rom name="japan-j3.bin" size="131072" crc="dff6d41f"/>
+		<rom name="sp1-j3.bin" size="131072" crc="fbc6d469"/>
+		<rom name="neo-po.bin" size="131072" crc="16d0c132"/>
+		<rom name="neo-epo.bin" size="131072" crc="d27a71f1"/>
+		<rom name="neodebug.bin" size="131072" crc="698ebb7d"/>
+		<rom name="sp-1v1_3db8c.bin" size="131072" crc="162f0ebe"/>
+		<rom name="uni-bios_4_0.rom" size="131072" crc="a7aab458"/>
+		<rom name="uni-bios_3_3.rom" size="131072" crc="24858466"/>
+		<rom name="uni-bios_3_2.rom" size="131072" crc="a4e8b9b3"/>
+		<rom name="uni-bios_3_1.rom" size="131072" crc="0c58093f"/>
+		<rom name="uni-bios_3_0.rom" size="131072" crc="a97c89a9"/>
+		<rom name="uni-bios_2_3.rom" size="131072" crc="27664eb5"/>
+		<rom name="uni-bios_2_3o.rom" size="131072" crc="601720ae"/>
+		<rom name="uni-bios_2_2.rom" size="131072" crc="2d50996a"/>
+		<rom name="uni-bios_2_1.rom" size="131072" crc="8dabf76b"/>
+		<rom name="uni-bios_2_0.rom" size="131072" crc="0c12c2ad"/>
+		<rom name="uni-bios_1_3.rom" size="131072" crc="b24b44a0"/>
+		<rom name="uni-bios_1_2.rom" size="131072" crc="4fa698e9"/>
+		<rom name="uni-bios_1_2o.rom" size="131072" crc="e19d3ce9"/>
+		<rom name="uni-bios_1_1.rom" size="131072" crc="5dda0d84"/>
+		<rom name="uni-bios_1_0.rom" size="131072" crc="0ce453a0"/>
+		<rom name="neopen.sp1" size="131072" crc="cb915e76"/>
+		<rom name="sm1.sm1" size="131072" crc="94416d67"/>
+		<rom name="sfix.sfix" size="131072" crc="c2ea0cfd"/>
+		<rom name="000-lo.lo" size="131072" crc="5a86cff2"/>
+		<video type="raster" orientation="horizontal" width="304" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12324/hashes</url>
+		<hash>dd53691a8b5423224e5f97ff08d1704b</hash>
 	</game>
 	
 	<game name="Retail/turfmast">

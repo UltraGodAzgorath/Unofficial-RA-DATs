@@ -5,8 +5,8 @@
 		<name>RA - Sony PlayStation 2</name>
 		<description>Sony PlayStation 2</description>
 		<category>Subfolders</category>
-		<version>20251014</version>
-		<date>14 October 2025</date>
+		<version>20251018</version>
+		<date>18 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -402,6 +402,14 @@
 		<disk name="7 Wonders of the Ancient World (USA).chd" sha1="7942c8eabf937744cf729b3c0e6f1e083f68fa1f"/>
 		<url>https://retroachievements.org/game/26390/hashes</url>
 		<hash>e84d1b3e8338090735eae2aee1dce5dc</hash>
+	</machine>
+	
+	<machine name="Retail/AC-DC Live - Rock Band Track Pack (USA)">
+		<category></category>
+		<description>AC-DC Live - Rock Band Track Pack (USA)</description>
+		<disk name="AC-DC Live - Rock Band Track Pack (USA).chd" sha1="3d4c53ee60d0e6c6dc6631ee4a7b160e4515caf9"/>
+		<url>https://retroachievements.org/game/25305/hashes</url>
+		<hash>f6716721736a22418c1ee3f39f083dd4</hash>
 	</machine>
 	
 	<machine name="Retail/Ace Combat 04 - Shattered Skies (USA)">
@@ -3296,6 +3304,28 @@
 		<hash>f5dcc53f5c05dcc099049bc4f52dd1fd</hash>
 	</machine>
 	
+	<machine name="Retail/Harry Potter and the Goblet of Fire (USA)">
+		<category></category>
+		<description>Harry Potter and the Goblet of Fire (USA)</description>
+		<disk name="Harry Potter and the Goblet of Fire (USA).chd" sha1="51212cbe1cdda83bb8fa3e212a2677f2a99b1278"/>
+		<url>https://retroachievements.org/game/20986/hashes</url>
+		<hash>82549659b5a4979829431063211b6eda</hash>
+	</machine>
+	<machine name="Retail/Harry Potter and the Goblet of Fire (Europe) (En,Nl,Sv,No,Da,Fi,Pl)">
+		<category></category>
+		<description>Harry Potter and the Goblet of Fire (Europe) (En,Nl,Sv,No,Da,Fi,Pl)</description>
+		<disk name="Harry Potter and the Goblet of Fire (Europe) (En,Nl,Sv,No,Da,Fi,Pl).chd" sha1="6e3379586579fb7c6a2e081108673c46c87896bd"/>
+		<url>https://retroachievements.org/game/20986/hashes</url>
+		<hash>40a35b65330bef0ed574052fc2a377d3</hash>
+	</machine>
+	<machine name="Retail/Harry Potter and the Goblet of Fire (Europe) (Fr,De,Es,It,Pt)">
+		<category></category>
+		<description>Harry Potter and the Goblet of Fire (Europe) (Fr,De,Es,It,Pt)</description>
+		<disk name="Harry Potter and the Goblet of Fire (Europe) (Fr,De,Es,It,Pt).chd" sha1="65a8e99adcab84607f36e5e4248f1991b13e4168"/>
+		<url>https://retroachievements.org/game/20986/hashes</url>
+		<hash>4a95ef8a0ad784b9e8bed89817334fa6</hash>
+	</machine>
+	
 	<machine name="Retail/Harry Potter and the Half-Blood Prince (USA) (En,Fr,Es,Pt)">
 		<category></category>
 		<description>Harry Potter and the Half-Blood Prince (USA) (En,Fr,Es,Pt)</description>
@@ -5551,14 +5581,6 @@
 		<hash>f16d8ea5d4ca3b132f07fa22fbc6185b</hash>
 	</machine>
 	
-	<machine name="Retail/AC-DC Live - Rock Band Track Pack (USA)">
-		<category></category>
-		<description>AC-DC Live - Rock Band Track Pack (USA)</description>
-		<disk name="AC-DC Live - Rock Band Track Pack (USA).chd" sha1="3d4c53ee60d0e6c6dc6631ee4a7b160e4515caf9"/>
-		<url>https://retroachievements.org/game/25305/hashes</url>
-		<hash>f6716721736a22418c1ee3f39f083dd4</hash>
-	</machine>
-	
 	<machine name="Retail/Rocky Legends (USA)">
 		<category></category>
 		<description>Rocky Legends (USA)</description>
@@ -6615,6 +6637,22 @@
 		<disk name="Star Wars - Episode III - La Revanche des Sith (France).chd" sha1="0a4ff14a9e1701f2f501e7f75a37f8e7ea252609"/>
 		<url>https://retroachievements.org/game/20827/hashes</url>
 		<hash>fd9f563cd09b421792bf95d2b0137e07</hash>
+	</machine>
+	
+	<machine name="Retail/Star Wars - Battlefront (USA)">
+		<category></category>
+		<description>Star Wars - Battlefront (USA)</description>
+		<disk name="Star Wars - Battlefront (USA).chd" sha1="c02c97ec3338df5b8dc9520a0eb241724b978744"/>
+		<url>https://retroachievements.org/game/19120/hashes</url>
+		<hash>637ca50839be9f785adb65f384ce8d1a</hash>
+	</machine>
+	
+	<machine name="Retail/Star Wars - Battlefront II (USA) (v2.01)">
+		<category></category>
+		<description>Star Wars - Battlefront II (USA) (v2.01)</description>
+		<disk name="Star Wars - Battlefront II (USA) (v2.01).chd" sha1="2fcb8a2002c6bf9763221970cc5ebb8f7c08a4fd"/>
+		<url>https://retroachievements.org/game/3143/hashes</url>
+		<hash>ffb7e6298d9386cc197af821e67e58f9</hash>
 	</machine>
 	
 	<machine name="Retail/Star Wars - Bounty Hunter/Star Wars - Bounty Hunter (Europe)">

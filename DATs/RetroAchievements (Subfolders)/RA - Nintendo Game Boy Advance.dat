@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>Subfolders</category>
-		<version>20251014</version>
-		<date>14 October 2025</date>
+		<version>20251018</version>
+		<date>18 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -1397,6 +1397,14 @@
 		<rom name="Crash Advance IV (USA) (Unl).gba" size="33554432" crc="4b67247c" md5="b8dbbb2938a8dbf2b434ba4963e2b35e" sha1="a122a0c7d2cf2cb58d12007a79f811044a9f3539"/>
 		<url>https://retroachievements.org/game/17942/hashes</url>
 		<hash>b8dbbb2938a8dbf2b434ba4963e2b35e</hash>
+	</game>
+	
+	<game name="Unlicensed/Rockman & Crystal (USA) (Unl)">
+		<category></category>
+		<description>Rockman & Crystal (USA) (Unl)</description>
+		<rom name="Rockman & Crystal (USA) (Unl).gba" size="4194304" crc="9dc4dc05" md5="8bb88f20d166d7f6c3806c0c761fb54d" sha1="755c686ad485055a2ab884a42fe56fce26180049"/>
+		<url>https://retroachievements.org/game/13635/hashes</url>
+		<hash>8bb88f20d166d7f6c3806c0c761fb54d</hash>
 	</game>
 	
 	<game name="Unlicensed/Chaoji Maliou DX (Taiwan) (Unl)">
@@ -7547,6 +7555,21 @@
 		<rom name="Tetris Worlds (Europe) (En,Es,It).gba" size="4194304" crc="4a834fc2" md5="08aecb6882d9a73b2cac1316a5fbf31b" sha1="2de4d4c3d239b2e56ad4cc3000bb1ad2fdddd987"/>
 		<url>https://retroachievements.org/game/503/hashes</url>
 		<hash>08aecb6882d9a73b2cac1316a5fbf31b</hash>
+	</game>
+	
+	<game name="Retail/Barbie Diaries, The - High School Mystery/Barbie Diaries, The - High School Mystery (USA)">
+		<category></category>
+		<description>Barbie Diaries, The - High School Mystery (USA)</description>
+		<rom name="Barbie Diaries, The - High School Mystery (USA).gba" size="8388608" crc="5c704cbe" md5="85bbf8a6f95b9d2d463d0a55f2b69d35" sha1="3e61732fb0d19912b76c16e7fe1407e14ba38447"/>
+		<url>https://retroachievements.org/game/7959/hashes</url>
+		<hash>85bbf8a6f95b9d2d463d0a55f2b69d35</hash>
+	</game>
+	<game name="Retail/Barbie Diaries, The - High School Mystery/Barbie Diaries, The - High School Mystery (Europe)">
+		<category></category>
+		<description>Barbie Diaries, The - High School Mystery (Europe)</description>
+		<rom name="Barbie Diaries, The - High School Mystery (Europe).gba" size="8388608" crc="4e8a650c" md5="8e1c2672225640d441932424b5e11243" sha1="1a89dc89d8cffc119643b99228d4cc567d5421b3"/>
+		<url>https://retroachievements.org/game/7959/hashes</url>
+		<hash>8e1c2672225640d441932424b5e11243</hash>
 	</game>
 	
 	<game name="Retail/Bible Game, The (USA)">

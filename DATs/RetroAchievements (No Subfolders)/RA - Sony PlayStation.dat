@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation</name>
 		<description>Sony Playstation</description>
 		<category>No Subfolders</category>
-		<version>20251014</version>
-		<date>14 October 2025</date>
+		<version>20251018</version>
+		<date>18 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -2896,6 +2896,7 @@
 		<disk name="Evil Dead - Hail to the King (USA) (Disc 2).chd" sha1="63316862a820480c39977fbba2ceca1ce4154a05"/>
 		<url>https://retroachievements.org/game/5954/hashes</url>
 		<hash>5e9031dafcae4e2844cbfd67f8619122</hash>
+		<hash>63f22a514662574d02d62c8ad96816ac</hash>
 	</machine>
 	
 	<machine name="Evil Zone (USA)">
