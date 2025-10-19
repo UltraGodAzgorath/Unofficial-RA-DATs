@@ -5821,7 +5821,7 @@
 		<url>https://retroachievements.org/game/27151/hashes</url>
 		<hash>520f7c6fd1ae8c953df5480af6ccd551</hash>
 	</game>
-	<game name="SimAnimals (Japan) (En,Ja)" clone="SimAnimals (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)">
+	<game name="SimAnimals (Japan) (En,Ja)" cloneof="SimAnimals (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)">
 		<category>Retail</category>
 		<description>SimAnimals (Japan) (En,Ja)</description>
 		<release name="SimAnimals (Japan) (En,Ja)" region="Japan"/>
@@ -5829,7 +5829,7 @@
 		<url>https://retroachievements.org/game/27151/hashes</url>
 		<hash>8fb0c03ef305b33635547c9232d8a08c</hash>
 	</game>
-	<game name="SimAnimals (Korea) (En,Ko)" clone="SimAnimals (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)">
+	<game name="SimAnimals (Korea) (En,Ko)" cloneof="SimAnimals (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da)">
 		<category>Retail</category>
 		<description>SimAnimals (Korea) (En,Ko)</description>
 		<release name="SimAnimals (Korea) (En,Ko)" region="Korea"/>
