@@ -5,8 +5,8 @@
 		<name>RA - Sega Saturn</name>
 		<description>Sega Saturn</description>
 		<category>Subfolders</category>
-		<version>20250928</version>
-		<date>28 September 2025</date>
+		<version>20251023</version>
+		<date>23 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/39/games</url>
@@ -998,12 +998,19 @@
 		<hash>5fdb09b1a449a7cfbc150c417034c43b</hash>
 	</machine>
 	
-	<machine name="Retail/Princess Crown (Japan) (Rev A) (11M)">
+	<machine name="Retail/Princess Crown/Princess Crown (Japan) (Rev A) (11M)">
 		<category></category>
 		<description>Princess Crown (Japan) (Rev A) (11M)</description>
 		<disk name="Princess Crown (Japan) (Rev A) (11M).chd" sha1="ffd0f3be3ce6092727d4835dd63ad2d591156d28"/>
 		<url>https://retroachievements.org/game/14543/hashes</url>
 		<hash>ced8331d3036971979593ab452d4b45b</hash>
+	</machine>
+	<machine name="Retail/Princess Crown/Princess Crown (Japan) (En) (v1.1b2) (eadmaster)">
+		<category></category>
+		<description>Princess Crown (Japan) (En) (v1.1b2) (eadmaster)</description>
+		<disk name="Princess Crown (Japan) (En) (v1.1b2) (eadmaster).chd" sha1="9fb491913edf8582bb1665c2caf0d2c40b60cc50"/>
+		<url>https://retroachievements.org/game/14543/hashes</url>
+		<hash>same as Princess Crown (Japan) (Rev A) (11M)</hash>
 	</machine>
 	
 	<machine name="Retail/Quake/Quake (Europe)">
