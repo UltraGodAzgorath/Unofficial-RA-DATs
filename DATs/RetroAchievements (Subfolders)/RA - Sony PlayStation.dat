@@ -5,8 +5,8 @@
 		<name>RA - Sony PlayStation</name>
 		<description>Sony PlayStation</description>
 		<category>Subfolders</category>
-		<version>20251014</version>
-		<date>14 October 2025</date>
+		<version>20251026</version>
+		<date>26 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -364,6 +364,14 @@
 		<hash>5e46407df30716a769490539ad37d332</hash>
 	</machine>
 	
+	<machine name="Homebrew/VS. Sky (Nintendo bro385) (Aftermarket)">
+		<category></category>
+		<description>VS. Sky (Nintendo bro385) (Aftermarket)</description>
+		<disk name="VS. Sky (Nintendo bro385) (Aftermarket).chd" sha1="686f2ff9aa05e777217bf9207039dedd532801dc"/>
+		<url>https://retroachievements.org/game/29005/hashes</url>
+		<hash>e275f4090eccb85ab0da9171a1ce704f</hash>
+	</machine>
+	
 	<machine name="Homebrew/VS. Tabi EX (GoombaKungFu, UNSTOP4BLE, IgorSou30000) (Aftermarket)">
 		<category></category>
 		<description>VS. Tabi EX (GoombaKungFu, UNSTOP4BLE, IgorSou30000) (Aftermarket)</description>
@@ -599,6 +607,21 @@
 		<url>https://retroachievements.org/game/11308/hashes</url>
 		<hash>fc31f6f6b9020bba349f4784dd6f23ca</hash>
 		<hash>49f712c75256b40d0e4a6dd2b6575724</hash>
+	</machine>
+	
+	<machine name="Retail/Aconcagua/Aconcagua (Japan) (Disc 2)">
+		<category></category>
+		<description>Aconcagua (Japan) (Disc 2)</description>
+		<disk name="Aconcagua (Japan) (Disc 2).chd" sha1="52cc3ce95fdd70ea05653df526a1a89c0f2f8380"/>
+		<url>https://retroachievements.org/game/18683/hashes</url>
+		<hash>c3704fa39fb0e54dbf4cda855301b10b</hash>
+	</machine>
+	<machine name="Retail/Aconcagua/Aconcagua (Japan) (Disc 1)">
+		<category></category>
+		<description>Aconcagua (Japan) (Disc 1)</description>
+		<disk name="Aconcagua (Japan) (Disc 1).chd" sha1="57ace3a37619ac37a4fb75de599858590b9e2b78"/>
+		<url>https://retroachievements.org/game/18683/hashes</url>
+		<hash>f4f563af762721662f3c245c7af5abc5</hash>
 	</machine>
 	
 	<machine name="Retail/Action Man - Operation Extreme (USA)">
@@ -900,6 +923,21 @@
 		<disk name="Army Men - Air Attack (USA).chd" sha1="b23378885fa3a0f0fcb958474d94a0aed7dbdf42"/>
 		<url>https://retroachievements.org/game/3982/hashes</url>
 		<hash>ddd79eba340be44502953c0b4d6e7611</hash>
+	</machine>
+	
+	<machine name="Retail/Asterix/Asterix (Europe) (En,Fr,Nl) (Rev 1)">
+		<category></category>
+		<description>Asterix (Europe) (En,Fr,Nl) (Rev 1)</description>
+		<disk name="Asterix (Europe) (En,Fr,Nl) (Rev 1).chd" sha1="48838275b15789f53d4019970847d48cad37d742"/>
+		<url>https://retroachievements.org/game/18222/hashes</url>
+		<hash>f1bd03c600765ba6d34d4a151b59096e</hash>
+	</machine>
+	<machine name="Retail/Asterix/Asterix (Europe) (De,Es,It) (Rev 1)">
+		<category></category>
+		<description>Asterix (Europe) (De,Es,It) (Rev 1)</description>
+		<disk name="Asterix (Europe) (De,Es,It) (Rev 1).chd" sha1="6d087d292f2394a587a62c40f12a4e1efd245fd9"/>
+		<url>https://retroachievements.org/game/18222/hashes</url>
+		<hash>02dcc45d72c8d6b7ce20724a629d838f</hash>
 	</machine>
 	
 	<machine name="Retail/Atari Anniversary Edition Redux (USA)">
@@ -2102,6 +2140,14 @@
 		<hash>a52967a37c5608927d16ef715ba004a2</hash>
 	</machine>
 	
+	<machine name="Retail/Destruction Derby 2 (USA)">
+		<category></category>
+		<description>Destruction Derby 2 (USA)</description>
+		<disk name="Destruction Derby 2 (USA).chd" sha1="dd34233f6ecf6a588baf4d5762fddc1f5d9e6743"/>
+		<url>https://retroachievements.org/game/11603/hashes</url>
+		<hash>b416605e7c50a4a9ab5890e1295a609b</hash>
+	</machine>
+	
 	<machine name="Retail/Destruction Derby Raw (USA)">
 		<category></category>
 		<description>Destruction Derby Raw (USA)</description>
@@ -3253,6 +3299,13 @@
 		<hash>3b94a886a091795904906aa6894280eb</hash>
 	</machine>
 	
+	<machine name="Retail/Hellnight (Europe) (En,Fr,De)">
+		<category></category>
+		<description>Hellnight (Europe) (En,Fr,De)</description>
+		<disk name="Hellnight (Europe) (En,Fr,De).chd" sha1="e827cb68c19a50d6438d68505d40673220b6f820"/>\
+		<url>https://retroachievements.org/game/6325/hashes</url>
+		<hash>441fad646af643df4be6f34cd3aa721d</hash>
+	</machine>
 	
 	<machine name="Retail/Simple 1500 Series - Hello Kitty Vol. 02 - Illust Puzzle (Japan)">
 		<category></category>

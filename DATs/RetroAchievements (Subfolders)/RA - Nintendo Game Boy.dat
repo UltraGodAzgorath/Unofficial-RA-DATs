@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>Subfolders</category>
-		<version>20251018</version>
-		<date>18 October 2025</date>
+		<version>20251026</version>
+		<date>26 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/4/games</url>
@@ -167,20 +167,6 @@
 		<rom name="Pokemon - Regulation Red (v8) (Hack).gb" size="1048576" crc="c0489831" md5="7c10e851328433609444bc3e571b6748" sha1="27a638d98293a10761d32d6aa2ccc90b38aee583"/>
 		<url>https://retroachievements.org/game/2491/hashes</url>
 		<hash>7c10e851328433609444bc3e571b6748</hash>
-	</game>
-	<game name="Hack/Pokemon - Red/Pokemon - Regulation Red (v7) (Hack)">
-		<category></category>
-		<description>Pokemon - Regulation Red (v7) (Hack)</description>
-		<rom name="Pokemon - Regulation Red (v7) (Hack).gb" size="1048576" crc="a2ca9906" md5="c92011642034a63503e467c5a75bb9f8" sha1="be367d6e54ed05be26e245759b6ef2fdd113bd7d"/>
-		<url>https://retroachievements.org/game/2491/hashes</url>
-		<hash>c92011642034a63503e467c5a75bb9f8</hash>
-	</game>
-	<game name="Hack/Pokemon - Blue/Pokemon - Regulation Blue (v7) (Hack)">
-		<category></category>
-		<description>Pokemon - Regulation Blue (v7) (Hack)</description>
-		<rom name="Pokemon - Regulation Blue (v7) (Hack).gb" size="1048576" crc="aaa01e01" md5="f763d62434f0a4f2ebb050a2fa30c579" sha1="d1e7a7bb46753ae72a42332291ab7406b1b50a97"/>
-		<url>https://retroachievements.org/game/2491/hashes</url>
-		<hash>f763d62434f0a4f2ebb050a2fa30c579</hash>
 	</game>
 	<game name="Hack/Pokemon - Blue/Pokemon - Regulation Blue (v8) (Hack)">
 		<category></category>

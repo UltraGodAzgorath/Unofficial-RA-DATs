@@ -5,8 +5,8 @@
 		<name>RA - Sega Master System</name>
 		<description>Sega Master System</description>
 		<category>No Subfolders</category>
-		<version>20250803</version>
-		<date>03 August 2025</date>
+		<version>20251026</version>
+		<date>26 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/11/games</url>
@@ -955,15 +955,6 @@
 		<rom name="Hang On (Japan) (En).sms" size="32768" crc="5c01adf9" md5="67849e734a1304799606ba5a22f840d2" sha1="43552f58f0c0c292f3e4c1b1525fd0344dc220c6"/>
 		<url>https://retroachievements.org/game/10219/hashes</url>
 		<hash>67849e734a1304799606ba5a22f840d2</hash>
-	</game>
-	
-	<game name="Hokuto no Ken (Japan)">
-		<category>Retail</category>
-		<description>Hokuto no Ken (Japan)</description>
-		<release name="Hokuto no Ken (Japan)" region="Japan"/>
-		<rom name="Hokuto no Ken (Japan).sms" size="131072" crc="24f5fe8c" md5="ddd6b56e864a7dfd74a9e04bc4407f41" sha1="26c5da3ee48bc0f8fd3d20f9408e584242edcd9d"/>
-		<url>https://retroachievements.org/game/18772/hashes</url>
-		<hash>ddd6b56e864a7dfd74a9e04bc4407f41</hash>
 	</game>
 	
 	<game name="James Bond 007 - The Duel (Europe)">

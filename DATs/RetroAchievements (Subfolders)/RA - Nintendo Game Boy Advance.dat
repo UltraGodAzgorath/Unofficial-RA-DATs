@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>Subfolders</category>
-		<version>20251018</version>
-		<date>18 October 2025</date>
+		<version>20251026</version>
+		<date>26 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -2221,6 +2221,22 @@
 		<hash>a64cd7fa9c84da61a4a358c321f248df</hash>
 	</game>
 	
+	<game name="Retail/Chobits for Game Boy Advance/Chobits for Game Boy Advance - Atashi Dake no Hito (Japan)">
+		<category></category>
+		<description>Chobits for Game Boy Advance - Atashi Dake no Hito (Japan)</description>
+		<release name="Chobits for Game Boy Advance - Atashi Dake no Hito (Japan)" region="Japan"/>
+		<rom name="Chobits for Game Boy Advance - Atashi Dake no Hito (Japan).gba" size="8388608" crc="ddc4b118" md5="fa6a6fd3e3898a58977f468db9a1f6f9" sha1="0b32c3abb700f36864bc468ef6188513b0f4b0a1"/>
+		<url>https://retroachievements.org/game/27042/hashes</url>
+		<hash>fa6a6fd3e3898a58977f468db9a1f6f9</hash>
+	</game>
+	<game name="Retail/Chobits for Game Boy Advance/Chobits for Game Boy Advance - Atashi Dake no Hito (Japan) (En) (v1.0) (Gopicolo)">
+		<category></category>
+		<description>Chobits for Game Boy Advance - Atashi Dake no Hito (Japan) (En) (v1.0) (Gopicolo)</description>
+		<rom name="Chobits for Game Boy Advance - Atashi Dake no Hito (Japan) (En) (v1.0) (Gopicolo).gba" size="8388608" crc="6d2eba30" md5="11716b06dad0f17160fa237a7ace7130" sha1="c8dd6796ffdd64835aeb0841efa8fd40ba7b3cd0"/>
+		<url>https://retroachievements.org/game/27042/hashes</url>
+		<hash>11716b06dad0f17160fa237a7ace7130</hash>
+	</game>
+	
 	<game name="Retail/Chocobo Land - A Game of Dice (Japan)">
 		<category></category>
 		<description>Chocobo Land - A Game of Dice (Japan)</description>
@@ -2607,6 +2623,21 @@
 		<rom name="Cubix - Robots for Everyone - Clash 'N Bash (USA).gba" size="8388608" crc="4171c811" md5="4a5a274a7c2514b21ebb43b2ceade091" sha1="9e5aed84668e5838cb58a3c33e8d6db7a85fd536"/>
 		<url>https://retroachievements.org/game/6622/hashes</url>
 		<hash>4a5a274a7c2514b21ebb43b2ceade091</hash>
+	</game>
+	
+	<game name="Retail/Curious George/Curious George (Europe) (En,Fr,De,Es,It,Sv,Da)">
+		<category></category>
+		<description>Curious George (Europe) (En,Fr,De,Es,It,Sv,Da)</description>
+		<rom name="Curious George (Europe) (En,Fr,De,Es,It,Sv,Da).gba" size="4194304" crc="eef104b0" md5="1f49d24ac42d1697a55a45a145b1dd39" sha1="702b89df39afae4d767977ae5b5ed0467e009ffc"/>
+		<url>https://retroachievements.org/game/6607/hashes</url>
+		<hash>1f49d24ac42d1697a55a45a145b1dd39</hash>
+	</game>
+	<game name="Retail/Curious George/Curious George (USA)">
+		<category></category>
+		<description>Curious George (USA)</description>
+		<rom name="Curious George (USA).gba" size="4194304" crc="f6b549dd" md5="b70a1cfd17b2194ad99b2abf558aadf2" sha1="7153a1e2b246c1997a91257480c67ac8b54fe61b"/>
+		<url>https://retroachievements.org/game/6607/hashes</url>
+		<hash>b70a1cfd17b2194ad99b2abf558aadf2</hash>
 	</game>
 	
 	<game name="Retail/Danny Phantom - The Ultimate Enemy (Europe) (En,De,Es)">
@@ -5633,6 +5664,14 @@
 		<rom name="Nicktoons Racing (USA).gba" size="4194304" crc="50ab9bb6" md5="cc25621658169b41ada436ef99c078e8" sha1="ad53fdc15c3e68a4ada8f4d902bfd579c6313025"/>
 		<url>https://retroachievements.org/game/6948/hashes</url>
 		<hash>cc25621658169b41ada436ef99c078e8</hash>
+	</game>
+	
+	<game name="Retail/SpongeBob SquarePants and Friends Unite! (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>SpongeBob SquarePants and Friends Unite! (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="SpongeBob SquarePants and Friends Unite! (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="611cc620" md5="b8a651f0fc9080bf42044c93a746b5e7" sha1="0b597ce175f42e8fabb64fc278bda50c4357edfa"/>
+		<url>https://retroachievements.org/game/6609/hashes</url>
+		<hash>b8a651f0fc9080bf42044c93a746b5e7</hash>
 	</game>
 	
 	<game name="Retail/Nicktoons - Battle for Volcano Island (USA)">

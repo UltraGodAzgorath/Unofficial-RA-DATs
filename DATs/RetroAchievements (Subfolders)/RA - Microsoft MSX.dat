@@ -5,8 +5,8 @@
 		<name>RA - Microsoft MSX</name>
 		<description>Microsoft MSX</description>
 		<category>Subfolders</category>
-		<version>20251018</version>
-		<date>18 October 2025</date>
+		<version>20251026</version>
+		<date>26 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/29/games</url>
@@ -489,6 +489,14 @@
 		<hash>3196bf9713c2625023d3dca66337f313</hash>
 	</game>
 	
+	<game name="Retail/Droids en el Planeta Ingo (Spain)">
+		<category>MSX</category>
+		<description>Droids en el Planeta Ingo (Spain)</description>
+		<rom name="Droids en el Planeta Ingo (Spain).rom" size="32768" crc="8f719431" md5="580e3b618990eaaf1c06553550e0ff62" sha1="3b09ad0f8bd590e0e202e5b3e4dfd347d90043af"/>
+		<url>https://retroachievements.org/game/34405/hashes</url>
+		<hash>580e3b618990eaaf1c06553550e0ff62</hash>
+	</game>
+	
 	<game name="Unlicensed/Super Boy I (Korea) (Unl)">
 		<category>MSX</category>
 		<description>Super Boy I (Korea) (Unl)</description>
@@ -511,6 +519,14 @@
 		<rom name="Super Boy 3 (Korea) (Unl).rom" size="131072" crc="9195c34c" md5="ca1e0e7bdd2a0be70129b1de97746e40" sha1="5d65a308bb9ec8c4b4ce334b18d699b1f53227ef"/>
 		<url>https://retroachievements.org/game/24169/hashes</url>
 		<hash>ca1e0e7bdd2a0be70129b1de97746e40</hash>
+	</game>
+	
+	<game name="Retail/Wicket el Ewok (Spain)">
+		<category>MSX</category>
+		<description>Wicket el Ewok (Spain)</description>
+		<rom name="Wicket el Ewok (Spain).rom" size="32768" crc="d42e3740" md5="f32d5d24d218a9813ea86aae08c78c73" sha1="ef6f0db4c9858a96f9a83cda414112087ad64b78"/>
+		<url>https://retroachievements.org/game/34533/hashes</url>
+		<hash>f32d5d24d218a9813ea86aae08c78c73</hash>
 	</game>
 	
 	<game name="Retail/1942/1942 (Japan)">
@@ -741,14 +757,6 @@
 		<rom name="Dragon Quest II (Japan).rom" size="262144" crc="0bf0c3f5" md5="b2e0120f0a937fab09a37a252ab0faea" sha1="05280f0a26ac5c42ab63b80a487bb909683e7461"/>
 		<url>https://retroachievements.org/game/16402/hashes</url>
 		<hash>b2e0120f0a937fab09a37a252ab0faea</hash>
-	</game>
-	
-	<game name="Retail/Droids en el Planeta Ingo (Spain)">
-		<category>MSX</category>
-		<description>Droids en el Planeta Ingo (Spain)</description>
-		<rom name="Droids en el Planeta Ingo (Spain).rom" size="32768" crc="8f719431" md5="580e3b618990eaaf1c06553550e0ff62" sha1="3b09ad0f8bd590e0e202e5b3e4dfd347d90043af"/>
-		<url>https://retroachievements.org/game/34405/hashes</url>
-		<hash>580e3b618990eaaf1c06553550e0ff62</hash>
 	</game>
 	
 	<game name="Retail/F-1 Spirit - The Way to Formula-1 (Japan)">
@@ -1501,14 +1509,6 @@
 		<rom name="Vampire Killer (Japan, Europe) (En).rom" size="131072" crc="5953d084" md5="92ba9dab3c7a4ac6c8a130f6ccbac91c" sha1="5ef7d03b138a2023f6def241b671c666f97ed83b"/>
 		<url>https://retroachievements.org/game/3289/hashes</url>
 		<hash>92ba9dab3c7a4ac6c8a130f6ccbac91c</hash>
-	</game>
-	
-	<game name="Retail/Wicket el Ewok (Spain)">
-		<category>MSX</category>
-		<description>Wicket el Ewok (Spain)</description>
-		<rom name="Wicket el Ewok (Spain).rom" size="32768" crc="d42e3740" md5="f32d5d24d218a9813ea86aae08c78c73" sha1="ef6f0db4c9858a96f9a83cda414112087ad64b78"/>
-		<url>https://retroachievements.org/game/34533/hashes</url>
-		<hash>f32d5d24d218a9813ea86aae08c78c73</hash>
 	</game>
 	
 	<game name="Retail/Ancient Ys Vanished 3/Ancient Ys Vanished 3 - Wanderers from Ys (World)">

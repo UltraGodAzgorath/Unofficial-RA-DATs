@@ -5,8 +5,8 @@
 		<name>RA - Sega Saturn</name>
 		<description>Sega Saturn</description>
 		<category>Subfolders</category>
-		<version>20251023</version>
-		<date>23 October 2025</date>
+		<version>20251026</version>
+		<date>26 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/39/games</url>
@@ -660,6 +660,14 @@
 		<hash>e13e785009123919e9fdbc4cb69d6a05</hash>
 	</machine>
 	
+	<machine name="Retail/Gussun Oyoyo S (Japan)">
+		<category></category>
+		<description>Gussun Oyoyo S (Japan)</description>
+		<disk name="Gussun Oyoyo S (Japan).chd" sha1="313b9d6084209e02ec0eca1a423de20c2fd0462a"/>
+		<url>https://retroachievements.org/game/6305/hashes</url>
+		<hash>9b8a3fd719987d292e23c32b0e5ac309</hash>
+	</machine>
+	
 	<machine name="Retail/Hexen (USA)">
 		<category></category>
 		<description>Hexen (USA)</description>
@@ -1093,6 +1101,14 @@
 		<disk name="Scud - The Disposable Assassin (USA).chd" sha1="8a8654c2f99dac747c6262f39ff7361abb00385a"/>
 		<url>https://retroachievements.org/game/9513/hashes</url>
 		<hash>6b66187de1d7888944463ee007135076</hash>
+	</machine>
+	
+	<machine name="Retail/Sega Rally Championship Plus Netlink Edition (USA)">
+		<category></category>
+		<description>Sega Rally Championship Plus Netlink Edition (USA)</description>
+		<disk name="Sega Rally Championship Plus Netlink Edition (USA).chd" sha1="baf2fefa6cbd6010d5fd1840e1b8749bf7610423"/>
+		<url>https://retroachievements.org/game/14560/hashes</url>
+		<hash>9a678bad8ea51314b7e43188356e5d7a</hash>
 	</machine>
 	
 	<machine name="Retail/Segata Sanshirou - Shinken Yuugi (Japan)">

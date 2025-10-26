@@ -5,8 +5,8 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>No Subfolders</category>
-		<version>20251018</version>
-		<date>18 October 2025</date>
+		<version>20251026</version>
+		<date>26 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/2/games</url>
@@ -385,15 +385,6 @@
 		<hash>18ae5a7a467ba6b351b3e00ddb82f1ed</hash>
 	</game>
 	
-	<game name="SM64 - Corroded Charklet City (v1.0.5) (IcySkid) (Hack)">
-		<category>Hack</category>
-		<description>SM64 - Corroded Charklet City (v1.0.5) (IcySkid) (Hack)</description>
-		<release name="SM64 - Corroded Charklet City (v1.0.5) (IcySkid) (Hack)" region="World"/>
-		<rom name="SM64 - Corroded Charklet City (v1.0.5) (IcySkid) (Hack).z64" size="67108864" crc="0feaf25d" md5="e0adbc55499e221247a464af1537e64d" sha1="6fb9f5f307298978bea8de91d17aae6ec74d04ac"/>
-		<url>https://retroachievements.org/game/22051/hashes</url>
-		<hash>e0adbc55499e221247a464af1537e64d</hash>
-	</game>
-	
 	<game name="SM64 - Disaster Quest Tree (v1.2) (Hoppiper26) (Hack)">
 		<category>Hack</category>
 		<description>SM64 - Disaster Quest Tree (v1.2) (Hoppiper26) (Hack)</description>
@@ -572,6 +563,15 @@
 		<hash>c9d69098b19859ac462c4a86bb06b242</hash>
 	</game>
 	
+	<game name="SM64 - Corroded Charklet City (v1.0.5) (IcySkid) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - Corroded Charklet City (v1.0.5) (IcySkid) (Hack)</description>
+		<release name="SM64 - Corroded Charklet City (v1.0.5) (IcySkid) (Hack)" region="World"/>
+		<rom name="SM64 - Corroded Charklet City (v1.0.5) (IcySkid) (Hack).z64" size="67108864" crc="0feaf25d" md5="e0adbc55499e221247a464af1537e64d" sha1="6fb9f5f307298978bea8de91d17aae6ec74d04ac"/>
+		<url>https://retroachievements.org/game/22051/hashes</url>
+		<hash>e0adbc55499e221247a464af1537e64d</hash>
+	</game>
+	
 	<game name="SM64 - Lego Mario 64 (Kaze) (Hack)">
 		<category>Hack</category>
 		<description>SM64 - Lego Mario 64 (Kaze) (Hack)</description>
@@ -649,6 +649,15 @@
 		<rom name="SM64 - Luigi's Mansion 64 (Mariocrash, me-me) (Hack).z64" size="67108864" crc="d86485fc" md5="4d62cb128d949c1b319fa1cce7e31d91" sha1="a7ec6ee48d570bc1108d2e25aa55bcf699d2b594"/>
 		<url>https://retroachievements.org/game/10561/hashes</url>
 		<hash>4d62cb128d949c1b319fa1cce7e31d91</hash>
+	</game>
+	
+	<game name="SM64 - Luigi's Mansion 64.5 Super Player Mode (v1.4) (LinCrash) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - Luigi's Mansion 64.5 Super Player Mode (v1.4) (LinCrash) (Hack)</description>
+		<release name="SM64 - Luigi's Mansion 64.5 Super Player Mode (v1.4) (LinCrash) (Hack)" region="World"/>
+		<rom name="SM64 - Luigi's Mansion 64.5 Super Player Mode (v1.4) (LinCrash) (Hack).z64" size="67108864" crc="0d381103" md5="de1e8ddfdbb94c47c06e22f6886e34dc" sha1="d79eba31e675fedb2abe434a6c1ea403dda19083"/>
+		<url>https://retroachievements.org/game/35115/hashes</url>
+		<hash>de1e8ddfdbb94c47c06e22f6886e34dc</hash>
 	</game>
 	
 	<game name="SM64 - Mario Aimlessly Drives a Car Around the City 64 (RTA Edition) (CowQuack) (Hack)">
@@ -4178,6 +4187,15 @@
 		<rom name="SM64 - Quest For Milk, The (v1.1) (Deathray9000) (Hack).z64" size="7067920" crc="b6efc3be" md5="d8c79261b4af8f8917354abce80b22ef" sha1="7631434274cb770df83de8f359ae4bb40e417602"/>
 		<url>https://retroachievements.org/game/22459/hashes</url>
 		<hash>d8c79261b4af8f8917354abce80b22ef</hash>
+	</game>
+	
+	<game name="SM64 - The Slideverse (Full Version) (JakeDower) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - The Slideverse (Full Version) (JakeDower) (Hack)</description>
+		<release name="SM64 - The Slideverse (Full Version) (JakeDower) (Hack)" region="World"/>
+		<rom name="SM64 - The Slideverse (Full Version) (JakeDower) (Hack).z64" size="67108864" crc="000fbfa2" md5="adae9361e00f24c8684bb750194b18cf" sha1="5211f7093cd9d0e3699583f4f59e2cb02bd41e64"/>
+		<url>https://retroachievements.org/game/35528/hashes</url>
+		<hash>adae9361e00f24c8684bb750194b18cf</hash>
 	</game>
 	
 	<game name="SM64 - Yoshi Garden, The (Kaze Emanuar) (Hack)">

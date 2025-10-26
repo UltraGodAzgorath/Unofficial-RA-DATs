@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Color</name>
 		<description>Nintendo Game Boy Color</description>
 		<category>No Subfolders</category>
-		<version>20251014</version>
-		<date>14 October 2025</date>
+		<version>20251026</version>
+		<date>26 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/6/games</url>
@@ -27,6 +27,15 @@
 		<rom name="Pokemon - Crystal Clear (Color Filter) (ShockSlayer) (v2.5.11) (Hack).gbc" size="2097152" crc="fc33d126" md5="3737dfc080c16b0ee36db9313186eb79" sha1="6fc677bf7a9db103cb9ee11ac08d26782e69ae41"/>
 		<url>https://retroachievements.org/game/13389/hashes</url>
 		<hash>3737dfc080c16b0ee36db9313186eb79</hash>
+	</game>
+	
+	<game name="Pokemon - Joel's Bizarre Pokeventure (v1.0) (Freako) (Hack)">
+		<category>Hack</category>
+		<description>Pokemon - Joel's Bizarre Pokeventure (v1.0) (Freako) (Hack)</description>
+		<release name="Pokemon - Joel's Bizarre Pokeventure (v1.0) (Freako) (Hack)" region="World"/>
+		<rom name="Pokemon - Joel's Bizarre Pokeventure (v1.0) (Freako) (Hack).gbc" size="2097152" crc="4abe50d9" md5="983280a80520ef5f0bcca28a5abedc6c" sha1="9eb72ada16134614b8922a86dedf8c195d24a248"/>
+		<url>https://retroachievements.org/game/8685/hashes</url>
+		<hash>983280a80520ef5f0bcca28a5abedc6c</hash>
 	</game>
 	
 	<game name="Pokemon - Black and White 3 - Genesis (Hack)">
@@ -465,6 +474,15 @@
 		<rom name="Hime's Quest (World) (Digital) (Aftermarket).gbc" size="2097152" crc="de5c21c2" md5="e16141de4a31074438eb44e808fb6789" sha1="7b6672c46c23aaa282bd4fded0713c6dfae2eb66"/>
 		<url>https://retroachievements.org/game/22353/hashes</url>
 		<hash>e16141de4a31074438eb44e808fb6789</hash>
+	</game>
+	
+	<game name="Hollow Knight - Silk Song (World) (v5.1) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<description>Hollow Knight - Silk Song (World) (v5.1) (Aftermarket) (Unl)</description>
+		<release name="Hollow Knight - Silk Song (World) (v5.1) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Hollow Knight - Silk Song (World) (v5.1) (Aftermarket) (Unl).gbc" size="1048576" crc="6f22a180" md5="e384387fff6714b7a97b62a6b4bcb61a" sha1="4233940d26e7e41288a02584010a2414aa71e748"/>
+		<url>https://retroachievements.org/game/29047/hashes</url>
+		<hash>e384387fff6714b7a97b62a6b4bcb61a</hash>
 	</game>
 	
 	<game name="Hong Kong 2099 (World) (Aftermarket)">

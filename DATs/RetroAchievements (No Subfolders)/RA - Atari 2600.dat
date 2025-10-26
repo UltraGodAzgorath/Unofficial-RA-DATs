@@ -5,8 +5,8 @@
 		<name>RA - Atari 2600</name>
 		<description>Atari 2600</description>
 		<category>No Subfolders</category>
-		<version>20251014</version>
-		<date>14 October 2025</date>
+		<version>20251026</version>
+		<date>26 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/25/games</url>
@@ -390,6 +390,15 @@
     	<rom name="Garfield (USA) (Proto).a26" size="16384" crc="f20cadcf" md5="dc13df8420ec69841a7c51e41b9fbba5" sha1="bc0d1edc251d8d4db3d5234ec83dee171642a547"/>
     	<url>https://retroachievements.org/game/17914/hashes</url>
 		<hash>dc13df8420ec69841a7c51e41b9fbba5</hash>
+	</game>
+	
+	<game name="Sinistar (USA) (Proto)">
+    	<category>Prototype</category>
+		<description>Sinistar (USA) (Proto)</description>
+    	<release name="Sinistar (USA) (Proto)" region="USA"/>
+    	<rom name="Sinistar (USA) (Proto).a26" size="8192" crc="8e81a2a4" md5="1e85f8bccb4b866d4daa9fcf89306474" sha1="242fc23def80da96da22c2c7238d48635489abb0"/>
+    	<url>https://retroachievements.org/game/13033/hashes</url>
+		<hash>1e85f8bccb4b866d4daa9fcf89306474</hash>
 	</game>
 	
 	<game name="Snow White and the Seven Dwarfs (USA) (Proto)">

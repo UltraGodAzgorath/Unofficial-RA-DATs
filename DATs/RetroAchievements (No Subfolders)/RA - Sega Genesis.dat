@@ -5,8 +5,8 @@
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
 		<category>No Subfolders</category>
-		<version>20251018</version>
-		<date>18 October 2025</date>
+		<version>20251026</version>
+		<date>26 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/1/games</url>
@@ -56,6 +56,15 @@
 		<rom name="Sonic 2 - Amy Rose in Sonic the Hedgehog 2 (v1.7) (E-122-Psi) (Hack).md" size="2097152" crc="45fbce62" md5="54378e017dc359da52ec442a317da29f" sha1="176351c5705b3aa5254b2d8c298ae6b332f65e73"/>
 		<url>https://retroachievements.org/game/9043/hashes</url>
 		<hash>54378e017dc359da52ec442a317da29f</hash>
+	</game>
+	
+	<game name="Sonic 1 - Ordinary Sonic ROM Hack, An (SHC2013) (Cinossu) (Hack)">
+		<category>Hack</category>
+		<description>Sonic 1 - Ordinary Sonic ROM Hack, An (SHC2013) (Cinossu) (Hack)</description>
+		<release name="Sonic 1 - Ordinary Sonic ROM Hack, An (SHC2013) (Cinossu) (Hack)" region="World"/>
+		<rom name="Sonic 1 - Ordinary Sonic ROM Hack, An (SHC2013) (Cinossu) (Hack).md" size="1572864" crc="1b473a35" md5="0d868810f2eea51a1609499fceaa4bdc" sha1="904230536cf486e5a2147645766eb84c5e927780"/>
+		<url>https://retroachievements.org/game/17666/hashes</url>
+		<hash>0d868810f2eea51a1609499fceaa4bdc</hash>
 	</game>
 	
 	<game name="Sonic 2 - Big's Fishing Derby (v1.05.021a) (Flamewing) (Hack)">
@@ -1285,6 +1294,15 @@
 		<hash>7d20d74e81524773409f4f89e944cfaa</hash>
 	</game>
 	
+	<game name="Aaahh!!! Real Monsters (USA)">
+		<category>Retail</category>
+		<description>Aaahh!!! Real Monsters (USA)</description>
+		<release name="Aaahh!!! Real Monsters (USA)" region="USA"/>
+		<rom name="Aaahh!!! Real Monsters (USA).md" size="2097152" crc="fdc80bfc" md5="9f54481697efc9e6b96fcd054883ae70" sha1="fa579a7e47ee4a1bdb080bbdec1eef480a85293e"/>
+		<url>https://retroachievements.org/game/127/hashes</url>
+		<hash>9f54481697efc9e6b96fcd054883ae70</hash>
+	</game>
+	
 	<game name="Advanced Busterhawk Gley Lancer (Japan)">
 		<category>Retail</category>
 		<description>Advanced Busterhawk Gley Lancer (Japan)</description>
@@ -1345,6 +1363,23 @@
 		<rom name="Air Buster (USA).md" size="524288" crc="f3d65baa" md5="972f4f683356e33b1a4a832f41a34b87" sha1="239636cc38a865359b2deeb5f8dc3fd68da41209"/>
 		<url>https://retroachievements.org/game/44/hashes</url>
 		<hash>972f4f683356e33b1a4a832f41a34b87</hash>
+	</game>
+	
+	<game name="Air Hockey (Europe) (Sega Reactor)">
+		<category>Retail</category>
+		<description>Air Hockey (Europe) (Sega Reactor)</description>
+		<release name="Air Hockey (Europe) (Sega Reactor)" region="Europe"/>
+		<rom name="Air Hockey (Europe) (Sega Reactor).md" size="117648" crc="630c21f1" md5="d562d0640d8729a95f5b1d32d53e84e7" sha1="55f406b24388298a32060a4f94352f4727cbe0ca"/>
+		<url>https://retroachievements.org/game/24356/hashes</url>
+		<hash>d562d0640d8729a95f5b1d32d53e84e7</hash>
+	</game>
+	<game name="Air Hockey (Brazil) (Mega Drive 4)" cloneof="Air Hockey (Europe) (Sega Reactor)">
+		<category>Retail</category>
+		<description>Air Hockey (Brazil) (Mega Drive 4)</description>
+		<release name="Air Hockey (Brazil) (Mega Drive 4)" region="Brazil"/>
+		<rom name="Air Hockey (Brazil) (Mega Drive 4).md" size="113698" crc="6557ad66" md5="e413d9bbad2a949de8fe26a4b1d32592" sha1="0ad5b757bde06f7bef86cf1b529b27935bfcf20a"/>
+		<url>https://retroachievements.org/game/24356/hashes</url>
+		<hash>e413d9bbad2a949de8fe26a4b1d32592</hash>
 	</game>
 	
 	<game name="Aladdin (USA)">
@@ -2376,6 +2411,16 @@
 		<hash>fe5d4230dde728a3f7e0da5cb6c17bc3</hash>
 	</game>
 	
+	<game name="Cosmic Spacehead (USA, Europe) (En,Fr,De,Es)">
+		<category>Retail</category>
+		<description>Cosmic Spacehead (USA, Europe) (En,Fr,De,Es)</description>
+		<release name="Cosmic Spacehead (USA, Europe) (En,Fr,De,Es)" region="Europe"/>
+		<release name="Cosmic Spacehead (USA, Europe) (En,Fr,De,Es)" region="USA"/>
+		<rom name="Cosmic Spacehead (USA, Europe) (En,Fr,De,Es).md" size="1048576" crc="c593d31c" md5="c35216ef28caf9615fdb8073cbe06225" sha1="95a3eb13e5d28db8c8ea5ff3e95b0d3e614def69"/>
+		<url>https://retroachievements.org/game/11184/hashes</url>
+		<hash>c35216ef28caf9615fdb8073cbe06225</hash>
+	</game>
+	
 	<game name="Crayon Shin-chan - Arashi o Yobu Enji (Japan)">
 		<category>Retail</category>
 		<description>Crayon Shin-chan - Arashi o Yobu Enji (Japan)</description>
@@ -2612,6 +2657,15 @@
 		<rom name="Devil Crash MD (Japan) (En).md" size="524288" crc="4c4caad8" md5="f93c0545385edce6ccef288ac767c670" sha1="58d447ecd6a6af9845cdd90ac3df0b5503535117"/>
 		<url>https://retroachievements.org/game/4228/hashes</url>
 		<hash>f93c0545385edce6ccef288ac767c670</hash>
+	</game>
+	
+	<game name="Devilish - The Next Possession (USA)">
+		<category>Retail</category>
+		<description>Devilish - The Next Possession (USA)</description>
+		<release name="Devilish - The Next Possession (USA)" region="USA"/>
+		<rom name="Devilish - The Next Possession (USA).md" size="524288" crc="d3f300ac" md5="6fa7cd092a175c9040b318d289ffff93" sha1="bc6f346a162cf91a788a88e44daa246d3d31ee8b"/>
+		<url>https://retroachievements.org/game/4229/hashes</url>
+		<hash>6fa7cd092a175c9040b318d289ffff93</hash>
 	</game>
 	
 	<game name="Dick Tracy (World)">
@@ -7251,7 +7305,7 @@
 		<url>https://retroachievements.org/game/305/hashes</url>
 		<hash>56ba94382fe6f06d05baf77261644ad4</hash>
 	</game>
-
+	
 	<game name="Tom and Jerry - Frantic Antics! (USA)">
 		<category>Retail</category>
 		<description>Tom and Jerry - Frantic Antics! (USA)</description>
@@ -7259,6 +7313,15 @@
 		<rom name="Tom and Jerry - Frantic Antics! (USA).md" size="1048576" crc="3044460c" md5="61246a57e46da52d32d934edea7b628f" sha1="09dd23ab18dcaf4e21754992a898504188bd76f2"/>
 		<url>https://retroachievements.org/game/4477/hashes</url>
 		<hash>61246a57e46da52d32d934edea7b628f</hash>
+	</game>
+
+	<game name="Tom Mason's Dinosaurs for Hire (USA)">
+		<category>Retail</category>
+		<description>Tom Mason's Dinosaurs for Hire (USA)</description>
+		<release name="Tom Mason's Dinosaurs for Hire (USA)" region="USA"/>
+		<rom name="Tom Mason's Dinosaurs for Hire (USA).md" size="1048576" crc="39351146" md5="e4c6cbf1a2ea36404fb69667cd080b4f" sha1="d006efbf1d811e018271745925fe00ca6d93f24f"/>
+		<url>https://retroachievements.org/game/4231/hashes</url>
+		<hash>e4c6cbf1a2ea36404fb69667cd080b4f</hash>
 	</game>
 
 	<game name="Top Gear 2 (USA)">

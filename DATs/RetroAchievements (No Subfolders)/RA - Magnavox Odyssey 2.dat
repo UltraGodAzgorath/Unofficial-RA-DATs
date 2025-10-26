@@ -5,8 +5,8 @@
 		<name>RA - Magnavox Odyssey 2</name>
 		<description>Magnavox Odyssey 2</description>
 		<category>No Subfolders</category>
-		<version>20250929</version>
-		<date>29 September 2025</date>
+		<version>20251026</version>
+		<date>26 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/23/games</url>
@@ -139,6 +139,16 @@
 		<rom name="Computer Intro (USA).bin" size="2048" crc="95efa98b" md5="1e7035584d19aaa53eb3795d92fa6215" sha1="f93c448243db428a4c9e2354596844ed07bb7530"/>
 		<url>https://retroachievements.org/game/22644/hashes</url>
 		<hash>1e7035584d19aaa53eb3795d92fa6215</hash>
+	</game>
+	
+	<game name="Demon Attack (USA, Europe)">
+		<category>Retail</category>
+		<description>Demon Attack (USA, Europe)</description>
+		<release name="Demon Attack (USA, Europe)" region="Europe"/>
+		<release name="Demon Attack (USA, Europe)" region="USA"/>
+		<rom name="Demon Attack (USA, Europe).bin" size="4096" crc="9bfc3e01" md5="ef55af1c7164948a245eeb71f804bed8" sha1="2d78ccbb56e8b43bb8101b2a1932f5e778b9dbc3"/>
+		<url>https://retroachievements.org/game/16963/hashes</url>
+		<hash>ef55af1c7164948a245eeb71f804bed8</hash>
 	</game>
 	
 	<game name="Freedom Fighters (USA, Europe)">

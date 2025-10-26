@@ -5,8 +5,8 @@
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
 		<category>No Subfolders</category>
-		<version>20251018</version>
-		<date>18 October 2025</date>
+		<version>20251026</version>
+		<date>26 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/16/games</url>
@@ -487,6 +487,15 @@
 		<rom name="Cocoto Funfair (Europe) (En,Fr,De,Es,It).rvz" size="384781120" crc="b30d4fd4" md5="6a7fd77a664fa17b4ea9575e0d590a5d" sha1="52c9b62cb3f8098d8962b5ef70ab1e1c56b69917"/>
 		<url>https://retroachievements.org/game/30473/hashes</url>
 		<hash>30abfab382c952a1ed3b0fcf23685b45</hash>
+	</game>
+	
+	<game name="Crash Bandicoot - The Wrath of Cortex (USA)">
+		<category>Retail</category>
+		<description>Crash Bandicoot - The Wrath of Cortex (USA)</description>
+		<release name="Crash Bandicoot - The Wrath of Cortex (USA)" region="USA"/>
+		<rom name="Crash Bandicoot - The Wrath of Cortex (USA).rvz" size="473941312" crc="57e2ca76" md5="0cde8765b1da6300eeed2df6a61c98d2" sha1="0f4efb7f1b607230f453b48f42159daffa617563"/>
+		<url>https://retroachievements.org/game/7032/hashes</url>
+		<hash>faee7869f31c17f1d80292ca9c4d66b9</hash>
 	</game>
 	
 	<game name="Custom Robo (USA)">

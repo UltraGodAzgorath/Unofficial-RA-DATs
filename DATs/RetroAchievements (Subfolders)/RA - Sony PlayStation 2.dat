@@ -5,8 +5,8 @@
 		<name>RA - Sony PlayStation 2</name>
 		<description>Sony PlayStation 2</description>
 		<category>Subfolders</category>
-		<version>20251018</version>
-		<date>18 October 2025</date>
+		<version>20251026</version>
+		<date>26 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -2941,6 +2941,14 @@
 		<hash>fe8b1b6c64c24e7eaaef6de8af1aeb9e</hash>
 	</machine>
 	
+	<machine name="Subset/Grand Theft Auto - San Andreas (Subset - Vehicle Enthusiast)">
+		<category></category>
+		<description>Grand Theft Auto - San Andreas (Subset - Vehicle Enthusiast)</description>
+		<disk name="Grand Theft Auto - San Andreas (Subset - Vehicle Enthusiast).chd" sha1="e471262f52d39e5f9bbcedec64339baa884c69b7"/>
+		<url>https://retroachievements.org/game/35111/hashes</url>
+		<hash>96fb1cce02f39bccf59aa3c977a0e986</hash>
+	</machine>
+	
 	<machine name="Subset/Grand Theft Auto - San Andreas (Subset - Viva Las Venturas)">
 		<category></category>
 		<description>Grand Theft Auto - San Andreas (Subset - Viva Las Venturas)</description>
@@ -5145,6 +5153,14 @@
 		<hash>f132f6528d4179ca6b4d80d2b353e32f</hash>
 	</machine>
 	
+	<machine name="Retail/Portal Runner (USA)">
+		<category></category>
+		<description>Portal Runner (USA)</description>
+		<disk name="Portal Runner (USA).chd" sha1="e619444048937dabb3319d4ffc8fcd8852a2f9c8"/>
+		<url>https://retroachievements.org/game/25656/hashes</url>
+		<hash>6365d524a590f5c6d5d7f7ea8092807b</hash>
+	</machine>
+	
 	<machine name="Retail/Postman Pat (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)">
 		<category></category>
 		<description>Postman Pat (Europe, Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)</description>
@@ -6948,6 +6964,14 @@
 		<disk name="Tales of the Abyss (USA) (Es) (v1.0) (Undub).chd" sha1="5601fb7035406f826afaa0257143d03e75fdc78b"/>
 		<url>https://retroachievements.org/game/3298/hashes</url>
 		<hash>272da348172a7d76c9e8eed0228e1dcb</hash>
+	</machine>
+	
+	<machine name="Retail/Disney's Tarzan - Untamed (USA)">
+		<category></category>
+		<description>Disney's Tarzan - Untamed (USA)</description>
+		<disk name="Disney's Tarzan - Untamed (USA).chd" sha1="e63a4b42730f7b6e15e517dd4542f106276f6ff5"/>
+		<url>https://retroachievements.org/game/22605/hashes</url>
+		<hash>b847a2d660f6dc3850f04d7bc7f21465</hash>
 	</machine>
 	
 	<machine name="Retail/Taz - Wanted (USA) (En,Fr,De,Es,It)">

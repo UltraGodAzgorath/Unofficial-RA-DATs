@@ -5,8 +5,8 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20251018</version>
-		<date>18 October 2025</date>
+		<version>20251026</version>
+		<date>26 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/3/games</url>
@@ -710,6 +710,14 @@
 		<rom name="SMW - Fall Guys World (En) (2020-10-16) (LucasMegaStriker) (Hack).sfc" size="4194304" crc="dba954ef" md5="ab6537c54bc19e6b37b8c2bf37ff66e1" sha1="06c4154bedb910d67c73a16862f3d6f74397ee39"/>
 		<url>https://retroachievements.org/game/17068/hashes</url>
 		<hash>ab6537c54bc19e6b37b8c2bf37ff66e1</hash>
+	</game>
+	
+	<game name="Hack/Final Fantasy II/FFII - FF2us Impossible (JCE3000GT) (v3.0b) (Hack)">
+		<category>Super Nintendo</category>
+		<description>FFII - FF2us Impossible (JCE3000GT) (v3.0b) (Hack)</description>
+		<rom name="FFII - FF2us Impossible (JCE3000GT) (v3.0b) (Hack).sfc" size="1048576" crc="624481a1" md5="4d1f40a7e696bf7888defb8f98a82ee3" sha1="eecd6e310909608cc12f7075b7c3f2865ff88c52"/>
+		<url>https://retroachievements.org/game/34086/hashes</url>
+		<hash>4d1f40a7e696bf7888defb8f98a82ee3</hash>
 	</game>
 	
 	<game name="Hack/Final Fantasy VI/FFVI - Filly Fantasy VI (v2.2) (DrakeyC) (Hack)">
@@ -5136,6 +5144,13 @@
 		<url>https://retroachievements.org/game/449/hashes</url>
 		<hash>3a077f3f02aa6d00d6fb29fd57f46cfb</hash>
 	</game>
+	<game name="Retail/Breath of Fire//Breath of Fire (USA) (Es) (v1.3) (Vegetal)">
+		<category>Super Nintendo</category>
+		<description>Breath of Fire (USA) (Es) (v1.3) (Vegetal)</description>
+		<rom name="Breath of Fire (USA) (Es) (v1.3) (Vegetal).sfc" size="1572864" crc="4e55a8b8" md5="305d0b1ddbb96f3eec8868f4980ea688" sha1="e62caeb79ca0d70d1ae317a29e4a1d21f945a0ea"/>
+		<url>https://retroachievements.org/game/449/hashes</url>
+		<hash>305d0b1ddbb96f3eec8868f4980ea688</hash>
+	</game>
 	
 	<game name="Retail/Breath of Fire II/Breath of Fire II - Shimei no Ko (Japan)">
 		<category>Super Nintendo</category>
@@ -8956,7 +8971,7 @@
 		<hash>8607561b2d3175b949ebd899aa12052b</hash>
 	</game>
 	<game name="Retail/Lufia II - Rise of the Sinistrals (USA) (Frue Lufia) (v8.1) (Artemis)">
-		<category></category>
+		<category>Super Nintendo</category>
 		<description>Lufia II - Rise of the Sinistrals (USA) (Frue Lufia) (v8.1) (Artemis)</description>
 		<rom name="Lufia II - Rise of the Sinistrals (USA) (Frue Lufia) (v8.1) (Artemis).sfc" size="4194304" crc="ef2fe777" md5="97998af661bfb8477737bfc83fc9dae8" sha1="fce047b563fabe3d9eded71f38643627b47c1a1d"/>
 		<url>https://retroachievements.org/game/1005/hashes</url>
@@ -10015,6 +10030,14 @@
 		<rom name="Nobunaga's Ambition (USA).sfc" size="524288" crc="49da3583" md5="e4d7ca6333e7a05acfd409b169f1a1c2" sha1="2400f6d79aff8eb82c2dba767901c0c0a5d08ea9"/>
 		<url>https://retroachievements.org/game/1071/hashes</url>
 		<hash>e4d7ca6333e7a05acfd409b169f1a1c2</hash>
+	</game>
+	
+	<game name="Retail/Nontan to Issho - Kurukuru Puzzle (Japan)">
+		<category>Super Nintendo</category>
+		<description>Nontan to Issho - Kurukuru Puzzle (Japan)</description>
+		<rom name="Nontan to Issho - Kurukuru Puzzle (Japan).sfc" size="524288" crc="de346477" md5="abd1b7abfdb05162688e5abd2879a9f3" sha1="f2bfed3a65c38319fb11dada2eab31d1d10d5466"/>
+		<url>https://retroachievements.org/game/3307/hashes</url>
+		<hash>abd1b7abfdb05162688e5abd2879a9f3</hash>
 	</game>
 	
 	<game name="Retail/Nosferatu (USA)">
@@ -12393,6 +12416,14 @@
 		<rom name="Super Smash T.V. (USA).sfc" size="524288" crc="2d0b20d0" md5="975074b66b9a993648142e2bcd8a02cf" sha1="eafef16aa34e12e99d1a8bbe138b0a0e39dbbef1"/>
 		<url>https://retroachievements.org/game/1233/hashes</url>
 		<hash>975074b66b9a993648142e2bcd8a02cf</hash>
+	</game>
+	
+	<game name="Retail/Super Soccer (USA)">
+		<category>Super Nintendo</category>
+		<description>Super Soccer (USA)</description>
+		<rom name="Super Soccer (USA).sfc" size="524288" crc="4fd164d8" md5="15bc713c9464c0e3243d1dbcf75c9bee" sha1="47f401cf0b5845e129b636d381233c23ba74cef6"/>
+		<url>https://retroachievements.org/game/1235/hashes</url>
+		<hash>15bc713c9464c0e3243d1dbcf75c9bee</hash>
 	</game>
 	
 	<game name="Retail/Super Solitaire (USA) (En,Fr,De,Es,It)">

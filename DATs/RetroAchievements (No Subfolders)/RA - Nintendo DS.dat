@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>No Subfolders</category>
-		<version>20251018</version>
-		<date>18 October 2025</date>
+		<version>20251026</version>
+		<date>26 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
@@ -1447,6 +1447,15 @@
 		<rom name="Bomberman 2 (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="26b0bba3" md5="41f4a215244e7dd4e80d75dc18be7a6a" sha1="dff35c97e654f67d96b6acb13ca7a6e4573fd488"/>
 		<url>https://retroachievements.org/game/17888/hashes</url>
 		<hash>b781a6202b808a46452fabc5379fdbb1</hash>
+	</game>
+	
+	<game name="Dr Kawashima's Brain Training - How Old Is Your Brain (Europe) (En,Fr,De,Es,It,Nl)">
+		<category>Retail</category>
+		<description>Dr Kawashima's Brain Training - How Old Is Your Brain (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<release name="Dr Kawashima's Brain Training - How Old Is Your Brain (Europe) (En,Fr,De,Es,It,Nl)" region="Europe"/>
+		<rom name="Dr Kawashima's Brain Training - How Old Is Your Brain (Europe) (En,Fr,De,Es,It,Nl).nds" size="16777216" crc="fe158662" md5="588b392dfd20e8c670ab3a2b2ee79cd8" sha1="a4c8b20886cbfc44311658b97aeb23b407f7aba2"/>
+		<url>https://retroachievements.org/game/2141/hashes</url>
+		<hash>dd00d38b784adcb92a0f089173f9645c</hash>
 	</game>
 	
 	<game name="Brain Boost - Gamma Wave (USA)">
@@ -3650,6 +3659,15 @@
 		<hash>9ebf187229672ead97a2a6b497ae49e0</hash>
 	</game>
 	
+	<game name="Might &amp; Magic - Clash of Heroes (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Might &amp; Magic - Clash of Heroes (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Might &amp; Magic - Clash of Heroes (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="Might &amp; Magic - Clash of Heroes (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="f0e68923" md5="0687be54d2a086bb7eb33daf901a8a63" sha1="7ad26d2180c45d5e6d7113f73c4d479d1795d94c"/>
+		<url>https://retroachievements.org/game/9788/hashes</url>
+		<hash>a46d74300bf8c376789d02b5ccc49e2f</hash>
+	</game>
+	
 	<game name="Moero! Nekketsu Rhythm Damashii - Osu! Tatakae! Ouendan 2 (Japan)">
 		<category>Retail</category>
 		<description>Moero! Nekketsu Rhythm Damashii - Osu! Tatakae! Ouendan 2 (Japan)</description>
@@ -3927,6 +3945,15 @@
 		<rom name="Nicktoons - Attack of the Toybots (Europe) (En,Fr).nds" size="33554432" crc="00de7c81" md5="87fb00354dcfb0602a046872b1f981a2" sha1="d978ebf36a09239c158b7ce82c255eebc5cdd7dd"/>
 		<url>https://retroachievements.org/game/16750/hashes</url>
 		<hash>5ce3c40de1a0615b4791950c3db7e141</hash>
+	</game>
+	
+	<game name="SpongeBob and Friends - Battle for Volcano Island (Europe) (En,Fr,De,Es,It,Nl)">
+		<category>Retail</category>
+		<description>SpongeBob and Friends - Battle for Volcano Island (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<release name="SpongeBob and Friends - Battle for Volcano Island (Europe) (En,Fr,De,Es,It,Nl)" region="Europe"/>
+		<rom name="SpongeBob and Friends - Battle for Volcano Island (Europe) (En,Fr,De,Es,It,Nl).nds" size="16777216" crc="649f30c9" md5="47cb0cd6bbd6b6370c43a58c73384947" sha1="20c3c55ccd9ef2b99f74c587b95a45aa12f0a1d2"/>
+		<url>https://retroachievements.org/game/16749/hashes</url>
+		<hash>dc64d5555c14d6ed4080c6c37b5e10af</hash>
 	</game>
 	
 	<game name="Ninja Reflex (Europe) (En,Fr,De,Es,It)">
@@ -5658,6 +5685,23 @@
 		<rom name="Rune Factory - A Fantasy Harvest Moon (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="5ff5ccba" md5="db989e8d92fc5c234bdc56afea343e36" sha1="1e9e97d18fd1f2ddc9af9bdf6c541d838698129a"/>
 		<url>https://retroachievements.org/game/12704/hashes</url>
 		<hash>1be064fafbc9765e6697ea9317548a63</hash>
+	</game>
+	
+	<game name="SaGa 2 - Hihou Densetsu - Goddess of Destiny (Japan)">
+		<category>Retail</category>
+		<description>SaGa 2 - Hihou Densetsu - Goddess of Destiny (Japan)</description>
+		<release name="SaGa 2 - Hihou Densetsu - Goddess of Destiny (Japan)" region="Japan"/>
+		<rom name="SaGa 2 - Hihou Densetsu - Goddess of Destiny (Japan).nds" size="134217728" crc="f47920fb" md5="cb70e35f95fd09b1247b151fd117a126" sha1="ab732fb3aedeb11cd932842106fc9d17784d6cf8"/>
+		<url>https://retroachievements.org/game/3894/hashes</url>
+		<hash>edbb45eefe9914008f4540eff83a81bc</hash>
+	</game>
+	<game name="SaGa 2 - Hihou Densetsu - Goddess of Destiny (Japan) (En) (v2.12) (Crimson Nocturnal)" cloneof="SaGa 2 - Hihou Densetsu - Goddess of Destiny (Japan)">
+		<category>Retail</category>
+		<description>SaGa 2 - Hihou Densetsu - Goddess of Destiny (Japan) (En) (v2.12) (Crimson Nocturnal)</description>
+		<release name="SaGa 2 - Hihou Densetsu - Goddess of Destiny (Japan) (En) (v2.12) (Crimson Nocturnal)" region="English"/>
+		<rom name="SaGa 2 - Hihou Densetsu - Goddess of Destiny (Japan) (En) (v2.12) (Crimson Nocturnal).nds" size="125207004" crc="984ef5fb" md5="59a96ab6cd9f571175e820fc28139797" sha1="41bf7f7d912e686d9219117f21184e58a1569040"/>
+		<url>https://retroachievements.org/game/3894/hashes</url>
+		<hash>c212557ca16a55adf7b9dc39aa175dd8</hash>
 	</game>
 	
 	<game name="SaGa 3 - Jikuu no Hasha - Shadow or Light (Japan) (En) (v2.0.830 Beta) (Cain &amp; Easton West)">

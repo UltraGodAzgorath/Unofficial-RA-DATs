@@ -5,8 +5,8 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>No Subfolders</category>
-		<version>20251018</version>
-		<date>18 October 2025</date>
+		<version>20251026</version>
+		<date>26 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/3/games</url>
@@ -793,6 +793,15 @@
 		<rom name="SMW - Fall Guys World (En) (2020-10-16) (LucasMegaStriker) (Hack).sfc" size="4194304" crc="dba954ef" md5="ab6537c54bc19e6b37b8c2bf37ff66e1" sha1="06c4154bedb910d67c73a16862f3d6f74397ee39"/>
 		<url>https://retroachievements.org/game/17068/hashes</url>
 		<hash>ab6537c54bc19e6b37b8c2bf37ff66e1</hash>
+	</game>
+	
+	<game name="FFII - FF2us Impossible (JCE3000GT) (v3.0b) (Hack)">
+		<category>Hack</category>
+		<description>FFII - FF2us Impossible (JCE3000GT) (v3.0b) (Hack)</description>
+		<release name="FFII - FF2us Impossible (JCE3000GT) (v3.0b) (Hack)" region="World"/>
+		<rom name="FFII - FF2us Impossible (JCE3000GT) (v3.0b) (Hack).sfc" size="1048576" crc="624481a1" md5="4d1f40a7e696bf7888defb8f98a82ee3" sha1="eecd6e310909608cc12f7075b7c3f2865ff88c52"/>
+		<url>https://retroachievements.org/game/34086/hashes</url>
+		<hash>4d1f40a7e696bf7888defb8f98a82ee3</hash>
 	</game>
 	
 	<game name="Filly Fantasy VI (v2.2) (DrakeyC) (Hack)">
@@ -5712,6 +5721,14 @@
 		<rom name="Breath of Fire (War of the Goddess) (v1.06) (FlamePurge).sfc" size="2097152" crc="3dc098be" md5="3a077f3f02aa6d00d6fb29fd57f46cfb" sha1="ac6837766af236136917f9b16d4d7df664816b97"/>
 		<url>https://retroachievements.org/game/449/hashes</url>
 		<hash>3a077f3f02aa6d00d6fb29fd57f46cfb</hash>
+	</game>
+	<game name="Breath of Fire (USA) (Es) (v1.3) (Vegetal)" cloneof="Breath of Fire (USA)">
+		<category>Retail</category>
+		<description>Breath of Fire (USA) (Es) (v1.3) (Vegetal)</description>
+		<release name="Breath of Fire (USA) (Es) (v1.3) (Vegetal)" region="Spain"/>
+		<rom name="Breath of Fire (USA) (Es) (v1.3) (Vegetal).sfc" size="1572864" crc="4e55a8b8" md5="305d0b1ddbb96f3eec8868f4980ea688" sha1="e62caeb79ca0d70d1ae317a29e4a1d21f945a0ea"/>
+		<url>https://retroachievements.org/game/449/hashes</url>
+		<hash>305d0b1ddbb96f3eec8868f4980ea688</hash>
 	</game>
 	
 	<game name="Breath of Fire II - Shimei no Ko (Japan)" cloneof="Breath of Fire II (USA)">
@@ -11142,6 +11159,15 @@
 		<hash>e4d7ca6333e7a05acfd409b169f1a1c2</hash>
 	</game>
 	
+	<game name="Nontan to Issho - Kurukuru Puzzle (Japan)">
+		<category>Retail</category>
+		<description>Nontan to Issho - Kurukuru Puzzle (Japan)</description>
+		<release name="Nontan to Issho - Kurukuru Puzzle (Japan)" region="Japan"/>
+		<rom name="Nontan to Issho - Kurukuru Puzzle (Japan).sfc" size="524288" crc="de346477" md5="abd1b7abfdb05162688e5abd2879a9f3" sha1="f2bfed3a65c38319fb11dada2eab31d1d10d5466"/>
+		<url>https://retroachievements.org/game/3307/hashes</url>
+		<hash>abd1b7abfdb05162688e5abd2879a9f3</hash>
+	</game>
+	
 	<game name="Nosferatu (USA)">
 		<category>Retail</category>
 		<description>Nosferatu (USA)</description>
@@ -13809,6 +13835,15 @@
 		<rom name="Super Smash T.V. (USA).sfc" size="524288" crc="2d0b20d0" md5="975074b66b9a993648142e2bcd8a02cf" sha1="eafef16aa34e12e99d1a8bbe138b0a0e39dbbef1"/>
 		<url>https://retroachievements.org/game/1233/hashes</url>
 		<hash>975074b66b9a993648142e2bcd8a02cf</hash>
+	</game>
+	
+	<game name="Super Soccer (USA)">
+		<category>Retail</category>
+		<description>Super Soccer (USA)</description>
+		<release name="Super Soccer (USA)" region="USA"/>
+		<rom name="Super Soccer (USA).sfc" size="524288" crc="4fd164d8" md5="15bc713c9464c0e3243d1dbcf75c9bee" sha1="47f401cf0b5845e129b636d381233c23ba74cef6"/>
+		<url>https://retroachievements.org/game/1235/hashes</url>
+		<hash>15bc713c9464c0e3243d1dbcf75c9bee</hash>
 	</game>
 	
 	<game name="Super Solitaire (USA) (En,Fr,De,Es,It)">

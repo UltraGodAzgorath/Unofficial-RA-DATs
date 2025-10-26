@@ -5,8 +5,8 @@
 		<name>RA - Arcade</name>
 		<description>Arcade</description>
 		<category>Subfolders</category>
-		<version>20251018</version>
-		<date>18 October 2025</date>
+		<version>20251026</version>
+		<date>26 October 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/27/games</url>
@@ -961,6 +961,32 @@
 		<hash>97f13fb525c71f803ca6c076397f098b</hash>
 	</game>
 	
+	<game name="Retail/19xx">
+		<description>19XX: The War Against Destiny (Europe 960104)</description>
+		<category>FBNeo</category>
+		<rom name="19xe.03b" size="524288" crc="9bf9d9b1"/>
+		<rom name="19xe.04b" size="524288" crc="9aa46476"/>
+		<rom name="19xe.05b" size="524288" crc="a04a2c5e"/>
+		<rom name="19xe.06b" size="524288" crc="f0a81c33"/>
+		<rom name="19x.07" size="524288" crc="61c0296c"/>
+		<rom name="19x.13m" size="524288" crc="427aeb18"/>
+		<rom name="19x.15m" size="524288" crc="63bdbf54"/>
+		<rom name="19x.17m" size="524288" crc="2dfe18b5"/>
+		<rom name="19x.19m" size="524288" crc="cbef9579"/>
+		<rom name="19x.14m" size="2097152" crc="e916967c"/>
+		<rom name="19x.16m" size="2097152" crc="6e75f3db"/>
+		<rom name="19x.18m" size="2097152" crc="2213e798"/>
+		<rom name="19x.20m" size="2097152" crc="ab9d5b96"/>
+		<rom name="19x.01" size="131072" crc="ef55195e"/>
+		<rom name="19x.11m" size="2097152" crc="d38beef3"/>
+		<rom name="19x.12m" size="2097152" crc="d47c96e2"/>
+		<rom name="19xx.key" size="20" crc="6f5d6406"/>
+		<video type="raster" orientation="vertical" width="224" height="384" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/11958/hashes</url>
+		<hash>33a48137bd598345260024f173986b35</hash>
+	</game>
+	
 	<game name="Retail/64street">
 		<description>64th. Street - A Detective Story (World)</description>
 		<category>FBNeo</category>
@@ -1119,6 +1145,101 @@
 		<url>https://retroachievements.org/game/28949/hashes</url>
 		<hash>36140d3035760c6f82a0bbd0a31f6f4a</hash>
 	</game>
+	
+	<machine name="Retail/ausfache">
+		<description>Akatsuki Blitzkampf Ausf. Achse (Japan)</description>
+		<category>Flycast</category>
+		<biosset name="bios0" description="epr-21576h (Japan)"/>
+		<biosset name="bios1" description="epr-21576g (Japan)"/>
+		<biosset name="bios2" description="epr-21576e (Japan)"/>
+		<biosset name="bios3" description="epr-21576d (Japan)"/>
+		<biosset name="bios4" description="epr-21576c (Japan)"/>
+		<biosset name="bios5" description="epr-21576b (Japan)"/>
+		<biosset name="bios6" description="epr-21576a (Japan)"/>
+		<biosset name="bios7" description="epr-21576 (Japan)"/>
+		<biosset name="bios8" description="epr-21578h (Export)"/>
+		<biosset name="bios9" description="epr-21578g (Export)"/>
+		<biosset name="bios10" description="epr-21578f (Export)"/>
+		<biosset name="bios11" description="epr-21578e (Export)"/>
+		<biosset name="bios12" description="epr-21578d (Export)"/>
+		<biosset name="bios13" description="epr-21578a (Export)"/>
+		<biosset name="bios14" description="epr-21577h (USA)"/>
+		<biosset name="bios15" description="epr-21577g (USA)"/>
+		<biosset name="bios16" description="epr-21577e (USA)"/>
+		<biosset name="bios17" description="epr-21577d (USA)"/>
+		<biosset name="bios18" description="epr-21577a (USA)"/>
+		<biosset name="bios19" description="epr-21579d (Korea)"/>
+		<biosset name="bios20" description="epr-21579 (Korea)"/>
+		<biosset name="bios21" description="Set4 Dev BIOS"/>
+		<biosset name="bios22" description="Dev BIOS v1.10"/>
+		<biosset name="bios23" description="Dev BIOS (Nov 1998)"/>
+		<biosset name="bios24" description="Development ROM Board"/>
+		<biosset name="bios25" description="epr-21576h (multi-region hack)"/>
+		<biosset name="bios26" description="Dev BIOS v1.2"/>
+		<biosset name="bios27" description="Dev Naomi Boot 2491"/>
+		<biosset name="bios28" description="epr-21580a (Australia)"/>
+		<rom name="315-6188.ic31" size="8244" crc="7c9fea46" sha1="f77c07ae65dfed18c1c4c632c8945be21d02ddaf"/>
+		<rom name="317-05130-jpn.ic3" size="2048" crc="eccdcd59" sha1="9f374e0b37f18591c92c38c83c9310f2db0abf9c"/>
+		<rom name="boot_rom_64b8.ic606" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="develop.ic27" size="2097152" crc="309a196a" sha1="409b50371feb648f10efd6b7ac420bf08d9a3b5a"/>
+		<rom name="develop110.ic27" size="2097152" crc="de7cfdb0" sha1="da16800edc4d49f70481c124d487f544c2fa8ce7"/>
+		<rom name="epr-21336a.ic27" size="2097152" crc="d3d57af8" sha1="0eb72c2a20ad8b86d442b77760eab5e89521d469" status="baddump"/>
+		<rom name="epr-21576.ic27" size="2097152" crc="9dad3495" sha1="5fb66f9a2b68d120f059c72758e65d34f461044a"/>
+		<rom name="epr-21576a.ic27" size="2097152" crc="cedfe439" sha1="f27798bf3d890863ef0c1d9dcb4e7782249dca27"/>
+		<rom name="epr-21576b.ic27" size="2097152" crc="755a6e07" sha1="7e8b8ccfc063144d89668e7224dcd8a36c54f3b3"/>
+		<rom name="epr-21576c.ic27" size="2097152" crc="4599ad13" sha1="7e730e9452a792d76f210c33a955d385538682c7" status="baddump"/>
+		<rom name="epr-21576d.ic27" size="2097152" crc="3b2afa7b" sha1="d007e1d321c198a38c5baff86eb2ab84385d150a"/>
+		<rom name="epr-21576e.ic27" size="2097152" crc="08c0add7" sha1="e7c1a7673cb2ccb21748ef44105e46d1bad7266d"/>
+		<rom name="epr-21576g.ic27" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21576h.ic27" size="2097152" crc="d4895685" sha1="91424d481ff99a8d3f4c45cea6d3f0eada049a6d"/>
+		<rom name="epr-21576h_multi.ic27" size="2097152" crc="cce01f1f" sha1="cca17119ad13e3a4ef7cb6902a37b65d6a844aee"/>
+		<rom name="epr-21577a.ic27" size="2097152" crc="969dc491" sha1="581d1eae328b87b67508a7586ffc60cee256f70f"/>
+		<rom name="epr-21577d.ic27" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21577e.ic27" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21577g.ic27" size="2097152" crc="25f64af7" sha1="99f9e6cc0642319bd2da492611220540add573e8"/>
+		<rom name="epr-21577h.ic27" size="2097152" crc="fdf17452" sha1="5f3e4b677f0046ce690a4f096b0481e5dd8bb6e6"/>
+		<rom name="epr-21578a.ic27" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-21578d.ic27" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21578e.ic27" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="epr-21578f.ic27" size="2097152" crc="628a27fd" sha1="dae7add616b1a2478f00608823e88c3b82a0e78f"/>
+		<rom name="epr-21578g.ic27" size="2097152" crc="55413214" sha1="bd2748365a9fc1821c9369aa7155d7c41c4df43e"/>
+		<rom name="epr-21578h.ic27" size="2097152" crc="7b452946" sha1="8e9f153bbada24b37066dc45b64a7bf0d4f26a9b"/>
+		<rom name="epr-21579.ic27" size="2097152" crc="71f9c918" sha1="d15af8b947f41eea7c203b565cd403e3f37a2017"/>
+		<rom name="epr-21579d.ic27" size="2097152" crc="33513691" sha1="b1d8c7c516e1471a788fcf7a02a794ad2f05aeeb"/>
+		<rom name="epr-21580a.ic27" size="2097152" crc="46dbe90f" sha1="822b2ea8e254ea3ce66f0ea67e80a8c7e1125ec9"/>
+		<rom name="ic8.bin" size="67108864" crc="f6a16173" sha1="7167885ce27a99bce286ba71128b4a2c8363015a"/>
+		<rom name="ic9.bin" size="67108864" crc="18c994d7" sha1="159e1425b2fc645133814b0d26d93a90e9849b1a"/>
+		<rom name="main_eeprom.bin" size="128" crc="fea29cbb" sha1="4099f1747aafa07db34f6e072cd9bfaa83bae10e"/>
+		<rom name="naomi_boot_2491.ic27" size="2097152" crc="5b28f868" sha1="d101f58c69d9835e87a969688e43dc9b699b89d0"/>
+		<rom name="x76f100_eeprom.bin" size="132" crc="3ea24b6a" sha1="3a730ebcf56e0060fef6b1b02eb2eb7cfb7e61dc"/>
+		<rom name="zukinver0930.ic25" size="2097152" crc="58e17c23" sha1="19330f906accf1b859f56bbcedc2edff73747599"/>
+		<device_ref name="sh7091"/>
+		<device_ref name="timer"/>
+		<device_ref name="dc_g2if"/>
+		<device_ref name="arm7_le"/>
+		<device_ref name="maple_dc"/>
+		<device_ref name="screen"/>
+		<device_ref name="powervr2"/>
+		<device_ref name="speaker"/>
+		<device_ref name="aica"/>
+		<device_ref name="aicartc"/>
+		<device_ref name="93c46_16"/>
+		<device_ref name="mie"/>
+		<device_ref name="z80"/>
+		<device_ref name="mie_jvs"/>
+		<device_ref name="jvs13551"/>
+		<device_ref name="tmp90ph44"/>
+		<device_ref name="93c46_8"/>
+		<device_ref name="x76f100"/>
+		<device_ref name="m3comm"/>
+		<device_ref name="m68000"/>
+		<device_ref name="ram"/>
+		<device_ref name="nvram"/>
+		<device_ref name="naomi_m4_board"/>
+		<driver status="preliminary"/>
+		<url>https://retroachievements.org/game/17891/hashes</url>
+		<hash>f576377cfed7f4d76450de02fb69db5e</hash>
+	</machine>
 	
 	<game name="Retail/Alcon/alcon">
 		<description>Alcon (US)</description>
