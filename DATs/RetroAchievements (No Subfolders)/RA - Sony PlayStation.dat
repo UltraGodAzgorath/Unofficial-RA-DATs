@@ -677,21 +677,16 @@
 		<hash>49f712c75256b40d0e4a6dd2b6575724</hash>
 	</machine>
 	
-	<machine name="Aconcagua (Japan) (Disc 2)">
+	<machine name="Aconcagua (Japan)">
 		<category>Retail</category>
-		<description>Aconcagua (Japan) (Disc 2)</description>
-		<release name="Aconcagua (Japan) (Disc 2)" region="Japan"/>
+		<description>Aconcagua (Japan)</description>
+		<release name="Aconcagua (Japan)" region="Japan"/>
+		<rom name="Aconcagua (Japan).m3u" crc="7743d13b" md5="1109d56c8d70bd5c731cba128ed2af78" sha1="491c253aa6cf946092be4e2c49f5b5d66323d5d4"/>
+		<disk name="Aconcagua (Japan) (Disc 1).chd" sha1="57ace3a37619ac37a4fb75de599858590b9e2b78"/>
 		<disk name="Aconcagua (Japan) (Disc 2).chd" sha1="52cc3ce95fdd70ea05653df526a1a89c0f2f8380"/>
 		<url>https://retroachievements.org/game/18683/hashes</url>
-		<hash>c3704fa39fb0e54dbf4cda855301b10b</hash>
-	</machine>
-	<machine name="Aconcagua (Japan) (Disc 1)">
-		<category>Retail</category>
-		<description>Aconcagua (Japan) (Disc 1)</description>
-		<release name="Aconcagua (Japan) (Disc 1)" region="Japan"/>
-		<disk name="Aconcagua (Japan) (Disc 1).chd" sha1="57ace3a37619ac37a4fb75de599858590b9e2b78"/>
-		<url>https://retroachievements.org/game/18683/hashes</url>
 		<hash>f4f563af762721662f3c245c7af5abc5</hash>
+		<hash>c3704fa39fb0e54dbf4cda855301b10b</hash>
 	</machine>
 	
 	<machine name="Action Man - Operation Extreme (USA)">
