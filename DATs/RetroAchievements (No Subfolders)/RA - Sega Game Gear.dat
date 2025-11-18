@@ -5,8 +5,8 @@
 		<name>RA - Sega Game Gear</name>
 		<description>Sega Game Gear</description>
 		<category>No Subfolders</category>
-		<version>20250913</version>
-		<date>13 September 2025</date>
+		<version>20251116</version>
+		<date>16 November 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/15/games</url>
@@ -84,6 +84,16 @@
 		<rom name="Aladdin (Japan) (En).gg" size="524288" crc="770e95e1" md5="258abbcd90fe78e19c53c39ce9150106" sha1="7ddfd53e91d8220e4238d3994921bf18fe383717"/>
 		<url>https://retroachievements.org/game/13397/hashes</url>
 		<hash>258abbcd90fe78e19c53c39ce9150106</hash>
+	</game>
+	
+	<game name="Alien 3 (USA, Europe)">
+		<category>Retail</category>
+		<description>Alien 3 (USA, Europe)</description>
+		<release name="Alien 3 (USA, Europe)" region="Europe"/>
+		<release name="Alien 3 (USA, Europe)" region="USA"/>
+		<rom name="Alien 3 (USA, Europe).gg" size="262144" crc="11a68c08" md5="653310b476cab68eeb8d3520c26b9755" sha1="f3b976fefc331f37c3e4d883791eba68890279a5"/>
+		<url>https://retroachievements.org/game/24340/hashes</url>
+		<hash>653310b476cab68eeb8d3520c26b9755</hash>
 	</game>
 	
 	<game name="Arena (USA, Europe)">

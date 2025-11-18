@@ -5,8 +5,8 @@
 		<name>RA - NEC TurboGrafx-16</name>
 		<description>NEC TurboGrafx-16</description>
 		<category>No Subfolders</category>
-		<version>20250913</version>
-		<date>13 September 2025</date>
+		<version>20251116</version>
+		<date>16 November 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/8/games</url>
@@ -1291,6 +1291,15 @@
 		<rom name="Shockman (USA).pce" size="524288" crc="2774462c" md5="57c888f4af792dc4588a2f9dbebea31a" sha1="f3e0f9546afe257748496a652f138dbc318bed05"/>
 		<url>https://retroachievements.org/game/2322/hashes</url>
 		<hash>57c888f4af792dc4588a2f9dbebea31a</hash>
+	</game>
+	
+	<game name="Silent Debuggers (USA)">
+		<category>Retail</category>
+		<description>Silent Debuggers (USA)</description>
+		<release name="Silent Debuggers (USA)" region="USA"/>
+		<rom name="Silent Debuggers (USA).pce" size="524288" crc="fa7e5d66" md5="46719950684f5148c20730c6fd7df4a0" sha1="c010ba9ff55a2558bba94ac39aa0160c76daff0c"/>
+		<url>https://retroachievements.org/game/2324/hashes</url>
+		<hash>46719950684f5148c20730c6fd7df4a0</hash>
 	</game>
 	
 	<game name="Soldier Blade (USA)">

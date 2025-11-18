@@ -5,8 +5,8 @@
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
 		<category>No Subfolders</category>
-		<version>20251026</version>
-		<date>26 October 2025</date>
+		<version>20251116</version>
+		<date>16 November 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/1/games</url>
@@ -844,6 +844,15 @@
 		<rom name="Mega Man - The Sequel Wars - Episode Red (World) (v1.1) (Aftermarket) (Subset - Bonus).md" size="4194304" crc="6899d989" md5="0cab4d4be47fb9e9029b82ec09f186da" sha1="c18f45d93bc5ebe1c6b06223fb923a917fcdb677"/>
 		<url>https://retroachievements.org/game/24511/hashes</url>
 		<hash>0cab4d4be47fb9e9029b82ec09f186da</hash>
+	</game>
+	
+	<game name="Mega Q-bert (World) (v1.2) (NTSC) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<description>Mega Q-bert (World) (v1.2) (NTSC) (Aftermarket) (Unl)</description>
+		<release name="Mega Q-bert (World) (v1.2) (NTSC) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Mega Q-bert (World) (v1.2) (NTSC) (Aftermarket) (Unl).md" size="524288" crc="8e48002d" md5="50a8a3e41b42df0a42d9eb6e471dfd03" sha1="0cc93c58ccb8837ebe6305437dac209ff2b9fac2"/>
+		<url>https://retroachievements.org/game/22299/hashes</url>
+		<hash>50a8a3e41b42df0a42d9eb6e471dfd03</hash>
 	</game>
 	
 	<game name="Metal Gear (World) (Amiga Port) (v1.1) (h0ffman) (Aftermarket)">
@@ -2512,6 +2521,15 @@
 		<hash>35f24197067a98e82a426631a4e0cfe6</hash>
 	</game>
 	
+	<game name="Curse (Japan)">
+		<category>Retail</category>
+		<description>Curse (Japan)</description>
+		<release name="Curse (Japan)" region="Japan"/>
+		<rom name="Curse (Japan).md" size="524288" crc="a4fbf9a9" md5="513c1a3f2ddd5b8bf705215f820ada72" sha1="978780d9575022450d415591f32e1118c7fac5ad"/>
+		<url>https://retroachievements.org/game/5356/hashes</url>
+		<hash>513c1a3f2ddd5b8bf705215f820ada72</hash>
+	</game>
+	
 	<game name="Cutie Suzuki no Ringside Angel (Japan)">
 		<category>Retail</category>
 		<description>Cutie Suzuki no Ringside Angel (Japan)</description>
@@ -2519,6 +2537,16 @@
 		<rom name="Cutie Suzuki no Ringside Angel (Japan).md" size="524288" crc="13795dca" md5="880181f9ade316969f0472b234f00978" sha1="4e3f222c7333d39fc5452b37aebc14fa09ff8d5e"/>
 		<url>https://retroachievements.org/game/6816/hashes</url>
 		<hash>880181f9ade316969f0472b234f00978</hash>
+	</game>
+	
+	<game name="CutThroat Island (USA, Europe)">
+		<category>Retail</category>
+		<description>CutThroat Island (USA, Europe)</description>
+		<release name="CutThroat Island (USA, Europe)" region="Europe"/>
+		<release name="CutThroat Island (USA, Europe)" region="USA"/>
+		<rom name="CutThroat Island (USA, Europe).md" size="2097152" crc="ebabbc70" md5="f1e6ec5e3bf9c04670d10fbc89fb549c" sha1="1b1648e02bb2e915286c35f01476358a8401608f"/>
+		<url>https://retroachievements.org/game/8598/hashes</url>
+		<hash>f1e6ec5e3bf9c04670d10fbc89fb549c</hash>
 	</game>
 	
 	<game name="Cyborg Justice (USA, Europe)">
@@ -4170,6 +4198,23 @@
 		<hash>d5ced66ba18ec2b8eb69b8b1a6baf0d0</hash>
 	</game>
 	
+	<game name="Madou Monogatari I (Japan)">
+		<category>Retail</category>
+		<description>Madou Monogatari I (Japan)</description>
+		<release name="Madou Monogatari I (Japan)" region="Japan"/>
+		<rom name="Madou Monogatari I (Japan).md" size="2097152" crc="dd82c401" md5="41b8ba3569e3f4f98155dea64318d223" sha1="143456600e44f543796cf6ade77830115a8f2f99"/>
+		<url>https://retroachievements.org/game/2392/hashes</url>
+		<hash>41b8ba3569e3f4f98155dea64318d223</hash>
+	</game>
+	<game name="Madou Monogatari I (Japan) (En) (v1.1) (LIPEMCO! Translations)" cloneof="Madou Monogatari I (Japan)">
+		<category>Retail</category>
+		<description>Madou Monogatari I (Japan) (En) (v1.1) (LIPEMCO! Translations)</description>
+		<release name="Madou Monogatari I (Japan) (En) (v1.1) (LIPEMCO! Translations)" region="English"/>
+		<rom name="Madou Monogatari I (Japan) (En) (v1.1) (LIPEMCO! Translations).md" size="4194304" crc="fac8d75d" md5="c2b120a54f1309cd64090da815b13b0c" sha1="2cb8d4c82025dc9d1ea548a2ea4da994061b4f50"/>
+		<url>https://retroachievements.org/game/2392/hashes</url>
+		<hash>c2b120a54f1309cd64090da815b13b0c</hash>
+	</game>
+	
 	<game name="Magical Taruruuto-kun (Japan)">
 		<category>Retail</category>
 		<description>Magical Taruruuto-kun (Japan)</description>
@@ -4563,6 +4608,16 @@
 		<rom name="Mortal Kombat II (World).md" size="3145728" crc="a9e013d8" md5="c8e887ca9cdde7bde85f324f66d34b2d" sha1="af6d2db16f2b76940ff5a9738f1e00c4e7ea485e"/>
 		<url>https://retroachievements.org/game/60/hashes</url>
 		<hash>c8e887ca9cdde7bde85f324f66d34b2d</hash>
+	</game>
+	
+	<game name="Ms. Pac-Man (USA, Europe)">
+		<category>Retail</category>
+		<description>Ms. Pac-Man (USA, Europe)</description>
+		<release name="Ms. Pac-Man (USA, Europe)" region="Europe"/>
+		<release name="Ms. Pac-Man (USA, Europe)" region="USA"/>
+		<rom name="Ms. Pac-Man (USA, Europe).md" size="131072" crc="af041be6" md5="cfe7f3023b21bcf697bcf5e1be461ee7" sha1="29fff97e19a00904846ad99baf6b9037b28df15f"/>
+		<url>https://retroachievements.org/game/805/hashes</url>
+		<hash>cfe7f3023b21bcf697bcf5e1be461ee7</hash>
 	</game>
 	
 	<game name="Mutant League Football (USA, Europe)">
@@ -5719,6 +5774,14 @@
 		<rom name="Shadowrun (USA).md" size="2097152" crc="fbb92909" md5="53090bcd67a0b6262f71ef7c5838c02b" sha1="a06a281d39e845bff446a541b2ff48e1d93143c2"/>
 		<url>https://retroachievements.org/game/4748/hashes</url>
 		<hash>53090bcd67a0b6262f71ef7c5838c02b</hash>
+	</game>
+	<game name="Shadowrun (USA) (Ru) (v1.05) (Shedevr)" cloneof="Shadowrun (USA)">
+		<category>Retail</category>
+		<description>Shadowrun (USA) (Ru) (v1.05) (Shedevr)</description>
+		<release name="Shadowrun (USA) (Ru) (v1.05) (Shedevr)" region="Russia"/>
+		<rom name="Shadowrun (USA) (Ru) (v1.05) (Shedevr).md" size="2097152" crc="0fc04279" md5="8012223c849b09beb3b11b95b271f94a" sha1="f377ea0139bc7f1ce37a7ca376260763b58d3eb8"/>
+		<url>https://retroachievements.org/game/4748/hashes</url>
+		<hash>8012223c849b09beb3b11b95b271f94a</hash>
 	</game>
 	
 	<game name="Shane Warne Cricket (Australia)">

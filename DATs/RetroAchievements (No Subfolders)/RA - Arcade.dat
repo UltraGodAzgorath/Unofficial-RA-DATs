@@ -5,8 +5,8 @@
 		<name>RA - Arcade</name>
 		<description>Arcade</description>
 		<category>No Subfolders</category>
-		<version>20251026</version>
-		<date>26 October 2025</date>
+		<version>20251116</version>
+		<date>16 November 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/27/games</url>
@@ -1119,6 +1119,63 @@
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/11774/hashes</url>
 		<hash>34c37a308e48622cde50f3da39687796</hash>
+	</game>
+	
+	<game name="sonicwi3">
+		<description>Aero Fighters 3 / Sonic Wings 3</description>
+		<category>Retail</category>
+		<release name="sonicwi3" region="World"/>
+		<rom name="097-p1.p1" size="2097152" crc="0547121d"/>
+		<rom name="097-s1.s1" size="131072" crc="8dd66743"/>
+		<rom name="097-c1.c1" size="4194304" crc="33d0d589"/>
+		<rom name="097-c2.c2" size="4194304" crc="186f8b43"/>
+		<rom name="097-c3.c3" size="2097152" crc="c339fff5"/>
+		<rom name="097-c4.c4" size="2097152" crc="84a40c6e"/>
+		<rom name="097-m1.m1" size="131072" crc="b20e4291"/>
+		<rom name="097-v1.v1" size="4194304" crc="6f885152"/>
+		<rom name="097-v2.v2" size="2097152" crc="3359e868"/>
+		<rom name="sp-s3.sp1" size="131072" crc="91b64be3"/>
+		<rom name="sp-s2.sp1" size="131072" crc="9036d879"/>
+		<rom name="sp-s.sp1" size="131072" crc="c7f2fa45"/>
+		<rom name="sp-u2.sp1" size="131072" crc="e72943de"/>
+		<rom name="sp1-u2" size="131072" crc="62f021f4"/>
+		<rom name="sp-e.sp1" size="131072" crc="2723a5b5"/>
+		<rom name="sp1-u4.bin" size="131072" crc="1179a30f"/>
+		<rom name="sp1-u3.bin" size="131072" crc="2025b7a2"/>
+		<rom name="vs-bios.rom" size="131072" crc="f0e8f27d"/>
+		<rom name="sp-j2.sp1" size="131072" crc="acede59c"/>
+		<rom name="sp1.jipan.1024" size="131072" crc="9fb0abe4"/>
+		<rom name="sp-45.sp1" size="524288" crc="03cc9f6a"/>
+		<rom name="sp-j3.sp1" size="524288" crc="486cb450"/>
+		<rom name="japan-j3.bin" size="131072" crc="dff6d41f"/>
+		<rom name="sp1-j3.bin" size="131072" crc="fbc6d469"/>
+		<rom name="neo-po.bin" size="131072" crc="16d0c132"/>
+		<rom name="neo-epo.bin" size="131072" crc="d27a71f1"/>
+		<rom name="neodebug.bin" size="131072" crc="698ebb7d"/>
+		<rom name="sp-1v1_3db8c.bin" size="131072" crc="162f0ebe"/>
+		<rom name="uni-bios_4_0.rom" size="131072" crc="a7aab458"/>
+		<rom name="uni-bios_3_3.rom" size="131072" crc="24858466"/>
+		<rom name="uni-bios_3_2.rom" size="131072" crc="a4e8b9b3"/>
+		<rom name="uni-bios_3_1.rom" size="131072" crc="0c58093f"/>
+		<rom name="uni-bios_3_0.rom" size="131072" crc="a97c89a9"/>
+		<rom name="uni-bios_2_3.rom" size="131072" crc="27664eb5"/>
+		<rom name="uni-bios_2_3o.rom" size="131072" crc="601720ae"/>
+		<rom name="uni-bios_2_2.rom" size="131072" crc="2d50996a"/>
+		<rom name="uni-bios_2_1.rom" size="131072" crc="8dabf76b"/>
+		<rom name="uni-bios_2_0.rom" size="131072" crc="0c12c2ad"/>
+		<rom name="uni-bios_1_3.rom" size="131072" crc="b24b44a0"/>
+		<rom name="uni-bios_1_2.rom" size="131072" crc="4fa698e9"/>
+		<rom name="uni-bios_1_2o.rom" size="131072" crc="e19d3ce9"/>
+		<rom name="uni-bios_1_1.rom" size="131072" crc="5dda0d84"/>
+		<rom name="uni-bios_1_0.rom" size="131072" crc="0ce453a0"/>
+		<rom name="neopen.sp1" size="131072" crc="cb915e76"/>
+		<rom name="sm1.sm1" size="131072" crc="94416d67"/>
+		<rom name="sfix.sfix" size="131072" crc="c2ea0cfd"/>
+		<rom name="000-lo.lo" size="131072" crc="5a86cff2"/>
+		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12766/hashes</url>
+		<hash>c52cfe7543f7cca1ec21e873c1e9746b</hash>
 	</game>
 	
 	<game name="airbustr">
@@ -2330,6 +2387,47 @@
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/15009/hashes</url>
 		<hash>cd76adfdb0f7227ec28f6dc8d0cb3221</hash>
+	</game>
+	
+	<game name="asukaj" cloneof="asuka">
+		<description>Asuka &amp; Asuka (Japan, rev 1)</description>
+		<category>Retail</category>
+		<release name="asukaj" region="World"/>
+		<rom name="b68-09-1.ic23" size="131072" crc="d61be555"/>
+		<rom name="b68-08-1.ic8" size="131072" crc="e916f17b"/>
+		<rom name="b68-03.ic30" size="524288" crc="d3a59b10"/>
+		<rom name="b68-11.ic27" size="65536" crc="c378b508"/>
+		<rom name="b68-01.ic3" size="524288" crc="89f32c94"/>
+		<rom name="b68-02.ic6" size="524288" crc="f5018cd3"/>
+		<rom name="b68-07.ic5" size="65536" crc="c113acc8"/>
+		<rom name="b68-06.ic4" size="65536" crc="f517e64d"/>
+		<rom name="b68-10.ic24" size="65536" crc="387aaf40"/>
+		<rom name="b68-04.ic32" size="324" crc="9be618d1"/>
+		<rom name="b68-05.ic43" size="260" crc="d6524ccc"/>
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/13461/hashes</url>
+		<hash>595e8b771e3aaa9d0ba23a4498ba170c</hash>
+	</game>
+	<game name="asuka">
+		<description>Asuka &amp; Asuka (World)</description>
+		<category>Retail</category>
+		<release name="asuka" region="World"/>
+		<rom name="b68-13.ic23" size="131072" crc="855efb3e"/>
+		<rom name="b68-12.ic8" size="131072" crc="271eeee9"/>
+		<rom name="b68-03.ic30" size="524288" crc="d3a59b10"/>
+		<rom name="b68-11.ic27" size="65536" crc="c378b508"/>
+		<rom name="b68-01.ic3" size="524288" crc="89f32c94"/>
+		<rom name="b68-02.ic6" size="524288" crc="f5018cd3"/>
+		<rom name="b68-07.ic5" size="65536" crc="c113acc8"/>
+		<rom name="b68-06.ic4" size="65536" crc="f517e64d"/>
+		<rom name="b68-10.ic24" size="65536" crc="387aaf40"/>
+		<rom name="b68-04.ic32" size="324" crc="9be618d1"/>
+		<rom name="b68-05.ic43" size="260" crc="d6524ccc"/>
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/13461/hashes</url>
+		<hash>99028f5b6288daf4f5d378477e6ba8e7</hash>
 	</game>
 	
 	<game name="asurabld">
@@ -8135,7 +8233,75 @@
 		<url>https://retroachievements.org/game/20242/hashes</url>
 		<hash>5648f05c564835fc91e702ca5ff0f437</hash>
 	</game>
-		
+	
+	<machine name="ggxxsla">
+		<description>Guilty Gear XX Slash (Japan, Rev A) (GDL-0033A)</description>
+		<category>Retail</category>
+		<release name="ggxxsla" region="Japan"/>
+		<biosset name="bios0" description="epr-21576e (Japan)"/>
+		<biosset name="bios1" description="epr-21576g (Japan)"/>
+		<biosset name="bios2" description="epr-21576h (Japan)"/>
+		<biosset name="bios3" description="epr-21578h (Export)"/>
+		<biosset name="bios4" description="epr-21578g (Export)"/>
+		<biosset name="bios5" description="epr-21578e (Export)"/>
+		<biosset name="bios6" description="epr-21577h (USA)"/>
+		<biosset name="bios7" description="epr-21577g (USA)"/>
+		<biosset name="bios8" description="epr-21577e (USA)"/>
+		<rom name="317-5111-jpn.pic" size="16384" crc="96bcbd42" sha1="af4efdf2a02920af9885d104091da0584fca988c"/>
+		<rom name="epr-21576e.ic27" size="2097152" crc="08c0add7" sha1="e7c1a7673cb2ccb21748ef44105e46d1bad7266d"/>
+		<rom name="epr-21576g.ic27" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21576h.ic27" size="2097152" crc="d4895685" sha1="91424d481ff99a8d3f4c45cea6d3f0eada049a6d"/>
+		<rom name="epr-21577e.ic27" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21577g.ic27" size="2097152" crc="25f64af7" sha1="99f9e6cc0642319bd2da492611220540add573e8"/>
+		<rom name="epr-21577h.ic27" size="2097152" crc="fdf17452" sha1="5f3e4b677f0046ce690a4f096b0481e5dd8bb6e6"/>
+		<rom name="epr-21578e.ic27" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="epr-21578g.ic27" size="2097152" crc="55413214" sha1="bd2748365a9fc1821c9369aa7155d7c41c4df43e"/>
+		<rom name="epr-21578h.ic27" size="2097152" crc="7b452946" sha1="8e9f153bbada24b37066dc45b64a7bf0d4f26a9b"/>
+		<rom name="main_eeprom.bin" size="128" crc="fea29cbb" sha1="4099f1747aafa07db34f6e072cd9bfaa83bae10e"/>
+		<rom name="x76f100_eeprom.bin" size="132" crc="3ea24b6a" sha1="3a730ebcf56e0060fef6b1b02eb2eb7cfb7e61dc"/>
+		<disk name="gdl-0033a" sha1="b156456d645512a70d89d120cc3ce427b47e9fe9" region="gdrom"/>
+		<device_ref name="sh7091"/>
+		<device_ref name="timer"/>
+		<device_ref name="dc_g2if"/>
+		<device_ref name="arm7_le"/>
+		<device_ref name="maple_dc"/>
+		<device_ref name="screen"/>
+		<device_ref name="powervr2"/>
+		<device_ref name="speaker"/>
+		<device_ref name="aica"/>
+		<device_ref name="aicartc"/>
+		<device_ref name="93c46_16"/>
+		<device_ref name="mie"/>
+		<device_ref name="z80"/>
+		<device_ref name="mie_jvs"/>
+		<device_ref name="jvs13551"/>
+		<device_ref name="tmp90ph44"/>
+		<device_ref name="93c46_8"/>
+		<device_ref name="x76f100"/>
+		<device_ref name="m3comm"/>
+		<device_ref name="m68000"/>
+		<device_ref name="ram"/>
+		<device_ref name="nvram"/>
+		<device_ref name="segadimm"/>
+		<device_ref name="sh7091"/>
+		<device_ref name="pci_root"/>
+		<device_ref name="sega315_6154"/>
+		<device_ref name="ide_gdrom"/>
+		<device_ref name="idectrl32bm"/>
+		<device_ref name="ata_slot"/>
+		<device_ref name="gdrom"/>
+		<device_ref name="gdrom_image"/>
+		<device_ref name="cdda"/>
+		<device_ref name="ata_slot"/>
+		<device_ref name="pic16c622"/>
+		<device_ref name="24c01"/>
+		<device_ref name="24c01"/>
+		<device_ref name="93c46_8"/>
+		<driver status="preliminary"/>
+		<url>https://retroachievements.org/game/33594/hashes</url>
+		<hash>0ea411de0cbf2bc11a1b781860bd1d0a</hash>
+	</machine>
+	
 	<game name="gunsur2">
 		<description>Gun Survivor 2 Biohazard Code: Veronica (World, BHF2 Ver.E)</description>
 		<category>Retail</category>
@@ -10600,6 +10766,36 @@
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/11806/hashes</url>
 		<hash>b81c3fcde2756cee6d7c0463c6c9ab8c</hash>
+	</game>
+	<game name="mvscj" cloneof="mvsc">
+		<description>Marvel Vs. Capcom: Clash of Super Heroes (Japan 980123)</description>
+		<category>Retail</category>
+		<release name="mvscj" region="Japan"/>
+		<rom name="mvcj.03a" size="524288" crc="3df18879"/>
+		<rom name="mvcj.04a" size="524288" crc="07d212e8"/>
+		<rom name="mvc.05a" size="524288" crc="2d8c8e86"/>
+		<rom name="mvc.06a" size="524288" crc="8528e1f5"/>
+		<rom name="mvc.07" size="524288" crc="c3baa32b"/>
+		<rom name="mvc.08" size="524288" crc="bc002fcd"/>
+		<rom name="mvc.09" size="524288" crc="c67b26df"/>
+		<rom name="mvc.10" size="524288" crc="0fdd1e26"/>
+		<rom name="mvc.13m" size="4194304" crc="fa5f74bc"/>
+		<rom name="mvc.15m" size="4194304" crc="71938a8f"/>
+		<rom name="mvc.17m" size="4194304" crc="92741d07"/>
+		<rom name="mvc.19m" size="4194304" crc="bcb72fc6"/>
+		<rom name="mvc.14m" size="4194304" crc="7f1df4e4"/>
+		<rom name="mvc.16m" size="4194304" crc="90bd3203"/>
+		<rom name="mvc.18m" size="4194304" crc="67aaf727"/>
+		<rom name="mvc.20m" size="4194304" crc="8b0bade8"/>
+		<rom name="mvc.01" size="131072" crc="41629e95"/>
+		<rom name="mvc.02" size="131072" crc="963abf6b"/>
+		<rom name="mvc.11m" size="4194304" crc="850fe663"/>
+		<rom name="mvc.12m" size="4194304" crc="7ccb1896"/>
+		<rom name="mvscj.key" size="20" crc="9dedbcaf"/>
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/11806/hashes</url>
+		<hash>fb8d9c9f10142fb2a89c607ec8ebcd21</hash>
 	</game>
 	
 	<game name="matmania">

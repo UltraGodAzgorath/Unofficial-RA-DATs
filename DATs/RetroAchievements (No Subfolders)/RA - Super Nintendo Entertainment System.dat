@@ -5,8 +5,8 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>No Subfolders</category>
-		<version>20251026</version>
-		<date>26 October 2025</date>
+		<version>20251116</version>
+		<date>16 November 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/3/games</url>
@@ -317,20 +317,29 @@
 		<hash>ee40ecd5e3321bf89d3f6288674161b2</hash>
 	</game>
 	
-	<game name="SMW - Black Derulo World 2 (Fixed - 2017-06-16) (JulienZ57,Aurel509) (Hack)">
+	<game name="SMW - Black Derulo World 2 (Fixed - 2017-06-16) (JulienZ57, Aurel509) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Black Derulo World 2 (Fixed - 2017-06-16) (JulienZ57,Aurel509) (Hack)</description>
-		<release name="SMW - Black Derulo World 2 (Fixed - 2017-06-16) (JulienZ57,Aurel509) (Hack)" region="World"/>
-		<rom name="SMW - Black Derulo World 2 (Fixed - 2017-06-16) (JulienZ57,Aurel509) (Hack).sfc" size="4194304" crc="141a5937" md5="0e4929d41a8300f076c69a4a2686a63f" sha1="34cb6f55b0c80d0318776ad5b0fef97cde8fe2c4"/>
+		<description>SMW - Black Derulo World 2 (Fixed - 2017-06-16) (JulienZ57, Aurel509) (Hack)</description>
+		<release name="SMW - Black Derulo World 2 (Fixed - 2017-06-16) (JulienZ57, Aurel509) (Hack)" region="World"/>
+		<rom name="SMW - Black Derulo World 2 (Fixed - 2017-06-16) (JulienZ57, Aurel509) (Hack).sfc" size="4194304" crc="141a5937" md5="0e4929d41a8300f076c69a4a2686a63f" sha1="34cb6f55b0c80d0318776ad5b0fef97cde8fe2c4"/>
 		<url>https://retroachievements.org/game/6140/hashes</url>
 		<hash>0e4929d41a8300f076c69a4a2686a63f</hash>
 	</game>
-	<game name="SMW - Black Derulo World 2 (JulienZ57,Aurel509) (Hack)" cloneof="SMW - Black Derulo World 2 (Fixed - 2017-06-16) (JulienZ57,Aurel509) (Hack)">
+	<game name="SMW - Black Derulo World 2 (JulienZ57, Aurel509) (Hack)" cloneof="SMW - Black Derulo World 2 (Fixed - 2017-06-16) (JulienZ57, Aurel509) (Hack)">
 		<category>Hack</category>
-		<description>SMW - Black Derulo World 2 (JulienZ57,Aurel509) (Hack)</description>
-		<rom name="SMW - Black Derulo World 2 (JulienZ57,Aurel509) (Hack).sfc" size="2097152" crc="8721481a" md5="68cca59e981652d67ed484a1881091bf" sha1="5585f5ef3a574462dc15b249f88ac8d277684e3e"/>
+		<description>SMW - Black Derulo World 2 (JulienZ57, Aurel509) (Hack)</description>
+		<rom name="SMW - Black Derulo World 2 (JulienZ57, Aurel509) (Hack).sfc" size="2097152" crc="8721481a" md5="68cca59e981652d67ed484a1881091bf" sha1="5585f5ef3a574462dc15b249f88ac8d277684e3e"/>
 		<url>https://retroachievements.org/game/6140/hashes</url>
 		<hash>68cca59e981652d67ed484a1881091bf</hash>
+	</game>
+	
+	<game name="EarthBound - Bound to the Dark World (v1.4) (Chromadeline) (Hack)">
+		<category>Hack</category>
+		<description>EarthBound - Bound to the Dark World (v1.4) (Chromadeline) (Hack)</description>
+		<release name="EarthBound - Bound to the Dark World (v1.4) (Chromadeline) (Hack)" region="World"/>
+		<rom name="EarthBound - Bound to the Dark World (v1.4) (Chromadeline) (Hack).sfc" size="6291456" crc="09a2a5a9" md5="de74d9f5ce1708561809ff5498d5f91c" sha1="53ae3e014ee1b84777bb26b398a094c488830a5e"/>
+		<url>https://retroachievements.org/game/35867/hashes</url>
+		<hash>de74d9f5ce1708561809ff5498d5f91c</hash>
 	</game>
 	
 	<game name="SMW - Brave New World (v1.1) (derv82) (Hack)">
@@ -696,6 +705,15 @@
 		<rom name="DKC - Competition Cartridge (USA) (10-Minute) (Hack).sfc" size="4194304" crc="d8a0b98e" md5="611765c13e3087407a9f2fdcfb530410" sha1="3600c529960fca051d2f188b5201205d59c0e884"/>
 		<url>https://retroachievements.org/game/8249/hashes</url>
 		<hash>611765c13e3087407a9f2fdcfb530410</hash>
+	</game>
+	
+	<game name="DKC - Pacifist Mode (v1.001) (RainbowSprinklez) (Hack)">
+		<category>Hack</category>
+		<description>DKC - Pacifist Mode (v1.001) (RainbowSprinklez) (Hack)</description>
+		<release name="DKC - Pacifist Mode (v1.001) (RainbowSprinklez) (Hack)" region="World"/>
+		<rom name="DKC - Pacifist Mode (v1.001) (RainbowSprinklez) (Hack).sfc" size="4194304" crc="25958930" md5="0e86aa0c67136e820d29fffceb875560" sha1="ee42fa53829f56984d42c4ce16b5fb113c04710e"/>
+		<url>https://retroachievements.org/game/18327/hashes</url>
+		<hash>0e86aa0c67136e820d29fffceb875560</hash>
 	</game>
 	
 	<game name="EarthBound - Halloween (Bad Fur Day Edition) (Toby Fox) (Hack)" cloneof="EarthBound - Halloween (Redone) (the ally235) (Hack)">
@@ -1224,6 +1242,24 @@
 		<rom name="SMW - Fly Me To The Stars (v1.1) (CarlSagan42) (Hack).sfc" size="2097152" crc="51863707" md5="2ffd0c0ba457537619b4f2b186bcf3ba" sha1="91d5d4319e547dedaf9acca7e1be7a843047a40f"/>
 		<url>https://retroachievements.org/game/22825/hashes</url>
 		<hash>2ffd0c0ba457537619b4f2b186bcf3ba</hash>
+	</game>
+	
+	<game name="SMW - Fresh Hops (v1.1) (MorrieTheMagpie) (Hack)">
+		<category>Hack</category>
+		<description>SMW - Fresh Hops (v1.1) (MorrieTheMagpie) (Hack)</description>
+		<release name="SMW - Fresh Hops (v1.1) (MorrieTheMagpie) (Hack)" region="World"/>
+		<rom name="SMW - Fresh Hops (v1.1) (MorrieTheMagpie) (Hack).sfc" size="4194304" crc="66c41028" md5="f0ef3fa54c08d1f8b27c18a870259afb" sha1="44d188d5e3e30eeb8b852761564f7530de34a262"/>
+		<url>https://retroachievements.org/game/35593/hashes</url>
+		<hash>f0ef3fa54c08d1f8b27c18a870259afb</hash>
+	</game>
+	
+	<game name="SMW - Fresh Hops 2 (v1.1) (MorrieTheMagpie) (Hack)">
+		<category>Hack</category>
+		<description>SMW - Fresh Hops 2 (v1.1) (MorrieTheMagpie) (Hack)</description>
+		<release name="SMW - Fresh Hops 2 (v1.1) (MorrieTheMagpie) (Hack)" region="World"/>
+		<rom name="SMW - Fresh Hops 2 (v1.1) (MorrieTheMagpie) (Hack).sfc" size="4194304" crc="b468ab2e" md5="eb9e51e575b3a84445080edf5dcd3767" sha1="fbb3343cf4a705b2afe986e740f4dd6cbfdbba82"/>
+		<url>https://retroachievements.org/game/35594/hashes</url>
+		<hash>eb9e51e575b3a84445080edf5dcd3767</hash>
 	</game>
 	
 	<game name="SMW - Fulfill the Dream (v2024-06-08) (Abstract) (Hack)">
@@ -2775,14 +2811,6 @@
 		<url>https://retroachievements.org/game/28439/hashes</url>
 		<hash>a044324ce6c9901e429f77549635ebc2</hash>
 	</game>
-	<game name="SMW - Sauna Mario World 2 (v1.1) (pnaha) (Hack)" cloneof="SMW - Sauna Mario World 2 (v1.2) (pnaha) (Hack)">
-		<category>Hack</category>
-		<description>SMW - Sauna Mario World 2 (v1.1) (pnaha) (Hack)</description>
-		<release name="SMW - Sauna Mario World 2 (v1.1) (pnaha) (Hack)" region="World"/>
-		<rom name="SMW - Sauna Mario World 2 (v1.1) (pnaha) (Hack).sfc" size="4194304" crc="3f65b73a" md5="eabae527761197cf64822a6d4a60cbc9" sha1="c6e568609e29a78adfeb19fa7733f3f0637a872b"/>
-		<url>https://retroachievements.org/game/32376/hashes</url>
-		<hash>eabae527761197cf64822a6d4a60cbc9</hash>
-	</game>
 	
 	<game name="SMW - Scary Bosses and Nice Sprites (v1.2) (Darolac) (Hack)">
 		<category>Hack</category>
@@ -3032,6 +3060,15 @@
 		<rom name="SMW - Super 'Sonic Saves the World' World (v0.666.5) (Maddy) (Hack).sfc" size="4194304" crc="341b97a9" md5="3122e5b96afffd01ff45ef6e781132f8" sha1="6185871ee7a87479878c8ac9e8bf6ca283fce4f4"/>
 		<url>https://retroachievements.org/game/18191/hashes</url>
 		<hash>3122e5b96afffd01ff45ef6e781132f8</hash>
+	</game>
+	
+	<game name="SMW - Super Alabama Beach Mouse (v1.1) (marvisjj) (Hack)">
+		<category>Hack</category>
+		<description>SMW - Super Alabama Beach Mouse (v1.1) (marvisjj) (Hack)</description>
+		<release name="SMW - Super Alabama Beach Mouse (v1.1) (marvisjj) (Hack)" region="World"/>
+		<rom name="SMW - Super Alabama Beach Mouse (v1.1) (marvisjj) (Hack).sfc" size="2097152" crc="b8336b32" md5="7c478eeacd8eed4b3e18a31893b5f45a" sha1="9f00ba5e3360e98f32daa954d59fc5a02396969f"/>
+		<url>https://retroachievements.org/game/36329/hashes</url>
+		<hash>7c478eeacd8eed4b3e18a31893b5f45a</hash>
 	</game>
 	
 	<game name="Super Mario Kart - Super Baldy Kart (v1.0) (Dirtbag) (Hack)">
@@ -3847,6 +3884,15 @@
 		<hash>a7bcd665da8b839600dfe22c46623ce1</hash>
 	</game>
 	
+	<game name="SMW - 8th Annual Vanilla Level Design Contest (1.2) (Hack)">
+		<category>Hack</category>
+		<description>SMW - 8th Annual Vanilla Level Design Contest (1.2) (Hack)</description>
+		<release name="SMW - 8th Annual Vanilla Level Design Contest (1.2) (Hack)" region="World"/>
+		<rom name="SMW - 8th Annual Vanilla Level Design Contest (1.2) (Hack).sfc" size="4194304" crc="0a9a9051" md5="1c86af29ee3808cec55a2bf957f0095c" sha1="375a749ced11cdbfaa052ee5bf2cd15f7e427ada"/>
+		<url>https://retroachievements.org/game/17548/hashes</url>
+		<hash>1c86af29ee3808cec55a2bf957f0095c</hash>
+	</game>
+	
 	<game name="SMW - Hunt for the Chocolate Egg, The (v1.0.2) (Green Jerry) (Hack)">
 		<category>Hack</category>
 		<description>SMW - Hunt for the Chocolate Egg, The (v1.0.2) (Green Jerry) (Hack)</description>
@@ -4323,6 +4369,15 @@
 		<rom name="SMW - Yosamikalo (v2008-11-19) (Inf. Lives) (KingYoshi89) (Hack).sfc" size="2097152" crc="04d88440" md5="bd3cdbfda1046e0a3e12ce46e5981980" sha1="259a863b5eaca9556c5b5df839de505c06c0aed4"/>
 		<url>https://retroachievements.org/game/34878/hashes</url>
 		<hash>bd3cdbfda1046e0a3e12ce46e5981980</hash>
+	</game>
+	
+	<game name="SMW - You Are Just a Blue Switch (v1.03) (Daizo Dee Von) (Hack)">
+		<category>Hack</category>
+		<description>SMW - You Are Just a Blue Switch (v1.03) (Daizo Dee Von) (Hack)</description>
+		<release name="SMW - You Are Just a Blue Switch (v1.03) (Daizo Dee Von) (Hack)" region="World"/>
+		<rom name="SMW - You Are Just a Blue Switch (v1.03) (Daizo Dee Von) (Hack).sfc" size="2097152" crc="8af70832" md5="32159386f228228231733d8bc15b96c6" sha1="5d4b47f8d3274d4dde4fed9c1b4588212d276802"/>
+		<url>https://retroachievements.org/game/23638/hashes</url>
+		<hash>32159386f228228231733d8bc15b96c6</hash>
 	</game>
 	
 	<game name="SMW - YUMP (2017-07-17) (JUMP TEAM, Lazy, idol) (Hack)">
@@ -9050,6 +9105,15 @@
 		<hash>40bc3a750d8adeaaf15abdaaa6db9ee0</hash>
 	</game>
 	
+	<game name="Jeopardy! - Sports Edition (USA)">
+		<category>Retail</category>
+		<description>Jeopardy! - Sports Edition (USA)</description>
+		<release name="Jeopardy! - Sports Edition (USA)" region="USA"/>
+		<rom name="Jeopardy! - Sports Edition (USA).sfc" size="524288" crc="bda7de29" md5="80eed41a2ea019ad32cffec4642c217a" sha1="9219ce57cf98943928a8f31695701c30d3094556"/>
+		<url>https://retroachievements.org/game/958/hashes</url>
+		<hash>80eed41a2ea019ad32cffec4642c217a</hash>
+	</game>
+	
 	<game name="Jerry Boy (Japan) (En) (v1.01) (Chris Covell)" cloneof="Jerry Boy (Japan)">
 		<category>Retail</category>
 		<description>Jerry Boy (Japan) (En) (v1.01) (Chris Covell)</description>
@@ -12377,6 +12441,28 @@
 		<url>https://retroachievements.org/game/566/hashes</url>
 		<hash>694be8df403ee59225c4b6b53c30fb7b</hash>
 	</game>
+	<game name="Shadowrun (USA) (Mouse Support) (v1.0) (rainwarrior)" cloneof="Shadowrun (USA)">
+		<category>Retail</category>
+		<description>Shadowrun (USA) (Mouse Support) (v1.0) (rainwarrior)</description>
+		<rom name="Shadowrun (USA) (Mouse Support) (v1.0) (rainwarrior).sfc" size="1048576" crc="3357dc91" md5="8f831f708e134c5f256d6ffcbd3fad6c" sha1="6939f33e683aa41df26b320a5eac25e1d137629f"/>
+		<url>https://retroachievements.org/game/566/hashes</url>
+		<hash>8f831f708e134c5f256d6ffcbd3fad6c</hash>
+	</game>
+	<game name="Shadowrun (Europe)">
+		<category>Retail</category>
+		<description>Shadowrun (Europe)</description>
+		<release name="Shadowrun (Europe)" region="Europe"/>
+		<rom name="Shadowrun (Europe).sfc" size="1048576" crc="2af15f10" md5="5c0746237abeacfa10088be8cd724257" sha1="154557c548ed0d1f5abf271470193a1f9d8f9ce3"/>
+		<url>https://retroachievements.org/game/566/hashes</url>
+		<hash>5c0746237abeacfa10088be8cd724257</hash>
+	</game>
+	<game name="Shadowrun (Europe) (Mouse Support) (v1.0) (rainwarrior)" cloneof="Shadowrun (Europe)">
+		<category>Retail</category>
+		<description>Shadowrun (Europe) (Mouse Support) (v1.0) (rainwarrior)</description>
+		<rom name="Shadowrun (Europe) (Mouse Support) (v1.0) (rainwarrior).sfc" size="1048576" crc="0bc36669" md5="bb085908bf1937fa74e57f8f60c97a39" sha1="62247bd8b693b67789face4d28820d761ad09ca6"/>
+		<url>https://retroachievements.org/game/566/hashes</url>
+		<hash>bb085908bf1937fa74e57f8f60c97a39</hash>
+	</game>
 	
 	<game name="Shanghai II - Dragon's Eye (USA)">
 		<category>Retail</category>
@@ -12751,6 +12837,14 @@
 		<rom name="Soul Blazer (Germany).sfc" size="1048576" crc="fe28d2c1" md5="5421e92fa9a070a2207d38832d07bd4f" sha1="3278e5d375a0e206f711c89cd92a9b80dfbbd95e"/>
 		<url>https://retroachievements.org/game/1168/hashes</url>
 		<hash>5421e92fa9a070a2207d38832d07bd4f</hash>
+	</game>
+	<game name="Soul Blazer (USA) (Es) (v1.1b) (Hexplus)" cloneof="Soul Blazer (USA)">
+		<category>Retail</category>
+		<description>Soul Blazer (USA) (Es) (v1.1b) (Hexplus)</description>
+		<release name="Soul Blazer (USA) (Es) (v1.1b) (Hexplus)" region="Spain"/>
+		<rom name="Soul Blazer (USA) (Es) (v1.1b) (Hexplus).sfc" size="1572864" crc="defddde9" md5="5c9d36b947fabf7bfc29633470056c5a" sha1="737862536de733de054a1f6084788f49635ee018"/>
+		<url>https://retroachievements.org/game/1168/hashes</url>
+		<hash>5c9d36b947fabf7bfc29633470056c5a</hash>
 	</game>
 	
 	<game name="Space Megaforce (USA)">

@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>Subfolders</category>
-		<version>20251026</version>
-		<date>26 October 2025</date>
+		<version>20251116</version>
+		<date>16 November 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -3359,6 +3359,22 @@
 		<hash>10ea584b14960348548e8528202968f1</hash>
 	</game>
 	
+	<game name="Retail/Famicom Mini 21 - Super Mario Bros. 2 (Japan)">
+		<category></category>
+		<description>Famicom Mini 21 - Super Mario Bros. 2 (Japan)</description>
+		<rom name="Famicom Mini 21 - Super Mario Bros. 2 (Japan).gba" size="1048576" crc="ef18f7b2" md5="14a31a749989b4e99c3a9ed9dac8a85f" sha1="017c7e0cb41a8d323d9d81f363a7cf51606808e7"/>
+		<url>https://retroachievements.org/game/19447/hashes</url>
+		<hash>5c46126c6a429a3704f15139dadb19be</hash>
+	</game>
+	
+	<game name="Retail/Famicom Mini 24 - Hikari Shinwa - Palthena no Kagami (Japan)">
+		<category></category>
+		<description>Famicom Mini 24 - Hikari Shinwa - Palthena no Kagami (Japan)</description>
+		<rom name="Famicom Mini 24 - Hikari Shinwa - Palthena no Kagami (Japan).gba" size="4194304" crc="f311edac" md5="76759e14e1a4072397c105419d702735" sha1="cca6eb41ea8edc8115994fad2a0b329af44bb659"/>
+		<url>https://retroachievements.org/game/11156/hashes</url>
+		<hash>76759e14e1a4072397c105419d702735</hash>
+	</game>
+	
 	<game name="Retail/FIFA Soccer 06 (USA, Europe) (En,Fr,De,Es,It,Nl)">
 		<category></category>
 		<description>FIFA Soccer 06 (USA, Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -5915,6 +5931,20 @@
 		<url>https://retroachievements.org/game/668/hashes</url>
 		<hash>f793a854654b467211fc32c4062cb183</hash>
 	</game>
+	<game name="Retail/Pokemon - Emerald Version/Pokemon - Version Emeraude (France)">
+		<category></category>
+		<description>Pokemon - Version Emeraude (France)</description>
+		<rom name="Pokemon - Version Emeraude (France).gba" size="16777216" crc="a3fdccb1" md5="2c00e335288a96650e34785b5e2a7588" sha1="ca666651374d89ca439007bed54d839eb7bd14d0"/>
+		<url>https://retroachievements.org/game/668/hashes</url>
+		<hash>2c00e335288a96650e34785b5e2a7588</hash>
+	</game>
+	<game name="Retail/Pokemon - Emerald Version/Pokemon - Versione Smeraldo (Italy)">
+		<category></category>
+		<description>Pokemon - Versione Smeraldo (Italy)</description>
+		<rom name="Pokemon - Versione Smeraldo (Italy).gba" size="16777216" crc="a0aec80a" md5="c3e85be7372bbd5e43f6334a565968c1" sha1="1692db322400c3141c5de2db38469913ceb1f4d4"/>
+		<url>https://retroachievements.org/game/668/hashes</url>
+		<hash>c3e85be7372bbd5e43f6334a565968c1</hash>
+	</game>
 	
 	<game name="Subset/Pokemon - Emerald Version (Subset - Mudkip vs. The World (ft. Castform))">
 		<category></category>
@@ -6587,6 +6617,14 @@
 		<hash>ac807e619878b8219240d908bd7d5ed6</hash>
 	</game>
 	
+	<game name="Retail/SEGA Rally Championship (USA)">
+		<category></category>
+		<description>SEGA Rally Championship (USA)</description>
+		<rom name="SEGA Rally Championship (USA).gba" size="8388608" crc="1ae3eb16" md5="f4326bde4b5e9f53f5fc58ce24d7b137" sha1="5ec86056ccef168b57be8e609aada2b1da11f733"/>
+		<url>https://retroachievements.org/game/2530/hashes</url>
+		<hash>f4326bde4b5e9f53f5fc58ce24d7b137</hash>
+	</game>
+	
 	<game name="Retail/Serious Sam Advance (USA) (En,Fr,De)">
 		<category></category>
 		<description>Serious Sam Advance (USA) (En,Fr,De)</description>
@@ -7080,6 +7118,28 @@
 		<rom name="Spider-Man - Mysterio's Menace (USA, Europe).gba" size="8388608" crc="6e135b4d" md5="fbda16cbc7e3f81aa5b90da955d3e114" sha1="ef80933054d6be9532d5d35bee6f715438301755"/>
 		<url>https://retroachievements.org/game/5286/hashes</url>
 		<hash>fbda16cbc7e3f81aa5b90da955d3e114</hash>
+	</game>
+	
+	<game name="Retail/Spirits &amp; Spells/Spirits &amp; Spells (USA)">
+		<category></category>
+		<description>Spirits &amp; Spells (USA)</description>
+		<rom name="Spirits &amp; Spells (USA).gba" size="4194304" crc="2fa6db95" md5="dce828e687f05511c1ad70e936b5ef25" sha1="5b4764af4f7d0df24adf0df0ae486f33bd905dc7"/>
+		<url>https://retroachievements.org/game/2346/hashes</url>
+		<hash>dce828e687f05511c1ad70e936b5ef25</hash>
+	</game>
+	<game name="Retail/Spirits &amp; Spells/Castleween (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Castleween (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Castleween (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="11a9b76e" md5="f146baf10cf767d2313c4da94a5845eb" sha1="bbda9c6708d8dd5a7ea6fbf6b7d128287de2bd82"/>
+		<url>https://retroachievements.org/game/2346/hashes</url>
+		<hash>f146baf10cf767d2313c4da94a5845eb</hash>
+	</game>
+	<game name="Retail/Spirits &amp; Spells/Mahou no Pumpkin - Ann to Greg no Daibouken (Japan)">
+		<category></category>
+		<description>Mahou no Pumpkin - Ann to Greg no Daibouken (Japan)</description>
+		<rom name="Mahou no Pumpkin - Ann to Greg no Daibouken (Japan).gba" size="4194304" crc="f9652b4d" md5="8daee9fe02459c2084d461d4f2e8e481" sha1="a42d4104e0d0d8d9b2b2196d745237d640795215"/>
+		<url>https://retroachievements.org/game/2346/hashes</url>
+		<hash>8daee9fe02459c2084d461d4f2e8e481</hash>
 	</game>
 	
 	<game name="Retail/SpongeBob SquarePants - Battle for Bikini Bottom (Europe) (En,Fr,De)">
@@ -7785,26 +7845,33 @@
 		<hash>52fb89bb89b83611912afd8e2f4c8d89</hash>
 	</game>
 	
-	<game name="Retail/Legend of Zelda, The - The Minish Cap (USA) (Ru)">
+	<game name="Retail//The Legend of Zelda - The Minish Cap/Legend of Zelda, The - The Minish Cap (USA) (Ru)">
 		<category></category>
 		<description>Legend of Zelda, The - The Minish Cap (USA) (Ru)</description>
 		<rom name="Legend of Zelda, The - The Minish Cap (USA) (Ru).gba" size="16777216" crc="54fb0139" md5="3cded5508b03afb52b41dfbe9955628b" sha1="b1085bbd3aaabb90e3dfbd45b23d569cac355844"/>
 		<url>https://retroachievements.org/game/559/hashes</url>
 		<hash>3cded5508b03afb52b41dfbe9955628b</hash>
 	</game>
-	<game name="Retail/Legend of Zelda, The - The Minish Cap (Europe) (European Backport Edition) (Prof. 9) (v1.0)">
+	<game name="Retail/The Legend of Zelda - The Minish Cap/Legend of Zelda, The - The Minish Cap (Europe) (European Backport Edition) (Prof. 9) (v1.0)">
 		<category></category>
 		<description>Legend of Zelda, The - The Minish Cap (Europe) (European Backport Edition) (Prof. 9) (v1.0)</description>
 		<rom name="Legend of Zelda, The - The Minish Cap (Europe) (European Backport Edition) (Prof. 9) (v1.0).gba" size="16777216" crc="056d8162" md5="626a6f1134455c879dd8a5cbb84b116a" sha1="9a6d87e718be921463f9ed7da6a58da7aedf3b4a"/>
 		<url>https://retroachievements.org/game/559/hashes</url>
 		<hash>626a6f1134455c879dd8a5cbb84b116a</hash>
 	</game>
-	<game name="Retail/Legend of Zelda, The - The Minish Cap (USA)">
+	<game name="Retail/The Legend of Zelda - The Minish Cap/Legend of Zelda, The - The Minish Cap (USA)">
 		<category></category>
 		<description>Legend of Zelda, The - The Minish Cap (USA)</description>
 		<rom name="Legend of Zelda, The - The Minish Cap (USA).gba" size="16777216" crc="abcebbb1" md5="a104896da0047abe8bee2a6e3f4c7290" sha1="b4bd50e4131b027c334547b4524e2dbbd4227130"/>
 		<url>https://retroachievements.org/game/559/hashes</url>
 		<hash>a104896da0047abe8bee2a6e3f4c7290</hash>
+	</game>
+	<game name="Retail/The Legend of Zelda - The Minish Cap/Legend of Zelda, The - The Minish Cap (USA) (PtBr) (ZMC) (v1.0)">
+		<category></category>
+		<description>Legend of Zelda, The - The Minish Cap (USA) (PtBr) (ZMC) (v1.0)</description>
+		<rom name="Legend of Zelda, The - The Minish Cap (USA) (PtBr) (ZMC) (v1.0).gba" size="16777216" crc="06964b7c" md5="dcd84f2cd26e40cfbc4c332677774473" sha1="6838e0405c1be5d867d84e019d1f131a366b07ad"/>
+		<url>https://retroachievements.org/game/559/hashes</url>
+		<hash>dcd84f2cd26e40cfbc4c332677774473</hash>
 	</game>
 	
 	<game name="Retail/Lord of the Rings, The - The Fellowship of the Ring (Europe) (En,Fr,De,Es,It)">

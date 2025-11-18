@@ -5,8 +5,8 @@
 		<name>RA - Sony PlayStation 2</name>
 		<description>Sony PlayStation 2</description>
 		<category>Subfolders</category>
-		<version>20251026</version>
-		<date>26 October 2025</date>
+		<version>20251116</version>
+		<date>16 November 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -234,6 +234,14 @@
 		<disk name="Resident Evil 4 - Winter of Middle Night (Hack).chd" sha1="872f25e6aee43fcd7c5d259e7167061d9c5482c9"/>
 		<url>https://retroachievements.org/game/33782/hashes</url>
 		<hash>614ca5a31def02e3242e6907b38dab14</hash>
+	</machine>
+	
+	<machine name="Hack/Rock Band 2 DX - Guitar Hero Live (v1.0) (Proyecto Dj Yohan) (Hack)">
+		<category></category>
+		<description>Rock Band 2 DX - Guitar Hero Live (v1.0) (Proyecto Dj Yohan) (Hack)</description>
+		<disk name="Rock Band 2 DX - Guitar Hero Live (v1.0) (Proyecto Dj Yohan) (Hack).chd" sha1="2e41b3c67c012a89e88b47a959477e68bf0406e1"/>
+		<url>https://retroachievements.org/game/35917/hashes</url>
+		<hash>850a5b5f4559d911f08a25eee6008027</hash>
 	</machine>
 	
 	<machine name="Hack/Shin Megami Tensei - Nocturne - Hardtype (v1.5.1) (zombero) (Hack)">
@@ -1706,6 +1714,35 @@
 		<hash>899559e002b683988ed412bfac4488e7</hash>
 	</machine>
 	
+	<machine name="Retail/Digimon Rumble Arena 2/Digimon Rumble Arena 2 (USA)">
+		<category></category>
+		<description>Digimon Rumble Arena 2 (USA)</description>
+		<disk name="Digimon Rumble Arena 2 (USA).chd" sha1="d416b77e0e953c904da17e75db9fffacc84066cb"/>
+		<url>https://retroachievements.org/game/21436/hashes</url>
+		<hash>b7fe218c08da2d7b4a2ac26c777e0e6e</hash>
+	</machine>
+	<machine name="Retail/Digimon Rumble Arena 2/Digimon Rumble Arena 2 (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Digimon Rumble Arena 2 (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="Digimon Rumble Arena 2 (Europe) (En,Fr,De,Es,It).chd" sha1="f00a9c5760e5c1c7cb220a69f15c40a9ffcd4c78"/>
+		<url>https://retroachievements.org/game/21436/hashes</url>
+		<hash>d80b03fcf2ab80f82023a6627d1df773</hash>
+	</machine>
+	<machine name="Retail/Digimon Rumble Arena 2/Digimon Battle Chronicle (Japan)">
+		<category></category>
+		<description>Digimon Battle Chronicle (Japan)</description>
+		<disk name="Digimon Battle Chronicle (Japan).chd" sha1="b64faa0448696eddd33fdd6e0056385a67e0fa05"/>
+		<url>https://retroachievements.org/game/21436/hashes</url>
+		<hash>c25aeaa6ab6c9dee32a2549d49619bfa</hash>
+	</machine>
+	<machine name="Retail/Digimon Rumble Arena 2/Digimon Battle Chronicle (Korea)">
+		<category></category>
+		<description>Digimon Battle Chronicle (Korea)</description>
+		<disk name="Digimon Battle Chronicle (Korea).chd" sha1="2675c86e7e3c5d1e98bc1441f6c4501b354682fb"/>
+		<url>https://retroachievements.org/game/21436/hashes</url>
+		<hash>7bd46fb71cf33539e020f607c870f2a2</hash>
+	</machine>
+	
 	<machine name="Retail/Digimon World - Data Squad (USA)">
 		<category></category>
 		<description>Digimon World - Data Squad (USA)</description>
@@ -1787,6 +1824,14 @@
 		<disk name="Disaster Report (USA) (Text Depth Fix + Anti-Blur) (v1.00) (Souzooka).chd" sha1="7d0622c01253ff14873302355869b20036febc0b"/>
 		<url>https://retroachievements.org/game/2663/hashes</url>
 		<hash>87c0205440f3c1031c71e63ff27c367f</hash>
+	</machine>
+	
+	<machine name="Retail/Disgaea - Hour of Darkness (USA)">
+		<category></category>
+		<description>Disgaea - Hour of Darkness (USA)</description>
+		<disk name="Disgaea - Hour of Darkness (USA).chd" sha1="e782695ee3de8c9373c4c3b8e8697d97474b4543"/>
+		<url>https://retroachievements.org/game/3123/hashes</url>
+		<hash>81833935f7c897774e4f43e35db59ed1</hash>
 	</machine>
 	
 	<machine name="Retail/Disney Sing It - Party Hits (Europe, Australia) (En,De,Es)">
@@ -4722,6 +4767,14 @@
 		<hash>cb41d9fc2e2a206bf6a0684700ba0a0a</hash>
 	</machine>
 	
+	<machine name="Retail/Need for Speed - ProStreet (USA)">
+		<category></category>
+		<description>Need for Speed - ProStreet (USA)</description>
+		<disk name="Need for Speed - ProStreet (USA).chd" sha1="eae59b9d48fab0c88a6f6c69debf8099d9088aea"/>
+		<url>https://retroachievements.org/game/2825/hashes</url>
+		<hash>3942d5584fb8194cb9f092177034c15c</hash>
+	</machine>
+	
 	<machine name="Retail/Need for Speed - Undercover (USA) (En,Fr,Es)">
 		<category></category>
 		<description>Need for Speed - Undercover (USA) (En,Fr,Es)</description>
@@ -4846,6 +4899,21 @@
 		<disk name="ObsCure - The Aftermath (USA) (En,Fr,Es).chd" sha1="c2ac25fc42845d7551dcbfdf6aec58840a707400"/>
 		<url>https://retroachievements.org/game/19267/hashes</url>
 		<hash>7f7f0cc393ea14c4cdf451db9c2c5ae4</hash>
+	</machine>
+	
+	<machine name="Retail/Odin Sphere/Odin Sphere (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Odin Sphere (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="Odin Sphere (Europe) (En,Fr,De,Es,It).chd" sha1="f79a0b82564365c9f28bb4cb94a1babfd1e0c113"/>
+		<url>https://retroachievements.org/game/2666/hashes</url>
+		<hash>15a30397e94a2e4e4bcdb8d8ccd22aa1</hash>
+	</machine>
+	<machine name="Retail/Odin Sphere/Odin Sphere (USA)">
+		<category></category>
+		<description>Odin Sphere (USA)</description>
+		<disk name="Odin Sphere (USA).chd" sha1="2a7f216e88c60376cd5d3767857462864967e132"/>
+		<url>https://retroachievements.org/game/2666/hashes</url>
+		<hash>c009009a60892d20caf75c0b26a7047b</hash>
 	</machine>
 	
 	<machine name="Retail/Okage - Shadow King (USA)">
@@ -5532,6 +5600,28 @@
 		<hash>335ad726f71252c54d6c129fadd9e429</hash>
 	</machine>
 	
+	<machine name="Retail/River King - A Wonderful Journey/River King - A Wonderful Journey (USA)">
+		<category></category>
+		<description>River King - A Wonderful Journey (USA)</description>
+		<disk name="River King - A Wonderful Journey (USA).chd" sha1="ea423b662b392a7ca59ec165ac229fff7298b9d1"/>
+		<url>https://retroachievements.org/game/24500/hashes</url>
+		<hash>773e90947db4bd136212806800720dc4</hash>
+	</machine>
+	<machine name="Retail/River King - A Wonderful Journey/Harvest Fishing (Europe)">
+		<category></category>
+		<description>Harvest Fishing (Europe)</description>
+		<disk name="Harvest Fishing (Europe).chd" sha1="a95ff8d60d82c64fbe436afbf1001c978558d0ce"/>
+		<url>https://retroachievements.org/game/24500/hashes</url>
+		<hash>6114f4fe587848151aea8269b3f10e83</hash>
+	</machine>
+	<machine name="Retail/River King - A Wonderful Journey/Kawa no Nushi Tsuri - Wonderful Journey (Japan)">
+		<category></category>
+		<description>Kawa no Nushi Tsuri - Wonderful Journey (Japan)</description>
+		<disk name="Kawa no Nushi Tsuri - Wonderful Journey (Japan).chd" sha1="4e46818289ccbd2314b0123c7fb7af44d6e27ff0"/>
+		<url>https://retroachievements.org/game/24500/hashes</url>
+		<hash>ce8ce8bf51cffdf606e0851b26879a19</hash>
+	</machine>
+	
 	<machine name="Retail/RoadKill/RoadKill (USA)">
 		<category></category>
 		<description>RoadKill (USA)</description>
@@ -5576,14 +5666,6 @@
 		<disk name="Rogue Galaxy (USA) (Widescreen).chd" sha1="58afbfc1066db1615413b2e480bbdc2750a02d6d"/>
 		<url>https://retroachievements.org/game/2671/hashes</url>
 		<hash>98fd0bc79b2d6202ac8253b6bb25b1b8</hash>
-	</machine>
-	
-	<machine name="Retail/Romancing SaGa (USA)">
-		<category></category>
-		<description>Romancing SaGa (USA)</description>
-		<disk name="Romancing SaGa (USA).chd" sha1="0179658515e2a87449b20290c29f768eaf0a209c"/>
-		<url>https://retroachievements.org/game/19066/hashes</url>
-		<hash>0700ea3d8173fc6160e939049639b743</hash>
 	</machine>
 	
 	<machine name="Retail/Nickelodeon Rugrats - Royal Ransom (USA)">
@@ -7062,6 +7144,21 @@
 		<hash>8741c79a24d04f9f38e27eb69b478e26</hash>
 	</machine>
 	
+	<machine name="Retail/Test Drive Unlimited/Test Drive Unlimited (USA)">
+		<category></category>
+		<description>Test Drive Unlimited (USA)</description>
+		<disk name="Test Drive Unlimited (USA).chd" sha1="438e9e77a9f2503314056401ed62a6f6eea75a08"/>
+		<url>https://retroachievements.org/game/21154/hashes</url>
+		<hash>a149afcd651b45e392f626ad18a3fba1</hash>
+	</machine>
+	<machine name="Retail/Test Drive Unlimited/Test Drive Unlimited (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Test Drive Unlimited (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="Test Drive Unlimited (Europe) (En,Fr,De,Es,It).chd" sha1="0348a7cd62840b233ad77f7f947f6bad6503ae97"/>
+		<url>https://retroachievements.org/game/21154/hashes</url>
+		<hash>3309dc23a536a1262074f8170606f927</hash>
+	</machine>
+	
 	<machine name="Retail/Test Drive - Eve of Destruction (USA)">
 		<category></category>
 		<description>Test Drive - Eve of Destruction (USA)</description>
@@ -7407,6 +7504,21 @@
 		<disk name="Herr der Ringe, Der - Die zwei Tuerme (Germany).chd" sha1="665550e1794e8b8ea2760d7b8e98b2b3f057fb25"/>
 		<url>https://retroachievements.org/game/19265/hashes</url>
 		<hash>c78b53f0e84c28f60a6ae9bfe34dc750</hash>
+	</machine>
+	
+	<machine name="Retail/Simple 2000 Series Vol. 105/Simple 2000 Series Vol. 105 - The Maid-fuku to Kikanjuu (Japan) (En) (v1.0) (Hilltop)">
+		<category></category>
+		<description>Simple 2000 Series Vol. 105 - The Maid-fuku to Kikanjuu (Japan) (En) (v1.0) (Hilltop)</description>
+		<disk name="Simple 2000 Series Vol. 105 - The Maid-fuku to Kikanjuu (Japan) (En) (v1.0) (Hilltop).chd" sha1="9e347bde71d628a767f1d099f37aaf1c476720c2"/>
+		<url>https://retroachievements.org/game/21508/hashes</url>
+		<hash>a9c027e3a7729094c29a6a58c113c4e8</hash>
+	</machine>
+	<machine name="Retail/Simple 2000 Series Vol. 105/Simple 2000 Series Vol. 105 - The Maid-fuku to Kikanjuu (Japan)">
+		<category></category>
+		<description>Simple 2000 Series Vol. 105 - The Maid-fuku to Kikanjuu (Japan)</description>
+		<disk name="Simple 2000 Series Vol. 105 - The Maid-fuku to Kikanjuu (Japan).chd" sha1="0348a7cd62840b233ad77f7f947f6bad6503ae97"/>
+		<url>https://retroachievements.org/game/21508/hashes</url>
+		<hash>498f414410c15a50ee58b0e8d59196af</hash>
 	</machine>
 	
 	<machine name="Retail/Simple 2000 Series Vol. 116 - The Neko-mura no Hitobito - Pug Daikan no Akugyou Zanmai (Japan)">

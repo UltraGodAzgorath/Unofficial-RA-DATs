@@ -5,8 +5,8 @@
 		<name>RA - Sony PlayStation</name>
 		<description>Sony PlayStation</description>
 		<category>Subfolders</category>
-		<version>20251026</version>
-		<date>26 October 2025</date>
+		<version>20251116</version>
+		<date>16 November 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -609,7 +609,7 @@
 		<hash>49f712c75256b40d0e4a6dd2b6575724</hash>
 	</machine>
 	
-	<machine name="Retail/Aconcagua (Japan)">
+	<machine name="Retail/Aconcagua/Aconcagua (Japan)">
 		<category></category>
 		<description>Aconcagua (Japan)</description>
 		<rom name="Aconcagua (Japan).m3u" crc="7743d13b" md5="1109d56c8d70bd5c731cba128ed2af78" sha1="491c253aa6cf946092be4e2c49f5b5d66323d5d4"/>
@@ -618,6 +618,26 @@
 		<url>https://retroachievements.org/game/18683/hashes</url>
 		<hash>f4f563af762721662f3c245c7af5abc5</hash>
 		<hash>c3704fa39fb0e54dbf4cda855301b10b</hash>
+	</machine>
+	<machine name="Retail/Aconcagua/Aconcagua (Japan) (En) (v1.0) (Hilltop)">
+		<category></category>
+		<description>Aconcagua (Japan) (En) (v1.0) (Hilltop)</description>
+		<rom name="Aconcagua (Japan) (En) (v1.0) (Hilltop).m3u" size="106" crc="ea88e998" md5="9b0c93c473746221f12a027530cc830c" sha1="b2a38fa3176704ac08aec4bd725083f41580dbf2"/>
+		<disk name="Aconcagua (Japan) (En) (v1.0) (Hilltop) (Disc 1).chd" sha1="a4885da0233d89cb7acc6299292d7ce01a8239fb"/>
+		<disk name="Aconcagua (Japan) (En) (v1.0) (Hilltop) (Disc 2).chd" sha1="40607d672d6dbf4964f58310ff466ae7b679b899"/>
+		<url>https://retroachievements.org/game/18683/hashes</url>
+		<hash>03ac35e289a250843c3a333b43cca4e3</hash>
+		<hash>705bf40ce78c3406815d349d78d8a53f</hash>
+	</machine>
+	<machine name="Retail/Aconcagua/Aconcagua (Japan) (Es) (v1.1) (Mr. Nobody)">
+		<category></category>
+		<description>Aconcagua (Japan) (Es) (v1.1) (Mr. Nobody)</description>
+		<rom name="Aconcagua (Japan) (Es) (v1.1) (Mr. Nobody).m3u" size="112" crc="a6992441" md5="c8f99ed464c518e438abd2fc71896088" sha1="10af069ce3196f2112f2651f95e8456030e04809"/>
+		<disk name="Aconcagua (Japan) (Es) (v1.1) (Mr. Nobody) (Disc 1).chd" sha1="628fd44aace40d9b265b9d5f783b52c19cb3a263"/>
+		<disk name="Aconcagua (Japan) (Es) (v1.1) (Mr. Nobody) (Disc 2).chd" sha1="329d0d82719348896a6af1e871a75f6f2db42d90"/>
+		<url>https://retroachievements.org/game/18683/hashes</url>
+		<hash>66eb17b571dad4a7c6711b040e20a76a</hash>
+		<hash>20f9ddea723a92c9627c4f318556840e</hash>
 	</machine>
 	
 	<machine name="Retail/Action Man - Operation Extreme (USA)">
@@ -919,6 +939,14 @@
 		<disk name="Army Men - Air Attack (USA).chd" sha1="b23378885fa3a0f0fcb958474d94a0aed7dbdf42"/>
 		<url>https://retroachievements.org/game/3982/hashes</url>
 		<hash>ddd79eba340be44502953c0b4d6e7611</hash>
+	</machine>
+	
+	<machine name="Retail/Asterix - Mega Madness (Europe) (En,Fr,De,Es,It,Nl)">
+		<category></category>
+		<description>Asterix - Mega Madness (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<disk name="Asterix - Mega Madness (Europe) (En,Fr,De,Es,It,Nl).chd" sha1="3fb4a73e3699f2e2a46825aedf51f4cdea990c92"/>
+		<url>https://retroachievements.org/game/18223/hashes</url>
+		<hash>f9a4d2704457f35ed7a84c5377a0a391</hash>
 	</machine>
 	
 	<machine name="Retail/Asterix/Asterix (Europe) (En,Fr,Nl) (Rev 1)">
@@ -2332,12 +2360,19 @@
 		<hash>13d1301bf01065b8cc584a4b42982de7</hash>
 	</machine>
 	
-	<machine name="Retail/Diver's Dream (Europe) (En,Fr,De)">
+	<machine name="Retail/Diver's Dream/Diver's Dream (Europe) (En,Fr,De)">
 		<category></category>
 		<description>Diver's Dream (Europe) (En,Fr,De)</description>
 		<disk name="Diver's Dream (Europe) (En,Fr,De).chd" sha1="3ce08a6eac00fbb2e07b00bb5e7a267ff783a5f0"/>
 		<url>https://retroachievements.org/game/15625/hashes</url>
 		<hash>eaf37e6964b19c2c7fd58703e209da37</hash>
+	</machine>
+	<machine name="Retail/Diver's Dream/Diver's Dream (Europe) (En,Fr,De) (60Hz Selector) (v1.0) (Paradox)">
+		<category></category>
+		<description>Diver's Dream (Europe) (En,Fr,De) (60Hz Selector) (v1.0) (Paradox)</description>
+		<disk name="Diver's Dream (Europe) (En,Fr,De) (60Hz Selector) (v1.0) (Paradox).chd" sha1="66fdbdf64335361123212105ee29367b3e7428b0"/>
+		<url>https://retroachievements.org/game/15625/hashes</url>
+		<hash>2077af29836760c007b815626045e64f</hash>
 	</machine>
 	
 	<machine name="Retail/Disney's Donald Duck - Goin' Quackers (USA)">
@@ -3531,6 +3566,14 @@
 		<hash>f68ef0bb04780bb045eb4eaabe20eaa1</hash>
 	</machine>
 	
+	<machine name="Retail/Iznogoud (Europe) (En,Fr,De,It,Nl)">
+		<category></category>
+		<description>Iznogoud (Europe) (En,Fr,De,It,Nl)</description>
+		<disk name="Iznogoud (Europe) (En,Fr,De,It,Nl).chd" sha1="52c46bb072ecfd7c90555021d023523393517d7e"/>
+		<url>https://retroachievements.org/game/20096/hashes</url>
+		<hash>8e1fe2a3a393e9fc4836897089526a41</hash>
+	</machine>
+	
 	<machine name="Retail/Jackie Chan Stuntmaster (USA)">
 		<category></category>
 		<description>Jackie Chan Stuntmaster (USA)</description>
@@ -4091,6 +4134,14 @@
 		<disk name="Mary-Kate and Ashley - Crush Course (USA).chd" sha1="c4259ab7de890a21bc686ca82f968739d527e9b4"/>
 		<url>https://retroachievements.org/game/11157/hashes</url>
 		<hash>80aa26d71e1e79f7bf9299aa7597d50a</hash>
+	</machine>
+	
+	<machine name="Retail/Mary-Kate and Ashley - Magical Mystery Mall (USA)">
+		<category></category>
+		<description>Mary-Kate and Ashley - Magical Mystery Mall (USA)</description>
+		<disk name="Mary-Kate and Ashley - Magical Mystery Mall (USA).chd" sha1="5c18c5912fef8e564daf01775179271d2804768d"/>
+		<url>https://retroachievements.org/game/17341/hashes</url>
+		<hash>8efcf88e7bb07f1bd9d9dec69ecf8639</hash>
 	</machine>
 	
 	<machine name="Retail/MDK/MDK (USA)">
@@ -6051,14 +6102,6 @@
 		<hash>3757446364dcdff18ae30a5103897ae0</hash>
 	</machine>
 	
-	<machine name="Retail/Iznogoud (Europe) (En,Fr,De,It,Nl)">
-		<category></category>
-		<description>Iznogoud (Europe) (En,Fr,De,It,Nl)</description>
-		<disk name="Iznogoud (Europe) (En,Fr,De,It,Nl).chd" sha1="52c46bb072ecfd7c90555021d023523393517d7e"/>
-		<url>https://retroachievements.org/game/20096/hashes</url>
-		<hash>8e1fe2a3a393e9fc4836897089526a41</hash>
-	</machine>
-	
 	<machine name="Retail/Sabrina the Teenage Witch - A Twitch in Time! (USA)">
 		<category></category>
 		<description>Sabrina the Teenage Witch - A Twitch in Time! (USA)</description>
@@ -6478,22 +6521,29 @@
 		<hash>faf14c9f3d9dbcde6d97452d306d848c</hash>
 	</machine>
 	
-	<machine name="Retail/Spyro the Dragon (USA)">
+	<machine name="Retail/Spyro the Dragon (USA)/Spyro the Dragon (USA)">
 		<category></category>
 		<description>Spyro the Dragon (USA)</description>
 		<disk name="Spyro the Dragon (USA).chd" sha1="1a861139d485f7fcfc3cfd839a4db5bdd95267f9"/>
 		<url>https://retroachievements.org/game/11279/hashes</url>
 		<hash>3e9eb765a7b2912e60c30f363f0a3574</hash>
 	</machine>
+	<machine name="Retail/Spyro the Dragon (USA)/Spyro the Dragon (USA) (Ru) (v1.1.2) (SteelDragon)">
+		<category></category>
+		<description>Spyro the Dragon (USA) (Ru) (v1.1.2) (SteelDragon)</description>
+		<disk name="Spyro the Dragon (USA) (Ru) (v1.1.2) (SteelDragon).chd" sha1="1a861139d485f7fcfc3cfd839a4db5bdd95267f9"/>
+		<url>https://retroachievements.org/game/11279/hashes</url>
+		<hash>314564a0f6643d951b5c09a0c474c824</hash>
+	</machine>
 	
-	<machine name="Retail/Spyro the Dragon (Japan)">
+	<machine name="Retail/Spyro the Dragon (Japan)/Spyro the Dragon (Japan)">
 		<category></category>
 		<description>Spyro the Dragon (Japan)</description>
 		<disk name="Spyro the Dragon (Japan).chd" sha1="fc8ddb67fc3e8de93ec25e0e04dd805d3df6c542"/>
 		<url>https://retroachievements.org/game/6800/hashes</url>
 		<hash>22ea62a64743559272479a3c4b99b2b1</hash>
 	</machine>
-	<machine name="Retail/Spyro the Dragon (Japan, Asia) (Shokai Genteiban)">
+	<machine name="Retail/Spyro the Dragon (Japan)/Spyro the Dragon (Japan, Asia) (Shokai Genteiban)">
 		<category></category>
 		<description>Spyro the Dragon (Japan, Asia) (Shokai Genteiban)</description>
 		<disk name="Spyro the Dragon (Japan, Asia) (Shokai Genteiban).chd" sha1="f83e7aeedf25fcd59c81b12ab2ac1d23d0dba3a3"/>
@@ -7193,6 +7243,14 @@
 		<disk name="Tetris Plus (USA).chd" sha1="26f26fc78fb2c507c9a72fdcdc2ed1910dcbc039"/>
 		<url>https://retroachievements.org/game/3145/hashes</url>
 		<hash>f1351e7e4bd0f9ee2c921826e2107a91</hash>
+	</machine>
+	
+	<machine name="Retail/Tetris with Cardcaptor Sakura - Eternal Heart (Japan)">
+		<category></category>
+		<description>Tetris with Cardcaptor Sakura - Eternal Heart (Japan)</description>
+		<disk name="Tetris with Cardcaptor Sakura - Eternal Heart (Japan).chd" sha1="37c13a0b4f68531c1bd3c74d90dbf091ca82c66f"/>
+		<url>https://retroachievements.org/game/18682/hashes</url>
+		<hash>40a445138cfb3d3e2aa4af0c8c1da3dc</hash>
 	</machine>
 	
 	<machine name="Retail/Tetsuya Komuro - Gaball Screen (Japan)">

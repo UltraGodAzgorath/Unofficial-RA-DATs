@@ -5,8 +5,8 @@
 		<name>RA - WASM-4</name>
 		<description>WASM-4</description>
 		<category>Subfolders</category>
-		<version>20250913</version>
-		<date>13 September 2025</date>
+		<version>20251116</version>
+		<date>16 November 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/72/games</url>
@@ -43,6 +43,14 @@
 		<rom name="Break-It (World) (v1.0) (douglett).wasm" size="7218" crc="93f39c3c" md5="274aff5236b7c26241e370c4798b5f04" sha1="9ad62d35d12e261510e21e9ecf48405cbc5b3970"/>
 		<url>https://retroachievements.org/game/24476/hashes</url>
 		<hash>274aff5236b7c26241e370c4798b5f04</hash>
+	</game>
+	
+	<game name="Retail/Comic-Sans (World) (Eduardo Minholi, Nuno Abilio)">
+		<category></category>
+		<description>Comic-Sans (World) (Eduardo Minholi, Nuno Abilio)</description>
+		<rom name="Comic-Sans (World) (Eduardo Minholi, Nuno Abilio).wasm" size="33084" crc="647138d7" md5="a15d84ac06f9f1bbbb44b8b72ad7e8f3" sha1="9b2a4f3792e67f1968db0f3feb05073eb2cfd1c0"/>
+		<url>https://retroachievements.org/game/35649/hashes</url>
+		<hash>a15d84ac06f9f1bbbb44b8b72ad7e8f3</hash>
 	</game>
 	
 	<game name="Retail/Dashy Dango (World) (samX500)">

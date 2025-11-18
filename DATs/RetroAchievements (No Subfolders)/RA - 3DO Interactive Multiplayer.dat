@@ -5,8 +5,8 @@
 		<name>RA - 3DO Interactive Multiplayer</name>
 		<description>3DO Interactive Multiplayer</description>
 		<category>No Subfolders</category>
-		<version>20251026</version>
-		<date>26 October 2025</date>
+		<version>20251116</version>
+		<date>16 November 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/43/games</url>
@@ -181,6 +181,14 @@
 		<disk name="Pretty Soldier SailorMoon S (Japan).chd" sha1="06054a2a31eb20e488c4c9fbf933d29650aa8244"/>
 		<url>https://retroachievements.org/game/16406/hashes</url>
 		<hash>01293a81ca1a0ee3cda2d5f398e403e4</hash>
+	</machine>
+
+	<machine name="Putt-Putt Goes to the Moon (USA)">
+		<category>Retail</category>
+		<description>Putt-Putt Goes to the Moon (USA)</description>
+		<disk name="Putt-Putt Goes to the Moon (USA).chd" sha1="3b8c4cdc197c784582d5ab7d83c70af6708baca7"/>
+		<url>https://retroachievements.org/game/16410/hashes</url>
+		<hash>43def02afa11f26ffea31c45307020be</hash>
 	</machine>
 
 	<machine name="Rise of the Robots (USA)">

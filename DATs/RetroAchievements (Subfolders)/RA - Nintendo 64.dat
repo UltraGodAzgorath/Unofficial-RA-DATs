@@ -5,8 +5,8 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>Subfolders</category>
-		<version>20251026</version>
-		<date>26 October 2025</date>
+		<version>20251116</version>
+		<date>16 November 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/2/games</url>
@@ -503,12 +503,12 @@
 		<hash>c9d69098b19859ac462c4a86bb06b242</hash>
 	</game>
 	
-	<game name="Hack/Super Mario 64/SM64 - Corroded Charklet City (v1.0.5) (IcySkid) (Hack)">
+	<game name="Hack/Super Mario 64/SM64 - lanayxy's landscapes (v1.0) (lanayxy) (Hack)">
 		<category>Nintendo 64</category>
-		<description>SM64 - Corroded Charklet City (v1.0.5) (IcySkid) (Hack)</description>
-		<rom name="SM64 - Corroded Charklet City (v1.0.5) (IcySkid) (Hack).z64" size="67108864" crc="0feaf25d" md5="e0adbc55499e221247a464af1537e64d" sha1="6fb9f5f307298978bea8de91d17aae6ec74d04ac"/>
+		<description>SM64 - lanayxy's landscapes (v1.0) (lanayxy) (Hack)</description>
+		<rom name="SM64 - lanayxy's landscapes (v1.0) (lanayxy) (Hack).z64" size="117470468" crc="4740465a" md5="13d75aaa9085b8c4a36829fda6b38f85" sha1="a8543b8200f3045c74cad29e311e052651c73f2c"/>
 		<url>https://retroachievements.org/game/22051/hashes</url>
-		<hash>e0adbc55499e221247a464af1537e64d</hash>
+		<hash>5b2b61510edd902f200101ff4ca410e4</hash>
 	</game>
 	
 	<game name="Hack/Super Mario 64/SM64 - Lego Mario 64 (Kaze) (Hack)">
@@ -656,14 +656,6 @@
 		<rom name="SM64 - Mario in the Multiverse (v1.1.1) (rovertronic) (Hack).z64" size="39407888" crc="faba1df4" md5="ad15b036ad90c8f86b57cca0b383f972" sha1="3e79fb109c5d3f890475b5698e2561c15e342bd1"/>
 		<url>https://retroachievements.org/game/32649/hashes</url>
 		<hash>ad15b036ad90c8f86b57cca0b383f972</hash>
-	</game>
-	
-	<game name="Hack/Mario Kart 64/MK64 - Amped Up (v2.1) (Litronom) (Hack)">
-		<category>Nintendo 64</category>
-		<description>MK64 - Amped Up (v2.1) (Litronom) (Hack)</description>
-		<rom name="MK64 - Amped Up (v2.1) (Litronom) (Hack).z64" size="16777216" crc="e6ffce7f" md5="48551a360ac3fc5527cee51a7092cb7a" sha1="0c2106b55ebd66da5d0fdc71ec3e87cef219a9e9"/>
-		<url>https://retroachievements.org/game/17439/hashes</url>
-		<hash>48551a360ac3fc5527cee51a7092cb7a</hash>
 	</game>
 	
 	<game name="Hack/Super Mario 64/SM64 - Mario on Indigo Island (Hard) (v1.3c) (usernamesarentimportant) (Hack)">
@@ -2325,6 +2317,14 @@
 		<rom name="SM64 - Rocky Mountain Revisited (v1.0) (DavidHolandaOne) (Hack).z64" size="67108864" crc="9f53bab2" md5="94ddc73d312b9eab80521a207d6d78de" sha1="e6cc7c7cd1fb3099a051e4d786b0bd0b8f601bed"/>
 		<url>https://retroachievements.org/game/24173/hashes</url>
 		<hash>94ddc73d312b9eab80521a207d6d78de</hash>
+	</game>
+	
+	<game name="Hack/Super Mario 64/SM64 - Sm64Kitty's Kaizo Hack (v1.1) (Katx) (Hack)">
+		<category>Nintendo 64</category>
+		<description>SM64 - Sm64Kitty's Kaizo Hack (v1.1) (Katx) (Hack)</description>
+		<rom name="SM64 - Sm64Kitty's Kaizo Hack (v1.1) (Katx) (Hack).z64" size="67108864" crc="aef16ffb" md5="b2c9f2588078a5fcb7d9edfde1de5258" sha1="25aa5820d99fb92dcbbea62ae8dc83f7907c3cc0"/>
+		<url>https://retroachievements.org/game/36259/hashes</url>
+		<hash>b2c9f2588078a5fcb7d9edfde1de5258</hash>
 	</game>
 	
 	<game name="Hack/Super Smash Bros/SMB - Smash Remix (v2.0.0) (Smash Remix Team) (Hack)">
@@ -4379,13 +4379,6 @@
 		<hash>56bcdfc8f0b41bf60e6a54bc60144251</hash>
 	</game>
 	
-	<game name="Retail/Donkey Kong 64 (Tag Anywhere) (v5.0) (Isotarge)" clonof="Donkey Kong 64 (USA)">
-		<category>Nintendo 64</category>
-		<description>Donkey Kong 64 (Tag Anywhere) (v5.0) (Isotarge)</description>
-		<rom name="Donkey Kong 64 (Tag Anywhere) (v5.0) (Isotarge).z64" size="33872544" crc="5fa38501" md5="11da2a2d0e91074bb8ff1fcb029535fd" sha1="d9e5089b172e30216aff0be1427d670d2c28d509"/>
-		<url>https://retroachievements.org/game/10075/hashes</url>
-		<hash>11da2a2d0e91074bb8ff1fcb029535fd</hash>
-	</game>
 	<game name="Retail/Donkey Kong 64 (USA)">
 		<category>Nintendo 64</category>
 		<description>Donkey Kong 64 (USA)</description>

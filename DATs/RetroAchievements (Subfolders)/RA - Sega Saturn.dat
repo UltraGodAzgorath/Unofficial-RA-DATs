@@ -5,8 +5,8 @@
 		<name>RA - Sega Saturn</name>
 		<description>Sega Saturn</description>
 		<category>Subfolders</category>
-		<version>20251026</version>
-		<date>26 October 2025</date>
+		<version>20251116</version>
+		<date>16 November 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/39/games</url>
@@ -165,6 +165,14 @@
 		<disk name="Baroque (Japan).chd" sha1="bb6e5b1b55b7781e1d338f1995f8fd0ccb88478b"/>
 		<url>https://retroachievements.org/game/14534/hashes</url>
 		<hash>9a61a47419b731e3d867da69be3b33e2</hash>
+	</machine>
+	
+	<machine name="Retail/Battle Monsters (USA)">
+		<category></category>
+		<description>Battle Monsters (USA)</description>
+		<disk name="Battle Monsters (USA).chd" sha1="ea6ae1cb7a6887a8aa129c26e3b4eca64534d74d"/>
+		<url>https://retroachievements.org/game/14580/hashes</url>
+		<hash>1bf9745f0092fdf7f8cad3f75081f121</hash>
 	</machine>
 	
 	<machine name="Retail/Bishoujo Senshi Sailor Moon SuperS - Various Emotion (Japan)">
@@ -448,6 +456,14 @@
 		<hash>4de2151a6ce927a4a021a354d698df07</hash>
 	</machine>
 	
+	<machine name="Retail/Digital Dance Mix Vol. 1 - Namie Amuro (Japan) (Rev A) (10M, 12M)">
+		<category></category>
+		<description>Digital Dance Mix Vol. 1 - Namie Amuro (Japan) (Rev A) (10M, 12M)</description>
+		<disk name="Digital Dance Mix Vol. 1 - Namie Amuro (Japan) (Rev A) (10M, 12M).chd" sha1="d5462a06a352ffad552da27ecdff9570b0e05b89"/>
+		<url>https://retroachievements.org/game/32864/hashes</url>
+		<hash>c56b0225b9ceb2bb845cfb6bd8d90837</hash>
+	</machine>
+	
 	<machine name="Retail/Digital Monster Ver. S - Digimon Tamers (Japan)">
 		<category></category>
 		<description>Digital Monster Ver. S - Digimon Tamers (Japan)</description>
@@ -486,6 +502,14 @@
 		<disk name="Dragon Force (USA).chd" sha1="264aea465e4775b806afcced3a7fbc333750db70"/>
 		<url>https://retroachievements.org/game/14512/hashes</url>
 		<hash>acb9d7194d31fb2ea6967fce3558efe1</hash>
+	</machine>
+	
+	<machine name="Retail/Dream Square - Hinagata Akiko (Japan) (2M)">
+		<category></category>
+		<description>Dragon Force (USA)</description>
+		<disk name="Dream Square - Hinagata Akiko (Japan) (2M).chd" sha1="d48f4a8547018490f301d9f69b30251d7c7b115f"/>
+		<url>https://retroachievements.org/game/35835/hashes</url>
+		<hash>88a6b0747ebaec675654081b97d09ee6</hash>
 	</machine>
 	
 	<machine name="Retail/Duke Nukem 3D (USA)">
@@ -1018,7 +1042,31 @@
 		<description>Princess Crown (Japan) (En) (v1.1b2) (eadmaster)</description>
 		<disk name="Princess Crown (Japan) (En) (v1.1b2) (eadmaster).chd" sha1="9fb491913edf8582bb1665c2caf0d2c40b60cc50"/>
 		<url>https://retroachievements.org/game/14543/hashes</url>
-		<hash>same as Princess Crown (Japan) (Rev A) (11M)</hash>
+		<hash>cd01172cbe80ecfb3709ce880a28806b</hash>
+	</machine>
+	
+	<machine name="Retail/Private Idol Disc Vol. 1 - Yuu Kinoshita (Japan)">
+		<category></category>
+		<description>Private Idol Disc Vol. 1 - Yuu Kinoshita (Japan)</description>
+		<disk name="Private Idol Disc Vol. 1 - Yuu Kinoshita (Japan).chd" sha1="7ee5c562fdc2e9b2f0cac3cfc66c8dd31bfdd137"/>
+		<url>https://retroachievements.org/game/35916/hashes</url>
+		<hash>d721146d446fc15df1d817fd22332446</hash>
+	</machine>
+	
+	<machine name="Retail/Private Idol Disc Vol. 2 - Miki Uchiyama (Japan)">
+		<category></category>
+		<description>Private Idol Disc Vol. 2 - Miki Uchiyama (Japan)</description>
+		<disk name="Private Idol Disc Vol. 2 - Miki Uchiyama (Japan).chd" sha1="e72eee60dbaab297c3e91007fe468f64bb2ae54e"/>
+		<url>https://retroachievements.org/game/36087/hashes</url>
+		<hash>a05649bb93b24f8596b7075228481024</hash>
+	</machine>
+	
+	<machine name="Retail/Private Idol Disc Vol. 3 - Akemi Ooshima (Japan) (2M)">
+		<category></category>
+		<description>Private Idol Disc Vol. 3 - Akemi Ooshima (Japan) (2M)</description>
+		<disk name="Private Idol Disc Vol. 3 - Akemi Ooshima (Japan) (2M).chd" sha1="1ef9b5f118a28cf6abd6447ae38245c2aff8607b"/>
+		<url>https://retroachievements.org/game/36094/hashes</url>
+		<hash>ab9ec49bedc2dfb675a8a8ca901f8366</hash>
 	</machine>
 	
 	<machine name="Retail/Quake/Quake (Europe)">

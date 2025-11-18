@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>No Subfolders</category>
-		<version>20251018</version>
-		<date>18 October 2025</date>
+		<version>20251116</version>
+		<date>16 November 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/7/games</url>
@@ -7784,6 +7784,15 @@
 		<hash>4fa6ed34ab28b7a8b535a5fa7727c8f7</hash>
 	</game>
 	
+	<game name="Final Fantasy (Subset - Low Level Game)">
+		<category>Subset</category>
+		<description>Final Fantasy (Subset - Low Level Game)</description>
+		<release name="Final Fantasy (Subset - Low Level Game)" region="World"/>
+		<rom name="Final Fantasy (Subset - Low Level Game).nes" size="262160" crc="f7aabbc5" md5="2e6c5dde72dc7f84a2d684a6555c4c85" sha1="339c50e91253f3f484a907e1b98eef80a31b5ad9"/>
+		<url>https://retroachievements.org/game/35592/hashes</url>1
+		<hash>9279b3a2d2f6c17b8d2160d82e621e36</hash>
+	</game>
+	
 	<game name="Final Fantasy (Subset - Solo Class)">
 		<category>Subset</category>
 		<description>Final Fantasy (Subset - Solo Class)</description>
@@ -15101,6 +15110,15 @@
 		<rom name="Legend of Zelda, The (USA) (Pt) (v1.0) (Hexagon).nes" size="131088" crc="a4c19846" md5="2e5e5e9b1c85e285be3fd1b69bcb0d53" sha1="818c8d2093314db84564d75d58235949329dcab9"/>
 		<url>https://retroachievements.org/game/1454/hashes</url>
 		<hash>fe7c05763a70e4f22965c939d3db73e4</hash>
+	</game>
+	
+	<game name="Legend of Zelda, The (Subset - Low%)">
+		<category>Subset</category>
+		<description>Legend of Zelda, The (Subset - Low%)</description>
+		<release name="Legend of Zelda, The (Subset - Low%)" region="World"/>
+		<rom name="Legend of Zelda, The (Subset - Low%).nes" size="131088" crc="ab4c4617" md5="eae3dfdedc50d7cbafac8f40dd26e7f7" sha1="20d22befc4041cb33661c5c3c60524492e8289b2"/>
+		<url>https://retroachievements.org/game/35912/hashes</url>
+		<hash>689eee6bb07bdca77ed7d1ebe90f26c3</hash>
 	</game>
 	
 	<game name="Lion King, The (Europe)">

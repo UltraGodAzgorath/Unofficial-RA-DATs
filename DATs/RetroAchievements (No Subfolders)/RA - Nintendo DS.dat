@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>No Subfolders</category>
-		<version>20251026</version>
-		<date>26 October 2025</date>
+		<version>20251116</version>
+		<date>16 November 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
@@ -423,6 +423,15 @@
 		<rom name="SM64DS - Shmucker Casino 2 - Purple Boog's Revenge (Gameguide) (Hack).nds" size="16777216" crc="a9323424" md5="7cf244437cb40c73b18b0cab9dfb471a" sha1="f95aadf576987fb4cd72d50be089c55a9ecf1050"/>
 		<url>https://retroachievements.org/game/18583/hashes</url>
 		<hash>a6863bbd01a524f1d3730cde9a6ecd39</hash>
+	</game>
+	
+	<game name="SM64DS - Super Mario Halloween Madness (v1.0) (Cyboo) (Hack)">
+		<category>Hack</category>
+		<description>SM64DS - Super Mario Halloween Madness (v1.0) (Cyboo) (Hack)</description>
+		<release name="SM64DS - Super Mario Halloween Madness (v1.0) (Cyboo) (Hack)" region="World"/>
+		<rom name="SM64DS - Super Mario Halloween Madness (v1.0) (Cyboo) (Hack).nds" size="17126956" crc="c7437c51" md5="758e2385f30afc193a7ee2dc42b41359" sha1="fa83ba525b12d16b1f18e511bbf417a618b28cc8"/>
+		<url>https://retroachievements.org/game/35388/hashes</url>
+		<hash>066ae1bf8b0771c4a7cee37f2b609770</hash>
 	</game>
 	
 	<game name="SM64DS - The New Beginning (v1.6.4) (Unofficial Update by ICUP321) (Hack)" cloneof="SM64DS - The New Beginning (v1.6.5) (Unofficial Update by ICUP321) (Hack)">
@@ -1887,6 +1896,15 @@
 		<hash>676e7e797d860ccb14fca18d8bd0250f</hash>
 	</game>
 	
+	<game name="de Blob 2 (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)">
+		<category>Retail</category>
+		<description>de Blob 2 (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)</description>
+		<release name="de Blob 2 (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced)" region="Europe"/>
+		<rom name="de Blob 2 (Europe) (En,Fr,De,Es,It,Nl) (NDSi Enhanced).nds" size="67108864" crc="9b6fe140" md5="f7c8df17fb6b822e4c4118461d8cd18b" sha1="be1f88734ec613589e1289bb8b4fd50eba7fbfde"/>
+		<url>https://retroachievements.org/game/6347/hashes</url>
+		<hash>a203d4ccbfd1999139dd219d6ae59791</hash>
+	</game>
+	
 	<game name="Death Note - Kira Game (Japan)">
 		<category>Retail</category>
 		<description>Death Note - Kira Game (Japan)</description>
@@ -2069,6 +2087,15 @@
 		<rom name="Dora Puppy (USA).nds" size="8388608" crc="6931306e" md5="c0b55503044e8391ef6ff6c354869941" sha1="9602be2072a526893dd2037ccb764893d65a9a2b"/>
 		<url>https://retroachievements.org/game/26531/hashes</url>
 		<hash>751c0e3b4080f12a62bebb81e5f59c6d</hash>
+	</game>
+	
+	<game name="Dora's Cooking Club (Europe) (En,Fr,Es,Nl)">
+		<category>Retail</category>
+		<description>Dora's Cooking Club (Europe) (En,Fr,Es,Nl)</description>
+		<release name="Dora's Cooking Club (Europe) (En,Fr,Es,Nl)" region="Europe"/>
+		<rom name="Dora's Cooking Club (Europe) (En,Fr,Es,Nl).nds" size="16777216" crc="e9e0cb99" md5="c970e145725c711d6d825951072b58af" sha1="76ece238a752e1cb7ed779218e4143a60bc9c4d0"/>
+		<url>https://retroachievements.org/game/26535/hashes</url>
+		<hash>630aa1f348cb579db171e6a83d935e02</hash>
 	</game>
 	
 	<game name="Draglade (Europe) (En,Fr,De,Es,It)">
@@ -3540,6 +3567,15 @@
 		<hash>a3da5f6eba3abeb91f489a71c4ed1eaa</hash>
 	</game>
 	
+	<game name="Mega Man Star Force - Pegasus (USA)">
+		<category>Retail</category>
+		<description>Mega Man Star Force - Pegasus (USA)</description>
+		<release name="Mega Man Star Force - Pegasus (USA)" region="USA"/>
+		<rom name="Mega Man Star Force - Pegasus (USA).nds" size="33554432" crc="259e37a9" md5="90003490f16b99c4d0b761b15115492f" sha1="bea921ccb5f1c7ac3bd1fe4e2b2646dce4629bce"/>
+		<url>https://retroachievements.org/game/17894/hashes</url>
+		<hash>291898dbf4c54090a7de8d70cee2e9ea</hash>
+	</game>
+	
 	<game name="Mega Man Zero Collection (Europe)">
 		<category>Retail</category>
 		<description>Mega Man Zero Collection (Europe)</description>
@@ -3693,6 +3729,15 @@
 		<rom name="Mr Bean (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).nds" size="16777216" crc="e8f7a5cf" md5="42987fcb07087253faa70b584bccc158" sha1="7664d894695cd82566db407cc8c47ff1d118d26d"/>
 		<url>https://retroachievements.org/game/27827/hashes</url>
 		<hash>398c2cb11508fe6bc61f753febd720af</hash>
+	</game>
+	
+	<game name="My Chinese Coach - Learn to Speak Chinese (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>My Chinese Coach - Learn to Speak Chinese (Europe) (En,Fr,De,Es,It)</description>
+		<release name="My Chinese Coach - Learn to Speak Chinese (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="My Chinese Coach - Learn to Speak Chinese (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="dcc652a3" md5="ebf6226e7c3771d7b60cce30a9b0f53f" sha1="88569e673e5ef159c3848697527463d132d0ac87"/>
+		<url>https://retroachievements.org/game/14962/hashes</url>
+		<hash>850a18374845886980b148ea6e19c257</hash>
 	</game>
 	
 	<game name="My French Coach - Level 1 - Learn to Speak French (Europe)">
@@ -4341,6 +4386,15 @@
 		<hash>a7825c7d4f9ae72532297323bfeba902</hash>
 	</game>
 	
+	<game name="Pokemon - Black Version 2 (Subset - Monotype Challenge)">
+		<category>Subset</category>
+		<description>Pokemon - Black Version 2 (Subset - Monotype Challenge)</description>
+		<release name="Pokemon - Black Version 2 (Subset - Monotype Challenge)" region="World"/>
+		<rom name="Pokemon - Black Version 2 (Subset - Monotype Challenge).nds" size="536870912" crc="c512ece6" md5="65d5cd3b4790607fc5809f069598a308" sha1="6e5865412ce9d00dc1e5144d23e75d528c61e2e5"/>
+		<url>https://retroachievements.org/game/35112/hashes</url>
+		<hash>e3a74ebe23e0a2056552a8ffda95a0a6</hash>
+	</game>
+	
 	<game name="Pokemon Black Version 2 (Subset - Professor Oak Challenge)">
 		<category>Subset</category>
 		<description>Pokemon Black Version 2 (Subset - Professor Oak Challenge)</description>
@@ -4847,6 +4901,33 @@
 		<rom name="Pokemon Ranger (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="1658a03a" md5="b0ec51a7bcde716803697fa2a35ea8fd" sha1="d40e1e7bb451aaaf930b331eead5fca5e4a93050"/>
 		<url>https://retroachievements.org/game/16295/hashes</url>
 		<hash>a3d61a457ce077c4c5c16806349aae1b</hash>
+	</game>
+	
+	<game name="Pokemon Ranger - Guardian Signs (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Pokemon Ranger - Guardian Signs (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Pokemon Ranger - Guardian Signs (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="Pokemon Ranger - Guardian Signs (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="10df0e03" md5="73d61ccc128dceebbb7ee394fc0d664d" sha1="18cc346f32989e619b473d5d9de4a414cbf93b38"/>
+		<url>https://retroachievements.org/game/16163/hashes</url>
+		<hash>a3a696ab8d189c3be6676e4776c2a3db</hash>
+	</game>
+	
+	<game name="Pokemon Ranger - Guardian Signs (Subset - S Rank Boss Capture)">
+		<category>Subset</category>
+		<description>Pokemon Ranger - Guardian Signs (Subset - S Rank Boss Capture)"</description>
+		<release name="Pokemon Ranger - Guardian Signs (Subset - S Rank Boss Capture)" region="World"/>
+		<rom name="Pokemon Ranger - Guardian Signs (Subset - S Rank Boss Capture).nds" size="134217728" crc="a23ce2a8" md5="3232886808357db464e1d6c0f742d27b" sha1="860231082e27029fbcacccd35e5a56c8c66804ac"/>
+		<url>https://retroachievements.org/game/33067/hashes</url>
+		<hash>abb0bcb2af37da0a1bf71bd4bc4f088b</hash>
+	</game>
+	
+	<game name="Pokemon Ranger - Guardian Signs (Subset - Solo Past Missions)">
+		<category>Subset</category>
+		<description>Pokemon Ranger - Guardian Signs (Subset - Solo Past Missions)</description>
+		<release name="Pokemon Ranger - Guardian Signs (Subset - Solo Past Missions)" region="World"/>
+		<rom name="Pokemon Ranger - Guardian Signs (Subset - Solo Past Missions).nds" size="134217728" crc="0208aeee" md5="cf79a8ceed0215201135f6d4fbc4d579" sha1="4bf89553a0767cca3915aa947085e16f0ddff8e9"/>
+		<url>https://retroachievements.org/game/33066/hashes</url>
+		<hash>73e7e8a6e0824f68e18f4e393ab73f14</hash>
 	</game>
 	
 	<game name="Pokemon Ranger - Shadows of Almia (Europe) (En,Fr,De,Es,It)">
@@ -6221,6 +6302,15 @@
 		<rom name="Tales of Innocence (Subset - Library Completion).nds" size="134217728" crc="ad29b034" md5="0361dccf9ca8d0904e901518e0663d65" sha1="69c5a987b6b59fc9822205ac7556007e0e9c5222"/>
 		<url>https://retroachievements.org/game/31308/hashes</url>
 		<hash>26e2080e1959e138bfca1e2f3e8f4849</hash>
+	</game>
+	
+	<game name="Tangled (Europe) (En,Fr,De,Es,It,Nl)">
+		<category>Retail</category>
+		<description>Tangled (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<release name="Tangled (Europe) (En,Fr,De,Es,It,Nl)" region="World"/>
+		<rom name="Tangled (Europe) (En,Fr,De,Es,It,Nl).nds" size="67108864" crc="7390970a" md5="20a0c680282aa77bb737385b66478977" sha1="d1251e14814e05c175757a27441865618b535d4a"/>
+		<url>https://retroachievements.org/game/26444/hashes</url>
+		<hash>a0ad84599bdaad4fcd085e16c31cca07</hash>
 	</game>
 	
 	<game name="Tangram Mania (Europe) (En,Fr,De,Es,It)">

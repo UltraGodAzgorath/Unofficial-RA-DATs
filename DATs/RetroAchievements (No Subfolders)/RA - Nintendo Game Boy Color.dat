@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Color</name>
 		<description>Nintendo Game Boy Color</description>
 		<category>No Subfolders</category>
-		<version>20251026</version>
-		<date>26 October 2025</date>
+		<version>20251116</version>
+		<date>16 November 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/6/games</url>
@@ -311,6 +311,15 @@
 		<rom name="BULB! (World) (v2.5) (Digital) (Aftermarket).gbc" size="524288" crc="650114a2" md5="5ec1bf9b053b191634c3d32638878132" sha1="0c32d4b48a34614fb11fc69c17187d35ee22fabe"/>
 		<url>https://retroachievements.org/game/19793/hashes</url>
 		<hash>5ec1bf9b053b191634c3d32638878132</hash>
+	</game>
+	
+	<game name="Cardinal Island (World) (v1.1) (Aftermarket) (Vivian Video)">
+		<category>Homebrew</category>
+		<description>Cardinal Island (World) (v1.1) (Aftermarket) (Vivian Video)</description>
+		<release name="Cardinal Island (World) (v1.1) (Aftermarket) (Vivian Video)" region="World"/>
+		<rom name="Cardinal Island (World) (v1.1) (Aftermarket) (Vivian Video).gbc" size="2097152" crc="d0b4bdc1" md5="0144019e6a624ab7e9483fdf9cb0601f" sha1="8cfbd7768801ad0b573597c2dcfdf036b0ae8465"/>
+		<url>https://retroachievements.org/game/35915/hashes</url>
+		<hash>0144019e6a624ab7e9483fdf9cb0601f</hash>
 	</game>
 	
 	<game name="Castlevania - Circle of the Moon - GBC Edition (World) (v2.0) (Aftermarket)">
@@ -3769,6 +3778,45 @@
 		<hash>4272d192cf2b14db93f1e2d1bc07aa74</hash>
 	</game>
 	
+	<game name="Star Ocean - Blue Sphere (Japan) (SGB Enhanced) (GB Compatible)">
+		<category>Retail</category>
+		<description>Star Ocean - Blue Sphere (Japan) (SGB Enhanced) (GB Compatible)</description>
+		<release name="Star Ocean - Blue Sphere (Japan) (SGB Enhanced) (GB Compatible)" region="Japan"/>
+		<rom name="Star Ocean - Blue Sphere (Japan) (SGB Enhanced) (GB Compatible).gbc" size="4194304" crc="8c7ddbda" md5="820e0a19275fabc03fe619c42db47179" sha1="3d07ae53ba21eda4923bf4da6c938e2a407c990c"/>
+		<url>https://retroachievements.org/game/5228/hashes</url>
+		<hash>820e0a19275fabc03fe619c42db47179</hash>
+	</game>
+	<game name="Star Ocean - Blue Sphere (Japan) (En) (v1.0) (mz)" cloneof="Star Ocean - Blue Sphere (Japan) (SGB Enhanced) (GB Compatible)">
+		<category>Retail</category>
+		<description>Star Ocean - Blue Sphere (Japan) (En) (v1.0) (mz)</description>
+		<release name="Star Ocean - Blue Sphere (Japan) (En) (v1.0) (mz)" region="English"/>
+		<rom name="Star Ocean - Blue Sphere (Japan) (En) (v1.0) (mz).gbc" size="4194304" crc="c459ff56" md5="e1ed3ef70534299d4f1be45eb1b9b360" sha1="e24c24812cb7ca5af0dfdd11dcbec82a0459c433"/>
+		<url>https://retroachievements.org/game/5228/hashes</url>
+		<hash>e1ed3ef70534299d4f1be45eb1b9b360</hash>
+	</game>
+	<game name="Star Ocean - Blue Sphere (Japan) (En) (v1.0a) (4l3j4ndr0)" cloneof="Star Ocean - Blue Sphere (Japan) (SGB Enhanced) (GB Compatible)">
+		<category>Retail</category>
+		<description>Star Ocean - Blue Sphere (Japan) (En) (v1.0a) (4l3j4ndr0)</description>
+		<rom name="Star Ocean - Blue Sphere (Japan) (En) (v1.0a) (4l3j4ndr0).gbc" size="4194304" crc="19d2fc31" md5="70bcee3fd3813fe23646e0c79fd0e0f5" sha1="2ea0b61db33ceae342d012117d34f4eb15850f14"/>
+		<url>https://retroachievements.org/game/5228/hashes</url>
+		<hash>70bcee3fd3813fe23646e0c79fd0e0f5</hash>
+	</game>
+	<game name="Star Ocean - Blue Sphere (Japan) (Es) (v1.0) (4l3j4ndr0)" cloneof="Star Ocean - Blue Sphere (Japan) (SGB Enhanced) (GB Compatible)">
+		<category>Retail</category>
+		<description>Star Ocean - Blue Sphere (Japan) (Es) (v1.0) (4l3j4ndr0)</description>
+		<rom name="Star Ocean - Blue Sphere (Japan) (Es) (v1.0) (4l3j4ndr0).gbc" size="4194304" crc="6a088100" md5="5f0a9e0ce6c0085af12c787579790f1c" sha1="ebb2673a005dec9b8d6ad1f968f45ed7abf792e4"/>
+		<url>https://retroachievements.org/game/5228/hashes</url>
+		<hash>5f0a9e0ce6c0085af12c787579790f1c</hash>
+	</game>
+	<game name="Star Ocean - Blue Sphere (Japan) (Es) (v2.0) (4l3j4ndr0)" cloneof="Star Ocean - Blue Sphere (Japan) (SGB Enhanced) (GB Compatible)">
+		<category>Retail</category>
+		<description>Star Ocean - Blue Sphere (Japan) (Es) (v2.0) (4l3j4ndr0)</description>
+		<release name="Star Ocean - Blue Sphere (Japan) (Es) (v2.0) (4l3j4ndr0)" region="Spain"/>
+		<rom name="Star Ocean - Blue Sphere (Japan) (Es) (v2.0) (4l3j4ndr0).gbc" size="4194304" crc="4dd4ec23" md5="cc3017f1f70e4122e42e84d0a7103bce" sha1="bda7a6e7f40c47f467960432ad465c6908181d62"/>
+		<url>https://retroachievements.org/game/5228/hashes</url>
+		<hash>cc3017f1f70e4122e42e84d0a7103bce</hash>
+	</game>
+	
 	<game name="Star Wars Episode I - Obi-Wan's Adventures (USA)" cloneof="Star Wars Episode I - Obi-Wan's Adventures (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<description>Star Wars Episode I - Obi-Wan's Adventures (USA)</description>
@@ -4258,6 +4306,15 @@
 		<hash>7a826122ccc3818dce9a8e8db6d77edb</hash>
 	</game>
 	
+	<game name="Tom and Jerry - Mousehunt (Europe) (En,Fr,De,Es,It) (Rev 1)">
+		<category>Retail</category>
+		<description>Tom and Jerry - Mousehunt (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
+		<release name="Tom and Jerry - Mousehunt (Europe) (En,Fr,De,Es,It) (Rev 1)" region="Europe"/>
+		<rom name="Tom and Jerry - Mousehunt (Europe) (En,Fr,De,Es,It) (Rev 1).gbc" size="1048576" crc="4b4553e0" md5="32b2cb72de47a85e07a22d6173459b07" sha1="bf5faf4c5c2aabe9636f8f5afbbf526aba59e21d"/>
+		<url>https://retroachievements.org/game/6549/hashes</url>
+		<hash>32b2cb72de47a85e07a22d6173459b07</hash>
+	</game>
+	
 	<game name="Tomb Raider (USA, Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<description>Tomb Raider (USA, Europe) (En,Fr,De,Es,It)</description>
@@ -4527,6 +4584,15 @@
 		<rom name="X-Men - Mutant Academy (USA, Europe) (Rev 1).gbc" size="1048576" crc="234e1e9c" md5="6774580db542b838eff5a155128b7413" sha1="167770befb087c0f95cfe3c3efa3540c5f55a799"/>
 		<url>https://retroachievements.org/game/9204/hashes</url>
 		<hash>6774580db542b838eff5a155128b7413</hash>
+	</game>
+	
+	<game name="X-Men - Wolverine's Rage (USA)">
+		<category>Retail</category>
+		<description>X-Men - Wolverine's Rage (USA)</description>
+		<release name="X-Men - Wolverine's Rage (USA)" region="USA"/>
+		<rom name="X-Men - Wolverine's Rage (USA).gbc" size="1048576" crc="12fc1a6e" md5="b1729716baaea01d4baa795db31800b0" sha1="b7143367d71932ad525c5db94f5295686e6c58e5"/>
+		<url>https://retroachievements.org/game/7866/hashes</url>
+		<hash>b1729716baaea01d4baa795db31800b0</hash>
 	</game>
 	
 	<game name="Xtreme Sports (USA)">

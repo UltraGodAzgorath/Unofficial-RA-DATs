@@ -5,8 +5,8 @@
 		<name>RA - Apple II</name>
 		<description>Apple II</description>
 		<category>Subfolders</category>
-		<version>20251026</version>
-		<date>26 October 2025</date>
+		<version>20251116</version>
+		<date>16 November 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/38/games</url>
@@ -51,6 +51,14 @@
 		<rom name="Where in Hell is Carmen Santiago (1990) (St. John M. Morrison) (Aftermarket).po" size="819200" crc="292bb5d1" md5="fd57e7627fec7a3e889d2342653fc180" sha1="e266225921b9615bef29a65d192ee4b9060b4416"/>
 		<url>https://retroachievements.org/game/33413/hashes</url>
 		<hash>fd57e7627fec7a3e889d2342653fc180</hash>
+	</game>
+	
+	<game name="Retail/Mario Bros. (World) (Tosec)">
+		<category></category>
+		<description>Mario Bros. (World) (Tosec)</description>
+		<rom name="Mario Bros. (World) (Tosec).do" size="143360" crc="c9516933" md5="30de3faafa79af65f7b901bf6365503a" sha1="49c46eaa2395cbd130ed4b3ecfa3db408593e9db"/>
+		<url>https://retroachievements.org/game/14183/hashes</url>
+		<hash>30de3faafa79af65f7b901bf6365503a</hash>
 	</game>
 	
 	<game name="Retail/Battle of Hoth (World) (Tosec)">
@@ -779,14 +787,6 @@
 		<hash>6d3e9a44861d2e34df5e081eca2d72b3</hash>
 	</game>
 	
-	<game name="Retail/Mario Bros. (World) (Tosec)">
-		<category></category>
-		<description>Mario Bros. (World) (Tosec)</description>
-		<rom name="Mario Bros. (World) (Tosec).do" size="143360" crc="c9516933" md5="30de3faafa79af65f7b901bf6365503a" sha1="49c46eaa2395cbd130ed4b3ecfa3db408593e9db"/>
-		<url>https://retroachievements.org/game/14183/hashes</url>
-		<hash>30de3faafa79af65f7b901bf6365503a</hash>
-	</game>
-	
 	<game name="Retail/Megabots (World) (4AM)">
 		<category></category>
 		<description>Megabots (World) (4AM)</description>
@@ -1294,6 +1294,13 @@
 		<rom name="Ultima I - The First Age of Darkness (World) (Tosec) (Alt).po" size="143360" crc="adf1b2b1" md5="6531bea603d8e36665de43c8a306a355" sha1="5663a8bdf1aeeaf9084a83ac6d787c5cdadbc651"/>
 		<url>https://retroachievements.org/game/13926/hashes</url>
 		<hash>6531bea603d8e36665de43c8a306a355</hash>
+	</game>
+	<game name="Retail/Ultima I/Ultima I - The First Age of Darkness (1986)(Origin Systems)(II+)(US)(64K)">
+		<category></category>
+		<description>Ultima I - The First Age of Darkness (1986)(Origin Systems)(II+)(US)(64K)</description>
+		<rom name="Ultima I - The First Age of Darkness (1986)(Origin Systems)(II+)(US)(64K).woz" size="000" crc="000" md5="5dedadc45f7ece58f779be1b6923c697" sha1="000"/>
+		<url>https://retroachievements.org/game/13926/hashes</url>
+		<hash>5dedadc45f7ece58f779be1b6923c697</hash>
 	</game>
 	
 	<game name="Retail/Ultima II - Revenge of the Enchantress (World) (Tosec)">

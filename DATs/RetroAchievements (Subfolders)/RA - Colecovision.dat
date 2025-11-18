@@ -5,8 +5,8 @@
 		<name>RA - Colecovision</name>
 		<description>Colecovision</description>
 		<category>Subfolders</category>
-		<version>20251014</version>
-		<date>14 October 2025</date>
+		<version>20251116</version>
+		<date>16 November 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/44/games</url>
@@ -161,6 +161,14 @@
 		<rom name="Cosmic Avenger (USA, Europe).col" size="16384" crc="39d4215b" md5="cfbd4a478e7019422c306837444d2e46" sha1="c8c2a70d3eab8a68ab1db04e766a6c70f02f02ca"/>
 		<url>https://retroachievements.org/game/14067/hashes</url>
 		<hash>cfbd4a478e7019422c306837444d2e46</hash>
+	</game>
+	
+	<game name="Retail/Defender (USA)">
+		<category></category>
+		<description>Defender (USA)</description>
+		<rom name="Defender (USA).col" size="24576" crc="6cf594e5" md5="00123e08f138b7094601ea8d13d5336d" sha1="12b1fb517d8f7308d18f355e0c54796e4b5225a0"/>
+		<url>https://retroachievements.org/game/14274/hashes</url>
+		<hash>00123e08f138b7094601ea8d13d5336d</hash>
 	</game>
 	
 	<game name="Retail/Donkey Kong (USA, Europe) (v1.1)">

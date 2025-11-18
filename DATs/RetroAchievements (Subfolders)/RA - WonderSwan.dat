@@ -5,8 +5,8 @@
 		<name>RA - WonderSwan</name>
 		<description>WonderSwan</description>
 		<category>Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20251116</version>
+		<date>16 November 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/53/games</url>
@@ -420,6 +420,14 @@
 		<rom name="Rockman EXE - N1 Battle (Japan) (Rev 1).wsc" size="4194304" crc="1f10ca75" md5="d902afdadf17b452621c50a1ffda2fa9" sha1="9b4786adca7b83fe66a9d4b9fd4ffaf32abe7656"/>
 		<url>https://retroachievements.org/game/18432/hashes</url>
 		<hash>d902afdadf17b452621c50a1ffda2fa9</hash>
+	</game>
+	
+	<game name="Retail/RUN=DIM - Return to Earth (Japan).">
+		<category></category>
+		<description>RUN=DIM - Return to Earth (Japan).</description>
+		<rom name="RUN=DIM - Return to Earth (Japan)..wsc" size="2097152" crc="15c4552e" md5="5898c0dfee65ff9b47ce6ec1be2014d5" sha1="3a41a3b8fc126da07e2a82c21056a45c15efbc98"/>
+		<url>https://retroachievements.org/game/26314/hashes</url>
+		<hash>5898c0dfee65ff9b47ce6ec1be2014d5</hash>
 	</game>
 	
 	<game name="Retail/SD Gundam - Operation U.C. (Japan)">

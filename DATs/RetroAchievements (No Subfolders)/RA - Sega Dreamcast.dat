@@ -5,8 +5,8 @@
 		<name>RA - Sega Dreamcast</name>
 		<description>Sega Dreamcast</description>
 		<category>No Subfolders</category>
-		<version>20251014</version>
-		<date>14 October 2025</date>
+		<version>20251116</version>
+		<date>16 November 2025</date>
 		<author>AzgoRAth</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/40/games</url>
@@ -233,6 +233,24 @@
 		<url>https://retroachievements.org/game/3866/hashes</url>
 		<hash>b2dca7bf3dddba49ef036e98366b4fa8</hash>
 		<hash>39375c10b2daefe40896de2af5054681</hash>
+	</machine>
+	
+	<machine name="Bomberman Online (USA)">
+		<category>Retail</category>
+		<description>Bomberman Online (USA)</description>
+		<release name="Bomberman Online (USA)" region="USA"/>
+		<disk name="Bomberman Online (USA).chd" sha1="53a111392d3cde24e435edc01c5f73204fdad026"/>
+		<url>https://retroachievements.org/game/15326/hashes</url>
+		<hash>ebee803a43d98f94ec40b18904490e14</hash>
+	</machine>
+	
+	<machine name="Bomberman Online (Subset - Multi)">
+		<category>Subset</category>
+		<description>Bomberman Online (Subset - Multi)</description>
+		<release name="Bomberman Online (Subset - Multi)" region="World"/>
+		<disk name="Bomberman Online (Subset - Multi).chd" sha1="05cafea6b6b321743f605911e8cac984ab7f1b1b"/>
+		<url>https://retroachievements.org/game/34563/hashes</url>
+		<hash>47fc98f54ff09de13b8b063768933de6</hash>
 	</machine>
 	
 	<machine name="Disney-Pixar Buzz Lightyear of Star Command (USA)">
@@ -1100,6 +1118,17 @@
 		<hash>276661ab8bea50afcc1b7a1e48d25ff8</hash>
 		<hash>6e18b7264826413e55df3161cc13000e</hash>
 	</machine>
+	<machine name="Skies of Arcadia (Europe) (Ru) (v6.0) (Vector)" cloneof="Skies of Arcadia (Europe) (En,Fr,De,Es) (Uncensored)">
+		<category>Retail</category>
+		<description>Skies of Arcadia (Europe) (Ru) (v6.0) (Vector)</description>
+		<release name="Skies of Arcadia (Europe) (Ru) (v6.0) (Vector)" region="Russia"/>
+		<rom name="Skies of Arcadia (Europe) (Ru) (v6.0) (Vector).m3u" size="120" crc="b07ea2b0" sha1="6886becb2fe0dfeeb92aa47378c9239b" md5="db0787179cf68f5861a6a573b13f5316065e952a"/>
+		<disk name="Skies of Arcadia (Europe) (Ru) (v6.0) (Vector) (Disc 1).chd" sha1="e9545ac0e288cd2d082641b16cb7b6e44848f5c1"/>
+		<disk name="Skies of Arcadia (Europe) (Ru) (v6.0) (Vector) (Disc 2).chd" sha1="a8a0bf601bf01586db65231de5f97ede3fb7a845"/>
+		<url>https://retroachievements.org/game/3443/hashes</url>
+		<hash>7f9b2ac12e50351f9288c6a3f9a9ad24</hash>
+		<hash>8f4f564a17eefd6b356168a9a4f02464</hash>
+	</machine>
 	
 	<machine name="Sonic Adventure (USA) (En,Ja,Fr,De,Es) (Rev A)" cloneof="Sonic Adventure (USA) (En,Ja,Fr,De,Es) (Rev A) (DC-HD mod) (Widescreen)">
 		<category>Retail</category>
@@ -1365,6 +1394,15 @@
 		<disk name="House of the Dead 2, The (Europe) (En,Fr,De,Es).chd" sha1="1547ba1d548e6722102fb05d87bac9a3c7c5f6f4"/>
 		<url>https://retroachievements.org/game/3440/hashes</url>
 		<hash>d5a1ab57cb7cd4c0f3c676f5496dd4aa</hash>
+	</machine>
+	
+	<machine name="King of Fighters 2002, The (Japan) (En,Ja)">
+		<category>Retail</category>
+		<description>King of Fighters 2002, The (Japan) (En,Ja)</description>
+		<release name="King of Fighters 2002, The (Japan) (En,Ja)" region="Japan"/>
+		<disk name="King of Fighters 2002, The (Japan) (En,Ja).chd" sha1="d264d2698a331a98d0a7ed91f1ae6e66a3c958af"/>
+		<url>https://retroachievements.org/game/26340/hashes</url>
+		<hash>3d6f6d39631db8633c14e69ed9f0a07e</hash>
 	</machine>
 	
 	<machine name="King of Fighters, The - Evolution (USA) (En,Ja,Es,Pt)">

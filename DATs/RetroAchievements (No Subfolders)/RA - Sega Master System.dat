@@ -5,8 +5,8 @@
 		<name>RA - Sega Master System</name>
 		<description>Sega Master System</description>
 		<category>No Subfolders</category>
-		<version>20251026</version>
-		<date>26 October 2025</date>
+		<version>20251116</version>
+		<date>16 November 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/11/games</url>
@@ -1506,6 +1506,16 @@
 		<rom name="Sonic The Hedgehog 2 (Europe, Brazil) (En).sms" size="524288" crc="5b3b922c" md5="bf3b7a41e7da9de23416473a33c6ac2b" sha1="acdb0b5e8bf9c1e9c9d1a8ac6d282cb8017d091c"/>
 		<url>https://retroachievements.org/game/9997/hashes</url>
 		<hash>bf3b7a41e7da9de23416473a33c6ac2b</hash>
+	</game>
+	
+	<game name="Sonic Spinball (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Sonic Spinball (Europe, Brazil) (En)</description>
+		<release name="Sonic Spinball (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Sonic Spinball (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Sonic Spinball (Europe, Brazil) (En).sms" size="524288" crc="11c1bc8a" md5="21b4bcf6b259d4550912ad6f4aeaf550" sha1="a6aa8038feb54e84759fcdfced2270afbbef9bfc"/>
+		<url>https://retroachievements.org/game/10735/hashes</url>
+		<hash>21b4bcf6b259d4550912ad6f4aeaf550</hash>
 	</game>
 	
 	<game name="Space Harrier (Japan, USA) (En)">
