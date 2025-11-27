@@ -897,18 +897,18 @@
 		<hash>8e186ba96a5589890cffdf18a27b1209</hash>
 	</game>
 	
-	<game name="Super Metroid - GBA Edition (v4.0) (Hack)">
+	<game name="Metroid - Zero Mission - Super Metroid GBA Edition (v4.0) (The Brothers Crafters) (Hack)">
 		<category>Hack</category>
-		<description>Super Metroid - GBA Edition (v4.0) (Hack)</description>
-		<release name="Super Metroid - GBA Edition (v4.0) (Hack)" region="World"/>
-		<rom name="Super Metroid - GBA Edition (v4.0) (Hack).gba" size="33554432" crc="0511c66d" md5="0c0450cf5556ddac9de85f04cbee4c00" sha1="e030dab11af83097f137764148685f5af4774e75"/>
+		<description>Metroid - Zero Mission - Super Metroid GBA Edition (v4.0) (The Brothers Crafters) (Hack)</description>
+		<release name="Metroid - Zero Mission - Super Metroid GBA Edition (v4.0) (The Brothers Crafters) (Hack)" region="World"/>
+		<rom name="Metroid - Zero Mission - Super Metroid GBA Edition (v4.0) (The Brothers Crafters) (Hack).gba" size="33554432" crc="0511c66d" md5="0c0450cf5556ddac9de85f04cbee4c00" sha1="e030dab11af83097f137764148685f5af4774e75"/>
 		<url>https://retroachievements.org/game/9842/hashes</url>
 		<hash>0c0450cf5556ddac9de85f04cbee4c00</hash>
 	</game>
-	<game name="Super Metroid - GBA Edition (v3.0) (Hack)" cloneof="Super Metroid - GBA Edition (v4.0) (Hack)">
+	<game name="Metroid - Zero Mission - Super Metroid GBA Edition (v3.0) (The Brothers Crafters) (Hack)" cloneof="Metroid - Zero Mission - Super Metroid GBA Edition (v4.0) (The Brothers Crafters) (Hack)">
 		<category>Hack</category>
-		<description>Super Metroid - GBA Edition (v3.0) (Hack)</description>
-		<rom name="Super Metroid - GBA Edition (v3.0) (Hack).gba" size="33554432" crc="b4e1da85" md5="ae340ff5e044ccca4b3efbb61c154c1c" sha1="730e1c76e798b7801f504da63504a4790817a734"/>
+		<description>Metroid - Zero Mission - Super Metroid GBA Edition (v3.0) (The Brothers Crafters) (Hack)</description>
+		<rom name="Metroid - Zero Mission - Super Metroid GBA Edition (v3.0) (The Brothers Crafters) (Hack).gba" size="33554432" crc="b4e1da85" md5="ae340ff5e044ccca4b3efbb61c154c1c" sha1="730e1c76e798b7801f504da63504a4790817a734"/>
 		<url>https://retroachievements.org/game/9842/hashes</url>
 		<hash>ae340ff5e044ccca4b3efbb61c154c1c</hash>
 	</game>
@@ -8401,11 +8401,11 @@
 		<hash>d904485be937fb3e30e4da5019e34a71</hash>
 	</game>
 	
-	<game name="Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Virtual Console)">
-		<category>Retail</category>
-		<description>Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Virtual Console)</description>
-		<release name="Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Virtual Console)" region="USA"/>
-		<rom name="Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Virtual Console).gba" size="8388608" crc="d4c13ac3" md5="e7a2792c5913a8420a419f2d01358487" sha1="dd2879329ec52bd5372f26b75297a67f1a81215a"/>
+	<game name="Super Mario Advance 4 - Super Mario Bros. 3 (Subset - World-e)">
+		<category>Subset</category>
+		<description>Super Mario Advance 4 - Super Mario Bros. 3 (Subset - World-e)</description>
+		<release name="Super Mario Advance 4 - Super Mario Bros. 3 (Subset - World-e)" region="World"/>
+		<rom name="Super Mario Advance 4 - Super Mario Bros. 3 (Subset - World-e).gba" size="8388608" crc="d4c13ac3" md5="e7a2792c5913a8420a419f2d01358487" sha1="dd2879329ec52bd5372f26b75297a67f1a81215a"/>
 		<url>https://retroachievements.org/game/7442/hashes</url>
 		<hash>e7a2792c5913a8420a419f2d01358487</hash>
 	</game>

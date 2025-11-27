@@ -169,7 +169,7 @@
 		<hash>b8ef30dc369ce6d1f3e4eb2fc3e1c404</hash>
 	</machine>
 	
-	<machine name="Hack/Digimon World Vice (Hack) (Subset - Filth Challenge)">
+	<machine name="Subset/Digimon World Vice (Hack) (Subset - Filth Challenge)">
 		<category></category>
 		<description>Digimon World Vice (Hack) (Subset - Filth Challenge)</description>
 		<disk name="Digimon World Vice (Hack) (Subset - Filth Challenge).chd" sha1="4f29d16e5432e7195014adc90024d600b89b2e5e"/>
@@ -177,7 +177,7 @@
 		<hash>5f90675d2e1ec9a18a1c65286a8ac8b8</hash>
 	</machine>
 	
-	<machine name="Hack/Digimon World Vice (Hack) (Subset - True Hardcore)">
+	<machine name="Subset/Digimon World Vice (Hack) (Subset - True Hardcore)">
 		<category></category>
 		<description>Digimon World Vice Vice (Hack) (Subset - True Hardcore)</description>
 		<disk name="Digimon World Vice (Hack) (Subset - True Hardcore).chd" sha1="191e109be279e0cc9d0fa9db5c027cc8dde3e1c7"/>
@@ -4582,8 +4582,8 @@
 		<hash>1c1565ed69e14606fa508ebc5ee452fc</hash>
 	</machine>
 	
-	<machine name="Monster Rancher Battle Card - Episode II (USA)">
-		<category>Subset</category>
+	<machine name="Retail/Monster Rancher Battle Card - Episode II (USA)">
+		<category></category>
 		<description>Monster Rancher Battle Card - Episode II (USA)</description>
 		<disk name="Monster Rancher Battle Card - Episode II (USA).chd" sha1="91c00f8384f6f57c56f8e8b8b534b781a943b413"/>
 		<url>https://retroachievements.org/game/17498/hashes</url>

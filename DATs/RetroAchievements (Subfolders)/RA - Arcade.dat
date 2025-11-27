@@ -6752,7 +6752,7 @@
 		<hash>715b50388fc01b4e356b7227aec29722</hash>
 	</game>
 	
-	<game name="Retail/fghthistu">
+	<game name="Retail/Fighter's History/fghthistu">
 		<description>Fighter's History (US ver 42-09, DE-0396-0 PCB)</description>
 		<category>FBNeo</category>
 		<rom name="lj00-3.1f" size="524288" crc="17543d60"/>
@@ -6774,7 +6774,7 @@
 		<url>https://retroachievements.org/game/13284/hashes</url>
 		<hash>bff892a489a8ecf5cd690462487bcfc2</hash>
 	</game>
-	<game name="Retail/fghthist">
+	<game name="Retail/Fighter's History/fghthist">
 		<description>Fighter's History (World ver 43-09, DE-0395-1 PCB)</description>
 		<category>FBNeo</category>
 		<rom name="lc00-1.1f" size="524288" crc="61a76a16"/>
@@ -7138,7 +7138,7 @@
 		<hash>b8140b5e33c53b0f7dd3cc368951a4dd</hash>
 	</game>
 	
-	<game name="Retail/galaga88">
+	<game name="Retail/Galaga '88/galaga88">
 		<description>Galaga '88</description>
 		<category>FBNeo</category>
 		<rom name="g81_s0.bin" size="65536" crc="164a3fdc"/>
@@ -7171,7 +7171,7 @@
 		<url>https://retroachievements.org/game/12140/hashes</url>
 		<hash>372ec6bf0d3ee67b7bb9578dff9ff044</hash>
 	</game>
-	<game name="Retail/galaga88j" cloneof="galaga88">
+	<game name="Retail/Galaga '88/galaga88j" cloneof="galaga88">
 		<description>Galaga '88 (Japan)</description>
 		<category>FBNeo</category>
 		<rom name="g81_s0.bin" size="65536" crc="164a3fdc"/>
