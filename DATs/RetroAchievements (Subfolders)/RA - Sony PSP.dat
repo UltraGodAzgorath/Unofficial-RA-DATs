@@ -713,7 +713,7 @@
 		<legacyhash>686c89c8730a874ee524bd159465d63d</legacyhash>
 	</machine>
 	
-	<machine name="Retail/Digivice Ver Portable (Japan) (PSN)">
+	<machine name="Retail/Digivice Ver Portable/Digivice Ver Portable (Japan) (PSN)">
 		<category>PSP</category>
 		<description>Digivice Ver Portable (Japan) (PSN)</description>
 		<disk name="Digivice Ver Portable (Japan) (PSN).chd" sha1="5d2770ae10acc6fffb40f610a7823910da4e83c7"/>
@@ -721,7 +721,7 @@
 		<hash>436ceb68658b81c42b1294dac1188357</hash>
 		<legacyhash>1f633be812ce98d4aaa8275689fa1359</legacyhash>
 	</machine>
-	<machine name="Retail/Digivice Ver Portable (Japan) (PSN) (Es) (v1.0) (Bunkai)">
+	<machine name="Retail/Digivice Ver Portable/Digivice Ver Portable (Japan) (PSN) (Es) (v1.0) (Bunkai)">
 		<category>PSP</category>
 		<description>Digivice Ver Portable (Japan) (PSN) (Es) (v1.0) (Bunkai)</description>
 		<disk name="Digivice Ver Portable (Japan) (PSN) (Es) (v1.0) (Bunkai).chd" sha1="c35df02c9aadf943c2b3f3192dbadf4b4f965d44"/>
@@ -1246,7 +1246,7 @@
 	</machine>
 	
 	<machine name="Retail/Gripshift (Europe) (En,Fr,De,Es,It)">
-		<category></category>
+		<category>PSP</category>
 		<description>Gripshift (Europe) (En,Fr,De,Es,It)</description>
 		<disk name="Gripshift (Europe) (En,Fr,De,Es,It).chd" sha1="8389f67064ab0dac4afd623bd6c975a174c1c741"/>
 		<url>https://retroachievements.org/game/18264/hashes</url>
@@ -3064,7 +3064,7 @@
 	</machine>
 	
 	<machine name="Retail/Haunted Zone, The (Japan) (En) (v1.0) (Mugi)">
-		<category></category>
+		<category>PSP</category>
 		<description>Haunted Zone, The (Japan) (En) (v1.0) (Mugi)</description>
 		<disk name="Haunted Zone, The (Japan) (En) (v1.0) (Mugi).chd" sha1="89312b8fda7848ada0fbf6b932b6ed908df1a6da"/>
 		<url>https://retroachievements.org/game/20509/hashes</url>
@@ -3109,7 +3109,7 @@
 	</machine>
 	
 	<machine name="Retail/Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (v1.0) (Geofront Port) (WanderingHeiho)">
-		<category></category>
+		<category>PSP</category>
 		<description>Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (v1.0) (Geofront Port) (WanderingHeiho)</description>
 		<disk name="Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (v1.0) (Geofront Port) (WanderingHeiho).chd" sha1="7517371b540c734b92f1190c8cf3b5a56dff66f1"/>
 		<url>https://retroachievements.org/game/10521/hashes</url>
@@ -3117,7 +3117,7 @@
 	</machine>
 	
 	<machine name="Subset/Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (v1.0) (Subset - NG Nightmare)">
-		<category></category>
+		<category>PSP</category>
 		<description>Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (v1.0) (Subset - NG Nightmare)</description>
 		<disk name="Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (v1.0) (Subset - NG Nightmare).chd" sha1="d7b4e0f7d5dc804478e5be83d7bc4c43f4ff73c1"/>
 		<url>https://retroachievements.org/game/35586/hashes</url>

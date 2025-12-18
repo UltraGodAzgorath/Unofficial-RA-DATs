@@ -16251,4 +16251,13 @@
 		<url>https://retroachievements.org/game/405/hashes</url>
 		<hash>23c2af7897d9384c4791189b68c142eb</hash>
 	</game>
+	
+	<game name="Zoop (USA)">
+		<category>Retail</category>
+		<description>Zoop (USA)</description>
+		<release name="Zoop (USA)" region="USA"/>
+		<rom name="Zoop (USA).sfc" size="000" crc="000" md5="0b7a524e5470eca3ed29b75e427a7cf4" sha1="000"/>
+		<url>https://retroachievements.org/game/1350/hashes</url>
+		<hash>0b7a524e5470eca3ed29b75e427a7cf4</hash>
+	</game>
 </datafile>
