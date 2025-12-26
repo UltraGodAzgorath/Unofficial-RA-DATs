@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>RA - Arduboy</name>
+		<description>Arduboy</description>
+		<category>Subfolders</category>
+		<version>20251225</version>
+		<date>25 December 2025</date>
+		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
+		<homepage>https://retroachievements.org</homepage>
+		<url>https://retroachievements.org/system/71/games</url>
+		<titlecount>95</titlecount>
+		<hashcount>99</hashcount>
+	</header>
+	<game name="Retail/1944 (World) (Erwin's Collection)">
+		<category></category>
+		<description>1944 (World) (Erwin's Collection)</description>
+		<rom name="1944 (World) (Erwin's Collection).hex" size="78620" crc="b007f753" md5="38a60f2d30b656bc6b7d54e4c32036f8" sha1="b20e8a53b7c5b643bdc0920bd7d7aacfccd289d5"/>
+		<url>https://retroachievements.org/game/21470/hashes</url>
+		<hash>38a60f2d30b656bc6b7d54e4c32036f8</hash>
+	</game>
+	
+	<game name="Retail/1nvader/1nvader (World) (v1.0) (Alt)">
+		<category></category>
+		<description>1nvader (World) (v1.0) (Alt)</description>
+		<rom name="1nvader (World) (v1.0) (Alt).hex" size="73580" crc="b5c9d91a" md5="81a9a966be766d0ae0a1d608eeb97faf" sha1="3b5f087176e016ea5a20ffe825696a98bef54fbe"/>
+		<url>https://retroachievements.org/game/7911/hashes</url>
+		<hash>4ab84300d714610cbb7cda1f6a826730</hash>
+	</game>
+	<game name="Retail/1nvader/1nvader (World) (Erwin's Collection)">
+		<category></category>
+		<description>1nvader (World) (Erwin's Collection)</description>
+		<rom name="1nvader (World) (Erwin's Collection).hex" size="71668" crc="afdb1a88" md5="cee7f24fab74cef92ff1e03cd76d38cb" sha1="b535179e2c04c944afe8c50480d4e933d6a83ea9"/>
+		<url>https://retroachievements.org/game/7911/hashes</url>
+		<hash>cee7f24fab74cef92ff1e03cd76d38cb</hash>
+	</game>
+	
+	<game name="Retail/Ard-Drivin (World) (Erwin's Collection)">
+		<category></category>
+		<description>Ard-Drivin (World) (Erwin's Collection)</description>
+		<rom name="Ard-Drivin (World) (Erwin's Collection).hex" size="53132" crc="b2369ffd" md5="0857ab1f220c666ec0f4d8232caa77e2" sha1="26a0c117fce203947607f6c3c1a1a9f536aafbd5"/>
+		<url>https://retroachievements.org/game/21384/hashes</url>
+		<hash>0857ab1f220c666ec0f4d8232caa77e2</hash>
+	</game>
+	
+	<game name="Retail/Ardu Turf Masters (World) (Erwin's Collection)">
+		<category></category>
+		<description>Ardu Turf Masters (World) (Erwin's Collection)</description>
+		<rom name="Ardu Turf Masters (World) (Erwin's Collection).hex" size="52840" crc="775817a7" md5="094779213579bf610c1d43d94f6e4ebb" sha1="9215f84a15340c810609524f6afcf9093a699f7c"/>
+		<url>https://retroachievements.org/game/29898/hashes</url>
+		<hash>094779213579bf610c1d43d94f6e4ebb</hash>
+	</game>
+	
+	<game name="Retail/Ardu-EZ Button (World) (Program) (Erwin's Collection)">
+		<category></category>
+		<description>Ardu-EZ Button (World) (Program) (Erwin's Collection)</description>
+		<rom name="Ardu-EZ Button (World) (Program) (Erwin's Collection).hex" size="38740" crc="3a3d07f9" md5="33bbab25de35f4f7bf51432fb7fe1ade" sha1="536e7d6c7a40f6b86d0658c2f894acc6fc2f0e79"/>
+		<url>https://retroachievements.org/game/19548/hashes</url>
+		<hash>33bbab25de35f4f7bf51432fb7fe1ade</hash>
+	</game>
+	
+	<game name="Retail/Ardu-man (World) (Erwin's Collection)">
+		<category></category>
+		<description>Ardu-man (World) (Erwin's Collection)</description>
+		<rom name="Ardu-man (World) (Erwin's Collection).hex" size="64412" crc="676203ca" md5="1a808e185a1e9f9199b55ef84e94b8ef" sha1="a10e18c9f135c7f91bb1c2bbc6514f7df40a6b4c"/>
+		<url>https://retroachievements.org/game/9250/hashes</url>
+		<hash>1a808e185a1e9f9199b55ef84e94b8ef</hash>
+	</game>
+	
+	<game name="Retail/Arduboy Says (World) (Erwin's Collection)">
+		<category></category>
+		<description>Arduboy Says (World) (Erwin's Collection)</description>
+		<rom name="Arduboy Says (World) (Erwin's Collection).hex" size="37084" crc="c3dd619d" md5="890f6eff0cfa64ab0f03b5742b1019d5" sha1="d53d572481b440cf9ca9186bb8450b7cd38fb7aa"/>
+		<url>https://retroachievements.org/game/29900/hashes</url>
+		<hash>890f6eff0cfa64ab0f03b5742b1019d5</hash>
+	</game>
+	
+	<game name="Retail/ARDUBULLETs (World) (v0.11) (Erwin's Collection)">
+		<category></category>
+		<description>ARDUBULLETs (World) (v0.11) (Erwin's Collection)</description>
+		<rom name="ARDUBULLETs (World) (v0.11) (Erwin's Collection).hex" size="73896" crc="03d567bf" md5="951e1b8f38636343fa8503bd96056304" sha1="5643ef276e0b1569a20f1bb84499dc4f1eff5913"/>
+		<url>https://retroachievements.org/game/29902/hashes</url>
+		<hash>951e1b8f38636343fa8503bd96056304</hash>
+	</game>
+	
+	<game name="Retail/ArduGods (World)">
+		<category></category>
+		<description>ArduGods (World)</description>
+		<rom name="ArduGods (World).hex" size="69878" crc="3b81448d" md5="69599bcb3a0a0269ee053672fbfab8e7" sha1="c8f991eed38206aa11f03683f4c092135f301fff"/>
+		<url>https://retroachievements.org/game/19516/hashes</url>
+		<hash>c221e3fb053b088512941b91380cdd0a</hash>
+	</game>
+	
+	<game name="Retail/ArduGolf - 18-Hole Mini Golf (World)">
+		<category></category>
+		<description>ArduGolf - 18-Hole Mini Golf (World)</description>
+		<rom name="ArduGolf - 18-Hole Mini Golf (World).hex" size="78641" crc="df656df2" md5="20d253cbd712426755d5469d2ccd5d3c" sha1="2cde5824cad09c5ecd243956241e837c8ab0ac8f"/>
+		<url>https://retroachievements.org/game/19855/hashes</url>
+		<hash>d1b63c148314a8b34f8344aa65e47422</hash>
+	</game>
+	
+	<game name="Retail/Arduminer (World) (v1.1)">
+		<category></category>
+		<description>Arduminer (World) (v1.1)</description>
+		<rom name="Arduminer (World) (v1.1).hex" size="66560" crc="eaad746c" md5="803cd298bf647e6751b2bb4689a75d41" sha1="73628b3a03442f15e0c50d8dc0bb123aaae0897d"/>
+		<url>https://retroachievements.org/game/10664/hashes</url>
+		<hash>801b00d363215ee39921db752d127cc1</hash>
+	</game>
+	
+	<game name="Retail/Ardu-Racer (World) (Erwin's Collection)">
+		<category></category>
+		<description>Ardu-Racer (World) (Erwin's Collection)</description>
+		<rom name="Ardu-Racer (World) (Erwin's Collection).hex" size="78852" crc="c61450ed" md5="4959dc52e38115b3324e833f15cbf060" sha1="059c3c87e90a1cb30da5ac8aa437f5b12b27a147"/>
+		<url>https://retroachievements.org/game/28138/hashes</url>
+		<hash>4959dc52e38115b3324e833f15cbf060</hash>
+	</game>
+	
+	<game name="Retail/ArduRogue (World) (brow1067)">
+		<category></category>
+		<description>ArduRogue (World) (brow1067)</description>
+		<rom name="ArduRogue (World) (brow1067).hex" size="79238" crc="5c3d419a" md5="8716a30ccbd2dffe5da6159709e03f00" sha1="ce7e80d88cebfa38721fc5643ef848b61e322f9c"/>
+		<url>https://retroachievements.org/game/29905/hashes</url>
+		<hash>d0f8b93d78f1fc7852f98990fd0940d7</hash>
+	</game>
+	
+	<game name="Retail/Ardusweeper (World) (Erwin's Collection)">
+		<category></category>
+		<description>Ardusweeper (World) (Erwin's Collection)</description>
+		<rom name="Ardusweeper (World) (Erwin's Collection).hex" size="58252" crc="805f0c80" md5="56eb9ab3af384d4cbb2aa74b1d2cbe2d" sha1="e63e885aa0e9dc1acaf633c5557844536dcfdf23"/>
+		<url>https://retroachievements.org/game/8633/hashes</url>
+		<hash>56eb9ab3af384d4cbb2aa74b1d2cbe2d</hash>
+	</game>
+	
+	<game name="Retail/Arduventure - Trail of the Blade (World) (Team A.R.G.)">
+		<category></category>
+		<description>Arduventure - Trail of the Blade (World) (Team A.R.G.)</description>
+		<rom name="Arduventure - Trail of the Blade (World) (Team A.R.G.).hex" size="77225" crc="5274a6b7" md5="bd401331c603e6a8363617c6021d5805" sha1="e6d2410798fcb39a3f1ce687324e826b4c575345"/>
+		<url>https://retroachievements.org/game/11124/hashes</url>
+		<hash>e99120c72e53b6aaf7676b4494059c02</hash>
+	</game>
+	
+	<game name="Retail/Ardynia (World) (Erwin's Collection)">
+		<category></category>
+		<description>Ardynia (World) (Erwin's Collection)</description>
+		<rom name="Ardynia (World) (Erwin's Collection).hex" size="78616" crc="fe92277b" md5="73d6ed9d2fe4d7be3cab822065971d00" sha1="5c43aa1bbe8714280617ecad1cf0cfb6b0dba9e1"/>
+		<url>https://retroachievements.org/game/5840/hashes</url>
+		<hash>73d6ed9d2fe4d7be3cab822065971d00</hash>
+	</game>
+	
+	<game name="Retail/ARtillery (World) (Erwin's Collection)">
+		<category></category>
+		<description>ARtillery (World) (Erwin's Collection)</description>
+		<rom name="ARtillery (World) (Erwin's Collection).hex" size="59604" crc="3fbb3cf0" md5="d227c87e9009f13db6057944d164a78a" sha1="91f027c98a091d8358cc2a131fbed0ce0901daae"/>
+		<url>https://retroachievements.org/game/29908/hashes</url>
+		<hash>d227c87e9009f13db6057944d164a78a</hash>
+	</game>
+	
+	<game name="Retail/BiriBiriBeat (World) (Erwin's Collection)">
+		<category></category>
+		<description>BiriBiriBeat (World) (Erwin's Collection)</description>
+		<rom name="BiriBiriBeat (World) (Erwin's Collection).hex" size="78256" crc="f5e1248a" md5="5b1c604f166f9023c1b13895228d18f9" sha1="10c7d4cd6808a5a6fbc676055e72d5cf74438d3b"/>
+		<url>https://retroachievements.org/game/19511/hashes</url>
+		<hash>5b1c604f166f9023c1b13895228d18f9</hash>
+	</game>
+	
+	<game name="Retail/Blackjack/Blackjack (World) (Erwin's Collection)">
+		<category></category>
+		<description>Blackjack (World) (Erwin's Collection)</description>
+		<rom name="Blackjack (World) (Erwin's Collection).hex" size="74940" crc="10a4519f" md5="b9c04db6fa3ebbc25acad67690095373" sha1="294396a553205cdf04155e1ad416904ff80e5eda"/>
+		<url>https://retroachievements.org/game/7871/hashes</url>
+		<hash>b9c04db6fa3ebbc25acad67690095373</hash>
+	</game>
+	<game name="Retail/Blackjack/Blackjack (World)">
+		<category></category>
+		<description>Blackjack (World)</description>
+		<rom name="Blackjack (World).hex" size="74935" crc="5d8bb5a9" md5="84490c2aa6bd9b354d049e25bab6479a" sha1="8d738397042d2885979bbb6b685fefa949b6e6b0"/>
+		<url>https://retroachievements.org/game/7871/hashes</url>
+		<hash>dd3007b20a47a02f8e8c33a2104878bd</hash>
+	</game>
+	
+	<game name="Retail/Blade Runner (World)">
+		<category></category>
+		<description>Blade Runner (World)</description>
+		<rom name="Blade Runner (World).hex" size="61819" crc="539068b9" md5="7d5fa2b64f1c0e5b6a511e0367dcab22" sha1="5a667be0b43192a5ee02fcf4cab01e128ae8504a"/>
+		<url>https://retroachievements.org/game/21408/hashes</url>
+		<hash>7764002c201c8349dea7376b2821c37b</hash>
+	</game>
+	
+	<game name="Retail/Blob Attack (World) (No QR Code)">
+		<category></category>
+		<description>Blob Attack (World) (No QR Code)</description>
+		<rom name="Blob Attack (World) (No QR Code).hex" size="75965" crc="f2c8d055" md5="d61935ec45c1d2d0113dccad03b43c03" sha1="53ccc6aa6ed1b799ba8e0f92aaca2a25769bf8f9"/>
+		<url>https://retroachievements.org/game/29920/hashes</url>
+		<hash>1d9ca90ed3ba671ff91bdbe57710575c</hash>
+	</game>
+	
+	<game name="Retail/Blocks (World) (Erwin's Collection)">
+		<category></category>
+		<description>Blocks (World) (Erwin's Collection)</description>
+		<rom name="Blocks (World) (Erwin's Collection).hex" size="42140" crc="c241718d" md5="f73f4f6714539fa8ae5a55ef32d420ca" sha1="56e1a6352ff21714c4ddfb94b1b722de0ad570ae"/>
+		<url>https://retroachievements.org/game/29924/hashes</url>
+		<hash>f73f4f6714539fa8ae5a55ef32d420ca</hash>
+	</game>
+	
+	<game name="Retail/Bytes and Knights (World) (v3.1) (crait)">
+		<category></category>
+		<description>Bytes and Knights (World) (v3.1) (crait)</description>
+		<rom name="Bytes and Knights (World) (v3.1) (crait).arduboy" size="382957" crc="bca786a9" md5="c4d4d10373319d98a1b2b4154ab4d9ac" sha1="48932b6599ba31bb5d69a329cfa30b498778a43c"/>
+		<url>https://retroachievements.org/game/33059/hashes</url>
+		<hash>2f75d4f8d0865685d6669587923b38d9</hash>
+	</game>
+	
+	<game name="Retail/CastleBoy (World) (Erwin's Collection)">
+		<category></category>
+		<description>CastleBoy (World) (Erwin's Collection)</description>
+		<rom name="CastleBoy (World) (Erwin's Collection).hex" size="77932" crc="7dc38d6e" md5="a733217c030dc768c4effc2a0295de6a" sha1="166a9d346a3793b00cb90ea0f2145fec220638f6"/>
+		<url>https://retroachievements.org/game/10665/hashes</url>
+		<hash>a733217c030dc768c4effc2a0295de6a</hash>
+	</game>
+	
+	<game name="Retail/Cat Mines (World)">
+		<category></category>
+		<description>Cat Mines (World)</description>
+		<rom name="Cat Mines (World).hex" size="41467" crc="1cde637e" md5="284c0d59e371d8c25ea3f8fe540b78c3" sha1="d3d6d0c41f2890e51634587e16a3aa40483eadf7"/>
+		<url>https://retroachievements.org/game/21381/hashes</url>
+		<hash>5c49a9f8bd8eb721d1195399e160d7d4</hash>
+	</game>
+	
+	<game name="Retail/Catacombs of the Damned (World) (Erwin's Collection)">
+		<category></category>
+		<description>Catacombs of the Damned (World) (Erwin's Collection)</description>
+		<rom name="Catacombs of the Damned (World) (Erwin's Collection).hex" size="78460" crc="cefcd22c" md5="c34f0985b8ebef2e8359ca5b228b6c40" sha1="4c54260891d04c130484cede7f5571ac7a3a8a82"/>
+		<url>https://retroachievements.org/game/13862/hashes</url>
+		<hash>c34f0985b8ebef2e8359ca5b228b6c40</hash>
+	</game>
+	
+	<game name="Retail/Cattle Quest (World)">
+		<category></category>
+		<description>Cattle Quest (World)</description>
+		<rom name="Cattle Quest (World).hex" size="63472" crc="d4a88254" md5="db4d1386a7592923ff9b02f5c24a7add" sha1="8f67b332ec069be47fddeedadad3de4a1cce8f28"/>
+		<url>https://retroachievements.org/game/21421/hashes</url>
+		<hash>a3e5f1a0fbfef7d05f93fd762585aaf1</hash>
+	</game>
+	
+	<game name="Retail/Chri-Bocchi Cat (World) (v0.04)">
+		<category></category>
+		<description>Chri-Bocchi Cat (World) (v0.04)</description>
+		<rom name="Chri-Bocchi Cat (World) (v0.04).hex" size="60371" crc="c845cd55" md5="fc76789258792b4fd2a15208722c75c3" sha1="7a16ab134f606f5dcb95ea93b06b941e760a4d4f"/>
+		<url>https://retroachievements.org/game/21400/hashes</url>
+		<hash>44de0080719b914d0d1c7bff26abeb76</hash>
+	</game>
+	
+	<game name="Retail/Circuit Dude (World) (v3.2)">
+		<category></category>
+		<description>Circuit Dude (World) (v3.2)</description>
+		<rom name="Circuit Dude (World) (v3.2).hex" size="77937" crc="b138319f" md5="b0815bef6fae8dfc33adba05bba0c884" sha1="c7c03d2afaf153df33b2dba81eb503d124b79f3a"/>
+		<url>https://retroachievements.org/game/8779/hashes</url>
+		<hash>3d1c0410a1236b94dada9f9b4eae41e7</hash>
+	</game>
+	
+	<game name="Retail/Cooties Attack (World)">
+		<category></category>
+		<description>Cooties Attack (World)</description>
+		<rom name="Cooties Attack (World).hex" size="40211" crc="e9677bda" md5="ad9e31dbbbccda4ae0998d5c091d786f" sha1="8acca029a0ebd06eaa43a5292c0719cb950be461"/>
+		<url>https://retroachievements.org/game/9219/hashes</url>
+		<hash>be7af750131954405ea874d8c307ee0c</hash>
+	</game>
+	
+	<game name="Retail/Crates 3D (World) (Erwin's Collection)">
+		<category></category>
+		<description>Crates 3D (World) (Erwin's Collection)</description>
+		<rom name="Crates 3D (World) (Erwin's Collection).hex" size="56255" crc="76ad2971" md5="874c1c85284507fc439ff6f14a7b30b9" sha1="0efc93ad56797e35d24e1f8f262814ade4d8bd99"/>
+		<url>https://retroachievements.org/game/23788/hashes</url>
+		<hash>57970fbe146c65d4f66d3431c2e74735</hash>
+	</game>
+	
+	<game name="Retail/CrazyKart (World) (Erwin's Collection)">
+		<category></category>
+		<description>CrazyKart (World) (Erwin's Collection)</description>
+		<rom name="CrazyKart (World) (Erwin's Collection).hex" size="45084" crc="71fabc63" md5="4a0b8b8b9a31ddd9f3ff7a73a9fc0d50" sha1="239a2ba9cb831e24d9108176f256b46faf11ad9d"/>
+		<url>https://retroachievements.org/game/22869/hashes</url>
+		<hash>4a0b8b8b9a31ddd9f3ff7a73a9fc0d50</hash>
+	</game>
+	
+	<game name="Retail/Dark and Under (World) (Erwin's Collection)">
+		<category></category>
+		<description>Dark and Under (World) (Erwin's Collection)</description>
+		<rom name="Dark and Under (World) (Erwin's Collection).hex" size="74759" crc="1f001323" md5="0f43defeddea8b5fc033722080d24820" sha1="826ab468fb76c367e4955356a8f47a88532c5dc4"/>
+		<url>https://retroachievements.org/game/11123/hashes</url>
+		<hash>03e6ae7fc84878476d385f68e748000e</hash>
+	</game>
+	
+	<game name="Retail/Dazzle Dash (World) (brow1067)">
+		<category></category>
+		<description>Dazzle Dash (World) (brow1067)</description>
+		<rom name="Dazzle Dash (World) (brow1067).arduboy" size="185579" crc="d20195b4" md5="3d45bde681af8b0ddffe19442b864c95" sha1="91b5342c08da5eaf45558d767f76af432b0e1521"/>
+		<url>https://retroachievements.org/game/30914/hashes</url>
+		<hash>7da09de005f835102d3880db5a1635be</hash>
+	</game>
+	
+	<game name="Retail/Dice of Fate (World) (Team A.R.G.)">
+		<category></category>
+		<description>Dice of Fate (World) (Team A.R.G.)</description>
+		<rom name="Dice of Fate (World) (Team A.R.G.).hex" size="63202" crc="fd910129" md5="775463f1b4085bd9c958c9bf12c9b77d" sha1="c650904f34ca8a5fc13506d6ad0b7491ab18c520"/>
+		<url>https://retroachievements.org/game/19577/hashes</url>
+		<hash>11bdbd6a5ac361e2307528e29fbcee14</hash>
+	</game>
+	
+	<game name="Retail/Dinosaur (World)">
+		<category></category>
+		<description>Dinosaur (World)</description>
+		<rom name="Dinosaur (World).hex" size="37155" crc="b11b601f" md5="2f8d0b6c8026bf162f88bf608eea9114" sha1="e6813d7b14d187d3357a6a1497947dd6631dd711"/>
+		<url>https://retroachievements.org/game/21383/hashes</url>
+		<hash>438a2a90e24d06c78fa3e2baa7e120e5</hash>
+	</game>
+	
+	<game name="Retail/Electrocardioground FX (World) (oddgoo)">
+		<category></category>
+		<description>Electrocardioground FX (World) (oddgoo)</description>
+		<rom name="Electrocardioground FX (World) (oddgoo).hex" size="46560" crc="9fff01fa" md5="2cc18e234ef36f9b3d090408283af509" sha1="d9f98e232302fda2bfd48453057921e5f55a008a"/>
+		<url>https://retroachievements.org/game/29339/hashes</url>
+		<hash>cb860501a5f16a84fe2359e4498d0fe4</hash>
+	</game>
+	
+	<game name="Retail/Fill the Cup (World)">
+		<category></category>
+		<description>Fill the Cup (World)</description>
+		<rom name="Fill the Cup (World).hex" size="36570" crc="aa57e6f7" md5="e86f55a515761c75fbbd2b0d6e6c48f7" sha1="a1c2553a94b44e958f63a1e75cc54032b5abde70"/>
+		<url>https://retroachievements.org/game/19518/hashes</url>
+		<hash>eb154494abb4500c5c5f223c091cf7ae</hash>
+	</game>
+	
+	<game name="Retail/Fire Panic (World) (Alt)">
+		<category></category>
+		<description>Fire Panic (World) (Alt)</description>
+		<rom name="Fire Panic (World) (Alt).hex" size="75241" crc="6a12f994" md5="b31c2f8cb797ddcc2d8ad9265cda87a1" sha1="bf8c100e213ea1a9e7716a0044d56d666bf66385"/>
+		<url>https://retroachievements.org/game/19512/hashes</url>
+		<hash>9ff3d81181c550c74bb9d4a60326c741</hash>
+	</game>
+	
+	<game name="Retail/Flappy Ball (World) (Erwin's Collection)">
+		<category></category>
+		<description>Flappy Ball (World) (Erwin's Collection)</description>
+		<rom name="Flappy Ball (World) (Erwin's Collection).hex" size="36120" crc="99951359" md5="311a72eba1acd599d7888fe36d01fcb4" sha1="13457e34473dc10d07af56f1aba116136231e1d5"/>
+		<url>https://retroachievements.org/game/5816/hashes</url>
+		<hash>311a72eba1acd599d7888fe36d01fcb4</hash>
+	</game>
+	
+	<game name="Retail/Flappy Birdie (World) (Erwin's Collection)">
+		<category></category>
+		<description>Flappy Birdie (World) (Erwin's Collection)</description>
+		<rom name="Flappy Birdie (World) (Erwin's Collection).hex" size="42352" crc="94364a5b" md5="0e6d0272a0257667cda05d5d7cc5afad" sha1="2a222d71e453e456d072e6529e0e5c23596600ce"/>
+		<url>https://retroachievements.org/game/8691/hashes</url>
+		<hash>0e6d0272a0257667cda05d5d7cc5afad</hash>
+	</game>
+	
+	<game name="Retail/Floor Fall (World) (v0.1.0)">
+		<category></category>
+		<description>Floor Fall (World) (v0.1.0)</description>
+		<rom name="Floor Fall (World) (v0.1.0).hex" size="30671" crc="697e0b72" md5="773e880b54fdc4c0bc6a884d063e6ec6" sha1="6417eec7251b100b9ea0d3e5e230a83c26ca8184"/>
+		<url>https://retroachievements.org/game/21386/hashes</url>
+		<hash>c5428424f0fe46c1c557f772ee26d37b</hash>
+	</game>
+	
+	<game name="Retail/Fluffle's Rainy Day (World)">
+		<category></category>
+		<description>Fluffle's Rainy Day (World)</description>
+		<rom name="Fluffle's Rainy Day (World).hex" size="41066" crc="efc42193" md5="622c1342266921c833f2137f502ed8ce" sha1="1837f46840ecadfb6b1e296a35744c86cb81c0c7"/>
+		<url>https://retroachievements.org/game/21500/hashes</url>
+		<hash>e432835a71588e7a1e4499f175f78881</hash>
+	</game>
+	
+	<game name="Retail/Galactea (World)">
+		<category></category>
+		<description>Galactea (World)</description>
+		<rom name="Galactea (World).hex" size="66090" crc="a5e1640e" md5="4e88ec72c0ceff1263a5c37edd9587c8" sha1="9226c2bc06041093a5f219059810f5d79656c89b"/>
+		<url>https://retroachievements.org/game/21414/hashes</url>
+		<hash>f32e34cbaaac81e0cac800d861281425</hash>
+	</game>
+	
+	<game name="Retail/Hangman! (World) (Erwin's Collection)">
+		<category></category>
+		<description>Hangman! (World) (Erwin's Collection)</description>
+		<rom name="Hangman! (World) (Erwin's Collection).hex" size="46568" crc="e7152571" md5="14b5019f0f86731d8fa1e1c3a560b73d" sha1="30b012f2141c05713008b746d9c4d3063555ed07"/>
+		<url>https://retroachievements.org/game/8624/hashes</url>
+		<hash>14b5019f0f86731d8fa1e1c3a560b73d</hash>
+	</game>
+	
+	<game name="Retail/Holidate (World)">
+		<category></category>
+		<description>Holidate (World)</description>
+		<rom name="Holidate (World).hex" size="80154" crc="31b8d05f" md5="966680737e7a65fc66c05951a409f9f3" sha1="4135827498ab6ad3653a7448622de029922f7a45"/>
+		<url>https://retroachievements.org/game/21466/hashes</url>
+		<hash>e5866b4518ed4c68067f0b249ab4af52</hash>
+	</game>
+	
+	<game name="Retail/Kemono Patrol (World) (Erwin's Collection)">
+		<category></category>
+		<description>Kemono Patrol (World) (Erwin's Collection)</description>
+		<rom name="Kemono Patrol (World) (Erwin's Collection).hex" size="43956" crc="5b5f0eb7" md5="bab2d1c54921bded4b03875bc90b2569" sha1="f926b4d03dadb50c18f75ee4d25b0bc460780d97"/>
+		<url>https://retroachievements.org/game/23777/hashes</url>
+		<hash>bab2d1c54921bded4b03875bc90b2569</hash>
+	</game>
+	
+	<game name="Retail/Knight Move (World) (v0.11) (Erwin's Collection)">
+		<category></category>
+		<description>Knight Move (World) (v0.11) (Erwin's Collection)</description>
+		<rom name="Knight Move (World) (v0.11) (Erwin's Collection).hex" size="70900" crc="25c00011" md5="b29f86eea51fb11bc388a09c4f09e43f" sha1="166cb81e34ce0530898df69016a9f6dcb6c2d9a1"/>
+		<url>https://retroachievements.org/game/33095/hashes</url>
+		<hash>b29f86eea51fb11bc388a09c4f09e43f</hash>
+	</game>
+	
+	<game name="Retail/Kong (World) (v1.0.4)">
+		<category></category>
+		<description>Kong (World) (v1.0.4)</description>
+		<rom name="Kong (World) (v1.0.4).hex" size="76526" crc="26ada9bd" md5="a521a7d17a1a7ccd50ca9ca509395882" sha1="47074b008f2c8c9e6c8ac5bdfacd083f8e9e37f8"/>
+		<url>https://retroachievements.org/game/7912/hashes</url>
+		<hash>57c1fa57baaacce9b1c64d7e95c6b4e0</hash>
+	</game>
+	
+	<game name="Retail/Kong II (World) (v1.0.0) (Erwin's Collection)">
+		<category></category>
+		<description>Kong II (World) (v1.0.0) (Erwin's Collection)</description>
+		<rom name="Kong II (World) (v1.0.0) (Erwin's Collection).hex" size="78828" crc="daf07dca" md5="6d082e8eaa6f39460872cdcaebf311ad" sha1="7b884803dfef6a16e6d32d82041583b37e9a4ae3"/>
+		<url>https://retroachievements.org/game/20318/hashes</url>
+		<hash>6d082e8eaa6f39460872cdcaebf311ad</hash>
+	</game>
+	
+	<game name="Retail/Lagunita (World)">
+		<category></category>
+		<description>Lagunita (World)</description>
+		<rom name="Lagunita (World).hex" size="79528" crc="e2f959b1" md5="709f59324e547e4806b7f0dbc2250cfc" sha1="c429b033285a90fba2cfd32c4d02d3218aa03928"/>
+		<url>https://retroachievements.org/game/9218/hashes</url>
+		<hash>0898dc4c50f290dc09530a266696ca4a</hash>
+	</game>
+	
+	<game name="Retail/LongCat (World)">
+		<category></category>
+		<description>LongCat (World)</description>
+		<rom name="LongCat (World).hex" size="75900" crc="67bbce89" md5="789289705d124c347dd927dba7caa1ff" sha1="09d35269d8ca4679c43dee8da3975e4c1e302520"/>
+		<url>https://retroachievements.org/game/19529/hashes</url>
+		<hash>c736efcb011fc606b9d66545bc14b27d</hash>
+	</game>
+	
+	<game name="Retail/MallARD Hunt (World)">
+		<category></category>
+		<description>MallARD Hunt (World)</description>
+		<rom name="MallARD Hunt (World).hex" size="38204" crc="b2192865" md5="1f97890993d9fb44ccf9bf033122a1f2" sha1="cdffefc938d47260999f98af36ad872a46a81210"/>
+		<url>https://retroachievements.org/game/19522/hashes</url>
+		<hash>1f97890993d9fb44ccf9bf033122a1f2</hash>
+	</game>
+	
+	<game name="Retail/MicroTank (World) (Erwin's Collection)">
+		<category></category>
+		<description>MicroTank (World) (Erwin's Collection)</description>
+		<rom name="MicroTank (World) (Erwin's Collection).hex" size="73944" crc="69be3e29" md5="758308f5c0fcb54fbf9702889f1db52a" sha1="04cd4687c541d2558e12c582446932bfa3eb1408"/>
+		<url>https://retroachievements.org/game/8658/hashes</url>
+		<hash>758308f5c0fcb54fbf9702889f1db52a</hash>
+	</game>
+	
+	<game name="Retail/MicroTD (World) (v1.01) (Erwin's Collection)">
+		<category></category>
+		<description>MicroTD (World) (v1.01) (Erwin's Collection)</description>
+		<rom name="MicroTD (World) (v1.01) (Erwin's Collection).hex" size="70040" crc="daf50810" md5="de5e77cebaa017d595f4d9fc8d2c542c" sha1="0098bd010349b07a30f4510932285b7efb4a444c"/>
+		<url>https://retroachievements.org/game/11126/hashes</url>
+		<hash>de5e77cebaa017d595f4d9fc8d2c542c</hash>
+	</game>
+	
+	<game name="Retail/MicroCity (World) (Erwin's Collection)">
+		<category></category>
+		<description>MicroCity (World) (Erwin's Collection)</description>
+		<rom name="MicroCity (World) (Erwin's Collection).hex" size="65376" crc="e1df2dff" md5="6717a1b1e960d013ef61eceea6ea0006" sha1="78daf028ecb5e729871fde44c018846bde906272"/>
+		<url>https://retroachievements.org/game/11132/hashes</url>
+		<hash>6717a1b1e960d013ef61eceea6ea0006</hash>
+	</game>
+	
+	<game name="Retail/Midnight Wild (World)">
+		<category></category>
+		<description>Midnight Wild (World)</description>
+		<rom name="Midnight Wild (World).hex" size="80666" crc="0ea9f9a6" md5="7497d5cf5341dd992ba258c548d61461" sha1="ebc71a9b5a96c6244e456d6e2cecf72f6dcb2b72"/>
+		<url>https://retroachievements.org/game/7910/hashes</url>
+		<hash>85ea7d6ac8a595c4fc76a699de6f79be</hash>
+	</game>
+	
+	<game name="Retail/Mini Rogue (World) (Erwin's Collection)">
+		<category></category>
+		<description>Mini Rogue (World) (Erwin's Collection)</description>
+		<rom name="Mini Rogue (World) (Erwin's Collection).hex" size="78208" crc="2a760ce7" md5="95a6e026f2c59a5b73dfa90867df9f07" sha1="76c9c221ad9b426bef459990bc7ec51b211a0dc5"/>
+		<url>https://retroachievements.org/game/9267/hashes</url>
+		<hash>95a6e026f2c59a5b73dfa90867df9f07</hash>
+	</game>
+	
+	<game name="Retail/Monpals (World)">
+		<category></category>
+		<description>Monpals (World)</description>
+		<rom name="Monpals (World).hex" size="79631" crc="1eb2f89b" md5="94400e55213df786e956f7cf1aad6575" sha1="506e24c62a1551252e67924e62e0ddde976d9cdc"/>
+		<url>https://retroachievements.org/game/19519/hashes</url>
+		<hash>8cff835493bf90ca063d03bbed4671f2</hash>
+	</game>
+	
+	<game name="Retail/Mystic Balloon (World) (No QR Code)">
+		<category></category>
+		<description>Mystic Balloon (World) (No QR Code)</description>
+		<rom name="Mystic Balloon (World) (No QR Code).hex" size="77025" crc="68e7b30e" md5="fae7eabb569c734a4d97bb13b3903654" sha1="27569ee7c3af64a6ade2d559a2c1d3465da26e35"/>
+		<url>https://retroachievements.org/game/11125/hashes</url>
+		<hash>4f36f3dc5e0b111304b6969f1366bc65</hash>
+	</game>
+	
+	<game name="Retail/Ninja Fuzzgrawth (World) (Erwin's Collection)">
+		<category></category>
+		<description>Ninja Fuzzgrawth (World) (Erwin's Collection)</description>
+		<rom name="Ninja Fuzzgrawth (World) (Erwin's Collection).hex" size="76676" crc="5f134180" md5="e938c3bd3f51bbde769cd266fddd775d" sha1="bb58b88f0f762ae0db086e115d07125d89d2517e"/>
+		<url>https://retroachievements.org/game/3660/hashes</url>
+		<hash>e938c3bd3f51bbde769cd266fddd775d</hash>
+	</game>
+	
+	<game name="Retail/Not Just a Hat Rack (World) (Erwin's Collection)">
+		<category></category>
+		<description>Not Just a Hat Rack (World) (Erwin's Collection)</description>
+		<rom name="Not Just a Hat Rack (World) (Erwin's Collection).hex" size="70904" crc="73816add" md5="c5b6c80b75cd53605903c7c81779af91" sha1="6f2a837cd48c3257cef9c6ddf06a0e884f4104fd"/>
+		<url>https://retroachievements.org/game/8689/hashes</url>
+		<hash>c5b6c80b75cd53605903c7c81779af91</hash>
+	</game>
+	
+	<game name="Retail/Oil Panic (World) (Erwin's Collection)">
+		<category></category>
+		<description>Oil Panic (World) (Erwin's Collection)</description>
+		<rom name="Oil Panic (World) (Erwin's Collection).hex" size="78656" crc="f81db874" md5="3ae26dd1c90a5fbff1109ca62815103e" sha1="750d5233a2e8eb3fe3e7e4c061d51cd2511cc86e"/>
+		<url>https://retroachievements.org/game/8632/hashes</url>
+		<hash>3ae26dd1c90a5fbff1109ca62815103e</hash>
+	</game>
+	
+	<game name="Retail/Omega Horizon (World) (v1.3)">
+		<category></category>
+		<description>Omega Horizon (World) (v1.3)</description>
+		<rom name="Omega Horizon (World) (v1.3).hex" size="80310" crc="efab1531" md5="5ae5b0de5bedb4e15a1783cefec25a38" sha1="1f0c2aa88b9267507c6cd7c2e9d1b57b6be59fc2"/>
+		<url>https://retroachievements.org/game/11121/hashes</url>
+		<hash>41ffd1a661c6424e41efc471a199425d</hash>
+	</game>
+	
+	<game name="Retail/Paqman/Paqman (World) (Erwin's Collection)">
+		<category></category>
+		<description>Paqman (World) (Erwin's Collection)</description>
+		<rom name="Paqman (World) (Erwin's Collection).hex" size="61192" crc="0c6316ba" md5="6d764ed131ab107fe1e30df996d88bf5" sha1="70c98f89b6c55a55969ab082bb01c418c84d622c"/>
+		<url>https://retroachievements.org/game/8676/hashes</url>
+		<hash>6d764ed131ab107fe1e30df996d88bf5</hash>
+	</game>
+	<game name="Retail/Paqman/Paqman (World) (Fixed) (akkera102)">
+		<category></category>
+		<description>Paqman (World) (Fixed) (akkera102)</description>
+		<rom name="Paqman (World) (Fixed) (akkera102).hex" size="64924" crc="d00ff572" md5="dffae237b4c93c17dc9d24f379f63ee1" sha1="f3670580ad8c4324564b2758257edf515c6cbbb8"/>
+		<url>https://retroachievements.org/game/8676/hashes</url>
+		<hash>e5f1e8878437136dcc9df3651873e829</hash>
+	</game>
+	
+	<game name="Retail/PiCross (World) (Erwin's Collection)">
+		<category></category>
+		<description>PiCross (World) (Erwin's Collection)</description>
+		<rom name="PiCross (World) (Erwin's Collection).hex" size="77384" crc="54e9b9eb" md5="75db0d4c0c57d8268b1ecaef6f688c68" sha1="7f0bb4cf2c08dcb1d1bad70900e4b67a13c6b43c"/>
+		<url>https://retroachievements.org/game/9251/hashes</url>
+		<hash>75db0d4c0c57d8268b1ecaef6f688c68</hash>
+	</game>
+	
+	<game name="Retail/Pipes (World) (Erwin's Collection)">
+		<category></category>
+		<description>Pipes (World) (Erwin's Collection)</description>
+		<rom name="Pipes (World) (Erwin's Collection).hex" size="71180" crc="4d0b0b94" md5="1774d69cc164843f96ca10d6b72d21bb" sha1="1f2dec0cee095004b1c5a6aaab95c68bfee1432d"/>
+		<url>https://retroachievements.org/game/8626/hashes</url>
+		<hash>1774d69cc164843f96ca10d6b72d21bb</hash>
+	</game>
+	
+	<game name="Retail/Quarto! (World) (v0.10) (Erwin's Collection)">
+		<category></category>
+		<description>Quarto! (World) (v0.10) (Erwin's Collection)</description>
+		<rom name="Quarto! (World) (v0.10) (Erwin's Collection).hex" size="71348" crc="47a0873b" md5="6a2ab0ba8d2ecb2921d0a41e79d37202" sha1="965c6ff1a376a7a072ec4bf41250e109322b75b5"/>
+		<url>https://retroachievements.org/game/35173/hashes</url>
+		<hash>6a2ab0ba8d2ecb2921d0a41e79d37202</hash>
+	</game>
+	
+	<game name="Retail/Rayne the Rogue (World) (Erwin's Collection)">
+		<category></category>
+		<description>Rayne the Rogue (World) (Erwin's Collection)</description>
+		<rom name="Rayne the Rogue (World) (Erwin's Collection).hex" size="59288" crc="71cbb8aa" md5="49468ac181d6b6eacb034e1b5e396475" sha1="1690b2e6d632d5fc265ec47af0b72912df3f93f5"/>
+		<url>https://retroachievements.org/game/19513/hashes</url>
+		<hash>49468ac181d6b6eacb034e1b5e396475</hash>
+	</game>
+	
+	<game name="Retail/Rhythum (World) (v1.0.1)">
+		<category></category>
+		<description>Rhythum (World) (v1.0.1)</description>
+		<rom name="Rhythum (World) (v1.0.1).hex" size="58178" crc="417915d8" md5="704b62faed2d5131abf3978df53738fc" sha1="6301b042828d558f33b53aa9fa450b38e0db678f"/>
+		<url>https://retroachievements.org/game/26482/hashes</url>
+		<hash>d615c970c6accc128745c1680e2beb6c</hash>
+	</game>
+	
+	<game name="Retail/Rick and Morty Game (World) (Erwin's Collection)">
+		<category></category>
+		<description>Rick and Morty Game (World) (Erwin's Collection)</description>
+		<rom name="Rick and Morty Game (World) (Erwin's Collection).hex" size="27920" crc="5ef32dc0" md5="7c806db164a90b6cc7dda291d40c267b" sha1="a855d9dbf7e5bf260cf30092c3d4eef570416855"/>
+		<url>https://retroachievements.org/game/7935/hashes</url>
+		<hash>7c806db164a90b6cc7dda291d40c267b</hash>
+	</game>
+	
+	<game name="Retail/Rick Ardurous (World) (lswbanban)">
+		<category></category>
+		<description>Rick Ardurous (World) (lswbanban)</description>
+		<rom name="Rick Ardurous (World) (lswbanban).hex" size="79095" crc="732afb2e" md5="53d0a8eaf9e76424f23bb0d86a41923e" sha1="ea2db821022bd290ca21fb84a980425f6e368218"/>
+		<url>https://retroachievements.org/game/32475/hashes</url>
+		<hash>742d297c1d0f0c2a58d64be4a00a8462</hash>
+	</game>
+	
+	<game name="Retail/Road Trip (World) (Erwin's Collection)">
+		<category></category>
+		<description>Road Trip (World) (Erwin's Collection)</description>
+		<rom name="Road Trip (World) (Erwin's Collection).hex" size="78336" crc="f0018ff5" md5="12c7a6d38e6c0dbaf4b20a61c3a20374" sha1="2a53342ca222f1728085f5b57eaa31ebe9bc63f6"/>
+		<url>https://retroachievements.org/game/8678/hashes</url>
+		<hash>12c7a6d38e6c0dbaf4b20a61c3a20374</hash>
+	</game>
+	
+	<game name="Retail/Santa's Factory (World)">
+		<category></category>
+		<description>Santa's Factory (World)</description>
+		<rom name="Santa's Factory (World).hex" size="48826" crc="a086051b" md5="33b2e6a068ca3fa6cb5112dc7e47dc6b" sha1="dfb5c9c4f8478bbc4c55ffb861c16577312ec6f5"/>
+		<url>https://retroachievements.org/game/21473/hashes</url>
+		<hash>d65b44b7b77db44aa8d08d57f0210175</hash>
+	</game>
+	
+	<game name="Retail/Shattered Lands - Towers of Perdition (World) (v1.4)">
+		<category></category>
+		<description>Shattered Lands - Towers of Perdition (World) (v1.4)</description>
+		<rom name="Shattered Lands - Towers of Perdition (World) (v1.4).hex" size="80654" crc="75ac61d1" md5="2f7cb8ad37814c9349771530bc80f949" sha1="043377d87549ebeed666b53dca5c13d3804fdf73"/>
+		<url>https://retroachievements.org/game/8778/hashes</url>
+		<hash>f3c23d302106643bc61836c01366d392</hash>
+	</game>
+	
+	<game name="Retail/Single Ennead (World)">
+		<category></category>
+		<description>Single Ennead (World)</description>
+		<rom name="Single Ennead (World).hex" size="60027" crc="acff0f43" md5="e0d48ca6e452db062bfade9b4bac6736" sha1="69aa4f2f70afa5e3a34a43dacbb5f3bf747d23de"/>
+		<url>https://retroachievements.org/game/21876/hashes</url>
+		<hash>2db76e2fd023434da45e5ab93e62172f</hash>
+	</game>
+	
+	<game name="Retail/Sirene (World) (No QR Code)">
+		<category></category>
+		<description>Sirene (World) (No QR Code)</description>
+		<rom name="Sirene (World) (No QR Code).hex" size="71907" crc="48ccdefc" md5="d4afa66789802586382825692c4226a9" sha1="e848d481128a23b101743d07264bb932628d00ad"/>
+		<url>https://retroachievements.org/game/9215/hashes</url>
+		<hash>52aaf42affe980549f64183865486e17</hash>
+	</game>
+	
+	<game name="Retail/Sliding Tiles (World) (Pharap)">
+		<category></category>
+		<description>Sliding Tiles (World) (Pharap)</description>
+		<rom name="Sliding Tiles (World) (Pharap).hex" size="39266" crc="3515ce68" md5="58933350f6600935f8a6b75d29f213b3" sha1="6130055c58ff6f6f31dd9f01f76a0eb7b9f041c5"/>
+		<url>https://retroachievements.org/game/29879/hashes</url>
+		<hash>bc7b7565daabdf505b619ce1f45013b2</hash>
+	</game>
+	
+	<game name="Retail/SpaceCab (World) (v1.0.1) (Press Play On Tape)">
+		<category></category>
+		<description>SpaceCab (World) (v1.0.1) (Press Play On Tape)</description>
+		<rom name="SpaceCab (World) (v1.0.1) (Press Play On Tape).hex" size="76370" crc="b314b9a0" md5="0781ff272926a3fb07fc7435bd197faa" sha1="789e91103689728b8e9f2c906efdb1078b1e6e7a"/>
+		<url>https://retroachievements.org/game/19515/hashes</url>
+		<hash>9ea09acd5c73b8298c64911e4ccb83f2</hash>
+	</game>
+	
+	<game name="Retail/Squid Jump (World) (v1.2) (PrimmR)">
+		<category></category>
+		<description>Squid Jump (World) (v1.2) (PrimmR)</description>
+		<rom name="Squid Jump (World) (v1.2) (PrimmR).hex" size="66908" crc="685c06bb" md5="7754a6f0c46739339398c25497e89835" sha1="ae4679673cb8c741677bd8d928aa5f9be2a78a00"/>
+		<url>https://retroachievements.org/game/26074/hashes</url>
+		<hash>9af6d3c564e9ee7093559f77f55ff50e</hash>
+	</game>
+	
+	<game name="Retail/Star Honor (World) (Erwin's Collection)">
+		<category></category>
+		<description>Star Honor (World) (Erwin's Collection)</description>
+		<rom name="Star Honor (World) (Erwin's Collection).hex" size="78735" crc="c3728b10" md5="62c3e54133d3cd82ccc47d899eb0b8d2" sha1="0333db0fd2e95d4691a7d65bdfc920dadf906a3b"/>
+		<url>https://retroachievements.org/game/11671/hashes</url>
+		<hash>463a980cf9eae9b9d67467a97c0bbf31</hash>
+	</game>
+	
+	<game name="Retail/Starduino (World) (Erwin's Collection)">
+		<category></category>
+		<description>Starduino (World) (Erwin's Collection)</description>
+		<rom name="Starduino (World) (Erwin's Collection).hex" size="79156" crc="9d4f111b" md5="491333171ab23dc7fe357a19a2bdc012" sha1="77f18613d7bb53c762a4d09b78a177bc4a7fa6a7"/>
+		<url>https://retroachievements.org/game/9237/hashes</url>
+		<hash>c6a44113fbe290233ddeadd9e9d9b9d2</hash>
+	</game>
+	
+	<game name="Retail/Stonk Simulator (World) (Laconic)">
+		<category></category>
+		<description>Stonk Simulator (World) (Laconic)</description>
+		<rom name="Stonk Simulator (World) (Laconic).hex" size="73556" crc="f76df7fa" md5="c8b14aefa05b547b3fbbf5550b5ad370" sha1="9b0b53138ec8d25d9af101464e6c705714a15a79"/>
+		<url>https://retroachievements.org/game/28355/hashes</url>
+		<hash>2974a9bdae2e6abb1da642e4b363b4e9</hash>
+	</game>
+	
+	<game name="Retail/Sudoku-NBP (World) (Erwin's Collection)">
+		<category></category>
+		<description>Sudoku-NBP (World) (Erwin's Collection)</description>
+		<rom name="Sudoku-NBP (World) (Erwin's Collection).hex" size="75296" crc="503963c1" md5="e732ecc69f205751c8aa69d10aefdcf0" sha1="26ef59a2cffb66b47aba84def325e58608c0c74a"/>
+		<url>https://retroachievements.org/game/8690/hashes</url>
+		<hash>e732ecc69f205751c8aa69d10aefdcf0</hash>
+	</game>
+	
+	<game name="Retail/Tackle Box (World) (v1.2.0) (Erwin's Collection)">
+		<category></category>
+		<description>Tackle Box (World) (v1.2.0) (Erwin's Collection)</description>
+		<rom name="Tackle Box (World) (v1.2.0) (Erwin's Collection).hex" size="78824" crc="ed997e00" md5="40657e770e91b7317bd583fc70bd23db" sha1="246d6aabaa17404db0eb375ccdbb046aab65d69e"/>
+		<url>https://retroachievements.org/game/5843/hashes</url>
+		<hash>40657e770e91b7317bd583fc70bd23db</hash>
+	</game>
+	
+	<game name="Retail/Bounce, The (World) (Erwin's Collection)">
+		<category></category>
+		<description>Bounce, The (World) (Erwin's Collection)</description>
+		<rom name="Bounce, The (World) (Erwin's Collection).hex" size="76016" crc="4d2e13fc" md5="f557ab3e1ab9a3b6a6b550ff3b6a3d52" sha1="cd6169ecdc359b1cd5ecd0691fc897b15367753f"/>
+		<url>https://retroachievements.org/game/5838/hashes</url>
+		<hash>f557ab3e1ab9a3b6a6b550ff3b6a3d52</hash>
+	</game>
+	
+	<game name="Retail/Crawl, The (World) (v1.01)">
+		<category></category>
+		<description>Crawl, The (World) (v1.01)</description>
+		<rom name="Crawl, The (World) (v1.01).hex" size="70680" crc="aea863c8" md5="f45c041c4dc0042bfbff7a9aad4b9046" sha1="8160bdca27eaebf88ef79642fffd2bbf3cc862ed"/>
+		<url>https://retroachievements.org/game/7913/hashes</url>
+		<hash>cdd759fc287232a1633cf75702ab6ac8</hash>
+	</game>
+	
+	<game name="Retail/Curse of Astarok, The (World) (v1.1)">
+		<category></category>
+		<description>Curse of Astarok, The (World) (v1.1)</description>
+		<rom name="Curse of Astarok, The (World) (v1.1).hex" size="81398" crc="39fa3fc8" md5="6afa31b871ecb16e14c6db76a1f363a0" sha1="0717f2d6a084e75f976fbb1caa85abfe7d693b35"/>
+		<url>https://retroachievements.org/game/20068/hashes</url>
+		<hash>6462757dc4075ac696e882b957ab1d2b</hash>
+	</game>
+	
+	<game name="Retail/Social Distance Game, The (World) (v1.1.0) (Erwin's Collection)">
+		<category></category>
+		<description>Social Distance Game, The (World) (v1.1.0) (Erwin's Collection)</description>
+		<rom name="Social Distance Game, The (World) (v1.1.0) (Erwin's Collection).hex" size="35128" crc="a37ad6da" md5="ca8b689bed5ce47072a2d04b90806f10" sha1="a3d51734fe7e8fee72b4e2a31dad0f098de0ca9d"/>
+		<url>https://retroachievements.org/game/11680/hashes</url>
+		<hash>ca8b689bed5ce47072a2d04b90806f10</hash>
+	</game>
+	
+	<game name="Retail/Tiny 2048 (World) (akkera102)">
+		<category></category>
+		<description>Tiny 2048 (World) (akkera102)</description>
+		<rom name="Tiny 2048 (World) (akkera102).hex" size="43672" crc="b13fd45a" md5="47104536519ec9378175f3e2e69e002b" sha1="06a90fb6ea5b070327a374411bab825d04c31877"/>
+		<url>https://retroachievements.org/game/25683/hashes</url>
+		<hash>47104536519ec9378175f3e2e69e002b</hash>
+	</game>
+	
+	<game name="Retail/Tiny Sokoban (World) (Erwin's Collection)">
+		<category></category>
+		<description>Tiny Sokoban (World) (Erwin's Collection)</description>
+		<rom name="Tiny Sokoban (World) (Erwin's Collection).hex" size="54904" crc="5ee22bff" md5="c1021b50977c48f87aeebff2e3fee0e5" sha1="f3e988c73902f2b93376eb4d463f72ee35cb0682"/>
+		<url>https://retroachievements.org/game/19547/hashes</url>
+		<hash>c1021b50977c48f87aeebff2e3fee0e5</hash>
+	</game>
+	
+	<game name="Retail/Tiny-DDug (World) (Erwin's Collection)">
+		<category></category>
+		<description>Tiny-DDug (World) (Erwin's Collection)</description>
+		<rom name="Tiny-DDug (World) (Erwin's Collection).hex" size="39667" crc="245ffb61" md5="8fd2cdbf69970e22723fe3c1695602ef" sha1="7bef79408285c82fadb8996caf964f287352f45e"/>
+		<url>https://retroachievements.org/game/23778/hashes</url>
+		<hash>8bd37792042f85b18e7641c6eb841ffc</hash>
+	</game>
+	
+	<game name="Retail/Tower of Pain (World) (v1.2.2)">
+		<category></category>
+		<description>Tower of Pain (World) (v1.2.2)</description>
+		<rom name="Tower of Pain (World) (v1.2.2).hex" size="80408" crc="0e2eaf96" md5="b548ee67da194b8324620fd20cf95e0d" sha1="afdbd5609c09818cfeee20deea06ece0bb6fcd25"/>
+		<url>https://retroachievements.org/game/19520/hashes</url>
+		<hash>bfe58e5d1406f6345e26de2a4551d74a</hash>
+	</game>
+	
+	<game name="Retail/Turtle Bridge (World) (v1.3)">
+		<category></category>
+		<description>Turtle Bridge (World) (v1.3)</description>
+		<rom name="Turtle Bridge (World) (v1.3).hex" size="73544" crc="5c20616e" md5="0111865fb00cdce7634d929554182359" sha1="9039586aadaa996a8532a6e728e0375724cbf4f0"/>
+		<url>https://retroachievements.org/game/7880/hashes</url>
+		<hash>0bcad72bba1d84882763b0f02328226f</hash>
+	</game>
+	
+	<game name="Retail/Under the Tower (World) (Erwin's Collection)">
+		<category></category>
+		<description>Under the Tower (World) (Erwin's Collection)</description>
+		<rom name="Under the Tower (World) (Erwin's Collection).hex" size="80220" crc="c2a56a2f" md5="b392b3941763a25d8fb23f07635c6d5b" sha1="60d22c10abb920c817f426b06e57d97345e35dc9"/>
+		<url>https://retroachievements.org/game/9286/hashes</url>
+		<hash>4927d3169aba8925ca356522b0ac827c</hash>
+	</game>
+	
+	<game name="Retail/Virus LQP-79/Virus LQP-79 (World) (2021-06-21) (No QR Code)">
+		<category></category>
+		<description>Virus LQP-79 (World) (2021-06-21) (No QR Code)</description>
+		<rom name="Virus LQP-79 (World) (2021-06-21) (No QR Code).hex" size="75205" crc="4ff79af0" md5="19c576fd7d1f35ba2c717880b22301ff" sha1="502e2881ba1e053692273f1d11ba46173e93aa10"/>
+		<url>https://retroachievements.org/game/11127/hashes</url>
+		<hash>07fe9a67d03c1a78ac4595a4b2c1119f</hash>
+	</game>
+	<game name="Retail/Virus LQP-79/Virus LQP-79 (World) (Team A.R.G.) (Save Fix) (Vancleef)">
+		<category></category>
+		<description>Virus LQP-79 (World) (Team A.R.G.) (Save Fix) (Vancleef)</description>
+		<rom name="Virus LQP-79 (World) (Team A.R.G.) (Save Fix) (Vancleef).hex" size="75299" crc="9d9dc05c" md5="b326625001d5f96cc60c966385368036" sha1="c48ab21944340dafb62149a38c85670503a9f4f4"/>
+		<url>https://retroachievements.org/game/11127/hashes</url>
+		<hash>aacc854ebb449e34c1c5c518c97c6b1e</hash>
+	</game>
+	
+	<game name="Retail/Yatzy/Yatzy (World) (v1.3)">
+		<category></category>
+		<description>Yatzy (World) (v1.3)</description>
+		<rom name="Yatzy (World) (v1.3).hex" size="50487" crc="3025bb5e" md5="bdf32fabba119c86bd1c1184b33f0ab5" sha1="14e82182a38496aed6fabd53d764489c7d2d24fc"/>
+		<url>https://retroachievements.org/game/23781/hashes</url>
+		<hash>d816989a627a49d388f5517c983aa747</hash>
+	</game>
+	
+	<game name="Retail/Zoo at Midnight (World) (Erwin's Collection)">
+		<category></category>
+		<description>Zoo at Midnight (World) (Erwin's Collection)</description>
+		<rom name="Zoo at Midnight (World) (Erwin's Collection).hex" size="58584" crc="d9879358" md5="c8459bc68c1a7bb1886ea092bf107cf3" sha1="dceb9bd9c732790e07ebd386fe29226d4a0f75ae"/>
+		<url>https://retroachievements.org/game/25180/hashes</url>
+		<hash>c8459bc68c1a7bb1886ea092bf107cf3</hash>
+	</game>
+</datafile>

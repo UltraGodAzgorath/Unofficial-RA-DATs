@@ -1,0 +1,1787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>RA - Sega Saturn</name>
+		<description>Sega Saturn</description>
+		<category>No Subfolders</category>
+		<version>20251225</version>
+		<date>25 December 2025</date>
+		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
+		<homepage>https://retroachievements.org</homepage>
+		<url>https://retroachievements.org/system/39/games</url>
+		<titlecount>155</titlecount>
+		<hashcount>196</hashcount>
+		<clrmamepro forcepacking="unzip"/>
+		<romvault forcepacking="unzip"/>
+	</header>
+	<machine name="Christmas NiGHTS into Dreams... (USA) (Demo)">
+		<category>Demo</category>
+		<description>Christmas NiGHTS into Dreams... (USA) (Demo)</description>
+		<release name="Christmas NiGHTS into Dreams... (USA) (Demo)" region="USA"/>
+		<disk name="Christmas NiGHTS into Dreams... (USA) (Demo).chd" sha1="3869b2b91629a40e59eb0a1e8739a63f1e8b2467"/>
+		<url>https://retroachievements.org/game/14531/hashes</url>
+		<hash>f3349305b47dec32eb9b6b2416f5382e</hash>
+	</machine>
+	
+	<machine name="Sonic Z-Treme (NTSC) (XL2) (Demo) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Sonic Z-Treme (NTSC) (XL2) (Demo) (Aftermarket)</description>
+		<release name="Sonic Z-Treme (NTSC) (XL2) (Demo) (Aftermarket)" region="World"/>
+		<disk name="Sonic Z-Treme (NTSC) (XL2) (Demo) (Aftermarket).chd" sha1="1def42257e6bc6a996b68073a334a668203f3a1f"/>
+		<url>https://retroachievements.org/game/10017/hashes</url>
+		<hash>b267f589e0c91f23bed9ddbcbb26889f</hash>
+	</machine>
+	
+	<machine name="Cubecat (RAHash Fix) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Cubecat (RAHash Fix) (Aftermarket)</description>
+		<release name="Cubecat (RAHash Fix) (Aftermarket)" region="World"/>
+		<disk name="Cubecat (RAHash Fix) (Aftermarket).chd" sha1="e8aa97a18df783e344990411e8ae79c77493e55f"/>
+		<url>https://retroachievements.org/game/25008/hashes</url>
+		<hash>2a2f5e4213830d2a836716caa8e2f84f</hash>
+	</machine>
+	
+	<machine name="Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Proto) (Beta)">
+		<category>Prototype</category>
+		<description>Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Proto) (Beta)</description>
+		<release name="Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Proto) (Beta)" region="Japan"/>
+		<disk name="Clockwork Knight Puzzle - Pengin War (Japan) (En,Ja) (Proto) (Beta).chd" sha1="d3f1600d145534f1eed722ccc083f04cfcf8caca"/>
+		<url>https://retroachievements.org/game/25896/hashes</url>
+		<hash>2ef67b44248bbccc1f1097fd77c66b2c</hash>
+	</machine>
+	
+	<machine name="Advanced V.G. (Japan)">
+		<category>Retail</category>
+		<description>Advanced V.G. (Japan)</description>
+		<release name="Advanced V.G. (Japan)" region="Japan"/>
+		<disk name="Advanced V.G. (Japan).chd" sha1="b803811f945b9eee1cc342cf0dc142cbfcb6edc4"/>
+		<url>https://retroachievements.org/game/25727/hashes</url>
+		<hash>862958e9229b0ee26ddeea01fbf6d8e2</hash>
+	</machine>
+	
+	<machine name="Sega Ages - After Burner II (Japan)">
+		<category>Retail</category>
+		<description>Sega Ages - After Burner II (Japan)</description>
+		<release name="Sega Ages - After Burner II (Japan)" region="Japan"/>
+		<disk name="Sega Ages - After Burner II (Japan).chd" sha1="ddf87c34a3ef901e7b7ffa2f98be605c82d6152d"/>
+		<url>https://retroachievements.org/game/24213/hashes</url>
+		<hash>ed1c35565e1489af5e1eadbc8d08f27b</hash>
+	</machine>
+	
+	<machine name="Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (2M)">
+		<category>Retail</category>
+		<description>Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (2M)</description>
+		<release name="Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (2M)" region="Japan"/>
+		<disk name="Akumajou Dracula X - Gekka no Yasoukyoku (Japan) (2M).chd" sha1="17177db05bb403dd34f0aab592df9b17ba7b7015"/>
+		<url>https://retroachievements.org/game/14514/hashes</url>
+		<hash>b38060f45ab282ea629c91d630f81422</hash>
+	</machine>
+	
+	<machine name="Albert Odyssey - Legend of Eldean (USA)">
+		<category>Retail</category>
+		<description>Albert Odyssey - Legend of Eldean (USA)</description>
+		<release name="Albert Odyssey - Legend of Eldean (USA)" region="USA"/>
+		<disk name="Albert Odyssey - Legend of Eldean (USA).chd" sha1="765aa3702625b3a98c6eb7d9f5bd829d264d6d7d"/>
+		<url>https://retroachievements.org/game/14519/hashes</url>
+		<hash>4dcb5872499a6a9286a9b1b15f867f74</hash>
+	</machine>
+	
+	<machine name="Alien Trilogy (USA)">
+		<category>Retail</category>
+		<description>Alien Trilogy (USA)</description>
+		<release name="Alien Trilogy (USA)" region="USA"/>
+		<disk name="Alien Trilogy (USA).chd" sha1="574534e22d0a433484303677e743599815620adb"/>
+		<url>https://retroachievements.org/game/9811/hashes</url>
+		<hash>3ea899f2b89ad6887071cfe178c0e559</hash>
+	</machine>
+	
+	<machine name="Angel Paradise Vol. 1 - Sakaki Yuko - Koi no Yokan in Hollywood (Japan)">
+		<category>Retail</category>
+		<description>Angel Paradise Vol. 1 - Sakaki Yuko - Koi no Yokan in Hollywood (Japan)</description>
+		<release name="Angel Paradise Vol. 1 - Sakaki Yuko - Koi no Yokan in Hollywood (Japan)" region="Japan"/>
+		<disk name="Angel Paradise Vol. 1 - Sakaki Yuko - Koi no Yokan in Hollywood (Japan).chd" sha1="f334435491fe4340416107aee4e7f90d4ece8693"/>
+		<url>https://retroachievements.org/game/14957/hashes</url>
+		<hash>3caeb9cf3b76b02c5c62f71e41d526be</hash>
+	</machine>
+	
+	<machine name="Angel Paradise Vol. 2 - Yoshino Kimika - Isshoni I-ta-i in Hawaii (Japan)">
+		<category>Retail</category>
+		<description>Angel Paradise Vol. 2 - Yoshino Kimika - Isshoni I-ta-i in Hawaii (Japan)</description>
+		<release name="Angel Paradise Vol. 2 - Yoshino Kimika - Isshoni I-ta-i in Hawaii (Japan)" region="Japan"/>
+		<disk name="Angel Paradise Vol. 2 - Yoshino Kimika - Isshoni I-ta-i in Hawaii (Japan).chd" sha1="f3508f5f8368d2074e461589dad00bee190a5f87"/>
+		<url>https://retroachievements.org/game/14959/hashes</url>
+		<hash>081dd203ccbeb9828026a3f06ccf02cf</hash>
+	</machine>
+	
+	<machine name="Arcade Gears Vol. 1 - Pu-Li-Ru-La (Japan)">
+		<category>Retail</category>
+		<description>Arcade Gears Vol. 1 - Pu-Li-Ru-La (Japan)</description>
+		<release name="Arcade Gears Vol. 1 - Pu-Li-Ru-La (Japan)" region="Japan"/>
+		<disk name="Arcade Gears Vol. 1 - Pu-Li-Ru-La (Japan).chd" sha1="9acb4aa73af2b9bc9bd39931a95db86739f51edb"/>
+		<url>https://retroachievements.org/game/17707/hashes</url>
+		<hash>8216a52286458bbadba9f6ee56a4d22a</hash>
+	</machine>
+	
+	<machine name="Arcade Gears Vol. 1 - Pu-Li-Ru-La (Subset - Bonus)">
+		<category>Subset</category>
+		<description>Arcade Gears Vol. 1 - Pu-Li-Ru-La (Subset - Bonus)</description>
+		<release name="Arcade Gears Vol. 1 - Pu-Li-Ru-La (Subset - Bonus)" region="World"/>
+		<disk name="Arcade Gears Vol. 1 - Pu-Li-Ru-La (Subset - Bonus).chd" sha1="45dbc8a0bb114cc0e752c58146d4812d4ebba09d"/>
+		<url>https://retroachievements.org/game/28437/hashes</url>
+		<hash>6085d6c36774b3c219f85b3aedd31771</hash>
+	</machine>
+	
+	<machine name="Arcade Gears Vol. 1 - Pu-Li-Ru-La (Subset - Multi)">
+		<category>Subset</category>
+		<description>Arcade Gears Vol. 1 - Pu-Li-Ru-La (Subset - Multi)</description>
+		<release name="Arcade Gears Vol. 1 - Pu-Li-Ru-La (Subset - Multi)" region="World"/>
+		<disk name="Arcade Gears Vol. 1 - Pu-Li-Ru-La (Subset - Multi).chd" sha1="704bc4b109d67f03b633864b7c83a5f431b20026"/>
+		<url>https://retroachievements.org/game/28322/hashes</url>
+		<hash>1f53ae3fac52257d502c4f9a609784d6</hash>
+	</machine>
+	
+	<machine name="Arthur to Astaroth no Nazo Makaimura - Incredible Toons (Japan)">
+		<category>Retail</category>
+		<description>Arthur to Astaroth no Nazo Makaimura - Incredible Toons (Japan)</description>
+		<release name="Arthur to Astaroth no Nazo Makaimura - Incredible Toons (Japan)" region="Japan"/>
+		<disk name="Arthur to Astaroth no Nazo Makaimura - Incredible Toons (Japan).chd" sha1="f8230a92af8b328dcb9070fe99cba64496f54f90"/>
+		<url>https://retroachievements.org/game/25891/hashes</url>
+		<hash>82de1410221e2ba43856292dcd0f8d5d</hash>
+	</machine>
+	
+	<machine name="Astal (USA) (1S)">
+		<category>Retail</category>
+		<description>Astal (USA) (1S)</description>
+		<release name="Astal (USA) (1S)" region="USA"/>
+		<disk name="Astal (USA) (1S).chd" sha1="28e35bcb6bc44747b1d86948083fa2906434a1d7"/>
+		<url>https://retroachievements.org/game/14511/hashes</url>
+		<hash>ee97ecb29151e4304b6bcbdbf75e47ef</hash>
+	</machine>
+	
+	<machine name="Astra Superstars (Japan)">
+		<category>Retail</category>
+		<description>Astra Superstars (Japan)</description>
+		<release name="Astra Superstars (Japan)" region="Japan"/>
+		<disk name="Astra Superstars (Japan).chd" sha1="7772714e60594577ab2cf8c49674f241b245c574"/>
+		<url>https://retroachievements.org/game/3762/hashes</url>
+		<hash>1b70272950bc84cc3ccbb2b6a55c61ca</hash>
+	</machine>
+	
+	<machine name="Asuka 120% Limited - Burning Fest. Limited (Japan)">
+		<category>Retail</category>
+		<description>Asuka 120% Limited - Burning Fest. Limited (Japan)</description>
+		<release name="Asuka 120% Limited - Burning Fest. Limited (Japan)" region="Japan"/>
+		<disk name="Asuka 120% Limited - Burning Fest. Limited (Japan).chd" sha1="1f9454dca643bb3af39180b01cbcc0be0780c48c"/>
+		<url>https://retroachievements.org/game/24912/hashes</url>
+		<hash>a9026858524fa41f19e7097736a0198e</hash>
+	</machine>
+	
+	<machine name="Baroque (Japan)">
+		<category>Retail</category>
+		<description>Baroque (Japan)</description>
+		<release name="Baroque (Japan)" region="Japan"/>
+		<disk name="Baroque (Japan).chd" sha1="bb6e5b1b55b7781e1d338f1995f8fd0ccb88478b"/>
+		<url>https://retroachievements.org/game/14534/hashes</url>
+		<hash>9a61a47419b731e3d867da69be3b33e2</hash>
+	</machine>
+	
+	<machine name="Battle Monsters (USA)">
+		<category>Retail</category>
+		<description>Battle Monsters (USA)</description>
+		<release name="Battle Monsters (USA)" region="USA"/>
+		<disk name="Battle Monsters (USA).chd" sha1="ea6ae1cb7a6887a8aa129c26e3b4eca64534d74d"/>
+		<url>https://retroachievements.org/game/14580/hashes</url>
+		<hash>1bf9745f0092fdf7f8cad3f75081f121</hash>
+	</machine>
+	
+	<machine name="Bishoujo Senshi Sailor Moon SuperS - Various Emotion (Japan)">
+		<category>Retail</category>
+		<description>Bishoujo Senshi Sailor Moon SuperS - Various Emotion (Japan)</description>
+		<release name="Bishoujo Senshi Sailor Moon SuperS - Various Emotion (Japan)" region="Japan"/>
+		<disk name="Bishoujo Senshi Sailor Moon SuperS - Various Emotion (Japan).chd" sha1="c07446770c6b0fc7f9d2c5da21831c1c55cf82ad"/>
+		<url>https://retroachievements.org/game/15441/hashes</url>
+		<hash>fbe098c7ae413e3f5e75c6c7b899fd9c</hash>
+	</machine>
+	
+	<machine name="Blast Wind (Japan)">
+		<category>Retail</category>
+		<description>Blast Wind (Japan)</description>
+		<release name="Blast Wind (Japan)" region="Japan"/>
+		<disk name="Blast Wind (Japan).chd" sha1="e60c7cbc0e74f16dee836444a38634ff02aab1ac"/>
+		<url>https://retroachievements.org/game/14576/hashes</url>
+		<hash>b9c8a2a842636bb211fe114d4fc27344</hash>
+	</machine>
+	
+	<machine name="Blazing Dragons (USA)">
+		<category>Retail</category>
+		<description>Blazing Dragons (USA)</description>
+		<release name="Blazing Dragons (USA)" region="USA"/>
+		<disk name="Blazing Dragons (USA).chd" sha1="6be93bc6e559b247816971309256ed14f6cf2bf4"/>
+		<url>https://retroachievements.org/game/4918/hashes</url>
+		<hash>e3539a9f048e7ab4d9239991f887a4b3</hash>
+	</machine>
+	<machine name="Blazing Dragons (France)" cloneof="Blazing Dragons (USA)">
+		<category>Retail</category>
+		<description>Blazing Dragons (France)</description>
+		<release name="Blazing Dragons (France)" region="France"/>
+		<disk name="Blazing Dragons (France).chd" sha1="3a155cab6a1adb4feecc0045ffd35cf03a87a221"/>
+		<url>https://retroachievements.org/game/4918/hashes</url>
+		<hash>41ec78cbf95da243d0740334277b9ee5</hash>
+	</machine>
+	<machine name="Blazing Dragons (Germany)" cloneof="Blazing Dragons (USA)">
+		<category>Retail</category>
+		<description>Blazing Dragons (Germany)</description>
+		<release name="Blazing Dragons (Germany)" region="Germany"/>
+		<disk name="Blazing Dragons (Germany).chd" sha1="d36a1179cec88475cf9760f2c4f6893db59ccc43"/>
+		<url>https://retroachievements.org/game/4918/hashes</url>
+		<hash>60f247b23e0ba872d51b7b767d1cfb27</hash>
+	</machine>
+	
+	<machine name="Bug! (USA)">
+		<category>Retail</category>
+		<description>Bug! (USA)</description>
+		<release name="Bug! (USA)" region="USA"/>
+		<disk name="Bug! (USA).chd" sha1="53d568ef9ec397b61e9ec16ff119502542ab4a87"/>
+		<url>https://retroachievements.org/game/14520/hashes</url>
+		<hash>106b9e4b6abdf1f465be33eb055f17ea</hash>
+	</machine>
+	
+	<machine name="Bulk Slash (Japan)">
+		<category>Retail</category>
+		<description>Bulk Slash (Japan)</description>
+		<release name="Bulk Slash (Japan)" region="Japan"/>
+		<disk name="Bulk Slash (Japan).chd" sha1="b8702140d2a8736e4781634e89a831db6ef459a7"/>
+		<url>https://retroachievements.org/game/14572/hashes</url>
+		<hash>173eb41e4c5416c59d823c8d30fb7e99</hash>
+	</machine>
+	<machine name="Bulk Slash (Japan) (En) (v1.001)" cloneof="Bulk Slash (Japan)">
+		<category>Retail</category>
+		<description>Bulk Slash (Japan) (En) (v1.001)</description>
+		<release name="Bulk Slash (Japan) (En) (v1.001)" region="English"/>
+		<disk name="Bulk Slash (Japan) (En) (v1.001).chd" sha1="04c608e08a087945a2dd7c4308f196556238fcea"/>
+		<url>https://retroachievements.org/game/14572/hashes</url>
+		<hash>fc0c515563030d8183b2337297198ca7</hash>
+	</machine>
+	
+	<machine name="Burning Rangers (USA)">
+		<category>Retail</category>
+		<description>Burning Rangers (USA)</description>
+		<release name="Burning Rangers (USA)" region="USA"/>
+		<disk name="Burning Rangers (USA).chd" sha1="95ba1bd35934edea2967f8538881d1990d9b3dbe"/>
+		<url>https://retroachievements.org/game/14530/hashes</url>
+		<hash>d03df4f7cb76753fd6160b6c564a519a</hash>
+	</machine>
+	
+	<machine name="Bust-A-Move 2 - Arcade Edition (USA)">
+		<category>Retail</category>
+		<description>Bust-A-Move 2 - Arcade Edition (USA)</description>
+		<release name="Bust-A-Move 2 - Arcade Edition (USA)" region="USA"/>
+		<disk name="Bust-A-Move 2 - Arcade Edition (USA).chd" sha1="6f00ea24779e7ab3f9d580e397518fc21142c70c"/>
+		<url>https://retroachievements.org/game/25738/hashes</url>
+		<hash>f705f203ca39bd9515af523e686ca3d9</hash>
+	</machine>
+	
+	<machine name="Center Ring Boxing (USA)">
+		<category>Retail</category>
+		<description>Center Ring Boxing (USA)</description>
+		<release name="Center Ring Boxing (USA)" region="USA"/>
+		<disk name="Center Ring Boxing (USA).chd" sha1="92f32bda82bde8623bf02d9d8e08cb596a040a7d"/>
+		<url>https://retroachievements.org/game/25775/hashes</url>
+		<hash>8498dd70496f5c8b543a3570ce1af69a</hash>
+	</machine>
+	
+	<machine name="Cleopatra Fortune (Japan)">
+		<category>Retail</category>
+		<description>Cleopatra Fortune (Japan)</description>
+		<release name="Cleopatra Fortune (Japan)" region="Japan"/>
+		<disk name="Cleopatra Fortune (Japan).chd" sha1="f08d9583855eae82f0c0271e01e787a5d0a9b6e1"/>
+		<url>https://retroachievements.org/game/26512/hashes</url>
+		<hash>cfe6f8752044ea6bca7dca9716f548c4</hash>
+	</machine>
+	
+	<machine name="Clockwork Knight - Pepperouchau's Adventure (USA)">
+		<category>Retail</category>
+		<description>Clockwork Knight - Pepperouchau's Adventure (USA)</description>
+		<release name="Clockwork Knight - Pepperouchau's Adventure (USA)" region="USA"/>
+		<disk name="Clockwork Knight - Pepperouchau's Adventure (USA).chd" sha1="3a4dedf31aa6a3232d3b1762fa95716afadb7320"/>
+		<url>https://retroachievements.org/game/14516/hashes</url>
+		<hash>80dccad3059a876ffe698c06f57f6c2e</hash>
+	</machine>
+	
+	<machine name="Congo - The Movie - The Lost City of Zinj (USA)">
+		<category>Retail</category>
+		<description>Congo - The Movie - The Lost City of Zinj (USA)</description>
+		<release name="Congo - The Movie - The Lost City of Zinj (USA)" region="USA"/>
+		<disk name="Congo - The Movie - The Lost City of Zinj (USA).chd" sha1="7265e47d2ec62d5e8d8a6fdd2eaee8ff3107d679"/>
+		<url>https://retroachievements.org/game/17806/hashes</url>
+		<hash>4fea784eacc5c5a3ea2f57f682ca7b68</hash>
+	</machine>
+	
+	<machine name="Magical Night Dreams - Cotton 2 (Japan)">
+		<category>Retail</category>
+		<description>Magical Night Dreams - Cotton 2 (Japan)</description>
+		<release name="Magical Night Dreams - Cotton 2 (Japan)" region="Japan"/>
+		<disk name="Magical Night Dreams - Cotton 2 (Japan).chd" sha1="f9be4e547e6446e5a01e665f7fd3438e060870c9"/>
+		<url>https://retroachievements.org/game/3604/hashes</url>
+		<hash>548e48c29ea58291c36d823519b2fca1</hash>
+	</machine>
+	<machine name="Magical Night Dreams - Cotton 2 (Japan) (En) (v0.9) (nanashi)" cloneof="Magical Night Dreams - Cotton 2 (Japan)">
+		<category>Retail</category>
+		<description>Magical Night Dreams - Cotton 2 (Japan) (En) (v0.9) (nanashi)</description>
+		<release name="Magical Night Dreams - Cotton 2 (Japan) (En) (v0.9) (nanashi)" region="English"/>
+		<disk name="Magical Night Dreams - Cotton 2 (Japan) (En) (v0.9) (nanashi).chd" sha1="2ddebbba72d0bac49d58e9b8cd7980ba1976df50"/>
+		<url>https://retroachievements.org/game/3604/hashes</url>
+		<hash>f4d3fed813e6b27536ff50e6d17fd3b6</hash>
+	</machine>
+	
+	<machine name="Cotton 2 - Magical Night Dreams (Subset - Multi)">
+		<category>Subset</category>
+		<description>Cotton 2 - Magical Night Dreams (Subset - Multi)</description>
+		<release name="Cotton 2 - Magical Night Dreams (Subset - Multi)" region="English"/>
+		<disk name="Cotton 2 - Magical Night Dreams (Subset - Multi).chd" sha1="648c2f23152285f2ba8b5da0000c28ffb1fb84bf"/>
+		<url>https://retroachievements.org/game/29068/hashes</url>
+		<hash>61fe3ab5b05e0650b62600bd0c0d438c</hash>
+	</machine>
+	
+	<machine name="Croc - Legend of the Gobbos (USA)" cloneof="Croc - Legend of the Gobbos (Europe)">
+		<category>Retail</category>
+		<description>Croc - Legend of the Gobbos (USA)</description>
+		<release name="Croc - Legend of the Gobbos (USA)" region="USA"/>
+		<disk name="Croc - Legend of the Gobbos (USA).chd" sha1="8a976bdd86d6e922611f4cd3a2be8ac1745febab"/>
+		<url>https://retroachievements.org/game/8849/hashes</url>
+		<hash>068946371d4a8944c86260fcbed2a7b8</hash>
+	</machine>
+	<machine name="Croc - Legend of the Gobbos (Europe)">
+		<category>Retail</category>
+		<description>Croc - Legend of the Gobbos (Europe)</description>
+		<release name="Croc - Legend of the Gobbos (Europe)" region="Europe"/>
+		<disk name="Croc - Legend of the Gobbos (Europe).chd" sha1="01d9e75441892ede74d74bf0bed8b0cc1efb854c"/>
+		<url>https://retroachievements.org/game/8849/hashes</url>
+		<hash>0cef06dc1815806f3892838a4f345766</hash>
+	</machine>
+	<machine name="Croc! Pau-Pau Island (Japan)" cloneof="Croc - Legend of the Gobbos (Europe)">
+		<category>Retail</category>
+		<description>Croc! Pau-Pau Island (Japan)</description>
+		<release name="Croc! Pau-Pau Island (Japan)" region="Japan"/>
+		<disk name="Croc! Pau-Pau Island (Japan).chd" sha1="a1a8b4449168738e926711e027678b24b8ee8680"/>
+		<url>https://retroachievements.org/game/8849/hashes</url>
+		<hash>8fdee5e10c8a6eda6a61ef47b4dd5a65</hash>
+	</machine>
+	
+	<machine name="Cyberbots - Fullmetal Madness (Japan) (1M)">
+		<category>Retail</category>
+		<description>Cyberbots - Fullmetal Madness (Japan) (1M)</description>
+		<release name="Cyberbots - Fullmetal Madness (Japan) (1M)" region="Japan"/>
+		<disk name="Cyberbots - Fullmetal Madness (Japan) (1M).chd" sha1="63ed16e645d2b92d673dc63ab23454b0c0546685"/>
+		<url>https://retroachievements.org/game/9742/hashes</url>
+		<hash>37674ab0fe794821dfd080116e1a10ba</hash>
+	</machine>
+	
+	<machine name="D (USA)">
+		<category>Retail</category>
+		<description>D (USA)</description>
+		<release name="D (USA)" region="USA"/>
+		<rom name="D (USA).m3u" size="43" crc="21368742" sha1="4d019062f88cf6763fe81b2587d59459a1d43761" md5="c6d2a0463575afe77e71aded5d8f4b46"/>
+		<disk name="D (USA) (Disc I).chd" sha1="9f49308c297d813057a4f1f9a5b0cc7cb09de327"/>
+		<disk name="D (USA) (Disc II).chd" sha1="2729d39654a8d5e2429d466950f13391d8314478"/>
+		<url>https://retroachievements.org/game/19524/hashes</url>
+		<hash>a3a553c7655e0cfe3026e487b2e50c7d</hash>
+		<hash>303519c55cbd74fd2dfa64f976d2183d</hash>
+	</machine>
+	
+	<machine name="Dark Savior (USA)">
+		<category>Retail</category>
+		<description>Dark Savior (USA)</description>
+		<release name="Dark Savior (USA)" region="USA"/>
+		<disk name="Dark Savior (USA).chd" sha1="4c331f8360bd23a4117f14ace761aeac51c00f2c"/>
+		<url>https://retroachievements.org/game/5376/hashes</url>
+		<hash>7c1c80d893e2a585a1d30374d035c1d0</hash>
+	</machine>
+	
+	<machine name="Daytona USA (USA)">
+		<category>Retail</category>
+		<description>Daytona USA (USA)</description>
+		<release name="Daytona USA (USA)" region="USA"/>
+		<disk name="Daytona USA (USA).chd" sha1="ca07cd3aad275f70df87b61df1659d8ac1dbbea2"/>
+		<url>https://retroachievements.org/game/14555/hashes</url>
+		<hash>fd304d329f53fd9ee0009869daab43da</hash>
+	</machine>
+	
+	<machine name="Daytona USA (Subset - Maniac Mode)">
+		<category>Subset</category>
+		<description>Daytona USA (Subset - Maniac Mode)</description>
+		<release name="Daytona USA (Subset - Maniac Mode)" region="World"/>
+		<disk name="Daytona USA (Subset - Maniac Mode).chd" sha1="000b1ee9c1adb9483b507d1de28129e238d8d037"/>
+		<url>https://retroachievements.org/game/22864/hashes</url>
+		<hash>4a5d93bcaf737b0b58f9cb9438907c37</hash>
+	</machine>
+	
+	<machine name="Dead or Alive (Japan) (Rev A) (10M)">
+		<category>Retail</category>
+		<description>Dead or Alive (Japan) (Rev A) (10M)</description>
+		<release name="Dead or Alive (Japan) (Rev A) (10M)" region="Japan"/>
+		<disk name="Dead or Alive (Japan) (Rev A) (10M).chd" sha1="e104c2c98aa59574afe3dbf5bbf7b16a1ceef2d0"/>
+		<url>https://retroachievements.org/game/7786/hashes</url>
+		<hash>10a10eda585e8c1d483f89dfd5bc3fcc</hash>
+	</machine>
+	<machine name="Dead or Alive (Japan) (2M)" cloneof="Dead or Alive (Japan) (Rev A) (10M)">
+		<category>Retail</category>
+		<description>Dead or Alive (Japan) (2M)</description>
+		<disk name="Dead or Alive (Japan) (2M).chd" sha1="29dc4c3a3f6d16f75d06451c41aa6ede4b1c03a3"/>
+		<url>https://retroachievements.org/game/7786/hashes</url>
+		<hash>f7b95a01fb1e635b0bfec4665930303c</hash>
+	</machine>
+	
+	<machine name="Deep Fear (USA) (Disc 1) (Unl)">
+		<category>Retail</category>
+		<description>Deep Fear (USA) (Disc 1) (Unl)</description>
+		<release name="Deep Fear (USA) (Disc 1) (Unl)" region="USA"/>
+		<disk name="Deep Fear (USA) (Disc 1) (Unl).chd" sha1="a1fd8d729ed351a5c7c8cf34ab36813859804644"/>
+		<url>https://retroachievements.org/game/8307/hashes</url>
+		<hash>0cb84f8a21db4b965d432445ae485c8b</hash>
+	</machine>
+	<machine name="Deep Fear (Europe) (Disc 1)" cloneof="Deep Fear (USA) (Disc 1) (Unl)">
+		<category>Retail</category>
+		<description>Deep Fear (Europe) (Disc 1)</description>
+		<release name="Deep Fear (Europe) (Disc 1)" region="Europe"/>
+		<disk name="Deep Fear (Europe) (Disc 1).chd" sha1="e20537296367b6ee3b1c9cfbf4d71d3404314399"/>
+		<url>https://retroachievements.org/game/8307/hashes</url>
+		<hash>1c1f56cfa86d977624a45aa30e7b9f76</hash>
+	</machine>
+	<machine name="Deep Fear (Europe) (Disc 2)" cloneof="Deep Fear (USA) (Disc 2) (Unl)">
+		<category>Retail</category>
+		<description>Deep Fear (Europe) (Disc 2)</description>
+		<release name="Deep Fear (Europe) (Disc 2)" region="Europe"/>
+		<disk name="Deep Fear (Europe) (Disc 2).chd" sha1="0ed6ba69bed5036f38c9ef0f1b683fc368edd489"/>
+		<url>https://retroachievements.org/game/8307/hashes</url>
+		<hash>27f2c4b2427a209c5cc43ada72223685</hash>
+	</machine>
+	<machine name="Deep Fear (USA) (Disc 2) (Unl)">
+		<category>Retail</category>
+		<description>Deep Fear (USA) (Disc 2) (Unl)</description>
+		<release name="Deep Fear (USA) (Disc 2) (Unl)" region="USA"/>
+		<disk name="Deep Fear (USA) (Disc 2) (Unl).chd" sha1="2f821cd694d68c2510716470c17d8a165b3cf357"/>
+		<url>https://retroachievements.org/game/8307/hashes</url>
+		<hash>cca651875bf4b4426339203924bb4fb8</hash>
+	</machine>
+	
+	<machine name="DeJig - Aqua World (Japan)">
+		<category>Retail</category>
+		<description>DeJig - Aqua World (Japan)</description>
+		<release name="DeJig - Aqua World (Japan)" region="Japan"/>
+		<disk name="DeJig - Aqua World (Japan).chd" sha1="f3648861d9f839e44e40c2d128f8b5ddb23ac252"/>
+		<url>https://retroachievements.org/game/14734/hashes</url>
+		<hash>eb2f9a20fb7fd30fae00ba9fe1592fd2</hash>
+	</machine>
+	
+	<machine name="DeJig - Lassen - Art Collection (Japan)">
+		<category>Retail</category>
+		<description>DeJig - Lassen - Art Collection (Japan)</description>
+		<release name="DeJig - Lassen - Art Collection (Japan)" region="Japan"/>
+		<disk name="DeJig - Lassen - Art Collection (Japan).chd" sha1="96524e5aefd41de22c674425888df2a6f69afe0f"/>
+		<url>https://retroachievements.org/game/14858/hashes</url>
+		<hash>f7ddb753673e55b6b952da7f729e8e8c</hash>
+	</machine>
+	
+	<machine name="DeJig - McKnight - Art Collection (Japan)">
+		<category>Retail</category>
+		<description>DeJig - McKnight - Art Collection (Japan)</description>
+		<release name="DeJig - McKnight - Art Collection (Japan)" region="Japan"/>
+		<disk name="DeJig - McKnight - Art Collection (Japan).chd" sha1="dfd7f19e5c4740cc90723437023fc704884b2d8b"/>
+		<url>https://retroachievements.org/game/14859/hashes</url>
+		<hash>d8ad98ff399147de3e62ffff20a2bb13</hash>
+	</machine>
+	
+	<machine name="DeJig - Tin Toy (Japan)">
+		<category>Retail</category>
+		<description>DeJig - Tin Toy (Japan)</description>
+		<release name="DeJig - Tin Toy (Japan)" region="Japan"/>
+		<disk name="DeJig - Tin Toy (Japan).chd" sha1="d12652d6b3fd9d34551adf4a37738011f278be6d"/>
+		<url>https://retroachievements.org/game/14737/hashes</url>
+		<hash>3ce75a6ce82eab3c26f856a978be7896</hash>
+	</machine>
+	
+	<machine name="Die Hard Arcade (USA)">
+		<category>Retail</category>
+		<description>Die Hard Arcade (USA)</description>
+		<release name="Die Hard Arcade (USA)" region="USA"/>
+		<disk name="Die Hard Arcade (USA).chd" sha1="63c11a9bbc1cb64b3d42cddf9578c3f72c1aa67c"/>
+		<url>https://retroachievements.org/game/14570/hashes</url>
+		<hash>4de2151a6ce927a4a021a354d698df07</hash>
+	</machine>
+	
+	<machine name="Digital Dance Mix Vol. 1 - Namie Amuro (Japan) (Rev A) (10M, 12M)">
+		<category>Retail</category>
+		<description>Digital Dance Mix Vol. 1 - Namie Amuro (Japan) (Rev A) (10M, 12M)</description>
+		<release name="Digital Dance Mix Vol. 1 - Namie Amuro (Japan) (Rev A) (10M, 12M)" region="USA"/>
+		<disk name="Digital Dance Mix Vol. 1 - Namie Amuro (Japan) (Rev A) (10M, 12M).chd" sha1="d5462a06a352ffad552da27ecdff9570b0e05b89"/>
+		<url>https://retroachievements.org/game/32864/hashes</url>
+		<hash>c56b0225b9ceb2bb845cfb6bd8d90837</hash>
+	</machine>
+	
+	<machine name="Digital Monster Ver. S - Digimon Tamers (Japan)">
+		<category>Retail</category>
+		<description>Digital Monster Ver. S - Digimon Tamers (Japan)</description>
+		<release name="Digital Monster Ver. S - Digimon Tamers (Japan)" region="Japan"/>
+		<disk name="Digital Monster Ver. S - Digimon Tamers (Japan).chd" sha1="5bfb97dff9526a7ef53a1daf4546edb589057d0a"/>
+		<url>https://retroachievements.org/game/16131/hashes</url>
+		<hash>9da94aed874023e1a749c4adbff29a96</hash>
+	</machine>
+	
+	<machine name="Last Gladiators - Digital Pinball (USA) (4S)">
+		<category>Retail</category>
+		<description>Last Gladiators - Digital Pinball (USA) (4S)</description>
+		<release name="Last Gladiators - Digital Pinball (USA) (4S)" region="USA"/>
+		<disk name="Last Gladiators - Digital Pinball (USA) (4S).chd" sha1="19a5c3450b8cc2452a308e68f3c1d69b3f85df61"/>
+		<url>https://retroachievements.org/game/20455/hashes</url>
+		<hash>ced8b264bc53ae6554c523f540e097f5</hash>
+	</machine>
+	
+	<machine name="Digital Pinball - Necronomicon (Japan)">
+		<category>Retail</category>
+		<description>Digital Pinball - Necronomicon (Japan)</description>
+		<release name="Digital Pinball - Necronomicon (Japan)" region="Japan"/>
+		<disk name="Digital Pinball - Necronomicon (Japan).chd" sha1="0d86d3ea5699d7ca0fba4492d502905439844c1e"/>
+		<url>https://retroachievements.org/game/20456/hashes</url>
+		<hash>b05b7d290e9be141999e187bd79c9d7f</hash>
+	</machine>
+	
+	<machine name="Dragon Ball Z - Shinbutouden (Japan)">
+		<category>Retail</category>
+		<description>Dragon Ball Z - Shinbutouden (Japan)</description>
+		<release name="Dragon Ball Z - Shinbutouden (Japan)" region="Japan"/>
+		<disk name="Dragon Ball Z - Shinbutouden (Japan).chd" sha1="24435df461a9d36b0a2bd43175983a4297194c4a"/>
+		<url>https://retroachievements.org/game/5998/hashes</url>
+		<hash>d2277fef213d910a199fc3fa2d098d19</hash>
+	</machine>
+	
+	<machine name="Dragon Force (USA)">
+		<category>Retail</category>
+		<description>Dragon Force (USA)</description>
+		<release name="Dragon Force (USA)" region="USA"/>
+		<disk name="Dragon Force (USA).chd" sha1="264aea465e4775b806afcced3a7fbc333750db70"/>
+		<url>https://retroachievements.org/game/14512/hashes</url>
+		<hash>acb9d7194d31fb2ea6967fce3558efe1</hash>
+	</machine>
+	
+	<machine name="Dream Square - Hinagata Akiko (Japan) (2M)">
+		<category>Retail</category>
+		<description>Dragon Force (USA)</description>
+		<release name="Dream Square - Hinagata Akiko (Japan) (2M)" region="USA"/>
+		<disk name="Dream Square - Hinagata Akiko (Japan) (2M).chd" sha1="d48f4a8547018490f301d9f69b30251d7c7b115f"/>
+		<url>https://retroachievements.org/game/35835/hashes</url>
+		<hash>88a6b0747ebaec675654081b97d09ee6</hash>
+	</machine>
+	
+	<machine name="Duke Nukem 3D (USA)">
+		<category>Retail</category>
+		<description>Duke Nukem 3D (USA)</description>
+		<release name="Duke Nukem 3D (USA)" region="USA"/>
+		<disk name="Duke Nukem 3D (USA).chd" sha1="ab778ae736abd992915306f1093534962801d966"/>
+		<url>https://retroachievements.org/game/4273/hashes</url>
+		<hash>34f591b72e8e97ef76ba0645027af01f</hash>
+	</machine>
+	
+	<machine name="Dungeon Master Nexus (Japan)">
+		<category>Retail</category>
+		<description>Dungeon Master Nexus (Japan)</description>
+		<release name="Dungeon Master Nexus (Japan)" region="Japan"/>
+		<disk name="Dungeon Master Nexus (Japan).chd" sha1="7bdc8ac40e24a8b022f6454c9f45dba721846819"/>
+		<url>https://retroachievements.org/game/25898/hashes</url>
+		<hash>58e28f7b945085217933fec2daa16326</hash>
+	</machine>
+	<machine name="Dungeon Master Nexus (Japan) (En) (v2.0) (ChristopheF)" cloneof="Dungeon Master Nexus (Japan)">
+		<category>Retail</category>
+		<description>Dungeon Master Nexus (Japan) (En) (v2.0) (ChristopheF)</description>
+		<release name="Dungeon Master Nexus (Japan) (En) (v2.0) (ChristopheF)" region="English"/>
+		<disk name="Dungeon Master Nexus (Japan) (En) (v2.0) (ChristopheF).chd" sha1="1c5b9cfc4e932315e68be9287fb67f8fc0e772fc"/>
+		<url>https://retroachievements.org/game/25898/hashes</url>
+		<hash>b45e3108ff6e4c51625bc5e4caac8faf</hash>
+	</machine>
+	
+	<machine name="Dungeons &amp; Dragons Collection (Japan)">
+		<category>Retail</category>
+		<description>Dungeons &amp; Dragons Collection (Japan)</description>
+		<release name="Dungeons &amp; Dragons Collection (Japan)" region="Japan"/>
+		<rom name="Dungeons &amp; Dragons Collection (Japan).m3u" size="140" crc="66f21228" sha1="b7a260bcb36e99f146b0bb069d8920230091a994" md5="237a8917768ed0ddaababe4af7984bfe"/>
+		<disk name="Dungeons &amp; Dragons Collection (Japan) (Disc 1) (Tower of Doom).chd" sha1="1e45e4ae801fd2babc7368f235ddc0f6f9067a13"/>
+		<disk name="Dungeons &amp; Dragons Collection (Japan) (Disc 2) (Shadow over Mystara).chd" sha1="adb5e68f9d58089d28fcf93ce53dc5ec0993f9e0"/>
+		<url>https://retroachievements.org/game/4830/hashes</url>
+		<hash>3618f3f480bb57da26bfbeeb7e53bb6f</hash>
+		<hash>7f0b418fd552bdb37040634183bffb86</hash>
+	</machine>
+	
+	<machine name="Dungeons &amp; Dragons Collection (Subset - Multi)">
+		<category>Subset</category>
+		<description>Dungeons &amp; Dragons Collection (Subset - Multi)</description>
+		<release name="Dungeons &amp; Dragons Collection (Subset - Multi)" region="World"/>
+		<rom name="Dungeons &amp; Dragons Collection (Subset - Multi).m3u" size="158" crc="a1090386" sha1="0eb8cecd5637d151c43580938f77526398ec16c5" md5="965f4c79df02e844ae507b852f5322a6"/>
+		<disk name="Dungeons &amp; Dragons Collection (Disc 1) (Tower of Doom) (Subset - Multi).chd" sha1="900d13825dca24e160499ccd66fa85954b28b067"/>
+		<disk name="Dungeons &amp; Dragons Collection (Disc 2) (Shadow over Mystara) (Subset - Multi).chd" sha1="3ecfb1a5ff9d92387c094c98dbeced0fa488c59c"/>
+		<url>https://retroachievements.org/game/28268/hashes</url>
+		<hash>0f922fec4cc26dce86194276a8557e69</hash>
+		<hash>56f305b1a0cefaaf12890411464791ba</hash>
+	</machine>
+	
+	<machine name="Earthworm Jim 2 (USA)">
+		<category>Retail</category>
+		<description>Earthworm Jim 2 (USA)</description>
+		<release name="Earthworm Jim 2 (USA)" region="USA"/>
+		<disk name="Earthworm Jim 2 (USA).chd" sha1="a8864c2df851b6d02d7634a0a331a1cc1eeda543"/>
+		<url>https://retroachievements.org/game/20429/hashes</url>
+		<hash>bb974f1d382d3432870265dad752a883</hash>
+	</machine>
+	<machine name="Earthworm Jim 2 (Japan) (2M)" cloneof="Earthworm Jim 2 (USA)">
+		<category>Retail</category>
+		<description>Earthworm Jim 2 (Japan) (2M)</description>
+		<release name="Earthworm Jim 2 (Japan) (2M)" region="Japan"/>
+		<disk name="Earthworm Jim 2 (Japan) (2M).chd" sha1="54201f9169fecf32d6dd289f342251571e159196"/>
+		<url>https://retroachievements.org/game/20429/hashes</url>
+		<hash>c50356d8b9ed7b90d537d426ed191290</hash>
+	</machine>
+	
+	<machine name="Elevator Action^2 - Returns (Japan)">
+		<category>Retail</category>
+		<description>Elevator Action^2 - Returns (Japan)</description>
+		<release name="Elevator Action^2 - Returns (Japan)" region="Japan"/>
+		<disk name="Elevator Action^2 - Returns (Japan).chd" sha1="1ae47a81dd34b72cf2d18eb10a3dd9c52e51ce65"/>
+		<url>https://retroachievements.org/game/11654/hashes</url>
+		<hash>9f0195207722a250d0bf79a7cbf1187e</hash>
+	</machine>
+	
+	<machine name="Fighters Megamix (USA) (RE)">
+		<category>Retail</category>
+		<description>Fighters Megamix (USA) (RE)</description>
+		<release name="Fighters Megamix (USA) (RE)" region="USA"/>
+		<disk name="Fighters Megamix (USA) (RE).chd" sha1="3d10d116cc77e3e3be4f81358a0e5924b3813b0d"/>
+		<url>https://retroachievements.org/game/10234/hashes</url>
+		<hash>dad4e684cd0c37efd0929e42f505415d</hash>
+	</machine>
+	
+	<machine name="Fighting Vipers (Japan) (Rev A)">
+		<category>Retail</category>
+		<description>Fighting Vipers (Japan) (Rev A)</description>
+		<release name="Fighting Vipers (Japan) (Rev A)" region="Japan"/>
+		<disk name="Fighting Vipers (Japan) (Rev A).chd" sha1="bc9f0935f411cd66d4092d7fd153aa0b259ec0c6"/>
+		<url>https://retroachievements.org/game/6122/hashes</url>
+		<hash>c571e8b0d34cc86e24fb819e9908c95c</hash>
+	</machine>
+	
+	<machine name="Final Fight Revenge (Japan)">
+		<category>Retail</category>
+		<description>Final Fight Revenge (Japan)</description>
+		<release name="Final Fight Revenge (Japan)" region="Japan"/>
+		<disk name="Final Fight Revenge (Japan).chd" sha1="2fab9e47a5475dd65af0992caa2db689b558c38b"/>
+		<url>https://retroachievements.org/game/17899/hashes</url>
+		<hash>5d9804144e37656ceb6b4a71101981f1</hash>
+	</machine>
+	
+	<machine name="Frankenstein - Through the Eyes of the Monster (Europe)">
+		<category>Retail</category>
+		<description>Frankenstein - Through the Eyes of the Monster (Europe)</description>
+		<release name="Frankenstein - Through the Eyes of the Monster (Europe)" region="Europe"/>
+		<disk name="Frankenstein - Through the Eyes of the Monster (Europe).chd" sha1="2ec5e2549f9fb25752e772b7c879d5252dcaaff3"/>
+		<url>https://retroachievements.org/game/25893/hashes</url>
+		<hash>bb2397564aadb2244ddb52ee65a02f5e</hash>
+	</machine>
+	
+	<machine name="Sega Ages - Galaxy Force II (Japan)">
+		<category>Retail</category>
+		<description>Sega Ages - Galaxy Force II (Japan)</description>
+		<release name="Sega Ages - Galaxy Force II (Japan)" region="Japan"/>
+		<disk name="Sega Ages - Galaxy Force II (Japan).chd" sha1="2b6dd112badf296b46aee82f5fa27e4377b84f30"/>
+		<url>https://retroachievements.org/game/24214/hashes</url>
+		<hash>080df9af339e5959385fc630cc799129</hash>
+	</machine>
+	
+	<machine name="Gale Racer (Japan) (En,Ja) (1A)">
+		<category>Retail</category>
+		<description>Gale Racer (Japan) (En,Ja) (1A)</description>
+		<release name="Gale Racer (Japan) (En,Ja) (1A)" region="Japan"/>
+		<disk name="Gale Racer (Japan) (En,Ja) (1A).chd" sha1="1636ded9268cc086b6afb9453d242e31756b86dd"/>
+		<url>https://retroachievements.org/game/25806/hashes</url>
+		<hash>9f4d90cbf0599f245b2c221aa915a903</hash>
+	</machine>
+	
+	<machine name="Gals Panic SS (Japan)">
+		<category>Retail</category>
+		<description>Gals Panic SS (Japan)</description>
+		<release name="Gals Panic SS (Japan)" region="Japan"/>
+		<disk name="Gals Panic SS (Japan).chd" sha1="c1fdc2661a94594a99b1486c37d2c51ded103a87"/>
+		<url>https://retroachievements.org/game/28135/hashes</url>
+		<hash>b054c9dac8bce10fbcf0fbb5d8545c5b</hash>
+	</machine>
+	
+	<machine name="Gensou Suikoden (Japan)">
+		<category>Retail</category>
+		<description>Gensou Suikoden (Japan)</description>
+		<release name="Gensou Suikoden (Japan)" region="Japan"/>
+		<disk name="Gensou Suikoden (Japan).chd" sha1="a92b02f6e1e6d13754f2f396c2546c6383abb259"/>
+		<url>https://retroachievements.org/game/11599/hashes</url>
+		<hash>d645021ff8adaada3398eee3313c321b</hash>
+	</machine>
+	
+	<machine name="Girls in Motion Puzzle Vol. 1 - Hiyake no Omoide + Himekuri (Japan)">
+		<category>Retail</category>
+		<description>Girls in Motion Puzzle Vol. 1 - Hiyake no Omoide + Himekuri (Japan)</description>
+		<release name="Girls in Motion Puzzle Vol. 1 - Hiyake no Omoide + Himekuri (Japan)" region="Japan"/>
+		<disk name="Girls in Motion Puzzle Vol. 1 - Hiyake no Omoide + Himekuri (Japan).chd" sha1="2312daa7ad1b36c5a955fe781e87b1b7bd8f3fbd"/>
+		<url>https://retroachievements.org/game/14954/hashes</url>
+		<hash>77827d5ac38a2c172de0ae7c343a85dc</hash>
+	</machine>
+	
+	<machine name="Goiken Muyou - Anarchy in the Nippon (Japan)">
+		<category>Retail</category>
+		<description>Goiken Muyou - Anarchy in the Nippon (Japan)</description>
+		<release name="Goiken Muyou - Anarchy in the Nippon (Japan)" region="Japan"/>
+		<disk name="Goiken Muyou - Anarchy in the Nippon (Japan).chd" sha1="2acd728b6aaec161c4b0b3f4588d43abfd046621"/>
+		<url>https://retroachievements.org/game/6867/hashes</url>
+		<hash>d113343b35c4bb4e9f7459baeca3f02f</hash>
+	</machine>
+	
+	<machine name="Golden Axe - The Duel (USA)">
+		<category>Retail</category>
+		<description>Golden Axe - The Duel (USA)</description>
+		<release name="Golden Axe - The Duel (USA)" region="USA"/>
+		<disk name="Golden Axe - The Duel (USA).chd" sha1="2b7fb1c845d14789882902dc700c7a5825739ec6"/>
+		<url>https://retroachievements.org/game/14536/hashes</url>
+		<hash>cf6306084a34becc419063beac36c169</hash>
+	</machine>
+	
+	<machine name="Guardian Force (Japan)">
+		<category>Retail</category>
+		<description>Guardian Force (Japan)</description>
+		<release name="Guardian Force (Japan)" region="Japan"/>
+		<disk name="Guardian Force (Japan).chd" sha1="8731e25b26f8c2fbe60d283714a53c74d08d756b"/>
+		<url>https://retroachievements.org/game/14566/hashes</url>
+		<hash>15ed3dca79ea5051f7f497a513581d71</hash>
+	</machine>
+	
+	<machine name="Guardian Heroes (USA)">
+		<category>Retail</category>
+		<description>Guardian Heroes (USA)</description>
+		<release name="Guardian Heroes (USA)" region="USA"/>
+		<disk name="Guardian Heroes (USA).chd" sha1="490c684bc7424e1101988640107c2dd6769fb7cc"/>
+		<url>https://retroachievements.org/game/14513/hashes</url>
+		<hash>a237d6119f2a6f99122abc497e48e28e</hash>
+	</machine>
+	
+	<machine name="Gungriffon (USA)">
+		<category>Retail</category>
+		<description>Gungriffon (USA)</description>
+		<release name="Gungriffon (USA)" region="USA"/>
+		<disk name="Gungriffon (USA).chd" sha1="6e020dbfc0d69b805b17b2005025ca33c4dfec9f"/>
+		<url>https://retroachievements.org/game/14537/hashes</url>
+		<hash>e13e785009123919e9fdbc4cb69d6a05</hash>
+	</machine>
+	
+	<machine name="Gussun Oyoyo S (Japan)">
+		<category>Retail</category>
+		<description>Gussun Oyoyo S (Japan)</description>
+		<release name="Gussun Oyoyo S (Japan)" region="Japan"/>
+		<disk name="Gussun Oyoyo S (Japan).chd" sha1="313b9d6084209e02ec0eca1a423de20c2fd0462a"/>
+		<url>https://retroachievements.org/game/6305/hashes</url>
+		<hash>9b8a3fd719987d292e23c32b0e5ac309</hash>
+	</machine>
+	
+	<machine name="Hexen (USA)">
+		<category>Retail</category>
+		<description>Hexen (USA)</description>
+		<release name="Hexen (USA)" region="USA"/>
+		<disk name="Hexen (USA).chd" sha1="778ed1f1e5f527cb84cc7d476b694c674422ef22"/>
+		<url>https://retroachievements.org/game/17973/hashes</url>
+		<hash>899e743677badd953e83afb663edbca3</hash>
+	</machine>
+	
+	<machine name="Hyper Duel (Japan)">
+		<category>Retail</category>
+		<description>Hyper Duel (Japan)</description>
+		<release name="Hyper Duel (Japan)" region="Japan"/>
+		<disk name="Hyper Duel (Japan).chd" sha1="ebcc4e5955fcb86e0bf5bfaab3b0cc55d023f2c2"/>
+		<url>https://retroachievements.org/game/25918/hashes</url>
+		<hash>81eb938a232619f5bf929400298aafd9</hash>
+	</machine>
+	
+	<machine name="In the Hunt (USA)">
+		<category>Retail</category>
+		<description>In the Hunt (USA)</description>
+		<release name="In the Hunt (USA)" region="USA"/>
+		<disk name="In the Hunt (USA).chd" sha1="1505c7e2a787c7bb8b938ad22dbc745eef0d8fbd"/>
+		<url>https://retroachievements.org/game/25747/hashes</url>
+		<hash>c84e3d182d5bb8eae1ccd8f416b3e76f</hash>
+	</machine>
+	
+	<machine name="In the Hunt (Subset - Multi)">
+		<category>Subset</category>
+		<description>In the Hunt (Subset - Multi)</description>
+		<release name="In the Hunt (Subset - Multi)" region="USA"/>
+		<disk name="In the Hunt (Subset - Multi).chd" sha1="7758638af56b1ab7a67651e15bf441fc0db3eb9b"/>
+		<url>https://retroachievements.org/game/28617/hashes</url>
+		<hash>04fbc8feb4393818cba7516d91fa839a</hash>
+	</machine>
+	
+	<machine name="Jung Rhythm (Japan)">
+		<category>Retail</category>
+		<description>Jung Rhythm (Japan)</description>
+		<release name="Jung Rhythm (Japan)" region="Japan"/>
+		<disk name="Jung Rhythm (Japan).chd" sha1="7207eab8ea699d9247f3f9f9eff6f7094a155f52"/>
+		<url>https://retroachievements.org/game/25340/hashes</url>
+		<hash>04452f6dcccfcfc6ccdf3be31109454a</hash>
+	</machine>
+	
+	<machine name="Keio Flying Squadron 2 (Europe)">
+		<category>Retail</category>
+		<description>Keio Flying Squadron 2 (Europe)</description>
+		<release name="Keio Flying Squadron 2 (Europe)" region="Europe"/>
+		<disk name="Keio Flying Squadron 2 (Europe).chd" sha1="b65556c0efccb68dbcc3667ea974a4d0657d5469"/>
+		<url>https://retroachievements.org/game/8802/hashes</url>
+		<hash>ee772e411fcdb297026c54ac6f8f9bf0</hash>
+	</machine>
+	<machine name="Keiou Yuugekitai - Katsugeki-hen (Japan)" cloneof="Keio Flying Squadron 2 (Europe)">
+		<category>Retail</category>
+		<description>Keiou Yuugekitai - Katsugeki-hen (Japan)</description>
+		<release name="Keiou Yuugekitai - Katsugeki-hen (Japan)" region="Japan"/>
+		<disk name="Keiou Yuugekitai - Katsugeki-hen (Japan).chd" sha1="288e709bc3b6fb6eda4cc67002efe4c1e47b390d"/>
+		<url>https://retroachievements.org/game/8802/hashes</url>
+		<hash>57079953e27f48e73117a25d829c91cf</hash>
+	</machine>
+	
+	<machine name="Koi no Summer Fantasy - in Miyazaki Seagaia (Japan)">
+		<category>Retail</category>
+		<description>Koi no Summer Fantasy - in Miyazaki Seagaia (Japan)</description>
+		<release name="Koi no Summer Fantasy - in Miyazaki Seagaia (Japan)" region="Japan"/>
+		<disk name="Koi no Summer Fantasy - in Miyazaki Seagaia (Japan).chd" sha1="b8d1dc3fca97bd02e3032a04dc6c5b7f50c7fe43"/>
+		<url>https://retroachievements.org/game/33996/hashes</url>
+		<hash>b7147d7b4d70a74f5fffdbbb401a8d03</hash>
+	</machine>
+	
+	<machine name="Kyuutenkai (Japan)">
+		<category>Retail</category>
+		<description>Kyuutenkai (Japan)</description>
+		<release name="Kyuutenkai (Japan)" region="Japan"/>
+		<disk name="Kyuutenkai (Japan).chd" sha1="1e8b41f4b8fd24058898576af24480381458383b"/>
+		<url>https://retroachievements.org/game/18531/hashes</url>
+		<hash>f6843d9de6ec670e9ab4ee64b44874ce</hash>
+	</machine>
+	
+	<machine name="Last Bronx (USA)">
+		<category>Retail</category>
+		<description>Last Bronx (USA)</description>
+		<release name="Last Bronx (USA)" region="USA"/>
+		<disk name="Last Bronx (USA).chd" sha1="25017bdb04540e620843de0938c27f79f51b3628"/>
+		<url>https://retroachievements.org/game/8638/hashes</url>
+		<hash>3ad8be8d780647aedd17c61125474920</hash>
+	</machine>
+	
+	<machine name="Linkle Liver Story (Japan)">
+		<category>Retail</category>
+		<description>Linkle Liver Story (Japan)</description>
+		<release name="Linkle Liver Story (Japan)" region="Japan"/>
+		<disk name="Linkle Liver Story (Japan).chd" sha1="7b2bec0ffece9c6c1471f8b6e2b885eae6f37b42"/>
+		<url>https://retroachievements.org/game/14643/hashes</url>
+		<hash>2f64a277f265ab19a1d0ba51f326337c</hash>
+	</machine>
+	
+	<machine name="Lode Runner - The Legend Returns (Japan)">
+		<category>Retail</category>
+		<description>Lode Runner - The Legend Returns (Japan)</description>
+		<release name="Lode Runner - The Legend Returns (Japan)" region="Japan"/>
+		<disk name="Lode Runner - The Legend Returns (Japan).chd" sha1="c7a051df6a72b928f326b5d2ce43e642d84c2ac7"/>
+		<url>https://retroachievements.org/game/28269/hashes</url>
+		<hash>a5d743eeee217972f3690dca89d9fdde</hash>
+	</machine>
+	
+	<machine name="Lode Runner - The Legend Returns (Subset - Multi)">
+		<category>Subset</category>
+		<description>Lode Runner - The Legend Returns (Subset - Multi)</description>
+		<release name="Lode Runner - The Legend Returns (Subset - Multi)" region="Japan"/>
+		<disk name="Lode Runner - The Legend Returns (Subset - Multi).chd" sha1="01d738294a05041720b5796fdf5483f768b77596"/>
+		<url>https://retroachievements.org/game/28274/hashes</url>
+		<hash>4b162310076f7e2483107808b4153eb2</hash>
+	</machine>
+	
+	<machine name="Lunacy (USA)">
+		<category>Retail</category>
+		<description>Lunacy (USA)</description>
+		<release name="Lunacy (USA)" region="USA"/>
+		<rom name="Lunacy (USA).m3u" size="52" crc="41070fa9" sha1="7bd2bf8df6384aaf8c3fe5fc6bc148c1b8c17559" md5="76b289990d31fdcf11b0a0cda47f9abb"/>
+		<disk name="Lunacy (USA) (Disc 1).chd" sha1="6b173e9564c928ca625170af4d31b43f69b6c9af"/>
+		<disk name="Lunacy (USA) (Disc 2).chd" sha1="f8e9f8d1841e477601dcdf6aedc28aaff64028f6"/>
+		<url>https://retroachievements.org/game/17864/hashes</url>
+		<hash>2e09cf0ead17dbf58df873054116c6e3</hash>
+		<hash>3daa388d813cc69f9ae359d1f5bc3b4b</hash>
+	</machine>
+	
+	<machine name="Lunar - Silver Star Story (Japan)">
+		<category>Retail</category>
+		<description>Lunar - Silver Star Story (Japan)</description>
+		<release name="Lunar - Silver Star Story (Japan)" region="Japan"/>
+		<disk name="Lunar - Silver Star Story (Japan).chd" sha1="e04c3312f98bc415eb1ce34a9d47892c6f1b2947"/>
+		<url>https://retroachievements.org/game/18648/hashes</url>
+		<hash>437b741c773688bb8de8c2120bd1fa61</hash>
+	</machine>
+	
+	<machine name="Lupin Sansei - Pyramid no Kenja (Japan)">
+		<category>Retail</category>
+		<description>Lupin Sansei - Pyramid no Kenja (Japan)</description>
+		<release name="Lupin Sansei - Pyramid no Kenja (Japan)" region="Japan"/>
+		<disk name="Lupin Sansei - Pyramid no Kenja (Japan).chd" sha1="9bb97982151542c28a4a04d10e0d173fbf1c0831"/>
+		<url>https://retroachievements.org/game/20465/hashes</url>
+		<hash>742e8eaa9328b8b34b3ed87ac99b210e</hash>
+	</machine>
+	
+	<machine name="Magic Knight Rayearth (USA)">
+		<category>Retail</category>
+		<description>Magic Knight Rayearth (USA)</description>
+		<release name="Magic Knight Rayearth (USA)" region="USA"/>
+		<disk name="Magic Knight Rayearth (USA).chd" sha1="9b439b3fad21e94c23752114fae92f0e3eb77f43"/>
+		<url>https://retroachievements.org/game/14528/hashes</url>
+		<hash>023c3cdce1602147c6ff5e8c7a4aaa49</hash>
+	</machine>
+	<machine name="Magic Knight Rayearth (USA) (Undub) (v1.0) (Rep Plus)" cloneof="Magic Knight Rayearth (USA)">
+		<category>Retail</category>
+		<description>Magic Knight Rayearth (USA) (Undub) (v1.0) (Rep Plus)</description>
+		<disk name="Magic Knight Rayearth (USA) (Undub) (v1.0) (Rep Plus).chd" sha1="c58d02a9c3ce9285c7b67656dd36f62d2395cef5"/>
+		<url>https://retroachievements.org/game/14528/hashes</url>
+		<hash>6c07aa3005541db2fcae66db2110a104</hash>
+	</machine>
+	
+	<machine name="Magical Drop III - Toretate Zoukan-gou! (Japan) (2M)">
+		<category>Retail</category>
+		<description>Magical Drop III - Toretate Zoukan-gou! (Japan) (2M)</description>
+		<release name="Magical Drop III - Toretate Zoukan-gou! (Japan) (2M)" region="Japan"/>
+		<disk name="Magical Drop III - Toretate Zoukan-gou! (Japan) (2M).chd" sha1="7223aa3411d0cbc062882379518677878bd5a9d2"/>
+		<url>https://retroachievements.org/game/6767/hashes</url>
+		<hash>6334887eb13d955ed1ab8b7a17b971e1</hash>
+	</machine>
+	
+	<machine name="Mega Man 8 (USA)">
+		<category>Retail</category>
+		<description>Mega Man 8 (USA)</description>
+		<release name="Mega Man 8 (USA)" region="USA"/>
+		<disk name="Mega Man 8 (USA).chd" sha1="7d23072285feb8cd383e324e1e9d952230ebdf4c"/>
+		<url>https://retroachievements.org/game/14509/hashes</url>
+		<hash>96fb18cbfed4447c30fb1ff3ff64557b</hash>
+	</machine>
+	
+	<machine name="Mega Man 8 - Anniversary Collector's Edition (Subset - Mega Ball Only)">
+		<category>Subset</category>
+		<description>Mega Man 8 - Anniversary Collector's Edition (Subset - Mega Ball Only)</description>
+		<release name="Mega Man 8 - Anniversary Collector's Edition (Subset - Mega Ball Only)" region="World"/>
+		<disk name="Mega Man 8 - Anniversary Collector's Edition (Subset - Mega Ball Only).chd" sha1="457b0c2667bf2ec6923d84c4a1d57f7f76b7e72e"/>
+		<url>https://retroachievements.org/game/26656/hashes</url>
+		<hash>6da464e225d43d3430d5237bcc92ec68</hash>
+	</machine>
+	
+	<machine name="Mega Man X4 (USA)">
+		<category>Retail</category>
+		<description>Mega Man X4 (USA)</description>
+		<release name="Mega Man X4 (USA)" region="USA"/>
+		<disk name="Mega Man X4 (USA).chd" sha1="c059a92c00366f88dc8927c2465e7821873cd416"/>
+		<url>https://retroachievements.org/game/4304/hashes</url>
+		<hash>7e508c16f0f84b46c43f5f3d19262223</hash>
+	</machine>
+	
+	<machine name="Mega Man X4 (Subset - Bonus)">
+		<category>Subset</category>
+		<description>Mega Man X4 (Subset - Bonus)</description>
+		<release name="Mega Man X4 (Subset - Bonus)" region="World"/>
+		<disk name="Mega Man X4 (Subset - Bonus).chd" sha1="ea2034a4c7e09d7f02616f2699584b0d325492d2"/>
+		<url>https://retroachievements.org/game/28318/hashes</url>
+		<hash>69a8883226481c092e7954bc700a0fe9</hash>
+	</machine>
+	
+	<machine name="Metal Slug - Super Vehicle-001 (Japan) (Rev A)">
+		<category>Retail</category>
+		<description>Metal Slug - Super Vehicle-001 (Japan) (Rev A)</description>
+		<release name="Metal Slug - Super Vehicle-001 (Japan) (Rev A)" region="Japan"/>
+		<disk name="Metal Slug - Super Vehicle-001 (Japan) (Rev A).chd" sha1="1b8cbf7470a0d490c8605c16c52fc99c3c08f243"/>
+		<url>https://retroachievements.org/game/9431/hashes</url>
+		<hash>689ee8912dab4bd1e74069ef22007363</hash>
+	</machine>
+	
+	<machine name="Mobile Suit Gundam Side Story I - Senritsu no Blue (Japan)">
+		<category>Retail</category>
+		<description>Mobile Suit Gundam Side Story I - Senritsu no Blue (Japan)</description>
+		<release name="Mobile Suit Gundam Side Story I - Senritsu no Blue (Japan)" region="Japan"/>
+		<disk name="Mobile Suit Gundam Side Story I - Senritsu no Blue (Japan).chd" sha1="77da92fe6256be6afce0d8145cbe687a48d3fb0c"/>
+		<url>https://retroachievements.org/game/25887/hashes</url>
+		<hash>1abe35c6e2d27aa1c3036975ced809c7</hash>
+	</machine>
+	
+	<machine name="Mobile Suit Gundam Side Story II - Ao o Uketsugu Mono (Japan)">
+		<category>Retail</category>
+		<description>Mobile Suit Gundam Side Story II - Ao o Uketsugu Mono (Japan)</description>
+		<release name="Mobile Suit Gundam Side Story II - Ao o Uketsugu Mono (Japan)" region="Japan"/>
+		<disk name="Mobile Suit Gundam Side Story II - Ao o Uketsugu Mono (Japan).chd" sha1="62653d354b72c0281619ee9f2fb9b8c4d932adde"/>
+		<url>https://retroachievements.org/game/25888/hashes</url>
+		<hash>a97b8513a18b74af09d25193d6b80440</hash>
+	</machine>
+	
+	<machine name="Mobile Suit Gundam Side Story III - Sabakareshi Mono (Japan)">
+		<category>Retail</category>
+		<description>Mobile Suit Gundam Side Story III - Sabakareshi Mono (Japan)</description>
+		<release name="Mobile Suit Gundam Side Story III - Sabakareshi Mono (Japan)" region="Japan"/>
+		<disk name="Mobile Suit Gundam Side Story III - Sabakareshi Mono (Japan).chd" sha1="2ed4e994184232a8f07f9abdf573d1de84558061"/>
+		<url>https://retroachievements.org/game/25889/hashes</url>
+		<hash>089dd5b991874d5cc8503e3260079845</hash>
+	</machine>
+	
+	<machine name="Mortal Kombat Trilogy (USA)">
+		<category>Retail</category>
+		<description>Mortal Kombat Trilogy (USA)</description>
+		<release name="Mortal Kombat Trilogy (USA)" region="USA"/>
+		<disk name="Mortal Kombat Trilogy (USA).chd" sha1="e9029b1e6ea2003133b5bff1c52b5a1ca4f18a04"/>
+		<url>https://retroachievements.org/game/17176/hashes</url>
+		<hash>c440c81cf74068eafeabb2745f32ea6f</hash>
+	</machine>
+	
+	<machine name="Mr. Bones (USA)">
+		<category>Retail</category>
+		<description>Mr. Bones (USA)</description>
+		<release name="Mr. Bones (USA)" region="USA"/>
+		<rom name="Mr. Bones (USA).m3u" size="58" crc="c867ae7e" sha1="4ee638067b3321488410cef71babfa0cf785ea5a" md5="883708b4394605d4bf9ee6c0a398d518"/>
+		<disk name="Mr. Bones (USA) (Disc 1).chd" sha1="c6d25f2958de84efdcf10e4a59dd8232db30cbac"/>
+		<disk name="Mr. Bones (USA) (Disc 2).chd" sha1="14723a9b570897fb012ffad0afc850670a7c874d"/>
+		<url>https://retroachievements.org/game/14539/hashes</url>
+		<hash>09f7aa2e40a0e9b9a36874ad097b5dc1</hash>
+		<hash>d07a5f41d500f8fab75f822f09afdc78</hash>
+	</machine>
+	
+	<machine name="Night Striker S (Japan)">
+		<category>Retail</category>
+		<description>Night Striker S (Japan)</description>
+		<release name="Night Striker S (Japan)" region="Japan"/>
+		<disk name="Night Striker S (Japan).chd" sha1="8838ffbae8bc45b2aa7aa0584893e0e6c28b8a5b"/>
+		<url>https://retroachievements.org/game/20385/hashes</url>
+		<hash>dd00ae8310fac3ebf2cbba7678eefa17</hash>
+	</machine>
+	
+	<machine name="NiGHTS into Dreams... (USA, Brazil)">
+		<category>Retail</category>
+		<description>NiGHTS into Dreams... (USA, Brazil)</description>
+		<release name="NiGHTS into Dreams... (USA, Brazil)" region="Brazil"/>
+		<release name="NiGHTS into Dreams... (USA, Brazil)" region="USA"/>
+		<disk name="NiGHTS into Dreams... (USA, Brazil).chd" sha1="a87adf49dc34feb856aae39fe2fe0b1f549be54c"/>
+		<url>https://retroachievements.org/game/14527/hashes</url>
+		<hash>6a6b248da16d37053a6e24e100d2a42b</hash>
+	</machine>
+	
+	<machine name="Ninpen Manmaru (Japan)">
+		<category>Retail</category>
+		<description>Ninpen Manmaru (Japan)</description>
+		<release name="Ninpen Manmaru (Japan)" region="USA"/>
+		<disk name="Ninpen Manmaru (Japan).chd" sha1="2fcdfb9a91acd2dc58739fc1e340a469bb2c42ef"/>
+		<url>https://retroachievements.org/game/25007/hashes</url>
+		<hash>fff772c6765bb91e9cf4972871a02e85</hash>
+	</machine>
+	
+	<machine name="Oh-chan no Oekaki Logic (Japan)">
+		<category>Retail</category>
+		<description>Oh-chan no Oekaki Logic (Japan)</description>
+		<release name="Oh-chan no Oekaki Logic (Japan)" region="Japan"/>
+		<disk name="Oh-chan no Oekaki Logic (Japan).chd" sha1="fb34f57f99947c61468e7af46203cae991559a7c"/>
+		<url>https://retroachievements.org/game/14690/hashes</url>
+		<hash>e4a549f204b9ed27abf063438f8d7939</hash>
+	</machine>
+	
+	<machine name="Densetsu no Ogre Battle (Japan) (En) (v1.3.1) (Stardust Crusaders)" cloneof="Densetsu no Ogre Battle (Japan)">
+		<category>Retail</category>
+		<description>Densetsu no Ogre Battle (Japan) (En) (v1.3.1) (Stardust Crusaders)</description>
+		<release name="Densetsu no Ogre Battle (Japan) (En) (v1.3.1) (Stardust Crusaders)" region="English"/>
+		<disk name="Densetsu no Ogre Battle (Japan) (En) (v1.3.1) (Stardust Crusaders).chd" sha1="11d5917f2f56a696a9685799669999cc8a510f1a"/>
+		<url>https://retroachievements.org/game/20248/hashes</url>
+		<hash>0432aca8d00a8f80337cb7aab84f29ad</hash>
+	</machine>
+	<machine name="Densetsu no Ogre Battle (Japan)">
+		<category>Retail</category>
+		<description>Densetsu no Ogre Battle (Japan)</description>
+		<release name="Densetsu no Ogre Battle (Japan)" region="Japan"/>
+		<disk name="Densetsu no Ogre Battle (Japan).chd" sha1="8be0eede59f2767bdb119330fc34dcacf247a707"/>
+		<url>https://retroachievements.org/game/20248/hashes</url>
+		<hash>4bdd3da6e9fe5e81190a4de0d69aa40f</hash>
+	</machine>
+	
+	<machine name="Sega Ages - OutRun (Japan)">
+		<category>Retail</category>
+		<description>Sega Ages - OutRun (Japan)</description>
+		<release name="Sega Ages - OutRun (Japan)" region="Japan"/>
+		<disk name="Sega Ages - OutRun (Japan).chd" sha1="03cda3d24b8a53e5c6e4800b3d0366bd9818432d"/>
+		<url>https://retroachievements.org/game/16414/hashes</url>
+		<hash>3a135fafea0370a38aac5a66a79dcdd0</hash>
+	</machine>
+	
+	<machine name="Panzer Dragoon (USA) (1S)">
+		<category>Retail</category>
+		<description>Panzer Dragoon (USA) (1S)</description>
+		<release name="Panzer Dragoon (USA) (1S)" region="USA"/>
+		<disk name="Panzer Dragoon (USA) (1S).chd" sha1="bd15080a29bdf30e8c25eb15390a2fd403695fca"/>
+		<url>https://retroachievements.org/game/14504/hashes</url>
+		<hash>cb922187592d676e4905af171b6598f2</hash>
+	</machine>
+	
+	<machine name="Panzer Dragoon II Zwei (USA)">
+		<category>Retail</category>
+		<description>Panzer Dragoon II Zwei (USA)</description>
+		<release name="Panzer Dragoon II Zwei (USA)" region="USA"/>
+		<disk name="Panzer Dragoon II Zwei (USA).chd" sha1="1d0d30735c831b71f011a9fcbe36078a8e8c1698"/>
+		<url>https://retroachievements.org/game/14505/hashes</url>
+		<hash>e1a69311509e6afaace2575eb2fe0fe9</hash>
+	</machine>
+	
+	<machine name="Panzer Dragoon Saga (USA)">
+		<category>Retail</category>
+		<description>Panzer Dragoon Saga (USA)</description>
+		<release name="Panzer Dragoon Saga (USA)" region="USA"/>
+		<rom name="Panzer Dragoon Saga (USA).m3u" size="158" crc="9f098577" sha1="14a26cb02adc86963a10a7fa5633b1b95eebea13" md5="1bae93b88bf5030f0cfe4ee23f8bf16d"/>
+		<disk name="Panzer Dragoon Saga (USA) (Disc 1).chd" sha1="fcded06ab9217096d4264e52f8eff7a1d74b0855"/>
+		<disk name="Panzer Dragoon Saga (USA) (Disc 2).chd" sha1="22bfe20fbb16cdf3b6137da7e6063fc576c9b249"/>
+		<disk name="Panzer Dragoon Saga (USA) (Disc 3).chd" sha1="82b5255fb7aaafca48f8dbe3bcc9499619e67b36"/>
+		<disk name="Panzer Dragoon Saga (USA) (Disc 4).chd" sha1="caa5c75fb6e5a1b11aefeccb17207841b6e17c1e"/>
+		<url>https://retroachievements.org/game/14506/hashes</url>
+		<hash>666d189c39e1a2ebc3f7261b330e67d3</hash>
+		<hash>ce8b703005d83989e9e4db2c2508411f</hash>
+		<hash>669e1e85e6c8d8fb7f6b0529dede4192</hash>
+		<hash>b88d6fbea9087b57afa77502ed03a1bf</hash>
+	</machine>
+	
+	<machine name="Pastel Muses (Japan)">
+		<category>Retail</category>
+		<description>Pastel Muses (Japan)</description>
+		<release name="Pastel Muses (Japan)" region="Japan"/>
+		<disk name="Pastel Muses (Japan).chd" sha1="cc11c6829907eac2b6becbf033730e179745a293"/>
+		<url>https://retroachievements.org/game/28254/hashes</url>
+		<hash>58d4cdfa80a64fd576e408b374c0498c</hash>
+	</machine>
+	
+	<machine name="Powerslave (USA)">
+		<category>Retail</category>
+		<description>Powerslave (USA)</description>
+		<release name="Powerslave (USA)" region="USA"/>
+		<disk name="Powerslave (USA).chd" sha1="51761d8993204189219590938a002684909798e9"/>
+		<url>https://retroachievements.org/game/9989/hashes</url>
+		<hash>5fdb09b1a449a7cfbc150c417034c43b</hash>
+	</machine>
+	
+	<machine name="Princess Crown (Japan) (Rev A) (11M)">
+		<category>Retail</category>
+		<description>Princess Crown (Japan) (Rev A) (11M)</description>
+		<release name="Princess Crown (Japan) (Rev A) (11M)" region="Japan"/>
+		<disk name="Princess Crown (Japan) (Rev A) (11M).chd" sha1="ffd0f3be3ce6092727d4835dd63ad2d591156d28"/>
+		<url>https://retroachievements.org/game/14543/hashes</url>
+		<hash>ced8331d3036971979593ab452d4b45b</hash>
+	</machine>
+	<machine name="Princess Crown (Japan) (En) (v1.1b2) (eadmaster)" cloneof="Princess Crown (Japan) (Rev A) (11M)">
+		<category>Retail</category>
+		<description>Princess Crown (Japan) (En) (v1.1b2) (eadmaster)</description>
+		<release name="Princess Crown (Japan) (En) (v1.1b2) (eadmaster)" region="English"/>
+		<disk name="Princess Crown (Japan) (En) (v1.1b2) (eadmaster).chd" sha1="9fb491913edf8582bb1665c2caf0d2c40b60cc50"/>
+		<url>https://retroachievements.org/game/14543/hashes</url>
+		<hash>cd01172cbe80ecfb3709ce880a28806b</hash>
+	</machine>
+	
+	<machine name="Private Idol Disc - Tokubetsu-hen - Cosplayers (Japan) (2M)">
+		<category>Retail</category>
+		<description>Private Idol Disc - Tokubetsu-hen - Cosplayers (Japan) (2M)</description>
+		<release name="Private Idol Disc - Tokubetsu-hen - Cosplayers (Japan) (2M)" region="Japan"/>
+		<disk name="Private Idol Disc - Tokubetsu-hen - Cosplayers (Japan) (2M).chd" sha1="c4d6fa95057f92def5a4445625ca48df130d0e30"/>
+		<url>https://retroachievements.org/game/36177/hashes</url>
+		<hash>65f0adeb7e6b61d7c47bf01e77cdf13b</hash>
+	</machine>
+	
+	<machine name="Private Idol Disc Vol. 1 - Yuu Kinoshita (Japan)">
+		<category>Retail</category>
+		<description>Private Idol Disc Vol. 1 - Yuu Kinoshita (Japan)</description>
+		<release name="Private Idol Disc Vol. 1 - Yuu Kinoshita (Japan)" region="Japan"/>
+		<disk name="Private Idol Disc Vol. 1 - Yuu Kinoshita (Japan).chd" sha1="7ee5c562fdc2e9b2f0cac3cfc66c8dd31bfdd137"/>
+		<url>https://retroachievements.org/game/35916/hashes</url>
+		<hash>d721146d446fc15df1d817fd22332446</hash>
+	</machine>
+	
+	<machine name="Private Idol Disc Vol. 2 - Miki Uchiyama (Japan)">
+		<category>Retail</category>
+		<description>Private Idol Disc Vol. 2 - Miki Uchiyama (Japan)</description>
+		<release name="Private Idol Disc Vol. 2 - Miki Uchiyama (Japan)" region="Japan"/>
+		<disk name="Private Idol Disc Vol. 2 - Miki Uchiyama (Japan).chd" sha1="e72eee60dbaab297c3e91007fe468f64bb2ae54e"/>
+		<url>https://retroachievements.org/game/36087/hashes</url>
+		<hash>a05649bb93b24f8596b7075228481024</hash>
+	</machine>
+	
+	<machine name="Private Idol Disc Vol. 3 - Akemi Ooshima (Japan) (2M)">
+		<category>Retail</category>
+		<description>Private Idol Disc Vol. 3 - Akemi Ooshima (Japan) (2M)</description>
+		<release name="Private Idol Disc Vol. 3 - Akemi Ooshima (Japan) (2M)" region="Japan"/>
+		<disk name="Private Idol Disc Vol. 3 - Akemi Ooshima (Japan) (2M).chd" sha1="1ef9b5f118a28cf6abd6447ae38245c2aff8607b"/>
+		<url>https://retroachievements.org/game/36094/hashes</url>
+		<hash>ab9ec49bedc2dfb675a8a8ca901f8366</hash>
+	</machine>
+	
+	<machine name="Private Idol Disc Vol. 4 - Mirei Kuroda (Japan)">
+		<category>Retail</category>
+		<description>Private Idol Disc Vol. 4 - Mirei Kuroda (Japan)</description>
+		<release name="Private Idol Disc Vol. 4 - Mirei Kuroda (Japan)" region="Japan"/>
+		<disk name="Private Idol Disc Vol. 4 - Mirei Kuroda (Japan).chd" sha1="b05cf38405cf5ccbf4cc5351301c4403616f8e29"/>
+		<url>https://retroachievements.org/game/36098/hashes</url>
+		<hash>1c6c7c8205a80b2e2e6b1315635dd1de</hash>
+	</machine>
+	
+	<machine name="Quake (Europe)" cloneof="Quake (USA)">
+		<category>Retail</category>
+		<description>Quake (Europe)</description>
+		<release name="Quake (Europe)" region="Europe"/>
+		<disk name="Quake (Europe).chd" sha1="ed544db1fd3a936a443059c1c4e995b32f32109c"/>
+		<url>https://retroachievements.org/game/3718/hashes</url>
+		<hash>b8c0b16255e49618354cf8af27ffe9f8</hash>
+	</machine>
+	<machine name="Quake (USA)">
+		<category>Retail</category>
+		<description>Quake (USA)</description>
+		<release name="Quake (USA)" region="USA"/>
+		<disk name="Quake (USA).chd" sha1="6dbd6c79ee9f033b424472f5f9a4104e725c1232"/>
+		<url>https://retroachievements.org/game/3718/hashes</url>
+		<hash>dbba361555140eb51b80ed82d5223530</hash>
+	</machine>
+	
+	<machine name="Rabbit (Japan)">
+		<category>Retail</category>
+		<description>Rabbit (Japan)</description>
+		<release name="Rabbit (Japan)" region="Japan"/>
+		<disk name="Rabbit (Japan).chd" sha1="1f8125c308cf01a696877a1014d1c000f5c97785"/>
+		<url>https://retroachievements.org/game/8031/hashes</url>
+		<hash>1ef4318232c4a1b6b23baf805c1f4f94</hash>
+	</machine>
+	
+	<machine name="Radiant Silvergun (Japan)">
+		<category>Retail</category>
+		<description>Radiant Silvergun (Japan)</description>
+		<release name="Radiant Silvergun (Japan)" region="Japan"/>
+		<disk name="Radiant Silvergun (Japan).chd" sha1="17b7e738ca0089378dcece3d4fab63e061dbed8a"/>
+		<url>https://retroachievements.org/game/14571/hashes</url>
+		<hash>528573764eab41c4c3c8b3befdbfdf6e</hash>
+	</machine>
+	
+	<machine name="Resident Evil (USA)">
+		<category>Retail</category>
+		<description>Resident Evil (USA)</description>
+		<release name="Resident Evil (USA)" region="USA"/>
+		<disk name="Resident Evil (USA).chd" sha1="0367b575e39434e53714617f338eb4a71d497988"/>
+		<url>https://retroachievements.org/game/7140/hashes</url>
+		<hash>458ca29356b89893a582b073567cd36f</hash>
+	</machine>
+	
+	<machine name="Rockman X3 (Japan) (2M)">
+		<category>Retail</category>
+		<description>Rockman X3 (Japan) (2M)</description>
+		<release name="Rockman X3 (Japan) (2M)" region="Japan"/>
+		<disk name="Rockman X3 (Japan) (2M).chd" sha1="c9856991f12cf741dc95f826ba579012d1193b56"/>
+		<url>https://retroachievements.org/game/18273/hashes</url>
+		<hash>1b1029dbc188b8d47cdb3827be0aff28</hash>
+	</machine>
+	
+	<machine name="Sakura Taisen (Japan) (6M)">
+		<category>Retail</category>
+		<description>Sakura Taisen (Japan) (6M)</description>
+		<release name="Sakura Taisen (Japan) (6M)" region="Japan"/>
+		<rom name="Sakura Taisen (Japan) (6M).m3u" size="80" crc="453076ef" sha1="28ae030658186960635fdf0dc185437b0cce7fcc" md5="9ec07f5bab6f0261bcf6f94d17ffba2d"/>
+		<disk name="Sakura Taisen (Japan) (Disc 1) (6M).chd" sha1="b16f733c6e5b97bcb817d39700c691ae737fa276"/>
+		<disk name="Sakura Taisen (Japan) (Disc 2) (6M).chd" sha1="085dc2570ec081f081473318e43b7e4bbfcef27f"/>
+		<url>https://retroachievements.org/game/16546/hashes</url>
+		<hash>c4db9d08d56d1fbf78322852775d4818</hash>
+		<hash>c306c094d0177459b31f411cd4cd44a9</hash>
+	</machine>
+	
+	<machine name="Saturn Bomberman (USA) (1S)">
+		<category>Retail</category>
+		<description>Saturn Bomberman (USA) (1S)</description>
+		<release name="Saturn Bomberman (USA) (1S)" region="USA"/>
+		<disk name="Saturn Bomberman (USA) (1S).chd" sha1="586ab519b122078abcaae009aa68bd43faab5093"/>
+		<url>https://retroachievements.org/game/14510/hashes</url>
+		<hash>f0f679839738044dcaebc3bde3e28925</hash>
+	</machine>
+	
+	<machine name="Saturn Bomberman Fight!! (Japan)">
+		<category>Retail</category>
+		<description>Saturn Bomberman Fight!! (Japan)</description>
+		<release name="Saturn Bomberman Fight!! (Japan)" region="Japan"/>
+		<disk name="Saturn Bomberman Fight!! (Japan).chd" sha1="550fa16393ba0ff60224ff282924d3f134f17dc1"/>
+		<url>https://retroachievements.org/game/6989/hashes</url>
+		<hash>2eab66e389cb02d4a0ddc78283bba1dc</hash>
+	</machine>
+	
+	<machine name="Scud - The Disposable Assassin (USA)">
+		<category>Retail</category>
+		<description>Scud - The Disposable Assassin (USA)</description>
+		<release name="Scud - The Disposable Assassin (USA)" region="USA"/>
+		<disk name="Scud - The Disposable Assassin (USA).chd" sha1="8a8654c2f99dac747c6262f39ff7361abb00385a"/>
+		<url>https://retroachievements.org/game/9513/hashes</url>
+		<hash>6b66187de1d7888944463ee007135076</hash>
+	</machine>
+	
+	<machine name="Sega Rally Championship Plus Netlink Edition (USA)">
+		<category>Retail</category>
+		<description>Sega Rally Championship Plus Netlink Edition (USA)</description>
+		<release name="Sega Rally Championship Plus Netlink Edition (USA)" region="USA"/>
+		<disk name="Sega Rally Championship Plus Netlink Edition (USA).chd" sha1="baf2fefa6cbd6010d5fd1840e1b8749bf7610423"/>
+		<url>https://retroachievements.org/game/14560/hashes</url>
+		<hash>9a678bad8ea51314b7e43188356e5d7a</hash>
+	</machine>
+	
+	<machine name="Segata Sanshirou - Shinken Yuugi (Japan)">
+		<category>Retail</category>
+		<description>Segata Sanshirou - Shinken Yuugi (Japan)</description>
+		<release name="Segata Sanshirou - Shinken Yuugi (Japan)" region="Japan"/>
+		<disk name="Segata Sanshirou - Shinken Yuugi (Japan).chd" sha1="bded1f505371c70c90fcf5192e143673a09f4bf5"/>
+		<url>https://retroachievements.org/game/18281/hashes</url>
+		<hash>3e64a495a6034cad43c3fb7a5f962364</hash>
+	</machine>
+	
+	<machine name="Shanghai - Triple-Threat (USA)">
+		<category>Retail</category>
+		<description>Shanghai - Triple-Threat (USA)</description>
+		<release name="Shanghai - Triple-Threat (USA)" region="USA"/>
+		<disk name="Shanghai - Triple-Threat (USA).chd" sha1="1b812db56c46f78e2610e55090ff19cccd1e15c1"/>
+		<url>https://retroachievements.org/game/14561/hashes</url>
+		<hash>b4d6a5dd218520a93e5b7598a4a32e8a</hash>
+	</machine>
+	
+	<machine name="Shining Force III Premium Disc (Japan) (En) (v22) (SF3TP)">
+		<category>Retail</category>
+		<description>Shining Force III Premium Disc (Japan) (En) (v22) (SF3TP)</description>
+		<release name="Shining Force III Premium Disc (Japan) (En) (v22) (SF3TP)" region="English"/>
+		<disk name="Shining Force III Premium Disc (Japan) (En) (v22) (SF3TP).chd" sha1="d7c76d9b90b954442bf9fd929e5137544307bdbd"/>
+		<url>https://retroachievements.org/game/14541/hashes</url>
+		<hash>0f6020f7e892e62164a4eaab926db893</hash>
+	</machine>
+	<machine name="Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (Rev A)" cloneof="Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (En) (v24) (SF3TP)">
+		<category>Retail</category>
+		<description>Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (Rev A)</description>
+		<release name="Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (Rev A)" region="Japan"/>
+		<disk name="Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (Rev A).chd" sha1="ab42f5ef6f1528238ef615fa0adc1e9de43967e2"/>
+		<url>https://retroachievements.org/game/14541/hashes</url>
+		<hash>124c3472536ac3992eae135810c41f83</hash>
+	</machine>
+	<machine name="Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (En) (v22) (SF3TP)" cloneof="Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (En) (v24) (SF3TP)">
+		<category>Retail</category>
+		<description>Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (En) (v22) (SF3TP)</description>
+		<disk name="Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (En) (v22) (SF3TP).chd" sha1="7f7cd1b82b812ca727af05c1886f1caa8976e249"/>
+		<url>https://retroachievements.org/game/14541/hashes</url>
+		<hash>2fcbcffd54e64f9eeeb5b9cfbf3a332e</hash>
+	</machine>
+	<machine name="Shining Force III - Scenario 3 (Japan) (En) (v22) (SF3TP)">
+		<category>Retail</category>
+		<description>Shining Force III - Scenario 3 (Japan) (En) (v22) (SF3TP)</description>
+		<release name="Shining Force III - Scenario 3 (Japan) (En) (v22) (SF3TP)" region="English"/>
+		<disk name="Shining Force III - Scenario 3 (Japan) (En) (v22) (SF3TP).chd" sha1="ecaea8f1c59a928a1cc2fe38d2f9c8dc5099744f"/>
+		<url>https://retroachievements.org/game/14541/hashes</url>
+		<hash>5e1491983cdc6d79dbea7d7022e0b862</hash>
+	</machine>
+	<machine name="Shining Force III - Scenario 2 (Japan) (En) (v22) (SF3TP)">
+		<category>Retail</category>
+		<description>Shining Force III - Scenario 2 (Japan) (En) (v22) (SF3TP)</description>
+		<release name="Shining Force III - Scenario 2 (Japan) (En) (v22) (SF3TP)" region="English"/>
+		<disk name="Shining Force III - Scenario 2 (Japan) (En) (v22) (SF3TP).chd" sha1="b0758e6bbb5b5c47615f82de868ce3cfda0e9fc5"/>
+		<url>https://retroachievements.org/game/14541/hashes</url>
+		<hash>5eab3f56859038663a3b4a49d0fe1363</hash>
+	</machine>
+	<machine name="Shining Force III (Europe) (R)" cloneof="Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (En) (v24) (SF3TP)">
+		<category>Retail</category>
+		<description>Shining Force III (Europe) (R)</description>
+		<release name="Shining Force III (Europe) (R)" region="Europe"/>
+		<disk name="Shining Force III (Europe) (R).chd" sha1="1fcf201337a09fb7ec34ac07a6ee80bcc9a9e103"/>
+		<url>https://retroachievements.org/game/14541/hashes</url>
+		<hash>b4d3f8bc672827c63bb1d8ade52b26f3</hash>
+	</machine>
+	<machine name="Shining Force III - Scenario 1 - Outo no Kyoshin (Japan)" cloneof="Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (En) (v24) (SF3TP)">
+		<category>Retail</category>
+		<description>Shining Force III - Scenario 1 - Outo no Kyoshin (Japan)</description>
+		<disk name="Shining Force III - Scenario 1 - Outo no Kyoshin (Japan).chd" sha1="8044b5881826008281d587f67b3cd0cdc73d9286"/>
+		<url>https://retroachievements.org/game/14541/hashes</url>
+		<hash>bbd7eab9a04a9a3534e8eb87d5ff55a6</hash>
+	</machine>
+	<machine name="Shining Force III (USA)" cloneof="Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (En) (v24) (SF3TP)">
+		<category>Retail</category>
+		<description>Shining Force III (USA)</description>
+		<disk name="Shining Force III (USA).chd" sha1="7d90c1bb8e2fc61102bf201a76a1e2886791e223"/>
+		<url>https://retroachievements.org/game/14541/hashes</url>
+		<hash>c26514068bb3eb9f0cd11d1444bad004</hash>
+	</machine>
+	<machine name="Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (En) (v24) (SF3TP)">
+		<category>Retail</category>
+		<description>Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (En) (v24) (SF3TP)</description>
+		<release name="Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (En) (v24) (SF3TP)" region="English"/>
+		<disk name="Shining Force III - Scenario 1 - Outo no Kyoshin (Japan) (En) (v24) (SF3TP).chd" sha1="7385862fc7e857a654c3d42b23648adf3a90b9fc"/>
+		<url>https://retroachievements.org/game/14541/hashes</url>
+		<hash>9d952fefd30181061f394d2376197a47</hash>
+	</machine>
+	
+	<machine name="Shining the Holy Ark (USA)">
+		<category>Retail</category>
+		<description>Shining the Holy Ark (USA)</description>
+		<release name="Shining the Holy Ark (USA)" region="USA"/>
+		<disk name="Shining the Holy Ark (USA).chd" sha1="ed6ae1e87e228edc9249f22b3a6481922466e881"/>
+		<url>https://retroachievements.org/game/14545/hashes</url>
+		<hash>91616ea99bd661ef9a785694de2f7d68</hash>
+	</machine>
+	<machine name="Shining the Holy Ark (Europe)" cloneof="Shining the Holy Ark (USA)">
+		<category>Retail</category>
+		<description>Shining the Holy Ark (Europe)</description>
+		<release name="Shining the Holy Ark (Europe)" region="Europe"/>
+		<disk name="Shining the Holy Ark (Europe).chd" sha1="b33e08478fd9b5dac5f40a0e87bab2abf08b6718"/>
+		<url>https://retroachievements.org/game/14545/hashes</url>
+		<hash>07c3e8ef54fb3279b52945c9888e7444</hash>
+	</machine>
+	<machine name="Shining the Holy Ark (Japan) (1M)" cloneof="Shining the Holy Ark (USA)">
+		<category>Retail</category>
+		<description>Shining the Holy Ark (Japan) (1M)</description>
+		<release name="Shining the Holy Ark (Japan) (1M)" region="Japan"/>
+		<disk name="Shining the Holy Ark (Japan) (1M).chd" sha1="160e9e2ff844d17afaa9a2cbadce8cafc7745f8f"/>
+		<url>https://retroachievements.org/game/14545/hashes</url>
+		<hash>909e18d343d9564da0318c4fb66695ed</hash>
+	</machine>
+	
+	<machine name="Shining Wisdom (USA)">
+		<category>Retail</category>
+		<description>Shining Wisdom (USA)</description>
+		<release name="Shining Wisdom (USA)" region="USA"/>
+		<disk name="Shining Wisdom (USA).chd" sha1="970f1b1ab31fe3f323c753e6eb633b24beb51a7e"/>
+		<url>https://retroachievements.org/game/14544/hashes</url>
+		<hash>c0d0efd675b0e77731b38a66f5425a66</hash>
+	</machine>
+	
+	<machine name="Shinobi Legions (USA)">
+		<category>Retail</category>
+		<description>Shinobi Legions (USA)</description>
+		<release name="Shinobi Legions (USA)" region="USA"/>
+		<disk name="Shinobi Legions (USA).chd" sha1="0065aeeb68839a2933b93c1611e54318d501b251"/>
+		<url>https://retroachievements.org/game/14546/hashes</url>
+		<hash>1523141ab715aa194dda97c20f34c7e5</hash>
+	</machine>
+	<machine name="Shinobi-X - Shin Shinobi Den (Europe)" cloneof="Shinobi Legions (USA)">
+		<category>Retail</category>
+		<description>Shinobi-X - Shin Shinobi Den (Europe)</description>
+		<release name="Shinobi-X - Shin Shinobi Den (Europe)" region="Europe"/>
+		<disk name="Shinobi-X - Shin Shinobi Den (Europe).chd" sha1="4bd0fb0e6820b177029c7161ce12261f3c18f246"/>
+		<url>https://retroachievements.org/game/14546/hashes</url>
+		<hash>6373056ccba924f3c1bb3c34aa8a15dc</hash>
+	</machine>
+	
+	<machine name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan)">
+		<category>Retail</category>
+		<description>Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan)</description>
+		<release name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan)" region="Japan"/>
+		<rom name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan).m3u" size="154" crc="30111766" sha1="63ae1b5857d4ecc8b253e5de9b651f341b6e339a" md5="7ee406d63c1b743c0cfc75d71b106661"/>
+		<disk name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 1).chd" sha1="8e58c94a92944853eb9ba1ebd7a8d3ee8c2290f2"/>
+		<disk name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (Disc 2).chd" sha1="a9dab2d3db0ed6209c63f6afc2175a458610bc93"/>
+		<url>https://retroachievements.org/game/19710/hashes</url>
+		<hash>645fd83ee73b13b9a0f4e37a870d6b9e</hash>
+		<hash>8b49fc74cd2109903054842b91e732a5</hash>
+	</machine>
+	<machine name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (En) (v1.04) (In the Rose Garden)" cloneof="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan)">
+		<category>Retail</category>
+		<description>Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (En) (v1.04) (In the Rose Garden)</description>
+		<release name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (En) (v1.04) (In the Rose Garden)" region="English"/>
+		<rom name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (En) (v1.04) (In the Rose Garden).m3u" size="222" crc="e1fd7509" sha1="e125d692f77fb83f26bc44a9076d14bb39271877" md5="e30bfbada443dda779155c24f08bac9f"/>
+		<disk name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (En) (v1.04) (In the Rose Garden) (Disc 1).chd" sha1="d59568a6051c69635e65e6d0c1becd8564f1b4c2"/>
+		<disk name="Shoujo Kakumei Utena - Itsuka Kakumei Sareru Monogatari (Japan) (En) (v1.04) (In the Rose Garden) (Disc 2).chd" sha1="76c2cf1b0e3bbd3f19e9a7d779b3d431ff3e92d0"/>
+		<url>https://retroachievements.org/game/19710/hashes</url>
+		<hash>1c952a1b4fe795ee190624d4d26997d3</hash>
+		<hash>093a035731ea0dcef5dc9b3ec6ea5a27</hash>
+	</machine>
+	
+	<machine name="SimCity 2000 (USA)">
+		<category>Retail</category>
+		<description>SimCity 2000 (USA)</description>
+		<release name="SimCity 2000 (USA)" region="USA"/>
+		<disk name="SimCity 2000 (USA).chd" sha1="1b7bbed8a7d09f9bd057cd4e94e94ee62719adcf"/>
+		<url>https://retroachievements.org/game/1243/hashes</url>
+		<hash>9e3610e0781a59e908283024c20f9c87</hash>
+	</machine>
+	
+	<machine name="Sonic 3D Blast (USA)">
+		<category>Retail</category>
+		<description>Sonic 3D Blast (USA)</description>
+		<release name="Sonic 3D Blast (USA)" region="USA"/>
+		<disk name="Sonic 3D Blast (USA).chd" sha1="e7066f9def7ae15096482d497b4e075a55d91283"/>
+		<url>https://retroachievements.org/game/14547/hashes</url>
+		<hash>f17f893fa4dbb83e7999aee71fd2bb2e</hash>
+	</machine>
+	
+	<machine name="Sonic Jam (USA)">
+		<category>Retail</category>
+		<description>Sonic Jam (USA)</description>
+		<release name="Sonic Jam (USA)" region="USA"/>
+		<disk name="Sonic Jam (USA).chd" sha1="dc25127a87f657dc06639c39d37e446991f01b85"/>
+		<url>https://retroachievements.org/game/14548/hashes</url>
+		<hash>4cc79d222e326fe2ba906930673c7466</hash>
+	</machine>
+	<machine name="Sonic Jam (Europe)" cloneof="Sonic Jam (USA)">
+		<category>Retail</category>
+		<description>Sonic Jam (Europe)</description>
+		<release name="Sonic Jam (Europe)" region="Europe"/>
+		<disk name="Sonic Jam (Europe).chd" sha1="adb76c228f2eb5824376fb5019d5aa29587a02d2"/>
+		<url>https://retroachievements.org/game/14548/hashes</url>
+		<hash>9b4fffb94f0b07db06ab778b41506a8a</hash>
+	</machine>
+	
+	<machine name="Sonic R (USA, Brazil)">
+		<category>Retail</category>
+		<description>Sonic R (USA, Brazil)</description>
+		<release name="Sonic R (USA, Brazil)" region="Brazil"/>
+		<release name="Sonic R (USA, Brazil)" region="USA"/>
+		<disk name="Sonic R (USA, Brazil).chd" sha1="7c4d40253ad4173d544d6058794f8fafd7934a49"/>
+		<url>https://retroachievements.org/game/14549/hashes</url>
+		<hash>1ce911e19fedb4565fe29d1ea2005a26</hash>
+	</machine>
+	
+	<machine name="Steamgear Mash (Japan) (1M)">
+		<category>Retail</category>
+		<description>Steamgear Mash (Japan) (1M)</description>
+		<release name="Steamgear Mash (Japan) (1M)" region="Japan"/>
+		<disk name="Steamgear Mash (Japan) (1M).chd" sha1="fc4c7b0cfb5e42bb2a5ca7346c69575245b4f3f8"/>
+		<url>https://retroachievements.org/game/7429/hashes</url>
+		<hash>5e8640fe337d71d09523b0c3a14f7f0f</hash>
+	</machine>
+	
+	<machine name="Steep Slope Sliders (USA)">
+		<category>Retail</category>
+		<description>Steep Slope Sliders (USA)</description>
+		<release name="Steep Slope Sliders (USA)" region="USA"/>
+		<disk name="Steep Slope Sliders (USA).chd" sha1="6cb35e762063afd73c8f697c0004a2a2c8e8e42b"/>
+		<url>https://retroachievements.org/game/6565/hashes</url>
+		<hash>a9fe1cc3159d653f9f7b1800e4e84890</hash>
+	</machine>
+	
+	<machine name="Super Puzzle Fighter II Turbo (USA)">
+		<category>Retail</category>
+		<description>Super Puzzle Fighter II Turbo (USA)</description>
+		<release name="Super Puzzle Fighter II Turbo (USA)" region="USA"/>
+		<disk name="Super Puzzle Fighter II Turbo (USA).chd" sha1="bba346a167853944cfb790527f5393667e47e52f"/>
+		<url>https://retroachievements.org/game/11590/hashes</url>
+		<hash>5bb435df088432df15cb9527b18d60c2</hash>
+	</machine>
+	
+	<machine name="Tactics Ogre - Let Us Cling Together (Japan)">
+		<category>Retail</category>
+		<description>Tactics Ogre - Let Us Cling Together (Japan)</description>
+		<release name="Tactics Ogre - Let Us Cling Together (Japan)" region="Japan"/>
+		<disk name="Tactics Ogre - Let Us Cling Together (Japan).chd" sha1="b0eb3dbe6a157acae71b7c85b054a3418d2f58d7"/>
+		<url>https://retroachievements.org/game/22174/hashes</url>
+		<hash>2f1f99cb6ce623633cc8ceeec9b35ff5</hash>
+	</machine>
+	<machine name="Tactics Ogre - Let Us Cling Together (Japan) (En) (v1.0.1) (Stardust Crusaders)" cloneof="Tactics Ogre - Let Us Cling Together (Japan)">
+		<category>Retail</category>
+		<description>Tactics Ogre - Let Us Cling Together (Japan) (En) (v1.0.1) (Stardust Crusaders)</description>
+		<release name="Tactics Ogre - Let Us Cling Together (Japan) (En) (v1.0.1) (Stardust Crusaders)" region="English"/>
+		<disk name="Tactics Ogre - Let Us Cling Together (Japan) (En) (v1.0.1) (Stardust Crusaders).chd" sha1="d06aef00f154a66c1dc1b0f432a94cc9b9e36c10"/>
+		<url>https://retroachievements.org/game/22174/hashes</url>
+		<hash>999855774e7787f16e84006fbcc0012f</hash>
+	</machine>
+	
+	<machine name="Tenchi o Kurau II - Sekiheki no Tatakai (Japan)">
+		<category>Retail</category>
+		<description>Tenchi o Kurau II - Sekiheki no Tatakai (Japan)</description>
+		<release name="Tenchi o Kurau II - Sekiheki no Tatakai (Japan)" region="Japan"/>
+		<disk name="Tenchi o Kurau II - Sekiheki no Tatakai (Japan).chd" sha1="ee36727e0523a45635ba181deb707d98d7e23d53"/>
+		<url>https://retroachievements.org/game/26147/hashes</url>
+		<hash>77a58abd4d641f32f913fab909c16008</hash>
+	</machine>
+	
+	<machine name="Tenchi o Kurau II - Sekiheki no Tatakai (Subset - Multi)">
+		<category>Subset</category>
+		<description>Tenchi o Kurau II - Sekiheki no Tatakai (Subset - Multi)</description>
+		<release name="Tenchi o Kurau II - Sekiheki no Tatakai (Subset - Multi)" region="World"/>
+		<disk name="Tenchi o Kurau II - Sekiheki no Tatakai (Subset - Multi).chd" sha1="102c9e923fd398fb5595f6133051bdfd4a706923"/>
+		<url>https://retroachievements.org/game/28292/hashes</url>
+		<hash>fdac20eb87c6be5636dfcea2ff9b2baa</hash>
+	</machine>
+	
+	<machine name="House of the Dead, The (USA)">
+		<category>Retail</category>
+		<description>House of the Dead, The (USA)</description>
+		<release name="House of the Dead, The (USA)" region="USA"/>
+		<disk name="House of the Dead, The (USA).chd" sha1="bacb7fd0cbb275a93cfb60b2e1175065bc62f0f0"/>
+		<url>https://retroachievements.org/game/14507/hashes</url>
+		<hash>dbe3a5996d27e1a12e0b3bc891668551</hash>
+	</machine>
+	
+	<machine name="Legend of Oasis, The (USA)">
+		<category>Retail</category>
+		<description>Legend of Oasis, The (USA)</description>
+		<release name="Legend of Oasis, The (USA)" region="USA"/>
+		<disk name="Legend of Oasis, The (USA).chd" sha1="7ed5a5e49a8f57285f0f04a036d82019dc1854ef"/>
+		<url>https://retroachievements.org/game/14542/hashes</url>
+		<hash>4f6ab49745fa06590042fc4ecdc5666f</hash>
+	</machine>
+	
+	<machine name="Mansion of Hidden Souls, The (USA)">
+		<category>Retail</category>
+		<description>Mansion of Hidden Souls, The (USA)</description>
+		<release name="Mansion of Hidden Souls, The (USA)" region="USA"/>
+		<disk name="Mansion of Hidden Souls, The (USA).chd" sha1="c30c93affffd646dc3bfee73f281bcee2c114d0a"/>
+		<url>https://retroachievements.org/game/17212/hashes</url>
+		<hash>54d133fe827411aee4e6ed576dbfa701</hash>
+	</machine>
+	
+	<machine name="Yakyuuken Special, The - Kon'ya wa 12-kaisen!! (Japan) (1M)">
+		<category>Retail</category>
+		<description>Yakyuuken Special, The - Kon'ya wa 12-kaisen!! (Japan) (1M)</description>
+		<release name="Yakyuuken Special, The - Kon'ya wa 12-kaisen!! (Japan) (1M)" region="Japan"/>
+		<disk name="Yakyuuken Special, The - Kon'ya wa 12-kaisen!! (Japan) (1M).chd" sha1="9a3ad1a74357bfaf610b7734b9d72edd96845a22"/>
+		<url>https://retroachievements.org/game/20266/hashes</url>
+		<hash>ab23e4d8d4af873a7ae224a24acc26fa</hash>
+	</machine>
+	
+	<machine name="Three Dirty Dwarves (USA) (RE)">
+		<category>Retail</category>
+		<description>Three Dirty Dwarves (USA) (RE)</description>
+		<release name="Three Dirty Dwarves (USA) (RE)" region="USA"/>
+		<disk name="Three Dirty Dwarves (USA) (RE).chd" sha1="7eae814f4be1bf9bccf1299909ab27ec78b9a95c"/>
+		<url>https://retroachievements.org/game/11525/hashes</url>
+		<hash>a86d251ebb5d91e53fda747c0d92cddc</hash>
+	</machine>
+	
+	<machine name="Virtua Racing (USA) (12S)">
+		<category>Retail</category>
+		<description>Virtua Racing (USA) (12S)</description>
+		<release name="Virtua Racing (USA) (12S)" region="USA"/>
+		<disk name="Virtua Racing (USA) (12S).chd" sha1="2e75a3dbb422595d59ee65797dc3a330b2de9d14"/>
+		<url>https://retroachievements.org/game/25768/hashes</url>
+		<hash>f5bf36649782fdf76c8f92fe5e356c66</hash>
+	</machine>
+	
+	<machine name="Tomb Raider (USA)">
+		<category>Retail</category>
+		<description>Tomb Raider (USA)</description>
+		<release name="Tomb Raider (USA)" region="USA"/>
+		<disk name="Tomb Raider (USA).chd" sha1="477d1acbc0d7c7b0babef57a10312815cfda64f5"/>
+		<url>https://retroachievements.org/game/4538/hashes</url>
+		<hash>1f32fbcef37d2f73303c5f1752dd5f30</hash>
+	</machine>
+	
+	<machine name="Tryrush Deppy (Japan)">
+		<category>Retail</category>
+		<description>Tryrush Deppy (Japan)</description>
+		<release name="Tryrush Deppy (Japan)" region="Japan"/>
+		<disk name="Tryrush Deppy (Japan).chd" sha1="2b1d1ee1a5d51ba4ff63d211b0db7723de2fc325"/>
+		<url>https://retroachievements.org/game/3768/hashes</url>
+		<hash>3ca7dd88e8eba4391b03339ff2bc5306</hash>
+	</machine>
+	
+	<machine name="Ultraman - Hikari no Kyojin Densetsu (Japan)">
+		<category>Retail</category>
+		<description>Ultraman - Hikari no Kyojin Densetsu (Japan)</description>
+		<release name="Ultraman - Hikari no Kyojin Densetsu (Japan)" region="Japan"/>
+		<disk name="Ultraman - Hikari no Kyojin Densetsu (Japan).chd" sha1="9221434c980a800db50c3da6db01b19f60d8d623"/>
+		<url>https://retroachievements.org/game/26097/hashes</url>
+		<hash>d34373410e47029bfd485c524c8da042</hash>
+	</machine>
+	
+	<machine name="Uno DX (Japan)">
+		<category>Retail</category>
+		<description>Uno DX (Japan)</description>
+		<release name="Uno DX (Japan)" region="Japan"/>
+		<disk name="Uno DX (Japan).chd" sha1="88172055e9672bb76c6ce3009dd00d65c004c2ab"/>
+		<url>https://retroachievements.org/game/22445/hashes</url>
+		<hash>bb0b5e306d4e6b0a1a2b58257b0105ce</hash>
+	</machine>
+	
+	<machine name="Vandal Hearts - Ushinawareta Kodai Bunmei (Japan) (En) (v1.5) (Stardust Crusaders)">
+		<category>Retail</category>
+		<description>Vandal Hearts - Ushinawareta Kodai Bunmei (Japan) (En) (v1.5) (Stardust Crusaders)</description>
+		<release name="Vandal Hearts - Ushinawareta Kodai Bunmei (Japan) (En) (v1.5) (Stardust Crusaders)" region="English"/>
+		<disk name="Vandal Hearts - Ushinawareta Kodai Bunmei (Japan) (En) (v1.5) (Stardust Crusaders).chd" sha1="0376d81af8d09f2f32e6baa75d228be552497c53"/>
+		<url>https://retroachievements.org/game/18649/hashes</url>
+		<hash>8f37367b046dcfd3ec1a453e9c5ca8e1</hash>
+	</machine>
+	
+	<machine name="Virtua Cop (USA) (5S, 6S)">
+		<category>Retail</category>
+		<description>Virtua Cop (USA) (5S, 6S)</description>
+		<release name="Virtua Cop (USA) (5S, 6S)" region="USA"/>
+		<disk name="Virtua Cop (USA) (5S, 6S).chd" sha1="65ec56398657f7899914aa957a306bd0bd570499"/>
+		<url>https://retroachievements.org/game/14569/hashes</url>
+		<hash>a38a482f2331db7b086c1d875f3cee80</hash>
+	</machine>
+	
+	<machine name="Virtua Fighter 2 (USA)">
+		<category>Retail</category>
+		<description>Virtua Fighter 2 (USA)</description>
+		<release name="Virtua Fighter 2 (USA)" region="USA"/>
+		<disk name="Virtua Fighter 2 (USA).chd" sha1="a4fdc32fb6ae8570a31f43098fbe615b8adb65f4"/>
+		<url>https://retroachievements.org/game/14565/hashes</url>
+		<hash>6de9f3854cbb39503f429ba93a4c0ee4</hash>
+	</machine>
+	
+	<machine name="Virtua Fighter Kids (USA)">
+		<category>Retail</category>
+		<description>Virtua Fighter Kids (USA)</description>
+		<release name="Virtua Fighter Kids (USA)" region="USA"/>
+		<disk name="Virtua Fighter Kids (USA).chd" sha1="ed092917df972d56b276ac73ccf4fff3c96599c7"/>
+		<url>https://retroachievements.org/game/12440/hashes</url>
+		<hash>905ed7d181f9cd229708a5711e26e84b</hash>
+	</machine>
+	
+	<machine name="Virtua Fighter Remix (USA)">
+		<category>Retail</category>
+		<description>Virtua Fighter Remix (USA)</description>
+		<release name="Virtua Fighter Remix (USA)" region="USA"/>
+		<disk name="Virtua Fighter Remix (USA).chd" sha1="0539047c25fb9b2018e901294ed0f2a22d536f88"/>
+		<url>https://retroachievements.org/game/22577/hashes</url>
+		<hash>6fc3d526f2480ae335a0aba97a6159a2</hash>
+	</machine>
+	
+	<machine name="Virtual Hydlide (USA) (P4H)">
+		<category>Retail</category>
+		<description>Virtual Hydlide (USA) (P4H)</description>
+		<release name="Virtual Hydlide (USA) (P4H)" region="USA"/>
+		<disk name="Virtual Hydlide (USA) (P4H).chd" sha1="bc0023fc3b6bfc600765707757dafb4b0bc6de8c"/>
+		<url>https://retroachievements.org/game/14552/hashes</url>
+		<hash>6db17f6e1ee53342bb01343db35e2878</hash>
+	</machine>
+	
+	<machine name="Virtual On - Cyber Troopers (USA)">
+		<category>Retail</category>
+		<description>Virtual On - Cyber Troopers (USA)</description>
+		<release name="Virtual On - Cyber Troopers (USA)" region="USA"/>
+		<disk name="Virtual On - Cyber Troopers (USA).chd" sha1="c72bd48ca41607fe6006d5c5bf3d1028fd43a638"/>
+		<url>https://retroachievements.org/game/14568/hashes</url>
+		<hash>a7dc126a2f782f48105d76f7feda9ebd</hash>
+	</machine>
+	
+	<machine name="Worms (USA)">
+		<category>Retail</category>
+		<description>Worms (USA)</description>
+		<release name="Worms (USA)" region="USA"/>
+		<disk name="Worms (USA).chd" sha1="d8a0f027d5e43cebf2d14b5ad673577c84e87f8f"/>
+		<url>https://retroachievements.org/game/11649/hashes</url>
+		<hash>de244f9f3154778b090b3c0443cd515a</hash>
+	</machine>
+	
+	<machine name="WWF In Your House (USA)">
+		<category>Retail</category>
+		<description>WWF In Your House (USA)</description>
+		<release name="WWF In Your House (USA)" region="USA"/>
+		<disk name="WWF In Your House (USA).chd" sha1="506ab54d8f6c7f0a5c7daa352e033d01cd4c451e"/>
+		<url>https://retroachievements.org/game/27213/hashes</url>
+		<hash>d01bc089be1e483df704b62bf444bd01</hash>
+	</machine>
+	
+	<machine name="Yumimi Mix Remix (Japan) (En) (v1.0) (Supper)">
+		<category>Retail</category>
+		<description>Yumimi Mix Remix (Japan) (En) (v1.0) (Supper)</description>
+		<release name="Yumimi Mix Remix (Japan) (En) (v1.0) (Supper)" region="English"/>
+		<disk name="Yumimi Mix Remix (Japan) (En) (v1.0) (Supper).chd" sha1="ff86f1d936f29837a8abc26aafdabca4015dbe76"/>
+		<url>https://retroachievements.org/game/19392/hashes</url>
+		<hash>4fdfd379ec1c91a9d0829a3724477fa9</hash>
+	</machine>
+	
+	<machine name="Zoop (Japan)">
+		<category>Retail</category>
+		<description>Zoop (Japan)</description>
+		<release name="Zoop (Japan)" region="Japan"/>
+		<disk name="Zoop (Japan).chd" sha1="39b474fd50ed59d63f58f7660ad4010510085f90"/>
+		<url>https://retroachievements.org/game/17157/hashes</url>
+		<hash>7b14583698bb6892a6d12bb805740982</hash>
+	</machine>
+</datafile>

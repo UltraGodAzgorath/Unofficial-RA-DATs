@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>RA - 3DO Interactive Multiplayer</name>
+		<description>3DO Interactive Multiplayer</description>
+		<category>Subfolders</category>
+		<version>20251225</version>
+		<date>25 December 2025</date>
+		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
+		<homepage>https://retroachievements.org</homepage>
+		<url>https://retroachievements.org/system/43/games</url>
+		<titlecount>33</titlecount>
+		<hashcount>33</hashcount>
+		<clrmamepro forcepacking="unzip"/>
+		<romvault forcepacking="unzip"/>
+	</header>
+	<machine name="Homebrew/Wreckman (World) (v1.0.0) (retroloveletter) (Aftermarket)">
+		<category></category>
+		<description>Wreckman (World) (v1.0.0) (retroloveletter) (Aftermarket)</description>
+		<disk name="Wreckman (World) (v1.0.0) (retroloveletter) (Aftermarket).chd" sha1="3f0b20fa82db7cd8778b386b3c1485aa8b535e23"/>
+		<url>https://retroachievements.org/game/24160/hashes</url>
+		<hash>33031a9305cab3eb38af9f163fafe307</hash>
+	</machine>
+	
+	<machine name="Retail/Alone in the Dark (USA)">
+		<category></category>
+		<description>Alone in the Dark (USA)</description>
+		<disk name="Alone in the Dark (USA).chd" sha1="9fb6df2d989d503f2605b9d021d2c778c5b8334f"/>
+		<url>https://retroachievements.org/game/8368/hashes</url>
+		<hash>4d7f2e1b2e8b9d9d14f083fae44d9760</hash>
+	</machine>
+
+	<machine name="Retail/Alone in the Dark 2 (USA)">
+		<category></category>
+		<description>Alone in the Dark 2 (USA)</description>
+		<disk name="Alone in the Dark 2 (USA).chd" sha1="18e2d79456f501d55b8b76993bb5305f038e5556"/>
+		<url>https://retroachievements.org/game/7895/hashes</url>
+		<hash>2b8f6037654255aac56ff5c12c0b44e6</hash>
+	</machine>
+
+	<machine name="Retail/Drug Wars (USA)">
+		<category></category>
+		<description>Drug Wars (USA)</description>
+		<disk name="Drug Wars (USA).chd" sha1="f2489a57791fa8c9e51b9051ae231eedd1d49d8e"/>
+		<url>https://retroachievements.org/game/16827/hashes</url>
+		<hash>bdbcafe60b41f0be7ec07cac9515cb38</hash>
+	</machine>
+
+	<machine name="Retail/Doom (USA, Japan)">
+		<category></category>
+		<description>Doom (USA, Japan)</description>
+		<disk name="Doom (USA, Japan).chd" sha1="a90a3a65d56833cd5c9a07de192e5be5362a9c2c"/>
+		<url>https://retroachievements.org/game/16617/hashes</url>
+		<hash>c93cbef8e885c2ec83bc1732890a0d1f</hash>
+	</machine>
+
+	<machine name="Retail/Dragon's Lair (USA, Korea)">
+		<category></category>
+		<description>Dragon's Lair (USA, Korea)</description>
+		<disk name="Dragon's Lair (USA, Korea).chd" sha1="41d485e453804fb69ba579737be9630a2da93900"/>
+		<url>https://retroachievements.org/game/16826/hashes</url>
+		<hash>468d11b409bce3ff2facee054a8494ad</hash>
+	</machine>
+
+	<machine name="Retail/Escape from Monster Manor (USA)">
+		<category></category>
+		<description>Escape from Monster Manor (USA)</description>
+		<disk name="Escape from Monster Manor (USA).chd" sha1="18e224f638740392b9e5aba0d815fc3dfbb77a2e"/>
+		<url>https://retroachievements.org/game/17743/hashes</url>
+		<hash>76d55d10938f936b9707d4578e8440a7</hash>
+	</machine>
+
+	<machine name="Retail/Fatty Bear's Birthday Surprise (USA)">
+		<category></category>
+		<description>Fatty Bear's Birthday Surprise (USA)</description>
+		<disk name="Fatty Bear's Birthday Surprise (USA).chd" sha1="5634917789c582f2e27776ae1e1613b86de23fb5"/>
+		<url>https://retroachievements.org/game/16411/hashes</url>
+		<hash>7a7a41a239fe4d026be6dfa761933fb5</hash>
+	</machine>
+
+	<machine name="Retail/Fatty Bear's Funpack (USA)">
+		<category></category>
+		<description>Fatty Bear's Funpack (USA)</description>
+		<disk name="Fatty Bear's Funpack (USA).chd" sha1="5b8e520aaf585b4d695a177ee942961d6d7db247"/>
+		<url>https://retroachievements.org/game/16412/hashes</url>
+		<hash>f148536a4e707a4418aad19ba80a9515</hash>
+	</machine>
+
+	<machine name="Retail/Hello Kitty - Asobi no Omochabako (Japan)">
+		<category></category>
+		<description>Hello Kitty - Asobi no Omochabako (Japan)</description>
+		<disk name="Hello Kitty - Asobi no Omochabako (Japan).chd" sha1="56db25f89579df11faf6663b0e23c537d5ae9cd4"/>
+		<url>https://retroachievements.org/game/21353/hashes</url>
+		<hash>89bda405b722c648e28576f4652011e9</hash>
+	</machine>
+	
+	<machine name="Retail/Hitchcock ni Chousen (Japan)">
+		<category></category>
+		<description>Hitchcock ni Chousen (Japan)</description>
+		<disk name="Hitchcock ni Chousen (Japan).chd" sha1="473d47d309919cb4a13a26d617b1f8f16c0ae722"/>
+		<url>https://retroachievements.org/game/20239/hashes</url>
+		<hash>d215521cc942a81b1439162469c53809</hash>
+	</machine>
+
+	<machine name="Retail/Jurassic Park Interactive (USA)">
+		<category></category>
+		<description>Jurassic Park Interactive (USA)</description>
+		<disk name="Jurassic Park Interactive (USA).chd" sha1="574ff2461113e909660c5b87a389110ac7431b84"/>
+		<url>https://retroachievements.org/game/16640/hashes</url>
+		<hash>bbb1a1c3fc825365407dae73a65e2c61</hash>
+	</machine>
+
+	<machine name="Retail/Kingdom - The Far Reaches (USA, Europe)">
+		<category></category>
+		<description>Kingdom - The Far Reaches (USA, Europe)</description>
+		<disk name="Kingdom - The Far Reaches (USA, Europe).chd" sha1="6188c6fd064dfcfbda19282081537bcd72ea41e0"/>
+		<url>https://retroachievements.org/game/8400/hashes</url>
+		<hash>32295bd44a4885b170d2073739d4fec2</hash>
+	</machine>
+
+	<machine name="Retail/Mad Dog II - The Lost Gold (USA)">
+		<category></category>
+		<description>Mad Dog II - The Lost Gold (USA)</description>
+		<disk name="Mad Dog II - The Lost Gold (USA).chd" sha1="b84208006ea492d7ef4a9969b45dfc6ef744e8b4"/>
+		<url>https://retroachievements.org/game/21265/hashes</url>
+		<hash>d2843fb9937587e9a0b77e067770b0ab</hash>
+	</machine>
+
+	<machine name="Retail/MegaRace (USA, Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>MegaRace (USA, Europe) (En,Fr,De,Es,It)</description>
+		<disk name="MegaRace (USA, Europe) (En,Fr,De,Es,It).chd" sha1="9104821542f60270709deae7d78375eeb8353820"/>
+		<url>https://retroachievements.org/game/16837/hashes</url>
+		<hash>6adf88dffbb1e563aac10098f3bf5fa7</hash>
+	</machine>
+
+	<machine name="Retail/Mind Teazzer (USA)">
+		<category></category>
+		<description>Mind Teazzer (USA)</description>
+		<disk name="Mind Teazzer (USA).chd" sha1="0eddf695a84ba0af4188f9bbc5c68162e97639c9"/>
+		<url>https://retroachievements.org/game/16550/hashes</url>
+		<hash>2d13fca9767858fb7b93da2c74f525f9</hash>
+	</machine>
+
+	<machine name="Retail/Myst (USA)">
+		<category></category>
+		<description>Myst (USA)</description>
+		<disk name="Myst (USA).chd" sha1="2e41d384bf2e6a47ec7e4494b06904e622d02486"/>
+		<url>https://retroachievements.org/game/16839/hashes</url>
+		<hash>e3254945201de3d713abe8ba9338efae</hash>
+	</machine>
+
+	<machine name="Retail/Onee-san to Issho! Janken Paradise (Japan)">
+		<category></category>
+		<description>Onee-san to Issho! Janken Paradise (Japan)</description>
+		<disk name="Onee-san to Issho! Janken Paradise (Japan).chd" sha1="1e88b4a8a6a82ed546e4363274d91474492e061f"/>
+		<url>https://retroachievements.org/game/20506/hashes</url>
+		<hash>d902e9258441bc01d81dc15f2a39d1d7</hash>
+	</machine>
+
+	<machine name="Retail/Onee-san to Issho! Kisekae Paradise (Japan)">
+		<category></category>
+		<description>Onee-san to Issho! Kisekae Paradise (Japan)</description>
+		<disk name="Onee-san to Issho! Kisekae Paradise (Japan).chd" sha1="0be45e3838674391d18c8292744f9a08a01d1088"/>
+		<url>https://retroachievements.org/game/20507/hashes</url>
+		<hash>c4cd53e4b988b699029ab11b27657c59</hash>
+	</machine>
+
+	<machine name="Retail/Plumbers Don't Wear Ties (USA)">
+		<category></category>
+		<description>Plumbers Don't Wear Ties (USA)</description>
+		<disk name="Plumbers Don't Wear Ties (USA).chd" sha1="bfad6f552e4a2656690a2c3771df9d81af9c60c1"/>
+		<url>https://retroachievements.org/game/16397/hashes</url>
+		<hash>4570e692ac07d2242ab9141f1bb9000d</hash>
+	</machine>
+
+	<machine name="Retail/Pretty Soldier SailorMoon S (Japan)">
+		<category></category>
+		<description>Pretty Soldier SailorMoon S (Japan)</description>
+		<disk name="Pretty Soldier SailorMoon S (Japan).chd" sha1="06054a2a31eb20e488c4c9fbf933d29650aa8244"/>
+		<url>https://retroachievements.org/game/16406/hashes</url>
+		<hash>01293a81ca1a0ee3cda2d5f398e403e4</hash>
+	</machine>
+
+	<machine name="Retail/Putt-Putt Goes to the Moon (USA)">
+		<category></category>
+		<description>Putt-Putt Goes to the Moon (USA)</description>
+		<disk name="Putt-Putt Goes to the Moon (USA).chd" sha1="3b8c4cdc197c784582d5ab7d83c70af6708baca7"/>
+		<url>https://retroachievements.org/game/16410/hashes</url>
+		<hash>43def02afa11f26ffea31c45307020be</hash>
+	</machine>
+
+	<machine name="Retail/Rise of the Robots (USA)">
+		<category></category>
+		<description>Rise of the Robots (USA)</description>
+		<disk name="Rise of the Robots (USA).chd" sha1="64dd63bf01f98983a1d238db07f1dcf9f536ccce"/>
+		<url>https://retroachievements.org/game/16852/hashes</url>
+		<hash>923d162e786de7c32c5e2496603914fb</hash>
+	</machine>
+
+	<machine name="Retail/Seal of the Pharaoh (USA)">
+		<category></category>
+		<description>Seal of the Pharaoh (USA)</description>
+		<disk name="Seal of the Pharaoh (USA).chd" sha1="b8b90519745b697121b2a8b0430f00b62a0d31ce"/>
+		<url>https://retroachievements.org/game/7705/hashes</url>
+		<hash>cd54d1e1b8d680a9f1085b30ee992411</hash>
+	</machine>
+
+	<machine name="Retail/Shelley Duvall's It's a Bird's Life (USA)">
+		<category></category>
+		<description>Shelley Duvall's It's a Bird's Life (USA)</description>
+		<disk name="Shelley Duvall's It's a Bird's Life (USA).chd" sha1="80484682c9e7d4f9e56c048749afbdb60df722ae"/>
+		<url>https://retroachievements.org/game/21309/hashes</url>
+		<hash>e1a98c71e85e3db717339b607739bac4</hash>
+	</machine>
+	
+	<machine name="Retail/Soccer Kid (USA)">
+		<category></category>
+		<description>Soccer Kid (USA)</description>
+		<disk name="Soccer Kid (USA).chd" sha1="4ac480a20cec48213b7786dfb769fa08a0878095"/>
+		<url>https://retroachievements.org/game/16859/hashes</url>
+		<hash>b79873ed2deb0136207869a855a76d4d</hash>
+	</machine>
+	
+	<machine name="Retail/Star Wars - Rebel Assault (USA, Europe)">
+		<category></category>
+		<description>Star Wars - Rebel Assault (USA, Europe)</description>
+		<disk name="Star Wars - Rebel Assault (USA, Europe).chd" sha1="dae1c1c8f89e3b3ca67f2c014a152adc117f2ebe"/>
+		<url>https://retroachievements.org/game/16864/hashes</url>
+		<hash>90e4b7dda0d2b9d5117086271bdfa5ff</hash>
+	</machine>
+
+	<machine name="Retail/Starblade (Canada)">
+		<category></category>
+		<description>Starblade (Canada)</description>
+		<disk name="Starblade (Canada).chd" sha1="69c461b4a1006d80f3b7c72e13272ba845a3a76b"/>
+		<url>https://retroachievements.org/game/16865/hashes</url>
+		<hash>15a0ecf45f13bcb56e5ece58e0085622</hash>
+	</machine>
+
+	<machine name="Retail/Strahl (USA)">
+		<category></category>
+		<description>Strahl (USA)</description>
+		<disk name="Strahl (USA).chd" sha1="9ddd4ed1c54d6db80e27b197b203a1fd260c5c48"/>
+		<url>https://retroachievements.org/game/17739/hashes</url>
+		<hash>7df7061b2830e9d95e5f822a68cd2188</hash>
+	</machine>
+
+	<machine name="Retail/Super Street Fighter II Turbo (USA)">
+		<category></category>
+		<description>Super Street Fighter II Turbo (USA)</description>
+		<disk name="Super Street Fighter II Turbo (USA).chd" sha1="a14ffa0f323adf38fa2b6100ae52cd89dbd207e2"/>
+		<url>https://retroachievements.org/game/16528/hashes</url>
+		<hash>c2a97a18e2db5297518bd25fdf047c85</hash>
+	</machine>
+
+	<machine name="Retail/Incredible Machine, The (USA)">
+		<category></category>
+		<description>Incredible Machine, The (USA)</description>
+		<disk name="Incredible Machine, The (USA).chd" sha1="4e52c83a3e36c9ac827f2f3b69db366f9d5877a7"/>
+		<url>https://retroachievements.org/game/16832/hashes</url>
+		<hash>1a1438fb896409e1edff3d8c327debec</hash>
+	</machine>
+	
+	<machine name="Retail/Yakyuuken Special, The (Japan)">
+		<category></category>
+		<description>Yakyuuken Special, The (Japan)</description>
+		<disk name="Yakyuuken Special, The (Japan).chd" sha1="4736c4c70c5599506420a6eb37110c85dd571dc3"/>
+		<url>https://retroachievements.org/game/20265/hashes</url>
+		<hash>cb4fa2a7d8b6c1750ef10cced6336885</hash>
+	</machine>
+	
+	<machine name="Retail/Trip'd (USA, Europe)">
+		<category></category>
+		<description>Trip'd (USA, Europe)</description>
+		<disk name="Trip'd (USA, Europe).chd" sha1="b7b3df66b555cfe7c1f65edc811963a33759f4c7"/>
+		<url>https://retroachievements.org/game/16508/hashes</url>
+		<hash>8657b3440b4c177edf2e6e9607b0c319</hash>
+	</machine>
+
+	<machine name="Retail/Wolfenstein 3D (USA)">
+		<category></category>
+		<description>Wolfenstein 3D (USA)</description>
+		<disk name="Wolfenstein 3D (USA).chd" sha1="6c335bea22b365379dc9f5b2f0cf0ee0f5b2d933"/>
+		<url>https://retroachievements.org/game/16872/hashes</url>
+		<hash>71841df1c47503cce8a735dffd3898db</hash>
+	</machine>
+
+	<machine name="Retail/Yu Yu Hakusho (Japan)">
+		<category></category>
+		<description>Yu Yu Hakusho (Japan)</description>
+		<disk name="Yu Yu Hakusho (Japan).chd" sha1="5e8434ab395c3fa9484371b437b4a68b824fafe6"/>
+		<url>https://retroachievements.org/game/16407/hashes</url>
+		<hash>9a14a399c139faccfe4a356d5384d0a0</hash>
+	</machine>
+</datafile>

@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>RA - SNK Neo Geo CD</name>
+		<description>SNK Neo Geo CD</description>
+		<category>Subfolders</category>
+		<version>20251225</version>
+		<date>25 December 2025</date>
+		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
+		<homepage>https://retroachievements.org</homepage>
+		<url>https://retroachievements.org/system/56/games</url>
+		<titlecount>39</titlecount>
+		<hashcount>42/47</hashcount>
+		<clrmamepro forcepacking="unzip"/>
+		<romvault forcepacking="unzip"/>
+	</header>
+	<machine name="Homebrew/Last Hope (Germany) (Aftermarket)">
+		<category></category>
+		<description>Last Hope (Germany) (Aftermarket)</description>
+		<disk name="Last Hope (Germany) (Aftermarket).chd" sha1="5f3c0b9566c77a97eb94e24b7e4e15bfd326ce6e"/>
+		<url>https://retroachievements.org/game/23851/hashes</url>
+		<hash>2c60bac28fb31d6a1347e60e880867d6</hash>
+	</machine>
+	
+	<machine name="Homebrew/Shinobi/Shinobi (World) (v1.0) (Hoffman) (Aftermarket)">
+		<category></category>
+		<description>Shinobi (World) (v1.0) (Hoffman) (Aftermarket)</description>
+		<disk name="Shinobi (World) (v1.0) (Hoffman) (Aftermarket).chd" sha1="5d58df8714d7be728ce31216fba2697e32fefe66"/>
+		<url>https://retroachievements.org/game/32801/hashes</url>
+		<hash>d94f736035e14939185fb9a8af4012f8</hash>
+	</machine>
+	<machine name="Homebrew/Shinobi/Shinobi (World) (v1.1) (Hoffman) (Aftermarket)">
+		<category></category>
+		<description>Shinobi (World) (v1.1) (Hoffman) (Aftermarket)</description>
+		<disk name="Shinobi (World) (v1.1) (Hoffman) (Aftermarket).chd" sha1="02273629416b0c36d911686f2f1234653c21cc52"/>
+		<url>https://retroachievements.org/game/32801/hashes</url>
+		<hash>fafac288db61100b8ce57086d3b5a6ab</hash>
+	</machine>
+	
+	<machine name="Homebrew/Xeno Crisis (World) (Aftermarket)">
+		<category></category>
+		<description>Xeno Crisis (World) (Aftermarket)</description>
+		<disk name="Xeno Crisis (World) (Aftermarket).chd" sha1="792ee3aa806d06163b4d613f47d8ac9802a20c92"/>
+		<url>https://retroachievements.org/game/23888/hashes</url>
+		<hash>1d232e073b335d96cfef64bad118065c</hash>
+	</machine>
+	
+	<machine name="Unlicensed/Bang^2 Busters (France) (En,Ja) (Unl)">
+		<category></category>
+		<description>Bang^2 Busters (France) (En,Ja) (Unl)</description>
+		<disk name="Bang^2 Busters (France) (En,Ja) (Unl).chd" sha1="2112eca62613c4ebaff3a62334b6395009c05c37"/>
+		<url>https://retroachievements.org/game/23829/hashes</url>
+		<hash>5577aa46a71bede62cda49284e903b22</hash>
+	</machine>
+	
+	<machine name="Unlicensed/Treasure of the Caribbean (France) (En,Ja) (Unl)">
+		<category></category>
+		<description>Treasure of the Caribbean (France) (En,Ja) (Unl)</description>
+		<disk name="Treasure of the Caribbean (France) (En,Ja) (Unl).chd" sha1="917cd0a4830e2ede8db151c83ad2aa80a92bdec3"/>
+		<url>https://retroachievements.org/game/23893/hashes</url>
+		<hash>d70f51d47d7774290bc6343223cb3f9d</hash>
+	</machine>
+	
+	<machine name="Retail/ADK World (Japan)">
+		<category></category>
+		<description>ADK World (Japan)</description>
+		<disk name="ADK World (Japan).chd" sha1="2e92a3760fec8d0020e7570975168f7b97ead974"/>
+		<url>https://retroachievements.org/game/23824/hashes</url>
+		<hash>0fd821fdb242210f87e33f8ff921ef6d</hash>
+	</machine>
+	
+	<machine name="Retail/Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja)">
+		<category></category>
+		<description>Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja)</description>
+		<disk name="Sonic Wings 2 ~ Aero Fighters 2 (World) (En,Ja).chd" sha1="1f6294b688132bca63eb2c8c9cf5534959fbb35a"/>
+		<url>https://retroachievements.org/game/23838/hashes</url>
+		<hash>1ac941c2d26e1d60e8e25e44eec64a90</hash>
+	</machine>
+	
+	<machine name="Retail/Breakers (Japan) (En,Ja)">
+		<category></category>
+		<description>Breakers (Japan) (En,Ja)</description>
+		<disk name="Breakers (Japan) (En,Ja).chd" sha1="30a20ee600573e86d147657d7f5f04824c1fad27"/>
+		<url>https://retroachievements.org/game/9177/hashes</url>
+		<hash>ed337bd2fda55c3df53b9950a7259872</hash>
+	</machine>
+	
+	<machine name="Retail/Crossed Swords (Japan)">
+		<category></category>
+		<description>Crossed Swords (Japan)</description>
+		<disk name="Crossed Swords (Japan).chd" sha1="70998e29ea1952b0029bb4d87aeeba6d2ad59f26"/>
+		<url>https://retroachievements.org/game/9149/hashes</url>
+		<hash>0258c9e246d4a11743fe05069b14c929</hash>
+	</machine>
+	
+	<machine name="Retail/Crossed Swords II (Japan) (En,Ja)">
+		<category></category>
+		<description>Crossed Swords II (Japan) (En,Ja)</description>
+		<disk name="Crossed Swords II (Japan) (En,Ja).chd" sha1="768b396f0e393cbc3f5af1f46efa2e84e3c202d3"/>
+		<url>https://retroachievements.org/game/9186/hashes</url>
+		<hash>6bf57922ef3e8b35a69e10379b0d9862</hash>
+	</machine>
+	
+	<machine name="Retail/Double Dragon (Japan) (En,Ja) (Rev 1)">
+		<category></category>
+		<description>Double Dragon (Japan) (En,Ja) (Rev 1)</description>
+		<disk name="Double Dragon (Japan) (En,Ja) (Rev 1).chd" sha1="64bf06de31105900dacbdd927ef635f71d264725"/>
+		<url>https://retroachievements.org/game/23834/hashes</url>
+		<hash>f0fbc957ec13108d42d336d0d156d588</hash>
+		<legacyhash>d94a0a87aa7b26032d49e94bd3837fd8</legacyhash>
+	</machine>
+	
+	<machine name="Retail/Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja)">
+		<category></category>
+		<description>Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja)</description>
+		<disk name="Garou Densetsu - Shukumei no Tatakai ~ Fatal Fury - King of Fighters (Japan) (En,Ja).chd" sha1="50c76d31533a591454934cd80a28d144a0b321f6"/>
+		<url>https://retroachievements.org/game/23845/hashes</url>
+		<hash>fda4c1804f3ce9723db4ed2ad38ef269</hash>
+	</machine>
+	
+	<machine name="Retail/Choutetsu Brikin'ger ~ Ironclad - Tesshou Rusha (Japan) (En,Ja)">
+		<category></category>
+		<description>Choutetsu Brikin'ger ~ Ironclad - Tesshou Rusha (Japan) (En,Ja)</description>
+		<disk name="Choutetsu Brikin'ger ~ Ironclad - Tesshou Rusha (Japan) (En,Ja).chd" sha1="86fd13538b60d5f799bdd1fd480509bbd42f1a9e"/>
+		<url>https://retroachievements.org/game/9189/hashes</url>
+		<hash>da499334bc3673fdcad7b2337653088a</hash>
+	</machine>
+	
+	<machine name="Retail/Next Thing, The - King of the Monsters 2 (World) (En,Ja)">
+		<category></category>
+		<description>Next Thing, The - King of the Monsters 2 (World) (En,Ja)</description>
+		<disk name="Next Thing, The - King of the Monsters 2 (World) (En,Ja).chd" sha1="497832edfb0ebaa1732e9fc2fe32b278b7d7c557"/>
+		<url>https://retroachievements.org/game/23891/hashes</url>
+		<hash>cb4d84873734317306f930a638536529</hash>
+	</machine>
+	
+	<machine name="Retail/League Bowling (Japan) (En,Ja)">
+		<category></category>
+		<description>League Bowling (Japan) (En,Ja)</description>
+		<disk name="League Bowling (Japan) (En,Ja).chd" sha1="ed16716cfaeb0add7584d8326566aca2ba4cd368"/>
+		<url>https://retroachievements.org/game/9106/hashes</url>
+		<hash>3cc087e4318fff8aed8345449bfe760b</hash>
+	</machine>
+	
+	<machine name="Retail/Magician Lord (Japan) (En,Ja)">
+		<category></category>
+		<description>Magician Lord (Japan) (En,Ja)</description>
+		<disk name="Magician Lord (Japan) (En,Ja).chd" sha1="7be2577453502060a8655ece288394170b5e5263"/>
+		<url>https://retroachievements.org/game/9176/hashes</url>
+		<hash>a617e93e3693660c8d986a2eee6904cb</hash>
+	</machine>
+	
+	<machine name="Retail/Metal Slug (Japan) (En,Ja)">
+		<category></category>
+		<description>Metal Slug (Japan) (En,Ja)</description>
+		<disk name="Metal Slug (Japan) (En,Ja).chd" sha1="deb7126b2c43a0cbfe37e4af321ce41489b71a16"/>
+		<url>https://retroachievements.org/game/9182/hashes</url>
+		<hash>14902f6044ab1fe5b0ad9fc44b0e1814</hash>
+	</machine>
+	
+	<machine name="Retail/Metal Slug 2/Metal Slug 2 (World) (En,Ja)">
+		<category></category>
+		<description>Metal Slug 2 (World) (En,Ja)</description>
+		<disk name="Metal Slug 2 (World) (En,Ja).chd" sha1="cf08d387da5004922bd0c6bdb9d5258f1b39575c"/>
+		<url>https://retroachievements.org/game/9103/hashes</url>
+		<hash>1122a5c4348616c4e94b1ba9eeb9c87d</hash>
+	</machine>
+	<machine name="Retail/Metal Slug 2/Metal Slug 2 (World) (En,Ja) (Slowdown Reduction Patch) (v1.0) (system11, SmokeMonster)">
+		<category></category>
+		<description>Metal Slug 2 (World) (En,Ja) (Slowdown Reduction Patch) (v1.0) (system11, SmokeMonster)</description>
+		<disk name="Metal Slug 2 (World) (En,Ja) (Slowdown Reduction Patch) (v1.0) (system11, SmokeMonster).chd" sha1="2a1c1f853706a13807cb9c270906e11d6d4a4794"/>
+		<url>https://retroachievements.org/game/9103/hashes</url>
+		<hash>2da3c9c727df44e16a8c8a31ee7cb7e2</hash>
+	</machine>
+	
+	<machine name="Retail/Mutation Nation (Japan) (En,Ja)">
+		<category></category>
+		<description>Mutation Nation (Japan) (En,Ja)</description>
+		<disk name="Mutation Nation (Japan) (En,Ja).chd" sha1="2b75dead286a7d0f30110434ff13f1a199b4532c"/>
+		<url>https://retroachievements.org/game/9122/hashes</url>
+		<hash>0ec42cc0f6f6041699fa0456d72295c4</hash>
+	</machine>
+	
+	<machine name="Subset/Mutation Nation (Subset - Multi)">
+		<category></category>
+		<description>Mutation Nation (Subset - Multi)</description>
+		<disk name="Mutation Nation (Subset - Multi).chd" sha1="17cb359eba5f3a0f0471668dfa5f7b764136f435"/>
+		<url>https://retroachievements.org/game/26990/hashes</url>
+		<hash>293fc12273f61e9681ccaece7d56a814</hash>
+	</machine>
+	
+	<machine name="Retail/Nam-1975 (Japan) (En,Ja)">
+		<category></category>
+		<description>Nam-1975 (Japan) (En,Ja)</description>
+		<disk name="Nam-1975 (Japan) (En,Ja).chd" sha1="bdeca0ed89d99e85f15dae5936a6426fe8703f2f"/>
+		<url>https://retroachievements.org/game/9141/hashes</url>
+		<hash>bd7fd18a24c392d25d712a3ae6ed98a2</hash>
+	</machine>
+	
+	<machine name="Retail/Neo Drift Out - New Technology (Japan)">
+		<category></category>
+		<description>Neo Drift Out - New Technology (Japan)</description>
+		<disk name="Neo Drift Out - New Technology (Japan).chd" sha1="ae66cb095499017b60cbbd06752f2c8a88bd7221"/>
+		<url>https://retroachievements.org/game/23848/hashes</url>
+		<hash>a47063094fdb29d6de7d0f414254a089</hash>
+	</machine>
+	
+	<machine name="Retail/Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja)">
+		<category></category>
+		<description>Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja)</description>
+		<disk name="Big Tournament Golf ~ Neo Turf Masters (Japan) (En,Ja).chd" sha1="d0af8e54ad7841b765894014ae44c1f2c37d85b8"/>
+		<url>https://retroachievements.org/game/23831/hashes</url>
+		<hash>6afe4c4108f34914cac0274f1e49c294</hash>
+	</machine>
+	
+	<machine name="Retail/OverTop (Japan) (En,Ja)">
+		<category></category>
+		<description>OverTop (Japan) (En,Ja)</description>
+		<disk name="OverTop (Japan) (En,Ja).chd" sha1="99e404090436eabb9a34c39c953c9550c87101f6"/>
+		<url>https://retroachievements.org/game/23856/hashes</url>
+		<hash>21edf7674a0d6ca1ee8fc71b0331b010</hash>
+	</machine>
+	
+	<machine name="Retail/Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja)">
+		<category></category>
+		<description>Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja)</description>
+		<disk name="Futsal - 5 on 5 Mini Soccer ~ PleasureGoal - 5 on 5 Mini Soccer (Japan) (En,Ja).chd" sha1="e600996cbf6f15be1f3dbcf9fd85aaab93d19897"/>
+		<url>https://retroachievements.org/game/23857/hashes</url>
+		<hash>66ec949bde009681484d2cd7158873d8</hash>
+	</machine>
+	
+	<machine name="Retail/Pulstar (Japan) (En,Ja)">
+		<category></category>
+		<description>Pulstar (Japan) (En,Ja)</description>
+		<disk name="Pulstar (Japan) (En,Ja).chd" sha1="9c5fa602b1c3dcf70ff75a1a5f5ce16f24baeca1"/>
+		<url>https://retroachievements.org/game/9164/hashes</url>
+		<hash>cd9c3d37408c31eaaf72a1e10f69fbc4</hash>
+	</machine>
+	
+	<machine name="Retail/Puzzle Bobble ~ Bust-A-Move (Japan) (En,Ja)">
+		<category></category>
+		<description>Puzzle Bobble ~ Bust-A-Move (Japan) (En,Ja)</description>
+		<disk name="Puzzle Bobble ~ Bust-A-Move (Japan) (En,Ja).chd" sha1="0079ce8efa93443b3988ecf733f6cd6b4ccf54f8"/>
+		<url>https://retroachievements.org/game/23803/hashes</url>
+		<hash>282ffc9411808cd514c092d2772b5163</hash>
+	</machine>
+	
+	<machine name="Retail/Rally Chase (Japan) (En,Ja)">
+		<category></category>
+		<description>Rally Chase (Japan) (En,Ja)</description>
+		<disk name="Rally Chase (Japan) (En,Ja).chd" sha1="63a451a03212d224d3d01901e8242a0e93960134"/>
+		<url>https://retroachievements.org/game/23849/hashes</url>
+		<hash>8dc5545bde96a4debfc6deae3f20aa86</hash>
+	</machine>
+	
+	<machine name="Retail/Savage Reign/Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt)">
+		<category></category>
+		<description>Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt)</description>
+		<disk name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt).chd" sha1="8a0d2a0f0114ae4bbdeb902a102b57a4a5bd83f8"/>
+		<url>https://retroachievements.org/game/23866/hashes</url>
+		<hash>1d59cdd9af0f82cd89c4a7a7594f1422</hash>
+		<legacyhash>3df0fc10d4fac02904487e58588b5737</legacyhash>
+	</machine>
+	<machine name="Retail/Savage Reign/Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Rev 1)">
+		<category></category>
+		<description>Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Rev 1)</description>
+		<disk name="Fuuun Mokushiroku - Kakutou Sousei ~ Savage Reign (World) (En,Ja,Es,Pt) (Rev 1).chd" sha1="91335dec05027605836d56260347670c7f03e766"/>
+		<url>https://retroachievements.org/game/23866/hashes</url>
+		<hash>bee0fde4249b86e9f2c1c8849e918e90</hash>
+		<legacyhash>4f84cf59f190dc881c1916ef5d9ab600</legacyhash>
+	</machine>
+	
+	<machine name="Retail/Shougi no Tatsujin - Master of Syougi (Japan)">
+		<category></category>
+		<description>Shougi no Tatsujin - Master of Syougi (Japan)</description>
+		<disk name="Shougi no Tatsujin - Master of Syougi (Japan).chd" sha1="1ed53f2fd9f7f2e5d1c20f0ae59c3585b9966539"/>
+		<url>https://retroachievements.org/game/23868/hashes</url>
+		<hash>26e2b6677508159f29b408f143ae5b03</hash>
+	</machine>
+	
+	<machine name="Retail/Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA)">
+		<category></category>
+		<description>Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA)</description>
+		<disk name="Dunk Dream ~ Street Slam ~ Street Hoop (Japan, USA).chd" sha1="b32a7b5e0c2cae6f1fcc8561fdb14cb142b25e88"/>
+		<url>https://retroachievements.org/game/23835/hashes</url>
+		<hash>0a70a4409ebac6fe7096e9c3799a56ee</hash>
+	</machine>
+	
+	<machine name="Retail/Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (World) (En,Ja,Fr,Es,It,Pt)">
+		<category></category>
+		<description>Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (World) (En,Ja,Fr,Es,It,Pt)</description>
+		<disk name="Tokuten-ou 3 - Eikou e no Chousen ~ Super Sidekicks 3 - The Next Glory (World) (En,Ja,Fr,Es,It,Pt).chd" sha1="30e51bf898d62d6db4e83ee089c3365fb590bb7d"/>
+		<url>https://retroachievements.org/game/23879/hashes</url>
+		<hash>4c8fe6d79fb876a41e5c1609267366d4</hash>
+	</machine>
+	
+	<machine name="Subset/Super Sidekicks 3 - The Next Glory (Subset - Post '98 Champions)">
+		<category></category>
+		<description>Super Sidekicks 3 - The Next Glory (Subset - Post '98 Champions)</description>
+		<disk name="Super Sidekicks 3 - The Next Glory (Subset - Post '98 Champions).chd" sha1="fdbc49a77b55efc30c351ed77b1bfc475989bc91"/>
+		<url>https://retroachievements.org/game/26691/hashes</url>
+		<hash>1d357cec975d46eacaff931520ad8fc5</hash>
+	</machine>
+	
+	<machine name="Retail/Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja)">
+		<category></category>
+		<description>Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja)</description>
+		<disk name="Far East of Eden - Tengai Makyou Shinden ~ Far East of Eden - Kabuki Klash (Japan) (En,Ja).chd" sha1="33c3b7522c33c3ece293567ff7d5045b98dc1c99"/>
+		<url>https://retroachievements.org/game/9156/hashes</url>
+		<hash>ead8565baa2255f3273e1996a0666c13</hash>
+	</machine>
+	
+	<machine name="Retail/King of Fighters '97, The (Japan) (En,Ja)">
+		<category></category>
+		<description>King of Fighters '97, The (Japan) (En,Ja)</description>
+		<disk name="King of Fighters '97, The (Japan) (En,Ja).chd" sha1="7e7753a698d85c9ebb6500823a5136c4e4b087f1"/>
+		<url>https://retroachievements.org/game/23873/hashes</url>
+		<hash>bf7aabd59f3c0c049e0fc9f3e5cd4ec1</hash>
+		<legacyhash>7d92140289b4fb7be1b8924ed53f8504</legacyhash>
+	</machine>
+	
+	<machine name="Retail/Top Hunter - Roddy &amp; Cathy (World) (En,Ja)">
+		<category></category>
+		<description>Top Hunter - Roddy &amp; Cathy (World) (En,Ja)</description>
+		<disk name="Top Hunter - Roddy &amp; Cathy (World) (En,Ja).chd" sha1="7d75c27541cd5ae2e1677a62046529306171dd0b"/>
+		<url>https://retroachievements.org/game/9146/hashes</url>
+		<hash>ec04ad9093243f662b7d3dde8005a165</hash>
+	</machine>
+	
+	<machine name="Retail/Top Player's Golf (Japan) (En,Ja)">
+		<category></category>
+		<description>Top Player's Golf (Japan) (En,Ja)</description>
+		<disk name="Top Player's Golf (Japan) (En,Ja).chd" sha1="eb46c942b4d665b9a77c0d01dd77851aa0bdfb50"/>
+		<url>https://retroachievements.org/game/23881/hashes</url>
+		<hash>f8a0e88822317703359be0df170a73b8</hash>
+		<legacyhash>28f4d7d34fef1e844c97648e055fedf8</legacyhash>
+	</machine>
+	
+	<machine name="Retail/Twinkle Star Sprites (Japan) (En,Ja)">
+		<category></category>
+		<description>Twinkle Star Sprites (Japan) (En,Ja)</description>
+		<disk name="Twinkle Star Sprites (Japan) (En,Ja).chd" sha1="97f5e2c95aa34b0dc56921cdcad122d7c536e593"/>
+		<url>https://retroachievements.org/game/23882/hashes</url>
+		<hash>7c03d6fc2f2c3c121d3ae6cd37905455</hash>
+	</machine>
+	
+	<machine name="Retail/Flying Power Disc ~ Windjammers (Japan) (En,Ja)">
+		<category></category>
+		<description>Flying Power Disc ~ Windjammers (Japan) (En,Ja)</description>
+		<disk name="Flying Power Disc ~ Windjammers (Japan) (En,Ja).chd" sha1="aac4f0db9e2b998ee22d5b41fd278e52f33d1cf2"/>
+		<url>https://retroachievements.org/game/9162/hashes</url>
+		<hash>27d27af1ca0945dfac6e8cb9c75c6d62</hash>
+	</machine>
+	
+	<machine name="Retail/World Heroes Perfect (Export) (En,Ja) (Rev 1)">
+		<category></category>
+		<description>World Heroes Perfect (Export) (En,Ja) (Rev 1)</description>
+		<disk name="World Heroes Perfect (Export) (En,Ja) (Rev 1).chd" sha1="bd9dcf62a4b87d1e72b555eabd4c983981a5f14d"/>
+		<url>https://retroachievements.org/game/23887/hashes</url>
+		<hash>c132d10f1f95f6d22b30e537130667a4</hash>
+	</machine>
+</datafile>

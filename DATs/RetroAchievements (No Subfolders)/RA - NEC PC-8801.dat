@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+<datafile>
+	<header>
+		<name>RA - NEC PC-8801</name>
+		<description>NEC PC-8801</description>
+		<category>No Subfolders</category>
+		<version>20251014</version>
+		<date>14 October 2025</date>
+		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
+		<homepage>https://retroachievements.org/</homepage>
+		<url>https://retroachievements.org/system/47/games</url>
+		<titlecount>81</titlecount>
+		<hashcount>117/121</hashcount>
+	</header>
+	<game name="Ascend (2022) (Inufuto) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Ascend (2022) (Inufuto) (Aftermarket)</description>
+		<release name="Ascend (2022) (Inufuto) (Aftermarket)" region="Japan"/>
+		<rom name="Ascend (2022) (Inufuto) (Aftermarket).d88" size="348848" crc="aada6f57" md5="5def00835e061a54fe6d1fa2d5a8d2b0" sha1="4a2b0196b8c45f78b496434b58d49dfac8475538"/>
+		<url>https://retroachievements.org/game/31315/hashes</url>
+		<hash>5def00835e061a54fe6d1fa2d5a8d2b0</hash>
+	</game>
+	
+	<game name="Hopman (2023) (Inufuto) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Hopman (2023) (Inufuto) (Aftermarket)</description>
+		<release name="Hopman (2023) (Inufuto) (Aftermarket)" region="Japan"/>
+		<rom name="Hopman (2023) (Inufuto) (Aftermarket).d88" size="348848" crc="06db7ca7" md5="17fce162c8ac66bad21bb8e801bd8bb3" sha1="94f920f9d2a4cb601d7bc97dbe7497d94d5473bd"/>
+		<url>https://retroachievements.org/game/28625/hashes</url>
+		<hash>17fce162c8ac66bad21bb8e801bd8bb3</hash>
+	</game>
+	
+	<game name="1942 (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>1942 (Japan) (NeoKobe)</description>
+		<release name="1942 (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="1942 (Japan) (NeoKobe).d88" size="348848" crc="cb204288" md5="1c00b209336018c7bf618a11d63b57d7" sha1="08b96cc36261dc563b1e41920d780750f94f5b87"/>
+		<url>https://retroachievements.org/game/14192/hashes</url>
+		<hash>1c00b209336018c7bf618a11d63b57d7</hash>
+	</game>
+	
+	<game name="American Truck (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>American Truck (Japan) (NeoKobe)</description>
+		<release name="American Truck (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="American Truck (Japan) (NeoKobe).d88" size="349024" crc="0e1c417a" md5="7309672ed6318695d1e6a1e319d709f1" sha1="a365fc0d9df15294aab25e8dab31a35cb0639d26"/>
+		<url>https://retroachievements.org/game/31189/hashes</url>
+		<hash>7309672ed6318695d1e6a1e319d709f1</hash>
+	</game>
+	
+	<game name="Arkanoid (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Arkanoid (Japan) (NeoKobe)</description>
+		<release name="Arkanoid (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Arkanoid (Japan) (NeoKobe).d88" size="348848" crc="6520c1e9" md5="82665654413828ecb9f59f9ee72cc27d" sha1="717add6ef5e70659a74c6b17c8370c9e6c9e921f"/>
+		<url>https://retroachievements.org/game/30809/hashes</url>
+		<hash>82665654413828ecb9f59f9ee72cc27d</hash>
+	</game>
+	
+	<game name="Balloon Fight (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Balloon Fight (Japan) (NeoKobe)</description>
+		<release name="Balloon Fight (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Balloon Fight (Japan) (NeoKobe).d88" size="48576" crc="d4fd5ab2" md5="217d98cd080c974f94070a8c759153d3" sha1="88eeb5c527cffef2ecfd28cf82917902f84ed6ab"/>
+		<url>https://retroachievements.org/game/14193/hashes</url>
+		<hash>217d98cd080c974f94070a8c759153d3</hash>
+	</game>
+	
+	<game name="Battle Skin Panic (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Battle Skin Panic (Japan) (NeoKobe)</description>
+		<release name="Battle Skin Panic (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Battle Skin Panic (Japan) (NeoKobe).m3u" size="148" crc="56a5d2c7" md5="a79385f162c7df92f9ffedd4e56d41f7" sha1="032c0e0132c5642c3310c827120a6240624c262f"/>
+		<rom name="Battle Skin Panic (Japan) (NeoKobe) (Disk A).d88" size="414992" crc="f9ff8122" md5="1f37c90372f768650491d33325a1e396" sha1="29faad7d41b1898e32d543b03a3018f0bef4d66c"/>
+		<rom name="Battle Skin Panic (Japan) (NeoKobe) (Disk B).d88" size="414992" crc="cbe68661" md5="27d347480cc6dac3768297b6fd9defff" sha1="25f9baf7291ec2f28702ff31f26da8221fa3d579"/>
+		<rom name="Battle Skin Panic (Japan) (NeoKobe) (Disk C).d88" size="414992" crc="da136da1" md5="5205c480ce8b60ab3200067ae2d8923d" sha1="46f8dfeae51460d5d459355f5a0eb19b37af3692"/>
+		<url>https://retroachievements.org/game/17483/hashes</url>
+		<hash>1f37c90372f768650491d33325a1e396</hash>
+		<hash>27d347480cc6dac3768297b6fd9defff</hash>
+		<hash>5205c480ce8b60ab3200067ae2d8923d</hash>
+	</game>
+	
+	<game name="Blue Mint (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Blue Mint (Japan) (NeoKobe)</description>
+		<release name="Blue Mint (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Blue Mint (Japan) (NeoKobe).d88" size="348848" crc="862e4151" md5="e4a9591b33c0da0668458445142e3e27" sha1="1b130fe5474468119ea5ee9dca153b07ed1d5605"/>
+		<url>https://retroachievements.org/game/32648/hashes</url>
+		<hash>e4a9591b33c0da0668458445142e3e27</hash>
+	</game>
+	
+	<game name="Bomb Jack (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Bomb Jack (Japan) (NeoKobe)</description>
+		<release name="Bomb Jack (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Bomb Jack (Japan) (NeoKobe).d88" size="348848" crc="da4a20f6" md5="d00e07046291efda14a076b870d26fd5" sha1="09ebaa16ad4a0c20e865e6590b936f128dfea2c0"/>
+		<url>https://retroachievements.org/game/14194/hashes</url>
+		<hash>d00e07046291efda14a076b870d26fd5</hash>
+	</game>
+	
+	<game name="Choplifter (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Choplifter (Japan) (NeoKobe)</description>
+		<release name="Choplifter (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Choplifter (Japan) (NeoKobe).d88" size="348848" crc="d264cce0" md5="89b47d7cf7e794d62cdbabe98bb12a8a" sha1="908862610b75fe0b92807021a1a1b8f5839b9d34"/>
+		<url>https://retroachievements.org/game/31162/hashes</url>
+		<hash>89b47d7cf7e794d62cdbabe98bb12a8a</hash>
+	</game>
+	
+	<game name="Choro Q Holiday Puzzle (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Choro Q Holiday Puzzle (Japan) (NeoKobe)</description>
+		<release name="Choro Q Holiday Puzzle (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Choro Q Holiday Puzzle (Japan) (NeoKobe).d88" size="366256" crc="e41e2e52" md5="5ceb3452093a933175f9f29022e84587" sha1="134b10be0f873d3de626993ff9d147ef2c9c0ca3"/>
+		<url>https://retroachievements.org/game/14928/hashes</url>
+		<hash>5ceb3452093a933175f9f29022e84587</hash>
+	</game>
+	
+	<game name="Computer the Golf (Japan) (En) (v1.0) (Geofront)">
+		<category>Retail</category>
+		<description>Computer the Golf (Japan) (En) (v1.0) (Geofront)</description>
+		<release name="Computer the Golf (Japan) (En) (v1.0) (Geofront)" region="English"/>
+		<rom name="Computer the Golf (Japan) (En) (v1.0) (Geofront).t88" size="24195" crc="7dd10355" md5="8801b3fd121300a193df4096a023c68b" sha1="646a48cdfef767e6492dfa5001b0683026b52a7d"/>
+		<url>https://retroachievements.org/game/6752/hashes</url>
+		<hash>8801b3fd121300a193df4096a023c68b</hash>
+	</game>
+	
+	<game name="Cuby Panic (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Cuby Panic (Japan) (NeoKobe)</description>
+		<release name="Cuby Panic (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Cuby Panic (Japan) (NeoKobe).d88" size="344528" crc="4567ee43" md5="3876a310798ae116e21e09701eec8f09" sha1="dca371e0c71dda875aa49c74ed25a5ac2df22581"/>
+		<url>https://retroachievements.org/game/14132/hashes</url>
+		<hash>3876a310798ae116e21e09701eec8f09</hash>
+	</game>
+	
+	<game name="Metal Orange (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Metal Orange (Japan) (NeoKobe)</description>
+		<release name="Metal Orange (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Metal Orange (Japan) (NeoKobe).m3u" size="178" crc="6c95e9b1" md5="b148776c67d29c35be2c95449d842696" sha1="df3ab2319fb84b50b2ba8437ed9cb696d2dd1e58"/>
+		<rom name="Metal Orange (Japan) (NeoKobe) (Disk A).d88" size="415840" crc="eb00b157" md5="f2459e0da5cf90af376fee954097554b" sha1="f458383c0b596daf48e86b42f485dd6ce7fca3da"/>
+		<rom name="Metal Orange (Japan) (NeoKobe) (Disk B).d88" size="415840" crc="1d8f2f42" md5="1e31b73f60328d6fd735443d5c9a70cc" sha1="03cc54a30620ec0bad7751cbdb6a6ee2f4459915"/>
+		<rom name="Metal Orange (Japan) (NeoKobe) (Disk C).d88" size="415840" crc="b78f466a" md5="beb7a8768362b03e671c8e69415e0870" sha1="a0dd1441136a10774670a572cc1103b43f175112"/>
+		<rom name="Metal Orange (Japan) (NeoKobe) (Disk D).d88" size="415840" crc="f4768ea1" md5="e06e28e0ef60a3d46f8b5337cd9da816" sha1="50e03f4d4d101aee4ceb9d0a101b11b22250d88b"/>
+		<url>https://retroachievements.org/game/13989/hashes</url>
+		<hash>f2459e0da5cf90af376fee954097554b</hash>
+		<hash>1e31b73f60328d6fd735443d5c9a70cc</hash>
+		<hash>beb7a8768362b03e671c8e69415e0870</hash>
+		<hash>e06e28e0ef60a3d46f8b5337cd9da816</hash>
+	</game>
+	
+	<game name="Dezeni Japan (MKII) (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Dezeni Japan (MKII) (Japan) (NeoKobe)</description>
+		<release name="Dezeni Japan (MKII) (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Dezeni Japan (MKII) (Japan) (NeoKobe).d88" size="348848" crc="2b9b5edd" md5="b951d24c58e13ce81267cfcac433c6d0" sha1="1dc4fabe4cabd0c9278a2d4e38bfd3a4823f86fa"/>
+		<url>https://retroachievements.org/game/30826/hashes</url>
+		<hash>b951d24c58e13ce81267cfcac433c6d0</hash>
+	</game>
+	<game name="Dezeni Japan (Japan) (NeoKobe)" cloneof="Dezeni Japan (MKII) (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Dezeni Japan (Japan) (NeoKobe)</description>
+		<rom name="Dezeni Japan (Japan) (NeoKobe).d88" size="348848" crc="cbf9e9f5" md5="283563f6202914596439481f86c7b42d" sha1="f7894f13a0649f42b49f7a145c44f4e04c9b7bb9"/>
+		<url>https://retroachievements.org/game/30826/hashes</url>
+		<hash>283563f6202914596439481f86c7b42d</hash>
+	</game>
+	
+	<game name="Dig Dug (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Dig Dug (Japan) (NeoKobe)</description>
+		<release name="Dig Dug (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Dig Dug (Japan) (NeoKobe).d88" size="348848" crc="00eddcc2" md5="a38ec46f6c9d59697ad38bb3e4d5872d" sha1="7f99e99bed95846f96b41dd6dfbb912c6bf159d7"/>
+		<url>https://retroachievements.org/game/30902/hashes</url>
+		<hash>a38ec46f6c9d59697ad38bb3e4d5872d</hash>
+	</game>
+	
+	<game name="Digital Devil Story - Megami Tensei (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Digital Devil Story - Megami Tensei (Japan) (NeoKobe)</description>
+		<release name="Digital Devil Story - Megami Tensei (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Digital Devil Story - Megami Tensei (Japan) (NeoKobe).m3u" size="134" crc="0136e227" md5="38127684a80e19367303edd17134353a" sha1="5703766492842cc4f30a499e926f0e0c4311cdce"/>
+		<rom name="Digital Devil Story - Megami Tensei (Japan) (NeoKobe) (Disk 1).d88" size="414992" crc="4871ca27" md5="7ede109c078aa2b3fd052f537b9fa1c8" sha1="5e7459f12b608e8e1d27d423d0a66d33b03cc428"/>
+		<rom name="Digital Devil Story - Megami Tensei (Japan) (NeoKobe) (Disk 2).d88" size="414992" crc="bca2e361" md5="28aa5361383283482912682635a2e934" sha1="edf0713cb29c51b290e1ebe6a2360e69dafff7b8"/>
+		<url>https://retroachievements.org/game/13985/hashes</url>
+		<hash>7ede109c078aa2b3fd052f537b9fa1c8</hash>
+		<hash>28aa5361383283482912682635a2e934</hash>
+	</game>
+	
+	<game name="Donkey Kong 3 - The Great Counterattack (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Donkey Kong 3 - The Great Counterattack (Japan) (NeoKobe)</description>
+		<release name="Donkey Kong 3 - The Great Counterattack (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Donkey Kong 3 - The Great Counterattack (Japan) (NeoKobe).d88" size="587808" crc="5a0955fa" md5="2c371a4e9085410c6b457e0db5e68e88" sha1="95709bf3a4bc631aed98681db263f6f345c419df"/>
+		<url>https://retroachievements.org/game/6812/hashes</url>
+		<hash>2c371a4e9085410c6b457e0db5e68e88</hash>
+	</game>
+	
+	<game name="Dragon Knight (Japan) (NeoKobe) (Disk A) (Alt 4)">
+		<category>Retail</category>
+		<description>Dragon Knight (Japan) (NeoKobe) (Disk A) (Alt 4)</description>
+		<release name="Dragon Knight (Japan) (NeoKobe) (Disk A) (Alt 4)" region="Japan"/>
+		<rom name="Dragon Knight (Japan) (NeoKobe) (Disk A) (Alt 4).d88" size="436640" crc="cbe5414b" md5="345022a2b320faa48e174f1604a08070" sha1="8548a8ce9d441f2bed43ca0eaf1265e4049bea69"/>
+		<url>https://retroachievements.org/game/21935/hashes</url>
+		<hash>345022a2b320faa48e174f1604a08070</hash>
+	</game>
+	
+	<game name="Dragon Knight II (Japan) (NeoKobe) (Disk A) (Alt 1)">
+		<category>Retail</category>
+		<description>Dragon Knight II (Japan) (NeoKobe) (Disk A) (Alt 1)</description>
+		<release name="Dragon Knight II (Japan) (NeoKobe) (Disk A) (Alt 1)" region="Japan"/>
+		<rom name="Dragon Knight II (Japan) (NeoKobe) (Disk A) (Alt 1).d88" size="436640" crc="c2a6b47d" md5="75793c796b6b8bd88698eec24842d7b5" sha1="d5a92c5822540e0b9973b1eb8e9dc629f65a95b2"/>
+		<url>https://retroachievements.org/game/22063/hashes</url>
+		<hash>75793c796b6b8bd88698eec24842d7b5</hash>
+	</game>
+	
+	<game name="Dragon Slayer (Level 1.1) (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Dragon Slayer (Level 1.1) (Japan) (NeoKobe)</description>
+		<release name="Dragon Slayer (Level 1.1) (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Dragon Slayer (Level 1.1) (Japan) (NeoKobe).d88" size="448144" crc="7f3ecea1" md5="8086bfe5e0a905e77ffef517aca77da1" sha1="0017c5f3af243f08687c8d2fa6d8e615c79ad837"/>
+		<url>https://retroachievements.org/game/13705/hashes</url>
+		<hash>8086bfe5e0a905e77ffef517aca77da1</hash>
+	</game>
+	
+	<game name="Dragon Slayer (Level 2.0) (Japan) (NeoKobe) (Clean Save Data) (v1.0) (Euclide)">
+		<category>Retail</category>
+		<description>Dragon Slayer (Level 2.0) (Japan) (NeoKobe) (Clean Save Data) (v1.0) (Euclide)</description>
+		<release name="Dragon Slayer (Level 2.0) (Japan) (NeoKobe) (Clean Save Data) (v1.0) (Euclide)" region="Japan"/>
+		<rom name="Dragon Slayer (Level 2.0) (Japan) (NeoKobe) (Clean Save Data) (v1.0) (Euclide).d88" size="499184" crc="e77020e6" md5="87417127a5ba7ac8dd9a67bb9f83ef6c" sha1="cc3b1af94ebc3cdc237b3950e8e0d26442671faf"/>
+		<url>https://retroachievements.org/game/14152/hashes</url>
+		<hash>87417127a5ba7ac8dd9a67bb9f83ef6c</hash>
+	</game>
+	
+	<game name="Dynamite Bowl (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Dynamite Bowl (Japan) (NeoKobe)</description>
+		<release name="Dynamite Bowl (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Dynamite Bowl (Japan) (NeoKobe).d88" size="348848" crc="7ba95088" md5="9f587e86e51ec9c0fe6f6d8b71de86df" sha1="52e3b3e74b3cfcfae8a9307f279a6077bdb2da4a"/>
+		<url>https://retroachievements.org/game/22559/hashes</url>
+		<hash>9f587e86e51ec9c0fe6f6d8b71de86df</hash>
+	</game>
+	
+	<game name="Emmy (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Emmy (Japan) (NeoKobe)</description>
+		<release name="Emmy (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Emmy (Japan) (NeoKobe).d88" size="348848" crc="ad5c4831" md5="c3fd72c922d4f9fd581d41b19b65772c" sha1="2b726b866fcbc4a130d52e44aeba88826af7f8c8"/>
+		<url>https://retroachievements.org/game/14107/hashes</url>
+		<hash>c3fd72c922d4f9fd581d41b19b65772c</hash>
+	</game>
+	
+	<game name="Ever Green (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Ever Green (Japan) (NeoKobe)</description>
+		<release name="Ever Green (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Ever Green (Japan) (NeoKobe).d88" size="422160" crc="1beb9673" md5="3c0dc61c00ced48fea9173abee0b8b2a" sha1="93bcba533548e53bd3c0b5eeb95966e28bb75002"/>
+		<url>https://retroachievements.org/game/31303/hashes</url>
+		<hash>3c0dc61c00ced48fea9173abee0b8b2a</hash>
+	</game>
+	
+	<game name="Excitebike (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Excitebike (Japan) (NeoKobe)</description>
+		<release name="Excitebike (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Excitebike (Japan) (NeoKobe).d88" size="47616" crc="ca90fdf7" md5="4f8777b899ec20720353fa0012476a48" sha1="d274a0ad60ac36a454d61f16178c1e1c1a231531"/>
+		<url>https://retroachievements.org/game/30829/hashes</url>
+		<hash>4f8777b899ec20720353fa0012476a48</hash>
+	</game>
+	
+	<game name="Fan Fun (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Fan Fun (Japan) (NeoKobe)</description>
+		<release name="Fan Fun (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Fan Fun (Japan) (NeoKobe).d88" size="31424" crc="72bac1b7" md5="a827214e2ce7c82ec619d9d647f1f383" sha1="7cc591ef225ffe629d39d98b082be20cd605b7a3"/>
+		<url>https://retroachievements.org/game/14665/hashes</url>
+		<hash>a827214e2ce7c82ec619d9d647f1f383</hash>
+	</game>
+	<game name="Fan Fun (Japan) (NeoKobe) (Alt)" cloneof="Fan Fun (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Fan Fun (Japan) (NeoKobe) (Alt)</description>
+		<rom name="Fan Fun (Japan) (NeoKobe) (Alt).n80" size="32576" crc="c17b4130" md5="e058325be20be75f90f40d2c7ed623d1" sha1="bcc554572264c564dfb712500d639174daf18b7b"/>
+		<url>https://retroachievements.org/game/14665/hashes</url>
+		<hash>e058325be20be75f90f40d2c7ed623d1</hash>
+	</game>
+	
+	<game name="Fangs (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Fangs (Japan) (NeoKobe)</description>
+		<release name="Fangs (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Fangs (Japan) (NeoKobe).m3u" size="226" crc="ad9e6812" md5="0b7d55116454d26b4c24f2320b7e4cd6" sha1="920d4695bd0e963cdd0a0642d09a2615f5980d08"/>
+		<rom name="Fangs (Japan) (NeoKobe) (Disk 1).d88" size="415840" crc="bd83db80" md5="9645671a9ae60a2bce89ade8ba8c4f9c" sha1="501529ec1b6add0dd1747931e950fdd2ecc6cea4"/>
+		<rom name="Fangs (Japan) (NeoKobe) (Disk 2).d88" size="415840" crc="cdb8eef8" md5="667d7af4874549a0c2dbcaa5b528445d" sha1="12e7e34326f5845ecb725a0f9e43a476100ee3be"/>
+		<rom name="Fangs (Japan) (NeoKobe) (Disk 3).d88" size="415840" crc="4efe0e29" md5="8f2a53c24e20b753c8c8141c6f01a93b" sha1="307a27ef8f1790ebd7e74ae6caf541e236323a59"/>
+		<rom name="Fangs (Japan) (NeoKobe) (Disk 4).d88" size="432480" crc="191f68ab" md5="947642c1da1ae1e0cd9b744a06b64eec" sha1="88ef860e3c8ec8c97f7f33c8215d3f11317b4ddf"/>
+		<rom name="Fangs (Japan) (NeoKobe) (Disk 5).d88" size="431440" crc="b0260676" md5="896731b1a0579050faf08908e2b11b49" sha1="f252dae97679bf42dea06721fd6e765d3efd01b1"/>
+		<rom name="Fangs (Japan) (NeoKobe) (Disk 6).d88" size="415840" crc="c30b2169" md5="4f15fcab6830cfc1961c8bfd1f1ee648" sha1="c74a9ed070ee7ef26213b37953ff00307fdd46cc"/>
+		<url>https://retroachievements.org/game/17516/hashes</url>
+		<hash>9645671a9ae60a2bce89ade8ba8c4f9c</hash>
+		<hash>667d7af4874549a0c2dbcaa5b528445d</hash>
+		<hash>8f2a53c24e20b753c8c8141c6f01a93b</hash>
+		<hash>947642c1da1ae1e0cd9b744a06b64eec</hash>
+		<hash>896731b1a0579050faf08908e2b11b49</hash>
+		<hash>4f15fcab6830cfc1961c8bfd1f1ee648</hash>
+	</game>
+	
+	<game name="Final Crisis (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Final Crisis (Japan) (NeoKobe)</description>
+		<release name="Final Crisis (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Final Crisis (Japan) (NeoKobe).m3u" size="133" crc="991e0494" md5="5539218998e60fb99f134e94c69f0449" sha1="286380e37711c81b307fed51279ebdb14dd23cae"/>
+		<rom name="Final Crisis (Japan) (NeoKobe) (Disk A).d88" size="353200" crc="ba6c3b21" md5="c7a225228ab2f24535b30d816883645d" sha1="51d22f71197309fa5d962d46397d296f1a141adc"/>
+		<rom name="Final Crisis (Japan) (NeoKobe) (Disk B).d88" size="348848" crc="9d20f002" md5="7dfd1a416f0e1434bbbddb87d19dc4d1" sha1="5524013df48505b3e294efae1840a9aebc596b2b"/>
+		<rom name="Final Crisis (Japan) (NeoKobe) (Disk C).d88" size="348848" crc="08372a00" md5="1486b21aaf38c018229d3867c186a2bb" sha1="5d776784ae99dd15d0eb9f08b6ceb20d4ba87faf"/>
+		<url>https://retroachievements.org/game/13990/hashes</url>
+		<hash>c7a225228ab2f24535b30d816883645d</hash>
+		<hash>7dfd1a416f0e1434bbbddb87d19dc4d1</hash>
+		<hash>1486b21aaf38c018229d3867c186a2bb</hash>
+	</game>
+	
+	<game name="Fruit Panic (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Fruit Panic (Japan) (NeoKobe)</description>
+		<release name="Fruit Panic (Japan) (NeoKobe)" region="Japan"/>
+			<rom name="Fruit Panic (Japan) (NeoKobe).d88" size="348848" crc="4c725865" md5="b2ceee3005dc0a1d96389e5b2a2a42f7" sha1="382dad099b3a375779f04cbab0b53bd2ee916356"/>
+		<url>https://retroachievements.org/game/28558/hashes</url>
+		<hash>b2ceee3005dc0a1d96389e5b2a2a42f7</hash>
+	</game>
+	
+	<game name="Galaxian (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Galaxian (Japan) (NeoKobe)</description>
+		<release name="Galaxian (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Galaxian (Japan) (NeoKobe).d88" size="348848" crc="7d6bfb84" md5="082e581be6f2d16b7d734f90ef7bd2c4" sha1="b69f94bf3ae10e1161ce9b26ed24bb4dd1ddf473"/>
+		<url>https://retroachievements.org/game/14196/hashes</url>
+		<hash>082e581be6f2d16b7d734f90ef7bd2c4</hash>
+	</game>
+	
+	<game name="Hard Rank (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Hard Rank (Japan) (NeoKobe)</description>
+		<release name="Hard Rank (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Hard Rank (Japan) (NeoKobe).m3u" size="82" crc="4a75aa23" md5="9dbe12c6123b100c9f2941bf409ea2a2" sha1="d9b7991374de34ae28466ef3a20b731e9d89e42e"/>
+		<rom name="Hard Rank (Japan) (NeoKobe) (Disk A).d88" size="348848" crc="e9068f29" md5="05c20126e9d4dbdae4c1e8627a8b1d9f" sha1="30e2409f67184ca6fa1f131c8b0b363596a9df06"/>
+		<rom name="Hard Rank (Japan) (NeoKobe) (Disk B).d88" size="348848" crc="b6a33dcf" md5="576349956ad4a706e1b90ddc9c1fbc2a" sha1="d797e37387129349e200d6d736a1614f57148322"/>
+		<url>https://retroachievements.org/game/13942/hashes</url>
+		<hash>05c20126e9d4dbdae4c1e8627a8b1d9f</hash>
+		<hash>576349956ad4a706e1b90ddc9c1fbc2a</hash>
+	</game>
+	
+	<game name="Horror House (Japan) (En) (NeoKobe) (v1.1) (Umbrella Terms)">
+		<category>Retail</category>
+		<description>Horror House (Japan) (En) (NeoKobe) (v1.1) (Umbrella Terms)</description>
+		<release name="Horror House (Japan) (En) (NeoKobe) (v1.1) (Umbrella Terms)" region="English"/>
+		<rom name="Horror House (Japan) (En) (NeoKobe) (v1.1) (Umbrella Terms).d88" size="51507" crc="03a97e7c" md5="9c76a2e7e8224d9bc5a3ca0dd0093e3d" sha1="b553765ced434b354e59e7b13c50f015f2e9e6ab"/>
+		<url>https://retroachievements.org/game/13979/hashes</url>
+		<hash>9c76a2e7e8224d9bc5a3ca0dd0093e3d</hash>
+	</game>
+	
+	<game name="Hydlide (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Hydlide (Japan) (NeoKobe)</description>
+		<release name="Hydlide (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Hydlide (Japan) (NeoKobe).d88" size="348848" crc="18a29c47" md5="a62b04973732fed5038989c61b61bbbe" sha1="0084412795f7bdfdb4852b0a7571febf351d7e75"/>
+		<url>https://retroachievements.org/game/13684/hashes</url>
+		<hash>a62b04973732fed5038989c61b61bbbe</hash>
+	</game>
+	
+	<game name="Hydlide II (Japan) (NeoKobe) (Alt 2)" cloneof="Hydlide II (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Hydlide II (Japan) (NeoKobe) (Alt 2)</description>
+		<rom name="Hydlide II (Japan) (NeoKobe) (Alt 2).d88" size="348848" crc="7f82e522" md5="1fed914fd693b14dca4ea00026f72248" sha1="8801cf3deeb376ca3cc78491b335c61a3ff4aa94"/>
+		<url>https://retroachievements.org/game/14243/hashes</url>
+		<hash>1fed914fd693b14dca4ea00026f72248</hash>
+	</game>
+	<game name="Hydlide II (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Hydlide II (Japan) (NeoKobe)</description>
+		<release name="Hydlide II (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Hydlide II (Japan) (NeoKobe).d88" size="348848" crc="fd125ef8" md5="e8f1aa4bcd196a6f7892b9b5e7d354ca" sha1="a53a692f624c3e215cbb0bb5076a501199f0c692"/>
+		<url>https://retroachievements.org/game/14243/hashes</url>
+		<hash>e8f1aa4bcd196a6f7892b9b5e7d354ca</hash>
+	</game>
+	
+	<game name="Ice Climber (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Ice Climber (Japan) (NeoKobe)</description>
+		<release name="Ice Climber (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Ice Climber (Japan) (NeoKobe).d88" size="348848" crc="abdbe51e" md5="85831fe9365d42f8535c11a9e649f25a" sha1="7601c8db05c1d724121fc8a478b0448df3ebd418"/>
+		<url>https://retroachievements.org/game/30828/hashes</url>
+		<hash>85831fe9365d42f8535c11a9e649f25a</hash>
+	</game>
+	
+	<game name="Joshidaisei Private (Private Stripper) (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Joshidaisei Private (Private Stripper) (Japan) (NeoKobe)</description>
+		<release name="Joshidaisei Private (Private Stripper) (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Joshidaisei Private (Private Stripper) (Japan) (NeoKobe).d88" size="66240" crc="e92d3bd5" md5="6c911f359a383ce501533d90200df4a3" sha1="7e4a9650f5034f654c8c2fc92a748a4b947e644d"/>
+		<url>https://retroachievements.org/game/13743/hashes</url>
+		<hash>6c911f359a383ce501533d90200df4a3</hash>
+	</game>
+	
+	<game name="Kidou Senshi Gundam Part 1 - Gundam Taichi ni Tatsu (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Kidou Senshi Gundam Part 1 - Gundam Taichi ni Tatsu (Japan) (NeoKobe)</description>
+		<release name="Kidou Senshi Gundam Part 1 - Gundam Taichi ni Tatsu (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Kidou Senshi Gundam Part 1 - Gundam Taichi ni Tatsu (Japan) (NeoKobe).m3u" size="171" crc="b785673c" md5="648ee5af35f98bb99cd84416bea06b07" sha1="ce929da69fa87c596a3353600a426d445999e7d0"/>
+		<rom name="Kidou Senshi Gundam Part 1 - Gundam Taichi ni Tatsu (Game Disk) (Japan) (NeoKobe).d88" size="422160" crc="988b8bc4" md5="f8e1ac1c9e92814602a1b516e9adcf0c" sha1="60525c757fcc08f8b63689374098387c7ad2151f"/>
+		<rom name="Kidou Senshi Gundam Part 1 - Gundam Taichi ni Tatsu (PCM Disk) (Japan) (NeoKobe).d88" size="788656" crc="7509bf9d" md5="89c0682bcdf2c80a3cbb829d9a258960" sha1="1d7ab64d9cdb357a24f4ee23e940ff0e8d389a98"/>
+		<url>https://retroachievements.org/game/30887/hashes</url>
+		<hash>f8e1ac1c9e92814602a1b516e9adcf0c</hash>
+		<hash>89c0682bcdf2c80a3cbb829d9a258960</hash>
+	</game>
+	
+	<game name="Knither - Demon Crystal II (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Knither - Demon Crystal II (Japan) (NeoKobe)</description>
+		<release name="Knither - Demon Crystal II (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Knither - Demon Crystal II (Japan) (NeoKobe).d88" size="348848" crc="f934d903" md5="01e64aaf482eabf2f0cedb6d5b6dc0e9" sha1="b1e393a8595481782305f80e955f5f7e60b6cf07"/>
+		<url>https://retroachievements.org/game/30913/hashes</url>
+		<hash>01e64aaf482eabf2f0cedb6d5b6dc0e9</hash>
+	</game>
+	
+	<game name="Lock On (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Lock On (Japan) (NeoKobe)</description>
+		<release name="Lock On (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Lock On (Japan) (NeoKobe).d88" size="348848" crc="be798626" md5="eb90117ac001a9518e79a8df2d903e5e" sha1="131e3646a62c7d8ea27b9433933506b1c6850c66"/>
+		<url>https://retroachievements.org/game/31423/hashes</url>
+		<hash>eb90117ac001a9518e79a8df2d903e5e</hash>
+	</game>
+	
+	<game name="Lunar Ball (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Lunar Ball (Japan) (NeoKobe)</description>
+		<release name="Lunar Ball (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Lunar Ball (Japan) (NeoKobe).d88" size="348848" crc="33f248c2" md5="17018d645592852a74e5ad965388f94e" sha1="211d1cc167ffabfb7e2e273bff04a3473e60dfb9"/>
+		<url>https://retroachievements.org/game/9138/hashes</url>
+		<hash>17018d645592852a74e5ad965388f94e</hash>
+	</game>
+	
+	<game name="Magnet Girl (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Magnet Girl (Japan) (NeoKobe)</description>
+		<release name="Magnet Girl (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Magnet Girl (Japan) (NeoKobe).d88" size="369968" crc="4b45eace" md5="f1296ead6a441f087120b3e2eab016a9" sha1="59f495fdd7de07d454f15eda34666f6038bcde90"/>
+		<url>https://retroachievements.org/game/25815/hashes</url>
+		<hash>f1296ead6a441f087120b3e2eab016a9</hash>
+	</game>
+	
+	<game name="Magnet Japan 2 (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Magnet Japan 2 (Japan) (NeoKobe)</description>
+		<release name="Magnet Japan 2 (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Magnet Japan 2 (Japan) (NeoKobe).d88" size="348848" crc="794de53a" md5="69513f2ea19b19dabc1727b819d8d059" sha1="c7c9a815e04f0138dfbdc04428592147ad899661"/>
+		<url>https://retroachievements.org/game/30867/hashes</url>
+		<hash>69513f2ea19b19dabc1727b819d8d059</hash>
+	</game>
+	
+	<game name="Magnet Japan Final (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Magnet Japan Final (Japan) (NeoKobe)</description>
+		<release name="Magnet Japan Final (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Magnet Japan Final (Japan) (NeoKobe).d88" size="348848" crc="df43e79b" md5="023f5b0818e6dad5c987c41ea1c81dc8" sha1="82ea2a0889f48d38213cadf40d3d56c901eeb10b"/>
+		<url>https://retroachievements.org/game/30824/hashes</url>
+		<hash>023f5b0818e6dad5c987c41ea1c81dc8</hash>
+	</game>
+	
+	<game name="Makaimura (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Makaimura (Japan) (NeoKobe)</description>
+		<release name="Makaimura (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Makaimura (Japan) (NeoKobe).d88" size="348848" crc="a98e2aea" md5="06901a21b5a11b88edcf09ab381906e0" sha1="574e3a317defca9ec45ca9009e5e0a736f0a02bd"/>
+		<url>https://retroachievements.org/game/28895/hashes</url>
+		<hash>06901a21b5a11b88edcf09ab381906e0</hash>
+	</game>
+	
+	<game name="Mappy (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Mappy (Japan) (NeoKobe)</description>
+		<release name="Mappy (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Mappy (Japan) (NeoKobe).d88" size="348848" crc="94025f20" md5="61ca405fb5063c7e0b5e157a888beb3a" sha1="3eea20056443d8f8016dbc615a0ee10eb1fc3867"/>
+		<url>https://retroachievements.org/game/30716/hashes</url>
+		<hash>61ca405fb5063c7e0b5e157a888beb3a</hash>
+	</game>
+	
+	<game name="Marine Alien (Japan) (Unknown)">
+		<category>Retail</category>
+		<description>Marine Alien (Japan) (Unknown)</description>
+		<release name="Marine Alien (Japan) (Unknown)" region="Japan"/>
+		<rom name="Marine Alien (Japan) (Unknown).cmt" size="6203" crc="e2f281b6" md5="64b282b08e51eed92b6cdd386a5d2fd0" sha1="1b2e6fbc886a851d7d6833b3301a67504db3acc7"/>
+		<url>https://retroachievements.org/game/14121/hashes</url>
+		<hash>64b282b08e51eed92b6cdd386a5d2fd0</hash>
+	</game>
+	
+	<game name="Mario Bros. Special (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Mario Bros. Special (Japan) (NeoKobe)</description>
+		<release name="Mario Bros. Special (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Mario Bros. Special (Japan) (NeoKobe).d88" size="348848" crc="47ad0e15" md5="dc66bcd1034c08879a2a47a10e6c95c8" sha1="620a896dd704348e20400dc5a18c3bba3db44def"/>
+		<url>https://retroachievements.org/game/13753/hashes</url>
+		<hash>dc66bcd1034c08879a2a47a10e6c95c8</hash>
+	</game>
+	
+	<game name="Minky Momo no Panic Ball (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Minky Momo no Panic Ball (Japan) (NeoKobe)</description>
+		<release name="Minky Momo no Panic Ball (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Minky Momo no Panic Ball (Japan) (NeoKobe).d88" size="66240" crc="8151ceff" md5="e7c22b3f0deca65ecdc2124477877452" sha1="7013912b6db33f53ca973a250279de67e3eb7747"/>
+		<url>https://retroachievements.org/game/23554/hashes</url>
+		<hash>e7c22b3f0deca65ecdc2124477877452</hash>
+	</game>
+	
+	<game name="Mobile Suit Zeta Gundam (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Mobile Suit Zeta Gundam (Japan) (NeoKobe)</description>
+		<release name="Mobile Suit Zeta Gundam (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Mobile Suit Zeta Gundam (Japan) (NeoKobe).d88" size="348848" crc="a61e0c71" md5="840c07405084eccf0dcb4a542f73be72" sha1="c203ce616a216bb14e9cb5a5265e7fd82626606f"/>
+		<url>https://retroachievements.org/game/7314/hashes</url>
+		<hash>840c07405084eccf0dcb4a542f73be72</hash>
+	</game>
+	
+	<game name="New Rally-X (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>New Rally-X (Japan) (NeoKobe)</description>
+		<release name="New Rally-X (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="New Rally-X (Japan) (NeoKobe).d88" size="31424" crc="7a619338" md5="cf6dc67d32868c0dca89c2bcd94d912d" sha1="cda51808ba71490a1a5b8960d9027498a22cdf8b"/>
+		<url>https://retroachievements.org/game/30830/hashes</url>
+		<hash>cf6dc67d32868c0dca89c2bcd94d912d</hash>
+	</game>
+	
+	<game name="Nintendo no Golf (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Nintendo no Golf (Japan) (NeoKobe)</description>
+		<release name="Nintendo no Golf (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Nintendo no Golf (Japan) (NeoKobe).d88" size="102128" crc="1bf220fa" md5="a2558e8b836005fc2b869c0edfb9d89a" sha1="e041c673613616c1669e3f5c98a7606d8637640c"/>
+		<url>https://retroachievements.org/game/26926/hashes</url>
+		<hash>a2558e8b836005fc2b869c0edfb9d89a</hash>
+	</game>
+	
+	<game name="Nintendo no Tennis (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Nintendo no Tennis (Japan) (NeoKobe)</description>
+		<release name="Nintendo no Tennis (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Nintendo no Tennis (Japan) (NeoKobe).d88" size="61008" crc="9d00adba" md5="8cf31bf1e408f4e6cfc360bac24ad6d5" sha1="0462474ab48d75b0c4d4c41ad5a1b5a4f9db8182"/>
+		<url>https://retroachievements.org/game/27378/hashes</url>
+		<hash>8cf31bf1e408f4e6cfc360bac24ad6d5</hash>
+	</game>
+	
+	<game name="Pac-Man (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Pac-Man (Japan) (NeoKobe)</description>
+		<release name="Pac-Man (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Pac-Man (Japan) (NeoKobe).d88" size="348848" crc="a94a1c9d" md5="1e7bbbcf38ef36656377cde6a6af7c4a" sha1="f0a88d4d13943867384282d9838a519c15235d00"/>
+		<url>https://retroachievements.org/game/17772/hashes</url>
+		<hash>1e7bbbcf38ef36656377cde6a6af7c4a</hash>
+	</game>
+	
+	<game name="Punch Ball Mario Bros. (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Punch Ball Mario Bros. (Japan) (NeoKobe)</description>
+		<release name="Punch Ball Mario Bros. (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Punch Ball Mario Bros. (Japan) (NeoKobe).d88" size="79056" crc="3b08ab18" md5="52def00692358027f26fb1d596f829cf" sha1="9968619d0eadf306d4d7c04c4da4c3a42de762e3"/>
+		<url>https://retroachievements.org/game/13777/hashes</url>
+		<hash>52def00692358027f26fb1d596f829cf</hash>
+	</game>	
+	<game name="Punch Ball Mario Bros. (Japan) (NeoKobe) (Alt)" cloneof="Punch Ball Mario Bros. (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Punch Ball Mario Bros. (Japan) (NeoKobe) (Alt)</description>
+		<rom name="Punch Ball Mario Bros. (Japan) (NeoKobe) (Alt).d88" size="348848" crc="bcd3cd56" md5="bca101651484195a0d55a71a06108e5a" sha1="0cd4591baba0c89ae4abab6075d7638efdd48dc5"/>
+		<url>https://retroachievements.org/game/13777/hashes</url>
+		<hash>bca101651484195a0d55a71a06108e5a</hash>
+	</game>
+	
+	<game name="Puzzle Kana (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Puzzle Kana (Japan) (NeoKobe)</description>
+		<release name="Puzzle Kana (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Puzzle Kana (Japan) (NeoKobe).d88" size="348848" crc="f7974fd3" md5="7b8387228e629fffe80fc103f30962e4" sha1="c1f37dc4b1a8ba86690dc9efa141cc58201d89a6"/>
+		<url>https://retroachievements.org/game/19755/hashes</url>
+		<hash>7b8387228e629fffe80fc103f30962e4</hash>
+	</game>
+	
+	<game name="Red Stack (Japan) (EGG)">
+		<category>Retail</category>
+		<description>Red Stack (Japan) (EGG)</description>
+		<release name="Red Stack (Japan) (EGG)" region="Japan"/>
+		<rom name="Red Stack (Japan) (EGG).d88" size="174768" crc="bba1791d" md5="1ae481ca1e2b383d077709949eda169d" sha1="365da1ff105cae5d39801da59b28ed59d3b4bfb1"/>
+		<url>https://retroachievements.org/game/14020/hashes</url>
+		<hash>1ae481ca1e2b383d077709949eda169d</hash>
+	</game>
+	<game name="Red Stack (Japan) (Unknown)" cloneof="Red Stack (Japan) (EGG)">
+		<category>Retail</category>
+		<description>Red Stack (Japan) (Unknown)</description>
+		<rom name="Red Stack (Japan) (Unknown).d88" size="185008" crc="fccef1b2" md5="99308a38ca6714a02110b0888932c473" sha1="f60b23641cd627667c16b1b44582e247e35aa389"/>
+		<url>https://retroachievements.org/game/14020/hashes</url>
+		<hash>99308a38ca6714a02110b0888932c473</hash>
+	</game>
+	
+	<game name="Revolter (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Revolter (Japan) (NeoKobe)</description>
+		<release name="Revolter (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Revolter (Japan) (NeoKobe).m3u" size="80" crc="8a79d077" md5="09ae802a0c8cafa977785174cce5c6b4" sha1="97bfb5dd7e7cc107dbf571c1ba9b11c0b6d5c7ec"/>
+		<rom name="Revolter (Japan) (NeoKobe) (Disk A).d88" size="436640" crc="3a6afc0f" md5="71b7cff0d481bf5f94f03b344cdb7efc" sha1="46fb4bdb7581eb027fd6a709373704f86957b1f5"/>
+		<rom name="Revolter (Japan) (NeoKobe) (Disk B).d88" size="436640" crc="9619d78f" md5="a88374206826fb45e8bacc0f16736bb3" sha1="229a6d475675237b7fcd780bd3dcaa3dbeff14f1"/>
+		<url>https://retroachievements.org/game/30885/hashes</url>
+		<hash>71b7cff0d481bf5f94f03b344cdb7efc</hash>
+		<hash>a88374206826fb45e8bacc0f16736bb3</hash>
+	</game>
+	
+	<game name="Rogue (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Rogue (Japan) (NeoKobe)</description>
+		<release name="Rogue (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Rogue (Japan) (NeoKobe).d88" size="348848" crc="630219a7" md5="ed791512b651b0a787c798dcfa5e22d4" sha1="aec25fb2e4acdc386d8df0b3a30b6710291c361f"/>
+		<url>https://retroachievements.org/game/6977/hashes</url>
+		<hash>ed791512b651b0a787c798dcfa5e22d4</hash>
+	</game>
+	
+	<game name="Shampoo (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Shampoo (Japan) (NeoKobe)</description>
+		<release name="Shampoo (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Shampoo (Japan) (NeoKobe).d88" size="348848" crc="11f3efb5" md5="44f3480628d3203f7acbf0025bc4b336" sha1="ed2141bfcab80cb28c9ff4440a480d9b0f7ec9c8"/>
+		<url>https://retroachievements.org/game/25816/hashes</url>
+		<hash>44f3480628d3203f7acbf0025bc4b336</hash>
+	</game>
+	
+	<game name="Shanghai 2 (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Shanghai 2 (Japan) (NeoKobe)</description>
+		<release name="Shanghai 2 (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Shanghai 2 (Japan) (NeoKobe).d88" size="348848" crc="01ad2c0f" md5="e5b77f3a077fae0d44ccd6bdfd850f30" sha1="891af6bb46ee596750a3ad6c9f1ae4a985fc6bf6"/>
+		<url>https://retroachievements.org/game/30889/hashes</url>
+		<hash>e5b77f3a077fae0d44ccd6bdfd850f30</hash>
+	</game>
+	
+	<game name="Silpheed (Japan) (NeoKobe) (Disk A)">
+		<category>Retail</category>
+		<description>Silpheed (Japan) (NeoKobe) (Disk A)</description>
+		<release name="Silpheed (Japan) (NeoKobe) (Disk A)" region="Japan"/>
+		<rom name="Silpheed (Japan) (NeoKobe) (Disk A).d88" size="392368" crc="ab9b12bb" md5="d2bf8ef1abf7bb47e54da38a286f4ac8" sha1="c344abb88b7b7142666e7a1e8904015a031700cf"/>
+		<url>https://retroachievements.org/game/14133/hashes</url>
+		<hash>d2bf8ef1abf7bb47e54da38a286f4ac8</hash>
+	</game>
+	
+	<game name="Soukoban (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Soukoban (Japan) (NeoKobe)</description>
+		<release name="Soukoban (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Soukoban (Japan) (NeoKobe).d88" size="66240" crc="afb96353" md5="e9ff3dfb280a795bf2ca8ade11be5683" sha1="017a0c125bf30fbbefc55cd313948562097cb054"/>
+		<url>https://retroachievements.org/game/14405/hashes</url>
+		<hash>e9ff3dfb280a795bf2ca8ade11be5683</hash>
+	</game>
+	
+	<game name="Solitaire Royale (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Solitaire Royale (Japan) (NeoKobe)</description>
+		<release name="Solitaire Royale (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Solitaire Royale (Japan) (NeoKobe).m3u" size="102" crc="c0d09c61" md5="b4117048f7dd86e0aeaa8867cb89fc4e" sha1="729dfd9d79391948cc1465ab07ac502f32bb7912"/>
+		<rom name="Solitaire Royale (Japan) (NeoKobe) (Game Disk).d88" size="392368" crc="64dc57e7" md5="ee4c7205d56384f37414f7f199484ece" sha1="1461d2c3c57084dcf9afbf872f8d2d2e82aa145f"/>
+		<rom name="Solitaire Royale (Japan) (NeoKobe) (User Disk).d88" size="5584" crc="7ee2e85e" md5="5275e0556b8616553b6f7f8bbf73a70f" sha1="41bb107eb4a0e36796720cb09a4caac022a2eeb8"/>
+		<url>https://retroachievements.org/game/14135/hashes</url>
+		<hash>ee4c7205d56384f37414f7f199484ece</hash>
+	</game>
+	
+	<game name="Space Harrier (Japan) (NeoKobe) (Disk 1)">
+		<category>Retail</category>
+		<description>Space Harrier (Japan) (NeoKobe) (Disk 1)</description>
+		<release name="Space Harrier (Japan) (NeoKobe) (Disk 1)" region="Japan"/>
+		<rom name="Space Harrier (Japan) (NeoKobe) (Disk 1).d88" size="348848" crc="c835ef09" md5="b327fabd0e95fb0b0948b5b9bc410c1a" sha1="fd33efa0ca1f9fca56ab1d3307db7683e852e495"/>
+		<url>https://retroachievements.org/game/30884/hashes</url>
+		<hash>b327fabd0e95fb0b0948b5b9bc410c1a</hash>
+	</game>
+	
+	<game name="Super Jack (Japan) (En) (0.9.1) (JPN Translations) (Set 2)" cloneof="Super Jack (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Super Jack (Japan) (En) (0.9.1) (JPN Translations) (Set 2)</description>
+		<release name="Super Jack (Japan) (En) (0.9.1) (JPN Translations) (Set 2)" region="English"/>
+		<rom name="Super Jack (Japan) (En) (0.9.1) (JPN Translations) (Set 2).d88" size="348848" crc="1c7c8310" md5="05f2a5bdc7ab885b5da760276154a6ce" sha1="92b45477e4c7a22dc4461b5b67edc2a69b875b93"/>
+		<url>https://retroachievements.org/game/13787/hashes</url>
+		<hash>05f2a5bdc7ab885b5da760276154a6ce</hash>
+	</game>
+	<game name="Super Jack (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Super Jack (Japan) (NeoKobe)</description>
+		<release name="Super Jack (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Super Jack (Japan) (NeoKobe).d88" size="348848" crc="00c6053d" md5="806ac9c875076375f63de1cb0aad2d34" sha1="18e50a67b14bdfcd52359ac1aca35ae073d82743"/>
+		<url>https://retroachievements.org/game/13787/hashes</url>
+		<hash>806ac9c875076375f63de1cb0aad2d34</hash>
+	</game>
+	<game name="Super Jack (Japan) (NeoKobe) (Set 2)" cloneof="Super Jack (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Super Jack (Japan) (NeoKobe) (Set 2)</description>
+		<rom name="Super Jack (Japan) (NeoKobe) (Set 2).d88" size="348848" crc="2165121c" md5="d2aff22e02df81eea501e13d75a3da28" sha1="c397344a0e5457e62394f19dbb55864d99d3e24a"/>
+		<url>https://retroachievements.org/game/13787/hashes</url>
+		<hash>d2aff22e02df81eea501e13d75a3da28</hash>
+	</game>
+	
+	<game name="Super Mario Bros. Special (Japan) (NeoKobe) (Alt)" cloneof="Super Mario Bros. Special (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Super Mario Bros. Special (Japan) (NeoKobe) (Alt)</description>
+		<rom name="Super Mario Bros. Special (Japan) (NeoKobe) (Alt).d88" size="348848" crc="ec5c23ee" md5="ae02fab35b9e4374353d927435e64693" sha1="2a6a797d17ed3068dc463b1909d653666a0de0a8"/>
+		<url>https://retroachievements.org/game/13685/hashes</url>
+		<hash>ae02fab35b9e4374353d927435e64693</hash>
+	</game>
+	<game name="Super Mario Bros. Special (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Super Mario Bros. Special (Japan) (NeoKobe)</description>
+		<release name="Super Mario Bros. Special (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Super Mario Bros. Special (Japan) (NeoKobe).d88" size="348848" crc="eda544bb" md5="b91d5929e5d62ac34b0f7732236cb492" sha1="9e89fe17bf75216e5b4f1d6d2d9d5f3f0c0872c1"/>
+		<url>https://retroachievements.org/game/13685/hashes</url>
+		<hash>b91d5929e5d62ac34b0f7732236cb492</hash>
+	</game>
+	
+	<game name="Super Pitfall (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Super Pitfall (Japan) (NeoKobe)</description>
+		<release name="Super Pitfall (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Super Pitfall (Japan) (NeoKobe).d88" size="348848" crc="3758b113" md5="1b830c4b55621c3807e77927221e6e02" sha1="c0f5b58b00f648dd3dd258549fcbbe47f2fd5af5"/>
+		<url>https://retroachievements.org/game/30871/hashes</url>
+		<hash>1b830c4b55621c3807e77927221e6e02</hash>
+	</game>
+	
+	<game name="Telenet Music Box (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Telenet Music Box (Japan) (NeoKobe)</description>
+		<release name="Telenet Music Box (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Telenet Music Box (Japan) (NeoKobe).m3u" size="98" crc="93aae4f4" md5="06fa8168ca6df649f3447bcc6a72ef19" sha1="8fed3bdc3295cd20add741ecd133a9d4878187a9"/>
+		<rom name="Telenet Music Box (Japan) (NeoKobe) (Disk A).d88" size="415840" crc="8179f513" md5="bbfdb481c69c5f58a227da667adbcd16" sha1="17b7aa983c08c0589071a514afcb6da6ecbe8c08"/>
+		<rom name="Telenet Music Box (Japan) (NeoKobe) (Disk B).d88" size="415840" crc="0efdfdda" md5="0e03bc5a0ca5d3756d154f1de40f9876" sha1="16ab2ef01dc7e3c6cd2617f82cee05aad676d3e5"/>
+		<url>https://retroachievements.org/game/13747/hashes</url>
+		<hash>bbfdb481c69c5f58a227da667adbcd16</hash>
+		<hash>0e03bc5a0ca5d3756d154f1de40f9876</hash>
+	</game>
+	
+	<game name="Tetras (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Tetras (Japan) (NeoKobe)</description>
+		<release name="Tetras (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Tetras (Japan) (NeoKobe).d88" size="348848" crc="971ec9d0" md5="487c1d6b9750508442e4cb93c30b8991" sha1="724dc9ffe134137f12bdd5183993abbad3581f2c"/>
+		<url>https://retroachievements.org/game/29805/hashes</url>
+		<hash>487c1d6b9750508442e4cb93c30b8991</hash>
+	</game>
+	
+	<game name="Tetris (Japan) (NeoKobe) (BPS)">
+		<category>Retail</category>
+		<description>Tetris (Japan) (NeoKobe) (BPS)</description>
+		<release name="Tetris (Japan) (NeoKobe) (BPS)" region="Japan"/>
+		<rom name="Tetris (Japan) (NeoKobe) (BPS).d88" size="348848" crc="f48df809" md5="fd6199123cff370e7f2694c350615ee1" sha1="fa6de85b59a37ceb1b61542a252955dba979c1ff"/>
+		<url>https://retroachievements.org/game/14200/hashes</url>
+		<hash>fd6199123cff370e7f2694c350615ee1</hash>
+	</game>
+	
+	<game name="Castle, The (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Castle, The (Japan) (NeoKobe)</description>
+		<release name="Castle, The (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Castle, The (Japan) (NeoKobe).d88" size="348848" crc="47a3f510" md5="b8288592592e960d7b505943491db7dc" sha1="941ae9dbe28f0c2676a20694e643e965f39ddb34"/>
+		<url>https://retroachievements.org/game/13939/hashes</url>
+		<hash>b8288592592e960d7b505943491db7dc</hash>
+	</game>
+	
+	<game name="Scheme, The (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Scheme, The (Japan) (NeoKobe)</description>
+		<release name="Scheme, The (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Scheme, The (Japan) (NeoKobe).m3u" size="86" crc="ab96c0cd" md5="2fcf9bd2010592a04efa2f86c0313793" sha1="49b0cf8a5513fe46e85756cfce185b4b14ba24fb"/>
+		<rom name="Scheme, The (Japan) (NeoKobe) (Disk 1).d88" size="349120" crc="92082a84" md5="6d88a725bf097c4a7ffbc3817936a757" sha1="bc25e3065624f354b08d2b457ab86cca94230ad3"/>
+		<rom name="Scheme, The (Japan) (NeoKobe) (Disk 2).d88" size="349120" crc="55340918" md5="ef20128a5f6431115903a5ec455f48ad" sha1="c075377a59a1dd2d5444a554bda5508cc4aa7a1a"/>
+		<url>https://retroachievements.org/game/13973/hashes</url>
+		<hash>6d88a725bf097c4a7ffbc3817936a757</hash>
+		<hash>ef20128a5f6431115903a5ec455f48ad</hash>
+	</game>
+	
+	<game name="Thexder (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Thexder (Japan) (NeoKobe)</description>
+		<release name="Thexder (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Thexder (Japan) (NeoKobe).d88" size="344528" crc="38384a7b" md5="56b193d0d4beeeb00f01e56ce5df1081" sha1="5195bed499785ffe1f1048920a79b827d721ea33"/>
+		<url>https://retroachievements.org/game/13709/hashes</url>
+		<hash>56b193d0d4beeeb00f01e56ce5df1081</hash>
+	</game>
+	
+	<game name="Thunder Force (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Thunder Force (Japan) (NeoKobe)</description>
+		<release name="Thunder Force (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Thunder Force (Japan) (NeoKobe).d88" size="348544" crc="2f432870" md5="1a23ddb5aae763edc765013bd0cccefe" sha1="9ad50045d1c83c72412fb42cd8d6de458b564bac"/>
+		<url>https://retroachievements.org/game/25323/hashes</url>
+		<hash>1a23ddb5aae763edc765013bd0cccefe</hash>
+	</game>
+	
+	<game name="Topple Zip (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Topple Zip (Japan) (NeoKobe)</description>
+		<release name="Topple Zip (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Topple Zip (Japan) (NeoKobe).d88" size="348848" crc="0662f3ea" md5="7a61df0cdf5644186b6bc9d138f002f3" sha1="4d210bcc1b673ba78b825900332a3ffad8208a76"/>
+		<url>https://retroachievements.org/game/30808/hashes</url>
+		<hash>7a61df0cdf5644186b6bc9d138f002f3</hash>
+	</game>
+	
+	<game name="Ys III - Wanderers from Ys (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Ys III - Wanderers from Ys (Japan) (NeoKobe)</description>
+		<release name="Ys III - Wanderers from Ys (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Ys III - Wanderers from Ys (Japan) (NeoKobe).m3u" size="256" crc="d1576850" md5="b59e76c844f39cc4510ab523982341b8" sha1="cf654af8f55355d417b74f617b61356cf6ee91c2"/>
+		<rom name="Ys III - Wanderers from Ys (Japan) (NeoKobe) (Data Disk 1).d88" size="415840" crc="d04d5154" md5="9624e437532e6ea60f7a55f5aa0c04f3" sha1="b2b42200397c0e0f18af09fc60543e40b49eb43b"/>
+		<rom name="Ys III - Wanderers from Ys (Japan) (NeoKobe) (Data Disk 2).d88" size="415840" crc="3f0742c4" md5="a3b7b1f53b7e075cc9ac05a0f5f04c25" sha1="6dda503476fa3b63c4227f870301609003af2841"/>
+		<rom name="Ys III - Wanderers from Ys (Japan) (NeoKobe) (Data Disk 3).d88" size="415840" crc="78681f78" md5="28c2e77e4d80b869604d243527d3a9f5" sha1="4a83ebc43c82b1f34fede691ccad009acd2c81c8"/>
+		<rom name="Ys III - Wanderers from Ys (Japan) (NeoKobe) (Scenario Disk).d88" size="415840" crc="aaf45808" md5="b8a8b191f89bf70e8539843321a69cf1" sha1="fd5f81189c27bd4d163e1801cbe320965eb57186"/>
+		<url>https://retroachievements.org/game/13982/hashes</url>
+		<hash>9624e437532e6ea60f7a55f5aa0c04f3</hash>
+		<hash>a3b7b1f53b7e075cc9ac05a0f5f04c25</hash>
+		<hash>28c2e77e4d80b869604d243527d3a9f5</hash>
+		<hash>b8a8b191f89bf70e8539843321a69cf1</hash>
+	</game>
+	
+	<game name="Xanadu (Japan) (NeoKobe) (Disk A - Program)">
+		<category>Retail</category>
+		<description>Xanadu (Japan) (NeoKobe) (Disk A - Program)</description>
+		<release name="Xanadu (Japan) (NeoKobe) (Disk A - Program)" region="Japan"/>
+		<rom name="Xanadu (Japan) (NeoKobe) (Disk A - Program).d88" size="415840" crc="640b628a" md5="6108ac1bd2d86c899756a69693d7f230" sha1="c4270bb4ace09f3cd39bd497f9b3db42d0ca9c38"/>
+		<url>https://retroachievements.org/game/13706/hashes</url>
+		<hash>6108ac1bd2d86c899756a69693d7f230</hash>
+	</game>
+	<game name="Xanadu (Japan) (NeoKobe) (Disk A - Program) (Alt)" cloneof="Xanadu (Japan) (NeoKobe) (Disk A - Program)">
+		<category>Retail</category>
+		<description>Xanadu (Japan) (NeoKobe) (Disk A - Program) (Alt)</description>
+		<rom name="Xanadu (Japan) (NeoKobe) (Disk A - Program) (Alt).d88" size="415840" crc="a52e7c2b" md5="cbc04cb70d3410636b79af7c3d2d3d44" sha1="e2b827591e7e1d873b1f234c8c47a03d65617504"/>
+		<url>https://retroachievements.org/game/13706/hashes</url>
+		<hash>cbc04cb70d3410636b79af7c3d2d3d44</hash>
+	</game>
+	
+	<game name="Ys (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Ys (Japan) (NeoKobe)</description>
+		<release name="Ys (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Ys (Japan) (NeoKobe).m3u" size="68" crc="189d4000" md5="10512388f0667067e807680b15a5c80e" sha1="61d594a20bf36c756af5cab958bacb63b550abd3"/>
+		<rom name="Ys (Japan) (NeoKobe) (Disk A).d88" size="415840" crc="9bd5d527" md5="734fe755f206208b2de2fdf9a4c60ca4" sha1="48b6ba25f079838d09fd9161da3244ca45665f88"/>
+		<rom name="Ys (Japan) (NeoKobe) (Disk B).d88" size="415840" crc="cf222045" md5="8be6d4d610808cc192b53103f72a40f5" sha1="aba1539567390ce9f98465cc741dae565cd2145c"/>
+		<url>https://retroachievements.org/game/13682/hashes</url>
+		<hash>734fe755f206208b2de2fdf9a4c60ca4</hash>
+		<hash>8be6d4d610808cc192b53103f72a40f5</hash>
+	</game>
+	
+	<game name="Ys II (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Ys II (Japan) (NeoKobe)</description>
+		<release name="Ys II (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Ys II (Japan) (NeoKobe).m3u" size="118" crc="ce7e144e" md5="ee38f55e27b84cd60f3ffe71debbc72d" sha1="28bf5c38973c65ee2c563de4f552c3210d926491"/>
+		<rom name="Ys II (Japan) (NeoKobe) (Disk A).d88" size="415840" crc="029be7ae" md5="09af339f48e5f8c70e3967d8eb0645e2" sha1="4f4e9989fcd38d8885f82da352e4897559e38f73"/>
+		<rom name="Ys II (Japan) (NeoKobe) (Disk B).d88" size="415840" crc="8c42b012" md5="c085bdfbb700c0f9e93ee39bc522163e" sha1="71ebf11a7a1ecaabc73767c282389950e78ecdd7"/>
+		<rom name="Ys II (Japan) (NeoKobe) (Program Disk).d88" size="420192" crc="8af776ca" md5="333568562d78f8e9a849776f02454f27" sha1="26a6b47d0eb7e24f57b389e8175809cd3e57d900"/>
+		<url>https://retroachievements.org/game/13855/hashes</url>
+		<hash>09af339f48e5f8c70e3967d8eb0645e2</hash>
+		<hash>c085bdfbb700c0f9e93ee39bc522163e</hash>
+		<hash>333568562d78f8e9a849776f02454f27</hash>
+	</game>
+	<game name="Ys II (Japan) (NeoKobe) (Alt)" cloneof="Ys II (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Ys II (Japan) (NeoKobe) (Alt)</description>
+		<rom name="Ys II (Japan) (NeoKobe) (Alt).m3u" size="136" crc="5310dc9e" md5="cf10e4d35bbccca2b400cc245e6b67ae" sha1="ac980f14828a67eea17b2fc9beb59eb620825272"/>
+		<rom name="Ys II (Japan) (NeoKobe) (Disk A) (Alt).d88" size="415840" crc="ebdd4009" md5="d4646d4e1fd57dc998f87b679719bc36" sha1="2a8e27f2f11f5453af96e8ac577d5f9765669d02"/>
+		<rom name="Ys II (Japan) (NeoKobe) (Disk B) (Alt).d88" size="415840" crc="cb09e6b8" md5="09a2d928953001f81a16d189e97e45e8" sha1="bf2f133743263b33d452c329dab11ae2cc73b779"/>
+		<rom name="Ys II (Japan) (NeoKobe) (Program Disk) (Alt).d88" size="415840" crc="5b3540fe" md5="91f88b9e8db38509dd6cb0751a0535c9" sha1="97eddc41beddb815e77495bd37fac742de951ee1"/>
+		<url>https://retroachievements.org/game/13855/hashes</url>
+		<hash>d4646d4e1fd57dc998f87b679719bc36</hash>
+		<hash>09a2d928953001f81a16d189e97e45e8</hash>
+		<hash>91f88b9e8db38509dd6cb0751a0535c9</hash>
+	</game>
+</datafile>
