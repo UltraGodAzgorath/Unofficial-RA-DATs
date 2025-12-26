@@ -5,8 +5,8 @@
 		<name>RA - Atari Jaguar</name>
 		<description>Atari Jaguar</description>
 		<category>Subfolders</category>
-		<version>20251014</version>
-		<date>14 October 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/17/games</url>
@@ -19,6 +19,14 @@
 		<rom name="OSMOZYS (World) (Demo) (Aftermarket).j64" size="2097152" crc="3463527f" md5="985bd1236c3c416381240fb537e86536" sha1="d9626311fe481b1bdb22de9b750e122061412a20"/>
 		<url>https://retroachievements.org/game/20427/hashes</url>
 		<hash>985bd1236c3c416381240fb537e86536</hash>
+	</game>
+	
+	<game name="Homebrew/Star Fighter (USA) (Demo) (Gedalya) (Aftermarket)">
+		<category></category>
+		<description>Star Fighter (USA) (Demo) (Gedalya) (Aftermarket)</description>
+		<rom name="Star Fighter (USA) (Demo) (Gedalya) (Aftermarket).j64" size="4194304" crc="832bf4ca" md5="a5767fc6c628759a5b6ba99874ff8bc4" sha1="193edcd6f0bf0524f012c60e73e6f7f9ad9a2fc7"/>
+		<url>https://retroachievements.org/game/27930/hashes</url>
+		<hash>a5767fc6c628759a5b6ba99874ff8bc4</hash>
 	</game>
 	
 	<game name="Homebrew/Alice's Mom's Rescue (World) (Aftermarket)">

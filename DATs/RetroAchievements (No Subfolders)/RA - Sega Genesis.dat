@@ -5,8 +5,8 @@
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
 		<category>No Subfolders</category>
-		<version>20251116</version>
-		<date>16 November 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/1/games</url>
@@ -163,21 +163,6 @@
 		<rom name="Sonic 1 - Metal Sonic Hyperdrive (LoneDevil) (Hack).md" size="1048576" crc="195219e0" md5="1c45dadc7587225593c8462146dae978" sha1="25080255c86af08db67ebdcb4c3cbf91f3aa8533"/>
 		<url>https://retroachievements.org/game/565/hashes</url>
 		<hash>1c45dadc7587225593c8462146dae978</hash>
-	</game>
-	<game name="Sonic 1 - Metal Sonic Hyperdrive (v2.0) (LoneDevil) (Hack)" cloneof="Sonic 1 - Metal Sonic Hyperdrive (v4.1) (LoneDevil) (Hack)">
-		<category>Hack</category>
-		<description>Sonic 1 - Metal Sonic Hyperdrive (v2.0) (LoneDevil) (Hack)</description>
-		<rom name="Sonic 1 - Metal Sonic Hyperdrive (v2.0) (LoneDevil) (Hack).md" size="2097152" crc="e3648f29" md5="c8d561b39ec6e48976f15e07d4284e74" sha1="e0d4c116f07bd2cf30732e9cd9bb09c091f24023"/>
-		<url>https://retroachievements.org/game/565/hashes</url>
-		<hash>c8d561b39ec6e48976f15e07d4284e74</hash>
-	</game>
-	<game name="Sonic 1 - Metal Sonic Hyperdrive (v4.1) (LoneDevil) (Hack)">
-		<category>Hack</category>
-		<description>Sonic 1 - Metal Sonic Hyperdrive (v4.1) (LoneDevil) (Hack)</description>
-		<release name="Sonic 1 - Metal Sonic Hyperdrive (v4.1) (LoneDevil) (Hack)" region="World"/>
-		<rom name="Sonic 1 - Metal Sonic Hyperdrive (v4.1) (LoneDevil) (Hack).md" size="1048576" crc="ec55a939" md5="e1c6af705103ae61998dcf7b01e52159" sha1="3695b2b275be8e4c6ad799722919d03d91dc4d2c"/>
-		<url>https://retroachievements.org/game/565/hashes</url>
-		<hash>e1c6af705103ae61998dcf7b01e52159</hash>
 	</game>
 	
 	<game name="Sonic 2 - Metal Sonic Rebooted (v1.2) (LoneDevil) (Hack)">
@@ -639,6 +624,15 @@
 		<rom name="Ultimate Mortal Kombat Trilogy (v5125 Fixed) (Hack).md" size="10485760" crc="d083dbba" md5="073bef4bea44531dd1a217e801ab04b7" sha1="140063d3a2cda353851c512571b6f706d0a96dfe"/>
 		<url>https://retroachievements.org/game/13421/hashes</url>
 		<hash>073bef4bea44531dd1a217e801ab04b7</hash>
+	</game>
+	
+	<game name="Sonic 1 - Yeth (Release 3) (Banoon) (Hack)">
+		<category>Hack</category>
+		<description>Sonic 1 - Yeth (Release 3) (Banoon) (Hack)</description>
+		<release name="Sonic 1 - Yeth (Release 3) (Banoon) (Hack)" region="World"/>
+		<rom name="Sonic 1 - Yeth (Release 3) (Banoon) (Hack).md" size="500968" crc="b031680a" md5="7e2639e6608c709d32f337ff38846686" sha1="a00d401d273cb567eeb98ff7740fb47968acb9fe"/>
+		<url>https://retroachievements.org/game/22594/hashes</url>
+		<hash>7e2639e6608c709d32f337ff38846686</hash>
 	</game>
 	
 	<game name="Sonic 2 - Yoshi in Sonic the Hedgehog 2 (Xenowhirl) (Hack)">
@@ -2068,6 +2062,15 @@
 		<hash>f768fbba021636fff3682b9ae116076a</hash>
 	</game>
 	
+	<game name="Bugs Bunny in Double Trouble (USA)">
+		<category>Retail</category>
+		<description>Bugs Bunny in Double Trouble (USA)</description>
+		<release name="Bugs Bunny in Double Trouble (USA)" region="USA"/>
+		<rom name="Bugs Bunny in Double Trouble (USA).md" size="2097152" crc="365305a2" md5="3d6dc43a998301c6a9ed2fc1a7e8db40" sha1="50b18d9f9935a46854641c9cfc5b3d3b230edd5e"/>
+		<url>https://retroachievements.org/game/4180/hashes</url>
+		<hash>3d6dc43a998301c6a9ed2fc1a7e8db40</hash>
+	</game>
+	
 	<game name="Burning Force (USA)">
 		<category>Retail</category>
 		<description>Burning Force (USA)</description>
@@ -2549,6 +2552,15 @@
 		<hash>f1e6ec5e3bf9c04670d10fbc89fb549c</hash>
 	</game>
 	
+	<game name="Cyberball (World)">
+		<category>Retail</category>
+		<description>Cyberball (World)</description>
+		<release name="Cyberball (World)" region="World"/>
+		<rom name="Cyberball (World).md" size="524288" crc="76120e96" md5="e19be4bcb50e4908c5b9af3bd69caa39" sha1="4e459751ced8956326602c581b8b169f8e716545"/>
+		<url>https://retroachievements.org/game/6153/hashes</url>
+		<hash>e19be4bcb50e4908c5b9af3bd69caa39</hash>
+	</game>
+	
 	<game name="Cyborg Justice (USA, Europe)">
 		<category>Retail</category>
 		<description>Cyborg Justice (USA, Europe)</description>
@@ -2557,6 +2569,15 @@
 		<rom name="Cyborg Justice (USA, Europe).md" size="524288" crc="ab0d1269" md5="d2d8c19c67e14a0d509a454bd880bbdd" sha1="6d0c72fa5e53d897390707eb4c6d3e86e6772215"/>
 		<url>https://retroachievements.org/game/278/hashes</url>
 		<hash>d2d8c19c67e14a0d509a454bd880bbdd</hash>
+	</game>
+	
+	<game name="Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It).md" size="2097152" crc="1fdc66b0" md5="ad08cffbc0c443086dff8ab4414f18c3" sha1="67cc61b724d4ccb94dc2b59cc8ea1b0eb9a8cf4e"/>
+		<url>https://retroachievements.org/game/4221/hashes</url>
+		<hash>ad08cffbc0c443086dff8ab4414f18c3</hash>
 	</game>
 	
 	<game name="Dahna - Megami Tanjou (Japan) (En) (v1.0) (cccmar)" cloneof="Dahna - Megami Tanjou (Japan)">
@@ -3096,6 +3117,15 @@
 		<hash>9b04970a603ace521c7cca2acaf69804</hash>
 	</game>
 	
+	<game name="Eliminate Down (Japan)">
+		<category>Retail</category>
+		<description>Eliminate Down (Japan)</description>
+		<release name="Eliminate Down (Japan)" region="Japan"/>
+		<rom name="Eliminate Down (Japan).md" size="1048576" crc="48467542" md5="06aa841b8773de52cd7ccc9d4f907468" sha1="53b418bde065011e161e703dd7c175aa48a04fe5"/>
+		<url>https://retroachievements.org/game/4248/hashes</url>
+		<hash>06aa841b8773de52cd7ccc9d4f907468</hash>
+	</game>
+	
 	<game name="ESWAT - City under Siege (USA, Europe) (Rev A)">
 		<category>Retail</category>
 		<description>ESWAT - City under Siege (USA, Europe) (Rev A)</description>
@@ -3242,6 +3272,15 @@
 		<rom name="Final Zone (Japan, USA) (En).md" size="524288" crc="731fa4a1" md5="0cbb16c044d7c8e7366d954b5e844d1a" sha1="e891e5c89fa13e3f9813d5a45feeed0cb7710acb"/>
 		<url>https://retroachievements.org/game/4267/hashes</url>
 		<hash>0cbb16c044d7c8e7366d954b5e844d1a</hash>
+	</game>
+	
+	<game name="Fire Mustang (Japan)">
+		<category>Retail</category>
+		<description>Fire Mustang (Japan)</description>
+		<release name="Fire Mustang (Japan)" region="Japan"/>
+		<rom name="Fire Mustang (Japan).md" size="524288" crc="eb7e36c3" md5="93bf1aeebf5ab3c1a6ff204208d4518b" sha1="6daa07738b8f62659f2a3be01d3adc8557b879c5"/>
+		<url>https://retroachievements.org/game/2158/hashes</url>
+		<hash>93bf1aeebf5ab3c1a6ff204208d4518b</hash>
 	</game>
 	
 	<game name="Fire Shark (USA)">
@@ -3549,6 +3588,22 @@
 		<rom name="Golden Axe III (Europe) (Virtual Console).md" size="1048576" crc="1d90dc83" md5="932a2ffb998e59d6bf9292566dfc2a63" sha1="13816eb064fe74be42f74ba7e5077832fdf40d42"/>
 		<url>https://retroachievements.org/game/88/hashes</url>
 		<hash>932a2ffb998e59d6bf9292566dfc2a63</hash>
+	</game>
+	
+	<game name="Gouketsuji Ichizoku (Japan)">
+		<category>Retail</category>
+		<description>Gouketsuji Ichizoku (Japan)</description>
+		<release name="Gouketsuji Ichizoku (Japan)" region="Japan"/>
+		<rom name="Gouketsuji Ichizoku (Japan).md" size="3145728" crc="abe9c415" md5="18ff626a183c188f789d71f17dd739d5" sha1="db6b2046e8b6373f141e8c5db68450f2db377dd8"/>
+		<url>https://retroachievements.org/game/9097/hashes</url>
+		<hash>18ff626a183c188f789d71f17dd739d5</hash>
+	</game>
+	<game name="Gouketsuji Ichizoku (Japan) (Color Hack) (v1.0) (Dolsilwa)" cloneof="Gouketsuji Ichizoku (Japan)">
+		<category>Retail</category>
+		<description>Gouketsuji Ichizoku (Japan) (Color Hack) (v1.0) (Dolsilwa)</description>
+		<rom name="Gouketsuji Ichizoku (Japan) (Color Hack) (v1.0) (Dolsilwa).md" size="3145728" crc="019b11f2" md5="bfa46f13c36688373e504584a3a8d09e" sha1="debdd3193dd67a233698fbf9ddc47692ddea46bd"/>
+		<url>https://retroachievements.org/game/9097/hashes</url>
+		<hash>bfa46f13c36688373e504584a3a8d09e</hash>
 	</game>
 	
 	<game name="Granada (Japan, USA) (En)">

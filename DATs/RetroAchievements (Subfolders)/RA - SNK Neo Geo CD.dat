@@ -5,8 +5,8 @@
 		<name>RA - SNK Neo Geo CD</name>
 		<description>SNK Neo Geo CD</description>
 		<category>Subfolders</category>
-		<version>20250915</version>
-		<date>15 September 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/56/games</url>
@@ -149,6 +149,14 @@
 		<disk name="Magician Lord (Japan) (En,Ja).chd" sha1="7be2577453502060a8655ece288394170b5e5263"/>
 		<url>https://retroachievements.org/game/9176/hashes</url>
 		<hash>a617e93e3693660c8d986a2eee6904cb</hash>
+	</machine>
+	
+	<machine name="Retail/Metal Slug (Japan) (En,Ja)">
+		<category></category>
+		<description>Metal Slug (Japan) (En,Ja)</description>
+		<disk name="Metal Slug (Japan) (En,Ja).chd" sha1="deb7126b2c43a0cbfe37e4af321ce41489b71a16"/>
+		<url>https://retroachievements.org/game/9182/hashes</url>
+		<hash>14902f6044ab1fe5b0ad9fc44b0e1814</hash>
 	</machine>
 	
 	<machine name="Retail/Metal Slug 2/Metal Slug 2 (World) (En,Ja)">

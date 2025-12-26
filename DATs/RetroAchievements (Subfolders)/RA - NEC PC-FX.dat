@@ -5,8 +5,8 @@
 		<name>RA - NEC PC-FX</name>
 		<description>NEC PC-FX</description>
 		<category>Subfolders</category>
-		<version>20250914</version>
-		<date>14 September 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/49/games</url>
@@ -177,6 +177,21 @@
 		<hash>de08e432ae7ccfc242587893c7409530</hash>
 	</machine>
 
+	<machine name="Retail/Team Innocent - The Point of No Return - G.C.P.O.SS/Team Innocent - The Point of No Return - G.C.P.O.SS (Japan)">
+		<category></category>
+		<description>Team Innocent - The Point of No Return - G.C.P.O.SS (Japan)</description>
+		<disk name="Team Innocent - The Point of No Return - G.C.P.O.SS (Japan).chd" sha1="60e5c898be652d9c3e0bf88fd4610cf4838a33b6"/>
+		<url>https://retroachievements.org/game/16465/hashes</url>
+		<hash>3827b255e716ef0670378fb6e0b47fb1</hash>
+	</machine>
+	<machine name="Retail/Team Innocent - The Point of No Return - G.C.P.O.SS/Team Innocent - The Point of No Return - G.C.P.O.SS (Japan) (En) (v0.9.1) (Derek Pascarella)" cloneof="Team Innocent - The Point of No Return - G.C.P.O.SS (Japan)">
+		<category>Retail</category>
+		<description>Team Innocent - The Point of No Return - G.C.P.O.SS (Japan) (En) (v0.9.1) (Derek Pascarella)</description>
+		<disk name="Team Innocent - The Point of No Return - G.C.P.O.SS (Japan) (En) (v0.9.1) (Derek Pascarella).chd" sha1="02027fca3850cfcf524b14be963d9af920f2b514"/>
+		<url>https://retroachievements.org/game/16465/hashes</url>
+		<hash>02ebdbd5b1a2193143b45296ea15fbb8</hash>
+	</machine>
+	
 	<machine name="Retail/Tengai Makyou - Dennou Karakuri Kakutouden (Japan)">
 		<category></category>
 		<description>Tengai Makyou - Dennou Karakuri Kakutouden (Japan)</description>

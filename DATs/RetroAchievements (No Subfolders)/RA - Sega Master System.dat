@@ -5,8 +5,8 @@
 		<name>RA - Sega Master System</name>
 		<description>Sega Master System</description>
 		<category>No Subfolders</category>
-		<version>20251116</version>
-		<date>16 November 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/11/games</url>
@@ -216,6 +216,15 @@
 		<hash>5919b101624d4710a10825c34e753ba2</hash>
 	</game>
 	
+	<game name="Janggun-ui Adeul (Korea) (Unl)">
+		<category>Unlicensed</category>
+		<description>Janggun-ui Adeul (Korea) (Unl)</description>
+		<release name="Janggun-ui Adeul (Korea) (Unl)" region="World"/>
+		<rom name="Janggun-ui Adeul (Korea) (Unl).sms" size="524288" crc="192949d5" md5="2db7aaabca7f62d69df466797c0d63d9" sha1="a290e41e0218dd54c7774229a7bf77c0e6b037f9"/>
+		<url>https://retroachievements.org/game/36742/hashes</url>
+		<hash>2db7aaabca7f62d69df466797c0d63d9</hash>
+	</game>
+	
 	<game name="Super Boy 4 (Korea) (En) (Unl)">
 		<category>Unlicensed</category>
 		<description>Super Boy 4 (Korea) (En) (Unl)</description>
@@ -314,25 +323,6 @@
 		<rom name="Aladdin (Europe, Brazil) (En).sms" size="524288" crc="c8718d40" md5="e3f60072028eb6f02c2b0558804aed83" sha1="585967f400473e289cda611e7686ae98ae43172e"/>
 		<url>https://retroachievements.org/game/10016/hashes</url>
 		<hash>e3f60072028eb6f02c2b0558804aed83</hash>
-	</game>
-	
-	<game name="Aleste (Japan) (En)" cloneof="Power Strike (USA, Europe, Brazil) (En)">
-		<category>Retail</category>
-		<description>Aleste (Japan) (En)</description>
-		<release name="Aleste (Japan) (En)" region="Japan"/>
-		<rom name="Aleste (Japan) (En).sms" size="131072" crc="d8c4165b" md5="810f65d7a7a8462c40c01bea3d5d7d01" sha1="cba75b0d54df3c9a8e399851a05c194c7a05fbfe"/>
-		<url>https://retroachievements.org/game/10000/hashes</url>
-		<hash>810f65d7a7a8462c40c01bea3d5d7d01</hash>
-	</game>
-	<game name="Power Strike (USA, Europe, Brazil) (En)">
-		<category>Retail</category>
-		<description>Power Strike (USA, Europe, Brazil) (En)</description>
-		<release name="Power Strike (USA, Europe, Brazil) (En)" region="Brazil"/>
-		<release name="Power Strike (USA, Europe, Brazil) (En)" region="Europe"/>
-		<release name="Power Strike (USA, Europe, Brazil) (En)" region="USA"/>
-		<rom name="Power Strike (USA, Europe, Brazil) (En).sms" size="131072" crc="4077efd9" md5="8d9f02dcfea8f9728a3665ca12b044d1" sha1="f6f245c41163b15bce95368e4684b045790a1148"/>
-		<url>https://retroachievements.org/game/10000/hashes</url>
-		<hash>8d9f02dcfea8f9728a3665ca12b044d1</hash>
 	</game>
 	
 	<game name="Alex Kidd in Miracle World (USA, Europe)" cloneof="Alex Kidd in Miracle World (USA, Europe, Brazil) (En) (Rev 1)">
@@ -750,6 +740,16 @@
 		<rom name="Cyborg Hunter (USA, Europe, Brazil) (Fr) (Terminus).sms" size="131072" crc="0f2e4f1e" md5="d104f53494a3d5847a1320faf38e8bc5" sha1="de871501d86c48fdc4b86cbd215e7be4ec047631"/>
 		<url>https://retroachievements.org/game/10696/hashes</url>
 		<hash>d104f53494a3d5847a1320faf38e8bc5</hash>
+	</game>
+	
+	<game name="Danan - The Jungle Fighter (Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Danan - The Jungle Fighter (Europe, Brazil) (En)</description>
+		<release name="Danan - The Jungle Fighter (Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Danan - The Jungle Fighter (Europe, Brazil) (En)" region="Europe"/>
+		<rom name="Danan - The Jungle Fighter (Europe, Brazil) (En).sms" size="262144" crc="ae4a28d7" md5="6b0fc60aa886c060bf1a16ea97b4f441" sha1="c99f2562117a2bf7100a3992608e9a2bcb50df35"/>
+		<url>https://retroachievements.org/game/10556/hashes</url>
+		<hash>6b0fc60aa886c060bf1a16ea97b4f441</hash>
 	</game>
 	
 	<game name="Deep Duck Trouble Starring Donald Duck (Europe, Brazil) (En)">
@@ -1244,6 +1244,25 @@
 		<rom name="Phantasy Star (USA, Europe) (En) (v1.02) (SMS Power).sms" size="524288" crc="70e89681" md5="a0f614f26e99633493e3a3339bc85586" sha1="82067c389b26f65f5a1106a9894a0b19dd3c54f9"/>
 		<url>https://retroachievements.org/game/9999/hashes</url>
 		<hash>a0f614f26e99633493e3a3339bc85586</hash>
+	</game>
+	
+	<game name="Aleste (Japan) (En)" cloneof="Power Strike (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Aleste (Japan) (En)</description>
+		<release name="Aleste (Japan) (En)" region="Japan"/>
+		<rom name="Aleste (Japan) (En).sms" size="131072" crc="d8c4165b" md5="810f65d7a7a8462c40c01bea3d5d7d01" sha1="cba75b0d54df3c9a8e399851a05c194c7a05fbfe"/>
+		<url>https://retroachievements.org/game/10000/hashes</url>
+		<hash>810f65d7a7a8462c40c01bea3d5d7d01</hash>
+	</game>
+	<game name="Power Strike (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Power Strike (USA, Europe, Brazil) (En)</description>
+		<release name="Power Strike (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Power Strike (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Power Strike (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Power Strike (USA, Europe, Brazil) (En).sms" size="131072" crc="4077efd9" md5="8d9f02dcfea8f9728a3665ca12b044d1" sha1="f6f245c41163b15bce95368e4684b045790a1148"/>
+		<url>https://retroachievements.org/game/10000/hashes</url>
+		<hash>8d9f02dcfea8f9728a3665ca12b044d1</hash>
 	</game>
 	
 	<game name="Power Strike II (Europe, Brazil) (En)">

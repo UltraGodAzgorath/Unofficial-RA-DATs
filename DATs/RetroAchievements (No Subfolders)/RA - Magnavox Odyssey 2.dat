@@ -5,8 +5,8 @@
 		<name>RA - Magnavox Odyssey 2</name>
 		<description>Magnavox Odyssey 2</description>
 		<category>No Subfolders</category>
-		<version>20251026</version>
-		<date>26 October 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/23/games</url>
@@ -20,6 +20,15 @@
 		<rom name="Boobs (World) (v1.3a) (Chris Read) (Aftermarket).bin" size="2048" crc="9847f5d0" md5="2ff854e7bdaf79ebacc70610d7129a63" sha1="0d6b44e2445dbb3bf70c4e05f222822845c29762"/>
 		<url>https://retroachievements.org/game/20059/hashes</url>
 		<hash>2ff854e7bdaf79ebacc70610d7129a63</hash>
+	</game>
+	
+	<game name="GoSub 2 (World) (v3.7) (Chris Read) (Unl) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>GoSub 2 (World) (v3.7) (Chris Read) (Unl) (Aftermarket)</description>
+		<release name="GoSub 2 (World) (v3.7) (Chris Read) (Unl) (Aftermarket)" region="World"/>
+		<rom name="GoSub 2 (World) (v3.7) (Chris Read) (Unl) (Aftermarket).bin" size="2048" crc="f5fa8d31" md5="262eb2a2a228c9d5877af6acc13b6cec" sha1="85a44a99b254d92a7433ee46e4caa91483d7fea2"/>
+		<url>https://retroachievements.org/game/20045/hashes</url>
+		<hash>262eb2a2a228c9d5877af6acc13b6cec</hash>
 	</game>
 	
 	<game name="Happy Bird (World) (Rafael Cardoso-2600 Connection) (Aftermarket)">
@@ -280,15 +289,7 @@
 		<hash>add9a7cfac93608db1845e49f3594964</hash>
 	</game>
 	
-	<game name="Stone Sling (Europe)">
-		<category>Retail</category>
-		<description>Stone Sling (Europe)</description>
-		<release name="Stone Sling (Europe)" region="Europe"/>
-		<rom name="Stone Sling (Europe).bin" size="2048" crc="44d1a8a5" md5="a7bfd5fa3233a3df36742a368736727d" sha1="50763429d12206d7bf9fad6a6bd6076a34d54b51"/>
-		<url>https://retroachievements.org/game/22679/hashes</url>
-		<hash>a7bfd5fa3233a3df36742a368736727d</hash>
-	</game>
-	<game name="Smithereens (USA)" cloneof="Stone Sling (Europe)">
+	<game name="Smithereens (USA)">
 		<category>Retail</category>
 		<description>Smithereens (USA)</description>
 		<release name="Smithereens (USA)" region="USA"/>

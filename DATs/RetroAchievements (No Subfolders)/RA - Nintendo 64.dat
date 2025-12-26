@@ -5,8 +5,8 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>No Subfolders</category>
-		<version>20251116</version>
-		<date>16 November 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/2/games</url>
@@ -289,6 +289,15 @@
 		<hash>08b9e2157f23375e4263df6eeda25b13</hash>
 	</game>
 	
+	<game name="BK - Santa's Village (v1.1) (Kurko Mods) (Hack)">
+		<category>Hack</category>
+		<description>BK - Santa's Village (v1.1) (Kurko Mods) (Hack)</description>
+		<release name="BK - Santa's Village (v1.1) (Kurko Mods) (Hack)" region="World"/>
+		<rom name="BK - Santa's Village (v1.1) (Kurko Mods) (Hack).z64" size="67108864" crc="044fd4f5" md5="57a0fc74c9a052415d9e44740b3923dc" sha1="c04a77a45dce8689b29eff08efab9cf06536d540"/>
+		<url>https://retroachievements.org/game/24428/hashes</url>
+		<hash>57a0fc74c9a052415d9e44740b3923dc</hash>
+	</game>
+	
 	<game name="BK - The Cave of Dreams (v1.2) (SquashMVP) (Hack)">
 		<category>Hack</category>
 		<description>BK - The Cave of Dreams (v1.2) (SquashMVP) (Hack)</description>
@@ -321,6 +330,15 @@
 		<rom name="SM64 - BAZR (v1.0.3) (anonymous moose, furyiousfight, spk) (Hack).z64" size="10970016" crc="bf9449b1" md5="81e1bc868e1196865b65d5fde8bcf949" sha1="1e2678ab53eb67ad36c498f6138f827b5de009a1"/>
 		<url>https://retroachievements.org/game/33246/hashes</url>
 		<hash>81e1bc868e1196865b65d5fde8bcf949</hash>
+	</game>
+	
+	<game name="SM64 - Bounce Tales 64 (v1.0 fix) (AloXado320) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - Bounce Tales 64 (v1.0 fix) (AloXado320) (Hack)</description>
+		<release name="SM64 - Bounce Tales 64 (v1.0 fix) (AloXado320) (Hack)" region="World"/>
+		<rom name="SM64 - Bounce Tales 64 (v1.0 fix) (AloXado320) (Hack).z64" size="45088768" crc="15256e35" md5="f91effec4a48252d69c51e1ac3efa272" sha1="5a6d708a867088cc1f44ca4520eb5993c4d8f04b"/>
+		<url>https://retroachievements.org/game/37132/hashes</url>
+		<hash>f91effec4a48252d69c51e1ac3efa272</hash>
 	</game>
 	
 	<game name="SM64 - Box World (v1.1) (MorningStorm64) (Hack)">
@@ -383,6 +401,15 @@
 		<rom name="Paper Mario - Cooking Princess (v1.0) (elDexter) (Hack).z64" size="42373824" crc="ad836d7e" md5="18ae5a7a467ba6b351b3e00ddb82f1ed" sha1="b9d7ff168e97e2be99cf140cdfb30cd953f9feb3"/>
 		<url>https://retroachievements.org/game/20029/hashes</url>
 		<hash>18ae5a7a467ba6b351b3e00ddb82f1ed</hash>
+	</game>
+	
+	<game name="SM64 - Despair Mario's Gambit 64 (v1.1 Final) (GMDDoesDMG) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - Despair Mario's Gambit 64 (v1.1 Final) (GMDDoesDMG) (Hack)</description>
+		<release name="SM64 - Despair Mario's Gambit 64 (v1.1 Final) (GMDDoesDMG) (Hack)" region="World"/>
+		<rom name="SM64 - Despair Mario's Gambit 64 (v1.1 Final) (GMDDoesDMG) (Hack).z64" size="67108864" crc="f8d46ea7" md5="d6dfc46c0cd78a658e04ebcb0fce54ff" sha1="d5ce0514d8b1723f4071181ea4761e8f920ef72c"/>
+		<url>https://retroachievements.org/game/36922/hashes</url>
+		<hash>d6dfc46c0cd78a658e04ebcb0fce54ff</hash>
 	</game>
 	
 	<game name="SM64 - Disaster Quest Tree (v1.2) (Hoppiper26) (Hack)">
@@ -2640,6 +2667,15 @@
 		<hash>43571020fa5ddb138bbd7f64a8c9c0d4</hash>
 	</game>
 	
+	<game name="SM64 - Sooper Wooper 64 (v2021-05-17) (MishuK9) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - Sooper Wooper 64 (v2021-05-17) (MishuK9) (Hack)</description>
+		<release name="SM64 - Sooper Wooper 64 (v2021-05-17) (MishuK9) (Hack)" region="World"/>
+		<rom name="SM64 - Sooper Wooper 64 (v2021-05-17) (MishuK9) (Hack).z64" size="67108864" crc="1c8f4849" md5="be02352320c563c250bc3c65bfc95440" sha1="0d91ee3b2a3029b0eac789fe6e0782ec9c32ce60"/>
+		<url>https://retroachievements.org/game/36980/hashes</url>
+		<hash>be02352320c563c250bc3c65bfc95440</hash>
+	</game>
+	
 	<game name="SM64 - Speed Star Adventure (v1.1) (jesusyoshi54) (Hack)">
 		<category>Hack</category>
 		<description>SM64 - Speed Star Adventure (v1.1) (jesusyoshi54) (Hack)</description>
@@ -4171,6 +4207,23 @@
 		<hash>f078e49cf3c4d9ba9a1df31ef776258b</hash>
 	</game>
 	
+	<game name="SM64 - The Phantom's Call (English) (v2.0) (PhantomPhire) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - The Phantom's Call (English) (v2.0) (PhantomPhire) (Hack)</description>
+		<release name="SM64 - The Phantom's Call (English) (v2.0) (PhantomPhire) (Hack)" region="English"/>
+		<rom name="SM64 - The Phantom's Call (English) (v2.0) (PhantomPhire) (Hack).z64" size="67108864" crc="4f6baa2d" md5="e0c18949c34e86576405944fa616f56c" sha1="7109b28c6e2165c63e95333dc8bb72fdff446946"/>
+		<url>https://retroachievements.org/game/37573/hashes</url>
+		<hash>e0c18949c34e86576405944fa616f56c</hash>
+	</game>
+	<game name="SM64 - The Phantom's Call (German) (v2.0) (PhantomPhire) (Hack)" cloneof="SM64 - The Phantom's Call (English) (v2.0) (PhantomPhire) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - The Phantom's Call (German) (v2.0) (PhantomPhire) (Hack)</description>
+		<release name="SM64 - The Phantom's Call (German) (v2.0) (PhantomPhire) (Hack)" region="Germany"/>
+		<rom name="SM64 - The Phantom's Call (German) (v2.0) (PhantomPhire) (Hack).z64" size="67108864" crc="3e8e5c0b" md5="05efe824339137d3716a0530c78ae4b1" sha1="4831b84db6c43a53a79fe1dbea287dee3f0cfc34"/>
+		<url>https://retroachievements.org/game/37573/hashes</url>
+		<hash>05efe824339137d3716a0530c78ae4b1</hash>
+	</game>
+	
 	<game name="SM64 - Preservation Project, The (Second Release) (Fluvian,MarioNova) (Hack)">
 		<category>Hack</category>
 		<description>SM64 - Preservation Project, The (Second Release) (Fluvian,MarioNova) (Hack)</description>
@@ -5593,13 +5646,6 @@
 		<url>https://retroachievements.org/game/10114/hashes</url>
 		<hash>3dcb15043063bd656a0223c519218cfb</hash>
 	</game>
-	<game name="Mortal Kombat Trilogy (USA)" cloneof="Mortal Kombat Trilogy (USA) (Rev 2)">
-		<category>Retail</category>
-		<description>Mortal Kombat Trilogy (USA)</description>
-		<rom name="Mortal Kombat Trilogy (USA).z64" size="12582912" crc="50a99d60" md5="9b7f29aab911d6753f2011c48da752bf" sha1="39b3cb20417c503f1c047d5037df814d1ccf90dd"/>
-		<url>https://retroachievements.org/game/10114/hashes</url>
-		<hash>9b7f29aab911d6753f2011c48da752bf</hash>
-	</game>
 	
 	<game name="Ms. Pac-Man - Maze Madness (USA)">
 		<category>Retail</category>
@@ -5785,21 +5831,13 @@
 		<hash>1561c75d11cedf356a8ddb1a4a5f9d5d</hash>
 	</game>
 	
-	<game name="Puyo Puyo Sun 64 (Japan) (En) (v1.1) (Zoinkity)" cloneof="Puyo Puyo Sun 64 (Japan)">
+	<game name="Puyo Puyo Sun 64 (Japan) (En) (v1.1) (Zoinkity)">
 		<category>Retail</category>
 		<description>Puyo Puyo Sun 64 (Japan) (En) (v1.1) (Zoinkity)</description>
 		<release name="Puyo Puyo Sun 64 (Japan) (En) (v1.1) (Zoinkity)" region="English"/>
 		<rom name="Puyo Puyo Sun 64 (Japan) (En) (v1.1) (Zoinkity).z64" size="16777216" crc="c7d71667" md5="b8267c225583a02acc3b74b3178b87e9" sha1="cd4aaaaad29c6766dfc4f639326cea0a0a4d9a24"/>
 		<url>https://retroachievements.org/game/13113/hashes</url>
 		<hash>b8267c225583a02acc3b74b3178b87e9</hash>
-	</game>
-	<game name="Puyo Puyo Sun 64 (Japan)">
-		<category>Retail</category>
-		<description>Puyo Puyo Sun 64 (Japan)</description>
-		<release name="Puyo Puyo Sun 64 (Japan)" region="Japan"/>
-		<rom name="Puyo Puyo Sun 64 (Japan).z64" size="8388608" crc="355ff9de" md5="faaa2094b04dca4c287af9334d22529d" sha1="cf79ec32e7e78b2cad15b5b7dd763f578648b6c6"/>
-		<url>https://retroachievements.org/game/13113/hashes</url>
-		<hash>faaa2094b04dca4c287af9334d22529d</hash>
 	</game>
 	
 	<game name="Quake (USA)">
@@ -6082,6 +6120,23 @@
 		<rom name="Sim City 64 (Japan) (IPL v1.2 Patch).ndd" size="4194304" crc="0aea6631" md5="ef25a70d775ed6d2d42a3f31dc7c2928" sha1="4013e85cb298551db3c98e72f529fe560053f08f"/>
 		<url>https://retroachievements.org/game/21718/hashes</url>
 		<hash>ef25a70d775ed6d2d42a3f31dc7c2928</hash>
+	</game>
+	
+	<game name="Tsumi to Batsu - Hoshi no Keishousha (Japan)">
+		<category>Retail</category>
+		<description>Tsumi to Batsu - Hoshi no Keishousha (Japan)</description>
+		<release name="Tsumi to Batsu - Hoshi no Keishousha (Japan)" region="Japan"/>
+		<rom name="Tsumi to Batsu - Hoshi no Keishousha (Japan).z64" size="33554432" crc="ca2e5e49" md5="a0657bc99e169153fd46aeccfde748f3" sha1="581297b9d5c3a4c33169ae0aae218c742cd9cbcf"/>
+		<url>https://retroachievements.org/game/10119/hashes</url>
+		<hash>a0657bc99e169153fd46aeccfde748f3</hash>
+	</game>
+	<game name="Tsumi to Batsu - Hoshi no Keishousha (Japan) (En) (v1.1) (Vanit Studios)" cloneof="Tsumi to Batsu - Hoshi no Keishousha (Japan)">
+		<category>Retail</category>
+		<description>Tsumi to Batsu - Hoshi no Keishousha (Japan) (En) (v1.1) (Vanit Studios)</description>
+		<release name="Tsumi to Batsu - Hoshi no Keishousha (Japan) (En) (v1.1) (Vanit Studios)" region="English"/>
+		<rom name="Tsumi to Batsu - Hoshi no Keishousha (Japan) (En) (v1.1) (Vanit Studios).z64" size="33554432" crc="5a6b6713" md5="ca19a4b2bae3b4950ff967ee9e0857ae" sha1="5945ff3935d9d9531bbb5cfcabed7c198e2b2f41"/>
+		<url>https://retroachievements.org/game/10119/hashes</url>
+		<hash>ca19a4b2bae3b4950ff967ee9e0857ae</hash>
 	</game>
 	
 	<game name="Snowboard Kids (Europe, Australia)">
@@ -6743,23 +6798,6 @@
 		<rom name="Toy Story 2 - Buzz Lightyear to the Rescue! (USA).z64" size="12582912" crc="b9570841" md5="b44e9c2d9d2f2de3af4793b824ccf936" sha1="982ad2e1e44c6662c88a77367bc5df91c51531bf"/>
 		<url>https://retroachievements.org/game/10118/hashes</url>
 		<hash>b44e9c2d9d2f2de3af4793b824ccf936</hash>
-	</game>
-	
-	<game name="Tsumi to Batsu - Hoshi no Keishousha (Japan)">
-		<category>Retail</category>
-		<description>Tsumi to Batsu - Hoshi no Keishousha (Japan)</description>
-		<release name="Tsumi to Batsu - Hoshi no Keishousha (Japan)" region="Japan"/>
-		<rom name="Tsumi to Batsu - Hoshi no Keishousha (Japan).z64" size="33554432" crc="ca2e5e49" md5="a0657bc99e169153fd46aeccfde748f3" sha1="581297b9d5c3a4c33169ae0aae218c742cd9cbcf"/>
-		<url>https://retroachievements.org/game/10119/hashes</url>
-		<hash>a0657bc99e169153fd46aeccfde748f3</hash>
-	</game>
-	<game name="Tsumi to Batsu - Hoshi no Keishousha (Japan) (En) (v1.1) (Vanit Studios)" cloneof="Tsumi to Batsu - Hoshi no Keishousha (Japan)">
-		<category>Retail</category>
-		<description>Tsumi to Batsu - Hoshi no Keishousha (Japan) (En) (v1.1) (Vanit Studios)</description>
-		<release name="Tsumi to Batsu - Hoshi no Keishousha (Japan) (En) (v1.1) (Vanit Studios)" region="English"/>
-		<rom name="Tsumi to Batsu - Hoshi no Keishousha (Japan) (En) (v1.1) (Vanit Studios).z64" size="33554432" crc="5a6b6713" md5="ca19a4b2bae3b4950ff967ee9e0857ae" sha1="5945ff3935d9d9531bbb5cfcabed7c198e2b2f41"/>
-		<url>https://retroachievements.org/game/10119/hashes</url>
-		<hash>ca19a4b2bae3b4950ff967ee9e0857ae</hash>
 	</game>
 	
 	<game name="Turok 2 - Seeds of Evil (USA) (Rev 1)">

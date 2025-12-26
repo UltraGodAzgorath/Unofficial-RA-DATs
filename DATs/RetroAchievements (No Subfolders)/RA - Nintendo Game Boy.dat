@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>No Subfolders</category>
-		<version>20251026</version>
-		<date>26 October 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/4/games</url>
@@ -920,6 +920,15 @@
 		<rom name="He Fucked the Girl Out of Me (World) (v1.1) (Aftermarket).gb" size="1048576" crc="8862ab72" md5="7b0182410ff25d7240827bda438ef05f" sha1="21dd2fe314eaf104e3c5701b7fb87b9e11ee3992"/>
 		<url>https://retroachievements.org/game/25300/hashes</url>
 		<hash>7b0182410ff25d7240827bda438ef05f</hash>
+	</game>
+	
+	<game name="Helichoppy (World) (v1.0) (Vivian Video) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Helichoppy (World) (v1.0) (Vivian Video) (Aftermarket)</description>
+		<release name="Helichoppy (World) (v1.0) (Vivian Video) (Aftermarket)" region="World"/>
+		<rom name="Helichoppy (World) (v1.0) (Vivian Video) (Aftermarket).gb" size="524288" crc="f1ebf065" md5="971f0a72513a4bb18d19f761f9e40fec" sha1="13f50b87163c65f996063e6d11b9b876c2007398"/>
+		<url>https://retroachievements.org/game/37578/hashes</url>
+		<hash>971f0a72513a4bb18d19f761f9e40fec</hash>
 	</game>
 	
 	<game name="Impossible Gameboy (World) (Aftermarket)">

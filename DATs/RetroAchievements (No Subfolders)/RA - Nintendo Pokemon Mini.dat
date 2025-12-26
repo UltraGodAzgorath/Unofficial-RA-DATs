@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Pokemon Mini</name>
 		<description>Nintendo Pokemon Mini</description>
 		<category>No Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/24/games</url>
@@ -182,6 +182,15 @@
 		<rom name="Mini Cookie (World) (Aftermarket).min" size="12544" crc="b2a9a1ee" md5="78197d139406095e68b0043fbf004860" sha1="9dfc34364ab09fe3211a0b7188b214780a17e85e"/>
 		<url>https://retroachievements.org/game/18257/hashes</url>
 		<hash>78197d139406095e68b0043fbf004860</hash>
+	</game>
+	
+	<game name="Mini Running Ant (World) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<description>Mini Running Ant (World) (Aftermarket) (Unl)</description>
+		<release name="Mini Running Ant (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Mini Running Ant (World) (Aftermarket) (Unl).min" size="75264" crc="296da9bb" md5="ef8984f9e252298296f373598ca63e7e" sha1="03c19d49263dff65d655d54b89fc4fdecf56d876"/>
+		<url>https://retroachievements.org/game/37098/hashes</url>
+		<hash>ef8984f9e252298296f373598ca63e7e</hash>
 	</game>
 	
 	<game name="Pac-It (World) (Aftermarket)">

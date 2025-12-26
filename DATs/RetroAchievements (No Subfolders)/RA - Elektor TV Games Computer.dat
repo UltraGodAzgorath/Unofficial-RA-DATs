@@ -5,8 +5,8 @@
 		<name>RA - Elektor TV Games Computer</name>
 		<description>Elektor TV Games Computer</description>
 		<category>No Subfolders</category>
-		<version>20250912</version>
-		<date>12 September 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/75/games</url>
@@ -59,6 +59,14 @@
 		<rom name="Catapult (Europe) (ESS-010-5).tvc" size="1707" crc="cea44af4" md5="b0cb507cfdf9f5a4d4ee49ddddb31fe2" sha1="96211798f02e8f7c81c45ebf2375ef0678c0438e"/>
 		<url>https://retroachievements.org/game/24670/hashes</url>
 		<hash>b0cb507cfdf9f5a4d4ee49ddddb31fe2</hash>
+	</game>
+	
+	<game name="Circledrive (Europe) (ESS-009-3)">
+		<category>Retail</category>
+		<description>Circledrive (Europe) (ESS-009-3)</description>
+		<rom name="Circledrive (Europe) (ESS-009-3).tvc" size="5874" crc="00d8860d" md5="938fd8ab57e469268754ec28e07ac10f" sha1="db9b228c1571ec8cfff465bc6b3d1ed41c292eaf"/>
+		<url>https://retroachievements.org/game/24671/hashes</url>
+		<hash>938fd8ab57e469268754ec28e07ac10f</hash>
 	</game>
 	
 	<game name="Cosmic Adventure (Europe) (ESS-011-F)">
@@ -203,6 +211,14 @@
 		<rom name="Solitaire (Europe) (ESS-009-F).tvc" size="1861" crc="9e6ed248" md5="6f7ac2b5d983d5f34a56971962dc4cfe" sha1="57748cfd969a8bb504122a60961c18f24337f0a2"/>
 		<url>https://retroachievements.org/game/24683/hashes</url>
 		<hash>6f7ac2b5d983d5f34a56971962dc4cfe</hash>
+	</game>
+	
+	<game name="Submarines &amp; Racing (Europe) (ESS-011-E)">
+		<category>Retail</category>
+		<description>Submarines &amp; Racing (Europe) (ESS-011-E)</description>
+		<rom name="Submarines &amp; Racing (Europe) (ESS-011-E).tvc" size="1860" crc="f9f6942a" md5="fb8c205c7aa983c379068e9581364c2c" sha1="d968e72e32036444e05071b859534b9d25ae3a58"/>
+		<url>https://retroachievements.org/game/37507/hashes</url>
+		<hash>fb8c205c7aa983c379068e9581364c2c</hash>
 	</game>
 	
 	<game name="Tiny Tim (Europe) (ESS-011-9)">

@@ -5,8 +5,8 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20251116</version>
-		<date>16 November 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/3/games</url>
@@ -670,6 +670,14 @@
 		<rom name="SMW - Easyland 2 (v1.0) (RicardoDeMelo) (Hack).sfc" size="4194304" crc="8ff9f789" md5="5d78e41bb0995e0e3cb9184331295986" sha1="f9afdd38f7d107ee7fe6ad1ca54e29e148fae267"/>
 		<url>https://retroachievements.org/game/32797/hashes</url>
 		<hash>5d78e41bb0995e0e3cb9184331295986</hash>
+	</game>
+	
+	<game name="Hack/Super Mario World/SMW - Easyland 3 (v1.0) (RicardoDeMelo) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - Easyland 3 (v1.0) (RicardoDeMelo) (Hack)</description>
+		<rom name="SMW - Easyland 3 (v1.0) (RicardoDeMelo) (Hack).sfc" size="4194304" crc="6423fd7b" md5="7c6f10e15c6323fbb3bf2557580650f8" sha1="c9d254d44ade76781e4dd377ae9f4f6b01862732"/>
+		<url>https://retroachievements.org/game/37280/hashes</url>
+		<hash>7c6f10e15c6323fbb3bf2557580650f8</hash>
 	</game>
 	
 	<game name="Hack/EarthBound/EarthBound - EightBound Regal (v1.0) (Polinym &amp; Mareeta) (Hack)">
@@ -2326,6 +2334,14 @@
 		<hash>81317b808c4365a9df49039e4a133769</hash>
 	</game>
 	
+	<game name="Hack/Super Mario World/SMW - Play to Win (v1.6.0) (Mr. MS) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - Play to Win (v1.6.0) (Mr. MS) (Hack)</description>
+		<rom name="SMW - Play to Win (v1.6.0) (Mr. MS) (Hack).sfc" size="2097152" crc="c748ae59" md5="667819d594e310afdc9a42a8fce65cc6" sha1="27e7761e71b1bd6d758f90750555b3e8f5fd5866"/>
+		<url>https://retroachievements.org/game/32712/hashes</url>
+		<hash>667819d594e310afdc9a42a8fce65cc6</hash>
+	</game>
+	
 	<game name="Hack/Super Mario World/SMW - Polyphony (v1.1.1) (TomatoPhalanges) (Hack)">
 		<category>Super Nintendo</category>
 		<description>SMW - Polyphony (v1.1.1) (TomatoPhalanges) (Hack)</description>
@@ -2404,6 +2420,14 @@
 		<rom name="SMW - Red City (v1.1) (redkiller) (Hack).sfc" size="4194304" crc="ab9d2b35" md5="62e6031b0f9d68d801180baa0bc3e442" sha1="84babc512c00196d84867ea5f809661fc77fb8e7"/>
 		<url>https://retroachievements.org/game/28805/hashes</url>
 		<hash>62e6031b0f9d68d801180baa0bc3e442</hash>
+	</game>
+	
+	<game name="Hack/Super Mario World/SMW - The First Annual RetroAchievements Vanilla Level Design Contest (v1.0) (SubliminalSiren) (Hack)">
+		<category>Super Nintendo</category>
+		<description>SMW - The First Annual RetroAchievements Vanilla Level Design Contest (v1.0) (SubliminalSiren) (Hack)</description>
+		<rom name="SMW - The First Annual RetroAchievements Vanilla Level Design Contest (v1.0) (SubliminalSiren) (Hack).sfc" size="2097152" crc="908c2916" md5="cb272886fee9794b37ed3f9b95f4dfef" sha1="fcf0b7d3721b4102b71153c502109a41b2fb17c7"/>
+		<url>https://retroachievements.org/game/32795/hashes</url>
+		<hash>cb272886fee9794b37ed3f9b95f4dfef</hash>
 	</game>
 	
 	<game name="Hack/Super Mario World/SMW - Reverie (v1.0) (Fyre150, Abdu) (Hack)">
@@ -10920,6 +10944,14 @@
 		<hash>bb457a174348e3e0d6a05026c1c57f22</hash>
 	</game>
 	
+	<game name="Retail/Romance of the Three Kingdoms II (USA)">
+		<category>Super Nintendo</category>
+		<description>Romance of the Three Kingdoms II (USA)</description>
+		<rom name="Romance of the Three Kingdoms II (USA).sfc" size="1048576" crc="8033574a" md5="014e13bbf8de8b987dd2a8d597424a90" sha1="2ded7b6ea4d10200106e514decc10bd3c9f86e2f"/>
+		<url>https://retroachievements.org/game/1140/hashes</url>
+		<hash>014e13bbf8de8b987dd2a8d597424a90</hash>
+	</game>
+	
 	<game name="Retail/Rudra no Hihou/Rudra no Hihou (Japan) (En) (v2.0) (Aeon Genesis)">
 		<category>Super Nintendo</category>
 		<description>Rudra no Hihou (Japan) (En) (v2.0) (Aeon Genesis)</description>
@@ -13101,6 +13133,14 @@
 		<hash>94446e742f5fefd2905c70a2a891b2dc</hash>
 	</game>
 	
+	<game name="Retail/Tetris &amp; Dr. Mario (USA)">
+		<category>Super Nintendo</category>
+		<description>Tetris &amp; Dr. Mario (USA)</description>
+		<rom name="Tetris &amp; Dr. Mario (USA).sfc" size="1048576" crc="6c852ef3" md5="73cf4163c3c2b3f8a38775a5d132c448" sha1="940e7f557e1dbadfdb38190975a2c4e1f712cb3f"/>
+		<url>https://retroachievements.org/game/1259/hashes</url>
+		<hash>73cf4163c3c2b3f8a38775a5d132c448</hash>
+	</game>
+	
 	<game name="Retail/Tetris 2/Tetris 2 (Europe)">
 		<category>Super Nintendo</category>
 		<description>Tetris 2 (Europe)</description>
@@ -13114,14 +13154,6 @@
 		<rom name="Tetris 2 (USA).sfc" size="1048576" crc="ce3392b1" md5="3a8bced70aa5afc873f0de1b2e2d388a" sha1="43ce6065dfa9d3fbd3c6bcae9e23d160ae738eae"/>
 		<url>https://retroachievements.org/game/1260/hashes</url>
 		<hash>3a8bced70aa5afc873f0de1b2e2d388a</hash>
-	</game>
-	
-	<game name="Retail/Tetris &amp; Dr. Mario (USA)">
-		<category>Super Nintendo</category>
-		<description>Tetris &amp; Dr. Mario (USA)</description>
-		<rom name="Tetris &amp; Dr. Mario (USA).sfc" size="1048576" crc="6c852ef3" md5="73cf4163c3c2b3f8a38775a5d132c448" sha1="940e7f557e1dbadfdb38190975a2c4e1f712cb3f"/>
-		<url>https://retroachievements.org/game/1259/hashes</url>
-		<hash>73cf4163c3c2b3f8a38775a5d132c448</hash>
 	</game>
 	
 	<game name="Retail/Tetris Attack (USA) (En,Ja)">
@@ -13650,6 +13682,14 @@
 		<rom name="Wizard of Oz, The (USA).sfc" size="1048576" crc="d5ce2db5" md5="8368318eeab856695f8c49b4c204c64e" sha1="eceeb210a3df9b53697ad25332a72019e875698d"/>
 		<url>https://retroachievements.org/game/1325/hashes</url>
 		<hash>8368318eeab856695f8c49b4c204c64e</hash>
+	</game>
+	
+	<game name="Retail/Theme Park (Europe) (En,Fr,De)">
+		<category>Super Nintendo</category>
+		<description>Theme Park (Europe) (En,Fr,De)</description>
+		<rom name="Theme Park (Europe) (En,Fr,De).sfc" size="1048576" crc="ca0e041c" md5="b1a4a4696e579168d5b1b6e2c8ba8440" sha1="1470c5f9d3d2078c55e0822b3219189120fd3f7b"/>
+		<url>https://retroachievements.org/game/3907/hashes</url>
+		<hash>b1a4a4696e579168d5b1b6e2c8ba8440</hash>
 	</game>
 	
 	<game name="Retail/Thomas the Tank Engine &amp; Friends (USA)">

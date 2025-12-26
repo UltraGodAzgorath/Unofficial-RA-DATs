@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>Subfolders</category>
-		<version>20251116</version>
-		<date>16 November 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
@@ -554,6 +554,14 @@
 		<hash>a8f8e22097e2cd193e91eb0ebae2da37</hash>
 	</game>
 	
+	<game name="Homebrew/Better Call Saul DS (World) (v1.0) (Unl) (William278) (Aftermarket)">
+		<category></category>
+		<description>Better Call Saul DS (World) (v1.0) (Unl) (William278) (Aftermarket)</description>
+		<rom name="Better Call Saul DS (World) (v1.0) (Unl) (William278) (Aftermarket).nds" size="844800" crc="5f3bd811" md5="ef6981e20072b9e1736b000d8152f00b" sha1="d2919182455aed641ad474e5a74cf195291c76cd"/>
+		<url>https://retroachievements.org/game/28309/hashes</url>
+		<hash>069759f656b71b83ed85f392dd55a56c</hash>
+	</game>
+	
 	<game name="Homebrew/Breaking Bad DS (World) (v1.06) (Aftermarket)">
 		<category></category>
 		<description>Breaking Bad DS (World) (v1.06) (Aftermarket)</description>
@@ -820,6 +828,14 @@
 		<rom name="Clueless Fashion (Europe) (Proto).nds" size="67108864" crc="9e9daaaf" md5="e84cc4313b6da98383c062e56fe372c1" sha1="bd3f7bd5525bedf87f8695aca810bab5bb06a6e5"/>
 		<url>https://retroachievements.org/game/17819/hashes</url>
 		<hash>91dfd503b08a6360be69e6dc3f515c2a</hash>
+	</game>
+	
+	<game name="Prototype/Crash Landed (USA) (Proto) (2009-07-31T111550)">
+		<category></category>
+		<description>Crash Landed (USA) (Proto) (2009-07-31T111550)</description>
+		<rom name="Crash Landed (USA) (Proto) (2009-07-31T111550).nds" size="33554432" crc="5841acba" md5="1db7d9222af21259f26ecc8da7cfb430" sha1="9f6fc48367cc092d49e9734666f09affabf087d8"/>
+		<url>https://retroachievements.org/game/33170/hashes</url>
+		<hash>56e18452165cfd3535671d002ba3bca3</hash>
 	</game>
 	
 	<game name="Prototype/Nicktoons - Android Invasion (USA) (Proto) (2007-10-19)">
@@ -1871,6 +1887,21 @@
 		<hash>751c0e3b4080f12a62bebb81e5f59c6d</hash>
 	</game>
 	
+	<game name="Retail/Dora the Explorer - Dora Saves the Mermaids/Dora the Explorer - Dora Saves the Mermaids (Europe) (En,Fr,De,Nl)">
+		<category></category>
+		<description>Dora the Explorer - Dora Saves the Mermaids (Europe) (En,Fr,De,Nl)</description>
+		<rom name="Dora the Explorer - Dora Saves the Mermaids (Europe) (En,Fr,De,Nl).nds" size="16777216" crc="791b87ff" md5="4f3aa9be18d7b608827a239bebcf10d4" sha1="52b3f79799327b8cac39a26ff1040e806f109cf9"/>
+		<url>https://retroachievements.org/game/26532/hashes</url>
+		<hash>31a6c756c8745c67fb891a78c3255d74</hash>
+	</game>
+	<game name="Retail/Dora the Explorer - Dora Saves the Mermaids/Dora the Explorer - Dora Saves the Mermaids (Europe) (Sv,No,Da,Fi)">
+		<category></category>
+		<description>Dora the Explorer - Dora Saves the Mermaids (Europe) (Sv,No,Da,Fi)</description>
+		<rom name="Dora the Explorer - Dora Saves the Mermaids (Europe) (Sv,No,Da,Fi).nds" size="16777216" crc="150aee09" md5="f29eb44669025d07e70f291adac6fae6" sha1="320d65f635a757d591495d8a2853ff1d527582a3"/>
+		<url>https://retroachievements.org/game/26532/hashes</url>
+		<hash>2defc15119ee892db182cae52923c508</hash>
+	</game>
+	
 	<game name="Retail/Dora's Cooking Club (Europe) (En,Fr,Es,Nl)">
 		<category></category>
 		<description>Dora's Cooking Club (Europe) (En,Fr,Es,Nl)</description>
@@ -1935,12 +1966,56 @@
 		<hash>0bfd0fc908b0e7c8479d53e4cad82b28</hash>
 	</game>
 	
+	<game name="Retail/Dragon Quest IV - Chapters of the Chosen/Dragon Quest IV - The Chapters of the Chosen (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Dragon Quest IV - The Chapters of the Chosen (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Dragon Quest IV - The Chapters of the Chosen (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="ac5b7bd9" md5="2aeba340c3727410b5cbf5708329c59f" sha1="a9842d8d21df070e620779f461ed7cee4ca88b52"/>
+		<url>https://retroachievements.org/game/9770/hashes</url>
+		<hash>0bfd0fc908b0e7c8479d53e4cad82b28</hash>
+	</game>
+	<game name="Retail/Dragon Quest IV - Chapters of the Chosen/Dragon Quest IV - Chapters of the Chosen (USA) (En,Fr,Es)">
+		<category></category>
+		<description>Dragon Quest IV - Chapters of the Chosen (USA) (En,Fr,Es)</description>
+		<rom name="Dragon Quest IV - Chapters of the Chosen (USA) (En,Fr,Es).nds" size="134217728" crc="c433db29" md5="a850803f31d480290902f51e70c11922" sha1="b9132b77597bfeb8f4162b4ee51d87b4f92edc41"/>
+		<url>https://retroachievements.org/game/9770/hashes</url>
+		<hash>fef0aa768a5a6ab490674476f04fae50</hash>
+	</game>
+	<game name="Retail/Dragon Quest IV - Chapters of the Chosen/Dragon Quest IV - Chapters of the Chosen (USA) (En,Fr,Es) (Party Chat) (v1.2) (AustNerevar)">
+		<category></category>
+		<description>Dragon Quest IV - Chapters of the Chosen (USA) (En,Fr,Es) (Party Chat) (v1.2) (AustNerevar)</description>
+		<rom name="Dragon Quest IV - Chapters of the Chosen (USA) (En,Fr,Es) (Party Chat) (v1.2) (AustNerevar).nds" size="134217728" crc="670f3da5" md5="6b8264964265c2ed22ae656f71f57f9d" sha1="5388f282243ddca868484a70e0e3af713eab2605"/>
+		<url>https://retroachievements.org/game/9770/hashes</url>
+		<hash>6fac9f2179ded3a5d57e46170fae6513</hash>
+	</game>
+	
 	<game name="Subset/Dragon Quest IV - Chapters of the Chosen (Subset - Plentiful Plunder)">
 		<category></category>
 		<description>Dragon Quest IV - Chapters of the Chosen (Subset - Plentiful Plunder)</description>
 		<rom name="Dragon Quest IV - Chapters of the Chosen (Subset - Plentiful Plunder).nds" size="134217728" crc="788ffeca" md5="df04f62f199981185087ffd80b12a67f" sha1="fe43bcd55d81c1f42b41023ebac13379a2680e80"/>
 		<url>https://retroachievements.org/game/24941/hashes</url>
 		<hash>dcc79f2d5a712512805272cde7c4b749</hash>
+	</game>
+	
+	<game name="Subset/Dragon Quest IV - The Chapters of the Chosen/Dragon Quest IV - The Chapters of the Chosen (USA) (Party Chat) (Subset - Title Tracker)">
+		<category></category>
+		<description>Dragon Quest IV - The Chapters of the Chosen (USA) (Party Chat) (Subset - Title Tracker)</description>
+		<rom name="Dragon Quest IV - The Chapters of the Chosen (USA) (Party Chat) (Subset - Title Tracker).nds" size="134217728" crc="369687f1" md5="129d6975541618cc14676c31bef5141e" sha1="a85a7a4d128ad036cd3959186766000494c7a498"/>
+		<url>https://retroachievements.org/game/33505/hashes</url>
+		<hash>d031fca138921a97bd40031d56812cc2</hash>
+	</game>
+	<game name="Subset/Dragon Quest IV - The Chapters of the Chosen/Dragon Quest IV - The Chapters of the Chosen (USA) (Subset - Title Tracker)">
+		<category></category>
+		<description>Dragon Quest IV - The Chapters of the Chosen (USA) (Subset - Title Tracker)</description>
+		<rom name="Dragon Quest IV - The Chapters of the Chosen (USA) (Subset - Title Tracker).nds" size="134217728" crc="95aa617d" md5="a9ac48f43cdaa9838000131a9d93854b" sha1="779a319baae92be57ff03b3e7340484dcb8fbcb5"/>
+		<url>https://retroachievements.org/game/33505/hashes</url>
+		<hash>73ba4991a189b69d2e9d5ce0895c7aeb</hash>
+	</game>
+	<game name="Subset/Dragon Quest IV - The Chapters of the Chosen/Dragon Quest IV - The Chapters of the Chosen (Europe) (Subset - Title Tracker)">
+		<category></category>
+		<description>Dragon Quest IV - The Chapters of the Chosen (Europe) (Subset - Title Tracker)</description>
+		<rom name="Dragon Quest IV - The Chapters of the Chosen (Europe) (Subset - Title Tracker).nds" size="134217728" crc="fdc2c18d" md5="060b3980c28262d0b5e334aeb6cadb66" sha1="b386cb20703c1134ac411c02370911fb8956fc96"/>
+		<url>https://retroachievements.org/game/33505/hashes</url>
+		<hash>da0f1a4e64769ea8ed47f1afedba2bd9</hash>
 	</game>
 	
 	<game name="Retail/Dragon Quest IX - Sentinels of the Starry Skies (Europe) (En,Fr,De,Es,It)">
@@ -2359,6 +2434,14 @@
 		<rom name="Grand Theft Auto - Chinatown Wars (USA) (En,Fr,De,Es,It).nds" size="134217728" crc="cc50cf7e" md5="f2d6fd3ca935e82ae7599026a6ba47b4" sha1="c490e1e9aabd09aad89f1eb836f4327dd74f9fd2"/>
 		<url>https://retroachievements.org/game/9954/hashes</url>
 		<hash>dd4e23470995a9769b1e580bec2a42ea</hash>
+	</game>
+	
+	<game name="Retail/Guilty Gear - Dust Strikers (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Guilty Gear - Dust Strikers (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Guilty Gear - Dust Strikers (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="02239155" md5="d42d124f5ed489808d98d33ff0d1e799" sha1="c6522e0f7a0a0e60021e692192e8a4e7b672b3d5"/>
+		<url>https://retroachievements.org/game/17902/hashes</url>
+		<hash>7f7d18c1d1db2b6a341d7b2926bda322</hash>
 	</game>
 	
 	<game name="Retail/Guitar Hero - On Tour (Control)">
@@ -2989,6 +3072,14 @@
 		<hash>dde5f08f6998d16044b2c0cbbe7fce56</hash>
 	</game>
 	
+	<game name="Retail/Actionloop (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Actionloop (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Actionloop (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="c4f612f6" md5="27bb2fce6fe0cf4258e97afe4421ce12" sha1="3a03c103b00767f079cb2e0dfae57e9dc0f56546"/>
+		<url>https://retroachievements.org/game/17692/hashes</url>
+		<hash>7977f34b7719e768c63aa6c82486255f</hash>
+	</game>
+	
 	<game name="Retail/MapleStory DS (Japan) (En) (v0.6.3) (edo1989)">
 		<category></category>
 		<description>MapleStory DS (Japan) (En) (v0.6.3) (edo1989)</description>
@@ -3524,6 +3615,21 @@
 		<rom name="New Super Mario Bros. (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="f443f9bf" md5="9b40c229313a024f5125513eaf73c084" sha1="b0f7886720e842ed922569e1bb5c39c0fa090331"/>
 		<url>https://retroachievements.org/game/11729/hashes</url>
 		<hash>157223a8b0b6df3c0d0ca85980d3a443</hash>
+	</game>
+	
+	<game name="Retail/New Zealand Story Revolution/New Zealand Story Revolution (USA) (En,Fr,Es)">
+		<category></category>
+		<description>New Zealand Story Revolution (USA) (En,Fr,Es)</description>
+		<rom name="New Zealand Story Revolution (USA) (En,Fr,Es).nds" size="16777216" crc="0f979955" md5="e2d26334ad35f749c4b2ba01689fd2dd" sha1="569ec56da8e924bdff318b155f7c9c7ddf8a1a0d"/>
+		<url>https://retroachievements.org/game/14797/hashes</url>
+		<hash>1fe71fbeb4e349a68199b87c2d9efb9e</hash>
+	</game>
+	<game name="Retail/New Zealand Story Revolution/New Zealand Story Revolution (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>New Zealand Story Revolution (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="New Zealand Story Revolution (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="0f038f8b" md5="484e2545c74c72ed3fb2009abcb3f3eb" sha1="1bee729b09471bbce1b4abd93f2ab9c0d90d2ecd"/>
+		<url>https://retroachievements.org/game/14797/hashes</url>
+		<hash>01e90524a92577a64a4525f360dffd13</hash>
 	</game>
 	
 	<game name="Retail/Ni no Kuni - Shikkoku no Madoushi (Japan) (En) (v1.0) (anjiera)">

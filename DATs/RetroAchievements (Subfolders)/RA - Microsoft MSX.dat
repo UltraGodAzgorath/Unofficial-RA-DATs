@@ -5,8 +5,8 @@
 		<name>RA - Microsoft MSX</name>
 		<description>Microsoft MSX</description>
 		<category>Subfolders</category>
-		<version>20251026</version>
-		<date>26 October 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/29/games</url>
@@ -91,6 +91,14 @@
 		<rom name="Deep Dungeon Adventure (World) (Aftermarket).rom" size="49152" crc="96bd10ee" md5="7a99efa93c475b1200975f9c36fa22a2" sha1="4071d5de5fa498f5d87110fc1da1d0149293a867"/>
 		<url>https://retroachievements.org/game/25413/hashes</url>
 		<hash>7a99efa93c475b1200975f9c36fa22a2</hash>
+	</game>
+	
+	<game name="Homebrew/Find It! (2020) (v1.1) (Fabf) (Aftermarket)">
+		<category>MSX</category>
+		<description>Find It! (2020) (v1.1) (Fabf) (Aftermarket)</description>
+		<rom name="Find It! (2020) (v1.1) (Fabf) (Aftermarket).rom" size="16384" crc="28ffe6c0" md5="9e7d36c4bf2bf721ef5bfde4e11a5316" sha1="86eafcb009d5733b75b47a54c80310f1f6d92147"/>
+		<url>https://retroachievements.org/game/34532/hashes</url>
+		<hash>9e7d36c4bf2bf721ef5bfde4e11a5316</hash>
 	</game>
 	
 	<game name="Homebrew/Flappy Bird (2014) (Crunchworks) (Aftermarket)">
@@ -542,6 +550,21 @@
 		<rom name="1942 (Japan) (Alt).rom" size="131072" crc="e54ee601" md5="61ecf8cf74e340691e584afee719a66e" sha1="da397e783d677d1a78fff222d9d6cb48b915dada"/>
 		<url>https://retroachievements.org/game/33969/hashes</url>
 		<hash>61ecf8cf74e340691e584afee719a66e</hash>
+	</game>
+	
+	<game name="Retail/Adventure of Randar/Randar (1989) (Compile) (Japan)">
+		<category>MSX2</category>
+		<description>Randar (1989) (Compile) (Japan)</description>
+		<rom name="Randar (1989) (Compile) (Japan).rom" size="737280" crc="4baea838" md5="227a4a048c676ed602d2bcd2f7a2954f" sha1="f01ea5b68a82ec06435520055c2f57562b66f053"/>
+		<url>https://retroachievements.org/game/27631/hashes</url>
+		<hash>c87b75029bec477a114354177346bcbd</hash>
+	</game>
+	<game name="Retail/Adventure of Randar/Adventure of Randar (Japan) (En) (v2003) (Sargon)">
+		<category>MSX2</category>
+		<description>Adventure of Randar (Japan) (En) (v2003) (Sargon)</description>
+		<rom name="Adventure of Randar (Japan) (En) (v2003) (Sargon).rom" size="737280" crc="9797ce48" md5="0164108447e64616dac9b082256dd941" sha1="4f35370c32bafd3c3e812c2ce9a80b50077c45c1"/>
+		<url>https://retroachievements.org/game/27631/hashes</url>
+		<hash>0164108447e64616dac9b082256dd941</hash>
 	</game>
 	
 	<game name="Retail/Aleste/Aleste (Japan) (Alt)">

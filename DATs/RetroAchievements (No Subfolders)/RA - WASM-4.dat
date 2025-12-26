@@ -5,8 +5,8 @@
 		<name>RA - WASM-4</name>
 		<description>WASM-4</description>
 		<category>No Subfolders</category>
-		<version>20251116</version>
-		<date>16 November 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/72/games</url>
@@ -315,6 +315,15 @@
 		<hash>3370a22853130e7d7790e851e36b45c2</hash>
 	</game>
 	
+	<game name="Pixel vs Zombies (World) (Vitor Lorençone)">
+		<category>Retail</category>
+		<description>Pixel vs Zombies (World) (Vitor Lorençone)</description>
+		<release name="Pixel vs Zombies (World) (Vitor Lorençone)" region="World"/>
+		<rom name="Pixel vs Zombies (World) (Vitor Lorençone).wasm" size="24290" crc="ca1f83ba" md5="973c5e969ba18229376ebe6e8420fe56" sha1="46dd9cd3c47acc745849b76934792851393306fb"/>
+		<url>https://retroachievements.org/game/34384/hashes</url>
+		<hash>973c5e969ba18229376ebe6e8420fe56</hash>
+	</game>
+	
 	<game name="Plctfarmer (World) (Proto) (pfg)">
 		<category>Retail</category>
 		<description>Plctfarmer (World) (Proto) (pfg)</description>
@@ -349,6 +358,15 @@
 		<rom name="Punch-Em-Up (World) (Louis Pearson).wasm" size="34671" crc="3b73f50d" md5="053d4b372253533561f51573564472af" sha1="1c51036909740344221b877350d5740eb467fe51"/>
 		<url>https://retroachievements.org/game/25680/hashes</url>
 		<hash>053d4b372253533561f51573564472af</hash>
+	</game>
+	
+	<game name="Racer (World) (v0.6) (Claudio Mattera)">
+		<category>Retail</category>
+		<description>Racer (World) (v0.6) (Claudio Mattera)</description>
+		<release name="Racer (World) (v0.6) (Claudio Mattera)" region="World"/>
+		<rom name="Racer (World) (v0.6) (Claudio Mattera).wasm" size="39123" crc="d5b9f675" md5="ddc6ce5c7624c1ff33537faef8ddae0e" sha1="56aeb77b595b0941347ac9e401806225b10a8209"/>
+		<url>https://retroachievements.org/game/27644/hashes</url>
+		<hash>ddc6ce5c7624c1ff33537faef8ddae0e</hash>
 	</game>
 	
 	<game name="Rolly Dango (World) (William Gulmont-Martin)">

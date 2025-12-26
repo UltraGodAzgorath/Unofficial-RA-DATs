@@ -5,8 +5,8 @@
 		<name>RA - Arcade</name>
 		<description>Arcade</description>
 		<category>Subfolders</category>
-		<version>20251116</version>
-		<date>16 November 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/27/games</url>
@@ -1622,6 +1622,91 @@
 		<hash>32d0f9f324c6861605e0f948c2b68be6</hash>
 	</game>
 	
+	<game name="Retail/ASO - Armored Scrum Object/arian">
+		<description>Arian Mission</description>
+		<category>FBNeo</category>
+		<rom name="p1.8d" size="16384" crc="0ca89307"/>
+		<rom name="p2.7d" size="16384" crc="724518c3"/>
+		<rom name="p3.5d" size="16384" crc="4d8db650"/>
+		<rom name="p4.3d" size="16384" crc="47baf1db"/>
+		<rom name="p5.2d" size="16384" crc="9879e506"/>
+		<rom name="p6.1d" size="16384" crc="c0bfdf1f"/>
+		<rom name="p7.4f" size="16384" crc="dbc19736"/>
+		<rom name="p8.3f" size="16384" crc="537726a9"/>
+		<rom name="p9.2f" size="16384" crc="aef5a4f4"/>
+		<rom name="p14.1h" size="8192" crc="e599bd30"/>
+		<rom name="p10.14h" size="32768" crc="00dff996"/>
+		<rom name="p11.11h" size="32768" crc="7feac86c"/>
+		<rom name="p12.9h" size="32768" crc="6895990b"/>
+		<rom name="p13.8h" size="32768" crc="87a81ce1"/>
+		<rom name="mb7122h.12f" size="1024" crc="5b0a0059"/>
+		<rom name="mb7122h.13f" size="1024" crc="37e28dd8"/>
+		<rom name="mb7122h.14f" size="1024" crc="c3fd1dd3"/>
+		<rom name="pal16l8a-1.bin" size="260" crc="4e3f9e0d"/>
+		<rom name="pal16l8a-2.bin" size="260" crc="2a681f9e"/>
+		<rom name="pal16r6a.15b" size="260" crc="59c03681"/>
+		<video type="raster" orientation="vertical" width="216" height="288" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/11973/hashes</url>
+		<hash>1061bb40ea99675d095192c6ea8f9f54</hash>
+	</game>
+	<game name="Retail/ASO - Armored Scrum Object/alphamis">
+		<description>Alpha Mission</description>
+		<category>FBNeo</category>
+		<rom name="p1.8d" size="16384" crc="69af874b"/>
+		<rom name="p2.7d" size="16384" crc="7707bfe3"/>
+		<rom name="p3.5d" size="16384" crc="b970d642"/>
+		<rom name="p4.3d" size="16384" crc="91a89d3c"/>
+		<rom name="p5.2d" size="16384" crc="9879e506"/>
+		<rom name="p6.1d" size="16384" crc="c0bfdf1f"/>
+		<rom name="p7.4f" size="16384" crc="dbc19736"/>
+		<rom name="p8.3f" size="16384" crc="537726a9"/>
+		<rom name="p9.2f" size="16384" crc="aef5a4f4"/>
+		<rom name="p14.1h" size="8192" crc="acbe29b2"/>
+		<rom name="p10.14h" size="32768" crc="00dff996"/>
+		<rom name="p11.11h" size="32768" crc="7feac86c"/>
+		<rom name="p12.9h" size="32768" crc="6895990b"/>
+		<rom name="p13.8h" size="32768" crc="87a81ce1"/>
+		<rom name="mb7122h.12f" size="1024" crc="5b0a0059"/>
+		<rom name="mb7122h.13f" size="1024" crc="37e28dd8"/>
+		<rom name="mb7122h.14f" size="1024" crc="c3fd1dd3"/>
+		<rom name="pal16l8a-1.bin" size="260" crc="4e3f9e0d"/>
+		<rom name="pal16l8a-2.bin" size="260" crc="2a681f9e"/>
+		<rom name="pal16r6a.15b" size="260" crc="59c03681"/>
+		<video type="raster" orientation="vertical" width="216" height="288" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/11973/hashes</url>
+		<hash>70e84b059c577f9523c0a25aa8046ad9</hash>
+	</game>
+	<game name="Retail/ASO - Armored Scrum Object/aso">
+		<description>ASO - Armored Scrum Object</description>
+		<category>FBNeo</category>
+		<rom name="p1.8d" size="16384" crc="84981f3c"/>
+		<rom name="p2.7d" size="16384" crc="cfe912a6"/>
+		<rom name="p3.5d" size="16384" crc="39a666d2"/>
+		<rom name="p4.3d" size="16384" crc="a4122355"/>
+		<rom name="p5.2d" size="16384" crc="9879e506"/>
+		<rom name="p6.1d" size="16384" crc="c0bfdf1f"/>
+		<rom name="p7.4f" size="16384" crc="dbc19736"/>
+		<rom name="p8.3f" size="16384" crc="537726a9"/>
+		<rom name="p9.2f" size="16384" crc="aef5a4f4"/>
+		<rom name="p14.1h" size="8192" crc="8baa2253"/>
+		<rom name="p10.14h" size="32768" crc="00dff996"/>
+		<rom name="p11.11h" size="32768" crc="7feac86c"/>
+		<rom name="p12.9h" size="32768" crc="6895990b"/>
+		<rom name="p13.8h" size="32768" crc="87a81ce1"/>
+		<rom name="mb7122h.12f" size="1024" crc="5b0a0059"/>
+		<rom name="mb7122h.13f" size="1024" crc="37e28dd8"/>
+		<rom name="mb7122h.14f" size="1024" crc="c3fd1dd3"/>
+		<rom name="pal16l8a-1.bin" size="260" crc="4e3f9e0d"/>
+		<rom name="pal16l8a-2.bin" size="260" crc="2a681f9e"/>
+		<rom name="pal16r6a.15b" size="260" crc="59c03681"/>
+		<video type="raster" orientation="vertical" width="216" height="288" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/11973/hashes</url>
+		<hash>d77e52c972dd92c6fa6934ab5641d10c</hash>
+	</game>
+	
 	<game name="Retail/Altered Beast/altbeast2">
 		<description>Altered Beast (set 2) (MC-8123B 317-0066)</description>
 		<category>FBNeo</category>
@@ -2174,91 +2259,6 @@
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/12664/hashes</url>
 		<hash>6311bda4830fadfb4cb19bb64e0aaabc</hash>
-	</game>
-	
-	<game name="Retail/ASO - Armored Scrum Object/arian">
-		<description>Arian Mission</description>
-		<category>FBNeo</category>
-		<rom name="p1.8d" size="16384" crc="0ca89307"/>
-		<rom name="p2.7d" size="16384" crc="724518c3"/>
-		<rom name="p3.5d" size="16384" crc="4d8db650"/>
-		<rom name="p4.3d" size="16384" crc="47baf1db"/>
-		<rom name="p5.2d" size="16384" crc="9879e506"/>
-		<rom name="p6.1d" size="16384" crc="c0bfdf1f"/>
-		<rom name="p7.4f" size="16384" crc="dbc19736"/>
-		<rom name="p8.3f" size="16384" crc="537726a9"/>
-		<rom name="p9.2f" size="16384" crc="aef5a4f4"/>
-		<rom name="p14.1h" size="8192" crc="e599bd30"/>
-		<rom name="p10.14h" size="32768" crc="00dff996"/>
-		<rom name="p11.11h" size="32768" crc="7feac86c"/>
-		<rom name="p12.9h" size="32768" crc="6895990b"/>
-		<rom name="p13.8h" size="32768" crc="87a81ce1"/>
-		<rom name="mb7122h.12f" size="1024" crc="5b0a0059"/>
-		<rom name="mb7122h.13f" size="1024" crc="37e28dd8"/>
-		<rom name="mb7122h.14f" size="1024" crc="c3fd1dd3"/>
-		<rom name="pal16l8a-1.bin" size="260" crc="4e3f9e0d"/>
-		<rom name="pal16l8a-2.bin" size="260" crc="2a681f9e"/>
-		<rom name="pal16r6a.15b" size="260" crc="59c03681"/>
-		<video type="raster" orientation="vertical" width="216" height="288" aspectx="3" aspecty="4"/>
-		<driver status="good"/>
-		<url>https://retroachievements.org/game/11973/hashes</url>
-		<hash>1061bb40ea99675d095192c6ea8f9f54</hash>
-	</game>
-	<game name="Retail/ASO - Armored Scrum Object/alphamis">
-		<description>Alpha Mission</description>
-		<category>FBNeo</category>
-		<rom name="p1.8d" size="16384" crc="69af874b"/>
-		<rom name="p2.7d" size="16384" crc="7707bfe3"/>
-		<rom name="p3.5d" size="16384" crc="b970d642"/>
-		<rom name="p4.3d" size="16384" crc="91a89d3c"/>
-		<rom name="p5.2d" size="16384" crc="9879e506"/>
-		<rom name="p6.1d" size="16384" crc="c0bfdf1f"/>
-		<rom name="p7.4f" size="16384" crc="dbc19736"/>
-		<rom name="p8.3f" size="16384" crc="537726a9"/>
-		<rom name="p9.2f" size="16384" crc="aef5a4f4"/>
-		<rom name="p14.1h" size="8192" crc="acbe29b2"/>
-		<rom name="p10.14h" size="32768" crc="00dff996"/>
-		<rom name="p11.11h" size="32768" crc="7feac86c"/>
-		<rom name="p12.9h" size="32768" crc="6895990b"/>
-		<rom name="p13.8h" size="32768" crc="87a81ce1"/>
-		<rom name="mb7122h.12f" size="1024" crc="5b0a0059"/>
-		<rom name="mb7122h.13f" size="1024" crc="37e28dd8"/>
-		<rom name="mb7122h.14f" size="1024" crc="c3fd1dd3"/>
-		<rom name="pal16l8a-1.bin" size="260" crc="4e3f9e0d"/>
-		<rom name="pal16l8a-2.bin" size="260" crc="2a681f9e"/>
-		<rom name="pal16r6a.15b" size="260" crc="59c03681"/>
-		<video type="raster" orientation="vertical" width="216" height="288" aspectx="3" aspecty="4"/>
-		<driver status="good"/>
-		<url>https://retroachievements.org/game/11973/hashes</url>
-		<hash>70e84b059c577f9523c0a25aa8046ad9</hash>
-	</game>
-	<game name="Retail/ASO - Armored Scrum Object/aso">
-		<description>ASO - Armored Scrum Object</description>
-		<category>FBNeo</category>
-		<rom name="p1.8d" size="16384" crc="84981f3c"/>
-		<rom name="p2.7d" size="16384" crc="cfe912a6"/>
-		<rom name="p3.5d" size="16384" crc="39a666d2"/>
-		<rom name="p4.3d" size="16384" crc="a4122355"/>
-		<rom name="p5.2d" size="16384" crc="9879e506"/>
-		<rom name="p6.1d" size="16384" crc="c0bfdf1f"/>
-		<rom name="p7.4f" size="16384" crc="dbc19736"/>
-		<rom name="p8.3f" size="16384" crc="537726a9"/>
-		<rom name="p9.2f" size="16384" crc="aef5a4f4"/>
-		<rom name="p14.1h" size="8192" crc="8baa2253"/>
-		<rom name="p10.14h" size="32768" crc="00dff996"/>
-		<rom name="p11.11h" size="32768" crc="7feac86c"/>
-		<rom name="p12.9h" size="32768" crc="6895990b"/>
-		<rom name="p13.8h" size="32768" crc="87a81ce1"/>
-		<rom name="mb7122h.12f" size="1024" crc="5b0a0059"/>
-		<rom name="mb7122h.13f" size="1024" crc="37e28dd8"/>
-		<rom name="mb7122h.14f" size="1024" crc="c3fd1dd3"/>
-		<rom name="pal16l8a-1.bin" size="260" crc="4e3f9e0d"/>
-		<rom name="pal16l8a-2.bin" size="260" crc="2a681f9e"/>
-		<rom name="pal16r6a.15b" size="260" crc="59c03681"/>
-		<video type="raster" orientation="vertical" width="216" height="288" aspectx="3" aspecty="4"/>
-		<driver status="good"/>
-		<url>https://retroachievements.org/game/11973/hashes</url>
-		<hash>d77e52c972dd92c6fa6934ab5641d10c</hash>
 	</game>
 	
 	<game name="Retail/Asterix/asterixeac">
@@ -2894,6 +2894,24 @@
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/15000/hashes</url>
 		<hash>ec0e2603172c73a8b644bb9456c1ff6e</hash>
+	</game>
+	
+	<game name="Retail/batsugunsp">
+		<description>Batsugun - Special Version</description>
+		<category>FBNeo</category>
+		<rom name="tp-030sp.u69" size="524288" crc="8072a0cd"/>
+		<rom name="tp030_3l.bin" size="1048576" crc="3024b793"/>
+		<rom name="tp030_3h.bin" size="1048576" crc="ed75730b"/>
+		<rom name="tp030_4l.bin" size="1048576" crc="fedb9861"/>
+		<rom name="tp030_4h.bin" size="1048576" crc="d482948b"/>
+		<rom name="tp030_5.bin" size="1048576" crc="bcf5ba05"/>
+		<rom name="tp030_6.bin" size="1048576" crc="0666fecd"/>
+		<rom name="tp030_2.bin" size="262144" crc="276146f5"/>
+		<rom name="tp030_u19_gal16v8b-15.bin" size="279" crc="f71669e8"/>
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12591/hashes</url>
+		<hash>eb576ce06bd962aa3f7f72f745a491e4</hash>
 	</game>
 	
 	<game name="Retail/batcir">
@@ -5061,6 +5079,48 @@
 		<hash>a83f0f76c2afad4f5d7260824430b798</hash>
 	</game>
 	
+	<game name="Retail/cookbib">
+		<description>Cookie &amp; Bibi (set 1)</description>
+		<category>FBNeo</category>
+		<release name="cookbib" region="World"/>
+		<rom name="prg2.ub17" size="131072" crc="2664a335"/>
+		<rom name="prg1.ub16" size="131072" crc="cda6335f"/>
+		<rom name="prg-s.ub5" size="65536" crc="547d6ea3"/>
+		<rom name="protdata.bin" size="512" crc="a77d13f4"/>
+		<rom name="srom5.bin" size="262144" crc="73a46e43"/>
+		<rom name="srom6.bin" size="262144" crc="ade2dbec"/>
+		<rom name="uor1.bin" size="131072" crc="a7d91f23"/>
+		<rom name="uor2.bin" size="131072" crc="9aacbec2"/>
+		<rom name="uor3.bin" size="131072" crc="3fee0c3c"/>
+		<rom name="uor4.bin" size="131072" crc="bed9ed2d"/>
+		<rom name="sound.uc1" size="131072" crc="545e19b6"/>
+		<rom name="87c52.mcu" size="65536" status="nodump"/>
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12581/hashes</url>
+		<hash>1a68eeede4748e5f00f26e2955b174b7</hash>
+	</game>
+	<game name="Retail/cookbiba">
+		<description>Cookie &amp; Bibi (set 2)</description>
+		<category>FBNeo</category>
+		<rom name="d14.u817" size="131072" crc="0021349f"/>
+		<rom name="d13.u818" size="131072" crc="19c75b1f"/>
+		<rom name="d12.ub5" size="65536" crc="0a16e0b4"/>
+		<rom name="cookbiba_protdata.bin" size="512" crc="7f05b832"/>
+		<rom name="srom5.bin" size="262144" crc="73a46e43"/>
+		<rom name="srom6.bin" size="262144" crc="ade2dbec"/>
+		<rom name="d17.uor1" size="131072" crc="2fab7c2d"/>
+		<rom name="d18.uor2" size="131072" crc="341750a0"/>
+		<rom name="d19.uor3" size="131072" crc="343d2e41"/>
+		<rom name="d20.uor4" size="131072" crc="c35cc03d"/>
+		<rom name="sound.uc1" size="131072" crc="545e19b6"/>
+		<rom name="87c52.mcu" size="65536" status="nodump"/>
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12581/hashes</url>
+		<hash>f5e6c6f20f43dccba7bb01f4f14e49e7</hash>
+	</game>
+	
 	<game name="Retail/cotton">
 		<description>Cotton (set 4, World) (FD1094 317-0181a)</description>
 		<category>FBNeo</category>
@@ -5378,6 +5438,74 @@
 		<hash>90a624f1f9653941eba3b8589f75c041</hash>
 	</game>
 	
+	<game name="Retail/dariusg">
+		<description>Darius Gaiden - Silver Hawk (Ver 2.5O 1994/09/19)</description>
+		<category>FBNeo</category>
+		<release name="dariusg" region="World"/>
+		<rom name="d87-12.bin" size="524288" crc="de78f328"/>
+		<rom name="d87-11.bin" size="524288" crc="f7bed18e"/>
+		<rom name="d87-10.bin" size="524288" crc="4149f66f"/>
+		<rom name="d87-16.bin" size="524288" crc="8f7e5901"/>
+		<rom name="d87-03.bin" size="2097152" crc="4be1666e"/>
+		<rom name="d87-04.bin" size="2097152" crc="2616002c"/>
+		<rom name="d87-05.bin" size="2097152" crc="4e5891a9"/>
+		<rom name="d87-06.bin" size="2097152" crc="3b97a07c"/>
+		<rom name="d87-17.bin" size="2097152" crc="e601d63e"/>
+		<rom name="d87-08.bin" size="2097152" crc="76d23602"/>
+		<rom name="d87-13.bin" size="262144" crc="15b1fff4"/>
+		<rom name="d87-14.bin" size="262144" crc="eecda29a"/>
+		<rom name="d87-01.bin" size="2097152" crc="3848a110"/>
+		<rom name="d87-02.bin" size="2097152" crc="9250abae"/>
+		<video type="raster" orientation="horizontal" width="320" height="232" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12076/hashes</url>
+		<hash>0bcf46bb45ce206dd7fb32fb8fc400a5</hash>
+	</game>
+	<game name="Retail/dariusgu">
+		<description>Darius Gaiden - Silver Hawk (Ver 2.5A 1994/09/19)</description>
+		<category>FBNeo</category>
+		<rom name="d87-12.bin" size="524288" crc="de78f328"/>
+		<rom name="d87-11.bin" size="524288" crc="f7bed18e"/>
+		<rom name="d87-10.bin" size="524288" crc="4149f66f"/>
+		<rom name="d87-15.bin" size="524288" crc="f8796997"/>
+		<rom name="d87-03.bin" size="2097152" crc="4be1666e"/>
+		<rom name="d87-04.bin" size="2097152" crc="2616002c"/>
+		<rom name="d87-05.bin" size="2097152" crc="4e5891a9"/>
+		<rom name="d87-06.bin" size="2097152" crc="3b97a07c"/>
+		<rom name="d87-17.bin" size="2097152" crc="e601d63e"/>
+		<rom name="d87-08.bin" size="2097152" crc="76d23602"/>
+		<rom name="d87-13.bin" size="262144" crc="15b1fff4"/>
+		<rom name="d87-14.bin" size="262144" crc="eecda29a"/>
+		<rom name="d87-01.bin" size="2097152" crc="3848a110"/>
+		<rom name="d87-02.bin" size="2097152" crc="9250abae"/>
+		<video type="raster" orientation="horizontal" width="320" height="232" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12076/hashes</url>
+		<hash>1a80fc344526b04325db74c021ce34f4</hash>
+	</game>
+	<game name="Retail/dariusgj">
+		<description>Darius Gaiden - Silver Hawk (Ver 2.5J 1994/09/19)</description>
+		<category>FBNeo</category>
+		<rom name="d87-12.bin" size="524288" crc="de78f328"/>
+		<rom name="d87-11.bin" size="524288" crc="f7bed18e"/>
+		<rom name="d87-10.bin" size="524288" crc="4149f66f"/>
+		<rom name="d87-09.bin" size="524288" crc="6170382d"/>
+		<rom name="d87-03.bin" size="2097152" crc="4be1666e"/>
+		<rom name="d87-04.bin" size="2097152" crc="2616002c"/>
+		<rom name="d87-05.bin" size="2097152" crc="4e5891a9"/>
+		<rom name="d87-06.bin" size="2097152" crc="3b97a07c"/>
+		<rom name="d87-17.bin" size="2097152" crc="e601d63e"/>
+		<rom name="d87-08.bin" size="2097152" crc="76d23602"/>
+		<rom name="d87-13.bin" size="262144" crc="15b1fff4"/>
+		<rom name="d87-14.bin" size="262144" crc="eecda29a"/>
+		<rom name="d87-01.bin" size="2097152" crc="3848a110"/>
+		<rom name="d87-02.bin" size="2097152" crc="9250abae"/>
+		<video type="raster" orientation="horizontal" width="320" height="232" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12076/hashes</url>
+		<hash>c41a7383877548437af91a9d2f99c45f</hash>
+	</game>
+	
 	<game name="Retail/Dark Seal/darkseal">
 		<description>Dark Seal (World revision 3)</description>
 		<category>FBNeo</category>
@@ -5419,6 +5547,37 @@
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/12077/hashes</url>
 		<hash>f9328b039873c877f41042257086a9d1</hash>
+	</game>
+	
+	<game name="Retail/wizdfire">
+		<description>Wizard Fire (Over Sea v2.1)</description>
+		<category>FBNeo</category>
+		<rom name="je-01.3d" size="131072" crc="b6d62367"/>
+		<rom name="je-00.3a" size="131072" crc="f33de278"/>
+		<rom name="je-03.5d" size="131072" crc="5217d404"/>
+		<rom name="je-02.5a" size="131072" crc="36a1ce28"/>
+		<rom name="mas13" size="524288" crc="7e5256ce"/>
+		<rom name="mas12" size="524288" crc="005bd499"/>
+		<rom name="je-06.20r" size="65536" crc="79042546"/>
+		<rom name="je-04.10d" size="65536" crc="73cba800"/>
+		<rom name="je-05.12d" size="65536" crc="22e2c49d"/>
+		<rom name="mas00" size="1048576" crc="3d011034"/>
+		<rom name="mas01" size="1048576" crc="6d0c9d0b"/>
+		<rom name="mas02" size="524288" crc="af00e620"/>
+		<rom name="mas03" size="524288" crc="2fe61ea2"/>
+		<rom name="mas04" size="1048576" crc="1e56953b"/>
+		<rom name="mas05" size="1048576" crc="3826b8f8"/>
+		<rom name="mas06" size="1048576" crc="3b8bbd45"/>
+		<rom name="mas07" size="1048576" crc="31303769"/>
+		<rom name="mas08" size="524288" crc="e224fb7a"/>
+		<rom name="mas09" size="524288" crc="5f6deb41"/>
+		<rom name="mas10" size="1048576" crc="f4b4c8a1"/>
+		<rom name="mas11" size="524288" crc="c2f0a4f2"/>
+		<rom name="mb7122h.16l" size="1024" crc="2bee57cc"/>
+		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/11890/hashes</url>
+		<hash>844337b3335affd9a63e101b9e949694</hash>
 	</game>
 	
 	<game name="Retail/Darkstalkers - The Night Warriors/dstlk">
@@ -7220,6 +7379,67 @@
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/12139/hashes</url>
 		<hash>e88b34d7b5e2d8277f1fa97e9a647fba</hash>
+	</game>
+	
+	<game name="Retail/galaxyfg">
+		<description>Galaxy Fight - Universal Warriors</description>
+		<category>FBNeo</category>
+		<rom name="078-p1.p1" size="2097152" crc="45906309"/>
+		<rom name="078-s1.s1" size="131072" crc="72f8923e"/>
+		<rom name="078-c1.c1" size="2097152" crc="c890c7c0"/>
+		<rom name="078-c2.c2" size="2097152" crc="b6d25419"/>
+		<rom name="078-c3.c3" size="2097152" crc="9d87e761"/>
+		<rom name="078-c4.c4" size="2097152" crc="765d7cb8"/>
+		<rom name="078-c5.c5" size="2097152" crc="e6b77e6a"/>
+		<rom name="078-c6.c6" size="2097152" crc="d779a181"/>
+		<rom name="078-c7.c7" size="1048576" crc="4f27d580"/>
+		<rom name="078-c8.c8" size="1048576" crc="0a7cc0d8"/>
+		<rom name="078-m1.m1" size="131072" crc="8e9e3b10"/>
+		<rom name="078-v1.v1" size="2097152" crc="e3b735ac"/>
+		<rom name="078-v2.v2" size="2097152" crc="6a8e78c2"/>
+		<rom name="078-v3.v3" size="1048576" crc="70bca656"/>
+		<rom name="sp-s3.sp1" size="131072" crc="91b64be3"/>
+		<rom name="sp-s2.sp1" size="131072" crc="9036d879"/>
+		<rom name="sp-s.sp1" size="131072" crc="c7f2fa45"/>
+		<rom name="sp-u2.sp1" size="131072" crc="e72943de"/>
+		<rom name="sp1-u2" size="131072" crc="62f021f4"/>
+		<rom name="sp-e.sp1" size="131072" crc="2723a5b5"/>
+		<rom name="sp1-u4.bin" size="131072" crc="1179a30f"/>
+		<rom name="sp1-u3.bin" size="131072" crc="2025b7a2"/>
+		<rom name="vs-bios.rom" size="131072" crc="f0e8f27d"/>
+		<rom name="sp-j2.sp1" size="131072" crc="acede59c"/>
+		<rom name="sp1.jipan.1024" size="131072" crc="9fb0abe4"/>
+		<rom name="sp-45.sp1" size="524288" crc="03cc9f6a"/>
+		<rom name="sp-j3.sp1" size="524288" crc="486cb450"/>
+		<rom name="japan-j3.bin" size="131072" crc="dff6d41f"/>
+		<rom name="sp1-j3.bin" size="131072" crc="fbc6d469"/>
+		<rom name="neo-po.bin" size="131072" crc="16d0c132"/>
+		<rom name="neo-epo.bin" size="131072" crc="d27a71f1"/>
+		<rom name="neodebug.bin" size="131072" crc="698ebb7d"/>
+		<rom name="sp-1v1_3db8c.bin" size="131072" crc="162f0ebe"/>
+		<rom name="uni-bios_4_0.rom" size="131072" crc="a7aab458"/>
+		<rom name="uni-bios_3_3.rom" size="131072" crc="24858466"/>
+		<rom name="uni-bios_3_2.rom" size="131072" crc="a4e8b9b3"/>
+		<rom name="uni-bios_3_1.rom" size="131072" crc="0c58093f"/>
+		<rom name="uni-bios_3_0.rom" size="131072" crc="a97c89a9"/>
+		<rom name="uni-bios_2_3.rom" size="131072" crc="27664eb5"/>
+		<rom name="uni-bios_2_3o.rom" size="131072" crc="601720ae"/>
+		<rom name="uni-bios_2_2.rom" size="131072" crc="2d50996a"/>
+		<rom name="uni-bios_2_1.rom" size="131072" crc="8dabf76b"/>
+		<rom name="uni-bios_2_0.rom" size="131072" crc="0c12c2ad"/>
+		<rom name="uni-bios_1_3.rom" size="131072" crc="b24b44a0"/>
+		<rom name="uni-bios_1_2.rom" size="131072" crc="4fa698e9"/>
+		<rom name="uni-bios_1_2o.rom" size="131072" crc="e19d3ce9"/>
+		<rom name="uni-bios_1_1.rom" size="131072" crc="5dda0d84"/>
+		<rom name="uni-bios_1_0.rom" size="131072" crc="0ce453a0"/>
+		<rom name="neopen.sp1" size="131072" crc="cb915e76"/>
+		<rom name="sm1.sm1" size="131072" crc="94416d67"/>
+		<rom name="sfix.sfix" size="131072" crc="c2ea0cfd"/>
+		<rom name="000-lo.lo" size="131072" crc="5a86cff2"/>
+		<video type="raster" orientation="horizontal" width="304" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/13778/hashes</url>
+		<hash>abb7d5e98313243a659518c407f0c59a</hash>
 	</game>
 	
 	<game name="Retail/galpans3">
@@ -9575,6 +9795,28 @@
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/17419/hashes</url>
 		<hash>1cde3e3b392366b5fd5129d245c8b109</hash>
+	</game>
+	
+	<game name="Retail/ladybug">
+		<description>Lady Bug</description>
+		<category>FBNeo</category>
+		<rom name="l1.c4" size="4096" crc="d09e0adb"/>
+		<rom name="l2.d4" size="4096" crc="88bc4a0a"/>
+		<rom name="l3.e4" size="4096" crc="53e9efce"/>
+		<rom name="l4.h4" size="4096" crc="ffc424d7"/>
+		<rom name="l5.j4" size="4096" crc="ad6af809"/>
+		<rom name="l6.k4" size="4096" crc="cf1acca4"/>
+		<rom name="l9.f7" size="4096" crc="77b1da1e"/>
+		<rom name="l0.h7" size="4096" crc="aa82e00b"/>
+		<rom name="l8.l7" size="4096" crc="8b99910b"/>
+		<rom name="l7.m7" size="4096" crc="86a5b448"/>
+		<rom name="10-2.k1" size="32" crc="df091e52"/>
+		<rom name="10-1.f4" size="32" crc="40640d8f"/>
+		<rom name="10-3.c4" size="32" crc="27fa3a50"/>
+		<video type="raster" orientation="vertical" width="196" height="240" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12199/hashes</url>
+		<hash>7eef7295c50d70615433858746056bca</hash>
 	</game>
 	
 	<game name="Retail/Last Resort/lresortp">
@@ -13717,6 +13959,200 @@
 		<hash>8b848a152ad86d9fec34c7c291c66858</hash>
 	</game>
 	
+	<game name="Retail/powerins">
+		<description>Power Instinct (USA)</description>
+		<category>FBNeo</category>
+		<rom name="93095-3a.u108" size="524288" crc="9825ea3d"/>
+		<rom name="93095-4.u109" size="524288" crc="d3d7a782"/>
+		<rom name="93095-2.u90" size="131072" crc="4b123cc6"/>
+		<rom name="93095-5.u16" size="1048576" crc="b1371808"/>
+		<rom name="93095-6.u17" size="1048576" crc="29c85d80"/>
+		<rom name="93095-7.u18" size="524288" crc="2dd76149"/>
+		<rom name="93095-1.u15" size="131072" crc="6a579ee0"/>
+		<rom name="93095-12.u116" size="1048576" crc="35f3c2a3"/>
+		<rom name="93095-13.u117" size="1048576" crc="1ebd45da"/>
+		<rom name="93095-14.u118" size="1048576" crc="760d871b"/>
+		<rom name="93095-15.u119" size="1048576" crc="d011be88"/>
+		<rom name="93095-16.u120" size="1048576" crc="a9c16c9c"/>
+		<rom name="93095-17.u121" size="1048576" crc="51b57288"/>
+		<rom name="93095-18.u122" size="1048576" crc="b135e3f2"/>
+		<rom name="93095-19.u123" size="1048576" crc="67695537"/>
+		<rom name="93095-10.u48" size="1048576" crc="329ac6c5"/>
+		<rom name="93095-11.u49" size="1048576" crc="75d6097c"/>
+		<rom name="93095-8.u46" size="1048576" crc="f019bedb"/>
+		<rom name="93095-9.u47" size="1048576" crc="adc83765"/>
+		<rom name="22.u81" size="32" crc="67d5ec4b"/>
+		<rom name="21.u71" size="256" crc="182cd81f"/>
+		<rom name="20.u54" size="256" crc="38bd0e2f"/>
+		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12341/hashes</url>
+		<hash>9f5c99c44c69a3610465b0d6517e7975</hash>
+	</game>
+	<game name="Retail/powerinsj">
+		<description>Gouketsuji Ichizoku (Japan)</description>
+		<category>FBNeo</category>
+		<rom name="93095-3j.u108" size="524288" crc="3050a3fb"/>
+		<rom name="93095-4.u109" size="524288" crc="d3d7a782"/>
+		<rom name="93095-2.u90" size="131072" crc="4b123cc6"/>
+		<rom name="93095-5.u16" size="1048576" crc="b1371808"/>
+		<rom name="93095-6.u17" size="1048576" crc="29c85d80"/>
+		<rom name="93095-7.u18" size="524288" crc="2dd76149"/>
+		<rom name="93095-1.u15" size="131072" crc="6a579ee0"/>
+		<rom name="93095-12.u116" size="1048576" crc="35f3c2a3"/>
+		<rom name="93095-13.u117" size="1048576" crc="1ebd45da"/>
+		<rom name="93095-14.u118" size="1048576" crc="760d871b"/>
+		<rom name="93095-15.u119" size="1048576" crc="d011be88"/>
+		<rom name="93095-16.u120" size="1048576" crc="a9c16c9c"/>
+		<rom name="93095-17.u121" size="1048576" crc="51b57288"/>
+		<rom name="93095-18.u122" size="1048576" crc="b135e3f2"/>
+		<rom name="93095-19.u123" size="1048576" crc="67695537"/>
+		<rom name="93095-10.u48" size="1048576" crc="329ac6c5"/>
+		<rom name="93095-11.u49" size="1048576" crc="75d6097c"/>
+		<rom name="93095-8.u46" size="1048576" crc="f019bedb"/>
+		<rom name="93095-9.u47" size="1048576" crc="adc83765"/>
+		<rom name="22.u81" size="32" crc="67d5ec4b"/>
+		<rom name="21.u71" size="256" crc="182cd81f"/>
+		<rom name="20.u54" size="256" crc="38bd0e2f"/>
+		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12341/hashes</url>
+		<hash>a252015d094cfaf25aaed55990cf7817</hash>
+	</game>
+	<game name="Retail/powernbr">
+		<comment>Hack, Portuguese translation</comment>
+		<description>Power Instinct (Brasil, v1.0, Hack)</description>
+		<category>FBNeo</category>
+		<rom name="93095-3br.u108" size="524288" crc="522e776a"/>
+		<rom name="93095-4.u109" size="524288" crc="d3d7a782"/>
+		<rom name="93095-2.u90" size="131072" crc="4b123cc6"/>
+		<rom name="93095-5.u16" size="1048576" crc="b1371808"/>
+		<rom name="93095-6br.u17" size="1048576" crc="4a7a6bd8"/>
+		<rom name="93095-7.u18" size="524288" crc="2dd76149"/>
+		<rom name="93095-1br.u15" size="131072" crc="7e73e1d8"/>
+		<rom name="93095-12.u116" size="1048576" crc="35f3c2a3"/>
+		<rom name="93095-13.u117" size="1048576" crc="1ebd45da"/>
+		<rom name="93095-14.u118" size="1048576" crc="760d871b"/>
+		<rom name="93095-15.u119" size="1048576" crc="d011be88"/>
+		<rom name="93095-16.u120" size="1048576" crc="a9c16c9c"/>
+		<rom name="93095-17.u121" size="1048576" crc="51b57288"/>
+		<rom name="93095-18.u122" size="1048576" crc="b135e3f2"/>
+		<rom name="93095-19.u123" size="1048576" crc="67695537"/>
+		<rom name="93095-10.u48" size="1048576" crc="329ac6c5"/>
+		<rom name="93095-11.u49" size="1048576" crc="75d6097c"/>
+		<rom name="93095-8.u46" size="1048576" crc="f019bedb"/>
+		<rom name="93095-9.u47" size="1048576" crc="adc83765"/>
+		<rom name="22.u81" size="32" crc="67d5ec4b"/>
+		<rom name="21.u71" size="256" crc="182cd81f"/>
+		<rom name="20.u54" size="256" crc="38bd0e2f"/>
+		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12341/hashes</url>
+		<hash>ee3db990c74c130c458eff3d4bec125e</hash>
+	</game>
+	
+	<machine name="Retail/pstone">
+		<description>Power Stone</description>
+		<category>Flycast</category>
+		<biosset name="bios0" description="epr-21576h (Japan)"/>
+		<biosset name="bios1" description="epr-21576g (Japan)"/>
+		<biosset name="bios2" description="epr-21576e (Japan)"/>
+		<biosset name="bios3" description="epr-21576d (Japan)"/>
+		<biosset name="bios4" description="epr-21576c (Japan)"/>
+		<biosset name="bios5" description="epr-21576b (Japan)"/>
+		<biosset name="bios6" description="epr-21576a (Japan)"/>
+		<biosset name="bios7" description="epr-21576 (Japan)"/>
+		<biosset name="bios8" description="epr-21578h (Export)"/>
+		<biosset name="bios9" description="epr-21578g (Export)"/>
+		<biosset name="bios10" description="epr-21578f (Export)"/>
+		<biosset name="bios11" description="epr-21578e (Export)"/>
+		<biosset name="bios12" description="epr-21578d (Export)"/>
+		<biosset name="bios13" description="epr-21578a (Export)"/>
+		<biosset name="bios14" description="epr-21577h (USA)"/>
+		<biosset name="bios15" description="epr-21577g (USA)"/>
+		<biosset name="bios16" description="epr-21577e (USA)"/>
+		<biosset name="bios17" description="epr-21577d (USA)"/>
+		<biosset name="bios18" description="epr-21577a (USA)"/>
+		<biosset name="bios19" description="epr-21579d (Korea)"/>
+		<biosset name="bios20" description="epr-21579 (Korea)"/>
+		<biosset name="bios21" description="Set4 Dev BIOS"/>
+		<biosset name="bios22" description="Dev BIOS v1.10"/>
+		<biosset name="bios23" description="Dev BIOS (Nov 1998)"/>
+		<biosset name="bios24" description="Development ROM Board"/>
+		<biosset name="bios25" description="epr-21576h (multi-region hack)"/>
+		<biosset name="bios26" description="Dev BIOS v1.2"/>
+		<biosset name="bios27" description="Dev Naomi Boot 2491"/>
+		<biosset name="bios28" description="epr-21580a (Australia)"/>
+		<rom name="315-6188.ic31" size="8244" crc="7c9fea46" sha1="f77c07ae65dfed18c1c4c632c8945be21d02ddaf"/>
+		<rom name="boot_rom_64b8.ic606" size="524288" crc="7a50fab9" sha1="ef79f448e0bf735d1264ad4f051d24178822110f"/>
+		<rom name="develop.ic27" size="2097152" crc="309a196a" sha1="409b50371feb648f10efd6b7ac420bf08d9a3b5a"/>
+		<rom name="develop110.ic27" size="2097152" crc="de7cfdb0" sha1="da16800edc4d49f70481c124d487f544c2fa8ce7"/>
+		<rom name="epr-21336a.ic27" size="2097152" crc="d3d57af8" sha1="0eb72c2a20ad8b86d442b77760eab5e89521d469" status="baddump"/>
+		<rom name="epr-21576.ic27" size="2097152" crc="9dad3495" sha1="5fb66f9a2b68d120f059c72758e65d34f461044a"/>
+		<rom name="epr-21576a.ic27" size="2097152" crc="cedfe439" sha1="f27798bf3d890863ef0c1d9dcb4e7782249dca27"/>
+		<rom name="epr-21576b.ic27" size="2097152" crc="755a6e07" sha1="7e8b8ccfc063144d89668e7224dcd8a36c54f3b3"/>
+		<rom name="epr-21576c.ic27" size="2097152" crc="4599ad13" sha1="7e730e9452a792d76f210c33a955d385538682c7" status="baddump"/>
+		<rom name="epr-21576d.ic27" size="2097152" crc="3b2afa7b" sha1="d007e1d321c198a38c5baff86eb2ab84385d150a"/>
+		<rom name="epr-21576e.ic27" size="2097152" crc="08c0add7" sha1="e7c1a7673cb2ccb21748ef44105e46d1bad7266d"/>
+		<rom name="epr-21576g.ic27" size="2097152" crc="d2a1c6bf" sha1="6d27d71aec4dfba98f66316ae74a1426d567698a"/>
+		<rom name="epr-21576h.ic27" size="2097152" crc="d4895685" sha1="91424d481ff99a8d3f4c45cea6d3f0eada049a6d"/>
+		<rom name="epr-21576h_multi.ic27" size="2097152" crc="cce01f1f" sha1="cca17119ad13e3a4ef7cb6902a37b65d6a844aee"/>
+		<rom name="epr-21577a.ic27" size="2097152" crc="969dc491" sha1="581d1eae328b87b67508a7586ffc60cee256f70f"/>
+		<rom name="epr-21577d.ic27" size="2097152" crc="60ddcbbe" sha1="58b15096d269d6df617ca1810b66b47deb184958"/>
+		<rom name="epr-21577e.ic27" size="2097152" crc="cf36e97b" sha1="b085305982e7572e58b03a9d35f17ae319c3bbc6"/>
+		<rom name="epr-21577g.ic27" size="2097152" crc="25f64af7" sha1="99f9e6cc0642319bd2da492611220540add573e8"/>
+		<rom name="epr-21577h.ic27" size="2097152" crc="fdf17452" sha1="5f3e4b677f0046ce690a4f096b0481e5dd8bb6e6"/>
+		<rom name="epr-21578a.ic27" size="2097152" crc="6c9aad83" sha1="555918de76d8dbee2a97d8a95297ef694b3e803f"/>
+		<rom name="epr-21578d.ic27" size="2097152" crc="dfd5f42a" sha1="614a0db4743a5e5a206190d6786ade24325afbfd"/>
+		<rom name="epr-21578e.ic27" size="2097152" crc="087f09a3" sha1="0418eb2cf9766f0b1b874a4e92528779e22c0a4a"/>
+		<rom name="epr-21578f.ic27" size="2097152" crc="628a27fd" sha1="dae7add616b1a2478f00608823e88c3b82a0e78f"/>
+		<rom name="epr-21578g.ic27" size="2097152" crc="55413214" sha1="bd2748365a9fc1821c9369aa7155d7c41c4df43e"/>
+		<rom name="epr-21578h.ic27" size="2097152" crc="7b452946" sha1="8e9f153bbada24b37066dc45b64a7bf0d4f26a9b"/>
+		<rom name="epr-21579.ic27" size="2097152" crc="71f9c918" sha1="d15af8b947f41eea7c203b565cd403e3f37a2017"/>
+		<rom name="epr-21579d.ic27" size="2097152" crc="33513691" sha1="b1d8c7c516e1471a788fcf7a02a794ad2f05aeeb"/>
+		<rom name="epr-21580a.ic27" size="2097152" crc="46dbe90f" sha1="822b2ea8e254ea3ce66f0ea67e80a8c7e1125ec9"/>
+		<rom name="epr-21597.ic22" size="2097152" crc="62c7acc0" sha1="bb61641a7f3650757132cde379447bdc9bd91c78"/>
+		<rom name="main_eeprom.bin" size="128" crc="fea29cbb" sha1="4099f1747aafa07db34f6e072cd9bfaa83bae10e"/>
+		<rom name="mpr-21589.ic1" size="8388608" crc="2fa66608" sha1="144bda75f892a1e4dbd8332439e9e44fad1d0695"/>
+		<rom name="mpr-21590.ic2" size="8388608" crc="6341b399" sha1="d123b6a3eb7c4800950cc5849d748b0edafabc7d"/>
+		<rom name="mpr-21591.ic3" size="8388608" crc="7f2d99aa" sha1="00f9ae67be0d7229c37479b6dc0ed5816035fd98"/>
+		<rom name="mpr-21592.ic4" size="8388608" crc="6ebe3b25" sha1="c7dec77d55b0fcf1d230311b24553581a90a7d22"/>
+		<rom name="mpr-21593.ic5" size="8388608" crc="84366f3e" sha1="c61985f627813db2e16182e437ab4a69d5253c9f"/>
+		<rom name="mpr-21594.ic6" size="8388608" crc="ddfa0467" sha1="e758eae50035d5f18d99dbed728513e306d9566f"/>
+		<rom name="mpr-21595.ic7" size="8388608" crc="7ab218f7" sha1="c5c022e63f926cce09d49331647cde20e8e42ab3"/>
+		<rom name="mpr-21596.ic8" size="8388608" crc="f27dbdc5" sha1="d54717d62897546968de2f049239f68bee49bdd8"/>
+		<rom name="naomi_boot_2491.ic27" size="2097152" crc="5b28f868" sha1="d101f58c69d9835e87a969688e43dc9b699b89d0"/>
+		<rom name="x76f100_eeprom.bin" size="132" crc="3ea24b6a" sha1="3a730ebcf56e0060fef6b1b02eb2eb7cfb7e61dc"/>
+		<rom name="zukinver0930.ic25" size="2097152" crc="58e17c23" sha1="19330f906accf1b859f56bbcedc2edff73747599"/>
+		<device_ref name="sh7091"/>
+		<device_ref name="timer"/>
+		<device_ref name="dc_g2if"/>
+		<device_ref name="arm7_le"/>
+		<device_ref name="maple_dc"/>
+		<device_ref name="screen"/>
+		<device_ref name="powervr2"/>
+		<device_ref name="speaker"/>
+		<device_ref name="aica"/>
+		<device_ref name="aicartc"/>
+		<device_ref name="93c46_16"/>
+		<device_ref name="mie"/>
+		<device_ref name="z80"/>
+		<device_ref name="mie_jvs"/>
+		<device_ref name="jvs13551"/>
+		<device_ref name="tmp90ph44"/>
+		<device_ref name="93c46_8"/>
+		<device_ref name="x76f100"/>
+		<device_ref name="m3comm"/>
+		<device_ref name="m68000"/>
+		<device_ref name="ram"/>
+		<device_ref name="nvram"/>
+		<device_ref name="naomi_m2_board"/>
+		<device_ref name="sega315_5881"/>
+		<driver status="preliminary"/>
+		<url>https://retroachievements.org/game/28666/hashes</url>
+		<hash>c4e93e077549ca2ae6804f9bc97d856c</hash>
+	</machine>
+	
 	<game name="Retail/preisle2">
 		<description>Prehistoric Isle 2</description>
 		<category>FBNeo</category>
@@ -15631,6 +16067,31 @@
 		<hash>1a5235c012c18789e81960333a76cd7a</hash>
 	</game>
 	
+	<game name="Retail/roadf">
+		<description>Road Fighter (set 1)</description>
+		<category>FBNeo</category>
+		<rom name="g05_g01.bin" size="8192" crc="e2492a06"/>
+		<rom name="g07_f02.bin" size="8192" crc="0bf75165"/>
+		<rom name="g09_g03.bin" size="8192" crc="dde401f8"/>
+		<rom name="g11_f04.bin" size="8192" crc="b1283c77"/>
+		<rom name="g13_f05.bin" size="8192" crc="0ad4d796"/>
+		<rom name="g15_f06.bin" size="8192" crc="fa42e0ed"/>
+		<rom name="a17_d10.bin" size="8192" crc="c33c927e"/>
+		<rom name="j19_e14.bin" size="16384" crc="16d2bcff"/>
+		<rom name="g19_e18.bin" size="16384" crc="490685ff"/>
+		<rom name="a14_e26.bin" size="16384" crc="f5c738e2"/>
+		<rom name="a12_d24.bin" size="8192" crc="2d82c930"/>
+		<rom name="c14_e22.bin" size="16384" crc="fbcfbeb9"/>
+		<rom name="c12_d20.bin" size="8192" crc="5e0cf994"/>
+		<rom name="c03_c27.bin" size="32" crc="45d5e352"/>
+		<rom name="j12_c28.bin" size="256" crc="2955e01f"/>
+		<rom name="a09_c29.bin" size="256" crc="5b3b5f2a"/>
+		<video type="raster" orientation="vertical" width="224" height="256" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12365/hashes</url>
+		<hash>a8a5d7ef0adbe978a3b1179ef6d0533b</hash>
+	</game>
+	
 	<game name="Retail/Robo Army/roboarmy">
 		<description>Robo Army</description>
 		<category>FBNeo</category>
@@ -16600,6 +17061,45 @@
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/11773/hashes</url>
 		<hash>f02ef978fd0ec8736cbb7e2b3c9d96b9</hash>
+	</game>
+	
+	<game name="Retail/Tengai/tengai">
+		<description>Tengai (World)</description>
+		<category>FBNeo</category>
+		<rom name="5-u40.bin" size="524288" crc="90088195"/>
+		<rom name="4-u41.bin" size="524288" crc="0d53196c"/>
+		<rom name="u20.bin" size="2097152" crc="ed42ef73"/>
+		<rom name="u22.bin" size="2097152" crc="8d21caee"/>
+		<rom name="u21.bin" size="2097152" crc="efe34eed"/>
+		<rom name="u1.bin" size="262144" crc="681d7d55"/>
+		<rom name="u34.bin" size="4194304" crc="2a2e2eeb"/>
+		<rom name="1-u63.bin" size="131072" crc="2025e387"/>
+		<rom name="u61.bin" size="2097152" crc="a63633c5"/>
+		<rom name="u62.bin" size="2097152" crc="3ad0c357"/>
+		<rom name="4.u59" size="4096" crc="e563b054"/>
+		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/13853/hashes</url>
+		<hash>22fdc9c5a205d18516d3782ae8c40a8a</hash>
+	</game>
+	<game name="Retail/Tengai/tengaij">
+		<description>Sengoku Blade: Sengoku Ace Episode II (Japan) / Tengai (World)</description>
+		<category>FBNeo</category>
+		<rom name="2-u40.bin" size="524288" crc="ab6fe58a"/>
+		<rom name="3-u41.bin" size="524288" crc="02e42e39"/>
+		<rom name="u20.bin" size="2097152" crc="ed42ef73"/>
+		<rom name="u22.bin" size="2097152" crc="8d21caee"/>
+		<rom name="u21.bin" size="2097152" crc="efe34eed"/>
+		<rom name="u1.bin" size="262144" crc="681d7d55"/>
+		<rom name="u34.bin" size="4194304" crc="2a2e2eeb"/>
+		<rom name="1-u63.bin" size="131072" crc="2025e387"/>
+		<rom name="u61.bin" size="2097152" crc="a63633c5"/>
+		<rom name="u62.bin" size="2097152" crc="3ad0c357"/>
+		<rom name="4.u59" size="4096" crc="e563b054"/>
+		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/13853/hashes</url>
+		<hash>d9991d73b73d6d5834b222330377b7cf</hash>
 	</game>
 	
 	<game name="Retail/shinobi">
@@ -19956,45 +20456,6 @@
 		<hash>6ad8536215968eb1f3494143392c77bf</hash>
 	</game>
 	
-	<game name="Retail/Tengai/tengai">
-		<description>Tengai (World)</description>
-		<category>FBNeo</category>
-		<rom name="5-u40.bin" size="524288" crc="90088195"/>
-		<rom name="4-u41.bin" size="524288" crc="0d53196c"/>
-		<rom name="u20.bin" size="2097152" crc="ed42ef73"/>
-		<rom name="u22.bin" size="2097152" crc="8d21caee"/>
-		<rom name="u21.bin" size="2097152" crc="efe34eed"/>
-		<rom name="u1.bin" size="262144" crc="681d7d55"/>
-		<rom name="u34.bin" size="4194304" crc="2a2e2eeb"/>
-		<rom name="1-u63.bin" size="131072" crc="2025e387"/>
-		<rom name="u61.bin" size="2097152" crc="a63633c5"/>
-		<rom name="u62.bin" size="2097152" crc="3ad0c357"/>
-		<rom name="4.u59" size="4096" crc="e563b054"/>
-		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-		<url>https://retroachievements.org/game/13853/hashes</url>
-		<hash>22fdc9c5a205d18516d3782ae8c40a8a</hash>
-	</game>
-	<game name="Retail/Tengai/tengaij">
-		<description>Sengoku Blade: Sengoku Ace Episode II (Japan) / Tengai (World)</description>
-		<category>FBNeo</category>
-		<rom name="2-u40.bin" size="524288" crc="ab6fe58a"/>
-		<rom name="3-u41.bin" size="524288" crc="02e42e39"/>
-		<rom name="u20.bin" size="2097152" crc="ed42ef73"/>
-		<rom name="u22.bin" size="2097152" crc="8d21caee"/>
-		<rom name="u21.bin" size="2097152" crc="efe34eed"/>
-		<rom name="u1.bin" size="262144" crc="681d7d55"/>
-		<rom name="u34.bin" size="4194304" crc="2a2e2eeb"/>
-		<rom name="1-u63.bin" size="131072" crc="2025e387"/>
-		<rom name="u61.bin" size="2097152" crc="a63633c5"/>
-		<rom name="u62.bin" size="2097152" crc="3ad0c357"/>
-		<rom name="4.u59" size="4096" crc="e563b054"/>
-		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-		<url>https://retroachievements.org/game/13853/hashes</url>
-		<hash>d9991d73b73d6d5834b222330377b7cf</hash>
-	</game>
-	
 	<game name="Retail/tetrisp">
 		<description>Tetris Plus (ver 1.0)</description>
 		<category>FBNeo</category>
@@ -20933,193 +21394,6 @@
 		<hash>41696af24fbacad34d1c9bd451e72f2f</hash>
 	</game>
 	
-	<game name="Retail/The King of Fighters '98/kof98k">
-		<description>The King of Fighters '98 - The Slugfest / King of Fighters '98 - Dream Match Never Ends (Korean board, set 1)</description>
-		<category>FBNeo</category>
-		<rom name="242-p1.p1" size="2097152" crc="8893df89"/>
-		<rom name="242-p2.sp2" size="4194304" crc="980aba4c"/>
-		<rom name="242-s1.s1" size="131072" crc="7f7b4805"/>
-		<rom name="242-c1.c1" size="8388608" crc="e564ecd6"/>
-		<rom name="242-c2.c2" size="8388608" crc="bd959b60"/>
-		<rom name="242-c3.c3" size="8388608" crc="22127b4f"/>
-		<rom name="242-c4.c4" size="8388608" crc="0b4fa044"/>
-		<rom name="242-c5.c5" size="8388608" crc="9d10bed3"/>
-		<rom name="242-c6.c6" size="8388608" crc="da07b6a2"/>
-		<rom name="242-c7.c7" size="8388608" crc="f6d7a38a"/>
-		<rom name="242-c8.c8" size="8388608" crc="c823e045"/>
-		<rom name="242-m1k.m1" size="262144" crc="ce12da0c"/>
-		<rom name="242-v1.v1" size="4194304" crc="b9ea8051"/>
-		<rom name="242-v2.v2" size="4194304" crc="cc11106e"/>
-		<rom name="242-v3.v3" size="4194304" crc="044ea4e1"/>
-		<rom name="242-v4.v4" size="4194304" crc="7985ea30"/>
-		<rom name="sp-s3.sp1" size="131072" crc="91b64be3"/>
-		<rom name="sp-s2.sp1" size="131072" crc="9036d879"/>
-		<rom name="sp-s.sp1" size="131072" crc="c7f2fa45"/>
-		<rom name="sp-u2.sp1" size="131072" crc="e72943de"/>
-		<rom name="sp1-u2" size="131072" crc="62f021f4"/>
-		<rom name="sp-e.sp1" size="131072" crc="2723a5b5"/>
-		<rom name="sp1-u4.bin" size="131072" crc="1179a30f"/>
-		<rom name="sp1-u3.bin" size="131072" crc="2025b7a2"/>
-		<rom name="vs-bios.rom" size="131072" crc="f0e8f27d"/>
-		<rom name="sp-j2.sp1" size="131072" crc="acede59c"/>
-		<rom name="sp1.jipan.1024" size="131072" crc="9fb0abe4"/>
-		<rom name="sp-45.sp1" size="524288" crc="03cc9f6a"/>
-		<rom name="sp-j3.sp1" size="524288" crc="486cb450"/>
-		<rom name="japan-j3.bin" size="131072" crc="dff6d41f"/>
-		<rom name="sp1-j3.bin" size="131072" crc="fbc6d469"/>
-		<rom name="neo-po.bin" size="131072" crc="16d0c132"/>
-		<rom name="neo-epo.bin" size="131072" crc="d27a71f1"/>
-		<rom name="neodebug.bin" size="131072" crc="698ebb7d"/>
-		<rom name="sp-1v1 3db8c.bin" size="131072" crc="162f0ebe"/>
-		<rom name="uni-bios 4 0.rom" size="131072" crc="a7aab458"/>
-		<rom name="uni-bios 3 3.rom" size="131072" crc="24858466"/>
-		<rom name="uni-bios 3 2.rom" size="131072" crc="a4e8b9b3"/>
-		<rom name="uni-bios 3 1.rom" size="131072" crc="0c58093f"/>
-		<rom name="uni-bios 3 0.rom" size="131072" crc="a97c89a9"/>
-		<rom name="uni-bios 2 3.rom" size="131072" crc="27664eb5"/>
-		<rom name="uni-bios 2 3o.rom" size="131072" crc="601720ae"/>
-		<rom name="uni-bios 2 2.rom" size="131072" crc="2d50996a"/>
-		<rom name="uni-bios 2 1.rom" size="131072" crc="8dabf76b"/>
-		<rom name="uni-bios 2 0.rom" size="131072" crc="0c12c2ad"/>
-		<rom name="uni-bios 1 3.rom" size="131072" crc="b24b44a0"/>
-		<rom name="uni-bios 1 2.rom" size="131072" crc="4fa698e9"/>
-		<rom name="uni-bios 1 2o.rom" size="131072" crc="e19d3ce9"/>
-		<rom name="uni-bios 1 1.rom" size="131072" crc="5dda0d84"/>
-		<rom name="uni-bios 1 0.rom" size="131072" crc="0ce453a0"/>
-		<rom name="neopen.sp1" size="131072" crc="cb915e76"/>
-		<rom name="sm1.sm1" size="131072" crc="94416d67"/>
-		<rom name="sfix.sfix" size="131072" crc="c2ea0cfd"/>
-		<rom name="000-lo.lo" size="131072" crc="5a86cff2"/>
-		<video type="raster" orientation="horizontal" width="304" height="224" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-		<url>https://retroachievements.org/game/11757/hashes</url>
-		<hash>13e4ced9b848a542cdee1ec31a150a1a</hash>
-	</game>
-	<game name="Retail/The King of Fighters '98/kof98a">
-		<description>The King of Fighters '98 - The Slugfest / King of Fighters '98 - Dream Match Never Ends (NGM-2420, alt board)</description>
-		<category>FBNeo</category>
-		<rom name="242-p1.p1" size="2097152" crc="8893df89"/>
-		<rom name="242-ep1.ep1" size="2097152" crc="3f74a000"/>
-		<rom name="242-ep2.ep2" size="2097152" crc="6e474841"/>
-		<rom name="242-s1.s1" size="131072" crc="7f7b4805"/>
-		<rom name="242-c1.c1" size="8388608" crc="e564ecd6"/>
-		<rom name="242-c2.c2" size="8388608" crc="bd959b60"/>
-		<rom name="242-c3.c3" size="8388608" crc="22127b4f"/>
-		<rom name="242-c4.c4" size="8388608" crc="0b4fa044"/>
-		<rom name="242-c5.c5" size="8388608" crc="9d10bed3"/>
-		<rom name="242-c6.c6" size="8388608" crc="da07b6a2"/>
-		<rom name="242-c7.c7" size="8388608" crc="f6d7a38a"/>
-		<rom name="242-c8.c8" size="8388608" crc="c823e045"/>
-		<rom name="242-m1.m1" size="262144" crc="4ef7016b"/>
-		<rom name="242-v1.v1" size="4194304" crc="b9ea8051"/>
-		<rom name="242-v2.v2" size="4194304" crc="cc11106e"/>
-		<rom name="242-v3.v3" size="4194304" crc="044ea4e1"/>
-		<rom name="242-v4.v4" size="4194304" crc="7985ea30"/>
-		<rom name="sp-s3.sp1" size="131072" crc="91b64be3"/>
-		<rom name="sp-s2.sp1" size="131072" crc="9036d879"/>
-		<rom name="sp-s.sp1" size="131072" crc="c7f2fa45"/>
-		<rom name="sp-u2.sp1" size="131072" crc="e72943de"/>
-		<rom name="sp1-u2" size="131072" crc="62f021f4"/>
-		<rom name="sp-e.sp1" size="131072" crc="2723a5b5"/>
-		<rom name="sp1-u4.bin" size="131072" crc="1179a30f"/>
-		<rom name="sp1-u3.bin" size="131072" crc="2025b7a2"/>
-		<rom name="vs-bios.rom" size="131072" crc="f0e8f27d"/>
-		<rom name="sp-j2.sp1" size="131072" crc="acede59c"/>
-		<rom name="sp1.jipan.1024" size="131072" crc="9fb0abe4"/>
-		<rom name="sp-45.sp1" size="524288" crc="03cc9f6a"/>
-		<rom name="sp-j3.sp1" size="524288" crc="486cb450"/>
-		<rom name="japan-j3.bin" size="131072" crc="dff6d41f"/>
-		<rom name="sp1-j3.bin" size="131072" crc="fbc6d469"/>
-		<rom name="neo-po.bin" size="131072" crc="16d0c132"/>
-		<rom name="neo-epo.bin" size="131072" crc="d27a71f1"/>
-		<rom name="neodebug.bin" size="131072" crc="698ebb7d"/>
-		<rom name="sp-1v1 3db8c.bin" size="131072" crc="162f0ebe"/>
-		<rom name="uni-bios 4 0.rom" size="131072" crc="a7aab458"/>
-		<rom name="uni-bios 3 3.rom" size="131072" crc="24858466"/>
-		<rom name="uni-bios 3 2.rom" size="131072" crc="a4e8b9b3"/>
-		<rom name="uni-bios 3 1.rom" size="131072" crc="0c58093f"/>
-		<rom name="uni-bios 3 0.rom" size="131072" crc="a97c89a9"/>
-		<rom name="uni-bios 2 3.rom" size="131072" crc="27664eb5"/>
-		<rom name="uni-bios 2 3o.rom" size="131072" crc="601720ae"/>
-		<rom name="uni-bios 2 2.rom" size="131072" crc="2d50996a"/>
-		<rom name="uni-bios 2 1.rom" size="131072" crc="8dabf76b"/>
-		<rom name="uni-bios 2 0.rom" size="131072" crc="0c12c2ad"/>
-		<rom name="uni-bios 1 3.rom" size="131072" crc="b24b44a0"/>
-		<rom name="uni-bios 1 2.rom" size="131072" crc="4fa698e9"/>
-		<rom name="uni-bios 1 2o.rom" size="131072" crc="e19d3ce9"/>
-		<rom name="uni-bios 1 1.rom" size="131072" crc="5dda0d84"/>
-		<rom name="uni-bios 1 0.rom" size="131072" crc="0ce453a0"/>
-		<rom name="neopen.sp1" size="131072" crc="cb915e76"/>
-		<rom name="sm1.sm1" size="131072" crc="94416d67"/>
-		<rom name="sfix.sfix" size="131072" crc="c2ea0cfd"/>
-		<rom name="000-lo.lo" size="131072" crc="5a86cff2"/>
-		<video type="raster" orientation="horizontal" width="304" height="224" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-		<url>https://retroachievements.org/game/11757/hashes</url>
-		<hash>28bf131945d07b8709e07645ce6bada5</hash>
-	</game>
-	<game name="Retail/The King of Fighters '98/kof98ka">
-		<description>The King of Fighters '98 - The Slugfest / King of Fighters '98 - Dream Match Never Ends (Korean board, set 2)</description>
-		<category>FBNeo</category>
-		<rom name="242-p1.p1" size="2097152" crc="8893df89"/>
-		<rom name="242-p2.sp2" size="4194304" crc="980aba4c"/>
-		<rom name="242-s1.s1" size="131072" crc="7f7b4805"/>
-		<rom name="242-c1.c1" size="8388608" crc="e564ecd6"/>
-		<rom name="242-c2.c2" size="8388608" crc="bd959b60"/>
-		<rom name="242-c3.c3" size="8388608" crc="22127b4f"/>
-		<rom name="242-c4.c4" size="8388608" crc="0b4fa044"/>
-		<rom name="242-c5.c5" size="8388608" crc="9d10bed3"/>
-		<rom name="242-c6.c6" size="8388608" crc="da07b6a2"/>
-		<rom name="242-c7.c7" size="8388608" crc="f6d7a38a"/>
-		<rom name="242-c8.c8" size="8388608" crc="c823e045"/>
-		<rom name="242-mg1k.m1" size="262144" crc="ce9fb07c"/>
-		<rom name="242-v1.v1" size="4194304" crc="b9ea8051"/>
-		<rom name="242-v2.v2" size="4194304" crc="cc11106e"/>
-		<rom name="242-v3.v3" size="4194304" crc="044ea4e1"/>
-		<rom name="242-v4.v4" size="4194304" crc="7985ea30"/>
-		<rom name="sp-s3.sp1" size="131072" crc="91b64be3"/>
-		<rom name="sp-s2.sp1" size="131072" crc="9036d879"/>
-		<rom name="sp-s.sp1" size="131072" crc="c7f2fa45"/>
-		<rom name="sp-u2.sp1" size="131072" crc="e72943de"/>
-		<rom name="sp1-u2" size="131072" crc="62f021f4"/>
-		<rom name="sp-e.sp1" size="131072" crc="2723a5b5"/>
-		<rom name="sp1-u4.bin" size="131072" crc="1179a30f"/>
-		<rom name="sp1-u3.bin" size="131072" crc="2025b7a2"/>
-		<rom name="vs-bios.rom" size="131072" crc="f0e8f27d"/>
-		<rom name="sp-j2.sp1" size="131072" crc="acede59c"/>
-		<rom name="sp1.jipan.1024" size="131072" crc="9fb0abe4"/>
-		<rom name="sp-45.sp1" size="524288" crc="03cc9f6a"/>
-		<rom name="sp-j3.sp1" size="524288" crc="486cb450"/>
-		<rom name="japan-j3.bin" size="131072" crc="dff6d41f"/>
-		<rom name="sp1-j3.bin" size="131072" crc="fbc6d469"/>
-		<rom name="neo-po.bin" size="131072" crc="16d0c132"/>
-		<rom name="neo-epo.bin" size="131072" crc="d27a71f1"/>
-		<rom name="neodebug.bin" size="131072" crc="698ebb7d"/>
-		<rom name="sp-1v1 3db8c.bin" size="131072" crc="162f0ebe"/>
-		<rom name="uni-bios 4 0.rom" size="131072" crc="a7aab458"/>
-		<rom name="uni-bios 3 3.rom" size="131072" crc="24858466"/>
-		<rom name="uni-bios 3 2.rom" size="131072" crc="a4e8b9b3"/>
-		<rom name="uni-bios 3 1.rom" size="131072" crc="0c58093f"/>
-		<rom name="uni-bios 3 0.rom" size="131072" crc="a97c89a9"/>
-		<rom name="uni-bios 2 3.rom" size="131072" crc="27664eb5"/>
-		<rom name="uni-bios 2 3o.rom" size="131072" crc="601720ae"/>
-		<rom name="uni-bios 2 2.rom" size="131072" crc="2d50996a"/>
-		<rom name="uni-bios 2 1.rom" size="131072" crc="8dabf76b"/>
-		<rom name="uni-bios 2 0.rom" size="131072" crc="0c12c2ad"/>
-		<rom name="uni-bios 1 3.rom" size="131072" crc="b24b44a0"/>
-		<rom name="uni-bios 1 2.rom" size="131072" crc="4fa698e9"/>
-		<rom name="uni-bios 1 2o.rom" size="131072" crc="e19d3ce9"/>
-		<rom name="uni-bios 1 1.rom" size="131072" crc="5dda0d84"/>
-		<rom name="uni-bios 1 0.rom" size="131072" crc="0ce453a0"/>
-		<rom name="neopen.sp1" size="131072" crc="cb915e76"/>
-		<rom name="sm1.sm1" size="131072" crc="94416d67"/>
-		<rom name="sfix.sfix" size="131072" crc="c2ea0cfd"/>
-		<rom name="000-lo.lo" size="131072" crc="5a86cff2"/>
-		<video type="raster" orientation="horizontal" width="304" height="224" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-		<url>https://retroachievements.org/game/11757/hashes</url>
-		<hash>a33726f35cbcf7fc44b0fecc2e4c3d2f</hash>
-	</game>
 	<game name="Retail/The King of Fighters '98/kof98">
 		<description>The King of Fighters '98 - The Slugfest / King of Fighters '98 - Dream Match Never Ends (NGM-2420)</description>
 		<category>FBNeo</category>
@@ -21181,68 +21455,6 @@
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/11757/hashes</url>
 		<hash>c0959b94e46f1811952055be7f59cba6</hash>
-	</game>
-	<game name="Retail/The King of Fighters '98/kof98h">
-		<description>The King of Fighters '98 - The Slugfest / King of Fighters '98 - Dream Match Never Ends (NGH-2420)</description>
-		<category>FBNeo</category>
-		<rom name="242-pn1.p1" size="1048576" crc="61ac868a"/>
-		<rom name="242-p2.sp2" size="4194304" crc="980aba4c"/>
-		<rom name="242-s1.s1" size="131072" crc="7f7b4805"/>
-		<rom name="242-c1.c1" size="8388608" crc="e564ecd6"/>
-		<rom name="242-c2.c2" size="8388608" crc="bd959b60"/>
-		<rom name="242-c3.c3" size="8388608" crc="22127b4f"/>
-		<rom name="242-c4.c4" size="8388608" crc="0b4fa044"/>
-		<rom name="242-c5.c5" size="8388608" crc="9d10bed3"/>
-		<rom name="242-c6.c6" size="8388608" crc="da07b6a2"/>
-		<rom name="242-c7.c7" size="8388608" crc="f6d7a38a"/>
-		<rom name="242-c8.c8" size="8388608" crc="c823e045"/>
-		<rom name="242-mg1.m1" size="262144" crc="4e7a6b1b"/>
-		<rom name="242-v1.v1" size="4194304" crc="b9ea8051"/>
-		<rom name="242-v2.v2" size="4194304" crc="cc11106e"/>
-		<rom name="242-v3.v3" size="4194304" crc="044ea4e1"/>
-		<rom name="242-v4.v4" size="4194304" crc="7985ea30"/>
-		<rom name="sp-s3.sp1" size="131072" crc="91b64be3"/>
-		<rom name="sp-s2.sp1" size="131072" crc="9036d879"/>
-		<rom name="sp-s.sp1" size="131072" crc="c7f2fa45"/>
-		<rom name="sp-u2.sp1" size="131072" crc="e72943de"/>
-		<rom name="sp1-u2" size="131072" crc="62f021f4"/>
-		<rom name="sp-e.sp1" size="131072" crc="2723a5b5"/>
-		<rom name="sp1-u4.bin" size="131072" crc="1179a30f"/>
-		<rom name="sp1-u3.bin" size="131072" crc="2025b7a2"/>
-		<rom name="vs-bios.rom" size="131072" crc="f0e8f27d"/>
-		<rom name="sp-j2.sp1" size="131072" crc="acede59c"/>
-		<rom name="sp1.jipan.1024" size="131072" crc="9fb0abe4"/>
-		<rom name="sp-45.sp1" size="524288" crc="03cc9f6a"/>
-		<rom name="sp-j3.sp1" size="524288" crc="486cb450"/>
-		<rom name="japan-j3.bin" size="131072" crc="dff6d41f"/>
-		<rom name="sp1-j3.bin" size="131072" crc="fbc6d469"/>
-		<rom name="neo-po.bin" size="131072" crc="16d0c132"/>
-		<rom name="neo-epo.bin" size="131072" crc="d27a71f1"/>
-		<rom name="neodebug.bin" size="131072" crc="698ebb7d"/>
-		<rom name="sp-1v1 3db8c.bin" size="131072" crc="162f0ebe"/>
-		<rom name="uni-bios 4 0.rom" size="131072" crc="a7aab458"/>
-		<rom name="uni-bios 3 3.rom" size="131072" crc="24858466"/>
-		<rom name="uni-bios 3 2.rom" size="131072" crc="a4e8b9b3"/>
-		<rom name="uni-bios 3 1.rom" size="131072" crc="0c58093f"/>
-		<rom name="uni-bios 3 0.rom" size="131072" crc="a97c89a9"/>
-		<rom name="uni-bios 2 3.rom" size="131072" crc="27664eb5"/>
-		<rom name="uni-bios 2 3o.rom" size="131072" crc="601720ae"/>
-		<rom name="uni-bios 2 2.rom" size="131072" crc="2d50996a"/>
-		<rom name="uni-bios 2 1.rom" size="131072" crc="8dabf76b"/>
-		<rom name="uni-bios 2 0.rom" size="131072" crc="0c12c2ad"/>
-		<rom name="uni-bios 1 3.rom" size="131072" crc="b24b44a0"/>
-		<rom name="uni-bios 1 2.rom" size="131072" crc="4fa698e9"/>
-		<rom name="uni-bios 1 2o.rom" size="131072" crc="e19d3ce9"/>
-		<rom name="uni-bios 1 1.rom" size="131072" crc="5dda0d84"/>
-		<rom name="uni-bios 1 0.rom" size="131072" crc="0ce453a0"/>
-		<rom name="neopen.sp1" size="131072" crc="cb915e76"/>
-		<rom name="sm1.sm1" size="131072" crc="94416d67"/>
-		<rom name="sfix.sfix" size="131072" crc="c2ea0cfd"/>
-		<rom name="000-lo.lo" size="131072" crc="5a86cff2"/>
-		<video type="raster" orientation="horizontal" width="304" height="224" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-		<url>https://retroachievements.org/game/11757/hashes</url>
-		<hash>f1afe8fcd96d1e72afc826d4a1b4cd62</hash>
 	</game>
 	
 	<game name="Retail/The King of Fighters '99/kof99h">
@@ -23607,37 +23819,6 @@
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/11860/hashes</url>
 		<hash>c9a5750db3e5f76e917e153dc097e738</hash>
-	</game>
-	
-	<game name="Retail/wizdfire">
-		<description>Wizard Fire (Over Sea v2.1)</description>
-		<category>FBNeo</category>
-		<rom name="je-01.3d" size="131072" crc="b6d62367"/>
-		<rom name="je-00.3a" size="131072" crc="f33de278"/>
-		<rom name="je-03.5d" size="131072" crc="5217d404"/>
-		<rom name="je-02.5a" size="131072" crc="36a1ce28"/>
-		<rom name="mas13" size="524288" crc="7e5256ce"/>
-		<rom name="mas12" size="524288" crc="005bd499"/>
-		<rom name="je-06.20r" size="65536" crc="79042546"/>
-		<rom name="je-04.10d" size="65536" crc="73cba800"/>
-		<rom name="je-05.12d" size="65536" crc="22e2c49d"/>
-		<rom name="mas00" size="1048576" crc="3d011034"/>
-		<rom name="mas01" size="1048576" crc="6d0c9d0b"/>
-		<rom name="mas02" size="524288" crc="af00e620"/>
-		<rom name="mas03" size="524288" crc="2fe61ea2"/>
-		<rom name="mas04" size="1048576" crc="1e56953b"/>
-		<rom name="mas05" size="1048576" crc="3826b8f8"/>
-		<rom name="mas06" size="1048576" crc="3b8bbd45"/>
-		<rom name="mas07" size="1048576" crc="31303769"/>
-		<rom name="mas08" size="524288" crc="e224fb7a"/>
-		<rom name="mas09" size="524288" crc="5f6deb41"/>
-		<rom name="mas10" size="1048576" crc="f4b4c8a1"/>
-		<rom name="mas11" size="524288" crc="c2f0a4f2"/>
-		<rom name="mb7122h.16l" size="1024" crc="2bee57cc"/>
-		<video type="raster" orientation="horizontal" width="320" height="240" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-		<url>https://retroachievements.org/game/11890/hashes</url>
-		<hash>844337b3335affd9a63e101b9e949694</hash>
 	</game>
 	
 	<game name="Retail/wboy">

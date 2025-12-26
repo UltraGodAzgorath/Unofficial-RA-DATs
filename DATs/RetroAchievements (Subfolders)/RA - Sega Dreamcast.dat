@@ -5,8 +5,8 @@
 		<name>RA - Sega Dreamcast</name>
 		<description>Sega Dreamcast</description>
 		<category>Subfolders</category>
-		<version>20251116</version>
-		<date>16 November 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/40/games</url>
@@ -478,6 +478,14 @@
 		<disk name="Frame Gride (Subset - S Rank).chd" sha1="f7caf06e263578d78a435152dc2d9d1cc3322a5f"/>
 		<url>https://retroachievements.org/game/22034/hashes</url>
 		<hash>3c1e14cf4e4616bf5a6b4fe4c8edcec6</hash>
+	</machine>
+	
+	<machine name="Retail/Garou - Mark of the Wolves (Japan)">
+		<category></category>
+		<description>Garou - Mark of the Wolves (Japan)</description>
+		<disk name="Garou - Mark of the Wolves (Japan).chd" sha1="b7c5b34925870f2a171e8a65cd028a9428af37b5"/>
+		<url>https://retroachievements.org/game/280/hashes</url>
+		<hash>8b3166e1f96be84e14072a2f9d876feb</hash>
 	</machine>
 	
 	<machine name="Retail/Gauntlet Legends (USA)">

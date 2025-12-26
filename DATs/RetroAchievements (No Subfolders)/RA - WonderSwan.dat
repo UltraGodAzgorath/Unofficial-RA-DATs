@@ -5,8 +5,8 @@
 		<name>RA - WonderSwan</name>
 		<description>WonderSwan</description>
 		<category>No Subfolders</category>
-		<version>20251116</version>
-		<date>16 November 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/53/games</url>
@@ -186,6 +186,23 @@
 		<rom name="Final Fantasy (Japan).wsc" size="4194304" crc="b7243e88" md5="e36650ac50df69d1832a0d496c165db2" sha1="26628eb76c16880b6faf2e706778d91a60144078"/>
 		<url>https://retroachievements.org/game/15580/hashes</url>
 		<hash>e36650ac50df69d1832a0d496c165db2</hash>
+	</game>
+	
+	<game name="Final Fantasy II (Japan)">
+		<category>Retail</category>
+		<description>Final Fantasy II (Japan)</description>
+		<release name="Final Fantasy II (Japan)" region="Japan"/>
+		<rom name="Final Fantasy II (Japan).wsc" size="4194304" crc="f09e752f" md5="e03e666452651e82eb5734a9d684802a" sha1="959321e3b971516e38a4cbf95b0fc3efc0b0a825"/>
+		<url>https://retroachievements.org/game/15581/hashes</url>
+		<hash>e03e666452651e82eb5734a9d684802a</hash>
+	</game>
+	<game name="Final Fantasy II (Japan) (En) (v0.97) (RPGONE)" cloneof="Final Fantasy II (Japan)">
+		<category>Retail</category>
+		<description>Final Fantasy II (Japan) (En) (v0.97) (RPGONE)</description>
+		<release name="Final Fantasy II (Japan) (En) (v0.97) (RPGONE)" region="English"/>
+		<rom name="Final Fantasy II (Japan) (En) (v0.97) (RPGONE).wsc" size="4194304" crc="15ec0525" md5="ac5e0c9be878c8c287e92dd821969e9d" sha1="18f8fd447ff10e2c43b0a649dcd039b7d0f53f0d"/>
+		<url>https://retroachievements.org/game/15581/hashes</url>
+		<hash>ac5e0c9be878c8c287e92dd821969e9d</hash>
 	</game>
 	
 	<game name="Final Fantasy IV (Japan)">

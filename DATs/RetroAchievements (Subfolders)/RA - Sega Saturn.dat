@@ -5,8 +5,8 @@
 		<name>RA - Sega Saturn</name>
 		<description>Sega Saturn</description>
 		<category>Subfolders</category>
-		<version>20251116</version>
-		<date>16 November 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/39/games</url>
@@ -620,6 +620,14 @@
 		<hash>080df9af339e5959385fc630cc799129</hash>
 	</machine>
 	
+	<machine name="Retail/Gale Racer (Japan) (En,Ja) (1A)">
+		<category></category>
+		<description>Gale Racer (Japan) (En,Ja) (1A)</description>
+		<disk name="Gale Racer (Japan) (En,Ja) (1A).chd" sha1="1636ded9268cc086b6afb9453d242e31756b86dd"/>
+		<url>https://retroachievements.org/game/25806/hashes</url>
+		<hash>9f4d90cbf0599f245b2c221aa915a903</hash>
+	</machine>
+	
 	<machine name="Retail/Gals Panic SS (Japan)">
 		<category></category>
 		<description>Gals Panic SS (Japan)</description>
@@ -1045,6 +1053,14 @@
 		<hash>cd01172cbe80ecfb3709ce880a28806b</hash>
 	</machine>
 	
+	<machine name="Retail/Private Idol Disc - Tokubetsu-hen - Cosplayers (Japan) (2M)">
+		<category></category>
+		<description>Private Idol Disc - Tokubetsu-hen - Cosplayers (Japan) (2M)</description>
+		<disk name="Private Idol Disc - Tokubetsu-hen - Cosplayers (Japan) (2M).chd" sha1="c4d6fa95057f92def5a4445625ca48df130d0e30"/>
+		<url>https://retroachievements.org/game/36177/hashes</url>
+		<hash>65f0adeb7e6b61d7c47bf01e77cdf13b</hash>
+	</machine>
+	
 	<machine name="Retail/Private Idol Disc Vol. 1 - Yuu Kinoshita (Japan)">
 		<category></category>
 		<description>Private Idol Disc Vol. 1 - Yuu Kinoshita (Japan)</description>
@@ -1067,6 +1083,14 @@
 		<disk name="Private Idol Disc Vol. 3 - Akemi Ooshima (Japan) (2M).chd" sha1="1ef9b5f118a28cf6abd6447ae38245c2aff8607b"/>
 		<url>https://retroachievements.org/game/36094/hashes</url>
 		<hash>ab9ec49bedc2dfb675a8a8ca901f8366</hash>
+	</machine>
+	
+	<machine name="Retail/Private Idol Disc Vol. 4 - Mirei Kuroda (Japan)">
+		<category></category>
+		<description>Private Idol Disc Vol. 4 - Mirei Kuroda (Japan)</description>
+		<disk name="Private Idol Disc Vol. 4 - Mirei Kuroda (Japan).chd" sha1="b05cf38405cf5ccbf4cc5351301c4403616f8e29"/>
+		<url>https://retroachievements.org/game/36098/hashes</url>
+		<hash>1c6c7c8205a80b2e2e6b1315635dd1de</hash>
 	</machine>
 	
 	<machine name="Retail/Quake/Quake (Europe)">

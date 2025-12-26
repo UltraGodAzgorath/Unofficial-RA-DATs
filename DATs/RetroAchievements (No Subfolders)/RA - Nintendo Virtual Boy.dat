@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Virtual Boy</name>
 		<description>Nintendo Virtual Boy</description>
 		<category>No Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/28/games</url>
@@ -144,6 +144,15 @@
 		<rom name="Red Square (USA) (2019 Dream Diary Jam) (Kresna,Nyrator) (Aftermarket).vb" size="524288" crc="cea4707a" md5="9c372321204b9fa65f9324f98aae53ff" sha1="a12529a0d7cf7f0711b913b8ae72fea193cebc17"/>
 		<url>https://retroachievements.org/game/21681/hashes</url>
 		<hash>9c372321204b9fa65f9324f98aae53ff</hash>
+	</game>
+	
+	<game name="Soviet Union 2010 (World) (v1.2) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<description>Soviet Union 2010 (World) (v1.2) (Aftermarket) (Unl)</description>
+		<release name="Soviet Union 2010 (World) (v1.2) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Soviet Union 2010 (World) (v1.2) (Aftermarket) (Unl).vb" size="2097152" crc="e7cbc290" md5="74d21ea01f97ac19e018d7f5a3e3bc7c" sha1="f534d323bc838a5f5a25e0bf977ba297708eabe3"/>
+		<url>https://retroachievements.org/game/19874/hashes</url>
+		<hash>74d21ea01f97ac19e018d7f5a3e3bc7c</hash>
 	</game>
 	
 	<game name="VB Racing (USA) (FlashBoy Version) (PVBCC) (M.K.) (Aftermarket)">

@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Color</name>
 		<description>Nintendo Game Boy Color</description>
 		<category>No Subfolders</category>
-		<version>20251116</version>
-		<date>16 November 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/6/games</url>
@@ -3786,14 +3786,6 @@
 		<url>https://retroachievements.org/game/5228/hashes</url>
 		<hash>820e0a19275fabc03fe619c42db47179</hash>
 	</game>
-	<game name="Star Ocean - Blue Sphere (Japan) (En) (v1.0) (mz)" cloneof="Star Ocean - Blue Sphere (Japan) (SGB Enhanced) (GB Compatible)">
-		<category>Retail</category>
-		<description>Star Ocean - Blue Sphere (Japan) (En) (v1.0) (mz)</description>
-		<release name="Star Ocean - Blue Sphere (Japan) (En) (v1.0) (mz)" region="English"/>
-		<rom name="Star Ocean - Blue Sphere (Japan) (En) (v1.0) (mz).gbc" size="4194304" crc="c459ff56" md5="e1ed3ef70534299d4f1be45eb1b9b360" sha1="e24c24812cb7ca5af0dfdd11dcbec82a0459c433"/>
-		<url>https://retroachievements.org/game/5228/hashes</url>
-		<hash>e1ed3ef70534299d4f1be45eb1b9b360</hash>
-	</game>
 	<game name="Star Ocean - Blue Sphere (Japan) (En) (v1.0a) (4l3j4ndr0)" cloneof="Star Ocean - Blue Sphere (Japan) (SGB Enhanced) (GB Compatible)">
 		<category>Retail</category>
 		<description>Star Ocean - Blue Sphere (Japan) (En) (v1.0a) (4l3j4ndr0)</description>
@@ -4361,6 +4353,15 @@
 		<rom name="Tony Hawk's Pro Skater 2 (USA, Europe).gbc" size="2097152" crc="2c27c61f" md5="0454b25266d645990b63b5b406672dc2" sha1="300fe89f98711853bee86ccd81481d55b5097b2d"/>
 		<url>https://retroachievements.org/game/17371/hashes</url>
 		<hash>0454b25266d645990b63b5b406672dc2</hash>
+	</game>
+	
+	<game name="Tootuff (Europe) (En,Fr,De,Es,It,Nl)">
+		<category>Retail</category>
+		<description>Tootuff (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<release name="Tootuff (Europe) (En,Fr,De,Es,It,Nl)" region="Europe"/>
+		<rom name="Tootuff (Europe) (En,Fr,De,Es,It,Nl).gbc" size="1048576" crc="1972cbf7" md5="4639d79e2e02a687a44d19d9c9c3c28a" sha1="e38c16213c6bb0c1511ade138e3e8eeabd7b8898"/>
+		<url>https://retroachievements.org/game/5039/hashes</url>
+		<hash>4639d79e2e02a687a44d19d9c9c3c28a</hash>
 	</game>
 	
 	<game name="Top Gear Rally 2 (Europe)" cloneof="Top Gear Pocket 2 (USA)">

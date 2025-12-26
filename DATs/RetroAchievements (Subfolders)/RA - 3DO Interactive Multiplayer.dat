@@ -5,8 +5,8 @@
 		<name>RA - 3DO Interactive Multiplayer</name>
 		<description>3DO Interactive Multiplayer</description>
 		<category>Subfolders</category>
-		<version>20251116</version>
-		<date>16 November 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/43/games</url>
@@ -213,6 +213,14 @@
 		<disk name="Shelley Duvall's It's a Bird's Life (USA).chd" sha1="80484682c9e7d4f9e56c048749afbdb60df722ae"/>
 		<url>https://retroachievements.org/game/21309/hashes</url>
 		<hash>e1a98c71e85e3db717339b607739bac4</hash>
+	</machine>
+	
+	<machine name="Retail/Soccer Kid (USA)">
+		<category></category>
+		<description>Soccer Kid (USA)</description>
+		<disk name="Soccer Kid (USA).chd" sha1="4ac480a20cec48213b7786dfb769fa08a0878095"/>
+		<url>https://retroachievements.org/game/16859/hashes</url>
+		<hash>b79873ed2deb0136207869a855a76d4d</hash>
 	</machine>
 	
 	<machine name="Retail/Star Wars - Rebel Assault (USA, Europe)">

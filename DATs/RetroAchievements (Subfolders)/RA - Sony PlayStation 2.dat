@@ -5,8 +5,8 @@
 		<name>RA - Sony PlayStation 2</name>
 		<description>Sony PlayStation 2</description>
 		<category>Subfolders</category>
-		<version>20251116</version>
-		<date>16 November 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -172,6 +172,14 @@
 		<disk name="Guitar Hero III - Game Hits (v1.0) (Beto Luvas) (RA Hash Fix) (Hack).chd" sha1="2ab197d264de581ed07088c1f0a97e9dc20deddf"/>
 		<url>https://retroachievements.org/game/33666/hashes</url>
 		<hash>d4e325f5246d3f00fa3b50a841b8026c</hash>
+	</machine>
+	
+	<machine name="Subset/Guitar Hero III - Game Hits (v1.0) (Beto Luvas) (Subset - Expert Full Combos)">
+		<category></category>
+		<description>Guitar Hero III - Game Hits (v1.0) (Beto Luvas) (Subset - Expert Full Combos)</description>
+		<disk name="Guitar Hero III - Game Hits (v1.0) (Beto Luvas) (Subset - Expert Full Combos).chd" sha1="d9fc9170b8fdce262806db94104f23af9436820d"/>
+		<url>https://retroachievements.org/game/35290/hashes</url>
+		<hash>d370f43cb4d010a0a5473aae77f58026</hash>
 	</machine>
 	
 	<machine name="Hack/Guitar Hero III - ZV K-ON! 10th Anniversary (v2.0) (ztruck1) (RA Hash Fix) (Hack)">
@@ -381,6 +389,14 @@
 		<hash>069a7d479543d5afa55a7fba628977b1</hash>
 	</machine>
 	
+	<machine name="Retail/10 Pin - Champions Alley (Europe) (En,Fr,De,Es,It,Nl)">
+		<category></category>
+		<description>10 Pin - Champions Alley (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<disk name="10 Pin - Champions Alley (Europe) (En,Fr,De,Es,It,Nl).chd" sha1="e8907c617089a0f95bcb24a49208ffd0f4b0c250"/>
+		<url>https://retroachievements.org/game/21541/hashes</url>
+		<hash>5bb946be2ce2e1c5e8f0e5868eefbc65</hash>
+	</machine>
+	
 	<machine name="Retail/25 to Life (USA)">
 		<category></category>
 		<description>25 to Life (USA)</description>
@@ -465,6 +481,43 @@
 		<hash>1eb9bc56870ede1c33cee731a5d22e23</hash>
 	</machine>
 	
+	<machine name="Retail/Agent Hugo - Hula Holiday/Agent Hugo - Hula Holiday (Europe) (En,Fr,De,Es,It,Nl,Pt)">
+		<category></category>
+		<description>Agent Hugo - Hula Holiday (Europe) (En,Fr,De,Es,It,Nl,Pt)</description>
+		<disk name="Agent Hugo - Hula Holiday (Europe) (En,Fr,De,Es,It,Nl,Pt).chd" sha1="a5ae3834fa643b236d1c0e8a39bcc73eda556ee9"/>
+		<url>https://retroachievements.org/game/20716/hashes</url>
+		<hash>fbbe7c50e9fa573ef03e230e2403bb18</hash>
+	</machine>
+	<machine name="Retail/Agent Hugo - Hula Holiday/Agent Hugo - Hula Holiday (Scandinavia) (En,Sv,No,Da,Fi)">
+		<category></category>
+		<description>Agent Hugo - Hula Holiday (Scandinavia) (En,Sv,No,Da,Fi)</description>
+		<disk name="Agent Hugo - Hula Holiday (Scandinavia) (En,Sv,No,Da,Fi).chd" sha1="1fc6c55a3d0a595d56abf0ec635cccc3528e402b"/>
+		<url>https://retroachievements.org/game/20716/hashes</url>
+		<hash>3fe32e17e425a674c1d791a276a1b586</hash>
+	</machine>
+	
+	<machine name="Retail/Agent Hugo - Lemoon Twist/Agent Hugo - Lemoon Twist (Europe) (En,Fr,De,Es,It,Nl,Pt)">
+		<category></category>
+		<description>Agent Hugo - Lemoon Twist (Europe) (En,Fr,De,Es,It,Nl,Pt)</description>
+		<disk name="Agent Hugo - Lemoon Twist (Europe) (En,Fr,De,Es,It,Nl,Pt).chd" sha1="a5695d2125451d2c1c8a0790e9278d9a33ad2fab"/>
+		<url>https://retroachievements.org/game/20717/hashes</url>
+		<hash>27c6015ae9530f29723ace44d9ef82d1</hash>
+	</machine>
+	<machine name="Retail/Agent Hugo - Lemoon Twist/Agent Hugo - Lemoon Twist (Scandinavia) (En,Sv,No,Da,Fi)">
+		<category></category>
+		<description>Agent Hugo - Lemoon Twist (Scandinavia) (En,Sv,No,Da,Fi)</description>
+		<disk name="Agent Hugo - Lemoon Twist (Scandinavia) (En,Sv,No,Da,Fi).chd" sha1="75560a6adfd54e2fbe577437e33111c072da9a41"/>
+		<url>https://retroachievements.org/game/20717/hashes</url>
+		<hash>6b9e2fb06e1e4adbb593001ccbe9e33b</hash>
+	</machine>
+	<machine name="Agent Hugo - Lemoon Twist (Russia)">
+		<category></category>
+		<description>Agent Hugo - Lemoon Twist (Russia)</description>
+		<disk name="Agent Hugo - Lemoon Twist (Russia).chd" sha1="3c41783d44333f93a6f380e01d0ca05188175753"/>
+		<url>https://retroachievements.org/game/20717/hashes</url>
+		<hash>2bd36a85f3ac295ecf93a455fc953628</hash>
+	</machine>
+	
 	<machine name="Retail/Air Ranger 2 Plus/Air Ranger 2 Plus - Rescue Helicopter (Japan)">
 		<category></category>
 		<description>Air Ranger 2 Plus - Rescue Helicopter (Japan)</description>
@@ -472,14 +525,7 @@
 		<url>https://retroachievements.org/game/29050/hashes</url>
 		<hash>75bbb63e865d009dfd73ac87c0e18966</hash>
 	</machine>
-	<machine name="Retail/Air Ranger 2 Plus/Air Ranger 2 Plus - Rescue Helicopter (Japan) (Anti-Blur) (v1.0) (Souzooka)">
-		<category></category>
-		<description>Air Ranger 2 Plus - Rescue Helicopter (Japan) (Anti-Blur) (v1.0) (Souzooka)</description>
-		<disk name="Air Ranger 2 Plus - Rescue Helicopter (Japan) (Anti-Blur) (v1.0) (Souzooka).chd" sha1="a0a2ead572bd784f756c44a99bd75022b167776d"/>
-		<url>https://retroachievements.org/game/29050/hashes</url>
-		<hash>0ec8befa5ec14204fd47489b4324ff55</hash>
-	</machine>
-	
+
 	<machine name="Retail/Air Ranger/Air Ranger - Rescue Helicopter (Europe)">
 		<category></category>
 		<description>Air Ranger - Rescue Helicopter (Europe)</description>
@@ -507,6 +553,14 @@
 		<disk name="Air Ranger - Rescue Helicopter (Japan) (Widescreen) (v1.0) (Souzooka).chd" sha1="576751d9a0750254b2f820006514b570e1ae585c"/>
 		<url>https://retroachievements.org/game/27495/hashes</url>
 		<hash>fd000c8c9b5f069a3b0740a0876aebd3</hash>
+	</machine>
+	
+	<machine name="Retail/AirBlade (USA)">
+		<category></category>
+		<description>AirBlade (USA)</description>
+		<disk name="AirBlade (USA).chd" sha1="7cd29c1fa0c432a70fed01af9d7dc92339337f1b"/>
+		<url>https://retroachievements.org/game/22110/hashes</url>
+		<hash>bd088851b39e6a4459813f111c8f7d71</hash>
 	</machine>
 	
 	<machine name="Retail/Amplitude (USA)">
@@ -594,6 +648,14 @@
 		<disk name="Arctic Thunder (USA).chd" sha1="de2099f86d74f0f890bf83422573cb6a61936471"/>
 		<url>https://retroachievements.org/game/21678/hashes</url>
 		<hash>baad0642a245f81e613a4c76a1a87015</hash>
+	</machine>
+	
+	<machine name="Retail/Are You Smarter than a 5th Grader Make the Grade (USA)">
+		<category></category>
+		<description>Are You Smarter than a 5th Grader Make the Grade (USA)</description>
+		<disk name="Are You Smarter than a 5th Grader Make the Grade (USA).chd" sha1="a813bd25269a81dd0b70550bd3b61ea03ec2154d"/>
+		<url>https://retroachievements.org/game/21505/hashes</url>
+		<hash>a57eb50ccce2b4d1f4c86bc5b50e1b9d</hash>
 	</machine>
 	
 	<machine name="Retail/Armored Core 2 (USA)">
@@ -1226,6 +1288,14 @@
 		<hash>0c89e76898f5e8f2330309d005b960c2</hash>
 	</machine>
 	
+	<machine name="Retail/Cocoto Fishing Master (USA) (En,Fr,Es)">
+		<category></category>
+		<description>Cocoto Fishing Master (USA) (En,Fr,Es)</description>
+		<disk name="Cocoto Fishing Master (USA) (En,Fr,Es).chd" sha1="dea1a9c4ce8766a451865d58d90798a5f3625475"/>
+		<url>https://retroachievements.org/game/34516/hashes</url>
+		<hash>baf971b2c9667420c5fe37042f2505c2</hash>
+	</machine>
+	
 	<machine name="Retail/Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E. (USA)">
 		<category></category>
 		<description>Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E. (USA)</description>
@@ -1395,6 +1465,14 @@
 		<disk name="Dance Dance Revolution SuperNova 2 (Japan).chd" sha1="f787b89cc60ca470381e8b012437bd28cce39d7c"/>
 		<url>https://retroachievements.org/game/25890/hashes</url>
 		<hash>3114ce6cfab6626e1045c477b13d8674</hash>
+	</machine>
+	
+	<machine name="Retail/Dancing Stage Fever (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Dancing Stage Fever (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="Dancing Stage Fever (Europe) (En,Fr,De,Es,It).chd" sha1="70df1427bbe7b07e1e159c4339576d1912df556b"/>
+		<url>https://retroachievements.org/game/30899/hashes</url>
+		<hash>691a9eb3ddc9403453dbbe6dfaca36ba</hash>
 	</machine>
 	
 	<machine name="Retail/Dancing Stage MegaMix (Europe) (En,Fr,De,Es,It)">
@@ -1858,6 +1936,14 @@
 		<hash>43468a2ace2d3c817945244499d8f94a</hash>
 	</machine>
 	
+	<machine name="Retail/Disney's Tarzan - Untamed (USA)">
+		<category></category>
+		<description>Disney's Tarzan - Untamed (USA)</description>
+		<disk name="Disney's Tarzan - Untamed (USA).chd" sha1="e63a4b42730f7b6e15e517dd4542f106276f6ff5"/>
+		<url>https://retroachievements.org/game/22605/hashes</url>
+		<hash>b847a2d660f6dc3850f04d7bc7f21465</hash>
+	</machine>
+	
 	<machine name="Retail/DJ Hero (USA)">
 		<category></category>
 		<description>DJ Hero (USA)</description>
@@ -2143,6 +2229,22 @@
 		<disk name="Dynasty Warriors 5 - Xtreme Legends (USA).chd" sha1="fb60a673edf8a9db70f6ff5bae070de99dc8da3d"/>
 		<url>https://retroachievements.org/game/20787/hashes</url>
 		<hash>2b3942c743a534ca438141e7f046e618</hash>
+	</machine>
+	
+	<machine name="Retail/Dynasty Warriors 6 (USA)">
+		<category></category>
+		<description>Dynasty Warriors 6 (USA)</description>
+		<disk name="Dynasty Warriors 6 (USA).chd" sha1="22204f3c96a93f599c309ce68fe574d588cacfa3"/>
+		<url>https://retroachievements.org/game/20788/hashes</url>
+		<hash>0f47fb08279267bcb5787e07bd475518</hash>
+	</machine>
+	
+	<machine name="Subset/Dynasty Warriors 6 (Subset - Max Level)">
+		<category></category>
+		<description>Dynasty Warriors 6 (Subset - Max Level)</description>
+		<disk name="Dynasty Warriors 6 (Subset - Max Level).chd" sha1="4aec874813b638d6eb120d31bd3b83f7bf6c31c9"/>
+		<url>https://retroachievements.org/game/36254/hashes</url>
+		<hash>40c97bc15db4d4786090ccf22b951be3</hash>
 	</machine>
 	
 	<machine name="Retail/Dynasty Warriors - Gundam 2/Dynasty Warriors - Gundam 2 (USA)">
@@ -2452,6 +2554,14 @@
 		<hash>154765cf0f11ca4096b2db5505e49ab7</hash>
 	</machine>
 	
+	<machine name="Retail/Final Fantasy XII (USA)">
+		<category></category>
+		<description>Final Fantasy XII (USA)</description>
+		<disk name="Final Fantasy XII (USA).chd" sha1="92382c04e25949df0cf010748b1b1112251f1828"/>
+		<url>https://retroachievements.org/game/5802/hashes</url>
+		<hash>acabd0f5e2193742acb64f031c7744fc</hash>
+	</machine>
+	
 	<machine name="Retail/Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23)">
 		<category></category>
 		<description>Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23)</description>
@@ -2551,6 +2661,14 @@
 		<hash>cbc4769f8876a7eca8ad1faed47304ef</hash>
 	</machine>
 	
+	<machine name="Retail/Flipnic - Ultimate Pinball (USA)">
+		<category></category>
+		<description>Flipnic - Ultimate Pinball (USA)</description>
+		<disk name="Flipnic - Ultimate Pinball (USA).chd" sha1="1e630067e4d999b8a7c71ce5f752072c116b4056"/>
+		<url>https://retroachievements.org/game/24189/hashes</url>
+		<hash>c778f27c0dc115e0b57799342fda9492</hash>
+	</machine>
+	
 	<machine name="Retail/Siren (USA)">
 		<category></category>
 		<description>Siren (USA)</description>
@@ -2599,6 +2717,14 @@
 		<hash>b01b7698dbd6c6ac6972957032cccaf7</hash>
 	</machine>
 	
+	<machine name="Retail/Fugitive Hunter - War on Terror (USA)">
+		<category></category>
+		<description>Fugitive Hunter - War on Terror (USA)</description>
+		<disk name="Fugitive Hunter - War on Terror (USA).chd" sha1="4b24fb89b23f9f6b84dee7205323079fe3a189c7"/>
+		<url>https://retroachievements.org/game/21363/hashes</url>
+		<hash>8b4c76181ae3781ef0bfb6f3bc624525</hash>
+	</machine>
+	
 	<machine name="Retail/Fullmetal Alchemist and the Broken Angel (USA)">
 		<category></category>
 		<description>Fullmetal Alchemist and the Broken Angel (USA)</description>
@@ -2629,6 +2755,14 @@
 		<disk name="Galactic Wrestling featuring Ultimate Muscle - The Kinnikuman Legacy (USA).chd" sha1="8a2d2c11adc8a5f0153e7c5d502f4b24b006dc62"/>
 		<url>https://retroachievements.org/game/21709/hashes</url>
 		<hash>36a2454c070660446a28474ec62d4f96</hash>
+	</machine>
+	
+	<machine name="Retail/Garfield (Europe) (En,Fr,De,Es,It,Nl)">
+		<category></category>
+		<description>Garfield (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<disk name="Garfield (Europe) (En,Fr,De,Es,It,Nl).chd" sha1="0e129900503971240340317c70b8aad63174953d"/>
+		<url>https://retroachievements.org/game/20739/hashes</url>
+		<hash>26816c48298bf478dc78a94e3700ac4c</hash>
 	</machine>
 	
 	<machine name="Retail/Garfield - Lasagna World Tour (USA)">
@@ -3765,6 +3899,14 @@
 		<hash>6c51841837673288618e2409bd8ebfab</hash>
 	</machine>
 	
+	<machine name="Retail/Kill.switch (USA)">
+		<category></category>
+		<description>Kill.switch (USA)</description>
+		<disk name="Kill.switch (USA).chd" sha1="c5374655266cf18aafb95c306587da7935f3de94"/>
+		<url>https://retroachievements.org/game/21017/hashes</url>
+		<hash>cd7751c5f0e1f16c2422452be39a7282</hash>
+	</machine>
+	
 	<machine name="Retail/Killzone (USA)">
 		<category></category>
 		<description>Killzone (USA)</description>
@@ -4169,6 +4311,14 @@
 		<hash>94b33321c6cdc35aadc413d377aaba02</hash>
 	</machine>
 	
+	<machine name="Retail/Mana Khemia - Alchemists of Al-Revis (USA)">
+		<category></category>
+		<description>Mana Khemia - Alchemists of Al-Revis (USA)</description>
+		<disk name="Mana Khemia - Alchemists of Al-Revis (USA).chd" sha1="cf5e4a1116f6f02279e71c5515142a564e3a7a1f"/>
+		<url>https://retroachievements.org/game/19060/hashes</url>
+		<hash>6b5f9051f13e7e9540507777a18d6d9a</hash>
+	</machine>
+	
 	<machine name="Retail/Manhunt (USA)">
 		<category></category>
 		<description>Manhunt (USA)</description>
@@ -4556,6 +4706,14 @@
 		<disk name="Disney Pixar Monsters, Inc. - Scare Island (Europe) (Widescreen) (v1.0) (Souzooka).chd" sha1="56560e07eb8b0baf98b197945ca3987e20930231"/>
 		<url>https://retroachievements.org/game/21688/hashes</url>
 		<hash>6694177a7b22739ea019ca21ec95c029</hash>
+	</machine>
+	
+	<machine name="Retail/Moorhuhn Fun Kart 2008 (Europe) (En,Fr,De,It)">
+		<category></category>
+		<description>Moorhuhn Fun Kart 2008 (Europe) (En,Fr,De,It)</description>
+		<disk name="Moorhuhn Fun Kart 2008 (Europe) (En,Fr,De,It).chd" sha1="6b98ef6d272b7964d6a36f4b5e6b4a2121a52baf"/>
+		<url>https://retroachievements.org/game/25108/hashes</url>
+		<hash>7405576f8e50c6b20473402041df74b9</hash>
 	</machine>
 	
 	<machine name="Retail/Mortal Kombat - Armageddon (USA) (Premium Edition)">
@@ -5645,6 +5803,22 @@
 		<hash>f16d8ea5d4ca3b132f07fa22fbc6185b</hash>
 	</machine>
 	
+	<machine name="Retail/Rock Band (Europe, Australia) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Rock Band (Europe, Australia) (En,Fr,De,Es,It)</description>
+		<disk name="Rock Band (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="4be9c653edeff2170a994d9ed0197941304c2ac5"/>
+		<url>https://retroachievements.org/game/5793/hashes</url>
+		<hash>9754ba1daf213ff9f416aab111d357dc</hash>
+	</machine>
+	
+	<machine name="Subset/Rock Band (Subset - Expert Full Combos)">
+		<category></category>
+		<description>Rock Band (Subset - Expert Full Combos)</description>
+		<disk name="Rock Band (Subset - Expert Full Combos).chd" sha1="8930ae5d4cc3a986abd0f9169cee3195cc761b1b"/>
+		<url>https://retroachievements.org/game/37467/hashes</url>
+		<hash>4ea69d47666c3f1e0b0ac236665eb082</hash>
+	</machine>
+	
 	<machine name="Retail/Rocky Legends (USA)">
 		<category></category>
 		<description>Rocky Legends (USA)</description>
@@ -5804,6 +5978,14 @@
 		<disk name="Scooby-Doo! First Frights (USA) (En,Fr,Es).chd" sha1="4e64727422f93a5841c40b8204d0488c4ef3c2dc"/>
 		<url>https://retroachievements.org/game/21070/hashes</url>
 		<hash>3415e28d4b0fe3683c904b640e722cec</hash>
+	</machine>
+	
+	<machine name="Retail/Scooby-Doo! Mystery Mayhem (USA) (En,Fr)">
+		<category></category>
+		<description>Scooby-Doo! Mystery Mayhem (USA) (En,Fr)</description>
+		<disk name="Scooby-Doo! Mystery Mayhem (USA) (En,Fr).chd" sha1="081e7e32ff289507aa17d06d64b2c50e05d65bea"/>
+		<url>https://retroachievements.org/game/20737/hashes</url>
+		<hash>99ee7b893050318f435a2e7e78c44de2</hash>
 	</machine>
 	
 	<machine name="Retail/Scooby-Doo! Night of 100 Frights (USA)">
@@ -6339,6 +6521,28 @@
 		<hash>d9637d758684715821f2ee2cf986e2a8</hash>
 	</machine>
 	
+	<machine name="Retail/Sky Odyssey/Sky Odyssey (USA)">
+		<category></category>
+		<description>Sky Odyssey (USA)</description>
+		<disk name="Sky Odyssey (USA).chd" sha1="1bfc76c850389e24dd65beac7d77d0af9751b1b5"/>
+		<url>https://retroachievements.org/game/22607/hashes</url>
+		<hash>286e550cb45b35df7a12205640b906ab</hash>
+	</machine>
+	<machine name="Retail/Sky Odyssey/Sky Odyssey (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Sky Odyssey (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="Sky Odyssey (Europe) (En,Fr,De,Es,It).chd" sha1="b238765a7dae66deb88dac371dceca45ee2c7179"/>
+		<url>https://retroachievements.org/game/22607/hashes</url>
+		<hash>b3b3ae2771f0181e279896d01dffc9b3</hash>
+	</machine>
+	<machine name="Retail/Sky Odyssey/Sky Odyssey, The (Japan)">
+		<category></category>
+		<description>Sky Odyssey, The (Japan)</description>
+		<disk name="Sky Odyssey, The (Japan).chd" sha1="b4ae0e3ed30fc3380112f3fbcc6928c0d0de6c2d"/>
+		<url>https://retroachievements.org/game/22607/hashes</url>
+		<hash>67a86077d1bdfabcbb0b4ba8c0abd058</hash>
+	</machine>
+	
 	<machine name="Retail/Sly 2 - Band of Thieves (USA)">
 		<category></category>
 		<description>Sly 2 - Band of Thieves (USA)</description>
@@ -6384,6 +6588,15 @@
 		<disk name="Snoopy vs. the Red Baron (USA).chd" sha1="a459531e0c404ebba636a1b33e184d76b26df67a"/>
 		<url>https://retroachievements.org/game/20797/hashes</url>
 		<hash>8954f8b253fd0ef41122492872e2321a</hash>
+	</machine>
+	
+	<machine name="Retail/Snow White &amp; the 7 Clever Boys (Europe) (En,Fr,De) (RA Compatibility) (v0.1) (pinguupinguu)">
+		<category></category>
+		<description>Snow White &amp; the 7 Clever Boys (Europe) (En,Fr,De) (RA Compatibility) (v0.1) (pinguupinguu)</description>
+		<release name="Snow White &amp; the 7 Clever Boys (Europe) (En,Fr,De) (RA Compatibility) (v0.1) (pinguupinguu)" region="Europe"/>
+		<disk name="Snow White &amp; the 7 Clever Boys (Europe) (En,Fr,De) (RA Compatibility) (v0.1) (pinguupinguu).chd" sha1="5510f3cf907546ca3dbe8cdbfaef457405fca8b0"/>
+		<url>https://retroachievements.org/game/20554/hashes</url>
+		<hash>229635f68a1f1d95cffe3b51ea52bd43</hash>
 	</machine>
 	
 	<machine name="Retail/Sonic Heroes/Sonic Heroes (Europe, Australia) (En,Fr,De,Es,It)">
@@ -6549,14 +6762,6 @@
 		<disk name="Nickelodeon SpongeBob SquarePants - Revenge of the Flying Dutchman (USA).chd" sha1="d157dbc275de821ca53516ce65ebfba65346a5ce"/>
 		<url>https://retroachievements.org/game/20553/hashes</url>
 		<hash>1da6829fc3f89e3bac81b3e312d2d0cf</hash>
-	</machine>
-	
-	<machine name="Retail/Nickelodeon SpongeBob SquarePants - The Movie (USA)">
-		<category></category>
-		<description>Nickelodeon SpongeBob SquarePants - The Movie (USA)</description>
-		<disk name="Nickelodeon SpongeBob SquarePants - The Movie (USA).chd" sha1="adb4c2659b7e7495f19609b8696bd47c0486f241"/>
-		<url>https://retroachievements.org/game/19018/hashes</url>
-		<hash>00978622e749d7111f3533daaab64b38</hash>
 	</machine>
 	
 	<machine name="Retail/Nickelodeon SpongeBob's Atlantis SquarePantis (USA)">
@@ -7046,14 +7251,6 @@
 		<disk name="Tales of the Abyss (USA) (Es) (v1.0) (Undub).chd" sha1="5601fb7035406f826afaa0257143d03e75fdc78b"/>
 		<url>https://retroachievements.org/game/3298/hashes</url>
 		<hash>272da348172a7d76c9e8eed0228e1dcb</hash>
-	</machine>
-	
-	<machine name="Retail/Disney's Tarzan - Untamed (USA)">
-		<category></category>
-		<description>Disney's Tarzan - Untamed (USA)</description>
-		<disk name="Disney's Tarzan - Untamed (USA).chd" sha1="e63a4b42730f7b6e15e517dd4542f106276f6ff5"/>
-		<url>https://retroachievements.org/game/22605/hashes</url>
-		<hash>b847a2d660f6dc3850f04d7bc7f21465</hash>
 	</machine>
 	
 	<machine name="Retail/Taz - Wanted (USA) (En,Fr,De,Es,It)">
@@ -7662,6 +7859,14 @@
 		<hash>a0935241ad7c5005657b77eaf5b70848</hash>
 	</machine>
 	
+	<machine name="Retail/Nickelodeon SpongeBob SquarePants - The Movie (USA)">
+		<category></category>
+		<description>Nickelodeon SpongeBob SquarePants - The Movie (USA)</description>
+		<disk name="Nickelodeon SpongeBob SquarePants - The Movie (USA).chd" sha1="adb4c2659b7e7495f19609b8696bd47c0486f241"/>
+		<url>https://retroachievements.org/game/19018/hashes</url>
+		<hash>00978622e749d7111f3533daaab64b38</hash>
+	</machine>
+	
 	<machine name="Retail/Thing, The (USA)">
 		<category></category>
 		<description>Thing, The (USA)</description>
@@ -8022,6 +8227,14 @@
 		<hash>ccea9e97d323d21c852598a5f5db0a2d</hash>
 	</machine>
 	
+	<machine name="Retail/Trapt (USA)">
+		<category></category>
+		<description>Trapt (USA)</description>
+		<disk name="Trapt (USA).chd" sha1="d444b0d520f03c271599dedb932f2c30ba6efc55"/>
+		<url>https://retroachievements.org/game/23938/hashes</url>
+		<hash>f433b17998d04c361ff3a0c7f5056600</hash>
+	</machine>
+	
 	<machine name="Retail/Disney's Treasure Planet (USA)">
 		<category></category>
 		<description>Disney's Treasure Planet (USA)</description>
@@ -8036,6 +8249,14 @@
 		<disk name="Triggerheart Exelica Enhanced (Japan).chd" sha1="be59f26a082b450fe9541718d0f951c2128b6b5e"/>
 		<url>https://retroachievements.org/game/19184/hashes</url>
 		<hash>a83b98721376a73370c94555abe52603</hash>
+	</machine>
+	
+	<machine name="Retail/True Crime - New York City (USA)">
+		<category></category>
+		<description>True Crime - New York City (USA)</description>
+		<disk name="True Crime - New York City (USA).chd" sha1="e4285cfa0e569773456dec362dfd7c97db7ba508"/>
+		<url>https://retroachievements.org/game/19928/hashes</url>
+		<hash>10bc0bd2350e5c49bd8be520b60a05f1</hash>
 	</machine>
 	
 	<machine name="Retail/True Crime - Streets of LA/True Crime - Streets of LA (USA)">

@@ -5,8 +5,8 @@
 		<name>RA - SNK Neo Geo Pocket</name>
 		<description>SNK Neo Geo Pocket</description>
 		<category>Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/14/games</url>
@@ -27,6 +27,14 @@
 		<rom name="Blocks (World) (Aftermarket).ngc" size="32768" crc="dfd9d777" md5="e2b6d75c63b17e18cd02411f6ce1d6e4" sha1="8bb44863e9e874d8d78234a406f84e33711fc495"/>
 		<url>https://retroachievements.org/game/23744/hashes</url>
 		<hash>e2b6d75c63b17e18cd02411f6ce1d6e4</hash>
+	</game>
+	
+	<game name="Homebrew/Bomberman (World) (v1.1) (Unl) (Aftermarket)">
+		<category>Neo Geo Pocket Color</category>
+		<description>Bomberman (World) (v1.1) (Unl) (Aftermarket)</description>
+		<rom name="Bomberman (World) (v1.1) (Unl) (Aftermarket).ngc" size="1910804" crc="61b14431" md5="3f18507c9aa7e80b9aa75ce9e69de9ed" sha1="18f722428e3033ba631f4f049520577da867731e"/>
+		<url>https://retroachievements.org/game/23735/hashes</url>
+		<hash>3f18507c9aa7e80b9aa75ce9e69de9ed</hash>
 	</game>
 	
 	<game name="Homebrew/Diamond Run (World) (Aftermarket)">
@@ -399,5 +407,20 @@
 		<rom name="Sonic The Hedgehog - Pocket Adventure (World).ngc" size="2097152" crc="356f0849" md5="b8a899ae2b0f1dfa0db5417de745a51e" sha1="3fe15d4374c4ca073aa0393fcfcad0055bd345ab"/>
 		<url>https://retroachievements.org/game/11719/hashes</url>
 		<hash>b8a899ae2b0f1dfa0db5417de745a51e</hash>
+	</game>
+	
+	<game name="Retail/The King of Fighters - Battle de Paradise/King of Fighters, The - Battle de Paradise (Japan)">
+		<category>Neo Geo Pocket Color</category>
+		<description>King of Fighters, The - Battle de Paradise (Japan)</description>
+		<rom name="King of Fighters, The - Battle de Paradise (Japan).ngc" size="2097152" crc="77e37bac" md5="362e9c04ec255225eeb0a9dee8fcac1b" sha1="8aabdd45ba2b9e24bdcd8e51f6653736257d4644"/>
+		<url>https://retroachievements.org/game/32107/hashes</url>
+		<hash>362e9c04ec255225eeb0a9dee8fcac1b</hash>
+	</game>
+	<game name="Retail/The King of Fighters - Battle de Paradise/King of Fighters, The - Battle de Paradise (En) (v1.0) (marc_max, xenophile127)">
+		<category>Neo Geo Pocket Color</category>
+		<description>King of Fighters, The - Battle de Paradise (En) (v1.0) (marc_max, xenophile127)</description>
+		<rom name="King of Fighters, The - Battle de Paradise (En) (v1.0) (marc_max, xenophile127).ngc" size="2097152" crc="e08dc918" md5="b16a89f1787c83212b964e7fb570a060" sha1="967b0d1a7074ecbfbd4bf476fcaed3be30e2a7b3"/>
+		<url>https://retroachievements.org/game/32107/hashes</url>
+		<hash>b16a89f1787c83212b964e7fb570a060</hash>
 	</game>
 </datafile>

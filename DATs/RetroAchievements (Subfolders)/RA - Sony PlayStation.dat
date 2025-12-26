@@ -5,8 +5,8 @@
 		<name>RA - Sony PlayStation</name>
 		<description>Sony PlayStation</description>
 		<category>Subfolders</category>
-		<version>20251116</version>
-		<date>16 November 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -131,14 +131,6 @@
 		<hash>e91d34ea5286a1a9867cadd3f1113884</hash>
 	</machine>
 	
-	<machine name="Hack/Crash Team Racing - Retro-Fueled (TheRedhotbr) (Hack)">
-		<category></category>
-		<description>Crash Team Racing - Retro-Fueled (TheRedhotbr) (Hack)</description>
-		<disk name="Crash Team Racing - Retro-Fueled (TheRedhotbr) (Hack).chd" sha1="70ecf2c040b3267be4512379efeb77bbb46622a1"/>
-		<url>https://retroachievements.org/game/21930/hashes</url>
-		<hash>d39e336f03c21fe13413ed6d0f6f2937</hash>
-	</machine>
-	
 	<machine name="Hack/Digimon World 2 (Alternative) (v6.0) (Grensuingo) (Hack)">
 		<category></category>
 		<description>Digimon World 2 (Alternative) (v6.0) (Grensuingo) (Hack)</description>
@@ -183,6 +175,21 @@
 		<disk name="Digimon World Vice (Hack) (Subset - True Hardcore).chd" sha1="191e109be279e0cc9d0fa9db5c027cc8dde3e1c7"/>
 		<url>https://retroachievements.org/game/32925/hashes</url>
 		<hash>119568ca77097278f48f7875183790c0</hash>
+	</machine>
+	
+	<machine name="Hack/Final Fantasy IX - Alternate Fantasy (v3.2) (Tirlititi) (Hack)">
+		<category></category>
+		<description>Final Fantasy IX - Alternate Fantasy (v3.2) (Tirlititi) (Hack)</description>
+		<rom name="Final Fantasy IX - Alternate Fantasy (v3.2) (Tirlititi) (Hack).m3u" size="306" crc="c28d46cf" md5="bd3a7cf0312189034dce182857ccfc59" sha1="c8946c2e5833c2d4e33f2be26821c4153bb40a6d"/>
+		<disk name="Final Fantasy IX - Alternate Fantasy (v3.2) (Tirlititi) (Hack) (Disc 1).chd" sha1="4ddeffc765b1533357a07ea91893960ee3e68f8b"/>
+		<disk name="Final Fantasy IX - Alternate Fantasy (v3.2) (Tirlititi) (Hack) (Disc 2).chd" sha1="5f52097d98413efdc38bbe07d8dc4dc25e99a581"/>
+		<disk name="Final Fantasy IX - Alternate Fantasy (v3.2) (Tirlititi) (Hack) (Disc 3).chd" sha1="28a8354b92a20a2a6fe7904a4cc3225d5df31155"/>
+		<disk name="Final Fantasy IX - Alternate Fantasy (v3.2) (Tirlititi) (Hack) (Disc 4).chd" sha1="718c6a92d86cc31e4a8facabb934d5981771505d"/>
+		<url>https://retroachievements.org/game/22733/hashes</url>
+		<hash>6bb63c2724bcb1501065a05f4ca0f5fc</hash>
+		<hash>34190e677f44caa069405f5764d91847</hash>
+		<hash>e435b92cae97b4f17eb4b1b2058c9adb</hash>
+		<hash>c1652018224526881bb57ffcd79cfbd9</hash>
 	</machine>
 	
 	<machine name="Hack/Mega Man X5 - Improvement Project Addendum (v2.1.4) (acediez) (Hack)">
@@ -941,6 +948,14 @@
 		<hash>ddd79eba340be44502953c0b4d6e7611</hash>
 	</machine>
 	
+	<machine name="Retail/Arthur! Ready to Race (USA)">
+		<category></category>
+		<description>Arthur! Ready to Race (USA)</description>
+		<disk name="Arthur! Ready to Race (USA).chd" sha1="2288f894ca5f9452ec0c6289ff453f9d527cce79"/>
+		<url>https://retroachievements.org/game/28230/hashes</url>
+		<hash>2f195b0e6f7e16367a7c21a82e5e7f80</hash>
+	</machine>
+	
 	<machine name="Retail/Asterix - Mega Madness (Europe) (En,Fr,De,Es,It,Nl)">
 		<category></category>
 		<description>Asterix - Mega Madness (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -986,6 +1001,14 @@
 		<disk name="Disney's Atlantis - The Lost Empire (USA).chd" sha1="b3f6094a44c22f50589ab7eaa3abee23d5190ac2"/>
 		<url>https://retroachievements.org/game/17411/hashes</url>
 		<hash>ed6cb45639f80bf0e0617c123bb14e05</hash>
+	</machine>
+	
+	<machine name="Retail/Azumanga Donjara Daiou (Japan)">
+		<category></category>
+		<description>Azumanga Donjara Daiou (Japan)</description>
+		<disk name="Azumanga Donjara Daiou (Japan).chd" sha1="79f388b653bc0d6ff8dd68dbc15fb71fad557353"/>
+		<url>https://retroachievements.org/game/28877/hashes</url>
+		<hash>d4c7f33a098bcc87d2be65c0d7d7e34c</hash>
 	</machine>
 	
 	<machine name="Retail/Azure Dreams (USA)">
@@ -1061,6 +1084,14 @@
 		<url>https://retroachievements.org/game/6687/hashes</url>
 		<hash>257e3be530ce1a3136201e51913fdc4b</hash>
 		<hash>045743ab52b6fa4188349958fd684e66</hash>
+	</machine>
+	
+	<machine name="Retail/Beatmania (Europe)">
+		<category></category>
+		<description>Beatmania (Europe)</description>
+		<disk name="Beatmania (Europe).chd" sha1="c517b30a53c6f2a00bd811cae6d929b665ac7b11"/>
+		<url>https://retroachievements.org/game/32119/hashes</url>
+		<hash>777b62e4f1b59b39377ffe582c043063</hash>
 	</machine>
 	
 	<machine name="Retail/Beatmania featuring Dreams Come True (Japan)">
@@ -1445,6 +1476,14 @@
 		<disk name="Captain Commando (Japan).chd" sha1="ddac55d801e2a44c672e6991d40b52f064ec536e"/>
 		<url>https://retroachievements.org/game/18998/hashes</url>
 		<hash>84d7810ff6e872b438f7dcac19e60350</hash>
+	</machine>
+	
+	<machine name="Retail/Car and Driver Presents - Grand Tour Racing '98 (USA)">
+		<category></category>
+		<description>Car and Driver Presents - Grand Tour Racing '98 (USA)</description>
+		<disk name="Car and Driver Presents - Grand Tour Racing '98 (USA).chd" sha1="b9a63fc191ada5d5942c50fbfcee8befc10c6b5d"/>
+		<url>https://retroachievements.org/game/25969/hashes</url>
+		<hash>71e4b8a9bf64799e19b4d78b5fd941b1</hash>
 	</machine>
 	
 	<machine name="Retail/Cardinal Syn (USA)">
@@ -2461,6 +2500,14 @@
 		<hash>d67245e372418b9fbc77c0b1697eb4ca</hash>
 	</machine>
 	
+	<machine name="Retail/Dragon Seeds (USA)">
+		<category></category>
+		<description>Dragon Seeds (USA)</description>
+		<disk name="Dragon Seeds (USA).chd" sha1="e2f9062a3e442ecea041b7fdf2e93440f7dce5cc"/>
+		<url>https://retroachievements.org/game/20278/hashes</url>
+		<hash>beddb229cdd2b92a8b4eff95a7e637a3</hash>
+	</machine>
+	
 	<machine name="Retail/Driver 2/Driver 2 - Back on the Streets (France) (Rev 1)">
 		<category></category>
 		<description>Driver 2 - Back on the Streets (France) (Rev 1)</description>
@@ -2968,6 +3015,14 @@
 		<disk name="Floating Runner - Quest for the 7 Crystals (USA).chd" sha1="d0ee182930a464d278c791dbeb817d3916dd5907"/>
 		<url>https://retroachievements.org/game/17815/hashes</url>
 		<hash>0472783e8d29390bc144b9fd987f3de6</hash>
+	</machine>
+	
+	<machine name="Retail/Fluid (Europe)">
+		<category></category>
+		<description>Fluid (Europe)</description>
+		<disk name="Fluid (Europe).chd" sha1="580608999b20356d045c1a97616a83b63728504f"/>
+		<url>https://retroachievements.org/game/16328/hashes</url>
+		<hash>7bdbe8d38c24afbbc1f6f501c3fddc28</hash>
 	</machine>
 	
 	<machine name="Retail/Frogger (USA)">
@@ -3670,6 +3725,14 @@
 		<hash>f7f30ef8d97b8d6d3ee239182c296fc6</hash>
 	</machine>
 	
+	<machine name="Retail/Kahen Soukou Gunbike - Speed Power Gunbike (Japan)">
+		<category></category>
+		<description>Kahen Soukou Gunbike - Speed Power Gunbike (Japan)</description>
+		<disk name="Kahen Soukou Gunbike - Speed Power Gunbike (Japan).chd" sha1="33b8842368432f3a287230d2acda73edb0c306c9"/>
+		<url>https://retroachievements.org/game/6938/hashes</url>
+		<hash>9c9a7f81cb24adbb87b8cdd442733465</hash>
+	</machine>
+	
 	<machine name="Retail/Kamen Rider (Japan)">
 		<category></category>
 		<description>Kamen Rider (Japan)</description>
@@ -4213,12 +4276,19 @@
 		<hash>d83eb045c9b2158fe6b913ee199b6fe7</hash>
 	</machine>
 	
-	<machine name="Retail/Mega Man 8 (USA)">
+	<machine name="Retail/Mega Man 8/Mega Man 8 (USA)">
 		<category></category>
 		<description>Mega Man 8 (USA)</description>
 		<disk name="Mega Man 8 (USA).chd" sha1="e4e71e460de78f5a571f46fb2e1f5b940c9477c3"/>
 		<url>https://retroachievements.org/game/11365/hashes</url>
 		<hash>56e1638cce2742e679578cb75406b772</hash>
+	</machine>
+	<machine name="Retail/Mega Man 8/Mega Man 8 (USA) (Undub) (v1.4) (Acediez)">
+		<category></category>
+		<description>Mega Man 8 (USA) (Undub) (v1.4) (Acediez)</description>
+		<disk name="Mega Man 8 (USA) (Undub) (v1.4) (Acediez).chd" sha1="dd2616fa83dd6f386118865d119ec93ec0516792"/>
+		<url>https://retroachievements.org/game/11365/hashes</url>
+		<hash>239c6d26d5b25cada8a95e77b1a211f0</hash>
 	</machine>
 	
 	<machine name="Retail/Rockman - Battle &amp; Chase (Japan) (PlayStation the Best for Family)">
@@ -4813,6 +4883,14 @@
 		<disk name="Moto Racer 2 (USA).chd" sha1="9774c61b8408da3acfa3f241aa4f0945ab949094"/>
 		<url>https://retroachievements.org/game/16301/hashes</url>
 		<hash>3ff569b4c64e6c9d984b5ce10ee366d7</hash>
+	</machine>
+	
+	<machine name="Retail/Mr. Driller (USA)">
+		<category></category>
+		<description>Mr. Driller (USA)</description>
+		<disk name="Mr. Driller (USA).chd" sha1="ee77aba33f567946e8c6992e78effc3eb3dbd9f1"/>
+		<url>https://retroachievements.org/game/5573/hashes</url>
+		<hash>c93d24f8808f581b3fb19879d80fdf2f</hash>
 	</machine>
 	
 	<machine name="Retail/Mr. Prospector - Horiate-kun (Japan)">
@@ -6225,6 +6303,14 @@
 		<disk name="Shaman King - Spirit of Shamans (Japan).chd" sha1="832af23de1526358765b30687cb89d4d8b7155cb"/>
 		<url>https://retroachievements.org/game/4744/hashes</url>
 		<hash>d1111b4442cc42ac034d5d3965037a4c</hash>
+	</machine>
+	
+	<machine name="Retail/Sheep (USA)">
+		<category></category>
+		<description>Sheep (USA)</description>
+		<disk name="Sheep (USA).chd" sha1="41e434c0349691bbd4c2e3c09b4cc42df0d44b3e"/>
+		<url>https://retroachievements.org/game/22740/hashes</url>
+		<hash>edaae693eeea7f48b82fbb819e057552</hash>
 	</machine>
 	
 	<machine name="Retail/Shin Megami Tensei (Japan) (En) (Fothsid) (v1.1)">
@@ -7776,6 +7862,14 @@
 		<disk name="Toys (Europe) (En,Fr,De).chd" sha1="d10d0d48b6e24dcb7f5b1d0f45f7e0bbf566c5c8"/>
 		<url>https://retroachievements.org/game/16072/hashes</url>
 		<hash>c15b5434fe99dd753d9aced83a60aace</hash>
+	</machine>
+	
+	<machine name="Retail/Transformers - Beast Wars Transmetals (USA)">
+		<category></category>
+		<description>Transformers - Beast Wars Transmetals (USA)</description>
+		<disk name="Transformers - Beast Wars Transmetals (USA).chd" sha1="a630d36316591d55479e7fb3575b0fa48a0f6ae8"/>
+		<url>https://retroachievements.org/game/15404/hashes</url>
+		<hash>b5870dd0bfebf8eb60c2c9b6925e6208</hash>
 	</machine>
 	
 	<machine name="Retail/Transport Tycoon (Europe) (En,Fr,De,Es,It)">

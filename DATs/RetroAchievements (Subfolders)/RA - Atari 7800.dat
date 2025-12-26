@@ -5,8 +5,8 @@
 		<name>RA - Atari 7800</name>
 		<description>Atari 7800</description>
 		<category>Subfolders</category>
-		<version>20250630</version>
-		<date>30 June 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/51/games</url>
@@ -93,6 +93,14 @@
 		<hash>71ce8910b0efd5d0014a9695cce3b7ad</hash>
 	</game>
 	
+	<game name="Homebrew/Waffle Painter/Waffle Painter (USA) (v1.2) (Vivian Video) (Aftermarket)">
+		<category></category>
+		<description>Waffle Painter (USA) (v1.2) (Vivian Video) (Aftermarket)</description>
+		<rom name="Waffle Painter (USA) (v1.2) (Vivian Video) (Aftermarket).a78" size="32896" crc="4ce5f3ad" md5="184eb963a9cee8b41c9dadf4d2e6aeb9" sha1="875ce127e24803e4c27afce276eb02381c479a4d"/>
+		<url>https://retroachievements.org/game/36955/hashes</url>
+		<hash>a80b4433e8a257dfef07ef9f4cc70e33</hash>
+	</game>
+	
 	<game name="Prototype/Pit Fighter (USA) (Proto)">
 		<category></category>
 		<description>Pit Fighter (USA) (Proto)</description>
@@ -107,6 +115,14 @@
 		<rom name="Alien Brigade (USA).a78" size="147456" crc="c8849d36" md5="877dcc97a775ed55081864b2dbf5f1e2" sha1="a8629fac962cc20b263a60bb2d2386d605713387"/>
 		<url>https://retroachievements.org/game/12862/hashes</url>
 		<hash>877dcc97a775ed55081864b2dbf5f1e2</hash>
+	</game>
+	
+	<game name="Retail/Asteroids (USA)">
+		<category></category>
+		<description>Asteroids (USA)</description>
+		<rom name="Asteroids (USA).a78" size="16384" crc="dfb93f40" md5="07342c78619ba6ffcc61c10e907e3b50" sha1="d96ec4e043fcdacab367d8a69d29904b3b2896f1"/>
+		<url>https://retroachievements.org/game/13357/hashes</url>
+		<hash>07342c78619ba6ffcc61c10e907e3b50</hash>
 	</game>
 	
 	<game name="Retail/Ballblazer (USA)">

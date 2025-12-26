@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>No Subfolders</category>
-		<version>20251116</version>
-		<date>16 November 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/7/games</url>
@@ -286,6 +286,15 @@
 		<rom name="Final Fantasy - Economic Collapse (v1.2 + FF3 Sprites) (TheMysticalOne) (Hack).nes" size="262160" crc="b03d2fcf" md5="85365c426e4d794c55f7cb63160e44d2" sha1="1312c282ceb6bb36ae3ca2f2b6a78328043f2e67"/>
 		<url>https://retroachievements.org/game/33664/hashes</url>
 		<hash>0932a6ac54f1b853f42ddb02868dc56e</hash>
+	</game>
+	
+	<game name="SMB1 - Final Strikyu (v1.0) (DASTARD) (Hack)">
+		<category>Hack</category>
+		<description>SMB1 - Final Strikyu (v1.0) (DASTARD) (Hack)</description>
+		<release name="SMB1 - Final Strikyu (v1.0) (DASTARD) (Hack)" region="World"/>
+		<rom name="SMB1 - Final Strikyu (v1.0) (DASTARD) (Hack).nes" size="40976" crc="6bf03ab6" md5="a4842dee7e70d16eccd15e3b5430d38c" sha1="c897131e79e8f2c2ca830ca46113f9ed29dc8b7a"/>
+		<url>https://retroachievements.org/game/13383/hashes</url>
+		<hash>cea3b532073af3d2072092c3d7e49fc9</hash>
 	</game>
 	
 	<game name="Ghostbusters Remastered (v1.1) (Nesrocks) (Hack)">
@@ -1190,6 +1199,15 @@
 		<hash>0838c05c7f0987f6a29ae2bcf16bb9bb</hash>
 	</game>
 	
+	<game name="SMB1 - Super Ale Bros. Redux (v1.0c) (AleFunky) (Hack)">
+		<category>Hack</category>
+		<description>SMB1 - Super Ale Bros. Redux (v1.0c) (AleFunky) (Hack)</description>
+		<release name="SMB1 - Super Ale Bros. Redux (v1.0c) (AleFunky) (Hack)" region="World"/>
+		<rom name="SMB1 - Super Ale Bros. Redux (v1.0c) (AleFunky) (Hack).nes" size="524304" crc="c4350e51" md5="e4d6b418755754782779edbe293280b8" sha1="b668b3b2b30fe7e0370a8c50b772e569a50c2529"/>
+		<url>https://retroachievements.org/game/27345/hashes</url>
+		<hash>4d3408cd1ef5b5322e2618ad6517fc28</hash>
+	</game>
+	
 	<game name="SMB3 - Super Calm Bros. (v1.1) (PACO) (Hack)">
 		<category>Hack</category>
 		<description>SMB3 - Super Calm Bros. (v1.1) (PACO) (Hack)</description>
@@ -1527,6 +1545,15 @@
 		<hash>10cf1e1ae3ab6f83712d3dd45e80a16e</hash>
 	</game>
 	
+	<game name="SMB1 - Virtual Boy Mario (v1.1.1) (Green Jerry) (Hack)">
+		<category>Hack</category>
+		<description>SMB1 - Virtual Boy Mario (v1.1.1) (Green Jerry) (Hack)</description>
+		<release name="SMB1 - Virtual Boy Mario (v1.1.1) (Green Jerry) (Hack)" region="World"/>
+		<rom name="SMB1 - Virtual Boy Mario (v1.1.1) (Green Jerry) (Hack).nes" size="40976" crc="85fc41c2" md5="c3564c3434b7f473cb31622b067a933c" sha1="aea4aebafaddfb48dcdca621c7b3a2b2b233a717"/>
+		<url>https://retroachievements.org/game/16596/hashes</url>
+		<hash>930d8b89b032627eddbd38fed7e4a5d5</hash>
+	</game>
+	
 	<game name="SMB1 - Mario Vs. Airman (v1.0 - Mushroom Kingdom Added) (ATA) (Hack)">
 		<category>Hack</category>
 		<description>SMB1 - Mario Vs. Airman (v1.0 - Mushroom Kingdom Added) (ATA) (Hack)</description>
@@ -1681,15 +1708,6 @@
 		<rom name="Secret of NecroNancy, The (World) (Aftermarket).nes" size="524304" crc="ac32808c" md5="0d09e19cf38f13a796044148a4cdf84b" sha1="78362162cd781ce1a6d13e3eb541dcf791fdf369"/>
 		<url>https://retroachievements.org/game/25033/hashes</url>
 		<hash>1ca504d1fe7e644bba9be98b8be62b47</hash>
-	</game>
-	
-	<game name="Cookie Clicker (World) (Proto) (Aftermarket)">
-		<category>Homebrew</category>
-		<description>Cookie Clicker (World) (Proto) (Aftermarket)</description>
-		<release name="Cookie Clicker (World) (Proto) (Aftermarket)" region="World"/>
-		<rom name="Cookie Clicker (World) (Proto) (Aftermarket).nes" size="262160" crc="f145d2a0" md5="6b63c62e9be673c391162e473ce8391c" sha1="f3838c33a64cb0696559f5dfd179b2dbc83e2f45"/>
-		<url>https://retroachievements.org/game/13393/hashes</url>
-		<hash>b1ba60845163ae84afc3bc5165558202</hash>
 	</game>
 	
 	<game name="Wit, The (World) (Aftermarket)">
@@ -1938,6 +1956,15 @@
 		<rom name="Coin World (World) (Aftermarket).nes" size="40976" crc="6775b5d1" md5="03216d3b0786cd519d7717b5e035e089" sha1="5cd7c503efafdb1697d59175843b2debddc9a4ff"/>
 		<url>https://retroachievements.org/game/21495/hashes</url>
 		<hash>59607ac583962d2d6848ddc6d3afb57b</hash>
+	</game>
+	
+	<game name="Cookie Clicker (World) (Proto) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Cookie Clicker (World) (Proto) (Aftermarket)</description>
+		<release name="Cookie Clicker (World) (Proto) (Aftermarket)" region="World"/>
+		<rom name="Cookie Clicker (World) (Proto) (Aftermarket).nes" size="262160" crc="f145d2a0" md5="6b63c62e9be673c391162e473ce8391c" sha1="f3838c33a64cb0696559f5dfd179b2dbc83e2f45"/>
+		<url>https://retroachievements.org/game/13393/hashes</url>
+		<hash>b1ba60845163ae84afc3bc5165558202</hash>
 	</game>
 	
 	<game name="CUBE (World) (v1.08.1) (Aftermarket)">
@@ -3419,13 +3446,6 @@
 		<hash>a3a716c064ba73a0a165e5918bca4153</hash>
 	</game>
 	
-	<game name="Micro Machines (USA) (Aladdin Compact Cartridge) (Unl)" cloneof="Micro Machines (USA) (Unl)">
-		<category>Unlicensed</category>
-		<description>Micro Machines (USA) (Aladdin Compact Cartridge) (Unl)</description>
-		<rom name="Micro Machines (USA) (Aladdin Compact Cartridge) (Unl).nes" size="262160" crc="c91b11dc" md5="3f3bc88b26c46f45b31928f51f458ce7" sha1="2b435acb07cee52a520eda9d57935e5824e92dc1"/>
-		<url>https://retroachievements.org/game/5083/hashes</url>
-		<hash>1a9dd4d395d4cae369c586bfd4afff82</hash>
-	</game>
 	<game name="Micro Machines (USA) (Unl)">
 		<category>Unlicensed</category>
 		<description>Micro Machines (USA) (Unl)</description>
@@ -3433,14 +3453,6 @@
 		<rom name="Micro Machines (USA) (Unl).nes" size="262160" crc="2d39fd7b" md5="a445dc768c74834a163cfdddf2be6890" sha1="c8027702179cfeaed2c538d4eb5672e12a99f1ef"/>
 		<url>https://retroachievements.org/game/5083/hashes</url>
 		<hash>46a92436a4899fd3adc2f5097cdaa5dd</hash>
-	</game>
-	<game name="Micro Machines (USA) (Aladdin Compact Cartridge) (Pl) (Unl)" cloneof="Micro Machines (USA) (Unl)">
-		<category>Unlicensed</category>
-		<description>Micro Machines (USA) (Aladdin Compact Cartridge) (Pl) (Unl)</description>
-		<release name="Micro Machines (USA) (Aladdin Compact Cartridge) (Pl) (Unl)" region="Poland"/>
-		<rom name="Micro Machines (USA) (Aladdin Compact Cartridge) (Pl) (Unl).nes" size="262160" crc="d6193b76" md5="0cd908ba7381560c773e63093ef73a9d" sha1="1ed57400fb3d99b7e6cd36b5ec0542110877c5f6"/>
-		<url>https://retroachievements.org/game/5083/hashes</url>
-		<hash>5a28fc9c176769d206476416a515d17b</hash>
 	</game>
 	
 	<game name="Bei Tongfang Win 98 (China) (Unl)">
@@ -4000,6 +4012,22 @@
 		<hash>c4bfc3fdec05be0dffe68beed760dfc0</hash>
 	</game>
 	
+	<game name="Tetris (USA) (Tengen)">
+		<category>Retail</category>
+		<description>Tetris (USA) (Tengen)</description>
+		<rom name="Tetris (USA) (Tengen).nes" size="49168" crc="ae473687" md5="2aa73cc1b57a42a61e5cb3e84908064d" sha1="ae18422396bad1619153f1b156688399a2022a61"/>
+		<url>https://retroachievements.org/game/2023/hashes</url>
+		<hash>117c38986584c88263414b7abb98667c</hash>
+	</game>
+	<game name="Tetris (USA) (Tengen) (No Score Cap)" cloneof="Tetris (USA) (Tengen)">
+		<category>Retail</category>
+		<description>Tetris (USA) (Tengen) (No Score Cap)</description>
+		<release name="Tetris (USA) (Tengen) (No Score Cap)" region="USA"/>
+		<rom name="Tetris (USA) (Tengen) (No Score Cap).nes" size="49168" crc="d3d7827b" md5="2af85d0adbc1a4aa3531ff6d3b8d5c0c" sha1="6a22d66411924f6144daa2eddb2520d6637e7149"/>
+		<url>https://retroachievements.org/game/2023/hashes</url>
+		<hash>940de0f2258763abd113924e4cc02e5c</hash>
+	</game>
+	
 	<game name="Escape from Atlantis, The (USA) (Proto 2) (Unl)">
 		<category>Unlicensed</category>
 		<description>Escape from Atlantis, The (USA) (Proto 2) (Unl)</description>
@@ -4332,6 +4360,15 @@
 		<hash>84f06d39c96d4b875ba558654cd1b464</hash>
 	</game>
 	
+	<game name="Advanced Dungeons &amp; Dragons - DragonStrike (USA)">
+		<category>Retail</category>
+		<description>Advanced Dungeons &amp; Dragons - DragonStrike (USA)</description>
+		<release name="Advanced Dungeons &amp; Dragons - DragonStrike (USA)" region="USA"/>
+		<rom name="Advanced Dungeons &amp; Dragons - DragonStrike (USA).nes" size="524304" crc="af14702d" md5="0cb2acfd3b7d6c8daab5bc25fd6714fe" sha1="3080e471a96dd362ebd30778e438086284776706"/>
+		<url>https://retroachievements.org/game/1521/hashes</url>
+		<hash>5ee1587c34a475fd8bc372f04e4961e1</hash>
+	</game>
+	
 	<game name="Advanced Dungeons &amp; Dragons - Hillsfar (USA)">
 		<category>Retail</category>
 		<description>Advanced Dungeons &amp; Dragons - Hillsfar (USA)</description>
@@ -4575,62 +4612,6 @@
 		<rom name="Akumajou Densetsu (Japan).nes" size="393232" crc="2ead04c5" md5="cec72ea12b1e5c1798631c9024410f65" sha1="c3248da0b075ffe93f1d65aa8a1579c91e560309"/>
 		<url>https://retroachievements.org/game/5783/hashes</url>
 		<hash>75dbdf8d0de9b472eed5065bc0fe4129</hash>
-	</game>
-	
-	<game name="Akumajou Special - Boku Dracula-kun (Japan) (Fr) (v1.0) (Terminus)" cloneof="Akumajou Special - Boku Dracula-kun (Japan)">
-		<category>Retail</category>
-		<description>Akumajou Special - Boku Dracula-kun (Japan) (Fr) (v1.0) (Terminus)</description>
-		<release name="Akumajou Special - Boku Dracula-kun (Japan) (Fr) (v1.0) (Terminus)" region="France"/>
-		<rom name="Akumajou Special - Boku Dracula-kun (Japan) (Fr) (v1.0) (Terminus).nes" size="262160" crc="4f62f799" md5="39199d37960d4bcd8ada99478a609a11" sha1="d87cc49fe4670806bcd8c4f8286675f5fba30f12"/>
-		<url>https://retroachievements.org/game/2863/hashes</url>
-		<hash>1349d4dca5bdf2de21e10c316d3f7b47</hash>
-	</game>
-	<game name="Akumajou Special - Boku Dracula-kun (Japan) (En) (v1.04) (Vice)" cloneof="Akumajou Special - Boku Dracula-kun (Japan)">
-		<category>Retail</category>
-		<description>Akumajou Special - Boku Dracula-kun (Japan) (En) (v1.04) (Vice)</description>
-		<release name="Akumajou Special - Boku Dracula-kun (Japan) (En) (v1.04) (Vice)" region="English"/>
-		<rom name="Akumajou Special - Boku Dracula-kun (Japan) (En) (v1.04) (Vice).nes" size="262160" crc="f70dd01c" md5="42274f44e77e1ec18f714a919d763124" sha1="ecf3c21144d2a1d9fc6d9ac924fcbdbade198ed6"/>
-		<url>https://retroachievements.org/game/2863/hashes</url>
-		<hash>3e2a5957af0c11994069201fd9de324d</hash>
-	</game>
-	<game name="Kid Dracula (World) (Castlevania Anniversary Collection)" cloneof="Akumajou Special - Boku Dracula-kun (Japan)">
-		<category>Retail</category>
-		<description>Kid Dracula (World) (Castlevania Anniversary Collection)</description>
-		<release name="Kid Dracula (World) (Castlevania Anniversary Collection)" region="World"/>
-		<rom name="Kid Dracula (World) (Castlevania Anniversary Collection).nes" size="262160" crc="a677ac48" md5="cc17ba8fb8db20c53449c8a1a1bda08c" sha1="648737146ae02d7a7d0dd2e5d5e7858a61b159b5"/>
-		<url>https://retroachievements.org/game/2863/hashes</url>
-		<hash>5631eae8bc0845bb3b6876ad95832b4f</hash>
-	</game>
-	<game name="Akumajou Special - Boku Dracula-kun (Japan)">
-		<category>Retail</category>
-		<description>Akumajou Special - Boku Dracula-kun (Japan)</description>
-		<release name="Akumajou Special - Boku Dracula-kun (Japan)" region="Japan"/>
-		<rom name="Akumajou Special - Boku Dracula-kun (Japan).nes" size="262160" crc="c3945386" md5="658693554bef354a3e2811e5b259cbcd" sha1="8c25c42c514cf3a0d034239418815e234fb23ba4"/>
-		<url>https://retroachievements.org/game/2863/hashes</url>
-		<hash>96084e640ed9a02c644b39986c269662</hash>
-	</game>
-	<game name="Akumajou Special - Boku Dracula-kun (Japan) (En) (v1.03) (Vice)" cloneof="Akumajou Special - Boku Dracula-kun (Japan)">
-		<category>Retail</category>
-		<description>Akumajou Special - Boku Dracula-kun (Japan) (En) (v1.03) (Vice)</description>
-		<rom name="Akumajou Special - Boku Dracula-kun (Japan) (En) (v1.03) (Vice).nes" size="262160" crc="c65393b1" md5="579645323e515d4b1b0ad66145658a72" sha1="02c0d0a257f75dfe3df10e7a223258e04742b392"/>
-		<url>https://retroachievements.org/game/2863/hashes</url>
-		<hash>9a0012b3bbfcaba3ef7730a4ca6c8b3d</hash>
-	</game>
-	<game name="Akumajou Special - Boku Dracula-kun (Japan) (En) (v1.0) (Chronix)" cloneof="Akumajou Special - Boku Dracula-kun (Japan)">
-		<category>Retail</category>
-		<description>Akumajou Special - Boku Dracula-kun (Japan) (En) (v1.0) (Chronix)</description>
-		<rom name="Akumajou Special - Boku Dracula-kun (Japan) (En) (v1.0) (Chronix).nes" size="262160" crc="e0d556f9" md5="cc846c309a76fb965cd16faba171918d" sha1="ebae40950395303f6aeea31eff5ae61a33645c36"/>
-		<url>https://retroachievements.org/game/2863/hashes</url>
-		<hash>c68fa81d7cc3cc8a66c1f6391a385037</hash>
-	</game>
-	
-	<game name="Akumajou Special - Boku Dracula-kun (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Akumajou Special - Boku Dracula-kun (Subset - Bonus)</description>
-		<release name="Akumajou Special - Boku Dracula-kun (Subset - Bonus)" region="World"/>
-		<rom name="Akumajou Special - Boku Dracula-kun (Subset - Bonus).nes" size="262160" crc="d3e1d003" md5="a78c5bb4ef2fc3b72d06115cc421f4f4" sha1="2dde0b968409400022c937c36092a5a93804d0a1"/>
-		<url>https://retroachievements.org/game/1510/hashes</url>
-		<hash>1cbb2d6903fc0188426f08bb1c0be925</hash>
 	</game>
 	
 	<game name="Alex DeMeo's Race America (USA) (Ru) (uBAH009)" cloneof="Alex DeMeo's Race America (USA)">
@@ -5955,23 +5936,6 @@
 		<rom name="Choujin Sentai - Jetman (Japan).nes" size="262160" crc="69b355f1" md5="6568be2cdb51cff714b7818d17beed3b" sha1="d84a55694b87e636c22149c74fc78f1ff942d204"/>
 		<url>https://retroachievements.org/game/5808/hashes</url>
 		<hash>d9f661e8b3c9123cd7ae0583f911b34e</hash>
-	</game>
-	
-	<game name="Radia Senki - Reimei Hen (Japan) (En) (v1.0) (Dreamless, Jair, CX)" cloneof="Radia Senki - Reimei Hen (Japan)">
-		<category>Retail</category>
-		<description>Radia Senki - Reimei Hen (Japan) (En) (v1.0) (Dreamless, Jair, CX)</description>
-		<release name="Radia Senki - Reimei Hen (Japan) (En) (v1.0) (Dreamless, Jair, CX)" region="English"/>
-		<rom name="Radia Senki - Reimei Hen (Japan) (En) (v1.0) (Dreamless, Jair, CX).nes" size="393232" crc="1d76af30" md5="6f800e38643c65a193ecc4215748a9d9" sha1="87e8ac608dde48dceccc52e96b247086cb76c032"/>
-		<url>https://retroachievements.org/game/7161/hashes</url>
-		<hash>d8cb72cc00c627b8262d3897bbeea7d6</hash>
-	</game>
-	<game name="Radia Senki - Reimei Hen (Japan)">
-		<category>Retail</category>
-		<description>Radia Senki - Reimei Hen (Japan)</description>
-		<release name="Radia Senki - Reimei Hen (Japan)" region="Japan"/>
-		<rom name="Radia Senki - Reimei Hen (Japan).nes" size="393232" crc="d8e80ab8" md5="ac6212391cec9ce60b03031318fdd8da" sha1="1840ac43b904439b8011152597bfb339ac678274"/>
-		<url>https://retroachievements.org/game/7161/hashes</url>
-		<hash>f520d2c3cf075a7421efc134ac3dbaee</hash>
 	</game>
 	
 	<game name="Obake no Q Tarou - Wanwan Panic (Japan) (En) (v1.0) (pacnsacdave)" cloneof="Obake no Q Tarou - Wanwan Panic (Japan)">
@@ -9812,6 +9776,62 @@
 		<hash>b764dcf61b2b9b3bedb4a3e1bf0ebfe7</hash>
 	</game>
 	
+	<game name="Akumajou Special - Boku Dracula-kun (Japan) (Fr) (v1.0) (Terminus)" cloneof="Akumajou Special - Boku Dracula-kun (Japan)">
+		<category>Retail</category>
+		<description>Akumajou Special - Boku Dracula-kun (Japan) (Fr) (v1.0) (Terminus)</description>
+		<release name="Akumajou Special - Boku Dracula-kun (Japan) (Fr) (v1.0) (Terminus)" region="France"/>
+		<rom name="Akumajou Special - Boku Dracula-kun (Japan) (Fr) (v1.0) (Terminus).nes" size="262160" crc="4f62f799" md5="39199d37960d4bcd8ada99478a609a11" sha1="d87cc49fe4670806bcd8c4f8286675f5fba30f12"/>
+		<url>https://retroachievements.org/game/2863/hashes</url>
+		<hash>1349d4dca5bdf2de21e10c316d3f7b47</hash>
+	</game>
+	<game name="Akumajou Special - Boku Dracula-kun (Japan) (En) (v1.04) (Vice)" cloneof="Akumajou Special - Boku Dracula-kun (Japan)">
+		<category>Retail</category>
+		<description>Akumajou Special - Boku Dracula-kun (Japan) (En) (v1.04) (Vice)</description>
+		<release name="Akumajou Special - Boku Dracula-kun (Japan) (En) (v1.04) (Vice)" region="English"/>
+		<rom name="Akumajou Special - Boku Dracula-kun (Japan) (En) (v1.04) (Vice).nes" size="262160" crc="f70dd01c" md5="42274f44e77e1ec18f714a919d763124" sha1="ecf3c21144d2a1d9fc6d9ac924fcbdbade198ed6"/>
+		<url>https://retroachievements.org/game/2863/hashes</url>
+		<hash>3e2a5957af0c11994069201fd9de324d</hash>
+	</game>
+	<game name="Kid Dracula (World) (Castlevania Anniversary Collection)" cloneof="Akumajou Special - Boku Dracula-kun (Japan)">
+		<category>Retail</category>
+		<description>Kid Dracula (World) (Castlevania Anniversary Collection)</description>
+		<release name="Kid Dracula (World) (Castlevania Anniversary Collection)" region="World"/>
+		<rom name="Kid Dracula (World) (Castlevania Anniversary Collection).nes" size="262160" crc="a677ac48" md5="cc17ba8fb8db20c53449c8a1a1bda08c" sha1="648737146ae02d7a7d0dd2e5d5e7858a61b159b5"/>
+		<url>https://retroachievements.org/game/2863/hashes</url>
+		<hash>5631eae8bc0845bb3b6876ad95832b4f</hash>
+	</game>
+	<game name="Akumajou Special - Boku Dracula-kun (Japan)">
+		<category>Retail</category>
+		<description>Akumajou Special - Boku Dracula-kun (Japan)</description>
+		<release name="Akumajou Special - Boku Dracula-kun (Japan)" region="Japan"/>
+		<rom name="Akumajou Special - Boku Dracula-kun (Japan).nes" size="262160" crc="c3945386" md5="658693554bef354a3e2811e5b259cbcd" sha1="8c25c42c514cf3a0d034239418815e234fb23ba4"/>
+		<url>https://retroachievements.org/game/2863/hashes</url>
+		<hash>96084e640ed9a02c644b39986c269662</hash>
+	</game>
+	<game name="Akumajou Special - Boku Dracula-kun (Japan) (En) (v1.03) (Vice)" cloneof="Akumajou Special - Boku Dracula-kun (Japan)">
+		<category>Retail</category>
+		<description>Akumajou Special - Boku Dracula-kun (Japan) (En) (v1.03) (Vice)</description>
+		<rom name="Akumajou Special - Boku Dracula-kun (Japan) (En) (v1.03) (Vice).nes" size="262160" crc="c65393b1" md5="579645323e515d4b1b0ad66145658a72" sha1="02c0d0a257f75dfe3df10e7a223258e04742b392"/>
+		<url>https://retroachievements.org/game/2863/hashes</url>
+		<hash>9a0012b3bbfcaba3ef7730a4ca6c8b3d</hash>
+	</game>
+	<game name="Akumajou Special - Boku Dracula-kun (Japan) (En) (v1.0) (Chronix)" cloneof="Akumajou Special - Boku Dracula-kun (Japan)">
+		<category>Retail</category>
+		<description>Akumajou Special - Boku Dracula-kun (Japan) (En) (v1.0) (Chronix)</description>
+		<rom name="Akumajou Special - Boku Dracula-kun (Japan) (En) (v1.0) (Chronix).nes" size="262160" crc="e0d556f9" md5="cc846c309a76fb965cd16faba171918d" sha1="ebae40950395303f6aeea31eff5ae61a33645c36"/>
+		<url>https://retroachievements.org/game/2863/hashes</url>
+		<hash>c68fa81d7cc3cc8a66c1f6391a385037</hash>
+	</game>
+	
+	<game name="Akumajou Special - Boku Dracula-kun (Subset - Bonus)">
+		<category>Subset</category>
+		<description>Akumajou Special - Boku Dracula-kun (Subset - Bonus)</description>
+		<release name="Akumajou Special - Boku Dracula-kun (Subset - Bonus)" region="World"/>
+		<rom name="Akumajou Special - Boku Dracula-kun (Subset - Bonus).nes" size="262160" crc="d3e1d003" md5="a78c5bb4ef2fc3b72d06115cc421f4f4" sha1="2dde0b968409400022c937c36092a5a93804d0a1"/>
+		<url>https://retroachievements.org/game/1510/hashes</url>
+		<hash>1cbb2d6903fc0188426f08bb1c0be925</hash>
+	</game>
+	
 	<game name="Kid Icarus (USA, Europe) (Pt) (v0.95) (Mini Translations)" cloneof="Kid Icarus (USA, Europe) (Rev 1)">
 		<category>Retail</category>
 		<description>Kid Icarus (USA, Europe) (Pt) (v0.95) (Mini Translations)</description>
@@ -11316,6 +11336,31 @@
 		<hash>eff2d999a9a379f1ab52037188ac3404</hash>
 	</game>
 	
+	<game name="Mike Tyson's Punch-Out!! (Japan, USA) (En)" cloneof="Mike Tyson's Punch-Out!! (Japan, USA) (En) (Rev 1)">
+		<category>Retail</category>
+		<description>Mike Tyson's Punch-Out!! (Japan, USA) (En)</description>
+		<rom name="Mike Tyson's Punch-Out!! (Japan, USA) (En).nes" size="262160" crc="12f19390" md5="fbd32719ea0917f37cf059c02c87b662" sha1="afe3a325657bd9a19612ac064847137d9258d2a4"/>
+		<url>https://retroachievements.org/game/1489/hashes</url>
+		<hash>1ddde6a84e43ad524a3f81fbfe22f9fc</hash>
+	</game>
+	<game name="Mike Tyson's Punch-Out!! (Japan, USA) (En) (Rev 1)">
+		<category>Retail</category>
+		<description>Mike Tyson's Punch-Out!! (Japan, USA) (En) (Rev 1)</description>
+		<release name="Mike Tyson's Punch-Out!! (Japan, USA) (En) (Rev 1)" region="USA"/>
+		<rom name="Mike Tyson's Punch-Out!! (Japan, USA) (En) (Rev 1).nes" size="262160" crc="acd20bd8" md5="2e3d646eecbcdb6e7da3d0a6edfb325b" sha1="61c3a89eef9dd09790d22a897ae876ceeec944a3"/>
+		<url>https://retroachievements.org/game/1489/hashes</url>
+		<hash>5bc7fac06e58fda15fd981fd03572c34</hash>
+	</game>
+	
+	<game name="Mike Tyson's Punch-Out!! (Subset - Bonus)">
+		<category>Subset</category>
+		<description>Mike Tyson's Punch-Out!! (Subset - Bonus)</description>
+		<release name="Mike Tyson's Punch-Out!! (Subset - Bonus)" region="World"/>
+		<rom name="Mike Tyson's Punch-Out!! (Subset - Bonus).nes" size="262160" crc="3c26cbc5" md5="ad25b56b01b18f3258900e783b237b54" sha1="434a950b40e5402bc0af6178aa41433e61456d0a"/>
+		<url>https://retroachievements.org/game/17378/hashes</url>
+		<hash>ea57d53f19de1a72e8d2b628115c00cf</hash>
+	</game>
+	
 	<game name="Meikyuu Kumikyoku - Milon no Daibouken (Japan)" cloneof="Milon's Secret Castle (USA)">
 		<category>Retail</category>
 		<description>Meikyuu Kumikyoku - Milon no Daibouken (Japan)</description>
@@ -12537,31 +12582,6 @@
 		<hash>d292d34547c4eacb9ce9f42b8992ee1f</hash>
 	</game>
 	
-	<game name="Mike Tyson's Punch-Out!! (Japan, USA) (En)" cloneof="Mike Tyson's Punch-Out!! (Japan, USA) (En) (Rev 1)">
-		<category>Retail</category>
-		<description>Mike Tyson's Punch-Out!! (Japan, USA) (En)</description>
-		<rom name="Mike Tyson's Punch-Out!! (Japan, USA) (En).nes" size="262160" crc="12f19390" md5="fbd32719ea0917f37cf059c02c87b662" sha1="afe3a325657bd9a19612ac064847137d9258d2a4"/>
-		<url>https://retroachievements.org/game/1489/hashes</url>
-		<hash>1ddde6a84e43ad524a3f81fbfe22f9fc</hash>
-	</game>
-	<game name="Mike Tyson's Punch-Out!! (Japan, USA) (En) (Rev 1)">
-		<category>Retail</category>
-		<description>Mike Tyson's Punch-Out!! (Japan, USA) (En) (Rev 1)</description>
-		<release name="Mike Tyson's Punch-Out!! (Japan, USA) (En) (Rev 1)" region="USA"/>
-		<rom name="Mike Tyson's Punch-Out!! (Japan, USA) (En) (Rev 1).nes" size="262160" crc="acd20bd8" md5="2e3d646eecbcdb6e7da3d0a6edfb325b" sha1="61c3a89eef9dd09790d22a897ae876ceeec944a3"/>
-		<url>https://retroachievements.org/game/1489/hashes</url>
-		<hash>5bc7fac06e58fda15fd981fd03572c34</hash>
-	</game>
-	
-	<game name="Mike Tyson's Punch-Out!! (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Mike Tyson's Punch-Out!! (Subset - Bonus)</description>
-		<release name="Mike Tyson's Punch-Out!! (Subset - Bonus)" region="World"/>
-		<rom name="Mike Tyson's Punch-Out!! (Subset - Bonus).nes" size="262160" crc="3c26cbc5" md5="ad25b56b01b18f3258900e783b237b54" sha1="434a950b40e5402bc0af6178aa41433e61456d0a"/>
-		<url>https://retroachievements.org/game/17378/hashes</url>
-		<hash>ea57d53f19de1a72e8d2b628115c00cf</hash>
-	</game>
-	
 	<game name="Puss 'n Boots - Pero's Great Adventure (USA)">
 		<category>Retail</category>
 		<description>Puss 'n Boots - Pero's Great Adventure (USA)</description>
@@ -12731,6 +12751,23 @@
 		<rom name="Rad Racer II (USA).nes" size="131088" crc="33f0fc16" md5="1d730af50e59f93b2df480735aa856eb" sha1="5679a384aab6e5331df98ba2bd4693f8d10762b7"/>
 		<url>https://retroachievements.org/game/1899/hashes</url>
 		<hash>a4be48d5fb2a27ab0c75c43b83d13cdf</hash>
+	</game>
+	
+	<game name="Radia Senki - Reimei Hen (Japan) (En) (v1.0) (Dreamless, Jair, CX)" cloneof="Radia Senki - Reimei Hen (Japan)">
+		<category>Retail</category>
+		<description>Radia Senki - Reimei Hen (Japan) (En) (v1.0) (Dreamless, Jair, CX)</description>
+		<release name="Radia Senki - Reimei Hen (Japan) (En) (v1.0) (Dreamless, Jair, CX)" region="English"/>
+		<rom name="Radia Senki - Reimei Hen (Japan) (En) (v1.0) (Dreamless, Jair, CX).nes" size="393232" crc="1d76af30" md5="6f800e38643c65a193ecc4215748a9d9" sha1="87e8ac608dde48dceccc52e96b247086cb76c032"/>
+		<url>https://retroachievements.org/game/7161/hashes</url>
+		<hash>d8cb72cc00c627b8262d3897bbeea7d6</hash>
+	</game>
+	<game name="Radia Senki - Reimei Hen (Japan)">
+		<category>Retail</category>
+		<description>Radia Senki - Reimei Hen (Japan)</description>
+		<release name="Radia Senki - Reimei Hen (Japan)" region="Japan"/>
+		<rom name="Radia Senki - Reimei Hen (Japan).nes" size="393232" crc="d8e80ab8" md5="ac6212391cec9ce60b03031318fdd8da" sha1="1840ac43b904439b8011152597bfb339ac678274"/>
+		<url>https://retroachievements.org/game/7161/hashes</url>
+		<hash>f520d2c3cf075a7421efc134ac3dbaee</hash>
 	</game>
 	
 	<game name="Rally Bike (USA)">
@@ -13028,14 +13065,6 @@
 		<url>https://retroachievements.org/game/5352/hashes</url>
 		<hash>0de9520f38cd7b1e59cc285ad57c3852</hash>
 	</game>
-	<game name="Yousei Monogatari - Rod Land (Japan)" cloneof="Rodland (Europe)">
-		<category>Retail</category>
-		<description>Yousei Monogatari - Rod Land (Japan)</description>
-		<release name="Yousei Monogatari - Rod Land (Japan)" region="Japan"/>
-		<rom name="Yousei Monogatari - Rod Land (Japan).nes" size="131088" crc="aa6479fd" md5="2bc1c371780210733471eff3c04b20ca" sha1="5c2977be8206a7abcec0f81ec15cd2d71896502b"/>
-		<url>https://retroachievements.org/game/5352/hashes</url>
-		<hash>17f9fd7dc35ae7125da454e8813e0dfb</hash>
-	</game>
 	
 	<game name="Rollerball (USA)">
 		<category>Retail</category>
@@ -13239,6 +13268,15 @@
 		<rom name="Seicross (Japan) (Rev 1).nes" size="40976" crc="5edaa583" md5="12931641fb0794346dce71c95777a86b" sha1="11ac6aa4ad7102dbe626514c8693abfe3880925f"/>
 		<url>https://retroachievements.org/game/1933/hashes</url>
 		<hash>da992a40c38b770085c68ee3f8fcef8a</hash>
+	</game>
+	
+	<game name="Sesame Street - 123 (USA)">
+		<category>Retail</category>
+		<description>Sesame Street - 123 (USA)</description>
+		<release name="Sesame Street - 123 (USA)" region="USA"/>
+		<rom name="Sesame Street - 123 (USA).nes" size="65552" crc="7f72fd74" md5="a60555b4d0eaf3f4c68f45afb644028c" sha1="0a80e8f913145ff9f8cd877a644c07548024a7f3"/>
+		<url>https://retroachievements.org/game/1934/hashes</url>
+		<hash>3f071c7839c4b04200ad0a4ee73bf44c</hash>
 	</game>
 	
 	<game name="Sesame Street - Big Bird's Hide &amp; Speak (USA)">
@@ -13712,6 +13750,23 @@
 		<rom name="Spelunker (Japan).nes" size="40976" crc="1903f7fb" md5="78374ff795b190c80be1ed13dbe4b80a" sha1="684ec0d785c66aeaacdbc4755a1d833004c4ff04"/>
 		<url>https://retroachievements.org/game/1968/hashes</url>
 		<hash>fa06939555ba9fc56039e1b7a171eb07</hash>
+	</game>
+	
+	<game name="Spelunker II - Yuusha e no Chousen (Japan)">
+		<category>Retail</category>
+		<description>Spelunker II - Yuusha e no Chousen (Japan)</description>
+		<release name="Spelunker II - Yuusha e no Chousen (Japan)" region="Japan"/>
+		<rom name="Spelunker II - Yuusha e no Chousen (Japan).nes" size="131088" crc="67b12eb4" md5="e6f3debd3638beba235c0e68fc82663d" sha1="622c57e2354599adb0b070600468364a32886488"/>
+		<url>https://retroachievements.org/game/5097/hashes</url>
+		<hash>f49fa32d46fde0234f81c5d7094f1ca6</hash>
+	</game>
+	<game name="Spelunker II - Yuusha e no Chousen (Japan) (En) (v1.01b) (Cabal Translations)" cloneof="Spelunker II - Yuusha e no Chousen (Japan)">
+		<category>Retail</category>
+		<description>Spelunker II - Yuusha e no Chousen (Japan) (En) (v1.01b) (Cabal Translations)</description>
+		<release name="Spelunker II - Yuusha e no Chousen (Japan) (En) (v1.01b) (Cabal Translations)" region="English"/>
+		<rom name="Spelunker II - Yuusha e no Chousen (Japan) (En) (v1.01b) (Cabal Translations).nes" size="262160" crc="872a3111" md5="87b44a3a0ca9b5c6d2d9251e6fda3328" sha1="bdda57d280a5952e1114359291cf3b40bba406a6"/>
+		<url>https://retroachievements.org/game/5097/hashes</url>
+		<hash>9599e442b8eb56e05a3020e5580cb533</hash>
 	</game>
 	
 	<game name="Spider-Man - Return of the Sinister Six (USA)">
@@ -14364,6 +14419,15 @@
 		<hash>ced3c31404b2f2da3c4c6e6bb090e752</hash>
 	</game>
 	
+	<game name="Target - Renegade (USA)">
+		<category>Retail</category>
+		<description>Target - Renegade (USA)</description>
+		<release name="Target - Renegade (USA)" region="USA"/>
+		<rom name="Target - Renegade (USA).nes" size="262160" crc="6f2d5e04" md5="772a08465bd10363e7d23e9344da5718" sha1="257d4a88c03ea3ed373c7e188cdae981a26ed00b"/>
+		<url>https://retroachievements.org/game/2010/hashes</url>
+		<hash>1713e526eeaefe4c8940c856b7e3e04e</hash>
+	</game>
+	
 	<game name="Transformers (USA) (NintendoAge)" cloneof="Tatakae! Chou Robot Seimeitai Transformers - Convoy no Nazo (Japan)">
 		<category>Retail</category>
 		<description>Transformers (USA) (NintendoAge)</description>
@@ -14566,22 +14630,6 @@
 		<rom name="Tetris (Nintendo) (Subset - Master).nes" size="49168" crc="337ee448" md5="91f573dbb29278523e776957288bfd55" sha1="87ba54804ee8ff2545a97344056f4df1ccc9409f"/>
 		<url>https://retroachievements.org/game/34489/hashes</url>
 		<hash>4ef1a460a9356e63477e5538760e0a62</hash>
-	</game>
-	
-	<game name="Tetris (USA) (Tengen)">
-		<category>Retail</category>
-		<description>Tetris (USA) (Tengen)</description>
-		<rom name="Tetris (USA) (Tengen).nes" size="49168" crc="ae473687" md5="2aa73cc1b57a42a61e5cb3e84908064d" sha1="ae18422396bad1619153f1b156688399a2022a61"/>
-		<url>https://retroachievements.org/game/2023/hashes</url>
-		<hash>117c38986584c88263414b7abb98667c</hash>
-	</game>
-	<game name="Tetris (USA) (Tengen) (No Score Cap)" cloneof="Tetris (USA) (Tengen)">
-		<category>Retail</category>
-		<description>Tetris (USA) (Tengen) (No Score Cap)</description>
-		<release name="Tetris (USA) (Tengen) (No Score Cap)" region="USA"/>
-		<rom name="Tetris (USA) (Tengen) (No Score Cap).nes" size="49168" crc="d3d7827b" md5="2af85d0adbc1a4aa3531ff6d3b8d5c0c" sha1="6a22d66411924f6144daa2eddb2520d6637e7149"/>
-		<url>https://retroachievements.org/game/2023/hashes</url>
-		<hash>940de0f2258763abd113924e4cc02e5c</hash>
 	</game>
 	
 	<game name="Tetris 2 (USA)" cloneof="Tetris 2 (Europe)">

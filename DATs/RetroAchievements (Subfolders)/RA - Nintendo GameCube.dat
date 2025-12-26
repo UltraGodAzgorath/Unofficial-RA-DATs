@@ -5,8 +5,8 @@
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
 		<category>Subfolders</category>
-		<version>20251116</version>
-		<date>16 November 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/16/games</url>
@@ -79,6 +79,14 @@
 		<hash>eac6965e4b579397917a72ca108b8a90</hash>
 	</game>
 	
+	<game name="Hack/Metroid Prime - Double Trouble (v1.15) (Fantaselion) (Hack)">
+		<category></category>
+		<description>Metroid Prime - Double Trouble (v1.15) (Fantaselion) (Hack)</description>
+		<rom name="Metroid Prime - Double Trouble (v1.15) (Fantaselion) (Hack).rvz" size="1134711368" crc="75dc9dce" md5="480532b0b4c5ca5b1a9adf71c45892a5" sha1="b6d744261ad3ab25aa109211ec91a33e7b1612cb"/>
+		<url>https://retroachievements.org/game/36636/hashes</url>
+		<hash>f7d0fdd44db4982b915e2951f72815a9</hash>
+	</game>
+	
 	<game name="Hack/Metroid Prime - Trial of Strength (v1.2) (Uncle Reggie) (Hack)">
 		<category></category>
 		<description>Metroid Prime - Trial of Strength (v1.2) (Uncle Reggie) (Hack)</description>
@@ -93,6 +101,13 @@
 		<rom name="Paper Mario TTYD - The Tower of Trials (v3.13 r58) (Jdaster64) (Hack).rvz" size="337458080" crc="0688e0c9" md5="503714d275ac30600426d2db092b5cbf" sha1="8c2dbbd27253af7fea7eb0c9d7e334f354f15429"/>
 		<url>https://retroachievements.org/game/31187/hashes</url>
 		<hash>1c461e3c8884490f767b3235c8a80231</hash>
+	</game>
+	<game name="Hack/Paper Mario TTYD - The Tower of Trials (v3.13 r60) (Jdaster64) (Hack)">
+		<category></category>
+		<description>Paper Mario TTYD - The Tower of Trials (v3.13 r60) (Jdaster64) (Hack)</description>
+		<rom name="Paper Mario TTYD - The Tower of Trials (v3.13 r60) (Jdaster64) (Hack).rvz" size="337458108" crc="eae9c182" md5="643fbb6f30a07c6e6412b359ef0028e4" sha1="c34e7d66ab4c7f45b980876dcac2af1afb4ca5b5"/>
+		<url>https://retroachievements.org/game/31187/hashes</url>
+		<hash>ae3a0ed61dae8fd03c697ffdfee860fc</hash>
 	</game>
 	
 	<game name="Hack/Pikmin 2 - Pikmin 1^2 (v1.1) (PikHacker) (Hack)">
@@ -119,17 +134,10 @@
 		<hash>6e875844552132c360421f1af9b0050a</hash>
 	</game>
 	
-	<game name="Hack/Pikmin 2 - Regrown/Pikmin 2 - Regrown (v2.1) (Ochrehorns) (Hack)">
+	<game name="Hack/Pikmin 2 - Regrown (v2.1) (Ochrehorns) (Hack)">
 		<category></category>
 		<description>Pikmin 2 - Regrown (v2.1) (Ochrehorns) (Hack)</description>
-		<rom name="Pikmin 2 - Regrown (v2.1) (Ochrehorns) (Hack).rvz" size="1104775340" crc="ce0b5ee1" md5="074606bb6d470524c21440012df7ec6e" sha1="6bde3f5b191ad62521fb490b7f1bcf47f0247569"/>
-		<url>https://retroachievements.org/game/34511/hashes</url>
-		<hash>00762fc3fefc5d2b5d39fadc88986de7</hash>
-	</game>
-	<game name="Hack/Pikmin 2 - Regrown/Pikmin 2 - Regrown (Hack)">
-		<category></category>
-		<description>Pikmin 2 - Regrown (Hack)</description>
-		<rom name="Pikmin 2 - Regrown (Hack).rvz" size="1104775340" crc="ce0b5ee1" md5="074606bb6d470524c21440012df7ec6e" sha1="6bde3f5b191ad62521fb490b7f1bcf47f0247569"/>
+		<rom name="Pikmin 2 - Regrown (v2.1) (Ochrehorns) (Hack).rvz" size="1106261260" crc="7cf6fee0" md5="653ec986768710eb8d2ecbb68086b379" sha1="1834eecaa37ee34f26ca4427b88c11a050aebae4"/>
 		<url>https://retroachievements.org/game/34511/hashes</url>
 		<hash>493ece9091315b6e4c9f13c38e454bfe</hash>
 	</game>
@@ -1608,14 +1616,6 @@
 		<hash>4f5aeb86025ba2546acbca6370138d8d</hash>
 	</game>
 	
-	<game name="Retail/SpongeBob SquarePants Movie, The (USA) (Rev 1)">
-		<category></category>
-		<description>SpongeBob SquarePants Movie, The (USA) (Rev 1)</description>
-		<rom name="SpongeBob SquarePants Movie, The (USA) (Rev 1).rvz" size="689110304" crc="d4744070" md5="48e1465a9b79061ea8e9b79b5875e6a2" sha1="a8838558d9682fbcf95e616f932ed911bcd21e54"/>
-		<url>https://retroachievements.org/game/15376/hashes</url>
-		<hash>034a9a1905978fdfaaa7d6f3fc85ca2a</hash>
-	</game>
-	
 	<game name="Retail/Star Fox Adventures (USA) (Rev 1)">
 		<category></category>
 		<description>Star Fox Adventures (USA) (Rev 1)</description>
@@ -2030,6 +2030,14 @@
 		<hash>8f0b014a1da84167f3f8f8b2145b95cd</hash>
 	</game>
 	
+	<game name="Retail/Super Smash Bros. Melee (USA) (En,Ja) (Rev 2) (C-Stick in Single-Player) (Subset - Very Hard Runs)">
+		<category></category>
+		<description>Super Smash Bros. Melee (USA) (En,Ja) (Rev 2) (C-Stick in Single-Player) (Subset - Very Hard Runs)</description>
+		<rom name="Super Smash Bros. Melee (USA) (En,Ja) (Rev 2) (C-Stick in Single-Player) (Subset - Very Hard Runs).rvz" size="1133065580" crc="16cdeca8" md5="92408767b9ed4c55b03ce9fc7c5492ba" sha1="9c279b016c46f0e3089a4e154ebaf416346f44f0"/>
+		<url>https://retroachievements.org/game/37208/hashes</url>
+		<hash>a0ae1395ad7df02729858a5ecc8486dd</hash>
+	</game>
+	
 	<game name="Retail/Swingerz Golf (USA)">
 		<category></category>
 		<description>Swingerz Golf (USA)</description>
@@ -2188,6 +2196,14 @@
 		<rom name="Simpsons, The - Road Rage (USA).rvz" size="591019492" crc="8c609b4a" md5="73bddce1f432dc31e570e57631653316" sha1="276fd4cd6002ceb6c679d618c83f11661213d3db"/>
 		<url>https://retroachievements.org/game/6343/hashes</url>
 		<hash>25cd098ca8abb5ee642abb9a9459a575</hash>
+	</game>
+	
+	<game name="Retail/SpongeBob SquarePants Movie, The (USA) (Rev 1)">
+		<category></category>
+		<description>SpongeBob SquarePants Movie, The (USA) (Rev 1)</description>
+		<rom name="SpongeBob SquarePants Movie, The (USA) (Rev 1).rvz" size="689110304" crc="d4744070" md5="48e1465a9b79061ea8e9b79b5875e6a2" sha1="a8838558d9682fbcf95e616f932ed911bcd21e54"/>
+		<url>https://retroachievements.org/game/15376/hashes</url>
+		<hash>034a9a1905978fdfaaa7d6f3fc85ca2a</hash>
 	</game>
 	
 	<game name="Retail/TimeSplitters - Future Perfect (USA)">

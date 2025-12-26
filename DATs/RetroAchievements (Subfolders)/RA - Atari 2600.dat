@@ -5,8 +5,8 @@
 		<name>RA - Atari 2600</name>
 		<description>Atari 2600</description>
 		<category>Subfolders</category>
-		<version>20251026</version>
-		<date>26 October 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/25/games</url>
@@ -184,6 +184,14 @@
 		<rom name="Punch Out (NTSC) (Demake) (MathanGames) (Aftermarket).a26" size="32768" crc="780db785" md5="ea6a1cdd1b14eac02759ea6372cfc1f5" sha1="b9d93a04b7fe83ef6782c1145819de24cc4c0f0f"/>
 		<url>https://retroachievements.org/game/25021/hashes</url>
 		<hash>ea6a1cdd1b14eac02759ea6372cfc1f5</hash>
+	</game>
+	
+	<game name="Homebrew/Rock Shot (NTSC) (Vivian Video) (Aftermarket)">
+		<category></category>
+		<description>Rock Shot (NTSC) (Vivian Video) (Aftermarket)</description>
+		<rom name="Rock Shot (NTSC) (Vivian Video) (Aftermarket).a26" size="4096" crc="654c7274" md5="d92c1ebe55807fab5921d960130d6925" sha1="25c1338cc954bf903136258cf162f5a584f97b89"/>
+		<url>https://retroachievements.org/game/36536/hashes</url>
+		<hash>d92c1ebe55807fab5921d960130d6925</hash>
 	</game>
 	
 	<game name="Homebrew/Sheep It Up/Sheep It Up! (World) (PAL) (Aftermarket)">

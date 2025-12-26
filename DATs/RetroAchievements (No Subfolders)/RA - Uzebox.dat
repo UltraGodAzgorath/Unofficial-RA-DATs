@@ -5,8 +5,8 @@
 		<name>RA - Uzebox</name>
 		<description>Uzebox</description>
 		<category>No Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/80/games</url>
@@ -107,6 +107,14 @@
 		<rom name="Circuit Puzzle (World) (Artcfox).uze" size="60260" crc="64ccda9e" md5="3554678c7668db469c667d3588268146" sha1="afcf69ed5925c93d2c04887b95f476ff1dfe1a72"/>
 		<url>https://retroachievements.org/game/24800/hashes</url>
 		<hash>3554678c7668db469c667d3588268146</hash>
+	</game>
+	
+	<game name="Columns (World) (D3thAdd3r)">
+		<category>Retail</category>
+		<description>Columns (World) (D3thAdd3r)</description>
+		<rom name="Columns (World) (D3thAdd3r).uze" size="60448" crc="638808d2" md5="991e6c0b0bb37eea3010fc3dc77a4f7e" sha1="74ebc5df6b711b44c74dfa22e5493467da441a53"/>
+		<url>https://retroachievements.org/game/24731/hashes</url>
+		<hash>991e6c0b0bb37eea3010fc3dc77a4f7e</hash>
 	</game>
 	
 	<game name="Das Boot (World) (KILO)">
@@ -235,6 +243,14 @@
 		<rom name="Sokoban World (World) (Final) (D3thAdd3r).uze" size="61890" crc="092a4b27" md5="ac982cd2d7c9dc7a6cf3f0c3118a56ae" sha1="9647e50f703c660b4e442a1d52bcf7e6cd2e8413"/>
 		<url>https://retroachievements.org/game/24770/hashes</url>
 		<hash>ac982cd2d7c9dc7a6cf3f0c3118a56ae</hash>
+	</game>
+	
+	<game name="Sokoban World 2 (World) (D3thAdd3r)">
+		<category>Retail</category>
+		<description>Sokoban World 2 (World) (D3thAdd3r)</description>
+		<rom name="Sokoban World 2 (World) (D3thAdd3r).uze" size="61692" crc="b617e0e6" md5="c98854e5d947a169193fb0c6368ce244" sha1="c2b636a75b4b2157b3ecc8a44abfd7dad2486210"/>
+		<url>https://retroachievements.org/game/27961/hashes</url>
+		<hash>c98854e5d947a169193fb0c6368ce244</hash>
 	</game>
 	
 	<game name="Solitaire (World) (Final) (D3thAdd3r)">

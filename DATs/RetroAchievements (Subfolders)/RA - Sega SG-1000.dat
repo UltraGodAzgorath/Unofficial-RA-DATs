@@ -5,8 +5,8 @@
 		<name>RA - Sega SG-1000</name>
 		<description>Sega SG-1000</description>
 		<category>Subfolders</category>
-		<version>20250727</version>
-		<date>27 July 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/33/games</url>
@@ -859,5 +859,13 @@
 		<rom name="Zippy Race (Taiwan) (Unl).sg" size="32768" crc="bcf441a5" md5="16856425e0bcc3ab475f46f7cfd00402" sha1="f6926d0c3c654a038cd5eec9aaa6876bce86fdaa"/>
 		<url>https://retroachievements.org/game/24567/hashes</url>
 		<hash>16856425e0bcc3ab475f46f7cfd00402</hash>
+	</game>
+	
+	<game name="Retail/Zoom 909 (Japan)">
+		<category></category>
+		<description>Zoom 909 (Japan)</description>
+		<rom name="Zoom 909 (Japan).sg" size="32768" crc="093830d8" md5="4e457a6c5b4b613f2aac3472f6827a89" sha1="09552aaa7140f9fc780b5f7d541478b534320075"/>
+		<url>https://retroachievements.org/game/24568/hashes</url>
+		<hash>4e457a6c5b4b613f2aac3472f6827a89</hash>
 	</game>
 </datafile>

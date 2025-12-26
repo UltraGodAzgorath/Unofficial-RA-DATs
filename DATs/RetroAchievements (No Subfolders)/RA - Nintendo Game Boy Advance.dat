@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>No Subfolders</category>
-		<version>20251116</version>
-		<date>16 November 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -229,6 +229,15 @@
 		<hash>113061a5ee4a0831c287ab258f7b2b19</hash>
 	</game>
 	
+	<game name="FE8 - A Star Wars Story (v1.0) (Augenis) (Hack)">
+		<category>Hack</category>
+		<description>FE8 - A Star Wars Story (v1.0) (Augenis) (Hack)</description>
+		<release name="FE8 - A Star Wars Story (v1.0) (Augenis) (Hack)" region="World"/>
+		<rom name="FE8 - A Star Wars Story (v1.0) (Augenis) (Hack).gba" size="17004920" crc="ea05e5ce" md5="bc92054bf11d9ac87257741ea466a291" sha1="70cfab2b1c9a0640327966a56f015bff1541e3b6"/>
+		<url>https://retroachievements.org/game/33600/hashes</url>
+		<hash>bc92054bf11d9ac87257741ea466a291</hash>
+	</game>
+	
 	<game name="Fire Emblem - Gilmore Girls (Hack)">
 		<category>Hack</category>
 		<description>Fire Emblem - Gilmore Girls (Hack)</description>
@@ -254,6 +263,15 @@
 		<rom name="Fire Emblem - Project Ember (Brunhilda) (v1.85) (Subset - Reverse Recruitment).gba" size="24475812" crc="29bc2257" md5="5c8332940eba2d9ccf36a1ed4b0800dc" sha1="f4b222e8c1536203799134125ecb45e8f1dda1d3"/>
 		<url>https://retroachievements.org/game/32931/hashes</url>
 		<hash>5c8332940eba2d9ccf36a1ed4b0800dc</hash>
+	</game>
+	
+	<game name="FE8 - Fire Emblem - Sacred Echoes (En) (v1.1.2) (HyperGammaSpaces) (Hack)">
+		<category>Hack</category>
+		<description>FE8 - Fire Emblem - Sacred Echoes (En) (v1.1.2) (HyperGammaSpaces) (Hack)</description>
+		<release name="FE8 - Fire Emblem - Sacred Echoes (En) (v1.1.2) (HyperGammaSpaces) (Hack)" region="World"/>
+		<rom name="FE8 - Fire Emblem - Sacred Echoes (En) (v1.1.2) (HyperGammaSpaces) (Hack).gba" size="21295968" crc="13f15f23" md5="e1ffc6bf135b30dc07cf3ffa7193f4f2" sha1="57b8adbdeae1eeef61d54c6715a55182d50d8a1b"/>
+		<url>https://retroachievements.org/game/29689/hashes</url>
+		<hash>e1ffc6bf135b30dc07cf3ffa7193f4f2</hash>
 	</game>
 	
 	<game name="Fire Emblem - Storge (Hack)">
@@ -463,15 +481,6 @@
 		<hash>47f9eeb51ffe48a8c28636f25a9543e8</hash>
 	</game>
 	
-	<game name="Pokemon - DerErif (Hack)">
-		<category>Hack</category>
-		<description>Pokemon - DerErif (Hack)</description>
-		<release name="Pokemon - DerErif (Hack)" region="World"/>
-		<rom name="Pokemon - DerErif (Hack).gba" size="16777216" crc="195a86df" md5="1983512180b60115cf8c04b5c1affbec" sha1="0f503d042c88a979d30349c72d62eaba9a34f9e2"/>
-		<url>https://retroachievements.org/game/15623/hashes</url>
-		<hash>1983512180b60115cf8c04b5c1affbec</hash>
-	</game>
-	
 	<game name="Pokemon - Dreams (Hack)">
 		<category>Hack</category>
 		<description>Pokemon - Dreams (Hack)</description>
@@ -567,6 +576,15 @@
 		<hash>fa6e5e03d041501c72db930474754305</hash>
 	</game>
 	
+	<game name="Pokemon - DerErif (Hack)">
+		<category>Hack</category>
+		<description>Pokemon - DerErif (Hack)</description>
+		<release name="Pokemon - DerErif (Hack)" region="World"/>
+		<rom name="Pokemon - DerErif (Hack).gba" size="16777216" crc="195a86df" md5="1983512180b60115cf8c04b5c1affbec" sha1="0f503d042c88a979d30349c72d62eaba9a34f9e2"/>
+		<url>https://retroachievements.org/game/15623/hashes</url>
+		<hash>1983512180b60115cf8c04b5c1affbec</hash>
+	</game>
+	
 	<game name="Pokemon - Rocket Edition (v1.0) (Hack)" cloneof="Pokemon - Rocket Edition (v1.0.2) (Hack)">
 		<category>Hack</category>
 		<description>Pokemon - Rocket Edition (v1.0) (Hack)</description>
@@ -626,34 +644,41 @@
 		<hash>e2cf937901114df0928ea29443525986</hash>
 	</game>
 	
-	<game name="Pokemon - Odyssey (v4.0) (Yggdrasil Project) (Hack)" cloneof="Pokemon - Odyssey (v4.1.0) (Yggdrasil Project) (Hack)">
+	<game name="Pokemon - Odyssey (v4.0) (Yggdrasil Project) (Hack)" cloneof="Pokemon - Odyssey (v4.1.1) (Yggdrasil Project) (Hack)">
 		<category>Hack</category>
 		<description>Pokemon - Odyssey (v4.0) (Yggdrasil Project) (Hack)</description>
 		<rom name="Pokemon - Odyssey (v4.0) (Yggdrasil Project) (Hack).gba" size="33554432" crc="89edb0b7" md5="6074f5ee69d1af489a48cfa3d9492ceb" sha1="6436fb76cc1a99b7cbafbe84a5240e2192f16dcf"/>
 		<url>https://retroachievements.org/game/33063/hashes</url>
 		<hash>6074f5ee69d1af489a48cfa3d9492ceb</hash>
 	</game>
-	<game name="Pokemon - Odyssey (v4.0.1) (Yggdrasil Project) (Hack)" cloneof="Pokemon - Odyssey (v4.1.0) (Yggdrasil Project) (Hack)">
+	<game name="Pokemon - Odyssey (v4.0.1) (Yggdrasil Project) (Hack)" cloneof="Pokemon - Odyssey (v4.1.1) (Yggdrasil Project) (Hack)">
 		<category>Hack</category>
 		<description>Pokemon - Odyssey (v4.0.1) (Yggdrasil Project) (Hack)</description>
 		<rom name="Pokemon - Odyssey (v4.0.1) (Yggdrasil Project) (Hack).gba" size="33554432" crc="af0d9f56" md5="f08d1b00fdd11bbb7a0a7b26b1e34e3f" sha1="47d86103576f4d8f35e49b8fca4f133c72c2417c"/>
 		<url>https://retroachievements.org/game/33063/hashes</url>
 		<hash>f08d1b00fdd11bbb7a0a7b26b1e34e3f</hash>
 	</game>
-	<game name="Pokemon - Odyssey (v4.0.3) (Yggdrasil Project) (Hack)" cloneof="Pokemon - Odyssey (v4.1.0) (Yggdrasil Project) (Hack)">
+	<game name="Pokemon - Odyssey (v4.0.3) (Yggdrasil Project) (Hack)" cloneof="Pokemon - Odyssey (v4.1.1) (Yggdrasil Project) (Hack)">
 		<category>Hack</category>
 		<description>Pokemon - Odyssey (v4.0.3) (Yggdrasil Project) (Hack)</description>
 		<rom name="Pokemon - Odyssey (v4.0.3) (Yggdrasil Project) (Hack).gba" size="33554432" crc="b7f7e873" md5="4d05834b0e72362bc19681eb718acf8c" sha1="b122ec595fdc6a698b6c27db82ae8705c9f9ef7b"/>
 		<url>https://retroachievements.org/game/33063/hashes</url>
 		<hash>4d05834b0e72362bc19681eb718acf8c</hash>
 	</game>
-	<game name="Pokemon - Odyssey (v4.1.0) (Yggdrasil Project) (Hack)">
+	<game name="Pokemon - Odyssey (v4.1.0) (Yggdrasil Project) (Hack)" cloneof="Pokemon - Odyssey (v4.1.1) (Yggdrasil Project) (Hack)">
 		<category>Hack</category>
 		<description>Pokemon - Odyssey (v4.1.0) (Yggdrasil Project) (Hack)</description>
-		<release name="Pokemon - Odyssey (v4.1.0) (Yggdrasil Project) (Hack)" region="World"/>
 		<rom name="Pokemon - Odyssey (v4.1.0) (Yggdrasil Project) (Hack).gba" size="33554432" crc="b1783af2" md5="c2f1f0d5a1659c05e2686c23a448b48c" sha1="22b15310616c36af5d7fff11198d2abe4759151d"/>
 		<url>https://retroachievements.org/game/33063/hashes</url>
 		<hash>c2f1f0d5a1659c05e2686c23a448b48c</hash>
+	</game>
+	<game name="Pokemon - Odyssey (v4.1.1) (Yggdrasil Project) (Hack)">
+		<category>Hack</category>
+		<description>Pokemon - Odyssey (v4.1.1) (Yggdrasil Project) (Hack)</description>
+		<release name="Pokemon - Odyssey (v4.1.1) (Yggdrasil Project) (Hack)" region="World"/>
+		<rom name="Pokemon - Odyssey (v4.1.1) (Yggdrasil Project) (Hack).gba" size="33554432" crc="6c5ee1b2" md5="c1a19efc331c0489912e70178bda1004" sha1="8745ddbdbfadf6abaf66de4e9055923b62eb4668"/>
+		<url>https://retroachievements.org/game/33063/hashes</url>
+		<hash>c1a19efc331c0489912e70178bda1004</hash>
 	</game>
 	
 	<game name="Pokemon - Radical Red (Hack)">
@@ -681,13 +706,20 @@
 		<hash>f258589489cb284a1115ae26db5f8111</hash>
 	</game>
 	
-	<game name="Pokemon - Recharged Yellow (Jaizu) (v1.8.0) (Hack)">
+	<game name="Pokemon - Recharged Yellow (Jaizu) (v1.8.0) (Hack)" cloneof="Pokemon - Recharged Yellow (v1.9.0) (Jaizu) (Hack)">
 		<category>Hack</category>
 		<description>Pokemon - Recharged Yellow (Jaizu) (v1.8.0) (Hack)</description>
-		<release name="Pokemon - Recharged Yellow (Jaizu) (v1.8.0) (Hack)" region="World"/>
 		<rom name="Pokemon - Recharged Yellow (Jaizu) (v1.8.0) (Hack).gba" size="16777216" crc="ceffa1f8" md5="9d54170472e5a37fc92602b838fe754e" sha1="be5033598e91d0e80fa93e551406f02a7876d7c2"/>
 		<url>https://retroachievements.org/game/29758/hashes</url>
 		<hash>9d54170472e5a37fc92602b838fe754e</hash>
+	</game>
+	<game name="Pokemon - Recharged Yellow (v1.9.0) (Jaizu) (Hack)">
+		<category>Hack</category>
+		<description>Pokemon - Recharged Yellow (v1.9.0) (Jaizu) (Hack)</description>
+		<release name="Pokemon - Recharged Yellow (v1.9.0) (Jaizu) (Hack)" region="World"/>
+		<rom name="Pokemon - Recharged Yellow (v1.9.0) (Jaizu) (Hack).gba" size="16777216" crc="e79d5999" md5="3d26111c90fc3041abe5b1ac4c8257b3" sha1="ac30d1ed80e75104a3fb92f71e2b9a51c26e80c8"/>
+		<url>https://retroachievements.org/game/29758/hashes</url>
+		<hash>3d26111c90fc3041abe5b1ac4c8257b3</hash>
 	</game>
 	
 	<game name="Pokemon - Scorched Silver (v1.3) (Sloo) (Hack)">
@@ -776,6 +808,15 @@
 		<hash>ba7c443cf7da00e1bbf7d3ffce305dcf</hash>
 	</game>
 	
+	<game name="Pokemon - Uncanny Version (v1.0) (RetroNC) (Hack)">
+		<category>Hack</category>
+		<description>Pokemon - Uncanny Version (v1.0) (RetroNC) (Hack)</description>
+		<release name="Pokemon - Uncanny Version (v1.0) (RetroNC) (Hack)" region="World"/>
+		<rom name="Pokemon - Uncanny Version (v1.0) (RetroNC) (Hack).gba" size="33554432" crc="ca2875b5" md5="6b83016bbf8eaf6fc9846cab02a5f838" sha1="ea3fd3afe3e4412a1678e84f60aa02ac38d195fa"/>
+		<url>https://retroachievements.org/game/34877/hashes</url>
+		<hash>6b83016bbf8eaf6fc9846cab02a5f838</hash>
+	</game>
+	
 	<game name="Pokemon - Vega (Hack)">
 		<category>Hack</category>
 		<description>Pokemon - Vega (Hack)</description>
@@ -846,6 +887,15 @@
 		<hash>63af39f8aca4b554de5ab19a9be82b85</hash>
 	</game>
 	
+	<game name="Pokemon - Too Many Types (v1.6) (Kobazco) (Hack)">
+		<category>Hack</category>
+		<description>Pokemon - Too Many Types (v1.6) (Kobazco) (Hack)</description>
+		<release name="Pokemon - Too Many Types (v1.6) (Kobazco) (Hack)" region="World"/>
+		<rom name="Pokemon - Too Many Types (v1.6) (Kobazco) (Hack).gba" size="33554432" crc="e91fef2d" md5="e7ec28748911cf3895f930d59d6d0120" sha1="e634cdcada0d589918da658307eddb1db0eb2752"/>
+		<url>https://retroachievements.org/game/25856/hashes</url>
+		<hash>e7ec28748911cf3895f930d59d6d0120</hash>
+	</game>
+	
 	<game name="Pokemon - Pokescape - A Pokémon Escape Room (Hack)">
 		<category>Hack</category>
 		<description>Pokemon - Pokescape - A Pokémon Escape Room (Hack)</description>
@@ -879,6 +929,15 @@
 		<rom name="Metroid Fusion - Samus Goes to the Fridge to Get a Glass of Milk (Hack).gba" size="8388608" crc="76b1b141" md5="ba993aee48b12e9e5761ae15bf19876b" sha1="19ed54926d735f0decde420c0667396d38eaa8bc"/>
 		<url>https://retroachievements.org/game/17561/hashes</url>
 		<hash>ba993aee48b12e9e5761ae15bf19876b</hash>
+	</game>
+	
+	<game name="SMA2 - The Return to Dinosaurland (v1.1) (Oquendo) (Hack)">
+		<category>Hack</category>
+		<description>SMA2 - The Return to Dinosaurland (v1.1) (Oquendo) (Hack)</description>
+		<release name="SMA2 - The Return to Dinosaurland (v1.1) (Oquendo) (Hack)" region="World"/>
+		<rom name="SMA2 - The Return to Dinosaurland (v1.1) (Oquendo) (Hack).gba" size="4194304" crc="d5ad5e3a" md5="df01d18578247c6bd8b7c651793268bc" sha1="ac7399aab89696dee3a82dbdc3b33817f9e52ebb"/>
+		<url>https://retroachievements.org/game/29082/hashes</url>
+		<hash>df01d18578247c6bd8b7c651793268bc</hash>
 	</game>
 	
 	<game name="Pokemon - Super Mariomon (v1.4.1) (Hack)" cloneof="Pokemon - Super Mariomon (v1.4.2) (Hack)">
@@ -1121,13 +1180,13 @@
 		<hash>08373925ffbf4332a5cac38496f8167b</hash>
 	</game>
 	
-	<game name="Discrete Orange (World) (Aftermarket)">
+	<game name="Discrete Orange (World) (v1.0) (Aftermarket)">
 		<category>Homebrew</category>
-		<description>Discrete Orange (World) (Aftermarket)</description>
-		<release name="Discrete Orange (World) (Aftermarket)" region="World"/>
-		<rom name="Discrete Orange (World) (Aftermarket).gba" size="2059172" crc="8515069c" md5="0f424c61285bfee9a940bc9aa47c61bf" sha1="d2546be26c1e902e09cbb288ff9e4f654ae5194b"/>
+		<description>Discrete Orange (World) (v1.0) (Aftermarket)</description>
+		<release name="Discrete Orange (World) (v1.0) (Aftermarket)" region="World"/>
+		<rom name="Discrete Orange (World) (v1.0) (Aftermarket).gba" size="1936132" crc="e3128528" md5="0b05bbe610ecf21530aade82f4246fc0" sha1="c0b61d210e53ef57de9a813bc11b869c64de3ab6"/>
 		<url>https://retroachievements.org/game/30462/hashes</url>
-		<hash>0f424c61285bfee9a940bc9aa47c61bf</hash>
+		<hash>0b05bbe610ecf21530aade82f4246fc0</hash>
 	</game>
 	
 	<game name="Flappy Bird (World) (Aftermarket)">
@@ -1831,15 +1890,6 @@
 		<hash>45f0b97050a666ce7ab4e3960929f47b</hash>
 	</game>
 	
-	<game name="Avatar - The Last Airbender - The Burning Earth (USA)">
-		<category>Retail</category>
-		<description>Avatar - The Last Airbender - The Burning Earth (USA)</description>
-		<release name="Avatar - The Last Airbender - The Burning Earth (USA)" region="USA"/>
-		<rom name="Avatar - The Last Airbender - The Burning Earth (USA).gba" size="4194304" crc="52d8d101" md5="068b542444b3ad28e75be4087a754b58" sha1="788d5e92806017f0f2b1b9e127759515141aef2a"/>
-		<url>https://retroachievements.org/game/5502/hashes</url>
-		<hash>068b542444b3ad28e75be4087a754b58</hash>
-	</game>
-	
 	<game name="Avatar - The Legend of Aang (Europe) (En,Fr,De,Nl)">
 		<category>Retail</category>
 		<description>Avatar - The Legend of Aang (Europe) (En,Fr,De,Nl)</description>
@@ -1847,6 +1897,15 @@
 		<rom name="Avatar - The Legend of Aang (Europe) (En,Fr,De,Nl).gba" size="8388608" crc="52fe8a62" md5="ef9198e16c58c4824efae668da1e7040" sha1="4a62dfaaa562b23d4f851d3bb483d0fbf67894af"/>
 		<url>https://retroachievements.org/game/7644/hashes</url>
 		<hash>ef9198e16c58c4824efae668da1e7040</hash>
+	</game>
+	
+	<game name="Avatar - The Last Airbender - The Burning Earth (USA)">
+		<category>Retail</category>
+		<description>Avatar - The Last Airbender - The Burning Earth (USA)</description>
+		<release name="Avatar - The Last Airbender - The Burning Earth (USA)" region="USA"/>
+		<rom name="Avatar - The Last Airbender - The Burning Earth (USA).gba" size="4194304" crc="52d8d101" md5="068b542444b3ad28e75be4087a754b58" sha1="788d5e92806017f0f2b1b9e127759515141aef2a"/>
+		<url>https://retroachievements.org/game/5502/hashes</url>
+		<hash>068b542444b3ad28e75be4087a754b58</hash>
 	</game>
 	
 	<game name="Azumanga Daiou Advance (Japan)">
@@ -2212,6 +2271,30 @@
 		<rom name="Broken Sword - The Shadow of the Templars (USA) (En,Fr,De,Es,It).gba" size="8388608" crc="3278ce51" md5="5bf98eb8cc6247b4edf7b9b5b08dbab9" sha1="314eced054604866153883ee20e0966e1443e0d9"/>
 		<url>https://retroachievements.org/game/7438/hashes</url>
 		<hash>5bf98eb8cc6247b4edf7b9b5b08dbab9</hash>
+	</game>
+	
+	<game name="Brother Bear (USA)">
+		<category>Retail</category>
+		<description>Brother Bear (USA)</description>
+		<release name="Brother Bear (USA)" region="USA"/>
+		<rom name="Brother Bear (USA).gba" size="8388608" crc="342de1d6" md5="1bdadffe311ef9fa231c799806ad5ca3" sha1="89e6903500f62e11483402b76c1454af788646c0"/>
+		<url>https://retroachievements.org/game/11587/hashes</url>
+		<hash>1bdadffe311ef9fa231c799806ad5ca3</hash>
+	</game>
+	<game name="Brother Bear (Europe)" cloneof="Brother Bear (USA)">
+		<category>Retail</category>
+		<description>Brother Bear (Europe)</description>
+		<rom name="Brother Bear (Europe).gba" size="8388608" crc="6220a4b8" md5="80112ba773c8b8072502f46c1781561f" sha1="0bd142c546d13c2adf21a48b48fe09f7633ad6f3"/>
+		<url>https://retroachievements.org/game/11587/hashes</url>
+		<hash>80112ba773c8b8072502f46c1781561f</hash>
+	</game>
+	<game name="Brother Bear (Europe) (Fr,De,Es,It,Nl,Sv,Da)" cloneof="Brother Bear (USA)">
+		<category>Retail</category>
+		<description>Brother Bear (Europe) (Fr,De,Es,It,Nl,Sv,Da)</description>
+		<release name="Brother Bear (Europe) (Fr,De,Es,It,Nl,Sv,Da)" region="Europe"/>
+		<rom name="Brother Bear (Europe) (Fr,De,Es,It,Nl,Sv,Da).gba" size="8388608" crc="fd814097" md5="b8b752c5659e94c0474fe6050df498f2" sha1="7e217e5f644b0333c51f3827df5fd64023ac7c0e"/>
+		<url>https://retroachievements.org/game/11587/hashes</url>
+		<hash>b8b752c5659e94c0474fe6050df498f2</hash>
 	</game>
 	
 	<game name="Bubble Bobble - Old &amp; New (Europe) (En,Fr,De,Es,It)">
@@ -2978,6 +3061,15 @@
 		<rom name="Danny Phantom - The Ultimate Enemy (Europe) (En,Fr,Nl).gba" size="4194304" crc="e1de905f" md5="8fa0ca30575846480a1bba06dcfd6508" sha1="ae95edab3eda11409b0646e7e03c5166e6e76002"/>
 		<url>https://retroachievements.org/game/6409/hashes</url>
 		<hash>8fa0ca30575846480a1bba06dcfd6508</hash>
+	</game>
+	
+	<game name="Daredevil (Europe) (En,Fr,Es,It)">
+		<category>Retail</category>
+		<description>Daredevil (Europe) (En,Fr,Es,It)</description>
+		<release name="Daredevil (Europe) (En,Fr,Es,It)" region="Europe"/>
+		<rom name="Daredevil (Europe) (En,Fr,Es,It).gba" size="4194304" crc="41a9b849" md5="f8d9503c529e3608ed4d91fc7315deb3" sha1="0445b1d035b287023a94c45d1d77bc091f874acb"/>
+		<url>https://retroachievements.org/game/5776/hashes</url>
+		<hash>f8d9503c529e3608ed4d91fc7315deb3</hash>
 	</game>
 	
 	<game name="Deal or No Deal (USA)">
@@ -4253,6 +4345,23 @@
 		<rom name="Gekido Advance - Kintaro's Revenge (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="2fb5b819" md5="cdde24e4b71ac0cb1cf32bab1374f64a" sha1="ba690c0857ac235a3e3a8342e2aec41c6e48ed94"/>
 		<url>https://retroachievements.org/game/7217/hashes</url>
 		<hash>cdde24e4b71ac0cb1cf32bab1374f64a</hash>
+	</game>
+	
+	<game name="Gensou Suikoden - Card Stories (Japan)">
+		<category>Retail</category>
+		<description>Gensou Suikoden - Card Stories (Japan)</description>
+		<release name="Gensou Suikoden - Card Stories (Japan)" region="Japan"/>
+		<rom name="Gensou Suikoden - Card Stories (Japan).gba" size="4194304" crc="5e67aab4" md5="0a3523db5fe9a0329d766d9d1ff5e654" sha1="c01772cd0416ddca38dcd1ef63e53a4ebda90bbc"/>
+		<url>https://retroachievements.org/game/5521/hashes</url>
+		<hash>0a3523db5fe9a0329d766d9d1ff5e654</hash>
+	</game>
+	<game name="Gensou Suikoden - Card Stories (Japan) (En) (v1.0) (Pokeytax)" cloneof="Gensou Suikoden - Card Stories (Japan)">
+		<category>Retail</category>
+		<description>Gensou Suikoden - Card Stories (Japan) (En) (v1.0) (Pokeytax)</description>
+		<release name="Gensou Suikoden - Card Stories (Japan) (En) (v1.0) (Pokeytax)" region="English"/>
+		<rom name="Gensou Suikoden - Card Stories (Japan) (En) (v1.0) (Pokeytax).gba" size="4194304" crc="dafac900" md5="1e2ed077d1db255c44cd6c653067750c" sha1="343b4dc9e897133f26dc8f04a70c1ea752d26cdd"/>
+		<url>https://retroachievements.org/game/5521/hashes</url>
+		<hash>1e2ed077d1db255c44cd6c653067750c</hash>
 	</game>
 	
 	<game name="Ghost Rider (USA, Europe) (En,Fr,De,Es,It,Nl)">
@@ -8392,6 +8501,32 @@
 		<hash>2152cd61760a0e2472a437b5c2a29d79</hash>
 	</game>
 
+	<game name="Super Mario Advance 3 - Yoshi's Island (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Super Mario Advance 3 - Yoshi's Island (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Super Mario Advance 3 - Yoshi's Island (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="Super Mario Advance 3 - Yoshi's Island (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="639e9d3b" md5="5a0bd0ec784823f2c45fdaa5dd914bea" sha1="bd52eb4b4ebe438e9b9ecaac792bd389725cde41"/>
+		<url>https://retroachievements.org/game/5234/hashes</url>
+		<hash>5a0bd0ec784823f2c45fdaa5dd914bea</hash>
+	</game>
+	<game name="Super Mario Advance 3 - Yoshi's Island (USA)" cloneof="Super Mario Advance 3 - Yoshi's Island (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Super Mario Advance 3 - Yoshi's Island (USA)</description>
+		<release name="Super Mario Advance 3 - Yoshi's Island (USA)" region="USA"/>
+		<rom name="Super Mario Advance 3 - Yoshi's Island (USA).gba" size="4194304" crc="40a48276" md5="bb09508c782f37934c9519c5f8a7350c" sha1="7352d2bd064d9ebaec579e264228aa21c7345b80"/>
+		<url>https://retroachievements.org/game/5234/hashes</url>
+		<hash>bb09508c782f37934c9519c5f8a7350c</hash>
+	</game>
+	
+	<game name="Super Mario Advance 3 - Yoshi's Island (Subset - Low Score)">
+		<category>Subset</category>
+		<description>Super Mario Advance 3 - Yoshi's Island (Subset - Low Score)</description>
+		<release name="Super Mario Advance 3 - Yoshi's Island (Subset - Low Score)" region="World"/>
+		<rom name="Super Mario Advance 3 - Yoshi's Island (Subset - Low Score).gba" size="8388608" crc="ddaf36d3" md5="0c7e58ddb31ba4880873974553dd01e5" sha1="6b58b604cc88b5cf30563336be58842dbf1aa2a6"/>
+		<url>https://retroachievements.org/game/5225/hashes</url>
+		<hash>0c7e58ddb31ba4880873974553dd01e5</hash>
+	</game>
+	
 	<game name="Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Switches - RetroAchievements Edition)">
 		<category>Retail</category>
 		<description>Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Switches - RetroAchievements Edition)</description>
@@ -8570,6 +8705,15 @@
 		<rom name="Tang Tang (Europe) (En,Fr,De,Es,It,Fi).gba" size="4194304" crc="8bfb4cfe" md5="4f6d310cc67afaa9424269904229ea3b" sha1="4c4852ecdf5a31fb8c72e552575335267fdd1296"/>
 		<url>https://retroachievements.org/game/6878/hashes</url>
 		<hash>4f6d310cc67afaa9424269904229ea3b</hash>
+	</game>
+	
+	<game name="Teen Titans 2 (USA) (En,Fr)">
+		<category>Retail</category>
+		<description>Teen Titans 2 (USA) (En,Fr)</description>
+		<release name="Teen Titans 2 (USA) (En,Fr)" region="USA"/>
+		<rom name="Teen Titans 2 (USA) (En,Fr).gba" size="8388608" crc="ccacd823" md5="c9ce90b98c6cc2f60847d6f39ecf11c5" sha1="1cfca926300db1719aa671404386a19b55316054"/>
+		<url>https://retroachievements.org/game/2507/hashes</url>
+		<hash>c9ce90b98c6cc2f60847d6f39ecf11c5</hash>
 	</game>
 	
 	<game name="Teenage Mutant Ninja Turtles (Europe) (En,Fr,De,Es,It)">
@@ -9305,6 +9449,23 @@
 		<hash>37205e649905cc4f714ffbb0f3b41307</hash>
 	</game>
 	
+	<game name="Virtua Tennis (Europe) (En,Fr,De,Es,It)" cloneof="Virtua Tennis (USA)">
+		<category>Retail</category>
+		<description>Virtua Tennis (Europe) (En,Fr,De,Es,It)</description>
+		<release name="Virtua Tennis (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+		<rom name="Virtua Tennis (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="e52a3ab8" md5="820a03dcd47b4d8aec4b09b6d0f95d56" sha1="d200653b31c7fc150e9e84b53370ce4f40a10d43"/>
+		<url>https://retroachievements.org/game/6739/hashes</url>
+		<hash>820a03dcd47b4d8aec4b09b6d0f95d56</hash>
+	</game>
+	<game name="Virtua Tennis (USA)">
+		<category>Retail</category>
+		<description>Virtua Tennis (USA)</description>
+		<release name="Virtua Tennis (USA)" region="USA"/>
+		<rom name="Virtua Tennis (USA).gba" size="8388608" crc="e0bd3b75" md5="bfb5a63fde75becb342f5d0e9a8e0da2" sha1="2bf5363d24c4ec6de8aafae1bffc84113eaed0a2"/>
+		<url>https://retroachievements.org/game/6739/hashes</url>
+		<hash>bfb5a63fde75becb342f5d0e9a8e0da2</hash>
+	</game>
+	
 	<game name="Virtual Kasparov (USA) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<description>Virtual Kasparov (USA) (En,Fr,De,Es,It)</description>
@@ -9520,32 +9681,6 @@
 		<rom name="Yoshi Topsy-Turvy (USA).gba" size="8388608" crc="e64c265c" md5="e66d2e98947a5bd1068228e4084b06da" sha1="947498cb1db918d305500257e8223deeaddf561d"/>
 		<url>https://retroachievements.org/game/12820/hashes</url>
 		<hash>e66d2e98947a5bd1068228e4084b06da</hash>
-	</game>
-	
-	<game name="Super Mario Advance 3 - Yoshi's Island (Europe) (En,Fr,De,Es,It)">
-		<category>Retail</category>
-		<description>Super Mario Advance 3 - Yoshi's Island (Europe) (En,Fr,De,Es,It)</description>
-		<release name="Super Mario Advance 3 - Yoshi's Island (Europe) (En,Fr,De,Es,It)" region="Europe"/>
-		<rom name="Super Mario Advance 3 - Yoshi's Island (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="639e9d3b" md5="5a0bd0ec784823f2c45fdaa5dd914bea" sha1="bd52eb4b4ebe438e9b9ecaac792bd389725cde41"/>
-		<url>https://retroachievements.org/game/5234/hashes</url>
-		<hash>5a0bd0ec784823f2c45fdaa5dd914bea</hash>
-	</game>
-	<game name="Super Mario Advance 3 - Yoshi's Island (USA)" cloneof="Super Mario Advance 3 - Yoshi's Island (Europe) (En,Fr,De,Es,It)">
-		<category>Retail</category>
-		<description>Super Mario Advance 3 - Yoshi's Island (USA)</description>
-		<release name="Super Mario Advance 3 - Yoshi's Island (USA)" region="USA"/>
-		<rom name="Super Mario Advance 3 - Yoshi's Island (USA).gba" size="4194304" crc="40a48276" md5="bb09508c782f37934c9519c5f8a7350c" sha1="7352d2bd064d9ebaec579e264228aa21c7345b80"/>
-		<url>https://retroachievements.org/game/5234/hashes</url>
-		<hash>bb09508c782f37934c9519c5f8a7350c</hash>
-	</game>
-	
-	<game name="Super Mario Advance 3 - Yoshi's Island (Subset - Low Score)">
-		<category>Subset</category>
-		<description>Super Mario Advance 3 - Yoshi's Island (Subset - Low Score)</description>
-		<release name="Super Mario Advance 3 - Yoshi's Island (Subset - Low Score)" region="World"/>
-		<rom name="Super Mario Advance 3 - Yoshi's Island (Subset - Low Score).gba" size="8388608" crc="ddaf36d3" md5="0c7e58ddb31ba4880873974553dd01e5" sha1="6b58b604cc88b5cf30563336be58842dbf1aa2a6"/>
-		<url>https://retroachievements.org/game/5225/hashes</url>
-		<hash>0c7e58ddb31ba4880873974553dd01e5</hash>
 	</game>
 	
 	<game name="Yu Yu Hakusho - Ghostfiles - Spirit Detective (Europe) (En,Fr,De,Es,It)">

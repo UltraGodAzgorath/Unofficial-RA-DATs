@@ -5,8 +5,8 @@
 		<name>RA - Amstrad CPC</name>
 		<description>Amstrad CPC</description>
 		<category>No Subfolders</category>
-		<version>20250913</version>
-		<date>13 September 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/37/games</url>
@@ -611,6 +611,15 @@
 		<rom name="Klax (World) (CleanCpcDb).dsk" size="175589" crc="96B53A41" md5="f89b494bc2b5b95a068fbb0df2d0d603" sha1="907E28A79E0A89EDA1351BEFDC9780A0AADF24FE"/>
 		<url>https://retroachievements.org/game/14348/hashes</url>
 		<hash>f89b494bc2b5b95a068fbb0df2d0d603</hash>
+	</game>
+	
+	<game name="Knight Lore (World) (CleanCpcDb)">
+		<category>Retail</category>
+		<description>Knight Lore (World) (CleanCpcDb)</description>
+		<release name="Knight Lore (World) (CleanCpcDb)" region="World"/>
+		<rom name="Knight Lore (World) (CleanCpcDb).dsk" size="204544" crc="a2d5c9db" md5="94ae9fcd00bf058171eb30bdf646e8e7" sha1="c5ea7c721e1045ad5bf5aad04752bff09d3f760c"/>
+		<url>https://retroachievements.org/game/19410/hashes</url>
+		<hash>94ae9fcd00bf058171eb30bdf646e8e7</hash>
 	</game>
 	
 	<game name="Manic Miner (World) (CleanCpcDb)">

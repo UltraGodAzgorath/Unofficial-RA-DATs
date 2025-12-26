@@ -5,8 +5,8 @@
 		<name>RA - Interton VC 4000</name>
 		<description>Interton VC 4000</description>
 		<category>No Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20251225</version>
+		<date>25 December 2025</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/74/games</url>
@@ -162,6 +162,15 @@
 		<rom name="Four in a Row (Europe).bin" size="2048" crc="a0f5320a" md5="9f513213f1ee6c6867dcf959a6dc03c9" sha1="ce1ab1ad5e085a3237e0de645fa3238d7702d578"/>
 		<url>https://retroachievements.org/game/21633/hashes</url>
 		<hash>9f513213f1ee6c6867dcf959a6dc03c9</hash>
+	</game>
+	
+	<game name="Invaders (Europe) (Interton)">
+		<category>Retail</category>
+		<description>Invaders (Europe) (Interton)</description>
+		<release name="Invaders (Europe) (Interton)" region="Europe"/>
+		<rom name="Invaders (Europe) (Interton).bin" size="2048" crc="9497204a" md5="5864620260e0ee714e824b91a1ddc853" sha1="1fba78476ee93f09b6db033ec4d5332498ebc4d0"/>
+		<url>https://retroachievements.org/game/21639/hashes</url>
+		<hash>5864620260e0ee714e824b91a1ddc853</hash>
 	</game>
 	
 	<game name="Labyrinth (Europe)">
