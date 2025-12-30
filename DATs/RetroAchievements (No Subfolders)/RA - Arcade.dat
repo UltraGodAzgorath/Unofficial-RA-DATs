@@ -13921,7 +13921,7 @@
 		<hash>88f75c681d985805b3d2c500f21f6db2</hash>
 	</game>
 
-	<game name="pacman" cloneof="puckman">
+	<game name="pacman">
 		<description>Pac-Man (Midway)</description>
 		<category>Retail</category>
 		<release name="pacman" region="World"/>
