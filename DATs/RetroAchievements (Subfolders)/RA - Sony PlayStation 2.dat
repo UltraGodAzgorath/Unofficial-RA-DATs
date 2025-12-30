@@ -389,7 +389,6 @@
 		<hash>069a7d479543d5afa55a7fba628977b1</hash>
 	</machine>
 	
-<<<<<<< HEAD
 	<machine name="Retail/10 Pin - Champions Alley (Europe) (En,Fr,De,Es,It,Nl)">
 		<category></category>
 		<description>10 Pin - Champions Alley (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -398,10 +397,7 @@
 		<hash>5bb946be2ce2e1c5e8f0e5868eefbc65</hash>
 	</machine>
 	
-	<machine name="Retail/25 to Life (USA)">
-=======
 	<machine name="Retail/25 to Life/25 to Life (USA)">
->>>>>>> 6e34848ebd5e0adc8bd5d453327eb260b0b6d3d6
 		<category></category>
 		<description>25 to Life (USA)</description>
 		<disk name="25 to Life (USA).chd" sha1="a563c06c4ba80fe529bd2c9fe0e32c51b1c83060"/>
