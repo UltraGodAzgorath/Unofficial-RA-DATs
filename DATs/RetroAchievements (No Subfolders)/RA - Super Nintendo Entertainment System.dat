@@ -12484,7 +12484,7 @@
 		<url>https://retroachievements.org/game/566/hashes</url>
 		<hash>8f831f708e134c5f256d6ffcbd3fad6c</hash>
 	</game>
-	<game name="Shadowrun (Europe)">
+	<game name="Shadowrun (Europe)" cloneof="Shadowrun (USA)">
 		<category>Retail</category>
 		<description>Shadowrun (Europe)</description>
 		<release name="Shadowrun (Europe)" region="Europe"/>
@@ -12492,7 +12492,7 @@
 		<url>https://retroachievements.org/game/566/hashes</url>
 		<hash>5c0746237abeacfa10088be8cd724257</hash>
 	</game>
-	<game name="Shadowrun (Europe) (Mouse Support) (v1.0) (rainwarrior)" cloneof="Shadowrun (Europe)">
+	<game name="Shadowrun (Europe) (Mouse Support) (v1.0) (rainwarrior)" cloneof="Shadowrun (USA)">
 		<category>Retail</category>
 		<description>Shadowrun (Europe) (Mouse Support) (v1.0) (rainwarrior)</description>
 		<rom name="Shadowrun (Europe) (Mouse Support) (v1.0) (rainwarrior).sfc" size="1048576" crc="0bc36669" md5="bb085908bf1937fa74e57f8f60c97a39" sha1="62247bd8b693b67789face4d28820d761ad09ca6"/>
