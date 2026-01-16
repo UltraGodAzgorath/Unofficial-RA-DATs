@@ -396,15 +396,6 @@
 		<hash>2ad09d1e96a1b849e87fe1ce9ca2b1de</hash>
 	</game>
 	
-	<game name="SMW - Casio Mario World (1.2) (Wyatt) (Subset - Bonus) (Hack)">
-		<category>Subset</category>
-		<description>SMW - Casio Mario World (1.2) (Wyatt) (Subset - Bonus) (Hack)</description>
-		<release name="SMW - Casio Mario World (1.2) (Wyatt) (Subset - Bonus) (Hack)" region="World"/>
-		<rom name="SMW - Casio Mario World (1.2) (Wyatt) (Subset - Bonus) (Hack).sfc" size="2097152" crc="f2bb3b15" md5="b1dced3b9bfda03d307a91becd583aa9" sha1="c3f84074eda2218ae70cfa77597c194506033f87"/>
-		<url>https://retroachievements.org/game/28635/hashes</url>
-		<hash>b1dced3b9bfda03d307a91becd583aa9</hash>
-	</game>
-	
 	<game name="SMW - Celeste (MarkAlarm) (Hack)">
 		<category>Hack</category>
 		<description>SMW - Celeste (MarkAlarm) (Hack)</description>
@@ -11403,15 +11394,6 @@
 		<hash>ce9b7f3572867f3c1c6ff889b02a63a4</hash>
 	</game>
 	
-	<game name="Panel de Pon (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Panel de Pon (Subset - Bonus)</description>
-		<release name="Panel de Pon (Subset - Bonus)" region="English"/>
-		<rom name="Panel de Pon (Subset - Bonus).sfc" size="1572864" crc="c76a45a7" md5="ccfb0f57b6c64fc5efb2638a7b32dd71" sha1="8b55bdfa99003c845947b39e011e94f03c8fbdac"/>
-		<url>https://retroachievements.org/game/21717/hashes</url>
-		<hash>ccfb0f57b6c64fc5efb2638a7b32dd71</hash>
-	</game>
-	
 	<game name="Panic in Nakayoshi World (Japan) (Es) (v1.0) (semco)" cloneof="Panic in Nakayoshi World (Japan)">
 		<category>Retail</category>
 		<description>Panic in Nakayoshi World (Japan) (Es) (v1.0) (semco)</description>
@@ -13678,20 +13660,11 @@
 		<hash>734e9ea8c1ac436218ca4d3b1f9ff6a4</hash>
 	</game>
 	
-	<game name="Super Mario World (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Super Mario World (Subset - Bonus)</description>
-		<release name="Super Mario World (Subset - Bonus)" region="World"/>
-		<rom name="Super Mario World (Subset - Bonus).sfc" size="524288" crc="f4ae8246" md5="a409a0d29d0e16092b1b610ec0f9f7e7" sha1="2f23374ccc555ee7f5b28cded63bf62c35ed4302"/>
-		<url>https://retroachievements.org/game/9390/hashes</url>
-		<hash>a409a0d29d0e16092b1b610ec0f9f7e7</hash>
-	</game>
-	
-	<game name="Super Mario World (Subset - Sub 90-Minute 96 Exit Speedrun)">
-		<category>Subset</category>
-		<description>Super Mario World (Subset - Sub 90-Minute 96 Exit Speedrun)</description>
-		<release name="Super Mario World (Subset - Sub 90-Minute 96 Exit Speedrun)" region="World"/>
-		<rom name="Super Mario World (Subset - Sub 90-Minute 96 Exit Speedrun).sfc" size="524288" crc="8bdc48dc" md5="5b2c2e7e4f3eca3bd8bb76eab35f3116" sha1="6a2bdc4cd9eac98ce6a12ab6cab4f660cbd492fa"/>
+	<game name="Super Mario World (Specialty Subset - Sub 90-Minute 96 Exit Speedrun)">
+		<category>Specialty Subset</category>
+		<description>Super Mario World (Specialty Subset - Sub 90-Minute 96 Exit Speedrun)</description>
+		<release name="Super Mario World (Specialty Subset - Sub 90-Minute 96 Exit Speedrun)" region="World"/>
+		<rom name="Super Mario World (Specialty Subset - Sub 90-Minute 96 Exit Speedrun).sfc" size="524288" crc="8bdc48dc" md5="5b2c2e7e4f3eca3bd8bb76eab35f3116" sha1="6a2bdc4cd9eac98ce6a12ab6cab4f660cbd492fa"/>
 		<url>https://retroachievements.org/game/34233/hashes</url>
 		<hash>5b2c2e7e4f3eca3bd8bb76eab35f3116</hash>
 	</game>

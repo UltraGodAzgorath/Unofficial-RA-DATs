@@ -2305,24 +2305,6 @@
 		<hash>f1ca739b8e108d7df697c36ad5266378</hash>
 	</machine>
 	
-	<machine name="Dragon Quest VIII - Journey of the Cursed King (Subset - Monster Loot Ledger)">
-		<category>Subset</category>
-		<description>Dragon Quest VIII - Journey of the Cursed King (Subset - Monster Loot Ledger)</description>
-		<release name="Dragon Quest VIII - Journey of the Cursed King (Subset - Monster Loot Ledger)" region="World"/>
-		<disk name="Dragon Quest VIII - Journey of the Cursed King (Subset - Monster Loot Ledger).chd" sha1="f333b2873e98385c02a50651682dd4738856b22a"/>
-		<url>https://retroachievements.org/game/20407/hashes</url>
-		<hash>b62316784ccac7c8c2a5cf35ea15d912</hash>
-	</machine>
-	
-	<machine name="Dragon Quest VIII - Journey of the Cursed King (Subset - Party and Records Chat)">
-		<category>Subset</category>
-		<description>Dragon Quest VIII - Journey of the Cursed King (Subset - Party and Records Chat)</description>
-		<release name="Dragon Quest VIII - Journey of the Cursed King (Subset - Party and Records Chat)" region="World"/>
-		<disk name="Dragon Quest VIII - Journey of the Cursed King (Subset - Party and Records Chat).chd" sha1="24f9106d5f8eb521f11fabac083ac7ad64bc11e2"/>
-		<url>https://retroachievements.org/game/22840/hashes</url>
-		<hash>441191d6aeafdd3e88f0b16f84134ea7</hash>
-	</machine>
-	
 	<machine name="Drakan - The Ancients' Gates (USA)">
 		<category>Retail</category>
 		<description>Drakan - The Ancients' Gates (USA)</description>
@@ -3315,23 +3297,6 @@
 		<disk name="Gran Turismo 4 (USA) (v1.01).chd" sha1="7719d419b97fe15db3af82f62e758c79f9233cf2"/>
 		<url>https://retroachievements.org/game/20580/hashes</url>
 		<hash>b7e2e47572f4163a216ea85eed3c6c63</hash>
-	</machine>
-	
-	<machine name="Gran Turismo 4 (Europe, Australia) (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Gran Turismo 4 (Europe, Australia) (Subset - Bonus)</description>
-		<release name="Gran Turismo 4 (Europe, Australia) (Subset - Bonus)" region="Europe"/>
-		<disk name="Gran Turismo 4 (Europe, Australia) (Subset - Bonus).chd" sha1="31575bc6a42cf89b8e097fc2f9a330bff4dd4861"/>
-		<url>https://retroachievements.org/game/29854/hashes</url>
-		<hash>c64494995ddaf7849f1ea6934098efd1</hash>
-	</machine>
-	<machine name="Gran Turismo 4 (USA) (v2.00) (Subset - Bonus)" cloneof="Gran Turismo 4 (Europe, Australia) (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Gran Turismo 4 (USA) (v2.00) (Subset - Bonus)</description>
-		<release name="Gran Turismo 4 (USA) (v2.00) (Subset - Bonus)" region="USA"/>
-		<disk name="Gran Turismo 4 (USA) (v2.00) (Subset - Bonus).chd" sha1="f8e256ef040cdf361b876699e1dc490d968bb420"/>
-		<url>https://retroachievements.org/game/29854/hashes</url>
-		<hash>8184ee230e74050f9711d8e6ddda526d</hash>
 	</machine>
 	
 	<machine name="Gran Turismo 4 - Prologue (Europe) (En,Fr,De,Es,It)">
@@ -5708,22 +5673,13 @@
 		<hash>8ffd544a22cc814fd340cae387d18eb1</hash>
 	</machine>
 	
-	<machine name="Pac-Man World 2 (USA) (v2.00) (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Pac-Man World 2 (USA) (v2.00) (Subset - Bonus)</description>
-		<release name="Pac-Man World 2 (USA) (v2.00) (Subset - Bonus)" region="World"/>
-		<disk name="Pac-Man World 2 (USA) (v2.00) (Subset - Bonus).chd" sha1="ce707e9389ee07c5797016f9d6761df3489ffe31"/>
+	<machine name="Pac-Man World 2 (USA) (v2.00) (Exclusive Subset - Bonus)">
+		<category>Exclusive Subset</category>
+		<description>Pac-Man World 2 (USA) (v2.00) (Exclusive Subset - Bonus)</description>
+		<release name="Pac-Man World 2 (USA) (v2.00) (Exclusive Subset - Bonus)" region="World"/>
+		<disk name="Pac-Man World 2 (USA) (v2.00) (Exclusive Subset - Bonus).chd" sha1="ce707e9389ee07c5797016f9d6761df3489ffe31"/>
 		<url>https://retroachievements.org/game/19890/hashes</url>
 		<hash>9b5097430c36b2a2da8d51bdf4d72ca7</hash>
-	</machine>
-	
-	<machine name="Pac-Man World 2 (USA) (v1.00) (Subset - Sue's Arcade)">
-		<category>Subset</category>
-		<description>Pac-Man World 2 (USA) (v1.00) (Subset - Sue's Arcade)</description>
-		<release name="Pac-Man World 2 (USA) (v1.00) (Subset - Sue's Arcade)" region="World"/>
-		<disk name="Pac-Man World 2 (USA) (v1.00) (Subset - Sue's Arcade).chd" sha1="609777c793e9842edf7c01105e4ac64e2a62d071"/>
-		<url>https://retroachievements.org/game/22939/hashes</url>
-		<hash>9898f7b8b329e5060e3d3d12d9234bf8</hash>
 	</machine>
 	
 	<machine name="PaRappa the Rapper 2 (USA) (En,Ja)">

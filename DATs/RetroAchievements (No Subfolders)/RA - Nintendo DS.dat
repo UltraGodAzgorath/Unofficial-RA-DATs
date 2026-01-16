@@ -2238,33 +2238,6 @@
 		<hash>ebb3e9ee86d520f624ffc701a912779b</hash>
 	</game>
 	
-	<game name="Dragon Quest IX - Sentinels of the Starry Skies (Subset - Accolade Acquirer)">
-		<category>Subset</category>
-		<description>Dragon Quest IX - Sentinels of the Starry Skies (Subset - Accolade Acquirer)</description>
-		<release name="Dragon Quest IX - Sentinels of the Starry Skies (Subset - Accolade Acquirer)" region="World"/>
-		<rom name="Dragon Quest IX - Sentinels of the Starry Skies (Subset - Accolade Acquirer).nds" size="268435456" crc="f35b973e" md5="4aa5506ebee9e8eb3ab9a6834b9dfde1" sha1="3c7d059cb973f67101c970856e3b2a1468b72933"/>
-		<url>https://retroachievements.org/game/25064/hashes</url>
-		<hash>508c729c088dc166f3b188345e845936</hash>
-	</game>
-	
-	<game name="Dragon Quest IX - Sentinels of the Starry Skies (Subset - Item Inquisitor)">
-		<category>Subset</category>
-		<description>Dragon Quest IX - Sentinels of the Starry Skies (Subset - Item Inquisitor)</description>
-		<release name="Dragon Quest IX - Sentinels of the Starry Skies (Subset - Item Inquisitor)" region="World"/>
-		<rom name="Dragon Quest IX - Sentinels of the Starry Skies (Subset - Item Inquisitor).nds" size="268435456" crc="023f1be9" md5="7963bd2526dc956acf46d8c5250422f6" sha1="563c24fc9c49e811f9aa923cdf9e4719904b1df6"/>
-		<url>https://retroachievements.org/game/25066/hashes</url>
-		<hash>d0d66c8c2cb3340257ad2add7b0f341a</hash>
-	</game>
-	
-	<game name="Dragon Quest IX - Sentinels of the Starry Skies (Subset - Level 99 Legacy Lunacy)">
-		<category>Subset</category>
-		<description>Dragon Quest IX - Sentinels of the Starry Skies (Subset - Level 99 Legacy Lunacy)</description>
-		<release name="Dragon Quest IX - Sentinels of the Starry Skies (Subset - Level 99 Legacy Lunacy)" region="World"/>
-		<rom name="Dragon Quest IX - Sentinels of the Starry Skies (Subset - Level 99 Legacy Lunacy).nds" size="268435456" crc="6408cb2c" md5="3756835c98ebde3350fed9dedf0b6b0c" sha1="7081af89fae4801b34aefcdea0dd029772311582"/>
-		<url>https://retroachievements.org/game/25065/hashes</url>
-		<hash>198ea990721c0fb42df166e7037fc528</hash>
-	</game>
-	
 	<game name="Dragon Quest Monsters - Joker (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<description>Dragon Quest Monsters - Joker (Europe) (En,Fr,De,Es,It)</description>
@@ -4837,15 +4810,6 @@
 		<hash>89f431748ac9c1328106c676adc6d085</hash>
 	</game>
 	
-	<game name="Pokemon - Mystery Dungeon - Blue Rescue Team (Subset - Bonus)">
-		<category>Retail</category>
-		<description>Pokemon - Mystery Dungeon - Blue Rescue Team (Subset - Bonus)</description>
-		<release name="Pokemon - Mystery Dungeon - Blue Rescue Team (Subset - Bonus)" region="Europe"/>
-		<rom name="Pokemon - Mystery Dungeon - Blue Rescue Team (Subset - Bonus).nds" size="33554432" crc="03097324" md5="3850fd37c45770fafb64d30c271a4b6a" sha1="06034397ee5d7d12fc6d79a59e04687f13d1e543"/>
-		<url>https://retroachievements.org/game/34053/hashes</url>
-		<hash>85da406377515bba6c7e2b70b3e6ffc0</hash>
-	</game>
-	
 	<game name="Pokemon - Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<description>Pokemon - Mystery Dungeon - Explorers of Sky (Europe) (En,Fr,De,Es,It)</description>
@@ -5695,11 +5659,11 @@
 		<hash>7e8132d55284e121aa3c4d8538b57761</hash>
 	</game>
 	
-	<game name="Retro Game Challenge 2 (Subset - Daily Challenge)">
-		<category>Subset</category>
-		<description>Retro Game Challenge 2 (Subset - Daily Challenge)</description>
-		<release name="Retro Game Challenge 2 (Subset - Daily Challenge)" region="World"/>
-		<rom name="Retro Game Challenge 2 (Subset - Daily Challenge).nds" size="58867792" crc="c78cc2fe" md5="3be06c70ddb67dc1d7c99b52855a531b" sha1="55b795ff20b918bffe95667bfba0ccd4f39a93d4"/>
+	<game name="Retro Game Challenge 2 (Specialty Subset - Daily Challenge)">
+		<category>Specialty Subset</category>
+		<description>Retro Game Challenge 2 (Specialty Subset - Daily Challenge)</description>
+		<release name="Retro Game Challenge 2 (Specialty Subset - Daily Challenge)" region="World"/>
+		<rom name="Retro Game Challenge 2 (Specialty Subset - Daily Challenge).nds" size="58867792" crc="c78cc2fe" md5="3be06c70ddb67dc1d7c99b52855a531b" sha1="55b795ff20b918bffe95667bfba0ccd4f39a93d4"/>
 		<url>https://retroachievements.org/game/30117/hashes</url>
 		<hash>e1dafe59dd33a7bf6e7d514605c8a66a</hash>
 	</game>

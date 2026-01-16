@@ -5672,57 +5672,27 @@
 		<hash>e51a6ff9b2dbbd216158cacff35eb215</hash>
 	</game>
 	
-	<game name="Subset/Super Mario 64 (Subset - A Button Challenge)">
+	<game name="Specialty Subset/Super Mario 64 (Specialty Subset - A Button Challenge)">
 		<category>Nintendo 64</category>
-		<description>Super Mario 64 (Subset - A Button Challenge)</description>
-		<release name="Super Mario 64 (Subset - A Button Challenge)" region="World"/>
-		<rom name="Super Mario 64 (Subset - A Button Challenge).z64" size="8388608" crc="4be1379f" md5="50dab78045aa04b95adb97f4648d61b0" sha1="e8848c53498569132026c5862e368ae08f718513"/>
+		<description>Super Mario 64 (Specialty Subset - A Button Challenge)</description>
+		<release name="Super Mario 64 (Specialty Subset - A Button Challenge)" region="World"/>
+		<rom name="Super Mario 64 (Specialty Subset - A Button Challenge).z64" size="8388608" crc="4be1379f" md5="50dab78045aa04b95adb97f4648d61b0" sha1="e8848c53498569132026c5862e368ae08f718513"/>
 		<url>https://retroachievements.org/game/34390/hashes</url>
 		<hash>50dab78045aa04b95adb97f4648d61b0</hash>
 	</game>
 	
-	<game name="Subset/Super Mario 64 (Analog Camera) (Subset - Bonus)">
+	<game name="Specialty Subset/Super Mario 64 (Specialty Subset - Lazy Lakitu)">
 		<category>Nintendo 64</category>
-		<description>Super Mario 64 (Analog Camera) (Subset - Bonus)</description>
-		<rom name="Super Mario 64 (Analog Camera) (Subset - Bonus).z64" size="8388608" crc="97995644" md5="9ddbda208606d97962806efca056f3df" sha1="a934f2969ff24ae7f4ff8065c44c07de0ab4fbb5"/>
-		<url>https://retroachievements.org/game/11458/hashes</url>
-		<hash>9ddbda208606d97962806efca056f3df</hash>
-	</game>
-	<game name="Subset/Super Mario 64 (Subset - Bonus)">
-		<category>Nintendo 64</category>
-		<description>Super Mario 64 (Subset - Bonus)</description>
-		<rom name="Super Mario 64 (Subset - Bonus).z64" size="8388608" crc="02b8f782" md5="f1aa46df1b3409b4fae7c4e704331d95" sha1="affb6ccb083345c3d693c182726f946a29b63863"/>
-		<url>https://retroachievements.org/game/11458/hashes</url>
-		<hash>f1aa46df1b3409b4fae7c4e704331d95</hash>
-	</game>
-	
-	<game name="Subset/Super Mario 64 (Subset - Coin Collector)">
-		<category>Nintendo 64</category>
-		<description>Super Mario 64 (Subset - Coin Collector)</description>
-		<rom name="Super Mario 64 (Subset - Coin Collector).z64" size="8388608" crc="5210c700" md5="7b3285c7f6aee1f9a3891fd75abe0a39" sha1="c7ca7616d3c2fd4e0bcf48dabec176644b283de2"/>
-		<url>https://retroachievements.org/game/28262/hashes</url>
-		<hash>7b3285c7f6aee1f9a3891fd75abe0a39</hash>
-	</game>
-	<game name="Subset/Super Mario 64 (Analog Camera) (Subset - Coin Collector)">
-		<category>Nintendo 64</category>
-		<description>Super Mario 64 (Analog Camera) (Subset - Coin Collector)</description>
-		<rom name="Super Mario 64 (Analog Camera) (Subset - Coin Collector).z64" size="8388608" crc="c73166c6" md5="808205d0fe0db0647ac7998556936337" sha1="ed8cd00faf548714446fb27326d5675e6677c761"/>
-		<url>https://retroachievements.org/game/28262/hashes</url>
-		<hash>808205d0fe0db0647ac7998556936337</hash>
-	</game>
-	
-	<game name="Subset/Super Mario 64 (Subset - Lazy Lakitu)">
-		<category>Nintendo 64</category>
-		<description>Super Mario 64 (Subset - Lazy Lakitu)</description>
-		<rom name="Super Mario 64 (Subset - Lazy Lakitu).z64" size="8388608" crc="805b8504" md5="069a376fc94aef0e5fef2197956e9f3e" sha1="8f49b68054cb9a4773f62c1165a7d0ad6a0ddf2b"/>
+		<description>Super Mario 64 (Specialty Subset - Lazy Lakitu)</description>
+		<rom name="Super Mario 64 (Specialty Subset - Lazy Lakitu).z64" size="8388608" crc="805b8504" md5="069a376fc94aef0e5fef2197956e9f3e" sha1="8f49b68054cb9a4773f62c1165a7d0ad6a0ddf2b"/>
 		<url>https://retroachievements.org/game/22905/hashes</url>
 		<hash>069a376fc94aef0e5fef2197956e9f3e</hash>
 	</game>
 	
-	<game name="Subset/Super Mario 64 (Subset - Speedrun Showcase)">
+	<game name="Specialty Subset/Super Mario 64 (Specialty Subset - Speedrun Showcase)">
 		<category>Nintendo 64</category>
-		<description>Super Mario 64 (Subset - Speedrun Showcase)</description>
-		<rom name="Super Mario 64 (Subset - Speedrun Showcase).z64" size="8388608" crc="6a0dab6e" md5="039c3361ae8556e3151cb49b2ed18114" sha1="ac939e67656a64714a6911fb5a6537734c7633a6"/>
+		<description>Super Mario 64 (Specialty Subset - Speedrun Showcase)</description>
+		<rom name="Super Mario 64 (Specialty Subset - Speedrun Showcase).z64" size="8388608" crc="6a0dab6e" md5="039c3361ae8556e3151cb49b2ed18114" sha1="ac939e67656a64714a6911fb5a6537734c7633a6"/>
 		<url>https://retroachievements.org/game/25863/hashes</url>
 		<hash>039c3361ae8556e3151cb49b2ed18114</hash>
 	</game>
