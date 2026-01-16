@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260116</version>
+		<date>16 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -3532,22 +3532,6 @@
 		<hash>e651a4c87410396117f1324b6437702a</hash>
 	</game>
 	
-	<game name="Subset/Final Fantasy V Advance (Subset - Four Job Fiesta)">
-		<category></category>
-		<description>Final Fantasy V Advance (Subset - Four Job Fiesta)</description>
-		<rom name="Final Fantasy V Advance (Subset - Four Job Fiesta).gba" size="8388608" crc="11d090ef" md5="6e55af37087298c4b68115381a2686a2" sha1="cc97b19066444e269850954229375172ba6128bb"/>
-		<url>https://retroachievements.org/game/24371/hashes</url>
-		<hash>6e55af37087298c4b68115381a2686a2</hash>
-	</game>
-	
-	<game name="Subset/Final Fantasy V Advance (Subset - Low Level Game)">
-		<category></category>
-		<description>Final Fantasy V Advance (Subset - Low Level Game)</description>
-		<rom name="Final Fantasy V Advance (Subset - Low Level Game).gba" size="8388608" crc="4b6dc374" md5="ed9178bb3b620b27521dd9ea947e2923" sha1="a6e0306815678218ca3e182544ffa792b6089cbc"/>
-		<url>https://retroachievements.org/game/26438/hashes</url>
-		<hash>ed9178bb3b620b27521dd9ea947e2923</hash>
-	</game>
-	
 	<game name="Retail/Final Fantasy VI Advance (Europe) (Sound Restoration) (Bregalad) (v2.1)">
 		<category></category>
 		<description>Final Fantasy VI Advance (Europe) (Sound Restoration) (Bregalad) (v2.1)</description>
@@ -5221,14 +5205,6 @@
 		<hash>d5e6ffc50aa0cc058af5cd954f8da5bf</hash>
 	</game>
 	
-	<game name="Subset/Mega Man Zero (Subset - Bonus)">
-		<category></category>
-		<description>Mega Man Zero (Subset - Bonus)</description>
-		<rom name="Mega Man Zero (Subset - Bonus).gba" size="8388608" crc="e000e237" md5="24a768b22948c1da155d02692c2f11c5" sha1="01f9b6cd6657daf8b69976654df6ad9bd6ef54c2"/>
-		<url>https://retroachievements.org/game/22099/hashes</url>
-		<hash>24a768b22948c1da155d02692c2f11c5</hash>
-	</game>
-	
 	<game name="Retail/Megaman Zero 2 (USA)">
 		<category></category>
 		<description>Megaman Zero 2 (USA)</description>
@@ -5279,14 +5255,6 @@
 		<hash>ea369497617655b290dd8270454b86ab</hash>
 	</game>
 	
-	<game name="Subset/Mega Man Zero 2 (Subset - Bonus)">
-		<category></category>
-		<description>Mega Man Zero 2 (Subset - Bonus)</description>
-		<rom name="Mega Man Zero 2 (Subset - Bonus).gba" size="8388608" crc="b0292b66" md5="5056b22c06c4603eda874530e6ebbf11" sha1="99e7fc030035320237652dd8eb6f26921a38f64b"/>
-		<url>https://retroachievements.org/game/30059/hashes</url>
-		<hash>5056b22c06c4603eda874530e6ebbf11</hash>
-	</game>
-	
 	<game name="Retail/Megaman Zero 3 (USA) (Restoration) (SCD)">
 		<category></category>
 		<description>Megaman Zero 3 (USA) (Restoration) (SCD)</description>
@@ -5323,14 +5291,6 @@
 		<hash>fd94f92c7e5f925458e9d491e5d2bbd0</hash>
 	</game>
 	
-	<game name="Subset/Megaman Zero 3 (Subset - Bonus)">
-		<category></category>
-		<description>Megaman Zero 3 (Subset - Bonus)</description>
-		<rom name="Megaman Zero 3 (Subset - Bonus).gba" size="8388608" crc="d9c8d1d8" md5="0c61660b2f37d9ea241db0e3dfb7de15" sha1="0cff6ffb27f0b02cb6842cfd0666945e47e691fb"/>
-		<url>https://retroachievements.org/game/31768/hashes</url>
-		<hash>0c61660b2f37d9ea241db0e3dfb7de15</hash>
-	</game>
-	
 	<game name="Retail/Megaman Zero 4 (USA)">
 		<category></category>
 		<description>Megaman Zero 4 (USA)</description>
@@ -5351,14 +5311,6 @@
 		<rom name="Megaman Zero 4 (Europe).gba" size="16777216" crc="b7f022b9" md5="d3a76f1c92e3044b1a21f1aae84d21ab" sha1="8e13b9ee89a2ed665212daa401ba9331ad11bda9"/>
 		<url>https://retroachievements.org/game/784/hashes</url>
 		<hash>d3a76f1c92e3044b1a21f1aae84d21ab</hash>
-	</game>
-	
-	<game name="Subset/Mega Man Zero 4 (Subset - Bonus)">
-		<category></category>
-		<description>Mega Man Zero 4 (Subset - Bonus)</description>
-		<rom name="Mega Man Zero 4 (Subset - Bonus).gba" size="16777216" crc="d14c22a7" md5="b2ae4210be66d2d44a7dfceb43922140" sha1="39948b9bba939ec8d9b86ddc80dcaff33052211b"/>
-		<url>https://retroachievements.org/game/32800/hashes</url>
-		<hash>b2ae4210be66d2d44a7dfceb43922140</hash>
 	</game>
 	
 	<game name="Retail/Metal Slug Advance (Europe)">
@@ -5447,10 +5399,10 @@
 		<hash>eb462f708c715309d08fd7968825ae9e</hash>
 	</game>
 	
-	<game name="Subset/Metroid Fusion (Japan) (Subset - Japanese Content)">
+	<game name="Exclusive Subset/Metroid Fusion (Japan) (Exclusive Subset - Japanese Content)">
 		<category></category>
-		<description>Metroid Fusion (Japan) (Subset - Japanese Content)</description>
-		<rom name="Metroid Fusion (Japan) (Subset - Japanese Content).gba" size="8388608" crc="817a7e9e" md5="e535a6ec2eb86d183453037289527a63" sha1="5d21c668baa84da4a5b745be56809bb277f947a3"/>
+		<description>Metroid Fusion (Japan) (Exclusive Subset - Japanese Content)</description>
+		<rom name="Metroid Fusion (Japan) (Exclusive Subset - Japanese Content).gba" size="8388608" crc="817a7e9e" md5="e535a6ec2eb86d183453037289527a63" sha1="5d21c668baa84da4a5b745be56809bb277f947a3"/>
 		<url>https://retroachievements.org/game/10111/hashes</url>
 		<hash>e535a6ec2eb86d183453037289527a63</hash>
 	</game>
@@ -6047,18 +5999,18 @@
 		<hash>c3e85be7372bbd5e43f6334a565968c1</hash>
 	</game>
 	
-	<game name="Subset/Pokemon - Emerald Version (Subset - Mudkip vs. The World (ft. Castform))">
+	<game name="Specialty Subset/Pokemon - Emerald Version (Specialty Subset - Mudkip vs. The World (ft. Castform))">
 		<category></category>
-		<description>Pokemon - Emerald Version (Subset - Mudkip vs. The World (ft. Castform))</description>
-		<rom name="Pokemon - Emerald Version (Subset - Mudkip vs. The World (ft. Castform)).gba" size="16777216" crc="640971a1" md5="f82d897b10ec0729d515637b0e009dd8" sha1="d08fdfc36cae03ce007b7c1c5b0945c20a3f9f5f"/>
+		<description>Pokemon - Emerald Version (Specialty Subset - Mudkip vs. The World (ft. Castform))</description>
+		<rom name="Pokemon - Emerald Version (Specialty Subset - Mudkip vs. The World (ft. Castform)).gba" size="16777216" crc="640971a1" md5="f82d897b10ec0729d515637b0e009dd8" sha1="d08fdfc36cae03ce007b7c1c5b0945c20a3f9f5f"/>
 		<url>https://retroachievements.org/game/22853/hashes</url>
 		<hash>f82d897b10ec0729d515637b0e009dd8</hash>
 	</game>
 	
-	<game name="Subset/Pokemon - Emerald Version (Subset - Professor Oak Challenge)">
+	<game name="Specialty Subset/Pokemon - Emerald Version (Specialty Subset - Professor Oak Challenge)">
 		<category></category>
-		<description>Pokemon - Emerald Version (Subset - Professor Oak Challenge)</description>
-		<rom name="Pokemon - Emerald Version (Subset - Professor Oak Challenge).gba" size="16777216" crc="3c3c927f" md5="31446456df04356cb9f2145bada42ed2" sha1="3eaf785d11c5766e2f34e6d82aded5d1cb2f1953"/>
+		<description>Pokemon - Emerald Version (Specialty Subset - Professor Oak Challenge)</description>
+		<rom name="Pokemon - Emerald Version (Specialty Subset - Professor Oak Challenge).gba" size="16777216" crc="3c3c927f" md5="31446456df04356cb9f2145bada42ed2" sha1="3eaf785d11c5766e2f34e6d82aded5d1cb2f1953"/>
 		<url>https://retroachievements.org/game/24186/hashes</url>
 		<hash>31446456df04356cb9f2145bada42ed2</hash>
 	</game>
@@ -6894,13 +6846,6 @@
 		<url>https://retroachievements.org/game/4707/hashes</url>
 		<hash>17a986af456ed994f556f23c330666a8</hash>
 	</game>
-	<game name="Subset/Shining Force - Resurrection of the Dark Dragon (Subset - NG+)">
-		<category></category>
-		<description>Shining Force - Resurrection of the Dark Dragon (Subset - NG+)</description>
-		<rom name="Shining Force - Resurrection of the Dark Dragon (Subset - NG+).gba" size="16777216" crc="3549b812" md5="d3248986bdd108067cf61014f994f820" sha1="eb2303c1cd8fbfd597bc467d85aa83da8a12dc09"/>
-		<url>https://retroachievements.org/game/29072/hashes</url>
-		<hash>d3248986bdd108067cf61014f994f820</hash>
-	</game>
 	
 	<game name="Retail/Shining Soul (USA) (Pt) (Mr. Magoo) (v2.0)">
 		<category></category>
@@ -7561,14 +7506,6 @@
 		<hash>d904485be937fb3e30e4da5019e34a71</hash>
 	</game>
 	
-	<game name="Subset/Super Mario Advance 4 - Super Mario Bros. 3 (Subset - World-e)">
-		<category></category>
-		<description>Super Mario Advance 4 - Super Mario Bros. 3 (Subset - World-e)</description>
-		<rom name="Super Mario Advance 4 - Super Mario Bros. 3 (Subset - World-e).gba" size="8388608" crc="d4c13ac3" md5="e7a2792c5913a8420a419f2d01358487" sha1="dd2879329ec52bd5372f26b75297a67f1a81215a"/>
-		<url>https://retroachievements.org/game/7442/hashes</url>
-		<hash>e7a2792c5913a8420a419f2d01358487</hash>
-	</game>
-	
 	<game name="Retail/Super Mario Advance 2 - Super Mario World (Europe) (Color Restoration) (Asaki) (v0.91)">
 		<category></category>
 		<description>Super Mario Advance 2 - Super Mario World (Europe) (Color Restoration) (Asaki) (v0.91)</description>
@@ -7967,14 +7904,6 @@
 		<rom name="Legend of Zelda, The - A Link to the Past &amp; Four Swords (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="5a164321" md5="9edf4f6e19d901d470aa1117cb0372b3" sha1="3bb7f97ada7d60d8d334b271084effd1db853b32"/>
 		<url>https://retroachievements.org/game/580/hashes</url>
 		<hash>9edf4f6e19d901d470aa1117cb0372b3</hash>
-	</game>
-	
-	<game name="Subset/Legend of Zelda, The - A Link To The Past &amp; Four Swords (Subset - Bonus)">
-		<category></category>
-		<description>Legend of Zelda, The - A Link To The Past &amp; Four Swords (Subset - Bonus)</description>
-		<rom name="Legend of Zelda, The - A Link To The Past &amp; Four Swords (Subset - Bonus).gba" size="8388608" crc="fb1fe24a" md5="52fb89bb89b83611912afd8e2f4c8d89" sha1="52e6468447c7d8a82d90b6d3ee8aadfa2ae897d2"/>
-		<url>https://retroachievements.org/game/12899/hashes</url>
-		<hash>52fb89bb89b83611912afd8e2f4c8d89</hash>
 	</game>
 	
 	<game name="Retail/The Legend of Zelda - The Minish Cap/Legend of Zelda, The - The Minish Cap (USA) (Ru)">

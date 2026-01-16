@@ -5,8 +5,8 @@
 		<name>RA - Sony PSP</name>
 		<description>Sony PSP</description>
 		<category>Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260116</version>
+		<date>16 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/41/games</url>
@@ -1355,23 +1355,6 @@
 		<hash>3f0a0966ed4179766f1e057d90f15a67</hash>
 	</machine>
 	
-	<machine name="Subset/Hatsune Miku - Project DIVA/Hatsune Miku - Project DIVA (Subset - Full Combo Songs) (60FPS, DPad Patch)">
-		<category>PSP</category>
-		<description>Hatsune Miku - Project DIVA (Subset - Full Combo Songs) (60FPS, DPad Patch)</description>
-		<disk name="Hatsune Miku - Project DIVA (Subset - Full Combo Songs) (60FPS, DPad Patch).chd" sha1="26900627647983894fa041b145280bbafd96aaf5"/>
-		<url>https://retroachievements.org/game/18005/hashes</url>
-		<hash>33897f24597dd40c0fb5e4d311f50b14</hash>
-		<legacyhash>07499ec99cef0fa63faf39455bf07c94</legacyhash>
-	</machine>
-	<machine name="Subset/Hatsune Miku - Project DIVA/Hatsune Miku - Project Diva (Subset - Full Combo Songs)">
-		<category>PSP</category>
-		<description>Hatsune Miku - Project Diva (Subset - Full Combo Songs)</description>
-		<disk name="Hatsune Miku - Project Diva (Subset - Full Combo Songs).chd" sha1="142f8680ce4f73a0e2f9a7a2fb826602348c25ba"/>
-		<url>https://retroachievements.org/game/18005/hashes</url>
-		<hash>b7d2d0ec87950e3277e895186028ef56</hash>
-		<legacyhash>4273b7f60a2e9965197a15a0763033d1</legacyhash>
-	</machine>
-	
 	<machine name="Retail/Hatsune Miku - Project Diva 2nd/Hatsune Miku - Project Diva 2nd (Japan) (Es) (v1.01) (Wyrdgirn)">
 		<category>PSP</category>
 		<description>Hatsune Miku - Project Diva 2nd (Japan) (Es) (v1.01) (Wyrdgirn)</description>
@@ -1419,23 +1402,6 @@
 		<url>https://retroachievements.org/game/3923/hashes</url>
 		<hash>ed335c1a8b0b3844d8d6300b3735b6d3</hash>
 		<legacyhash>fb6e1e8bde4618c54eac4de0481cfeed</legacyhash>
-	</machine>
-	
-	<machine name="Subset/Hatsune Miku - Project Diva 2nd/Hatsune Miku - Project Diva 2nd (Subset - Full Combo Songs) (60FPS)">
-		<category>PSP</category>
-		<description>Hatsune Miku - Project Diva 2nd (Subset - Full Combo Songs) (60FPS)</description>
-		<disk name="Hatsune Miku - Project Diva 2nd (Subset - Full Combo Songs) (60FPS).chd" sha1="1d3a49f7389d4266e5746486b36781b960c83223"/>
-		<url>https://retroachievements.org/game/21435/hashes</url>
-		<hash>c705d15cf0f7f557ab0db91863ce23e5</hash>
-		<legacyhash>c13cbc85241f70b498ff1beb6e1c6f1a</legacyhash>
-	</machine>
-	<machine name="Subset/Hatsune Miku - Project Diva 2nd/Hatsune Miku - Project Diva 2nd (Subset - Full Combo Songs)">
-		<category>PSP</category>
-		<description>Hatsune Miku - Project Diva 2nd (Subset - Full Combo Songs)</description>
-		<disk name="Hatsune Miku - Project Diva 2nd (Subset - Full Combo Songs).chd" sha1="b05924e2e158e4bc1720898657269eac1bf4fc93"/>
-		<url>https://retroachievements.org/game/21435/hashes</url>
-		<hash>e61f63e5971115d9c8cf6f3ff65a4138</hash>
-		<legacyhash>6a072a1600ad36b2098b836277947237</legacyhash>
 	</machine>
 	
 	<machine name="Retail/Hatsune Miku - Project Diva Extend/Hatsune Miku - Project Diva Extend (Japan, Asia) (En) (v2.0) (Rev 3) (Wyrdgirn) (60FPS)">
@@ -1493,23 +1459,6 @@
 		<url>https://retroachievements.org/game/3516/hashes</url>
 		<hash>dfcebda480e07f339e073c7d6e495574</hash>
 		<legacyhash>2173da43bb1b1b1c0e3fe8973d8a6c5a</legacyhash>
-	</machine>
-	
-	<machine name="Subset/Hatsune Miku - Project Diva Extend/Hatsune Miku - Project Diva Extend (Subset - Full Combo Songs)">
-		<category>PSP</category>
-		<description>Hatsune Miku - Project Diva Extend (Subset - Full Combo Songs)</description>
-		<disk name="Hatsune Miku - Project Diva Extend (Subset - Full Combo Songs).chd" sha1="5141d828b58d5a040125ad880d592dd1ad24703d"/>
-		<url>https://retroachievements.org/game/21443/hashes</url>
-		<hash>2bf464fc0aa88745376adca507e48f5d</hash>
-		<legacyhash>c2ccd8f62ec6dbe8cad2679ce40c2032</legacyhash>
-	</machine>
-	<machine name="Subset/Hatsune Miku - Project Diva Extend/Hatsune Miku - Project Diva Extend (Subset - Full Combo Songs) (60FPS)">
-		<category>PSP</category>
-		<description>Hatsune Miku - Project Diva Extend (Subset - Full Combo Songs) (60FPS)</description>
-		<disk name="Hatsune Miku - Project Diva Extend (Subset - Full Combo Songs) (60FPS).chd" sha1="f0bab652dd449d33d8edb1426944498a315bfadf"/>
-		<url>https://retroachievements.org/game/21443/hashes</url>
-		<hash>b64ad1968698eedfeb4c6695c4b1f2b9</hash>
-		<legacyhash>69ebcc3037aa281c868b1937974e1324</legacyhash>
 	</machine>
 	
 	<machine name="Retail/Hello Kitty - Puzzle Party (Europe) (En,Fr,De,Es,It)">
@@ -2007,15 +1956,6 @@
 		<url>https://retroachievements.org/game/3585/hashes</url>
 		<hash>4c04d31abcab754356998f8f13af6b55</hash>
 		<legacyhash>744ec8690943bfc9b4be10a1410b1cec</legacyhash>
-	</machine>
-	
-	<machine name="Subset/Metal Gear Ac!d (Europe) (En,Fr,De,Es,It) (v1.01) (Subset - NG Extreme)">
-		<category>PSP</category>
-		<description>Metal Gear Ac!d (Europe) (En,Fr,De,Es,It) (v1.01) (Subset - NG Extreme)</description>
-		<disk name="Metal Gear Ac!d (Europe) (En,Fr,De,Es,It) (v1.01) (Subset - NG Extreme).chd" sha1="57d7a447df21dbcdb601183243189a40eb64a5c0"/>
-		<url>https://retroachievements.org/game/19920/hashes</url>
-		<hash>ff4fc5a0e58f364c35998cbc83ac672e</hash>
-		<legacyhash>f8d08cd40be3bd1fadb592ce0f8997db</legacyhash>
 	</machine>
 	
 	<machine name="Retail/Metal Gear Acid 2/Metal Gear Acid 2 (Europe) (En,Fr,De,Es,It)">
@@ -3013,15 +2953,6 @@
 		<url>https://retroachievements.org/game/3186/hashes</url>
 		<hash>38f4fcd5d786c98bf19077c9eefde9bd</hash>
 		<legacyhash>4596d65a2fc66cd87f1032d4a83aa40f</legacyhash>
-	</machine>
-	
-	<machine name="Subset/Tekken 6 (Subset - Tekken God)">
-		<category>PSP</category>
-		<description>Tekken 6 (Subset - Tekken God)</description>
-		<disk name="Tekken 6 (Subset - Tekken God).chd" sha1="9422fceac6fa2e05e408cc22a9c779cb35225254"/>
-		<url>https://retroachievements.org/game/27231/hashes</url>
-		<hash>e02ba6f0c8f27c8e137f2129dbfe0233</hash>
-		<legacyhash>17c9518b210570148309c6f13035a768</legacyhash>
 	</machine>
 	
 	<machine name="Retail/Tekken - Dark Resurrection (USA) (En,Fr,De,Es,It)">

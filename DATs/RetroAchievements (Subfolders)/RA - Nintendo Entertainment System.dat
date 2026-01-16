@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260116</version>
+		<date>16 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/7/games</url>
@@ -408,21 +408,6 @@
 		<rom name="Mega Man 3 Revamped (v1.1) (TheSkipper1995) (Hack).nes" size="786448" crc="c3642ed1" md5="6c2d110b963cac92f89268cb3ef2b9fc" sha1="d5e6931c9de8bbda23c2c2133bfd0dc2490c50c0"/>
 		<url>https://retroachievements.org/game/15922/hashes</url>
 		<hash>90f938fcf35b4d17f565fd7dd1b59606</hash>
-	</game>
-	
-	<game name="Subset/Mega Man 3 Revamped (v1.1) (Subset - Bonus)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Mega Man 3 Revamped (v1.1) (Subset - Bonus)</description>
-		<rom name="Mega Man 3 Revamped (v1.1) (Subset - Bonus).nes" size="786448" crc="5ab183ac" md5="8b7b8e5646225a369665d3db4f792820" sha1="1c8c90e52a7375f57a6957090c456e1e3cab19fa"/>
-		<url>https://retroachievements.org/game/24188/hashes</url>
-		<hash>ab93ac5c0d5e094cc2749a7d879623e4</hash>
-	</game>
-	<game name="Subset/Mega Man 3 Revamped (v1.1) (Alt) (Subset - Bonus)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Mega Man 3 Revamped (v1.1) (Alt) (Subset - Bonus)</description>
-		<rom name="Mega Man 3 Revamped (v1.1) (Alt) (Subset - Bonus).nes" size="786448" crc="384dc00c" md5="59bd4cb68efd7e7496033e6b5dc55537" sha1="fd68f8c6ad239b3b4ee0171bad825128c0f56aac"/>
-		<url>https://retroachievements.org/game/24188/hashes</url>
-		<hash>d5de18b75355c19829cb3453c4df3861</hash>
 	</game>
 	
 	<game name="Hack/Mega Man 4 Voyage (v1.06) (DurfarC) (Hack)">
@@ -1216,21 +1201,6 @@
 		<rom name="Battle of Olympus, The (USA) (Item Randomizer) (v1.76) (clymax) (Hack).nes" size="262160" crc="d8e48c2e" md5="1d56cf90d8643843c16a6b481219d41a" sha1="8b5b0e1b2f8512758e424f2ffe3e78977ec4c0be"/>
 		<url>https://retroachievements.org/game/27741/hashes</url>
 		<hash>2fc25d5e57fdb752870eb12dba243541</hash>
-	</game>
-	
-	<game name="Subset/Battle of Olympus, The (Item Randomizer) (v1.75) (clymax) (Subset - Bonus) (Hack)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Battle of Olympus, The (Item Randomizer) (v1.75) (clymax) (Subset - Bonus) (Hack)</description>
-		<rom name="Battle of Olympus, The (Item Randomizer) (v1.75) (clymax) (Subset - Bonus) (Hack).nes" size="262160" crc="16274fbb" md5="153f25bf6dd8c6107b0cca5615e3a3a8" sha1="e54aaba234347ce926efa956622f9519c0b7ea14"/>
-		<url>https://retroachievements.org/game/28137/hashes</url>
-		<hash>a6fe74bb1dffb79956f0d516734dd4b4</hash>
-	</game>
-	<game name="Subset/Battle of Olympus, The (Item Randomizer) (v1.76) (clymax) (Subset - Bonus) (Hack)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Battle of Olympus, The (Item Randomizer) (v1.76) (clymax) (Subset - Bonus) (Hack)</description>
-		<rom name="Battle of Olympus, The (Item Randomizer) (v1.76) (clymax) (Subset - Bonus) (Hack).nes" size="262160" crc="2296829e" md5="53561c417317761eb6770f430c57b3a0" sha1="bfac3aee55d9af3147239ff6ebb80d569b1d8a5c"/>
-		<url>https://retroachievements.org/game/28137/hashes</url>
-		<hash>78157893755e1eb7068fb8524e99e305</hash>
 	</game>
 	
 	<game name="Hack/Super Mario Bros 2/SMB2 - Beatles, The - Adventures in Pepperland (v1.2) (NesDraug) (Hack)">
@@ -5682,14 +5652,6 @@
 		<hash>eb9713d1cac3586601833d8df854114e</hash>
 	</game>
 	
-	<game name="Subset/Darkwing Duck (Subset - Bonus)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Darkwing Duck (Subset - Bonus)</description>
-		<rom name="Darkwing Duck (Subset - Bonus).nes" size="262161" crc="1904b02f" md5="f76917080d535692882bf9c3b936e8e2" sha1="ae8efb89e69d56f8bfbd8046a7445b3a0b286651"/>
-		<url>https://retroachievements.org/game/1613/hashes</url>
-		<hash>54e333194d86eab4377628070f305d96</hash>
-	</game>
-	
 	<game name="Retail/Day Dreamin' Davey (USA)">
 		<category>Nintendo &amp; Famicom</category>
 		<description>Day Dreamin' Davey (USA)</description>
@@ -5951,14 +5913,6 @@
 		<rom name="Doki! Doki! Yuuenchi - Crazyland Daisakusen (Japan) (En) (NoTalent) (v1.1) (Alt).nes" size="262288" crc="94bf4495" md5="8eae33e63259ce4922d032a19b70e463" sha1="90b2ce459ef45cc80e852a09da8b61be7e0084f5"/>
 		<url>https://retroachievements.org/game/6422/hashes</url>
 		<hash>c4c4d6bdb82010c7e4624df74fe6306a</hash>
-	</game>
-	
-	<game name="Subset/Doki! Doki! Yuuenchi - Crazyland Daisakusen (Subset - Bonus)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Doki! Doki! Yuuenchi - Crazyland Daisakusen (Subset - Bonus)</description>
-		<rom name="Doki! Doki! Yuuenchi - Crazyland Daisakusen (Subset - Bonus).nes" size="262160" crc="ddf028eb" md5="f76689ef855fa685707def38fb8d9d19" sha1="547408bf45c50fc355df4e0b66d2341cee058704"/>
-		<url>https://retroachievements.org/game/6421/hashes</url>
-		<hash>be1426659fff381054bbf04ca3298664</hash>
 	</game>
 	
 	<game name="Retail/Don Doko Don 2 (En) (MrRichard999) (v1.0)">
@@ -8829,14 +8783,6 @@
 		<hash>c68fa81d7cc3cc8a66c1f6391a385037</hash>
 	</game>
 	
-	<game name="Subset/Akumajou Special - Boku Dracula-kun (Subset - Bonus)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Akumajou Special - Boku Dracula-kun (Subset - Bonus)</description>
-		<rom name="Akumajou Special - Boku Dracula-kun (Subset - Bonus).nes" size="262160" crc="d3e1d003" md5="a78c5bb4ef2fc3b72d06115cc421f4f4" sha1="2dde0b968409400022c937c36092a5a93804d0a1"/>
-		<url>https://retroachievements.org/game/1510/hashes</url>
-		<hash>1cbb2d6903fc0188426f08bb1c0be925</hash>
-	</game>
-	
 	<game name="Retail/Kid Icarus (USA, Europe) (Pt) (Mini Translations) (v0.95)">
 		<category>Nintendo &amp; Famicom</category>
 		<description>Kid Icarus (USA, Europe) (Pt) (Mini Translations) (v0.95)</description>
@@ -9165,14 +9111,6 @@
 		<rom name="Kyatto Ninden Teyandee (Japan) (En) (Vertigo) (v0.1).nes" size="262160" crc="39c5fe34" md5="89725ba3c4746623794bd5ddfd824a86" sha1="9933ecd3c0a8185d19c43d4c576535dc19575944"/>
 		<url>https://retroachievements.org/game/4829/hashes</url>
 		<hash>df8e8a7748bdfb55ca9349a7242ac082</hash>
-	</game>
-	
-	<game name="Subset/Kyatto Ninden Teyandee (Subset - Bonus)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Kyatto Ninden Teyandee (Subset - Bonus)</description>
-		<rom name="Kyatto Ninden Teyandee (Subset - Bonus).nes" size="393232" crc="ee056063" md5="d7524d6d4ff26356b6eb6cd9f340e5ff" sha1="499fa30f3882ddace7c2b52757627e8a792feee7"/>
-		<url>https://retroachievements.org/game/4961/hashes</url>
-		<hash>b30bb0b86c030bc7e43e681b4397b58c</hash>
 	</game>
 	
 	<game name="Retail/Kyouryuu Sentai Zyuranger (Japan)">
@@ -9792,14 +9730,6 @@
 		<hash>e1542de8784b93492fd7686f56f30376</hash>
 	</game>
 	
-	<game name="Subset/Mega Man (Subset - Bonus)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Mega Man (Subset - Bonus)</description>
-		<rom name="Mega Man (Subset - Bonus).nes" size="131088" crc="7a14ad11" md5="fce9a048be159f7f76f870bb5af4d9eb" sha1="070a3fdeaff66392483a96fb30195b3fdaa75081"/>
-		<url>https://retroachievements.org/game/6729/hashes</url>
-		<hash>28d0d55b60a9260fdf75fc59e09b9118</hash>
-	</game>
-	
 	<game name="Retail/Mega Man 2 (USA)">
 		<category>Nintendo &amp; Famicom</category>
 		<description>Mega Man 2 (USA)</description>
@@ -10111,14 +10041,6 @@
 		<rom name="Metroid (USA) (Pt) (E2P Traducoes).nes" size="131088" crc="1b8e0a04" md5="762c9cb7bb0b525907fc23ca9f8c331a" sha1="1dcb3f4b124b051648d8c1e133e39b3999b93d63"/>
 		<url>https://retroachievements.org/game/1487/hashes</url>
 		<hash>f0acb31e9a137c80648fbaec9c46f181</hash>
-	</game>
-	
-	<game name="Subset/Metroid (Subset - Bonus)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Metroid (Subset - Bonus)</description>
-		<rom name="Metroid (Subset - Bonus).nes" size="131088" crc="c262e8b0" md5="54e530848e0d3e0641c780f2c2a2e0db" sha1="943bc77499f2dc0f8dc3465c7c748e628b5cf622"/>
-		<url>https://retroachievements.org/game/24067/hashes</url>
-		<hash>cdce58f4690b29c8de6efa7ed28c9cf0</hash>
 	</game>
 	
 	<game name="Retail/Mickey Mousecapade (USA)">
@@ -12608,14 +12530,6 @@
 		<hash>8e3630186e35d477231bf8fd50e54cdd</hash>
 	</game>
 	
-	<game name="Subset/Super Mario Bros. (Subset - Bonus)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Super Mario Bros. (Subset - Bonus)</description>
-		<rom name="Super Mario Bros. (Subset - Bonus).nes" size="40976" crc="39122303" md5="ba1dc899f6c5237438a9aeb6b88fc97f" sha1="6c9a7f7cba856c1c1ecc1a05f81b7b50a1eda67e"/>
-		<url>https://retroachievements.org/game/16561/hashes</url>
-		<hash>2f6722317f4e047e45b711e2ba6036f8</hash>
-	</game>
-	
 	<game name="Retail/Super Mario Bros. + Duck Hunt + World Class Track Meet (USA) (Rev 1)">
 		<category>Nintendo &amp; Famicom</category>
 		<description>Super Mario Bros. + Duck Hunt + World Class Track Meet (USA) (Rev 1)</description>
@@ -13203,14 +13117,6 @@
 		<rom name="Battle of Olympus, The (USA).nes" size="131088" crc="3ccd7fec" md5="70154f4853e073acbffcf9f23c9b4042" sha1="1b1b4d1e0a67822c9f623f9d3888b5df13c9128f"/>
 		<url>https://retroachievements.org/game/1571/hashes</url>
 		<hash>fd643d07b01072a1376353bd37b1f8c6</hash>
-	</game>
-	
-	<game name="Subset/Battle of Olympus, The (Subset - Bonus)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Battle of Olympus, The (Subset - Bonus)</description>
-		<rom name="Battle of Olympus, The (Subset - Bonus).nes" size="131088" crc="e7958a33" md5="286b1f1e7f43d22c1dca8526a9a43c20" sha1="941543a427163a77e26da9c597e90199b14602c8"/>
-		<url>https://retroachievements.org/game/22872/hashes</url>
-		<hash>18f83834acc0b5a02720f40dcd6b6842</hash>
 	</game>
 	
 	<game name="Retail/Blue Marlin, The (Japan)">
@@ -14479,18 +14385,10 @@
 		<hash>227672aca26c27def9c0fcf61b3b5f4d</hash>
 	</game>
 	
-	<game name="Subset/Wizardry - Proving Grounds of the Mad Overlord (Subset - Item Drops)">
+	<game name="Specialty Subset/Wizardry - Proving Grounds of the Mad Overlord (Specialty Subset - Solo Class)">
 		<category>Nintendo &amp; Famicom</category>
-		<description>Wizardry - Proving Grounds of the Mad Overlord (Subset - Item Drops)</description>
-		<rom name="Wizardry - Proving Grounds of the Mad Overlord (Subset - Item Drops).nes" size="262160" crc="b26aba89" md5="8a005fad7251d9581c5ba4dd7a9ae8db" sha1="f70e3c3ffe53162b2b8f8514a2c29372a0cd65de"/>
-		<url>https://retroachievements.org/game/28375/hashes</url>
-		<hash>f8f219f9929778651919c1e6495d29d5</hash>
-	</game>
-	
-	<game name="Subset/Wizardry - Proving Grounds of the Mad Overlord (Subset - Solo Class)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Wizardry - Proving Grounds of the Mad Overlord (Subset - Solo Class) (ACFIX)</description>
-		<rom name="Wizardry - Proving Grounds of the Mad Overlord (Subset - Solo Class) (ACFIX).nes" size="262160" crc="6dcad88d" md5="9dcdefae8aff800c152e2692c5896472" sha1="f50a41c8aecbb9b51e3217cc2d1a647b9c787211"/>
+		<description>Wizardry - Proving Grounds of the Mad Overlord (Specialty Subset - Solo Class) (ACFIX)</description>
+		<rom name="Wizardry - Proving Grounds of the Mad Overlord (Specialty Subset - Solo Class) (ACFIX).nes" size="262160" crc="6dcad88d" md5="9dcdefae8aff800c152e2692c5896472" sha1="f50a41c8aecbb9b51e3217cc2d1a647b9c787211"/>
 		<url>https://retroachievements.org/game/25609/hashes</url>
 		<hash>c3ae33f19c139282a1c679da701fe69d</hash>
 	</game>
@@ -14765,14 +14663,6 @@
 		<rom name="Yume Penguin Monogatari (Japan).nes" size="262160" crc="70428fdf" md5="4dca72063fb2453b6d79f3e927c8ef5c" sha1="7cb7eec5650c1327c2619a14f497ba0af06e185c"/>
 		<url>https://retroachievements.org/game/5241/hashes</url>
 		<hash>e659890d46a5ac9a347e0b85b352f1d0</hash>
-	</game>
-	
-	<game name="Subset/Yume Penguin Monogatari (Subset - Bonus)">
-		<category>Nintendo &amp; Famicom</category>
-		<description>Yume Penguin Monogatari (Subset - Bonus)</description>
-		<rom name="Yume Penguin Monogatari (Subset - Bonus).nes" size="262160" crc="a3356a90" md5="567cafedc9c0a3ffa0c640253933cb43" sha1="af755bc217cef0046541bedc8628098e0bf0d33d"/>
-		<url>https://retroachievements.org/game/5590/hashes</url>
-		<hash>a8b5ae6f195a4a3d87f2d5d20f17c46a</hash>
 	</game>
 	
 	<game name="Retail/Zanac (USA)">

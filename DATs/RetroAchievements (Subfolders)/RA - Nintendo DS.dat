@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260116</version>
+		<date>16 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
@@ -992,14 +992,6 @@
 		<hash>654fb79d03b8d8a5461e40ba7391c084</hash>
 	</game>
 	
-	<game name="Subset/All Kamen Rider - Rider Generation (Subset - Max Level)">
-		<category></category>
-		<description>All Kamen Rider - Rider Generation (Subset - Max Level)</description>
-		<rom name="All Kamen Rider - Rider Generation (Subset - Max Level).nds" size="67108864" crc="a3f9037e" md5="d31359a10388059d58998d626fea2041" sha1="f4d51f5a057f2451fed8b535823a20111304b7f5"/>
-		<url>https://retroachievements.org/game/18800/hashes</url>
-		<hash>9df043d95362792b55767a4c43ee05ad</hash>
-	</game>
-	
 	<game name="Retail/Animal Boxing (USA)">
 		<category></category>
 		<description>Animal Boxing (USA)</description>
@@ -1602,14 +1594,6 @@
 		<rom name="Contra 4 (USA).nds" size="33554432" crc="b9df4b8e" md5="74bde12741469d1a266ec0c60672464d" sha1="4e437a7ae4e3a3645cfd374ba9d0dcdea0db0008"/>
 		<url>https://retroachievements.org/game/12917/hashes</url>
 		<hash>4a0bb913060b127b94ea47aff6c6a340</hash>
-	</game>
-	
-	<game name="Subset/Contra 4 (Subset - Classic Contra)">
-		<category></category>
-		<description>Contra 4 (Subset - Classic Contra)</description>
-		<rom name="Contra 4 (Subset - Classic Contra).nds" size="30673400" crc="b4f7e151" md5="d4c325e6fc9810bbd749941e621be5d4" sha1="3e5fed92410bc8969f7078e68eff6bbdd5418d97"/>
-		<url>https://retroachievements.org/game/23802/hashes</url>
-		<hash>c19ad944ca54402d302902aa448b103a</hash>
 	</game>
 	
 	<game name="Retail/Cooking Mama (USA)">
@@ -2687,14 +2671,6 @@
 		<rom name="Izuna 2 - The Unemployed Ninja Returns (USA).nds" size="67108864" crc="d98f38e6" md5="7f380805b72616a7fb45144213eb2ae9" sha1="c21141bcb1e1b93b59ca7f30f930e3d86a980c39"/>
 		<url>https://retroachievements.org/game/3140/hashes</url>
 		<hash>2dfe9d9d24cff87ecb7aa730b5b04c9e</hash>
-	</game>
-	
-	<game name="Subset/Izuna 2 - The Unemployed Ninja Returns (Subset - Ninja Photographer)">
-		<category></category>
-		<description>Izuna 2 - The Unemployed Ninja Returns (Subset - Ninja Photographer)</description>
-		<rom name="Izuna 2 - The Unemployed Ninja Returns (Subset - Ninja Photographer).nds" size="67108864" crc="01f69876" md5="7cee3d0c5fd9f9b8d0943cc117e693a9" sha1="3e40096089d97239b7afcc21c1ebb8ccde0779a0"/>
-		<url>https://retroachievements.org/game/21434/hashes</url>
-		<hash>793ea5ababa58f2c6475c6d63dadbd24</hash>
 	</game>
 	
 	<game name="Retail/Izuna - Legend of the Unemployed Ninja (USA)">
@@ -4001,10 +3977,10 @@
 		<hash>bd562276c75b98cbd185231c1b1d016e</hash>
 	</game>
 	
-	<game name="Subset/Pokemon - Black Version (Subset - Professor Oak Challenge)">
+	<game name="Specialty Subset/Pokemon - Black Version (Specialty Subset - Professor Oak Challenge)">
 		<category></category>
-		<description>Pokemon - Black Version (Subset - Professor Oak Challenge)</description>
-		<rom name="Pokemon - Black Version (Subset - Professor Oak Challenge).nds" size="268435456" crc="f756a6f1" md5="83a81b938e9a3037dd686a1accf1d8ad" sha1="41699c35fbf42d3d49d1dc54dae27e5698df0b69"/>
+		<description>Pokemon - Black Version (Specialty Subset - Professor Oak Challenge)</description>
+		<rom name="Pokemon - Black Version (Specialty Subset - Professor Oak Challenge).nds" size="268435456" crc="f756a6f1" md5="83a81b938e9a3037dd686a1accf1d8ad" sha1="41699c35fbf42d3d49d1dc54dae27e5698df0b69"/>
 		<url>https://retroachievements.org/game/18166/hashes</url>
 		<hash>85c0765bc1074305655d750d4f83ccf9</hash>
 	</game>
@@ -4345,10 +4321,10 @@
 		<hash>55f8c2296cc23bf0aa4615bea1e1181e</hash>
 	</game>
 	
-	<game name="Subset/Pokemon - Mystery Dungeon - Explorers of Sky (Subset - Zero Isle South Runs)">
+	<game name="Exclusive Subset/Pokemon - Mystery Dungeon - Explorers of Sky (Exclusive Subset - Zero Isle South Runs)">
 		<category></category>
-		<description>Pokemon - Mystery Dungeon - Explorers of Sky (Subset - Zero Isle South Runs)</description>
-		<rom name="Pokemon - Mystery Dungeon - Explorers of Sky (Subset - Zero Isle South Runs).nds" size="134217728" crc="d05ab3d5" md5="5d7808689b8b5389669244090c69f220" sha1="27ac888800cf76daf9d9531c10bd3c9c34b6d6c3"/>
+		<description>Pokemon - Mystery Dungeon - Explorers of Sky (Exclusive Subset - Zero Isle South Runs)</description>
+		<rom name="Pokemon - Mystery Dungeon - Explorers of Sky (Exclusive Subset - Zero Isle South Runs).nds" size="134217728" crc="d05ab3d5" md5="5d7808689b8b5389669244090c69f220" sha1="27ac888800cf76daf9d9531c10bd3c9c34b6d6c3"/>
 		<url>https://retroachievements.org/game/24911/hashes</url>
 		<hash>54b1d7e69387ca7b92e7a9e2dd3e1a8e</hash>
 	</game>
@@ -5987,28 +5963,12 @@
 		<hash>9fdce55a596c460adb0b9174948b0235</hash>
 	</game>
 	
-	<game name="Subset/Trauma Center - Under the Knife (Subset - S-Ranks)">
-		<category></category>
-		<description>Trauma Center - Under the Knife (Subset - S-Ranks)</description>
-		<rom name="Trauma Center - Under the Knife (Subset - S-Ranks).nds" size="33554432" crc="ca08e324" md5="22adf34307e78030626a85ea98979f32" sha1="d8bbd91054fee898764d29f75279bdf51dc1450a"/>
-		<url>https://retroachievements.org/game/18716/hashes</url>
-		<hash>0f406569005cccd9dbb17421a7054896</hash>
-	</game>
-	
 	<game name="Retail/Trauma Center - Under the Knife 2 (USA)">
 		<category></category>
 		<description>Trauma Center - Under the Knife 2 (USA)</description>
 		<rom name="Trauma Center - Under the Knife 2 (USA).nds" size="67108864" crc="1497600d" md5="c3245d475b8258b3546cd9593aaa6e82" sha1="32cc3cef227a76fa107b666311e9fadb28b0e853"/>
 		<url>https://retroachievements.org/game/1271/hashes</url>
 		<hash>537af33ba04149e096bc5875ec838ef2</hash>
-	</game>
-	
-	<game name="Subset/Trauma Center - Under the Knife 2 (Subset - XS-Ranks)">
-		<category></category>
-		<description>Trauma Center - Under the Knife 2 (Subset - XS-Ranks)</description>
-		<rom name="Trauma Center - Under the Knife 2 (Subset - XS-Ranks).nds" size="67108864" crc="fcfd3be3" md5="bb8b2cd4ffabd4ec5199bfa56e4e5f15" sha1="f26ccf2238c202d88348b114569895e1edb421bd"/>
-		<url>https://retroachievements.org/game/18719/hashes</url>
-		<hash>a8ac9c0c779197ae3ee3413ecb5619f0</hash>
 	</game>
 	
 	<game name="Retail/TV Anime Fairy Tail - Gekitou! Madoushi Kessen (Japan)">

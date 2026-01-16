@@ -5,8 +5,8 @@
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
 		<category>No Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260116</version>
+		<date>16 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/16/games</url>
@@ -1008,15 +1008,6 @@
 		<hash>5ac18a5e38d2e80176c7e33ed26048d8</hash>
 	</game>
 	
-	<game name="Mario Golf - Toadstool Tour (Subset - Completionist)">
-		<category>Subset</category>
-		<description>Mario Golf - Toadstool Tour (Subset - Completionist)</description>
-		<release name="Mario Golf - Toadstool Tour (Subset - Completionist)" region="World"/>
-		<rom name="Mario Golf - Toadstool Tour (Subset - Completionist).rvz" size="1103029952" crc="9d079324" md5="50de7657f1e73158b002d56e7471e037" sha1="4ff55f9ce43285edfcfbc597a5c07196bcd67263"/>
-		<url>https://retroachievements.org/game/29039/hashes</url>
-		<hash>a34a2ae571ec6758a20c1633df8f9303</hash>
-	</game>
-	
 	<game name="Mario Kart - Double Dash!! (USA)">
 		<category>Retail</category>
 		<description>Mario Kart - Double Dash!! (USA)</description>
@@ -1677,15 +1668,6 @@
 		<hash>403b82be469bfedaf27b3392aeac0f44</hash>
 	</game>
 	
-	<game name="Road Trip - The Arcade Edition (Subset - Road Trip Encyclopedia)">
-		<category>Subset</category>
-		<description>Road Trip - The Arcade Edition (Subset - Road Trip Encyclopedia)</description>
-		<release name="Road Trip - The Arcade Edition (Subset - Road Trip Encyclopedia)" region="World"/>
-		<rom name="Road Trip - The Arcade Edition (Subset - Road Trip Encyclopedia).rvz" size="36623848" crc="a3c29dee" md5="69bd3ff41251829265ce448dcf979c89" sha1="9b54540c2ad22ade0560a27b1511fa649446fb9f"/>
-		<url>https://retroachievements.org/game/30490/hashes</url>
-		<hash>9a94a7df39f45597384348ab259e9709</hash>
-	</game>
-	
 	<game name="Rogue Ops (USA)">
 		<category>Retail</category>
 		<description>Rogue Ops (USA)</description>
@@ -2329,23 +2311,6 @@
 		<hash>3a23d9e18150cf6df9ecc63281c2bd28</hash>
 	</game>
 	
-	<game name="Tales of Symphonia (Disc 1) (Subset - Gung Ho Run)">
-		<category>Subset</category>
-		<description>Tales of Symphonia (Disc 1) (Subset - Gung Ho Run)</description>
-		<release name="Tales of Symphonia (Disc 1) (Subset - Gung Ho Run)" region="World"/>
-		<rom name="Tales of Symphonia (Disc 1) (Subset - Gung Ho Run).rvz" size="1044573964" crc="8bdaa604" md5="31784ec62725b2b1caa4c24e9759c098" sha1="118fc776fcf3ba0c6ab598b7a6d0949d27a42cec"/>
-		<url>https://retroachievements.org/game/28798/hashes</url>
-		<hash>4c86d699b79831ea3b5db12056cb14e0</hash>
-	</game>
-	<game name="Tales of Symphonia (Disc 2) (Subset - Gung Ho Run)">
-		<category>Subset</category>
-		<description>Tales of Symphonia (Disc 2) (Subset - Gung Ho Run)</description>
-		<release name="Tales of Symphonia (Disc 2) (Subset - Gung Ho Run)" region="World"/>
-		<rom name="Tales of Symphonia (Disc 2) (Subset - Gung Ho Run).rvz" size="1061800272" crc="f116f661" md5="3b65e21a9803441f02f0280186d92250" sha1="2e1d4dcaeae0d53de06a5e73dff47b9c9edc0fab"/>
-		<url>https://retroachievements.org/game/28798/hashes</url>
-		<hash>18eaa728b59a875178fc237b44037d43</hash>
-	</game>
-	
 	<game name="Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA)" cloneof="Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (Europe)">
 		<category>Retail</category>
 		<description>Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe (USA)</description>
@@ -2596,15 +2561,6 @@
 		<rom name="Viewtiful Joe (USA).rvz" size="937007792" crc="d6a5bd54" md5="8595b7c8afae8a4768947d81b668d1f3" sha1="24481fe827673d85fea9c21a175030b75f1994b8"/>
 		<url>https://retroachievements.org/game/3783/hashes</url>
 		<hash>e04b000e9c2f34fddfb8a64b98dea181</hash>
-	</game>
-	
-	<game name="Viewtiful Joe (Subset - Rainbow V)">
-		<category>Subset</category>
-		<description>Viewtiful Joe (Subset - Rainbow V)</description>
-		<release name="Viewtiful Joe (Subset - Rainbow V)" region="World"/>
-		<rom name="Viewtiful Joe (Subset - Rainbow V).rvz" size="937008324" crc="d540b9ac" md5="3ac1f7b66c3ce7b2c7969dfeb94bca1f" sha1="eab4b4e29bee0265ba5870d0344af9d58a64cf27"/>
-		<url>https://retroachievements.org/game/28807/hashes</url>
-		<hash>3651e6e2be783fa6828e50ab58ec1ddd</hash>
 	</game>
 	
 	<game name="Wario World (USA)">

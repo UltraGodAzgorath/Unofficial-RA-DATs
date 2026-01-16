@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Color</name>
 		<description>Nintendo Game Boy Color</description>
 		<category>No Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260116</version>
+		<date>16 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/6/games</url>
@@ -1543,15 +1543,6 @@
 		<rom name="Caterpillar Construction Zone (USA, Europe) (GB Compatible).gbc" size="1048576" crc="d20dc670" md5="046af13647ed4777510aa86fcb753bf9" sha1="0ec92ea836c729efebcd76282f90dfb579396aa6"/>
 		<url>https://retroachievements.org/game/7687/hashes</url>
 		<hash>046af13647ed4777510aa86fcb753bf9</hash>
-	</game>
-	
-	<game name="Caterpillar Construction Zone (Subset - Speedrun)">
-		<category>Subset</category>
-		<description>Caterpillar Construction Zone (Subset - Speedrun)</description>
-		<release name="Caterpillar Construction Zone (Subset - Speedrun)" region="World"/>
-		<rom name="Caterpillar Construction Zone (Subset - Speedrun).gbc" size="1048576" crc="a50af6e6" md5="8c82887c5462f642b8283c0fde55f314" sha1="250a65032bc711fbcd4515e09305c2ddd0cea83a"/>
-		<url>https://retroachievements.org/game/25633/hashes</url>
-		<hash>8c82887c5462f642b8283c0fde55f314</hash>
 	</game>
 	
 	<game name="Catwoman (Europe)">
@@ -4166,22 +4157,6 @@
 		<rom name="Legend of Zelda, The - Oracle of Ages (USA, Australia).gbc" size="1048576" crc="3800a387" md5="c4639cc61c049e5a085526bb6cac03bb" sha1="880374fb978b18af4aa529e2e32f7ffb4d7dd2f4"/>
 		<url>https://retroachievements.org/game/710/hashes</url>
 		<hash>c4639cc61c049e5a085526bb6cac03bb</hash>
-	</game>
-	
-	<game name="Legend of Zelda, The - Oracle of Ages (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Legend of Zelda, The - Oracle of Ages (Subset - Bonus)</description>
-		<release name="Legend of Zelda, The - Oracle of Ages (Subset - Bonus)" region="World"/>
-		<rom name="Legend of Zelda, The - Oracle of Ages (Subset - Bonus).gbc" size="2097152" crc="c5fc0dba" md5="293d91d53e2c6ce32d55696add7ab8e1" sha1="2a6e9908072de77d4f225607ff6d3760f01e7ef1"/>
-		<url>https://retroachievements.org/game/12399/hashes</url>
-		<hash>293d91d53e2c6ce32d55696add7ab8e1</hash>
-	</game>
-	<game name="Legend of Zelda, The - Oracle of Seasons (Subset - Bonus)" cloneof="Legend of Zelda, The - Oracle of Ages (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Legend of Zelda, The - Oracle of Seasons (Subset - Bonus)</description>
-		<rom name="Legend of Zelda, The - Oracle of Seasons (Subset - Bonus).gbc" size="2097152" crc="b98dad89" md5="adb108b1872c8701b4cf571665d80cb8" sha1="990eb0147ab0d0db6283431a79bbc21fd38304cb"/>
-		<url>https://retroachievements.org/game/12399/hashes</url>
-		<hash>adb108b1872c8701b4cf571665d80cb8</hash>
 	</game>
 	
 	<game name="Legend of Zelda, The - Oracle of Seasons (Europe) (En,Fr,De,Es,It)">

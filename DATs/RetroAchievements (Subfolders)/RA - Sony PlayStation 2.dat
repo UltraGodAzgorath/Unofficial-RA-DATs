@@ -5,8 +5,8 @@
 		<name>RA - Sony PlayStation 2</name>
 		<description>Sony PlayStation 2</description>
 		<category>Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260116</version>
+		<date>16 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -1506,22 +1506,6 @@
 		<hash>dee71e9f5411f4839bf4dc5879a3e528</hash>
 	</machine>
 	
-	<machine name="Subset/Dark Cloud 2 (Subset - Monster Transformation)">
-		<category></category>
-		<description>Dark Cloud 2 (Subset - Monster Transformation)</description>
-		<disk name="Dark Cloud 2 (Subset - Monster Transformation).chd" sha1="8424535ec45526a7c8d6db39f92df971f895491b"/>
-		<url>https://retroachievements.org/game/25202/hashes</url>
-		<hash>3a1a5e324a7d7a88624b1884c8e17067</hash>
-	</machine>
-	
-	<machine name="Subset/Dark Cloud 2 (Subset - Spheda Master)">
-		<category></category>
-		<description>Dark Cloud 2 (Subset - Spheda Master)</description>
-		<disk name="Dark Cloud 2 (Subset - Spheda Master).chd" sha1="46a06b0264ca03918ab9b35eb7c8814acc5b6152"/>
-		<url>https://retroachievements.org/game/25597/hashes</url>
-		<hash>22d6a566da5ff55aabbf8cc6bfba9f47</hash>
-	</machine>
-	
 	<machine name="Retail/Dark Summit (USA)">
 		<category></category>
 		<description>Dark Summit (USA)</description>
@@ -1585,21 +1569,6 @@
 		<disk name="Darkwatch (Europe, Australia) (50FPS) (v1.0) (ASolidSnack).chd" sha1="e07b4f462a2855d3fb4ad9e1f336f677651268bf"/>
 		<url>https://retroachievements.org/game/19111/hashes</url>
 		<hash>6acfaa8e8d813c7fbfbb5079a944d3b2</hash>
-	</machine>
-	
-	<machine name="Subset/Darkwatch/Darkwatch (USA) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)">
-		<category></category>
-		<description>Darkwatch (USA) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)</description>
-		<disk name="Darkwatch (USA) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative).chd" sha1="a069b05094f41fb41fa05e9722c87b4e7399c0fa"/>
-		<url>https://retroachievements.org/game/24401/hashes</url>
-		<hash>36c35e39f3e8214bdc75a6972e2aee50</hash>
-	</machine>
-	<machine name="Subset/Darkwatch/Darkwatch (Europe, Australia) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)">
-		<category></category>
-		<description>Darkwatch (Europe, Australia) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative)</description>
-		<disk name="Darkwatch (Europe, Australia) (v1.0) (ASolidSnack) (Subset - Multiplayer Cooperative).chd" sha1="a5ad12b1f036be93d464d03c982bb23b388284a8"/>
-		<url>https://retroachievements.org/game/24401/hashes</url>
-		<hash>dfa65a5a45a97d732459f13bedd6c3ab</hash>
 	</machine>
 	
 	<machine name="Retail/Dave Mirra Freestyle BMX 2 (USA)">
@@ -2957,14 +2926,6 @@
 		<hash>ab6264f532bedcde88d438a5cae695a4</hash>
 	</machine>
 	
-	<machine name="Subset/Gradius V (USA) (Subset - Bonus)">
-		<category></category>
-		<description>Gradius V (USA) (Subset - Bonus)</description>
-		<disk name="Gradius V (Subset - Bonus).chd" sha1="f832d59f19e419d70d328065b023216231cfe772"/>
-		<url>https://retroachievements.org/game/24517/hashes</url>
-		<hash>21d638b8820831363a3afe282568f3db</hash>
-	</machine>
-	
 	<machine name="Retail/Gran Turismo 3 - A-Spec/Gran Turismo 3 - A-Spec (USA) (v1.10)">
 		<category></category>
 		<description>Gran Turismo 3 - A-Spec (USA) (v1.10)</description>
@@ -3120,22 +3081,6 @@
 		<hash>fe8b1b6c64c24e7eaaef6de8af1aeb9e</hash>
 	</machine>
 	
-	<machine name="Subset/Grand Theft Auto - San Andreas (Subset - Vehicle Enthusiast)">
-		<category></category>
-		<description>Grand Theft Auto - San Andreas (Subset - Vehicle Enthusiast)</description>
-		<disk name="Grand Theft Auto - San Andreas (Subset - Vehicle Enthusiast).chd" sha1="e471262f52d39e5f9bbcedec64339baa884c69b7"/>
-		<url>https://retroachievements.org/game/35111/hashes</url>
-		<hash>96fb1cce02f39bccf59aa3c977a0e986</hash>
-	</machine>
-	
-	<machine name="Subset/Grand Theft Auto - San Andreas (Subset - Viva Las Venturas)">
-		<category></category>
-		<description>Grand Theft Auto - San Andreas (Subset - Viva Las Venturas)</description>
-		<disk name="Grand Theft Auto - San Andreas (Subset - Viva Las Venturas).chd" sha1="778e5029ac2e56ce56175d4d638e4bb622f165e9"/>
-		<url>https://retroachievements.org/game/22085/hashes</url>
-		<hash>dbdbf87e0849d0bf2a10597050ae5df2</hash>
-	</machine>
-	
 	<machine name="Retail/Grand Theft Auto - Vice City/Grand Theft Auto - Vice City (USA) (v3.00)">
 		<category></category>
 		<description>Grand Theft Auto - Vice City (USA) (v3.00)</description>
@@ -3157,14 +3102,6 @@
 		<disk name="Grand Theft Auto - Vice City Stories (USA) (Ru).chd" sha1="cfc5b5b95d9971a47c5e5cec46f2983a106a6ebd"/>
 		<url>https://retroachievements.org/game/2762/hashes</url>
 		<hash>6ebe7b613a22ce45446661f612a3f244</hash>
-	</machine>
-	
-	<machine name="Subset/Grand Theft Auto - Vice City Stories (Subset - Chained Missions)">
-		<category></category>
-		<description>Grand Theft Auto - Vice City Stories (Subset - Chained Missions)</description>
-		<disk name="Grand Theft Auto - Vice City Stories (Subset - Chained Missions).chd" sha1="e8bd1106c9f20199cde3893bb25ead1a96400610"/>
-		<url>https://retroachievements.org/game/31311/hashes</url>
-		<hash>ad2ef03cd46ecf500e6cec353dab0d40</hash>
 	</machine>
 	
 	<machine name="Retail/Grandia II (USA)">
@@ -3432,21 +3369,6 @@
 		<disk name="Harry Potter and the Chamber of Secrets (USA) (60FPS).chd" sha1="39290ac4134deffd348a463963e9ed315cc8f0fd"/>
 		<url>https://retroachievements.org/game/20721/hashes</url>
 		<hash>462a1369976861db27216b28ece73a9b</hash>
-	</machine>
-	
-	<machine name="Subset/Harry Potter and the Chamber of Secrets/Harry Potter and the Chamber of Secrets (Subset - Bonus) (30FPS)">
-		<category></category>
-		<description>Harry Potter and the Chamber of Secrets (Subset - Bonus) (30FPS)</description>
-		<disk name="Harry Potter and the Chamber of Secrets (Subset - Bonus) (30FPS).chd" sha1="07622a5278acf16580c7ed05dd09b73beace6702"/>
-		<url>https://retroachievements.org/game/28856/hashes</url>
-		<hash>b952cd1b3ba77722b6e2ab0d05a05440</hash>
-	</machine>
-	<machine name="Subset/Harry Potter and the Chamber of Secrets/Harry Potter and the Chamber of Secrets (Subset - Bonus) (60FPS)">
-		<category></category>
-		<description>Harry Potter and the Chamber of Secrets (Subset - Bonus) (60FPS)</description>
-		<disk name="Harry Potter and the Chamber of Secrets (Subset - Bonus) (60FPS).chd" sha1="2e27210aad69f9b579a1f95305e7eefc1f16c799"/>
-		<url>https://retroachievements.org/game/28856/hashes</url>
-		<hash>f5dcc53f5c05dcc099049bc4f52dd1fd</hash>
 	</machine>
 	
 	<machine name="Retail/Harry Potter and the Goblet of Fire/Harry Potter and the Goblet of Fire (USA)">
@@ -4044,18 +3966,10 @@
 		<hash>8daf4c6857c7078f54a7908fa5e6f91d</hash>
 	</machine>
 	
-	<machine name="Subset/Kingdom Hearts - Final Mix (En) (v2.001) (Subset - Level 100 on Destiny Islands)">
+	<machine name="Specialty Subset/Kingdom Hearts - Final Mix (Specialty Subset - Proud Level 1)">
 		<category></category>
-		<description>Kingdom Hearts - Final Mix (En) (v2.001) (Subset - Level 100 on Destiny Islands)</description>
-		<disk name="Kingdom Hearts - Final Mix (En) (v2.001) (Subset - Level 100 on Destiny Islands).chd" sha1="ab7c9d8606d1bb99d8a710f91709423bd4e2257c"/>
-		<url>https://retroachievements.org/game/25598/hashes</url>
-		<hash>601c65c0a99800abe6ddd39de74d73bf</hash>
-	</machine>
-	
-	<machine name="Subset/Kingdom Hearts - Final Mix (Subset - Proud Level 1)">
-		<category></category>
-		<description>Kingdom Hearts - Final Mix (Subset - Proud Level 1)</description>
-		<disk name="Kingdom Hearts - Final Mix (Subset - Proud Level 1).chd" sha1="0df1e335ada1c0aee949fbb25ad4abc81e763c86"/>
+		<description>Kingdom Hearts - Final Mix (Specialty Subset - Proud Level 1)</description>
+		<disk name="Kingdom Hearts - Final Mix (Specialty Subset - Proud Level 1).chd" sha1="0df1e335ada1c0aee949fbb25ad4abc81e763c86"/>
 		<url>https://retroachievements.org/game/20736/hashes</url>
 		<hash>7c1cc2b248d9f7d809bb6d0759b22379</hash>
 	</machine>
@@ -4577,14 +4491,6 @@
 		<hash>c3a6e1ed7f4f89bf68a9fa7d6afd8db0</hash>
 	</machine>
 	
-	<machine name="Subset/Metal Slug 5 (Subset - 1002 Soldiers)">
-		<category></category>
-		<description>Metal Slug 5 (Subset - 1002 Soldiers)</description>
-		<disk name="Metal Slug 5 (Subset - 1002 Soldiers).chd" sha1="9323bd802ee4988896ba63fc9b1b6948b38eb3df"/>
-		<url>https://retroachievements.org/game/24708/hashes</url>
-		<hash>02780b2ec982b56dd0d8b2310ef57503</hash>
-	</machine>
-	
 	<machine name="Retail/Metal Slug 6 (Japan)">
 		<category></category>
 		<description>Metal Slug 6 (Japan)</description>
@@ -4663,17 +4569,17 @@
 		<hash>4e817dcba19928a62cd66a0b801fae95</hash>
 	</machine>
 	
-	<machine name="Subset/Monster Hunter/Monster Hunter (Japan) (En) (v9) (MH Oldschool) (Subset - Online Quests)">
+	<machine name="Exclusive Subset/Monster Hunter/Monster Hunter (Japan) (En) (v9) (MH Oldschool) (Exclusive Subset - Online Quests)">
 		<category></category>
-		<description>Monster Hunter (Japan) (En) (v9) (MH Oldschool) (Subset - Online Quests)</description>
-		<disk name="Monster Hunter (Japan) (En) (v9) (MH Oldschool) (Subset - Online Quests).chd" sha1="8ed982a84435913e9f94bb19384d069b784f9ec6"/>
+		<description>Monster Hunter (Japan) (En) (v9) (MH Oldschool) (Exclusive Subset - Online Quests)</description>
+		<disk name="Monster Hunter (Japan) (En) (v9) (MH Oldschool) (Exclusive Subset - Online Quests).chd" sha1="8ed982a84435913e9f94bb19384d069b784f9ec6"/>
 		<url>https://retroachievements.org/game/28323/hashes</url>
 		<hash>fcf67cf4ace623f5ea2c9fb23ec06c2a</hash>
 	</machine>
-	<machine name="Subset/Monster Hunter/Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v3.7) (Yuzucchi) (Subset - Online Quests)">
+	<machine name="Exclusive Subset/Monster Hunter/Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v3.7) (Yuzucchi) (Exclusive Subset - Online Quests)">
 		<category></category>
-		<description>Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v3.7) (Yuzucchi) (Subset - Online Quests)</description>
-		<disk name="Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v3.7) (Yuzucchi) (Subset - Online Quests).chd" sha1="10410193318dfe252db8ae83eaf24ca515c7dd60"/>
+		<description>Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v3.7) (Yuzucchi) (Exclusive Subset - Online Quests)</description>
+		<disk name="Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v3.7) (Yuzucchi) (Exclusive Subset - Online Quests).chd" sha1="10410193318dfe252db8ae83eaf24ca515c7dd60"/>
 		<url>https://retroachievements.org/game/28323/hashes</url>
 		<hash>af3aec4715dd9dee80bbe16f4241c53a</hash>
 	</machine>
@@ -5666,27 +5572,19 @@
 		<hash>5d8a4723d4298cba6297822257bec9f4</hash>
 	</machine>
 	
-	<machine name="Subset/Resident Evil - Outbreak/Resident Evil - Outbreak (Japan) (Subset - Online Multiplayer)">
+	<machine name="Exclusive Subset/Resident Evil - Outbreak/Resident Evil - Outbreak (Japan) (Exclusive Subset - Online Multiplayer)">
 		<category></category>
-		<description>Resident Evil - Outbreak (Japan) (Subset - Online Multiplayer)</description>
-		<disk name="Resident Evil - Outbreak (Japan) (Subset - Online Multiplayer).chd" sha1="f6b504dff93e134c00ec57cc6f91a5a16f22d50e"/>
+		<description>Resident Evil - Outbreak (Japan) (Exclusive Subset - Online Multiplayer)</description>
+		<disk name="Resident Evil - Outbreak (Japan) (Exclusive Subset - Online Multiplayer).chd" sha1="f6b504dff93e134c00ec57cc6f91a5a16f22d50e"/>
 		<url>https://retroachievements.org/game/29739/hashes</url>
 		<hash>db2bda4ac4fb139ce2b46c9fbbdaab3a</hash>
 	</machine>
-	<machine name="Subset/Resident Evil - Outbreak/Resident Evil - Outbreak (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer)">
+	<machine name="Exclusive Subset/Resident Evil - Outbreak/Resident Evil - Outbreak (En) (v2.1) (REfan988 &amp; Silent Hell) (Exclusive Subset - Online Multiplayer)">
 		<category></category>
-		<description>Resident Evil - Outbreak (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer)</description>
-		<disk name="Resident Evil - Outbreak (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer).chd" sha1="54ccaf488134fadd41a8ecf2620d54fa8b4ba81a"/>
+		<description>Resident Evil - Outbreak (En) (v2.1) (REfan988 &amp; Silent Hell) (Exclusive Subset - Online Multiplayer)</description>
+		<disk name="Resident Evil - Outbreak (En) (v2.1) (REfan988 &amp; Silent Hell) (Exclusive Subset - Online Multiplayer).chd" sha1="54ccaf488134fadd41a8ecf2620d54fa8b4ba81a"/>
 		<url>https://retroachievements.org/game/29739/hashes</url>
 		<hash>1168ae415f3c2c4ed5e282dbea366f6e</hash>
-	</machine>
-	
-	<machine name="Subset/Resident Evil - Outbreak (USA) (v2.00) (Subset - Very Hard Challenges)">
-		<category></category>
-		<description>Resident Evil - Outbreak (USA) (v2.00) (Subset - Very Hard Challenges)</description>
-		<disk name="Resident Evil - Outbreak (USA) (v2.00) (Subset - Very Hard Challenges).chd" sha1="e4bc0dcdea0a55e2e32a2abc513dd183926c43c1"/>
-		<url>https://retroachievements.org/game/29737/hashes</url>
-		<hash>d7c2ba6f3d5a7502709852dca9ca2f2f</hash>
 	</machine>
 	
 	<machine name="Retail/Resident Evil - Outbreak - File 2 (USA)">
@@ -5697,27 +5595,19 @@
 		<hash>6721a59ea679daa5586c93421febd407</hash>
 	</machine>
 	
-	<machine name="Subset/Resident Evil - Outbreak - File 2/Resident Evil - Outbreak - File 2 (Japan) (Subset - Online Multiplayer)">
+	<machine name="Exclusive Subset/Resident Evil - Outbreak - File 2/Resident Evil - Outbreak - File 2 (Japan) (Exclusive Subset - Online Multiplayer)">
 		<category></category>
 		<description>Resident Evil - Outbreak - File 2 (Japan) (Subset - Online Multiplayer)</description>
 		<disk name="Resident Evil - Outbreak - File 2 (Japan) (Subset - Online Multiplayer).chd" sha1="ded01741b840d4bead2d250bf1fa67c0215b9f77"/>
 		<url>https://retroachievements.org/game/29740/hashes</url>
 		<hash>5faa8c7b62bff020d5c7ca752d0a8f37</hash>
 	</machine>
-	<machine name="Subset/Resident Evil - Outbreak - File 2/Resident Evil - Outbreak - File 2 (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer)">
+	<machine name="Exclusive Subset/Resident Evil - Outbreak - File 2/Resident Evil - Outbreak - File 2 (En) (v2.1) (REfan988 &amp; Silent Hell) (Exclusive Subset - Online Multiplayer)">
 		<category></category>
-		<description>Resident Evil - Outbreak - File 2 (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer)</description>
-		<disk name="Resident Evil - Outbreak - File 2 (En) (v2.1) (REfan988 &amp; Silent Hell) (Subset - Online Multiplayer).chd" sha1="e1948aad2a7b239c9ebe95f5326ec8948179eab7"/>
+		<description>Resident Evil - Outbreak - File 2 (En) (v2.1) (REfan988 &amp; Silent Hell) (Exclusive Subset - Online Multiplayer)</description>
+		<disk name="Resident Evil - Outbreak - File 2 (En) (v2.1) (REfan988 &amp; Silent Hell) (Exclusive Subset - Online Multiplayer).chd" sha1="e1948aad2a7b239c9ebe95f5326ec8948179eab7"/>
 		<url>https://retroachievements.org/game/29740/hashes</url>
 		<hash>06e870bea69005e081c226fdea1d7511</hash>
-	</machine>
-	
-	<machine name="Subset/Resident Evil - Outbreak - File 2 (Subset - Very Hard Challenges)">
-		<category></category>
-		<description>Resident Evil - Outbreak - File 2 (Subset - Very Hard Challenges)</description>
-		<disk name="Resident Evil - Outbreak - File 2 (Subset - Very Hard Challenges).chd" sha1="abfa73f8dd60c7ee71e2995eade0b7b680f1dd9d"/>
-		<url>https://retroachievements.org/game/29738/hashes</url>
-		<hash>47501c6a5ad94abcc55c33cc78fe7bc1</hash>
 	</machine>
 	
 	<machine name="Retail/Resident Evil - Dead Aim/Resident Evil - Dead Aim (USA)">
@@ -7011,14 +6901,6 @@
 		<disk name="Street Fighter EX3 (USA).chd" sha1="f95b61d087e944774e71f2b426998df3e4da9b34"/>
 		<url>https://retroachievements.org/game/20831/hashes</url>
 		<hash>ce47cf5b968e2240fa9aea800834916d</hash>
-	</machine>
-	
-	<machine name="Subset/Street Fighter EX3 (Subset - Bonus)">
-		<category></category>
-		<description>Street Fighter EX3 (Subset - Bonus)</description>
-		<disk name="Street Fighter EX3 (Subset - Bonus).chd" sha1="27d31c3b46bba794072078c3b9014c55e32195a5"/>
-		<url>https://retroachievements.org/game/29719/hashes</url>
-		<hash>7e733aaceb139d3d0bc7da3ffd96bed4</hash>
 	</machine>
 	
 	<machine name="Retail/Street Fighter III - 3rd Strike - Fight for the Future (Japan)">
@@ -8687,17 +8569,17 @@
 		<hash>74814a149ccbe11243ce74ce792f8e74</hash>
 	</machine>
 	
-	<machine name="Subset/Xenosaga Episode III/Xenosaga Episode III - Also sprach Zarathustra (Subset - No Level Up) (Disc 1)">
+	<machine name="Specialty Subset/Xenosaga Episode III/Xenosaga Episode III - Also sprach Zarathustra (Specialty Subset - No Level Up) (Disc 1)">
 		<category></category>
-		<description>Xenosaga Episode III - Also sprach Zarathustra (Subset - No Level Up) (Disc 1)</description>
-		<disk name="Xenosaga Episode III - Also sprach Zarathustra (Subset - No Level Up) (Disc 1).chd" sha1="4def0f5f88841b96f5eeaab7c29bec7918386ec8"/>
+		<description>Xenosaga Episode III - Also sprach Zarathustra (Specialty Subset - No Level Up) (Disc 1)</description>
+		<disk name="Xenosaga Episode III - Also sprach Zarathustra (Specialty Subset - No Level Up) (Disc 1).chd" sha1="4def0f5f88841b96f5eeaab7c29bec7918386ec8"/>
 		<url>https://retroachievements.org/game/20350/hashes</url>
 		<hash>81614f7a04c59d0c7e5cf962390ffff0</hash>
 	</machine>
-	<machine name="Subset/Xenosaga Episode III/Xenosaga Episode III - Also sprach Zarathustra (Subset - No Level Up) (Disc 2)">
+	<machine name="Specialty Subset/Xenosaga Episode III/Xenosaga Episode III - Also sprach Zarathustra (Specialty Subset - No Level Up) (Disc 2)">
 		<category></category>
-		<description>Xenosaga Episode III - Also sprach Zarathustra (Subset - No Level Up) (Disc 2)</description>
-		<disk name="Xenosaga Episode III - Also sprach Zarathustra (Subset - No Level Up) (Disc 2).chd" sha1="172196a902603f47c48a0a76ab2a7355a0295a28"/>
+		<description>Xenosaga Episode III - Also sprach Zarathustra (Specialty Subset - No Level Up) (Disc 2)</description>
+		<disk name="Xenosaga Episode III - Also sprach Zarathustra (Specialty Subset - No Level Up) (Disc 2).chd" sha1="172196a902603f47c48a0a76ab2a7355a0295a28"/>
 		<url>https://retroachievements.org/game/20350/hashes</url>
 		<hash>e6771f1a3ca6884da05fc33b28074dc9</hash>
 	</machine>

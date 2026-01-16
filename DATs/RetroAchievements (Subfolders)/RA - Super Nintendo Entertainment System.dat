@@ -5,8 +5,8 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260116</version>
+		<date>16 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/3/games</url>
@@ -4065,14 +4065,6 @@
 		<rom name="Nightmare Busters (World) (Aftermarket).sfc" size="2097152" crc="abaaff79" md5="5b78a0d25cf6e12bdf20c8f6f6b0cdaf" sha1="65d156bcc43149d4828289bc78b2565a674f58be"/>
 		<url>https://retroachievements.org/game/4944/hashes</url>
 		<hash>5b78a0d25cf6e12bdf20c8f6f6b0cdaf</hash>
-	</game>
-	
-	<game name="Subset/Nightmare Busters (World) (Aftermarket) (Subset - Bonus)">
-		<category>Super Nintendo</category>
-		<description>Nightmare Busters (World) (Aftermarket) (Subset - Bonus)</description>
-		<rom name="Nightmare Busters (World) (Aftermarket) (Subset - Bonus).sfc" size="2097152" crc="6e6b8401" md5="d6cce524c8e8d9e4295f6c74726da4aa" sha1="b87bd96225aae299dc2e2d48e9b79e43ef0aac69"/>
-		<url>https://retroachievements.org/game/24005/hashes</url>
-		<hash>d6cce524c8e8d9e4295f6c74726da4aa</hash>
 	</game>
 	
 	<game name="Homebrew/Super Mario War (USA) (Open Source) (Aftermarket)">
@@ -9060,35 +9052,6 @@
 		<hash>97998af661bfb8477737bfc83fc9dae8</hash>
 	</game>
 	
-	<game name="Subset/Lufia II - Rise of the Sinistrals/Lufia II - Rise of the Sinistrals (Subset - Ancient Cave)">
-		<category>Super Nintendo</category>
-		<description>Lufia II - Rise of the Sinistrals (Subset - Ancient Cave)</description>
-		<rom name="Lufia II - Rise of the Sinistrals (Subset - Ancient Cave).sfc" size="2621440" crc="9ef3603f" md5="1e5ed4a520339747ba827535dec266e3" sha1="c60f41fe3412232a745a1f3a0933d928a4310524"/>
-		<url>https://retroachievements.org/game/12818/hashes</url>
-		<hash>1e5ed4a520339747ba827535dec266e3</hash>
-	</game>
-	<game name="Subset/Lufia II - Rise of the Sinistrals/Lufia II - Rise of the Sinistrals (Subset - Ancient Cave) (Frue Lufia) (v4.0) (Artemis)">
-		<category>Super Nintendo</category>
-		<description>Lufia II - Rise of the Sinistrals (Subset - Ancient Cave) (Frue Lufia) (v4.0) (Artemis)</description>
-		<rom name="Lufia II - Rise of the Sinistrals (Subset - Ancient Cave) (Frue Lufia) (v4.0) (Artemis).sfc" size="4194304" crc="6d92aed7" md5="5f5d097df9c3501ab05fdcb1f30bb8e5" sha1="f8b8a7a88ab46b13de0b26f199dd9f2ca7eac21d"/>
-		<url>https://retroachievements.org/game/12818/hashes</url>
-		<hash>5f5d097df9c3501ab05fdcb1f30bb8e5</hash>
-	</game>
-	<game name="Subset/Lufia II - Rise of the Sinistrals/Lufia II - Rise of the Sinistrals (Subset - Ancient Cave) (Frue Lufia) (v6.0) (Artemis)">
-		<category>Super Nintendo</category>
-		<description>Lufia II - Rise of the Sinistrals (Subset - Ancient Cave) (Frue Lufia) (v6.0) (Artemis)</description>
-		<rom name="Lufia II - Rise of the Sinistrals (Subset - Ancient Cave) (Frue Lufia) (v6.0) (Artemis).sfc" size="4194304" crc="e6fd8bca" md5="12a57acafc4b7cd93fc849bcc20b7a24" sha1="5e078d9987937ab10ea4b2bca36437ef3442fabc"/>
-		<url>https://retroachievements.org/game/12818/hashes</url>
-		<hash>12a57acafc4b7cd93fc849bcc20b7a24</hash>
-	</game>
-	<game name="Subset/Lufia II - Rise of the Sinistrals/Lufia II - Rise of the Sinistrals (Subset - Ancient Cave) (Frue Lufia) (v5.2) (Artemis)">
-		<category>Super Nintendo</category>
-		<description>Lufia II - Rise of the Sinistrals (Subset - Ancient Cave) (Frue Lufia) (v5.2) (Artemis)</description>
-		<rom name="Lufia II - Rise of the Sinistrals (Subset - Ancient Cave) (Frue Lufia) (v5.2) (Artemis).sfc" size="4194304" crc="d37e5db8" md5="31c76879c33a0220561edb369522e9dc" sha1="6116f0193abe1e93844b925f263d922ff1b62e20"/>
-		<url>https://retroachievements.org/game/12818/hashes</url>
-		<hash>31c76879c33a0220561edb369522e9dc</hash>
-	</game>
-	
 	<game name="Retail/Lupin Sansei - Densetsu no Hihou o Oe! (Japan)">
 		<category>Super Nintendo</category>
 		<description>Lupin Sansei - Densetsu no Hihou o Oe! (Japan)</description>
@@ -9432,14 +9395,6 @@
 		<rom name="Mega Man 7 (USA).sfc" size="2097152" crc="2d947536" md5="301d8c4f1b5de2cd10b68686b17b281a" sha1="6e7c9c9dd397f771303ee4aec29d106b9f86c832"/>
 		<url>https://retroachievements.org/game/469/hashes</url>
 		<hash>301d8c4f1b5de2cd10b68686b17b281a</hash>
-	</game>
-	
-	<game name="Subset/Mega Man 7 (Subset - Bonus)">
-		<category>Super Nintendo</category>
-		<description>Mega Man 7 (Subset - Bonus)</description>
-		<rom name="Mega Man 7 (Subset - Bonus).sfc" size="2097152" crc="570fa683" md5="2c74a8f784b0a2fa28d5e68ca2243f17" sha1="4e19c034ec566ded29e69a6b9a4a2d2dbf164473"/>
-		<url>https://retroachievements.org/game/9486/hashes</url>
-		<hash>2c74a8f784b0a2fa28d5e68ca2243f17</hash>
 	</game>
 	
 	<game name="Retail/Mega Man X/Rockman X (Japan) (Rev 1)">
@@ -9889,14 +9844,6 @@
 		<rom name="Mortal Kombat 3 (USA).sfc" size="4194304" crc="4e6af725" md5="ec6fa27bfc201dd0ef0000f4c65fb57a" sha1="58e4e1259a86faaadbc982176e569cb2038dbac5"/>
 		<url>https://retroachievements.org/game/658/hashes</url>
 		<hash>ec6fa27bfc201dd0ef0000f4c65fb57a</hash>
-	</game>
-	
-	<game name="Subset/Mortal Kombat 3 (Subset - Master Destiny 1cc)">
-		<category>Super Nintendo</category>
-		<description>Mortal Kombat 3 (Subset - Master Destiny 1cc)</description>
-		<rom name="Mortal Kombat 3 (Subset - Master Destiny 1cc).sfc" size="4194304" crc="6938f3ee" md5="e1bc1d063355ae09757ec691fafeec7e" sha1="ceca5b9c97a546c3077dc2bc63768d9d9942e685"/>
-		<url>https://retroachievements.org/game/25628/hashes</url>
-		<hash>e1bc1d063355ae09757ec691fafeec7e</hash>
 	</game>
 	
 	<game name="Retail/Mortal Kombat II/Mortal Kombat II (USA)">
@@ -12243,14 +12190,6 @@
 		<hash>f9fe266e91632e68b558d6b43393eaba</hash>
 	</game>
 	
-	<game name="Subset/Super Mario Kart (Subset - Bonus)">
-		<category>Super Nintendo</category>
-		<description>Super Mario Kart (Subset - Bonus)</description>
-		<rom name="Super Mario Kart (Subset - Bonus).sfc" size="524288" crc="b61dbeff" md5="6cbdf2c4cb512c7a0f06a119613748dc" sha1="cb5d02a7cff5c1eeae330eb59cc4f5906ed42d7a"/>
-		<url>https://retroachievements.org/game/22747/hashes</url>
-		<hash>6cbdf2c4cb512c7a0f06a119613748dc</hash>
-	</game>
-	
 	<game name="Retail/Super Mario RPG/Super Mario RPG - Legend of the Seven Stars (USA) (Es) (v1.0) (Pkt)">
 		<category>Super Nintendo</category>
 		<description>Super Mario RPG - Legend of the Seven Stars (USA) (Es) (v1.0) (Pkt)</description>
@@ -12657,14 +12596,6 @@
 		<hash>c09b97c956bc42e3b942f9d8a3196686</hash>
 	</game>
 	
-	<game name="Subset/Super Tennis (Subset - Bonus)">
-		<category>Super Nintendo</category>
-		<description>Super Tennis (Subset - Bonus)</description>
-		<rom name="Super Tennis (Subset - Bonus).sfc" size="524288" crc="1db524db" md5="703cb689e846acbd074dfbfb8bcfee3d" sha1="61a488b2c1dc2c5918a008330d031b473dd1813a"/>
-		<url>https://retroachievements.org/game/6714/hashes</url>
-		<hash>703cb689e846acbd074dfbfb8bcfee3d</hash>
-	</game>
-	
 	<game name="Retail/Super Turrican/Super Turrican (USA)">
 		<category>Super Nintendo</category>
 		<description>Super Turrican (USA)</description>
@@ -12865,14 +12796,6 @@
 		<rom name="Teenage Mutant Hero Turtles IV - Turtles in Time (Europe).sfc" size="1048576" crc="b0a3441e" md5="d61a2b7f57a1c944d5b6b7deebf90131" sha1="59add584f16b607607348e65c245ca6ad7a5fcb8"/>
 		<url>https://retroachievements.org/game/350/hashes</url>
 		<hash>d61a2b7f57a1c944d5b6b7deebf90131</hash>
-	</game>
-	
-	<game name="Subset/Teenage Mutant Ninja Turtles IV - Turtles in Time (Subset - Bonus)">
-		<category>Super Nintendo</category>
-		<description>Teenage Mutant Ninja Turtles IV - Turtles in Time (Subset - Bonus)</description>
-		<rom name="Teenage Mutant Ninja Turtles IV - Turtles in Time (Subset - Bonus).sfc" size="1048576" crc="ab8afa8f" md5="44e035c4c3d1f4a9b0dec60586675202" sha1="7cd4a1b12622ebf133f6f1ff679e68bb5adef09d"/>
-		<url>https://retroachievements.org/game/827/hashes</url>
-		<hash>44e035c4c3d1f4a9b0dec60586675202</hash>
 	</game>
 	
 	<game name="Retail/Teenage Mutant Ninja Turtles/Teenage Mutant Ninja Turtles - Mutant Warriors (Japan)">
@@ -13762,21 +13685,6 @@
 		<hash>fa499b552c4c9cccd089802147b5dcd5</hash>
 	</game>
 	
-	<game name="Subset/Tokimeki Memorial/Tokimeki Memorial (Subset - Single-Session Confessions)">
-		<category>Super Nintendo</category>
-		<description>Tokimeki Memorial (Subset - Single-Session Confessions)</description>
-		<rom name="Tokimeki Memorial (Subset - Single-Session Confessions).sfc" size="4194304" crc="ce4b0868" md5="8feb50b0a65f46de029fa2a611bab656" sha1="98a899aa8e735282b9d0b34b75815faacb586cfb"/>
-		<url>https://retroachievements.org/game/22105/hashes</url>
-		<hash>8feb50b0a65f46de029fa2a611bab656</hash>
-	</game>
-	<game name="Subset/Tokimeki Memorial/Tokimeki Memorial (En) (Subset - Single-Session Confessions)">
-		<category>Super Nintendo</category>
-		<description>Tokimeki Memorial (En) (Subset - Single-Session Confessions)</description>
-		<rom name="Tokimeki Memorial (En) (Subset - Single-Session Confessions).sfc" size="8388608" crc="41d0d125" md5="fd33104fb10edd493cf6e487ed55ff7a" sha1="a584d590e81575327b3713fb86b5a31e2184c27b"/>
-		<url>https://retroachievements.org/game/22105/hashes</url>
-		<hash>fd33104fb10edd493cf6e487ed55ff7a</hash>
-	</game>
-	
 	<game name="Retail/Tokimeki Memorial/Tokimeki Memorial - Densetsu no Ki no Shita de (Japan) (Rev 1) (En) (v3.0) (Translated Games)">
 		<category>Super Nintendo</category>
 		<description>Tokimeki Memorial - Densetsu no Ki no Shita de (Japan) (Rev 1) (En) (v3.0) (Translated Games)</description>
@@ -14559,14 +14467,6 @@
 		<rom name="Ys IV - Mask of the Sun (Japan).sfc" size="1572864" crc="ca7b4db9" md5="a4e5ed2dbd1e3612917b91ab58e6feea" sha1="1ec73ab6f7bf43fe0a83f73e6834cd5b7d6c17f8"/>
 		<url>https://retroachievements.org/game/2117/hashes</url>
 		<hash>a4e5ed2dbd1e3612917b91ab58e6feea</hash>
-	</game>
-	
-	<game name="Subset/Ys IV - Mask of the Sun (Subset - Bonus)">
-		<category>Super Nintendo</category>
-		<description>Ys IV - Mask of the Sun (Subset - Bonus)</description>
-		<rom name="Ys IV - Mask of the Sun (Subset - Bonus).sfc" size="1572864" crc="7f17f436" md5="a66aa34aa7907ab86b83007d97fd2d1a" sha1="6bd1306aaeec102cf747f26655952f649b49d4aa"/>
-		<url>https://retroachievements.org/game/18274/hashes</url>
-		<hash>a66aa34aa7907ab86b83007d97fd2d1a</hash>
 	</game>
 	
 	<game name="Retail/Ys V/Ys V - Ushinawareta Suna no Miyako Kefin (Japan) (En) (v1.0) (Aeon Genesis)">

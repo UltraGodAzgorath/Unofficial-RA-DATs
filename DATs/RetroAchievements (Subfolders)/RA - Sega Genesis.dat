@@ -5,8 +5,8 @@
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
 		<category>Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260116</version>
+		<date>16 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/1/games</url>
@@ -107,14 +107,6 @@
 		<rom name="Sonic 1 - Knuckles the Echidna in Sonic the Hedgehog (v1.1) (Stealth) (Hack).md" size="655232" crc="57a6ddb3" md5="6af2ffd9d06b0aa2125e3438c28c7c83" sha1="8bc0672f95b1dd0eb16ae0a56483bccdb99c197c"/>
 		<url>https://retroachievements.org/game/20246/hashes</url>
 		<hash>6af2ffd9d06b0aa2125e3438c28c7c83</hash>
-	</game>
-	
-	<game name="Hack/Sonic the Hedgehog/Sonic 1 - Knuckles the Echidna in Sonic the Hedgehog (Subset - Hold Right to Lose) (Hack)">
-		<category></category>
-		<description>Sonic 1 - Knuckles the Echidna in Sonic the Hedgehog (Subset - Hold Right to Lose) (Hack)</description>
-		<rom name="Sonic 1 - Knuckles the Echidna in Sonic the Hedgehog (Subset - Hold Right to Lose) (Hack).md" size="655232" crc="1f199b1a" md5="69bc17615456437905b56a703f134084" sha1="1cd4795fa607b70c4726965f2feb6f6913d0b059"/>
-		<url>https://retroachievements.org/game/29933/hashes</url>
-		<hash>69bc17615456437905b56a703f134084</hash>
 	</game>
 	
 	<game name="Hack/Sonic the Hedgehog 2/Sonic 2 - Knuckles' Emerald Hunt (MainMemory) (Hack)">
@@ -7042,15 +7034,7 @@
 		<url>https://retroachievements.org/game/407/hashes</url>
 		<hash>f34c4d65295980bbf7c1c0dde433b154</hash>
 	</game>
-
-	<game name="Subset/Zombies Ate My Neighbors (Subset - Save All Victims)">
-		<category></category>
-		<description>Zombies Ate My Neighbors (Subset - Save All Victims)</description>
-		<rom name="Zombies Ate My Neighbors (Subset - Save All Victims).md" size="1048576" crc="f62b93ee" md5="0fd84fc5e02751cdc5ff1ad0697b13b0" sha1="d9f0304b274daa58486d631172bb06581303b392"/>
-		<url>https://retroachievements.org/game/18770/hashes</url>
-		<hash>0fd84fc5e02751cdc5ff1ad0697b13b0</hash>
-	</game>
-
+	
 	<game name="Retail/Zool - Ninja of the 'Nth' Dimension (USA)">
 		<category></category>
 		<description>Zool - Ninja of the 'Nth' Dimension (USA)</description>

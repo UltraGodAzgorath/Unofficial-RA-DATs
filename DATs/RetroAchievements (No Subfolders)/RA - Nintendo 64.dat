@@ -5,8 +5,8 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>No Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260116</version>
+		<date>16 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/2/games</url>
@@ -4413,15 +4413,6 @@
 		<hash>2ac0f88bea02d67896ffeae9e8ec72e7</hash>
 	</game>
 	
-	<game name="Pyoro 64 (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Pyoro 64 (Subset - Bonus)</description>
-		<release name="Pyoro 64 (Subset - Bonus)" region="World"/>
-		<rom name="Pyoro 64 (Subset - Bonus).n64" size="2097152" crc="e863db9a" md5="c6eb5357874444fbd832cb63999d6708" sha1="4a04c89dc0d206ddff21b94e49b65e429296e344"/>
-		<url>https://retroachievements.org/game/10590/hashes</url>
-		<hash>c6eb5357874444fbd832cb63999d6708</hash>
-	</game>
-	
 	<game name="Telocation - Gemini (World) (64Brew Game Jam 2020) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>Telocation - Gemini (World) (64Brew Game Jam 2020) (Aftermarket)</description>
@@ -5285,15 +5276,6 @@
 		<rom name="GoldenEye 007 (USA) (Es) (v1.0) (Sogun).z64" size="12582912" crc="594cdb4e" md5="a218a681b0de82eb3d1a465f0dbcd837" sha1="15125059270d2dfab0b34a641edfcc88767f8ff1"/>
 		<url>https://retroachievements.org/game/10073/hashes</url>
 		<hash>a218a681b0de82eb3d1a465f0dbcd837</hash>
-	</game>
-	
-	<game name="Goldeneye 007 (Subset - Dark License to Kill)">
-		<category>Subset</category>
-		<description>Goldeneye 007 (Subset - Dark License to Kill)</description>
-		<release name="Goldeneye 007 (Subset - Dark License to Kill)" region="USA"/>
-		<rom name="Goldeneye 007 (Subset - Dark License to Kill).z64" size="12582912" crc="d17e66cd" md5="eadc063b796c86ecfcd29bea4c0c1f6b" sha1="23ac32f872b9c0e6f886ef0952e66f92ce33dd7a"/>
-		<url>https://retroachievements.org/game/19007/hashes</url>
-		<hash>eadc063b796c86ecfcd29bea4c0c1f6b</hash>
 	</game>
 	
 	<game name="Harukanaru Augusta - Masters '98 (Japan)">
@@ -6243,15 +6225,6 @@
 		<hash>caf9a78db13ee00002ff63a3c0c5eabb</hash>
 	</game>
 	
-	<game name="Star Fox 64 (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Star Fox 64 (Subset - Bonus)</description>
-		<release name="Star Fox 64 (Subset - Bonus)" region="World"/>
-		<rom name="Star Fox 64 (Subset - Bonus).z64" size="12582912" crc="d199121a" md5="7420d9a92c03dfcf224a1f56d71727d1" sha1="30f79b3bc9f01102827995e34d6fd25f543945ed"/>
-		<url>https://retroachievements.org/game/10630/hashes</url>
-		<hash>7420d9a92c03dfcf224a1f56d71727d1</hash>
-	</game>
-	
 	<game name="Star Soldier - Vanishing Earth (USA)">
 		<category>Retail</category>
 		<description>Star Soldier - Vanishing Earth (USA)</description>
@@ -6973,14 +6946,5 @@
 		<rom name="Yoshi's Story (USA) (En,Ja).z64" size="16777216" crc="a1453e0d" md5="586a092e22604840973b82dfaceac77a" sha1="b13072fef6c6df48c07d8822c01e5bc59036f6da"/>
 		<url>https://retroachievements.org/game/10173/hashes</url>
 		<hash>586a092e22604840973b82dfaceac77a</hash>
-	</game>
-	
-	<game name="Yoshi's Story (Subset - Brutal Scores)">
-		<category>Subset</category>
-		<description>Yoshi's Story (Subset - Brutal Scores)</description>
-		<release name="Yoshi's Story (Subset - Brutal Scores)" region="World"/>
-		<rom name="Yoshi's Story (Subset - Brutal Scores).z64" size="16777216" crc="c3d81322" md5="defb190a6cd011bf052b3a2681403276" sha1="6e560892f3aeaa26984e3f8aed8e8da74ab3286b"/>
-		<url>https://retroachievements.org/game/14117/hashes</url>
-		<hash>defb190a6cd011bf052b3a2681403276</hash>
 	</game>
 </datafile>

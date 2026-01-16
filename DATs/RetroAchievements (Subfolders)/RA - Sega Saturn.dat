@@ -5,8 +5,8 @@
 		<name>RA - Sega Saturn</name>
 		<description>Sega Saturn</description>
 		<category>Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260116</version>
+		<date>16 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/39/games</url>
@@ -362,14 +362,6 @@
 		<disk name="Daytona USA (USA).chd" sha1="ca07cd3aad275f70df87b61df1659d8ac1dbbea2"/>
 		<url>https://retroachievements.org/game/14555/hashes</url>
 		<hash>fd304d329f53fd9ee0009869daab43da</hash>
-	</machine>
-	
-	<machine name="Subset/Daytona USA (Subset - Maniac Mode)">
-		<category></category>
-		<description>Daytona USA (Subset - Maniac Mode)</description>
-		<disk name="Daytona USA (Subset - Maniac Mode).chd" sha1="000b1ee9c1adb9483b507d1de28129e238d8d037"/>
-		<url>https://retroachievements.org/game/22864/hashes</url>
-		<hash>4a5d93bcaf737b0b58f9cb9438907c37</hash>
 	</machine>
 	
 	<machine name="Retail/Dead or Alive/Dead or Alive (Japan) (Rev A) (10M)">

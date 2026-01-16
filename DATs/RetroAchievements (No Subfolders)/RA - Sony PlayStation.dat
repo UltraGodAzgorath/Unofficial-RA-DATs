@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation</name>
 		<description>Sony Playstation</description>
 		<category>No Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260116</version>
+		<date>16 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -963,11 +963,11 @@
 		<hash>6357455df44bf720f1feba6b251c39d5</hash>
 	</machine>
 	
-	<machine name="Arc the Lad Collection - Arc Arena - Monster Tournament (USA)">
-		<category>Retail</category>
-		<description>Arc the Lad Collection - Arc Arena - Monster Tournament (USA)</description>
-		<release name="Arc the Lad Collection - Arc Arena - Monster Tournament (USA)" region="USA"/>
-		<disk name="Arc the Lad Collection - Arc Arena - Monster Tournament (USA).chd" sha1="939abf4d10a46e99992ea8131e46e4ea45962c26"/>
+	<machine name="Arc the Lad Collection - Arc Arena - Monster Tournament (USA) (Exclusive Subset)">
+		<category>Exclusive Subset</category>
+		<description>Arc the Lad Collection - Arc Arena - Monster Tournament (USA) (Exclusive Subset)</description>
+		<release name="Arc the Lad Collection - Arc Arena - Monster Tournament (USA) (Exclusive Subset)" region="USA"/>
+		<disk name="Arc the Lad Collection - Arc Arena - Monster Tournament (USA) (Exclusive Subset).chd" sha1="939abf4d10a46e99992ea8131e46e4ea45962c26"/>
 		<url>https://retroachievements.org/game/17001/hashes</url>
 		<hash>ebdc97701f616040223f6354d46a3cf6</hash>
 	</machine>
@@ -3196,15 +3196,6 @@
 		<hash>b6df71391f98d3c3640986c858c01d44</hash>
 	</machine>
 	
-	<machine name="Final Fantasy Origins (Subset - Solo Class)">
-		<category>Subset</category>
-		<description>Final Fantasy Origins (Subset - Solo Class)</description>
-		<release name="Final Fantasy Origins (Subset - Solo Class)" region="USA"/>
-		<disk name="Final Fantasy Origins (Subset - Solo Class).chd" sha1="ddc9a155871229066284d07106d1aa64c4a1625c"/>
-		<url>https://retroachievements.org/game/27655/hashes</url>
-		<hash>94ff84992b3057e70b66b1e203c499de</hash>
-	</machine>
-	
 	<machine name="Final Fantasy Tactics (USA)">
 		<category>Retail</category>
 		<description>Final Fantasy Tactics (USA)</description>
@@ -3253,62 +3244,6 @@
 		<hash>7a42384c618e5b2a36f2a9e352f35690</hash>
 	</machine>
 	
-	<machine name="Final Fantasy VII (Subset - Bonus) (Spirit Bug Fix)" cloneof="Final Fantasy VII (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Final Fantasy VII (Subset - Bonus) (Spirit Bug Fix)</description>
-		<release name="Final Fantasy VII (Subset - Bonus) (Spirit Bug Fix)" region="World"/>
-		<rom name="Final Fantasy VII (Subset - Bonus) (Spirit Bug Fix).m3u" size="196" crc="4130f709" sha1="cdddcd88a2692d482070503632dba3e9f63fbb57" md5="1ca265c4091041081d5c19f3ba14f26d"/>
-		<disk name="Final Fantasy VII (Subset - Bonus) (Spirit Bug Fix) (Disc 1).chd" sha1="6f5960270c89c7dae45e42e51c67f2a6f2b6e101"/>
-		<disk name="Final Fantasy VII (Subset - Bonus) (Spirit Bug Fix) (Disc 2).chd" sha1="b617f19a3a9f40c5db92ec0e8d26263bd9e34fcb"/>
-		<disk name="Final Fantasy VII (Subset - Bonus) (Spirit Bug Fix) (Disc 3).chd" sha1="95bd34a6373f1c9498baa7eb22cf8837703b445b"/>
-		<url>https://retroachievements.org/game/14416/hashes</url>
-		<hash>2268749599891de068a5aba0bf68c289</hash>
-		<hash>e3d0e9a0959fd3377274ed0e8491160c</hash>
-		<hash>fd334daa5dacba5b55f186899f903dce</hash>
-	</machine>
-	<machine name="Final Fantasy VII (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Final Fantasy VII (Subset - Bonus)</description>
-		<rom name="Final Fantasy VII (Subset - Bonus).m3u" size="145" crc="bb8188b8" sha1="4e2116f861d9f7733e684e8f96a703dfb8ca0ba1" md5="955c06863b62dbdbdb74786425d9843a"/>
-		<disk name="Final Fantasy VII (Subset - Bonus) (Disc 1).chd" sha1="26a73f8c2ed4c9852f5ebd520cb57c2d46f9f2f0"/>
-		<disk name="Final Fantasy VII (Subset - Bonus) (Disc 2).chd" sha1="7fa8abb3d72493760e417a3b6d3a28d392356d00"/>
-		<disk name="Final Fantasy VII (Subset - Bonus) (Disc 3).chd" sha1="36c8853ce864d87fdf15d2316fb6694937fbc1f0"/>
-		<disk name="Final Fantasy VII (Subset - Bonus) (Disc 4).chd" sha1="98a510e77c48f4e18edf904f166866a9d571ed44"/>
-		<url>https://retroachievements.org/game/14416/hashes</url>
-		<hash>56b51ed5c62a82fdbd4534b5988f1471</hash>
-		<hash>42c4d95f128cbd162cef987a60493f28</hash>
-		<hash>c8625f30ef75bd54353a76da276001d9</hash>
-		<hash>c7d956f5cc57efa0d7cbd954d16f7f19</hash>
-	</machine>
-	
-	<machine name="Final Fantasy VII (Subset - LLNIIENACMO)">
-		<category>Subset</category>
-		<description>Final Fantasy VII (Subset - LLNIIENACMO)</description>
-		<release name="Final Fantasy VII (Subset - LLNIIENACMO)" region="World"/>
-		<rom name="Final Fantasy VII (Subset - LLNIIENACMO).m3u" size="163" crc="f3b80abd" sha1="7a810c3a0aa09ececb0f01b4f37d8bdd1de95ef5" md5="c455bc197ecc32649f5cf27c9c8e33c2"/>
-		<disk name="Final Fantasy VII (Subset - LLNIIENACMO) (Disc 1).chd" sha1="5397e73e358e4952080362417884e842106091f0"/>
-		<disk name="Final Fantasy VII (Subset - LLNIIENACMO) (Disc 2).chd" sha1="a760e71a737a4fa252eff7442b58e1e97fc02ed7"/>
-		<disk name="Final Fantasy VII (Subset - LLNIIENACMO) (Disc 3).chd" sha1="1ed1820e6da006004d785ec1f0bbb04ce0c30d27"/>
-		<url>https://retroachievements.org/game/20313/hashes</url>
-		<hash>3a6aec54b34a26b1a454049af58c08de</hash>
-		<hash>c79e573e97d495050987fda7c48f1a13</hash>
-		<hash>92ad091b6cb9e8581b4639fc23d1ada5</hash>
-	</machine>
-	
-	<machine name="Final Fantasy VII (Subset - Solo Lowest Level Party)">
-		<category>Subset</category>
-		<description>Final Fantasy VII (Subset - Solo Lowest Level Party)</description>
-		<release name="Final Fantasy VII (Subset - Solo Lowest Level Party)" region="World"/>
-		<rom name="Final Fantasy VII (Subset - Solo Lowest Level Party).m3u" size="199" crc="e782865c" sha1="7568f51104780b052f2a52a7bfaa63a034e2e6a9" md5="a8f0c8db6b62bafd5e5019def269bb1a"/>
-		<disk name="Final Fantasy VII (Subset - Solo Lowest Level Party) (Disc 1).chd" sha1="a1d6ff78ad76541aeb9f26309ded220036126f71"/>
-		<disk name="Final Fantasy VII (Subset - Solo Lowest Level Party) (Disc 2).chd" sha1="778414a5ca45ec0e15ef0033425bb74f484faa07"/>
-		<disk name="Final Fantasy VII (Subset - Solo Lowest Level Party) (Disc 3).chd" sha1="b1d002bb4e72836a7bea9b48e80c47d4d98a31eb"/>
-		<url>https://retroachievements.org/game/20314/hashes</url>
-		<hash>f9bcb9d8f234994bcbfd7ae0a5872480</hash>
-		<hash>138a0013ffd3fa973ed21e59c554ffd0</hash>
-		<hash>fc2b784f029a4522cf36b0d870a6881b</hash>
-	</machine>
-	
 	<machine name="Final Fantasy VIII (USA)">
 		<category>Retail</category>
 		<description>Final Fantasy VIII (USA)</description>
@@ -3323,22 +3258,6 @@
 		<hash>ddaaf6a0ab57c7898e62a528112ab4c5</hash>
 		<hash>307ea659918b9e485a964221f1c02893</hash>
 		<hash>d8fe1ddc1e4cc6621ad58a30a4d16a47</hash>
-	</machine>
-	
-	<machine name="Final Fantasy VIII (Subset - NJNLU)">
-		<category>Subset</category>
-		<description>Final Fantasy VIII (Subset - NJNLU)</description>
-		<release name="Final Fantasy VIII (Subset - NJNLU)" region="World"/>
-		<rom name="Final Fantasy VIII (Subset - NJNLU).m3u" size="198" crc="d55737aa" sha1="d5ae2234e056cf45d01363253ccc0cd6bc09e1f0" md5="0cbb9127c346b0e80f0a9457f3da6d54"/>
-		<disk name="Final Fantasy VIII (Subset - NJNLU) (Disc 1).chd" sha1="a265fe55e7f014f0693e3adaf05e6695e76d2749"/>
-		<disk name="Final Fantasy VIII (Subset - NJNLU) (Disc 2).chd" sha1="3616318fd224458a6593fe80b920831a9281b424"/>
-		<disk name="Final Fantasy VIII (Subset - NJNLU) (Disc 3).chd" sha1="e74a9044b8839fd5fb1abd78b68a4bc38aee7e6f"/>
-		<disk name="Final Fantasy VIII (Subset - NJNLU) (Disc 4).chd" sha1="9a70fcd6ddc4671b0dcc878c1daff4b4be5a99cb"/>
-		<url>https://retroachievements.org/game/20493/hashes</url>
-		<hash>eb9bee78942e71af6b84aad98dc2dc3f</hash>
-		<hash>21a0134b497fc4478557a3602ca44d82</hash>
-		<hash>fb8849c57de4f75ca656394b9690e620</hash>
-		<hash>6255788ee0ba23fd658668f242c8efc6</hash>
 	</machine>
 	
 	<machine name="Firebugs (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)">
@@ -4817,15 +4736,6 @@
 		<disk name="Mega Man Legends (USA).chd" sha1="77aab55210eac8354aa7c698ddf3476afccf356b"/>
 		<url>https://retroachievements.org/game/11280/hashes</url>
 		<hash>44fc233b415c466986b8ab3de5c0cf1d</hash>
-	</machine>
-	
-	<machine name="Mega Man Legends (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Mega Man Legends (Subset - Bonus)</description>
-		<release name="Mega Man Legends (Subset - Bonus)" region="World"/>
-		<disk name="Mega Man Legends (Subset - Bonus).chd" sha1="11fa1e63751b9cb183c117360e97ecffa00a49ae"/>
-		<url>https://retroachievements.org/game/28162/hashes</url>
-		<hash>ba3cec887540b3f08b1f41833ac0edd7</hash>
 	</machine>
 	
 	<machine name="Mega Man Legends 2 (USA)">
@@ -7560,15 +7470,6 @@
 		<hash>0bf7059794c3bc9bafa688b55218b29b</hash>
 	</machine>
 	
-	<machine name="Street Fighter EX2 Plus (Subset - Maniac Mode)">
-		<category>Subset</category>
-		<description>Street Fighter EX2 Plus (Subset - Maniac Mode)</description>
-		<release name="Street Fighter EX2 Plus (Subset - Maniac Mode)" region="World"/>
-		<disk name="Street Fighter EX2 Plus (Subset - Maniac Mode).chd" sha1="e17c3e68b840700ed02df54c0fffcd4e720075ff"/>
-		<url>https://retroachievements.org/game/26527/hashes</url>
-		<hash>e55da90c63cfb5aaa0fae5cba805c4fa</hash>
-	</machine>
-	
 	<machine name="Strider 2 (USA)">
 		<category>Retail</category>
 		<description>Strider 2 (USA)</description>
@@ -8726,14 +8627,6 @@
 		<disk name="Tony Hawk's Pro Skater 4 (USA).chd" sha1="1cf3955bb1a3e41343dc027985f1d615b8e9c9d6"/>
 		<url>https://retroachievements.org/game/14461/hashes</url>
 		<hash>8c4777537d3c967b9a3e97059873a47d</hash>
-	</machine>
-	
-	<machine name="Tony Hawk's Pro Skater 4 (Subset - One Combo)">
-		<category>Subset</category>
-		<description>Tony Hawk's Pro Skater 4 (Subset - One Combo)</description>
-		<disk name="Tony Hawk's Pro Skater 4 (Subset - One Combo).chd" sha1="cc18bf21a1640f53d7b2be023c7c44469202f458"/>
-		<url>https://retroachievements.org/game/25940/hashes</url>
-		<hash>1982d736caaaa8d553e8ce51b669c0f6</hash>
 	</machine>
 	
 	<machine name="Top Shop (USA)">
