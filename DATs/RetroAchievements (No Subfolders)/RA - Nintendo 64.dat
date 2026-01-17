@@ -1492,11 +1492,11 @@
 		<hash>9bfbcff19f368b4c5b81186d7ff9e2fd</hash>
 	</game>
 	
-	<game name="Paper Mario (Subset - Multiplayer) (Hack)">
-		<category>Subset</category>
-		<description>Paper Mario (Subset - Multiplayer) (Hack)</description>
-		<release name="Paper Mario (Subset - Multiplayer) (Hack)" region="World"/>
-		<rom name="Paper Mario (Subset - Multiplayer) (Hack).z64" size="41943040" crc="a9ebbd52" md5="6a7dda1f30560242fd341c9156a5612f" sha1="133058a5288155f645b85737ba2b902f3e7df1c2"/>
+	<game name="Paper Mario - Multiplayer (Hack)">
+		<category>Hack</category>
+		<description>Paper Mario - Multiplayer (Hack)</description>
+		<release name="Paper Mario - Multiplayer (Hack)" region="World"/>
+		<rom name="Paper Mario - Multiplayer (Hack).z64" size="41943040" crc="a9ebbd52" md5="6a7dda1f30560242fd341c9156a5612f" sha1="133058a5288155f645b85737ba2b902f3e7df1c2"/>
 		<url>https://retroachievements.org/game/14740/hashes</url>
 		<hash>6a7dda1f30560242fd341c9156a5612f</hash>
 	</game>
