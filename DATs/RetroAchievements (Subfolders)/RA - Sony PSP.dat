@@ -5,8 +5,8 @@
 		<name>RA - Sony PSP</name>
 		<description>Sony PSP</description>
 		<category>Subfolders</category>
-		<version>20260116</version>
-		<date>16 January 2026</date>
+		<version>20260117</version>
+		<date>17 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/41/games</url>
@@ -585,15 +585,6 @@
 		<legacyhash>652584a02890f2b5c77444eabe64a928</legacyhash>
 	</machine>
 	
-	<machine name="Subset/Crisis Core - Final Fantasy VII (Subset - Cursed Lv. 6)">
-		<category>PSP</category>
-		<description>Crisis Core - Final Fantasy VII (Subset - Cursed Lv. 6)</description>
-		<disk name="Crisis Core - Final Fantasy VII (Subset - Cursed Lv. 6).chd" sha1="37a198a152a448d154e18ec780b4dbc8e809362b"/>
-		<url>https://retroachievements.org/game/22826/hashes</url>
-		<hash>c56148e9b53c546c0d4b6b30a4e6d8ed</hash>
-		<legacyhash>2d69def245cd3b3f6ac87b267e2ee8e2</legacyhash>
-	</machine>
-	
 	<machine name="Retail/Crush (Europe) (En,Fr,De,Es,It)">
 		<category>PSP</category>
 		<description>Crush (Europe) (En,Fr,De,Es,It)</description>
@@ -1053,15 +1044,6 @@
 		<legacyhash>ccf5f988f7cd98e53adb40300f478f28</legacyhash>
 	</machine>
 	
-	<machine name="Subset/Final Fantasy - 20th Anniversary Edition (Subset - Solo Class) (Europe) (En,Ja)">
-		<category>PSP</category>
-		<description>Final Fantasy - 20th Anniversary Edition (Subset - Solo Class) (Europe) (En,Ja)</description>
-		<disk name="Final Fantasy - 20th Anniversary Edition (Subset - Solo Class) (Europe) (En,Ja).chd" sha1="9aa46b48c25888e66878b707c8bb7e143a99fe98"/>
-		<url>https://retroachievements.org/game/17996/hashes</url>
-		<hash>dfa098f5e2db7645830718281bdc8ed3</hash>
-		<legacyhash>252260d705d7a01842c989936a58fa00</legacyhash>
-	</machine>
-	
 	<machine name="Retail/Final Fantasy II/Final Fantasy II - 20th Anniversary Edition (Europe) (En,Ja)">
 		<category>PSP</category>
 		<description>Final Fantasy II - 20th Anniversary Edition (Europe) (En,Ja)</description>
@@ -1086,15 +1068,6 @@
 		<url>https://retroachievements.org/game/3216/hashes</url>
 		<hash>f672494fdaa533391ad881cdc7e909ef</hash>
 		<legacyhash>f7590869f703e942a0942ac8ec489bb3</legacyhash>
-	</machine>
-	
-	<machine name="Subset/Final Fantasy III (Subset - Max Jobs)">
-		<category>PSP</category>
-		<description>Final Fantasy III (Subset - Max Jobs)</description>
-		<disk name="Final Fantasy III (Subset - Max Jobs).chd" sha1="f3912024b3ae13ecd0e961a272587e01019c3c96"/>
-		<url>https://retroachievements.org/game/22178/hashes</url>
-		<hash>0f031667c2dd39088358b3fd006d2a5b</hash>
-		<legacyhash>5eac66c4aa132af4d5369c2a42332305</legacyhash>
 	</machine>
 	
 	<machine name="Retail/Final Fantasy IV - The Complete Collection (USA) (En,Ja,Fr)">
@@ -1920,15 +1893,6 @@
 		<url>https://retroachievements.org/game/22296/hashes</url>
 		<hash>3a8444aaaae91cd73e26d16ff6c2e055</hash>
 		<legacyhash>656de8f5f7370f0ed9c046be00b08fc7</legacyhash>
-	</machine>
-	
-	<machine name="Subset/Megpoid the Music Sharp (Subset - Full Combo Songs)">
-		<category>PSP</category>
-		<description>Megpoid the Music Sharp (Subset - Full Combo Songs)</description>
-		<disk name="Megpoid the Music Sharp (Subset - Full Combo Songs).chd" sha1="17bfcbcfd04b59e06a1d1eac3e7eef809b862bd4"/>
-		<url>https://retroachievements.org/game/25201/hashes</url>
-		<hash>663c167939f752ebe4a52d17833a784d</hash>
-		<legacyhash>cb3a768963306e0a1893137f82604fad</legacyhash>
 	</machine>
 	
 	<machine name="Retail/Metal Gear Acid (Europe) (En,Fr,De,Es,It)">

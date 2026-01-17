@@ -5,8 +5,8 @@
 		<name>RA - Sega Saturn</name>
 		<description>Sega Saturn</description>
 		<category>No Subfolders</category>
-		<version>20260116</version>
-		<date>16 January 2026</date>
+		<version>20260117</version>
+		<date>17 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/39/games</url>
@@ -317,15 +317,6 @@
 		<hash>f4d3fed813e6b27536ff50e6d17fd3b6</hash>
 	</machine>
 	
-	<machine name="Cotton 2 - Magical Night Dreams (Subset - Multi)">
-		<category>Subset</category>
-		<description>Cotton 2 - Magical Night Dreams (Subset - Multi)</description>
-		<release name="Cotton 2 - Magical Night Dreams (Subset - Multi)" region="English"/>
-		<disk name="Cotton 2 - Magical Night Dreams (Subset - Multi).chd" sha1="648c2f23152285f2ba8b5da0000c28ffb1fb84bf"/>
-		<url>https://retroachievements.org/game/29068/hashes</url>
-		<hash>61fe3ab5b05e0650b62600bd0c0d438c</hash>
-	</machine>
-	
 	<machine name="Croc - Legend of the Gobbos (USA)" cloneof="Croc - Legend of the Gobbos (Europe)">
 		<category>Retail</category>
 		<description>Croc - Legend of the Gobbos (USA)</description>
@@ -585,18 +576,6 @@
 		<hash>7f0b418fd552bdb37040634183bffb86</hash>
 	</machine>
 	
-	<machine name="Dungeons &amp; Dragons Collection (Subset - Multi)">
-		<category>Subset</category>
-		<description>Dungeons &amp; Dragons Collection (Subset - Multi)</description>
-		<release name="Dungeons &amp; Dragons Collection (Subset - Multi)" region="World"/>
-		<rom name="Dungeons &amp; Dragons Collection (Subset - Multi).m3u" size="158" crc="a1090386" sha1="0eb8cecd5637d151c43580938f77526398ec16c5" md5="965f4c79df02e844ae507b852f5322a6"/>
-		<disk name="Dungeons &amp; Dragons Collection (Disc 1) (Tower of Doom) (Subset - Multi).chd" sha1="900d13825dca24e160499ccd66fa85954b28b067"/>
-		<disk name="Dungeons &amp; Dragons Collection (Disc 2) (Shadow over Mystara) (Subset - Multi).chd" sha1="3ecfb1a5ff9d92387c094c98dbeced0fa488c59c"/>
-		<url>https://retroachievements.org/game/28268/hashes</url>
-		<hash>0f922fec4cc26dce86194276a8557e69</hash>
-		<hash>56f305b1a0cefaaf12890411464791ba</hash>
-	</machine>
-	
 	<machine name="Earthworm Jim 2 (USA)">
 		<category>Retail</category>
 		<description>Earthworm Jim 2 (USA)</description>
@@ -785,15 +764,6 @@
 		<hash>c84e3d182d5bb8eae1ccd8f416b3e76f</hash>
 	</machine>
 	
-	<machine name="In the Hunt (Subset - Multi)">
-		<category>Subset</category>
-		<description>In the Hunt (Subset - Multi)</description>
-		<release name="In the Hunt (Subset - Multi)" region="USA"/>
-		<disk name="In the Hunt (Subset - Multi).chd" sha1="7758638af56b1ab7a67651e15bf441fc0db3eb9b"/>
-		<url>https://retroachievements.org/game/28617/hashes</url>
-		<hash>04fbc8feb4393818cba7516d91fa839a</hash>
-	</machine>
-	
 	<machine name="Jung Rhythm (Japan)">
 		<category>Retail</category>
 		<description>Jung Rhythm (Japan)</description>
@@ -863,15 +833,6 @@
 		<disk name="Lode Runner - The Legend Returns (Japan).chd" sha1="c7a051df6a72b928f326b5d2ce43e642d84c2ac7"/>
 		<url>https://retroachievements.org/game/28269/hashes</url>
 		<hash>a5d743eeee217972f3690dca89d9fdde</hash>
-	</machine>
-	
-	<machine name="Lode Runner - The Legend Returns (Subset - Multi)">
-		<category>Subset</category>
-		<description>Lode Runner - The Legend Returns (Subset - Multi)</description>
-		<release name="Lode Runner - The Legend Returns (Subset - Multi)" region="Japan"/>
-		<disk name="Lode Runner - The Legend Returns (Subset - Multi).chd" sha1="01d738294a05041720b5796fdf5483f768b77596"/>
-		<url>https://retroachievements.org/game/28274/hashes</url>
-		<hash>4b162310076f7e2483107808b4153eb2</hash>
 	</machine>
 	
 	<machine name="Lunacy (USA)">
@@ -1558,15 +1519,6 @@
 		<disk name="Tenchi o Kurau II - Sekiheki no Tatakai (Japan).chd" sha1="ee36727e0523a45635ba181deb707d98d7e23d53"/>
 		<url>https://retroachievements.org/game/26147/hashes</url>
 		<hash>77a58abd4d641f32f913fab909c16008</hash>
-	</machine>
-	
-	<machine name="Tenchi o Kurau II - Sekiheki no Tatakai (Subset - Multi)">
-		<category>Subset</category>
-		<description>Tenchi o Kurau II - Sekiheki no Tatakai (Subset - Multi)</description>
-		<release name="Tenchi o Kurau II - Sekiheki no Tatakai (Subset - Multi)" region="World"/>
-		<disk name="Tenchi o Kurau II - Sekiheki no Tatakai (Subset - Multi).chd" sha1="102c9e923fd398fb5595f6133051bdfd4a706923"/>
-		<url>https://retroachievements.org/game/28292/hashes</url>
-		<hash>fdac20eb87c6be5636dfcea2ff9b2baa</hash>
 	</machine>
 	
 	<machine name="House of the Dead, The (USA)">

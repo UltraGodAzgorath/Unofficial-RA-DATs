@@ -5,8 +5,8 @@
 		<name>RA - NEC TurboGrafx-16</name>
 		<description>NEC TurboGrafx-16</description>
 		<category>Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260117</version>
+		<date>17 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/8/games</url>
@@ -129,14 +129,6 @@
 		<rom name="1941 - Counter Attack (Japan).sgx" size="1048576" crc="8c4588e2" md5="30686dba4795521174658de2492e0046" sha1="66873b0e0cc699aa75daf06a3f74c0508037e605"/>
 		<url>https://retroachievements.org/game/6205/hashes</url>
 		<hash>30686dba4795521174658de2492e0046</hash>
-	</game>
-	
-	<game name="Subset/1941 - Counter Attack (Subset - Multi)">
-		<category>SuperGrafx</category>
-		<description>1941 - Counter Attack (Subset - Multi)</description>
-		<rom name="1941 - Counter Attack (Subset - Multi).sgx" size="1048576" crc="1d88bdd6" md5="a1294ee85e9962aaaa2eae1dddffd5ea" sha1="3cb2b0071455cd81d8c5f03ec6daa70cd93a54af"/>
-		<url>https://retroachievements.org/game/28683/hashes</url>
-		<hash>a1294ee85e9962aaaa2eae1dddffd5ea</hash>
 	</game>
 	
 	<game name="Retail/1943 Kai (Japan)">
@@ -340,14 +332,6 @@
 		<rom name="Cadash (USA).pce" size="524288" crc="bb0b3aef" md5="617a4254c05e88145110718951039e61" sha1="31c9692ba8c7eab995a6d3ab1e2079b69b47847f"/>
 		<url>https://retroachievements.org/game/2283/hashes</url>
 		<hash>617a4254c05e88145110718951039e61</hash>
-	</game>
-	
-	<game name="Subset/Cadash (Subset - Multi)">
-		<category>TurboGrafx</category>
-		<description>Cadash (Subset - Multi)</description>
-		<rom name="Cadash (Subset - Multi).pce" size="524288" crc="f49043ec" md5="8622865b2a79e82758533d956e647a91" sha1="7602951f855a3797ad1a2007f669277e405123f7"/>
-		<url>https://retroachievements.org/game/24081/hashes</url>
-		<hash>8622865b2a79e82758533d956e647a91</hash>
 	</game>
 	
 	<game name="Retail/Chew-Man-Fu (USA)">
@@ -768,14 +752,6 @@
 		<hash>255151e36286918861d8053a0e37e695</hash>
 	</game>
 	
-	<game name="Subset/Juuouki (Subset - Multi)">
-		<category>TurboGrafx</category>
-		<description>Juuouki (Subset - Multi)</description>
-		<rom name="Juuouki (Subset - Multi).pce" size="524288" crc="ad437cad" md5="7fd776176e722e6f3dde27cb090b6a9e" sha1="19d049eabc1018d8760662d5f09010caa2cb4731"/>
-		<url>https://retroachievements.org/game/29048/hashes</url>
-		<hash>7fd776176e722e6f3dde27cb090b6a9e</hash>
-	</game>
-	
 	<game name="Retail/Keith Courage in Alpha Zones (USA)">
 		<category>TurboGrafx</category>
 		<description>Keith Courage in Alpha Zones (USA)</description>
@@ -1031,14 +1007,6 @@
 		<rom name="Puzzle Boy (Japan) (En) (v1.0) (KingMike's Translations).pce" size="262144" crc="da0e234f" md5="f5b8397f328f51313f812278db362c81" sha1="96e2fd5bbdea922ec0d2a1ed2a9881994d71f232"/>
 		<url>https://retroachievements.org/game/12824/hashes</url>
 		<hash>f5b8397f328f51313f812278db362c81</hash>
-	</game>
-	
-	<game name="Subset/Puzzle Boy (Subset - Glitches for Pros)">
-		<category>TurboGrafx</category>
-		<description>Puzzle Boy (Subset - Glitches for Pros)</description>
-		<rom name="Puzzle Boy (Subset - Glitches for Pros).pce" size="262144" crc="a2c4e107" md5="e1c3ab1163b4ea5c86b75c8993b4d1ea" sha1="f02b112c43be6b151e1900d62db4b090c1d68797"/>
-		<url>https://retroachievements.org/game/30920/hashes</url>
-		<hash>e1c3ab1163b4ea5c86b75c8993b4d1ea</hash>
 	</game>
 	
 	<game name="Retail/R-Type (USA)">

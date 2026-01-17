@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>Subfolders</category>
-		<version>20260116</version>
-		<date>16 January 2026</date>
+		<version>20260117</version>
+		<date>17 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -1970,14 +1970,6 @@
 		<hash>3cc5e954f8adc6d313c44da31e3f8a5c</hash>
 	</game>
 	
-	<game name="Subset/Boulder Dash EX (Subset - Classic Mode)">
-		<category></category>
-		<description>Boulder Dash EX (Subset - Classic Mode)</description>
-		<rom name="Boulder Dash EX (Subset - Classic Mode).gba" size="4194304" crc="277b1adb" md5="56f7536a139cd78c460119ad88955fd5" sha1="83a18ab2d1e6d3d322956ca2eca46221dcc2c5db"/>
-		<url>https://retroachievements.org/game/24942/hashes</url>
-		<hash>56f7536a139cd78c460119ad88955fd5</hash>
-	</game>
-	
 	<game name="Retail/Breath of Fire (USA)">
 		<category></category>
 		<description>Breath of Fire (USA)</description>
@@ -3483,14 +3475,6 @@
 		<rom name="Final Fantasy I &amp; II - Dawn of Souls (USA).gba" size="16777216" crc="1b39cdab" md5="5d29999685413c4d2bec10d3160f6ee6" sha1="6472695d69661490f78245e2982e1e676c080be7"/>
 		<url>https://retroachievements.org/game/762/hashes</url>
 		<hash>5d29999685413c4d2bec10d3160f6ee6</hash>
-	</game>
-	
-	<game name="Subset/Final Fantasy I &amp; II - Dawn of Souls (Subset - FF1 Solo Class)">
-		<category></category>
-		<description>Final Fantasy I &amp; II - Dawn of Souls (Subset - FF1 Solo Class)</description>
-		<rom name="Final Fantasy I &amp; II - Dawn of Souls (Subset - FF1 Solo Class).gba" size="16777216" crc="baac365e" md5="a6d4a70a0039d2fdfcef7f389b90e6fa" sha1="b58b3efd7c1ec43312b9f68293e94412ecf2329d"/>
-		<url>https://retroachievements.org/game/27657/hashes</url>
-		<hash>a6d4a70a0039d2fdfcef7f389b90e6fa</hash>
 	</game>
 	
 	<game name="Retail/Final Fantasy IV Advance (USA)">
@@ -5077,22 +5061,6 @@
 		<hash>68817204a691449e655cba739dbb0165</hash>
 	</game>
 	
-	<game name="Subset/Megaman - Battle Network 3 - White Version (Subset - Omega S-Ranks)">
-		<category></category>
-		<description>Megaman - Battle Network 3 - White Version (Subset - Omega S-Ranks)</description>
-		<rom name="Megaman - Battle Network 3 - White Version (Subset - Omega S-Ranks).gba" size="8388608" crc="89495fb8" md5="8af23a6ed5cdb68f63cd042fa80d1348" sha1="cb37706ebf7ffc8ec6ddd3302633d7ad012420a4"/>
-		<url>https://retroachievements.org/game/30129/hashes</url>
-		<hash>8af23a6ed5cdb68f63cd042fa80d1348</hash>
-	</game>
-	
-	<game name="Subset/Megaman - Battle Network 3 - White Version (Subset - Powerless)">
-		<category></category>
-		<description>Megaman - Battle Network 3 - White Version (Subset - Powerless)</description>
-		<rom name="Megaman - Battle Network 3 - White Version (Subset - Powerless).gba" size="8388608" crc="a47b885e" md5="f3b067321f7c8ab61c7aef24a498afcf" sha1="fc4c8f4537ca65014253e4aac24204c7bfd6dec1"/>
-		<url>https://retroachievements.org/game/29784/hashes</url>
-		<hash>f3b067321f7c8ab61c7aef24a498afcf</hash>
-	</game>
-	
 	<game name="Retail/Megaman - Battle Network 4 - Blue Moon (Europe)">
 		<category></category>
 		<description>Megaman - Battle Network 4 - Blue Moon (Europe)</description>
@@ -5578,14 +5546,6 @@
 		<rom name="Mother 3 (Japan) (En) (Chewy-Jeffman-Tomato) (v1.1).gba" size="33554432" crc="ede46930" md5="ce5c7ba6fbe648e6d65d77030151d6f5" sha1="b15c0c741ab00b42ae9b97e0942cf8e0697c0694"/>
 		<url>https://retroachievements.org/game/677/hashes</url>
 		<hash>ce5c7ba6fbe648e6d65d77030151d6f5</hash>
-	</game>
-	
-	<game name="Subset/Mother 3 (Subset - Melody Master)">
-		<category></category>
-		<description>Mother 3 (Subset - Melody Master)</description>
-		<rom name="Mother 3 (Subset - Melody Master).gba" size="33554432" crc="b6c2b0cc" md5="f01db3072a398e16091c4a0cc7ed3411" sha1="1b78b66553f59b894bd88754f3c3c301d25544e7"/>
-		<url>https://retroachievements.org/game/30988/hashes</url>
-		<hash>f01db3072a398e16091c4a0cc7ed3411</hash>
 	</game>
 	
 	<game name="Retail/Mr. Driller 2 (Europe)">
@@ -6316,14 +6276,6 @@
 		<rom name="Pokemon - Sapphire Version (USA, Europe).gba" size="16777216" crc="554dedc4" md5="f34e91399c719812e66e2c828a2e93d7" sha1="3ccbbd45f8553c36463f13b938e833f652b793e4"/>
 		<url>https://retroachievements.org/game/791/hashes</url>
 		<hash>f34e91399c719812e66e2c828a2e93d7</hash>
-	</game>
-	
-	<game name="Subset/Pokemon - Sapphire Version (Subset - Professor Oak Challenge)">
-		<category></category>
-		<description>Pokemon - Sapphire Version (Subset - Professor Oak Challenge)</description>
-		<rom name="Pokemon - Sapphire Version (Subset - Professor Oak Challenge).gba" size="16777216" crc="091e4f4a" md5="bec888af544cd36872e422c4cfb1dc74" sha1="7f08f92315265049da0742db275681c2f3d9ba84"/>
-		<url>https://retroachievements.org/game/17887/hashes</url>
-		<hash>bec888af544cd36872e422c4cfb1dc74</hash>
 	</game>
 	
 	<game name="Retail/Postman Pat and the Greendale Rocket (Europe) (En,No,Da)">
@@ -7616,14 +7568,6 @@
 		<rom name="Sword of Mana (USA, Australia).gba" size="16777216" crc="7f1eac75" md5="c7e5d28e7c430454aeff766961095561" sha1="a7ff0b4482c7c3b19467af37c3e277321cd9f1cd"/>
 		<url>https://retroachievements.org/game/4206/hashes</url>
 		<hash>c7e5d28e7c430454aeff766961095561</hash>
-	</game>
-	
-	<game name="Subset/Sword of Mana (Subset - Black Enemy Variants)">
-		<category></category>
-		<description>Sword of Mana (Subset - Black Enemy Variants)</description>
-		<rom name="Sword of Mana (Subset - Black Enemy Variants).gba" size="16777216" crc="13b87e19" md5="a5e8c0c8d4ecf07babf784e6afae382d" sha1="433f173cdafa5fc846039bf01fc781014ca0f76c"/>
-		<url>https://retroachievements.org/game/29844/hashes</url>
-		<hash>a5e8c0c8d4ecf07babf784e6afae382d</hash>
 	</game>
 	
 	<game name="Retail/Tactics Ogre - The Knight of Lodis (USA)">

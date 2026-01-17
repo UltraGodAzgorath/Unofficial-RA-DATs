@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Color</name>
 		<description>Nintendo Game Boy Color</description>
 		<category>No Subfolders</category>
-		<version>20260116</version>
-		<date>16 January 2026</date>
+		<version>20260117</version>
+		<date>17 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/6/games</url>
@@ -1865,15 +1865,6 @@
 		<rom name="Dragon Warrior III (USA).gbc" size="4194304" crc="0fd9c59c" md5="b74b6132326bafcd75e415ddcd9a2932" sha1="581a12695ae42becaa078ac2694a11767a96dc61"/>
 		<url>https://retroachievements.org/game/697/hashes</url>
 		<hash>b74b6132326bafcd75e415ddcd9a2932</hash>
-	</game>
-	
-	<game name="Dragon Warrior III (Subset - Gold Medals)">
-		<category>Subset</category>
-		<description>Dragon Warrior III (Subset - Gold Medals)</description>
-		<release name="Dragon Warrior III (Subset - Gold Medals)" region="World"/>
-		<rom name="Dragon Warrior III (Subset - Gold Medals).gbc" size="4194304" crc="aa7454c5" md5="498e4e521efe5539290ca6c4425d34cd" sha1="7076f7dfc8b207ab48dc16c67f9edd28dfa9cbaa"/>
-		<url>https://retroachievements.org/game/20026/hashes</url>
-		<hash>498e4e521efe5539290ca6c4425d34cd</hash>
 	</game>
 	
 	<game name="Dragon Warrior Monsters (USA, Europe) (SGB Enhanced) (GB Compatible)">

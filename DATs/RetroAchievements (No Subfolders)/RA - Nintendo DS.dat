@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>No Subfolders</category>
-		<version>20260116</version>
-		<date>16 January 2026</date>
+		<version>20260117</version>
+		<date>17 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
@@ -1137,15 +1137,6 @@
 		<hash>7a549f2183942e0ada15a2e61e6a4bcc</hash>
 	</game>
 	
-	<game name="Animal Crossing - Wild World (Subset - Villager Pictures)">
-		<category>Subset</category>
-		<description>Animal Crossing - Wild World (Subset - Villager Pictures)</description>
-		<release name="Animal Crossing - Wild World (Subset - Villager Pictures)" region="World"/>
-		<rom name="Animal Crossing - Wild World (Subset - Villager Pictures).nds" size="44622368" crc="f1d0853e" md5="0ceb1b430332fab2f50e0592a03bfae4" sha1="9f85cdf2ce8c62e09dfebef204dd814883ba1f83"/>
-		<url>https://retroachievements.org/game/14836/hashes</url>
-		<hash>8eedc069a50d1ca6a33281230791a3d2</hash>
-	</game>
-	
 	<game name="Another Code - Two Memories (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<description>Another Code - Two Memories (Europe) (En,Fr,De,Es,It)</description>
@@ -1708,15 +1699,6 @@
 		<hash>465696f8a3c631b00cc7e940f7f8ed2e</hash>
 	</game>
 	
-	<game name="Chrono Trigger (Subset - No Level Up)">
-		<category>Subset</category>
-		<description>Chrono Trigger (Subset - No Level Up)</description>
-		<release name="Chrono Trigger (Subset - No Level Up)" region="World"/>
-		<rom name="Chrono Trigger (Subset - No Level Up).nds" size="134217728" crc="567ad3bb" md5="74ac2614427efbc82baab49220b0e42b" sha1="c1de31be9124c88c482f83a64881ebfff0cb9c41"/>
-		<url>https://retroachievements.org/game/9966/hashes</url>
-		<hash>d9d034ff83de05319e99236efc8a528d</hash>
-	</game>
-	
 	<game name="Chronos Twin (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<description>Chronos Twin (Europe) (En,Fr,De,Es,It)</description>
@@ -2196,39 +2178,6 @@
 		<hash>6fac9f2179ded3a5d57e46170fae6513</hash>
 	</game>
 	
-	<game name="Dragon Quest IV - Chapters of the Chosen (Subset - Plentiful Plunder)">
-		<category>Subset</category>
-		<description>Dragon Quest IV - Chapters of the Chosen (Subset - Plentiful Plunder)</description>
-		<release name="Dragon Quest IV - Chapters of the Chosen (Subset - Plentiful Plunder)" region="World"/>
-		<rom name="Dragon Quest IV - Chapters of the Chosen (Subset - Plentiful Plunder).nds" size="134217728" crc="788ffeca" md5="df04f62f199981185087ffd80b12a67f" sha1="fe43bcd55d81c1f42b41023ebac13379a2680e80"/>
-		<url>https://retroachievements.org/game/24941/hashes</url>
-		<hash>dcc79f2d5a712512805272cde7c4b749</hash>
-	</game>
-	
-	<game name="Dragon Quest IV - The Chapters of the Chosen (USA) (Party Chat) (Subset - Title Tracker)" cloneof="Dragon Quest IV - The Chapters of the Chosen (USA) (Subset - Title Tracker)">
-		<category>Subset</category>
-		<description>Dragon Quest IV - The Chapters of the Chosen (USA) (Party Chat) (Subset - Title Tracker)</description>
-		<rom name="Dragon Quest IV - The Chapters of the Chosen (USA) (Party Chat) (Subset - Title Tracker).nds" size="134217728" crc="369687f1" md5="129d6975541618cc14676c31bef5141e" sha1="a85a7a4d128ad036cd3959186766000494c7a498"/>
-		<url>https://retroachievements.org/game/33505/hashes</url>
-		<hash>d031fca138921a97bd40031d56812cc2</hash>
-	</game>
-	<game name="Dragon Quest IV - The Chapters of the Chosen (USA) (Subset - Title Tracker)">
-		<category>Subset</category>
-		<description>Dragon Quest IV - The Chapters of the Chosen (USA) (Subset - Title Tracker)</description>
-		<release name="Dragon Quest IV - The Chapters of the Chosen (USA) (Subset - Title Tracker)" region="USA"/>
-		<rom name="Dragon Quest IV - The Chapters of the Chosen (USA) (Subset - Title Tracker).nds" size="134217728" crc="95aa617d" md5="a9ac48f43cdaa9838000131a9d93854b" sha1="779a319baae92be57ff03b3e7340484dcb8fbcb5"/>
-		<url>https://retroachievements.org/game/33505/hashes</url>
-		<hash>73ba4991a189b69d2e9d5ce0895c7aeb</hash>
-	</game>
-	<game name="Dragon Quest IV - The Chapters of the Chosen (Europe) (Subset - Title Tracker)" cloneof="Dragon Quest IV - The Chapters of the Chosen (USA) (Subset - Title Tracker)">
-		<category>Subset</category>
-		<description>Dragon Quest IV - The Chapters of the Chosen (Europe) (Subset - Title Tracker)</description>
-		<release name="Dragon Quest IV - The Chapters of the Chosen (Europe) (Subset - Title Tracker)" region="Europe"/>
-		<rom name="Dragon Quest IV - The Chapters of the Chosen (Europe) (Subset - Title Tracker).nds" size="134217728" crc="fdc2c18d" md5="060b3980c28262d0b5e334aeb6cadb66" sha1="b386cb20703c1134ac411c02370911fb8956fc96"/>
-		<url>https://retroachievements.org/game/33505/hashes</url>
-		<hash>da0f1a4e64769ea8ed47f1afedba2bd9</hash>
-	</game>
-	
 	<game name="Dragon Quest IX - Sentinels of the Starry Skies (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<description>Dragon Quest IX - Sentinels of the Starry Skies (Europe) (En,Fr,De,Es,It)</description>
@@ -2265,24 +2214,6 @@
 		<hash>f110efe23e9af4cb59740f8939832a73</hash>
 	</game>
 	
-	<game name="Dragon Quest V - The Hand of the Heavenly Bride (Subset - Goodies Globetrotter)">
-		<category>Subset</category>
-		<description>Dragon Quest V - The Hand of the Heavenly Bride (Subset - Goodies Globetrotter)</description>
-		<release name="Dragon Quest V - The Hand of the Heavenly Bride (Subset - Goodies Globetrotter)" region="World"/>
-		<rom name="Dragon Quest V - The Hand of the Heavenly Bride (Subset - Goodies Globetrotter).nds" size="134217728" crc="54239728" md5="01df7039bd68fd58edf5965fab3e94d1" sha1="30bf09ba444f060336f713487c94a30ae3055368"/>
-		<url>https://retroachievements.org/game/28645/hashes</url>
-		<hash>17314f571d8e32ea0ae5203cbcc39e4d</hash>
-	</game>
-	
-	<game name="Dragon Quest V - The Hand of the Heavenly Bride (Subset - Treasures n' Trapdoors)">
-		<category>Subset</category>
-		<description>Dragon Quest V - The Hand of the Heavenly Bride (Subset - Treasures n' Trapdoors)</description>
-		<release name="Dragon Quest V - The Hand of the Heavenly Bride (Subset - Treasures n' Trapdoors)" region="World"/>
-		<rom name="Dragon Quest V - The Hand of the Heavenly Bride (Subset - Treasures n' Trapdoors).nds" size="134217728" crc="5df14f69" md5="64b5752457c0d98ce6229ff27965d7eb" sha1="bb902d2285d965ce8de2e65653a1d0d211e11586"/>
-		<url>https://retroachievements.org/game/28596/hashes</url>
-		<hash>b8b09fd28ba9371dab7a1f938ae04415</hash>
-	</game>
-	
 	<game name="Dragon Quest VI - Realms of Reverie (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<description>Dragon Quest VI - Realms of Reverie (Europe) (En,Fr,De,Es,It)</description>
@@ -2298,15 +2229,6 @@
 		<rom name="Dragon Quest VI - Realms of Revelation (USA) (En,Fr,Es).nds" size="134217728" crc="75085c1a" md5="f5dd2364b69034439f79245849bee633" sha1="015395649e69ea122a1ca79e108e386382360555"/>
 		<url>https://retroachievements.org/game/9823/hashes</url>
 		<hash>8613f81b394184859bb417b8502a0118</hash>
-	</game>
-	
-	<game name="Dragon Quest VI - Realms of Revelation (Subset - Rarity Run)">
-		<category>Subset</category>
-		<description>Dragon Quest VI - Realms of Revelation (Subset - Rarity Run)</description>
-		<release name="Dragon Quest VI - Realms of Revelation (Subset - Rarity Run)" region="World"/>
-		<rom name="Dragon Quest VI - Realms of Revelation (Subset - Rarity Run).nds" size="134217728" crc="a1dcd909" md5="6881dc08515d5cd1cee2ded866aea3f6" sha1="cb0839f709d334e9c25c22dd602fb3c2fe145865"/>
-		<url>https://retroachievements.org/game/25176/hashes</url>
-		<hash>5f3210ed19304343f15992e58a8b3591</hash>
 	</game>
 	
 	<game name="Drawn to Life (USA) (En,Fr)">
@@ -2901,47 +2823,6 @@
 		<hash>b1dad154ab63dcef7c946824e7e5161a</hash>
 	</game>
 	
-	<game name="Inazuma Eleven (Subset - 100% Player Recruitment)">
-		<category>Subset</category>
-		<description>Inazuma Eleven (Subset - 100% Player Recruitment)</description>
-		<release name="Inazuma Eleven (Subset - 100% Player Recruitment)" region="Europe"/>
-		<rom name="Inazuma Eleven (Subset - 100% Player Recruitment).nds" size="268435456" crc="7ef233d6" md5="873ce1dbd20673bdafc1c58ae6bd5c5b" sha1="29dc9fb6a3acd23994ce1520c44ed38a20b1ab40"/>
-		<url>https://retroachievements.org/game/33039/hashes</url>
-		<hash>b52079a5b9511815f7c71e0822eea4c3</hash>
-	</game>
-	<game name="Inazuma Eleven (France) (Subset - 100% Player Recruitment)" cloneof="Inazuma Eleven (Subset - 100% Player Recruitment)">
-		<category>Subset</category>
-		<description>Inazuma Eleven (France) (Subset - 100% Player Recruitment)</description>
-		<release name="Inazuma Eleven (France) (Subset - 100% Player Recruitment)" region="France"/>
-		<rom name="Inazuma Eleven (France) (Subset - 100% Player Recruitment).nds" size="268435456" crc="5590258a" md5="17d46b3dc3a7d89955635f5c7202adbd" sha1="3f1cd2b1d60d67b92db098317f663e6c1d7ec6cc"/>
-		<url>https://retroachievements.org/game/33039/hashes</url>
-		<hash>91ae7f675dd3f004603ee04c30ded6b4</hash>
-	</game>
-	<game name="Inazuma Eleven (Germany) (Subset - 100% Player Recruitment)" cloneof="Inazuma Eleven (Subset - 100% Player Recruitment)">
-		<category>Subset</category>
-		<description>Inazuma Eleven (Germany) (Subset - 100% Player Recruitment)</description>
-		<release name="Inazuma Eleven (Germany) (Subset - 100% Player Recruitment)" region="Germany"/>
-		<rom name="Inazuma Eleven (Germany) (Subset - 100% Player Recruitment).nds" size="268435456" crc="62d1ff49" md5="221d4d2d4d9bc6999afde4c55a009e37" sha1="dac35c30a24541a8789dfdfc805bfdb840f33f48"/>
-		<url>https://retroachievements.org/game/33039/hashes</url>
-		<hash>875709f9adcb0af90e88701de8d11cc7</hash>
-	</game>
-	<game name="Inazuma Eleven (Spain) (Subset - 100% Player Recruitment)" cloneof="Inazuma Eleven (Subset - 100% Player Recruitment)">
-		<category>Subset</category>
-		<description>Inazuma Eleven (Spain) (Subset - 100% Player Recruitment)</description>
-		<release name="Inazuma Eleven (Spain) (Subset - 100% Player Recruitment)" region="Spain"/>
-		<rom name="Inazuma Eleven (Spain) (Subset - 100% Player Recruitment).nds" size="268435456" crc="b42c459c" md5="dec2ccc5053cc4a93b4cdf0c1e889b39" sha1="4d345105f382a8bae6ddd315fe4dc1d17a8ca1a0"/>
-		<url>https://retroachievements.org/game/33039/hashes</url>
-		<hash>00ffce995bda9ac05d547031518336b3</hash>
-	</game>
-	<game name="Inazuma Eleven (Italy) (Subset - 100% Player Recruitment)" cloneof="Inazuma Eleven (Subset - 100% Player Recruitment)">
-		<category>Subset</category>
-		<description>Inazuma Eleven (Italy) (Subset - 100% Player Recruitment)</description>
-		<release name="Inazuma Eleven (Italy) (Subset - 100% Player Recruitment)" region="Italy"/>
-		<rom name="Inazuma Eleven (Italy) (Subset - 100% Player Recruitment).nds" size="268435456" crc="0f50f706" md5="62eb27476dfcb6fe2f74068479bda3a6" sha1="0582d206f8f9446b534cb09522f6015810d2941c"/>
-		<url>https://retroachievements.org/game/33039/hashes</url>
-		<hash>1f5c718b70a57b184141637324db3198</hash>
-	</game>
-	
 	<game name="Ivy the Kiwi (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<description>Ivy the Kiwi (Europe) (En,Fr,De,Es,It)</description>
@@ -3425,15 +3306,6 @@
 		<rom name="Mario &amp; Luigi - Partners in Time (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="3184fbc4" md5="f9e031c8d3aacea6306bbac41bf577f5" sha1="ba4ec2f99b4f2e0047601552bccf00aa73e28701"/>
 		<url>https://retroachievements.org/game/3118/hashes</url>
 		<hash>b8a0eb5290c19b5b5603c431f06608c4</hash>
-	</game>
-	
-	<game name="Mario &amp; Luigi - Partners in Time (Subset - Perfect Dodges)">
-		<category>Subset</category>
-		<description>Mario &amp; Luigi - Partners in Time (Subset - Perfect Dodges)</description>
-		<release name="Mario &amp; Luigi - Partners in Time (Subset - Perfect Dodges)" region="World"/>
-		<rom name="Mario &amp; Luigi - Partners in Time (Subset - Perfect Dodges).nds" size="67108864" crc="274fc3e6" md5="0de34bf829c5bb00c2d3482abee94878" sha1="22fd0c383391b32e66b6ef21e66b455cc15e8a23"/>
-		<url>https://retroachievements.org/game/32264/hashes</url>
-		<hash>4342d1a56045a83f471eb2f1d60dfc2f</hash>
 	</game>
 	
 	<game name="Mario &amp; Sonic at the Olympic Games (Europe) (En,Fr,De,Es,It)">
@@ -4621,58 +4493,58 @@
 		<hash>f87d7a0d85173d27ff7a61058b35e004</hash>
 	</game>
 	
-	<game name="Pokemon - Versione Oro HeartGold (Italy) (Subset - Professor Oak Challenge)" cloneof="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)">
-		<category>Subset</category>
-		<description>Pokemon - Versione Oro HeartGold (Italy) (Subset - Professor Oak Challenge)</description>
-		<release name="Pokemon - Versione Oro HeartGold (Italy) (Subset - Professor Oak Challenge)" region="Italy"/>
-		<rom name="Pokemon - Versione Oro HeartGold (Italy) (Subset - Professor Oak Challenge).nds" size="134217728" crc="bc3b359f" md5="fc69bcfb6804dc42c70023c5bb3ac4fe" sha1="8fa5218528d0a2ad7e99b2ab73562619fb656f2c"/>
+	<game name="Pokemon - Versione Oro HeartGold (Italy) (Specialty Subset - Professor Oak Challenge)" cloneof="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)">
+		<category>Specialty Subset</category>
+		<description>Pokemon - Versione Oro HeartGold (Italy) (Specialty Subset - Professor Oak Challenge)</description>
+		<release name="Pokemon - Versione Oro HeartGold (Italy) (Specialty Subset - Professor Oak Challenge)" region="Italy"/>
+		<rom name="Pokemon - Versione Oro HeartGold (Italy) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="bc3b359f" md5="fc69bcfb6804dc42c70023c5bb3ac4fe" sha1="8fa5218528d0a2ad7e99b2ab73562619fb656f2c"/>
 		<url>https://retroachievements.org/game/22862/hashes</url>
 		<hash>016dc43b77c62833f82f55a35afd1551</hash>
 	</game>
-	<game name="Pokemon - Goldene Edition HeartGold (Germany) (Subset - Professor Oak Challenge)" cloneof="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)">
-		<category>Subset</category>
-		<description>Pokemon - Goldene Edition HeartGold (Germany) (Subset - Professor Oak Challenge)</description>
-		<release name="Pokemon - Goldene Edition HeartGold (Germany) (Subset - Professor Oak Challenge)" region="Germany"/>
-		<rom name="Pokemon - Goldene Edition HeartGold (Germany) (Subset - Professor Oak Challenge).nds" size="134217728" crc="cba656a1" md5="568efd4d5772e036c6a5432f5763229e" sha1="cba0f089add4834cfc20a49172e9aec4c239269e"/>
+	<game name="Pokemon - Goldene Edition HeartGold (Germany) (Specialty Subset - Professor Oak Challenge)" cloneof="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)">
+		<category>Specialty Subset</category>
+		<description>Pokemon - Goldene Edition HeartGold (Germany) (Specialty Subset - Professor Oak Challenge)</description>
+		<release name="Pokemon - Goldene Edition HeartGold (Germany) (Specialty Subset - Professor Oak Challenge)" region="Germany"/>
+		<rom name="Pokemon - Goldene Edition HeartGold (Germany) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="cba656a1" md5="568efd4d5772e036c6a5432f5763229e" sha1="cba0f089add4834cfc20a49172e9aec4c239269e"/>
 		<url>https://retroachievements.org/game/22862/hashes</url>
 		<hash>343a8079b4c705c3bfb2ea51ea428d32</hash>
 	</game>
-	<game name="Pokemon - Version Or HeartGold (France) (Subset - Professor Oak Challenge)" cloneof="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)">
-		<category>Subset</category>
-		<description>Pokemon - Version Or HeartGold (France) (Subset - Professor Oak Challenge)</description>
-		<release name="Pokemon - Version Or HeartGold (France) (Subset - Professor Oak Challenge)" region="France"/>
-		<rom name="Pokemon - Version Or HeartGold (France) (Subset - Professor Oak Challenge).nds" size="134217728" crc="bfb659cf" md5="ca49d4f07191214f298e0cdb299ea201" sha1="0fbecea61b458d5e9365644442b7eece2d049bcd"/>
+	<game name="Pokemon - Version Or HeartGold (France) (Specialty Subset - Professor Oak Challenge)" cloneof="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)">
+		<category>Specialty Subset</category>
+		<description>Pokemon - Version Or HeartGold (France) (Specialty Subset - Professor Oak Challenge)</description>
+		<release name="Pokemon - Version Or HeartGold (France) (Specialty Subset - Professor Oak Challenge)" region="France"/>
+		<rom name="Pokemon - Version Or HeartGold (France) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="bfb659cf" md5="ca49d4f07191214f298e0cdb299ea201" sha1="0fbecea61b458d5e9365644442b7eece2d049bcd"/>
 		<url>https://retroachievements.org/game/22862/hashes</url>
 		<hash>3f1a1e43f92885622da94962d4a73c19</hash>
 	</game>
-	<game name="Pokemon - Edicion Oro HeartGold (Spain) (Subset - Professor Oak Challenge)" cloneof="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)">
-		<category>Subset</category>
-		<description>Pokemon - Edicion Oro HeartGold (Spain) (Subset - Professor Oak Challenge)</description>
-		<release name="Pokemon - Edicion Oro HeartGold (Spain) (Subset - Professor Oak Challenge)" region="Spain"/>
-		<rom name="Pokemon - Edicion Oro HeartGold (Spain) (Subset - Professor Oak Challenge).nds" size="134217728" crc="cf64070f" md5="1fff18fec71255503c636dde96daaf34" sha1="150732ecc042a49268588b90598681a3c72fc92c"/>
+	<game name="Pokemon - Edicion Oro HeartGold (Spain) (Specialty Subset - Professor Oak Challenge)" cloneof="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)">
+		<category>Specialty Subset</category>
+		<description>Pokemon - Edicion Oro HeartGold (Spain) (Specialty Subset - Professor Oak Challenge)</description>
+		<release name="Pokemon - Edicion Oro HeartGold (Spain) (Specialty Subset - Professor Oak Challenge)" region="Spain"/>
+		<rom name="Pokemon - Edicion Oro HeartGold (Spain) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="cf64070f" md5="1fff18fec71255503c636dde96daaf34" sha1="150732ecc042a49268588b90598681a3c72fc92c"/>
 		<url>https://retroachievements.org/game/22862/hashes</url>
 		<hash>712240d06706dee684aa593936245e25</hash>
 	</game>
-	<game name="Pokemon - HeartGold Version (Europe) (Subset - Professor Oak Challenge)" cloneof="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)">
-		<category>Subset</category>
-		<description>Pokemon - HeartGold Version (Europe) (Subset - Professor Oak Challenge)</description>
-		<release name="Pokemon - HeartGold Version (Europe) (Subset - Professor Oak Challenge)" region="Europe"/>
-		<rom name="Pokemon - HeartGold Version (Europe) (Subset - Professor Oak Challenge).nds" size="134217728" crc="2c131e38" md5="69e34e7c5a3b46e88a2f30ab0f0b9dc0" sha1="f084897f4e3e3d2732b52f7faaabe7784ecb8e97"/>
+	<game name="Pokemon - HeartGold Version (Europe) (Specialty Subset - Professor Oak Challenge)" cloneof="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)">
+		<category>Specialty Subset</category>
+		<description>Pokemon - HeartGold Version (Europe) (Specialty Subset - Professor Oak Challenge)</description>
+		<release name="Pokemon - HeartGold Version (Europe) (Specialty Subset - Professor Oak Challenge)" region="Europe"/>
+		<rom name="Pokemon - HeartGold Version (Europe) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="2c131e38" md5="69e34e7c5a3b46e88a2f30ab0f0b9dc0" sha1="f084897f4e3e3d2732b52f7faaabe7784ecb8e97"/>
 		<url>https://retroachievements.org/game/22862/hashes</url>
 		<hash>aa07fa8184c5ce3ffdc4ce41a34aca0d</hash>
 	</game>
-	<game name="Pokemon - HeartGold Version (USA) (Subset - Professor Oak Challenge)" cloneof="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)">
-		<category>Subset</category>
-		<description>Pokemon - HeartGold Version (USA) (Subset - Professor Oak Challenge)</description>
-		<rom name="Pokemon - HeartGold Version (USA) (Subset - Professor Oak Challenge).nds" size="134217728" crc="ed783999" md5="724a6564d97a50489c5e471f5b40e9e0" sha1="8e5f186f5831bc209641a319e8b15901f40c02fd"/>
+	<game name="Pokemon - HeartGold Version (USA) (Specialty Subset - Professor Oak Challenge)" cloneof="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)">
+		<category>Specialty Subset</category>
+		<description>Pokemon - HeartGold Version (USA) (Specialty Subset - Professor Oak Challenge)</description>
+		<rom name="Pokemon - HeartGold Version (USA) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="ed783999" md5="724a6564d97a50489c5e471f5b40e9e0" sha1="8e5f186f5831bc209641a319e8b15901f40c02fd"/>
 		<url>https://retroachievements.org/game/22862/hashes</url>
 		<hash>be7cd34905e43fa1163ddfe5128b3a1f</hash>
 	</game>
-	<game name="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)">
-		<category>Subset</category>
-		<description>Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)</description>
-		<release name="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)" region="USA"/>
-		<rom name="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge).nds" size="134217728" crc="ea13253d" md5="b4b0fe88fbc2b36e206ee510bd8c757a" sha1="26c4a3144a957a046b16bce84768766e8d76f6f7"/>
+	<game name="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)">
+		<category>Specialty Subset</category>
+		<description>Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)</description>
+		<release name="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)" region="USA"/>
+		<rom name="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="ea13253d" md5="b4b0fe88fbc2b36e206ee510bd8c757a" sha1="26c4a3144a957a046b16bce84768766e8d76f6f7"/>
 		<url>https://retroachievements.org/game/22862/hashes</url>
 		<hash>b52b9ee675d0dc91dc2f52ef470bcdf8</hash>
 	</game>
@@ -4877,24 +4749,6 @@
 		<hash>c8824fdcd12fd53947a6d37a1569a492</hash>
 	</game>
 	
-	<game name="Pokemon - Pearl Version (Subset - League Stars)">
-		<category>Subset</category>
-		<description>Pokemon - Pearl Version (Subset - League Stars)</description>
-		<release name="Pokemon - Pearl Version (Subset - League Stars)" region="World"/>
-		<rom name="Pokemon - Pearl Version (Subset - League Stars).nds" size="67108864" crc="e8235eda" md5="5159f69c60a5699022203502d454a6ba" sha1="f80892d9eceadf2627e9723b5dd90da294d3c605"/>
-		<url>https://retroachievements.org/game/30252/hashes</url>
-		<hash>b889c127bc441b9a5dec057266eec3e5</hash>
-	</game>
-	
-	<game name="Pokemon - Pearl Version (Subset - Professor Oak Challenge)">
-		<category>Subset</category>
-		<description>Pokemon - Pearl Version (Subset - Professor Oak Challenge)</description>
-		<release name="Pokemon - Pearl Version (Subset - Professor Oak Challenge)" region="World"/>
-		<rom name="Pokemon - Pearl Version (Subset - Professor Oak Challenge).nds" size="67108864" crc="255b60b6" md5="9e57f170bddea0b243fa6d4ea1dcdf24" sha1="8bfa537f1ff27eaec3f9f88328bcaae071d16d91"/>
-		<url>https://retroachievements.org/game/29666/hashes</url>
-		<hash>78a72dd39b95f1c532f3c9f0004d7529</hash>
-	</game>
-	
 	<game name="Pokemon - Platinum Version (USA)" cloneof="Pokemon - Platinum Version (USA) (Rev 1) (Speedup, Uncapped FPS)">
 		<category>Retail</category>
 		<description>Pokemon - Platinum Version (USA)</description>
@@ -4988,50 +4842,50 @@
 		<hash>26ca96f719ec88e9ea90191e386df889</hash>
 	</game>
 	
-	<game name="Pokemon - SoulSilver Version (USA) (Subset - Professor Oak Challenge)" cloneof="Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)">
-		<category>Subset</category>
-		<description>Pokemon - SoulSilver Version (USA) (Subset - Professor Oak Challenge)</description>
-		<rom name="Pokemon - SoulSilver Version (USA) (Subset - Professor Oak Challenge).nds" size="134217728" crc="d0798f97" md5="324b371ff78b76829d1100cb1eab5cae" sha1="a9a5e3448ce191aa807c4c0964d4a9f83ba76daa"/>
+	<game name="Pokemon - SoulSilver Version (USA) (Specialty Subset - Professor Oak Challenge)" cloneof="Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)">
+		<category>Specialty Subset</category>
+		<description>Pokemon - SoulSilver Version (USA) (Specialty Subset - Professor Oak Challenge)</description>
+		<rom name="Pokemon - SoulSilver Version (USA) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="d0798f97" md5="324b371ff78b76829d1100cb1eab5cae" sha1="a9a5e3448ce191aa807c4c0964d4a9f83ba76daa"/>
 		<url>https://retroachievements.org/game/22693/hashes</url>
 		<hash>20c27f49fc308721cd22c66a96abb3b2</hash>
 	</game>
-	<game name="Pokemon - Silberne Edition SoulSilver (Germany) (Subset - Professor Oak Challenge)" cloneof="Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)">
-		<category>Subset</category>
-		<description>Pokemon - Silberne Edition SoulSilver (Germany) (Subset - Professor Oak Challenge)</description>
-		<release name="Pokemon - Silberne Edition SoulSilver (Germany) (Subset - Professor Oak Challenge)" region="Germany"/>
-		<rom name="Pokemon - Silberne Edition SoulSilver (Germany) (Subset - Professor Oak Challenge).nds" size="134217728" crc="9c774ab2" md5="7bb1a1fa06d7e9bcacb19d704f9e9395" sha1="2d0883d2d0c82589e430473d34c8b11cfdf4f9a5"/>
+	<game name="Pokemon - Silberne Edition SoulSilver (Germany) (Specialty Subset - Professor Oak Challenge)" cloneof="Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)">
+		<category>Specialty Subset</category>
+		<description>Pokemon - Silberne Edition SoulSilver (Germany) (Specialty Subset - Professor Oak Challenge)</description>
+		<release name="Pokemon - Silberne Edition SoulSilver (Germany) (Specialty Subset - Professor Oak Challenge)" region="Germany"/>
+		<rom name="Pokemon - Silberne Edition SoulSilver (Germany) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="9c774ab2" md5="7bb1a1fa06d7e9bcacb19d704f9e9395" sha1="2d0883d2d0c82589e430473d34c8b11cfdf4f9a5"/>
 		<url>https://retroachievements.org/game/22693/hashes</url>
 		<hash>3f2a2fd7612c0ae15f19448890ecff4b</hash>
 	</game>
-	<game name="Pokemon - Versione Argento SoulSilver (Italy) (Subset - Professor Oak Challenge)" cloneof="Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)">
-		<category>Subset</category>
-		<description>Pokemon - Versione Argento SoulSilver (Italy) (Subset - Professor Oak Challenge)</description>
-		<release name="Pokemon - Versione Argento SoulSilver (Italy) (Subset - Professor Oak Challenge)" region="Italy"/>
-		<rom name="Pokemon - Versione Argento SoulSilver (Italy) (Subset - Professor Oak Challenge).nds" size="134217728" crc="08d24161" md5="05e355af2d57b79c1218cbbb7069ec85" sha1="8084bc0a94563cb331ab9f20e6f99dafb5013b20"/>
+	<game name="Pokemon - Versione Argento SoulSilver (Italy) (Specialty Subset - Professor Oak Challenge)" cloneof="Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)">
+		<category>Specialty Subset</category>
+		<description>Pokemon - Versione Argento SoulSilver (Italy) (Specialty Subset - Professor Oak Challenge)</description>
+		<release name="Pokemon - Versione Argento SoulSilver (Italy) (Specialty Subset - Professor Oak Challenge)" region="Italy"/>
+		<rom name="Pokemon - Versione Argento SoulSilver (Italy) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="08d24161" md5="05e355af2d57b79c1218cbbb7069ec85" sha1="8084bc0a94563cb331ab9f20e6f99dafb5013b20"/>
 		<url>https://retroachievements.org/game/22693/hashes</url>
 		<hash>47c4d95a7db0dd6d9c651d1f5f27d17a</hash>
 	</game>
-	<game name="Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)">
-		<category>Subset</category>
-		<description>Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)</description>
-		<release name="Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)" region="USA"/>
-		<rom name="Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge).nds" size="134217728" crc="37c384cf" md5="9b1dcd60a6e8c288d26c2a153e8a9217" sha1="05dcb69f22e8b53ca7d8ca6f7c57f0cb3133e2ae"/>
+	<game name="Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)">
+		<category>Specialty Subset</category>
+		<description>Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)</description>
+		<release name="Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)" region="USA"/>
+		<rom name="Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="37c384cf" md5="9b1dcd60a6e8c288d26c2a153e8a9217" sha1="05dcb69f22e8b53ca7d8ca6f7c57f0cb3133e2ae"/>
 		<url>https://retroachievements.org/game/22693/hashes</url>
 		<hash>9d687f3b51c69fed62c5d56e4156f3c5</hash>
 	</game>
-	<game name="Pokemon - Version Argent SoulSilver (France) (Subset - Professor Oak Challenge)" cloneof="Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)">
-		<category>Subset</category>
-		<description>Pokemon - Version Argent SoulSilver (France) (Subset - Professor Oak Challenge)</description>
-		<release name="Pokemon - Version Argent SoulSilver (France) (Subset - Professor Oak Challenge)" region="France"/>
-		<rom name="Pokemon - Version Argent SoulSilver (France) (Subset - Professor Oak Challenge).nds" size="134217728" crc="3e434a3e" md5="6fc8d08fd2e636b31e060bfb9d615268" sha1="68cdd858c4e26078067e38579882461b0f0b77e2"/>
+	<game name="Pokemon - Version Argent SoulSilver (France) (Specialty Subset - Professor Oak Challenge)" cloneof="Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)">
+		<category>Specialty Subset</category>
+		<description>Pokemon - Version Argent SoulSilver (France) (Specialty Subset - Professor Oak Challenge)</description>
+		<release name="Pokemon - Version Argent SoulSilver (France) (Specialty Subset - Professor Oak Challenge)" region="France"/>
+		<rom name="Pokemon - Version Argent SoulSilver (France) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="3e434a3e" md5="6fc8d08fd2e636b31e060bfb9d615268" sha1="68cdd858c4e26078067e38579882461b0f0b77e2"/>
 		<url>https://retroachievements.org/game/22693/hashes</url>
 		<hash>b8d2f18999bb0aa16b617717106b7500</hash>
 	</game>
-	<game name="Pokemon - SoulSilver Version (Europe) (Subset - Professor Oak Challenge)" cloneof="Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Subset - Professor Oak Challenge)">
-		<category>Subset</category>
-		<description>Pokemon - SoulSilver Version (Europe) (Subset - Professor Oak Challenge)</description>
-		<release name="Pokemon - SoulSilver Version (Europe) (Subset - Professor Oak Challenge)" region="Europe"/>
-		<rom name="Pokemon - SoulSilver Version (Europe) (Subset - Professor Oak Challenge).nds" size="134217728" crc="9e1f310f" md5="5b9454267c031a4d393c3f771ae68c09" sha1="cb5766425d8a14c87162d711ac22d5cfa5f22f43"/>
+	<game name="Pokemon - SoulSilver Version (Europe) (Specialty Subset - Professor Oak Challenge)" cloneof="Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)">
+		<category>Specialty Subset</category>
+		<description>Pokemon - SoulSilver Version (Europe) (Specialty Subset - Professor Oak Challenge)</description>
+		<release name="Pokemon - SoulSilver Version (Europe) (Specialty Subset - Professor Oak Challenge)" region="Europe"/>
+		<rom name="Pokemon - SoulSilver Version (Europe) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="9e1f310f" md5="5b9454267c031a4d393c3f771ae68c09" sha1="cb5766425d8a14c87162d711ac22d5cfa5f22f43"/>
 		<url>https://retroachievements.org/game/22693/hashes</url>
 		<hash>ceda2e8fd9288ca2184a613b9da236c4</hash>
 	</game>
@@ -5055,15 +4909,6 @@
 		<hash>5f0f5a0d59f52da2ae03c50736a1dc5d</hash>
 	</game>
 	
-	<game name="Pokemon - White Version (Subset - Professor Oak Challenge)">
-		<category>Subset</category>
-		<description>Pokemon - White Version (Subset - Professor Oak Challenge)</description>
-		<release name="Pokemon - White Version (Subset - Professor Oak Challenge)" region="World"/>
-		<rom name="Pokemon - White Version (Subset - Professor Oak Challenge).nds" size="268435456" crc="71013194" md5="77a7a2f384fed8274674d2005d65e38d" sha1="a49d101f4355f6bb73d91511c3a6185fdb6c8dd7"/>
-		<url>https://retroachievements.org/game/25050/hashes</url>
-		<hash>2b9077dad20233d9067e1b7598cc9c8a</hash>
-	</game>
-	
 	<game name="Pokemon - White Version 2 (USA, Europe) (NDSi Enhanced)">
 		<category>Retail</category>
 		<description>Pokemon - White Version 2 (USA, Europe) (NDSi Enhanced)</description>
@@ -5081,31 +4926,13 @@
 		<hash>85f54f655e1b82f79984c4df3b35fcc9</hash>
 	</game>
 	
-	<game name="Pokemon - White Version 2 (Subset - Completionist)">
-		<category>Subset</category>
-		<description>Pokemon - White Version 2 (Subset - Completionist)</description>
-		<release name="Pokemon - White Version 2 (Subset - Completionist)" region="World"/>
-		<rom name="Pokemon - White Version 2 (Subset - Completionist).nds" size="536870912" crc="9f68a6ba" md5="2d8adf3f2b648f178ebb62d26bfec30e" sha1="5b7d0100db67ae815ed91ed87356e5be06c16039"/>
-		<url>https://retroachievements.org/game/34046/hashes</url>
-		<hash>a58d1a7d1c23e6f2622437856cb36920</hash>
-	</game>
-	
-	<game name="Pokemon - White Version 2 (Subset - Challenge Mode)">
-		<category>Subset</category>
-		<description>Pokemon - White Version 2 (Subset - Challenge Mode)</description>
-		<release name="Pokemon - White Version 2 (Subset - Challenge Mode)" region="World"/>
-		<rom name="Pokemon - White Version 2 (Subset - Challenge Mode).nds" size="287462100" crc="f9f75eb0" md5="77c8fbc95be622fdaae168c8bdbf9941" sha1="c06f7d2f31b13d188249d2c646df0b5e4cdd7375"/>
+	<game name="Pokemon - White Version 2 (Exclusive Subset - Challenge Mode)">
+		<category>Exclusive Subset</category>
+		<description>Pokemon - White Version 2 (Exclusive Subset - Challenge Mode)</description>
+		<release name="Pokemon - White Version 2 (Exclusive Subset - Challenge Mode)" region="World"/>
+		<rom name="Pokemon - White Version 2 (Exclusive Subset - Challenge Mode).nds" size="287462100" crc="f9f75eb0" md5="77c8fbc95be622fdaae168c8bdbf9941" sha1="c06f7d2f31b13d188249d2c646df0b5e4cdd7375"/>
 		<url>https://retroachievements.org/game/24180/hashes</url>
 		<hash>98041b23fbea01bed90e960fce246011</hash>
-	</game>
-	
-	<game name="Pokemon White Version 2 (Subset - Professor Oak Challenge)">
-		<category>Subset</category>
-		<description>Pokemon White Version 2 (Subset - Professor Oak Challenge)</description>
-		<release name="Pokemon White Version 2 (Subset - Professor Oak Challenge)" region="World"/>
-		<rom name="Pokemon White Version 2 (Subset - Professor Oak Challenge).nds" size="536870912" crc="8839bb28" md5="344ca6525537d716276d3229752baa60" sha1="039292c47baae790733a002cb8e944f1857de017"/>
-		<url>https://retroachievements.org/game/18178/hashes</url>
-		<hash>03acaa361ab06a6c997f56a8e8319888</hash>
 	</game>
 	
 	<game name="Polar Bowler (USA)">
@@ -5268,55 +5095,6 @@
 		<rom name="Professor Layton en de Melodie van het Spook (Netherlands).nds" size="268435456" crc="ab14db24" md5="0c7852dff83c26c550e41fc3c91bd291" sha1="96aaf61e908f93c1331e01b1462fdec4f3522d6a"/>
 		<url>https://retroachievements.org/game/7601/hashes</url>
 		<hash>ad507fe8c4ca5c64a0e0e751bdf547c3</hash>
-	</game>
-	
-	<game name="Professor Layton and the Spectre's Call (Subset - Mouse Alley)">
-		<category>Subset</category>
-		<description>Professor Layton and the Spectre's Call (Subset - Mouse Alley)</description>
-		<release name="Professor Layton and the Spectre's Call (Subset - Mouse Alley)" region="Europe"/>
-		<rom name="Professor Layton and the Spectre's Call (Subset - Mouse Alley).nds" size="268435456" crc="634bc6b1" md5="261e5656ad4807cd542896da02011fb4" sha1="6fc5588745a23ae819e4c6db53182d88c81d3bd0"/>
-		<url>https://retroachievements.org/game/25709/hashes</url>
-		<hash>a80f08075580b286d0a9c4bc74374229</hash>
-	</game>
-	<game name="Professor Layton and the Spectre's Call (Spain) (Subset - Mouse Alley)" cloneof="Professor Layton and the Spectre's Call (Subset - Mouse Alley)">
-		<category>Subset</category>
-		<description>Professor Layton and the Spectre's Call (Spain) (Subset - Mouse Alley)</description>
-		<release name="Professor Layton and the Spectre's Call (Spain) (Subset - Mouse Alley)" region="Spain"/>
-		<rom name="Professor Layton and the Spectre's Call (Spain) (Subset - Mouse Alley).nds" size="268435456" crc="d5393633" md5="62217ef28f8a492b03dab03d8a966963" sha1="b0cba97838e19bede40fa57b7284d464ed6ec82a"/>
-		<url>https://retroachievements.org/game/25709/hashes</url>
-		<hash>e6f72d9c753395bcb7049e2240ea6713</hash>
-	</game>
-	<game name="Professor Layton and the Spectre's Call (Italy) (Subset - Mouse Alley)" cloneof="Professor Layton and the Spectre's Call (Subset - Mouse Alley)">
-		<category>Subset</category>
-		<description>Professor Layton and the Spectre's Call (Italy) (Subset - Mouse Alley)</description>
-		<release name="Professor Layton and the Spectre's Call (Italy) (Subset - Mouse Alley)" region="Italy"/>
-		<rom name="Professor Layton and the Spectre's Call (Italy) (Subset - Mouse Alley).nds" size="268435456" crc="134b3dde" md5="9f8fe34a8dfae1abac4369009b50ac65" sha1="3f402228de678759e50b26b2daed0c580183263c"/>
-		<url>https://retroachievements.org/game/25709/hashes</url>
-		<hash>103bd20f858b8396f98341801cc2624b</hash>
-	</game>
-	<game name="Professor Layton and the Spectre's Call (Germany) (Subset - Mouse Alley)" cloneof="Professor Layton and the Spectre's Call (Subset - Mouse Alley)">
-		<category>Subset</category>
-		<description>Professor Layton and the Spectre's Call (Germany) (Subset - Mouse Alley)</description>
-		<release name="Professor Layton and the Spectre's Call (Germany) (Subset - Mouse Alley)" region="Germany"/>
-		<rom name="Professor Layton and the Spectre's Call (Germany) (Subset - Mouse Alley).nds" size="268435456" crc="dfe47bc4" md5="50cc2607649827ed351e0ccece7a55ca" sha1="d1b19249bc40f95726f9cfd6c3dbfe723c62f6a3"/>
-		<url>https://retroachievements.org/game/25709/hashes</url>
-		<hash>e8657f46befd818f2d5a821c3f645594</hash>
-	</game>
-	<game name="Professor Layton and the Spectre's Call (Netherlands) (Subset - Mouse Alley)" cloneof="Professor Layton and the Spectre's Call (Subset - Mouse Alley)">
-		<category>Subset</category>
-		<description>Professor Layton and the Spectre's Call (Netherlands) (Subset - Mouse Alley)</description>
-		<release name="Professor Layton and the Spectre's Call (Netherlands) (Subset - Mouse Alley)" region="Netherlands"/>
-		<rom name="Professor Layton and the Spectre's Call (Netherlands) (Subset - Mouse Alley).nds" size="268435456" crc="66152240" md5="2d45aae132f630d7a9e68655598016b0" sha1="cf70959902c29436c9211caafbebd2943394c132"/>
-		<url>https://retroachievements.org/game/25709/hashes</url>
-		<hash>26fb2b950cc65db3ad363fdc00a5e08f</hash>
-	</game>
-	<game name="Professor Layton and the Spectre's Call (France) (Subset - Mouse Alley)" cloneof="Professor Layton and the Spectre's Call (Subset - Mouse Alley)">
-		<category>Subset</category>
-		<description>Professor Layton and the Spectre's Call (France) (Subset - Mouse Alley)</description>
-		<release name="Professor Layton and the Spectre's Call (France) (Subset - Mouse Alley)" region="France"/>
-		<rom name="Professor Layton and the Spectre's Call (France) (Subset - Mouse Alley).nds" size="268435456" crc="d17007ac" md5="2a7a6dd36671532b890235ed8a888ac5" sha1="9a08fffe17a279757733455cb0dc12b3bbf8285b"/>
-		<url>https://retroachievements.org/game/25709/hashes</url>
-		<hash>1423372e23a603361e528150a6e41313</hash>
 	</game>
 	
 	<game name="Professor Layton und die Verlorene Zukunft (Germany)" cloneof="Professor Layton and the Lost Future (Europe)">

@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation</name>
 		<description>Sony Playstation</description>
 		<category>No Subfolders</category>
-		<version>20260116</version>
-		<date>16 January 2026</date>
+		<version>20260117</version>
+		<date>17 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -2108,15 +2108,6 @@
 		<hash>8209150e48e8f9f0e727347472c7e123</hash>
 	</machine>
 	
-	<machine name="Crash Bandicoot 3 Warped (Subset - Developer Times)">
-		<category>Subset</category>
-		<description>Crash Bandicoot 3 Warped (Subset - Developer Times)</description>
-		<release name="Crash Bandicoot 3 Warped (Subset - Developer Times)" region="World"/>
-		<disk name="Crash Bandicoot 3 Warped (Subset - Developer Times).chd" sha1="2f8a80ec3837e236f3c224960545c7c44eace0ef"/>
-		<url>https://retroachievements.org/game/21740/hashes</url>
-		<hash>b5d93804305630d3c5cf648df652514c</hash>
-	</machine>
-	
 	<machine name="Crash Bash (USA) (Menu Glitch Fix) (v1.0) (manakoDE)">
 		<category>Retail</category>
 		<description>Crash Bash (USA) (Menu Glitch Fix) (v1.0) (manakoDE)</description>
@@ -3944,15 +3935,6 @@
 		<disk name="Irritating Stick (USA).chd" sha1="9289c8dabe05a5b590aea9a82a32324b8895525c"/>
 		<url>https://retroachievements.org/game/8929/hashes</url>
 		<hash>7b2a12c096662d1c43bddcbe182b687c</hash>
-	</machine>
-	
-	<machine name="Irritating Stick (Subset - IrRAtating Custom Courses)">
-		<category>Subset</category>
-		<description>Irritating Stick (Subset - IrRAtating Custom Courses)</description>
-		<release name="Irritating Stick (Subset - IrRAtating Custom Courses)" region="World"/>
-		<disk name="Irritating Stick (Subset - IrRAtating Custom Courses).chd" sha1="5f503b45ef14a67d483cac3e08f03cb1d9a6985f"/>
-		<url>https://retroachievements.org/game/20084/hashes</url>
-		<hash>cedd39df07cf42d53b4acc34f8cf262b</hash>
 	</machine>
 	
 	<machine name="iS - Internal Section (Japan)">
@@ -6295,15 +6277,6 @@
 		<hash>9579538f0770e34c9d49c348e4cef267</hash>
 	</machine>
 	
-	<machine name="Racing Lagoon (Subset - Gearhead)">
-		<category>Subset</category>
-		<description>Racing Lagoon (Subset - Gearhead)</description>
-		<release name="Racing Lagoon (Subset - Gearhead)" region="World"/>
-		<disk name="Racing Lagoon (Subset - Gearhead).chd" sha1="fd9e57c5944f93c8c0cf7a7063e9aa0a84e9577f"/>
-		<url>https://retroachievements.org/game/34300/hashes</url>
-		<hash>bda3e35bb2f45569db7c05ef01902e7b</hash>
-	</machine>
-	
 	<machine name="Rage Racer (USA)">
 		<category>Retail</category>
 		<description>Rage Racer (USA)</description>
@@ -8213,15 +8186,6 @@
 		<hash>9896c99525e761d54ebc214b5b9c3df4</hash>
 	</machine>
 	
-	<machine name="Walt Disney's The Jungle Book - Rhythm n' Groove (Subset - Crazy Perfect Full Clear)">
-		<category>Subset</category>
-		<description>Walt Disney's The Jungle Book - Rhythm n' Groove (Subset - Crazy Perfect Full Clear)</description>
-		<release name="Walt Disney's The Jungle Book - Rhythm n' Groove (Subset - Crazy Perfect Full Clear)" region="World"/>
-		<disk name="Walt Disney's The Jungle Book - Rhythm n' Groove (Subset - Crazy Perfect Full Clear).chd" sha1="7d0ca70f35b794144bc8773ba1d8169e58c4594c"/>
-		<url>https://retroachievements.org/game/34501/hashes</url>
-		<hash>bf0f77301387212379f7182a343589b7</hash>
-	</machine>
-	
 	<machine name="King of Fighters '97, The (Japan)">
 		<category>Retail</category>
 		<description>King of Fighters '97, The (Japan)</description>
@@ -8609,15 +8573,6 @@
 		<disk name="Tony Hawk's Pro Skater 3 (USA).chd" sha1="5f685223e55e26407c2b8d3aabff546860a3d21b"/>
 		<url>https://retroachievements.org/game/11364/hashes</url>
 		<hash>2179b75dda735509ab4f34da438c372b</hash>
-	</machine>
-	
-	<machine name="Tony Hawk's Pro Skater 3 (Subset - Single Run)">
-		<category>Subset</category>
-		<description>Tony Hawk's Pro Skater 3 (Subset - Single Run)</description>
-		<release name="Tony Hawk's Pro Skater 3 (Subset - Single Run)" region="World"/>
-		<disk name="Tony Hawk's Pro Skater 3 (Subset - Single Run).chd" sha1="52213afd10966cbac4d3a097784c3ee18964fd65"/>
-		<url>https://retroachievements.org/game/21364/hashes</url>
-		<hash>986f492f3968dcc4df12533b8fe5029e</hash>
 	</machine>
 	
 	<machine name="Tony Hawk's Pro Skater 4 (USA)">

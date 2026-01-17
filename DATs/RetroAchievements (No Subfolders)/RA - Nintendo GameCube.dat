@@ -5,8 +5,8 @@
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
 		<category>No Subfolders</category>
-		<version>20260116</version>
-		<date>16 January 2026</date>
+		<version>20260117</version>
+		<date>17 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/16/games</url>
@@ -283,15 +283,6 @@
 		<rom name="Animal Crossing (USA).rvz" size="19459780" crc="3d2c015c" md5="973e1c4382477447b25236f29dd7520b" sha1="afbecd0e64a64afa7b36eda5a0208325c469504d"/>
 		<url>https://retroachievements.org/game/2901/hashes</url>
 		<hash>4f69c7886162509baa0882062bb2e1c8</hash>
-	</game>
-	
-	<game name="Animal Crossing (Subset - Bellionaire)">
-		<category>Subset</category>
-		<description>Animal Crossing (Subset - Bellionaire)</description>
-		<release name="Animal Crossing (Subset - Bellionaire)" region="World"/>
-		<rom name="Animal Crossing (Subset - Bellionaire).rvz" size="19459784" crc="e21cbc1e" md5="79604291a1c4ab3a8736a71d2c4aeca5" sha1="299d36f6c2dbcd2e640b57c24db3a6b8b15a31f9"/>
-		<url>https://retroachievements.org/game/30193/hashes</url>
-		<hash>0f69a589b680cee8c997b190271dc484</hash>
 	</game>
 	
 	<game name="Aquaman - Battle for Atlantis (USA)">
@@ -717,22 +708,13 @@
 		<hash>d0f0868bf8bf546126cf74b5a4e92a94</hash>
 	</game>
 	
-	<game name="Final Fantasy Crystal Chronicles (Subset - Multi)">
-		<category>Subset</category>
-		<description>Final Fantasy Crystal Chronicles (Subset - Multi)</description>
-		<release name="Final Fantasy Crystal Chronicles (Subset - Multi)" region="World"/>
-		<rom name="Final Fantasy Crystal Chronicles (Subset - Multi).rvz" size="789150728" crc="88f04381" md5="2a282770631dc92fb9fc463b306357f4" sha1="2ff8915f6a4c962a24e08dde2801e567396080cb"/>
+	<game name="Final Fantasy Crystal Chronicles (Exclusive Subset - Multi)">
+		<category>Exclusive Subset</category>
+		<description>Final Fantasy Crystal Chronicles (Exclusive Subset - Multi)</description>
+		<release name="Final Fantasy Crystal Chronicles (Exclusive Subset - Multi)" region="World"/>
+		<rom name="Final Fantasy Crystal Chronicles (Exclusive Subset - Multi).rvz" size="789150728" crc="88f04381" md5="2a282770631dc92fb9fc463b306357f4" sha1="2ff8915f6a4c962a24e08dde2801e567396080cb"/>
 		<url>https://retroachievements.org/game/28644/hashes</url>
 		<hash>02734d8c9a7562bb48fd99e81b9415d6</hash>
-	</game>
-	
-	<game name="Final Fantasy Crystal Chronicles (Subset - Rare Drops &amp; Crafts)">
-		<category>Subset</category>
-		<description>Final Fantasy Crystal Chronicles (Subset - Rare Drops &amp; Crafts)</description>
-		<release name="Final Fantasy Crystal Chronicles (Subset - Rare Drops &amp; Crafts)" region="World"/>
-		<rom name="Final Fantasy Crystal Chronicles (Subset - Rare Drops &amp; Crafts).rvz" size="789150728" crc="7a684a98" md5="daebe2a36baf43570682fb6103a22ef6" sha1="e92fef46002b99762d3ac4e651adce8786cc6de0"/>
-		<url>https://retroachievements.org/game/28855/hashes</url>
-		<hash>916c5a028fec463862383480a34208d3</hash>
 	</game>
 	
 	<game name="Fire Emblem - Path of Radiance (USA)">
@@ -1033,15 +1015,6 @@
 		<rom name="Mario Party 5 (USA).rvz" size="902293212" crc="4c6be4ff" md5="29e59aa8ca5304c3bb3c7a77f1fd01af" sha1="728b7f7bef3acc6595a483854c6abaab219d3215"/>
 		<url>https://retroachievements.org/game/25451/hashes</url>
 		<hash>de557373807ad6ec46691878ba51b66e</hash>
-	</game>
-	
-	<game name="Mario Party 5 (Subset - Multi)">
-		<category>Subset</category>
-		<description>Mario Party 5 (Subset - Multi)</description>
-		<release name="Mario Party 5 (Subset - Multi)" region="World"/>
-		<rom name="Mario Party 5 (Subset - Multi).rvz" size="902293216" crc="ad0c28f6" md5="feb464bf72d5f8b3ff34f75c28448120" sha1="f9ee7b8eccf9d77bcb736c7c0cc80e18f71e4669"/>
-		<url>https://retroachievements.org/game/30135/hashes</url>
-		<hash>6813a3685343c5eddb909649ed44ebb3</hash>
 	</game>
 	
 	<game name="Mario Party 6 (USA)">
@@ -1348,15 +1321,6 @@
 		<hash>7d18357b73109df6c37fecac69f97a91</hash>
 	</game>
 	
-	<game name="Phantasy Star Online Episode I &amp; II Plus (Subset - Grind)">
-		<category>Subset</category>
-		<description>Phantasy Star Online Episode I &amp; II Plus (Subset - Grind)</description>
-		<release name="Phantasy Star Online Episode I &amp; II Plus (Subset - Grind)" region="World"/>
-		<rom name="Phantasy Star Online Episode I &amp; II Plus (Subset - Grind).rvz" size="1088899048" crc="f9bf46f3" md5="7a35d44842265c93c604528a4b161e3e" sha1="8bf6009fffe5be4bb509134110680c7a1333e2d3"/>
-		<url>https://retroachievements.org/game/28660/hashes</url>
-		<hash>d833e34cbbb9f631b601a4ea1e4ff41a</hash>
-	</game>
-	
 	<game name="Disney's Piglet's Big Game (USA)">
 		<category>Retail</category>
 		<description>Disney's Piglet's Big Game (USA)</description>
@@ -1452,15 +1416,6 @@
 		<rom name="Pokemon Colosseum (USA).rvz" size="576136444" crc="a88bbbdf" md5="f100baa81eb81cc0751cdf8d6cf0fd0f" sha1="997482ae7bd07858d93673dfc2611fcc6b3859f1"/>
 		<url>https://retroachievements.org/game/7423/hashes</url>
 		<hash>d38a3d49467f2271f8106ba340fc5b56</hash>
-	</game>
-	
-	<game name="Pokemon Colosseum (Subset - Espeon &amp; Umbreon)">
-		<category>Subset</category>
-		<description>Pokemon Colosseum (Subset - Espeon &amp; Umbreon)</description>
-		<release name="Pokemon Colosseum (Subset - Espeon &amp; Umbreon)" region="World"/>
-		<rom name="Pokemon Colosseum (Subset - Espeon &amp; Umbreon).rvz" size="576136444" crc="56ac39b5" md5="e1d12c577fc90b16184e26104d7421d7" sha1="9e4db481f1807f89fa686b49e3c54106439774ab"/>
-		<url>https://retroachievements.org/game/28797/hashes</url>
-		<hash>787df500bb8651e3cc411738b656b538</hash>
 	</game>
 	
 	<game name="Pokemon XD - Gale of Darkness (Europe) (En,Fr,De,Es,It)">
@@ -1676,22 +1631,6 @@
 		<rom name="Shadow the Hedgehog (Europe) (Widescreen) (v1.0) (dreamsyntax).rvz" size="1168085704" crc="083b0c6e" md5="12e0601608edbe100250c9ff205b030f" sha1="c4b5351bcf1fe402aaed4c4dd0bc72f032f5a60c"/>
 		<url>https://retroachievements.org/game/6354/hashes</url>
 		<hash>9c6dd8e6983710e70f0691fa5a45d076</hash>
-	</game>
-	
-	<game name="Shadow the Hedgehog (Subset - 326 Endings)">
-		<category>Subset</category>
-		<description>Shadow the Hedgehog (Subset - 326 Endings)</description>
-		<rom name="Shadow the Hedgehog (Subset - 326 Endings).rvz" size="1154762332" crc="ce45b236" md5="af0b2b0010a903eba4f26890862c83af" sha1="2b553014e401efc34b90d2fcce93bad8cf882fe9"/>
-		<url>https://retroachievements.org/game/33041/hashes</url>
-		<hash>00537ed1b0057f837f2018eb3699a1fd</hash>
-	</game>
-	<game name="Shadow the Hedgehog (Europe) (Widescreen) (v1.0) (dreamsyntax) (Subset - 326 Endings)" cloneof="Shadow the Hedgehog (Subset - 326 Endings)">
-		<category>Subset</category>
-		<description>Shadow the Hedgehog (Europe) (Widescreen) (v1.0) (dreamsyntax) (Subset - 326 Endings)</description>
-		<release name="Shadow the Hedgehog (Europe) (Widescreen) (v1.0) (dreamsyntax) (Subset - 326 Endings)" region="Europe"/>
-		<rom name="Shadow the Hedgehog (Europe) (Widescreen) (v1.0) (dreamsyntax) (Subset - 326 Endings).rvz" size="1144801696" crc="b679e57f" md5="39627316857c052ce9ea2a98628eb77e" sha1="5602c572a5ed8768399275eb99c8f044c077f0d2"/>
-		<url>https://retroachievements.org/game/33041/hashes</url>
-		<hash>7b525aa78029ac5d947570fd710a8463</hash>
 	</game>
 	
 	<game name="Shrek Extra Large (USA)">
@@ -2030,15 +1969,6 @@
 		<rom name="Super Smash Bros. Melee (USA) (En,Ja) (Rev 2) (C-Stick in Single-Player).rvz" size="1156717536" crc="2cca33c8" md5="27afa2ba52e28b8d5fcf3015ba49ebb9" sha1="6486f37c61b7cb276264f23021737bf937544939"/>
 		<url>https://retroachievements.org/game/9602/hashes</url>
 		<hash>8f0b014a1da84167f3f8f8b2145b95cd</hash>
-	</game>
-	
-	<game name="Super Smash Bros. Melee (USA) (En,Ja) (Rev 2) (C-Stick in Single-Player) (Subset - Very Hard Runs)">
-		<category>Retail</category>
-		<description>Super Smash Bros. Melee (USA) (En,Ja) (Rev 2) (C-Stick in Single-Player) (Subset - Very Hard Runs)</description>
-		<release name="Super Smash Bros. Melee (USA) (En,Ja) (Rev 2) (C-Stick in Single-Player) (Subset - Very Hard Runs)" region="USA"/>
-		<rom name="Super Smash Bros. Melee (USA) (En,Ja) (Rev 2) (C-Stick in Single-Player) (Subset - Very Hard Runs).rvz" size="1133065580" crc="16cdeca8" md5="92408767b9ed4c55b03ce9fc7c5492ba" sha1="9c279b016c46f0e3089a4e154ebaf416346f44f0"/>
-		<url>https://retroachievements.org/game/37208/hashes</url>
-		<hash>a0ae1395ad7df02729858a5ecc8486dd</hash>
 	</game>
 	
 	<game name="Swingerz Golf (USA)">

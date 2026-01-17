@@ -5,8 +5,8 @@
 		<name>RA - Sony PlayStation 2</name>
 		<description>Sony PlayStation 2</description>
 		<category>Subfolders</category>
-		<version>20260116</version>
-		<date>16 January 2026</date>
+		<version>20260117</version>
+		<date>17 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -47,10 +47,10 @@
 		<hash>363c22fbec26f81a4babedc9d2c76ee6</hash>
 	</machine>
 	
-	<machine name="Subset/Dot Hack--Part 1 - Infection (Subset - Book of 1000)">
+	<machine name="Specialty Subset/Dot Hack--Part 1 - Infection (Specialty Subset - Book of 1000)">
 		<category></category>
-		<description>Dot Hack--Part 1 - Infection (Subset - Book of 1000) (USA)</description>
-		<disk name="Dot Hack--Part 1 - Infection (Subset - Book of 1000).chd" sha1="c64b23aea45098e74addd986e129425909b51782"/>
+		<description>Dot Hack--Part 1 - Infection (Specialty Subset - Book of 1000) (USA)</description>
+		<disk name="Dot Hack--Part 1 - Infection (Specialty Subset - Book of 1000).chd" sha1="c64b23aea45098e74addd986e129425909b51782"/>
 		<url>https://retroachievements.org/game/20344/hashes</url>
 		<hash>af3e6defb3224c59a18359e4e7b5872f</hash>
 	</machine>
@@ -63,10 +63,10 @@
 		<hash>2cec68548bf1f3e386c0774422f32f53</hash>
 	</machine>
 	
-	<machine name="Subset/Dot Hack--Part 2 - Mutation (Subset - Book of 1000)">
+	<machine name="Specialty Subset/Dot Hack--Part 2 - Mutation (Specialty Subset - Book of 1000)">
 		<category></category>
-		<description>Dot Hack--Part 2 - Mutation (Subset - Book of 1000)</description>
-		<disk name="Dot Hack--Part 2 - Mutation (Subset - Book of 1000).chd" sha1="ce64747c0d97951b69ceac99d6a50cb334f9eb86"/>
+		<description>Dot Hack--Part 2 - Mutation (Specialty Subset - Book of 1000)</description>
+		<disk name="Dot Hack--Part 2 - Mutation (Specialty Subset - Book of 1000).chd" sha1="ce64747c0d97951b69ceac99d6a50cb334f9eb86"/>
 		<url>https://retroachievements.org/game/20345/hashes</url>
 		<hash>3971cbae436f63b09beca3fb6ad418bd</hash>
 	</machine>
@@ -79,10 +79,10 @@
 		<hash>8ed3507f07a5b8885585c86c3f35b702</hash>
 	</machine>
 	
-	<machine name="Subset/Dot Hack--Part 3 - Outbreak (Subset - Book of 1000)">
+	<machine name="Specialty Subset/Dot Hack--Part 3 - Outbreak (Specialty Subset - Book of 1000)">
 		<category></category>
-		<description>Dot Hack--Part 3 - Outbreak (Subset - Book of 1000)</description>
-		<disk name="Dot Hack--Part 3 - Outbreak (Subset - Book of 1000).chd" sha1="55d73e225dd175a6349d07de6585dd164c681640"/>
+		<description>Dot Hack--Part 3 - Outbreak (Specialty Subset - Book of 1000)</description>
+		<disk name="Dot Hack--Part 3 - Outbreak (Specialty Subset - Book of 1000).chd" sha1="55d73e225dd175a6349d07de6585dd164c681640"/>
 		<url>https://retroachievements.org/game/20346/hashes</url>
 		<hash>3e1fac5d9b5181ac545a60f74070bfcb</hash>
 	</machine>
@@ -95,10 +95,10 @@
 		<hash>2c9fb4737e98a89b7dbd3253adff3ed2</hash>
 	</machine>
 	
-	<machine name="Subset/Dot Hack--Part 4 - Quarantine (Subset - Book of 1000)">
+	<machine name="Specialty Subset/Dot Hack--Part 4 - Quarantine (Specialty Subset - Book of 1000)">
 		<category></category>
-		<description>Dot Hack--Part 4 - Quarantine (Subset - Book of 1000)</description>
-		<disk name="Dot Hack--Part 4 - Quarantine (Subset - Book of 1000).chd" sha1="a3843cb86c1d4aac5f085626b59d6ce05bc376b0"/>
+		<description>Dot Hack--Part 4 - Quarantine (Specialty Subset - Book of 1000)</description>
+		<disk name="Dot Hack--Part 4 - Quarantine (Specialty Subset - Book of 1000).chd" sha1="a3843cb86c1d4aac5f085626b59d6ce05bc376b0"/>
 		<url>https://retroachievements.org/game/20347/hashes</url>
 		<hash>68b488abf4a41c01665600707ca73546</hash>
 	</machine>
@@ -1829,14 +1829,6 @@
 		<hash>876041589206cf4dbc6d5f5aba849818</hash>
 	</machine>
 	
-	<machine name="Subset/Dirge of Cerberus - Final Fantasy VII (Subset - Lv1 Hard S Rank)">
-		<category></category>
-		<description>Dirge of Cerberus - Final Fantasy VII (Subset - Lv1 Hard S Rank)</description>
-		<disk name="Dirge of Cerberus - Final Fantasy VII (Subset - Lv1 Hard S Rank).chd" sha1="1470969ca06498315e378055817dfd55c7144171"/>
-		<url>https://retroachievements.org/game/22127/hashes</url>
-		<hash>b2f76747250c9c1daa68ebd7001d6390</hash>
-	</machine>
-	
 	<machine name="Retail/Disaster Report/Disaster Report (USA)">
 		<category></category>
 		<description>Disaster Report (USA)</description>
@@ -1984,14 +1976,6 @@
 		<hash>c2a0157c94a7e6ac4092a35a01f708ab</hash>
 	</machine>
 	
-	<machine name="Subset/Dragon Ball Z - Budokai 2 (Subset - Other World Tournament)">
-		<category></category>
-		<description>Dragon Ball Z - Budokai 2 (Subset - Other World Tournament)</description>
-		<disk name="Dragon Ball Z - Budokai 2 (Subset - Other World Tournament).chd" sha1="b37e60b11e29430fc87cdbda86d3f15fadb49bfd"/>
-		<url>https://retroachievements.org/game/25229/hashes</url>
-		<hash>61a6b0137e0e76b91a970f0bc8149595</hash>
-	</machine>
-	
 	<machine name="Retail/Dragon Ball Z - Budokai 3 (USA) (Greatest Hits)">
 		<category></category>
 		<description>Dragon Ball Z - Budokai 3 (USA) (Greatest Hits)</description>
@@ -2118,14 +2102,6 @@
 		<hash>cad5e43ebaee5907dc9e2159b775d100</hash>
 	</machine>
 	
-	<machine name="Subset/Dynasty Warriors 3 - Xtreme Legends (Subset - Max Item Break)">
-		<category></category>
-		<description>Dynasty Warriors 3 - Xtreme Legends (Subset - Max Item Break)</description>
-		<disk name="Dynasty Warriors 3 - Xtreme Legends (Subset - Max Item Break).chd" sha1="2828463e6bee8a75380b6d1e5b5898d66dce689e"/>
-		<url>https://retroachievements.org/game/34509/hashes</url>
-		<hash>fb86f69095469445a6e8962cd618b39e</hash>
-	</machine>
-	
 	<machine name="Retail/Dynasty Warriors 4/Dynasty Warriors 4 - Xtreme Legends (USA)">
 		<category></category>
 		<description>Dynasty Warriors 4 - Xtreme Legends (USA)</description>
@@ -2192,14 +2168,6 @@
 		<hash>0f47fb08279267bcb5787e07bd475518</hash>
 	</machine>
 	
-	<machine name="Subset/Dynasty Warriors 6 (Subset - Max Level)">
-		<category></category>
-		<description>Dynasty Warriors 6 (Subset - Max Level)</description>
-		<disk name="Dynasty Warriors 6 (Subset - Max Level).chd" sha1="4aec874813b638d6eb120d31bd3b83f7bf6c31c9"/>
-		<url>https://retroachievements.org/game/36254/hashes</url>
-		<hash>40c97bc15db4d4786090ccf22b951be3</hash>
-	</machine>
-	
 	<machine name="Retail/Dynasty Warriors - Gundam 2/Dynasty Warriors - Gundam 2 (USA)">
 		<category></category>
 		<description>Dynasty Warriors - Gundam 2 (USA)</description>
@@ -2213,14 +2181,6 @@
 		<disk name="Dynasty Warriors - Gundam 2 (USA) (Undub) (v1.7) (Gilmore Rockefeller).chd" sha1="888f07082b0cd965883a4d94a65ebe5485106dc5"/>
 		<url>https://retroachievements.org/game/20794/hashes</url>
 		<hash>aad20fb2db862125a1d0f4738621c349</hash>
-	</machine>
-	
-	<machine name="Subset/Dynasty Warriors - Gundam 2 (Subset - Max Characters)">
-		<category></category>
-		<description>Dynasty Warriors - Gundam 2 (Subset - Max Characters)</description>
-		<disk name="Dynasty Warriors - Gundam 2 (Subset - Max Characters).chd" sha1="728d831256ad6f8daf7a67d6ef78b9624a574a45"/>
-		<url>https://retroachievements.org/game/29786/hashes</url>
-		<hash>b060f6b6a3eac27e454fd9f3f08673f6</hash>
 	</machine>
 	
 	<machine name="Retail/Ecco the Dolphin - Defender of the Future (Europe) (En,Fr,De,Es,It)">
@@ -2497,14 +2457,6 @@
 		<disk name="Final Fantasy X International (Japan) (En,Ja).chd" sha1="7102ec603bc3603da43f21fc801d9250743d94fc"/>
 		<url>https://retroachievements.org/game/2778/hashes</url>
 		<hash>3e14234e0132f29952635bb41cbff54e</hash>
-	</machine>
-	
-	<machine name="Subset/Final Fantasy X - International (Subset - No Sphere Grid)">
-		<category></category>
-		<description>Final Fantasy X - International (Subset - No Sphere Grid)</description>
-		<disk name="Final Fantasy X - International (Subset - No Sphere Grid).chd" sha1="87a029518f013d0b3ad4575d5c2933ab1a277275"/>
-		<url>https://retroachievements.org/game/22629/hashes</url>
-		<hash>154765cf0f11ca4096b2db5505e49ab7</hash>
 	</machine>
 	
 	<machine name="Retail/Final Fantasy XII (USA)">
@@ -2833,14 +2785,6 @@
 		<hash>073a7876cd12b52cb75a25802f8ab40a</hash>
 	</machine>
 	
-	<machine name="Subset/God Hand (USA) (Subset - Hard Kick Me Sign Run)">
-		<category></category>
-		<description>God Hand (USA) (Subset - Hard Kick Me Sign Run)</description>
-		<disk name="God Hand (Subset - Hard Kick Me Sign Run).chd" sha1="c553d04a5f83dad3701f710966ecf5a2b3948a55"/>
-		<url>https://retroachievements.org/game/20592/hashes</url>
-		<hash>7ad34f955ad572198a149516174a6691</hash>
-	</machine>
-	
 	<machine name="Retail/God of War/God of War (USA)">
 		<category></category>
 		<description>God of War (USA)</description>
@@ -3167,14 +3111,6 @@
 		<hash>2dc698809fa19eb2f8910af37d3d796a</hash>
 	</machine>
 	
-	<machine name="Subset/Guitar Hero Encore - Rocks the '80s (Subset - Expert Full Combos)">
-		<category></category>
-		<description>Guitar Hero Encore - Rocks the '80s (Subset - Expert Full Combos)</description>
-		<disk name="Guitar Hero Encore - Rocks the '80s (Subset - Expert Full Combos).chd" sha1="d4ab693607df22004859763017609931c7ecc6b7"/>
-		<url>https://retroachievements.org/game/24045/hashes</url>
-		<hash>f41c1710b3804ee2e18c4e096db222ea</hash>
-	</machine>
-	
 	<machine name="Retail/Guitar Hero II (USA)">
 		<category></category>
 		<description>Guitar Hero II (USA)</description>
@@ -3196,14 +3132,6 @@
 		<disk name="Guitar Hero II (Subset - Expert Full Combos) (PAL).chd" sha1="f7096f8c1a98b5b58b9e75e0c93dd4a650f5f983"/>
 		<url>https://retroachievements.org/game/25607/hashes</url>
 		<hash>38fc17670c3b4ac98f41b17e60f5f102</hash>
-	</machine>
-	
-	<machine name="Subset/Guitar Hero II (Subset - Multi)">
-		<category></category>
-		<description>Guitar Hero II (Subset - Multi)</description>
-		<disk name="Guitar Hero II (Subset - Multi).chd" sha1="3ddc94f4b44dbcd5cffdb4e1f35459ee56884292"/>
-		<url>https://retroachievements.org/game/25606/hashes</url>
-		<hash>ec5c4dbbfc16c155ffbab19117f0c4c2</hash>
 	</machine>
 	
 	<machine name="Retail/Guitar Hero III - Legends of Rock (USA)">
@@ -3890,18 +3818,10 @@
 		<hash>e65ae2cbebbcfb3e89d4e597268c329e</hash>
 	</machine>
 	
-	<machine name="Subset/Kingdom Hearts - Re-Chain of Memories (Subset - Extreme Difficulty)">
+	<machine name="Specialty Subset/Kingdom Hearts - Re-Chain of Memories (Specialty Subset - Proud Level 1)">
 		<category></category>
-		<description>Kingdom Hearts - Re-Chain of Memories (Subset - Extreme Difficulty)</description>
-		<disk name="Kingdom Hearts - Re-Chain of Memories (Subset - Extreme Difficulty).chd" sha1="2d19b25bbbde1b415a2b24305293ba1b68a3d3d6"/>
-		<url>https://retroachievements.org/game/25006/hashes</url>
-		<hash>447811ab370743cd65649cd03b200813</hash>
-	</machine>
-	
-	<machine name="Subset/Kingdom Hearts - Re-Chain of Memories (Subset - Proud Level 1)">
-		<category></category>
-		<description>Kingdom Hearts - Re-Chain of Memories (Subset - Proud Level 1)</description>
-		<disk name="Kingdom Hearts - Re-Chain of Memories (Subset - Proud Level 1).chd" sha1="909db22a6f8dbcec1c23ca8ea4ca85a76418f42a"/>
+		<description>Kingdom Hearts - Re-Chain of Memories (Specialty Subset - Proud Level 1)</description>
+		<disk name="Kingdom Hearts - Re-Chain of Memories (Specialty Subset - Proud Level 1).chd" sha1="909db22a6f8dbcec1c23ca8ea4ca85a76418f42a"/>
 		<url>https://retroachievements.org/game/21479/hashes</url>
 		<hash>b6c059a3849bef51424f6b58efdc4242</hash>
 	</machine>
@@ -4390,14 +4310,6 @@
 		<hash>85e0ccd403bc48676e1a765da4042a6c</hash>
 	</machine>
 	
-	<machine name="Subset/Metal Gear Solid 2 - Substance (Subset - Missions + Skateboarding)">
-		<category></category>
-		<description>Metal Gear Solid 2 - Substance (Subset - Missions + Skateboarding)</description>
-		<disk name="Metal Gear Solid 2 - Substance (Subset - Missions + Skateboarding).chd" sha1="29adfbcc53017682ff367c8157d9df56d6a22bd6"/>
-		<url>https://retroachievements.org/game/32531/hashes</url>
-		<hash>ea2bed6d5cf2dffe953e7cdd7941e0db</hash>
-	</machine>
-	
 	<machine name="Retail/Metal Gear Solid 3 - Subsistence/Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 1) (Subsistence)">
 		<category></category>
 		<description>Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 1) (Subsistence)</description>
@@ -4405,20 +4317,19 @@
 		<url>https://retroachievements.org/game/2831/hashes</url>
 		<hash>25f94103eabed84873d07bddc6b4177f</hash>
 	</machine>
-	<machine name="Retail/Metal Gear Solid 3 - Subsistence/Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 3) (Existence) (Limited Edition)">
-		<category></category>
-		<description>Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 3) (Existence) (Limited Edition)</description>
-		<disk name="Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 3) (Existence) (Limited Edition).chd" sha1="dbb0f62bf9454b96468e20071e30d8ad9fa523b5"/>
-		<url>https://retroachievements.org/game/2831/hashes</url>
-		<hash>873fd91c358cea681068148dc4976173</hash>
-	</machine>
-	
 	<machine name="Retail/Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 2) (Persistence)">
 		<category></category>
 		<description>Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 2) (Persistence)</description>
 		<disk name="Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 2) (Persistence).chd" sha1="afa5561ae86f6e0e535c4079bd478346cbc75dd9"/>
 		<url>https://retroachievements.org/game/26986/hashes</url>
 		<hash>f56a15fe8dd2050ed308720df31f98bc</hash>
+	</machine>
+	<machine name="Retail/Metal Gear Solid 3 - Subsistence/Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 3) (Existence) (Limited Edition)">
+		<category></category>
+		<description>Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 3) (Existence) (Limited Edition)</description>
+		<disk name="Metal Gear Solid 3 - Subsistence (USA) (En,Es) (Disc 3) (Existence) (Limited Edition).chd" sha1="dbb0f62bf9454b96468e20071e30d8ad9fa523b5"/>
+		<url>https://retroachievements.org/game/2831/hashes</url>
+		<hash>873fd91c358cea681068148dc4976173</hash>
 	</machine>
 	
 	<machine name="Retail/Metal Slug 3 (Europe) (En,Fr,De,Es,It)">
@@ -5355,14 +5266,6 @@
 		<hash>cf06a05dfda702ae5f64ba107129db4c</hash>
 	</machine>
 	
-	<machine name="Subset/Radiata Stories (Subset - Fireworks Festival Dates)">
-		<category></category>
-		<description>Radiata Stories (Subset - Fireworks Festival Dates)</description>
-		<disk name="Radiata Stories (Subset - Fireworks Festival Dates).chd" sha1="68af2b15756c2cc97e1cdd1d558a53f8d90c3253"/>
-		<url>https://retroachievements.org/game/25835/hashes</url>
-		<hash>aa74c7837e3775ae30526b535622a752</hash>
-	</machine>
-	
 	<machine name="Retail/Disney-Pixar Ratatouille (USA)">
 		<category></category>
 		<description>Disney-Pixar Ratatouille (USA)</description>
@@ -5660,14 +5563,6 @@
 		<disk name="Rock Band (Europe, Australia) (En,Fr,De,Es,It).chd" sha1="4be9c653edeff2170a994d9ed0197941304c2ac5"/>
 		<url>https://retroachievements.org/game/5793/hashes</url>
 		<hash>9754ba1daf213ff9f416aab111d357dc</hash>
-	</machine>
-	
-	<machine name="Subset/Rock Band (Subset - Expert Full Combos)">
-		<category></category>
-		<description>Rock Band (Subset - Expert Full Combos)</description>
-		<disk name="Rock Band (Subset - Expert Full Combos).chd" sha1="8930ae5d4cc3a986abd0f9169cee3195cc761b1b"/>
-		<url>https://retroachievements.org/game/37467/hashes</url>
-		<hash>4ea69d47666c3f1e0b0ac236665eb082</hash>
 	</machine>
 	
 	<machine name="Retail/Rocky Legends (USA)">
@@ -5984,14 +5879,6 @@
 		<hash>1d42018f00f13dc6b44adbcdf1db0622</hash>
 	</machine>
 	
-	<machine name="Subset/Shadow the Hedgehog (USA) (Subset - 326 Endings)">
-		<category></category>
-		<description>Shadow the Hedgehog (USA) (Subset - 326 Endings)</description>
-		<disk name="Shadow the Hedgehog (Subset - 326 Endings).chd" sha1="1127b964cf4b51aa2eb4ca72528d4223489083bf"/>
-		<url>https://retroachievements.org/game/22070/hashes</url>
-		<hash>a8328d26cb4f3044cde2748ddf80551f</hash>
-	</machine>
-	
 	<machine name="Retail/Shadow Tower Abyss (Japan) (En) (v1.0) (Mord of Swoonlight)">
 		<category></category>
 		<description>Shadow Tower Abyss (Japan) (En) (v1.0) (Mord of Swoonlight)</description>
@@ -6134,43 +6021,12 @@
 		<hash>88e68c487c33a43792df56741737c4bb</hash>
 	</machine>
 	
-	<machine name="Subset/Shin Megami Tensei - Persona 4/Shin Megami Tensei - Persona 4 (USA) (Undub) (Subset - Izanagi Only)">
-		<category></category>
-		<description>Shin Megami Tensei - Persona 4 (USA) (Undub) (Subset - Izanagi Only)</description>
-		<disk name="Shin Megami Tensei - Persona 4 (USA) (Undub) (Subset - Izanagi Only).chd" sha1="1a43b10a4a55b88ee062af9745784ded7254252c"/>
-		<url>https://retroachievements.org/game/22852/hashes</url>
-		<hash>9b19e5ac0813ba782338a43fb9bc2226</hash>
-	</machine>
-	<machine name="Subset/Shin Megami Tensei - Persona 4/Shin Megami Tensei - Persona 4 (Subset - Izanagi Only)">
-		<category></category>
-		<description>Shin Megami Tensei - Persona 4 (Subset - Izanagi Only)</description>
-		<disk name="Shin Megami Tensei - Persona 4 (Subset - Izanagi Only).chd" sha1="8edd5dc409cc79ab9efdbdf19621857d7acd862d"/>
-		<url>https://retroachievements.org/game/22852/hashes</url>
-		<hash>a21b63f04ef5e476332780a1bd9c4cec</hash>
-	</machine>
-	
-	<machine name="Subset/Shin Megami Tensei - Persona 4 (Subset - Yu Solo)">
-		<category></category>
-		<description>Shin Megami Tensei - Persona 4 (Subset - Yu Solo)</description>
-		<disk name="Shin Megami Tensei - Persona 4 (Subset - Yu Solo).chd" sha1="000fa4c7b1174f4665342e78b266c250aae66c10"/>
-		<url>https://retroachievements.org/game/22861/hashes</url>
-		<hash>1920621aee40a8ecede861881a763f4e</hash>
-	</machine>
-	
 	<machine name="Retail/Shinobi (USA)">
 		<category></category>
 		<description>Shinobi (USA)</description>
 		<disk name="Shinobi (USA).chd" sha1="34d93b6e553d8bccde4aa4bf20839ae50c97041c"/>
 		<url>https://retroachievements.org/game/19118/hashes</url>
 		<hash>a05df8e79593497306040bb718f36795</hash>
-	</machine>
-	
-	<machine name="Subset/Shinobi (USA) (En,Ja) (Subset - Akujiki's Wrath)">
-		<category></category>
-		<description>Shinobi (USA) (En,Ja) (Subset - Akujiki's Wrath)</description>
-		<disk name="Shinobi (USA) (En,Ja) (Subset - Akujiki's Wrath).chd" sha1="f373c38929ea8ae4ea04a66f358e3bab5357e0d7"/>
-		<url>https://retroachievements.org/game/25036/hashes</url>
-		<hash>3e0e77f3cf7b06a62a4f605bf831d9d8</hash>
 	</machine>
 	
 	<machine name="Retail/Shinobido - Way of the Ninja (Europe) (En,Fr,De,Es,It)">
@@ -7577,14 +7433,6 @@
 		<hash>7af028157f10e4fd50bfcb74413d0d38</hash>
 	</machine>
 	
-	<machine name="Subset/Nightmare of Druaga, The - Fushigino Dungeon (Subset - Alchemy)">
-		<category></category>
-		<description>Nightmare of Druaga, The - Fushigino Dungeon (Subset - Alchemy)</description>
-		<disk name="Nightmare of Druaga, The - Fushigino Dungeon (Subset - Alchemy).chd" sha1="1a6aab99049e1f5c1305e31baff9c3e35019afd0"/>
-		<url>https://retroachievements.org/game/32919/hashes</url>
-		<hash>1542a1478094cde60e46d79536315262</hash>
-	</machine>
-	
 	<machine name="Retail/Simple 2000 Series Vol. 80/Simple 2000 Series Vol. 80 - The OneeChamploo - The Nee-chan Tokubetsu-hen (Japan)">
 		<category></category>
 		<description>Simple 2000 Series Vol. 80 - The OneeChamploo - The Nee-chan Tokubetsu-hen (Japan)</description>
@@ -7952,14 +7800,6 @@
 		<hash>ca3c1de05610a9e893bf6299bd3edd7c</hash>
 	</machine>
 	
-	<machine name="Subset/Tony Hawk's Pro Skater 3 (Subset - Alternate Modes)">
-		<category></category>
-		<description>Tony Hawk's Pro Skater 3 (Subset - Alternate Modes)</description>
-		<disk name="Tony Hawk's Pro Skater 3 (Subset - Alternate Modes).chd" sha1="377b338ef1576655a34328577f3a6a09d1966a25"/>
-		<url>https://retroachievements.org/game/22838/hashes</url>
-		<hash>2b39c2349cc4094de48d9b8694194622</hash>
-	</machine>
-	
 	<machine name="Retail/Tony Hawk's Pro Skater 4 (USA) (v2.01)">
 		<category></category>
 		<description>Tony Hawk's Pro Skater 4 (USA) (v2.01)</description>
@@ -7968,10 +7808,10 @@
 		<hash>9b13279f858b2827311de7710b454de6</hash>
 	</machine>
 	
-	<machine name="Subset/Tony Hawk's Pro Skater 4 (USA) (v2.01) (Subset - Zero Stats)">
+	<machine name="Specialty Subset/Tony Hawk's Pro Skater 4 (USA) (v2.01) (Specialty Subset - Zero Stats)">
 		<category></category>
-		<description>Tony Hawk's Pro Skater 4 (USA) (v2.01) (Subset - Zero Stats)</description>
-		<disk name="Tony Hawk's Pro Skater 4 (USA) (v2.01) (Subset - Zero Stats).chd" sha1="3caa5a64104a5d6f09598343e76fbfcb2a38949b"/>
+		<description>Tony Hawk's Pro Skater 4 (USA) (v2.01) (Specialty Subset - Zero Stats)</description>
+		<disk name="Tony Hawk's Pro Skater 4 (USA) (v2.01) (Specialty Subset - Zero Stats).chd" sha1="3caa5a64104a5d6f09598343e76fbfcb2a38949b"/>
 		<url>https://retroachievements.org/game/25644/hashes</url>
 		<hash>feb843b86e4c80e7527c9fbe45e9c803</hash>
 	</machine>
@@ -7984,28 +7824,12 @@
 		<hash>7ac8983b688e28d68110c6c21caae49e</hash>
 	</machine>
 	
-	<machine name="Subset/Tony Hawk's Project 8 (Subset - Single Run Classic Goals)">
-		<category></category>
-		<description>Tony Hawk's Project 8 (Subset - Single Run Classic Goals)</description>
-		<disk name="Tony Hawk's Project 8 (Subset - Single Run Classic Goals).chd" sha1="9c3364f00c1466b87485b2be3b0bac0c0bc9e8e1"/>
-		<url>https://retroachievements.org/game/25687/hashes</url>
-		<hash>34a1c3279dcbfd9ad60b63b96706578b</hash>
-	</machine>
-	
 	<machine name="Retail/Tony Hawk's Underground (USA)">
 		<category></category>
 		<description>Tony Hawk's Underground (USA)</description>
 		<disk name="Tony Hawk's Underground (USA).chd" sha1="70af9eabbd3fc8c571447b78b7e2ad6e542c7ad5"/>
 		<url>https://retroachievements.org/game/2993/hashes</url>
 		<hash>91110fe34391c4a42b51d2a5afa95c90</hash>
-	</machine>
-	
-	<machine name="Subset/Tony Hawk's Underground (Subset - RAdical Custom Goals &amp; Gaps)">
-		<category></category>
-		<description>Tony Hawk's Underground (Subset - RAdical Custom Goals &amp; Gaps)</description>
-		<disk name="Tony Hawk's Underground (Subset - RAdical Custom Goals &amp; Gaps).chd" sha1="4845d1420ce91d18110ae1aa369735d13ccdd20b"/>
-		<url>https://retroachievements.org/game/20476/hashes</url>
-		<hash>cd2a910ffc33b502b2959f2dec7cdd6d</hash>
 	</machine>
 	
 	<machine name="Subset/Tony Hawk's Underground (USA) (Subset - Zero Stats)">
@@ -8233,14 +8057,6 @@
 		<disk name="Viewtiful Joe (USA).chd" sha1="7939fd8f3e979494834aff5ae9972a4274448554"/>
 		<url>https://retroachievements.org/game/2996/hashes</url>
 		<hash>2e45a35a01a8f672f12f1e90f6c864e3</hash>
-	</machine>
-	
-	<machine name="Subset/Viewtiful Joe (Subset - Rainbow V Ranks)">
-		<category></category>
-		<description>Viewtiful Joe (Subset - Rainbow V Ranks)</description>
-		<disk name="Viewtiful Joe (Subset - Rainbow V Ranks).chd" sha1="b4de8c130646ca8b2f33700b8ec5146838791de4"/>
-		<url>https://retroachievements.org/game/21445/hashes</url>
-		<hash>2745bab39dcfccb318f8459f006c6928</hash>
 	</machine>
 	
 	<machine name="Retail/Viewtiful Joe 2 (USA)">
@@ -8567,14 +8383,6 @@
 		<disk name="Yakuza 2 (USA).chd" sha1="54e055ac210ab0883b9e165d33d442f15112ac98"/>
 		<url>https://retroachievements.org/game/19085/hashes</url>
 		<hash>330930f3727ba64959b7b1d27f06ddfd</hash>
-	</machine>
-	
-	<machine name="Subset/Yakuza 2 (Subset - Dragon of Dojima)">
-		<category></category>
-		<description>Yakuza 2 (Subset - Dragon of Dojima)</description>
-		<disk name="Yakuza 2 (Subset - Dragon of Dojima).chd" sha1="678fcc06238324f8ed892eb3a184a267e6b1aa3a"/>
-		<url>https://retroachievements.org/game/28133/hashes</url>
-		<hash>46aac39c1d3a45aaaa4fe16abc7f4bb7</hash>
 	</machine>
 	
 	<machine name="Retail/Ys III - Wanderers from Ys (Japan)">

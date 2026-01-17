@@ -5,8 +5,8 @@
 		<name>RA - Sega Dreamcast</name>
 		<description>Sega Dreamcast</description>
 		<category>Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260117</version>
+		<date>17 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/40/games</url>
@@ -773,14 +773,6 @@
 		<disk name="Puyo Puyo Da! Featuring Ellena System (Japan).chd" sha1="d8a6cbb70c13f5fe1c6fdf29aae54bee429e0c98"/>
 		<url>https://retroachievements.org/game/19345/hashes</url>
 		<hash>809e6a8441753d6a6871a3382ccb8089</hash>
-	</machine>
-	
-	<machine name="Subset/Puyo Puyo Da! (Subset - Full Chain)">
-		<category></category>
-		<description>Puyo Puyo Da! (Subset - Full Chain)</description>
-		<disk name="Puyo Puyo Da! (Subset - Full Chain).chd" sha1="31e7ec959206fc62064e529ff6303c32ae10c4d1"/>
-		<url>https://retroachievements.org/game/26982/hashes</url>
-		<hash>063df55acd0fe88b7ca7c180829674d9</hash>
 	</machine>
 	
 	<machine name="Retail/Puyo Puyo Fever (Japan) (En,Ja)">

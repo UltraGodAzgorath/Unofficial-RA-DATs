@@ -5,8 +5,8 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>No Subfolders</category>
-		<version>20260116</version>
-		<date>16 January 2026</date>
+		<version>20260117</version>
+		<date>17 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/3/games</url>
@@ -1023,36 +1023,36 @@
 		<hash>2b1eca06a66d17c1f15a2631beee0e23</hash>
 	</game>
 	
-	<game name="FFVI - A Soldier's Contingency (Monster Flavor A) (v2.02) (Lightning Hawk) (Hack)">
-		<category>Subset</category>
-		<description>FFVI - A Soldier's Contingency (Monster Flavor A) (v2.02) (Lightning Hawk) (Hack)</description>
-		<release name="FFVI - A Soldier's Contingency (Monster Flavor A) (v2.02) (Lightning Hawk) (Hack)" region="World"/>
-		<rom name="FFVI - A Soldier's Contingency (Monster Flavor A) (v2.02) (Lightning Hawk) (Hack).sfc" size="6291456" crc="9ceddd93" md5="233b3055e466957173645a91fbb618cd" sha1="c322b2b320f0a7c8f7de8551ae9ff21b2e0cdd72"/>
+	<game name="FFVI - A Soldier's Contingency (Monster Flavor A) (v2.02) (Lightning Hawk) (Specialty Subset - Beast Hunter)">
+		<category>Specialty Subset</category>
+		<description>FFVI - A Soldier's Contingency (Monster Flavor A) (v2.02) (Lightning Hawk) (Specialty Subset - Beast Hunter)</description>
+		<release name="FFVI - A Soldier's Contingency (Monster Flavor A) (v2.02) (Lightning Hawk) (Specialty Subset - Beast Hunter)" region="World"/>
+		<rom name="FFVI - A Soldier's Contingency (Monster Flavor A) (v2.02) (Lightning Hawk) (Specialty Subset - Beast Hunter).sfc" size="6291456" crc="9ceddd93" md5="233b3055e466957173645a91fbb618cd" sha1="c322b2b320f0a7c8f7de8551ae9ff21b2e0cdd72"/>
 		<url>https://retroachievements.org/game/31180/hashes</url>
 		<hash>233b3055e466957173645a91fbb618cd</hash>
 	</game>
-	<game name="FFVI - A Soldier's Contingency (Monster Flavor B) (v2.02) (Lightning Hawk) (Hack)">
-		<category>Subset</category>
-		<description>FFVI - A Soldier's Contingency (Monster Flavor B) (v2.02) (Lightning Hawk) (Hack)</description>
-		<release name="FFVI - A Soldier's Contingency (Monster Flavor B) (v2.02) (Lightning Hawk) (Hack)" region="World"/>
-		<rom name="FFVI - A Soldier's Contingency (Monster Flavor B) (v2.02) (Lightning Hawk) (Hack).sfc" size="6291456" crc="0835ee46" md5="8600b46291213b554fc1544c2b1e87c3" sha1="31e38b3efb8cd12f23de4e6dd6ed40637f213f1c"/>
+	<game name="FFVI - A Soldier's Contingency (Monster Flavor B) (v2.02) (Lightning Hawk) (Specialty Subset - Beast Hunter)">
+		<category>Specialty Subset</category>
+		<description>FFVI - A Soldier's Contingency (Monster Flavor B) (v2.02) (Lightning Hawk) (Specialty Subset - Beast Hunter)</description>
+		<release name="FFVI - A Soldier's Contingency (Monster Flavor B) (v2.02) (Lightning Hawk) (Specialty Subset - Beast Hunter)" region="World"/>
+		<rom name="FFVI - A Soldier's Contingency (Monster Flavor B) (v2.02) (Lightning Hawk) (Specialty Subset - Beast Hunter).sfc" size="6291456" crc="0835ee46" md5="8600b46291213b554fc1544c2b1e87c3" sha1="31e38b3efb8cd12f23de4e6dd6ed40637f213f1c"/>
 		<url>https://retroachievements.org/game/31180/hashes</url>
 		<hash>8600b46291213b554fc1544c2b1e87c3</hash>
 	</game>
 	
-	<game name="FFVI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Subset - Insane Mode)">
-		<category>Subset</category>
-		<description>FFVI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Subset - Insane Mode)</description>
-		<release name="FFVI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Subset - Insane Mode)" region="World"/>
-		<rom name="FFVI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Subset - Insane Mode).sfc" size="6291456" crc="aeca71a5" md5="812a47da0348831b50b0483bcb28c1ad" sha1="ce8a63143e20159066a20941c9c1889bab4cd19a"/>
+	<game name="FFVI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Specialty Subset - Insane Mode)">
+		<category>Specialty Subset</category>
+		<description>FFVI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Specialty Subset - Insane Mode)</description>
+		<release name="FFVI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Specialty Subset - Insane Mode)" region="World"/>
+		<rom name="FFVI - A Soldier's Contingency (Insane Flavor A) (v2.02) (Lightning Hawk) (Specialty Subset - Insane Mode).sfc" size="6291456" crc="aeca71a5" md5="812a47da0348831b50b0483bcb28c1ad" sha1="ce8a63143e20159066a20941c9c1889bab4cd19a"/>
 		<url>https://retroachievements.org/game/31166/hashes</url>
 		<hash>812a47da0348831b50b0483bcb28c1ad</hash>
 	</game>
-	<game name="FFVI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Subset - Insane Mode)">
-		<category>Subset</category>
-		<description>FFVI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Subset - Insane Mode)</description>
-		<release name="FFVI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Subset - Insane Mode)" region="World"/>
-		<rom name="FFVI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Subset - Insane Mode).sfc" size="6291456" crc="910e081c" md5="f859c37fadc72c6604828bef7128bf60" sha1="d7151087703cf65e58bf2cfc162af3f7fcf3c396"/>
+	<game name="FFVI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Specialty Subset - Insane Mode)">
+		<category>Specialty Subset</category>
+		<description>FFVI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Specialty Subset - Insane Mode)</description>
+		<release name="FFVI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Specialty Subset - Insane Mode)" region="World"/>
+		<rom name="FFVI - A Soldier's Contingency (Insane Flavor B) (v2.02) (Lightning Hawk) (Specialty Subset - Insane Mode).sfc" size="6291456" crc="910e081c" md5="f859c37fadc72c6604828bef7128bf60" sha1="d7151087703cf65e58bf2cfc162af3f7fcf3c396"/>
 		<url>https://retroachievements.org/game/31166/hashes</url>
 		<hash>f859c37fadc72c6604828bef7128bf60</hash>
 	</game>
@@ -1103,11 +1103,11 @@
 		<hash>0bf256b31e11b18979acd1ecf50e2cbc</hash>
 	</game>
 	
-	<game name="FFVI - Brave New World (v2.1) (Subset - Berserker New World) (Hack)">
-		<category>Subset</category>
-		<description>FFVI - Brave New World (v2.1) (Subset - Berserker New World) (Hack)</description>
-		<release name="FFVI - Brave New World (v2.1) (Subset - Berserker New World) (Hack)" region="World"/>
-		<rom name="FFVI - Brave New World (v2.1) (Subset - Berserker New World) (Hack).sfc" size="3145728" crc="70791fdb" md5="ce006dc33ab3a46dab652483e8ce4c61" sha1="f0078166e5a17f8e8ad0ba002125d1577164f4af"/>
+	<game name="FFVI - Brave New World (v2.1) (Specialty Subset - Berserker New World)">
+		<category>Specialty Subset</category>
+		<description>FFVI - Brave New World (v2.1) (Specialty Subset - Berserker New World)</description>
+		<release name="FFVI - Brave New World (v2.1) (Specialty Subset - Berserker New World)" region="World"/>
+		<rom name="FFVI - Brave New World (v2.1) (Specialty Subset - Berserker New World).sfc" size="3145728" crc="70791fdb" md5="ce006dc33ab3a46dab652483e8ce4c61" sha1="f0078166e5a17f8e8ad0ba002125d1577164f4af"/>
 		<url>https://retroachievements.org/game/30061/hashes</url>
 		<hash>ce006dc33ab3a46dab652483e8ce4c61</hash>
 	</game>
@@ -7441,166 +7441,6 @@
 		<hash>c6ac7a0f906a5eda0b3cbe93826cb474</hash>
 	</game>
 	
-	<game name="EarthBound (Subset - Camera Shy) (En)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
-		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (En)</description>
-		<rom name="EarthBound (Subset - Camera Shy) (En).sfc" size="3145728" crc="8806b443" md5="80e2fdff6e13e64b3ca008c4ed02db20" sha1="f087597abb7e66fe6b444954c072cf04884c86d1"/>
-		<url>https://retroachievements.org/game/25631/hashes</url>
-		<hash>80e2fdff6e13e64b3ca008c4ed02db20</hash>
-	</game>
-	<game name="EarthBound (Subset - Camera Shy) (En) (New Controls)">
-		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (En) (New Controls)</description>
-		<release name="EarthBound (Subset - Camera Shy) (En) (New Controls)" region="English"/>
-		<rom name="EarthBound (Subset - Camera Shy) (En) (New Controls).sfc" size="3145728" crc="e4623b27" md5="2adfd336a38cf8cff5a0b54b7c1010d6" sha1="9ac6ab2a815f038ec6dd6e4c353bdea50a0b81c8"/>
-		<url>https://retroachievements.org/game/25631/hashes</url>
-		<hash>2adfd336a38cf8cff5a0b54b7c1010d6</hash>
-	</game>
-	<game name="EarthBound (Subset - Camera Shy) (De) (GlostU) (New Controls)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
-		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (De) (GlostU) (New Controls)</description>
-		<release name="EarthBound (Subset - Camera Shy) (De) (GlostU) (New Controls)" region="Germany"/>
-		<rom name="EarthBound (Subset - Camera Shy) (De) (GlostU) (New Controls).sfc" size="4194304" crc="c41321c9" md5="941b35c6ed87e1672362bb9b12fba0f9" sha1="d70c34cf7294a74090ee8a116402b458b0209502"/>
-		<url>https://retroachievements.org/game/25631/hashes</url>
-		<hash>941b35c6ed87e1672362bb9b12fba0f9</hash>
-	</game>
-	<game name="EarthBound (Subset - Camera Shy) (De) (GlostU)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
-		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (De) (GlostU)</description>
-		<rom name="EarthBound (Subset - Camera Shy) (De) (GlostU).sfc" size="4194304" crc="a807e8ac" md5="cbd14e33d8fbdb2e4f6240145e512713" sha1="d1389264e52ac4aebf6a0f4d6c62e303dab2f8b0"/>
-		<url>https://retroachievements.org/game/25631/hashes</url>
-		<hash>cbd14e33d8fbdb2e4f6240145e512713</hash>
-	</game>
-	<game name="EarthBound (Subset - Camera Shy) (Es) (josete2k) (New Controls)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
-		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (Es) (josete2k) (New Controls)</description>
-		<rom name="EarthBound (Subset - Camera Shy) (Es) (josete2k) (New Controls).sfc" size="4194304" crc="875c56d3" md5="ad7c5bacea1064e4c31d9e0e3e057bb7" sha1="f48ae91e259e3ae5bdf6ee77dd329916592c9667"/>
-		<url>https://retroachievements.org/game/25631/hashes</url>
-		<hash>ad7c5bacea1064e4c31d9e0e3e057bb7</hash>
-	</game>
-	<game name="EarthBound (Subset - Camera Shy) (Es) (josete2k)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
-		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (Es) (josete2k)</description>
-		<rom name="EarthBound (Subset - Camera Shy) (Es) (josete2k).sfc" size="4194304" crc="6e0c21ff" md5="71caaa6512f138f8c63e4bbaf5483ecc" sha1="2ac456f7dde7db32662748bedf1f3a4646de955a"/>
-		<url>https://retroachievements.org/game/25631/hashes</url>
-		<hash>71caaa6512f138f8c63e4bbaf5483ecc</hash>
-	</game>
-	<game name="EarthBound (Subset - Camera Shy) (Es) (ShadowOne333) (New Controls)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
-		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (Es) (ShadowOne333) (New Controls)</description>
-		<release name="EarthBound (Subset - Camera Shy) (Es) (ShadowOne333) (New Controls)" region="Spain"/>
-		<rom name="EarthBound (Subset - Camera Shy) (Es) (ShadowOne333) (New Controls).sfc" size="4194304" crc="84ab7964" md5="dd980bd0d1c6e86913af32767b56d3f8" sha1="f5f0da112bbf465ea445fe7c4657872c87b6012e"/>
-		<url>https://retroachievements.org/game/25631/hashes</url>
-		<hash>dd980bd0d1c6e86913af32767b56d3f8</hash>
-	</game>
-	<game name="EarthBound (Subset - Camera Shy) (Es) (ShadowOne333)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
-		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (Es) (ShadowOne333)</description>
-		<rom name="EarthBound (Subset - Camera Shy) (Es) (ShadowOne333).sfc" size="4194304" crc="c38e6ea9" md5="92facdb26e54c44e0dd5eb604681c39a" sha1="2d0ac3248ab459d6292e778c6cac9468276d4900"/>
-		<url>https://retroachievements.org/game/25631/hashes</url>
-		<hash>92facdb26e54c44e0dd5eb604681c39a</hash>
-	</game>
-	<game name="EarthBound (Subset - Camera Shy) (Fr) (Mambo)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
-		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (Fr) (Mambo)</description>
-		<rom name="EarthBound (Subset - Camera Shy) (Fr) (Mambo).sfc" size="4194304" crc="527fa759" md5="d366425596d0a5e2c506b67b8ccad95f" sha1="d8a966d99ef5cbef523409ed72714512f3454686"/>
-		<url>https://retroachievements.org/game/25631/hashes</url>
-		<hash>d366425596d0a5e2c506b67b8ccad95f</hash>
-	</game>
-	<game name="EarthBound (Subset - Camera Shy) (Fr) (New Controls)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
-		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (Fr) (New Controls)</description>
-		<release name="EarthBound (Subset - Camera Shy) (Fr) (New Controls)" region="France"/>
-		<rom name="EarthBound (Subset - Camera Shy) (Fr) (New Controls).sfc" size="4194304" crc="271ed5d2" md5="2554a41b4b76685138b7eeb19d742015" sha1="bf3bd72953aea36e9a5718ff4bc23d97400d8def"/>
-		<url>https://retroachievements.org/game/25631/hashes</url>
-		<hash>2554a41b4b76685138b7eeb19d742015</hash>
-	</game>
-	<game name="EarthBound (Mother 2 - Perfect Edition) (Subset - Camera Shy)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
-		<category>Subset</category>
-		<description>EarthBound (Mother 2 - Perfect Edition) (Subset - Camera Shy)</description>
-		<release name="EarthBound (Mother 2 - Perfect Edition) (Subset - Camera Shy)" region="World"/>
-		<rom name="EarthBound (Mother 2 - Perfect Edition) (Subset - Camera Shy).sfc" size="4194304" crc="4da5647f" md5="1077cadd282c6117638daf93fc0e12ef" sha1="3271adb13b3a03c90e506220e762f6bcd5acd35b"/>
-		<url>https://retroachievements.org/game/25631/hashes</url>
-		<hash>1077cadd282c6117638daf93fc0e12ef</hash>
-	</game>
-	<game name="EarthBound (Subset - Camera Shy) (Pl) (Voxar) (New Controls)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
-		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (Pl) (Voxar) (New Controls)</description>
-		<release name="EarthBound (Subset - Camera Shy) (Pl) (Voxar) (New Controls)" region="Poland"/>
-		<rom name="EarthBound (Subset - Camera Shy) (Pl) (Voxar) (New Controls).sfc" size="4194304" crc="ab5cd2c8" md5="4c2a38a536bc6eafec1aa465b70c496f" sha1="d2c10a819305d0f6d66451981d37b455dbcc30a4"/>
-		<url>https://retroachievements.org/game/25631/hashes</url>
-		<hash>4c2a38a536bc6eafec1aa465b70c496f</hash>
-	</game>
-	<game name="EarthBound (Subset - Camera Shy) (Pl) (Voxar)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
-		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (Pl) (Voxar)</description>
-		<rom name="EarthBound (Subset - Camera Shy) (Pl) (Voxar).sfc" size="4194304" crc="f6916d94" md5="3677ad73df6d185eaa99e22c0288a8b8" sha1="3e8380bd156ba2ae80450a5fd1adc6c297c666fe"/>
-		<url>https://retroachievements.org/game/25631/hashes</url>
-		<hash>3677ad73df6d185eaa99e22c0288a8b8</hash>
-	</game>
-	<game name="EarthBound (Subset - Camera Shy) (Pt) (EarthBound Brasil) (New Controls)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
-		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (Pt) (EarthBound Brasil) (New Controls)</description>
-		<release name="EarthBound (Subset - Camera Shy) (Pt) (EarthBound Brasil) (New Controls)" region="Portugal"/>
-		<rom name="EarthBound (Subset - Camera Shy) (Pt) (EarthBound Brasil) (New Controls).sfc" size="4194304" crc="c39be107" md5="0c395d0c546db2f2802633f5cdd5a758" sha1="9fc294cd42805125408a3c4471c16e01d9bdc82e"/>
-		<url>https://retroachievements.org/game/25631/hashes</url>
-		<hash>0c395d0c546db2f2802633f5cdd5a758</hash>
-	</game>
-	<game name="EarthBound (Subset - Camera Shy) (Pt) (EarthBound Brasil)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
-		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (Pt) (EarthBound Brasil)</description>
-		<rom name="EarthBound (Subset - Camera Shy) (Pt) (EarthBound Brasil).sfc" size="4194304" crc="743af5f9" md5="c087c5d4c872c292457a13d928a6c656" sha1="c37bad5b828add3565db32f64dcf41d45972a74d"/>
-		<url>https://retroachievements.org/game/25631/hashes</url>
-		<hash>c087c5d4c872c292457a13d928a6c656</hash>
-	</game>
-	<game name="EarthBound (Subset - Camera Shy) (Ru) (MAGNAT2645)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
-		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (Ru) (MAGNAT2645)</description>
-		<rom name="EarthBound (Subset - Camera Shy) (Ru) (MAGNAT2645).sfc" size="4194304" crc="7abe5a90" md5="53387262ef248493c628180936fc5646" sha1="36f7d2c73775ab931bea130048ae74636ef33f92"/>
-		<url>https://retroachievements.org/game/25631/hashes</url>
-		<hash>53387262ef248493c628180936fc5646</hash>
-	</game>
-	<game name="EarthBound (Subset - Camera Shy) (Ru) (MAGNAT2645) (New Controls)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
-		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (Ru) (MAGNAT2645) (New Controls)</description>
-		<release name="EarthBound (Subset - Camera Shy) (Pt) (EarthBound Brasil) (New Controls)" region="Russia"/>
-		<rom name="EarthBound (Subset - Camera Shy) (Ru) (MAGNAT2645) (New Controls).sfc" size="4194304" crc="23117971" md5="df8a5fae164b07857561c017f9036407" sha1="4077f56491cf6ba2f1eac793ce7120bd3d5c5bb3"/>
-		<url>https://retroachievements.org/game/25631/hashes</url>
-		<hash>df8a5fae164b07857561c017f9036407</hash>
-	</game>
-	<game name="EarthBound (Subset - Camera Shy) (It) (v1.47) (Vecna) (New Controls)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
-		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (It) (v1.47) (Vecna) (New Controls)</description>
-		<release name="EarthBound (Subset - Camera Shy) (It) (v1.47) (Vecna) (New Controls)" region="Italy"/>
-		<rom name="EarthBound (Subset - Camera Shy) (It) (v1.47) (Vecna) (New Controls).sfc" size="4194304" crc="2d80a0b9" md5="214224c3bd70d35fef2bdccfa618e3ef" sha1="f6b5b6d9c9b76a3958ed0d61fd367a784103fde3"/>
-		<url>https://retroachievements.org/game/25631/hashes</url>
-		<hash>214224c3bd70d35fef2bdccfa618e3ef</hash>
-	</game>
-	<game name="EarthBound (Subset - Camera Shy) (It) (v1.47) (Vecna)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
-		<category>Subset</category>
-		<description>EarthBound (Subset - Camera Shy) (It) (v1.47) (Vecna)</description>
-		<rom name="EarthBound (Subset - Camera Shy) (It) (v1.47) (Vecna).sfc" size="4194304" crc="b765a6da" md5="2905e6eab431ef7a48cdd071c5e1f090" sha1="5aba977b428fe2008b587c469ebaf01f3311f60a"/>
-		<url>https://retroachievements.org/game/25631/hashes</url>
-		<hash>2905e6eab431ef7a48cdd071c5e1f090</hash>
-	</game>
-	
-	<game name="EarthBound (Subset - Low Level Run)">
-		<category>Subset</category>
-		<description>EarthBound (Subset - Low Level Run)</description>
-		<rom name="EarthBound (Subset - Low Level Run).sfc" size="3145728" crc="e8935ed1" md5="0c0ee5a9e01cdac456840bfe1de234e9" sha1="74f2a417df11db2e8dba6edc5df761cd8c42482e"/>
-		<url>https://retroachievements.org/game/32804/hashes</url>
-		<hash>0c0ee5a9e01cdac456840bfe1de234e9</hash>
-	</game>
-	
-	<game name="EarthBound (Subset - Rare Drops)" cloneof="EarthBound (Subset - Camera Shy) (En) (New Controls)">
-		<category>Subset</category>
-		<description>EarthBound (Subset - Rare Drops)</description>
-		<release name="EarthBound (Subset - Rare Drops)" region="World"/>
-		<rom name="EarthBound (Subset - Rare Drops).sfc" size="3145728" crc="f6d53458" md5="c82795f458e0f16d88d51268c3c95ea3" sha1="5d44cf4e5565944855a39f452a9ce031747a7cc7"/>
-		<url>https://retroachievements.org/game/18280/hashes</url>
-		<hash>c82795f458e0f16d88d51268c3c95ea3</hash>
-	</game>
-	
 	<game name="Earthworm Jim (USA)">
 		<category>Retail</category>
 		<description>Earthworm Jim (USA)</description>
@@ -8021,15 +7861,6 @@
 		<rom name="Final Fantasy VI (TWUE, Bug Fixes, Updated Opera, Add Ons) (v3.06a) (Rodimus Primal).sfc" size="4194304" crc="84fd1698" md5="11aa974b516f7013362cc9e5268b07f4" sha1="3e8a7e48a95453617f04b816088ca872f66a50ec"/>
 		<url>https://retroachievements.org/game/341/hashes</url>
 		<hash>11aa974b516f7013362cc9e5268b07f4</hash>
-	</game>
-	
-	<game name="Final Fantasy VI (Subset - LLNMG + CESNMG)">
-		<category>Subset</category>
-		<description>Final Fantasy VI (Subset - LLNMG + CESNMG)</description>
-		<release name="Final Fantasy VI (Subset - LLNMG + CESNMG)" region="World"/>
-		<rom name="Final Fantasy VI (Subset - LLNMG + CESNMG).sfc" size="3145728" crc="bbbb3788" md5="898c7af2a5fcb6a39c81987601f19d1d" sha1="d146878884a65372aef7202845615510c1e8b572"/>
-		<url>https://retroachievements.org/game/30060/hashes</url>
-		<hash>898c7af2a5fcb6a39c81987601f19d1d</hash>
 	</game>
 	
 	<game name="Final Fantasy - Mystic Quest (USA) (Rev 1)">
@@ -9618,24 +9449,6 @@
 		<rom name="Kirby's Dream Course (Europe).sfc" size="1048576" crc="995cc0a3" md5="b757f3031fb7698925cf9eb8d3b343a1" sha1="97630b34fcf9f20963cd18d144a3927092540bb8"/>
 		<url>https://retroachievements.org/game/986/hashes</url>
 		<hash>b757f3031fb7698925cf9eb8d3b343a1</hash>
-	</game>
-	
-	<game name="Kirby's Dream Course (Subset - 2P Courses)">
-		<category>Subset</category>
-		<description>Kirby's Dream Course (Subset - 2P Courses)</description>
-		<release name="Kirby's Dream Course (Subset - 2P Courses)" region="World"/>
-		<rom name="Kirby's Dream Course (Subset - 2P Courses).sfc" size="1048576" crc="32d863f7" md5="a7ec465d91433991d3ac63a8d0199e6b" sha1="ea6b863ed92869df60440af3be396ad3208ca5d6"/>
-		<url>https://retroachievements.org/game/32135/hashes</url>
-		<hash>a7ec465d91433991d3ac63a8d0199e6b</hash>
-	</game>
-	
-	<game name="Kirby's Dream Course (Subset - Hole In One)">
-		<category>Subset</category>
-		<description>Kirby's Dream Course (Subset - Hole In One)</description>
-		<release name="Kirby's Dream Course (Subset - Hole In One)" region="World"/>
-		<rom name="Kirby's Dream Course (Subset - Hole In One).sfc" size="1048576" crc="e1bdb11e" md5="2b13a9f9d7eed192405545dc3c347315" sha1="c0abdd972c1977eb1adabb3326047b9a8eb85c73"/>
-		<url>https://retroachievements.org/game/32950/hashes</url>
-		<hash>2b13a9f9d7eed192405545dc3c347315</hash>
 	</game>
 	
 	<game name="Kirby's Dream Land 3 (USA)">
@@ -13528,11 +13341,11 @@
 		<hash>669efc8aa7365b5854d3653ab5598dc9</hash>
 	</game>
 	
-	<game name="Super Mario All-Stars + Super Mario World (USA) (Subset - Super Mariothon)">
-		<category>Subset</category>
-		<description>Super Mario All-Stars + Super Mario World (USA) (Subset - Super Mariothon)</description>
-		<release name="Super Mario All-Stars + Super Mario World (USA) (Subset - Super Mariothon)" region="USA"/>
-		<rom name="Super Mario All-Stars + Super Mario World (USA) (Subset - Super Mariothon).sfc" size="2621440" crc="f84305b1" md5="7ecaf3e2e021c8a836041c85886f4594" sha1="d245e41a2b590f7d63666b0772cbddfb26f254a2"/>
+	<game name="Super Mario All-Stars + Super Mario World (USA) (Specialty Subset - Super Mariothon)">
+		<category>Specialty Subset</category>
+		<description>Super Mario All-Stars + Super Mario World (USA) (Specialty Subset - Super Mariothon)</description>
+		<release name="Super Mario All-Stars + Super Mario World (USA) (Specialty Subset - Super Mariothon)" region="USA"/>
+		<rom name="Super Mario All-Stars + Super Mario World (USA) (Specialty Subset - Super Mariothon).sfc" size="2621440" crc="f84305b1" md5="7ecaf3e2e021c8a836041c85886f4594" sha1="d245e41a2b590f7d63666b0772cbddfb26f254a2"/>
 		<url>https://retroachievements.org/game/34497/hashes</url>
 		<hash>7ecaf3e2e021c8a836041c85886f4594</hash>
 	</game>
@@ -13585,39 +13398,6 @@
 		<rom name="Super Mario RPG - Legend of the Seven Stars (USA).sfc" size="4194304" crc="1b8a0625" md5="d0b68d68d9efc0558242f5476d1c5b81" sha1="a4f7539054c359fe3f360b0e6b72e394439fe9df"/>
 		<url>https://retroachievements.org/game/471/hashes</url>
 		<hash>d0b68d68d9efc0558242f5476d1c5b81</hash>
-	</game>
-	
-	<game name="Super Mario RPG - Legend of the Seven Stars (Subset - Lv3 Run)">
-		<category>Subset</category>
-		<description>Super Mario RPG - Legend of the Seven Stars (Subset - Lv3 Run)</description>
-		<release name="Super Mario RPG - Legend of the Seven Stars (Subset - Lv3 Run)" region="World"/>
-		<rom name="Super Mario RPG - Legend of the Seven Stars (Subset - Lv3 Run).sfc" size="4194304" crc="5c0f0d61" md5="1f2b4b360467aacd19101a89ff129853" sha1="c9096b74960eac37c24f8f55831f80182eb1422d"/>
-		<url>https://retroachievements.org/game/30062/hashes</url>
-		<hash>1f2b4b360467aacd19101a89ff129853</hash>
-	</game>
-	<game name="Super Mario RPG - Legend of the Seven Stars (Subset - Lv3 Run) (Es) (v1.10) (josete2k)" cloneof="Super Mario RPG - Legend of the Seven Stars (Subset - Lv3 Run)">
-		<category>Subset</category>
-		<description>Super Mario RPG - Legend of the Seven Stars (Subset - Lv3 Run) (Es) (v1.10) (josete2k)</description>
-		<release name="Super Mario RPG - Legend of the Seven Stars (Subset - Lv3 Run) (Es) (v1.10) (josete2k)" region="Spain"/>
-		<rom name="Super Mario RPG - Legend of the Seven Stars (Subset - Lv3 Run) (Es) (v1.10) (josete2k).sfc" size="4194304" crc="b7118650" md5="17885188188dbec757770d4bafce1668" sha1="307fa223c5a48550e5f683221a0d88089f796a31"/>
-		<url>https://retroachievements.org/game/30062/hashes</url>
-		<hash>17885188188dbec757770d4bafce1668</hash>
-	</game>
-	<game name="Super Mario RPG - Legend of the Seven Stars (Subset - Lv3 Run) (De) (v0.99) (Alemanic Translations)" cloneof="Super Mario RPG - Legend of the Seven Stars (Subset - Lv3 Run)">
-		<category>Subset</category>
-		<description>Super Mario RPG - Legend of the Seven Stars (Subset - Lv3 Run) (De) (v0.99) (Alemanic Translations)</description>
-		<release name="Super Mario RPG - Legend of the Seven Stars (Subset - Lv3 Run) (De) (v0.99) (Alemanic Translations)" region="Germany"/>
-		<rom name="Super Mario RPG - Legend of the Seven Stars (Subset - Lv3 Run) (De) (v0.99) (Alemanic Translations).sfc" size="4194304" crc="e96f8192" md5="9feae67474f0fdca4259160ee376363e" sha1="b7c819cf61c884bbfcb177a7ef6f6d6f83984357"/>
-		<url>https://retroachievements.org/game/30062/hashes</url>
-		<hash>9feae67474f0fdca4259160ee376363e</hash>
-	</game>
-	<game name="Super Mario RPG - Legend of the Seven Stars (Subset - Lv3 Run) (Fr) (v1.0) (RyleFury)" cloneof="Super Mario RPG - Legend of the Seven Stars (Subset - Lv3 Run)">
-		<category>Subset</category>
-		<description>Super Mario RPG - Legend of the Seven Stars (Subset - Lv3 Run) (Fr) (v1.0) (RyleFury)</description>
-		<release name="Super Mario RPG - Legend of the Seven Stars (Subset - Lv3 Run) (Fr) (v1.0) (RyleFury)" region="France"/>
-		<rom name="Super Mario RPG - Legend of the Seven Stars (Subset - Lv3 Run) (Fr) (v1.0) (RyleFury).sfc" size="4194304" crc="c92c7c0c" md5="83e9062d124ee86ab2b9ebb6f9f7eb3c" sha1="a8a4b43e6179f87def9f544a7bee2fd28eab0dc5"/>
-		<url>https://retroachievements.org/game/30062/hashes</url>
-		<hash>83e9062d124ee86ab2b9ebb6f9f7eb3c</hash>
 	</game>
 	
 	<game name="Super Mario World (USA) (Es) (Wave)" cloneof="Super Mario World (USA)">

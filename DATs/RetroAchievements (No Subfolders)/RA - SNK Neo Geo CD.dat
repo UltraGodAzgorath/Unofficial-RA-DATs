@@ -5,8 +5,8 @@
 		<name>RA - SNK Neo Geo CD</name>
 		<description>SNK Neo Geo CD</description>
 		<category>No Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260117</version>
+		<date>17 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/56/games</url>
@@ -199,15 +199,6 @@
 		<disk name="Mutation Nation (Japan) (En,Ja).chd" sha1="2b75dead286a7d0f30110434ff13f1a199b4532c"/>
 		<url>https://retroachievements.org/game/9122/hashes</url>
 		<hash>0ec42cc0f6f6041699fa0456d72295c4</hash>
-	</machine>
-	
-	<machine name="Mutation Nation (Subset - Multi)">
-		<category>Subset</category>
-		<description>Mutation Nation (Subset - Multi)</description>
-		<release name="Mutation Nation (Subset - Multi)" region="World"/>
-		<disk name="Mutation Nation (Subset - Multi).chd" sha1="17cb359eba5f3a0f0471668dfa5f7b764136f435"/>
-		<url>https://retroachievements.org/game/26990/hashes</url>
-		<hash>293fc12273f61e9681ccaece7d56a814</hash>
 	</machine>
 	
 	<machine name="Nam-1975 (Japan) (En,Ja)">
