@@ -5,8 +5,8 @@
 		<name>RA - Sony PlayStation 2</name>
 		<description>Sony PlayStation 2</description>
 		<category>Subfolders</category>
-		<version>20260117</version>
-		<date>17 January 2026</date>
+		<version>20260120</version>
+		<date>20 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -172,14 +172,6 @@
 		<disk name="Guitar Hero III - Game Hits (v1.0) (Beto Luvas) (RA Hash Fix) (Hack).chd" sha1="2ab197d264de581ed07088c1f0a97e9dc20deddf"/>
 		<url>https://retroachievements.org/game/33666/hashes</url>
 		<hash>d4e325f5246d3f00fa3b50a841b8026c</hash>
-	</machine>
-	
-	<machine name="Subset/Guitar Hero III - Game Hits (v1.0) (Beto Luvas) (Subset - Expert Full Combos)">
-		<category></category>
-		<description>Guitar Hero III - Game Hits (v1.0) (Beto Luvas) (Subset - Expert Full Combos)</description>
-		<disk name="Guitar Hero III - Game Hits (v1.0) (Beto Luvas) (Subset - Expert Full Combos).chd" sha1="d9fc9170b8fdce262806db94104f23af9436820d"/>
-		<url>https://retroachievements.org/game/35290/hashes</url>
-		<hash>d370f43cb4d010a0a5473aae77f58026</hash>
 	</machine>
 	
 	<machine name="Hack/Guitar Hero III - ZV K-ON! 10th Anniversary (v2.0) (ztruck1) (RA Hash Fix) (Hack)">

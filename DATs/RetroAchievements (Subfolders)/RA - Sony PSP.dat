@@ -5,8 +5,8 @@
 		<name>RA - Sony PSP</name>
 		<description>Sony PSP</description>
 		<category>Subfolders</category>
-		<version>20260117</version>
-		<date>17 January 2026</date>
+		<version>20260120</version>
+		<date>20 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/41/games</url>
@@ -3038,21 +3038,6 @@
 		<disk name="Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (v1.1) (Geofront Port) (WanderingHeiho).chd" sha1="5bdb41ccbc0758f06e7179617fc22e107151bc79"/>
 		<url>https://retroachievements.org/game/10521/hashes</url>
 		<hash>8f705303830a6edf92c5f5c834f6bdc1</hash>
-	</machine>
-	
-	<machine name="Subset/Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (v1.0) (Subset - NG Nightmare)">
-		<category>PSP</category>
-		<description>Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (v1.0) (Subset - NG Nightmare)</description>
-		<disk name="Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (v1.0) (Subset - NG Nightmare).chd" sha1="d7b4e0f7d5dc804478e5be83d7bc4c43f4ff73c1"/>
-		<url>https://retroachievements.org/game/35586/hashes</url>
-		<hash>3494b5302b2ed1e336ead027ace3e06c</hash>
-	</machine>
-	<machine name="Subset/Eiyuu Densetsu - Zero no Kiseki/Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (v1.1) (Subset - NG Nightmare)">
-		<category>PSP</category>
-		<description>Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (v1.1) (Subset - NG Nightmare)</description>
-		<disk name="Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (v1.1) (Subset - NG Nightmare).chd" sha1="15860be8b479b65ffa65bdb4801194c2fbc02384"/>
-		<url>https://retroachievements.org/game/35586/hashes</url>
-		<hash>ca63f96263a716df0e15b949597e5055</hash>
 	</machine>
 	
 	<machine name="Retail/The Legend of Heroes - Trails in the Sky/Legend of Heroes, The - Trails in the Sky (USA)">
