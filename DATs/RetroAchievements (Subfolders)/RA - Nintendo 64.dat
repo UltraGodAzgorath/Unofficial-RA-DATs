@@ -5,8 +5,8 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>Subfolders</category>
-		<version>20260117</version>
-		<date>17 January 2026</date>
+		<version>20260122</version>
+		<date>22 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/2/games</url>
@@ -5870,14 +5870,6 @@
 		<rom name="New Tetris, The (USA).z64" size="12582912" crc="528a07fa" md5="7a28179b00734c9aa0f0609fafaafd5f" sha1="83fff25e82181a6993f28c91b9eeb8430396838b"/>
 		<url>https://retroachievements.org/game/12984/hashes</url>
 		<hash>7a28179b00734c9aa0f0609fafaafd5f</hash>
-	</game>
-	
-	<game name="Subset/New Tetris, The (Subset - Wonders)">
-		<category>Nintendo 64</category>
-		<description>New Tetris, The (Subset - Wonders)</description>
-		<rom name="New Tetris, The (Subset - Wonders).z64" size="12582912" crc="dcc419ee" md5="8957d4db75a6a8ae16a0fb71f30b83b4" sha1="6dcb3641c74a369e83a6cd5f1bebb1bf756af60f"/>
-		<url>https://retroachievements.org/game/25581/hashes</url>
-		<hash>8957d4db75a6a8ae16a0fb71f30b83b4</hash>
 	</game>
 	
 	<game name="Retail/Powerpuff Girls, The - Chemical X-Traction (USA)">

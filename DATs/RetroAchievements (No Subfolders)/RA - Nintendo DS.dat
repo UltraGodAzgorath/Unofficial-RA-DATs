@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>No Subfolders</category>
-		<version>20260117</version>
-		<date>17 January 2026</date>
+		<version>20260122</version>
+		<date>22 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
@@ -3203,15 +3203,6 @@
 		<hash>9be761bbee45ecb8175beac712af6859</hash>
 	</game>
 	
-	<game name="Lufia - Curse of the Sinistrals (Subset - Ancient Cave Variety Pack)">
-		<category>Subset</category>
-		<description>Lufia - Curse of the Sinistrals (Subset - Ancient Cave Variety Pack)</description>
-		<release name="Lufia - Curse of the Sinistrals (Subset - Ancient Cave Variety Pack)" region="World"/>
-		<rom name="Lufia - Curse of the Sinistrals (Subset - Ancient Cave Variety Pack).nds" size="67108864" crc="67e2806f" md5="d43e71d72e7381e973aed5336a6ad837" sha1="9cd0f22c2a46e10cf8e2ce8b67525d2ac0c1ecf3"/>
-		<url>https://retroachievements.org/game/29845/hashes</url>
-		<hash>8b17d8b2bcb12af225f84abe81000ae7</hash>
-	</game>
-	
 	<game name="Luminous Arc (USA)">
 		<category>Retail</category>
 		<description>Luminous Arc (USA)</description>
@@ -4188,15 +4179,6 @@
 		<hash>113c2fd7665b28122be821b1809230ac</hash>
 	</game>
 	
-	<game name="Phantasy Star 0 (Subset - Item Catalog)">
-		<category>Subset</category>
-		<description>Phantasy Star 0 (Subset - Item Catalog)</description>
-		<release name="Phantasy Star 0 (Subset - Item Catalog)" region="World"/>
-		<rom name="Phantasy Star 0 (Subset - Item Catalog).nds" size="134217728" crc="775d3792" md5="554533a03177da00c8551fa576fc1c1c" sha1="b952c6d7c0a85241923d1fd6dcf97ba72ce432cf"/>
-		<url>https://retroachievements.org/game/32661/hashes</url>
-		<hash>b7136dbe095ee57cb38b0dd4da5a493c</hash>
-	</game>
-	
 	<game name="Phoenix Wright - Ace Attorney (USA)">
 		<category>Retail</category>
 		<description>Phoenix Wright - Ace Attorney (USA)</description>
@@ -4316,22 +4298,13 @@
 		<hash>a7825c7d4f9ae72532297323bfeba902</hash>
 	</game>
 	
-	<game name="Pokemon - Black Version 2 (Subset - Monotype Challenge)">
-		<category>Subset</category>
-		<description>Pokemon - Black Version 2 (Subset - Monotype Challenge)</description>
-		<release name="Pokemon - Black Version 2 (Subset - Monotype Challenge)" region="World"/>
-		<rom name="Pokemon - Black Version 2 (Subset - Monotype Challenge).nds" size="536870912" crc="c512ece6" md5="65d5cd3b4790607fc5809f069598a308" sha1="6e5865412ce9d00dc1e5144d23e75d528c61e2e5"/>
+	<game name="Pokemon - Black Version 2 (Exclusive Subset - Monotype Challenge)">
+		<category>Exclusive Subset</category>
+		<description>Pokemon - Black Version 2 (Exclusive Subset - Monotype Challenge)</description>
+		<release name="Pokemon - Black Version 2 (Exclusive Subset - Monotype Challenge)" region="World"/>
+		<rom name="Pokemon - Black Version 2 (Exclusive Subset - Monotype Challenge).nds" size="536870912" crc="c512ece6" md5="65d5cd3b4790607fc5809f069598a308" sha1="6e5865412ce9d00dc1e5144d23e75d528c61e2e5"/>
 		<url>https://retroachievements.org/game/35112/hashes</url>
 		<hash>e3a74ebe23e0a2056552a8ffda95a0a6</hash>
-	</game>
-	
-	<game name="Pokemon Black Version 2 (Subset - Professor Oak Challenge)">
-		<category>Subset</category>
-		<description>Pokemon Black Version 2 (Subset - Professor Oak Challenge)</description>
-		<release name="Pokemon Black Version 2 (Subset - Professor Oak Challenge)" region="World"/>
-		<rom name="Pokemon Black Version 2 (Subset - Professor Oak Challenge).nds" size="536870912" crc="2b0574b6" md5="020b60582a3b3b2c160a353179c264de" sha1="a3a6c5e1e01e3d2a477062bdafa8fd3f0c143960"/>
-		<url>https://retroachievements.org/game/30898/hashes</url>
-		<hash>6ac1deb6e70fe9de1e8812ae55d8dfb7</hash>
 	</game>
 	
 	<game name="Pokemon Card Game - Asobikata DS (Japan)">
@@ -4779,24 +4752,6 @@
 		<hash>d26082d93e5d0a5b9bd12c7dd11f4ab2</hash>
 	</game>
 	
-	<game name="Pokemon - Platinum Version (Subset - Professor Oak Challenge)">
-		<category>Subset</category>
-		<description>Pokemon - Platinum Version (Subset - Professor Oak Challenge)</description>
-		<release name="Pokemon - Platinum Version (Subset - Professor Oak Challenge)" region="World"/>
-		<rom name="Pokemon - Platinum Version (Subset - Professor Oak Challenge).nds" size="134217728" crc="0b4c093c" md5="cb45f697fb7c8ac1c2bda640319e78cf" sha1="5e0567f954b5f0687ab3ca658a0faaf632281e6a"/>
-		<url>https://retroachievements.org/game/17897/hashes</url>
-		<hash>3e6460dfc782f2677a8164c50efede7c</hash>
-	</game>
-	
-	<game name="Pokemon - Platinum Version (Subset - Shiny Pokemon)">
-		<category>Subset</category>
-		<description>Pokemon - Platinum Version (Subset - Shiny Pokemon)</description>
-		<release name="Pokemon - Platinum Version (Subset - Shiny Pokemon)" region="USA"/>
-		<rom name="Pokemon - Platinum Version (Subset - Shiny Pokemon).nds" size="134217728" crc="cc8d3f42" md5="3797f893898f905a5dc7b5df9b605b00" sha1="01c751890478360b7b891d4d893df31d64ee765d"/>
-		<url>https://retroachievements.org/game/18698/hashes</url>
-		<hash>df8bea54b8fe5796dcf729b364a1fdab</hash>
-	</game>
-	
 	<game name="Pokemon Ranger (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<description>Pokemon Ranger (Europe) (En,Fr,De,Es,It)</description>
@@ -4813,24 +4768,6 @@
 		<rom name="Pokemon Ranger - Guardian Signs (Europe) (En,Fr,De,Es,It).nds" size="134217728" crc="10df0e03" md5="73d61ccc128dceebbb7ee394fc0d664d" sha1="18cc346f32989e619b473d5d9de4a414cbf93b38"/>
 		<url>https://retroachievements.org/game/16163/hashes</url>
 		<hash>a3a696ab8d189c3be6676e4776c2a3db</hash>
-	</game>
-	
-	<game name="Pokemon Ranger - Guardian Signs (Subset - S Rank Boss Capture)">
-		<category>Subset</category>
-		<description>Pokemon Ranger - Guardian Signs (Subset - S Rank Boss Capture)</description>
-		<release name="Pokemon Ranger - Guardian Signs (Subset - S Rank Boss Capture)" region="World"/>
-		<rom name="Pokemon Ranger - Guardian Signs (Subset - S Rank Boss Capture).nds" size="134217728" crc="a23ce2a8" md5="3232886808357db464e1d6c0f742d27b" sha1="860231082e27029fbcacccd35e5a56c8c66804ac"/>
-		<url>https://retroachievements.org/game/33067/hashes</url>
-		<hash>abb0bcb2af37da0a1bf71bd4bc4f088b</hash>
-	</game>
-	
-	<game name="Pokemon Ranger - Guardian Signs (Subset - Solo Past Missions)">
-		<category>Subset</category>
-		<description>Pokemon Ranger - Guardian Signs (Subset - Solo Past Missions)</description>
-		<release name="Pokemon Ranger - Guardian Signs (Subset - Solo Past Missions)" region="World"/>
-		<rom name="Pokemon Ranger - Guardian Signs (Subset - Solo Past Missions).nds" size="134217728" crc="0208aeee" md5="cf79a8ceed0215201135f6d4fbc4d579" sha1="4bf89553a0767cca3915aa947085e16f0ddff8e9"/>
-		<url>https://retroachievements.org/game/33066/hashes</url>
-		<hash>73e7e8a6e0824f68e18f4e393ab73f14</hash>
 	</game>
 	
 	<game name="Pokemon Ranger - Shadows of Almia (Europe) (En,Fr,De,Es,It)">
@@ -6014,15 +5951,6 @@
 		<hash>7f8c6b3d126a71530d6432c7bf9dd214</hash>
 	</game>
 	
-	<game name="Suikoden - Tierkreis (Subset - Master Trader)">
-		<category>Subset</category>
-		<description>Suikoden - Tierkreis (Subset - Master Trader)</description>
-		<release name="Suikoden - Tierkreis (Subset - Master Trader)" region="Europe"/>
-		<rom name="Suikoden - Tierkreis (Subset - Master Trader).nds" size="268435456" crc="1f86e4ed" md5="53950f0306291cf31a79a56ef406337d" sha1="24cbfe19e2f00a8a13b85c9c2d751151ba5d08f0"/>
-		<url>https://retroachievements.org/game/24080/hashes</url>
-		<hash>359a721d0db2ac303c60e75b52c45017</hash>
-	</game>
-	
 	<game name="Super Collapse! 3 (USA)">
 		<category>Retail</category>
 		<description>Super Collapse! 3 (USA)</description>
@@ -6120,15 +6048,6 @@
 		<rom name="Tales of Innocence (Japan) (En) (v1.0) (Absolute Zero) (Anti-Cheat) (Bartis1989).nds" size="134217728" crc="335dea82" md5="db86c29cf8613e93e617b9283711f6c5" sha1="d4880e51a2348e6fec804aa054cc96c50c7f42c2"/>
 		<url>https://retroachievements.org/game/5056/hashes</url>
 		<hash>2b3beefd56b02bf65b9d4745097b58d4</hash>
-	</game>
-	
-	<game name="Tales of Innocence (Subset - Library Completion)">
-		<category>Subset</category>
-		<description>Tales of Innocence (Subset - Library Completion)</description>
-		<release name="Tales of Innocence (Subset - Library Completion)" region="World"/>
-		<rom name="Tales of Innocence (Subset - Library Completion).nds" size="134217728" crc="ad29b034" md5="0361dccf9ca8d0904e901518e0663d65" sha1="69c5a987b6b59fc9822205ac7556007e0e9c5222"/>
-		<url>https://retroachievements.org/game/31308/hashes</url>
-		<hash>26e2080e1959e138bfca1e2f3e8f4849</hash>
 	</game>
 	
 	<game name="Tangled (Europe) (En,Fr,De,Es,It,Nl)">

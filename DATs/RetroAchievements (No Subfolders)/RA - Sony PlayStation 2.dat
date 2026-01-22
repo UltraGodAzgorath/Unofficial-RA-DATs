@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation 2</name>
 		<description>Sony Playstation 2</description>
 		<category>No Subfolders</category>
-		<version>20260120</version>
-		<date>20 January 2026</date>
+		<version>20260122</version>
+		<date>22 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -853,11 +853,11 @@
 		<hash>f0f3a0f3db38cd7f86470d9a25d3d12e</hash>
 	</machine>
 	
-	<machine name="Battlefield 2 - Modern Combat (Subset - Online Multiplayer)">
-		<category>Subset</category>
-		<description>Battlefield 2 - Modern Combat (Subset - Online Multiplayer)</description>
-		<release name="Battlefield 2 - Modern Combat (Subset - Online Multiplayer)" region="World"/>
-		<disk name="Battlefield 2 - Modern Combat (Subset - Online Multiplayer).chd" sha1="e6de131739c8b9251645586dfa88b529948c51e8"/>
+	<machine name="Battlefield 2 - Modern Combat (Exclusive Subset - Online Multiplayer)">
+		<category>Exclusive Subset</category>
+		<description>Battlefield 2 - Modern Combat (Exclusive Subset - Online Multiplayer)</description>
+		<release name="Battlefield 2 - Modern Combat (Exclusive Subset - Online Multiplayer)" region="World"/>
+		<disk name="Battlefield 2 - Modern Combat (Exclusive Subset - Online Multiplayer).chd" sha1="e6de131739c8b9251645586dfa88b529948c51e8"/>
 		<url>https://retroachievements.org/game/25668/hashes</url>
 		<hash>6d65c3b493042b13378def3ccf120869</hash>
 	</machine>
@@ -2181,15 +2181,6 @@
 		<hash>abe54caa7f5a5fc9c39f04c90a209caf</hash>
 	</machine>
 	
-	<machine name="Dragon Ball Z - Budokai (Subset - Martial Arts Tournament)">
-		<category>Subset</category>
-		<description>Dragon Ball Z - Budokai (Subset - Martial Arts Tournament)</description>
-		<release name="Dragon Ball Z - Budokai (Subset - Martial Arts Tournament)" region="World"/>
-		<disk name="Dragon Ball Z - Budokai (Subset - Martial Arts Tournament).chd" sha1="3afdf86b72846e0b3a392ef090c849388b79b71f"/>
-		<url>https://retroachievements.org/game/24232/hashes</url>
-		<hash>1e6e210a4670b3e8f9f1c324987ae0fc</hash>
-	</machine>
-	
 	<machine name="Dragon Ball Z - Budokai 2 (USA) (Skill Cheat Patch)">
 		<category>Retail</category>
 		<description>Dragon Ball Z - Budokai 2 (USA) (Skill Cheat Patch)</description>
@@ -2251,15 +2242,6 @@
 		<disk name="Dragon Quest V - Tenkuu no Hanayome (Japan) (En) (v1.2 - DQ Naming) (DQ Translations).chd" sha1="d972f459c00386e60bd83ce0c0161c0d4fe847e8"/>
 		<url>https://retroachievements.org/game/5800/hashes</url>
 		<hash>a9bf2ee367b666e94f691f3870ff46bd</hash>
-	</machine>
-	
-	<machine name="Dragon Quest V (Subset - Items and Inductees)">
-		<category>Subset</category>
-		<description>Dragon Quest V (Subset - Items and Inductees)</description>
-		<release name="Dragon Quest V (Subset - Items and Inductees)" region="World"/>
-		<disk name="Dragon Quest V (Subset - Items and Inductees).chd" sha1="ee84198b56a8bdcf417be93d26ea7ecd2c2c5ac7"/>
-		<url>https://retroachievements.org/game/22434/hashes</url>
-		<hash>6b8c58f4f10f5207b5fb558551032e0b</hash>
 	</machine>
 	
 	<machine name="Dragon Quest VIII - Journey of the Cursed King (USA)" cloneof="Dragon Quest VIII - Journey of the Cursed King (USA) (60FPS)">
@@ -2449,15 +2431,6 @@
 		<disk name="Egg Mania - Eggstreme Madness (USA).chd" sha1="b63fcd054e8029f60ea36e78c6a112bbaa31cbc7"/>
 		<url>https://retroachievements.org/game/19122/hashes</url>
 		<hash>94f73a17b8c821cae082bbf183ab2c5e</hash>
-	</machine>
-	
-	<machine name="Egg Mania - Eggstreme Madness (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Egg Mania - Eggstreme Madness (Subset - Bonus)</description>
-		<release name="Egg Mania - Eggstreme Madness (Subset - Bonus)" region="World"/>
-		<disk name="Egg Mania - Eggstreme Madness (Subset - Bonus).chd" sha1="1d6c544077a1d239305a73124c077769209c360a"/>
-		<url>https://retroachievements.org/game/28298/hashes</url>
-		<hash>25e39d8c72b3505369cd443c080b4226</hash>
 	</machine>
 	
 	<machine name="Enter the Matrix (USA) (v1.01)">
@@ -2750,20 +2723,20 @@
 		<hash>c94fe75c82561518dacce74f15e077de</hash>
 	</machine>
 	
-	<machine name="Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23) (Subset - New Game Minus)">
-		<category>Subset</category>
-		<description>Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23) (Subset - New Game Minus)</description>
-		<release name="Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23) (Subset - New Game Minus)" region="World"/>
-		<disk name="Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23) (Subset - New Game Minus).chd" sha1="1ab41da2e9e7be65fe4db84c96d9689287f6f5e4"/>
+	<machine name="Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23) (Specialty Subset - New Game Minus)">
+		<category>Specialty Subset</category>
+		<description>Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23) (Specialty Subset - New Game Minus)</description>
+		<release name="Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23) (Specialty Subset - New Game Minus)" region="World"/>
+		<disk name="Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23) (Specialty Subset - New Game Minus).chd" sha1="1ab41da2e9e7be65fe4db84c96d9689287f6f5e4"/>
 		<url>https://retroachievements.org/game/20512/hashes</url>
 		<hash>302237f62bbd192b22c655204b5f486a</hash>
 	</machine>
 	
-	<machine name="Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23) (Subset - Single Job)">
-		<category>Subset</category>
-		<description>Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23) (Subset - Single Job)</description>
-		<release name="Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23) (Subset - Single Job)" region="World"/>
-		<disk name="Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23) (Subset - Single Job).chd" sha1="825cf9955f61ce630af817df46798f24a5d3725b"/>
+	<machine name="Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23) (Specialty Subset - Single Job)">
+		<category>Specialty Subset</category>
+		<description>Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23) (Specialty Subset - Single Job)</description>
+		<release name="Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23) (Specialty Subset - Single Job)" region="World"/>
+		<disk name="Final Fantasy XII International - Zodiac Job System (Japan) (En) (v0.23) (Specialty Subset - Single Job).chd" sha1="825cf9955f61ce630af817df46798f24a5d3725b"/>
 		<url>https://retroachievements.org/game/20511/hashes</url>
 		<hash>5e19abf05845db0e4f8c712da9137118</hash>
 	</machine>
@@ -3140,15 +3113,6 @@
 		<hash>87651d0c2e349e298c694fc650337351</hash>
 	</machine>
 	
-	<machine name="God of War II (Subset - Bonus)">
-		<category>Subset</category>
-		<description>God of War II (Subset - Bonus)</description>
-		<release name="God of War II (Subset - Bonus)" region="World"/>
-		<disk name="God of War II (Subset - Bonus).chd" sha1="7936d5d6dc9347165351835944bc1b1e3c9a804f"/>
-		<url>https://retroachievements.org/game/28250/hashes</url>
-		<hash>b04e16539b4dd4c1b722bf9ab84f7838</hash>
-	</machine>
-	
 	<machine name="Godzilla - Save the Earth (USA)">
 		<category>Retail</category>
 		<description>Godzilla - Save the Earth (USA)</description>
@@ -3447,15 +3411,6 @@
 		<hash>b0e9cceeacc51c1d827f569b82ed7060</hash>
 	</machine>
 	
-	<machine name="Guitar Hero (Subset - Expert Full Combos)">
-		<category>Subset</category>
-		<description>Guitar Hero (Subset - Expert Full Combos)</description>
-		<release name="Guitar Hero (Subset - Expert Full Combos)" region="World"/>
-		<disk name="Guitar Hero (Subset - Expert Full Combos).chd" sha1="b4b9126ed94ed760fdfdbc2c1a11713123020b56"/>
-		<url>https://retroachievements.org/game/21462/hashes</url>
-		<hash>edefdd7022063c815a741863c36b2d8d</hash>
-	</machine>
-	
 	<machine name="Guitar Hero Encore - Rocks the 80s (USA)">
 		<category>Retail</category>
 		<description>Guitar Hero Encore - Rocks the 80s (USA)</description>
@@ -3474,19 +3429,19 @@
 		<hash>19c22a571a612f288119b88d90c5708d</hash>
 	</machine>
 	
-	<machine name="Guitar Hero II (Subset - Expert Full Combos) (NTSC)">
-		<category>Subset</category>
-		<description>Guitar Hero II (Subset - Expert Full Combos) (NTSC)</description>
-		<release name="Guitar Hero II (Subset - Expert Full Combos) (NTSC)" region="USA"/>
-		<disk name="Guitar Hero II (Subset - Expert Full Combos) (NTSC).chd" sha1="cfaed5a791a8475663f717b0516e5bc5771d9bed"/>
+	<machine name="Guitar Hero II (Exclusive Subset - Expert Full Combos) (NTSC)">
+		<category>Exclusive Subset</category>
+		<description>Guitar Hero II (Exclusive Subset - Expert Full Combos) (NTSC)</description>
+		<release name="Guitar Hero II (Exclusive Subset - Expert Full Combos) (NTSC)" region="USA"/>
+		<disk name="Guitar Hero II (Exclusive Subset - Expert Full Combos) (NTSC).chd" sha1="cfaed5a791a8475663f717b0516e5bc5771d9bed"/>
 		<url>https://retroachievements.org/game/25607/hashes</url>
 		<hash>ae2e8e31651ddd0eca1606e9edb91928</hash>
 	</machine>
-	<machine name="Guitar Hero II (Subset - Expert Full Combos) (PAL)" cloneof="Guitar Hero II (Subset - Expert Full Combos) (NTSC)">
-		<category>Subset</category>
-		<description>Guitar Hero II (Subset - Expert Full Combos) (PAL)</description>
-		<release name="Guitar Hero II (Subset - Expert Full Combos) (PAL)" region="Europe"/>
-		<disk name="Guitar Hero II (Subset - Expert Full Combos) (PAL).chd" sha1="f7096f8c1a98b5b58b9e75e0c93dd4a650f5f983"/>
+	<machine name="Guitar Hero II (Exclusive Subset - Expert Full Combos) (PAL)" cloneof="Guitar Hero II (Exclusive Subset - Expert Full Combos) (NTSC)">
+		<category>Exclusive Subset</category>
+		<description>Guitar Hero II (Exclusive Subset - Expert Full Combos) (PAL)</description>
+		<release name="Guitar Hero II (Exclusive Subset - Expert Full Combos) (PAL)" region="Europe"/>
+		<disk name="Guitar Hero II (Exclusive Subset - Expert Full Combos) (PAL).chd" sha1="f7096f8c1a98b5b58b9e75e0c93dd4a650f5f983"/>
 		<url>https://retroachievements.org/game/25607/hashes</url>
 		<hash>38fc17670c3b4ac98f41b17e60f5f102</hash>
 	</machine>
@@ -3498,15 +3453,6 @@
 		<disk name="Guitar Hero III - Legends of Rock (USA).chd" sha1="4ed2aa2c0ef3124f0fa7ef8810ae9345aaec2707"/>
 		<url>https://retroachievements.org/game/5579/hashes</url>
 		<hash>b70f414d13dc1db98c6d0e975fda6723</hash>
-	</machine>
-	
-	<machine name="Guitar Hero III - Legends of Rock (Subset - Expert Full Combos)">
-		<category>Subset</category>
-		<description>Guitar Hero III - Legends of Rock (Subset - Expert Full Combos)</description>
-		<release name="Guitar Hero III - Legends of Rock (Subset - Expert Full Combos)" region="World"/>
-		<disk name="Guitar Hero III - Legends of Rock (Subset - Expert Full Combos).chd" sha1="bc4372afadce84bbc74cb1d516951f9476f4409e"/>
-		<url>https://retroachievements.org/game/20373/hashes</url>
-		<hash>80d6c76cee09b968e62dee0883b6a1b1</hash>
 	</machine>
 	
 	<machine name="Guitar Hero World Tour (USA) (En,Fr)">
@@ -5231,24 +5177,6 @@
 		<hash>b49c3351f3181673ca4f682cb04fbd6b</hash>
 	</machine>
 	
-	<machine name="Need for Speed - Hot Pursuit 2 (USA) (Subset - Extreme Challenges)" cloneof="Need for Speed - Hot Pursuit 2 (Europe, Australia) (v2.00) (Subset - Extreme Challenges)">
-		<category>Subset</category>
-		<description>Need for Speed - Hot Pursuit 2 (USA) (Subset - Extreme Challenges)</description>
-		<release name="Need for Speed - Hot Pursuit 2 (USA) (Subset - Extreme Challenges)" region="USA"/>
-		<disk name="Need for Speed - Hot Pursuit 2 (USA) (Subset - Extreme Challenges).chd" sha1="fa78cba191c2fc0e170ef4cbace8bc8b709e55a3"/>
-		<url>https://retroachievements.org/game/30158/hashes</url>
-		<hash>478be6a9f5ec33c9eb192e9ddf962c34</hash>
-	</machine>
-	<machine name="Need for Speed - Hot Pursuit 2 (Europe, Australia) (v2.00) (Subset - Extreme Challenges)">
-		<category>Subset</category>
-		<description>Need for Speed - Hot Pursuit 2 (Europe, Australia) (v2.00) (Subset - Extreme Challenges)</description>
-		<release name="Need for Speed - Hot Pursuit 2 (Europe, Australia) (v2.00) (Subset - Extreme Challenges)" region="Australia"/>
-		<release name="Need for Speed - Hot Pursuit 2 (Europe, Australia) (v2.00) (Subset - Extreme Challenges)" region="Europe"/>
-		<disk name="Need for Speed - Hot Pursuit 2 (Europe, Australia) (v2.00) (Subset - Extreme Challenges).chd" sha1="e0b0bb1d80764d7480694ad6774ea6b7724cb794"/>
-		<url>https://retroachievements.org/game/30158/hashes</url>
-		<hash>8db937b89982bc0c28459441ac9e18f4</hash>
-	</machine>
-	
 	<machine name="Need for Speed - Most Wanted - Black Edition (USA)">
 		<category>Retail</category>
 		<description>Need for Speed - Most Wanted - Black Edition (USA)</description>
@@ -6466,31 +6394,6 @@
 		<hash>b8ea7d5b6bae40d936926aa811571f5c</hash>
 	</machine>
 	
-	<machine name="Shadow Hearts (Europe) (Es) (v0.99) (Old Castle Street) (Subset - First Place Lottery Wins)" cloneof="Shadow Hearts (Europe) (Subset - First Place Lottery Wins)">
-		<category>Subset</category>
-		<description>Shadow Hearts (Europe) (Es) (v0.99) (Old Castle Street) (Subset - First Place Lottery Wins)</description>
-		<release name="Shadow Hearts (Europe) (Es) (v0.99) (Old Castle Street) (Subset - First Place Lottery Wins)" region="Spain"/>
-		<disk name="Shadow Hearts (Europe) (Es) (v0.99) (Old Castle Street) (Subset - First Place Lottery Wins).chd" sha1="fac6e2b504db0023e4d8e66cb55532e5a5310ec6"/>
-		<url>https://retroachievements.org/game/20615/hashes</url>
-		<hash>4d3871f3b4195676e0788a935848d44f</hash>
-	</machine>
-	<machine name="Shadow Hearts (USA) (Subset - First Place Lottery Wins)" cloneof="Shadow Hearts (Europe) (Subset - First Place Lottery Wins)">
-		<category>Subset</category>
-		<description>Shadow Hearts (USA) (Subset - First Place Lottery Wins)</description>
-		<release name="Shadow Hearts (USA) (Subset - First Place Lottery Wins)" region="USA"/>
-		<disk name="Shadow Hearts (USA) (Subset - First Place Lottery Wins).chd" sha1="d37470ef8f7378d2b8be29966b78c9f23cda7dce"/>
-		<url>https://retroachievements.org/game/20615/hashes</url>
-		<hash>81cf2a4c82001a132fe72bff3a018383</hash>
-	</machine>
-	<machine name="Shadow Hearts (Europe) (Subset - First Place Lottery Wins)">
-		<category>Subset</category>
-		<description>Shadow Hearts (Europe) (Subset - First Place Lottery Wins)</description>
-		<release name="Shadow Hearts (Europe) (Subset - First Place Lottery Wins)" region="Europe"/>
-		<disk name="Shadow Hearts (Europe) (Subset - First Place Lottery Wins).chd" sha1="bdd940edc0b5ae1ffaf46925dbeec838f74207e6"/>
-		<url>https://retroachievements.org/game/20615/hashes</url>
-		<hash>a19bb2d7321e50433eb982fd0940ae59</hash>
-	</machine>
-	
 	<machine name="Shadow Hearts - Covenant (USA) (Disc 1)">
 		<category>Retail</category>
 		<description>Shadow Hearts - Covenant (USA) (Disc 1)</description>
@@ -6506,23 +6409,6 @@
 		<disk name="Shadow Hearts - Covenant (USA) (Disc 2).chd" sha1="4694af6e05a09d8d04feed16ab8194bb9eaaf723"/>
 		<url>https://retroachievements.org/game/7899/hashes</url>
 		<hash>fef40631dc5ea939508d57a0d4f23b59</hash>
-	</machine>
-	
-	<machine name="Shadow Hearts - Covenant (Subset - First Place Lottery Wins) (Disc 1)">
-		<category>Subset</category>
-		<description>Shadow Hearts - Covenant (Subset - First Place Lottery Wins) (Disc 1)</description>
-		<release name="Shadow Hearts - Covenant (Subset - First Place Lottery Wins) (Disc 1)" region="World"/>
-		<disk name="Shadow Hearts - Covenant (Subset - First Place Lottery Wins) (Disc 1).chd" sha1="f535956534cfddc920e8eee809bed4c58f24c69f"/>
-		<url>https://retroachievements.org/game/20359/hashes</url>
-		<hash>651e4dff3ca59d4d399611ddad68f620</hash>
-	</machine>
-	<machine name="Shadow Hearts - Covenant (Subset - First Place Lottery Wins) (Disc 2)">
-		<category>Subset</category>
-		<description>Shadow Hearts - Covenant (Subset - First Place Lottery Wins) (Disc 2)</description>
-		<release name="Shadow Hearts - Covenant (Subset - First Place Lottery Wins) (Disc 2)" region="World"/>
-		<disk name="Shadow Hearts - Covenant (Subset - First Place Lottery Wins) (Disc 2).chd" sha1="5f66f811edab52ee1293c0093294328dacc83266"/>
-		<url>https://retroachievements.org/game/20359/hashes</url>
-		<hash>d7cf60e2c797b90f86448f71529580cb</hash>
 	</machine>
 	
 	<machine name="Shadow of Destiny (USA)" cloneof="Shadow of Memories (Europe) (En,Fr,De,Es,It)">
@@ -7731,15 +7617,6 @@
 		<hash>9a136db321f819bdadc18a0788ec8839</hash>
 	</machine>
 	
-	<machine name="Tak - The Great Juju Challenge (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Tak - The Great Juju Challenge (Subset - Bonus)</description>
-		<release name="Tak - The Great Juju Challenge (Subset - Bonus)" region="World"/>
-		<disk name="Tak - The Great Juju Challenge (Subset - Bonus).chd" sha1="0e06d747ab1a8cc9d4ef32d20b35a535fd98c0af"/>
-		<url>https://retroachievements.org/game/20303/hashes</url>
-		<hash>5bc8e7c0cbf6839b59d1bd0921ddcce3</hash>
-	</machine>
-	
 	<machine name="Tales of the Abyss (USA)">
 		<category>Retail</category>
 		<description>Tales of the Abyss (USA)</description>
@@ -7832,15 +7709,6 @@
 		<disk name="Tekken 5 (USA).chd" sha1="0cbf482c120539367cecb5aafa57e8fb508184a6"/>
 		<url>https://retroachievements.org/game/9419/hashes</url>
 		<hash>2035c46c67113e96a91f84e209e6f6dc</hash>
-	</machine>
-	
-	<machine name="Tekken 5 (Subset - Tekken Lord)">
-		<category>Subset</category>
-		<description>Tekken 5 (Subset - Tekken Lord)</description>
-		<release name="Tekken 5 (Subset - Tekken Lord)" region="World"/>
-		<disk name="Tekken 5 (Subset - Tekken Lord).chd" sha1="a3e4cd97df53bce66b01456be38abb17c52c6ad0"/>
-		<url>https://retroachievements.org/game/25414/hashes</url>
-		<hash>8b3054cc6704d49d6495ea2ddda67d66</hash>
 	</machine>
 	
 	<machine name="Tekken Tag Tournament (USA) (v2.00)">
@@ -8757,11 +8625,11 @@
 		<hash>91110fe34391c4a42b51d2a5afa95c90</hash>
 	</machine>
 	
-	<machine name="Tony Hawk's Underground (Subset - Zero Stats)">
-		<category>Subset</category>
-		<description>Tony Hawk's Underground (Subset - Zero Stats)</description>
-		<release name="Tony Hawk's Underground (Subset - Zero Stats)" region="World"/>
-		<disk name="Tony Hawk's Underground (Subset - Zero Stats).chd" sha1="0e884503607bc9e95448d65d1e4a02deabaaeff7"/>
+	<machine name="Tony Hawk's Underground (Specialty Subset - Zero Stats)">
+		<category>Specialty Subset</category>
+		<description>Tony Hawk's Underground (Specialty Subset - Zero Stats)</description>
+		<release name="Tony Hawk's Underground (Specialty Subset - Zero Stats)" region="World"/>
+		<disk name="Tony Hawk's Underground (Specialty Subset - Zero Stats).chd" sha1="0e884503607bc9e95448d65d1e4a02deabaaeff7"/>
 		<url>https://retroachievements.org/game/21437/hashes</url>
 		<hash>155709c03073b3c65419a5c2be28f0bb</hash>
 	</machine>
@@ -9404,11 +9272,11 @@
 		<hash>a4bceba6cde9a468097b3ec6a979cbdb</hash>
 	</machine>
 	
-	<machine name="Yu-Gi-Oh! Capsule Monster Coliseum (Subset - 1000 Monsters)">
-		<category>Subset</category>
-		<description>Yu-Gi-Oh! Capsule Monster Coliseum (Subset - 1000 Monsters)</description>
-		<release name="Yu-Gi-Oh! Capsule Monster Coliseum (Subset - 1000 Monsters)" region="World"/>
-		<disk name="Yu-Gi-Oh! Capsule Monster Coliseum (Subset - 1000 Monsters).chd" sha1="67ee6ebc6508f68bc2ad83d79d1f93225b4567a3"/>
+	<machine name="Yu-Gi-Oh! Capsule Monster Coliseum (Specialty Subset - 1000 Monsters)">
+		<category>Specialty Subset</category>
+		<description>Yu-Gi-Oh! Capsule Monster Coliseum (Specialty Subset - 1000 Monsters)</description>
+		<release name="Yu-Gi-Oh! Capsule Monster Coliseum (Specialty Subset - 1000 Monsters)" region="World"/>
+		<disk name="Yu-Gi-Oh! Capsule Monster Coliseum (Specialty Subset - 1000 Monsters).chd" sha1="67ee6ebc6508f68bc2ad83d79d1f93225b4567a3"/>
 		<url>https://retroachievements.org/game/30937/hashes</url>
 		<hash>629857f74643aa9d338375848de4bca9</hash>
 	</machine>

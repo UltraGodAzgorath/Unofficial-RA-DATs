@@ -5,8 +5,8 @@
 		<name>RA - Sega Saturn</name>
 		<description>Sega Saturn</description>
 		<category>Subfolders</category>
-		<version>20260117</version>
-		<date>17 January 2026</date>
+		<version>20260122</version>
+		<date>22 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/39/games</url>
@@ -800,14 +800,6 @@
 		<disk name="Mega Man 8 (USA).chd" sha1="7d23072285feb8cd383e324e1e9d952230ebdf4c"/>
 		<url>https://retroachievements.org/game/14509/hashes</url>
 		<hash>96fb18cbfed4447c30fb1ff3ff64557b</hash>
-	</machine>
-	
-	<machine name="Subset/Mega Man 8 - Anniversary Collector's Edition (Subset - Mega Ball Only)">
-		<category></category>
-		<description>Mega Man 8 - Anniversary Collector's Edition (Subset - Mega Ball Only)</description>
-		<disk name="Mega Man 8 - Anniversary Collector's Edition (Subset - Mega Ball Only).chd" sha1="457b0c2667bf2ec6923d84c4a1d57f7f76b7e72e"/>
-		<url>https://retroachievements.org/game/26656/hashes</url>
-		<hash>6da464e225d43d3430d5237bcc92ec68</hash>
 	</machine>
 	
 	<machine name="Retail/Mega Man X4 (USA)">

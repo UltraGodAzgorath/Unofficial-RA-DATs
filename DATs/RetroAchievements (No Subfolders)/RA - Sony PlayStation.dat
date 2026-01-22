@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation</name>
 		<description>Sony Playstation</description>
 		<category>No Subfolders</category>
-		<version>20260117</version>
-		<date>17 January 2026</date>
+		<version>20260122</version>
+		<date>22 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -176,20 +176,20 @@
 		<hash>b8ef30dc369ce6d1f3e4eb2fc3e1c404</hash>
 	</machine>
 	
-	<machine name="Digimon World Vice (Hack) (Subset - Filth Challenge)">
-		<category>Subset</category>
-		<description>Digimon World Vice (Hack) (Subset - Filth Challenge)</description>
-		<release name="Digimon World Vice (Hack) (Subset - Filth Challenge)" region="World"/>
-		<disk name="Digimon World Vice (Hack) (Subset - Filth Challenge).chd" sha1="4f29d16e5432e7195014adc90024d600b89b2e5e"/>
+	<machine name="Digimon World Vice (Hack) (Specialty Subset - Filth Challenge)">
+		<category>Specialty Subset</category>
+		<description>Digimon World Vice (Hack) (Specialty Subset - Filth Challenge)</description>
+		<release name="Digimon World Vice (Hack) (Specialty Subset - Filth Challenge)" region="World"/>
+		<disk name="Digimon World Vice (Hack) (Specialty Subset - Filth Challenge).chd" sha1="4f29d16e5432e7195014adc90024d600b89b2e5e"/>
 		<url>https://retroachievements.org/game/32946/hashes</url>
 		<hash>5f90675d2e1ec9a18a1c65286a8ac8b8</hash>
 	</machine>
 	
-	<machine name="Digimon World Vice (Hack) (Subset - True Hardcore)">
-		<category>Subset</category>
-		<description>Digimon World Vice (Hack) (Subset - True Hardcore)</description>
-		<release name="Digimon World Vice (Hack) (Subset - True Hardcore)" region="World"/>
-		<disk name="Digimon World Vice (Hack) (Subset - True Hardcore).chd" sha1="191e109be279e0cc9d0fa9db5c027cc8dde3e1c7"/>
+	<machine name="Digimon World Vice (Hack) (Specialty Subset - True Hardcore)">
+		<category>Specialty Subset</category>
+		<description>Digimon World Vice (Hack) (Specialty Subset - True Hardcore)</description>
+		<release name="Digimon World Vice (Hack) (Specialty Subset - True Hardcore)" region="World"/>
+		<disk name="Digimon World Vice (Hack) (Specialty Subset - True Hardcore).chd" sha1="191e109be279e0cc9d0fa9db5c027cc8dde3e1c7"/>
 		<url>https://retroachievements.org/game/32925/hashes</url>
 		<hash>119568ca77097278f48f7875183790c0</hash>
 	</machine>
@@ -4793,11 +4793,11 @@
 		<hash>ec82c408a42604ab734ada1524c0be20</hash>
 	</machine>
 	
-	<machine name="Mega Man X4 (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Mega Man X4 (Subset - Bonus)</description>
-		<release name="Mega Man X4 (Subset - Bonus)" region="World"/>
-		<disk name="Mega Man X4 (Subset - Bonus).chd" sha1="54185da53157c06971239f70b3ce19d2011f1fa3"/>
+	<machine name="Mega Man X4 (Specialty Subset - Bonus)">
+		<category>Specialty Subset</category>
+		<description>Mega Man X4 (Specialty Subset - Bonus)</description>
+		<release name="Mega Man X4 (Specialty Subset - Bonus)" region="World"/>
+		<disk name="Mega Man X4 (Specialty Subset - Bonus).chd" sha1="54185da53157c06971239f70b3ce19d2011f1fa3"/>
 		<url>https://retroachievements.org/game/16379/hashes</url>
 		<hash>17e635e4f67d2d37409fb2190d506bb7</hash>
 	</machine>
@@ -4817,15 +4817,6 @@
 		<disk name="Mega Man X5 (USA).chd" sha1="c9c6246beb5b6bd6ae45498db2b8026ade8522f0"/>
 		<url>https://retroachievements.org/game/11335/hashes</url>
 		<hash>e587ff4a17ca07291a0deb17a6ea4640</hash>
-	</machine>
-	
-	<machine name="Mega Man X5 (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Mega Man X5 (Subset - Bonus)</description>
-		<release name="Mega Man X5 (Subset - Bonus)" region="World"/>
-		<disk name="Mega Man X5 (Subset - Bonus).chd" sha1="e3e228b252725e4bb5625e7cf41804232f54c955"/>
-		<url>https://retroachievements.org/game/16381/hashes</url>
-		<hash>08dbcd7d7cb0e19acfd37dbcc7aaefdf</hash>
 	</machine>
 	
 	<machine name="Mega Man X6 (USA)">
@@ -5081,15 +5072,6 @@
 		<disk name="Monster Rancher 2 (USA).chd" sha1="25f3002aef062017e2c3aaf2e0b369744d2164a8"/>
 		<url>https://retroachievements.org/game/11287/hashes</url>
 		<hash>d84a42e1ad160c40d5049f398704dec6</hash>
-	</machine>
-	
-	<machine name="Monster Rancher 2 (Subset - 389 Legend Cup Champions)">
-		<category>Subset</category>
-		<description>Monster Rancher 2 (Subset - 389 Legend Cup Champions)</description>
-		<release name="Monster Rancher 2 (Subset - 389 Legend Cup Champions)" region="USA"/>
-		<disk name="Monster Rancher 2 (Subset - 389 Legend Cup Champions).chd" sha1="708b4643652cfef8057d86ad43d4feff051e6295"/>
-		<url>https://retroachievements.org/game/32120/hashes</url>
-		<hash>1c1565ed69e14606fa508ebc5ee452fc</hash>
 	</machine>
 	
 	<machine name="Monster Rancher Battle Card - Episode II (USA)">

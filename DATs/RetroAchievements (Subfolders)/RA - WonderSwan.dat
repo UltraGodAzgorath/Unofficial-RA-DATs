@@ -5,8 +5,8 @@
 		<name>RA - WonderSwan</name>
 		<description>WonderSwan</description>
 		<category>Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260122</version>
+		<date>22 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/53/games</url>
@@ -296,21 +296,6 @@
 		<rom name="Makai Toushi Sa-Ga (Japan) (En) (v1.2) (Tower Reversed).wsc" size="4194304" crc="a4308378" md5="f1d130f871a4440be635322c73662049" sha1="f800e5305292a81be738f15426269329a8d139b1"/>
 		<url>https://retroachievements.org/game/14602/hashes</url>
 		<hash>f1d130f871a4440be635322c73662049</hash>
-	</game>
-	
-	<game name="Subset/Makai Toushi Sa-Ga (Subset - Solo Class)/Makai Toushi Sa-Ga (Japan) (En) (Subset - Solo Class)">
-		<category>WonderSwan Color</category>
-		<description>Makai Toushi Sa-Ga (Japan) (En) (Subset - Solo Class)</description>
-		<rom name="Makai Toushi Sa-Ga (Japan) (En) (Subset - Solo Class).wsc" size="4194304" crc="f79986d0" md5="1edff9c7eb20454dcd2cd6c6e23fc7c6" sha1="98435b40985247a9f2358aff1c164a75ff0071bb"/>
-		<url>https://retroachievements.org/game/18495/hashes</url>
-		<hash>1edff9c7eb20454dcd2cd6c6e23fc7c6</hash>
-	</game>
-	<game name="Subset/Makai Toushi Sa-Ga (Subset - Solo Class)/Makai Toushi Sa-Ga (Subset - Solo Class)">
-		<category>WonderSwan Color</category>
-		<description>Makai Toushi Sa-Ga (Subset - Solo Class)</description>
-		<rom name="Makai Toushi Sa-Ga (Subset - Solo Class).wsc" size="4194304" crc="48c65a98" md5="ac0b4121ead3c4b1ec102a57d1bb697d" sha1="9fbd69d1102a3924779a43b4dbf05862b1369afe"/>
-		<url>https://retroachievements.org/game/18495/hashes</url>
-		<hash>ac0b4121ead3c4b1ec102a57d1bb697d</hash>
 	</game>
 	
 	<game name="Retail/Makaimura for WonderSwan (Japan)">

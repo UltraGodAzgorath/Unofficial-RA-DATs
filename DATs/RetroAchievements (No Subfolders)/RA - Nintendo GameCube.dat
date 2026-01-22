@@ -5,8 +5,8 @@
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
 		<category>No Subfolders</category>
-		<version>20260117</version>
-		<date>17 January 2026</date>
+		<version>20260122</version>
+		<date>22 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/16/games</url>
@@ -128,15 +128,6 @@
 		<rom name="Pikmin 2 - Pikmin 1^2 (v1.1) (PikHacker) (Hack).rvz" size="1166334264" crc="2b378144" md5="e387b5e3d1ca033b29a1416bd4f48ac8" sha1="1aae1fcf1589ca9e9194436c2d29258015fd90e4"/>
 		<url>https://retroachievements.org/game/32657/hashes</url>
 		<hash>f45d751b8a2131de52cbcdb98e4ac227</hash>
-	</game>
-	
-	<game name="Pikmin 1² (Subset - Randomizer Run)">
-		<category>Subset</category>
-		<description>Pikmin 1² (Subset - Randomizer Run)</description>
-		<release name="Pikmin 1² (Subset - Randomizer Run)" region="World"/>
-		<rom name="Pikmin 1² (Subset - Randomizer Run).rvz" size="1166334264" crc="7a71e501" md5="28ffd250627a8f4505991ef89cc3a723" sha1="e342d10b7dd855f69869eebe994d15ffbaeea1af"/>
-		<url>https://retroachievements.org/game/34508/hashes</url>
-		<hash>b4799cdf60ffa240d24e7444c0f28713</hash>
 	</game>
 	
 	<game name="Pikmin 2 - Caveless Edition (v1.21) (Cutscenes and Purple Pikmin) (Bugabread) (Hack)">
@@ -644,15 +635,6 @@
 		<rom name="Dragon Ball Z - Budokai 2 (USA).rvz" size="776348280" crc="9ade8186" md5="832f73fdc8af3ccc01be06dc2a577a1e" sha1="ed9e5c9fc4a023179ac0d1e69a192b1ea48a7794"/>
 		<url>https://retroachievements.org/game/28373/hashes</url>
 		<hash>efbb9d397524083b762ec88eccc69dbc</hash>
-	</game>
-	
-	<game name="Dragon Ball Z - Budokai 2 (Subset - World Tournament)">
-		<category>Subset</category>
-		<description>Dragon Ball Z - Budokai 2 (Subset - World Tournament)</description>
-		<release name="Dragon Ball Z - Budokai 2 (Subset - World Tournament)" region="World"/>
-		<rom name="Dragon Ball Z - Budokai 2 (Subset - World Tournament).rvz" size="776348284" crc="d6c090b4" md5="e999ae4474fe4fd6fb27da5b86ef3ecc" sha1="6fcba2c09314ecc02f22c9433c9e6fbfeb818369"/>
-		<url>https://retroachievements.org/game/30720/hashes</url>
-		<hash>94e6534230a5a2d60f140759e6b712ed</hash>
 	</game>
 	
 	<game name="Ed, Edd n Eddy - The Mis-Edventures (USA) (En,Fr)">
@@ -1427,15 +1409,6 @@
 		<hash>1efcd72f2543cb9b4c38cb39ec3efc66</hash>
 	</game>
 	
-	<game name="Pokemon XD - Gale of Darkness (Subset - Eevee)">
-		<category>Subset</category>
-		<description>Pokemon XD - Gale of Darkness (Subset - Eevee)</description>
-		<release name="Pokemon XD - Gale of Darkness (Subset - Eevee)" region="World"/>
-		<rom name="Pokemon XD - Gale of Darkness (Subset - Eevee).rvz" size="984705084" crc="f13a9729" md5="6898bdd9921ee82d1f5ec4c45f32a235" sha1="c4d92cdd777a1898671c7d24cdfb10ac3369eac8"/>
-		<url>https://retroachievements.org/game/32803/hashes</url>
-		<hash>373559eda564e2722508afc1f4de1643</hash>
-	</game>
-	
 	<game name="Radirgy Generic (Japan)">
 		<category>Retail</category>
 		<description>Radirgy Generic (Japan)</description>
@@ -2114,15 +2087,6 @@
 		<rom name="Legend of Zelda, The - Twilight Princess (USA).rvz" size="929908128" crc="104029c6" md5="c68742bc0d1bfe93d5e13c384c621fd4" sha1="4ec0b52e4f25b4cfed6905ce0ba53f562e6989eb"/>
 		<url>https://retroachievements.org/game/3934/hashes</url>
 		<hash>0d02d0c796d09d6df9109ffba0dca877</hash>
-	</game>
-	
-	<game name="Legend of Zelda, The - Twilight Princess (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Legend of Zelda, The - Twilight Princess (Subset - Bonus)</description>
-		<release name="Legend of Zelda, The - Twilight Princess (Subset - Bonus)" region="World"/>
-		<rom name="Legend of Zelda, The - Twilight Princess (Subset - Bonus).rvz" size="929908128" crc="e6b9d633" md5="39598e5398fabe2e0e9581c3063b4298" sha1="cf07576f200bd65176482e27a89bd616cfb5945f"/>
-		<url>https://retroachievements.org/game/29801/hashes</url>
-		<hash>be14f197a38720e8b8bc7717c7b2ad38</hash>
 	</game>
 	
 	<game name="Simpsons, The - Hit &amp; Run (USA)">

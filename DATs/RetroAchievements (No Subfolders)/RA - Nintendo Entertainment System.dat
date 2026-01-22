@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>No Subfolders</category>
-		<version>20260117</version>
-		<date>17 January 2026</date>
+		<version>20260122</version>
+		<date>22 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/7/games</url>
@@ -196,11 +196,11 @@
 		<hash>421f40260793e81afb28f4c7bdd6c139</hash>
 	</game>
 	
-	<game name="Dragoon X Omega II - Easy Mode (Bosses Buffed) (Final 2) (Silver X) (Subset - Bonus) (Hack)">
-		<category>Subset</category>
-		<description>Dragoon X Omega II - Easy Mode (Bosses Buffed) (Final 2) (Silver X) (Subset - Bonus) (Hack)</description>
-		<release name="Dragoon X Omega II - Easy Mode (Bosses Buffed) (Final 2) (Silver X) (Subset - Bonus) (Hack)" region="World"/>
-		<rom name="Dragoon X Omega II - Easy Mode (Bosses Buffed) (Final 2) (Silver X) (Subset - Bonus) (Hack).nes" size="262160" crc="f1c1fdf1" md5="9cdbe666cad0bb777ecb42c24032eb0b" sha1="7125915c634a9db38dea75b2384f9a2be587a867"/>
+	<game name="Dragoon X Omega II - Easy Mode (Bosses Buffed) (Final 2) (Silver X) (Specialty Subset - Bonus) (Hack)">
+		<category>Specialty Subset</category>
+		<description>Dragoon X Omega II - Easy Mode (Bosses Buffed) (Final 2) (Silver X) (Specialty Subset - Bonus) (Hack)</description>
+		<release name="Dragoon X Omega II - Easy Mode (Bosses Buffed) (Final 2) (Silver X) (Specialty Subset - Bonus) (Hack)" region="World"/>
+		<rom name="Dragoon X Omega II - Easy Mode (Bosses Buffed) (Final 2) (Silver X) (Specialty Subset - Bonus) (Hack).nes" size="262160" crc="f1c1fdf1" md5="9cdbe666cad0bb777ecb42c24032eb0b" sha1="7125915c634a9db38dea75b2384f9a2be587a867"/>
 		<url>https://retroachievements.org/game/22841/hashes</url>
 		<hash>10ceaa1906dec9a7f2e949acac053e31</hash>
 	</game>
@@ -11667,46 +11667,6 @@
 		<hash>fc3dfdaa46c3baf807633a892d651d3a</hash>
 	</game>
 	
-	<game name="Ninja Ryuuken Den (Subset - Bonus) (Japan) (Wii Virtual Console)" cloneof="Ninja Gaiden (Subset - Bonus) (USA)">
-		<category>Subset</category>
-		<description>Ninja Ryuuken Den (Subset - Bonus) (Wii Virtual Console)</description>
-		<rom name="Ninja Ryuuken Den (Subset - Bonus) (Wii Virtual Console).nes" size="262160" crc="7106d02a" md5="740ddd108edd78579a725dbd2c3c1ab4" sha1="837e5fb378cac29c160fa470bdd3387129c6bc53"/>
-		<url>https://retroachievements.org/game/17489/hashes</url>
-		<hash>0820b47539d92e5015413c2081feb076</hash>
-	</game>
-	<game name="Ninja Ryuuken Den (Subset - Bonus) (Japan)" cloneof="Ninja Gaiden (Subset - Bonus) (USA)">
-		<category>Subset</category>
-		<description>Ninja Ryuuken Den (Subset - Bonus)</description>
-		<release name="Ninja Ryuuken Den (Subset - Bonus) (Japan)" region="Japan"/>
-		<rom name="Ninja Ryuuken Den (Subset - Bonus).nes" size="262160" crc="a62602dc" md5="c83f75b1cc78300847591a7ea0d08ed9" sha1="2292e80bcbd94cb24dfcaa3e2df05baeac6cd324"/>
-		<url>https://retroachievements.org/game/17489/hashes</url>
-		<hash>28a40c1dd6727e4dd00dc8e53688ece3</hash>
-	</game>
-	<game name="Ninja Gaiden (Subset - Bonus) (USA)">
-		<category>Subset</category>
-		<description>Ninja Gaiden (Subset - Bonus) (USA)</description>
-		<release name="Ninja Gaiden (Subset - Bonus) (USA)" region="USA"/>
-		<rom name="Ninja Gaiden (Subset - Bonus) (USA).nes" size="262160" crc="0da7498b" md5="1498daee1d8c99a0ac06ba2b3042811c" sha1="4b44985b3c9d3bde103c9623115ea2a8c52ea9ae"/>
-		<url>https://retroachievements.org/game/17489/hashes</url>
-		<hash>2c0dff43afb4c318516dc805d6c7bf5e</hash>
-	</game>
-	<game name="Ninja Gaiden (Subset - Bonus) (Japan) (Wii U Virtual Console)" cloneof="Ninja Gaiden (Subset - Bonus) (USA)">
-		<category>Subset</category>
-		<description>Ninja Gaiden (Subset - Bonus) (Japan)</description>
-		<rom name="Ninja Gaiden (Subset - Bonus) (Japan).nes" size="262160" crc="0e52ee0a" md5="5c8c4864778ff8da56381fa1d8c87e37" sha1="3514a3e252dae4a8ab6aa1dc474b391d4e9063d3"/>
-		<url>https://retroachievements.org/game/17489/hashes</url>
-		<hash>b2ca702344438e56c300d234215aebd1</hash>
-	</game>
-	
-	<game name="Ninja Gaiden (Subset - Full Game Damageless)">
-		<category>Subset</category>
-		<description>Ninja Gaiden (Subset - Full Game Damageless)</description>
-		<release name="Ninja Gaiden (Subset - Full Game Damageless)" region="World"/>
-		<rom name="Ninja Gaiden (Subset - Full Game Damageless).nes" size="262160" crc="f8a15019" md5="e31f04a4901407973acf9a6fab4458dd" sha1="334903042bf611050de3993a5212b3d723b22884"/>
-		<url>https://retroachievements.org/game/25303/hashes</url>
-		<hash>73cdad2ca780c45091b2035f2eb9ca3b</hash>
-	</game>
-	
 	<game name="Ninja Gaiden II - The Dark Sword of Chaos (USA)">
 		<category>Retail</category>
 		<description>Ninja Gaiden II - The Dark Sword of Chaos (USA)</description>
@@ -16420,15 +16380,6 @@
 		<rom name="Zelda II - The Adventure of Link (Flash Removal) (v1.0) (Zenkerdus).nes" size="262160" crc="c3c4b9e9" md5="88e8aad00e137d050419fbf3b85ce073" sha1="77f506043f038e18a901777cafc5de3f604a372d"/>
 		<url>https://retroachievements.org/game/1453/hashes</url>
 		<hash>8e381e740c91dd183fb6ec866b6b0ce7</hash>
-	</game>
-	
-	<game name="LoZ2 - The Adventure of Link (Subset - Level-1 Runs)">
-		<category>Subset</category>
-		<description>LoZ2 - The Adventure of Link (Subset - Level-1 Runs)</description>
-		<release name="LoZ2 - The Adventure of Link (Subset - Level-1 Runs)" region="World"/>
-		<rom name="LoZ2 - The Adventure of Link (Subset - Level-1 Runs).nes" size="262160" crc="090a7b28" md5="8b2bbac0e3074c876497e08117dea147" sha1="3732b4ce637d4b420bd23be4816bdd229f6e8d63"/>
-		<url>https://retroachievements.org/game/10311/hashes</url>
-		<hash>abc9f94f97c712b22bcdd2c04ac9ecb8</hash>
 	</game>
 	
 	<game name="Zen - Intergalactic Ninja (USA)" cloneof="Zen - Intergalactic Ninja (Europe)">

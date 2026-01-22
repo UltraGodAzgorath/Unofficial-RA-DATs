@@ -5,8 +5,8 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20260117</version>
-		<date>17 January 2026</date>
+		<version>20260122</version>
+		<date>22 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/3/games</url>
@@ -4344,21 +4344,6 @@
 		<hash>bf692f974dd4f9760b4ff8f95695263d</hash>
 	</game>
 	
-	<game name="Subset/Aero Fighters/Aero Fighters (USA) (Subset - Multi)">
-		<category>Super Nintendo</category>
-		<description>Aero Fighters (USA) (Subset - Multi)</description>
-		<rom name="Aero Fighters (USA) (Subset - Multi).sfc" size="1310720" crc="e75765dd" md5="c8d71767ba8f2600412d217267643244" sha1="7716925765f4ba8bcfc1041db7c31289448011ac"/>
-		<url>https://retroachievements.org/game/17953/hashes</url>
-		<hash>c8d71767ba8f2600412d217267643244</hash>
-	</game>
-	<game name="Subset/Aero Fighters/Aero Fighters (Japan) (Subset - Multi)">
-		<category>Super Nintendo</category>
-		<description>Aero Fighters (Japan) (Subset - Multi)</description>
-		<rom name="Aero Fighters (Japan) (Subset - Multi).sfc" size="1310720" crc="6b9ecf82" md5="fa98781479353ffa8b6495bba7d264db" sha1="11563bbc22c2e1d4c4451914c14ca2324994d4f6"/>
-		<url>https://retroachievements.org/game/17953/hashes</url>
-		<hash>fa98781479353ffa8b6495bba7d264db</hash>
-	</game>
-	
 	<game name="Retail/Aero the Acro-Bat (USA)">
 		<category>Super Nintendo</category>
 		<description>Aero the Acro-Bat (USA)</description>
@@ -6223,14 +6208,6 @@
 		<rom name="Super Donkey Kong 2 - Dixie &amp; Diddy (Japan).sfc" size="4194304" crc="a0be8e71" md5="f65bde686bda6226aea555858a74bb7d" sha1="5ed7ecd3aa25bb37b6605bacc6120f5ebcd9aa5f"/>
 		<url>https://retroachievements.org/game/466/hashes</url>
 		<hash>f65bde686bda6226aea555858a74bb7d</hash>
-	</game>
-	
-	<game name="Subset/Donkey Kong Country 2 - Diddy's Kong Quest (Subset - Bonus)">
-		<category>Super Nintendo</category>
-		<description>Donkey Kong Country 2 - Diddy's Kong Quest (Subset - Bonus)</description>
-		<rom name="Donkey Kong Country 2 - Diddy's Kong Quest (Subset - Bonus).sfc" size="4194304" crc="5637098d" md5="e3b96cadbbd2a5b8de98de7ff2a1bd45" sha1="28c8873f3b74cd70ca3d5fe0a59effb86d5fb25c"/>
-		<url>https://retroachievements.org/game/2628/hashes</url>
-		<hash>e3b96cadbbd2a5b8de98de7ff2a1bd45</hash>
 	</game>
 	
 	<game name="Retail/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr)">
@@ -8467,10 +8444,10 @@
 		<hash>cb76ea8ac989e71210c89102d91c6c57</hash>
 	</game>
 	
-	<game name="Subset/Kirby Super Star (Subset - Multi)">
+	<game name="Specialty Subset/Kirby Super Star (Specialty Subset - Multi)">
 		<category>Super Nintendo</category>
-		<description>Kirby Super Star (Subset - Multi)</description>
-		<rom name="Kirby Super Star (Subset - Multi).sfc" size="4194304" crc="f0d6f0ab" md5="3e54a89b04854bd7593a81fb18000eb5" sha1="2e39b3db7b664f69b73c77699449fd99357a1499"/>
+		<description>Kirby Super Star (Specialty Subset - Multi)</description>
+		<rom name="Kirby Super Star (Specialty Subset - Multi).sfc" size="4194304" crc="f0d6f0ab" md5="3e54a89b04854bd7593a81fb18000eb5" sha1="2e39b3db7b664f69b73c77699449fd99357a1499"/>
 		<url>https://retroachievements.org/game/19888/hashes</url>
 		<hash>3e54a89b04854bd7593a81fb18000eb5</hash>
 	</game>
@@ -9251,14 +9228,6 @@
 		<hash>df1cc0c8c8c4b61e3b834cc03366611c</hash>
 	</game>
 	
-	<game name="Subset/Mega Man X (Subset - Bonus)">
-		<category>Super Nintendo</category>
-		<description>Mega Man X (Subset - Bonus)</description>
-		<rom name="Mega Man X (Subset - Bonus).sfc" size="1572864" crc="13ce66ae" md5="e3518a94d6654fd48afe182bb4ee702d" sha1="005284878e1cf8616c969963be3e8cc34bfa3ff6"/>
-		<url>https://retroachievements.org/game/5887/hashes</url>
-		<hash>e3518a94d6654fd48afe182bb4ee702d</hash>
-	</game>
-	
 	<game name="Retail/Megaman X2/Megaman X2 (USA) (Es) (v1.01) (Ereza)">
 		<category>Super Nintendo</category>
 		<description>Megaman X2 (USA) (Es) (v1.01) (Ereza)</description>
@@ -9302,14 +9271,6 @@
 		<hash>fc9bfde615cbed7c6a55b9350506c712</hash>
 	</game>
 	
-	<game name="Subset/Mega Man X2 (Subset - Bonus)">
-		<category>Super Nintendo</category>
-		<description>Mega Man X2 (Subset - Bonus)</description>
-		<rom name="Mega Man X2 (Subset - Bonus).sfc" size="1572864" crc="4c53a1b7" md5="e53bac43ed9049ed28751477e4cc844d" sha1="32f1f910fdee7d6b42802e3b76ffb2012b98d3eb"/>
-		<url>https://retroachievements.org/game/8706/hashes</url>
-		<hash>e53bac43ed9049ed28751477e4cc844d</hash>
-	</game>
-	
 	<game name="Retail/Mega Man X3/Mega Man X3 (USA) (Pt) (v0.1) (DarkKyle,G-Emuway)">
 		<category>Super Nintendo</category>
 		<description>Mega Man X3 (USA) (Pt) (v0.1) (DarkKyle,G-Emuway)</description>
@@ -9337,14 +9298,6 @@
 		<rom name="Mega Man X3 (Europe).sfc" size="2097152" crc="c504ddfd" md5="e81bedd2fc6b013538cdf4bd22fdeff6" sha1="69a11324aeb57d005800771d6147603d5479b282"/>
 		<url>https://retroachievements.org/game/624/hashes</url>
 		<hash>e81bedd2fc6b013538cdf4bd22fdeff6</hash>
-	</game>
-	
-	<game name="Subset/Mega Man X3 (Subset - Bonus)">
-		<category>Super Nintendo</category>
-		<description>Mega Man X3 (Subset - Bonus)</description>
-		<rom name="Mega Man X3 (Subset - Bonus).sfc" size="2097152" crc="b5bdd296" md5="6c3b5ed7a9943c68d07d580cc945a7ea" sha1="d6d4a108b704d5ef86f7da75967fa76c49986f21"/>
-		<url>https://retroachievements.org/game/5859/hashes</url>
-		<hash>6c3b5ed7a9943c68d07d580cc945a7ea</hash>
 	</game>
 	
 	<game name="Subset/Mega Man Soccer (USA)">
@@ -10041,14 +9994,6 @@
 		<rom name="Paladin's Quest (USA).sfc" size="1572864" crc="37fe8126" md5="96e0f7d8becb6c203bde703c02a60122" sha1="f0f7f946da12866d064f67b8d639abd3a212a1b4"/>
 		<url>https://retroachievements.org/game/1090/hashes</url>
 		<hash>96e0f7d8becb6c203bde703c02a60122</hash>
-	</game>
-	
-	<game name="Subset/Paladin's Quest (Subset - No Mercenaries)">
-		<category>Super Nintendo</category>
-		<description>Paladin's Quest (Subset - No Mercenaries)</description>
-		<rom name="Paladin's Quest (Subset - No Mercenaries).sfc" size="1572864" crc="01fdcbd0" md5="d866b186f68e9ed4fe493395e7ce05a6" sha1="ca8245d7be23fd0c3ac3d204c72b7d0c20309191"/>
-		<url>https://retroachievements.org/game/19856/hashes</url>
-		<hash>d866b186f68e9ed4fe493395e7ce05a6</hash>
 	</game>
 	
 	<game name="Retail/Panel de Pon/Panel de Pon (Japan) (En) (v1.0) (Zuqkeo)">
@@ -10930,14 +10875,6 @@
 		<rom name="Secret of Mana (Germany).sfc" size="2097152" crc="b069bb3a" md5="b57303407986c0d28f2d78f931efc59c" sha1="ab8a31bfb4cf0ce19b96893a31442ffbfd8d0beb"/>
 		<url>https://retroachievements.org/game/400/hashes</url>
 		<hash>b57303407986c0d28f2d78f931efc59c</hash>
-	</game>
-	
-	<game name="Subset/Secret of Mana (Subset - Rare Drops)">
-		<category>Super Nintendo</category>
-		<description>Secret of Mana (Subset - Rare Drops)</description>
-		<rom name="Secret of Mana (Subset - Rare Drops).sfc" size="2097152" crc="97db9a8b" md5="a8dcdc83a951e522fecc8ee5b0dd28d8" sha1="eba9ad17eb13d27e8b911fca12392a1107a373ce"/>
-		<url>https://retroachievements.org/game/21899/hashes</url>
-		<hash>a8dcdc83a951e522fecc8ee5b0dd28d8</hash>
 	</game>
 	
 	<game name="Retail/Seifuku Densetsu - Pretty Fighter (Japan)">

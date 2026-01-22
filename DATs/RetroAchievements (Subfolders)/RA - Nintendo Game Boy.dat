@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>Subfolders</category>
-		<version>20260117</version>
-		<date>17 January 2026</date>
+		<version>20260122</version>
+		<date>22 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/4/games</url>
@@ -3971,19 +3971,12 @@
 		<hash>fa37cdb33108b88ade1a3d4a53a039e8</hash>
 	</game>
 	
-	<game name="Subset/Pocket Monsters Midori (Subset - Monotype Challenge) (Japan) (En) (LandaR) (v1.0)">
+	<game name="Exclusive Subset/Pocket Monsters Midori (Exclusive Subset - Monotype Challenge) (Japan) (En) (LandaR) (v1.0)">
 		<category></category>
-		<description>Pocket Monsters Midori (Subset - Monotype Challenge) (Japan) (En) (LandaR) (v1.0)</description>
-		<rom name="Pocket Monsters Midori (Subset - Monotype Challenge) (Japan) (En) (LandaR) (v1.0).gb" size="524288" crc="5b4cdebb" md5="1af955dc4d4d7e02c3b5a051a54bd43a" sha1="a2fcbaeaeac0ca6ef13776147aeedba301775028"/>
+		<description>Pocket Monsters Midori (Exclusive Subset - Monotype Challenge) (Japan) (En) (LandaR) (v1.0)</description>
+		<rom name="Pocket Monsters Midori (Exclusive Subset - Monotype Challenge) (Japan) (En) (LandaR) (v1.0).gb" size="524288" crc="5b4cdebb" md5="1af955dc4d4d7e02c3b5a051a54bd43a" sha1="a2fcbaeaeac0ca6ef13776147aeedba301775028"/>
 		<url>https://retroachievements.org/game/5214/hashes</url>
 		<hash>1af955dc4d4d7e02c3b5a051a54bd43a</hash>
-	</game>
-	<game name="Retail/Pocket Monsters - Midori (Japan) (SGB Enhanced)">
-		<category></category>
-		<description>Pocket Monsters - Midori (Japan) (SGB Enhanced)</description>
-		<rom name="Pocket Monsters - Midori (Japan) (SGB Enhanced).gb" size="524288" crc="baeacd2b" md5="e30ffbab1f239f09b226477d84db1368" sha1="82c0eef40a5e2423699d9fd8ba15dfaa8b51d196"/>
-		<url>https://retroachievements.org/game/5214/hashes</url>
-		<hash>e30ffbab1f239f09b226477d84db1368</hash>
 	</game>
 	
 	<game name="Retail/Pokemon - Blue Version (USA, Europe) (SGB Enhanced)">
@@ -4037,22 +4030,6 @@
 		<rom name="Pokemon - Yellow Version (Playable Yellow) (v1.0).gbc" size="1048576" crc="98821f44" md5="ebbe3e5c1a2834c9876aad387f817896" sha1="b2211c76f59481b30bc163fd19d380d11396cfc8"/>
 		<url>https://retroachievements.org/game/723/hashes</url>
 		<hash>ebbe3e5c1a2834c9876aad387f817896</hash>
-	</game>
-	
-	<game name="Subset/Pokemon - Yellow/Pokemon - Yellow Version (Subset - Shiny Pokemon)">
-		<category></category>
-		<description>Pokemon Yellow Version (Subset - Shiny Pokemon)</description>
-		<rom name="Pokemon Yellow Version (Subset - Shiny Pokemon).gb" size="1048576" crc="5f47853f" md5="a12f78a4c7842b82f42a2512add7373d" sha1="8f8d939f43e5b2c82b4e9c13d7385bff3299b69b"/>
-		<url>https://retroachievements.org/game/6955/hashes</url>
-		<hash>a12f78a4c7842b82f42a2512add7373d</hash>
-	</game>
-	
-	<game name="Subset/Pokemon - Yellow/Pokemon - Yellow Version (Subset - Professor Oak's Challenge)">
-		<category></category>
-		<description>Pokemon - Yellow Version (Subset - Professor Oak's Challenge)</description>
-		<rom name="Pokemon - Yellow Version (Subset - Professor Oak's Challenge).gbc" size="1048576" crc="3e4c08cc" md5="40a092bba9fc23b42781718ea5143b39" sha1="ed8f30a337ac4a347325ec1a622c316aa4a41234"/>
-		<url>https://retroachievements.org/game/22851/hashes</url>
-		<hash>40a092bba9fc23b42781718ea5143b39</hash>
 	</game>
 	
 	<game name="Retail/Power Racer (Europe)">

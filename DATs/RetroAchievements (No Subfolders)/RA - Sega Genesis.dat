@@ -5,8 +5,8 @@
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
 		<category>No Subfolders</category>
-		<version>20260116</version>
-		<date>16 January 2026</date>
+		<version>20260122</version>
+		<date>22 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/1/games</url>
@@ -579,24 +579,6 @@
 		<rom name="SoR2 - Teenage Mutant Ninja Turtles - Shredder's Re-Revenge (v1.01) (savok) (Hack).md" size="4063356" crc="6720cc8a" md5="415ecac5e01c5101552cc4d29d78b7f2" sha1="d21793b66c0bcf74db972a173c4ec379cd86e02c"/>
 		<url>https://retroachievements.org/game/25807/hashes</url>
 		<hash>415ecac5e01c5101552cc4d29d78b7f2</hash>
-	</game>
-	
-	<game name="SoR2 - Teenage Mutant Ninja Turtles - Shredder's Re-Revenge (Subset - Mania) (Hack)">
-		<category>Subset</category>
-		<description>SoR2 - Teenage Mutant Ninja Turtles - Shredder's Re-Revenge (Subset - Mania) (Hack)</description>
-		<release name="SoR2 - Teenage Mutant Ninja Turtles - Shredder's Re-Revenge (Subset - Mania) (Hack)" region="World"/>
-		<rom name="SoR2 - Teenage Mutant Ninja Turtles - Shredder's Re-Revenge (Subset - Mania) (Hack).md" size="4063356" crc="cb8d9eb0" md5="6fdae2ef521baef067a64189d215d3ad" sha1="26381a94a2963fdf63e88ee75b0c539313f89339"/>
-		<url>https://retroachievements.org/game/25811/hashes</url>
-		<hash>6fdae2ef521baef067a64189d215d3ad</hash>
-	</game>
-	
-	<game name="SoR2 - Teenage Mutant Ninja Turtles - Shredder's Re-Revenge (Subset - Multi) (Hack)">
-		<category>Subset</category>
-		<description>SoR2 - Teenage Mutant Ninja Turtles - Shredder's Re-Revenge (Subset - Multi) (Hack)</description>
-		<release name="SoR2 - Teenage Mutant Ninja Turtles - Shredder's Re-Revenge (Subset - Multi) (Hack)" region="World"/>
-		<rom name="SoR2 - Teenage Mutant Ninja Turtles - Shredder's Re-Revenge (Subset - Multi) (Hack).md" size="4063356" crc="6d483658" md5="abfe41cbe24c8ef31506e7daf0427b92" sha1="a2770e1557457817e4fb572b7d1b0d70b6bb91df"/>
-		<url>https://retroachievements.org/game/25808/hashes</url>
-		<hash>abfe41cbe24c8ef31506e7daf0427b92</hash>
 	</game>
 	
 	<game name="Sonic 1 - S Factor, The - Sonia and Silver (Aquaslash &amp; Pals) (Hack)">
@@ -3966,15 +3948,6 @@
 		<hash>3e5e4b18d035775b916a06f2b3dc5031</hash>
 	</game>
 	
-	<game name="Knuckles the Echidna in Sonic the Hedgehog 2 (World) (Subset - Hold Right To Lose)">
-		<category>Subset</category>
-		<description>Knuckles the Echidna in Sonic the Hedgehog 2 (World) (Subset - Hold Right To Lose)</description>
-		<release name="Knuckles the Echidna in Sonic the Hedgehog 2 (World) (Subset - Hold Right To Lose)" region="World"/>
-		<rom name="Knuckles the Echidna in Sonic the Hedgehog 2 (World) (Subset - Hold Right To Lose).md" size="3407872" crc="f1a01f4c" md5="acd815533702bf51c8dab00e627aa2ee" sha1="43b9111c2f14e3a0baed2e85014d6c9662a62f45"/>
-		<url>https://retroachievements.org/game/20297/hashes</url>
-		<hash>acd815533702bf51c8dab00e627aa2ee</hash>
-	</game>
-	
 	<game name="Krusty's Super Fun House (USA, Europe) (Rev A)">
 		<category>Retail</category>
 		<description>Krusty's Super Fun House (USA, Europe) (Rev A)</description>
@@ -4917,15 +4890,6 @@
 		<hash>f2d46a63b34cf6e5a2c8264fb59c06e7</hash>
 	</game>
 	
-	<game name="Phantasy Star II (Subset - Rolf Solo Challenge)">
-		<category>Subset</category>
-		<description>Phantasy Star II (Subset - Rolf Solo Challenge)</description>
-		<release name="Phantasy Star II (Subset - Rolf Solo Challenge)" region="World"/>
-		<rom name="Phantasy Star II (Subset - Rolf Solo Challenge).md" size="786432" crc="f9bf5b2d" md5="61921a08de0b28e44bf63f4d0b2542f7" sha1="5dc4cb63dd464765270cc59f7e2c0ca9c3bc0e3f"/>
-		<url>https://retroachievements.org/game/26987/hashes</url>
-		<hash>61921a08de0b28e44bf63f4d0b2542f7</hash>
-	</game>
-	
 	<game name="Phantasy Star II - Anne's Adventure (Japan) (SegaNet)">
 		<category>Retail</category>
 		<description>Phantasy Star II - Anne's Adventure (Japan) (SegaNet)</description>
@@ -5795,15 +5759,6 @@
 		<hash>ba07d4050b453d68cb2bd7e28fc8f74c</hash>
 	</game>
 	
-	<game name="Shadow of the Beast (Subset - Perfect Beast)">
-		<category>Subset</category>
-		<description>Shadow of the Beast (Subset - Perfect Beast)</description>
-		<release name="Shadow of the Beast (Subset - Perfect Beast)" region="World"/>
-		<rom name="Shadow of the Beast (Subset - Perfect Beast).md" size="1048576" crc="8e32255b" md5="697a578d9d7a7718d90d01788c24f214" sha1="fe64e9a3c793f4a221bbdd31c6b2c08b717ce078"/>
-		<url>https://retroachievements.org/game/24333/hashes</url>
-		<hash>697a578d9d7a7718d90d01788c24f214</hash>
-	</game>
-	
 	<game name="Shadow of the Beast - Mashou no Okite (Japan) (En)">
 		<category>Retail</category>
 		<description>Shadow of the Beast - Mashou no Okite (Japan) (En)</description>
@@ -6100,15 +6055,6 @@
 		<hash>cfcc692427348e58682230a27d9e365d</hash>
 	</game>
 
-	<game name="Sonic 3 &amp; Knuckles (Subset - Glitch Showcase)">
-		<category>Subset</category>
-		<description>Sonic 3 &amp; Knuckles (Subset - Glitch Showcase)</description>
-		<release name="Sonic 3 &amp; Knuckles (Subset - Glitch Showcase)" region="World"/>
-		<rom name="Sonic 3 &amp; Knuckles (Subset - Glitch Showcase).md" size="4194304" crc="5b799368" md5="893aadeb9f9084e0eaccd80a05bc8707" sha1="aece48564f6665ac659b37195aab2b7397019bd5"/>
-		<url>https://retroachievements.org/game/20031/hashes</url>
-		<hash>893aadeb9f9084e0eaccd80a05bc8707</hash>
-	</game>
-	
 	<game name="Sonic 3D Blast (USA, Europe, Korea) (En)">
 		<category>Retail</category>
 		<description>Sonic 3D Blast (USA, Europe, Korea) (En)</description>

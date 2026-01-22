@@ -5,8 +5,8 @@
 		<name>RA - Sony PSP</name>
 		<description>Sony PSP</description>
 		<category>Subfolders</category>
-		<version>20260120</version>
-		<date>20 January 2026</date>
+		<version>20260122</version>
+		<date>22 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/41/games</url>
@@ -2883,15 +2883,6 @@
 		<legacyhash>00af730ca0fd034a59ee26f55a6b3682</legacyhash>
 	</machine>
 	
-	<machine name="Subset/Tactics Ogre - Let Us Cling Together (Subset - Skill Mastery, Best Weapons)">
-		<category>PSP</category>
-		<description>Tactics Ogre - Let Us Cling Together (Subset - Skill Mastery, Best Weapons)</description>
-		<disk name="Tactics Ogre - Let Us Cling Together (Subset - Skill Mastery, Best Weapons).chd" sha1="62abc34687e09346354b1fe7cc66c7462651aa2c"/>
-		<url>https://retroachievements.org/game/22866/hashes</url>
-		<hash>41920b1c3221d23540e04edb756e00e1</hash>
-		<legacyhash>aa9ad50a9c534ad623dfa8a536ca4996</legacyhash>
-	</machine>
-	
 	<machine name="Retail/Tekken 6 (Europe) (En,Ja,Fr,De,Es,It,Ko,Ru)">
 		<category>PSP</category>
 		<description>Tekken 6 (Europe) (En,Ja,Fr,De,Es,It,Ko,Ru)</description>
@@ -3089,15 +3080,6 @@
 		<url>https://retroachievements.org/game/3568/hashes</url>
 		<hash>0acb413a3aacdc14101d9f33a724d7a4</hash>
 		<legacyhash>d265cd320cb2261bb5ed0218d651b42f</legacyhash>
-	</machine>
-	
-	<machine name="Subset/Legend of Heroes, The - Trails in the Sky the 3rd (Subset - NG Nightmare)">
-		<category>PSP</category>
-		<description>Legend of Heroes, The - Trails in the Sky the 3rd (Subset - NG Nightmare)</description>
-		<disk name="Legend of Heroes, The - Trails in the Sky the 3rd (Subset - NG Nightmare).chd" sha1="c50571a8729d3782c35c400851e5735cbe87dd06"/>
-		<url>https://retroachievements.org/game/5932/hashes</url>
-		<hash>6aef761eb4b88e061d1125863bd04c78</hash>
-		<legacyhash>de38aefa3bb84302458b0928b69d18a3</legacyhash>
 	</machine>
 	
 	<machine name="Retail/Simpsons Game, The (Europe)">

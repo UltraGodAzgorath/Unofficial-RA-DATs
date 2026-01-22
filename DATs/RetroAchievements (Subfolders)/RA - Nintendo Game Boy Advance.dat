@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>Subfolders</category>
-		<version>20260117</version>
-		<date>17 January 2026</date>
+		<version>20260122</version>
+		<date>22 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -501,14 +501,6 @@
 		<rom name="Pokemon - Party Randomizer Plus (Hack).gba" size="16777216" crc="62ed2106" md5="7e319f61dc68fc37223d5ac17f012356" sha1="55f48d02a46d389b168440f8f955c0e237f95f85"/>
 		<url>https://retroachievements.org/game/17757/hashes</url>
 		<hash>7e319f61dc68fc37223d5ac17f012356</hash>
-	</game>
-	
-	<game name="Subset/Pokemon - Emerald/Pokemon - Party Randomizer Plus (Hack) (Subset - Battle Frontier)">
-		<category></category>
-		<description>Pokemon - Party Randomizer Plus (Hack) (Subset - Battle Frontier)</description>
-		<rom name="Pokemon - Party Randomizer Plus (Hack) (Subset - Battle Frontier).gba" size="16777216" crc="019164cd" md5="fa6e5e03d041501c72db930474754305" sha1="28b9f9d4db2226b09b2bde629ff42f4b19ebf597"/>
-		<url>https://retroachievements.org/game/20222/hashes</url>
-		<hash>fa6e5e03d041501c72db930474754305</hash>
 	</game>
 	
 	<game name="Hack/Pokemon - FireRed/Pokemon - DerErif (Hack)">
@@ -4802,14 +4794,6 @@
 		<hash>f7cf28c32f665181e383b800bebe561d</hash>
 	</game>
 	
-	<game name="Subset/Mario &amp; Luigi - Superstar Saga (Subset - Perfect Dodges)">
-		<category></category>
-		<description>Mario &amp; Luigi - Superstar Saga (Subset - Perfect Dodges)</description>
-		<rom name="Mario &amp; Luigi - Superstar Saga (Subset - Perfect Dodges).gba" size="16777216" crc="17b8c7c0" md5="4e0fa9ae471d3d3033ecf7e08a4d5b1a" sha1="5b60b1500bdeac6c6c0e598b67ba091d815034f9"/>
-		<url>https://retroachievements.org/game/20230/hashes</url>
-		<hash>4e0fa9ae471d3d3033ecf7e08a4d5b1a</hash>
-	</game>
-	
 	<game name="Retail/Mario Golf - Advance Tour (USA)">
 		<category></category>
 		<description>Mario Golf - Advance Tour (USA)</description>
@@ -6046,17 +6030,17 @@
 		<hash>074c2b4a321ae345d9f42cff9a2531ab</hash>
 	</game>
 	
-	<game name="Subset/Pokemon - FireRed Version (Subset - Shinies &amp; Stuff)">
+	<game name="Specialty Subset/Pokemon - FireRed Version (Specialty Subset - Shinies &amp; Stuff)">
 		<category></category>
-		<description>Pokemon - FireRed Version (Subset - Shinies &amp; Stuff)</description>
-		<rom name="Pokemon - FireRed Version (Subset - Shinies &amp; Stuff).gba" size="16777216" crc="01a3dbfd" md5="0f75499bd326e95b40d4880955157660" sha1="f9e9233142229bb4144e45be3c6fa1a1378a5806"/>
+		<description>Pokemon - FireRed Version (Specialty Subset - Shinies &amp; Stuff)</description>
+		<rom name="Pokemon - FireRed Version (Specialty Subset - Shinies &amp; Stuff).gba" size="16777216" crc="01a3dbfd" md5="0f75499bd326e95b40d4880955157660" sha1="f9e9233142229bb4144e45be3c6fa1a1378a5806"/>
 		<url>https://retroachievements.org/game/24875/hashes</url>
 		<hash>0f75499bd326e95b40d4880955157660</hash>
 	</game>
-	<game name="Subset/Pokemon - LeafGreen Version (Subset - Shinies &amp; Stuff)">
+	<game name="Specialty Subset/Pokemon - LeafGreen Version (Specialty Subset - Shinies &amp; Stuff)">
 		<category></category>
-		<description>Pokemon - LeafGreen Version (Subset - Shinies &amp; Stuff)</description>
-		<rom name="Pokemon - LeafGreen Version (Subset - Shinies &amp; Stuff).gba" size="16777216" crc="0ab73b2d" md5="b3b8da81bbf9fe06ba40bf15c3beaffd" sha1="cac8432a08858828f063042c1eb5c1b8e3470233"/>
+		<description>Pokemon - LeafGreen Version (Specialty Subset - Shinies &amp; Stuff)</description>
+		<rom name="Pokemon - LeafGreen Version (Specialty Subset - Shinies &amp; Stuff).gba" size="16777216" crc="0ab73b2d" md5="b3b8da81bbf9fe06ba40bf15c3beaffd" sha1="cac8432a08858828f063042c1eb5c1b8e3470233"/>
 		<url>https://retroachievements.org/game/24875/hashes</url>
 		<hash>b3b8da81bbf9fe06ba40bf15c3beaffd</hash>
 	</game>
@@ -6081,14 +6065,6 @@
 		<rom name="Pokemon - LeafGreen Version (USA) (Moemon Gen 3) (v2.0).gba" size="16777216" crc="ca650323" md5="a9335c0c1a61c11910a355fb65cd3d82" sha1="bac0b3108fb71ef46aed83c2c20a8cac5ce904d2"/>
 		<url>https://retroachievements.org/game/788/hashes</url>
 		<hash>a9335c0c1a61c11910a355fb65cd3d82</hash>
-	</game>
-	
-	<game name="Subset/Pokemon - LeafGreen Version (Subset - Professor Oak Challenge) (Rev 1)">
-		<category></category>
-		<description>Pokemon - LeafGreen Version (Subset - Professor Oak Challenge) (Rev 1)</description>
-		<rom name="Pokemon - LeafGreen Version (Subset - Professor Oak Challenge) (Rev 1).gba" size="16777216" crc="dc20f380" md5="223ac5717907037ef91778c354935902" sha1="05fc29090a4de46a61320259c08ca1b73bb48dd6"/>
-		<url>https://retroachievements.org/game/33006/hashes</url>
-		<hash>223ac5717907037ef91778c354935902</hash>
 	</game>
 	
 	<game name="Retail/Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia)">
@@ -6192,17 +6168,17 @@
 		<hash>e0503182a2e699678bcf25a6897a24d6</hash>
 	</game>
 	
-	<game name="Subset/Pokemon - Ruby Version (Subset - Professor Oak Challenge) (Rev 0)">
+	<game name="Specialty Subset/Pokemon - Ruby Version (Specialty Subset - Professor Oak Challenge) (Rev 0)">
 		<category></category>
-		<description>Pokemon - Ruby Version (Subset - Professor Oak Challenge) (Rev 0)</description>
-		<rom name="Pokemon - Ruby Version (Subset - Professor Oak Challenge) (Rev 0).gba" size="16777216" crc="50c6dfb3" md5="5eea818df4dc59b2991d57b77844b884" sha1="4170e571ce4e2d37649fc215b9e26bdc2876a4ca"/>
+		<description>Pokemon - Ruby Version (Specialty Subset - Professor Oak Challenge) (Rev 0)</description>
+		<rom name="Pokemon - Ruby Version (Specialty Subset - Professor Oak Challenge) (Rev 0).gba" size="16777216" crc="50c6dfb3" md5="5eea818df4dc59b2991d57b77844b884" sha1="4170e571ce4e2d37649fc215b9e26bdc2876a4ca"/>
 		<url>https://retroachievements.org/game/24099/hashes</url>
 		<hash>5eea818df4dc59b2991d57b77844b884</hash>
 	</game>
-	<game name="Subset/Pokemon - Ruby Version (Subset - Professor Oak Challenge) (Rev 1)">
+	<game name="Specialty Subset/Pokemon - Ruby Version (Specialty Subset - Professor Oak Challenge) (Rev 1)">
 		<category></category>
-		<description>Pokemon - Ruby Version (Subset - Professor Oak Challenge) (Rev 1)</description>
-		<rom name="Pokemon - Ruby Version (Subset - Professor Oak Challenge) (Rev 1).gba" size="16777216" crc="c1239422" md5="c62c3386c3c49dcde7a678dce2b2d0e8" sha1="03616b03ffabade1bd357f092e4797e6135b30bf"/>
+		<description>Pokemon - Ruby Version (Specialty Subset - Professor Oak Challenge) (Rev 1)</description>
+		<rom name="Pokemon - Ruby Version (Specialty Subset - Professor Oak Challenge) (Rev 1).gba" size="16777216" crc="c1239422" md5="c62c3386c3c49dcde7a678dce2b2d0e8" sha1="03616b03ffabade1bd357f092e4797e6135b30bf"/>
 		<url>https://retroachievements.org/game/24099/hashes</url>
 		<hash>c62c3386c3c49dcde7a678dce2b2d0e8</hash>
 	</game>
@@ -6851,14 +6827,6 @@
 		<hash>be807a4d9dfe2f283760cee1ecd28a5b</hash>
 	</game>
 	
-	<game name="Subset/Shrek - Swamp Kart Speedway (Subset - 36 Endings)">
-		<category></category>
-		<description>Shrek - Swamp Kart Speedway (Subset - 36 Endings)</description>
-		<rom name="Shrek - Swamp Kart Speedway (Subset - 36 Endings).gba" size="8388608" crc="bc150115" md5="44fa6447cdbdf9663502c46279f03395" sha1="30d86c231f6576c57e3281481dd5972d3a368378"/>
-		<url>https://retroachievements.org/game/25605/hashes</url>
-		<hash>44fa6447cdbdf9663502c46279f03395</hash>
-	</game>
-	
 	<game name="Retail/Sigma Star Saga (USA, Europe)">
 		<category></category>
 		<description>Sigma Star Saga (USA, Europe)</description>
@@ -7022,14 +6990,6 @@
 		<rom name="Sonic Battle (USA) (Pt) (Sonic Battleing Discord) (v2.0).gba" size="16777216" crc="48fb81b3" md5="d4b5ce79864ee19597233d35f0483b7e" sha1="d9f36077118e0c823e06db33da35ff877f189151"/>
 		<url>https://retroachievements.org/game/2188/hashes</url>
 		<hash>d4b5ce79864ee19597233d35f0483b7e</hash>
-	</game>
-	
-	<game name="Subset/Sonic Battle (Subset - Bonus)">
-		<category></category>
-		<description>Sonic Battle (Subset - Bonus)</description>
-		<rom name="Sonic Battle (Subset - Bonus).gba" size="16777216" crc="6d3f25a1" md5="5245cfb20d8e2f9c2e5a189c776b8d52" sha1="81972588038cca942992ed32fee2b05d13b9a439"/>
-		<url>https://retroachievements.org/game/14362/hashes</url>
-		<hash>5245cfb20d8e2f9c2e5a189c776b8d52</hash>
 	</game>
 	
 	<game name="Retail/Sonic Pinball Party (Europe) (En,Ja,Fr,De,Es,It)">
@@ -7432,14 +7392,6 @@
 		<rom name="Super Mario Advance 3 - Yoshi's Island (USA).gba" size="4194304" crc="40a48276" md5="bb09508c782f37934c9519c5f8a7350c" sha1="7352d2bd064d9ebaec579e264228aa21c7345b80"/>
 		<url>https://retroachievements.org/game/5234/hashes</url>
 		<hash>bb09508c782f37934c9519c5f8a7350c</hash>
-	</game>
-	
-	<game name="Subset/Super Mario Advance 3 - Yoshi's Island (Subset - Low Score)">
-		<category></category>
-		<description>Super Mario Advance 3 - Yoshi's Island (Subset - Low Score)</description>
-		<rom name="Super Mario Advance 3 - Yoshi's Island (Subset - Low Score).gba" size="8388608" crc="ddaf36d3" md5="0c7e58ddb31ba4880873974553dd01e5" sha1="6b58b604cc88b5cf30563336be58842dbf1aa2a6"/>
-		<url>https://retroachievements.org/game/5225/hashes</url>
-		<hash>0c7e58ddb31ba4880873974553dd01e5</hash>
 	</game>
 	
 	<game name="Retail/Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Switches - RetroAchievements Edition)">

@@ -5,8 +5,8 @@
 		<name>RA - Sega Dreamcast</name>
 		<description>Sega Dreamcast</description>
 		<category>No Subfolders</category>
-		<version>20260117</version>
-		<date>17 January 2026</date>
+		<version>20260122</version>
+		<date>22 January 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/40/games</url>
@@ -242,15 +242,6 @@
 		<disk name="Bomberman Online (USA).chd" sha1="53a111392d3cde24e435edc01c5f73204fdad026"/>
 		<url>https://retroachievements.org/game/15326/hashes</url>
 		<hash>ebee803a43d98f94ec40b18904490e14</hash>
-	</machine>
-	
-	<machine name="Bomberman Online (Subset - Multi)">
-		<category>Subset</category>
-		<description>Bomberman Online (Subset - Multi)</description>
-		<release name="Bomberman Online (Subset - Multi)" region="World"/>
-		<disk name="Bomberman Online (Subset - Multi).chd" sha1="05cafea6b6b321743f605911e8cac984ab7f1b1b"/>
-		<url>https://retroachievements.org/game/34563/hashes</url>
-		<hash>47fc98f54ff09de13b8b063768933de6</hash>
 	</machine>
 	
 	<machine name="Disney-Pixar Buzz Lightyear of Star Command (USA)">
@@ -1306,15 +1297,6 @@
 		<disk name="Street Fighter III - 3rd Strike (USA).chd" sha1="92eabc9395434ce17858b5f4ef3fbed24239267e"/>
 		<url>https://retroachievements.org/game/345/hashes</url>
 		<hash>249333f7bd39d6d729e9b5e5d49219c6</hash>
-	</machine>
-	
-	<machine name="Street Fighter III - 3rd Strike (Subset - Master Street Fighter)">
-		<category>Subset</category>
-		<description>Street Fighter III - 3rd Strike (Subset - Master Street Fighter)</description>
-		<release name="Street Fighter III - 3rd Strike (Subset - Master Street Fighter)" region="World"/>
-		<disk name="Street Fighter III - 3rd Strike (Subset - Master Street Fighter).chd" sha1="0dbe6ec7337d1e413c2c1bb15c09ec41956c7a1a"/>
-		<url>https://retroachievements.org/game/21900/hashes</url>
-		<hash>0857e7d0bec7c4fc30450108ea92b51c</hash>
 	</machine>
 	
 	<machine name="Street Fighter III - Double Impact (USA)">
