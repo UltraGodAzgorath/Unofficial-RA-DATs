@@ -2994,17 +2994,17 @@
 		<hash>fd09a47e4d7098a8e0b8db76aeeb0e27</hash>
 	</machine>
 	
-	<machine name="1Xtreme (USA)">
+	<machine name="1Xtreme (USA)" cloneof="ESPN Extreme Games (USA)">
 		<category>Retail</category>
 		<description>1Xtreme (USA)</description>
-		<release name="1Xtreme (USA)" region="USA"/>
 		<disk name="1Xtreme (USA).chd" sha1="d368091f6cc3ef5363da82b8dfa84d3ff358d5ea"/>
 		<url>https://retroachievements.org/game/12575/hashes</url>
 		<hash>52b9077fecad27ca2994548c19d73a6f</hash>
 	</machine>
-	<machine name="ESPN Extreme Games (USA)" cloneof="1Xtreme (USA)">
+	<machine name="ESPN Extreme Games (USA)">
 		<category>Retail</category>
 		<description>ESPN Extreme Games (USA)</description>
+		<release name="ESPN Extreme Games (USA)" region="USA"/>
 		<disk name="ESPN Extreme Games (USA).chd" sha1="b66ca36622abe0463ea120324119e43586d82e2b"/>
 		<url>https://retroachievements.org/game/12575/hashes</url>
 		<hash>c287af2c921d04384c3e89cd64212533</hash>
