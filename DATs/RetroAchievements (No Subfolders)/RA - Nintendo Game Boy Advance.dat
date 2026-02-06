@@ -73,15 +73,6 @@
 		<hash>6f6536584bcbf4c2d887086ed3606595</hash>
 	</game>
 	
-	<game name="Fire Emblem - Andaron Saga (Subset - Secrets Hunt)">
-		<category>Subset</category>
-		<description>Fire Emblem - Andaron Saga (Subset - Secrets Hunt)</description>
-		<release name="Fire Emblem - Andaron Saga (Subset - Secrets Hunt)" region="World"/>
-		<rom name="Fire Emblem - Andaron Saga (Subset - Secrets Hunt).gba" size="33546512" crc="eeaf1f6d" md5="de1cac0525eb163f0860586f15658d15" sha1="520365f46374f0a3df585de64eb4c7fcbf9f7e0a"/>
-		<url>https://retroachievements.org/game/30883/hashes</url>
-		<hash>de1cac0525eb163f0860586f15658d15</hash>
-	</game>
-	
 	<game name="Fire Emblem - Andaron Saga - Randomizer (Hack)">
 		<category>Hack</category>
 		<description>Fire Emblem - Andaron Saga - Randomizer (Hack)</description>
@@ -256,11 +247,11 @@
 		<hash>861a0c1d7c5c7fa3dcaaf4a400743461</hash>
 	</game>
 	
-	<game name="Fire Emblem - Project Ember (Brunhilda) (v1.85) (Subset - Reverse Recruitment)">
-		<category>Subset</category>
-		<description>Fire Emblem - Project Ember (Brunhilda) (v1.85) (Subset - Reverse Recruitment)</description>
-		<release name="Fire Emblem - Project Ember (Brunhilda) (v1.85) (Subset - Reverse Recruitment)" region="World"/>
-		<rom name="Fire Emblem - Project Ember (Brunhilda) (v1.85) (Subset - Reverse Recruitment).gba" size="24475812" crc="29bc2257" md5="5c8332940eba2d9ccf36a1ed4b0800dc" sha1="f4b222e8c1536203799134125ecb45e8f1dda1d3"/>
+	<game name="Fire Emblem - Project Ember (Brunhilda) (v1.85) (Exclusive Subset - Reverse Recruitment)">
+		<category>Exclusive Subset</category>
+		<description>Fire Emblem - Project Ember (Brunhilda) (v1.85) (Exclusive Subset - Reverse Recruitment)</description>
+		<release name="Fire Emblem - Project Ember (Brunhilda) (v1.85) (Exclusive Subset - Reverse Recruitment)" region="World"/>
+		<rom name="Fire Emblem - Project Ember (Brunhilda) (v1.85) (Exclusive Subset - Reverse Recruitment).gba" size="24475812" crc="29bc2257" md5="5c8332940eba2d9ccf36a1ed4b0800dc" sha1="f4b222e8c1536203799134125ecb45e8f1dda1d3"/>
 		<url>https://retroachievements.org/game/32931/hashes</url>
 		<hash>5c8332940eba2d9ccf36a1ed4b0800dc</hash>
 	</game>
@@ -4033,14 +4024,6 @@
 		<hash>254fafda5e314ca26d4001810f750c64</hash>
 	</game>
 	
-	<game name="Fire Emblem - The Binding Blade (Subset - Trial Map Characters)">
-		<category>Subset</category>
-		<description>Fire Emblem - The Binding Blade (Subset - Trial Map Characters)</description>
-		<rom name="Fire Emblem - The Binding Blade (Subset - Trial Map Characters).gba" size="8612264" crc="e6aad625" md5="630cade51d51c65f3646154ddcc007dc" sha1="611ee4a725488f412f4301a62684ecb7aa3802c5"/>
-		<url>https://retroachievements.org/game/31454/hashes</url>
-		<hash>630cade51d51c65f3646154ddcc007dc</hash>
-	</game>
-	
 	<game name="Fire Emblem (Europe) (En,Fr,De)">
 		<category>Retail</category>
 		<description>Fire Emblem (Europe) (En,Fr,De)</description>
@@ -6787,11 +6770,11 @@
 		<hash>e7e95ab0d167ea062a74c2accb299002</hash>
 	</game>
 	
-	<game name="Pokemon - FireRed Version (Subset - Professor Oak Challenge)">
-		<category>Subset</category>
-		<description>Pokemon - FireRed Version (Subset - Professor Oak Challenge)</description>
-		<release name="Pokemon - FireRed Version (Subset - Professor Oak Challenge)" region="World"/>
-		<rom name="Pokemon - FireRed Version (Subset - Professor Oak Challenge).gba" size="16777216" crc="5a9dca60" md5="074c2b4a321ae345d9f42cff9a2531ab" sha1="68346a34246403b355c1b3d3e7209b12f5b32a46"/>
+	<game name="Pokemon - FireRed Version (Specialty Subset - Professor Oak Challenge)">
+		<category>Specialty Subset</category>
+		<description>Pokemon - FireRed Version (Specialty Subset - Professor Oak Challenge)</description>
+		<release name="Pokemon - FireRed Version (Specialty Subset - Professor Oak Challenge)" region="World"/>
+		<rom name="Pokemon - FireRed Version (Specialty Subset - Professor Oak Challenge).gba" size="16777216" crc="5a9dca60" md5="074c2b4a321ae345d9f42cff9a2531ab" sha1="68346a34246403b355c1b3d3e7209b12f5b32a46"/>
 		<url>https://retroachievements.org/game/23905/hashes</url>
 		<hash>074c2b4a321ae345d9f42cff9a2531ab</hash>
 	</game>

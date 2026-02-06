@@ -381,11 +381,11 @@
 		<legacyhash>875430ee163a66c0e8e6efe9be1153c5</legacyhash>
 	</machine>
 	
-	<game name="Bleach - Heat the Soul 7 (Subset - DLC Normal and Battle Royale)">
-		<category>Subset</category>
-		<description>Bleach - Heat the Soul 7 (Subset - DLC Normal and Battle Royale)</description>
-		<release name="Bleach - Heat the Soul 7 (Subset - DLC Normal and Battle Royale)" region="World"/>
-		<rom name="Bleach - Heat the Soul 7 (Subset - DLC Normal and Battle Royale).iso" size="562821412" crc="7f3aac23" md5="1e899e6762002ff9ba98f9e1e8a47b8e" sha1="da89c2664e0ff7b6aaa827ea5924153e6bd06508"/>
+	<game name="Bleach - Heat the Soul 7 (Exclusive Subset - DLC Normal and Battle Royale)">
+		<category>Exclusive Subset</category>
+		<description>Bleach - Heat the Soul 7 (Exclusive Subset - DLC Normal and Battle Royale)</description>
+		<release name="Bleach - Heat the Soul 7 (Exclusive Subset - DLC Normal and Battle Royale)" region="World"/>
+		<rom name="Bleach - Heat the Soul 7 (Exclusive Subset - DLC Normal and Battle Royale).iso" size="562821412" crc="7f3aac23" md5="1e899e6762002ff9ba98f9e1e8a47b8e" sha1="da89c2664e0ff7b6aaa827ea5924153e6bd06508"/>
 		<url>https://retroachievements.org/game/20241/hashes</url>
 		<hash>227397e64bf77c2966d11a858293e615</hash>
 	</game>
@@ -2375,19 +2375,19 @@
 		<legacyhash>d97940c8c8d13c4d6f32cc3368e932ac</legacyhash>
 	</machine>
 	
-	<machine name="Nayuta no Kiseki (Japan) (En) (Flame) (4.15) (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Nayuta no Kiseki (Japan) (En) (Flame) (4.15) (Subset - Bonus)</description>
-		<release name="Nayuta no Kiseki (Japan) (En) (Flame) (4.15) (Subset - Bonus)" region="English"/>
-		<disk name="Nayuta no Kiseki (Japan) (En) (Flame) (4.15) (Subset - Bonus).chd" sha1="34971af36e707883a3beac01d04920eacedfa575"/>
+	<machine name="Nayuta no Kiseki (Japan) (En) (Flame) (4.15) (Exclusive Subset - Bonus)">
+		<category>Exclusive Subset</category>
+		<description>Nayuta no Kiseki (Japan) (En) (Flame) (4.15) (Exclusive Subset - Bonus)</description>
+		<release name="Nayuta no Kiseki (Japan) (En) (Flame) (4.15) (Exclusive Subset - Bonus)" region="English"/>
+		<disk name="Nayuta no Kiseki (Japan) (En) (Flame) (4.15) (Exclusive Subset - Bonus).chd" sha1="34971af36e707883a3beac01d04920eacedfa575"/>
 		<url>https://retroachievements.org/game/19563/hashes</url>
 		<hash>b079f140baf6c592dff8b53385955861</hash>
 		<legacyhash>798d068d45c19a709aa46cbc2ec25070</legacyhash>
 	</machine>
-	<machine name="Nayuta no Kiseki (Japan) (En) (dackst) (1.08) (Subset - Bonus)" cloneof="Nayuta no Kiseki (Japan) (En) (Flame) (4.15) (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Nayuta no Kiseki (Japan) (En) (dackst) (1.08) (Subset - Bonus)</description>
-		<disk name="Nayuta no Kiseki (Japan) (En) (dackst) (1.08) (Subset - Bonus).chd" sha1="7fe4008e08d2e35d1d91cb75450bd823024e4a80"/>
+	<machine name="Nayuta no Kiseki (Japan) (En) (dackst) (1.08) (Exclusive Subset - Bonus)" cloneof="Nayuta no Kiseki (Japan) (En) (Flame) (4.15) (Exclusive Subset - Bonus)">
+		<category>Exclusive Subset</category>
+		<description>Nayuta no Kiseki (Japan) (En) (dackst) (1.08) (Exclusive Subset - Bonus)</description>
+		<disk name="Nayuta no Kiseki (Japan) (En) (dackst) (1.08) (Exclusive Subset - Bonus).chd" sha1="7fe4008e08d2e35d1d91cb75450bd823024e4a80"/>
 		<url>https://retroachievements.org/game/19563/hashes</url>
 		<hash>f6e123671e85305561e771a996f72262</hash>
 		<legacyhash>322a841cd970842013aad5a6593b5d8e</legacyhash>
@@ -2804,11 +2804,11 @@
 		<hash>f61a77e87f871e717d793f9a3e5fc853</hash>
 	</machine>
 	
-	<machine name="Shin Megami Tensei - Persona 2 - Innocent Sin (Subset - Theater DLC)">
-		<category>Subset</category>
-		<description>Shin Megami Tensei - Persona 2 - Innocent Sin (Subset - Theater DLC)</description>
-		<release name="Shin Megami Tensei - Persona 2 - Innocent Sin (Subset - Theater DLC)" region="World"/>
-		<disk name="Shin Megami Tensei - Persona 2 - Innocent Sin (Subset - Theater DLC).chd" sha1="528f145498d14cc158bf6ff6d39d9ab1dc46e664"/>
+	<machine name="Shin Megami Tensei - Persona 2 - Innocent Sin (Exclusive Subset - Theater DLC)">
+		<category>Exclusive Subset</category>
+		<description>Shin Megami Tensei - Persona 2 - Innocent Sin (Exclusive Subset - Theater DLC)</description>
+		<release name="Shin Megami Tensei - Persona 2 - Innocent Sin (Exclusive Subset - Theater DLC)" region="World"/>
+		<disk name="Shin Megami Tensei - Persona 2 - Innocent Sin (Exclusive Subset - Theater DLC).chd" sha1="528f145498d14cc158bf6ff6d39d9ab1dc46e664"/>
 		<url>https://retroachievements.org/game/32345/hashes</url>
 		<hash>e9cdda3fdb86f74337226b191245ca5a</hash>
 	</machine>

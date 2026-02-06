@@ -2947,11 +2947,11 @@
 		<hash>6d77d9f9b34323e4060206b675620b8d</hash>
 	</game>
 	
-	<game name="Kirby Super Star Ultra (Subset - Minimum Jump Challenge)">
-		<category>Subset</category>
-		<description>Kirby Super Star Ultra (Subset - Minimum Jump Challenge)</description>
-		<release name="Kirby Super Star Ultra (Subset - Minimum Jump Challenge)" region="World"/>
-		<rom name="Kirby Super Star Ultra (Subset - Minimum Jump Challenge).nds" size="134217728" crc="c746e163" md5="5886d8b3995688c875a77088b2b5558c" sha1="06b5f6e6946fdc7facbc7d49d167dfb571fae260"/>
+	<game name="Kirby Super Star Ultra (Exclusive Subset - Minimum Jump Challenge)">
+		<category>Exclusive Subset</category>
+		<description>Kirby Super Star Ultra (Exclusive Subset - Minimum Jump Challenge)</description>
+		<release name="Kirby Super Star Ultra (Exclusive Subset - Minimum Jump Challenge)" region="World"/>
+		<rom name="Kirby Super Star Ultra (Exclusive Subset - Minimum Jump Challenge).nds" size="134217728" crc="c746e163" md5="5886d8b3995688c875a77088b2b5558c" sha1="06b5f6e6946fdc7facbc7d49d167dfb571fae260"/>
 		<url>https://retroachievements.org/game/28240/hashes</url>
 		<hash>f9687d00e4534fff6bba68d62ebfb022</hash>
 	</game>
@@ -4251,11 +4251,11 @@
 		<hash>76cf05a94a00998e28878ffe3e82a3ba</hash>
 	</game>
 	
-	<game name="Plants vs. Zombies (Subset - Zen Garden)">
-		<category>Subset</category>
-		<description>Plants vs. Zombies (Subset - Zen Garden)</description>
-		<release name="Plants vs. Zombies (Subset - Zen Garden)" region="USA"/>
-		<rom name="Plants vs. Zombies (Subset - Zen Garden).nds" size="67108864" crc="660cc1fa" md5="8a847f41683e131a649adbe288132ff6" sha1="a01dcf999046021d9572f18d3168a760c0cb7c11"/>
+	<game name="Plants vs. Zombies (Exclusive Subset - Zen Garden)">
+		<category>Exclusive Subset</category>
+		<description>Plants vs. Zombies (Exclusive Subset - Zen Garden)</description>
+		<release name="Plants vs. Zombies (Exclusive Subset - Zen Garden)" region="USA"/>
+		<rom name="Plants vs. Zombies (Exclusive Subset - Zen Garden).nds" size="67108864" crc="660cc1fa" md5="8a847f41683e131a649adbe288132ff6" sha1="a01dcf999046021d9572f18d3168a760c0cb7c11"/>
 		<url>https://retroachievements.org/game/20310/hashes</url>
 		<hash>c28cdfda5f396be550b950c7bb27da38</hash>
 	</game>

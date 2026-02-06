@@ -1428,11 +1428,11 @@
 		<hash>54c8522c1d924a05bb05ac6673f023e6</hash>
 	</game>
 	
-	<game name="Bomberman Max - Ain Version (Subset - Max Charabom Levels)">
-		<category>Subset</category>
-		<description>Bomberman Max - Ain Version (Subset - Max Charabom Levels)</description>
-		<release name="Bomberman Max - Ain Version (Subset - Max Charabom Levels)" region="World"/>
-		<rom name="Bomberman Max - Ain Version (Subset - Max Charabom Levels).gbc" size="2097152" crc="f35a5ccf" md5="715e2085de32c99e487426ee7af8fa01" sha1="a1f6c529b49b655aa7e333fb6b7780167dc3defe"/>
+	<game name="Bomberman Max - Ain Version (Exclusive Subset - Max Charabom Levels)">
+		<category>Exclusive Subset</category>
+		<description>Bomberman Max - Ain Version (Exclusive Subset - Max Charabom Levels)</description>
+		<release name="Bomberman Max - Ain Version (Exclusive Subset - Max Charabom Levels)" region="World"/>
+		<rom name="Bomberman Max - Ain Version (Exclusive Subset - Max Charabom Levels).gbc" size="2097152" crc="f35a5ccf" md5="715e2085de32c99e487426ee7af8fa01" sha1="a1f6c529b49b655aa7e333fb6b7780167dc3defe"/>
 		<url>https://retroachievements.org/game/23793/hashes</url>
 		<hash>715e2085de32c99e487426ee7af8fa01</hash>
 	</game>

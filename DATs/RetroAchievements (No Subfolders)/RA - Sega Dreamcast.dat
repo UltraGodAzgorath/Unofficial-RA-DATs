@@ -1039,14 +1039,14 @@
 		<hash>f4400a783413bc178fa14ae19d66e7c0</hash>
 	</machine>
 	
-	<machine name="Shenmue (Subset - Notebook Challenge)">
-		<category>Subset</category>
-		<description>Shenmue (Subset - Notebook Challenge)</description>
-		<release name="Shenmue (Subset - Notebook Challenge)" region="World"/>
-		<rom name="Shenmue (Subset - Notebook Challenge).m3u" size="154" crc="1f7886d1" sha1="0616a022259989f973597b07936ab59625bc6e37" md5="db031b2acfbf9bf3395debdd06c45b00"/>
-		<disk name="Shenmue (Subset - Notebook Challenge) (Disc 1).chd" sha1="aac21f509516c9ed307cdcb72e112edb457410e5"/>
-		<disk name="Shenmue (Subset - Notebook Challenge) (Disc 2).chd" sha1="eca710942122a24bec6bf461f3b1435fa0c37d9e"/>
-		<disk name="Shenmue (Subset - Notebook Challenge) (Disc 3).chd" sha1="a6d20bbb0110ea0f9ec03082f0a08f1fc9a68982"/>
+	<machine name="Shenmue (Specialty Subset - Notebook Challenge)">
+		<category>Specialty Subset</category>
+		<description>Shenmue (Specialty Subset - Notebook Challenge)</description>
+		<release name="Shenmue (Specialty Subset - Notebook Challenge)" region="World"/>
+		<rom name="Shenmue (Specialty Subset - Notebook Challenge).m3u" size="154" crc="1f7886d1" sha1="0616a022259989f973597b07936ab59625bc6e37" md5="db031b2acfbf9bf3395debdd06c45b00"/>
+		<disk name="Shenmue (Specialty Subset - Notebook Challenge) (Disc 1).chd" sha1="aac21f509516c9ed307cdcb72e112edb457410e5"/>
+		<disk name="Shenmue (Specialty Subset - Notebook Challenge) (Disc 2).chd" sha1="eca710942122a24bec6bf461f3b1435fa0c37d9e"/>
+		<disk name="Shenmue (Specialty Subset - Notebook Challenge) (Disc 3).chd" sha1="a6d20bbb0110ea0f9ec03082f0a08f1fc9a68982"/>
 		<url>https://retroachievements.org/game/27585/hashes</url>
 		<hash>f7a70615388110917f91cf2afe976ead</hash>
 		<hash>d5f889e30214e2e56bcab860910652cc</hash>

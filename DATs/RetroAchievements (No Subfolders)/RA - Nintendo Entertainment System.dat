@@ -401,11 +401,11 @@
 		<hash>caa3ab3308ec4a892fe380d6c1f69c97</hash>
 	</game>
 	
-	<game name="FF1 - Spell Flashing Disabled + Manall's FF1 Magecore (v3.1d) (Manall Lockhart) (Hack)">
-		<category>Subset</category>
-		<description>FF1 - Spell Flashing Disabled + Manall's FF1 Magecore (v3.1d) (Manall Lockhart) (Hack)</description>
-		<release name="FF1 - Spell Flashing Disabled + Manall's FF1 Magecore (v3.1d) (Manall Lockhart) (Hack)" region="World"/>
-		<rom name="FF1 - Spell Flashing Disabled + Manall's FF1 Magecore (v3.1d) (Manall Lockhart) (Hack).nes" size="262160" crc="304d9871" md5="1dfe49662f8c7a2a06a585683a48ac0e" sha1="ef69af7d52f92e3b60064f5de976214c12733c74"/>
+	<game name="FF1 - Spell Flashing Disabled + Manall's FF1 Magecore (v3.1d) (Manall Lockhart) (Hack) (Exclusive Subset - Magecore Run)">
+		<category>Exclusive Subset</category>
+		<description>FF1 - Spell Flashing Disabled + Manall's FF1 Magecore (v3.1d) (Manall Lockhart) (Hack) (Exclusive Subset - Magecore Run)</description>
+		<release name="FF1 - Spell Flashing Disabled + Manall's FF1 Magecore (v3.1d) (Manall Lockhart) (Hack) (Exclusive Subset - Magecore Run)" region="World"/>
+		<rom name="FF1 - Spell Flashing Disabled + Manall's FF1 Magecore (v3.1d) (Manall Lockhart) (Hack) (Exclusive Subset - Magecore Run).nes" size="262160" crc="304d9871" md5="1dfe49662f8c7a2a06a585683a48ac0e" sha1="ef69af7d52f92e3b60064f5de976214c12733c74"/>
 		<url>https://retroachievements.org/game/30400/hashes</url>
 		<hash>d62c31a536c9cd4a8a16b27f790a7445</hash>
 	</game>
@@ -11239,11 +11239,11 @@
 		<hash>5bc7fac06e58fda15fd981fd03572c34</hash>
 	</game>
 	
-	<game name="Mike Tyson's Punch-Out!! (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Mike Tyson's Punch-Out!! (Subset - Bonus)</description>
-		<release name="Mike Tyson's Punch-Out!! (Subset - Bonus)" region="World"/>
-		<rom name="Mike Tyson's Punch-Out!! (Subset - Bonus).nes" size="262160" crc="3c26cbc5" md5="ad25b56b01b18f3258900e783b237b54" sha1="434a950b40e5402bc0af6178aa41433e61456d0a"/>
+	<game name="Mike Tyson's Punch-Out!! (Exclusive Subset - Bonus)">
+		<category>Exclusive Subset</category>
+		<description>Mike Tyson's Punch-Out!! (Exclusive Subset - Bonus)</description>
+		<release name="Mike Tyson's Punch-Out!! (Exclusive Subset - Bonus)" region="World"/>
+		<rom name="Mike Tyson's Punch-Out!! (Exclusive Subset - Bonus).nes" size="262160" crc="3c26cbc5" md5="ad25b56b01b18f3258900e783b237b54" sha1="434a950b40e5402bc0af6178aa41433e61456d0a"/>
 		<url>https://retroachievements.org/game/17378/hashes</url>
 		<hash>ea57d53f19de1a72e8d2b628115c00cf</hash>
 	</game>

@@ -5664,27 +5664,27 @@
 		<hash>ac6c61e0652075869190e168a838e803</hash>
 	</game>
 	
-	<game name="Paper Mario (USA) (Subset - Glitch Showcase)">
-		<category>Subset</category>
-		<description>Paper Mario (USA) (Subset - Glitch Showcase)</description>
-		<release name="Paper Mario (USA) (Subset - Glitch Showcase)" region="USA"/>
-		<rom name="Paper Mario (USA) (Subset - Glitch Showcase).z64" size="41943040" crc="4ce7747f" md5="f901839bef29ccf84f5fd735680fe5d3" sha1="e77d36fee8cbf85785c3bf1c50112106ca37806c"/>
+	<game name="Paper Mario (USA) (Exclusive Subset - Glitch Showcase)">
+		<category>Exclusive Subset</category>
+		<description>Paper Mario (USA) (Exclusive Subset - Glitch Showcase)</description>
+		<release name="Paper Mario (USA) (Exclusive Subset - Glitch Showcase)" region="USA"/>
+		<rom name="Paper Mario (USA) (Exclusive Subset - Glitch Showcase).z64" size="41943040" crc="4ce7747f" md5="f901839bef29ccf84f5fd735680fe5d3" sha1="e77d36fee8cbf85785c3bf1c50112106ca37806c"/>
 		<url>https://retroachievements.org/game/33114/hashes</url>
 		<hash>f901839bef29ccf84f5fd735680fe5d3</hash>
 	</game>
-	<game name="Mario Story (Japan) (Subset - Glitch Showcase)" cloneof="Paper Mario (USA) (Subset - Glitch Showcase)">
-		<category>Subset</category>
-		<description>Mario Story (Japan) (Subset - Glitch Showcase)</description>
-		<release name="Mario Story (Japan) (Subset - Glitch Showcase)" region="Japan"/>
-		<rom name="Mario Story (Japan) (Subset - Glitch Showcase).z64" size="41943040" crc="cafed080" md5="72fb235fd9d0132034eea86b8faaa5e6" sha1="d76e7f6433edf63f212886760ecc11e708d901a4"/>
+	<game name="Mario Story (Japan) (Exclusive Subset - Glitch Showcase)" cloneof="Paper Mario (USA) (Exclusive Subset - Glitch Showcase)">
+		<category>Exclusive Subset</category>
+		<description>Mario Story (Japan) (Exclusive Subset - Glitch Showcase)</description>
+		<release name="Mario Story (Japan) (Exclusive Subset - Glitch Showcase)" region="Japan"/>
+		<rom name="Mario Story (Japan) (Exclusive Subset - Glitch Showcase).z64" size="41943040" crc="cafed080" md5="72fb235fd9d0132034eea86b8faaa5e6" sha1="d76e7f6433edf63f212886760ecc11e708d901a4"/>
 		<url>https://retroachievements.org/game/33114/hashes</url>
 		<hash>72fb235fd9d0132034eea86b8faaa5e6</hash>
 	</game>
-	<game name="Paper Mario (Europe) (En,Fr,De,Es) (Subset - Glitch Showcase)" cloneof="Paper Mario (USA) (Subset - Glitch Showcase)">
-		<category>Subset</category>
-		<description>Paper Mario (Europe) (En,Fr,De,Es) (Subset - Glitch Showcase)</description>
-		<release name="Paper Mario (Europe) (En,Fr,De,Es) (Subset - Glitch Showcase)" region="Europe"/>
-		<rom name="Paper Mario (Europe) (En,Fr,De,Es) (Subset - Glitch Showcase).z64" size="50331648" crc="63804352" md5="59930296c994278c7311c55de48f01e2" sha1="6f792aa7902a59a1297e813d2c476372c1e1ba61"/>
+	<game name="Paper Mario (Europe) (En,Fr,De,Es) (Exclusive Subset - Glitch Showcase)" cloneof="Paper Mario (USA) (Exclusive Subset - Glitch Showcase)">
+		<category>Exclusive Subset</category>
+		<description>Paper Mario (Europe) (En,Fr,De,Es) (Exclusive Subset - Glitch Showcase)</description>
+		<release name="Paper Mario (Europe) (En,Fr,De,Es) (Exclusive Subset - Glitch Showcase)" region="Europe"/>
+		<rom name="Paper Mario (Europe) (En,Fr,De,Es) (Exclusive Subset - Glitch Showcase).z64" size="50331648" crc="63804352" md5="59930296c994278c7311c55de48f01e2" sha1="6f792aa7902a59a1297e813d2c476372c1e1ba61"/>
 		<url>https://retroachievements.org/game/33114/hashes</url>
 		<hash>59930296c994278c7311c55de48f01e2</hash>
 	</game>
@@ -6361,15 +6361,6 @@
 		<hash>f7c52568a31aadf26e14dc2b6416b2ed</hash>
 	</game>
 	
-	<game name="Super Smash Bros. (Subset - Targets and Platforms) (v1.1) (SubliminalSiren)">
-		<category>Subset</category>
-		<description>Super Smash Bros. (Subset - Targets and Platforms) (v1.1) (SubliminalSiren)</description>
-		<release name="Super Smash Bros. (Subset - Targets and Platforms) (v1.1) (SubliminalSiren)" region="USA"/>
-		<rom name="Super Smash Bros. (Subset - Targets and Platforms) (v1.1) (SubliminalSiren).z64" size="65536000" crc="562f068b" md5="95be169289c1a62b541d7e536232491c" sha1="10bc5632c6cbcc7f97f2c4bde5cea64da19e901d"/>
-		<url>https://retroachievements.org/game/27303/hashes</url>
-		<hash>95be169289c1a62b541d7e536232491c</hash>
-	</game>
-	
 	<game name="Superman - The New Superman Aventures (USA) (En,Fr,Es)">
 		<category>Retail</category>
 		<description>Superman - The New Superman Aventures (USA) (En,Fr,Es)</description>
@@ -6423,36 +6414,36 @@
 		<hash>05ad897a87d88ea7be737246be07d3e7</hash>
 	</game>
 	
-	<game name="Legend of Zelda, The - Majora's Mask (Subset - 4th Day)">
-		<category>Subset</category>
-		<description>Legend of Zelda, The - Majora's Mask (Subset - 4th Day)</description>
-		<release name="Legend of Zelda, The - Majora's Mask (Subset - 4th Day)" region="USA"/>
-		<rom name="Legend of Zelda, The - Majora's Mask (Subset - 4th Day).z64" size="33554432" crc="2dc57e0c" md5="e54fcb0b39a197b22c470d188fafb934" sha1="255e7e36e8f04cf329cde72cff35f8f999836a82"/>
+	<game name="Legend of Zelda, The - Majora's Mask (Exclusive Subset - 4th Day)">
+		<category>Exclusive Subset</category>
+		<description>Legend of Zelda, The - Majora's Mask (Exclusive Subset - 4th Day)</description>
+		<release name="Legend of Zelda, The - Majora's Mask (Exclusive Subset - 4th Day)" region="USA"/>
+		<rom name="Legend of Zelda, The - Majora's Mask (Exclusive Subset - 4th Day).z64" size="33554432" crc="2dc57e0c" md5="e54fcb0b39a197b22c470d188fafb934" sha1="255e7e36e8f04cf329cde72cff35f8f999836a82"/>
 		<url>https://retroachievements.org/game/29800/hashes</url>
 		<hash>e54fcb0b39a197b22c470d188fafb934</hash>
 	</game>
 	
-	<game name="Legend of Zelda, The - Majora's Mask (Japan) (Subset - Glitch Showcase)" cloneof="Legend of Zelda, The - Majora's Mask (USA) (Subset - Glitch Showcase)">
-		<category>Subset</category>
-		<description>Legend of Zelda, The - Majora's Mask (Japan) (Subset - Glitch Showcase)</description>
-		<release name="Legend of Zelda, The - Majora's Mask (Japan) (Subset - Glitch Showcase)" region="Japan"/>
-		<rom name="Legend of Zelda, The - Majora's Mask (Japan) (Subset - Glitch Showcase).z64" size="33554432" crc="f1c5bedc" md5="dea8b7aa5fe22abec2e3031cc72236a3" sha1="f8dc96bd80dddcc55619c32294b4b1bf143a4279"/>
+	<game name="Legend of Zelda, The - Majora's Mask (Japan) (Exclusive Subset - Glitch Showcase)" cloneof="Legend of Zelda, The - Majora's Mask (USA) (Exclusive Subset - Glitch Showcase)">
+		<category>Exclusive Subset</category>
+		<description>Legend of Zelda, The - Majora's Mask (Japan) (Exclusive Subset - Glitch Showcase)</description>
+		<release name="Legend of Zelda, The - Majora's Mask (Japan) (Exclusive Subset - Glitch Showcase)" region="Japan"/>
+		<rom name="Legend of Zelda, The - Majora's Mask (Japan) (Exclusive Subset - Glitch Showcase).z64" size="33554432" crc="f1c5bedc" md5="dea8b7aa5fe22abec2e3031cc72236a3" sha1="f8dc96bd80dddcc55619c32294b4b1bf143a4279"/>
 		<url>https://retroachievements.org/game/34500/hashes</url>
 		<hash>dea8b7aa5fe22abec2e3031cc72236a3</hash>
 	</game>
-	<game name="Legend of Zelda, The - Majora's Mask (USA) (Subset - Glitch Showcase)">
-		<category>Subset</category>
-		<description>Legend of Zelda, The - Majora's Mask (USA) (Subset - Glitch Showcase)</description>
-		<release name="Legend of Zelda, The - Majora's Mask (USA) (Subset - Glitch Showcase)" region="USA"/>
-		<rom name="Legend of Zelda, The - Majora's Mask (USA) (Subset - Glitch Showcase).z64" size="33554432" crc="9762e0ba" md5="9da9a2d4f8c83c563d2c88c8f9058916" sha1="1119aedd49701db246ac320cd4e3fd7b979ca634"/>
+	<game name="Legend of Zelda, The - Majora's Mask (USA) (Exclusive Subset - Glitch Showcase)">
+		<category>Exclusive Subset</category>
+		<description>Legend of Zelda, The - Majora's Mask (USA) (Exclusive Subset - Glitch Showcase)</description>
+		<release name="Legend of Zelda, The - Majora's Mask (USA) (Exclusive Subset - Glitch Showcase)" region="USA"/>
+		<rom name="Legend of Zelda, The - Majora's Mask (USA) (Exclusive Subset - Glitch Showcase).z64" size="33554432" crc="9762e0ba" md5="9da9a2d4f8c83c563d2c88c8f9058916" sha1="1119aedd49701db246ac320cd4e3fd7b979ca634"/>
 		<url>https://retroachievements.org/game/34500/hashes</url>
 		<hash>9da9a2d4f8c83c563d2c88c8f9058916</hash>
 	</game>
-	<game name="Legend of Zelda, The - Majora's Mask (USA) (Pt) (Subset - Glitch Showcase)" cloneof="Legend of Zelda, The - Majora's Mask (USA) (Subset - Glitch Showcase)">
-		<category>Subset</category>
-		<description>Legend of Zelda, The - Majora's Mask (USA) (Pt) (Subset - Glitch Showcase)</description>
-		<release name="Legend of Zelda, The - Majora's Mask (USA) (Pt) (Subset - Glitch Showcase)" region="Portugal"/>
-		<rom name="Legend of Zelda, The - Majora's Mask (USA) (Pt) (Subset - Glitch Showcase).z64" size="33554432" crc="5efeab6a" md5="963b0f26bf166a336892c61f92eaea0e" sha1="3132f631d16769f5aee76756102ab978a467c46e"/>
+	<game name="Legend of Zelda, The - Majora's Mask (USA) (Pt) (Exclusive Subset - Glitch Showcase)" cloneof="Legend of Zelda, The - Majora's Mask (USA) (Exclusive Subset - Glitch Showcase)">
+		<category>Exclusive Subset</category>
+		<description>Legend of Zelda, The - Majora's Mask (USA) (Pt) (Exclusive Subset - Glitch Showcase)</description>
+		<release name="Legend of Zelda, The - Majora's Mask (USA) (Pt) (Exclusive Subset - Glitch Showcase)" region="Portugal"/>
+		<rom name="Legend of Zelda, The - Majora's Mask (USA) (Pt) (Exclusive Subset - Glitch Showcase).z64" size="33554432" crc="5efeab6a" md5="963b0f26bf166a336892c61f92eaea0e" sha1="3132f631d16769f5aee76756102ab978a467c46e"/>
 		<url>https://retroachievements.org/game/34500/hashes</url>
 		<hash>963b0f26bf166a336892c61f92eaea0e</hash>
 	</game>
@@ -6554,11 +6545,11 @@
 		<hash>ba04b138f996135d0b851fb150b5f55f</hash>
 	</game>
 	
-	<game name="Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2) (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2) (Subset - Bonus)</description>
-		<release name="Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2) (Subset - Bonus)" region="World"/>
-		<rom name="Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2) (Subset - Bonus).z64" size="33554432" crc="5d106128" md5="c8e169547354d9db03fd9217bdb8db51" sha1="8c10b5766454042a20a378fb5ea6fa6fed379ea3"/>
+	<game name="Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2) (Exclusive Subset - Bonus)">
+		<category>Exclusive Subset</category>
+		<description>Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2) (Exclusive Subset - Bonus)</description>
+		<release name="Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2) (Exclusive Subset - Bonus)" region="World"/>
+		<rom name="Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2) (Exclusive Subset - Bonus).z64" size="33554432" crc="5d106128" md5="c8e169547354d9db03fd9217bdb8db51" sha1="8c10b5766454042a20a378fb5ea6fa6fed379ea3"/>
 		<url>https://retroachievements.org/game/33247/hashes</url>
 		<hash>c8e169547354d9db03fd9217bdb8db51</hash>
 	</game>

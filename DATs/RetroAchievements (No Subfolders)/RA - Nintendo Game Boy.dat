@@ -206,20 +206,20 @@
 		<hash>153c9a6fc72bc55f86a7d2c55bd7e50c</hash>
 	</game>
 	
-	<game name="Pokemon - Regulation Blue (Subset - Solo Challenge)">
-		<category>Subset</category>
-		<description>Pokemon - Regulation Blue (Subset - Solo Challenge)</description>
-		<release name="Pokemon - Regulation Blue (Subset - Solo Challenge)" region="World"/>
-		<release name="Pokemon - Regulation Blue (Subset - Solo Challenge)" region="Blue Version"/>
-		<rom name="Pokemon - Regulation Blue (Subset - Solo Challenge).gb" size="1048576" crc="294c1155" md5="4574f22a18859640dec5ca6a58dfa9c7" sha1="dd686e93f4adcb409d00552c2a2baf226ef48d8a"/>
+	<game name="Pokemon - Regulation Blue (Exclusive Subset - Solo Challenge)">
+		<category>Exclusive Subset</category>
+		<description>Pokemon - Regulation Blue (Exclusive Subset - Solo Challenge)</description>
+		<release name="Pokemon - Regulation Blue (Exclusive Subset - Solo Challenge)" region="World"/>
+		<release name="Pokemon - Regulation Blue (Exclusive Subset - Solo Challenge)" region="Blue Version"/>
+		<rom name="Pokemon - Regulation Blue (Exclusive Subset - Solo Challenge).gb" size="1048576" crc="294c1155" md5="4574f22a18859640dec5ca6a58dfa9c7" sha1="dd686e93f4adcb409d00552c2a2baf226ef48d8a"/>
 		<url>https://retroachievements.org/game/21533/hashes</url>
 		<hash>4574f22a18859640dec5ca6a58dfa9c7</hash>
 	</game>
-	<game name="Pokemon - Regulation Red (Subset - Solo Challenge)" cloneof="Pokemon - Regulation Blue (Subset - Solo Challenge)">
-		<category>Subset</category>
-		<description>Pokemon - Regulation Red (Subset - Solo Challenge)</description>
-		<release name="Pokemon - Regulation Red (Subset - Solo Challenge)" region="Red Version"/>
-		<rom name="Pokemon - Regulation Red (Subset - Solo Challenge).gb" size="1048576" crc="ffaa6a1e" md5="dc6b3c07ed38e4c37366817e01e88df4" sha1="95be78ccde89ed62cdc2f5a24a6d1ee5687011c7"/>
+	<game name="Pokemon - Regulation Red (Exclusive Subset - Solo Challenge)" cloneof="Pokemon - Regulation Blue (Exclusive Subset - Solo Challenge)">
+		<category>Exclusive Subset</category>
+		<description>Pokemon - Regulation Red (Exclusive Subset - Solo Challenge)</description>
+		<release name="Pokemon - Regulation Red (Exclusive Subset - Solo Challenge)" region="Red Version"/>
+		<rom name="Pokemon - Regulation Red (Exclusive Subset - Solo Challenge).gb" size="1048576" crc="ffaa6a1e" md5="dc6b3c07ed38e4c37366817e01e88df4" sha1="95be78ccde89ed62cdc2f5a24a6d1ee5687011c7"/>
 		<url>https://retroachievements.org/game/21533/hashes</url>
 		<hash>dc6b3c07ed38e4c37366817e01e88df4</hash>
 	</game>

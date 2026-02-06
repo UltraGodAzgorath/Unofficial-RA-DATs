@@ -5845,19 +5845,19 @@
 		<hash>dc82796c650b59ed625e889d8d0807a9</hash>
 	</machine>
 	
-	<machine name="Ratchet &amp; Clank - Up Your Arsenal (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Ratchet &amp; Clank - Up Your Arsenal (Subset - Bonus)</description>
-		<release name="Ratchet &amp; Clank - Up Your Arsenal (Subset - Bonus)" region="World"/>
-		<disk name="Ratchet &amp; Clank - Up Your Arsenal (Subset - Bonus).chd" sha1="21f94c5646a695a15316ca759a0a51addde4d4a1"/>
+	<machine name="Ratchet &amp; Clank - Up Your Arsenal (Exclusive Subset - Bonus)">
+		<category>Exclusive Subset</category>
+		<description>Ratchet &amp; Clank - Up Your Arsenal (Exclusive Subset - Bonus)</description>
+		<release name="Ratchet &amp; Clank - Up Your Arsenal (Exclusive Subset - Bonus)" region="World"/>
+		<disk name="Ratchet &amp; Clank - Up Your Arsenal (Exclusive Subset - Bonus).chd" sha1="21f94c5646a695a15316ca759a0a51addde4d4a1"/>
 		<url>https://retroachievements.org/game/22906/hashes</url>
 		<hash>731b59e401d57de18a2da964dceba3a5</hash>
 	</machine>
-	<machine name="Ratchet &amp; Clank 3 - Totsugeki! Galactic Rangers (Japan) (Subset - Bonus)" cloneof="Ratchet &amp; Clank - Up Your Arsenal (Subset - Bonus)">
-		<category>Subset</category>
-		<description>Ratchet &amp; Clank 3 - Totsugeki! Galactic Rangers (Japan) (Subset - Bonus)</description>
-		<release name="Ratchet &amp; Clank 3 - Totsugeki! Galactic Rangers (Japan) (Subset - Bonus)" region="Japan"/>
-		<disk name="Ratchet &amp; Clank 3 - Totsugeki! Galactic Rangers (Japan) (Subset - Bonus).chd" sha1="73a83cdf85d03dc67fb7986f5e06439a8f85dfd1"/>
+	<machine name="Ratchet &amp; Clank 3 - Totsugeki! Galactic Rangers (Japan) (Exclusive Subset - Bonus)" cloneof="Ratchet &amp; Clank - Up Your Arsenal (Exclusive Subset - Bonus)">
+		<category>Exclusive Subset</category>
+		<description>Ratchet &amp; Clank 3 - Totsugeki! Galactic Rangers (Japan) (Exclusive Subset - Bonus)</description>
+		<release name="Ratchet &amp; Clank 3 - Totsugeki! Galactic Rangers (Japan) (Exclusive Subset - Bonus)" region="Japan"/>
+		<disk name="Ratchet &amp; Clank 3 - Totsugeki! Galactic Rangers (Japan) (Exclusive Subset - Bonus).chd" sha1="73a83cdf85d03dc67fb7986f5e06439a8f85dfd1"/>
 		<url>https://retroachievements.org/game/22906/hashes</url>
 		<hash>9800e224cc9a69c83a59874bb46d30c5</hash>
 	</machine>
@@ -6465,11 +6465,11 @@
 		<hash>d8e315c1b3e38573939829da0fc108c2</hash>
 	</machine>
 	
-	<machine name="Shin Megami Tensei III - Nocturne Maniax Chronicle Edition (En) (Subset - Solo+Raidou)">
-		<category>Subset</category>
-		<description>Shin Megami Tensei III - Nocturne Maniax Chronicle Edition (En) (Subset - Solo+Raidou)</description>
-		<release name="Shin Megami Tensei III - Nocturne Maniax Chronicle Edition (En) (Subset - Solo+Raidou)" region="English"/>
-		<disk name="Shin Megami Tensei III - Nocturne Maniax Chronicle Edition (En) (Subset - Solo+Raidou).chd" sha1="3a6975ee3b34b3020d8df44d47047d88f55c79ef"/>
+	<machine name="Shin Megami Tensei III - Nocturne Maniax Chronicle Edition (En) (Exclusive Subset - Solo+Raidou)">
+		<category>Exclusive Subset</category>
+		<description>Shin Megami Tensei III - Nocturne Maniax Chronicle Edition (En) (Exclusive Subset - Solo+Raidou)</description>
+		<release name="Shin Megami Tensei III - Nocturne Maniax Chronicle Edition (En) (Exclusive Subset - Solo+Raidou)" region="English"/>
+		<disk name="Shin Megami Tensei III - Nocturne Maniax Chronicle Edition (En) (Exclusive Subset - Solo+Raidou).chd" sha1="3a6975ee3b34b3020d8df44d47047d88f55c79ef"/>
 		<url>https://retroachievements.org/game/32918/hashes</url>
 		<hash>c3ee116ad71941957d9073d9bade76ae</hash>
 	</machine>
@@ -6768,35 +6768,35 @@
 		<hash>ee9a20185951b550e420ca8efc01ae4e</hash>
 	</machine>
 	
-	<machine name="SingStar (France) (Subset - Regional Exclusives)">
-		<category>Subset</category>
-		<description>SingStar (France) (Subset - Regional Exclusives)</description>
-		<release name="SingStar (France) (Subset - Regional Exclusives)" region="France"/>
-		<disk name="SingStar (France) (Subset - Regional Exclusives).chd" sha1="dbe757693b96a0ba131bb9d8d6a68995a5dd6870"/>
+	<machine name="SingStar (France) (Exclusive Subset - Regional Exclusives)">
+		<category>Exclusive Subset</category>
+		<description>SingStar (France) (Exclusive Subset - Regional Exclusives)</description>
+		<release name="SingStar (France) (Exclusive Subset - Regional Exclusives)" region="France"/>
+		<disk name="SingStar (France) (Exclusive Subset - Regional Exclusives).chd" sha1="dbe757693b96a0ba131bb9d8d6a68995a5dd6870"/>
 		<url>https://retroachievements.org/game/29042/hashes</url>
 		<hash>a22a09a013e0a24e9543d3431d8bdcbd</hash>
 	</machine>
-	<machine name="SingStar (Germany) (Subset - Regional Exclusives)">
-		<category>Subset</category>
-		<description>SingStar (Germany) (Subset - Regional Exclusives)</description>
-		<release name="SingStar (Germany) (Subset - Regional Exclusives)" region="Germany"/>
-		<disk name="SingStar (Germany) (Subset - Regional Exclusives).chd" sha1="5804318321862ed4a871d12ad45eb146df860c67"/>
+	<machine name="SingStar (Germany) (Exclusive Subset - Regional Exclusives)">
+		<category>Exclusive Subset</category>
+		<description>SingStar (Germany) (Exclusive Subset - Regional Exclusives)</description>
+		<release name="SingStar (Germany) (Exclusive Subset - Regional Exclusives)" region="Germany"/>
+		<disk name="SingStar (Germany) (Exclusive Subset - Regional Exclusives).chd" sha1="5804318321862ed4a871d12ad45eb146df860c67"/>
 		<url>https://retroachievements.org/game/29042/hashes</url>
 		<hash>d35d5cfbfa5388a8d4f2db6c318c8c81</hash>
 	</machine>
-	<machine name="SingStar (Italy) (Subset - Regional Exclusives)">
-		<category>Subset</category>
-		<description>SingStar (Italy) (Subset - Regional Exclusives)</description>
-		<release name="SingStar (Italy) (Subset - Regional Exclusives)" region="Italy"/>
-		<disk name="SingStar (Italy) (Subset - Regional Exclusives).chd" sha1="40e91d2cde0eb870031d2e72ea595f8c075c82f0"/>
+	<machine name="SingStar (Italy) (Exclusive Subset - Regional Exclusives)">
+		<category>Exclusive Subset</category>
+		<description>SingStar (Italy) (Exclusive Subset - Regional Exclusives)</description>
+		<release name="SingStar (Italy) (Exclusive Subset - Regional Exclusives)" region="Italy"/>
+		<disk name="SingStar (Italy) (Exclusive Subset - Regional Exclusives).chd" sha1="40e91d2cde0eb870031d2e72ea595f8c075c82f0"/>
 		<url>https://retroachievements.org/game/29042/hashes</url>
 		<hash>006882a1de31d29e3c6f9c18c1f8d5d5</hash>
 	</machine>
-	<machine name="SingStar (Spain) (Subset - Regional Exclusives)">
-		<category>Subset</category>
-		<description>SingStar (Spain) (Subset - Regional Exclusives)</description>
-		<release name="SingStar (Spain) (Subset - Regional Exclusives)" region="Spain"/>
-		<disk name="SingStar (Spain) (Subset - Regional Exclusives).chd" sha1="0790be99f156651b405880f9448a2919c5bf903f"/>
+	<machine name="SingStar (Spain) (Exclusive Subset - Regional Exclusives)">
+		<category>Exclusive Subset</category>
+		<description>SingStar (Spain) (Exclusive Subset - Regional Exclusives)</description>
+		<release name="SingStar (Spain) (Exclusive Subset - Regional Exclusives)" region="Spain"/>
+		<disk name="SingStar (Spain) (Exclusive Subset - Regional Exclusives).chd" sha1="0790be99f156651b405880f9448a2919c5bf903f"/>
 		<url>https://retroachievements.org/game/29042/hashes</url>
 		<hash>df04a8c1668ff3c2c67646cbddaa53ff</hash>
 	</machine>
@@ -6811,35 +6811,35 @@
 		<hash>77ed7e5738395aebf93527597004a099</hash>
 	</machine>
 	
-	<machine name="SingStar Party (Germany) (Subset - Regional Exclusives)">
-		<category>Subset</category>
-		<description>SingStar Party (Germany) (Subset - Regional Exclusives)</description>
-		<release name="SingStar Party (Germany) (Subset - Regional Exclusives)" region="Germany"/>
-		<disk name="SingStar Party (Germany) (Subset - Regional Exclusives).chd" sha1="37fd2095276a754860eb52f6986f2099ad3ec645"/>
+	<machine name="SingStar Party (Germany) (Exclusive Subset - Regional Exclusives)">
+		<category>Exclusive Subset</category>
+		<description>SingStar Party (Germany) (Exclusive Subset - Regional Exclusives)</description>
+		<release name="SingStar Party (Germany) (Exclusive Subset - Regional Exclusives)" region="Germany"/>
+		<disk name="SingStar Party (Germany) (Exclusive Subset - Regional Exclusives).chd" sha1="37fd2095276a754860eb52f6986f2099ad3ec645"/>
 		<url>https://retroachievements.org/game/33393/hashes</url>
 		<hash>e89286fa225fdddaa02d3c33ffecf176</hash>
 	</machine>
-	<machine name="SingStar NRJ Music Tour (France) (Subset - Regional Exclusives)">
-		<category>Subset</category>
-		<description>SingStar NRJ Music Tour (France) (Subset - Regional Exclusives)</description>
-		<release name="SingStar NRJ Music Tour (France) (Subset - Regional Exclusives)" region="Australia"/>
-		<disk name="SingStar NRJ Music Tour (France) (Subset - Regional Exclusives).chd" sha1="48d3f5de45a6cbd9680953488b564174a6a378e5"/>
+	<machine name="SingStar NRJ Music Tour (France) (Exclusive Subset - Regional Exclusives)">
+		<category>Exclusive Subset</category>
+		<description>SingStar NRJ Music Tour (France) (Exclusive Subset - Regional Exclusives)</description>
+		<release name="SingStar NRJ Music Tour (France) (Exclusive Subset - Regional Exclusives)" region="Australia"/>
+		<disk name="SingStar NRJ Music Tour (France) (Exclusive Subset - Regional Exclusives).chd" sha1="48d3f5de45a6cbd9680953488b564174a6a378e5"/>
 		<url>https://retroachievements.org/game/33393/hashes</url>
 		<hash>c855b4dfaf85069ac3299b2e3387ab8a</hash>
 	</machine>
-	<machine name="SingStar Party (Italy) (Subset - Regional Exclusives)">
-		<category>Subset</category>
-		<description>SingStar Party (Italy) (Subset - Regional Exclusives)</description>
-		<release name="SingStar Party (Italy) (Subset - Regional Exclusives)" region="Italy"/>
-		<disk name="SingStar Party (Italy) (Subset - Regional Exclusives).chd" sha1="33af08408c08599ea0c0d98bc5283f594e5581a7"/>
+	<machine name="SingStar Party (Italy) (Exclusive Subset - Regional Exclusives)">
+		<category>Exclusive Subset</category>
+		<description>SingStar Party (Italy) (Exclusive Subset - Regional Exclusives)</description>
+		<release name="SingStar Party (Italy) (Exclusive Subset - Regional Exclusives)" region="Italy"/>
+		<disk name="SingStar Party (Italy) (Exclusive Subset - Regional Exclusives).chd" sha1="33af08408c08599ea0c0d98bc5283f594e5581a7"/>
 		<url>https://retroachievements.org/game/33393/hashes</url>
 		<hash>a0f3284aa058fddcf48122b5a39bcddc</hash>
 	</machine>
-	<machine name="SingStar Party (Spain) (Subset - Regional Exclusives)">
-		<category>Subset</category>
-		<description>SingStar Party (Spain) (Subset - Regional Exclusives)</description>
-		<release name="SingStar Party (Spain) (Subset - Regional Exclusives)" region="Spain"/>
-		<disk name="SingStar Party (Spain) (Subset - Regional Exclusives).chd" sha1="cf0f0345d92f5ea6e1a05360c53393603a4c70b3"/>
+	<machine name="SingStar Party (Spain) (Exclusive Subset - Regional Exclusives)">
+		<category>Exclusive Subset</category>
+		<description>SingStar Party (Spain) (Exclusive Subset - Regional Exclusives)</description>
+		<release name="SingStar Party (Spain) (Exclusive Subset - Regional Exclusives)" region="Spain"/>
+		<disk name="SingStar Party (Spain) (Exclusive Subset - Regional Exclusives).chd" sha1="cf0f0345d92f5ea6e1a05360c53393603a4c70b3"/>
 		<url>https://retroachievements.org/game/33393/hashes</url>
 		<hash>d9637d758684715821f2ee2cf986e2a8</hash>
 	</machine>
@@ -8456,15 +8456,6 @@
 		<disk name="TimeSplitters 2 (USA).chd" sha1="aae6e299c631496126a7c2c48f08d851a81db058"/>
 		<url>https://retroachievements.org/game/2624/hashes</url>
 		<hash>56ff8d862dfc33bfc2017b76a599cd5e</hash>
-	</machine>
-	
-	<machine name="TimeSplitters 2 (Subset - Platinum Trophies)">
-		<category>Subset</category>
-		<description>TimeSplitters 2 (Subset - Platinum Trophies)</description>
-		<release name="TimeSplitters 2 (Subset - Platinum Trophies)" region="World"/>
-		<disk name="TimeSplitters 2 (Subset - Platinum Trophies).chd" sha1="e38ff9f41540f0e133572aad8a1cd9c0513c5bcd"/>
-		<url>https://retroachievements.org/game/19737/hashes</url>
-		<hash>b31214ff09dc1e4c231f1a1b75443d85</hash>
 	</machine>
 	
 	<machine name="TimeSplitters - Future Perfect (USA)">
