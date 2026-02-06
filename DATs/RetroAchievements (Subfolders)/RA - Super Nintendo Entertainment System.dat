@@ -363,14 +363,6 @@
 		<hash>510680c44d00073dd3c3e7196b504c82</hash>
 	</game>
 	
-	<game name="Subset/Super Mario World/SMW - Celeste (Subset - Golden Strawberries (Hack)">
-		<category>Super Nintendo</category>
-		<description>SMW - Celeste (Subset - Golden Strawberries) (Hack)</description>
-		<rom name="SMW - Celeste (Subset - Golden Strawberries) (Hack).sfc" size="4194304" crc="c3ed9b6f" md5="7d4bcb32a9fdf11c261ef87c478014ff" sha1="b80cb631ab061216be25cfed171558f23c6a0978"/>
-		<url>https://retroachievements.org/game/22560/hashes</url>
-		<hash>7d4bcb32a9fdf11c261ef87c478014ff</hash>
-	</game>
-	
 	<game name="Hack/Super Mario World/SMW - Chain Reaction (Sweetdude) (Hack)">
 		<category>Super Nintendo</category>
 		<description>SMW - Chain Reaction (Sweetdude) (Hack)</description>
@@ -3454,14 +3446,6 @@
 		<rom name="SMW - Super Vanilla World (En) (v1.1) (Mario Brand) (Hack).sfc" size="4194304" crc="a20e0b26" md5="cee7922a2c1bcbf204df4ad4412fb223" sha1="db33ed2bdf057c7c47c7a3fe1e30cbed2d7d15c7"/>
 		<url>https://retroachievements.org/game/8021/hashes</url>
 		<hash>cee7922a2c1bcbf204df4ad4412fb223</hash>
-	</game>
-	
-	<game name="Subset/Super Mario World/SMW - Sure Shot (v1.3) (Subset - featuring Miles 'Tails' Prower) (Hack)">
-		<category>Super Nintendo</category>
-		<description>SMW - Sure Shot (v1.3) (Subset - featuring Miles 'Tails' Prower) (Hack)</description>
-		<rom name="SMW - Sure Shot (v1.3) (Subset - featuring Miles 'Tails' Prower) (Hack).sfc" size="4194304" crc="6516d09a" md5="371af0905202f6fef76785b5581a2193" sha1="31bfa686d0553f5e3e7da5c95296f8ae62872679"/>
-		<url>https://retroachievements.org/game/8714/hashes</url>
-		<hash>371af0905202f6fef76785b5581a2193</hash>
 	</game>
 	
 	<game name="Hack/Super Mario World/SMW - Sure Shot ~ featuring Sonic the Hedgehog Deluxe Edition (v1.3) (Maddy,Margo) (Hack)">
@@ -6762,17 +6746,17 @@
 		<hash>9cbcbb4e10469e068b5c5a2db24c65a6</hash>
 	</game>
 	
-	<game name="Subset/F-Zero/F-Zero (v1.0) (Subset - BS Expansions)">
+	<game name="Exclusive Subset/F-Zero/F-Zero (v1.0) (Exclusive Subset - BS Expansions)">
 		<category>Super Nintendo</category>
-		<description>F-Zero (v1.0) (Subset - BS Expansions)</description>
-		<rom name="F-Zero (v1.0) (Subset - BS Expansions).sfc" size="1048576" crc="bc5160df" md5="72b4ddcff101280fc871466c126f4262" sha1="c9e1d28ea09a11a06001c4ee2eef1359f7c4d100"/>
+		<description>F-Zero (v1.0) (Exclusive Subset - BS Expansions)</description>
+		<rom name="F-Zero (v1.0) (Exclusive Subset - BS Expansions).sfc" size="1048576" crc="bc5160df" md5="72b4ddcff101280fc871466c126f4262" sha1="c9e1d28ea09a11a06001c4ee2eef1359f7c4d100"/>
 		<url>https://retroachievements.org/game/29748/hashes</url>
 		<hash>72b4ddcff101280fc871466c126f4262</hash>
 	</game>
-	<game name="Subset/F-Zero/F-Zero (v1.1) (Subset - BS Expansions)">
+	<game name="Exclusive Subset/F-Zero/F-Zero (v1.1) (Exclusive Subset - BS Expansions)">
 		<category>Super Nintendo</category>
-		<description>F-Zero (v1.1) (Subset - BS Expansions)</description>
-		<rom name="F-Zero (v1.1) (Subset - BS Expansions).sfc" size="1048576" crc="1cf51375" md5="72e0347734698984e3b3a97b4556844d" sha1="cfdc0af3eb5f8b8cc95b8f078ca3b23bfee34214"/>
+		<description>F-Zero (v1.1) (Exclusive Subset - BS Expansions)</description>
+		<rom name="F-Zero (v1.1) (Exclusive Subset - BS Expansions).sfc" size="1048576" crc="1cf51375" md5="72e0347734698984e3b3a97b4556844d" sha1="cfdc0af3eb5f8b8cc95b8f078ca3b23bfee34214"/>
 		<url>https://retroachievements.org/game/29748/hashes</url>
 		<hash>72e0347734698984e3b3a97b4556844d</hash>
 	</game>
@@ -7054,7 +7038,7 @@
 		<hash>11aa974b516f7013362cc9e5268b07f4</hash>
 	</game>
 	
-	<game name="Subset/Final Fantasy - Mystic Quest (USA) (Rev 1)">
+	<game name="Retail/Final Fantasy - Mystic Quest (USA) (Rev 1)">
 		<category>Super Nintendo</category>
 		<description>Final Fantasy - Mystic Quest (USA) (Rev 1)</description>
 		<rom name="Final Fantasy - Mystic Quest (USA) (Rev 1).sfc" size="524288" crc="2c52c792" md5="f7faeae5a847c098d677070920769ca2" sha1="6be74b73b736bc6027c0e92619874da7c498bed0"/>
@@ -9300,7 +9284,7 @@
 		<hash>e81bedd2fc6b013538cdf4bd22fdeff6</hash>
 	</game>
 	
-	<game name="Subset/Mega Man Soccer (USA)">
+	<game name="Retail/Mega Man Soccer (USA)">
 		<category>Super Nintendo</category>
 		<description>Mega Man Soccer (USA)</description>
 		<rom name="Mega Man Soccer (USA).sfc" size="1310720" crc="fa9ee2ce" md5="9e886f686da276b00c4671967d396a79" sha1="7e59c9457829ed3f0fbd9cd0ceeb3432a4739e98"/>
@@ -13118,10 +13102,10 @@
 		<hash>edddc1b166b93df7d3be1e72b541b0a4</hash>
 	</game>
 	
-	<game name="Subset/Zelda no Densetsu - Kamigami no Triforce (Subset - Glitch Showcase)">
+	<game name="Exclusive Subset/Zelda no Densetsu - Kamigami no Triforce (Exclusive Subset - Glitch Showcase)">
 		<category>Super Nintendo</category>
-		<description>Zelda no Densetsu - Kamigami no Triforce (Subset - Glitch Showcase)</description>
-		<rom name="Zelda no Densetsu - Kamigami no Triforce (Subset - Glitch Showcase).sfc" size="1048576" crc="3322effc" md5="03a63945398191337e896e5771f77173" sha1="e7e852f0159ce612e3911164878a9b08b3cb9060"/>
+		<description>Zelda no Densetsu - Kamigami no Triforce (Exclusive Subset - Glitch Showcase)</description>
+		<rom name="Zelda no Densetsu - Kamigami no Triforce (Exclusive Subset - Glitch Showcase).sfc" size="1048576" crc="3322effc" md5="03a63945398191337e896e5771f77173" sha1="e7e852f0159ce612e3911164878a9b08b3cb9060"/>
 		<url>https://retroachievements.org/game/24137/hashes</url>
 		<hash>03a63945398191337e896e5771f77173</hash>
 	</game>
