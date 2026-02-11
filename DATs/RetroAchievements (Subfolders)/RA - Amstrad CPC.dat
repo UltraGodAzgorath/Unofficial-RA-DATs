@@ -5,8 +5,8 @@
 		<name>RA - Amstrad CPC</name>
 		<description>Amstrad CPC</description>
 		<category>Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/37/games</url>
@@ -457,6 +457,14 @@
 		<rom name="Gryzor (World) (CleanCpcDb).dsk" size="204203" crc="A2B01221" md5="bf70f0893459a1b25a917f953c8dc6ee" sha1="EA9135DF8F027CC4F633826ABC8B3F497DEC813E"/>
 		<url>https://retroachievements.org/game/9539/hashes</url>
 		<hash>bf70f0893459a1b25a917f953c8dc6ee</hash>
+	</game>
+	
+	<game name="Retail/Guzzler (World) (CleanCpcDb)">
+		<category></category>
+		<description>Guzzler (World) (CleanCpcDb)</description>
+		<rom name="Guzzler (World) (CleanCpcDb).dsk" size="204544" crc="C057AAA8" md5="6405c587ca920db57c06c51f34bc7cc4" sha1="1C5D7949087A79C9F3CB18DE8D0DF4A561517728"/>
+		<url>https://retroachievements.org/game/37606/hashes</url>
+		<hash>6405c587ca920db57c06c51f34bc7cc4</hash>
 	</game>
 	
 	<game name="Retail/Head over Heels (World) (CleanCpcDb)">

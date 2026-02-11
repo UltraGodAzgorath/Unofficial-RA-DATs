@@ -5,8 +5,8 @@
 		<name>RA - Sega Master System</name>
 		<description>Sega Master System</description>
 		<category>Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/11/games</url>
@@ -199,6 +199,14 @@
 		<rom name="Janggun-ui Adeul (Korea) (Unl).sms" size="524288" crc="192949d5" md5="2db7aaabca7f62d69df466797c0d63d9" sha1="a290e41e0218dd54c7774229a7bf77c0e6b037f9"/>
 		<url>https://retroachievements.org/game/36742/hashes</url>
 		<hash>2db7aaabca7f62d69df466797c0d63d9</hash>
+	</game>
+	
+	<game name="Unlicensed/Knightmare II - The Maze of Galious (Korea) (Unl)">
+		<category></category>
+		<description>Knightmare II - The Maze of Galious (Korea) (Unl)</description>
+		<rom name="Knightmare II - The Maze of Galious (Korea) (Unl).sms" size="131072" crc="f89af3cc" md5="09d622effa934695566e47f1fb1d4b77" sha1="b716266e936b7cd0a6e29785ae3e7686e1b35793"/>
+		<url>https://retroachievements.org/game/11607/hashes</url>
+		<hash>09d622effa934695566e47f1fb1d4b77</hash>
 	</game>
 	
 	<game name="Unlicensed/Super Boy 4 (Korea) (En) (Unl)">

@@ -5,8 +5,8 @@
 		<name>RA - Sony PlayStation</name>
 		<description>Sony PlayStation</description>
 		<category>Subfolders</category>
-		<version>20260122</version>
-		<date>22 January 2026</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -505,6 +505,14 @@
 		<hash>41d47080d3797cb5dd0669b3bb1422f8</hash>
 	</machine>
 	
+	<machine name="Prototype/Thrill Kill (USA) (Unreleased) (Proto)">
+		<category></category>
+		<description>Thrill Kill (USA) (Unreleased) (Proto)</description>
+		<disk name="Thrill Kill (USA) (Unreleased) (Proto).chd" sha1="03f4a54b7b305ff59fdbd65b5fab598d26e2e3a7"/>
+		<url>https://retroachievements.org/game/13901/hashes</url>
+		<hash>db6ee343fa73307ef4eb5eaeed34f0c2</hash>
+	</machine>
+	
 	<machine name="Unlicensed/Yakyuuken Special, The - Kon'ya wa 12-kaisen!! (Unl)">
 		<category></category>
 		<description>Yakyuuken Special, The - Kon'ya wa 12-kaisen!! (Unl)</description>
@@ -554,6 +562,14 @@
 		<disk name="Disney's 102 Dalmatians - Puppies to the Rescue (USA).chd" sha1="f40b85aaa766498bc62878e1e1f53f46440a3def"/>
 		<url>https://retroachievements.org/game/16556/hashes</url>
 		<hash>a8cfa5cc331d972eeb3c11ff6825b453</hash>
+	</machine>
+	
+	<machine name="Retail/3Xtreme (USA)">
+		<category></category>
+		<description>3Xtreme (USA)</description>
+		<disk name="3Xtreme (USA).chd" sha1="a0678bbf322f512072f7a78f072fdbab6555559b"/>
+		<url>https://retroachievements.org/game/8336/hashes</url>
+		<hash>f38dd168394579569305020747c295ca</hash>
 	</machine>
 	
 	<machine name="Retail/40 Winks (USA)">
@@ -793,7 +809,7 @@
 	<machine name="Retail/Amerzone - Il Testamento dell'Esploratore (Italy)">
 		<category></category>
 		<description>Amerzone - Il Testamento dell'Esploratore (Italy)</description>
-		<rom name="Amerzone - Il Testamento dell'Esploratore (Italy).m3u" size="126" crc="4b458d8b" sha1="240988e6f2a8db987a81d4661b36a24e45b2a953" md5="a0b25f23f3cf4f69dfa7d0379785df2c"/>
+		<rom name="Amerzone - Il Testamento dell'Esploratore (Italy).m3u" size="126" crc="4b458d8b" md5="a0b25f23f3cf4f69dfa7d0379785df2c" sha1="240988e6f2a8db987a81d4661b36a24e45b2a953"/>
 		<disk name="Amerzone - Il Testamento dell'Esploratore (Italy) (Disc 1).chd" sha1="32cebdc58162ff3ce80d27ae7ba55586656325ad"/>
 		<disk name="Amerzone - Il Testamento dell'Esploratore (Italy) (Disc 2).chd" sha1="6fc94c06b1bb76c1575c435506a6ce516642cab2"/>
 		<url>https://retroachievements.org/game/17583/hashes</url>
@@ -803,7 +819,7 @@
 	<machine name="Retail/Amerzone - O Testamento do Explorador (Portugal)">
 		<category></category>
 		<description>Amerzone - O Testamento do Explorador (Portugal)</description>
-		<rom name="Amerzone - O Testamento do Explorador (Portugal).m3u" size="124" crc="e43977bc" sha1="b9b35b6d3aeb85f3acbb534781303617225bcb3f" md5="c9a9dde4a842e8ebbf68c2eb066aa82b"/>
+		<rom name="Amerzone - O Testamento do Explorador (Portugal).m3u" size="124" crc="e43977bc" md5="c9a9dde4a842e8ebbf68c2eb066aa82b" sha1="b9b35b6d3aeb85f3acbb534781303617225bcb3f"/>
 		<disk name="Amerzone - O Testamento do Explorador (Portugal) (Disc 1).chd" sha1="e4179ab2c6e181506ea82f001377d78b6a4db44e"/>
 		<disk name="Amerzone - O Testamento do Explorador (Portugal) (Disc 2).chd" sha1="31503e94890c0b1e87e3f5f8604f9baae0792277"/>
 		<url>https://retroachievements.org/game/17583/hashes</url>
@@ -819,12 +835,32 @@
 		<hash>976a954a6c946fe7da48e333d3919943</hash>
 	</machine>
 	
+	<machine name="Retail/Ancient Roman - Power of Dark Side (Japan) (En) (v1.0) (Eight Mansions)">
+		<category></category>
+		<description>Ancient Roman - Power of Dark Side (Japan) (En) (v1.0) (Eight Mansions)</description>
+		<release name="Ancient Roman - Power of Dark Side (Japan) (En) (v1.0) (Eight Mansions)" region="English"/>
+		<rom name="Ancient Roman - Power of Dark Side (Japan) (En) (v1.0) (Eight Mansions).m3u" size="170" crc="723107aa" md5="044d1ba818bfb65a0cf19cc262df4722" sha1="873ae322481aaaf2ad614c654a646d002c32ca6d"/>
+		<disk name="Ancient Roman - Power of Dark Side (Japan) (En) (v1.0) (Eight Mansions) (Disc 1).chd" sha1="9139e20cb23e098fb4e42fa409693738ed75b67c"/>
+		<disk name="Ancient Roman - Power of Dark Side (Japan) (En) (v1.0) (Eight Mansions) (Disc 2).chd" sha1="fae8d7653bb52e5076c74c11f347095431bd86cb"/>
+		<url>https://retroachievements.org/game/30161/hashes</url>
+		<hash>6db3a11b1b167904453e4717f7235e48</hash>
+		<hash>4be9b880a03e334815af43740edeb739</hash>
+	</machine>
+	
 	<machine name="Retail/Animal Football (Europe) (En,Fr,De)">
 		<category></category>
 		<description>Animal Football (Europe) (En,Fr,De)</description>
 		<disk name="Animal Football (Europe) (En,Fr,De).chd" sha1="7d8979ce3989b254f63c6783919de2d27d5a861e"/>
 		<url>https://retroachievements.org/game/14681/hashes</url>
 		<hash>f882f8b6a3cd866dcfc73a5b8ad68c2f</hash>
+	</machine>
+	
+	<machine name="Retail/Animorphs - Shattered Reality (USA)">
+		<category></category>
+		<description>Animorphs - Shattered Reality (USA)</description>
+		<disk name="Animorphs - Shattered Reality (USA).chd" sha1="89339938c55c4cb8ba5bfad762b7c5545c20f8ea"/>
+		<url>https://retroachievements.org/game/23769/hashes</url>
+		<hash>ee316b0f5a8f5b100233e5fa5c441af3</hash>
 	</machine>
 	
 	<machine name="Retail/Ape Escape (USA)">
@@ -1027,6 +1063,14 @@
 		<hash>06fc1b24d320f7efff289b434306695d</hash>
 	</machine>
 	
+	<machine name="Retail/Bakumatsu Roman - Gekka no Kenshi (Japan)">
+		<category></category>
+		<description>Bakumatsu Roman - Gekka no Kenshi (Japan)</description>
+		<disk name="Bakumatsu Roman - Gekka no Kenshi (Japan).chd" sha1="e9c4b46b55230aa2abe53f7bd0d50bf137f5719d"/>
+		<url>https://retroachievements.org/game/17814/hashes</url>
+		<hash>5934841aee9af26844a44a46fb97bd6d</hash>
+	</machine>
+	
 	<machine name="Retail/Barbie - Explorer (USA)">
 		<category></category>
 		<description>Barbie - Explorer (USA)</description>
@@ -1204,6 +1248,14 @@
 		<disk name="Bloody Roar II (USA).chd" sha1="0e16ac1ff170ee76aec889c132cf7fb3411244a6"/>
 		<url>https://retroachievements.org/game/11350/hashes</url>
 		<hash>77defab4cedf9f82c4251a474d55cbee</hash>
+	</machine>
+	
+	<machine name="Retail/Blue's Clues - Blue's Big Musical (USA)">
+		<category></category>
+		<description>Blue's Clues - Blue's Big Musical (USA)</description>
+		<disk name="Blue's Clues - Blue's Big Musical (USA).chd" sha1="493c145f702c798ced5eb265168c6d354fa28715"/>
+		<url>https://retroachievements.org/game/19419/hashes</url>
+		<hash>9a6c5d03214eec421c92b73310a3150e</hash>
 	</machine>
 	
 	<machine name="Retail/Bomberman Fantasy Race (USA)">
@@ -2632,6 +2684,14 @@
 		<hash>cfbeae8cc66bd5a6354edecca8979093</hash>
 	</machine>
 	
+	<machine name="Retail/Egg (Japan)">
+		<category></category>
+		<description>Egg (Japan)</description>
+		<disk name="Egg (Japan).chd" sha1="6b79137853359f1e371ebb4a29c282233327ebd5"/>
+		<url>https://retroachievements.org/game/25240/hashes</url>
+		<hash>327bac1a825bf6afce62624fef604015</hash>
+	</machine>
+	
 	<machine name="Retail/Ehrgeiz - God Bless the Ring (USA)">
 		<category></category>
 		<description>Ehrgeiz - God Bless the Ring (USA)</description>
@@ -3227,28 +3287,6 @@
 		<disk name="Gungage (Japan).chd" sha1="63063cfdd1c6f253969059c7fdd6ba19ce1289d8"/>
 		<url>https://retroachievements.org/game/19217/hashes</url>
 		<hash>3e8592703b5f063c61b40555c9568984</hash>
-	</machine>
-	
-	<machine name="Retail/Gunners Heaven (Japan) (Pt) (Master Luc) (v1.1)">
-		<category></category>
-		<description>Gunners Heaven (Japan) (Pt) (Master Luc) (v1.1)</description>
-		<disk name="Gunners Heaven (Japan) (Pt) (Master Luc) (v1.1).chd" sha1="d7dee2e4f13550ed7ae5c71a8abc5315ca689911"/>
-		<url>https://retroachievements.org/game/14383/hashes</url>
-		<hash>1ca6c010e4667df408fccd5dc7948d81</hash>
-	</machine>
-	<machine name="Retail/Gunners Heaven (Japan)">
-		<category></category>
-		<description>Gunners Heaven (Japan)</description>
-		<disk name="Gunners Heaven (Japan).chd" sha1="06106575688eaeebf0cf5aac6ddc51403dcdcc28"/>
-		<url>https://retroachievements.org/game/14383/hashes</url>
-		<hash>52b38761cac77a1624b299adcd97ad77</hash>
-	</machine>
-	<machine name="Retail/Rapid Reload (Europe)">
-		<category></category>
-		<description>Rapid Reload (Europe)</description>
-		<disk name="Rapid Reload (Europe).chd" sha1="c565dd687461246b19f2e256007da627059a552d"/>
-		<url>https://retroachievements.org/game/14383/hashes</url>
-		<hash>5651f740d5c3f576717b5dbe32201dd1</hash>
 	</machine>
 	
 	<machine name="Retail/Harmful Park (Japan)">
@@ -3858,6 +3896,14 @@
 		<hash>71bda9e6c63e5d28f16af50522078d72</hash>
 	</machine>
 	
+	<machine name="Retail/Roll Away (USA)">
+		<category></category>
+		<description>Roll Away (USA)</description>
+		<disk name="Roll Away (USA).chd" sha1="ab24136da6e83be6fafd0ff64e54684a25b57da8"/>
+		<url>https://retroachievements.org/game/14865/hashes</url>
+		<hash>ec12ea42d913aa5a9d4f2b42ad5d28ec</hash>
+	</machine>
+	
 	<machine name="Retail/Kyoro-chan no Prikura Daisakusen (Japan)">
 		<category></category>
 		<description>Kyoro-chan no Prikura Daisakusen (Japan)</description>
@@ -4081,6 +4127,14 @@
 		<disk name="Magical Drop III (Europe) (En,Fr,De,Es,It,Nl) (Disc 1).chd" sha1="13aa2717f03c9f635f9227dcdd96308e00fb8c8e"/>
 		<url>https://retroachievements.org/game/31342/hashes</url>
 		<hash>519b1420d26175106d0459cdb40bdb7a</hash>
+	</machine>
+	
+	<machine name="Retail/Magical Tetris Challenge (Europe)">
+		<category></category>
+		<description>Magical Tetris Challenge (Europe)</description>
+		<disk name="Magical Tetris Challenge (Europe).chd" sha1="4621821ebb3bceab252a26066be144b6d74ca511"/>
+		<url>https://retroachievements.org/game/20432/hashes</url>
+		<hash>4f04fb0ed1563d7f38c8d475efca95ea</hash>
 	</machine>
 	
 	<machine name="Retail/Martian Gothic - Unification (USA)">
@@ -4319,6 +4373,14 @@
 		<disk name="Mega Man X6 (Subset - Bonus).chd" sha1="06c4b78f59ec811d10b502cb4ea86b05e0727dbc"/>
 		<url>https://retroachievements.org/game/16531/hashes</url>
 		<hash>ced5a814b093f719cd13caea4f9ec62a</hash>
+	</machine>
+	
+	<machine name="Retail/Memorial Series - Sunsoft Vol. 6 (Japan)">
+		<category></category>
+		<description>Memorial Series - Sunsoft Vol. 6 (Japan)</description>
+		<disk name="Memorial Series - Sunsoft Vol. 6 (Japan).chd" sha1="c7ebf8e9b495d2b2426bd1a3a81f8d7047d8678d"/>
+		<url>https://retroachievements.org/game/22715/hashes</url>
+		<hash>ff37d91b8292002e83da0b4b987611cb</hash>
 	</machine>
 	
 	<machine name="Retail/Men in Black - The Series - Crashdown (USA)">
@@ -4671,6 +4733,21 @@
 		<disk name="Moon - Remix RPG Adventure (Japan) (Rev 1) (En) (Esperknight) (2020 Beta).chd" sha1="ce900eb112f1292fce7a60a7462aca8a03fcfcc8"/>
 		<url>https://retroachievements.org/game/16552/hashes</url>
 		<hash>ae5a8a85e9891d06cd37342e03e67ee1</hash>
+	</machine>
+	
+	<machine name="Retail/Moorhuhn 2/Moorhuhn 2 - Die Jagd Geht Weiter (Germany)">
+		<category></category>
+		<description>Moorhuhn 2 - Die Jagd Geht Weiter (Germany)</description>
+		<disk name="Moorhuhn 2 - Die Jagd Geht Weiter (Germany).chd" sha1="752f4e195c0e5137c2127f8d24476e005bdc1e9b"/>
+		<url>https://retroachievements.org/game/17158/hashes</url>
+		<hash>c27324b9c35c705a967e3e725d363b7b</hash>
+	</machine>
+	<machine name="Retail/Moorhuhn 2/Moorhuhn 2 (Germany) (En) (v1.1) (John Osborne)">
+		<category></category>
+		<description>Moorhuhn 2 (Germany) (En) (v1.1) (John Osborne)</description>
+		<disk name="Moorhuhn 2 (Germany) (En) (v1.1) (John Osborne).chd" sha1="a1980d65fb9d692d4d10dd571ef5415610ffcbb5"/>
+		<url>https://retroachievements.org/game/17158/hashes</url>
+		<hash>e0d2431402da98deaf39aff243992e96</hash>
 	</machine>
 	
 	<machine name="Retail/Moorhuhn Kart (Germany)">
@@ -5113,6 +5190,14 @@
 		<disk name="From TV Animation One Piece - Grand Battle! 2 (Japan).chd" sha1="b006127fd56170025444476ffb848eb67e21d816"/>
 		<url>https://retroachievements.org/game/15466/hashes</url>
 		<hash>b7df62fa908d4b5deae80e4c4121e48d</hash>
+	</machine>
+	
+	<machine name="Retail/Option - Tuning Car Battle Spec R (Japan)">
+		<category></category>
+		<description>Option - Tuning Car Battle Spec R (Japan)</description>
+		<disk name="Option - Tuning Car Battle Spec R (Japan).chd" sha1="3bfaa22c9a747605a60c16c59462accc99b11606"/>
+		<url>https://retroachievements.org/game/32539/hashes</url>
+		<hash>17266a5cf9a39b5e8f1fcd3da4c316c4</hash>
 	</machine>
 	
 	<machine name="Retail/OverBlood (USA)">
@@ -5618,6 +5703,28 @@
 		<hash>862e0f4e2ed10331593c91e388ebfb4c</hash>
 	</machine>
 	
+	<machine name="Retail/Gunners Heaven (Japan) (Pt) (Master Luc) (v1.1)">
+		<category></category>
+		<description>Gunners Heaven (Japan) (Pt) (Master Luc) (v1.1)</description>
+		<disk name="Gunners Heaven (Japan) (Pt) (Master Luc) (v1.1).chd" sha1="d7dee2e4f13550ed7ae5c71a8abc5315ca689911"/>
+		<url>https://retroachievements.org/game/14383/hashes</url>
+		<hash>1ca6c010e4667df408fccd5dc7948d81</hash>
+	</machine>
+	<machine name="Retail/Gunners Heaven (Japan)">
+		<category></category>
+		<description>Gunners Heaven (Japan)</description>
+		<disk name="Gunners Heaven (Japan).chd" sha1="06106575688eaeebf0cf5aac6ddc51403dcdcc28"/>
+		<url>https://retroachievements.org/game/14383/hashes</url>
+		<hash>52b38761cac77a1624b299adcd97ad77</hash>
+	</machine>
+	<machine name="Retail/Rapid Reload (Europe)">
+		<category></category>
+		<description>Rapid Reload (Europe)</description>
+		<disk name="Rapid Reload (Europe).chd" sha1="c565dd687461246b19f2e256007da627059a552d"/>
+		<url>https://retroachievements.org/game/14383/hashes</url>
+		<hash>5651f740d5c3f576717b5dbe32201dd1</hash>
+	</machine>
+	
 	<machine name="Retail/Rayman (USA)">
 		<category></category>
 		<description>Rayman (USA)</description>
@@ -5998,14 +6105,6 @@
 		<disk name="Rogue Trip - Vacation 2012 (USA).chd" sha1="bb20e86f13dce714a237ff5ffb77bc54db2730ec"/>
 		<url>https://retroachievements.org/game/5695/hashes</url>
 		<hash>35494fed2ad2ad15ce154e4b8ebd0e70</hash>
-	</machine>
-	
-	<machine name="Retail/Roll Away (USA)">
-		<category></category>
-		<description>Roll Away (USA)</description>
-		<disk name="Roll Away (USA).chd" sha1="ab24136da6e83be6fafd0ff64e54684a25b57da8"/>
-		<url>https://retroachievements.org/game/14865/hashes</url>
-		<hash>ec12ea42d913aa5a9d4f2b42ad5d28ec</hash>
 	</machine>
 	
 	<machine name="Retail/Rollcage (USA)">
@@ -7524,12 +7623,61 @@
 		<hash>708e047cf1940cd0c8bf08d92d9cca60</hash>
 	</machine>
 	
-	<machine name="Retail/Tomb Raider (USA)">
+	<machine name="Retail/Tomb Raider/Tomb Raider (USA)">
 		<category></category>
 		<description>Tomb Raider (USA)</description>
 		<disk name="Tomb Raider (USA).chd" sha1="34ed257db2a97c86fbe4d00fbeaffd0d0a798060"/>
 		<url>https://retroachievements.org/game/11342/hashes</url>
 		<hash>e7c31ca00a6148a816a904a86e224717</hash>
+	</machine>
+	<machine name="Retail/Tomb Raider/Tomb Raider (USA) (Rev 1)">
+		<category></category>
+		<description>Tomb Raider (USA) (Rev 1)</description>
+		<disk name="Tomb Raider (USA) (Rev 1).chd" sha1="db193929591922979856da14816b6ca417d748cb"/>
+		<url>https://retroachievements.org/game/11342/hashes</url>
+		<hash>5f84ecb0ec9450fc681e443516805286</hash>
+	</machine>
+	<machine name="Retail/Tomb Raider/Tomb Raider (USA) (Rev 2)">
+		<category></category>
+		<description>Tomb Raider (USA) (Rev2)</description>
+		<disk name="Tomb Raider (USA) (Rev2).chd" sha1="e63eabc18db14f150cefaf688fb0df863e70686b"/>
+		<url>https://retroachievements.org/game/11342/hashes</url>
+		<hash>86b2f5e7dfd0ec41463bdbb51a1c7871</hash>
+	</machine>
+	<machine name="Retail/Tomb Raider/Tomb Raider (USA) (Rev 3)">
+		<category></category>
+		<description>Tomb Raider (USA) (Rev3)</description>
+		<disk name="Tomb Raider (USA) (Rev3).chd" sha1="585f0bb7f740c1e17edd626cc86d8093877cab0a"/>
+		<url>https://retroachievements.org/game/11342/hashes</url>
+		<hash>86b2f5e7dfd0ec41463bdbb51a1c7871</hash>
+	</machine>
+	<machine name="Retail/Tomb Raider/Tomb Raider (USA) (Rev 4)">
+		<category></category>
+		<description>Tomb Raider (USA) (Rev4)</description>
+		<disk name="Tomb Raider (USA) (Rev4).chd" sha1="d758c42e1b23fbd0569a00c6c0f413849507ac69"/>
+		<url>https://retroachievements.org/game/11342/hashes</url>
+		<hash>86b2f5e7dfd0ec41463bdbb51a1c7871</hash>
+	</machine>
+	<machine name="Retail/Tomb Raider/Tomb Raider (USA) (Rev5)">
+		<category></category>
+		<description>Tomb Raider (USA) (Rev5)</description>
+		<disk name="Tomb Raider (USA) (Rev5).chd" sha1="88a5273156cc8d1ac419ab5646af2e494221c342"/>
+		<url>https://retroachievements.org/game/11342/hashes</url>
+		<hash>17b7ccd159522841e0c4a6abeb10b89d</hash>
+	</machine>
+	<machine name="Retail/Tomb Raider/Tomb Raider (USA) (Rev6)">
+		<category></category>
+		<description>Tomb Raider (USA) (Rev6)</description>
+		<disk name="Tomb Raider (USA) (Rev6).chd" sha1="294b08736f01ca7528a191ed5ee50f849b40dbff"/>
+		<url>https://retroachievements.org/game/11342/hashes</url>
+		<hash>98163d740f08ace1bb215f9dbbbcd450</hash>
+	</machine>
+	<machine name="Retail/Tomb Raider/Tomb Raider (Europe)">
+		<category></category>
+		<description>Tomb Raider (Europe)</description>
+		<disk name="Tomb Raider (Europe).chd" sha1="7be95f8bf576b6d546efbe04a7e27fb0cc847ee7"/>
+		<url>https://retroachievements.org/game/11342/hashes</url>
+		<hash>de79a7335c9fd7c353b599eda90b505b</hash>
 	</machine>
 	
 	<machine name="Retail/Tomb Raider II - Starring Lara Croft (USA) (Rev 2)">

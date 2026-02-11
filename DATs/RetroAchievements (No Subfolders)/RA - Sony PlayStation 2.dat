@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation 2</name>
 		<description>Sony Playstation 2</description>
 		<category>No Subfolders</category>
-		<version>20260122</version>
-		<date>22 January 2026</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -722,6 +722,15 @@
 		<hash>a57eb50ccce2b4d1f4c86bc5b50e1b9d</hash>
 	</machine>
 	
+	<machine name="Area 51 (USA)">
+		<category>Retail</category>
+		<description>Area 51 (USA)</description>
+		<release name="Area 51 (USA)" region="USA"/>
+		<disk name="Area 51 (USA).chd" sha1="2d96da6a6eb78f33371ed06a0b87cde246b2bcda"/>
+		<url>https://retroachievements.org/game/20636/hashes</url>
+		<hash>549945962f242c5f028718e157990bee</hash>
+	</machine>
+	
 	<machine name="Armored Core 2 (USA)">
 		<category>Retail</category>
 		<description>Armored Core 2 (USA)</description>
@@ -729,6 +738,29 @@
 		<disk name="Armored Core 2 (USA).chd" sha1="7ea8d5d0088432ac80ccc602066b134bfdd550e6"/>
 		<url>https://retroachievements.org/game/3316/hashes</url>
 		<hash>642ffd8e7d5dfbd2ed4dcd4143450b5e</hash>
+	</machine>
+	
+	<machine name="Armored Core 3 (USA)">
+		<category>Retail</category>
+		<description>Armored Core 3 (USA)</description>
+		<release name="Armored Core 3 (USA)" region="USA"/>
+		<disk name="Armored Core 3 (USA).chd" sha1="a5d460d39f5f9097a42e2d4907505fdd36eb7834"/>
+		<url>https://retroachievements.org/game/3308/hashes</url>
+		<hash>f92177b18697e5176f89d3bc7582b545</hash>
+	</machine>
+	<machine name="Armored Core 3 (USA) (Analog) (v1.64) (VanLaser)" cloneof="Armored Core 3 (USA)">
+		<category>Retail</category>
+		<description>Armored Core 3 (USA) (Analog) (v1.64) (VanLaser)</description>
+		<disk name="Armored Core 3 (USA) (Analog) (v1.64) (VanLaser).chd" sha1="eb0edde4ef173c53b986a6825e2d7bb4e0c572a1"/>
+		<url>https://retroachievements.org/game/3308/hashes</url>
+		<hash>461cbb0d1361cf24de68509a26fd929e</hash>
+	</machine>
+	<machine name="Armored Core 3 (USA) (Inverted Analog) (v1.64) (VanLaser)" cloneof="Armored Core 3 (USA)">
+		<category>Retail</category>
+		<description>Armored Core 3 (USA) (Inverted Analog) (v1.64) (VanLaser)</description>
+		<disk name="Armored Core 3 (USA) (Inverted Analog) (v1.64) (VanLaser).chd" sha1="e764fb5242de83b5c04c127092ac0a59453a7d75"/>
+		<url>https://retroachievements.org/game/3308/hashes</url>
+		<hash>1520cc660ffa2238f38d2525ce9eaef2</hash>
 	</machine>
 	
 	<machine name="Asterix &amp; Obelix XXL (Europe) (En,Fr,De,Es,It)">
@@ -1752,6 +1784,15 @@
 		<hash>aba9b2a84ced0e0fa66c8a5fb6e79570</hash>
 	</machine>
 	
+	<machine name="Dawn of Mana (USA)">
+		<category>Retail</category>
+		<description>Dawn of Mana (USA)</description>
+		<release name="Dawn of Mana (USA)" region="USA"/>
+		<disk name="Dawn of Mana (USA).chd" sha1="8eed242ce7c2aec4c7b62b38f18024459f58dd4d"/>
+		<url>https://retroachievements.org/game/2709/hashes</url>
+		<hash>95954b813ffb32b90984c12e8aa960f1</hash>
+	</machine>
+	
 	<machine name="DDRMAX - Dance Dance Revolution (USA)">
 		<category>Retail</category>
 		<description>DDRMAX - Dance Dance Revolution (USA)</description>
@@ -1830,6 +1871,15 @@
 		<disk name="Simple 2000 Series Vol. 50 - The Daibijin (Japan).chd" sha1="9612f2d152d8e1eb7caf142f911e0577b64b4903"/>
 		<url>https://retroachievements.org/game/19137/hashes</url>
 		<hash>09ff9a75bf72ab6d4beb239fc2911545</hash>
+	</machine>
+	
+	<machine name="Destroy All Humans! (USA)">
+		<category>Retail</category>
+		<description>Destroy All Humans! (USA)</description>
+		<release name="Destroy All Humans! (USA)" region="USA"/>
+		<disk name="Destroy All Humans! (USA).chd" sha1="cabcbae7ccaefb244fd28bc5c9ac2dd5c93e1a04"/>
+		<url>https://retroachievements.org/game/19745/hashes</url>
+		<hash>61e3e76b2855f0bb18bcda5e249b20f8</hash>
 	</machine>
 	
 	<machine name="Devil Kings (USA)">
@@ -2442,6 +2492,15 @@
 		<hash>ac39fa1e143080441574a86f5f39ec18</hash>
 	</machine>
 	
+	<machine name="Enthusia - Professional Racing (USA)">
+		<category>Retail</category>
+		<description>Enthusia - Professional Racing (USA)</description>
+		<release name="Enthusia - Professional Racing (USA)" region="USA"/>
+		<disk name="Enthusia - Professional Racing (USA).chd" sha1="8a323a154ea4b773a196eba503ff6d11e0645bc8"/>
+		<url>https://retroachievements.org/game/21944/hashes</url>
+		<hash>2ba79193c506388c91f3e734afab7290</hash>
+	</machine>
+	
 	<machine name="Escape from Monkey Island (USA)">
 		<category>Retail</category>
 		<description>Escape from Monkey Island (USA)</description>
@@ -2942,6 +3001,15 @@
 		<hash>26816c48298bf478dc78a94e3700ac4c</hash>
 	</machine>
 	
+	<machine name="Garfield 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)">
+		<category>Retail</category>
+		<description>Garfield 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)</description>
+		<release name="Garfield 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)" region="Europe"/>
+		<disk name="Garfield 2 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).chd" sha1="4a59ad2defc79c61dfee5bf761506e3f97cb74be"/>
+		<url>https://retroachievements.org/game/26873/hashes</url>
+		<hash>6f26c6bd1b6c79108cfeaf369848c001</hash>
+	</machine>
+	
 	<machine name="Garfield - Lasagna World Tour (USA)">
 		<category>Retail</category>
 		<description>Garfield - Lasagna World Tour (USA)</description>
@@ -2967,6 +3035,23 @@
 		<disk name="Gauntlet - Dark Legacy (USA).chd" sha1="7edc6d819f7fa727e287453f6d38edccaafb89a4"/>
 		<url>https://retroachievements.org/game/19175/hashes</url>
 		<hash>7693e6af5c2249d8f7985e24fccf0741</hash>
+	</machine>
+	
+	<machine name="Genji - Dawn of the Samurai (USA)">
+		<category>Retail</category>
+		<description>Genji - Dawn of the Samurai (USA)</description>
+		<release name="Genji - Dawn of the Samurai (USA)" region="USA"/>
+		<disk name="Genji - Dawn of the Samurai (USA).chd" sha1="4eca845e2e3b1e7157bb5e6ea657cedb3e50812c"/>
+		<url>https://retroachievements.org/game/19049/hashes</url>
+		<hash>c85ff355a7fc9b4fd74781553044889d</hash>
+	</machine>
+	<machine name="Genji - Dawn of the Samurai (USA) (PT-BR) (RevNatal) (bitraiden &amp; hnnewgames)" cloneof="Genji - Dawn of the Samurai (USA)">
+		<category>Retail</category>
+		<description>Genji - Dawn of the Samurai (USA) (PT-BR) (RevNatal) (bitraiden &amp; hnnewgames)</description>
+		<release name="Genji - Dawn of the Samurai (USA) (PT-BR) (RevNatal) (bitraiden &amp; hnnewgames)" region="Brazil"/>
+		<disk name="Genji - Dawn of the Samurai (USA) (PT-BR) (RevNatal) (bitraiden &amp; hnnewgames).chd" sha1="931ade14758b44308a30004e63aff9fc7f390bb7"/>
+		<url>https://retroachievements.org/game/19049/hashes</url>
+		<hash>c4865e4e4a0a7aa5b4b15bef1a9066b6</hash>
 	</machine>
 	
 	<machine name="Ghost Rider (USA)">
@@ -3301,6 +3386,7 @@
 	<machine name="Grand Theft Auto - Vice City (USA) (v3.00)">
 		<category>Retail</category>
 		<description>Grand Theft Auto - Vice City (USA) (v3.00)</description>
+		<release name="Grand Theft Auto - Vice City (USA) (v3.00)" region="USA"/>
 		<disk name="Grand Theft Auto - Vice City (USA) (v3.00).chd" sha1="cdd981a3c80d992dda7e3f69ffb73bdd13970588"/>
 		<url>https://retroachievements.org/game/2739/hashes</url>
 		<hash>d1957288756ba9b96d3bc501f66981a4</hash>
@@ -4006,6 +4092,15 @@
 		<hash>ea2a03ea5fccda0aea08ec8b739ee4dd</hash>
 	</machine>
 	
+	<machine name="Jetix Puzzle Buzzle (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)">
+		<category>Retail</category>
+		<description>Jetix Puzzle Buzzle (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
+		<release name="Jetix Puzzle Buzzle (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)" region="Europe"/>
+		<disk name="Jetix Puzzle Buzzle (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).chd" sha1="2bcef6e83349bd43cbe3321995f86240e8948c82"/>
+		<url>https://retroachievements.org/game/28347/hashes</url>
+		<hash>ff2b4eef9d3bf9bb7cf1bf8e3e714fd2</hash>
+	</machine>
+	
 	<machine name="Nickelodeon Jimmy Neutron - Boy Genius (USA)">
 		<category>Retail</category>
 		<description>Nickelodeon Jimmy Neutron - Boy Genius (USA)</description>
@@ -4560,6 +4655,15 @@
 		<hash>1434d45a0d59a903006a896334440f4a</hash>
 	</machine>
 	
+	<machine name="Marvel - Ultimate Alliance (USA)">
+		<category>Retail</category>
+		<description>Marvel - Ultimate Alliance (USA)</description>
+		<release name="Marvel - Ultimate Alliance (USA)" region="USA"/>
+		<disk name="Marvel - Ultimate Alliance (USA).chd" sha1="5a8ff3695899e437bb80a0f9e31221f3f30481f7"/>
+		<url>https://retroachievements.org/game/21031/hashes</url>
+		<hash>74e9947c23ea962c59c60c8ba6fb0e53</hash>
+	</machine>
+	
 	<machine name="Marvel vs. Capcom 2 - New Age of Heroes (USA)">
 		<category>Retail</category>
 		<description>Marvel vs. Capcom 2 - New Age of Heroes (USA)</description>
@@ -4726,6 +4830,15 @@
 		<disk name="Melty Blood - Actress Again (Japan).chd" sha1="d93f1c414d511859318288890f058fa9f59f1b71"/>
 		<url>https://retroachievements.org/game/22049/hashes</url>
 		<hash>0d85866a7fd4996b4564d66bc2cf9a02</hash>
+	</machine>
+	
+	<machine name="Melty Blood - Act Cadenza (Japan)">
+		<category>Retail</category>
+		<description>Melty Blood - Act Cadenza (Japan)</description>
+		<release name="Melty Blood - Act Cadenza (Japan)" region="Japan"/>
+		<disk name="Melty Blood - Act Cadenza (Japan).chd" sha1="99bbdf559401b2ef22d528137507b869003f1aec"/>
+		<url>https://retroachievements.org/game/30945/hashes</url>
+		<hash>9401824fe4cc7edc018cab3f5866574e</hash>
 	</machine>
 	
 	<machine name="Mercenaries (USA)">
@@ -5714,6 +5827,15 @@
 		<althash>80979dfaf7d7205b0a1c6a4bd2f3a2dd</althash>
 	</machine>
 	
+	<machine name="Prince of Persia - The Two Thrones (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<description>Prince of Persia - The Two Thrones (USA) (En,Fr,Es)</description>
+		<release name="Prince of Persia - The Two Thrones (USA) (En,Fr,Es)" region="USA"/>
+		<disk name="Prince of Persia - The Two Thrones (USA) (En,Fr,Es).chd" sha1="521ccc7c84ae0562788e501339309aee15fddc54"/>
+		<url>https://retroachievements.org/game/3291/hashes</url>
+		<hash>280f8d66dec3bbd2560e5085506496f9</hash>
+	</machine>
+	
 	<machine name="Prince of Persia - Warrior Within (Europe, Australia) (En,Fr,De,Es,It,Nl)">
 		<category>Retail</category>
 		<description>Prince of Persia - Warrior Within (Europe, Australia) (En,Fr,De,Es,It,Nl)</description>
@@ -6463,6 +6585,58 @@
 		<disk name="Shadow Tower Abyss (Japan) (En) (v1.0) (Mord of Swoonlight).chd" sha1="a5bb0e2bdaed0bbc55992aeb533767815dbb6651"/>
 		<url>https://retroachievements.org/game/3299/hashes</url>
 		<hash>d8e315c1b3e38573939829da0fc108c2</hash>
+	</machine>
+	
+	<machine name="Shin Megami Tensei - Persona 3 FES (En) (Subset - Heart Items)">
+		<category>Retail</category>
+		<description>Shin Megami Tensei - Persona 3 FES (En) (Subset - Heart Items)</description>
+		<release name="Shin Megami Tensei - Persona 3 FES (En) (Subset - Heart Items)" region="English"/>
+		<disk name="Shin Megami Tensei - Persona 3 FES (En) (Subset - Heart Items).chd" sha1="1252351972365e0abc2552304371e2a61a875cf1"/>
+		<url>https://retroachievements.org/game/34881/hashes</url>
+		<hash>289c5656afc66ed368ea9dbe8b3395bf</hash>
+	</machine>
+	<machine name="Shin Megami Tensei - Persona 3 FES (En) (Undub - Remix BGM) (Subset - Heart Items)">
+		<category>Retail</category>
+		<description>Shin Megami Tensei - Persona 3 FES (En) (Undub - Remix BGM) (Subset - Heart Items)</description>
+		<disk name="Shin Megami Tensei - Persona 3 FES (En) (Undub - Remix BGM) (Subset - Heart Items).chd" sha1="50d4b7c5ffaddfcff9c0e1aeeeb213b11e9212b8"/>
+		<url>https://retroachievements.org/game/34881/hashes</url>
+		<hash>350611cc7c638f24a41b85fbdb1ce2b6</hash>
+	</machine>
+	<machine name="Shin Megami Tensei - Persona 3 FES (En) (Undub - Original BGM) (Subset - Heart Items)">
+		<category>Retail</category>
+		<description>Shin Megami Tensei - Persona 3 FES (En) (Undub - Original BGM) (Subset - Heart Items)</description>
+		<disk name="Shin Megami Tensei - Persona 3 FES (En) (Undub - Original BGM) (Subset - Heart Items).chd" sha1="b4bd5b4e40684546aa9346d227ee051c56d18c54"/>
+		<url>https://retroachievements.org/game/34881/hashes</url>
+		<hash>d03e62722b108d8f77c335c64a6d9aeb</hash>
+	</machine>
+	<machine name="Shin Megami Tensei - Persona 3 FES (Es) (Subset - Heart Items)">
+		<category>Retail</category>
+		<description>Shin Megami Tensei - Persona 3 FES (Es) (Subset - Heart Items)</description>
+		<release name="Shin Megami Tensei - Persona 3 FES (Es) (Subset - Heart Items)" region="Spain"/>
+		<disk name="Shin Megami Tensei - Persona 3 FES (Es) (Subset - Heart Items).chd" sha1="9f727ef1dad89d7d92e1b1490baaa8bcb0ef7a6d"/>
+		<url>https://retroachievements.org/game/34881/hashes</url>
+		<hash>fe30fae8d9afda1b64fc46938a302166</hash>
+	</machine>
+	<machine name="Shin Megami Tensei - Persona 3 FES (En) (Direct Commands) (Subset - Heart Items)">
+		<category>Retail</category>
+		<description>Shin Megami Tensei - Persona 3 FES (En) (Direct Commands) (Subset - Heart Items)</description>
+		<disk name="Shin Megami Tensei - Persona 3 FES (En) (Direct Commands) (Subset - Heart Items).chd" sha1="688d5718f41f9d3c69ea824acad7def04b559439"/>
+		<url>https://retroachievements.org/game/34881/hashes</url>
+		<hash>262e9497a6d2514e57a394c263609a73</hash>
+	</machine>
+	<machine name="Shin Megami Tensei - Persona 3 FES (En) (Direct Commands) (Undub - Remix BGM) (Subset - Heart Items)">
+		<category>Retail</category>
+		<description>Shin Megami Tensei - Persona 3 FES (En) (Direct Commands) (Undub - Remix BGM) (Subset - Heart Items)</description>
+		<disk name="Shin Megami Tensei - Persona 3 FES (En) (Direct Commands) (Undub - Remix BGM) (Subset - Heart Items).chd" sha1="b6780a9597e7561fa7742784233b0255d875bb1f"/>
+		<url>https://retroachievements.org/game/34881/hashes</url>
+		<hash>d46bf732e44622ca26b933dd4f658c00</hash>
+	</machine>
+	<machine name="Shin Megami Tensei - Persona 3 FES (En) (Direct Commands) (Undub - Original BGM) (Subset - Heart Items)">
+		<category>Retail</category>
+		<description>Shin Megami Tensei - Persona 3 FES (En) (Direct Commands) (Undub - Original BGM) (Subset - Heart Items)</description>
+		<disk name="Shin Megami Tensei - Persona 3 FES (En) (Direct Commands) (Undub - Original BGM) (Subset - Heart Items).chd" sha1="20a34d553781a58c8aeaaf125a8bb385885c232f"/>
+		<url>https://retroachievements.org/game/34881/hashes</url>
+		<hash>f6afe5341f5c1f1e93b1cd26aff2e3d2</hash>
 	</machine>
 	
 	<machine name="Shin Megami Tensei III - Nocturne Maniax Chronicle Edition (En) (Exclusive Subset - Solo+Raidou)">
@@ -8842,6 +9016,15 @@
 		<hash>9bc4fe479f412f15638af59591e18fd6</hash>
 	</machine>
 	
+	<machine name="Van Helsing (USA)">
+		<category>Retail</category>
+		<description>Van Helsing (USA)</description>
+		<release name="Van Helsing (USA)" region="USA"/>
+		<disk name="Van Helsing (USA).chd" sha1="331c15a2a5c541a3d50e8405020b58b590f9fa1d"/>
+		<url>https://retroachievements.org/game/21173/hashes</url>
+		<hash>dd6d2041a15fc8318dabb3325f19c8d7</hash>
+	</machine>
+	
 	<machine name="Vexx (USA)">
 		<category>Retail</category>
 		<description>Vexx (USA)</description>
@@ -8849,6 +9032,15 @@
 		<disk name="Vexx (USA).chd" sha1="e2604a3e34f247ecc79fa5fb79f3f1323eba56c5"/>
 		<url>https://retroachievements.org/game/20760/hashes</url>
 		<hash>dd2398a6720f472ac079e48662ed55d6</hash>
+	</machine>
+	
+	<machine name="Vib-Ripple (Japan)">
+		<category>Retail</category>
+		<description>Vib-Ripple (Japan)</description>
+		<release name="Vib-Ripple (Japan)" region="Japan"/>
+		<disk name="Vib-Ripple (Japan).chd" sha1="b1d25f5fd8fcad26817abdddfacb06c42ebf3b4c"/>
+		<url>https://retroachievements.org/game/22116/hashes</url>
+		<hash>ff5f4ce4a7a7bd1994e64f5547532eea</hash>
 	</machine>
 	
 	<machine name="Victorious Boxers 2 - Fighting Spirit (USA)">
@@ -8885,6 +9077,15 @@
 		<disk name="Disney-Pixar WALL-E (USA) (En,Fr,Es).chd" sha1="cd9f8598fec9d167252763ceecc3756471c9c284"/>
 		<url>https://retroachievements.org/game/20617/hashes</url>
 		<hash>071dc4dd4136839092bfa268a46e98ed</hash>
+	</machine>
+	
+	<machine name="Wallace &amp; Gromit in Project Zoo (USA)">
+		<category>Retail</category>
+		<description>Wallace &amp; Gromit in Project Zoo (USA)</description>
+		<release name="Wallace &amp; Gromit in Project Zoo (USA)" region="USA"/>
+		<disk name="Wallace &amp; Gromit in Project Zoo (USA).chd" sha1="546cd7de3afd0360612baf0ef280991b26e1d966"/>
+		<url>https://retroachievements.org/game/21735/hashes</url>
+		<hash>efb3bb86dbcd372a1c0d69126f634653</hash>
 	</machine>
 	
 	<machine name="Wallace &amp; Gromit - The Curse of the Were-Rabbit (USA)">

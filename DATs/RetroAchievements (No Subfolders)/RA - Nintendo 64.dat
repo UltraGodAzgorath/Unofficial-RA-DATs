@@ -5,8 +5,8 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>No Subfolders</category>
-		<version>20260122</version>
-		<date>22 January 2026</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/2/games</url>
@@ -152,6 +152,15 @@
 		<rom name="SM64 - Palmsear Sands (v1.0) (sm64pie) (Hack).z64" size="67108864" crc="39a9938b" md5="7ea2660aa957cf88f96f74746488e91e" sha1="5df8a1c22a86725de5070522f33fb4a909e257a4"/>
 		<url>https://retroachievements.org/game/30989/hashes</url>
 		<hash>7ea2660aa957cf88f96f74746488e91e</hash>
+	</game>
+	
+	<game name="SM64 - Auri's Amazing Arch Adventure (v1.0) (Caasje) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - Auri's Amazing Arch Adventure (v1.0) (Caasje) (Hack)</description>
+		<release name="SM64 - Auri's Amazing Arch Adventure (v1.0) (Caasje) (Hack)" region="World"/>
+		<rom name="SM64 - Auri's Amazing Arch Adventure (v1.0) (Caasje) (Hack).z64" size="67108864" crc="34e4a198" md5="1c79946027716f0e20e132e4fe3d589f" sha1="8b834617b8dcbfe6264100465819357e72df927e"/>
+		<url>https://retroachievements.org/game/37954/hashes</url>
+		<hash>1c79946027716f0e20e132e4fe3d589f</hash>
 	</game>
 	
 	<game name="SM64 - B3313 - Internal Plexus (v1.0.2) (chrisrlillo) (Hack)">
@@ -410,6 +419,15 @@
 		<rom name="SM64 - Despair Mario's Gambit 64 (v1.1 Final) (GMDDoesDMG) (Hack).z64" size="67108864" crc="f8d46ea7" md5="d6dfc46c0cd78a658e04ebcb0fce54ff" sha1="d5ce0514d8b1723f4071181ea4761e8f920ef72c"/>
 		<url>https://retroachievements.org/game/36922/hashes</url>
 		<hash>d6dfc46c0cd78a658e04ebcb0fce54ff</hash>
+	</game>
+	
+	<game name="SM64 - Despair Mario's Gambit Hint Arts (v1.0) (various) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - Despair Mario's Gambit Hint Arts (v1.0) (various) (Hack)</description>
+		<release name="SM64 - Despair Mario's Gambit Hint Arts (v1.0) (various) (Hack)" region="World"/>
+		<rom name="SM64 - Despair Mario's Gambit Hint Arts (v1.0) (various) (Hack).z64" size="67108864" crc="af742b7d" md5="4d018f3c633f14c3df36f28d6a8784d3" sha1="f857bb77789648e62e538c8fc259f35f4359c77d"/>
+		<url>https://retroachievements.org/game/37955/hashes</url>
+		<hash>4d018f3c633f14c3df36f28d6a8784d3</hash>
 	</game>
 	
 	<game name="SM64 - Disaster Quest Tree (v1.2) (Hoppiper26) (Hack)">
@@ -752,6 +770,15 @@
 		<rom name="SM64 - Mario Goes Skateboarding 64 (Es) (v2.0) (AphidKirby) (Hack).z64" size="67108864" crc="fece8a94" md5="70a8fb8b1f3b19b73fbf7c71e0e95d65" sha1="102dcc564a47e2103715deb367452587be56e0f8"/>
 		<url>https://retroachievements.org/game/33084/hashes</url>
 		<hash>70a8fb8b1f3b19b73fbf7c71e0e95d65</hash>
+	</game>
+	
+	<game name="Paper Mario - Mario HATES 2025 (v1.0) (Den, Wrymouth, Darxoon) (Hack)">
+		<category>Hack</category>
+		<description>Paper Mario - Mario HATES 2025 (v1.0) (Den, Wrymouth, Darxoon) (Hack)</description>
+		<release name="Paper Mario - Mario HATES 2025 (v1.0) (Den, Wrymouth, Darxoon) (Hack)" region="World"/>
+		<rom name="Paper Mario - Mario HATES 2025 (v1.0) (Den, Wrymouth, Darxoon) (Hack).z64" size="42244080" crc="e952d572" md5="b5ac0ed309f59730c238e3500b7bd10d" sha1="600c2d192f4b4cc15e4e497f7dfc3ff7178d411a"/>
+		<url>https://retroachievements.org/game/34875/hashes</url>
+		<hash>b5ac0ed309f59730c238e3500b7bd10d</hash>
 	</game>
 	
 	<game name="SM64 - Mario in the Multiverse (v1.1.1) (rovertronic) (Hack)">
@@ -2627,7 +2654,6 @@
 	<game name="SM64 - Decades Later (v1.1h2) (BroDute) (Hack)" cloneof="SM64 - Decades Later (v1.1h2 + RAP64 Hotfix) (BroDute) (Hack)">
 		<category>Hack</category>
 		<description>SM64 - Decades Later (v1.1h2) (BroDute) (Hack)</description>
-		<release name="SM64 - Decades Later (v1.1h2) (BroDute) (Hack)" region="World"/>
 		<rom name="SM64 - Decades Later (v1.1h2) (BroDute) (Hack).z64" size="67108864" crc="a1e3589b" md5="87ef6db345cb9c97c8089b7fdf6300ac" sha1="cd73edfc90e10f57a36f91b14d79bfeb6e198468"/>
 		<url>https://retroachievements.org/game/29579/hashes</url>
 		<hash>87ef6db345cb9c97c8089b7fdf6300ac</hash>
@@ -2635,6 +2661,7 @@
 	<game name="SM64 - Decades Later (v1.1h2 + RAP64 Hotfix) (BroDute) (Hack)">
 		<category>Hack</category>
 		<description>SM64 - Decades Later (v1.1h2 + RAP64 Hotfix) (BroDute) (Hack)</description>
+		<release name="SM64 - Decades Later (v1.1h2 + RAP64 Hotfix) (BroDute) (Hack)" region="World"/>
 		<rom name="SM64 - Decades Later (v1.1h2 + RAP64 Hotfix) (BroDute) (Hack).z64" size="67108864" crc="fb02388b" md5="2fa0363441c085a92ab5367f92878c58" sha1="9acca07c37c797fdf5d1ef057120c3a400e97174"/>
 		<url>https://retroachievements.org/game/29579/hashes</url>
 		<hash>2fa0363441c085a92ab5367f92878c58</hash>
@@ -2994,6 +3021,15 @@
 		<hash>ddd92e35fa3a702b8fcf183a568458e5</hash>
 	</game>
 	
+	<game name="SM64 - Super Mario 4 (v1.0.1) (Various) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - Super Mario 4 (v1.0.1) (Various) (Hack)</description>
+		<release name="SM64 - Super Mario 4 (v1.0.1) (Various) (Hack)" region="World"/>
+		<rom name="SM64 - Super Mario 4 (v1.0.1) (Various) (Hack).z64" size="67108864" crc="d66e52eb" md5="9135e0361658fc0aae3915c7ad310acb" sha1="e09711ac8f55c0b678306074d48cf9a1424638af"/>
+		<url>https://retroachievements.org/game/35103/hashes</url>
+		<hash>9135e0361658fc0aae3915c7ad310acb</hash>
+	</game>
+	
 	<game name="SM64 - Super Mario 64 Land (v1.1) (Kaze Emanuar) (Hack)">
 		<category>Hack</category>
 		<description>SM64 - Super Mario 64 Land (v1.1) (Kaze Emanuar) (Hack)</description>
@@ -3138,6 +3174,15 @@
 		<hash>f0595a36eab6109c5ff2420eb452b6e2</hash>
 	</game>
 	
+	<game name="SM64 - The Dark Stars (v1.1.3) (Caasje) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - The Dark Stars (v1.1.3) (Caasje) (Hack)</description>
+		<release name="SM64 - The Dark Stars (v1.1.3) (Caasje) (Hack)" region="World"/>
+		<rom name="SM64 - The Dark Stars (v1.1.3) (Caasje) (Hack).z64" size="67108864" crc="07189477" md5="ece9ebb71413bbee956b9df1e46725c6" sha1="afb71e5c19ea475b1fc4549dc13282ce40783b05"/>
+		<url>https://retroachievements.org/game/36972/hashes</url>
+		<hash>ece9ebb71413bbee956b9df1e46725c6</hash>
+	</game>
+	
 	<game name="SM64 - The Green Comet (v1.0.1) (Arthurtilly) (Hack)">
 		<category>Hack</category>
 		<description>SM64 - The Green Comet (v1.0.1) (Arthurtilly) (Hack)</description>
@@ -3150,6 +3195,7 @@
 	<game name="SM64 - The Green Stars (v2.1) (Kampel125) (Hack)">
 		<category>Hack</category>
 		<description>SM64 - The Green Stars (v2.1) (Kampel125) (Hack)</description>
+		<release name="SM64 - The Green Stars (v2.1) (Kampel125) (Hack)" region="World"/>
 		<rom name="SM64 - The Green Stars (v2.1) (Kampel125) (Hack).z64" size="50332008" crc="9cda4e4f" md5="dfbe9b84c87f918b6024ee5f22f33fae" sha1="4796bc53543a10359cd8fa33510391929649c20b"/>
 		<url>https://retroachievements.org/game/11647/hashes</url>
 		<hash>dfbe9b84c87f918b6024ee5f22f33fae</hash>
@@ -3180,6 +3226,15 @@
 		<rom name="SM64 - Through the Ages (v1.1) (Kaze Emanuar) (Hack).z64" size="53046608" crc="babe6f0b" md5="a00f77225f439e6c1a5d2dc0b57f9225" sha1="c1b39416e81805624832d995a62b37b955639160"/>
 		<url>https://retroachievements.org/game/19551/hashes</url>
 		<hash>a00f77225f439e6c1a5d2dc0b57f9225</hash>
+	</game>
+	
+	<game name="SM64 - Twisted Adventures (v2.2) (Lincrash, SomeRussianMarioDude) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - Twisted Adventures (v2.2) (Lincrash, SomeRussianMarioDude) (Hack)</description>
+		<release name="SM64 - Twisted Adventures (v2.2) (Lincrash, SomeRussianMarioDude) (Hack)" region="World"/>
+		<rom name="SM64 - Twisted Adventures (v2.2) (Lincrash, SomeRussianMarioDude) (Hack).z64" size="50331648" crc="49f0389e" md5="b5ae14c8973591df1edeb3aca59d9bc8" sha1="9a3e3dc3a428d6f8a8ba6696ad91cebe07968307"/>
+		<url>https://retroachievements.org/game/37880/hashes</url>
+		<hash>b5ae14c8973591df1edeb3aca59d9bc8</hash>
 	</game>
 	
 	<game name="SM64 - Ztar Attack Rebooted (v1.2) (TheGael95,aglab2) (Hack)" cloneof="SM64 - Ztar Attack Rebooted (v1.2f) (TheGael95,aglab2) (Hack)">
@@ -4416,6 +4471,7 @@
 	<game name="Telocation - Gemini (World) (64Brew Game Jam 2020) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>Telocation - Gemini (World) (64Brew Game Jam 2020) (Aftermarket)</description>
+		<release name="Telocation - Gemini (World) (64Brew Game Jam 2020) (Aftermarket)" region="World"/>
 		<rom name="Telocation - Gemini (World) (64Brew Game Jam 2020) (Aftermarket).z64" size="3080192" crc="7e130df8" md5="03af8f67ee32c964eeeafe75647a85d2" sha1="7fa18e7a0851ce7f5dbfff5ee02dc613fec338d5"/>
 		<url>https://retroachievements.org/game/17563/hashes</url>
 		<hash>03af8f67ee32c964eeeafe75647a85d2</hash>
@@ -4640,6 +4696,15 @@
 		<rom name="Blast Corps (Europe) (En,De).z64" size="8388608" crc="4c820695" md5="889d4d337ad11ce94357511c725eab6a" sha1="460212600f8b9f0da95219c4c7330f2e626d9a7e"/>
 		<url>https://retroachievements.org/game/10162/hashes</url>
 		<hash>889d4d337ad11ce94357511c725eab6a</hash>
+	</game>
+	
+	<game name="Blues Brothers 2000 (USA)">
+		<category>Retail</category>
+		<description>Blues Brothers 2000 (USA)</description>
+		<release name="Blues Brothers 2000 (USA)" region="USA"/>
+		<rom name="Blues Brothers 2000 (USA).z64" size="16777216" crc="c6f49764" md5="997fd8f79cd6f3cd1c1c1fd21e358717" sha1="ed0fe7c9a2e8015bdf8262d35065f53c6fcea60f"/>
+		<url>https://retroachievements.org/game/10453/hashes</url>
+		<hash>997fd8f79cd6f3cd1c1c1fd21e358717</hash>
 	</game>
 	
 	<game name="Body Harvest (USA)">
@@ -5591,6 +5656,15 @@
 		<rom name="Mortal Kombat Trilogy (USA) (Rev 2).z64" size="12582912" crc="0f323d00" md5="3dcb15043063bd656a0223c519218cfb" sha1="11f2488b21f9f7185c25905dd02c2955c35ad5c1"/>
 		<url>https://retroachievements.org/game/10114/hashes</url>
 		<hash>3dcb15043063bd656a0223c519218cfb</hash>
+	</game>
+	
+	<game name="MRC - Multi-Racing Championship (USA)">
+		<category>Retail</category>
+		<description>MRC - Multi-Racing Championship (USA)</description>
+		<release name="MRC - Multi-Racing Championship (USA)" region="USA"/>
+		<rom name="MRC - Multi-Racing Championship (USA).z64" size="12582912" crc="1dc1c812" md5="fc61d60f2c6fe4610f70ce4949a7a062" sha1="8bea68833d63b2f17daad4477a572c274a9468be"/>
+		<url>https://retroachievements.org/game/10487/hashes</url>
+		<hash>FC61D60F2C6FE4610F70CE4949A7A062</hash>
 	</game>
 	
 	<game name="Ms. Pac-Man - Maze Madness (USA)">

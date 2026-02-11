@@ -5,8 +5,8 @@
 		<name>RA - NEC TurboGrafx-CD</name>
 		<description>NEC TurboGrafx-CD</description>
 		<category>Subfolders</category>
-		<version>20260117</version>
-		<date>17 January 2026</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/76/games</url>
@@ -132,6 +132,14 @@
 		<disk name="Brandish (Japan).chd" sha1="f593309f80b9f7cf39f5de766b7b53c1f2c5f54f"/>
 		<url>https://retroachievements.org/game/7962/hashes</url>
 		<hash>eefcabb4e6b5aba08615cfc84519b1c4</hash>
+	</machine>
+	
+	<machine name="Retail/Browning (Japan)">
+		<category></category>
+		<description>Browning (Japan)</description>
+		<disk name="Browning (Japan).chd" sha1="fd68f52698e96e4edc40fecb8a0f53702f5d824a"/>
+		<url>https://retroachievements.org/game/28811/hashes</url>
+		<hash>8ea46d9914c68b1ec53a7e215b1fce16</hash>
 	</machine>
 	
 	<machine name="Retail/Buster Bros. (USA)">
@@ -260,6 +268,14 @@
 		<disk name="Final Zone II (Japan).chd" sha1="db12c74505591dd94053e4faaee524a0ac1357e9"/>
 		<url>https://retroachievements.org/game/14104/hashes</url>
 		<hash>8eee6c4f0210aec421fbb1b0fc767b78</hash>
+	</machine>
+	
+	<machine name="Retail/Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT)">
+		<category></category>
+		<description>Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT)</description>
+		<disk name="Garou Densetsu 2 - Aratanaru Tatakai (Japan) (FABT, FAET, FAFT).chd" sha1="1df2de48ec745f63120682b2c39cfe09d9e4928d"/>
+		<url>https://retroachievements.org/game/28760/hashes</url>
+		<hash>ad48889cc1be550f470cb993148a8bfa</hash>
 	</machine>
 	
 	<machine name="Retail/Gate of Thunder (Japan) (FACT, FADT)">

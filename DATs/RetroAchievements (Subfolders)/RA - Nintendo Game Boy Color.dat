@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Color</name>
 		<description>Nintendo Game Boy Color</description>
 		<category>Subfolders</category>
-		<version>20260122</version>
-		<date>22 January 2026</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/6/games</url>
@@ -26,6 +26,20 @@
 		<rom name="Pokemon - Crystal Clear (Color Filter) (ShockSlayer) (v2.5.11) (Hack).gbc" size="2097152" crc="fc33d126" md5="3737dfc080c16b0ee36db9313186eb79" sha1="6fc677bf7a9db103cb9ee11ac08d26782e69ae41"/>
 		<url>https://retroachievements.org/game/13389/hashes</url>
 		<hash>3737dfc080c16b0ee36db9313186eb79</hash>
+	</game>
+	<game name="Hack/Pokemon - Crystal/Pokemon - Crystal Clear (SGB Mode) (v2.5.11) (ShockSlayer) (Hack)">
+		<category></category>
+		<description>Pokemon - Crystal Clear (SGB Mode) (v2.5.11) (ShockSlayer) (Hack)</description>
+		<rom name="Pokemon - Crystal Clear (SGB Mode) (v2.5.11) (ShockSlayer) (Hack).gbc" size="2097152" crc="d3e624f8" md5="c0e8119c74ed66f63db381f424a9d16d" sha1="8be3dea853b39442f36f94c3988e074788c5ecec"/>
+		<url>https://retroachievements.org/game/13389/hashes</url>
+		<hash>c0e8119c74ed66f63db381f424a9d16d</hash>
+	</game>
+	<game name="Hack/Pokemon - Crystal/Pokemon - Crystal Clear (Color Filter) (SGB Mode) (v2.5.11) (ShockSlayer) (Hack)">
+		<category></category>
+		<description>Pokemon - Crystal Clear (Color Filter) (SGB Mode) (v2.5.11) (ShockSlayer) (Hack)</description>
+		<rom name="Pokemon - Crystal Clear (Color Filter) (SGB Mode) (v2.5.11) (ShockSlayer) (Hack).gbc" size="2097152" crc="752c5c97" md5="3357b45c4a5756403f29b9a0f316455b" sha1="913c49bd487efb4516b94fc427a1b12628be3daa"/>
+		<url>https://retroachievements.org/game/13389/hashes</url>
+		<hash>3357b45c4a5756403f29b9a0f316455b</hash>
 	</game>
 	
 	<game name="Hack/Pokemon - Crystal/Pokemon - Joel's Bizarre Pokeventure (v1.0) (Freako) (Hack)">
@@ -107,12 +121,19 @@
 		<hash>2eff5bdfc65a4d6419f2e9e7cd396339</hash>
 	</game>
 	
-	<game name="Hack/Pokemon - Crystal/Pokemon - Polished Crystal (Hack)">
+	<game name="Hack/Pokemon - Crystal/Pokemon - Polished Crystal (v3.2.3) (Rangi) (Hack)">
 		<category></category>
-		<description>Pokemon - Polished Crystal (Hack)</description>
-		<rom name="Pokemon - Polished Crystal (Hack).gbc" size="2097152" crc="d0266a15" md5="9d3a3026bc3730cdf5d813b0bfe49697" sha1="0e488491b7e027059238ae0a7872bc916ae169d5"/>
+		<description>Pokemon - Polished Crystal (v3.2.3) (Rangi) (Hack)</description>
+		<rom name="Pokemon - Polished Crystal (v3.2.3) (Rangi) (Hack).gbc" size="2097152" crc="f98367e4" md5="53d90e468c9eae4d602feacc6295a021" sha1="6930b48af5844d373e3c9130f26d6dd1084cf4ed"/>
 		<url>https://retroachievements.org/game/16191/hashes</url>
-		<hash>9d3a3026bc3730cdf5d813b0bfe49697</hash>
+		<hash>53d90e468c9eae4d602feacc6295a021</hash>
+	</game>
+	<game name="Hack/Pokemon - Crystal/Pokemon - Polished Crystal (v3.2.3) (Faithful) (Rangi) (Hack)">
+		<category></category>
+		<description>Pokemon - Polished Crystal (v3.2.3) (Faithful) (Rangi) (Hack)</description>
+		<rom name="Pokemon - Polished Crystal (v3.2.3) (Faithful) (Rangi) (Hack).gbc" size="2097152" crc="945aa53d" md5="54f6a58d3a865531925e688d78a33c8f" sha1="3ff091a8e94a0c031372b6f0275e12620fe3d766"/>
+		<url>https://retroachievements.org/game/16191/hashes</url>
+		<hash>54f6a58d3a865531925e688d78a33c8f</hash>
 	</game>
 	
 	<game name="Hack/Pokemon - Crystal/Pokemon - Prism Version (v0.94, Build 237) (Hack)">

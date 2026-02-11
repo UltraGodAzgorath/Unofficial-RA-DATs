@@ -5,8 +5,8 @@
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
 		<category>No Subfolders</category>
-		<version>20260122</version>
-		<date>22 January 2026</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/1/games</url>
@@ -651,6 +651,15 @@
 		<hash>43d1341ba30dc3a19ecf8a3cd75245cb</hash>
 	</game>
 	
+	<game name="2048 (World) (v1.0) (Oerg866) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>2048 (World) (v1.0) (Oerg866) (Aftermarket)</description>
+		<release name="2048 (World) (v1.0) (Oerg866) (Aftermarket)" region="World"/>
+		<rom name="2048 (World) (v1.0) (Oerg866) (Aftermarket).md" size="171470" crc="ae2221cf" md5="e8f0a479d4391ea717cd2ee0132d9122" sha1="c84cacf8a9651b089b53ca35242200181e9e1019"/>
+		<url>https://retroachievements.org/game/31908/hashes</url>
+		<hash>e8f0a479d4391ea717cd2ee0132d9122</hash>
+	</game>
+	
 	<game name="30 Years of Nintendon't (World) (Digital) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>30 Years of Nintendon't (World) (Digital) (Aftermarket)</description>
@@ -946,6 +955,15 @@
 		<hash>ef4ecc2e5cfdd5d94a2c71e55034ecf8</hash>
 	</game>
 	
+	<game name="Waffle Painter (World) (v1.0) (Vivian Video) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Waffle Painter (World) (v1.0) (Vivian Video) (Aftermarket)</description>
+		<release name="Waffle Painter (World) (v1.0) (Vivian Video) (Aftermarket)" region="World"/>
+		<rom name="Waffle Painter (World) (v1.0) (Vivian Video) (Aftermarket).md" size="148992" crc="1a959439" md5="71659a7e9bc406a65471a507c61e4da1" sha1="6054c4f8542f3fc149a2605ee8695bdac4ee5c34"/>
+		<url>https://retroachievements.org/game/37607/hashes</url>
+		<hash>71659a7e9bc406a65471a507c61e4da1</hash>
+	</game>
+	
 	<game name="Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>Xeno Crisis (World) (En,Ja,Fr,De,Es,It,Nl,Pt) (Aftermarket)</description>
@@ -1061,6 +1079,15 @@
 		<hash>eb3ebd839b251a73d774f0d34d394af7</hash>
 	</game>
 	
+	<game name="Ben 10 (Russia) (Aftermarket) (Unl)">
+		<category>Unlicensed</category>
+		<description>Ben 10 (Russia) (Aftermarket) (Unl)</description>
+		<release name="Ben 10 (Russia) (Aftermarket) (Unl)" region="Russia"/>
+		<rom name="Ben 10 (Russia) (Aftermarket) (Unl).md" size="1048576" crc="c8be0b26" md5="08cdbf927351146e48a84aa2f3871855" sha1="83a49560eb1174b17c9d5ed8837d74a7006b7e9c"/>
+		<url>https://retroachievements.org/game/24421/hashes</url>
+		<hash>08cdbf927351146e48a84aa2f3871855</hash>
+	</game>
+	
 	<game name="Bomber (Brazil) (Ru) (Unknown) (Unl)" cloneof="Bomber (USA) (Sega Gopher) (Unl)">
 		<category>Retail</category>
 		<description>Bomber (Brazil) (Ru) (Unknown) (Unl)</description>
@@ -1099,6 +1126,7 @@
 	<game name="Fix-It Felix Jr. (World) (Unl)">
 		<category>Unlicensed</category>
 		<description>Fix-It Felix Jr. (World) (Unl)</description>
+		<release name="Fix-It Felix Jr. (World) (Unl)" region="World"/>
 		<rom name="Fix-It Felix Jr. (World) (Unl).md" size="601870" crc="424ff451" md5="38a3555768b31dc2abfc34d20ef546ca" sha1="2bad4a0db0f95a7588e75f344c25427a6e83522b"/>
 		<url>https://retroachievements.org/game/8393/hashes</url>
 		<hash>38a3555768b31dc2abfc34d20ef546ca</hash>
@@ -1231,6 +1259,15 @@
 		<rom name="Super Tank War (Taiwan) (En) (Sound Fix) (Unl).md" size="524288" crc="80194f90" md5="62ca0b7e2f7cc31a340e23dd89f91a16" sha1="e40a78365b4910bf70aa6db167e0a42e71d4d5bd"/>
 		<url>https://retroachievements.org/game/2448/hashes</url>
 		<hash>62ca0b7e2f7cc31a340e23dd89f91a16</hash>
+	</game>
+	
+	<game name="Teenage Mutant Ninja Turtles - The Legend Returns (Russia) (Aftermarket) (Unl)">
+		<category>Unlicensed</category>
+		<description>Teenage Mutant Ninja Turtles - The Legend Returns (Russia) (Aftermarket) (Unl)</description>
+		<release name="Teenage Mutant Ninja Turtles - The Legend Returns (Russia) (Aftermarket) (Unl)" region="Russia"/>
+		<rom name="Teenage Mutant Ninja Turtles - The Legend Returns (Russia) (Aftermarket) (Unl).md" size="1048576" crc="7fb1356e" md5="0d7d46d63a371cae49294e48bbc7127f" sha1="04542a22531ceb784727ee5ef399786313dcf22f"/>
+		<url>https://retroachievements.org/game/37193/hashes</url>
+		<hash>0d7d46d63a371cae49294e48bbc7127f</hash>
 	</game>
 	
 	<game name="Top Fighter 2000 MK VIII (Taiwan) (En) (Unl)">
@@ -1771,6 +1808,15 @@
 		<rom name="Batman - The Video Game (USA) (Ru).md" size="524288" crc="ec59127b" md5="e7dcfa220f46e0a1593cfdeda115c9af" sha1="70892a581ee0e1db92037b0dc3d1b43d947e10c8"/>
 		<url>https://retroachievements.org/game/45/hashes</url>
 		<hash>e7dcfa220f46e0a1593cfdeda115c9af</hash>
+	</game>
+	
+	<game name="Battle Golfer Yui (Japan) (En) (v0.9) (filler)">
+		<category>Retail</category>
+		<description>Battle Golfer Yui (Japan) (En) (v0.9) (filler)</description>
+		<release name="Battle Golfer Yui (Japan) (En) (v0.9) (filler)" region="English"/>
+		<rom name="Battle Golfer Yui (Japan) (En) (v0.9) (filler).md" size="1048576" crc="2d7e868c" md5="70ca38f7dc03560fa770a298ecef438a" sha1="2c6f17f0c212bb51b6ef629b123bae4bd2359816"/>
+		<url>https://retroachievements.org/game/4159/hashes</url>
+		<hash>70ca38f7dc03560fa770a298ecef438a</hash>
 	</game>
 	
 	<game name="Battle Mania Daiginjou (Japan, Korea) (Ja)">
@@ -3395,6 +3441,15 @@
 		<rom name="Garfield - Caught in the Act (USA, Europe).md" size="2097152" crc="f0ff078e" md5="b8591488ca46b51c1d39b6869fa23006" sha1="9fff7dea16c4d0e6c9d6dbaade20c7048bb485ec"/>
 		<url>https://retroachievements.org/game/4274/hashes</url>
 		<hash>b8591488ca46b51c1d39b6869fa23006</hash>
+	</game>
+	
+	<game name="Garfield - The Lost Levels (USA) (Sega Channel)">
+		<category>Retail</category>
+		<description>Garfield - The Lost Levels (USA) (Sega Channel)</description>
+		<release name="Garfield - The Lost Levels (USA) (Sega Channel)" region="USA"/>
+		<rom name="Garfield - The Lost Levels (USA) (Sega Channel).md" size="2097152" crc="a9e35705" md5="b0482af144d81c5707d4748e2fe51cfd" sha1="67498cc2a19b13b951b27b23547437b3ca4e6d4a"/>
+		<url>https://retroachievements.org/game/37602/hashes</url>
+		<hash>b0482af144d81c5707d4748e2fe51cfd</hash>
 	</game>
 	
 	<game name="Gargoyles (USA)">
@@ -5679,6 +5734,15 @@
 		<hash>d50b365a99d5efae6164ef084e808ff2</hash>
 	</game>
 	
+	<game name="Saturday Night Slammasters (USA)">
+		<category>Retail</category>
+		<description>Saturday Night Slammasters (USA)</description>
+		<release name="Saturday Night Slammasters (USA)" region="USA"/>
+		<rom name="Saturday Night Slammasters (USA).md" size="4194304" crc="2fb4eaba" md5="6531e481e57e9243f492718a88a2419b" sha1="7252006bf41e41b92c6261c6722766a1352a6dca"/>
+		<url>https://retroachievements.org/game/4145/hashes</url>
+		<hash>6531e481e57e9243f492718a88a2419b</hash>
+	</game>
+	
 	<game name="Scooby Doo Mystery (USA) (Ru) (v1.25) (Splinker)" cloneof="Scooby-Doo Mystery (USA)">
 		<category>Retail</category>
 		<description>Scooby Doo Mystery (USA) (Ru) (v1.25) (Splinker)</description>
@@ -5947,7 +6011,7 @@
 		<url>https://retroachievements.org/game/126/hashes</url>
 		<hash>06942fbf9e1c021bb6ce4787fefd5364</hash>
 	</game>
-
+	
 	<game name="Side Pocket (USA)" cloneof="Side Pocket (Europe)">
 		<category>Retail</category>
 		<description>Side Pocket (USA)</description>
@@ -5973,7 +6037,7 @@
 		<url>https://retroachievements.org/game/5902/hashes</url>
 		<hash>213899f86e17e95f41498c0b54d702b0</hash>
 	</game>
-
+	
 	<game name="Skeleton Krew (USA)">
 		<category>Retail</category>
 		<description>Skeleton Krew (USA)</description>
@@ -5982,7 +6046,7 @@
 		<url>https://retroachievements.org/game/4432/hashes</url>
 		<hash>7e9a79a887c4edf56574d7a1cd72c5fd</hash>
 	</game>
-
+	
 	<game name="Skitchin' (USA, Europe)">
 		<category>Retail</category>
 		<description>Skitchin' (USA, Europe)</description>
@@ -5992,7 +6056,16 @@
 		<url>https://retroachievements.org/game/4433/hashes</url>
 		<hash>619106321a4317fb38a3baced692d30f</hash>
 	</game>
-
+	
+	<game name="Slap Fight MD (Japan)">
+		<category>Retail</category>
+		<description>Slap Fight MD (Japan)</description>
+		<release name="Slap Fight MD (Japan)" region="Japan"/>
+		<rom name="Slap Fight MD (Japan).md" size="1048576" crc="d6695695" md5="989f8effd6fbbd93dcabd0be8fd41f8a" sha1="3cb992c70b4a5880a3e5f89211f29fe90486c0e0"/>
+		<url>https://retroachievements.org/game/1358/hashes</url>
+		<hash>989f8effd6fbbd93dcabd0be8fd41f8a</hash>
+	</game>
+	
 	<game name="Snake Rattle n Roll (Europe)">
 		<category>Retail</category>
 		<description>Snake Rattle n Roll (Europe)</description>
@@ -6001,7 +6074,7 @@
 		<url>https://retroachievements.org/game/4437/hashes</url>
 		<hash>07c019dd98033e0402309f1f484f217c</hash>
 	</game>
-
+	
 	<game name="Snow Bros. - Nick &amp; Tom (Japan) (En)">
 		<category>Retail</category>
 		<description>Snow Bros. - Nick &amp; Tom (Japan) (En)</description>

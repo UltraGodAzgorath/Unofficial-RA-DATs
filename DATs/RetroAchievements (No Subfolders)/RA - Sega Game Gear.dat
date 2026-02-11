@@ -5,8 +5,8 @@
 		<name>RA - Sega Game Gear</name>
 		<description>Sega Game Gear</description>
 		<category>No Subfolders</category>
-		<version>20251116</version>
-		<date>16 November 2025</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/15/games</url>
@@ -348,16 +348,6 @@
 		<rom name="GG Aleste 3 (Japan) (En) (Playability Patch).gg" size="1048576" crc="717fd9e3" md5="41f9b360571a8aae3b01e780e90a9f68" sha1="b2948f2498d3095aebdb5fe4a62590c12c8ea846"/>
 		<url>https://retroachievements.org/game/27591/hashes</url>
 		<hash>41f9b360571a8aae3b01e780e90a9f68</hash>
-	</game>
-	
-	<game name="Power Strike II (Japan, Europe) (En)">
-		<category>Retail</category>
-		<description>Power Strike II (Japan, Europe) (En)</description>
-		<release name="Power Strike II (Japan, Europe) (En)" region="Europe"/>
-		<release name="Power Strike II (Japan, Europe) (En)" region="Japan"/>
-		<rom name="Power Strike II (Japan, Europe) (En).gg" size="262144" crc="09de1528" md5="d5836ec389ec2c81bd54728b96b87152" sha1="e4db2140761b43426024bd08c4372bb9b8979d3d"/>
-		<url>https://retroachievements.org/game/13239/hashes</url>
-		<hash>d5836ec389ec2c81bd54728b96b87152</hash>
 	</game>
 	
 	<game name="GG Portrait - Pai Chan (Japan)">
@@ -768,6 +758,15 @@
 		<hash>ba091114cbc5a4b3482e6887094070bb</hash>
 	</game>
 	
+	<game name="Pop Breaker (Japan)">
+		<category>Retail</category>
+		<description>Pop Breaker (Japan)</description>
+		<release name="Pop Breaker (Japan)" region="Japan"/>
+		<rom name="Pop Breaker (Japan).gg" size="131072" crc="71deba5a" md5="e0e2fbd5834c04574795c923b0147f39" sha1="9c358504d3c106dd62bd8981132b47cdb95903de"/>
+		<url>https://retroachievements.org/game/14301/hashes</url>
+		<hash>e0e2fbd5834c04574795c923b0147f39</hash>
+	</game>
+	
 	<game name="Popeye no Beach Volleyball (Japan)">
 		<category>Retail</category>
 		<description>Popeye no Beach Volleyball (Japan)</description>
@@ -775,6 +774,16 @@
 		<rom name="Popeye no Beach Volleyball (Japan).gg" size="524288" crc="3ef66810" md5="39d854c9902cf8ca34f32767424be8af" sha1="921e3922e1b550b6914fb06ba74d4661ef25a89e"/>
 		<url>https://retroachievements.org/game/12637/hashes</url>
 		<hash>39d854c9902cf8ca34f32767424be8af</hash>
+	</game>
+	
+	<game name="Power Strike II (Japan, Europe) (En)">
+		<category>Retail</category>
+		<description>Power Strike II (Japan, Europe) (En)</description>
+		<release name="Power Strike II (Japan, Europe) (En)" region="Europe"/>
+		<release name="Power Strike II (Japan, Europe) (En)" region="Japan"/>
+		<rom name="Power Strike II (Japan, Europe) (En).gg" size="262144" crc="09de1528" md5="d5836ec389ec2c81bd54728b96b87152" sha1="e4db2140761b43426024bd08c4372bb9b8979d3d"/>
+		<url>https://retroachievements.org/game/13239/hashes</url>
+		<hash>d5836ec389ec2c81bd54728b96b87152</hash>
 	</game>
 	
 	<game name="Prince of Persia (USA, Europe)">
@@ -920,6 +929,17 @@
 		<hash>56e1561d981a9a7c240cdd8d5580ccf0</hash>
 	</game>
 	
+	<game name="Sonic Chaos (USA, Europe, Brazil) (En)">
+		<category>Retail</category>
+		<description>Sonic Chaos (USA, Europe, Brazil) (En)</description>
+		<release name="Sonic Chaos (USA, Europe, Brazil) (En)" region="Brazil"/>
+		<release name="Sonic Chaos (USA, Europe, Brazil) (En)" region="Europe"/>
+		<release name="Sonic Chaos (USA, Europe, Brazil) (En)" region="USA"/>
+		<rom name="Sonic Chaos (USA, Europe, Brazil) (En).gg" size="524288" crc="663f2abb" md5="895ca34f733c445341e5ca1642527690" sha1="5b5b7d9cd8adf0f8e1ee15fd4557828f91dfdca1"/>
+		<url>https://retroachievements.org/game/12645/hashes</url>
+		<hash>895ca34f733c445341e5ca1642527690</hash>
+	</game>
+	
 	<game name="Sonic Drift (Japan) (En)">
 		<category>Retail</category>
 		<description>Sonic Drift (Japan) (En)</description>
@@ -964,17 +984,6 @@
 		<rom name="Sonic The Hedgehog 2 (World).gg" size="524288" crc="95a18ec7" md5="9c64846563d8b9a24400471322e53fb5" sha1="dabb452e416b4fa9cb83d8ddd307c2a32c3a1a7f"/>
 		<url>https://retroachievements.org/game/12652/hashes</url>
 		<hash>9c64846563d8b9a24400471322e53fb5</hash>
-	</game>
-	
-	<game name="Sonic Chaos (USA, Europe, Brazil) (En)">
-		<category>Retail</category>
-		<description>Sonic Chaos (USA, Europe, Brazil) (En)</description>
-		<release name="Sonic Chaos (USA, Europe, Brazil) (En)" region="Brazil"/>
-		<release name="Sonic Chaos (USA, Europe, Brazil) (En)" region="Europe"/>
-		<release name="Sonic Chaos (USA, Europe, Brazil) (En)" region="USA"/>
-		<rom name="Sonic Chaos (USA, Europe, Brazil) (En).gg" size="524288" crc="663f2abb" md5="895ca34f733c445341e5ca1642527690" sha1="5b5b7d9cd8adf0f8e1ee15fd4557828f91dfdca1"/>
-		<url>https://retroachievements.org/game/12645/hashes</url>
-		<hash>895ca34f733c445341e5ca1642527690</hash>
 	</game>
 	
 	<game name="Sonic Spinball (USA, Europe, Brazil) (En)">

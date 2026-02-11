@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>No Subfolders</category>
-		<version>20260122</version>
-		<date>22 January 2026</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/7/games</url>
@@ -428,6 +428,15 @@
 		<hash>d976145a9714188a42911c9f99df6574</hash>
 	</game>
 	
+	<game name="MM1 - Limbo Edition (v1.2) (Timaeus) (Hack)">
+		<category>Hack</category>
+		<description>MM1 - Limbo Edition (v1.2) (Timaeus) (Hack)</description>
+		<release name="MM1 - Limbo Edition (v1.2) (Timaeus) (Hack)" region="World"/>
+		<rom name="MM1 - Limbo Edition (v1.2) (Timaeus) (Hack).nes" size="131088" crc="ad149476" md5="7f82ee63278b757eedc86a315dd79013" sha1="47cb710203c5ff1002b925f9316e30c969763a81"/>
+		<url>https://retroachievements.org/game/21928/hashes</url>
+		<hash>5c892145dc644430c9117a70e3fc799c</hash>
+	</game>
+	
 	<game name="MM2 - Rockman no Constancy - Hard Mode (v1.3) (IKA) (Hack)">
 		<category>Hack</category>
 		<description>MM2 - Rockman no Constancy - Hard Mode (v1.3) (IKA) (Hack)</description>
@@ -528,15 +537,6 @@
 		<rom name="MM1 - Ultra Challenge (v1.0.1) (itsbazs) (Hack).nes" size="131088" crc="db23179b" md5="096532a315a368d97fcc6b84159319eb" sha1="d5fb23e66d303ee2492947268b5ba778d6da2ba5"/>
 		<url>https://retroachievements.org/game/20046/hashes</url>
 		<hash>aa2d5e515b54f478a375d72bf4067a1b</hash>
-	</game>
-	
-	<game name="MM1 - Limbo Edition (v1.2) (Timaeus) (Hack)">
-		<category>Hack</category>
-		<description>MM1 - Limbo Edition (v1.2) (Timaeus) (Hack)</description>
-		<release name="MM1 - Limbo Edition (v1.2) (Timaeus) (Hack)" region="World"/>
-		<rom name="MM1 - Limbo Edition (v1.2) (Timaeus) (Hack).nes" size="131088" crc="ad149476" md5="7f82ee63278b757eedc86a315dd79013" sha1="47cb710203c5ff1002b925f9316e30c969763a81"/>
-		<url>https://retroachievements.org/game/21928/hashes</url>
-		<hash>5c892145dc644430c9117a70e3fc799c</hash>
 	</game>
 	
 	<game name="MM1 - Speed Bomber (v1.1) (Timaeus) (Hack)">
@@ -779,6 +779,7 @@
 	<game name="SMB3 - Present Panic - A Princess Adventure (v1.01) (Darkdata) (Hack)">
 		<category>Hack</category>
 		<description>SMB3 - Present Panic - A Princess Adventure (v1.01) (Darkdata) (Hack)</description>
+		<release name="SMB3 - Present Panic - A Princess Adventure (v1.01) (Darkdata) (Hack)" region="World"/>
 		<rom name="SMB3 - Present Panic - A Princess Adventure (v1.01) (Darkdata) (Hack).nes" size="393232" crc="f50cf4b2" md5="8bc97871e8b8c06b5d190c783434f18b" sha1="a76f3af2ac8fcbfdb55e4960480f0a99291f1483"/>
 		<url>https://retroachievements.org/game/20504/hashes</url>
 		<hash>1a95b2c4c4d1e590f9946e0ef0c2f0a6</hash>
@@ -1453,6 +1454,15 @@
 		<hash>8740a03fa9a89e2d68bc306a48d01080</hash>
 	</game>
 	
+	<game name="Tonkachi Editor - Tonkachi Mario (I2-Aitsu) (Hack)">
+		<category>Hack</category>
+		<description>Tonkachi Editor - Tonkachi Mario (I2-Aitsu) (Hack)</description>
+		<release name="Tonkachi Editor - Tonkachi Mario (I2-Aitsu) (Hack)" region="World"/>
+		<rom name="Tonkachi Editor - Tonkachi Mario (I2-Aitsu) (Hack).fds" size="65500" crc="4a91e7fc" md5="d7236ca0605bc3b36ec9ba7dd3cdcd9d" sha1="9dfd2ad497f2e78a32b581666e91f7db9d84642f"/>
+		<url>https://retroachievements.org/game/2109/hashes</url>
+		<hash>d7236ca0605bc3b36ec9ba7dd3cdcd9d</hash>
+	</game>
+	
 	<game name="SMB1 - Tower RE Mario Bros (Betaworld) (Hack)">
 		<category>Hack</category>
 		<description>SMB1 - Tower RE Mario Bros (Betaworld) (Hack)</description>
@@ -1608,6 +1618,15 @@
 		<rom name="LoZ2 - The Triforce of Courage (v1.1) (ultimaweapon) (Hack).nes" size="262160" crc="1faf14ff" md5="5328fe32eca46ca55b9e8bdc1c2e814a" sha1="ac0fd4f911c6906d56cf24371d22cbb98b2349f2"/>
 		<url>https://retroachievements.org/game/24139/hashes</url>
 		<hash>4e8882b08573e1a1c17aabb179cb30a3</hash>
+	</game>
+	
+	<game name="Zelda - The Legend of Link (v3-12-20) (infidelity) (Hack)">
+		<category>Hack</category>
+		<description>Zelda - The Legend of Link (v3-12-20) (infidelity) (Hack)</description>
+		<release name="Zelda - The Legend of Link (v3-12-20) (infidelity) (Hack)" region="World"/>
+		<rom name="Zelda - The Legend of Link (v3-12-20) (infidelity) (Hack).nes" size="2097168" crc="e4651818" md5="0b7a5bf3a781a6c1a2a9b0fce1ca3f8d" sha1="6a33a18d357a2b54ffa75175847332b5fad983fb"/>
+		<url>https://retroachievements.org/game/4992/hashes</url>
+		<hash>32f78725ec63b6ac09e18c3de0519321</hash>
 	</game>
 	
 	<game name="Blockage (World) (v0.3.4) (Aftermarket)">
@@ -1962,6 +1981,15 @@
 		<hash>f86ae8bf771b96bc1d6493c387a5fc9b</hash>
 	</game>
 	
+	<game name="Donsol (World) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Donsol (World) (Aftermarket)</description>
+		<release name="Donsol (World) (Aftermarket)" region="World"/>
+		<rom name="Donsol (World) (Aftermarket).nes" size="24592" crc="0c2120fc" md5="725ef0e47b969cb9375f1057918b41a0" sha1="936fc3cfd96a5e80801f33fa6423b7bccbc712e9"/>
+		<url>https://retroachievements.org/game/28976/hashes</url>
+		<hash>1ef304ad53c761eee4046a0cb81b6eaf</hash>
+	</game>
+	
 	<game name="Driar (World) (v1.0) (PAL) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>Driar (World) (v1.0) (PAL) (Aftermarket)</description>
@@ -2060,6 +2088,15 @@
 		<rom name="Fish (World) (Aftermarket).nes" size="40976" crc="20120db7" md5="b7a38bd1f84e6d02695e2ced8b80eb49" sha1="f4342a4d6752332eb09e4c1f9a896dc380a96275"/>
 		<url>https://retroachievements.org/game/28261/hashes</url>
 		<hash>aea36c6703336ed118701e1d4b9e5211</hash>
+	</game>
+	
+	<game name="Five Nights at Freddy's (World) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Five Nights at Freddy's (World) (Aftermarket)</description>
+		<release name="Five Nights at Freddy's (World) (Aftermarket)" region="World"/>
+		<rom name="Five Nights at Freddy's (World) (Aftermarket).nes" size="524304" crc="c5593541" md5="33e8a9fb93fc7a80a632c3727dc6d6c7" sha1="1120f9c7501bcd9b978a5b32b66b0ccc16f99b08"/>
+		<url>https://retroachievements.org/game/34510/hashes</url>
+		<hash>ee00e299329427321118733e5e466af5</hash>
 	</game>
 	
 	<game name="Flappy Bird (World) (Nioreh) (Aftermarket)">
@@ -2987,6 +3024,15 @@
 		<hash>51d17a6f9eeb0f8ced992de5df979e92</hash>
 	</game>
 	
+	<game name="Escape from Atlantis, The (USA) (Proto 2) (Unl)">
+		<category>Unlicensed</category>
+		<description>Escape from Atlantis, The (USA) (Proto 2) (Unl)</description>
+		<release name="Escape from Atlantis, The (USA) (Proto 2) (Unl)" region="USA"/>
+		<rom name="Escape from Atlantis, The (USA) (Proto 2) (Unl).nes" size="131088" crc="3676822f" md5="b5ebc9111c583bbd7d57788bd3458976" sha1="f2da5ca68d0def55eef92d5f44a43b8c3b7f4779"/>
+		<url>https://retroachievements.org/game/5375/hashes</url>
+		<hash>473039c69061a1b5fca5c277c4a0622e</hash>
+	</game>
+	
 	<game name="Donkey Kong Country 4 + The Jungle Book 2 (Hummer Team) (Unl)" cloneof="Donkey Kong Country 4 (Asia) (En) (Unl)">
 		<category>Unlicensed</category>
 		<description>Donkey Kong Country 4 + The Jungle Book 2 (Hummer Team) (Unl)</description>
@@ -3733,6 +3779,15 @@
 		<hash>eae534e06c388ddf75188c75ba321545</hash>
 	</game>
 	
+	<game name="Linus Spacehead's Cosmic Crusade (USA) (En,Fr,De,Es)">
+		<category>Retail</category>
+		<description>Linus Spacehead's Cosmic Crusade (USA) (En,Fr,De,Es)</description>
+		<release name="Linus Spacehead's Cosmic Crusade (USA) (En,Fr,De,Es)" region="USA"/>
+		<rom name="Linus Spacehead's Cosmic Crusade (USA) (En,Fr,De,Es).nes" size="262160" crc="73969599" md5="82078e12dae312b91e64bc0b03d21026" sha1="df69fcc5fa9a4c74ff529e35abeb392c6dc3014c"/>
+		<url>https://retroachievements.org/game/6147/hashes</url>
+		<hash>2fadc729157eb5e282abc59d1ced75ce</hash>
+	</game>
+	
 	<game name="Pyramid (USA) (NINA-06) (Unl)">
 		<category>Unlicensed</category>
 		<description>Pyramid (USA) (NINA-06) (Unl)</description>
@@ -3996,13 +4051,13 @@
 		<hash>940de0f2258763abd113924e4cc02e5c</hash>
 	</game>
 	
-	<game name="Escape from Atlantis, The (USA) (Proto 2) (Unl)">
-		<category>Unlicensed</category>
-		<description>Escape from Atlantis, The (USA) (Proto 2) (Unl)</description>
-		<release name="Escape from Atlantis, The (USA) (Proto 2) (Unl)" region="USA"/>
-		<rom name="Escape from Atlantis, The (USA) (Proto 2) (Unl).nes" size="131088" crc="3676822f" md5="b5ebc9111c583bbd7d57788bd3458976" sha1="f2da5ca68d0def55eef92d5f44a43b8c3b7f4779"/>
-		<url>https://retroachievements.org/game/5375/hashes</url>
-		<hash>473039c69061a1b5fca5c277c4a0622e</hash>
+	<game name="Fantastic Adventures of Dizzy, The (USA) (Aladdin Compact Cartridge)">
+		<category>Retail</category>
+		<description>Fantastic Adventures of Dizzy, The (USA) (Aladdin Compact Cartridge)</description>
+		<release name="Fantastic Adventures of Dizzy, The (USA) (Aladdin Compact Cartridge)" region="USA"/>
+		<rom name="Fantastic Adventures of Dizzy, The (USA) (Aladdin Compact Cartridge).nes" size="262160" crc="1a93cbfc" md5="69e62a47a4279163d9c02d50dd774a98" sha1="c12fb360d1a7807b81cb9281bb94e916b8536f02"/>
+		<url>https://retroachievements.org/game/4616/hashes</url>
+		<hash>8c8e0f565257835befb2fd727049b413</hash>
 	</game>
 	
 	<game name="Dongfang de Chuanshuo Zhi Fengyin Dao (China) (Unl)">
@@ -5212,6 +5267,15 @@
 		<hash>9b6682f308b357b502626fc9fe3fd83b</hash>
 	</game>
 	
+	<game name="Bill &amp; Ted's Excellent Video Game Adventure (USA)">
+		<category>Retail</category>
+		<description>Bill &amp; Ted's Excellent Video Game Adventure (USA)</description>
+		<release name="Bill &amp; Ted's Excellent Video Game Adventure (USA)" region="USA"/>
+		<rom name="Bill &amp; Ted's Excellent Video Game Adventure (USA).nes" size="262160" crc="382f26ba" md5="9f5139bfaa68e7977000b3bdfb5ef898" sha1="d26da64a89cdc94e510911109d014d69bed1793b"/>
+		<url>https://retroachievements.org/game/1578/hashes</url>
+		<hash>170b97f5f1b86416efa71c0978a94b9d</hash>
+	</game>
+	
 	<game name="Binary Land (Japan)">
 		<category>Retail</category>
 		<description>Binary Land (Japan)</description>
@@ -5286,14 +5350,6 @@
 		<rom name="Blaster Master (USA).nes" size="262160" crc="c3961ce2" md5="defdc476e96dd44b4863e360456b8cd3" sha1="0b4599955d7eb11c4f67b778637b58bf879510b4"/>
 		<url>https://retroachievements.org/game/1459/hashes</url>
 		<hash>12b0dbc4f2b22a50d0bb53c4929217f0</hash>
-	</game>
-	<game name="Blaster Master (Europe)">
-		<category>Retail</category>
-		<description>Blaster Master (Europe)</description>
-		<release name="Blaster Master (Europe)" region="Europe"/>
-		<rom name="Blaster Master (Europe).nes" size="262160" crc="b9710bb2" md5="23f46605dd99e1a0988d7afecc0d521f" sha1="d3be37cfe1bbe69c847487c287cbb22265b6c287"/>
-		<url>https://retroachievements.org/game/1459/hashes</url>
-		<hash>db37e37750352fb6c30f9eb714e90e9e</hash>
 	</game>
 	
 	<game name="Bomberman (USA)">
@@ -5568,6 +5624,23 @@
 		<rom name="Captain Skyhawk (Europe).nes" size="131088" crc="39158037" md5="8a6f3563dab1aee8962181ad778390a0" sha1="6e183275c0054e448671afd0f5fd61ebc9d9ea8f"/>
 		<url>https://retroachievements.org/game/1606/hashes</url>
 		<hash>b801e0fca499d14231be90216ea96180</hash>
+	</game>
+	
+	<game name="Captain Tsubasa (Japan)">
+		<category>Retail</category>
+		<description>Captain Tsubasa (Japan)</description>
+		<release name="Captain Tsubasa (Japan)" region="Japan"/>
+		<rom name="Captain Tsubasa (Japan).nes" size="262160" crc="0f68ed1b" md5="eeb77e6e0e0b5695f9a35f47979c4722" sha1="ba366fefe13a3746510acab2fe73d4db1fd8dce4"/>
+		<url>https://retroachievements.org/game/1608/hashes</url>
+		<hash>8005917fdb44ab15048aef36e9030719</hash>
+	</game>
+	<game name="Captain Tsubasa (Japan) (Es) (v1.0) (Rockymitsu)" cloneof="Captain Tsubasa (Japan)">
+		<category>Retail</category>
+		<description>Captain Tsubasa (Japan) (Es) (v1.0) (Rockymitsu)</description>
+		<release name="Captain Tsubasa (Japan) (Es) (v1.0) (Rockymitsu)" region="Spain"/>
+		<rom name="Captain Tsubasa (Japan) (Es) (v1.0) (Rockymitsu).nes" size="262160" crc="2728f06c" md5="e06076f3f4682a938f6f6e62a5bfe437" sha1="9d27dd88070e3751443ebbebb60c143fd27fb339"/>
+		<url>https://retroachievements.org/game/2232/hashes</url>
+		<hash>8a1785e26eb3f55a43af690cd4b8624d</hash>
 	</game>
 	
 	<game name="Casino Kid (USA)">
@@ -6961,13 +7034,21 @@
 		<hash>efe4220028f9159b9c751033d0fe983a</hash>
 	</game>
 	
-	<game name="Dragon Ball - Dai Maou Fukkatsu (Japan) (En) (v1.0) (Stardust Crusaders)">
+	<game name="Dragon Ball - Dai Maou Fukkatsu (Japan) (En) (v1.0) (Stardust Crusaders)" cloneof="Dragon Ball - Daimaou Fukkatsu (Japan)">
 		<category>Retail</category>
 		<description>Dragon Ball - Dai Maou Fukkatsu (Japan) (En) (v1.0) (Stardust Crusaders)</description>
 		<release name="Dragon Ball - Dai Maou Fukkatsu (Japan) (En) (v1.0) (Stardust Crusaders)" region="English"/>
 		<rom name="Dragon Ball - Dai Maou Fukkatsu (Japan) (En) (v1.0) (Stardust Crusaders).nes" size="393232" crc="69beb7a5" md5="bcc2ef456525746ec6a07d5b5a1f2598" sha1="026d1c64338de1b7526e5b442a39a2bceaced2af"/>
 		<url>https://retroachievements.org/game/5539/hashes</url>
 		<hash>44815abfadc2acf1546e1ff5b1c5cf56</hash>
+	</game>
+	<game name="Dragon Ball - Daimaou Fukkatsu (Japan)">
+		<category>Retail</category>
+		<description>Dragon Ball - Daimaou Fukkatsu (Japan)</description>
+		<release name="Dragon Ball - Daimaou Fukkatsu (Japan)" region="Japan"/>
+		<rom name="Dragon Ball - Daimaou Fukkatsu (Japan).nes" size="262160" crc="a3f4a010" md5="98a8d5fd527dc9a851d5e43220c8b94a" sha1="ff9a24473dcccd96d9f8ad38e3004e674b8c87c9"/>
+		<url>https://retroachievements.org/game/5539/hashes</url>
+		<hash>603e5da6c292c5885ebc70e11c4cf5f4</hash>
 	</game>
 	
 	<game name="Dragon Ball - Shen Long no Nazo (Japan) (En) (v1.11) (TransBRC)" cloneof="Dragon Ball - Shen Long no Nazo (Japan)">
@@ -7500,6 +7581,15 @@
 		<rom name="Fantasy Zone (Japan) (Sunsoft).nes" size="131088" crc="584f706c" md5="76dba7dc0d6f61abc11f4d136bc22084" sha1="578bc2d91db7c71fabaeb9624b89253ea742c64f"/>
 		<url>https://retroachievements.org/game/2200/hashes</url>
 		<hash>8471e1ee89c218a4cfc3b94fb506cea4</hash>
+	</game>
+	
+	<game name="Faria - A World of Mystery &amp; Danger! (USA)">
+		<category>Retail</category>
+		<description>Faria - A World of Mystery &amp; Danger! (USA)</description>
+		<release name="Faria - A World of Mystery &amp; Danger! (USA)" region="USA"/>
+		<rom name="Faria - A World of Mystery &amp; Danger! (USA).nes" size="262160" crc="79de2aad" md5="71198f29b4be20429ea0d993c18057b1" sha1="1c584f25e6c6b2b6dee1b6fe4a7688a48a0afe79"/>
+		<url>https://retroachievements.org/game/1681/hashes</url>
+		<hash>7a01e068ab53e51b8da46db592a1fcf4</hash>
 	</game>
 	
 	<game name="Faxanadu (USA) (Rev 1)">
@@ -10273,15 +10363,6 @@
 		<rom name="Life Force (USA).nes" size="131088" crc="6072894a" md5="3e138b2c1b0b71a17611edaf78c46095" sha1="4fea1807ab79a4b69edca5a571cdf4318e14df62"/>
 		<url>https://retroachievements.org/game/1800/hashes</url>
 		<hash>99bfd6d0ff53d78e5126d274a0605d30</hash>
-	</game>
-	
-	<game name="Linus Spacehead's Cosmic Crusade (USA) (En,Fr,De,Es)">
-		<category>Retail</category>
-		<description>Linus Spacehead's Cosmic Crusade (USA) (En,Fr,De,Es)</description>
-		<release name="Linus Spacehead's Cosmic Crusade (USA) (En,Fr,De,Es)" region="USA"/>
-		<rom name="Linus Spacehead's Cosmic Crusade (USA) (En,Fr,De,Es).nes" size="262160" crc="73969599" md5="82078e12dae312b91e64bc0b03d21026" sha1="df69fcc5fa9a4c74ff529e35abeb392c6dc3014c"/>
-		<url>https://retroachievements.org/game/6147/hashes</url>
-		<hash>2fadc729157eb5e282abc59d1ced75ce</hash>
 	</game>
 	
 	<game name="Little League Baseball - Championship Series (USA)">
@@ -13126,6 +13207,15 @@
 		<hash>3f071c7839c4b04200ad0a4ee73bf44c</hash>
 	</game>
 	
+	<game name="Sesame Street - ABC (USA)">
+		<category>Retail</category>
+		<description>Sesame Street - ABC (USA)</description>
+		<release name="Sesame Street - ABC (USA)" region="USA"/>
+		<rom name="Sesame Street - ABC (USA).nes" size="65552" crc="7f72fd74" md5="a60555b4d0eaf3f4c68f45afb644028c" sha1="0a80e8f913145ff9f8cd877a644c07548024a7f3"/>
+		<url>https://retroachievements.org/game/1935/hashes</url>
+		<hash>80e32bc85e8eb415ad309dc2cb4fb2c2</hash>
+	</game>
+	
 	<game name="Sesame Street - Big Bird's Hide &amp; Speak (USA)">
 		<category>Retail</category>
 		<description>Sesame Street - Big Bird's Hide &amp; Speak (USA)</description>
@@ -14592,13 +14682,28 @@
 		<hash>6bc8f54dc358aa35f6259715e5143b37</hash>
 	</game>
 	
-	<game name="Fantastic Adventures of Dizzy, The (USA) (Aladdin Compact Cartridge)">
+	<game name="Chessmaster, The (USA)" cloneof="Chessmaster, The (USA) (Rev 1)">
 		<category>Retail</category>
-		<description>Fantastic Adventures of Dizzy, The (USA) (Aladdin Compact Cartridge)</description>
-		<release name="Fantastic Adventures of Dizzy, The (USA) (Aladdin Compact Cartridge)" region="USA"/>
-		<rom name="Fantastic Adventures of Dizzy, The (USA) (Aladdin Compact Cartridge).nes" size="262160" crc="1a93cbfc" md5="69e62a47a4279163d9c02d50dd774a98" sha1="c12fb360d1a7807b81cb9281bb94e916b8536f02"/>
-		<url>https://retroachievements.org/game/4616/hashes</url>
-		<hash>8c8e0f565257835befb2fd727049b413</hash>
+		<description>Chessmaster, The (USA)</description>
+		<rom name="Chessmaster, The (USA).nes" size="393232" crc="0bbe866b" md5="2e0e18349e965b3f0c029adc3c22ef6b" sha1="a8ec84fbd4b52b8157fbd7d89a600b52135643b9"/>
+		<url>https://retroachievements.org/game/1615/hashes</url>
+		<hash>3f9505d68d90b2e1429690c659b25e15</hash>
+	</game>
+	<game name="Chessmaster, The (USA) (Rev 1)">
+		<category>Retail</category>
+		<description>Chessmaster, The (USA) (Rev 1)</description>
+		<release name="Chessmaster, The (USA) (Rev 1)" region="USA"/>
+		<rom name="Chessmaster, The (USA) (Rev 1).nes" size="163856" crc="e9421c01" md5="f5cdc98638f7d73e30ff9b1753a02574" sha1="049f30a340ab5defd4e9e4d585ce1bf598615976"/>
+		<url>https://retroachievements.org/game/1615/hashes</url>
+		<hash>812fd2e1a6b18c50325e995db546074e</hash>
+	</game>
+	<game name="Chessmaster, The (Europe)" cloneof="Chessmaster, The (USA) (Rev 1)">
+		<category>Retail</category>
+		<description>Chessmaster, The (Europe)</description>
+		<release name="Chessmaster, The (Europe)" region="Europe"/>
+		<rom name="Chessmaster, The (Europe).nes" size="163856" crc="94e739a3" md5="9660cad2d8467ee8d0597954889b2810" sha1="d1dbb25937eccd8238208c2518cd32034c87a2cf"/>
+		<url>https://retroachievements.org/game/1615/hashes</url>
+		<hash>8811159378c17ffebe9b1fe3252ae886</hash>
 	</game>
 	
 	<game name="Flintstones, The - The Rescue of Dino &amp; Hoppy (USA)" cloneof="Flintstones, The - The Rescue of Dino &amp; Hoppy (Europe)">
@@ -15962,6 +16067,7 @@
 	<game name="Wizardry - Proving Grounds of the Mad Overlord (Specialty Subset - Solo Class)">
 		<category>Specialty Subset</category>
 		<description>Wizardry - Proving Grounds of the Mad Overlord (Specialty Subset - Solo Class)</description>
+		<release name="Wizardry - Proving Grounds of the Mad Overlord (Specialty Subset - Solo Class)" region="World"/>
 		<rom name="Wizardry - Proving Grounds of the Mad Overlord (Specialty Subset - Solo Class).nes" size="262160" crc="6dcad88d" md5="9dcdefae8aff800c152e2692c5896472" sha1="f50a41c8aecbb9b51e3217cc2d1a647b9c787211"/>
 		<url>https://retroachievements.org/game/25609/hashes</url>
 		<hash>c3ae33f19c139282a1c679da701fe69d</hash>

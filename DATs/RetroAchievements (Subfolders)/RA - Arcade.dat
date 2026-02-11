@@ -5,8 +5,8 @@
 		<name>RA - Arcade</name>
 		<description>Arcade</description>
 		<category>Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/27/games</url>
@@ -515,6 +515,56 @@
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/16256/hashes</url>
 		<hash>aa3954bff41316f5ceb69377cebb8072</hash>
+	</game>
+	
+	<game name="Hack/sfiii4n">
+		<description>Street Fighter III 3rd Strike: Fight for the Future (4rd Arrange Edition 2013)</description>
+		<category>FBNeo</category>
+		<rom name="sfiii3_japan_nocd.29f400.u2" size="524288" crc="1edc6366"/>
+		<rom name="4rd-simm1.0" size="2097152" crc="ca97f95e"/>
+		<rom name="4rd-simm1.1" size="2097152" crc="5bc7faa6"/>
+		<rom name="4rd-simm1.2" size="2097152" crc="ec2eaa29"/>
+		<rom name="4rd-simm1.3" size="2097152" crc="41c4ce7c"/>
+		<rom name="sfiii3-simm2.0" merge="sfiii3-simm2.0" size="2097152" crc="06eb969e"/>
+		<rom name="sfiii3-simm2.1" merge="sfiii3-simm2.1" size="2097152" crc="e7039f82"/>
+		<rom name="sfiii3-simm2.2" merge="sfiii3-simm2.2" size="2097152" crc="645c96f7"/>
+		<rom name="sfiii3-simm2.3" merge="sfiii3-simm2.3" size="2097152" crc="610efab1"/>
+		<rom name="sfiii3-simm3.0" merge="sfiii3-simm3.0" size="2097152" crc="7baa1f79"/>
+		<rom name="sfiii3-simm3.1" merge="sfiii3-simm3.1" size="2097152" crc="234bf8fe"/>
+		<rom name="sfiii3-simm3.2" merge="sfiii3-simm3.2" size="2097152" crc="d9ebc308"/>
+		<rom name="sfiii3-simm3.3" merge="sfiii3-simm3.3" size="2097152" crc="293cba77"/>
+		<rom name="sfiii3-simm3.4" merge="sfiii3-simm3.4" size="2097152" crc="6055e747"/>
+		<rom name="sfiii3-simm3.5" merge="sfiii3-simm3.5" size="2097152" crc="499aa6fc"/>
+		<rom name="sfiii3-simm3.6" merge="sfiii3-simm3.6" size="2097152" crc="6c13879e"/>
+		<rom name="sfiii3-simm3.7" merge="sfiii3-simm3.7" size="2097152" crc="cf4f8ede"/>
+		<rom name="sfiii3-simm4.0" merge="sfiii3-simm4.0" size="2097152" crc="091fd5ba"/>
+		<rom name="sfiii3-simm4.1" merge="sfiii3-simm4.1" size="2097152" crc="0bca8917"/>
+		<rom name="sfiii3-simm4.2" merge="sfiii3-simm4.2" size="2097152" crc="a0fd578b"/>
+		<rom name="sfiii3-simm4.3" merge="sfiii3-simm4.3" size="2097152" crc="4bf8c699"/>
+		<rom name="sfiii3-simm4.4" merge="sfiii3-simm4.4" size="2097152" crc="137b8785"/>
+		<rom name="sfiii3-simm4.5" merge="sfiii3-simm4.5" size="2097152" crc="4fb70671"/>
+		<rom name="sfiii3-simm4.6" merge="sfiii3-simm4.6" size="2097152" crc="832374a4"/>
+		<rom name="sfiii3-simm4.7" merge="sfiii3-simm4.7" size="2097152" crc="1c88576d"/>
+		<rom name="sfiii3-simm5.0" merge="sfiii3-simm5.0" size="2097152" crc="c67d9190"/>
+		<rom name="sfiii3-simm5.1" merge="sfiii3-simm5.1" size="2097152" crc="6cb79868"/>
+		<rom name="sfiii3-simm5.2" merge="sfiii3-simm5.2" size="2097152" crc="df69930e"/>
+		<rom name="sfiii3-simm5.3" merge="sfiii3-simm5.3" size="2097152" crc="333754e0"/>
+		<rom name="sfiii3-simm5.4" merge="sfiii3-simm5.4" size="2097152" crc="78f6d417"/>
+		<rom name="sfiii3-simm5.5" merge="sfiii3-simm5.5" size="2097152" crc="8ccad9b1"/>
+		<rom name="4rd-simm5.6" size="2097152" crc="e9b61a56"/>
+		<rom name="4rd-simm5.7" size="2097152" crc="8db3a249"/>
+		<rom name="sfiii3-simm6.0" merge="sfiii3-simm6.0" size="2097152" crc="8da69042"/>
+		<rom name="sfiii3-simm6.1" merge="sfiii3-simm6.1" size="2097152" crc="1c8c7ac4"/>
+		<rom name="sfiii3-simm6.2" merge="sfiii3-simm6.2" size="2097152" crc="a671341d"/>
+		<rom name="sfiii3-simm6.3" merge="sfiii3-simm6.3" size="2097152" crc="1a990249"/>
+		<rom name="sfiii3-simm6.4" merge="sfiii3-simm6.4" size="2097152" crc="20cb39ac"/>
+		<rom name="sfiii3-simm6.5" merge="sfiii3-simm6.5" size="2097152" crc="5f844b2f"/>
+		<rom name="sfiii3-simm6.6" merge="sfiii3-simm6.6" size="2097152" crc="450e8d28"/>
+		<rom name="sfiii3-simm6.7" merge="sfiii3-simm6.7" size="2097152" crc="cc5f4187"/>
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/31873/hashes</url>
+		<hash>6540454047ad2cb750d163c4141a3c1c</hash>
 	</game>
 	
 	<game name="Hack/sfz3mix">
@@ -5394,6 +5444,23 @@
 		<hash>db42d9fb2f27e14ea4d97a0bd5aa2c67</hash>
 	</game>
 	
+	<game name="Retail/dfeveron">
+		<description>Dangun Feveron (Japan, 98/09/17 VER.)</description>
+		<category>FBNeo</category>
+		<rom name="cv01-u34.bin" size="524288" crc="be87f19d"/>
+		<rom name="cv01-u33.bin" size="524288" crc="e53a7db3"/>
+		<rom name="cv01-u25.bin" merge="cv01-u25.bin" size="4194304" crc="a6f6a95d"/>
+		<rom name="cv01-u26.bin" merge="cv01-u26.bin" size="4194304" crc="32edb62a"/>
+		<rom name="cv01-u50.bin" merge="cv01-u50.bin" size="2097152" crc="7a344417"/>
+		<rom name="cv01-u49.bin" merge="cv01-u49.bin" size="2097152" crc="d21cdda7"/>
+		<rom name="cv01-u19.bin" merge="cv01-u19.bin" size="4194304" crc="5f5514da"/>
+		<rom name="eeprom-dfeveron.bin" size="128" crc="c3174959"/>
+		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12256/hashes</url>
+		<hash>3c253b5326dcad0dfc09a0bb60686108</hash>
+	</game>
+	
 	<game name="Retail/darius">
 		<description>Darius (World, rev 2)</description>
 		<category>FBNeo</category>
@@ -8121,6 +8188,45 @@
 		<hash>b4ae17b03ee911865a62f681f7c612fd</hash>
 	</game>
 	
+	<game name="Retail/Rush'n Attack/rushatck">
+		<description>Rush'n Attack (US)</description>
+		<category>FBNeo</category>
+		<rom name="577h03.10c" size="16384" crc="4d276b52"/>
+		<rom name="577h02.8c" size="16384" crc="b5802806"/>
+		<rom name="577h01.7c" size="16384" crc="da7c8f3d"/>
+		<rom name="577h07.3f" size="16384" crc="03f9815f"/>
+		<rom name="577l06.5e" size="16384" crc="0f1cb0ca"/>
+		<rom name="577h05.4e" size="16384" crc="9d028e8f"/>
+		<rom name="577l08.4f" size="16384" crc="883933a4"/>
+		<rom name="577l04.3e" size="16384" crc="ccecda4c"/>
+		<rom name="577h09.2f" size="32" crc="c15e7c80"/>
+		<rom name="577h11.6f" size="256" crc="2a1a992b"/>
+		<rom name="577h10.5f" size="256" crc="e9de1e53"/>
+		<video type="raster" orientation="horizontal" width="240" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12431/hashes</url>
+		<hash>3062538fc1a23d3cf8b1390c18a828bf</hash>
+	</game>
+	<game name="Retail/Rush'n Attack/gberet">
+		<description>Green Beret</description>
+		<category>FBNeo</category>
+		<rom name="577l03.10c" size="16384" crc="ae29e4ff"/>
+		<rom name="577l02.8c" size="16384" crc="240836a5"/>
+		<rom name="577l01.7c" size="16384" crc="41fa3e1f"/>
+		<rom name="577l07.3f" size="16384" crc="4da7bd1b"/>
+		<rom name="577l06.5e" size="16384" crc="0f1cb0ca"/>
+		<rom name="577l05.4e" size="16384" crc="523a8b66"/>
+		<rom name="577l08.4f" size="16384" crc="883933a4"/>
+		<rom name="577l04.3e" size="16384" crc="ccecda4c"/>
+		<rom name="577h09.2f" size="32" crc="c15e7c80"/>
+		<rom name="577h11.6f" size="256" crc="2a1a992b"/>
+		<rom name="577h10.5f" size="256" crc="e9de1e53"/>
+		<video type="raster" orientation="horizontal" width="240" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12431/hashes</url>
+		<hash>bd7722a998dbb4cfed80080088f3d4c2</hash>
+	</game>
+	
 	<game name="Retail/ggx15">
 		<description>Guilty Gear X ver. 1.5</description>
 		<category>Flycast</category>
@@ -10173,6 +10279,29 @@
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/12220/hashes</url>
 		<hash>c1dc271028e86c212584b3a0510b3157</hash>
+	</game>
+	
+	<game name="Retail/mcatadv">
+		<description>Magical Cat Adventure</description>
+		<category>FBNeo</category>
+		<rom name="mca-u30e" size="524288" crc="c62fbb65"/>
+		<rom name="mca-u29e" size="524288" crc="cf21227c"/>
+		<rom name="u9.bin" size="131072" crc="fda05171"/>
+		<rom name="mca-u82.bin" size="1048576" crc="5f01d746"/>
+		<rom name="mca-u83.bin" size="1048576" crc="4e1be5a6"/>
+		<rom name="mca-u84.bin" size="524288" crc="df202790"/>
+		<rom name="mca-u85.bin" size="524288" crc="a85771d2"/>
+		<rom name="mca-u86e" size="524288" crc="017bf1da"/>
+		<rom name="mca-u87e" size="524288" crc="bc9dc9b9"/>
+		<rom name="mca-u58.bin" size="524288" crc="3a8186e2"/>
+		<rom name="mca-u60.bin" size="1048576" crc="c8942614"/>
+		<rom name="mca-u61.bin" size="1048576" crc="51af66c9"/>
+		<rom name="mca-u100" size="524288" crc="b273f1b0"/>
+		<rom name="mca-u53.bin" size="524288" crc="64c76e05"/>
+		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/11924/hashes</url>
+		<hash>7606fa031c680b64074185401b82bb0a</hash>
 	</game>
 	
 	<game name="Retail/magdrop3">
@@ -12957,6 +13086,65 @@
 		<hash>a939c6367a772a1ddec8003a83a6448f</hash>
 	</game>
 	
+	<game name="Retail/vhuntj">
+		<description>Vampire Hunter: Darkstalkers' Revenge (Japan 950316)</description>
+		<category>FBNeo</category>
+		<rom name="vphj.03f" size="524288" crc="3de2e333"/>
+		<rom name="vphj.04c" size="524288" crc="c95cf304"/>
+		<rom name="vphj.05d" size="524288" crc="50de5ddd"/>
+		<rom name="vphj.06c" size="524288" crc="ac3bd3d5"/>
+		<rom name="vphj.07b" size="524288" crc="0761309f"/>
+		<rom name="vphj.08b" size="524288" crc="5a5c2bf5"/>
+		<rom name="vphj.09b" size="524288" crc="823d6d99"/>
+		<rom name="vphj.10b" size="524288" crc="32c7d8f0"/>
+		<rom name="vph.13m" merge="vph.13m" size="4194304" crc="c51baf99"/>
+		<rom name="vph.15m" merge="vph.15m" size="4194304" crc="3ce83c77"/>
+		<rom name="vph.17m" merge="vph.17m" size="4194304" crc="4f2408e0"/>
+		<rom name="vph.19m" merge="vph.19m" size="4194304" crc="9ff60250"/>
+		<rom name="vph.14m" merge="vph.14m" size="4194304" crc="7a0e1add"/>
+		<rom name="vph.16m" merge="vph.16m" size="4194304" crc="2f41ca75"/>
+		<rom name="vph.18m" merge="vph.18m" size="4194304" crc="64498eed"/>
+		<rom name="vph.20m" merge="vph.20m" size="4194304" crc="17f2433f"/>
+		<rom name="vph.01" merge="vph.01" size="131072" crc="5045dcac"/>
+		<rom name="vph.02" merge="vph.02" size="131072" crc="86b60e59"/>
+		<rom name="vph.11m" merge="vph.11m" size="2097152" crc="e1837d33"/>
+		<rom name="vph.12m" merge="vph.12m" size="2097152" crc="fbd3cd90"/>
+		<rom name="vhuntj.key" size="20" crc="72854f68"/>
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12221/hashes</url>
+		<hash>8f90a6e435ce46037177617740ca644b</hash>
+	</game>
+	<game name="Retail/nwarr">
+		<description>Night Warriors: Darkstalkers' Revenge (Europe 950316)</description>
+		<category>FBNeo</category>
+		<rom name="vphe.03f" size="524288" crc="a922c44f"/>
+		<rom name="vphe.04c" size="524288" crc="7312d890"/>
+		<rom name="vphe.05d" size="524288" crc="cde8b506"/>
+		<rom name="vphe.06c" size="524288" crc="be99e7d0"/>
+		<rom name="vphe.07b" size="524288" crc="69e0e60c"/>
+		<rom name="vphe.08b" size="524288" crc="d95a3849"/>
+		<rom name="vphe.09b" size="524288" crc="9882561c"/>
+		<rom name="vphe.10b" size="524288" crc="976fa62f"/>
+		<rom name="vph.13m" size="4194304" crc="c51baf99"/>
+		<rom name="vph.15m" size="4194304" crc="3ce83c77"/>
+		<rom name="vph.17m" size="4194304" crc="4f2408e0"/>
+		<rom name="vph.19m" size="4194304" crc="9ff60250"/>
+		<rom name="vph.14m" size="4194304" crc="7a0e1add"/>
+		<rom name="vph.16m" size="4194304" crc="2f41ca75"/>
+		<rom name="vph.18m" size="4194304" crc="64498eed"/>
+		<rom name="vph.20m" size="4194304" crc="17f2433f"/>
+		<rom name="vph.01" size="131072" crc="5045dcac"/>
+		<rom name="vph.02" size="131072" crc="86b60e59"/>
+		<rom name="vph.11m" size="2097152" crc="e1837d33"/>
+		<rom name="vph.12m" size="2097152" crc="fbd3cd90"/>
+		<rom name="nwarr.key" size="20" crc="618a13ca"/>
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12221/hashes</url>
+		<hash>d96ff3c1a1cd640c7796d00c517c6cf7</hash>
+	</game>
+	
 	<game name="Retail/nitd">
 		<description>Nightmare in the Dark</description>
 		<category>FBNeo</category>
@@ -15253,6 +15441,124 @@
 		<hash>612abdce80cf2090a4bd8425c1bff79e</hash>
 	</game>
 	
+	<game name="Retail/rotd">
+		<description>Rage of the Dragons (NGM-2640?)</description>
+		<category>FBNeo</category>
+		<rom name="264-p1.p1" size="8388608" crc="b8cc969d"/>
+		<rom name="264-c1.c1" size="8388608" crc="4f148fee"/>
+		<rom name="264-c2.c2" size="8388608" crc="7cf5ff72"/>
+		<rom name="264-c3.c3" size="8388608" crc="64d84c98"/>
+		<rom name="264-c4.c4" size="8388608" crc="2f394a95"/>
+		<rom name="264-c5.c5" size="8388608" crc="6b99b978"/>
+		<rom name="264-c6.c6" size="8388608" crc="847d5c7d"/>
+		<rom name="264-c7.c7" size="8388608" crc="231d681e"/>
+		<rom name="264-c8.c8" size="8388608" crc="c5edb5c4"/>
+		<rom name="264-m1.m1" size="131072" crc="4dbd7b43"/>
+		<rom name="264-v1.v1" size="8388608" crc="fa005812"/>
+		<rom name="264-v2.v2" size="8388608" crc="c3dc8bf0"/>
+		<rom name="sp-s3.sp1" merge="sp-s3.sp1" size="131072" crc="91b64be3"/>
+		<rom name="sp-s2.sp1" merge="sp-s2.sp1" size="131072" crc="9036d879"/>
+		<rom name="sp-s.sp1" merge="sp-s.sp1" size="131072" crc="c7f2fa45"/>
+		<rom name="sp-u2.sp1" merge="sp-u2.sp1" size="131072" crc="e72943de"/>
+		<rom name="sp1-u2" merge="sp1-u2" size="131072" crc="62f021f4"/>
+		<rom name="sp-e.sp1" merge="sp-e.sp1" size="131072" crc="2723a5b5"/>
+		<rom name="sp1-u4.bin" merge="sp1-u4.bin" size="131072" crc="1179a30f"/>
+		<rom name="sp1-u3.bin" merge="sp1-u3.bin" size="131072" crc="2025b7a2"/>
+		<rom name="vs-bios.rom" merge="vs-bios.rom" size="131072" crc="f0e8f27d"/>
+		<rom name="sp-j2.sp1" merge="sp-j2.sp1" size="131072" crc="acede59c"/>
+		<rom name="sp1.jipan.1024" merge="sp1.jipan.1024" size="131072" crc="9fb0abe4"/>
+		<rom name="sp-45.sp1" merge="sp-45.sp1" size="524288" crc="03cc9f6a"/>
+		<rom name="sp-j3.sp1" merge="sp-j3.sp1" size="524288" crc="486cb450"/>
+		<rom name="japan-j3.bin" merge="japan-j3.bin" size="131072" crc="dff6d41f"/>
+		<rom name="sp1-j3.bin" merge="sp1-j3.bin" size="131072" crc="fbc6d469"/>
+		<rom name="neo-po.bin" merge="neo-po.bin" size="131072" crc="16d0c132"/>
+		<rom name="neo-epo.bin" merge="neo-epo.bin" size="131072" crc="d27a71f1"/>
+		<rom name="neodebug.bin" merge="neodebug.bin" size="131072" crc="698ebb7d"/>
+		<rom name="sp-1v1_3db8c.bin" merge="sp-1v1_3db8c.bin" size="131072" crc="162f0ebe"/>
+		<rom name="uni-bios_4_0.rom" merge="uni-bios_4_0.rom" size="131072" crc="a7aab458"/>
+		<rom name="uni-bios_3_3.rom" merge="uni-bios_3_3.rom" size="131072" crc="24858466"/>
+		<rom name="uni-bios_3_2.rom" merge="uni-bios_3_2.rom" size="131072" crc="a4e8b9b3"/>
+		<rom name="uni-bios_3_1.rom" merge="uni-bios_3_1.rom" size="131072" crc="0c58093f"/>
+		<rom name="uni-bios_3_0.rom" merge="uni-bios_3_0.rom" size="131072" crc="a97c89a9"/>
+		<rom name="uni-bios_2_3.rom" merge="uni-bios_2_3.rom" size="131072" crc="27664eb5"/>
+		<rom name="uni-bios_2_3o.rom" merge="uni-bios_2_3o.rom" size="131072" crc="601720ae"/>
+		<rom name="uni-bios_2_2.rom" merge="uni-bios_2_2.rom" size="131072" crc="2d50996a"/>
+		<rom name="uni-bios_2_1.rom" merge="uni-bios_2_1.rom" size="131072" crc="8dabf76b"/>
+		<rom name="uni-bios_2_0.rom" merge="uni-bios_2_0.rom" size="131072" crc="0c12c2ad"/>
+		<rom name="uni-bios_1_3.rom" merge="uni-bios_1_3.rom" size="131072" crc="b24b44a0"/>
+		<rom name="uni-bios_1_2.rom" merge="uni-bios_1_2.rom" size="131072" crc="4fa698e9"/>
+		<rom name="uni-bios_1_2o.rom" merge="uni-bios_1_2o.rom" size="131072" crc="e19d3ce9"/>
+		<rom name="uni-bios_1_1.rom" merge="uni-bios_1_1.rom" size="131072" crc="5dda0d84"/>
+		<rom name="uni-bios_1_0.rom" merge="uni-bios_1_0.rom" size="131072" crc="0ce453a0"/>
+		<rom name="neopen.sp1" merge="neopen.sp1" size="131072" crc="cb915e76"/>
+		<rom name="sm1.sm1" merge="sm1.sm1" size="131072" crc="94416d67"/>
+		<rom name="sfix.sfix" merge="sfix.sfix" size="131072" crc="c2ea0cfd"/>
+		<rom name="000-lo.lo" merge="000-lo.lo" size="131072" crc="5a86cff2"/>
+		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12228/hashes</url>
+		<hash>6a8f93c8604f7ce5feb3598abfda4a03</hash>
+	</game>
+	<game name="Retail/rotdbr">
+		<description>Rage of the Dragons (Portuguese edition v2.0, Hack)</description>
+		<category>FBNeo</category>
+		<rom name="264-p1br.p1" size="8388608" crc="8a973ecf"/>
+		<rom name="264-s1br.s1" size="131072" crc="28b387d6"/>
+		<rom name="264-c1d.c1" size="8388608" crc="ec9d18c0"/>
+		<rom name="264-c2d.c2" size="8388608" crc="b1069066"/>
+		<rom name="264-c3d.c3" size="8388608" crc="7e636d49"/>
+		<rom name="264-c4d.c4" size="8388608" crc="76892fda"/>
+		<rom name="264-c5d.c5" size="8388608" crc="469061bc"/>
+		<rom name="264-c6d.c6" size="8388608" crc="2200220a"/>
+		<rom name="264-c7d.c7" size="8388608" crc="edda4baf"/>
+		<rom name="264-c8d.c8" size="8388608" crc="82b1ba22"/>
+		<rom name="264-m1d.m1" size="131072" crc="c5d36af9"/>
+		<rom name="264-v1d.v1" size="8388608" crc="2c49f3fa"/>
+		<rom name="264-v2d.v2" size="8388608" crc="967279da"/>
+		<rom name="sp-s3.sp1" merge="sp-s3.sp1" size="131072" crc="91b64be3"/>
+		<rom name="sp-s2.sp1" merge="sp-s2.sp1" size="131072" crc="9036d879"/>
+		<rom name="sp-s.sp1" merge="sp-s.sp1" size="131072" crc="c7f2fa45"/>
+		<rom name="sp-u2.sp1" merge="sp-u2.sp1" size="131072" crc="e72943de"/>
+		<rom name="sp1-u2" merge="sp1-u2" size="131072" crc="62f021f4"/>
+		<rom name="sp-e.sp1" merge="sp-e.sp1" size="131072" crc="2723a5b5"/>
+		<rom name="sp1-u4.bin" merge="sp1-u4.bin" size="131072" crc="1179a30f"/>
+		<rom name="sp1-u3.bin" merge="sp1-u3.bin" size="131072" crc="2025b7a2"/>
+		<rom name="vs-bios.rom" merge="vs-bios.rom" size="131072" crc="f0e8f27d"/>
+		<rom name="sp-j2.sp1" merge="sp-j2.sp1" size="131072" crc="acede59c"/>
+		<rom name="sp1.jipan.1024" merge="sp1.jipan.1024" size="131072" crc="9fb0abe4"/>
+		<rom name="sp-45.sp1" merge="sp-45.sp1" size="524288" crc="03cc9f6a"/>
+		<rom name="sp-j3.sp1" merge="sp-j3.sp1" size="524288" crc="486cb450"/>
+		<rom name="japan-j3.bin" merge="japan-j3.bin" size="131072" crc="dff6d41f"/>
+		<rom name="sp1-j3.bin" merge="sp1-j3.bin" size="131072" crc="fbc6d469"/>
+		<rom name="neo-po.bin" merge="neo-po.bin" size="131072" crc="16d0c132"/>
+		<rom name="neo-epo.bin" merge="neo-epo.bin" size="131072" crc="d27a71f1"/>
+		<rom name="neodebug.bin" merge="neodebug.bin" size="131072" crc="698ebb7d"/>
+		<rom name="sp-1v1_3db8c.bin" merge="sp-1v1_3db8c.bin" size="131072" crc="162f0ebe"/>
+		<rom name="uni-bios_4_0.rom" merge="uni-bios_4_0.rom" size="131072" crc="a7aab458"/>
+		<rom name="uni-bios_3_3.rom" merge="uni-bios_3_3.rom" size="131072" crc="24858466"/>
+		<rom name="uni-bios_3_2.rom" merge="uni-bios_3_2.rom" size="131072" crc="a4e8b9b3"/>
+		<rom name="uni-bios_3_1.rom" merge="uni-bios_3_1.rom" size="131072" crc="0c58093f"/>
+		<rom name="uni-bios_3_0.rom" merge="uni-bios_3_0.rom" size="131072" crc="a97c89a9"/>
+		<rom name="uni-bios_2_3.rom" merge="uni-bios_2_3.rom" size="131072" crc="27664eb5"/>
+		<rom name="uni-bios_2_3o.rom" merge="uni-bios_2_3o.rom" size="131072" crc="601720ae"/>
+		<rom name="uni-bios_2_2.rom" merge="uni-bios_2_2.rom" size="131072" crc="2d50996a"/>
+		<rom name="uni-bios_2_1.rom" merge="uni-bios_2_1.rom" size="131072" crc="8dabf76b"/>
+		<rom name="uni-bios_2_0.rom" merge="uni-bios_2_0.rom" size="131072" crc="0c12c2ad"/>
+		<rom name="uni-bios_1_3.rom" merge="uni-bios_1_3.rom" size="131072" crc="b24b44a0"/>
+		<rom name="uni-bios_1_2.rom" merge="uni-bios_1_2.rom" size="131072" crc="4fa698e9"/>
+		<rom name="uni-bios_1_2o.rom" merge="uni-bios_1_2o.rom" size="131072" crc="e19d3ce9"/>
+		<rom name="uni-bios_1_1.rom" merge="uni-bios_1_1.rom" size="131072" crc="5dda0d84"/>
+		<rom name="uni-bios_1_0.rom" merge="uni-bios_1_0.rom" size="131072" crc="0ce453a0"/>
+		<rom name="neopen.sp1" merge="neopen.sp1" size="131072" crc="cb915e76"/>
+		<rom name="sm1.sm1" merge="sm1.sm1" size="131072" crc="94416d67"/>
+		<rom name="sfix.sfix" merge="sfix.sfix" size="131072" crc="c2ea0cfd"/>
+		<rom name="000-lo.lo" merge="000-lo.lo" size="131072" crc="5a86cff2"/>
+		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12228/hashes</url>
+		<hash>8c081dd74a81d7551cb487605c7a0a6e</hash>
+	</game>
+	
 	<game name="Retail/raiden">
 		<description>Raiden (World set 1)</description>
 		<category>FBNeo</category>
@@ -16039,6 +16345,38 @@
 		<hash>aaee2adc6448885a63f53df64645b718</hash>
 	</game>
 	
+	<game name="Retail/ringdest">
+		<description>Ring of Destruction: Slammasters II (Europe 940902)</description>
+		<category>FBNeo</category>
+		<rom name="smbe.03b" size="524288" crc="b8016278"/>
+		<rom name="smbe.04b" size="524288" crc="18c4c447"/>
+		<rom name="smbe.05b" size="524288" crc="18ebda7f"/>
+		<rom name="smbe.06b" size="524288" crc="89c80007"/>
+		<rom name="smb.07" size="524288" crc="b9a11577"/>
+		<rom name="smb.08" size="524288" crc="f931b76b"/>
+		<rom name="smb.13m" size="2097152" crc="d9b2d1de"/>
+		<rom name="smb.15m" size="2097152" crc="9a766d92"/>
+		<rom name="smb.17m" size="2097152" crc="51800f0f"/>
+		<rom name="smb.19m" size="2097152" crc="35757e96"/>
+		<rom name="smb.14m" size="2097152" crc="e5bfd0e7"/>
+		<rom name="smb.16m" size="2097152" crc="c56c0866"/>
+		<rom name="smb.18m" size="2097152" crc="4ded3910"/>
+		<rom name="smb.20m" size="2097152" crc="26ea1ec5"/>
+		<rom name="smb.21m" size="524288" crc="0a08c5fc"/>
+		<rom name="smb.23m" size="524288" crc="0911b6c4"/>
+		<rom name="smb.25m" size="524288" crc="82d6c4ec"/>
+		<rom name="smb.27m" size="524288" crc="9b48678b"/>
+		<rom name="smb.01" size="131072" crc="0abc229a"/>
+		<rom name="smb.02" size="131072" crc="d051679a"/>
+		<rom name="smb.11m" size="2097152" crc="c56935f9"/>
+		<rom name="smb.12m" size="2097152" crc="955b0782"/>
+		<rom name="ringdest.key" size="20" crc="17f9269c"/>
+		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12227/hashes</url>
+		<hash>8c3aa38f1a711497ca884b310cd2c90c</hash>
+	</game>
+	
 	<game name="Retail/riotcity">
 		<description>Riot City (Japan)</description>
 		<category>FBNeo</category>
@@ -16274,45 +16612,6 @@
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/12374/hashes</url>
 		<hash>8576400c31fe99f3be5b7ac2e02a828d</hash>
-	</game>
-	
-	<game name="Retail/Rush'n Attack/rushatck">
-		<description>Rush'n Attack (US)</description>
-		<category>FBNeo</category>
-		<rom name="577h03.10c" size="16384" crc="4d276b52"/>
-		<rom name="577h02.8c" size="16384" crc="b5802806"/>
-		<rom name="577h01.7c" size="16384" crc="da7c8f3d"/>
-		<rom name="577h07.3f" size="16384" crc="03f9815f"/>
-		<rom name="577l06.5e" size="16384" crc="0f1cb0ca"/>
-		<rom name="577h05.4e" size="16384" crc="9d028e8f"/>
-		<rom name="577l08.4f" size="16384" crc="883933a4"/>
-		<rom name="577l04.3e" size="16384" crc="ccecda4c"/>
-		<rom name="577h09.2f" size="32" crc="c15e7c80"/>
-		<rom name="577h11.6f" size="256" crc="2a1a992b"/>
-		<rom name="577h10.5f" size="256" crc="e9de1e53"/>
-		<video type="raster" orientation="horizontal" width="240" height="224" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-		<url>https://retroachievements.org/game/12431/hashes</url>
-		<hash>3062538fc1a23d3cf8b1390c18a828bf</hash>
-	</game>
-	<game name="Retail/Rush'n Attack/gberet">
-		<description>Green Beret</description>
-		<category>FBNeo</category>
-		<rom name="577l03.10c" size="16384" crc="ae29e4ff"/>
-		<rom name="577l02.8c" size="16384" crc="240836a5"/>
-		<rom name="577l01.7c" size="16384" crc="41fa3e1f"/>
-		<rom name="577l07.3f" size="16384" crc="4da7bd1b"/>
-		<rom name="577l06.5e" size="16384" crc="0f1cb0ca"/>
-		<rom name="577l05.4e" size="16384" crc="523a8b66"/>
-		<rom name="577l08.4f" size="16384" crc="883933a4"/>
-		<rom name="577l04.3e" size="16384" crc="ccecda4c"/>
-		<rom name="577h09.2f" size="32" crc="c15e7c80"/>
-		<rom name="577h11.6f" size="256" crc="2a1a992b"/>
-		<rom name="577h10.5f" size="256" crc="e9de1e53"/>
-		<video type="raster" orientation="horizontal" width="240" height="224" aspectx="4" aspecty="3"/>
-		<driver status="good"/>
-		<url>https://retroachievements.org/game/12431/hashes</url>
-		<hash>bd7722a998dbb4cfed80080088f3d4c2</hash>
 	</game>
 	
 	<game name="Retail/rygar">

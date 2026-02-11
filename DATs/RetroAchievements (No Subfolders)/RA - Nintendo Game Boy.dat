@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>No Subfolders</category>
-		<version>20260122</version>
-		<date>22 January 2026</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/4/games</url>
@@ -837,6 +837,7 @@
 	<game name="Flappy Boy (World) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>Flappy Boy (World) (Aftermarket)</description>
+		<release name="Flappy Boy (World) (Aftermarket)" region="World"/>
 		<rom name="Flappy Boy (World) (Aftermarket).gb" size="32768" crc="f41c73f1" md5="4c0b53fd1fe4923d880e2fc70418d101" sha1="8603205feb836fe02091719649cb887cc4e344d4"/>
 		<url>https://retroachievements.org/game/7412/hashes</url>
 		<hash>4c0b53fd1fe4923d880e2fc70418d101</hash>
@@ -1173,6 +1174,7 @@
 	<game name="Space Landing (World) (Steam) (Maurizio) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>Space Landing (World) (Steam) (Maurizio) (Aftermarket)</description>
+		<release name="Space Landing (World) (Steam) (Maurizio) (Aftermarket)" region="World"/>
 		<rom name="Space Landing (World) (Steam) (Maurizio) (Aftermarket).gb" size="524288" crc="3949375f" md5="08e447a6164cefd3e56212cd36e11e6f" sha1="dc3a64a7971ca53a01c18234bf9648612c865058"/>
 		<url>https://retroachievements.org/game/22048/hashes</url>
 		<hash>08e447a6164cefd3e56212cd36e11e6f</hash>
@@ -1330,6 +1332,7 @@
 	<game name="Wordyl (World) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>Wordyl (World) (Aftermarket)</description>
+		<release name="Wordyl (World) (Aftermarket)" region="World"/>
 		<rom name="Wordyl (World) (Aftermarket).gb" size="32768" crc="7587f2da" md5="702bee919d1c9a67069213d6d286af51" sha1="f7557aa778321f9a725ce20532e1308a87dd9abc"/>
 		<url>https://retroachievements.org/game/21929/hashes</url>
 		<hash>702bee919d1c9a67069213d6d286af51</hash>
@@ -2774,6 +2777,15 @@
 		<rom name="Game Boy Gallery - 5 Games in 1 (Europe) (SGB Enhanced).gb" size="131072" crc="263fd152" md5="b6d1139fb8d57cd47f173faef592c813" sha1="07b6174a413858f84bfc480169945c7fd1a372b9"/>
 		<url>https://retroachievements.org/game/7446/hashes</url>
 		<hash>b6d1139fb8d57cd47f173faef592c813</hash>
+	</game>
+	
+	<game name="Game Boy Gallery 2 (Japan) (SGB Enhanced)">
+		<category>Retail</category>
+		<description>Game Boy Gallery 2 (Japan) (SGB Enhanced)</description>
+		<release name="Game Boy Gallery 2 (Japan) (SGB Enhanced)" region="Japan"/>
+		<rom name="Game Boy Gallery 2 (Japan) (SGB Enhanced).gb" size="524288" crc="9359a183" md5="3e35ece810eaa26bb027a18f58cf6dba" sha1="021c47f89fa975e4dc5cc32c61bf87b120a25c09"/>
+		<url>https://retroachievements.org/game/22656/hashes</url>
+		<hash>3e35ece810eaa26bb027a18f58cf6dba</hash>
 	</game>
 	
 	<game name="Gamera - Daikaijuu Kuuchuu Kessen (Japan) (SGB Enhanced)">
@@ -4835,6 +4847,14 @@
 		<rom name="Snoopy's Magic Show (USA, Europe).gb" size="65536" crc="2b7a5034" md5="8a06994b2e265244147a4d6d0e80623f" sha1="bc21fb3aa1a58e2aef30fabe103b2e5bec02b535"/>
 		<url>https://retroachievements.org/game/2558/hashes</url>
 		<hash>8a06994b2e265244147a4d6d0e80623f</hash>
+	</game>
+	<game name="Snoopy - Magic Show (Japan) (En) (DX) (v1.0) (Jorge2D, marc_max)" cloneof="Snoopy's Magic Show (USA, Europe)">
+		<category>Retail</category>
+		<description>Snoopy - Magic Show (Japan) (En) (DX) (v1.0) (Jorge2D, marc_max)</description>
+		<release name="Snoopy - Magic Show (Japan) (En) (DX) (v1.0) (Jorge2D, marc_max)" region="English"/>
+		<rom name="Snoopy - Magic Show (Japan) (En) (DX) (v1.0) (Jorge2D, marc_max).gb" size="131072" crc="1a7718cd" md5="6fd39be1e41aea4b354fd291d9677b39" sha1="022f1cfad8332d58181d02f133a51f5a3a40b6e4"/>
+		<url>https://retroachievements.org/game/2558/hashes</url>
+		<hash>6fd39be1e41aea4b354fd291d9677b39</hash>
 	</game>
 	
 	<game name="Snow Brothers (USA)">

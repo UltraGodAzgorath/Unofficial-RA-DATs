@@ -5,8 +5,8 @@
 		<name>RA - NEC PC-8801</name>
 		<description>NEC PC-8801</description>
 		<category>No Subfolders</category>
-		<version>20251014</version>
-		<date>14 October 2025</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/47/games</url>
@@ -188,6 +188,15 @@
 		<hash>28aa5361383283482912682635a2e934</hash>
 	</game>
 	
+	<game name="Donkey Gorilla (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Donkey Gorilla (Japan) (NeoKobe)</description>
+		<release name="Donkey Gorilla (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Donkey Gorilla (Japan) (NeoKobe).d88" size="000" crc="000" md5="8c13b5d875e4cee792a00836e1b7d226" sha1="000"/>
+		<url>https://retroachievements.org/game/34876/hashes</url>
+		<hash>8c13b5d875e4cee792a00836e1b7d226</hash>
+	</game>
+	
 	<game name="Donkey Kong 3 - The Great Counterattack (Japan) (NeoKobe)">
 		<category>Retail</category>
 		<description>Donkey Kong 3 - The Great Counterattack (Japan) (NeoKobe)</description>
@@ -319,11 +328,34 @@
 		<hash>1486b21aaf38c018229d3867c186a2bb</hash>
 	</game>
 	
+	<game name="Flappy {V1 mode} (NeoKobe)">
+		<category>Retail</category>
+		<description>Flappy {V1 mode} (NeoKobe)</description>
+		<release name="Flappy {V1 mode} (NeoKobe)" region="Japan"/>
+		<rom name="Flappy {V1 mode} (NeoKobe).d88" size="000" crc="000" md5="eb63ca7ebd38357d8eb5f793296564b0" sha1="000"/>
+		<url>https://retroachievements.org/game/33474/hashes</url>
+		<hash>eb63ca7ebd38357d8eb5f793296564b0</hash>
+	</game>
+	<game name="Flappy [Set 1] {V1 mode} (NeoKobe)" cloneof="Flappy {V1 mode} (NeoKobe)">
+		<category>Retail</category>
+		<description>Flappy [Set 1] {V1 mode} (NeoKobe)</description>
+		<rom name="Flappy [Set 1] {V1 mode} (NeoKobe).d88" size="000" crc="000" md5="250308b334a42e5ad19df56593a17092" sha1="000"/>
+		<url>https://retroachievements.org/game/33474/hashes</url>
+		<hash>250308b334a42e5ad19df56593a17092</hash>
+	</game>
+	<game name="Flappy [Set 2] {V1 mode} (NeoKobe)" cloneof="Flappy {V1 mode} (NeoKobe)">
+		<category>Retail</category>
+		<description>Flappy [Set 2] {V1 mode} (NeoKobe)</description>
+		<rom name="Flappy [Set 2] {V1 mode} (NeoKobe).d88" size="000" crc="000" md5="dc486220d22e36877b164f89397b10f7" sha1="000"/>
+		<url>https://retroachievements.org/game/33474/hashes</url>
+		<hash>dc486220d22e36877b164f89397b10f7</hash>
+	</game>
+	
 	<game name="Fruit Panic (Japan) (NeoKobe)">
 		<category>Retail</category>
 		<description>Fruit Panic (Japan) (NeoKobe)</description>
 		<release name="Fruit Panic (Japan) (NeoKobe)" region="Japan"/>
-			<rom name="Fruit Panic (Japan) (NeoKobe).d88" size="348848" crc="4c725865" md5="b2ceee3005dc0a1d96389e5b2a2a42f7" sha1="382dad099b3a375779f04cbab0b53bd2ee916356"/>
+		<rom name="Fruit Panic (Japan) (NeoKobe).d88" size="348848" crc="4c725865" md5="b2ceee3005dc0a1d96389e5b2a2a42f7" sha1="382dad099b3a375779f04cbab0b53bd2ee916356"/>
 		<url>https://retroachievements.org/game/28558/hashes</url>
 		<hash>b2ceee3005dc0a1d96389e5b2a2a42f7</hash>
 	</game>
@@ -335,6 +367,15 @@
 		<rom name="Galaxian (Japan) (NeoKobe).d88" size="348848" crc="7d6bfb84" md5="082e581be6f2d16b7d734f90ef7bd2c4" sha1="b69f94bf3ae10e1161ce9b26ed24bb4dd1ddf473"/>
 		<url>https://retroachievements.org/game/14196/hashes</url>
 		<hash>082e581be6f2d16b7d734f90ef7bd2c4</hash>
+	</game>
+	
+	<game name="Gradius (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Gradius (Japan) (NeoKobe)</description>
+		<release name="Gradius (Japan) (NeoKobe)" region="Japan"/>
+		<rom name="Gradius (Japan) (NeoKobe).d88" size="000" crc="000" md5="af69e0d2474531f0f1b55e59e919c553" sha1="000"/>
+		<url>https://retroachievements.org/game/13987/hashes</url>
+		<hash>af69e0d2474531f0f1b55e59e919c553</hash>
 	</game>
 	
 	<game name="Hard Rank (Japan) (NeoKobe)">

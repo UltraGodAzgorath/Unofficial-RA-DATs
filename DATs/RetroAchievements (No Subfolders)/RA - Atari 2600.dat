@@ -5,8 +5,8 @@
 		<name>RA - Atari 2600</name>
 		<description>Atari 2600</description>
 		<category>No Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/25/games</url>
@@ -75,6 +75,15 @@
 		<hash>539f3c42c4e15f450ed93cb96ce93af5</hash>
 	</game>
 	
+	<game name="Bees (NTSC) (Aftermarket) (atari2600land)">
+		<category>Homebrew</category>
+		<description>Bees (NTSC) (Aftermarket) (atari2600land)</description>
+		<release name="Bees (NTSC) (Aftermarket) (atari2600land)" region="USA"/>
+		<rom name="Bees (NTSC) (Aftermarket) (atari2600land).a26" size="2048" crc="885b5c09" md5="597af15cc043c11f60f1e5cc6f091380" sha1="2a20964f859d959fb0620419a2079dc4a44f9824"/>
+		<url>https://retroachievements.org/game/37923/hashes</url>
+		<hash>597af15cc043c11f60f1e5cc6f091380</hash>
+	</game>
+	
 	<game name="Birds and Beans (NTSC) (v2.2) (Bluswimmer) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>Birds and Beans (NTSC) (v2.2) (Bluswimmer) (Aftermarket)</description>
@@ -82,6 +91,15 @@
 		<rom name="Birds and Beans (NTSC) (v2.2) (Bluswimmer) (Aftermarket).a26" size="4096" crc="9cdedf59" md5="41e0953e9e8810ce67bc7995b37bbf8b" sha1="d5565849199b206466c6f65f66489ed60a53faa8"/>
 		<url>https://retroachievements.org/game/26027/hashes</url>
 		<hash>41e0953e9e8810ce67bc7995b37bbf8b</hash>
+	</game>
+	
+	<game name="Carrot Kingdom (NTSC) (Rev 2) (Aftermarket) (Joseph Nesbella)">
+		<category>Homebrew</category>
+		<description>Carrot Kingdom (NTSC) (Rev 2) (Aftermarket) (Joseph Nesbella)</description>
+		<release name="Carrot Kingdom (NTSC) (Rev 2) (Aftermarket) (Joseph Nesbella)" region="USA"/>
+		<rom name="Carrot Kingdom (NTSC) (Rev 2) (Aftermarket) (Joseph Nesbella).a26" size="32768" crc="7f177e4c" md5="e60ddaf73ee51ecba7dd22219faede50" sha1="5988b25bc64f2c9791c85982acae546c3af29c37"/>
+		<url>https://retroachievements.org/game/37913/hashes</url>
+		<hash>e60ddaf73ee51ecba7dd22219faede50</hash>
 	</game>
 	
 	<game name="Dark Mage (NTSC) (Greg Troutman) (Aftermarket)">
@@ -206,6 +224,23 @@
 		<rom name="Punch Out (NTSC) (Demake) (MathanGames) (Aftermarket).a26" size="32768" crc="780db785" md5="ea6a1cdd1b14eac02759ea6372cfc1f5" sha1="b9d93a04b7fe83ef6782c1145819de24cc4c0f0f"/>
 		<url>https://retroachievements.org/game/25021/hashes</url>
 		<hash>ea6a1cdd1b14eac02759ea6372cfc1f5</hash>
+	</game>
+	
+	<game name="Robo Tito (NTSC) (Aftermarket) (VHZC)">
+		<category>Homebrew</category>
+		<description>Robo Tito (NTSC) (Aftermarket) (VHZC)</description>
+		<release name="Robo Tito (NTSC) (Aftermarket) (VHZC)" region="USA"/>
+		<rom name="Robo Tito (NTSC) (Aftermarket) (VHZC).a26" size="32768" crc="4321d8f1" md5="20bb15cbf61f85684d88c348a121fc1a" sha1="5663915ae7f846a077c9d02fbe7b9998d1c08cd4"/>
+		<url>https://retroachievements.org/game/37275/hashes</url>
+		<hash>20bb15cbf61f85684d88c348a121fc1a</hash>
+	</game>
+	<game name="Robo Tito (PAL60) (Aftermarket) (VHZC)" cloneof="Robo Tito (NTSC) (Aftermarket) (VHZC)">
+		<category>Homebrew</category>
+		<description>Robo Tito (PAL60) (Aftermarket) (VHZC)</description>
+		<release name="Robo Tito (PAL60) (Aftermarket) (VHZC)" region="Europe"/>
+		<rom name="Robo Tito (PAL60) (Aftermarket) (VHZC).a26" size="32768" crc="d57e5736" md5="e2bd71a61584da41ac7c55b90deab543" sha1="02fe560119b466617384e05b72a75a5b26c9d1f8"/>
+		<url>https://retroachievements.org/game/37275/hashes</url>
+		<hash>e2bd71a61584da41ac7c55b90deab543</hash>
 	</game>
 	
 	<game name="Rock Shot (NTSC) (Vivian Video) (Aftermarket)">
@@ -692,6 +727,15 @@
 		<hash>b816296311019ab69a21cb9e9e235d12</hash>
 	</game>
 	
+	<game name="Cat Trax (USA)">
+		<category>Retail</category>
+		<description>Cat Trax (USA)</description>
+		<release name="Cat Trax (USA)" region="USA"/>
+		<rom name="Cat Trax (USA).a26" size="4096" crc="c847e5ec" md5="76f66ce3b83d7a104a899b4b3354a2f2" sha1="e979de719cecab2115affd9c0552c6c596b1999a"/>
+		<url>https://retroachievements.org/game/16639/hashes</url>
+		<hash>76f66ce3b83d7a104a899b4b3354a2f2</hash>
+	</game>
+	
 	<game name="Centipede (Japan, USA) (En)">
 		<category>Retail</category>
 		<description>Centipede (Japan, USA) (En)</description>
@@ -700,6 +744,15 @@
 		<rom name="Centipede (Japan, USA) (En).a26" size="8192" crc="77396102" md5="91c2098e88a6b13f977af8c003e0bca5" sha1="0b5914bc1526a9beaf54d7fd11408175cd8fcc72"/>
 		<url>https://retroachievements.org/game/11799/hashes</url>
 		<hash>91c2098e88a6b13f977af8c003e0bca5</hash>
+	</game>
+	
+	<game name="Checkers (USA)">
+		<category>Retail</category>
+		<description>Checkers (USA)</description>
+		<release name="Checkers (USA)" region="USA"/>
+		<rom name="Checkers (USA).a26" size="2048" crc="e74f1b59" md5="3f5a43602f960ede330cd2f43a25139e" sha1="39b5bb27a6c4cb6532bd9d4cc520415c59dac653"/>
+		<url>https://retroachievements.org/game/13330/hashes</url>
+		<hash>3f5a43602f960ede330cd2f43a25139e</hash>
 	</game>
 	
 	<game name="Chopper Command (USA)">

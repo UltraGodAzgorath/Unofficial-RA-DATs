@@ -5,8 +5,8 @@
 		<name>RA - 3DO Interactive Multiplayer</name>
 		<description>3DO Interactive Multiplayer</description>
 		<category>No Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/43/games</url>
@@ -86,7 +86,15 @@
 		<url>https://retroachievements.org/game/16412/hashes</url>
 		<hash>f148536a4e707a4418aad19ba80a9515</hash>
 	</machine>
-
+	
+	<machine name="Gex (USA, Europe)">
+		<category>Retail</category>
+		<description>Gex (USA, Europe)</description>
+		<disk name="Gex (USA, Europe).chd" sha1="673f7932418baf31aae4d23a44c1832ab32a5552"/>
+		<url>https://retroachievements.org/game/1009/hashes</url>
+		<hash>f51d8d468bb19f621777fedd3e025365</hash>
+	</machine>
+	
 	<machine name="Hello Kitty - Asobi no Omochabako (Japan)">
 		<category>Retail</category>
 		<description>Hello Kitty - Asobi no Omochabako (Japan)</description>

@@ -5,8 +5,8 @@
 		<name>RA - Arduboy</name>
 		<description>Arduboy</description>
 		<category>No Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/71/games</url>
@@ -36,6 +36,15 @@
 		<rom name="1nvader (World) (Erwin's Collection).hex" size="71668" crc="afdb1a88" md5="cee7f24fab74cef92ff1e03cd76d38cb" sha1="b535179e2c04c944afe8c50480d4e933d6a83ea9"/>
 		<url>https://retroachievements.org/game/7911/hashes</url>
 		<hash>cee7f24fab74cef92ff1e03cd76d38cb</hash>
+	</game>
+	
+	<game name="2048 (World) (v0.5) (Erwin's Collection)">
+		<category>Retail</category>
+		<description>2048 (World) (v0.5) (Erwin's Collection)</description>
+		<release name="2048 (World) (v0.5) (Erwin's Collection)" region="World"/>
+		<rom name="2048 (World) (v0.5) (Erwin's Collection).hex" size="61892" crc="d8941ee3" md5="e8ec91f0a78813a95e17f56cf0b94525" sha1="b6f07b025b765b1fdead5fd72a4fc15acd5d3b30"/>
+		<url>https://retroachievements.org/game/29892/hashes</url>
+		<hash>e8ec91f0a78813a95e17f56cf0b94525</hash>
 	</game>
 	
 	<game name="Ard-Drivin (World) (Erwin's Collection)">
@@ -180,6 +189,15 @@
 		<rom name="BiriBiriBeat (World) (Erwin's Collection).hex" size="78256" crc="f5e1248a" md5="5b1c604f166f9023c1b13895228d18f9" sha1="10c7d4cd6808a5a6fbc676055e72d5cf74438d3b"/>
 		<url>https://retroachievements.org/game/19511/hashes</url>
 		<hash>5b1c604f166f9023c1b13895228d18f9</hash>
+	</game>
+	
+	<game name="BitWars (World) (v1.1)">
+		<category>Retail</category>
+		<description>BitWars (World) (v1.1)</description>
+		<release name="BitWars (World) (v1.1)" region="World"/>
+		<rom name="BitWars (World) (v1.1).hex" size="47026" crc="aa3dd868" md5="d90ad93fdde56d66a0b4c783a5a54526" sha1="1f6fe4590cdfd54c6a116d2083c19ef743a766b2"/>
+		<url>https://retroachievements.org/game/29919/hashes</url>
+		<hash>2d17fc9797e4490d92ad5bf94f3ec3e4</hash>
 	</game>
 	
 	<game name="Blackjack (World) (Erwin's Collection)">

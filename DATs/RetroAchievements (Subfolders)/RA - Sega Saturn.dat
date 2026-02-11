@@ -5,8 +5,8 @@
 		<name>RA - Sega Saturn</name>
 		<description>Sega Saturn</description>
 		<category>Subfolders</category>
-		<version>20260122</version>
-		<date>22 January 2026</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/39/games</url>
@@ -673,6 +673,14 @@
 		<hash>81eb938a232619f5bf929400298aafd9</hash>
 	</machine>
 	
+	<machine name="Retail/Sega Ages - I Love Mickey Mouse - Fushigi no Oshiro Daibouken &amp; I Love Donald Duck - Georgia Ou no Hihou (Japan)">
+		<category></category>
+		<description>Sega Ages - I Love Mickey Mouse - Fushigi no Oshiro Daibouken &amp; I Love Donald Duck - Georgia Ou no Hihou (Japan)</description>
+		<disk name="Sega Ages - I Love Mickey Mouse - Fushigi no Oshiro Daibouken &amp; I Love Donald Duck - Georgia Ou no Hihou (Japan).chd" sha1="2176c80eb59ff10a57d87ff1377701be2e3f3cbf"/>
+		<url>https://retroachievements.org/game/28717/hashes</url>
+		<hash>b0cd2d606cba659a6bae8953a2bc9e38</hash>
+	</machine>
+	
 	<machine name="Retail/In the Hunt (USA)">
 		<category></category>
 		<description>In the Hunt (USA)</description>
@@ -1002,6 +1010,22 @@
 		<hash>d721146d446fc15df1d817fd22332446</hash>
 	</machine>
 	
+	<machine name="Retail/Private Idol Disc Vol. 10 - Mai Masaki (Japan)">
+		<category></category>
+		<description>Private Idol Disc Vol. 10 - Mai Masaki (Japan)</description>
+		<disk name="Private Idol Disc Vol. 10 - Mai Masaki (Japan).chd" sha1="3bb1fe96f19ddb3c862b70de2604ee45c1e3cd02"/>
+		<url>https://retroachievements.org/game/37943/hashes</url>
+		<hash>cc7e8fcf19ef362ecd3a66e8eb26a0c6</hash>
+	</machine>
+	
+	<machine name="Retail/Private Idol Disc Vol. 11 - Mayumi Hirose (Japan) (2M)">
+		<category></category>
+		<description>Private Idol Disc Vol. 11 - Mayumi Hirose (Japan) (2M)</description>
+		<disk name="Private Idol Disc Vol. 11 - Mayumi Hirose (Japan) (2M).chd" sha1="9500fa8644cea46bc14fdcbc0600036d4bfee678"/>
+		<url>https://retroachievements.org/game/37944/hashes</url>
+		<hash>d007fc9f26118242d584c98251f23562</hash>
+	</machine>
+	
 	<machine name="Retail/Private Idol Disc Vol. 2 - Miki Uchiyama (Japan)">
 		<category></category>
 		<description>Private Idol Disc Vol. 2 - Miki Uchiyama (Japan)</description>
@@ -1024,6 +1048,46 @@
 		<disk name="Private Idol Disc Vol. 4 - Mirei Kuroda (Japan).chd" sha1="b05cf38405cf5ccbf4cc5351301c4403616f8e29"/>
 		<url>https://retroachievements.org/game/36098/hashes</url>
 		<hash>1c6c7c8205a80b2e2e6b1315635dd1de</hash>
+	</machine>
+	
+	<machine name="Retail/Private Idol Disc Vol. 5 - Nanako Fujisaki (Japan)">
+		<category></category>
+		<description>Private Idol Disc Vol. 5 - Nanako Fujisaki (Japan)</description>
+		<disk name="Private Idol Disc Vol. 5 - Nanako Fujisaki (Japan).chd" sha1="53acb1d6088a00234421f90534da83310e3e393d"/>
+		<url>https://retroachievements.org/game/37243/hashes</url>
+		<hash>ada226686c1f22a78badddc15de03b2c</hash>
+	</machine>
+	
+	<machine name="Retail/Private Idol Disc Vol. 6 - Satomi Yoshida (Japan)">
+		<category></category>
+		<description>Private Idol Disc Vol. 6 - Satomi Yoshida (Japan)</description>
+		<disk name="Private Idol Disc Vol. 6 - Satomi Yoshida (Japan).chd" sha1="6ee17d9bf75a8d7f4b5d27b4109b6ed3e7d5804d"/>
+		<url>https://retroachievements.org/game/37684/hashes</url>
+		<hash>14b381b194aae88bc50a69d98748d032</hash>
+	</machine>
+	
+	<machine name="Retail/Private Idol Disc Vol. 7 - Kaori Asou (Japan)">
+		<category></category>
+		<description>Private Idol Disc Vol. 7 - Kaori Asou (Japan)</description>
+		<disk name="Private Idol Disc Vol. 7 - Kaori Asou (Japan).chd" sha1="3c7cd41dffbd6b7000447fe42501a7bdacfbf50e"/>
+		<url>https://retroachievements.org/game/37685/hashes</url>
+		<hash>2954f17434e48c58072ef2e54b197137</hash>
+	</machine>
+	
+	<machine name="Retail/Private Idol Disc Vol. 8 - Emiko Furukawa (Japan)">
+		<category></category>
+		<description>Private Idol Disc Vol. 8 - Emiko Furukawa (Japan)</description>
+		<disk name="Private Idol Disc Vol. 8 - Emiko Furukawa (Japan).chd" sha1="197b17be027139c8625a88bb57fb619221e2c425"/>
+		<url>https://retroachievements.org/game/37916/hashes</url>
+		<hash>97e866568701ee06da35320d3586c6b6</hash>
+	</machine>
+	
+	<machine name="Retail/Private Idol Disc Vol. 9 - Keiko Nagamatsu (Japan)">
+		<category></category>
+		<description>Private Idol Disc Vol. 9 - Keiko Nagamatsu (Japan)</description>
+		<disk name="Private Idol Disc Vol. 9 - Keiko Nagamatsu (Japan).chd" sha1="82795e86162b2c124d10106ee5adf826ed66daa6"/>
+		<url>https://retroachievements.org/game/37917/hashes</url>
+		<hash>30f2e6007b044f5b9127187a83e06297</hash>
 	</machine>
 	
 	<machine name="Retail/Quake/Quake (Europe)">
@@ -1442,6 +1506,14 @@
 		<disk name="Virtua Cop (USA) (5S, 6S).chd" sha1="65ec56398657f7899914aa957a306bd0bd570499"/>
 		<url>https://retroachievements.org/game/14569/hashes</url>
 		<hash>a38a482f2331db7b086c1d875f3cee80</hash>
+	</machine>
+	
+	<machine name="Retail/Virtua Cop 2 (USA)">
+		<category></category>
+		<description>Virtua Cop 2 (USA)</description>
+		<disk name="Virtua Cop 2 (USA).chd" sha1="652f339b6f4dca14fc184e5339b515c311f6ffb9"/>
+		<url>https://retroachievements.org/game/14563/hashes</url>
+		<hash>a4ccad6aed76a61ad438475ea432bfcc</hash>
 	</machine>
 	
 	<machine name="Retail/Virtua Fighter 2 (USA)">

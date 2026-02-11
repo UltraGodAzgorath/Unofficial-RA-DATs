@@ -5,8 +5,8 @@
 		<name>RA - Atari Lynx</name>
 		<description>Atari Lynx</description>
 		<category>Subfolders</category>
-		<version>20251014</version>
-		<date>14 October 2025</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/13/games</url>
@@ -194,6 +194,14 @@
 		<rom name="Gauntlet - The Third Encounter (World).lyx" size="131072" crc="7f0ec7ad" md5="0b572c0dfb938849eeec39b2c9583547" sha1="41d27f0717a93d05a9d3d1110f571f791d330f55"/>
 		<url>https://retroachievements.org/game/11512/hashes</url>
 		<hash>0b572c0dfb938849eeec39b2c9583547</hash>
+	</game>
+	
+	<game name="Retail/Ishido - The Way of Stones (USA, Europe)">
+		<category></category>
+		<description>Ishido - The Way of Stones (USA, Europe)</description>
+		<rom name="Ishido - The Way of Stones (USA, Europe).lyx" size="131072" crc="5cf8bbf0" md5="addc6c0ae7b535839815b8e7f7fd0f11" sha1="78c295af3a57b5bd7d7e1d13ab13ad67885c4e89"/>
+		<url>https://retroachievements.org/game/10201/hashes</url>
+		<hash>addc6c0ae7b535839815b8e7f7fd0f11</hash>
 	</game>
 	
 	<game name="Retail/Krazy Ace - Miniature Golf (USA, Europe)">

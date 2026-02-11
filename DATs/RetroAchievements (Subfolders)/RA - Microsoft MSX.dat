@@ -5,8 +5,8 @@
 		<name>RA - Microsoft MSX</name>
 		<description>Microsoft MSX</description>
 		<category>Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/29/games</url>
@@ -1503,12 +1503,19 @@
 		<hash>24a6d9cfa9e38e120678a538663e8ad2</hash>
 	</game>
 	
-	<game name="Retail/Stone of Wisdom, The (Japan)">
+	<game name="Retail/The Stone of Wisdom/Stone of Wisdom, The (Japan)">
 		<category>MSX</category>
 		<description>Stone of Wisdom, The (Japan)</description>
 		<rom name="Stone of Wisdom, The (Japan).rom" size="32768" crc="8c7a7435" md5="c5b05f12e6c3bfe8f8391e949508eff7" sha1="3950f22265139a84cf57f3c0936e7927173f3d7a"/>
 		<url>https://retroachievements.org/game/33195/hashes</url>
 		<hash>c5b05f12e6c3bfe8f8391e949508eff7</hash>
+	</game>
+	<game name="Retail/The Stone of Wisdom/Stone of Wisdom, The (Japan) (En) (v1.0) (GDX)">
+		<category></category>
+		<description>Stone of Wisdom, The (Japan) (En) (v1.0) (GDX)</description>
+		<rom name="Stone of Wisdom, The (Japan) (En) (v1.0) (GDX).rom" size="32768" crc="f728c9de" md5="b6b0f799ba2ed79e0c1dd6d33b872923" sha1="762751f816ada1cef6e9ab539ffffd37ab498b1f"/>
+		<url>https://retroachievements.org/game/33195/hashes</url>
+		<hash>b6b0f799ba2ed79e0c1dd6d33b872923</hash>
 	</game>
 	
 	<game name="Retail/Treasure of Usas, The (Japan, Europe) (En)">

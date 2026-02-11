@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>Subfolders</category>
-		<version>20260122</version>
-		<date>22 January 2026</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -329,6 +329,14 @@
 		<hash>fd170af71c819e53e36897d3d90f86e7</hash>
 	</game>
 	
+	<game name="Hack/Metroid ZM - Return to Zebes (v2.5.4) (alexman25) (Hack)">
+		<category></category>
+		<description>Metroid ZM - Return to Zebes (v2.5.4) (alexman25) (Hack)</description>
+		<rom name="Metroid ZM - Return to Zebes (v2.5.4) (alexman25) (Hack).gba" size="33554432" crc="37528087" md5="4288f29631de443cee689be23f43a056" sha1="d2398a16dec7d629c72803ceb0abed833c43bf1b"/>
+		<url>https://retroachievements.org/game/19681/hashes</url>
+		<hash>4288f29631de443cee689be23f43a056</hash>
+	</game>
+	
 	<game name="Hack/Metroid Zero Mission/Metroid - Salt Mission (Hack)">
 		<category></category>
 		<description>Metroid - Salt Mission (Hack)</description>
@@ -615,6 +623,13 @@
 		<url>https://retroachievements.org/game/32844/hashes</url>
 		<hash>f258589489cb284a1115ae26db5f8111</hash>
 	</game>
+	<game name="Hack/Pokemon - Emerald/Pokemon - Recharged Emerald (v2.2.7) (Jaizu) (Hack)">
+		<category></category>
+		<description>Pokemon - Recharged Emerald (v2.2.7) (Jaizu) (Hack)</description>
+		<rom name="Pokemon - Recharged Emerald (v2.2.7) (Jaizu) (Hack).gba" size="16777216" crc="786406eb" md5="a243fec6f7c80477eacf6762313dd6e0" sha1="d38e830385f42e72dc94dd3b4a555d77595d7a8e"/>
+		<url>https://retroachievements.org/game/32844/hashes</url>
+		<hash>a243fec6f7c80477eacf6762313dd6e0</hash>
+	</game>
 	
 	<game name="Hack/Pokemon - Emerald/Pokemon - Recharged Yellow (Jaizu) (v1.8.0) (Hack)">
 		<category></category>
@@ -864,6 +879,15 @@
 		<rom name="Fire Emblem - The Last Promise (Hack).gba" size="32505856" crc="d1c6e5d5" md5="485740f0f0036d32bdf7369334be13e0" sha1="1c09cbe7f5d23a37ad2404efb4f2b536943f8cd5"/>
 		<url>https://retroachievements.org/game/15933/hashes</url>
 		<hash>485740f0f0036d32bdf7369334be13e0</hash>
+	</game>
+	
+	<game name="Hack/Fire Emblem - The Sacred Stones/Fire Emblem - The Szechuan Sword - A PostModern Strategy Game (v2023) (Kalastar) (Hack)">
+		<category></category>
+		<description>Fire Emblem - The Szechuan Sword - A PostModern Strategy Game (v2023) (Kalastar) (Hack)</description>
+		<release name="Fire Emblem - The Szechuan Sword - A PostModern Strategy Game (v2023) (Kalastar) (Hack)" region="World"/>
+		<rom name="Fire Emblem - The Szechuan Sword - A PostModern Strategy Game (v2023) (Kalastar) (Hack).gba" size="29682520" crc="0a00cd43" md5="d3515716f640151e607eaf7b38ac8a33" sha1="426979b37fe6ff44344986e85d4fc357bd64caaf"/>
+		<url>https://retroachievements.org/game/37048/hashes</url>
+		<hash>d3515716f640151e607eaf7b38ac8a33</hash>
 	</game>
 	
 	<game name="Hack/Doom/Doom - The Ultimate Doom (Subliminal Siren) (Hack)">
@@ -1382,6 +1406,14 @@
 		<hash>dd849fc5fe36531624d152c0d17e4799</hash>
 	</game>
 	
+	<game name="Homebrew/With the Last Moonbeam (World) (v1.0.1) (Aftermarket)">
+		<category></category>
+		<description>With the Last Moonbeam (World) (v1.0.1) (Aftermarket)</description>
+		<rom name="With the Last Moonbeam (World) (v1.0.1) (Aftermarket).gba" size="1449956" crc="27055186" md5="8220c6b2243aa64a2bd30e09c1d0436d" sha1="b9ce91d55870e07434509f6e2e91c2f90b4afc97"/>
+		<url>https://retroachievements.org/game/37695/hashes</url>
+		<hash>8220c6b2243aa64a2bd30e09c1d0436d</hash>
+	</game>
+	
 	<game name="Prototype/Dark Eden (Unknown) (Proto)">
 		<category></category>
 		<description>Dark Eden (Unknown) (Proto)</description>
@@ -1420,6 +1452,14 @@
 		<rom name="Resident Evil 2 (Unknown) (Proto).gba" size="2908576" crc="26b5cf8b" md5="e9385f1a0876c563dc42a0ee9c8700ce" sha1="a70cf38071f639e783734bc9875ace0ebd2c5180"/>
 		<url>https://retroachievements.org/game/12748/hashes</url>
 		<hash>e9385f1a0876c563dc42a0ee9c8700ce</hash>
+	</game>
+	
+	<game name="Prototype/SpongeBob SquarePants - SuperSponge (USA, Europe) (Proto) (Beta) (2001-04-04)">
+		<category></category>
+		<description>SpongeBob SquarePants - SuperSponge (USA, Europe) (Proto) (Beta) (2001-04-04)</description>
+		<rom name="SpongeBob SquarePants - SuperSponge (USA, Europe) (Proto) (Beta) (2001-04-04).gba" size="5477244" crc="23d7ba77" md5="04507c08f149756e262017efd3df4bee" sha1="0177808f1bcd65738c10fd0fba477ecdd46a791f"/>
+		<url>https://retroachievements.org/game/35439/hashes</url>
+		<hash>04507c08f149756e262017efd3df4bee</hash>
 	</game>
 	
 	<game name="Unlicensed/Crash Advance IV (USA) (Unl)">
@@ -1490,6 +1530,14 @@
 		<rom name="Three-in-One Pack - Risk + Battleship + Clue (USA).gba" size="4194304" crc="f6f70922" md5="1cd909a6837e4175244b71b83d2fdd1f" sha1="35d7fe8c1a36a4f924c28ff0e9c728c819b52405"/>
 		<url>https://retroachievements.org/game/13127/hashes</url>
 		<hash>1cd909a6837e4175244b71b83d2fdd1f</hash>
+	</game>
+	
+	<game name="Retail/Ace Combat Advance (USA, Europe)">
+		<category></category>
+		<description>Ace Combat Advance (USA, Europe)</description>
+		<rom name="Ace Combat Advance (USA, Europe).gba" size="4194304" crc="43f5e157" md5="4e46dd3ae5c9c70c49587d093517049a" sha1="856a08e8f60f817b96add5bf2f6db186bea832ef"/>
+		<url>https://retroachievements.org/game/531/hashes</url>
+		<hash>4e46dd3ae5c9c70c49587d093517049a</hash>
 	</game>
 	
 	<game name="Retail/Action Man - Robot Atak (Europe) (En,Fr,De,Es,It)">
@@ -1668,6 +1716,14 @@
 		<rom name="Atlantis - The Lost Empire (Europe) (En,Fr,De,Es,It,Nl).gba" size="4194304" crc="b3948dbc" md5="45f0b97050a666ce7ab4e3960929f47b" sha1="93624eaa9a80cdb791bd14955b55dd7c58c4abbd"/>
 		<url>https://retroachievements.org/game/9057/hashes</url>
 		<hash>45f0b97050a666ce7ab4e3960929f47b</hash>
+	</game>
+	
+	<game name="Retail/Atomic Betty (USA, Europe)">
+		<category></category>
+		<description>Atomic Betty (USA, Europe)</description>
+		<rom name="Atomic Betty (USA, Europe).gba" size="8388608" crc="8919d82c" md5="a3dd3b98ad5049503af18f80c84731fc" sha1="59e7400802ab634065b9674de3f437ddf8309d6e"/>
+		<url>https://retroachievements.org/game/9052/hashes</url>
+		<hash>a3dd3b98ad5049503af18f80c84731fc</hash>
 	</game>
 	
 	<game name="Retail/Avatar - The Legend of Aang (Europe) (En,Fr,De,Nl)">
@@ -2663,6 +2719,21 @@
 		<hash>f341bab11f2bfd79b995554d40a61cba</hash>
 	</game>
 	
+	<game name="Retail/Crazy Taxi - Catch a Ride/Crazy Taxi - Catch a Ride (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Crazy Taxi - Catch a Ride (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Crazy Taxi - Catch a Ride (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="4aebd704" md5="603470cb171bc53491b0a8643f1302ef" sha1="6c63ac0e57a0125a73248b75f29c58892d17750e"/>
+		<url>https://retroachievements.org/game/6006/hashes</url>
+		<hash>603470cb171bc53491b0a8643f1302ef</hash>
+	</game>
+	<game name="Retail/Crazy Taxi - Catch a Ride/Crazy Taxi - Catch a Ride (USA)">
+		<category></category>
+		<description>Crazy Taxi - Catch a Ride (USA)</description>
+		<rom name="Crazy Taxi - Catch a Ride (USA).gba" size="8388608" crc="8ec709d6" md5="8bcf4e0da6be539f2099c683ff897b43" sha1="d41f8528e5d010637ece3a50f22c3c809e49b578"/>
+		<url>https://retroachievements.org/game/6006/hashes</url>
+		<hash>8bcf4e0da6be539f2099c683ff897b43</hash>
+	</game>
+	
 	<game name="Retail/Cubix - Robots for Everyone - Clash 'N Bash (USA)">
 		<category></category>
 		<description>Cubix - Robots for Everyone - Clash 'N Bash (USA)</description>
@@ -3604,6 +3675,21 @@
 		<hash>8f0dad780f01ce002331693f4733f27e</hash>
 	</game>
 	
+	<game name="Retail/Foster's Home for Imaginary Friends/Foster's Home for Imaginary Friends (USA)">
+		<category></category>
+		<description>Foster's Home for Imaginary Friends (USA)</description>
+		<rom name="Foster's Home for Imaginary Friends (USA).gba" size="4194304" crc="d7c80592" md5="1207a415c9acfbd206e5580f34e73ba2" sha1="9dcfddf55a2a60db2946e52959d82cb53c63e7df"/>
+		<url>https://retroachievements.org/game/7336/hashes</url>
+		<hash>1207a415c9acfbd206e5580f34e73ba2</hash>
+	</game>
+	<game name="Retail/Foster's Home for Imaginary Friends/Foster's Home for Imaginary Friends (Europe)">
+		<category></category>
+		<description>Foster's Home for Imaginary Friends (Europe)</description>
+		<rom name="Foster's Home for Imaginary Friends (Europe).gba" size="4194304" crc="dee47a85" md5="784e266e768506888dd0f656fd7cf715" sha1="0b60fdbd2991bbc7e7ff1933cc5947be3e69411d"/>
+		<url>https://retroachievements.org/game/7336/hashes</url>
+		<hash>784e266e768506888dd0f656fd7cf715</hash>
+	</game>
+	
 	<game name="Retail/Frogger Advance - The Great Quest (Europe) (En,Fr,De,Es,It)">
 		<category></category>
 		<description>Frogger Advance - The Great Quest (Europe) (En,Fr,De,Es,It)</description>
@@ -3769,6 +3855,146 @@
 		<rom name="Game Boy Advance Video - Nicktoons Collection - Volume 1 (USA).gba" size="33554432" crc="5d47676f" md5="f0f7ba8c3766252a6e8d1d4fcf4eb5dd" sha1="b3bf6d95b548a82808a109cefaaf8b0c22ca66f2"/>
 		<url>https://retroachievements.org/game/11843/hashes</url>
 		<hash>f0f7ba8c3766252a6e8d1d4fcf4eb5dd</hash>
+	</game>
+	<game name="Retail/Game Boy Advance Video - Cartoon Network Collection - Volume 1 (USA, Europe)">
+		<category></category>
+		<description>Game Boy Advance Video - Cartoon Network Collection - Volume 1 (USA, Europe)</description>
+		<rom name="Game Boy Advance Video - Cartoon Network Collection - Volume 1 (USA, Europe).gba" size="33554432" crc="91f39447" md5="9d88169f003267c96a4a42e8f4c377bd" sha1="3227d82e64024a5dc0e5b7f3fd768b0fec19e9b0"/>
+		<url>https://retroachievements.org/game/11843/hashes</url>
+		<hash>9d88169f003267c96a4a42e8f4c377bd</hash>
+	</game>
+	<game name="Retail/Game Boy Advance Video - Cartoon Network Collection - Platinum Edition (USA, Europe)">
+		<category></category>
+		<description>Game Boy Advance Video - Cartoon Network Collection - Platinum Edition (USA, Europe)</description>
+		<rom name="Game Boy Advance Video - Cartoon Network Collection - Platinum Edition (USA, Europe).gba" size="33554432" crc="6443554b" md5="638d4c91d3119289573e94fc47aa2ab0" sha1="0cf9b536f87cb21f738bd7552e95bd114b0f0b2e"/>
+		<url>https://retroachievements.org/game/11843/hashes</url>
+		<hash>638d4c91d3119289573e94fc47aa2ab0</hash>
+	</game>
+	<game name="Retail/Game Boy Advance Video - Cartoon Network Collection - Volume 2 (USA, Europe)">
+		<category></category>
+		<description>Game Boy Advance Video - Cartoon Network Collection - Volume 2 (USA, Europe)</description>
+		<rom name="Game Boy Advance Video - Cartoon Network Collection - Volume 2 (USA, Europe).gba" size="33554432" crc="4bfaa8de" md5="80236c93c72dc4ee4bd0e3c22ffac303" sha1="692ffa1856780edd28b3aa55526ad06eeddc292e"/>
+		<url>https://retroachievements.org/game/11843/hashes</url>
+		<hash>80236c93c72dc4ee4bd0e3c22ffac303</hash>
+	</game>
+	<game name="Retail/Game Boy Advance Video - Cartoon Network Collection - Premium Edition (USA, Europe)">
+		<category></category>
+		<description>Game Boy Advance Video - Cartoon Network Collection - Premium Edition (USA, Europe)</description>
+		<rom name="Game Boy Advance Video - Cartoon Network Collection - Premium Edition (USA, Europe).gba" size="33554432" crc="f2825729" md5="a1dcdf3f1625feb7ecd54d747d08fb37" sha1="d0fe380fcdf5b1bb99188ed95c8c3272cbb65ce8"/>
+		<url>https://retroachievements.org/game/11843/hashes</url>
+		<hash>a1dcdf3f1625feb7ecd54d747d08fb37</hash>
+	</game>
+	<game name="Retail/Game Boy Advance Video - Cartoon Network Collection - Limited Edition (USA)">
+		<category></category>
+		<description>Game Boy Advance Video - Cartoon Network Collection - Limited Edition (USA)</description>
+		<rom name="Game Boy Advance Video - Cartoon Network Collection - Limited Edition (USA).gba" size="33554432" crc="5d918b2d" md5="cff33aabb6bdac294c1a250afe5248b0" sha1="ac63a7691774bde6eaad4c2c5c4d305e7cc0535a"/>
+		<url>https://retroachievements.org/game/11843/hashes</url>
+		<hash>cff33aabb6bdac294c1a250afe5248b0</hash>
+	</game>
+	<game name="Retail/Game Boy Advance Video - Cartoon Network Collection - Special Edition (USA, Europe)">
+		<category></category>
+		<description>Game Boy Advance Video - Cartoon Network Collection - Special Edition (USA, Europe)</description>
+		<rom name="Game Boy Advance Video - Cartoon Network Collection - Special Edition (USA, Europe).gba" size="33554432" crc="e9b7b8a4" md5="9e026e4c444ddd4cdcd275f7162835f1" sha1="5f17d2ec1a3ba1d605d486b6f6abcde6d82df767"/>
+		<url>https://retroachievements.org/game/11843/hashes</url>
+		<hash>9e026e4c444ddd4cdcd275f7162835f1</hash>
+	</game>
+	<game name="GRetail/ame Boy Advance Video - Codename - Kids Next Door - Volume 1 (USA, Europe)">
+		<category></category>
+		<description>Game Boy Advance Video - Codename - Kids Next Door - Volume 1 (USA, Europe)</description>
+		<rom name="Game Boy Advance Video - Codename - Kids Next Door - Volume 1 (USA, Europe).gba" size="33554432" crc="4463f345" md5="09a08b8e39fa938d4dd121642f3a0cb1" sha1="5e78808676213d6e5b55a78560fc47112f3008d4"/>
+		<url>https://retroachievements.org/game/11843/hashes</url>
+		<hash>09a08b8e39fa938d4dd121642f3a0cb1</hash>
+	</game>
+	<game name="Retail/Game Boy Advance Video - Disney Channel Collection - Volume 1 (USA)">
+		<category></category>
+		<description>Game Boy Advance Video - Disney Channel Collection - Volume 1 (USA)</description>
+		<rom name="Game Boy Advance Video - Disney Channel Collection - Volume 1 (USA).gba" size="33554432" crc="7cc985cb" md5="340f5ce39c1d2ea31a7b61148b376f70" sha1="53069a5a8b564495ad800f0685b4d1970859b0f8"/>
+		<url>https://retroachievements.org/game/11843/hashes</url>
+		<hash>340f5ce39c1d2ea31a7b61148b376f70</hash>
+	</game>
+	<game name="Retail/Game Boy Advance Video - Cartoon Network Collection - Edition Platinum (France)">
+		<category></category>
+		<description>Game Boy Advance Video - Cartoon Network Collection - Edition Platinum (France)</description>
+		<rom name="Game Boy Advance Video - Cartoon Network Collection - Edition Platinum (France).gba" size="33554432" crc="fc042f18" md5="1577640560b3cbff587ee29ba073a2c1" sha1="01564b86644cf43f49320e0c05854896f8c60c2f"/>
+		<url>https://retroachievements.org/game/11843/hashes</url>
+		<hash>1577640560b3cbff587ee29ba073a2c1</hash>
+	</game>
+	<game name="Retail/Game Boy Advance Video - Cartoon Network Collection - Edition Premium (France)">
+		<category></category>
+		<description>Game Boy Advance Video - Cartoon Network Collection - Edition Premium (France)</description>
+		<rom name="Game Boy Advance Video - Cartoon Network Collection - Edition Premium (France).gba" size="33554432" crc="58f1cde8" md5="3fc8b5adf57d1c1975c132686d398fcf" sha1="f63052e2b53c42601f53148bee69f89d9591fbf9"/>
+		<url>https://retroachievements.org/game/11843/hashes</url>
+		<hash>3fc8b5adf57d1c1975c132686d398fcf</hash>
+	</game>
+	<game name="Retail/Game Boy Advance Video - Cartoon Network Collection - Edition Speciale (France)">
+		<category></category>
+		<description>Game Boy Advance Video - Cartoon Network Collection - Edition Speciale (France)</description>
+		<rom name="Game Boy Advance Video - Cartoon Network Collection - Edition Speciale (France).gba" size="33554432" crc="71154d42" md5="fc8cb7b530c412e403b4b4eb98751586" sha1="73cbdd82640f166737173b0e8197d771d7906a91"/>
+		<url>https://retroachievements.org/game/11843/hashes</url>
+		<hash>fc8cb7b530c412e403b4b4eb98751586</hash>
+	</game>
+	<game name="Retail/Game Boy Advance Video - Dragon Ball GT - Volume 1 (USA)">
+		<category></category>
+		<description>Game Boy Advance Video - Dragon Ball GT - Volume 1 (USA)</description>
+		<rom name="Game Boy Advance Video - Dragon Ball GT - Volume 1 (USA).gba" size="33554432" crc="da559199" md5="e6bda86bedec314b4a2096afda57367f" sha1="dc85cccc0cede3fc11d257995cd7d3cc64ca00e0"/>
+		<url>https://retroachievements.org/game/11843/hashes</url>
+		<hash>e6bda86bedec314b4a2096afda57367f</hash>
+	</game>
+	<game name="Retail/Game Boy Advance Video - Sonic X - Volume 1 (USA)">
+		<category></category>
+		<description>Game Boy Advance Video - Sonic X - Volume 1 (USA)</description>
+		<rom name="Game Boy Advance Video - Sonic X - Volume 1 (USA).gba" size="33554432" crc="363c3eb8" md5="36dfcab0d39bae344f1e9ecda2a226b7" sha1="dc4c959a7740315d892633869f7fc6382aadbb0e"/>
+		<url>https://retroachievements.org/game/11843/hashes</url>
+		<hash>36dfcab0d39bae344f1e9ecda2a226b7</hash>
+	</game>
+	<game name="Retail/Game Boy Advance Video - Strawberry Shortcake - Volume 1 (USA)">
+		<category></category>
+		<description>Game Boy Advance Video - Strawberry Shortcake - Volume 1 (USA)</description>
+		<rom name="Game Boy Advance Video - Strawberry Shortcake - Volume 1 (USA).gba" size="33554432" crc="ff7582ef" md5="224f20711583402f8575795b3ccea869" sha1="f84cc8a33e3a75e42f4e8023a5cc851c92ea409a"/>
+		<url>https://retroachievements.org/game/11843/hashes</url>
+		<hash>224f20711583402f8575795b3ccea869</hash>
+	</game>
+	<game name="Retail/Game Boy Advance Video - Super Robot Monkey Team - Hyper Force Go! - Volume 1 (USA)">
+		<category></category>
+		<description>Game Boy Advance Video - Super Robot Monkey Team - Hyper Force Go! - Volume 1 (USA)</description>
+		<rom name="Game Boy Advance Video - Super Robot Monkey Team - Hyper Force Go! - Volume 1 (USA).gba" size="33554432" crc="d743a070" md5="60fa719b84f02367addc3d0dad085aa8" sha1="e3bce6ddf9437bded89fc662e992c1ab0aa1dbba"/>
+		<url>https://retroachievements.org/game/11843/hashes</url>
+		<hash>60fa719b84f02367addc3d0dad085aa8</hash>
+	</game>
+	<game name="Retail/Game Boy Advance Video - Teenage Mutant Ninja Turtles - Le Demenagement (France)">
+		<category></category>
+		<description>Game Boy Advance Video - Teenage Mutant Ninja Turtles - Le Demenagement (France)</description>
+		<rom name="Game Boy Advance Video - Teenage Mutant Ninja Turtles - Le Demenagement (France).gba" size="33554432" crc="1ee78166" md5="41322207c6b54012f094a3410df58c7a" sha1="1c7444a45c9bd15b1643c195832497881955acee"/>
+		<url>https://retroachievements.org/game/11843/hashes</url>
+		<hash>41322207c6b54012f094a3410df58c7a</hash>
+	</game>
+	<game name="Retail/Game Boy Advance Video - Teenage Mutant Ninja Turtles - Things Change (USA, Europe)">
+		<category></category>
+		<description>Game Boy Advance Video - Teenage Mutant Ninja Turtles - Things Change (USA, Europe)</description>
+		<rom name="Game Boy Advance Video - Teenage Mutant Ninja Turtles - Things Change (USA, Europe).gba" size="33554432" crc="046589c8" md5="b38aa51c2c27bf689e3d3da520d77339" sha1="8b9665ce2cefd663f7722f38b64f9271f7c00daa"/>
+		<url>https://retroachievements.org/game/11843/hashes</url>
+		<hash>b38aa51c2c27bf689e3d3da520d77339</hash>
+	</game>
+	<game name="Retail/Game Boy Advance Video - The Proud Family - Volume 1 (USA)">
+		<category></category>
+		<description>Game Boy Advance Video - The Proud Family - Volume 1 (USA)</description>
+		<rom name="Game Boy Advance Video - The Proud Family - Volume 1 (USA).gba" size="33554432" crc="c6a91365" md5="4a6cf80d29a6e4ab9b4204e6783657e0" sha1="31a2cbb9b1b5adf7de399eecf2a9cec4f5412767"/>
+		<url>https://retroachievements.org/game/11843/hashes</url>
+		<hash>4a6cf80d29a6e4ab9b4204e6783657e0</hash>
+	</game>
+	<game name="Retail/Game Boy Advance Video - Yu-Gi-Oh! - Yugi vs. Joey (France)">
+		<category></category>
+		<description>Game Boy Advance Video - Yu-Gi-Oh! - Yugi vs. Joey (France)</description>
+		<rom name="Game Boy Advance Video - Yu-Gi-Oh! - Yugi vs. Joey (France).gba" size="33554432" crc="c9b6ccf1" md5="d7b7aaa61d7dbc76ed84abe391dee6df" sha1="8fb43e5018cf2d4b1a2aa2d1693862ce248ab6b0"/>
+		<url>https://retroachievements.org/game/11843/hashes</url>
+		<hash>d7b7aaa61d7dbc76ed84abe391dee6df</hash>
+	</game>
+	<game name="Retail/Game Boy Advance Video - Yu-Gi-Oh! - Yugi vs. Joey (USA, Europe)">
+		<category></category>
+		<description>Game Boy Advance Video - Yu-Gi-Oh! - Yugi vs. Joey (USA, Europe)</description>
+		<rom name="Game Boy Advance Video - Yu-Gi-Oh! - Yugi vs. Joey (USA, Europe).gba" size="33554432" crc="8d631f4e" md5="e6e630c0e5efe24d54242b55388fc4b2" sha1="6daf15bb61a10d1bbf94009886d6a76f9c937f8b"/>
+		<url>https://retroachievements.org/game/11843/hashes</url>
+		<hash>e6e630c0e5efe24d54242b55388fc4b2</hash>
 	</game>
 	
 	<game name="Retail/Garfield and His Nine Lives (Europe) (En,Fr,De,Es,It,Nl)">
@@ -4279,6 +4505,28 @@
 		<rom name="I Spy Challenger! (USA).gba" size="8388608" crc="946d2cbb" md5="a3201407f7988a563f4dfb243db02bcb" sha1="532934239ea1151927fd45298d918e0646a6bea4"/>
 		<url>https://retroachievements.org/game/6947/hashes</url>
 		<hash>a3201407f7988a563f4dfb243db02bcb</hash>
+	</game>
+	
+	<game name="Retail/Ice Age/Ice Age (Europe) (En,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Ice Age (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Ice Age (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="10179d72" md5="b6e949610feec32108b4bdc62d1be4dc" sha1="065ba5ee19799c4a9cad3f0cf0e4e4c1eec04a27"/>
+		<url>https://retroachievements.org/game/9829/hashes</url>
+		<hash>b6e949610feec32108b4bdc62d1be4dc</hash>
+	</game>
+	<game name="Retail/Ice Age/Ice Age (Japan)">
+		<category>Retail</category>
+		<description>Ice Age (Japan)</description>
+		<rom name="Ice Age (Japan).gba" size="4194304" crc="6d457f4c" md5="32c77b409455bc4efbfde71d4ca4d256" sha1="6c36e22d86d89662493d8f2f9fe2a42c051168fd"/>
+		<url>https://retroachievements.org/game/9829/hashes</url>
+		<hash>32c77b409455bc4efbfde71d4ca4d256</hash>
+	</game>
+	<game name="Retail/Ice Age/Ice Age (USA) (En,Fr,Es)">
+		<category></category>
+		<description>Ice Age (USA) (En,Fr,Es)</description>
+		<rom name="Ice Age (USA) (En,Fr,Es).gba" size="4194304" crc="3fc99714" md5="4235dbfac776ac1d3c391c740ce28892" sha1="4804b2b85f9d5c94bb844c367a4ed3e05cfd3dc5"/>
+		<url>https://retroachievements.org/game/9829/hashes</url>
+		<hash>4235dbfac776ac1d3c391c740ce28892</hash>
 	</game>
 	
 	<game name="Retail/IK+ (USA)">
@@ -4877,19 +5125,34 @@
 		<hash>1de4ebf40c819e8cfb20b84f6dcdf718</hash>
 	</game>
 	
-	<game name="Retail/Medabots AX - Metabee Ver. (USA)">
+	<game name="Retail/Medabots AX - Metabee Ver/Medabots AX - Metabee Ver. (USA)">
 		<category></category>
 		<description>Medabots AX - Metabee Ver. (USA)</description>
 		<rom name="Medabots AX - Metabee Ver. (USA).gba" size="8388608" crc="03294511" md5="c83c580d9ab765af26ca3a3ead0cd518" sha1="80c024df6d40e499776665d7f0c494a252973048"/>
 		<url>https://retroachievements.org/game/7365/hashes</url>
 		<hash>c83c580d9ab765af26ca3a3ead0cd518</hash>
 	</game>
-	<game name="Retail/Medabots AX - Metabee Ver. (Europe) (En,Fr,De,Es,It)">
+	<game name="Retail/Medabots AX - Metabee Ver/Medabots AX - Metabee Ver. (Europe) (En,Fr,De,Es,It)">
 		<category></category>
 		<description>Medabots AX - Metabee Ver. (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Medabots AX - Metabee Ver. (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="5f1e5a48" md5="f14d377341c6afba46d3db0fabf12062" sha1="130c908d24ba3e422fd8db84e683bacc87235e78"/>
 		<url>https://retroachievements.org/game/7365/hashes</url>
 		<hash>f14d377341c6afba46d3db0fabf12062</hash>
+	</game>
+	
+	<game name="Retail/Medabots AX - Rokusho Ver/Medabots AX - Rokusho Ver. (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Medabots AX - Rokusho Ver. (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Medabots AX - Rokusho Ver. (Europe) (En,Fr,De,Es,It).gba" size="8388608" crc="f5801bd8" md5="a6e3e17f96065a33c8ad3b540583fb64" sha1="35e35139e4d8d91ca52983097f3ce8fe090e3598"/>
+		<url>https://retroachievements.org/game/5884/hashes</url>
+		<hash>a6e3e17f96065a33c8ad3b540583fb64</hash>
+	</game>
+	<game name="Retail/Medabots AX - Rokusho Ver/Medabots AX - Rokusho Ver. (USA)">
+		<category></category>
+		<description>Medabots AX - Rokusho Ver. (USA)</description>
+		<rom name="Medabots AX - Rokusho Ver. (USA).gba" size="8388608" crc="92fdb8d6" md5="08a002ca5de6e28726c3d17644137b23" sha1="ef47f8c675f1f541a0fe4bd37c8882efc539b1c7"/>
+		<url>https://retroachievements.org/game/5884/hashes</url>
+		<hash>08a002ca5de6e28726c3d17644137b23</hash>
 	</game>
 	
 	<game name="Retail/Medabots - Metabee (USA)">
@@ -5539,6 +5802,14 @@
 		<hash>279af1b9d55efdcea19593a42f8ce23d</hash>
 	</game>
 	
+	<game name="Retail/Mucha Lucha! - Mascaritas of the Lost Code (USA) (En,Fr,Es)">
+		<category></category>
+		<description>Mucha Lucha! - Mascaritas of the Lost Code (USA) (En,Fr,Es)</description>
+		<rom name="Mucha Lucha! - Mascaritas of the Lost Code (USA) (En,Fr,Es).gba" size="4194304" crc="03bbc0c9" md5="0b4c94edc68ff0f0a18e09e5b11ed0df" sha1="c168d27f627b3b986cb3ba2637ac72e09bc7417e"/>
+		<url>https://retroachievements.org/game/9864/hashes</url>
+		<hash>0b4c94edc68ff0f0a18e09e5b11ed0df</hash>
+	</game>
+	
 	<game name="Retail/My Little Pony - Crystal Princess - The Runaway Rainbow (USA)">
 		<category></category>
 		<description>My Little Pony - Crystal Princess - The Runaway Rainbow (USA)</description>
@@ -5693,33 +5964,6 @@
 		<rom name="Ninja Five-0 (USA).gba" size="4194304" crc="eb3954c6" md5="04244f72a9b8f17ee33e0b5bff2b8b1f" sha1="3bc5789035c7400283b121e9fb3801aafae55364"/>
 		<url>https://retroachievements.org/game/4740/hashes</url>
 		<hash>04244f72a9b8f17ee33e0b5bff2b8b1f</hash>
-	</game>
-	
-	<game name="Retail/Kirby Puzzle (USA) (e-Reader)">
-		<category></category>
-		<description>Kirby Puzzle (USA) (e-Reader)</description>
-		<rom name="Kirby Puzzle (USA) (e-Reader).gba" size="8388608" crc="5859d3ac" md5="15a180962887feb81d8d084864d687d4" sha1="39aa56ce989202ac70a3f79616ee0d923ec528db"/>
-		<url>https://retroachievements.org/game/20086/hashes</url>
-		<hash>15a180962887feb81d8d084864d687d4</hash>
-		<althash>62dd5af694bdd194b141fe6ab0f3a046</althash>
-	</game>
-	
-	<game name="Retail/e-Reader (USA)">
-		<category></category>
-		<description>e-Reader (USA)</description>
-		<rom name="e-Reader (USA).gba" size="8388608" crc="8b27cd67" md5="7b17e51d5a61780f9823203c6254ed8f" sha1="4b7005e81ee9ffee333b3f6095c3611800b56588"/>
-		<url>https://retroachievements.org/game/5007/hashes</url>
-		<hash>7b17e51d5a61780f9823203c6254ed8f</hash>
-		<althash>e71b45bbbe488cc268ef4cfceb92284a</althash>
-	</game>
-	
-	<game name="Retail/Pokemon-e TCG (USA) (e-Reader)">
-		<category></category>
-		<description>Pokemon-e TCG (USA) (e-Reader)</description>
-		<rom name="Pokemon-e TCG (USA) (e-Reader).gba" size="8388608" crc="ebd57fec" md5="4d565c55f80a8b2e0f4a36b78f281446" sha1="45205cd21b22dc22baa01de8f4f5522fe85291c5"/>
-		<url>https://retroachievements.org/game/20209/hashes</url>
-		<hash>4d565c55f80a8b2e0f4a36b78f281446</hash>
-		<althash>ed083c0f363804193ac23fea9fa3427a</althash>
 	</game>
 	
 	<game name="Retail/Oddworld - Munch's Oddysee (USA, Europe)">
@@ -5896,6 +6140,13 @@
 		<rom name="Pokemon - Emerald Version (USA, Europe) (32-Bit RTC + Timer RNG Fix) (MWisBest).gba" size="16777216" crc="67c39b5a" md5="054b20eed28e84b0102062a89ae7ebb1" sha1="bfe52fb1b279792bc02aa5ebb7e162cb91435f4f"/>
 		<url>https://retroachievements.org/game/668/hashes</url>
 		<hash>054b20eed28e84b0102062a89ae7ebb1</hash>
+	</game>
+	<game name="Retail/Pokemon - Emerald Version/Pokemon - Edicion Esmeralda (Spain)">
+		<category></category>
+		<description>Pokemon - Edicion Esmeralda (Spain)</description>
+		<rom name="Pokemon - Edicion Esmeralda (Spain).gba" size="16777216" crc="8c4d3108" md5="67b770405f7b87589e0342513b25fe9b" sha1="fe1558a3dcb0360ab558969e09b690888b846dd9"/>
+		<url>https://retroachievements.org/game/668/hashes</url>
+		<hash>67b770405f7b87589e0342513b25fe9b</hash>
 	</game>
 	<game name="Retail/Pokemon - Emerald Version/Pokemon - Smaragd-Edition (Germany)">
 		<category></category>
@@ -6254,6 +6505,21 @@
 		<hash>2892a0fcefc0c183bf725b0a2540a83a</hash>
 	</game>
 	
+	<game name="Retail/Prince of Persia - The Sands of Time/Prince of Persia - The Sands of Time (Europe) (En,Fr,De,Es,It,Nl)">
+		<category>Retail</category>
+		<description>Prince of Persia - The Sands of Time (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Prince of Persia - The Sands of Time (Europe) (En,Fr,De,Es,It,Nl).gba" size="4194304" crc="921b66e2" md5="69a9f59169766cda7ebc29be820a78a3" sha1="494156a4799d3c19de58d34917b6def7b15986e1"/>
+		<url>https://retroachievements.org/game/4693/hashes</url>
+		<hash>69a9f59169766cda7ebc29be820a78a3</hash>
+	</game>
+	<game name="Retail/Prince of Persia - The Sands of Time/Prince of Persia - The Sands of Time (USA) (En,Fr,Es)">
+		<category></category>
+		<description>Prince of Persia - The Sands of Time (USA) (En,Fr,Es)</description>
+		<rom name="Prince of Persia - The Sands of Time (USA) (En,Fr,Es).gba" size="4194304" crc="921b66e2" md5="6d820b583b6ab2cc5c901d56b43e38cb" sha1="494156a4799d3c19de58d34917b6def7b15986e1"/>
+		<url>https://retroachievements.org/game/4693/hashes</url>
+		<hash>6d820b583b6ab2cc5c901d56b43e38cb</hash>
+	</game>
+	
 	<game name="Retail/Puyo Pop (Europe) (En,Ja)">
 		<category></category>
 		<description>Puyo Pop (Europe) (En,Ja)</description>
@@ -6428,6 +6694,14 @@
 		<hash>0b95fb20b9f487eb64431e9db9f75c7f</hash>
 	</game>
 	
+	<game name="Retail/Riviera - The Promised Land (USA)">
+		<category></category>
+		<description>Riviera - The Promised Land (USA)</description>
+		<rom name="Riviera - The Promised Land (USA).gba" size="33554432" crc="4fb6958d" md5="16b5f1c6f8567cbe42f7562fccbb6426" sha1="30ee6610aaa77bce2ffd8911058078147d61b925"/>
+		<url>https://retroachievements.org/game/5512/hashes</url>
+		<hash>16b5f1c6f8567cbe42f7562fccbb6426</hash>
+	</game>
+	
 	<game name="Retail/Robopon 2 - Cross Version (USA)">
 		<category></category>
 		<description>Robopon 2 - Cross Version (USA)</description>
@@ -6465,6 +6739,21 @@
 		<rom name="Rugrats - I Gotta Go Party (USA, Europe).gba" size="4194304" crc="df167d1d" md5="9e7798abbd16a87548c380891accae28" sha1="32b9b14c7ecbf57c07866b070c209047a481b584"/>
 		<url>https://retroachievements.org/game/13048/hashes</url>
 		<hash>9e7798abbd16a87548c380891accae28</hash>
+	</game>
+	
+	<game name="Retail/Sabre Wulf/Sabre Wulf (Europe) (En,Fr,De)">
+		<category></category>
+		<description>Sabre Wulf (Europe) (En,Fr,De)</description>
+		<rom name="Sabre Wulf (Europe) (En,Fr,De).gba" size="8388608" crc="9e3eab8d" md5="6714ce5d3c2f6988776ec92e36b9ddda" sha1="49084091f79dfec46b4fbce62e897985cafbc147"/>
+		<url>https://retroachievements.org/game/5988/hashes</url>
+		<hash>6714ce5d3c2f6988776ec92e36b9ddda</hash>
+	</game>
+	<game name="Retail/Sabre Wulf/Sabre Wulf (USA)">
+		<category></category>
+		<description>Sabre Wulf (USA)</description>
+		<rom name="Sabre Wulf (USA).gba" size="8388608" crc="73787a16" md5="b4b8e9fbb47a947850f127465c8bee40" sha1="d8803e742253e4b6712bdf07d49d3d7ed7fb23d6"/>
+		<url>https://retroachievements.org/game/5988/hashes</url>
+		<hash>b4b8e9fbb47a947850f127465c8bee40</hash>
 	</game>
 	
 	<game name="Retail/Santa Claus Jr. Advance (Europe)">

@@ -5,8 +5,8 @@
 		<name>RA - Sega CD</name>
 		<description>Sega CD</description>
 		<category>No Subfolders</category>
-		<version>20250915</version>
-		<date>15 September 2025</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/9/games</url>
@@ -22,6 +22,15 @@
 		<disk name="Sonic MegaMix (USA) (Unl).chd" sha1="8871799da800b02643e40b3afbf7e749aa32cc48"/>
 		<url>https://retroachievements.org/game/24129/hashes</url>
 		<hash>3c12feaa765ff91a126aa62c7eb24de7</hash>
+	</machine>
+	
+	<machine name="Hide the Baby (v1.2) (Aftermarket) (gameblabla)">
+		<category>Hack</category>
+		<description>Hide the Baby (v1.2) (Aftermarket) (gameblabla)</description>
+		<release name="Hide the Baby (v1.2) (Aftermarket) (gameblabla)" region="World"/>
+		<disk name="Hide the Baby (v1.2) (Aftermarket) (gameblabla).chd" sha1="f558a7f33fe8c89f1f87aebbb6984cb976c69d28"/>
+		<url>https://retroachievements.org/game/33563/hashes</url>
+		<hash>fe9b5ef770e02d001b0391bba234d87d</hash>
 	</machine>
 	
 	<machine name="Mighty Mighty Missile (USA) (Unl)">

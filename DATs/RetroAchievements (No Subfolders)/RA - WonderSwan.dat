@@ -5,8 +5,8 @@
 		<name>RA - WonderSwan</name>
 		<description>WonderSwan</description>
 		<category>No Subfolders</category>
-		<version>20260122</version>
-		<date>22 January 2026</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/53/games</url>
@@ -91,6 +91,23 @@
 		<rom name="Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2) (En) (v1.1) (Specialagentape).ws" size="2097152" crc="ac2e344c" md5="ee0334d932ad9763965a8888e2cccb27" sha1="bac3ef43033974b6e2d9652a824f5411be0af0e2"/>
 		<url>https://retroachievements.org/game/16362/hashes</url>
 		<hash>ee0334d932ad9763965a8888e2cccb27</hash>
+	</game>
+	
+	<game name="Clock Tower for WonderSwan (Japan) (Rev 1)">
+		<category>Retail</category>
+		<description>Clock Tower for WonderSwan (Japan) (Rev 1)</description>
+		<release name="Clock Tower for WonderSwan (Japan) (Rev 1)" region="Japan"/>
+		<rom name="Clock Tower for WonderSwan (Japan) (Rev 1).wsc" size="4194304" crc="4e8909d1" md5="8f0ba3401662a40e8da5ebcfe7b85e81" sha1="db9b3308336b59aeff7bd173d687953a37739381"/>
+		<url>https://retroachievements.org/game/14874/hashes</url>
+		<hash>8f0ba3401662a40e8da5ebcfe7b85e81</hash>
+	</game>
+	<game name="Clock Tower for WonderSwan (Japan) (En) (v1.1) (Team C.U.T.S.)" cloneof="Clock Tower for WonderSwan (Japan) (Rev 1)">
+		<category>Retail</category>
+		<description>Clock Tower for WonderSwan (Japan) (En) (v1.1) (Team C.U.T.S.)</description>
+		<release name="Clock Tower for WonderSwan (Japan) (En) (v1.1) (Team C.U.T.S.)" region="English"/>
+		<rom name="Clock Tower for WonderSwan (Japan) (En) (v1.1) (Team C.U.T.S.).wsc" size="2097152" crc="d536a070" md5="bdaacc5193951ca7fff2845b1664d451" sha1="245b722f978bbe0ea301a14d41afbf6a2040b903"/>
+		<url>https://retroachievements.org/game/14874/hashes</url>
+		<hash>bdaacc5193951ca7fff2845b1664d451</hash>
 	</game>
 	
 	<game name="Dicing Knight. (Japan)">
@@ -222,6 +239,15 @@
 		<hash>4de69e86a05f6e82bdf02374f79a669f</hash>
 	</game>
 	
+	<game name="Final Lap 2000 (Japan)">
+		<category>Retail</category>
+		<description>Final Lap 2000 (Japan)</description>
+		<release name="Final Lap 2000 (Japan)" region="Japan"/>
+		<rom name="Final Lap 2000 (Japan).wsc" size="1048576" crc="ce2f1a1d" md5="a466797b353d610f43a0f030cec721c1" sha1="cfcb14be6d2f1dbffdfcefb8c8d83b4f39bc102b"/>
+		<url>https://retroachievements.org/game/14958/hashes</url>
+		<hash>a466797b353d610f43a0f030cec721c1</hash>
+	</game>
+	
 	<game name="Final Lap Special - GT &amp; Formula Machine (Japan)">
 		<category>Retail</category>
 		<description>Final Lap Special - GT &amp; Formula Machine (Japan)</description>
@@ -256,6 +282,15 @@
 		<rom name="Guilty Gear Petit 2 (Japan).wsc" size="4194304" crc="d7a12bd5" md5="1eb91e6b46ab5624c7b707ea7b7abe9d" sha1="f7aeab6724154f7ef6a389f9f18b7100045e1064"/>
 		<url>https://retroachievements.org/game/17829/hashes</url>
 		<hash>1eb91e6b46ab5624c7b707ea7b7abe9d</hash>
+	</game>
+	
+	<game name="GunPey (Japan)">
+		<category>Retail</category>
+		<description>GunPey (Japan)</description>
+		<release name="GunPey (Japan)" region="Japan"/>
+		<rom name="GunPey (Japan).wsc" size="1048576" crc="a1656bbb" md5="816c81b156146be62a45edd7d7d49fc6" sha1="ee4b777f029bac9561e60c19407d08360e733822"/>
+		<url>https://retroachievements.org/game/620/hashes</url>
+		<hash>816c81b156146be62a45edd7d7d49fc6</hash>
 	</game>
 	
 	<game name="Hataraku Chocobo (Japan) (En) (v1.01) (Specialagentape)" cloneof="Hataraku Chocobo (Japan)">
@@ -507,6 +542,15 @@
 		<rom name="Side Pocket for WonderSwan (Japan).ws" size="1048576" crc="8655269e" md5="496100bcd73fbfa39e473c6ddee190b2" sha1="4a756dab81e0101475dc2e5494270f3df7dac1e6"/>
 		<url>https://retroachievements.org/game/25087/hashes</url>
 		<hash>496100bcd73fbfa39e473c6ddee190b2</hash>
+	</game>
+	
+	<game name="Slither Link (Japan)">
+		<category>Retail</category>
+		<description>Slither Link (Japan)</description>
+		<release name="Slither Link (Japan)" region="Japan"/>
+		<rom name="Slither Link (Japan).ws" size="1048576" crc="352a570d" md5="d422d16a28390d395f4c0878c555e52c" sha1="9a087b0e6031e7e5e6d133ac82fecb8faa30816a"/>
+		<url>https://retroachievements.org/game/15371/hashes</url>
+		<hash>d422d16a28390d395f4c0878c555e52c</hash>
 	</game>
 	
 	<game name="Space Invaders (Japan)">

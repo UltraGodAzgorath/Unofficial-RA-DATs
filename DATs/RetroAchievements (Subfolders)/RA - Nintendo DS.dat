@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>Subfolders</category>
-		<version>20260122</version>
-		<date>22 January 2026</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
@@ -320,6 +320,21 @@
 		<hash>e9bbb39abf88029b04f4d5b5351c956b</hash>
 	</game>
 	
+	<game name="Hack/Pokemon - Volt White (v3.1) (Drayano) (Hack)">
+		<category></category>
+		<description>Pokemon - Volt White (v3.1) (Drayano) (Hack)</description>
+		<rom name="Pokemon - Volt White (v3.1) (Drayano) (Hack).nds" size="268435456" crc="98b5222f" md5="abd52077cce984431e1460cf21b4e9b1" sha1="2dec01f0d319b914ea76ec8a26bebc4f544e152b"/>
+		<url>https://retroachievements.org/game/16198/hashes</url>
+		<hash>7b880d705e0f1bc3e8d23e5569aeef2c</hash>
+	</game>
+	<game name="Hack/Pokemon - Blaze Black (v3.1) (Drayano) (Hack)">
+		<category></category>
+		<description>Pokemon - Blaze Black (v3.1) (Drayano) (Hack)</description>
+		<rom name="Pokemon - Blaze Black (v3.1) (Drayano) (Hack).nds" size="268435456" crc="91de0c52" md5="bbe92a9357b655c2703f042a7fe7777a" sha1="b06c501e4545b4465608262186ff5c16196072c5"/>
+		<url>https://retroachievements.org/game/16198/hashes</url>
+		<hash>c48382957670ecb1150946d9670573a4</hash>
+	</game>
+	
 	<game name="Hack/Pokemon - Mystery Dungeon - Explorers of Sky/Pokemon - Divided Spirits (tainted3886) (Hack)">
 		<category></category>
 		<description>Pokemon - Divided Spirits (tainted3886) (Hack)</description>
@@ -520,6 +535,14 @@
 		<rom name="SM64DS - Yoshi Deja Vu DS (World Dash) (Hack).nds" size="28107784" crc="bdff91e4" md5="9a3fc5c0c6532d4071e069e6df1dc37b" sha1="87568bae7f2831ad28762574719da46ccd72ce8d"/>
 		<url>https://retroachievements.org/game/17941/hashes</url>
 		<hash>0d570a5a33eadf519cb3fad342c3d5c8</hash>
+	</game>
+	
+	<game name="Homebrew/Undertale (World) (Demo) (Aftermarket) (Homebrew)">
+		<category></category>
+		<description>Undertale (World) (Demo) (Aftermarket) (Homebrew)</description>
+		<rom name="Undertale (World) (Demo) (Aftermarket) (Homebrew).nds" size="47837184" crc="3e76dbe6" md5="938d6b4bf91ba909a04a09a9ac940eca" sha1="b4647b9294f39391c1b6d6c60079c8f69fdb6372"/>
+		<url>https://retroachievements.org/game/24707/hashes</url>
+		<hash>f46e3f13499c034c6d7f3cb1a7b6c144</hash>
 	</game>
 	
 	<game name="Homebrew/10 (World) (v1.1 - Bugfix) (Aftermarket)">
@@ -736,6 +759,14 @@
 		<hash>22cc400e508171132102dcb6ae9b7802</hash>
 	</game>
 	
+	<game name="Homebrew/POWDER (World) (r118) (Aftermarket) (Jeff Lait)">
+		<category></category>
+		<description>POWDER (World) (r118) (Aftermarket) (Jeff Lait)</description>
+		<rom name="POWDER (World) (r118) (Aftermarket) (Jeff Lait).nds" size="2078784" crc="5e4d4431" md5="eae299112b64c10efdb481028fcac5fc" sha1="49f5fc2dcf3d5aa8244a7152bf3453fb38b8864a"/>
+		<url>https://retroachievements.org/game/9540/hashes</url>
+		<hash>f219e9f3fe97addb0fc65a32226f38d2</hash>
+	</game>
+	
 	<game name="Homebrew/Sliding Puzzles - New Puzzle (World) (v3.1) (Neumann) (Aftermarket)">
 		<category></category>
 		<description>Sliding Puzzles - New Puzzle (World) (v3.1) (Neumann) (Aftermarket)</description>
@@ -756,6 +787,14 @@
 		<rom name="Sliding Puzzles - Migraine (World) (v2009) (roronoa) (Aftermarket).nds" size="1525824" crc="fc687c3f" md5="6fde6fa89ae8ebc3d44f3a161620710f" sha1="aae162d1cfe237d18c4636e6da5dbb24cce08b3f"/>
 		<url>https://retroachievements.org/game/14845/hashes</url>
 		<hash>b989fee12f208a84c0bc788fe9aa7bbb</hash>
+	</game>
+	
+	<game name="Homebrew/So-Nanoka DS (World) (v2009) (Aftermarket) (Hatena mark)">
+		<category></category>
+		<description>So-Nanoka DS (World) (v2009) (Aftermarket) (Hatena mark)</description>
+		<rom name="So-Nanoka DS (World) (v2009) (Aftermarket) (Hatena mark).nds" size="2085376" crc="97c73729" md5="e6f47f11e7ccb4836e26c52fa0f83c67" sha1="08535a1293428793b095138688d0a796b6c7548b"/>
+		<url>https://retroachievements.org/game/28180/hashes</url>
+		<hash>57cc51c3dae1293bc6fd0930c987f10a</hash>
 	</game>
 	
 	<game name="Homebrew/Still Alive DS (World) (v1.21) (Aftermarket)">
@@ -870,6 +909,14 @@
 		<hash>15d9830d98c1c66384ef378aca48bb6d</hash>
 	</game>
 	
+	<game name="Retail/42 All-Time Classics (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>42 All-Time Classics (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="42 All-Time Classics (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="4205ac89" md5="9aad21c4cfa12adc4819c6f6dfb13882" sha1="23209a69980fb5bcaf134a0f249fe9df79a979c7"/>
+		<url>https://retroachievements.org/game/17484/hashes</url>
+		<hash>5ffffa59cffeb24245395351f0437a87</hash>
+	</game>
+	
 	<game name="Retail/7th Dragon (Japan) (En) (v1.01) (Pokeytax)">
 		<category></category>
 		<description>7th Dragon (Japan) (En) (v1.01) (Pokeytax)</description>
@@ -982,6 +1029,14 @@
 		<rom name="Air Traffic Chaos (USA) (No Music + No Radio Chatter) (v1.0) (multonic).nds" size="16777216" crc="d1f79ebc" md5="63a23cddbe5f4510103ab9b09ddcd7d8" sha1="c274648f2544766a5609c0d7ecd3db593d7bc8f4"/>
 		<url>https://retroachievements.org/game/26476/hashes</url>
 		<hash>ff63d850d68e45c7e8a4c70116c9ada3</hash>
+	</game>
+	
+	<game name="RetailAliens - Infestation (USA) (En,Fr,De)">
+		<category></category>
+		<description>Aliens - Infestation (USA) (En,Fr,De)</description>
+		<rom name="Aliens - Infestation (USA) (En,Fr,De).nds" size="33554432" crc="ac03d612" md5="e6758e44deedd14639898faa26ea6985" sha1="a9a69b6259f06cd4ac5d0e53e5beb5141b124b2d"/>
+		<url>https://retroachievements.org/game/9196/hashes</url>
+		<hash>217483572ffd1f9e9e0cf368d78b0889</hash>
 	</game>
 	
 	<game name="Retail/All Kamen Rider - Rider Generation (Japan)">
@@ -1342,6 +1397,14 @@
 		<hash>1882746fcaf5df9321e05816d61bd2a3</hash>
 	</game>
 	
+	<game name="Retail/Burger Island (USA)">
+		<category></category>
+		<description>Burger Island (USA)</description>
+		<rom name="Burger Island (USA).nds" size="16777216" crc="28e9728d" md5="7f312ac64607aa6d2e0388da135570ac" sha1="81cb59d4e5a84d18907b237f5eb8c331dfb28062"/>
+		<url>https://retroachievements.org/game/25693/hashes</url>
+		<hash>a316552f39b8433e0f3dac1f74a7516e</hash>
+	</game>
+	
 	<game name="Retail/Burnout Legends (Europe) (En,Fr,De,Es,It,Nl)">
 		<category></category>
 		<description>Burnout Legends (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -1556,14 +1619,6 @@
 		<hash>b4de47730e780cff1f85764efa45f2c6</hash>
 	</game>
 	
-	<game name="Retail/42 All-Time Classics (Europe) (En,Fr,De,Es,It)">
-		<category></category>
-		<description>42 All-Time Classics (Europe) (En,Fr,De,Es,It)</description>
-		<rom name="42 All-Time Classics (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="4205ac89" md5="9aad21c4cfa12adc4819c6f6dfb13882" sha1="23209a69980fb5bcaf134a0f249fe9df79a979c7"/>
-		<url>https://retroachievements.org/game/17484/hashes</url>
-		<hash>5ffffa59cffeb24245395351f0437a87</hash>
-	</game>
-	
 	<game name="Retail/Contact (Europe) (En,Fr,De,Es,It)">
 		<category></category>
 		<description>Contact (Europe) (En,Fr,De,Es,It)</description>
@@ -1649,6 +1704,14 @@
 		<rom name="Crash of the Titans (USA).nds" size="134217728" crc="ed0b8be6" md5="515a9f6d9d59e0ae25b9d2785a629e32" sha1="a1c3346a531b1befbede4c5bb9a4eb390cca0447"/>
 		<url>https://retroachievements.org/game/16382/hashes</url>
 		<hash>3a12a9e8b1854cff6c67e04505fb5be4</hash>
+	</game>
+	
+	<game name="Retail/Crazy Machines (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Crazy Machines (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Crazy Machines (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="0aae1e6c" md5="4a61356345460659e2b1f2c5aed86969" sha1="97f0f8cbb8bfe53bc7da03d993b1a22ea90bb504"/>
+		<url>https://retroachievements.org/game/17181/hashes</url>
+		<hash>feb311e0928ea0e91f49b7056b910efd</hash>
 	</game>
 	
 	<game name="Retail/Crazy Machines 2 (Europe) (En,Fr,De,Es,It)">
@@ -2675,6 +2738,14 @@
 		<rom name="LEGO Batman 2 - DC Super Heroes (Europe) (En,Fr,De,Es,It,Nl,Da) (Rev 1).nds" size="134217728" crc="69da96e2" md5="a0dd2f3725d61c6385dd169d560f25c5" sha1="c726c923dd3e2fad6f4f2c79af94015b2405ecf1"/>
 		<url>https://retroachievements.org/game/15359/hashes</url>
 		<hash>1cd38206abdec71eac66fd5e5dc9d00f</hash>
+	</game>
+	
+	<game name="Retail/LEGO Batman - The Videogame (Europe) (En,Fr,De,Es,It,Da)">
+		<category></category>
+		<description>LEGO Batman - The Videogame (Europe) (En,Fr,De,Es,It,Da)</description>
+		<rom name="LEGO Batman - The Videogame (Europe) (En,Fr,De,Es,It,Da).nds" size="67108864" crc="8b97d00b" md5="1f79cbfe29bc487279d6aa19107855f7" sha1="3016694e531b6cc144d6b98647f05f2a00e0bdab"/>
+		<url>https://retroachievements.org/game/15354/hashes</url>
+		<hash>5b5478c7c0f9f3b7a3d74d31ebb28c16</hash>
 	</game>
 	
 	<game name="Retail/LEGO Battles (Europe) (En,Fr,De,Es,It,Da)">
@@ -4435,6 +4506,13 @@
 		<url>https://retroachievements.org/game/9564/hashes</url>
 		<hash>a0834625548daa8fda9fec64fd220361</hash>
 	</game>
+	<game name="Retail/Professor Layton en de Doos van Pandora (Netherlands)">
+		<category></category>
+		<description>Professor Layton en de Doos van Pandora (Netherlands)</description>
+		<rom name="Professor Layton en de Doos van Pandora (Netherlands).nds" size="134217728" crc="38e2c568" md5="efc5b77dcff97dcee604ca22c3c28c0b" sha1="9d531e20e92b1c988a79fdf6f46b9fb8d9803e93"/>
+		<url>https://retroachievements.org/game/9564/hashes</url>
+		<hash>4569d3ef3f12b8ba1e3cc9051094042e</hash>
+	</game>
 	
 	<game name="Retail/Profesor Layton y la Llamada del Espectro, El (Spain)">
 		<category></category>
@@ -4742,6 +4820,14 @@
 		<hash>6838ba945ddcf116315dcd5d2cc73b4d</hash>
 	</game>
 	
+	<game name="Retail/Rayman - Raving Rabbids (USA) (En,Fr,Es)">
+		<category></category>
+		<description>Rayman - Raving Rabbids (USA) (En,Fr,Es)</description>
+		<rom name="Rayman - Raving Rabbids (USA) (En,Fr,Es).nds" size="33554432" crc="aa968ccb" md5="51582ae361e08acc18a8d3ab6c4d3c43" sha1="da64e28984dc33fd1a77f85d1bee204964389f69"/>
+		<url>https://retroachievements.org/game/8413/hashes</url>
+		<hash>82b212a48c93bddc9132e3896ee69bc1</hash>
+	</game>
+	
 	<game name="Retail/Resident Evil - Deadly Silence (USA) (Pt)">
 		<category></category>
 		<description>Resident Evil - Deadly Silence (USA) (Pt)</description>
@@ -4987,6 +5073,22 @@
 		<hash>d5184f5910b3ef10544c8250f92a96bb</hash>
 	</game>
 	
+	<game name="Retail/Sesame Street - Elmo's Musical Monsterpiece (USA) (En,Es)">
+		<category></category>
+		<description>Sesame Street - Elmo's Musical Monsterpiece (USA) (En,Es)</description>
+		<rom name="Sesame Street - Elmo's Musical Monsterpiece (USA) (En,Es).nds" size="134217728" crc="74133ff3" md5="b627684a0f3119896f8251bc0391f484" sha1="9bd66177237e23c91c739e1eab031627403d51d1"/>
+		<url>https://retroachievements.org/game/3508/hashes</url>
+		<hash>6e28c96d93cf92e7378501c2282dae98</hash>
+	</game>
+	
+	<game name="Retail/123 Sesame Street - Ready, Set, Grover! - With Elmo - The Videogame (USA) (En,Es)">
+		<category></category>
+		<description>123 Sesame Street - Ready, Set, Grover! - With Elmo - The Videogame (USA) (En,Es)</description>
+		<rom name="123 Sesame Street - Ready, Set, Grover! - With Elmo - The Videogame (USA) (En,Es).nds" size="134217728" crc="cb2baf20" md5="490d9bf45fa7f077bdb5b7597fbfd545" sha1="0b214400ef437ed9fb168febf9a6d8238e3e41f2"/>
+		<url>https://retroachievements.org/game/18303/hashes</url>
+		<hash>3c337cb95254b22fd3d42349e8d01292</hash>
+	</game>
+	
 	<game name="Retail/Shaberu! DS Oryouri Navi (Japan)">
 		<category></category>
 		<description>Shaberu! DS Oryouri Navi (Japan)</description>
@@ -5176,6 +5278,21 @@
 		<rom name="Space Invaders Revolution (USA) (En,Fr,De,Es,It).nds" size="16777216" crc="da6114b7" md5="53ddae3a713a3d110e8b18ebc5600f91" sha1="1181affae6d39feaf4148cca061f7eec0bf83540"/>
 		<url>https://retroachievements.org/game/14864/hashes</url>
 		<hash>6a0d3597fb9e089717078cedc2e95a45</hash>
+	</game>
+	
+	<game name="Retail/Spectrobes/Spectrobes (USA) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Spectrobes (USA) (En,Fr,De,Es,It)</description>
+		<rom name="Spectrobes (USA) (En,Fr,De,Es,It).nds" size="67108864" crc="a4c2aecd" md5="3034b7d57cf6dae0d2ee1132c7a9b46d" sha1="114121829efdb64d4cc8cb178f0af1a32cdfe30a"/>
+		<url>https://retroachievements.org/game/16660/hashes</url>
+		<hash>b866f78939257b4af9eafa5dc80ac1b3</hash>
+	</game>
+	<game name="Retail/Spectrobes/Spectrobes (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Spectrobes (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Spectrobes (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="397141bd" md5="740a9a66307c69e99e9889b5e98be44b" sha1="a5eed056cf06fd98935f948085095fd462171467"/>
+		<url>https://retroachievements.org/game/16660/hashes</url>
+		<hash>ef28a574e47d477a1a20be91ae339f2b</hash>
 	</game>
 	
 	<game name="Retail/Spectrobes - Beyond the Portals (Europe) (En,Fr,De,Es,It,Nl)">
@@ -5739,6 +5856,14 @@
 		<rom name="Wedding Dash (USA) (En,Fr).nds" size="16777216" crc="7598842e" md5="07a8da28206b0391a9ec0fe69b89653b" sha1="c238333d7cf729e1d04f2490747a37a3455d7a02"/>
 		<url>https://retroachievements.org/game/32945/hashes</url>
 		<hash>d56d0ec52d9f3a762137c61753becb6c</hash>
+	</game>
+	
+	<game name="Retail/Worms - Open Warfare (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Worms - Open Warfare (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Worms - Open Warfare (Europe) (En,Fr,De,Es,It).nds" size="16777216" crc="b19777b8" md5="c5fd315397f7a5ff7fe27a72595067e4" sha1="0b1dbdde7117ee7def9f200f52046d14e7a06811"/>
+		<url>https://retroachievements.org/game/13547/hashes</url>
+		<hash>d4ef967d10104ae7b510f45d97ef819c</hash>
 	</game>
 	
 	<game name="Retail/Yoshi Touch &amp; Go (Europe) (En,Fr,De,Es,It)">

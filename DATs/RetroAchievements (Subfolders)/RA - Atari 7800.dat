@@ -5,8 +5,8 @@
 		<name>RA - Atari 7800</name>
 		<description>Atari 7800</description>
 		<category>Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/51/games</url>
@@ -53,12 +53,20 @@
 		<hash>33dbb58f9ee73e9f476b4ebbc8190c88</hash>
 	</game>
 	
-	<game name="Homebrew/Meteor Shower (World) (v1.05) (NTSC) (Aftermarket)">
+	<game name="Homebrew/Meteor Shower/Meteor Shower (World) (v1.05) (NTSC) (Aftermarket)">
 		<category></category>
 		<description>Meteor Shower (World) (v1.05) (NTSC) (Aftermarket)</description>
 		<rom name="Meteor Shower (World) (v1.05) (NTSC) (Aftermarket).a78" size="16512" crc="8052ccb3" md5="21d1caaeca24e023fad3df23b452b93a" sha1="50f743e617c4456ea5f2f1d66725e63b9359fd41"/>
 		<url>https://retroachievements.org/game/24518/hashes</url>
 		<hash>c3f6201d6a9388e860328c963a3301cc</hash>
+	</game>
+	<game name="Homebrew/Meteor Shower/Meteor Shower (World) (v1.06) (NTSC) (Aftermarket)">
+		<category></category>
+		<description>Meteor Shower (World) (v1.06) (NTSC) (Aftermarket)</description>
+		<release name="Meteor Shower (World) (v1.06) (NTSC) (Aftermarket)" region="USA"/>
+		<rom name="Meteor Shower (World) (v1.06) (NTSC) (Aftermarket).a78" size="16384" crc="aa7fc852" md5="a44241d782ee14b53483487cc8216274" sha1="687ffa98659be34bd04e3602a74ed678463549a6"/>
+		<url>https://retroachievements.org/game/24518/hashes</url>
+		<hash>a44241d782ee14b53483487cc8216274</hash>
 	</game>
 	
 	<game name="Homebrew/Rikki &amp; Vikki (World) (Aftermarket)">
@@ -85,20 +93,20 @@
 		<hash>a60e4b608505d1fb201703b266f754a7</hash>
 	</game>
 	
+	<game name="Homebrew/Waffle Painter/Waffle Painter (USA) (v1.3.1) (Aftermarket) (Vivian Video)">
+		<category></category>
+		<description>Waffle Painter (USA) (v1.3.1) (Aftermarket) (Vivian Video)</description>
+		<rom name="Waffle Painter (USA) (v1.3.1) (Aftermarket) (Vivian Video).a78" size="32896" crc="322d4cb3" md5="deed2db297e942e5f2c4a8e726874c34" sha1="e5d54b9e8e6d2c8a5e54048cdb582c4a83d32812"/>
+		<url>https://retroachievements.org/game/36955/hashes</url>
+		<hash>54af86a45014f0e436bdc5fc6dd03389</hash>
+	</game>
+	
 	<game name="Homebrew/Wordle (World) (v1.07) (Aftermarket)">
 		<category></category>
 		<description>Wordle (World) (v1.07) (Aftermarket)</description>
 		<rom name="Wordle (World) (v1.07) (Aftermarket).a78" size="131200" crc="718e07c5" md5="f71ec2b94f34b9290b70079550be460c" sha1="5d1bfb4f747ac621be1cd85a5663778c15928baf"/>
 		<url>https://retroachievements.org/game/24466/hashes</url>
 		<hash>71ce8910b0efd5d0014a9695cce3b7ad</hash>
-	</game>
-	
-	<game name="Homebrew/Waffle Painter/Waffle Painter (USA) (v1.2) (Vivian Video) (Aftermarket)">
-		<category></category>
-		<description>Waffle Painter (USA) (v1.2) (Vivian Video) (Aftermarket)</description>
-		<rom name="Waffle Painter (USA) (v1.2) (Vivian Video) (Aftermarket).a78" size="32896" crc="4ce5f3ad" md5="184eb963a9cee8b41c9dadf4d2e6aeb9" sha1="875ce127e24803e4c27afce276eb02381c479a4d"/>
-		<url>https://retroachievements.org/game/36955/hashes</url>
-		<hash>a80b4433e8a257dfef07ef9f4cc70e33</hash>
 	</game>
 	
 	<game name="Prototype/Pit Fighter (USA) (Proto)">

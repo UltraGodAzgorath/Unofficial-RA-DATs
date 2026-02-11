@@ -5,8 +5,8 @@
 		<name>RA - Uzebox</name>
 		<description>Uzebox</description>
 		<category>Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/80/games</url>
@@ -211,6 +211,14 @@
 		<rom name="Melli's Retro Land (World) (Grobian99).uze" size="54248" crc="ca5e722b" md5="f19b6ac97f30b488a74463cc453f8d4d" sha1="e786cdb85b249993f3f07804d34da9f07bbc2b18"/>
 		<url>https://retroachievements.org/game/24767/hashes</url>
 		<hash>f19b6ac97f30b488a74463cc453f8d4d</hash>
+	</game>
+	
+	<game name="Retail/Outpost in the Dragon's Maw (World) (v1.1) (Jubatian)">
+		<category></category>
+		<description>Outpost in the Dragon's Maw (World) (v1.1) (Jubatian)</description>
+		<rom name="Outpost in the Dragon's Maw (World) (v1.1) (Jubatian).uze" size="61952" crc="57505e9a" md5="ed366e0950fac5db8cda44fc15a22393" sha1="79c9db920f6dc95f8682515f79e0198cdf8a70f3"/>
+		<url>https://retroachievements.org/game/30696/hashes</url>
+		<hash>ed366e0950fac5db8cda44fc15a22393</hash>
 	</game>
 	
 	<game name="Retail/Pengo (World) (Pitfall Jones)">

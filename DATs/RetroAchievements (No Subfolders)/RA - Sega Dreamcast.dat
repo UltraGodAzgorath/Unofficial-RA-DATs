@@ -5,8 +5,8 @@
 		<name>RA - Sega Dreamcast</name>
 		<description>Sega Dreamcast</description>
 		<category>No Subfolders</category>
-		<version>20260122</version>
-		<date>22 January 2026</date>
+		<version>20260208</version>
+		<date>08 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/40/games</url>
@@ -30,6 +30,16 @@
 		<disk name="Resident Evil 2 - Special Edition (Leon) (Hack).chd" sha1="09fa54136052ebadd6cfe01657bb2f0eca6f48a5"/>
 		<url>https://retroachievements.org/game/25503/hashes</url>
 		<hash>3afb59a182653ca85f537b600a96e051</hash>
+	</machine>
+	
+	<machine name="Wolflame (USA, Japan) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Wolflame (USA, Japan) (Aftermarket)</description>
+		<release name="Wolflame (USA, Japan) (Aftermarket)" region="Japan"/>
+		<release name="Wolflame (USA, Japan) (Aftermarket)" region="USA"/>
+		<disk name="Wolflame (USA, Japan) (Aftermarket).chd" sha1="96aa0751e81ec5ecb0cced7b2fc4ffdd8d124fb2"/>
+		<url>https://retroachievements.org/game/32944/hashes</url>
+		<hash>d8ae1ecba98f051f410e6533bcda39c2</hash>
 	</machine>
 	
 	<machine name="Castlevania - Resurrection (Proto)">
@@ -742,6 +752,15 @@
 		<hash>710963461fcb3c5ca76cdd758e097744</hash>
 	</machine>
 	
+	<machine name="NFL 2K (USA)">
+		<category>Retail</category>
+		<description>NFL 2K (USA)</description>
+		<release name="NFL 2K (USA)" region="English"/>
+		<disk name="NFL 2K (USA).chd" sha1="1eb25540877657ce5f124451d2cd9f484cd22d66"/>
+		<url>https://retroachievements.org/game/32005/hashes</url>
+		<hash>4d039b3ab67e742a8d106bc5cf53d448</hash>
+	</machine>
+	
 	<machine name="PenPen (Europe) (En,Fr,De,Es,It,Nl)">
 		<category>Retail</category>
 		<description>PenPen (Europe) (En,Fr,De,Es,It,Nl)</description>
@@ -870,6 +889,7 @@
 	<machine name="Record of Lodoss War (Europe)">
 		<category>Retail</category>
 		<description>Record of Lodoss War (Europe)</description>
+		<release name="Record of Lodoss War (Europe)" region="Europe"/>
 		<disk name="Record of Lodoss War (Europe).chd" sha1="be8a06ab63d5eeda11728ad1a58ff35cc5ba8bc6"/>
 		<url>https://retroachievements.org/game/3865/hashes</url>
 		<hash>32c6e521298ac0871413e34b917e0e55</hash>
@@ -1243,6 +1263,15 @@
 		<disk name="Soulcalibur (Europe) (En,Fr,De,Es).chd" sha1="e3e219c5707bc599cb5d0ae646e56a2f2fbed88b"/>
 		<url>https://retroachievements.org/game/3395/hashes</url>
 		<hash>50844bc6a7fc8d09b21cd213403dd432</hash>
+	</machine>
+	
+	<machine name="South Park Rally (Europe) (En,Fr,De,Es)">
+		<category>Retail</category>
+		<description>South Park Rally (Europe) (En,Fr,De,Es)</description>
+		<release name="South Park Rally (Europe) (En,Fr,De,Es)" region="Europe"/>
+		<disk name="South Park Rally (Europe) (En,Fr,De,Es).chd" sha1="2bbc24ba97dd9398bc37e623ab0b8008aed8b41a"/>
+		<url>https://retroachievements.org/game/6675/hashes</url>
+		<hash>e99e25d6403217abd5a8f883306c42b6</hash>
 	</machine>
 	
 	<machine name="Space Channel 5 (Europe) (En,Fr,De,Es)">
