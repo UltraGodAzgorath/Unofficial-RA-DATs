@@ -5,8 +5,8 @@
 		<name>RA - Sony PlayStation</name>
 		<description>Sony PlayStation</description>
 		<category>Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260214</version>
+		<date>14 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -192,6 +192,14 @@
 		<hash>c1652018224526881bb57ffcd79cfbd9</hash>
 	</machine>
 	
+	<machine name="Homebrew/Friday Night Wumpin' Vs. Crash (Lord Scout) (Aftermarket)">
+		<category></category>
+		<description>Friday Night Wumpin' Vs. Crash (Lord Scout) (Aftermarket)</description>
+		<disk name="Friday Night Wumpin' Vs. Crash (Lord Scout) (Aftermarket).chd" sha1="742021312e72e21a167d228dcee3135180dc5e52"/>
+		<url>https://retroachievements.org/game/27536/hashes</url>
+		<hash>fdb3524e871a8d10c8a2f3e63d2cd638</hash>
+	</machine>
+	
 	<machine name="Hack/Mega Man X5 - Improvement Project Addendum (v2.1.4) (acediez) (Hack)">
 		<category></category>
 		<description>Mega Man X5 - Improvement Project Addendum (v2.1.4) (acediez) (Hack)</description>
@@ -206,6 +214,46 @@
 		<disk name="Mega Man X6 N's Edition (v1.8.6) (Normal Man) (Hack).chd" sha1="d2769f1e0184c5fb3ec772421fad9b73369aee32"/>
 		<url>https://retroachievements.org/game/25686/hashes</url>
 		<hash>c465a6d36f17e327a385948f8c7f55a6</hash>
+	</machine>
+	
+	<machine name="Hack/Pibby Corrupted (UNSTOP4BLE, IgorSou30000) (Hack)">
+		<category></category>
+		<description>Pibby Corrupted (UNSTOP4BLE, IgorSou30000) (Hack)</description>
+		<disk name="Pibby Corrupted (UNSTOP4BLE, IgorSou30000) (Hack).chd" sha1="97c28b3448e82e431af8dc09ad4211117664e900"/>
+		<url>https://retroachievements.org/game/27740/hashes</url>
+		<hash>f5441acf89f914440060fc97bef172f4</hash>
+	</machine>
+	
+	<machine name="Hack/PSXFunkin - B Sides (zeriben) (Hack)">
+		<category></category>
+		<description>PSXFunkin - B Sides (zeriben) (Hack)</description>
+		<disk name="PSXFunkin - B Sides (zeriben) (Hack).chd" sha1="5b113244513aa6d1a6d5cba5d0fc64a005262c65"/>
+		<url>https://retroachievements.org/game/22064/hashes</url>
+		<hash>c8d6103bb37a0336c466a4299649c6d6</hash>
+	</machine>
+	
+	<machine name="Hack/PSXFunkin - D Sides (IgorSou30000) (Hack)">
+		<category></category>
+		<description>PSXFunkin - D Sides (IgorSou30000) (Hack)</description>
+		<disk name="PSXFunkin - D Sides (IgorSou30000) (Hack).chd" sha1="9f15077158b66939e5220c1f13792ec14e93494f"/>
+		<url>https://retroachievements.org/game/22069/hashes</url>
+		<hash>1b74c4039bcf1da22510e56cd61c5e02</hash>
+	</machine>
+	
+	<machine name="Hack/PSXFunkin - Neo (UNSTOP4BLE, IgorSou30000) (Hack)">
+		<category></category>
+		<description>PSXFunkin - Neo (UNSTOP4BLE, IgorSou30000) (Hack)</description>
+		<disk name="PSXFunkin - Neo (UNSTOP4BLE, IgorSou30000) (Hack).chd" sha1="14ebcb10724a7ccd318c757042de38014d683049"/>
+		<url>https://retroachievements.org/game/25378/hashes</url>
+		<hash>00ba499bf3817696d0828a5c29ecbb72</hash>
+	</machine>
+	
+	<machine name="Hack/Resident Evil 1.5 Battle Coliseum (Unknown) (v1.0a) (Demo) (Hack)">
+		<category></category>
+		<description>Resident Evil 1.5 Battle Coliseum (Unknown) (v1.0a) (Demo) (Hack)</description>
+		<disk name="Resident Evil 1.5 Battle Coliseum (Unknown) (v1.0a) (Demo) (Hack).chd" sha1="ba08d6876fbb20e6598724e4f06cdb3b6426377c"/>
+		<url>https://retroachievements.org/game/17926/hashes</url>
+		<hash>be730934ffef46d6710b1e57ce36fb76</hash>
 	</machine>
 	
 	<machine name="Hack/Resident Evil 3 - Dark Infection (v0.3) (BiohazardEsp) (Hack)">
@@ -232,6 +280,14 @@
 		<hash>eb04ced275ca400077327367da631142</hash>
 	</machine>
 	
+	<machine name="Homebrew/Skeleton Bros (UNSTOP4BLE, IgorSou30000) (Aftermarket)">
+		<category></category>
+		<description>Skeleton Bros (UNSTOP4BLE, IgorSou30000) (Aftermarket)</description>
+		<disk name="Skeleton Bros (UNSTOP4BLE, IgorSou30000) (Aftermarket).chd" sha1="c15fce1f1380c1464999ab3285d0f152caee884f"/>
+		<url>https://retroachievements.org/game/24002/hashes</url>
+		<hash>7c5fde505da8ae5ac58ce8442f5ef793</hash>
+	</machine>
+	
 	<machine name="Hack/Sonic in Crash Bandicoot 2 (Airumu) (Hack)">
 		<category></category>
 		<description>Sonic in Crash Bandicoot 2 (Airumu) (Hack)</description>
@@ -248,84 +304,12 @@
 		<hash>b9fa4b9d2b1d2f13e52923dc4972f8f3</hash>
 	</machine>
 	
-	<machine name="Hack/Yu-Gi-Oh! Forbidden Memories II Ultimate (FM Brasil Team) (Hack)">
+	<machine name="Hack/PSXFunkin' - Tails Gets Trolled (UNSTOP4BLE, IgorSou30000) (Hack)">
 		<category></category>
-		<description>Yu-Gi-Oh! Forbidden Memories II Ultimate (FM Brasil Team) (Hack)</description>
-		<disk name="Yu-Gi-Oh! Forbidden Memories II Ultimate (FM Brasil Team) (Hack).chd" sha1="a947fe484cd5df427c8ea866feb92da08f7e0ab0"/>
-		<url>https://retroachievements.org/game/18098/hashes</url>
-		<hash>4b394d84a94370ff0b4163bcede3ae86</hash>
-	</machine>
-	
-	<machine name="Hack/Yu-Gi-Oh! Forbidden Memories - Alpha Mod (Drop x15) (Alpha Team) (Hack)">
-		<category></category>
-		<description>Yu-Gi-Oh! Forbidden Memories - Alpha Mod (Drop x15) (Alpha Team) (Hack)</description>
-		<disk name="Yu-Gi-Oh! Forbidden Memories - Alpha Mod (Drop x15) (Alpha Team) (Hack).chd" sha1="f826f1bc86918798e08b18f14a846cb2ec3f9ca1"/>
-		<url>https://retroachievements.org/game/29828/hashes</url>
-		<hash>74a0aa4e80c058fcccad4b7ba130da0a</hash>
-	</machine>
-	
-	<machine name="Hack/Yu-Gi-Oh! Forbidden Memories - Deep Fried Mod (v1.1.0) (1 Card Drop) (Hack)">
-		<category></category>
-		<description>Yu-Gi-Oh! Forbidden Memories - Deep Fried Mod (v1.1.0) (1 Card Drop) (Hack)</description>
-		<disk name="Yu-Gi-Oh! Forbidden Memories - Deep Fried Mod (v1.1.0) (1 Card Drop) (Hack).chd" sha1="6e4adc016a7921b261c794e158df3e9b3e77a530"/>
-		<url>https://retroachievements.org/game/23799/hashes</url>
-		<hash>9a66dbbd63d2b1f703a7e6b4405cbac8</hash>
-	</machine>
-	
-	<machine name="Hack/Yu-Gi-Oh! GX Forbidden Memories (v2018 Remaster) (Victor Bless) (Hack)">
-		<category></category>
-		<description>Yu-Gi-Oh! GX Forbidden Memories (v2018 Remaster) (Victor Bless) (Hack)</description>
-		<disk name="Yu-Gi-Oh! GX Forbidden Memories (v2018 Remaster) (Victor Bless) (Hack).chd" sha1="c1a9e3942acacfb642617dfbf656ed7f31a726a1"/>
-		<url>https://retroachievements.org/game/29751/hashes</url>
-		<hash>ea80b6a82333caf3d5fca7efb21444db</hash>
-	</machine>
-	
-	<machine name="Homebrew/Friday Night Wumpin' Vs. Crash (Lord Scout) (Aftermarket)">
-		<category></category>
-		<description>Friday Night Wumpin' Vs. Crash (Lord Scout) (Aftermarket)</description>
-		<disk name="Friday Night Wumpin' Vs. Crash (Lord Scout) (Aftermarket).chd" sha1="742021312e72e21a167d228dcee3135180dc5e52"/>
-		<url>https://retroachievements.org/game/27536/hashes</url>
-		<hash>fdb3524e871a8d10c8a2f3e63d2cd638</hash>
-	</machine>
-	
-	<machine name="Homebrew/Pibby Corrupted (UNSTOP4BLE, IgorSou30000) (Aftermarket)">
-		<category></category>
-		<description>Pibby Corrupted (UNSTOP4BLE, IgorSou30000) (Aftermarket)</description>
-		<disk name="Pibby Corrupted (UNSTOP4BLE, IgorSou30000) (Aftermarket).chd" sha1="97c28b3448e82e431af8dc09ad4211117664e900"/>
-		<url>https://retroachievements.org/game/27740/hashes</url>
-		<hash>f5441acf89f914440060fc97bef172f4</hash>
-	</machine>
-	
-	<machine name="Homebrew/PSXFunkin - B Sides (zeriben) (Aftermarket)">
-		<category></category>
-		<description>PSXFunkin - B Sides (zeriben) (Aftermarket)</description>
-		<disk name="PSXFunkin - B Sides (zeriben) (Aftermarket).chd" sha1="5b113244513aa6d1a6d5cba5d0fc64a005262c65"/>
-		<url>https://retroachievements.org/game/22064/hashes</url>
-		<hash>c8d6103bb37a0336c466a4299649c6d6</hash>
-	</machine>
-	
-	<machine name="Homebrew/PSXFunkin - D Sides (IgorSou30000) (Aftermarket)">
-		<category></category>
-		<description>PSXFunkin - D Sides (IgorSou30000) (Aftermarket)</description>
-		<disk name="PSXFunkin - D Sides (IgorSou30000) (Aftermarket).chd" sha1="9f15077158b66939e5220c1f13792ec14e93494f"/>
-		<url>https://retroachievements.org/game/22069/hashes</url>
-		<hash>1b74c4039bcf1da22510e56cd61c5e02</hash>
-	</machine>
-	
-	<machine name="Homebrew/PSXFunkin - Neo (UNSTOP4BLE, IgorSou30000) (Aftermarket)">
-		<category></category>
-		<description>PSXFunkin - Neo (UNSTOP4BLE, IgorSou30000) (Aftermarket)</description>
-		<disk name="PSXFunkin - Neo (UNSTOP4BLE, IgorSou30000) (Aftermarket).chd" sha1="14ebcb10724a7ccd318c757042de38014d683049"/>
-		<url>https://retroachievements.org/game/25378/hashes</url>
-		<hash>00ba499bf3817696d0828a5c29ecbb72</hash>
-	</machine>
-	
-	<machine name="Homebrew/Skeleton Bros (UNSTOP4BLE, IgorSou30000) (Aftermarket)">
-		<category></category>
-		<description>Skeleton Bros (UNSTOP4BLE, IgorSou30000) (Aftermarket)</description>
-		<disk name="Skeleton Bros (UNSTOP4BLE, IgorSou30000) (Aftermarket).chd" sha1="c15fce1f1380c1464999ab3285d0f152caee884f"/>
-		<url>https://retroachievements.org/game/24002/hashes</url>
-		<hash>7c5fde505da8ae5ac58ce8442f5ef793</hash>
+		<description>PSXFunkin' - Tails Gets Trolled (UNSTOP4BLE, IgorSou30000) (Hack)</description>
+		<disk name="PSXFunkin' - Tails Gets Trolled (UNSTOP4BLE, IgorSou30000) (Hack).chd" sha1="2fa8a08e2b933957906472c2873b3de5e76d0962"/>
+		<url>https://retroachievements.org/game/33767/hashes</url>
+		<hash>b6e15a11f55e3100989acb1214d94089</hash>
 	</machine>
 	
 	<machine name="Homebrew/VS. Impostor V4 (Tomscop) (Aftermarket)">
@@ -393,6 +377,38 @@
 		<disk name="VS. Tricky (CKDev, Lord Scout) (Aftermarket).chd" sha1="0afcc53970e8abf84e4089fcc0c5820b4f17071b"/>
 		<url>https://retroachievements.org/game/26341/hashes</url>
 		<hash>0ae79df99b5e0cc6b79044085396e7ee</hash>
+	</machine>
+	
+	<machine name="Hack/Yu-Gi-Oh! Forbidden Memories II Ultimate (FM Brasil Team) (Hack)">
+		<category></category>
+		<description>Yu-Gi-Oh! Forbidden Memories II Ultimate (FM Brasil Team) (Hack)</description>
+		<disk name="Yu-Gi-Oh! Forbidden Memories II Ultimate (FM Brasil Team) (Hack).chd" sha1="a947fe484cd5df427c8ea866feb92da08f7e0ab0"/>
+		<url>https://retroachievements.org/game/18098/hashes</url>
+		<hash>4b394d84a94370ff0b4163bcede3ae86</hash>
+	</machine>
+	
+	<machine name="Hack/Yu-Gi-Oh! Forbidden Memories - Alpha Mod (Drop x15) (Alpha Team) (Hack)">
+		<category></category>
+		<description>Yu-Gi-Oh! Forbidden Memories - Alpha Mod (Drop x15) (Alpha Team) (Hack)</description>
+		<disk name="Yu-Gi-Oh! Forbidden Memories - Alpha Mod (Drop x15) (Alpha Team) (Hack).chd" sha1="f826f1bc86918798e08b18f14a846cb2ec3f9ca1"/>
+		<url>https://retroachievements.org/game/29828/hashes</url>
+		<hash>74a0aa4e80c058fcccad4b7ba130da0a</hash>
+	</machine>
+	
+	<machine name="Hack/Yu-Gi-Oh! Forbidden Memories - Deep Fried Mod (v1.1.0) (1 Card Drop) (Hack)">
+		<category></category>
+		<description>Yu-Gi-Oh! Forbidden Memories - Deep Fried Mod (v1.1.0) (1 Card Drop) (Hack)</description>
+		<disk name="Yu-Gi-Oh! Forbidden Memories - Deep Fried Mod (v1.1.0) (1 Card Drop) (Hack).chd" sha1="6e4adc016a7921b261c794e158df3e9b3e77a530"/>
+		<url>https://retroachievements.org/game/23799/hashes</url>
+		<hash>9a66dbbd63d2b1f703a7e6b4405cbac8</hash>
+	</machine>
+	
+	<machine name="Hack/Yu-Gi-Oh! GX Forbidden Memories (v2018 Remaster) (Victor Bless) (Hack)">
+		<category></category>
+		<description>Yu-Gi-Oh! GX Forbidden Memories (v2018 Remaster) (Victor Bless) (Hack)</description>
+		<disk name="Yu-Gi-Oh! GX Forbidden Memories (v2018 Remaster) (Victor Bless) (Hack).chd" sha1="c1a9e3942acacfb642617dfbf656ed7f31a726a1"/>
+		<url>https://retroachievements.org/game/29751/hashes</url>
+		<hash>ea80b6a82333caf3d5fca7efb21444db</hash>
 	</machine>
 	
 	<machine name="Homebrew/Buzzy Bee (v1.1) (NDR008) (Aftermarket)">
@@ -3371,6 +3387,14 @@
 		<hash>c761af0e56ad51467b485a75f69803e1</hash>
 	</machine>
 	
+	<machine name="Retail/Hexen (USA)">
+		<category></category>
+		<description>Hexen (USA)</description>
+		<disk name="Hexen (USA).chd" sha1="7d0833a446e45939d59e5c340daf2d2c27244a84"/>
+		<url>https://retroachievements.org/game/8288/hashes</url>
+		<hash>e1ff775a5a5ec3d49eda5a28c9c63421</hash>
+	</machine>
+	
 	<machine name="Retail/Hogs of War (USA)">
 		<category></category>
 		<description>Hogs of War (USA)</description>
@@ -3605,6 +3629,21 @@
 		<disk name="Jersey Devil (USA).chd" sha1="6f9d920bafdf0c39cc82f4faa3caba53d9ea1475"/>
 		<url>https://retroachievements.org/game/8611/hashes</url>
 		<hash>7bf33002d9614795686ea72e8f66f395</hash>
+	</machine>
+	
+	<machine name="Retail/Jet Moto/Jet Moto (USA)">
+		<category></category>
+		<description>Jet Moto (USA)</description>
+		<disk name="Jet Moto (USA).chd" sha1="251e9d825407a0ca917c8dac11344b0f95698d29"/>
+		<url>https://retroachievements.org/game/803/hashes</url>
+		<hash>549b9dd970dc2aa437ad43ed64fe854d</hash>
+	</machine>
+	<machine name="Retail/Jet Moto/Jet Rider (Europe)">
+		<category></category>
+		<description>Jet Rider (Europe)</description>
+		<disk name="Jet Rider (Europe).chd" sha1="9679426f31dacf7424e044c9ed1f0d95f0a78d58"/>
+		<url>https://retroachievements.org/game/803/hashes</url>
+		<hash>2297c72398df1b12d25d2d3d41acddb8</hash>
 	</machine>
 	
 	<machine name="Retail/Jigsaw Island - Japan Graffiti (Japan)">
@@ -7537,6 +7576,14 @@
 		<hash>4d8d5f88d7fce23ab92f01fc82e036b4</hash>
 	</machine>
 	
+	<machine name="Retail/Threads of Fate (USA)">
+		<category></category>
+		<description>Threads of Fate (USA)</description>
+		<disk name="Threads of Fate (USA).chd" sha1="1713ba9a5e490bd00b9fdcdc39597fd9cdd83aac"/>
+		<url>https://retroachievements.org/game/11340/hashes</url>
+		<hash>16e92791a41e0199715d762c2356b084</hash>
+	</machine>
+	
 	<machine name="Retail/Disney Presents Tigger's Honey Hunt (USA)">
 		<category></category>
 		<description>Disney Presents Tigger's Honey Hunt (USA)</description>
@@ -7815,6 +7862,14 @@
 		<disk name="Top Shop (USA).chd" sha1="28dfb7afd90c0103ad4679f7d943e64288ae6475"/>
 		<url>https://retroachievements.org/game/13896/hashes</url>
 		<hash>8fc5f7b992bfe17f34ce87e8764a7cce</hash>
+	</machine>
+	
+	<machine name="Retail/Touge Max 2 (Japan)">
+		<category></category>
+		<description>Touge Max 2 (Japan)</description>
+		<disk name="Touge Max 2 (Japan).chd" sha1="731e6a638f203485362fffee777f0f5094c27f3b"/>
+		<url>https://retroachievements.org/game/37031/hashes</url>
+		<hash>405871bd70c45738c4390e7e1925a7f0</hash>
 	</machine>
 	
 	<machine name="Retail/Touki Denshou - Angel Eyes (Japan)">

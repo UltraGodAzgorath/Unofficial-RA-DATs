@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Color</name>
 		<description>Nintendo Game Boy Color</description>
 		<category>Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260214</version>
+		<date>14 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/6/games</url>
@@ -173,6 +173,14 @@
 		<hash>f41d48344cea1846a014820aae02d73f</hash>
 	</game>
 	
+	<game name="Homebrew/Rick Astley - The Game (World) (En,Fr) (v20211212) (Aftermarket)">
+		<category></category>
+		<description>Rick Astley - The Game (World) (En,Fr) (v20211212) (Aftermarket)</description>
+		<rom name="Rick Astley - The Game (World) (En,Fr) (v20211212) (Aftermarket).gbc" size="262144" crc="7caeefc9" md5="93d2d9acc1e9cd454ccb575100ce5070" sha1="cb97fb2041a732fe9bae7647294502fc7befee18"/>
+		<url>https://retroachievements.org/game/18258/hashes</url>
+		<hash>93d2d9acc1e9cd454ccb575100ce5070</hash>
+	</game>
+	
 	<game name="Hack/Legend of Zelda - Oracle of Ages/LoZOoA - Archipelago (Hack)">
 		<category></category>
 		<description>LoZOoA - Archipelago (Hack)</description>
@@ -257,14 +265,6 @@
 		<rom name="New Adventures of Sonic the Hedgehog, The (World) (v1.0) (Aftermarket) (GB Studio).gbc" size="524288" crc="d2f8a25f" md5="ebb4915a6897804a2cbf72cd7f60d4f5" sha1="f82dbfe7282050d96df3a9c561f77c033bbc16cb"/>
 		<url>https://retroachievements.org/game/31955/hashes</url>
 		<hash>ebb4915a6897804a2cbf72cd7f60d4f5</hash>
-	</game>
-	
-	<game name="Homebrew/Rick Astley - The Game (World) (En,Fr) (v20211212) (Aftermarket)">
-		<category></category>
-		<description>Rick Astley - The Game (World) (En,Fr) (v20211212) (Aftermarket)</description>
-		<rom name="Rick Astley - The Game (World) (En,Fr) (v20211212) (Aftermarket).gbc" size="262144" crc="7caeefc9" md5="93d2d9acc1e9cd454ccb575100ce5070" sha1="cb97fb2041a732fe9bae7647294502fc7befee18"/>
-		<url>https://retroachievements.org/game/18258/hashes</url>
-		<hash>93d2d9acc1e9cd454ccb575100ce5070</hash>
 	</game>
 	
 	<game name="Homebrew/20 Second Platformer, A (World) (v1.1) (GB Compatible) (Aftermarket)">
@@ -1157,6 +1157,14 @@
 		<hash>45eeade46bd85f80af13af9dce572b9c</hash>
 	</game>
 	
+	<game name="Retail/Barbie - Magic Genie Adventure (USA)">
+		<category></category>
+		<description>Barbie - Magic Genie Adventure (USA)</description>
+		<rom name="Barbie - Magic Genie Adventure (USA).gbc" size="1048576" crc="57f1a202" md5="829da007514e8a1ccc7efe6a7ee5226f" sha1="30e779f19cd8f8c979bda38dd90e9798c742a66c"/>
+		<url>https://retroachievements.org/game/2130/hashes</url>
+		<hash>829da007514e8a1ccc7efe6a7ee5226f</hash>
+	</game>
+	
 	<game name="Retail/Barbie - Ocean Discovery (USA) (GB Compatible)">
 		<category></category>
 		<description>Barbie - Ocean Discovery (USA) (GB Compatible)</description>
@@ -1977,12 +1985,19 @@
 		<hash>433d5df048561d0a276a56b210e25d9b</hash>
 	</game>
 	
-	<game name="Retail/Keitai Denjuu Telefang - Power Version (Japan) (En) (andwhyisit) (v1.44)">
+	<game name="Retail/Keitai Denjuu Telefang - Power Version/Keitai Denjuu Telefang - Power Version (Japan) (En) (andwhyisit) (v1.44)">
 		<category></category>
 		<description>Keitai Denjuu Telefang - Power Version (Japan) (En) (andwhyisit) (v1.44)</description>
 		<rom name="Keitai Denjuu Telefang - Power Version (Japan) (En) (andwhyisit) (v1.44).gbc" size="2097152" crc="c21fd584" md5="e0cb7315349851951532a959fd50eb9d" sha1="fe0c8d757a74975c2137c3241d5563d6f9e5213d"/>
 		<url>https://retroachievements.org/game/15932/hashes</url>
 		<hash>e0cb7315349851951532a959fd50eb9d</hash>
+	</game>
+	<game name="Retail/Keitai Denjuu Telefang - Power Version/Keitai Denjuu Telefang - Power Version (Japan) (En) (v1.62) (kmeisthax, andwhyisit)">
+		<category></category>
+		<description>Keitai Denjuu Telefang - Power Version (Japan) (En) (v1.62) (kmeisthax, andwhyisit)</description>
+		<rom name="Keitai Denjuu Telefang - Power Version (Japan) (En) (v1.62) (kmeisthax, andwhyisit).gbc" size="2097152" crc="d3ff2f8a" md5="bae9542c90b3b440572f554f6181538c" sha1="47e81c29fcc0947f7d91c0d248a5563ebac520cd"/>
+		<url>https://retroachievements.org/game/15932/hashes</url>
+		<hash>bae9542c90b3b440572f554f6181538c</hash>
 	</game>
 	
 	<game name="Retail/Kikansha Thomas - Sodor-tou no Nakama-tachi (Japan)">

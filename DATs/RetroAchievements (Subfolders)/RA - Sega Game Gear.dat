@@ -5,8 +5,8 @@
 		<name>RA - Sega Game Gear</name>
 		<description>Sega Game Gear</description>
 		<category>Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260214</version>
+		<date>14 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/15/games</url>
@@ -145,6 +145,14 @@
 		<rom name="Bugs Bunny in Double Trouble (USA, Europe).gg" size="524288" crc="5c34d9cd" md5="04770c2c01095a6e3fde211a125d8964" sha1="a29dabb90532ff6114437f28970203e16003c11e"/>
 		<url>https://retroachievements.org/game/12659/hashes</url>
 		<hash>04770c2c01095a6e3fde211a125d8964</hash>
+	</game>
+	
+	<game name="Retail/Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)">
+		<category></category>
+		<description>Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)</description>
+		<rom name="Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En).gg" size="262144" crc="59840fd6" md5="16b6ea96908c17d4389a5907710a0f4e" sha1="06bbeb784f913b37f58c2581c66d4ecb099deace"/>
+		<url>https://retroachievements.org/game/11714/hashes</url>
+		<hash>16b6ea96908c17d4389a5907710a0f4e</hash>
 	</game>
 	
 	<game name="Retail/Chuck Rock (World)">

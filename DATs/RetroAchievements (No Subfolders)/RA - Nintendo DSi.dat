@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DSi</name>
 		<description>Nintendo DSi</description>
 		<category>No Subfolders</category>
-		<version>20251014</version>
-		<date>14 October 2025</date>
+		<version>20260214</version>
+		<date>14 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/78/games</url>
@@ -167,6 +167,15 @@
 		<rom name="Bejeweled Twist (Europe, Australia) (En,Fr,De,Es,Nl).nds" size="11963392" crc="84fc9a00" md5="47c6d5e1f11b1a1b67b9f47b39788b3d" sha1="d933564f5c35c75758891ba6e0423fd74df24fd6"/>
 		<url>https://retroachievements.org/game/22843/hashes</url>
 		<hash>e4ba6958b04c0e076790b291d844122e</hash>
+	</game>
+	
+	<game name="Bird &amp; Beans (USA) (En,Fr,Es)">
+		<category>Retail</category>
+		<description>Bird &amp; Beans (USA) (En,Fr,Es)</description>
+		<release name="Bird &amp; Beans (USA) (En,Fr,Es)" region="USA"/>
+		<rom name="Bird &amp; Beans (USA) (En,Fr,Es).nds" size="1287168" crc="275c540b" md5="02d8bcf07ba5d6f683ed6da92d9b613e" sha1="95f20180d02ce15ead56f066f7d096f36479ec9e"/>
+		<url>https://retroachievements.org/game/22349/hashes</url>
+		<hash>58d20fa1b87a996063c3bf5b1e386174</hash>
 	</game>
 	
 	<game name="Bloons (USA)">

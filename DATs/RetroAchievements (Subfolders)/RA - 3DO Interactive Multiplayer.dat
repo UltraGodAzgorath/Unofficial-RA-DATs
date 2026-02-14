@@ -5,8 +5,8 @@
 		<name>RA - 3DO Interactive Multiplayer</name>
 		<description>3DO Interactive Multiplayer</description>
 		<category>Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260214</version>
+		<date>14 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/43/games</url>
@@ -199,6 +199,14 @@
 		<hash>43def02afa11f26ffea31c45307020be</hash>
 	</machine>
 
+	<machine name="Retail/Putt-Putt Joins the Parade (Japan) (En,Ja)">
+		<category></category>
+		<description>Putt-Putt Joins the Parade (Japan) (En,Ja)</description>
+		<disk name="Putt-Putt Joins the Parade (Japan) (En,Ja).chd" sha1="d5866bd2b027045feee22abc6deccb0990483255"/>
+		<url>https://retroachievements.org/game/16408/hashes</url>
+		<hash>999b527d58caefa2fd9a285b459ab30b</hash>
+	</machine>
+	
 	<machine name="Retail/Rise of the Robots (USA)">
 		<category></category>
 		<description>Rise of the Robots (USA)</description>

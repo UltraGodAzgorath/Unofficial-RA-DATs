@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation 2</name>
 		<description>Sony Playstation 2</description>
 		<category>No Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260214</version>
+		<date>14 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -3037,6 +3037,22 @@
 		<hash>7693e6af5c2249d8f7985e24fccf0741</hash>
 	</machine>
 	
+	<machine name="Polaroid Pete (Europe) (Beta) (2002-01-09)">
+		<category>Retail</category>
+		<description>Polaroid Pete (Europe) (Beta) (2002-01-09)</description>
+		<disk name="Polaroid Pete (Europe) (Beta) (2002-01-09).chd" sha1="66f3977523c9efecca81837c3a0c4da77444b070"/>
+		<url>https://retroachievements.org/game/20645/hashes</url>
+		<hash>2eec8f088011cb680b3b1d29aef38602</hash>
+	</machine>
+	<machine name="Polaroid Pete (Europe) (NTSC Mode) (v1.0) (Souzooka)" cloneof="Polaroid Pete (Europe) (Beta) (2002-01-09)">
+		<category>Retail</category>
+		<description>Polaroid Pete (Europe) (NTSC Mode) (v1.0) (Souzooka)</description>
+		<release name="Polaroid Pete (Europe) (NTSC Mode) (v1.0) (Souzooka)" region="Europe"/>
+		<disk name="Polaroid Pete (Europe) (NTSC Mode) (v1.0) (Souzooka).chd" sha1="9b5ac96d7858851c8e7ac3a7c8f941dd3e8b9082"/>
+		<url>https://retroachievements.org/game/20645/hashes</url>
+		<hash>ff1874ed02e8c5838d61f71c9db5998d</hash>
+	</machine>
+	
 	<machine name="Genji - Dawn of the Samurai (USA)">
 		<category>Retail</category>
 		<description>Genji - Dawn of the Samurai (USA)</description>
@@ -3850,6 +3866,15 @@
 		<disk name="Hitman - Blood Money (USA).chd" sha1="b7c197990b5f9ee1cc1c3faeeacc0f136739a2b5"/>
 		<url>https://retroachievements.org/game/19351/hashes</url>
 		<hash>71e7239e4d39ab8ef5a7715d1e4b8838</hash>
+	</machine>
+	
+	<machine name="Hokuto no Ken - Shinpan no Sousousei - Kengou Retsuden (Japan)">
+		<category>Retail</category>
+		<description>Hokuto no Ken - Shinpan no Sousousei - Kengou Retsuden (Japan)</description>
+		<release name="Hokuto no Ken - Shinpan no Sousousei - Kengou Retsuden (Japan)" region="Japan"/>
+		<disk name="Hokuto no Ken - Shinpan no Sousousei - Kengou Retsuden (Japan).chd" sha1="e695a26cf3f80cec14314f15b7c47109d0bfe2f5"/>
+		<url>https://retroachievements.org/game/20644/hashes</url>
+		<hash>f553be9d14341f5d4b8351715ecdeaef</hash>
 	</machine>
 	
 	<machine name="Home Alone (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)">
@@ -5729,22 +5754,6 @@
 		<hash>e11553efba2c13cf1da60c1a6d71bba9</hash>
 	</machine>
 	
-	<machine name="Polaroid Pete (Europe) (Beta) (2002-01-09)">
-		<category>Retail</category>
-		<description>Polaroid Pete (Europe) (Beta) (2002-01-09)</description>
-		<disk name="Polaroid Pete (Europe) (Beta) (2002-01-09).chd" sha1="66f3977523c9efecca81837c3a0c4da77444b070"/>
-		<url>https://retroachievements.org/game/20645/hashes</url>
-		<hash>2eec8f088011cb680b3b1d29aef38602</hash>
-	</machine>
-	<machine name="Polaroid Pete (Europe) (NTSC Mode) (v1.0) (Souzooka)" cloneof="Polaroid Pete (Europe) (Beta) (2002-01-09)">
-		<category>Retail</category>
-		<description>Polaroid Pete (Europe) (NTSC Mode) (v1.0) (Souzooka)</description>
-		<release name="Polaroid Pete (Europe) (NTSC Mode) (v1.0) (Souzooka)" region="Europe"/>
-		<disk name="Polaroid Pete (Europe) (NTSC Mode) (v1.0) (Souzooka).chd" sha1="9b5ac96d7858851c8e7ac3a7c8f941dd3e8b9082"/>
-		<url>https://retroachievements.org/game/20645/hashes</url>
-		<hash>ff1874ed02e8c5838d61f71c9db5998d</hash>
-	</machine>
-	
 	<machine name="Pool Paradise (USA)" cloneof="Pool Paradise - International Edition (Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<description>Pool Paradise (USA)</description>
@@ -5904,6 +5913,15 @@
 		<disk name="Psikyo Shooting Collection Vol. 1 - Strikers 1945 I &amp; II (Japan).chd" sha1="9a698bc19ece70c369aba2f8d185e7b7d697d1f0"/>
 		<url>https://retroachievements.org/game/33089/hashes</url>
 		<hash>44f14782339c9cc6a8537134e156d16c</hash>
+	</machine>
+	
+	<machine name="Psychonauts (USA) (Anti-Cheat) (v1.0) (Manako)">
+		<category>Retail</category>
+		<description>Psychonauts (USA) (Anti-Cheat) (v1.0) (Manako)</description>
+		<release name="Psychonauts (USA) (Anti-Cheat) (v1.0) (Manako)" region="USA"/>
+		<disk name="Psychonauts (USA) (Anti-Cheat) (v1.0) (Manako).chd" sha1="ca099b2b0e2ba662365aeb82fa39e430bcd779d2"/>
+		<url>https://retroachievements.org/game/3100/hashes</url>
+		<hash>dd72e2c1e6d14f27516dc5cf2fea01cb</hash>
 	</machine>
 	
 	<machine name="R-C Sports Copter Challenge (Europe)">
@@ -6471,6 +6489,22 @@
 		<disk name="Scooby-Doo! Unmasked (USA) (En,Fr).chd" sha1="cd9068fe4478e279a68ebe9382854430ecbc592c"/>
 		<url>https://retroachievements.org/game/21071/hashes</url>
 		<hash>352222837e92e2950597826353b24c11</hash>
+	</machine>
+	
+	<machine name="Seek and Destroy (USA)">
+		<category>Retail</category>
+		<description>Seek and Destroy (USA)</description>
+		<disk name="Seek and Destroy (USA).chd" sha1="5c27a64e2d2e26f829c8349af70310866581526e"/>
+		<url>https://retroachievements.org/game/20743/hashes</url>
+		<hash>3f7acb154e2ce3487878b49eea5e4678</hash>
+	</machine>
+	<machine name="Seek and Destroy (USA) (Widescreen) (v1.0) (Souzooka)" cloneof="Seek and Destroy (USA)">
+		<category>Retail</category>
+		<description>Seek and Destroy (USA) (Widescreen) (v1.0) (Souzooka)</description>
+		<release name="Seek and Destroy (USA) (Widescreen) (v1.0) (Souzooka)" region="USA"/>
+		<disk name="Seek and Destroy (USA) (Widescreen) (v1.0) (Souzooka).chd" sha1="4919cfabc504687c2e4b75f8c1f19bc19cdfcae3"/>
+		<url>https://retroachievements.org/game/20743/hashes</url>
+		<hash>ecd197e0b90eecf262d0d0db63de7cc8</hash>
 	</machine>
 	
 	<machine name="Sega Rally Championship (Japan)">
@@ -7789,6 +7823,15 @@
 		<disk name="Nickelodeon Tak - The Great Juju Challenge (USA).chd" sha1="0d47e956e309e7f40615feef75f371acfe1272ab"/>
 		<url>https://retroachievements.org/game/19483/hashes</url>
 		<hash>9a136db321f819bdadc18a0788ec8839</hash>
+	</machine>
+	
+	<machine name="Tales of Legendia (USA)">
+		<category>Retail</category>
+		<description>Tales of Legendia (USA)</description>
+		<release name="Tales of Legendia (USA)" region="USA"/>
+		<disk name="Tales of Legendia (USA).chd" sha1="f9137b1d2d269e2c3f7816e5fa29693c53612f45"/>
+		<url>https://retroachievements.org/game/19368/hashes</url>
+		<hash>2f9e33623c6318eee2f2fcfd755e859e</hash>
 	</machine>
 	
 	<machine name="Tales of the Abyss (USA)">

@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260214</version>
+		<date>14 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/4/games</url>
@@ -4824,6 +4824,14 @@
 		<rom name="Ren &amp; Stimpy Show, The - Space Cadet Adventures (USA).gb" size="262144" crc="2085aad9" md5="3b3ee80272479464698200ad712d4152" sha1="da7634aa8e34be43d7dc89a572be2126795989af"/>
 		<url>https://retroachievements.org/game/12780/hashes</url>
 		<hash>3b3ee80272479464698200ad712d4152</hash>
+	</game>
+	
+	<game name="Retail/Rugrats Movie, The (USA) (SGB Enhanced)">
+		<category></category>
+		<description>Rugrats Movie, The (USA) (SGB Enhanced)</description>
+		<rom name="Rugrats Movie, The (USA) (SGB Enhanced).gb" size="524288" crc="124a0d06" md5="d29cc1b6fe7709a6d16f00c779499de2" sha1="70384eb3474637b81bec3018ebf0c2d6fa1d8a9d"/>
+		<url>https://retroachievements.org/game/2563/hashes</url>
+		<hash>d29cc1b6fe7709a6d16f00c779499de2</hash>
 	</game>
 	
 	<game name="Retail/Simpsons, The - Bart &amp; the Beanstalk (USA, Europe)">

@@ -5,8 +5,8 @@
 		<name>RA - NEC PC-8801</name>
 		<description>NEC PC-8801</description>
 		<category>Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260214</version>
+		<date>14 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/47/games</url>
@@ -793,15 +793,35 @@
 		<hash>cbc04cb70d3410636b79af7c3d2d3d44</hash>
 	</game>
 	
+	<game name="Retail/Ys/Ys (Set 1) (Japan) (NeoKobe)">
+		<category>Retail</category>
+		<description>Ys (Set 1) (Japan) (NeoKobe)</description>
+		<rom name="Ys (Set 1) (Japan) (NeoKobe).m3u" size="84" crc="717cedee" md5="6bff099ca246d856f8d4bc9fc3e1932d" sha1="6d9534efdb1db29b25960aff1927a71fda7b4cbe"/>
+		<rom name="Ys (Set 1) (Japan) (NeoKobe) (Disk A).d88" size="415840" crc="9bd5d527" md5="734fe755f206208b2de2fdf9a4c60ca4" sha1="48b6ba25f079838d09fd9161da3244ca45665f88"/>
+		<rom name="Ys (Set 1) (Japan) (NeoKobe) (Disk B).d88" size="415840" crc="cf222045" md5="8be6d4d610808cc192b53103f72a40f5" sha1="aba1539567390ce9f98465cc741dae565cd2145c"/>
+		<url>https://retroachievements.org/game/13682/hashes</url>
+		<hash>734fe755f206208b2de2fdf9a4c60ca4</hash>
+		<hash>8be6d4d610808cc192b53103f72a40f5</hash>
+	</game>
 	<game name="Retail/Ys/Ys (Japan) (NeoKobe)">
 		<category></category>
 		<description>Ys (Japan) (NeoKobe)</description>
 		<rom name="Ys (Japan) (NeoKobe).m3u" size="68" crc="189d4000" md5="10512388f0667067e807680b15a5c80e" sha1="61d594a20bf36c756af5cab958bacb63b550abd3"/>
-		<rom name="Ys (Japan) (NeoKobe) (Disk A).d88" size="415840" crc="9bd5d527" md5="734fe755f206208b2de2fdf9a4c60ca4" sha1="48b6ba25f079838d09fd9161da3244ca45665f88"/>
-		<rom name="Ys (Japan) (NeoKobe) (Disk B).d88" size="415840" crc="cf222045" md5="8be6d4d610808cc192b53103f72a40f5" sha1="aba1539567390ce9f98465cc741dae565cd2145c"/>
+		<rom name="Ys (Japan) (NeoKobe) (Disk A).d88" size="415840" crc="638acbd6" md5="b838e8767516ffaa5b469bb9e319f5a5" sha1="c5dd95092222aaabaccf3c42128ed66ac6790890"/>
+		<rom name="Ys (Japan) (NeoKobe) (Disk B).d88" size="415840" crc="3b6d9ca1" md5="f73ecb4451453a45adb14f99c82decf3" sha1="af514f9810961858f67ee24df1a2f9e52592839d"/>
 		<url>https://retroachievements.org/game/13682/hashes</url>
-		<hash>734fe755f206208b2de2fdf9a4c60ca4</hash>
-		<hash>8be6d4d610808cc192b53103f72a40f5</hash>
+		<hash>b838e8767516ffaa5b469bb9e319f5a5</hash>
+		<hash>f73ecb4451453a45adb14f99c82decf3</hash>
+	</game>
+	<game name="Retail/Ys/ (En) (v1.0) (Fishbone, Rednaxela) (NeoKobe)">
+		<category></category>
+		<description>Ys (En) (v1.0) (Fishbone, Rednaxela) (NeoKobe)</description>
+		<rom name="Ys (En) (v1.0) (Fishbone, Rednaxela) (NeoKobe).m3u" size="100" crc="c7b9a247" md5="103ceb6bffd34b6ba7a0b6e67a6590ac" sha1="890f4407e02809465bbb9c180114652a5588237b"/>
+		<rom name="Ys (En) (v1.0) (Fishbone, Rednaxela) (NeoKobe) (Disk A).d88" size="415840" crc="14558e3c" md5="5ba646701048b2c0aaca6f6b077aa84e" sha1="c49c19d613fe7b7eb08e88b529d5df4aec7755a7"/>
+		<rom name="Ys (En) (v1.0) (Fishbone, Rednaxela) (NeoKobe) (Disk B).d88" size="415840" crc="7e66ca76" md5="68882481623e84b8bb80aba60bccad4f" sha1="5c3779db243ab1abe614c06723bed7826868f0fa"/>
+		<url>https://retroachievements.org/game/13682/hashes</url>
+		<hash>5ba646701048b2c0aaca6f6b077aa84e</hash>
+		<hash>68882481623e84b8bb80aba60bccad4f</hash>
 	</game>
 	
 	<game name="Retail/Ys II/Ys II (Japan) (NeoKobe)">

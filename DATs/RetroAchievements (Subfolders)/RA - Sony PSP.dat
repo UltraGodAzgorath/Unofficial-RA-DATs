@@ -5,8 +5,8 @@
 		<name>RA - Sony PSP</name>
 		<description>Sony PSP</description>
 		<category>Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260214</version>
+		<date>14 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/41/games</url>
@@ -325,14 +325,6 @@
 		<hash>5df6f30b301b92d795b5cfcfd7a0d9d6</hash>
 	</machine>
 	
-	<game name="Subset/Bleach - Heat the Soul 7 (Exclusive Subset - DLC Normal and Battle Royale)">
-		<category>PSP</category>
-		<description>Bleach - Heat the Soul 7 (Exclusive Subset - DLC Normal and Battle Royale)</description>
-		<rom name="Bleach - Heat the Soul 7 (Exclusive Subset - DLC Normal and Battle Royale).iso" size="562821412" crc="7f3aac23" md5="1e899e6762002ff9ba98f9e1e8a47b8e" sha1="da89c2664e0ff7b6aaa827ea5924153e6bd06508"/>
-		<url>https://retroachievements.org/game/20241/hashes</url>
-		<hash>227397e64bf77c2966d11a858293e615</hash>
-	</game>
-	
 	<machine name="Retail/Bleach - Soul Carnival (Japan)">
 		<category>PSP</category>
 		<description>Bleach - Soul Carnival (Japan)</description>
@@ -379,6 +371,14 @@
 		<disk name="Brandish - The Dark Revenant (USA) (PSP) (PSN).chd" sha1="f0e867f5e527fd4a61cff9730fe65c9c852bb9ad"/>
 		<url>https://retroachievements.org/game/14502/hashes</url>
 		<hash>4d1fc5618312ee73dfff74e48f746b85</hash>
+	</machine>
+	
+	<machine name="Retail/Brave Story - New Traveler (USA)">
+		<category>PSP</category>
+		<description>Brave Story - New Traveler (USA)</description>
+		<disk name="Brave Story - New Traveler (USA).chd" sha1="d1a41768386dbd7100d26a50307201cf26203a35"/>
+		<url>https://retroachievements.org/game/14500/hashes</url>
+		<hash>a9be98c4442b918766dd72bc6be5449a</hash>
 	</machine>
 	
 	<machine name="Retail/Brick Breaker (USA) (minis) (PSN)">

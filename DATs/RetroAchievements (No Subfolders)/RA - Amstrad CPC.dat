@@ -5,8 +5,8 @@
 		<name>RA - Amstrad CPC</name>
 		<description>Amstrad CPC</description>
 		<category>No Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260214</version>
+		<date>14 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/37/games</url>
@@ -127,6 +127,15 @@
 		<rom name="Hair Boy (2016) (Carlos Sevila) (Aftermarket).dsk" size="204544" crc="c75e73ca" md5="a4b63c729643affd4db27cbdfc025324" sha1="7cf184ccbc919998b2260f2ddc16d8b697918a47"/>
 		<url>https://retroachievements.org/game/10805/hashes</url>
 		<hash>a4b63c729643affd4db27cbdfc025324</hash>
+	</game>
+	
+	<game name="Magica (2016) (v1.0.2) (Juan J. Martinez) (Aftermarket)">
+		<category>Homebrew</category>
+		<description>Magica (2016) (v1.0.2) (Juan J. Martinez) (Aftermarket)</description>
+		<release name="Magica (2016) (v1.0.2) (Juan J. Martinez) (Aftermarket)" region="World"/>
+		<rom name="Magica (2016) (v1.0.2) (Juan J. Martinez) (Aftermarket).dsk" size="204544" crc="da244e71" md5="a890a84e0a2f3c5eea151c5cac830f68" sha1="86f9f88dbd16409162885832009caaad46c50243"/>
+		<url>https://retroachievements.org/game/29693/hashes</url>
+		<hash>a890a84e0a2f3c5eea151c5cac830f68</hash>
 	</game>
 	
 	<game name="Miss Input (CleanCpcDb) (Aftermarket)">

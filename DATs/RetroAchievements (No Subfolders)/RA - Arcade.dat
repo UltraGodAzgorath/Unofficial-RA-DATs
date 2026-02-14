@@ -5,8 +5,8 @@
 		<name>RA - Arcade</name>
 		<description>Arcade</description>
 		<category>No Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260214</version>
+		<date>14 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/27/games</url>
@@ -12642,6 +12642,28 @@
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/12310/hashes</url>
 		<hash>811b4a59b7163b53b663ce7a0209469a</hash>
+	</game>
+	
+	<game name="docastle">
+		<description>Mr. Do's Castle (set 1)</description>
+		<category>Retail</category>
+		<release name="docastle" region="World"/>
+		<rom name="01p_a1.bin" size="8192" crc="17c6fc24"/>
+		<rom name="01n_a2.bin" size="8192" crc="1d2fc7f4"/>
+		<rom name="01l_a3.bin" size="8192" crc="71a70ba9"/>
+		<rom name="01k_a4.bin" size="8192" crc="479a745e"/>
+		<rom name="07n_a0.bin" size="16384" crc="f23b5cdb"/>
+		<rom name="01d.bin" size="512" crc="2747ca77"/>
+		<rom name="03a_a5.bin" size="16384" crc="0636b8f4"/>
+		<rom name="04m_a6.bin" size="8192" crc="3bbc9b26"/>
+		<rom name="04l_a7.bin" size="8192" crc="3dfaa9d1"/>
+		<rom name="04j_a8.bin" size="8192" crc="9afb16e9"/>
+		<rom name="04h_a9.bin" size="8192" crc="af24bce0"/>
+		<rom name="09c.bin" size="512" crc="066f52bc"/>
+		<video type="raster" orientation="vertical" width="192" height="240" aspectx="3" aspecty="4"/>
+		<driver status="good"/>
+		<url>https://retroachievements.org/game/12097/hashes</url>
+		<hash>4937334230c9928783dda56ca4f5c00e</hash>
 	</game>
 	
 	<game name="mrgoemon">

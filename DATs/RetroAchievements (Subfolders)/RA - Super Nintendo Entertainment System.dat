@@ -3664,7 +3664,7 @@
 	<game name="Hack/Super Mario World/SMW - The Mario's Travel 2 (v1.0) (SR5000) (Hack)">
 		<category>Super Nintendo</category>
 		<description>SMW - The Mario's Travel 2 (v1.0) (SR5000) (Hack)</description>
-		<rom name="SMW - The Mario's Travel 2 (v1.0) (SR5000) (Hack).sfc" size="000" crc="000" md5="fb3e55129d4a2076e59adfb76ef913cc" sha1="000"/>
+		<rom name="SMW - The Mario's Travel 2 (v1.0) (SR5000) (Hack).sfc" size="2097152" crc="2f1ae6ed" md5="fb3e55129d4a2076e59adfb76ef913cc" sha1="77536e8bf522b3d05c1b8eb0f8b385a88c7079df"/>
 		<url>https://retroachievements.org/game/37920/hashes</url>
 		<hash>fb3e55129d4a2076e59adfb76ef913cc</hash>
 	</game>
@@ -5989,6 +5989,35 @@
 		<hash>669f9147ab96a16f07e93ca9f18ef779</hash>
 	</game>
 	
+	<game name="Retail/Kaizou Choujin Shubibinman Zero/Kaizou Choujin Shubibinman Zero (Japan) (Columbus Circle)">
+		<category>Super Nintendo</category>
+		<description>Kaizou Choujin Shubibinman Zero (Japan) (Columbus Circle)</description>
+		<rom name="Kaizou Choujin Shubibinman Zero (Japan) (Columbus Circle).sfc" size="1048576" crc="e59e1096" md5="06d6f77f59bef272c5e975056dc6e956" sha1="4b6d6f51173984c2f1e2f379c53174e8e5083cae"/>
+		<url>https://retroachievements.org/game/7886/hashes</url>
+		<hash>06d6f77f59bef272c5e975056dc6e956</hash>
+	</game>
+	<game name="Retail/Kaizou Choujin Shubibinman Zero/Kaizou Choujin Shubibinman Zero (Japan) (Columbus Circle) (En) (v1.0) (Svambo)">
+		<category>Super Nintendo</category>
+		<description>Kaizou Choujin Shubibinman Zero (Japan) (Columbus Circle) (En) (v1.0) (Svambo)</description>
+		<rom name="Kaizou Choujin Shubibinman Zero (Japan) (Columbus Circle) (En) (v1.0) (Svambo).sfc" size="1572864" crc="75d84c0f" md5="13fc726b744a9ec746836acaf0079d36" sha1="3c164e8d88ec5c5b8f149df99dbf702286abf63a"/>
+		<url>https://retroachievements.org/game/7886/hashes</url>
+		<hash>13fc726b744a9ec746836acaf0079d36</hash>
+	</game>
+	<game name="Retail/Kaizou Choujin Shubibinman Zero/Kaizou Choujin Shubibinman Zero (Japan)">
+		<category>Satellaview</category>
+		<description>Kaizou Choujin Shubibinman Zero (Japan)</description>
+		<rom name="Kaizou Choujin Shubibinman Zero (Japan).bs" size="1048576" crc="26a4f6c3" md5="db4dd0305051f7d3ca7bd2e114f4f1dd" sha1="dd084021a7e2afd939fee3b6426778f6e5c2f333"/>
+		<url>https://retroachievements.org/game/7886/hashes</url>
+		<hash>db4dd0305051f7d3ca7bd2e114f4f1dd</hash>
+	</game>
+	<game name="Retail/Kaizou Choujin Shubibinman Zero/Kaizou Choujin Shubibinman Zero (Japan) (Columbus Circle) (En) (DeDRM)">
+		<category>Super Nintendo</category>
+		<description>Kaizou Choujin Shubibinman Zero (Japan) (Columbus Circle) (En) (DeDRM)</description>
+		<rom name="Kaizou Choujin Shubibinman Zero (Japan) (Columbus Circle) (En) (DeDRM).sfc" size="1048576" crc="49787376" md5="edcbf9168dddd6cf7c82f176cca88b69" sha1="adf216399e68de99c0b40f0ed2a5ef71918a9bd0"/>
+		<url>https://retroachievements.org/game/7886/hashes</url>
+		<hash>edcbf9168dddd6cf7c82f176cca88b69</hash>
+	</game>
+	
 	<game name="Retail/Cybernator (USA)">
 		<category>Super Nintendo</category>
 		<description>Cybernator (USA)</description>
@@ -8251,35 +8280,6 @@
 		<hash>2078b064bdf300eb656971946c26430f</hash>
 	</game>
 	
-	<game name="Retail/Kaizou Choujin Shubibinman Zero/Kaizou Choujin Shubibinman Zero (Japan) (Columbus Circle)">
-		<category>Super Nintendo</category>
-		<description>Kaizou Choujin Shubibinman Zero (Japan) (Columbus Circle)</description>
-		<rom name="Kaizou Choujin Shubibinman Zero (Japan) (Columbus Circle).sfc" size="1048576" crc="e59e1096" md5="06d6f77f59bef272c5e975056dc6e956" sha1="4b6d6f51173984c2f1e2f379c53174e8e5083cae"/>
-		<url>https://retroachievements.org/game/7886/hashes</url>
-		<hash>06d6f77f59bef272c5e975056dc6e956</hash>
-	</game>
-	<game name="Retail/Kaizou Choujin Shubibinman Zero/Kaizou Choujin Shubibinman Zero (Japan) (Columbus Circle) (En) (v1.0) (Svambo)">
-		<category>Super Nintendo</category>
-		<description>Kaizou Choujin Shubibinman Zero (Japan) (Columbus Circle) (En) (v1.0) (Svambo)</description>
-		<rom name="Kaizou Choujin Shubibinman Zero (Japan) (Columbus Circle) (En) (v1.0) (Svambo).sfc" size="1572864" crc="75d84c0f" md5="13fc726b744a9ec746836acaf0079d36" sha1="3c164e8d88ec5c5b8f149df99dbf702286abf63a"/>
-		<url>https://retroachievements.org/game/7886/hashes</url>
-		<hash>13fc726b744a9ec746836acaf0079d36</hash>
-	</game>
-	<game name="Retail/Kaizou Choujin Shubibinman Zero/Kaizou Choujin Shubibinman Zero (Japan)">
-		<category>Satellaview</category>
-		<description>Kaizou Choujin Shubibinman Zero (Japan)</description>
-		<rom name="Kaizou Choujin Shubibinman Zero (Japan).bs" size="1048576" crc="26a4f6c3" md5="db4dd0305051f7d3ca7bd2e114f4f1dd" sha1="dd084021a7e2afd939fee3b6426778f6e5c2f333"/>
-		<url>https://retroachievements.org/game/7886/hashes</url>
-		<hash>db4dd0305051f7d3ca7bd2e114f4f1dd</hash>
-	</game>
-	<game name="Retail/Kaizou Choujin Shubibinman Zero/Kaizou Choujin Shubibinman Zero (Japan) (Columbus Circle) (En) (DeDRM)">
-		<category>Super Nintendo</category>
-		<description>Kaizou Choujin Shubibinman Zero (Japan) (Columbus Circle) (En) (DeDRM)</description>
-		<rom name="Kaizou Choujin Shubibinman Zero (Japan) (Columbus Circle) (En) (DeDRM).sfc" size="1048576" crc="49787376" md5="edcbf9168dddd6cf7c82f176cca88b69" sha1="adf216399e68de99c0b40f0ed2a5ef71918a9bd0"/>
-		<url>https://retroachievements.org/game/7886/hashes</url>
-		<hash>edcbf9168dddd6cf7c82f176cca88b69</hash>
-	</game>
-	
 	<game name="Retail/Kamen Rider (Japan)">
 		<category>Super Nintendo</category>
 		<description>Kamen Rider (Japan)</description>
@@ -8372,43 +8372,6 @@
 		<rom name="King Arthur's World (USA).sfc" size="524288" crc="99bd1fe1" md5="2c09803c418da30c4fbd99c59ba057eb" sha1="55d037575affe9a1acae30a395bb4680e76a3e0b"/>
 		<url>https://retroachievements.org/game/16394/hashes</url>
 		<hash>2c09803c418da30c4fbd99c59ba057eb</hash>
-	</game>
-	
-	<game name="Retail/Majuu Ou/Majuu Ou (Japan) (En) (v1.01) (Aeon Genesis)">
-		<category>Super Nintendo</category>
-		<description>Majuu Ou (Japan) (En) (v1.01) (Aeon Genesis)</description>
-		<rom name="Majuu Ou (Japan) (En) (v1.01) (Aeon Genesis).sfc" size="1572864" crc="14dcc20d" md5="3e972724ddbac41dec86035f6ebe9fa5" sha1="2147c2b1fd24184e54e774f9afb92059d40ffacb"/>
-		<url>https://retroachievements.org/game/2602/hashes</url>
-		<hash>3e972724ddbac41dec86035f6ebe9fa5</hash>
-	</game>
-	<game name="Retail/Majuu Ou/Majuu Ou (Japan) (En) (v1.00) (Aeon Genesis)">
-		<category>Super Nintendo</category>
-		<description>Majuu Ou (Japan) (En) (v1.00) (Aeon Genesis)</description>
-		<rom name="Majuu Ou (Japan) (En) (v1.00) (Aeon Genesis).sfc" size="1572864" crc="672a61f2" md5="ae0fbaf3ee9fd66704d9e4f1458114ab" sha1="a89c74ed543feca903e27b0785ef7ca12bcf22d8"/>
-		<url>https://retroachievements.org/game/2602/hashes</url>
-		<hash>ae0fbaf3ee9fd66704d9e4f1458114ab</hash>
-	</game>
-	<game name="Retail/Majuu Ou/Majuu Ou (Japan)">
-		<category>Super Nintendo</category>
-		<description>Majuu Ou (Japan)</description>
-		<rom name="Majuu Ou (Japan).sfc" size="1572864" crc="4737370b" md5="c48199b6996211ac200b8b2daafc18ef" sha1="54048324bf80bd36e372f58a68f1d3f2b5ffe498"/>
-		<url>https://retroachievements.org/game/2602/hashes</url>
-		<hash>c48199b6996211ac200b8b2daafc18ef</hash>
-	</game>
-	
-	<game name="Subset/King of Demons/King of Demons (Subset - Bonus) (Japan)">
-		<category>Super Nintendo</category>
-		<description>King of Demons (Subset - Bonus) (Japan)</description>
-		<rom name="King of Demons (Subset - Bonus) (Japan).sfc" size="1572864" crc="409cc7f8" md5="8ae7779dd8107829b272d84007284518" sha1="af15cdcf098fb6834aa62ceec31d72c1eca3da7e"/>
-		<url>https://retroachievements.org/game/3754/hashes</url>
-		<hash>8ae7779dd8107829b272d84007284518</hash>
-	</game>
-	<game name="Subset/King of Demons/King of Demons (Subset - Bonus) (Japan) (En)">
-		<category>Super Nintendo</category>
-		<description>King of Demons (Subset - Bonus) (Japan) (En)</description>
-		<rom name="King of Demons (Subset - Bonus) (Japan) (En).sfc" size="1572864" crc="705954f1" md5="c991e96ac3ca65ece8058a9be1f137fc" sha1="538308b180138e9d26070ef4de7518ed47d35372"/>
-		<url>https://retroachievements.org/game/3754/hashes</url>
-		<hash>c991e96ac3ca65ece8058a9be1f137fc</hash>
 	</game>
 	
 	<game name="Retail/Kirby no Kirakira Kids/Kirby no Kirakira Kids (Japan)">
@@ -9019,6 +8982,43 @@
 		<rom name="Magna Braban - Henreki no Yuusha (Japan).sfc" size="1572864" crc="5f86ada5" md5="dcec157fb9e6bf1bda288996b0ef75d9" sha1="afb45f14f4c5b31d419a1166044877b12a0a3707"/>
 		<url>https://retroachievements.org/game/3210/hashes</url>
 		<hash>dcec157fb9e6bf1bda288996b0ef75d9</hash>
+	</game>
+	
+	<game name="Retail/Majuu Ou/Majuu Ou (Japan) (En) (v1.01) (Aeon Genesis)">
+		<category>Super Nintendo</category>
+		<description>Majuu Ou (Japan) (En) (v1.01) (Aeon Genesis)</description>
+		<rom name="Majuu Ou (Japan) (En) (v1.01) (Aeon Genesis).sfc" size="1572864" crc="14dcc20d" md5="3e972724ddbac41dec86035f6ebe9fa5" sha1="2147c2b1fd24184e54e774f9afb92059d40ffacb"/>
+		<url>https://retroachievements.org/game/2602/hashes</url>
+		<hash>3e972724ddbac41dec86035f6ebe9fa5</hash>
+	</game>
+	<game name="Retail/Majuu Ou/Majuu Ou (Japan) (En) (v1.00) (Aeon Genesis)">
+		<category>Super Nintendo</category>
+		<description>Majuu Ou (Japan) (En) (v1.00) (Aeon Genesis)</description>
+		<rom name="Majuu Ou (Japan) (En) (v1.00) (Aeon Genesis).sfc" size="1572864" crc="672a61f2" md5="ae0fbaf3ee9fd66704d9e4f1458114ab" sha1="a89c74ed543feca903e27b0785ef7ca12bcf22d8"/>
+		<url>https://retroachievements.org/game/2602/hashes</url>
+		<hash>ae0fbaf3ee9fd66704d9e4f1458114ab</hash>
+	</game>
+	<game name="Retail/Majuu Ou/Majuu Ou (Japan)">
+		<category>Super Nintendo</category>
+		<description>Majuu Ou (Japan)</description>
+		<rom name="Majuu Ou (Japan).sfc" size="1572864" crc="4737370b" md5="c48199b6996211ac200b8b2daafc18ef" sha1="54048324bf80bd36e372f58a68f1d3f2b5ffe498"/>
+		<url>https://retroachievements.org/game/2602/hashes</url>
+		<hash>c48199b6996211ac200b8b2daafc18ef</hash>
+	</game>
+	
+	<game name="Subset/King of Demons/King of Demons (Subset - Bonus) (Japan)">
+		<category>Super Nintendo</category>
+		<description>King of Demons (Subset - Bonus) (Japan)</description>
+		<rom name="King of Demons (Subset - Bonus) (Japan).sfc" size="1572864" crc="409cc7f8" md5="8ae7779dd8107829b272d84007284518" sha1="af15cdcf098fb6834aa62ceec31d72c1eca3da7e"/>
+		<url>https://retroachievements.org/game/3754/hashes</url>
+		<hash>8ae7779dd8107829b272d84007284518</hash>
+	</game>
+	<game name="Subset/King of Demons/King of Demons (Subset - Bonus) (Japan) (En)">
+		<category>Super Nintendo</category>
+		<description>King of Demons (Subset - Bonus) (Japan) (En)</description>
+		<rom name="King of Demons (Subset - Bonus) (Japan) (En).sfc" size="1572864" crc="705954f1" md5="c991e96ac3ca65ece8058a9be1f137fc" sha1="538308b180138e9d26070ef4de7518ed47d35372"/>
+		<url>https://retroachievements.org/game/3754/hashes</url>
+		<hash>c991e96ac3ca65ece8058a9be1f137fc</hash>
 	</game>
 	
 	<game name="Retail/Makeruna! Makendou 2 - Kimero! Youkai Souridaijin (Japan)">
@@ -11253,14 +11253,6 @@
 		<hash>91e75245c75c1f498e345cd368309801</hash>
 	</game>
 	
-	<game name="Retail/Soldiers of Fortune (USA)">
-		<category>Super Nintendo</category>
-		<description>Soldiers of Fortune (USA)</description>
-		<rom name="Soldiers of Fortune (USA).sfc" size="1572864" crc="cf719a93" md5="f6afe62ee85f004b35c36b8f92944cae" sha1="90440d74aa01c4ae8a86c56d092263f6c9fa0d42"/>
-		<url>https://retroachievements.org/game/1165/hashes</url>
-		<hash>f6afe62ee85f004b35c36b8f92944cae</hash>
-	</game>
-	
 	<game name="Retail/Sonic Blast Man II (USA)">
 		<category>Super Nintendo</category>
 		<description>Sonic Blast Man II (USA)</description>
@@ -12933,6 +12925,14 @@
 		<rom name="Amazing Spider-Man, The - Lethal Foes (Japan) (En) (v1.0) (Kepeb).sfc" size="1572864" crc="d798a184" md5="a5a41386a4a6f3432801cfa60d02666c" sha1="6984e38af83bf77b3ac7336aa555cb7bea1a561d"/>
 		<url>https://retroachievements.org/game/2641/hashes</url>
 		<hash>a5a41386a4a6f3432801cfa60d02666c</hash>
+	</game>
+	
+	<game name="Retail/Soldiers of Fortune (USA)">
+		<category>Super Nintendo</category>
+		<description>Soldiers of Fortune (USA)</description>
+		<rom name="Soldiers of Fortune (USA).sfc" size="1572864" crc="cf719a93" md5="f6afe62ee85f004b35c36b8f92944cae" sha1="90440d74aa01c4ae8a86c56d092263f6c9fa0d42"/>
+		<url>https://retroachievements.org/game/1165/hashes</url>
+		<hash>f6afe62ee85f004b35c36b8f92944cae</hash>
 	</game>
 	
 	<game name="Retail/Chessmaster, The (USA)">

@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260214</version>
+		<date>14 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -804,6 +804,21 @@
 		<hash>e7ec28748911cf3895f930d59d6d0120</hash>
 	</game>
 	
+	<game name="Hack/Pokemon Emerald/Pokemon - Too Many Types 2 (v1.4.0) (kobazco) (Alt) (Hack)">
+		<category></category>
+		<description>Pokemon - Too Many Types 2 (v1.4.0) (kobazco) (Alt) (Hack)</description>
+		<rom name="Pokemon - Too Many Types 2 (v1.4.0) (kobazco) (Alt) (Hack).gba" size="33554432" crc="fbce22f3" md5="744fe521d58beb5ed16cbfc9e02f352b" sha1="abb510dc12a2865c09b6f4f0dcce625195069f8a"/>
+		<url>https://retroachievements.org/game/37577/hashes</url>
+		<hash>744fe521d58beb5ed16cbfc9e02f352b</hash>
+	</game>
+	<game name="Hack/Pokemon Emerald/Pokemon - Too Many Types 2 (v1.4.0) (kobazco) (Hack)">
+		<category></category>
+		<description>Pokemon - Too Many Types 2 (v1.4.0) (kobazco) (Hack)</description>
+		<rom name="Pokemon - Too Many Types 2 (v1.4.0) (kobazco) (Hack).gba" size="33554432" crc="abb50931" md5="524b56155162145ccf93ef8b9771b7ba" sha1="8a6940ae3fb9a27577ab24833d7c928eb4d8db87"/>
+		<url>https://retroachievements.org/game/37577/hashes</url>
+		<hash>524b56155162145ccf93ef8b9771b7ba</hash>
+	</game>
+	
 	<game name="Hack/Pokemon - Emerald/Pokemon - Pokescape - A Pokémon Escape Room (Hack)">
 		<category></category>
 		<description>Pokemon - Pokescape - A Pokémon Escape Room (Hack)</description>
@@ -1452,6 +1467,14 @@
 		<rom name="Resident Evil 2 (Unknown) (Proto).gba" size="2908576" crc="26b5cf8b" md5="e9385f1a0876c563dc42a0ee9c8700ce" sha1="a70cf38071f639e783734bc9875ace0ebd2c5180"/>
 		<url>https://retroachievements.org/game/12748/hashes</url>
 		<hash>e9385f1a0876c563dc42a0ee9c8700ce</hash>
+	</game>
+	
+	<game name="Prototype/Sea Boy (USA) (2022-10-24) (Proto)">
+		<category></category>
+		<description>Sea Boy (USA) (2022-10-24) (Proto)</description>
+		<rom name="Sea Boy (USA) (2022-10-24) (Proto).gba" size="1658376" crc="c822b1bc" md5="33c513111814b0ac9c1375bb20ddb0b9" sha1="5a00075f187d294ee7e1e711172d28a76046ba53"/>
+		<url>https://retroachievements.org/game/21440/hashes</url>
+		<hash>33c513111814b0ac9c1375bb20ddb0b9</hash>
 	</game>
 	
 	<game name="Prototype/SpongeBob SquarePants - SuperSponge (USA, Europe) (Proto) (Beta) (2001-04-04)">
@@ -3728,21 +3751,6 @@
 		<hash>75af521c08dea3eed23d31c002a3e47f</hash>
 	</game>
 	
-	<game name="Retail/Hagane no Renkinjutsushi - Meisou no Rondo (Japan) (En) (mz) (v0.02)">
-		<category></category>
-		<description>Hagane no Renkinjutsushi - Meisou no Rondo (Japan) (En) (mz) (v0.02)</description>
-		<rom name="Hagane no Renkinjutsushi - Meisou no Rondo (Japan) (En) (mz) (v0.02).gba" size="16777216" crc="bc3f79b5" md5="70dd13d5d0cb840ecdee29ea78e5e013" sha1="0e53d1b7c6a413f18e13f0b87e302b7838f8dbe1"/>
-		<url>https://retroachievements.org/game/13634/hashes</url>
-		<hash>70dd13d5d0cb840ecdee29ea78e5e013</hash>
-	</game>
-	<game name="Retail/Hagane no Renkinjutsushi - Meisou no Rondo (Japan)">
-		<category></category>
-		<description>Hagane no Renkinjutsushi - Meisou no Rondo (Japan)</description>
-		<rom name="Hagane no Renkinjutsushi - Meisou no Rondo (Japan).gba" size="8388608" crc="a8cda373" md5="11a1c991749ededfce2cef42e1019cc7" sha1="863e778fa08b3181440948241470ea37552d7820"/>
-		<url>https://retroachievements.org/game/13634/hashes</url>
-		<hash>11a1c991749ededfce2cef42e1019cc7</hash>
-	</game>
-	
 	<game name="Retail/Game &amp; Watch Gallery 4 (USA)">
 		<category></category>
 		<description>Game &amp; Watch Gallery 4 (USA)</description>
@@ -4314,6 +4322,21 @@
 		<hash>6c8460b00a7dcade834b0579116771db</hash>
 	</game>
 	
+	<game name="Retail/Hagane no Renkinjutsushi - Meisou no Rondo (Japan) (En) (mz) (v0.02)">
+		<category></category>
+		<description>Hagane no Renkinjutsushi - Meisou no Rondo (Japan) (En) (mz) (v0.02)</description>
+		<rom name="Hagane no Renkinjutsushi - Meisou no Rondo (Japan) (En) (mz) (v0.02).gba" size="16777216" crc="bc3f79b5" md5="70dd13d5d0cb840ecdee29ea78e5e013" sha1="0e53d1b7c6a413f18e13f0b87e302b7838f8dbe1"/>
+		<url>https://retroachievements.org/game/13634/hashes</url>
+		<hash>70dd13d5d0cb840ecdee29ea78e5e013</hash>
+	</game>
+	<game name="Retail/Hagane no Renkinjutsushi - Meisou no Rondo (Japan)">
+		<category></category>
+		<description>Hagane no Renkinjutsushi - Meisou no Rondo (Japan)</description>
+		<rom name="Hagane no Renkinjutsushi - Meisou no Rondo (Japan).gba" size="8388608" crc="a8cda373" md5="11a1c991749ededfce2cef42e1019cc7" sha1="863e778fa08b3181440948241470ea37552d7820"/>
+		<url>https://retroachievements.org/game/13634/hashes</url>
+		<hash>11a1c991749ededfce2cef42e1019cc7</hash>
+	</game>
+	
 	<game name="Retail/Hajime no Ippo - The Fighting! (Japan) (En) (v1.0) (Markliujy)">
 		<category></category>
 		<description>Hajime no Ippo - The Fighting! (Japan) (En) (v1.0) (Markliujy)</description>
@@ -4435,6 +4458,14 @@
 		<rom name="Harvest Moon - Friends of Mineral Town (True Love Edition) (v4.0) (kataiki).gba" size="8388608" crc="1c465367" md5="b284a36c70fd62b79e6c4588354f7c4f" sha1="dfe576b68d5499a3f5eeb77c8a6cefffbd6d8e43"/>
 		<url>https://retroachievements.org/game/4853/hashes</url>
 		<hash>b284a36c70fd62b79e6c4588354f7c4f</hash>
+	</game>
+	
+	<game name="Retail/Heidi - The Game (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Heidi - The Game (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Heidi - The Game (Europe) (En,Fr,De,Es,It).gba" size="4194304" crc="e8c44fb8" md5="2dd50cff5266e703e72964fa0755e0c7" sha1="c9f29c937a46371699841fd381c6bb4701deac17"/>
+		<url>https://retroachievements.org/game/8207/hashes</url>
+		<hash>2dd50cff5266e703e72964fa0755e0c7</hash>
 	</game>
 	
 	<game name="Retail/Herbie - Fully Loaded (USA)">
@@ -5352,12 +5383,19 @@
 		<hash>56d29cad9e26f1d7465f803ed1d1426b</hash>
 	</game>
 	
-	<game name="Retail/Rockman EXE 6 - Dennoujuu Gregar (Japan) (En) (exeguy11) (v1.1)">
+	<game name="Retail/Rockman EXE 6/Rockman EXE 6 - Dennoujuu Gregar (Japan) (En) (v1.1) (Wii U Extras) (exeguy11)">
 		<category></category>
-		<description>Rockman EXE 6 - Dennoujuu Gregar (Japan) (En) (exeguy11) (v1.1)</description>
-		<rom name="Rockman EXE 6 - Dennoujuu Gregar (Japan) (En) (exeguy11) (v1.1).gba" size="16777216" crc="d4b8b057" md5="410c6df8eaef7b9e13853abf46dc689b" sha1="5fbcd9a2e1814cebe808ad6fc1a2df8d5b3c0721"/>
+		<description>Rockman EXE 6 - Dennoujuu Gregar (Japan) (En) (v1.1) (Wii U Extras) (exeguy11)</description>
+		<rom name="Rockman EXE 6 - Dennoujuu Gregar (Japan) (En) (v1.1) (Wii U Extras) (exeguy11).gba" size="16777216" crc="d4b8b057" md5="410c6df8eaef7b9e13853abf46dc689b" sha1="5fbcd9a2e1814cebe808ad6fc1a2df8d5b3c0721"/>
 		<url>https://retroachievements.org/game/781/hashes</url>
 		<hash>410c6df8eaef7b9e13853abf46dc689b</hash>
+	</game>
+	<game name="Retail/Rockman EXE 6/Rockman EXE 6 - Dennoujuu Gregar (Japan) (En) (v1.1) (exeguy11)">
+		<category></category>
+		<description>Rockman EXE 6 - Dennoujuu Gregar (Japan) (En) (v1.1) (exeguy11)</description>
+		<rom name="Rockman EXE 6 - Dennoujuu Gregar (Japan) (En) (v1.1) (exeguy11).gba" size="16777216" crc="1234616a" md5="734d1cc470ce6823d29d600c6032bc44" sha1="33dfad3e735b9b893f47393926b07a603266e52b"/>
+		<url>https://retroachievements.org/game/781/hashes</url>
+		<hash>734d1cc470ce6823d29d600c6032bc44</hash>
 	</game>
 	
 	<game name="Retail/Megaman Zero (USA, Europe)">
@@ -6508,14 +6546,14 @@
 	<game name="Retail/Prince of Persia - The Sands of Time/Prince of Persia - The Sands of Time (Europe) (En,Fr,De,Es,It,Nl)">
 		<category>Retail</category>
 		<description>Prince of Persia - The Sands of Time (Europe) (En,Fr,De,Es,It,Nl)</description>
-		<rom name="Prince of Persia - The Sands of Time (Europe) (En,Fr,De,Es,It,Nl).gba" size="4194304" crc="921b66e2" md5="69a9f59169766cda7ebc29be820a78a3" sha1="494156a4799d3c19de58d34917b6def7b15986e1"/>
+		<rom name="Prince of Persia - The Sands of Time (Europe) (En,Fr,De,Es,It,Nl).gba" size="8388608" crc="f0f16b7e" md5="69a9f59169766cda7ebc29be820a78a3" sha1="bf6a2b3bdb1fa3c010046306ecf4b2b5e67cceae"/>
 		<url>https://retroachievements.org/game/4693/hashes</url>
 		<hash>69a9f59169766cda7ebc29be820a78a3</hash>
 	</game>
 	<game name="Retail/Prince of Persia - The Sands of Time/Prince of Persia - The Sands of Time (USA) (En,Fr,Es)">
 		<category></category>
 		<description>Prince of Persia - The Sands of Time (USA) (En,Fr,Es)</description>
-		<rom name="Prince of Persia - The Sands of Time (USA) (En,Fr,Es).gba" size="4194304" crc="921b66e2" md5="6d820b583b6ab2cc5c901d56b43e38cb" sha1="494156a4799d3c19de58d34917b6def7b15986e1"/>
+		<rom name="Prince of Persia - The Sands of Time (USA) (En,Fr,Es).gba" size="8388608" crc="0c043ba6" md5="6d820b583b6ab2cc5c901d56b43e38cb" sha1="c169e0c60d3e2dd01b09c478de7bb62cadb516d6"/>
 		<url>https://retroachievements.org/game/4693/hashes</url>
 		<hash>6d820b583b6ab2cc5c901d56b43e38cb</hash>
 	</game>

@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260214</version>
+		<date>14 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
@@ -1659,12 +1659,19 @@
 		<hash>5bb925f4b51f013806eac20213bb3768</hash>
 	</game>
 	
-	<game name="Retail/Coraline (Europe) (En,Fr,De,Es,It)">
+	<game name="Retail/Coraline/Coraline (Europe) (En,Fr,De,Es,It)">
 		<category></category>
 		<description>Coraline (Europe) (En,Fr,De,Es,It)</description>
 		<rom name="Coraline (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="e59a70eb" md5="50fca3a534d305275d8a1e62f5743cb7" sha1="6e5a566f9063b7685a681ce06ebcfb0eaee4ab11"/>
 		<url>https://retroachievements.org/game/2091/hashes</url>
 		<hash>17b269e486e6e8779a748c088f9de781</hash>
+	</game>
+	<game name="Retail/Coraline/Coraline (Europe) (Ru) (v1.1) (COREline)">
+		<category></category>
+		<description>Coraline (Europe) (Ru) (v1.1) (COREline)</description>
+		<rom name="Coraline (Europe) (Ru) (v1.1) (COREline).nds" size="33554432" crc="fab92d3a" md5="507ad4034115b329a32690af6484986b" sha1="c4d45d49f4aa320c572d927c876ee2fc71fb322f"/>
+		<url>https://retroachievements.org/game/2091/hashes</url>
+		<hash>0afae9e24721420eebd5fa9ecd8f6b4d</hash>
 	</game>
 	
 	<game name="Retail/Coropata (Japan)">
@@ -4700,6 +4707,14 @@
 		<rom name="Underwater Puzzle - Echter Puzzlespass fuer Unterwegs (Europe) (En,Fr,De,Es,It).nds" size="8388608" crc="f1d92e9c" md5="bc6c90e7d15a7ab718dee6a412b3d651" sha1="ec9a418df6ce2095edb6c23d7b4400564d4248ec"/>
 		<url>https://retroachievements.org/game/18634/hashes</url>
 		<hash>bb27c9010cd7c66052577d11c7afde6e</hash>
+	</game>
+	
+	<game name="Retail/Puzzle Quest 2 (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Puzzle Quest 2 (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Puzzle Quest 2 (Europe) (En,Fr,De,Es,It).nds" size="33554432" crc="5c359236" md5="6831a3228dceb642352adb1fdb9a3fa2" sha1="6332fa995e6e40259dbbf815b700fc2862761aa8"/>
+		<url>https://retroachievements.org/game/16664/hashes</url>
+		<hash>7655f14ee6ee774a2536e960f4a2a454</hash>
 	</game>
 	
 	<game name="Retail/Puzzle Series Vol. 1 - Jigsaw Puzzle (Japan)">

@@ -5,8 +5,8 @@
 		<name>RA - Apple II</name>
 		<description>Apple II</description>
 		<category>Subfolders</category>
-		<version>20251116</version>
-		<date>16 November 2025</date>
+		<version>20260214</version>
+		<date>14 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/38/games</url>
@@ -1511,5 +1511,13 @@
 		<rom name="Zork I - The Great Underground Empire (World) (4AM).dsk" size="143360" crc="a0176100" md5="b3f18618df671c8722f3daa12a2671ab" sha1="b3abf950dc7b561dbdb39468a87cdbf6ec43efbe"/>
 		<url>https://retroachievements.org/game/13924/hashes</url>
 		<hash>b3f18618df671c8722f3daa12a2671ab</hash>
+	</game>
+	
+	<game name="Retail/Zork II (r48) (World) (4AM)">
+		<category></category>
+		<description>Zork II (r48) (World) (4AM)</description>
+		<rom name="Zork II (r48) (World) (4AM).dsk" size="143360" crc="4010432c" md5="fd40f31ccfd801186a02160b9fa51f05" sha1="a8bb2511f434f173eff2ce5c2ebf681c0eca1ff9"/>
+		<url>https://retroachievements.org/game/18584/hashes</url>
+		<hash>fd40f31ccfd801186a02160b9fa51f05</hash>
 	</game>
 </datafile>

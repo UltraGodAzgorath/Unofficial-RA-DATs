@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>No Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260214</version>
+		<date>14 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/7/games</url>
@@ -8708,6 +8708,31 @@
 		<hash>881f7570c7a228fda35f6bcc5ea024bf</hash>
 	</game>
 	
+	<game name="Hebereke (Japan) (En) (v1.0) (BMF54123)" cloneof="Ufouria - The Saga (Europe)">
+		<category>Retail</category>
+		<description>Hebereke (Japan) (En) (v1.0) (BMF54123)</description>
+		<release name="Hebereke (Japan) (En) (v1.0) (BMF54123)" region="English"/>
+		<rom name="Hebereke (Japan) (En) (v1.0) (BMF54123).nes" size="393232" crc="ac2e16e9" md5="562e3813d0ccb795dacefa2458c3571d" sha1="0af15831089f63eb54e751af460dce75357933ba"/>
+		<url>https://retroachievements.org/game/5051/hashes</url>
+		<hash>47f483766aa1284228791f4443552241</hash>
+	</game>
+	<game name="Hebereke (Japan)" cloneof="Ufouria - The Saga (Europe)">
+		<category>Retail</category>
+		<description>Hebereke (Japan)</description>
+		<release name="Hebereke (Japan)" region="Japan"/>
+		<rom name="Hebereke (Japan).nes" size="262160" crc="bb3993dc" md5="e6f510d5b867187b51c564768e4d20b5" sha1="c5c6f638d98b011d5bda71cd960b728ace3a98e7"/>
+		<url>https://retroachievements.org/game/5051/hashes</url>
+		<hash>a65e9c06d97fc082fd6f0db5f7939be9</hash>
+	</game>
+	<game name="Ufouria - The Saga (Europe)">
+		<category>Retail</category>
+		<description>Ufouria - The Saga (Europe)</description>
+		<release name="Ufouria - The Saga (Europe)" region="Europe"/>
+		<rom name="Ufouria - The Saga (Europe).nes" size="262160" crc="31973a56" md5="75190f8724f5541ad30234374432dd5c" sha1="5bafcf8e37417b38ecec32e12b82df162b6405cb"/>
+		<url>https://retroachievements.org/game/5051/hashes</url>
+		<hash>db90dd8c79c6709dd29c9892ba3afc5e</hash>
+	</game>
+	
 	<game name="Hello Kitty no Ohanabatake (Japan)">
 		<category>Retail</category>
 		<description>Hello Kitty no Ohanabatake (Japan)</description>
@@ -15692,31 +15717,6 @@
 		<hash>554f2359c6f55ecbd3a845fbe3931bf3</hash>
 	</game>
 	
-	<game name="Hebereke (Japan) (En) (v1.0) (BMF54123)" cloneof="Ufouria - The Saga (Europe)">
-		<category>Retail</category>
-		<description>Hebereke (Japan) (En) (v1.0) (BMF54123)</description>
-		<release name="Hebereke (Japan) (En) (v1.0) (BMF54123)" region="English"/>
-		<rom name="Hebereke (Japan) (En) (v1.0) (BMF54123).nes" size="393232" crc="ac2e16e9" md5="562e3813d0ccb795dacefa2458c3571d" sha1="0af15831089f63eb54e751af460dce75357933ba"/>
-		<url>https://retroachievements.org/game/5051/hashes</url>
-		<hash>47f483766aa1284228791f4443552241</hash>
-	</game>
-	<game name="Hebereke (Japan)" cloneof="Ufouria - The Saga (Europe)">
-		<category>Retail</category>
-		<description>Hebereke (Japan)</description>
-		<release name="Hebereke (Japan)" region="Japan"/>
-		<rom name="Hebereke (Japan).nes" size="262160" crc="bb3993dc" md5="e6f510d5b867187b51c564768e4d20b5" sha1="c5c6f638d98b011d5bda71cd960b728ace3a98e7"/>
-		<url>https://retroachievements.org/game/5051/hashes</url>
-		<hash>a65e9c06d97fc082fd6f0db5f7939be9</hash>
-	</game>
-	<game name="Ufouria - The Saga (Europe)">
-		<category>Retail</category>
-		<description>Ufouria - The Saga (Europe)</description>
-		<release name="Ufouria - The Saga (Europe)" region="Europe"/>
-		<rom name="Ufouria - The Saga (Europe).nes" size="262160" crc="31973a56" md5="75190f8724f5541ad30234374432dd5c" sha1="5bafcf8e37417b38ecec32e12b82df162b6405cb"/>
-		<url>https://retroachievements.org/game/5051/hashes</url>
-		<hash>db90dd8c79c6709dd29c9892ba3afc5e</hash>
-	</game>
-	
 	<game name="Ultima - Kyoufu no Exodus (Japan)" cloneof="Ultima - Exodus (USA)">
 		<category>Retail</category>
 		<description>Ultima - Kyoufu no Exodus (Japan)</description>
@@ -15950,15 +15950,6 @@
 		<hash>7a29ad976584c822833c6c673934ab30</hash>
 	</game>
 	
-	<game name="Wheel of Fortune - Junior Edition (USA)">
-		<category>Retail</category>
-		<description>Wheel of Fortune - Junior Edition (USA)</description>
-		<release name="Wheel of Fortune - Junior Edition (USA)" region="USA"/>
-		<rom name="Wheel of Fortune - Junior Edition (USA).nes" size="131088" crc="f93dac2e" md5="1d739541dd502a2becb5d9ae9042961e" sha1="aaf2397cf3d0080e89df096d2dc46a4e5f043f89"/>
-		<url>https://retroachievements.org/game/2070/hashes</url>
-		<hash>5d99ba6b7123af25349e0d3c20a3d624</hash>
-	</game>
-	
 	<game name="Wheel of Fortune Featuring Vanna White (USA)">
 		<category>Retail</category>
 		<description>Wheel of Fortune Featuring Vanna White (USA)</description>
@@ -15966,6 +15957,15 @@
 		<rom name="Wheel of Fortune Featuring Vanna White (USA).nes" size="131088" crc="d3255b59" md5="9345303fd1d3491d2eb6b944f2a66bae" sha1="0b95d37d4cf40d5cb55ac989671715abd058e0a5"/>
 		<url>https://retroachievements.org/game/2071/hashes</url>
 		<hash>8a9b281b40f18762924374a0698e10fc</hash>
+	</game>
+	
+	<game name="Wheel of Fortune - Junior Edition (USA)">
+		<category>Retail</category>
+		<description>Wheel of Fortune - Junior Edition (USA)</description>
+		<release name="Wheel of Fortune - Junior Edition (USA)" region="USA"/>
+		<rom name="Wheel of Fortune - Junior Edition (USA).nes" size="131088" crc="f93dac2e" md5="1d739541dd502a2becb5d9ae9042961e" sha1="aaf2397cf3d0080e89df096d2dc46a4e5f043f89"/>
+		<url>https://retroachievements.org/game/2070/hashes</url>
+		<hash>5d99ba6b7123af25349e0d3c20a3d624</hash>
 	</game>
 	
 	<game name="Where in Time Is Carmen Sandiego (USA)">
