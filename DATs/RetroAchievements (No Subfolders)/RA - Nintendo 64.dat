@@ -790,6 +790,15 @@
 		<hash>ad15b036ad90c8f86b57cca0b383f972</hash>
 	</game>
 	
+	<game name="Mario Kart 64 - Amped Up (v3.10) (Litronom) (Hack)">
+		<category>Hack</category>
+		<description>Mario Kart 64 - Amped Up (v3.10) (Litronom) (Hack)</description>
+		<release name="Mario Kart 64 - Amped Up (v3.10) (Litronom) (Hack)" region="World"/>
+		<rom name="Mario Kart 64 - Amped Up (v3.10) (Litronom) (Hack).z64" size="000" crc="000" md5="40a15aac19e9cef7a533d6a565a4c92f" sha1="000"/>
+		<url>https://retroachievements.org/game/17439/hashes</url>
+		<hash>40a15aac19e9cef7a533d6a565a4c92f</hash>
+	</game>
+	
 	<game name="SM64 - Mario on Indigo Island (Hard) (v1.3c) (usernamesarentimportant) (Hack)">
 		<category>Hack</category>
 		<description>SM64 - Mario on Indigo Island (Hard) (v1.3c) (usernamesarentimportant) (Hack)</description>
@@ -2642,6 +2651,15 @@
 		<hash>fd2242679f01015cdc9e6d3c3e678578</hash>
 	</game>
 	
+	<game name="SM64 - Star Revenge 0 - geSEGKt (v1.1) (BroDute) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - Star Revenge 0 - geSEGKt (v1.1) (BroDute) (Hack)</description>
+		<release name="SM64 - Star Revenge 0 - geSEGKt (v1.1) (BroDute) (Hack)" region="World"/>
+		<rom name="SM64 - Star Revenge 0 - geSEGKt (v1.1) (BroDute) (Hack).z64" size="000" crc="000" md5="cd741156226082dfcc16429b7074c081" sha1="000"/>
+		<url>https://retroachievements.org/game/35110/hashes</url>
+		<hash>cd741156226082dfcc16429b7074c081</hash>
+	</game>
+	
 	<game name="SM64 - Beyond the Cursed Mirror (v1.3.1) (rovertronic) (Hack)">
 		<category>Hack</category>
 		<description>SM64 - Beyond the Cursed Mirror (v1.3.1) (rovertronic) (Hack)</description>
@@ -3538,6 +3556,22 @@
 		<hash>494131ca43aa78058124ae71ac24de12</hash>
 	</game>
 	
+	<game name="SM64 - Super Mario Treasure World (v1.2.1) (Rambi_Rampage) (Hack)" cloneof="SM64 - Super Mario Treasure World (v1.2.1) (Infinite Lives) (Rambi_Rampage) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - Super Mario Treasure World (v1.2.1) (Rambi_Rampage) (Hack)</description>
+		<rom name="SM64 - Super Mario Treasure World (v1.2.1) (Rambi_Rampage) (Hack).z64" size="000" crc="000" md5="f15d14c5ef263efc685ae09bc4a54d81" sha1="000"/>
+		<url>https://retroachievements.org/game/31306/hashes</url>
+		<hash>f15d14c5ef263efc685ae09bc4a54d81</hash>
+	</game>
+	<game name="SM64 - Super Mario Treasure World (v1.2.1) (Infinite Lives) (Rambi_Rampage) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - Super Mario Treasure World (v1.2.1) (Infinite Lives) (Rambi_Rampage) (Hack)</description>
+		<release name="SM64 - Super Mario Treasure World (v1.2.1) (Infinite Lives) (Rambi_Rampage) (Hack)" region="World"/>
+		<rom name="SM64 - Super Mario Treasure World (v1.2.1) (Infinite Lives) (Rambi_Rampage) (Hack).z64" size="000" crc="000" md5="e85e206a13e7e4b3108512c2253ce117" sha1="000"/>
+		<url>https://retroachievements.org/game/31306/hashes</url>
+		<hash>e85e206a13e7e4b3108512c2253ce117</hash>
+	</game>
+	
 	<game name="SM64 - Tree of Dreams (v1.4) (AntLionAlpha) (Hack)">
 		<category>Hack</category>
 		<description>SM64 - Tree of Dreams (v1.4) (AntLionAlpha) (Hack)</description>
@@ -4322,6 +4356,15 @@
 		<rom name="SM64 - Tower of Delight (v1.1.0) (various) (Hack).z64" size="67108864" crc="40974946" md5="afd9e28ea5580d3a38e1f9f543d35e1a" sha1="1b93626a54b7faa160c5a7834055a19da9c8e596"/>
 		<url>https://retroachievements.org/game/28273/hashes</url>
 		<hash>afd9e28ea5580d3a38e1f9f543d35e1a</hash>
+	</game>
+	
+	<game name="SM64 - Transcending the Rainbow (v1.0.6) (amsixx, Serium) (Hack)">
+		<category>Hack</category>
+		<description>SM64 - Transcending the Rainbow (v1.0.6) (amsixx, Serium) (Hack)</description>
+		<release name="SM64 - Transcending the Rainbow (v1.0.6) (amsixx, Serium) (Hack)" region="World"/>
+		<rom name="SM64 - Transcending the Rainbow (v1.0.6) (amsixx, Serium) (Hack).z64" size="000" crc="000" md5="9f3bccc2d9b3f5ededcae5eef77df14d" sha1="000"/>
+		<url>https://retroachievements.org/game/36973/hashes</url>
+		<hash>9f3bccc2d9b3f5ededcae5eef77df14d</hash>
 	</game>
 	
 	<game name="SM64 - Traumatic Tick Tock Tower (v1.0) (Kaze Emanuar) (Hack)">

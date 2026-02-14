@@ -139,7 +139,7 @@
 	</game>
 	
 	<game name="Hack/SM64 - Auri's Amazing Arch Adventure (v1.0) (Caasje) (Hack)">
-		<category></category>
+		<category>Nintendo 64</category>
 		<description>SM64 - Auri's Amazing Arch Adventure (v1.0) (Caasje) (Hack)</description>
 		<rom name="SM64 - Auri's Amazing Arch Adventure (v1.0) (Caasje) (Hack).z64" size="67108864" crc="34e4a198" md5="1c79946027716f0e20e132e4fe3d589f" sha1="8b834617b8dcbfe6264100465819357e72df927e"/>
 		<url>https://retroachievements.org/game/37954/hashes</url>
@@ -377,7 +377,7 @@
 	</game>
 	
 	<game name="Hack/SM64 - Despair Mario's Gambit Hint Arts (v1.0) (various) (Hack)">
-		<category></category>
+		<category>Nintendo 64</category>
 		<description>SM64 - Despair Mario's Gambit Hint Arts (v1.0) (various) (Hack)</description>
 		<rom name="SM64 - Despair Mario's Gambit Hint Arts (v1.0) (various) (Hack).z64" size="67108864" crc="af742b7d" md5="4d018f3c633f14c3df36f28d6a8784d3" sha1="f857bb77789648e62e538c8fc259f35f4359c77d"/>
 		<url>https://retroachievements.org/game/37955/hashes</url>
@@ -691,7 +691,7 @@
 	</game>
 	
 	<game name="Hack/Paper Mario - Mario HATES 2025 (v1.0) (Den, Wrymouth, Darxoon) (Hack)">
-		<category></category>
+		<category>Nintendo 64</category>
 		<description>Paper Mario - Mario HATES 2025 (v1.0) (Den, Wrymouth, Darxoon) (Hack)</description>
 		<rom name="Paper Mario - Mario HATES 2025 (v1.0) (Den, Wrymouth, Darxoon) (Hack).z64" size="42244080" crc="e952d572" md5="b5ac0ed309f59730c238e3500b7bd10d" sha1="600c2d192f4b4cc15e4e497f7dfc3ff7178d411a"/>
 		<url>https://retroachievements.org/game/34875/hashes</url>
@@ -704,6 +704,14 @@
 		<rom name="SM64 - Mario in the Multiverse (v1.1.1) (rovertronic) (Hack).z64" size="39407888" crc="faba1df4" md5="ad15b036ad90c8f86b57cca0b383f972" sha1="3e79fb109c5d3f890475b5698e2561c15e342bd1"/>
 		<url>https://retroachievements.org/game/32649/hashes</url>
 		<hash>ad15b036ad90c8f86b57cca0b383f972</hash>
+	</game>
+	
+	<game name="Hack/Mario Kart 64 - Amped Up (v3.10) (Litronom) (Hack)">
+		<category>Nintendo 64</category>
+		<description>Mario Kart 64 - Amped Up (v3.10) (Litronom) (Hack)</description>
+		<rom name="Mario Kart 64 - Amped Up (v3.10) (Litronom) (Hack).z64" size="000" crc="000" md5="40a15aac19e9cef7a533d6a565a4c92f" sha1="000"/>
+		<url>https://retroachievements.org/game/17439/hashes</url>
+		<hash>40a15aac19e9cef7a533d6a565a4c92f</hash>
 	</game>
 	
 	<game name="Hack/Super Mario 64/SM64 - Mario on Indigo Island (Hard) (v1.3c) (usernamesarentimportant) (Hack)">
@@ -2336,6 +2344,14 @@
 		<hash>fd2242679f01015cdc9e6d3c3e678578</hash>
 	</game>
 	
+	<game name="Hack/Super Mario 64/SM64 - Star Revenge 0 - geSEGKt (v1.1) (BroDute) (Hack)">
+		<category>Nintendo 64</category>
+		<description>SM64 - Star Revenge 0 - geSEGKt (v1.1) (BroDute) (Hack)</description>
+		<rom name="SM64 - Star Revenge 0 - geSEGKt (v1.1) (BroDute) (Hack).z64" size="000" crc="000" md5="cd741156226082dfcc16429b7074c081" sha1="000"/>
+		<url>https://retroachievements.org/game/35110/hashes</url>
+		<hash>cd741156226082dfcc16429b7074c081</hash>
+	</game>
+	
 	<game name="Hack/Super Mario 64/SM64 - Beyond the Cursed Mirror (v1.3.1) (rovertronic) (Hack)">
 		<category>Nintendo 64</category>
 		<description>SM64 - Beyond the Cursed Mirror (v1.3.1) (rovertronic) (Hack)</description>
@@ -2677,7 +2693,7 @@
 	</game>
 	
 	<game name="Hack/SM64 - Super Mario 4 (v1.0.1) (Various) (Hack)">
-		<category></category>
+		<category>Nintendo 64</category>
 		<description>SM64 - Super Mario 4 (v1.0.1) (Various) (Hack)</description>
 		<rom name="SM64 - Super Mario 4 (v1.0.1) (Various) (Hack).z64" size="67108864" crc="d66e52eb" md5="9135e0361658fc0aae3915c7ad310acb" sha1="e09711ac8f55c0b678306074d48cf9a1424638af"/>
 		<url>https://retroachievements.org/game/35103/hashes</url>
@@ -2813,7 +2829,7 @@
 	</game>
 	
 	<game name="Hack/Super Mario 64/SM64 - The Dark Stars (v1.1.3) (Caasje) (Hack)">
-		<category></category>
+		<category>Nintendo 64</category>
 		<description>SM64 - The Dark Stars (v1.1.3) (Caasje) (Hack)</description>
 		<rom name="SM64 - The Dark Stars (v1.1.3) (Caasje) (Hack).z64" size="67108864" crc="07189477" md5="ece9ebb71413bbee956b9df1e46725c6" sha1="afb71e5c19ea475b1fc4549dc13282ce40783b05"/>
 		<url>https://retroachievements.org/game/36972/hashes</url>
@@ -2861,7 +2877,7 @@
 	</game>
 	
 	<game name="Hack/Super Mario 64/SM64 - Twisted Adventures (v2.2) (Lincrash, SomeRussianMarioDude) (Hack)">
-		<category></category>
+		<category>Nintendo 64</category>
 		<description>SM64 - Twisted Adventures (v2.2) (Lincrash, SomeRussianMarioDude) (Hack)</description>
 		<release name="SM64 - Twisted Adventures (v2.2) (Lincrash, SomeRussianMarioDude) (Hack)" region="World"/>
 		<rom name="SM64 - Twisted Adventures (v2.2) (Lincrash, SomeRussianMarioDude) (Hack).z64" size="50331648" crc="49f0389e" md5="b5ae14c8973591df1edeb3aca59d9bc8" sha1="9a3e3dc3a428d6f8a8ba6696ad91cebe07968307"/>
@@ -3141,6 +3157,21 @@
 		<rom name="SM64 - Super Mario Sunshine 64 (Team Cornersoft, Kaze Emanuar) (Hack).z64" size="67108864" crc="d115be46" md5="494131ca43aa78058124ae71ac24de12" sha1="d51da4d06fc6cfe25e47483aefe71ba844e57253"/>
 		<url>https://retroachievements.org/game/17748/hashes</url>
 		<hash>494131ca43aa78058124ae71ac24de12</hash>
+	</game>
+	
+	<game name="Hack/Super Mario 64/SM64 - Super Mario Treasure World (v1.2.1) (Rambi_Rampage) (Hack)">
+		<category>Nintendo 64</category>
+		<description>SM64 - Super Mario Treasure World (v1.2.1) (Rambi_Rampage) (Hack)</description>
+		<rom name="SM64 - Super Mario Treasure World (v1.2.1) (Rambi_Rampage) (Hack).z64" size="000" crc="000" md5="f15d14c5ef263efc685ae09bc4a54d81" sha1="000"/>
+		<url>https://retroachievements.org/game/31306/hashes</url>
+		<hash>f15d14c5ef263efc685ae09bc4a54d81</hash>
+	</game>
+	<game name="Hack/Super Mario 64/SM64 - Super Mario Treasure World (v1.2.1) (Infinite Lives) (Rambi_Rampage) (Hack)">
+		<category>Nintendo 64</category>
+		<description>SM64 - Super Mario Treasure World (v1.2.1) (Infinite Lives) (Rambi_Rampage) (Hack)</description>
+		<rom name="SM64 - Super Mario Treasure World (v1.2.1) (Infinite Lives) (Rambi_Rampage) (Hack).z64" size="000" crc="000" md5="e85e206a13e7e4b3108512c2253ce117" sha1="000"/>
+		<url>https://retroachievements.org/game/31306/hashes</url>
+		<hash>e85e206a13e7e4b3108512c2253ce117</hash>
 	</game>
 	
 	<game name="Hack/Super Mario 64/SM64 - Tree of Dreams (v1.4) (AntLionAlpha) (Hack)">
@@ -3848,6 +3879,14 @@
 		<hash>afd9e28ea5580d3a38e1f9f543d35e1a</hash>
 	</game>
 	
+	<game name="Hack/Super Mario 64/SM64 - Transcending the Rainbow (v1.0.6) (amsixx, Serium) (Hack)">
+		<category>Nintendo 64</category>
+		<description>SM64 - Transcending the Rainbow (v1.0.6) (amsixx, Serium) (Hack)</description>
+		<rom name="SM64 - Transcending the Rainbow (v1.0.6) (amsixx, Serium) (Hack).z64" size="000" crc="000" md5="9f3bccc2d9b3f5ededcae5eef77df14d" sha1="000"/>
+		<url>https://retroachievements.org/game/36973/hashes</url>
+		<hash>9f3bccc2d9b3f5ededcae5eef77df14d</hash>
+	</game>
+	
 	<game name="Hack/Super Mario 64/SM64 - Traumatic Tick Tock Tower (v1.0) (Kaze Emanuar) (Hack)">
 		<category>Nintendo 64</category>
 		<description>SM64 - Traumatic Tick Tock Tower (v1.0) (Kaze Emanuar) (Hack)</description>
@@ -4180,7 +4219,7 @@
 	</game>
 	
 	<game name="Retail/Blues Brothers 2000 (USA)">
-		<category></category>
+		<category>Nintendo 64</category>
 		<description>Blues Brothers 2000 (USA)</description>
 		<rom name="Blues Brothers 2000 (USA).z64" size="16777216" crc="c6f49764" md5="997fd8f79cd6f3cd1c1c1fd21e358717" sha1="ed0fe7c9a2e8015bdf8262d35065f53c6fcea60f"/>
 		<url>https://retroachievements.org/game/10453/hashes</url>
@@ -5036,7 +5075,7 @@
 	</game>
 	
 	<game name="Retail/MRC - Multi-Racing Championship (USA)">
-		<category></category>
+		<category>Nintendo 64</category>
 		<description>MRC - Multi-Racing Championship (USA)</description>
 		<rom name="MRC - Multi-Racing Championship (USA).z64" size="12582912" crc="1dc1c812" md5="fc61d60f2c6fe4610f70ce4949a7a062" sha1="8bea68833d63b2f17daad4477a572c274a9468be"/>
 		<url>https://retroachievements.org/game/10487/hashes</url>
@@ -5106,21 +5145,21 @@
 		<hash>ac6c61e0652075869190e168a838e803</hash>
 	</game>
 	
-	<game name="Subset/Paper Mario (USA) (Exclusive Subset - Glitch Showcase)">
+	<game name="Subset/Paper Mario/Paper Mario (USA) (Exclusive Subset - Glitch Showcase)">
 		<category>Nintendo 64</category>
 		<description>Paper Mario (USA) (Exclusive Subset - Glitch Showcase)</description>
 		<rom name="Paper Mario (USA) (Exclusive Subset - Glitch Showcase).z64" size="41943040" crc="4ce7747f" md5="f901839bef29ccf84f5fd735680fe5d3" sha1="e77d36fee8cbf85785c3bf1c50112106ca37806c"/>
 		<url>https://retroachievements.org/game/33114/hashes</url>
 		<hash>f901839bef29ccf84f5fd735680fe5d3</hash>
 	</game>
-	<game name="Subset/Mario Story (Japan) (Exclusive Subset - Glitch Showcase)">
+	<game name="Subset/Paper Mario/Mario Story (Japan) (Exclusive Subset - Glitch Showcase)">
 		<category>Nintendo 64</category>
 		<description>Mario Story (Japan) (Exclusive Subset - Glitch Showcase)</description>
 		<rom name="Mario Story (Japan) (Exclusive Subset - Glitch Showcase).z64" size="41943040" crc="cafed080" md5="72fb235fd9d0132034eea86b8faaa5e6" sha1="d76e7f6433edf63f212886760ecc11e708d901a4"/>
 		<url>https://retroachievements.org/game/33114/hashes</url>
 		<hash>72fb235fd9d0132034eea86b8faaa5e6</hash>
 	</game>
-	<game name="Subset/Paper Mario (Europe) (En,Fr,De,Es) (Exclusive Subset - Glitch Showcase)">
+	<game name="Subset/Paper Mario/Paper Mario (Europe) (En,Fr,De,Es) (Exclusive Subset - Glitch Showcase)">
 		<category>Nintendo 64</category>
 		<description>Paper Mario (Europe) (En,Fr,De,Es) (Exclusive Subset - Glitch Showcase)</description>
 		<rom name="Paper Mario (Europe) (En,Fr,De,Es) (Exclusive Subset - Glitch Showcase).z64" size="50331648" crc="63804352" md5="59930296c994278c7311c55de48f01e2" sha1="6f792aa7902a59a1297e813d2c476372c1e1ba61"/>

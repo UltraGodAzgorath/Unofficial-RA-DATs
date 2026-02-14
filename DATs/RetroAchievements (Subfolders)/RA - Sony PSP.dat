@@ -112,14 +112,14 @@
 	</machine>
 	
 	<machine name="Retail/7th Dragon 2020 (Japan) (En) (v0.91) (Pokeytax)">
-		<category></category>
+		<category>PSP</category>
 		<description>7th Dragon 2020 (Japan) (En) (v0.91) (Pokeytax)</description>
 		<disk name="7th Dragon 2020 (Japan) (En) (v0.91) (Pokeytax).chd" sha1="0ffae15b842c4f8ca95acaf7106589a807b5a36d"/>
 		<url>https://retroachievements.org/game/16452/hashes</url>
 		<hash>e325415639128477867df7310817d5b2</hash>
 	</machine>
 	<machine name="Retail/7th Dragon 2020 (Japan)">
-		<category></category>
+		<category>PSP</category>
 		<description>7th Dragon 2020 (Japan)</description>
 		<disk name="7th Dragon 2020 (Japan).chd" sha1="624e55753ecba16b2019789e868d4f9eb98df0ca"/>
 		<url>https://retroachievements.org/game/16452/hashes</url>
@@ -686,7 +686,7 @@
 	</machine>
 	
 	<machine name="Retail/Disgaea Infinite (USA)">
-		<category></category>
+		<category>PSP</category>
 		<description>Disgaea Infinite (USA)</description>
 		<disk name="Disgaea Infinite (USA).chd" sha1="629756f26462b5bb331d8a704e89189ffe04b1d4"/>
 		<url>https://retroachievements.org/game/22482/hashes</url>
@@ -1451,8 +1451,8 @@
 		<hash>e5b4c93a83739817d33e9ec3576ae008</hash>
 	</machine>
 	
-	<machine name="Exclusive Subset/K-On! Houkago Live!! HD Ver. (En) (v4.1.23) (Exclusive Subset - Full Combo Songs)">
-		<category></category>
+	<machine name="Subset/K-On! Houkago Live!! HD Ver. (En) (v4.1.23) (Exclusive Subset - Full Combo Songs)">
+		<category>PSP</category>
 		<description>K-On! Houkago Live!! HD Ver. (En) (v4.1.23) (Exclusive Subset - Full Combo Songs)</description>
 		<release name="K-On! Houkago Live!! HD Ver. (En) (v4.1.23) (Exclusive Subset - Full Combo Songs)" region="English"/>
 		<disk name="K-On! Houkago Live!! HD Ver. (En) (v4.1.23) (Exclusive Subset - Full Combo Songs).chd" sha1="41e96ece18b40b18df9c6e11a64b77ca2088bbe7"/>
@@ -1810,7 +1810,7 @@
 	</machine>
 	
 	<machine name="Retail/Midnight Club 3 - DUB Edition (USA) (v2.02)">
-		<category></category>
+		<category>PSP</category>
 		<description>Midnight Club 3 - DUB Edition (USA) (v2.02)</description>
 		<disk name="Midnight Club 3 - DUB Edition (USA) (v2.02).chd" sha1="67a9ca976bca942662743e902d4f1150294cf212"/>
 		<url>https://retroachievements.org/game/3888/hashes</url>
@@ -2700,7 +2700,7 @@
 	</machine>
 	
 	<machine name="Retail/Idolmaster Shiny Festa, The - Groovy Tune (Japan)">
-		<category></category>
+		<category>PSP</category>
 		<description>Idolmaster Shiny Festa, The - Groovy Tune (Japan)</description>
 		<disk name="Idolmaster Shiny Festa, The - Groovy Tune (Japan).chd" sha1="88e44c6f9a8015a449f5c7dcf89ebadf77571571"/>
 		<url>https://retroachievements.org/game/31821/hashes</url>
@@ -3195,7 +3195,7 @@
 	</machine>
 	
 	<machine name="Retail/Zuma (USA) (PSP) (PSN)">
-		<category></category>
+		<category>PSP</category>
 		<description>Zuma (USA) (PSP) (PSN)</description>
 		<disk name="Zuma (USA) (PSP) (PSN).chd" sha1="1c998c59093d51ad80b5f573a625ed354998ba76"/>
 		<url>https://retroachievements.org/game/31367/hashes</url>
