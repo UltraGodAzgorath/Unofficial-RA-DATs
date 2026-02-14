@@ -2700,7 +2700,7 @@
 		<hash>6d77d9f9b34323e4060206b675620b8d</hash>
 	</game>
 	
-	<game name="Exclusive Subset/Kirby Super Star Ultra (Exclusive Subset - Minimum Jump Challenge)">
+	<game name="Subset/Kirby Super Star Ultra (Exclusive Subset - Minimum Jump Challenge)">
 		<category></category>
 		<description>Kirby Super Star Ultra (Exclusive Subset - Minimum Jump Challenge)</description>
 		<rom name="Kirby Super Star Ultra (Exclusive Subset - Minimum Jump Challenge).nds" size="134217728" crc="c746e163" md5="5886d8b3995688c875a77088b2b5558c" sha1="06b5f6e6946fdc7facbc7d49d167dfb571fae260"/>
@@ -3870,7 +3870,7 @@
 		<hash>76cf05a94a00998e28878ffe3e82a3ba</hash>
 	</game>
 	
-	<game name="Exclusive Subset/Plants vs. Zombies (USA) (Exclusive Subset - Zen Garden)">
+	<game name="Subset/Plants vs. Zombies (USA) (Exclusive Subset - Zen Garden)">
 		<category></category>
 		<description>Plants vs. Zombies (USA) (Exclusive Subset - Zen Garden)</description>
 		<rom name="Plants vs. Zombies (USA) (Exclusive Subset - Zen Garden).nds" size="67108864" crc="660cc1fa" md5="8a847f41683e131a649adbe288132ff6" sha1="a01dcf999046021d9572f18d3168a760c0cb7c11"/>
@@ -3894,7 +3894,7 @@
 		<hash>bd562276c75b98cbd185231c1b1d016e</hash>
 	</game>
 	
-	<game name="Specialty Subset/Pokemon - Black Version (Specialty Subset - Professor Oak Challenge)">
+	<game name="Subset/Pokemon - Black Version (Specialty Subset - Professor Oak Challenge)">
 		<category></category>
 		<description>Pokemon - Black Version (Specialty Subset - Professor Oak Challenge)</description>
 		<rom name="Pokemon - Black Version (Specialty Subset - Professor Oak Challenge).nds" size="268435456" crc="f756a6f1" md5="83a81b938e9a3037dd686a1accf1d8ad" sha1="41699c35fbf42d3d49d1dc54dae27e5698df0b69"/>
@@ -3910,7 +3910,7 @@
 		<hash>a7825c7d4f9ae72532297323bfeba902</hash>
 	</game>
 	
-	<game name="Exclusive Subset/Pokemon - Black Version 2 (Exclusive Subset - Monotype Challenge)">
+	<game name="Subset/Pokemon - Black Version 2 (Exclusive Subset - Monotype Challenge)">
 		<category></category>
 		<description>Pokemon - Black Version 2 (Exclusive Subset - Monotype Challenge)</description>
 		<rom name="Pokemon - Black Version 2 (Exclusive Subset - Monotype Challenge).nds" size="536870912" crc="c512ece6" md5="65d5cd3b4790607fc5809f069598a308" sha1="6e5865412ce9d00dc1e5144d23e75d528c61e2e5"/>
@@ -4057,49 +4057,49 @@
 		<hash>f87d7a0d85173d27ff7a61058b35e004</hash>
 	</game>
 	
-	<game name="Specialty Subset/Pokemon - Versione Oro HeartGold (Italy) (Specialty Subset - Professor Oak Challenge)">
+	<game name="Subset/Pokemon - Versione Oro HeartGold (Italy) (Specialty Subset - Professor Oak Challenge)">
 		<category></category>
 		<description>Pokemon - Versione Oro HeartGold (Italy) (Specialty Subset - Professor Oak Challenge)</description>
 		<rom name="Pokemon - Versione Oro HeartGold (Italy) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="bc3b359f" md5="fc69bcfb6804dc42c70023c5bb3ac4fe" sha1="8fa5218528d0a2ad7e99b2ab73562619fb656f2c"/>
 		<url>https://retroachievements.org/game/22862/hashes</url>
 		<hash>016dc43b77c62833f82f55a35afd1551</hash>
 	</game>
-	<game name="Specialty Subset/Pokemon - Goldene Edition HeartGold (Germany) (Specialty Subset - Professor Oak Challenge)">
+	<game name="Subset/Pokemon - Goldene Edition HeartGold (Germany) (Specialty Subset - Professor Oak Challenge)">
 		<category></category>
 		<description>Pokemon - Goldene Edition HeartGold (Germany) (Specialty Subset - Professor Oak Challenge)</description>
 		<rom name="Pokemon - Goldene Edition HeartGold (Germany) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="cba656a1" md5="568efd4d5772e036c6a5432f5763229e" sha1="cba0f089add4834cfc20a49172e9aec4c239269e"/>
 		<url>https://retroachievements.org/game/22862/hashes</url>
 		<hash>343a8079b4c705c3bfb2ea51ea428d32</hash>
 	</game>
-	<game name="Specialty Subset/Pokemon - Version Or HeartGold (France) (Specialty Subset - Professor Oak Challenge)">
+	<game name="Subset/Pokemon - Version Or HeartGold (France) (Specialty Subset - Professor Oak Challenge)">
 		<category></category>
 		<description>Pokemon - Version Or HeartGold (France) (Specialty Subset - Professor Oak Challenge)</description>
 		<rom name="Pokemon - Version Or HeartGold (France) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="bfb659cf" md5="ca49d4f07191214f298e0cdb299ea201" sha1="0fbecea61b458d5e9365644442b7eece2d049bcd"/>
 		<url>https://retroachievements.org/game/22862/hashes</url>
 		<hash>3f1a1e43f92885622da94962d4a73c19</hash>
 	</game>
-	<game name="Specialty Subset/Pokemon - Edicion Oro HeartGold (Spain) (Specialty Subset - Professor Oak Challenge)">
+	<game name="Subset/Pokemon - Edicion Oro HeartGold (Spain) (Specialty Subset - Professor Oak Challenge)">
 		<category></category>
 		<description>Pokemon - Edicion Oro HeartGold (Spain) (Specialty Subset - Professor Oak Challenge)</description>
 		<rom name="Pokemon - Edicion Oro HeartGold (Spain) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="cf64070f" md5="1fff18fec71255503c636dde96daaf34" sha1="150732ecc042a49268588b90598681a3c72fc92c"/>
 		<url>https://retroachievements.org/game/22862/hashes</url>
 		<hash>712240d06706dee684aa593936245e25</hash>
 	</game>
-	<game name="Specialty Subset/Pokemon - HeartGold Version (Europe) (Specialty Subset - Professor Oak Challenge)">
+	<game name="Subset/Pokemon - HeartGold Version (Europe) (Specialty Subset - Professor Oak Challenge)">
 		<category></category>
 		<description>Pokemon - HeartGold Version (Europe) (Specialty Subset - Professor Oak Challenge)</description>
 		<rom name="Pokemon - HeartGold Version (Europe) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="2c131e38" md5="69e34e7c5a3b46e88a2f30ab0f0b9dc0" sha1="f084897f4e3e3d2732b52f7faaabe7784ecb8e97"/>
 		<url>https://retroachievements.org/game/22862/hashes</url>
 		<hash>aa07fa8184c5ce3ffdc4ce41a34aca0d</hash>
 	</game>
-	<game name="Specialty Subset/Pokemon - HeartGold Version (USA) (Specialty Subset - Professor Oak Challenge)">
+	<game name="Subset/Pokemon - HeartGold Version (USA) (Specialty Subset - Professor Oak Challenge)">
 		<category></category>
 		<description>Pokemon - HeartGold Version (USA) (Specialty Subset - Professor Oak Challenge)</description>
 		<rom name="Pokemon - HeartGold Version (USA) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="ed783999" md5="724a6564d97a50489c5e471f5b40e9e0" sha1="8e5f186f5831bc209641a319e8b15901f40c02fd"/>
 		<url>https://retroachievements.org/game/22862/hashes</url>
 		<hash>be7cd34905e43fa1163ddfe5128b3a1f</hash>
 	</game>
-	<game name="Specialty Subset/Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)">
+	<game name="Subset/Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)">
 		<category></category>
 		<description>Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)</description>
 		<rom name="Pokemon - HeartGold Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="ea13253d" md5="b4b0fe88fbc2b36e206ee510bd8c757a" sha1="26c4a3144a957a046b16bce84768766e8d76f6f7"/>
@@ -4222,7 +4222,7 @@
 		<hash>55f8c2296cc23bf0aa4615bea1e1181e</hash>
 	</game>
 	
-	<game name="Exclusive Subset/Pokemon - Mystery Dungeon - Explorers of Sky (Exclusive Subset - Zero Isle South Runs)">
+	<game name="Subset/Pokemon - Mystery Dungeon - Explorers of Sky (Exclusive Subset - Zero Isle South Runs)">
 		<category></category>
 		<description>Pokemon - Mystery Dungeon - Explorers of Sky (Exclusive Subset - Zero Isle South Runs)</description>
 		<rom name="Pokemon - Mystery Dungeon - Explorers of Sky (Exclusive Subset - Zero Isle South Runs).nds" size="134217728" crc="d05ab3d5" md5="5d7808689b8b5389669244090c69f220" sha1="27ac888800cf76daf9d9531c10bd3c9c34b6d6c3"/>
@@ -4326,42 +4326,42 @@
 		<hash>26ca96f719ec88e9ea90191e386df889</hash>
 	</game>
 	
-	<game name="Specialty Subset/Pokemon - SoulSilver Version (USA) (Specialty Subset - Professor Oak Challenge)">
+	<game name="Subset/Pokemon - SoulSilver Version (USA) (Specialty Subset - Professor Oak Challenge)">
 		<category></category>
 		<description>Pokemon - SoulSilver Version (USA) (Specialty Subset - Professor Oak Challenge)</description>
 		<rom name="Pokemon - SoulSilver Version (USA) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="d0798f97" md5="324b371ff78b76829d1100cb1eab5cae" sha1="a9a5e3448ce191aa807c4c0964d4a9f83ba76daa"/>
 		<url>https://retroachievements.org/game/22693/hashes</url>
 		<hash>20c27f49fc308721cd22c66a96abb3b2</hash>
 	</game>
-	<game name="Specialty Subset/Pokemon - Silberne Edition SoulSilver (Germany) (Specialty Subset - Professor Oak Challenge)">
+	<game name="Subset/Pokemon - Silberne Edition SoulSilver (Germany) (Specialty Subset - Professor Oak Challenge)">
 		<category></category>
 		<description>Pokemon - Silberne Edition SoulSilver (Germany) (Specialty Subset - Professor Oak Challenge)</description>
 		<rom name="Pokemon - Silberne Edition SoulSilver (Germany) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="9c774ab2" md5="7bb1a1fa06d7e9bcacb19d704f9e9395" sha1="2d0883d2d0c82589e430473d34c8b11cfdf4f9a5"/>
 		<url>https://retroachievements.org/game/22693/hashes</url>
 		<hash>3f2a2fd7612c0ae15f19448890ecff4b</hash>
 	</game>
-	<game name="Specialty Subset/Pokemon - Versione Argento SoulSilver (Italy) (Specialty Subset - Professor Oak Challenge)">
+	<game name="Subset/Pokemon - Versione Argento SoulSilver (Italy) (Specialty Subset - Professor Oak Challenge)">
 		<category></category>
 		<description>Pokemon - Versione Argento SoulSilver (Italy) (Specialty Subset - Professor Oak Challenge)</description>
 		<rom name="Pokemon - Versione Argento SoulSilver (Italy) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="08d24161" md5="05e355af2d57b79c1218cbbb7069ec85" sha1="8084bc0a94563cb331ab9f20e6f99dafb5013b20"/>
 		<url>https://retroachievements.org/game/22693/hashes</url>
 		<hash>47c4d95a7db0dd6d9c651d1f5f27d17a</hash>
 	</game>
-	<game name="Specialty Subset/Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)">
+	<game name="Subset/Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)">
 		<category></category>
 		<description>Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge)</description>
 		<rom name="Pokemon - SoulSilver Version (USA) (Uncapped Framerate) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="37c384cf" md5="9b1dcd60a6e8c288d26c2a153e8a9217" sha1="05dcb69f22e8b53ca7d8ca6f7c57f0cb3133e2ae"/>
 		<url>https://retroachievements.org/game/22693/hashes</url>
 		<hash>9d687f3b51c69fed62c5d56e4156f3c5</hash>
 	</game>
-	<game name="Specialty Subset/Pokemon - Version Argent SoulSilver (France) (Specialty Subset - Professor Oak Challenge)">
+	<game name="Subset/Pokemon - Version Argent SoulSilver (France) (Specialty Subset - Professor Oak Challenge)">
 		<category></category>
 		<description>Pokemon - Version Argent SoulSilver (France) (Specialty Subset - Professor Oak Challenge)</description>
 		<rom name="Pokemon - Version Argent SoulSilver (France) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="3e434a3e" md5="6fc8d08fd2e636b31e060bfb9d615268" sha1="68cdd858c4e26078067e38579882461b0f0b77e2"/>
 		<url>https://retroachievements.org/game/22693/hashes</url>
 		<hash>b8d2f18999bb0aa16b617717106b7500</hash>
 	</game>
-	<game name="Specialty Subset/Pokemon - SoulSilver Version (Europe) (Specialty Subset - Professor Oak Challenge)">
+	<game name="Subset/Pokemon - SoulSilver Version (Europe) (Specialty Subset - Professor Oak Challenge)">
 		<category></category>
 		<description>Pokemon - SoulSilver Version (Europe) (Specialty Subset - Professor Oak Challenge)</description>
 		<rom name="Pokemon - SoulSilver Version (Europe) (Specialty Subset - Professor Oak Challenge).nds" size="134217728" crc="9e1f310f" md5="5b9454267c031a4d393c3f771ae68c09" sha1="cb5766425d8a14c87162d711ac22d5cfa5f22f43"/>
@@ -4400,7 +4400,7 @@
 		<hash>85f54f655e1b82f79984c4df3b35fcc9</hash>
 	</game>
 	
-	<game name="Exclusive Subset/Pokemon - White Version 2 (Exclusive Subset - Challenge Mode)">
+	<game name="Subset/Pokemon - White Version 2 (Exclusive Subset - Challenge Mode)">
 		<category></category>
 		<description>Pokemon - White Version 2 (Exclusive Subset - Challenge Mode)</description>
 		<rom name="Pokemon - White Version 2 (Exclusive Subset - Challenge Mode).nds" size="287462100" crc="f9f75eb0" md5="77c8fbc95be622fdaae168c8bdbf9941" sha1="c06f7d2f31b13d188249d2c646df0b5e4cdd7375"/>
@@ -4866,7 +4866,7 @@
 		<hash>7e8132d55284e121aa3c4d8538b57761</hash>
 	</game>
 	
-	<game name="Specialty Subset/Retro Game Challenge 2 (Specialty Subset - Daily Challenge)">
+	<game name="Subset/Retro Game Challenge 2 (Specialty Subset - Daily Challenge)">
 		<category></category>
 		<description>Retro Game Challenge 2 (Specialty Subset - Daily Challenge)</description>
 		<rom name="Retro Game Challenge 2 (Specialty Subset - Daily Challenge).nds" size="58867792" crc="c78cc2fe" md5="3be06c70ddb67dc1d7c99b52855a531b" sha1="55b795ff20b918bffe95667bfba0ccd4f39a93d4"/>
