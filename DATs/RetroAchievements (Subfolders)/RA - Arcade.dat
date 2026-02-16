@@ -3070,22 +3070,22 @@
 		<biosset name="bios12" description="epr-23610b (Australia)"/>
 		<biosset name="bios13" description="epr-23605c (multi-region hack)"/>
 		<rom name="317-0317-com.pic" size="16384" crc="ef65fe73" sha1="2c02d1570c1fdad56bc684c60bb17255c73c6d45"/>
-		<rom name="epr-23605.ic27" sha1="787b0844fc408cf124c12405c095c59948709ea6"/>
-		<rom name="epr-23605a.ic27" sha1="a4a9531a7c66ff30046908cf71f6c7b6fb59c392"/>
-		<rom name="epr-23605b.ic27" sha1="aaca4df51ef91d926f8191d372f3dfe1d20d9484"/>
-		<rom name="epr-23605c.ic27" sha1="cfbfe57c80e6ee86a101fa83aec0a01e00c0f42a"/>
-		<rom name="epr-23605c_multi.ic27" sha1="a8b7dce572b74e02e65cb949b2c366c87625157f"/>
-		<rom name="epr-23607.ic27" sha1="547de5f97d3183c8cd069c4fa3c09f13d8b637d9"/>
-		<rom name="epr-23607b.ic27" sha1="5470ab1cee6afecbd8ca8cf40f8fbe4ec2cb1471"/>
-		<rom name="epr-23607c.ic27" sha1="81d0b1a076c274c6bd7c53b65e7b80e14fe039e1"/>
-		<rom name="epr-23608.ic27" sha1="47d00c818de23f733a4a33b1bbc72eb8aa729246"/>
-		<rom name="epr-23608a.ic27" sha1="28f4de747bb3cf860b9ebf897322fbc5d7c1e156"/>
-		<rom name="epr-23608b.ic27" sha1="343b727a3619d1c75a9b6d4cc156a9050447f155"/>
-		<rom name="epr-23608c.ic27" sha1="25ef957ec1c58fdaff5e89102002bca6c38832c5"/>
-		<rom name="epr-23609b.ic27" sha1="8a244f75595c49d2a37a42ab96b6bab35163ca0e"/>
-		<rom name="epr-23610b.ic27" sha1="0b3a36446c308fcbfe3647df45c848091e8797f1"/>
-		<rom name="main_eeprom.bin" sha1="4099f1747aafa07db34f6e072cd9bfaa83bae10e"/>
-		<rom name="x76f100_eeprom.bin" sha1="3a730ebcf56e0060fef6b1b02eb2eb7cfb7e61dc"/>
+		<rom name="epr-23605.ic27" merge="epr-23605.ic27" size="2097152" crc="5731e446" sha1="787b0844fc408cf124c12405c095c59948709ea6"/>
+		<rom name="epr-23605a.ic27" merge="epr-23605a.ic27" size="2097152" crc="7bc3fc2d" sha1="a4a9531a7c66ff30046908cf71f6c7b6fb59c392"/>
+		<rom name="epr-23605b.ic27" merge="epr-23605b.ic27" size="2097152" crc="3a3242d4" sha1="aaca4df51ef91d926f8191d372f3dfe1d20d9484"/>
+		<rom name="epr-23605c.ic27" merge="epr-23605c.ic27" size="2097152" crc="297ea6ed" sha1="cfbfe57c80e6ee86a101fa83aec0a01e00c0f42a"/>
+		<rom name="epr-23605c_multi.ic27" merge="epr-23605c_multi.ic27" size="2097152" crc="353fdbcd" sha1="a8b7dce572b74e02e65cb949b2c366c87625157f"/>
+		<rom name="epr-23607.ic27" merge="epr-23607.ic27" size="2097152" crc="2b55add2" sha1="547de5f97d3183c8cd069c4fa3c09f13d8b637d9"/>
+		<rom name="epr-23607b.ic27" merge="epr-23607b.ic27" size="2097152" crc="f308c5e9" sha1="5470ab1cee6afecbd8ca8cf40f8fbe4ec2cb1471"/>
+		<rom name="epr-23607c.ic27" merge="epr-23607c.ic27" size="2097152" crc="750e254b" sha1="81d0b1a076c274c6bd7c53b65e7b80e14fe039e1"/>
+		<rom name="epr-23608.ic27" merge="epr-23608.ic27" size="2097152" crc="929cc3a6" sha1="47d00c818de23f733a4a33b1bbc72eb8aa729246"/>
+		<rom name="epr-23608a.ic27" merge="epr-23608a.ic27" size="2097152" crc="e8f884d1" sha1="28f4de747bb3cf860b9ebf897322fbc5d7c1e156"/>
+		<rom name="epr-23608b.ic27" merge="epr-23608b.ic27" size="2097152" crc="a554b1e3" sha1="343b727a3619d1c75a9b6d4cc156a9050447f155"/>
+		<rom name="epr-23608c.ic27" merge="epr-23608c.ic27" size="2097152" crc="6ef1dd8e" sha1="25ef957ec1c58fdaff5e89102002bca6c38832c5"/>
+		<rom name="epr-23609b.ic27" merge="epr-23609b.ic27" size="2097152" crc="99e3751f" sha1="8a244f75595c49d2a37a42ab96b6bab35163ca0e"/>
+		<rom name="epr-23610b.ic27" merge="epr-23610b.ic27" size="2097152" crc="de8e1267" sha1="0b3a36446c308fcbfe3647df45c848091e8797f1"/>
+		<rom name="main_eeprom.bin" merge="main_eeprom.bin" size="128" crc="fea29cbb" sha1="4099f1747aafa07db34f6e072cd9bfaa83bae10e"/>
+		<rom name="x76f100_eeprom.bin" merge="x76f100_eeprom.bin" size="132" crc="3ea24b6a" sha1="3a730ebcf56e0060fef6b1b02eb2eb7cfb7e61dc"/>
 		<disk name="gds-0014" sha1="2d784ed2f5c00189af8480c9ab5ae9d8b7a152d2" region="gdrom"/>
 		<device_ref name="sh7091"/>
 		<device_ref name="timer"/>
