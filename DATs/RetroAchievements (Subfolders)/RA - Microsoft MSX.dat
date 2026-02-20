@@ -592,10 +592,10 @@
 	<game name="Retail/Aleste 2/Aleste 2 (Japan)">
 		<category>MSX</category>
 		<description>Aleste 2 (Japan)</description>
-		<rom name="Aleste 2 (Japan).m3u" size="91" crc="e781c910" md5="ea6903dfc6948e079440a9092d143b67" sha1="1c7474ac1ce34610f56546d0d51a178a359d2c06"/>
-		<rom name="Aleste 2 (Japan) (Disk 1).rom" size="737280" crc="234b534c" md5="883e46527da292c148769425b30ad685" sha1="224260bac42b56195a428fee85fad7fab5bf74b9"/>
-		<rom name="Aleste 2 (Japan) (Disk 2).rom" size="737280" crc="11020432" md5="52b1591d7cd5921b8256e213a6859600" sha1="365355f6f25a40d106b0e8787451967804e36e40"/>
-		<rom name="Aleste 2 (Japan) (Disk 3).rom" size="737280" crc="680afec8" md5="f5be2140761d3f3b36cf62598ed6004b" sha1="82314e1d70087dd853eafe05d1bbac0c87b7bee4"/>
+		<rom name="Aleste 2 (Japan).m3u" size="91" crc="ab546fe3" md5="94febf332916f22cc549a76dfa60401c" sha1="3e073a8ffa8954ebdbe7fda94c5e8c7764391642"/>
+		<rom name="Aleste 2 (Japan) (Disk 1).dsk" size="737280" crc="234b534c" md5="883e46527da292c148769425b30ad685" sha1="224260bac42b56195a428fee85fad7fab5bf74b9"/>
+		<rom name="Aleste 2 (Japan) (Disk 2).dsk" size="737280" crc="11020432" md5="52b1591d7cd5921b8256e213a6859600" sha1="365355f6f25a40d106b0e8787451967804e36e40"/>
+		<rom name="Aleste 2 (Japan) (Disk 3).dsk" size="737280" crc="680afec8" md5="f5be2140761d3f3b36cf62598ed6004b" sha1="82314e1d70087dd853eafe05d1bbac0c87b7bee4"/>
 		<url>https://retroachievements.org/game/3287/hashes</url>
 		<hash>883e46527da292c148769425b30ad685</hash>
 		<hash>52b1591d7cd5921b8256e213a6859600</hash>
@@ -604,10 +604,10 @@
 	<game name="Retail/Aleste 2/Aleste 2 (Japan) (En) (v1.0) (Woomb, BacklogOddy)">
 		<category>MSX</category>
 		<description>Aleste 2 (Japan) (En) (v1.0) (Woomb, BacklogOddy)</description>
-		<rom name="Aleste 2 (Japan) (En) (v1.0) (Woomb, BacklogOddy).m3u" size="190" crc="23f57c3e" md5="fef6e385b98344385361e5c0d6ad63e8" sha1="84e4a8779756b5ede2e94cee4cd5991fee0425e2"/>
-		<rom name="Aleste 2 (Japan) (En) (v1.0) (Woomb, BacklogOddy) (Disk 1).rom" size="737280" crc="b4247921" md5="8683ed888917cea1d39b6bd38d8f8d2e" sha1="aa1db2ca8ef82da6f6e8349139fee5b9fe0cb8e8"/>
-		<rom name="Aleste 2 (Japan) (En) (v1.0) (Woomb, BacklogOddy) (Disk 2).rom" size="737280" crc="d8487d95" md5="48a74800dbb4aa783684b8c2118a37bd" sha1="3cbc14c3050bfc362a1d5c9f019a892aa16aeff8"/>
-		<rom name="Aleste 2 (Japan) (En) (v1.0) (Woomb, BacklogOddy) (Disk 3).rom" size="737280" crc="da3012b1" md5="223b53955c02b5a9b0f11603f6a10102" sha1="982010be143422cbc7b02e0d2e4a369c502b92f2"/>
+		<rom name="Aleste 2 (Japan) (En) (v1.0) (Woomb, BacklogOddy).m3u" size="190" crc="dd1ed220" md5="6647c13bfd3b110d16e96241ea8183d6" sha1="d94450223337cbaeb9d4cbd86dc389e957eeef4b"/>
+		<rom name="Aleste 2 (Japan) (En) (v1.0) (Woomb, BacklogOddy) (Disk 1).dsk" size="737280" crc="b4247921" md5="8683ed888917cea1d39b6bd38d8f8d2e" sha1="aa1db2ca8ef82da6f6e8349139fee5b9fe0cb8e8"/>
+		<rom name="Aleste 2 (Japan) (En) (v1.0) (Woomb, BacklogOddy) (Disk 2).dsk" size="737280" crc="d8487d95" md5="48a74800dbb4aa783684b8c2118a37bd" sha1="3cbc14c3050bfc362a1d5c9f019a892aa16aeff8"/>
+		<rom name="Aleste 2 (Japan) (En) (v1.0) (Woomb, BacklogOddy) (Disk 3).dsk" size="737280" crc="da3012b1" md5="223b53955c02b5a9b0f11603f6a10102" sha1="982010be143422cbc7b02e0d2e4a369c502b92f2"/>
 		<url>https://retroachievements.org/game/3287/hashes</url>
 		<hash>8683ed888917cea1d39b6bd38d8f8d2e</hash>
 		<hash>48a74800dbb4aa783684b8c2118a37bd</hash>
