@@ -7968,13 +7968,6 @@
 		<hash>6bd5dfb45ac930630d5344bc8d9d5eee</hash>
 	</machine>
 	
-	<machine name="Tales of Phantasia (Japan) (En) (v1.0) (Absolute Zero)" cloneof="Tales of Phantasia (Japan)">
-		<category>Retail</category>
-		<description>Tales of Phantasia (Japan) (En) (v1.0) (Absolute Zero)</description>
-		<disk name="Tales of Phantasia (Japan) (En) (v1.0) (Absolute Zero).chd" sha1="817393f7a0dccfc748cbb27e53532e18308214a2"/>
-		<url>https://retroachievements.org/game/11301/hashes</url>
-		<hash>5864d666f93bd1a24af232f7bfefb53b</hash>
-	</machine>
 	<machine name="Tales of Phantasia (Japan)">
 		<category>Retail</category>
 		<description>Tales of Phantasia (Japan)</description>
@@ -7983,11 +7976,11 @@
 		<url>https://retroachievements.org/game/11301/hashes</url>
 		<hash>b567432d797a9528fe38cfb1fa2c46ae</hash>
 	</machine>
-	<machine name="Tales of Phantasia (Japan) (En) (Pre-v1.1) (Phantasian Productions)" cloneof="Tales of Phantasia (Japan)">
+	<machine name="Tales of Phantasia (Japan) (En) (Pre-v1.1) (Phantasian Productions) (Test Fix)" cloneof="Tales of Phantasia (Japan)">
 		<category>Retail</category>
-		<description>Tales of Phantasia (Japan) (En) (Pre-v1.1) (Phantasian Productions)</description>
-		<release name="Tales of Phantasia (Japan) (En) (Pre-v1.1) (Phantasian Productions)" region="English"/>
-		<disk name="Tales of Phantasia (Japan) (En) (Pre-v1.1) (Phantasian Productions).chd" sha1="ea1c8f8583422d4893449d5ae38cd2c0ffcd20e9"/>
+		<description>Tales of Phantasia (Japan) (En) (Pre-v1.1) (Phantasian Productions) (Test Fix)</description>
+		<release name="Tales of Phantasia (Japan) (En) (Pre-v1.1) (Phantasian Productions) (Test Fix)" region="English"/>
+		<disk name="Tales of Phantasia (Japan) (En) (Pre-v1.1) (Phantasian Productions) (Test Fix).chd" sha1="61bc6cdfa2c588f07895c44f783f545fa8cbddb5"/>
 		<url>https://retroachievements.org/game/11301/hashes</url>
 		<hash>b78f2e844cc557d52c2e26ae977a8d79</hash>
 	</machine>
