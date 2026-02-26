@@ -1454,15 +1454,6 @@
 		<hash>8740a03fa9a89e2d68bc306a48d01080</hash>
 	</game>
 	
-	<game name="Tonkachi Editor - Tonkachi Mario (I2-Aitsu) (Hack)">
-		<category>Hack</category>
-		<description>Tonkachi Editor - Tonkachi Mario (I2-Aitsu) (Hack)</description>
-		<release name="Tonkachi Editor - Tonkachi Mario (I2-Aitsu) (Hack)" region="World"/>
-		<rom name="Tonkachi Editor - Tonkachi Mario (I2-Aitsu) (Hack).fds" size="65500" crc="4a91e7fc" md5="d7236ca0605bc3b36ec9ba7dd3cdcd9d" sha1="9dfd2ad497f2e78a32b581666e91f7db9d84642f"/>
-		<url>https://retroachievements.org/game/2109/hashes</url>
-		<hash>d7236ca0605bc3b36ec9ba7dd3cdcd9d</hash>
-	</game>
-	
 	<game name="SMB1 - Tower RE Mario Bros (Betaworld) (Hack)">
 		<category>Hack</category>
 		<description>SMB1 - Tower RE Mario Bros (Betaworld) (Hack)</description>
@@ -2907,15 +2898,6 @@
 		<hash>bed0f7b12673dd762eed665c5c61927b</hash>
 	</game>
 	
-	<game name="Aliens - Alien 2 (Japan) (Proto) (1986-12-15)">
-		<category>Prototype</category>
-		<description>Aliens - Alien 2 (Japan) (Proto) (1986-12-15)</description>
-		<release name="Aliens - Alien 2 (Japan) (Proto) (1986-12-15)" region="Japan"/>
-		<rom name="Aliens - Alien 2 (Japan) (Proto) (1986-12-15).fds" size="131000" crc="2b779ee3" md5="296bc8ec6482e70e5d098bb90343a2f8" sha1="e80992b0e3e2ec05dbd34b3d97ae39ee59244ca4"/>
-		<url>https://retroachievements.org/game/5968/hashes</url>
-		<hash>296bc8ec6482e70e5d098bb90343a2f8</hash>
-	</game>
-	
 	<game name="Bio Force Ape (Japan) (En) (Proto)">
 		<category>Prototype</category>
 		<description>Bio Force Ape (Japan) (En) (Proto)</description>
@@ -3244,15 +3226,6 @@
 		<rom name="Dreamworld Pogie (World) (2017-02-03) (Kickstarter, Evercade) (Unl).nes" size="131088" crc="6a70aa33" md5="11c963bf25caeeb50f4d395d227eb798" sha1="cecea3fffdc0d70a5a714ddd14c2efce3dedd9d2"/>
 		<url>https://retroachievements.org/game/2406/hashes</url>
 		<hash>27948dd484177fa4502e9c87afc897f3</hash>
-	</game>
-	
-	<game name="Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl)">
-		<category>Unlicensed</category>
-		<description>Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl)</description>
-		<release name="Fairy Pinball - Yousei Tachi no Pinball (Japan) (Unl)" region="Japan"/>
-		<rom name="Fairy Pinball - Yousei Tachi no Pinball (Japan).fds" size="131000" crc="ac7ed005" md5="f8a81cbcea63fb0de0dc2cdeeb4b2a84" sha1="58e84c1bc6cfebf6e548e65f055c6b70e1fe9579"/>
-		<url>https://retroachievements.org/game/24823/hashes</url>
-		<hash>f8a81cbcea63fb0de0dc2cdeeb4b2a84</hash>
 	</game>
 	
 	<game name="Final Fantasy X1 - Dark Chapter (China) (En) (Unl)" cloneof="Zuizhong Huanxiang X1 (China) (Unl)">
@@ -3820,22 +3793,6 @@
 		<rom name="Robodemons (USA) (Unl).nes" size="131088" crc="2c8ef4d1" md5="3c5447105edb975d7e4be761f99887ed" sha1="42edaa9a1efd07fff2a7c5139e98a29a4875f1dd"/>
 		<url>https://retroachievements.org/game/8631/hashes</url>
 		<hash>531f4b4fbf208c6b34d44d0de12d2dfd</hash>
-	</game>
-	
-	<game name="Sexy Invaders (Japan) (Super PIG) (Unl)" cloneof="Sexy Invaders (Japan) (Unl)">
-		<category>Retail</category>
-		<description>Sexy Invaders (Japan) (Super PIG) (Unl)</description>
-		<rom name="Sexy Invaders (Japan) (Super PIG).fds" size="131000" crc="963b047c" md5="9124bdf0e1116e649b5daed14853e92b" sha1="e4b1fb93d4cb16f1b44e2987cc734e1a5e52c0a7"/>
-		<url>https://retroachievements.org/game/14319/hashes</url>
-		<hash>9124bdf0e1116e649b5daed14853e92b</hash>
-	</game>
-	<game name="Sexy Invaders (Japan) (Unl)">
-		<category>Retail</category>
-		<description>Sexy Invaders (Japan) (Unl)</description>
-		<release name="Sexy Invaders (Japan) (Unl)" region="Japan"/>
-		<rom name="Sexy Invaders (Japan).fds" size="131000" crc="413e49da" md5="ff65350d6e949a28b83c65943ecb27a3" sha1="f5948681a77ba264842fff4e30272147f1e15711"/>
-		<url>https://retroachievements.org/game/14319/hashes</url>
-		<hash>ff65350d6e949a28b83c65943ecb27a3</hash>
 	</game>
 	
 	<game name="Shenqi Baobei (China) (Unl)">
@@ -4538,22 +4495,6 @@
 		<hash>d67839baa5ce728213b247e03e2d7244</hash>
 	</game>
 	
-	<game name="Ai Senshi Nicol (Japan)">
-		<category>Retail</category>
-		<description>Ai Senshi Nicol (Japan)</description>
-		<release name="Ai Senshi Nicol (Japan)" region="Japan"/>
-		<rom name="Ai Senshi Nicol (Japan).fds" size="131000" crc="3fbdbe79" md5="7839c79cb30fab6440114554508609fa" sha1="506e72b65670e1d149751d166836beaf5c261c5e"/>
-		<url>https://retroachievements.org/game/5782/hashes</url>
-		<hash>7839c79cb30fab6440114554508609fa</hash>
-	</game>
-	<game name="Ai Senshi Nicol (Japan) (FDS Conversion)" cloneof="Ai Senshi Nicol (Japan)">
-		<category>Retail</category>
-		<description>Ai Senshi Nicol (Japan) (FDS Conversion)</description>
-		<rom name="Ai Senshi Nicol (Japan) (FDS Conversion).nes" size="262160" crc="d2a09f84" md5="b00e878010f4e919a38090f8c05cc5b4" sha1="9c3364fa94a50b939d4167c024c23ede9e0c1a31"/>
-		<url>https://retroachievements.org/game/5782/hashes</url>
-		<hash>dcbcebe77032ddf925708b24de555c6e</hash>
-	</game>
-	
 	<game name="Air Fortress (USA)">
 		<category>Retail</category>
 		<description>Air Fortress (USA)</description>
@@ -4697,15 +4638,6 @@
 		<hash>e91b3e0ad255eeae1823d2372a4b21da</hash>
 	</game>
 	
-	<game name="All Night Nippon Super Mario Bros. (Japan) (Promo)">
-		<category>Retail</category>
-		<description>All Night Nippon Super Mario Bros. (Japan) (Promo)</description>
-		<release name="All Night Nippon Super Mario Bros. (Japan) (Promo)" region="Japan"/>
-		<rom name="All Night Nippon Super Mario Bros. (Japan) (Promo).fds" size="65500" crc="43e7fe95" md5="c8719692d0b9d9649492ffb1c2d26aa3" sha1="f30bdd3c556604d7eaa6d0f4864d5566e519b5d4"/>
-		<url>https://retroachievements.org/game/12852/hashes</url>
-		<hash>c8719692d0b9d9649492ffb1c2d26aa3</hash>
-	</game>
-	
 	<game name="Alpha Mission (Europe)">
 		<category>Retail</category>
 		<description>Alpha Mission (Europe)</description>
@@ -4839,55 +4771,6 @@
 		<rom name="Arkista's Ring (USA).nes" size="65552" crc="e3ed94f8" md5="ea41acaf9ca98678fd60944f57119c6d" sha1="e1bed1f943db9bf9de45e7f19c3935a321da6593"/>
 		<url>https://retroachievements.org/game/1546/hashes</url>
 		<hash>797383138b0590ce00ed0f6fdea14053</hash>
-	</game>
-	
-	<game name="Armana no Kiseki (Japan) (En) (DvD Translations)" cloneof="Armana no Kiseki (Japan)">
-		<category>Retail</category>
-		<description>Armana no Kiseki (Japan) (En) (DvD Translations)</description>
-		<release name="Armana no Kiseki (Japan) (En) (DvD Translations)" region="English"/>
-		<rom name="Armana no Kiseki (Japan) (En) (DvD Translations).fds" size="131016" crc="3bfe3cea" md5="2dbdeacc5bff638e6e457fa445da1d71" sha1="23adb9a8118827cdac46aa086ef07fb3c9b1796d"/>
-		<url>https://retroachievements.org/game/1972/hashes</url>
-		<hash>6551208e5e34d9c568470806d5dea4f7</hash>
-	</game>
-	<game name="Armana no Kiseki (Japan)">
-		<category>Retail</category>
-		<description>Armana no Kiseki (Japan)</description>
-		<release name="Armana no Kiseki (Japan)" region="Japan"/>
-		<rom name="Armana no Kiseki (Japan).fds" size="131000" crc="ec6d5de3" md5="98ac12e7f11b0aaf082c9cf45103c430" sha1="93d8d3b4b74fe087cc31b75aee2607ecc7a1d2dd"/>
-		<url>https://retroachievements.org/game/1972/hashes</url>
-		<hash>98ac12e7f11b0aaf082c9cf45103c430</hash>
-	</game>
-	<game name="Armana no Kiseki (Japan) (En) (DvD Translations) (Overdump)" cloneof="Armana no Kiseki (Japan)">
-		<category>Retail</category>
-		<description>Armana no Kiseki (Japan) (En) (DvD Translations) (Overdump)</description>
-		<rom name="Armana no Kiseki (Japan) (En) (DvD Translations) (Overdump).fds" size="131016" crc="8e7cc280" md5="aa4bb2637c998d15456a5d9baf2a7d2a" sha1="c7769a38f4df5fd3706d641d832aeb6a5e7af784"/>
-		<url>https://retroachievements.org/game/1972/hashes</url>
-		<hash>ad688f3ca079fad5155e20c0182ec3a4</hash>
-	</game>
-	<game name="Armana no Kiseki (Asia) (Ja) (Kaiser) (KS-7017)" cloneof="Armana no Kiseki (Japan)">
-		<category>Retail</category>
-		<description>Armana no Kiseki (Asia) (Ja) (Kaiser) (KS-7017)</description>
-		<release name="Armana no Kiseki (Asia) (Ja) (Kaiser) (KS-7017)" region="Asia"/>
-		<rom name="Armana no Kiseki (Asia) (Ja) (Kaiser) (KS-7017).nes" size="131088" crc="148a0331" md5="1de13f2da2c473562085fc8c884e5cfd" sha1="4d274b56c9c6f12bf2a8321b3ca84781dae03cae"/>
-		<url>https://retroachievements.org/game/1972/hashes</url>
-		<hash>d73f4eb78aedb5eb4107fdaffefe5756</hash>
-	</game>
-	
-	<game name="Aspic - Majaou no Noroi (Japan)">
-		<category>Retail</category>
-		<description>Aspic - Majaou no Noroi (Japan)</description>
-		<release name="Aspic - Majaou no Noroi (Japan)" region="Japan"/>
-		<rom name="Aspic - Majaou no Noroi (Japan).fds" size="131000" crc="1999addb" md5="7d6153486d7103c639659a2256e88e5c" sha1="befb31b3ffbbe26993de0dd8f15443dbd69f5d15"/>
-		<url>https://retroachievements.org/game/22889/hashes</url>
-		<hash>7d6153486d7103c639659a2256e88e5c</hash>
-	</game>
-	<game name="Aspic - Majaou no Noroi (Japan) (En) (v1.0) (BlackPaladin)" cloneof="Aspic - Majaou no Noroi (Japan)">
-		<category>Retail</category>
-		<description>Aspic - Majaou no Noroi (Japan) (En) (v1.0) (BlackPaladin)</description>
-		<release name="Aspic - Majaou no Noroi (Japan) (En) (v1.0) (BlackPaladin)" region="English"/>
-		<rom name="Aspic - Majaou no Noroi (Japan) (En) (v1.0) (BlackPaladin).fds" size="131000" crc="0420a52c" md5="4efacc69281f3037467c9d3fdff13e07" sha1="49a4776feba47aa76e433ee26adaff96c6dee82f"/>
-		<url>https://retroachievements.org/game/22889/hashes</url>
-		<hash>4efacc69281f3037467c9d3fdff13e07</hash>
 	</game>
 	
 	<game name="Asterix (Europe) (En,Fr,De,Es,It)">
@@ -6045,15 +5928,6 @@
 		<rom name="Clu Clu Land (World).nes" size="24592" crc="22515e9e" md5="0050f76b0c51be46bdf5af19569ea253" sha1="834ad06071c165f06edace7bfddd7c031919a15d"/>
 		<url>https://retroachievements.org/game/1623/hashes</url>
 		<hash>eeba6ef8992074c5ebbdf0ecd9468e10</hash>
-	</game>
-	
-	<game name="Clu Clu Land (FDS Conversion) (v1.1) (Morgan Johansson)">
-		<category>Retail</category>
-		<description>Clu Clu Land (FDS Conversion) (v1.1) (Morgan Johansson)</description>
-		<release name="Clu Clu Land (FDS Conversion) (v1.1) (Morgan Johansson)" region="World"/>
-		<rom name="Clu Clu Land (FDS Conversion) (v1.1) (Morgan Johansson).nes" size="65552" crc="68ff1e95" md5="0c4f98ace862feb863717ec925dbc6d7" sha1="2ed576992a0a262a1658623a41d46a8c84d94496"/>
-		<url>https://retroachievements.org/game/14870/hashes</url>
-		<hash>aee23ed9fbfef07510aa9530ef42febf</hash>
 	</game>
 	
 	<game name="Cobra Command (Japan)" cloneof="Cobra Command (USA)">
@@ -7459,23 +7333,6 @@
 		<hash>e9393cf6e90f5a59bedf4232e81cea60</hash>
 	</game>
 	
-	<game name="Esper Dream (Japan) (Rev 1) (Disk Writer) (En) (v1.0) (Mute)" cloneof="Esper Dream (Japan) (Rev 1) (Disk Writer)">
-		<category>Retail</category>
-		<description>Esper Dream (Japan) (Rev 1) (Disk Writer) (En) (v1.0) (Mute)</description>
-		<release name="Esper Dream (Japan) (Rev 1) (Disk Writer) (En) (v1.0) (Mute)" region="English"/>
-		<rom name="Esper Dream (Japan) (Rev 1) (Disk Writer) (En) (v1.0) (Mute).fds" size="131000" crc="51d8c9f1" md5="186a5441980125aba8ed852da123adc9" sha1="075c727e983ec6d9b9d7593edfc1f916719f8483"/>
-		<url>https://retroachievements.org/game/8737/hashes</url>
-		<hash>186a5441980125aba8ed852da123adc9</hash>
-	</game>
-	<game name="Esper Dream (Japan) (Rev 1) (Disk Writer)">
-		<category>Retail</category>
-		<description>Esper Dream (Japan) (Rev 1) (Disk Writer)</description>
-		<release name="Esper Dream (Japan) (Rev 1) (Disk Writer)" region="Japan"/>
-		<rom name="Esper Dream (Japan) (Rev 1) (Disk Writer).fds" size="131000" crc="7aecf9d8" md5="6b6cf238668429511a027b1739403975" sha1="4dddce65694344da9f83c9b85d6524da0958962c"/>
-		<url>https://retroachievements.org/game/8737/hashes</url>
-		<hash>6b6cf238668429511a027b1739403975</hash>
-	</game>
-	
 	<game name="Esper Dream 2 - Aratanaru Tatakai (Japan) (En) (v1.0) (Aeon Genesis)">
 		<category>Retail</category>
 		<description>Esper Dream 2 - Aratanaru Tatakai (Japan (En) (v1.0) (Aeon Genesis)</description>
@@ -7695,15 +7552,6 @@
 		<rom name="Field Combat (Japan).nes" size="24592" crc="dc83d672" md5="2d27a4803a20025e4721b1f959079e69" sha1="ef4a7954a80fd60c6da19e783924b5b132f579b0"/>
 		<url>https://retroachievements.org/game/4766/hashes</url>
 		<hash>8cdd15b58199c088fd73d05bfaa20db4</hash>
-	</game>
-	
-	<game name="Final Command - Akai Yousai (Japan)">
-		<category>Retail</category>
-		<description>Final Command - Akai Yousai (Japan)</description>
-		<release name="Final Command - Akai Yousai (Japan)" region="Japan"/>
-		<rom name="Final Command - Akai Yousai (Japan).fds" size="131000" crc="08028e43" md5="31559f43a673a178b2f9498f7ddefc79" sha1="c8a2ee105571d0dcc3099f9a96db93f41b31bf5a"/>
-		<url>https://retroachievements.org/game/7187/hashes</url>
-		<hash>31559f43a673a178b2f9498f7ddefc79</hash>
 	</game>
 	
 	<game name="Final Fantasy (USA) (It)" cloneof="Final Fantasy (USA)">
@@ -10033,15 +9881,6 @@
 		<hash>7b1016f649a7f21e6c27f3f69904218d</hash>
 	</game>
 	
-	<game name="Kinnikuman - Kinnikusei Oui Soudatsusen (Japan) (Rev 1) (Disk Writer)">
-		<category>Retail</category>
-		<description>Kinnikuman - Kinnikusei Oui Soudatsusen (Japan) (Rev 1) (Disk Writer)</description>
-		<release name="Kinnikuman - Kinnikusei Oui Soudatsusen (Japan) (Rev 1) (Disk Writer)" region="Japan"/>
-		<rom name="Kinnikuman - Kinnikusei Oui Soudatsusen (Japan) (Rev 1) (Disk Writer).nes" size="131000" crc="39e05966" md5="e5237686150960dd8817bacb7fb34f9b" sha1="c05052aa34ade9b7b2f869cc582d0ea623947876"/>
-		<url>https://retroachievements.org/game/33409/hashes</url>
-		<hash>e5237686150960dd8817bacb7fb34f9b</hash>
-	</game>
-	
 	<game name="Kirby's Adventure (Europe)">
 		<category>Retail</category>
 		<description>Kirby's Adventure (Europe)</description>
@@ -11462,15 +11301,6 @@
 		<rom name="Monster Party (USA).nes" size="262160" crc="fe202c44" md5="a6b5b6ee5e35b8d7caa62af56ad7d159" sha1="f01328b8f142e0db2579691b5ef0f5fda5b5376c"/>
 		<url>https://retroachievements.org/game/1490/hashes</url>
 		<hash>ddcdb6aa8270a55ead3e1474cc2fd0de</hash>
-	</game>
-	
-	<game name="Moonball Magic (Japan) (Disk Writer)">
-		<category>Retail</category>
-		<description>Moonball Magic (Japan) (Disk Writer)</description>
-		<release name="Moonball Magic (Japan) (Disk Writer)" region="Japan"/>
-		<rom name="Moonball Magic (Japan) (Disk Writer).fds" size="131000" crc="aad5bee4" md5="bced9dddfebb4fba421f671eeff61aab" sha1="4eaf7a1116199ca2b510f4265ccdef20cd51dd45"/>
-		<url>https://retroachievements.org/game/24128/hashes</url>
-		<hash>bced9dddfebb4fba421f671eeff61aab</hash>
 	</game>
 	
 	<game name="Moon Crystal (Japan) (Ru) (Shedevr) (v20010828)" cloneof="Moon Crystal (Japan)">
@@ -13493,23 +13323,6 @@
 		<hash>4d9a6662fd870a684b327046d0f13c60</hash>
 	</game>
 	
-	<game name="Smash Ping Pong (Japan)">
-		<category>Retail</category>
-		<description>Smash Ping Pong (Japan)</description>
-		<release name="Smash Ping Pong (Japan)" region="Japan"/>
-		<rom name="Smash Ping Pong (Japan).fds" size="65500" crc="b235b657" md5="e6bf27adea0837055f82fc204d9fbf98" sha1="b3ffc3723f3d3bc1af9e8180145483c332f409e0"/>
-		<url>https://retroachievements.org/game/5550/hashes</url>
-		<hash>e6bf27adea0837055f82fc204d9fbf98</hash>
-	</game>
-	<game name="11-in-1 Ball Series (Asia)" cloneof="Smash Ping Pong (Japan)">
-		<category>Retail</category>
-		<description>11-in-1 Ball Series (Asia)</description>
-		<release name="11-in-1 Ball Series (Asia)" region="Asia"/>
-		<rom name="11-in-1 Ball Series (Asia).nes" size="524304" crc="a8c50fa5" md5="c1aefac680d38f6be0c7a3ef43e0b40b" sha1="7c2ad4d3decc4e06bf052cc07a7c7c9a944d9d9b"/>
-		<url>https://retroachievements.org/game/5550/hashes</url>
-		<hash>f80973d2e06e368e094a243ffb2520d7</hash>
-	</game>
-	
 	<game name="Smash T.V. (USA)">
 		<category>Retail</category>
 		<description>Smash T.V. (USA)</description>
@@ -14069,15 +13882,6 @@
 		<rom name="Super Mario Bros. 2 (USA).nes" size="262160" crc="43507232" md5="55f7030dc6173f2a0145a97f369f49f4" sha1="d3f8cfd7822c1cf634c2132009f877b44244850f"/>
 		<url>https://retroachievements.org/game/1994/hashes</url>
 		<hash>ccd25b4fa7acddef38d75212ae0e5432</hash>
-	</game>
-	
-	<game name="Super Mario Bros. 2 (Japan) (En)">
-		<category>Retail</category>
-		<description>Super Mario Bros. 2 (Japan) (En)</description>
-		<release name="Super Mario Bros. 2 (Japan) (En)" region="Japan"/>
-		<rom name="Super Mario Bros. 2 (Japan) (En).fds" size="65500" crc="f04cd4cd" md5="7f38210a8a2befb8d347523b4ff6ae7c" sha1="20e50128742162ee47561db9e82b2836399c880c"/>
-		<url>https://retroachievements.org/game/5183/hashes</url>
-		<hash>7f38210a8a2befb8d347523b4ff6ae7c</hash>
 	</game>
 	
 	<game name="Super Mario Bros. 3 (USA) (Rev 1)" cloneof="Super Mario Bros. 3 (Europe)">
@@ -15175,55 +14979,6 @@
 		<rom name="Magic of Scheherazade, The (USA).nes" size="262160" crc="6e80baf5" md5="5bc50446bebdad2a65551769f03a062a" sha1="59b16dd7cd2694eef6a69786f9a9df921dbf3506"/>
 		<url>https://retroachievements.org/game/1818/hashes</url>
 		<hash>267e1882db5c6523d6d49cbb5edd470d</hash>
-	</game>
-	
-	<game name="Monitor Puzzle Kineko, The - Kinetic Connection (Japan) (Alt)" cloneof="Monitor Puzzle Kineko, The - Kinetic Connection (Japan)">
-		<category>Retail</category>
-		<description>Monitor Puzzle Kineko, The - Kinetic Connection (Japan) (Alt)</description>
-		<rom name="Monitor Puzzle Kineko, The - Kinetic Connection (Japan) (Alt).fds" size="131000" crc="36094115" md5="0c3315af1e2f666a5e1ad63764a45755" sha1="3a2cd622c32ed2c9ecdf01ab3908f362443f03b7"/>
-		<url>https://retroachievements.org/game/14924/hashes</url>
-		<hash>0c3315af1e2f666a5e1ad63764a45755</hash>
-	</game>
-	<game name="Monitor Puzzle Kineko, The - Kinetic Connection (Japan)">
-		<category>Retail</category>
-		<description>Monitor Puzzle Kineko, The - Kinetic Connection (Japan)</description>
-		<release name="Monitor Puzzle Kineko, The - Kinetic Connection (Japan)" region="Japan"/>
-		<rom name="Monitor Puzzle Kineko, The - Kinetic Connection (Japan).fds" size="131000" crc="a8516d48" md5="762aa5c2093344491e95b36c1e6b9166" sha1="1a565cf2c53646e3a9bb4783a7942b9315fc02f5"/>
-		<url>https://retroachievements.org/game/14924/hashes</url>
-		<hash>762aa5c2093344491e95b36c1e6b9166</hash>
-	</game>
-	
-	<game name="Monitor Puzzle Kineko, The - Kinetic Connection II (Japan) (Disk Writer)">
-		<category>Retail</category>
-		<description>Monitor Puzzle Kineko, The - Kinetic Connection II (Japan) (Disk Writer)</description>
-		<release name="Monitor Puzzle Kineko, The - Kinetic Connection II (Japan) (Disk Writer)" region="Japan"/>
-		<rom name="Monitor Puzzle Kineko, The - Kinetic Connection II (Japan) (Disk Writer).fds" size="131000" crc="dced2708" md5="cbd2190225076fc650d80c9a0ea59ff6" sha1="17ca3e392cf6b5396848cb7dbb95a7ea8a4fb772"/>
-		<url>https://retroachievements.org/game/14926/hashes</url>
-		<hash>cbd2190225076fc650d80c9a0ea59ff6</hash>
-	</game>
-	
-	<game name="Nazo no Murasamejou (Japan) (En) (v1.0) (Spinner8)" cloneof="Nazo no Murasamejou (Japan)">
-		<category>Retail</category>
-		<description>Nazo no Murasamejou (Japan) (En) (v1.0) (Spinner8)</description>
-		<rom name="Nazo no Murasamejou (Japan) (En) (v1.0) (Spinner8).fds" size="131000" crc="fc2e653e" md5="58377b2babdf06d8cf5557064f32ad92" sha1="9c67f4477bf78ce49f82ea0c42d937876b2ceead"/>
-		<url>https://retroachievements.org/game/12855/hashes</url>
-		<hash>58377b2babdf06d8cf5557064f32ad92</hash>
-	</game>
-	<game name="Nazo no Murasamejou (Japan) (En) (v1.1) (Spinner8)" cloneof="Nazo no Murasamejou (Japan)">
-		<category>Retail</category>
-		<description>Nazo no Murasamejou (Japan) (En) (v1.1) (Spinner8)</description>
-		<release name="Nazo no Murasamejou (Japan) (En) (v1.1) (Spinner8)" region="English"/>
-		<rom name="Nazo no Murasamejou (Japan) (En) (v1.1) (Spinner8).fds" size="131000" crc="5da99951" md5="e8558b356bb077213b255367c9c5be16" sha1="a7b612f1943da2d1c4e2eb9328e5825d18563ab5"/>
-		<url>https://retroachievements.org/game/12855/hashes</url>
-		<hash>e8558b356bb077213b255367c9c5be16</hash>
-	</game>
-	<game name="Nazo no Murasamejou (Japan)">
-		<category>Retail</category>
-		<description>Nazo no Murasamejou (Japan)</description>
-		<release name="Nazo no Murasamejou (Japan)" region="Japan"/>
-		<rom name="Nazo no Murasamejou (Japan).fds" size="131000" crc="9a523757" md5="fa04b0b2d99d560e7076198ab72a15d3" sha1="3102abcab2bec46f63e88461f73539b94aa73cbd"/>
-		<url>https://retroachievements.org/game/12855/hashes</url>
-		<hash>fa04b0b2d99d560e7076198ab72a15d3</hash>
 	</game>
 	
 	<game name="Punisher, The (USA)">
@@ -16348,15 +16103,6 @@
 		<rom name="Ys (Japan).nes" size="262160" crc="ddcce534" md5="07eb0e198fd89da66b4dece54d89ecb2" sha1="e0563957b5bd80a2226c5a6aaf30f0c6b957d49c"/>
 		<url>https://retroachievements.org/game/4705/hashes</url>
 		<hash>41da606caba53bde346a44a132cb333a</hash>
-	</game>
-	
-	<game name="Yume Koujou - Doki Doki Panic (Japan) (DV 2)">
-		<category>Retail</category>
-		<description>Yume Koujou - Doki Doki Panic (Japan) (DV 2)</description>
-		<release name="Yume Koujou - Doki Doki Panic (Japan) (DV 2)" region="Japan"/>
-		<rom name="Yume Koujou - Doki Doki Panic (Japan) (DV 2).fds" size="131000" crc="4096f677" md5="dde8a651a7a57d58f1a0e6ad576f99c5" sha1="138c6821ce826efd26c04c015ca6a1463ce21d87"/>
-		<url>https://retroachievements.org/game/5819/hashes</url>
-		<hash>dde8a651a7a57d58f1a0e6ad576f99c5</hash>
 	</game>
 	
 	<game name="Yume Penguin Monogatari (Japan) (En) (v1.02) (Vice Translations)" cloneof="Yume Penguin Monogatari (Japan)">
