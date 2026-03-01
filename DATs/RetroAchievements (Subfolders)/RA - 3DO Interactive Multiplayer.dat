@@ -5,8 +5,8 @@
 		<name>RA - 3DO Interactive Multiplayer</name>
 		<description>3DO Interactive Multiplayer</description>
 		<category>Subfolders</category>
-		<version>20260214</version>
-		<date>14 February 2026</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/43/games</url>
@@ -39,6 +39,14 @@
 		<hash>2b8f6037654255aac56ff5c12c0b44e6</hash>
 	</machine>
 
+	<machine name="Retail/Bust-A-Move (USA)">
+		<category></category>
+		<description>Bust-A-Move (USA)</description>
+		<disk name="Bust-A-Move (USA).chd" sha1="263755f37264d8f0f862afe977e426d3b7592452"/>
+		<url>https://retroachievements.org/game/16642/hashes</url>
+		<hash>eaf126ac57d5cf5e83a8db06c9a3fdf8</hash>
+	</machine>
+	
 	<machine name="Retail/Drug Wars (USA)">
 		<category></category>
 		<description>Drug Wars (USA)</description>
@@ -127,6 +135,14 @@
 		<hash>32295bd44a4885b170d2073739d4fec2</hash>
 	</machine>
 
+	<machine name="Retail/Lost Eden (USA, Korea)">
+		<category></category>
+		<description>Lost Eden (USA, Korea)</description>
+		<disk name="Lost Eden (USA, Korea).chd" sha1="e54b5530785c655ff17770d6c22b44344c06ebdd"/>
+		<url>https://retroachievements.org/game/16391/hashes</url>
+		<hash>ffcdae9fd53f70a7cd5f55a8233b001f</hash>
+	</machine>
+	
 	<machine name="Retail/Mad Dog II - The Lost Gold (USA)">
 		<category></category>
 		<description>Mad Dog II - The Lost Gold (USA)</description>

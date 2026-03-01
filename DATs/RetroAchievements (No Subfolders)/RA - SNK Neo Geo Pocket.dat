@@ -5,8 +5,8 @@
 		<name>RA - SNK Neo Geo Pocket</name>
 		<description>SNK Neo Geo Pocket</description>
 		<category>No Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/14/games</url>
@@ -480,5 +480,15 @@
 		<rom name="King of Fighters, The - Battle de Paradise (En) (v1.0) (marc_max, xenophile127).ngc" size="2097152" crc="e08dc918" md5="b16a89f1787c83212b964e7fb570a060" sha1="967b0d1a7074ecbfbd4bf476fcaed3be30e2a7b3"/>
 		<url>https://retroachievements.org/game/32107/hashes</url>
 		<hash>b16a89f1787c83212b964e7fb570a060</hash>
+	</game>
+	
+	<game name="Last Blade, The - Beyond the Destiny (USA, Europe)">
+		<category>Retail</category>
+		<description>Last Blade, The - Beyond the Destiny (USA, Europe)</description>
+		<release name="Last Blade, The - Beyond the Destiny (USA, Europe)" region="Europe"/>
+		<release name="Last Blade, The - Beyond the Destiny (USA, Europe)" region="USA"/>
+		<rom name="Last Blade, The - Beyond the Destiny (USA, Europe).ngc" size="2097152" crc="4238a840" md5="7dc5073a7a3de1c87a69be5941dff1f9" sha1="a553876c7e04498474f193508effa52c3d59614b"/>
+		<url>https://retroachievements.org/game/14271/hashes</url>
+		<hash>7dc5073a7a3de1c87a69be5941dff1f9</hash>
 	</game>
 </datafile>

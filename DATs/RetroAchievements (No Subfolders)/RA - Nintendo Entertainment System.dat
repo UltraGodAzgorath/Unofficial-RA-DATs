@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>No Subfolders</category>
-		<version>20260214</version>
-		<date>14 February 2026</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/7/games</url>
@@ -2808,6 +2808,15 @@
 		<hash>818cad96b53efd26b1bb5d593765440f</hash>
 	</game>
 	
+	<game name="Legends of Owlia, The (World) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<description>Legends of Owlia, The (World) (Aftermarket) (Unl)</description>
+		<release name="Legends of Owlia, The (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Legends of Owlia, The (World) (Aftermarket) (Unl).nes" size="524304" crc="26858010" md5="2c853160353de6f1272ac503c2661223" sha1="406f293f6aa8ee93f42e12c4f991d7d593c78b44"/>
+		<url>https://retroachievements.org/game/13343/hashes</url>
+		<hash>6c4bd31e7652af846e62b122de7f4ab4</hash>
+	</game>
+	
 	<game name="Ninja of the 4 Seasons, The (World) (v1.1) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>Ninja of the 4 Seasons, The (World) (v1.1) (Aftermarket)</description>
@@ -5570,14 +5579,6 @@
 		<url>https://retroachievements.org/game/1462/hashes</url>
 		<hash>728e05f245ab8b7fe61083f6919dc485</hash>
 	</game>
-	<game name="Castlevania (USA) (Red Scale) (v1.0) (EVC)" cloneof="Castlevania (USA) (Rev 1)">
-		<category>Retail</category>
-		<description>Castlevania (USA) (Red Scale) (v1.0) (EVC)</description>
-		<release name="Castlevania (USA) (Red Scale) (v1.0) (EVC)" region="World"/>
-		<rom name="Castlevania (USA) (Red Scale) (v1.0) (EVC).nes" size="131088" crc="8b7d7650" md5="626758e0669429bc434118ef57469328" sha1="c64e9636f7a38fb263b98732b3144bf73cdc19f9"/>
-		<url>https://retroachievements.org/game/1462/hashes</url>
-		<hash>9c8623ca51f755a7e776e0b9f932f0ab</hash>
-	</game>
 	<game name="Castlevania (USA) (Rev 1) (Pl) (v1.0) (Voxar)" cloneof="Castlevania (USA) (Rev 1)">
 		<category>Retail</category>
 		<description>Castlevania (USA) (Rev 1) (Pl) (v1.0) (Voxar)</description>
@@ -6828,6 +6829,23 @@
 		<hash>9d961a26f2104e461667c6a1cc57ab21</hash>
 	</game>
 	
+	<game name="Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan)">
+		<category>Retail</category>
+		<description>Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan)</description>
+		<release name="Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan)" region="Japan"/>
+		<rom name="Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan).nes" size="524304" crc="b63e1069" md5="4c92346de71444811955951ee852ce4a" sha1="33eb849a139b89d21b2da48b810196a8971a0d0d"/>
+		<url>https://retroachievements.org/game/14425/hashes</url>
+		<hash>a0fffec6c04845233b92524f6ab396b8</hash>
+	</game>
+	<game name="Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan) (En) (v1.0) (Twilight Translations)" cloneof="Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan)">
+		<category>Retail</category>
+		<description>Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan) (En) (v1.0) (Twilight Translations)</description>
+		<release name="Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan) (En) (v1.0) (Twilight Translations)" region="English"/>
+		<rom name="Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan) (En) (v1.0) (Twilight Translations).nes" size="524304" crc="3835d2c5" md5="949d16eddc0fc0b9ebcac5966770aa64" sha1="aed8f7d66f9add2486bcda39cff5ee858f1612e0"/>
+		<url>https://retroachievements.org/game/14425/hashes</url>
+		<hash>918d86faa01eaf98e7a5da8e4b85c33f</hash>
+	</game>
+	
 	<game name="Dragon Ball Z II - Gekishin Freeza!! (Japan) (Rev 1)">
 		<category>Retail</category>
 		<description>Dragon Ball Z II - Gekishin Freeza!! (Japan) (Rev 1)</description>
@@ -6996,6 +7014,22 @@
 		<rom name="Dragon Warrior (USA) (Es) (v1.02) (Crackowia).nes" size="81936" crc="375964ed" md5="3169370c40c3b9f3e9ec95cdbbdb578b" sha1="ebacb07868139f01a517f17a1fbd57ed0bd6ec4e"/>
 		<url>https://retroachievements.org/game/1471/hashes</url>
 		<hash>fe6de71e47d7ebb24bb7b87ac70e461a</hash>
+	</game>
+	<game name="Dragon Warrior (USA) (PT-BR) (v1.0) (TeacherGus)" cloneof="Dragon Warrior (USA) (Rev 1)">
+		<category>Retail</category>
+		<description>Dragon Warrior (USA) (PT-BR) (v1.0) (TeacherGus)</description>
+		<release name="Dragon Warrior (USA) (PT-BR) (v1.0) (TeacherGus)" region="Brazil"/>
+		<rom name="Dragon Warrior (USA) (PT-BR) (v1.0) (TeacherGus).nes" size="81936" crc="d1eb2172" md5="3a901706794ae22bd175b6d50bb8c94c" sha1="b06379d8d00621b862ae57afc4507df5a63ff209"/>
+		<url>https://retroachievements.org/game/1471/hashes</url>
+		<hash>d4bcc21a88da3242bc5d6a21bc2f5f64</hash>
+	</game>
+	<game name="Dragon Warrior (USA) (De) (v1.0) (Mephisto)" cloneof="Dragon Warrior (USA) (Rev 1)">
+		<category>Retail</category>
+		<description>Dragon Warrior (USA) (De) (v1.0) (Mephisto)</description>
+		<release name="Dragon Warrior (USA) (De) (v1.0) (Mephisto)" region="Germany"/>
+		<rom name="Dragon Warrior (USA) (De) (v1.0) (Mephisto).nes" size="81936" crc="c4e64f1b" md5="8bc3918e22b860e898fd2a07017395bc" sha1="21d4ac7a3325bab099d1939105785b50495d4abf"/>
+		<url>https://retroachievements.org/game/1471/hashes</url>
+		<hash>1c31f4299dde7cad533f85bdec8b2f9f</hash>
 	</game>
 	
 	<game name="Dragon Quest II - Akuryou no Kamigami (Japan)" cloneof="Dragon Warrior II (USA)">
@@ -9881,7 +9915,7 @@
 		<hash>7b1016f649a7f21e6c27f3f69904218d</hash>
 	</game>
 	
-	<game name="Kirby's Adventure (Europe)">
+	<game name="Kirby's Adventure (Europe)" cloneof="Kirby's Adventure (USA) (Rev 1)">
 		<category>Retail</category>
 		<description>Kirby's Adventure (Europe)</description>
 		<release name="Kirby's Adventure (Europe)" region="Europe"/>
@@ -9889,14 +9923,14 @@
 		<url>https://retroachievements.org/game/1479/hashes</url>
 		<hash>09e21386297efe7e4bfd717b9c6a697d</hash>
 	</game>
-	<game name="Kirby's Adventure (USA)" cloneof="Kirby's Adventure (Europe)">
+	<game name="Kirby's Adventure (USA)" cloneof="Kirby's Adventure (USA) (Rev 1)">
 		<category>Retail</category>
 		<description>Kirby's Adventure (USA)</description>
 		<rom name="Kirby's Adventure (USA).nes" size="786448" crc="4f20b058" md5="15557e4b160880003b4d6b7ad8641c79" sha1="57f02801d29d3ac1fb9da7294f0603c43a6f439f"/>
 		<url>https://retroachievements.org/game/1479/hashes</url>
 		<hash>36ffa102acba11b5c57427d8ac5ad98e</hash>
 	</game>
-	<game name="Hoshi no Kirby - Yume no Izumi no Monogatari (Japan)" cloneof="Kirby's Adventure (Europe)">
+	<game name="Hoshi no Kirby - Yume no Izumi no Monogatari (Japan)" cloneof="Kirby's Adventure (USA) (Rev 1)">
 		<category>Retail</category>
 		<description>Hoshi no Kirby - Yume no Izumi no Monogatari (Japan)</description>
 		<release name="Hoshi no Kirby - Yume no Izumi no Monogatari (Japan)" region="Japan"/>
@@ -9904,15 +9938,14 @@
 		<url>https://retroachievements.org/game/1479/hashes</url>
 		<hash>4d22184ed99efec06bbec5cd7805cc56</hash>
 	</game>
-	<game name="Kirby's Adventure (USA) (Rev 1)" cloneof="Kirby's Adventure (Europe)">
+	<game name="Kirby's Adventure (USA) (Rev 1)">
 		<category>Retail</category>
 		<description>Kirby's Adventure (USA) (Rev 1)</description>
-		<release name="Kirby's Adventure (USA) (Rev 1)" region="USA"/>
 		<rom name="Kirby's Adventure (USA) (Rev 1).nes" size="786448" crc="c68f0885" md5="a3dde61df4bc4ebce2a60c2cf869081e" sha1="5c2810bca7659f3aeb4a993b1c38f228b0fc1c0e"/>
 		<url>https://retroachievements.org/game/1479/hashes</url>
 		<hash>758744ec2d2fa3d1f2020586401f97e8</hash>
 	</game>
-	<game name="Kirby's Adventure (Germany)" cloneof="Kirby's Adventure (Europe)">
+	<game name="Kirby's Adventure (Germany)" cloneof="Kirby's Adventure (USA) (Rev 1)">
 		<category>Retail</category>
 		<description>Kirby's Adventure (Germany)</description>
 		<release name="Kirby's Adventure (Germany)" region="Germany"/>
@@ -9920,7 +9953,7 @@
 		<url>https://retroachievements.org/game/1479/hashes</url>
 		<hash>868635e8bbcc61c73aaa4a56ddbe677c</hash>
 	</game>
-	<game name="Kirby's Adventure (Canada) (Fr)" cloneof="Kirby's Adventure (Europe)">
+	<game name="Kirby's Adventure (Canada) (Fr)" cloneof="Kirby's Adventure (USA) (Rev 1)">
 		<category>Retail</category>
 		<description>Kirby's Adventure (Canada) (Fr)</description>
 		<release name="Kirby's Adventure (Canada) (Fr)" region="Canada"/>
@@ -9928,13 +9961,21 @@
 		<url>https://retroachievements.org/game/1479/hashes</url>
 		<hash>f397d53818b0697e6a80ee5cc30d2a23</hash>
 	</game>
-	<game name="Kirby's Adventure (France)" cloneof="Kirby's Adventure (Europe)">
+	<game name="Kirby's Adventure (France)" cloneof="Kirby's Adventure (USA) (Rev 1)">
 		<category>Retail</category>
 		<description>Kirby's Adventure (France)</description>
 		<release name="Kirby's Adventure (France)" region="France"/>
 		<rom name="Kirby's Adventure (France).nes" size="786448" crc="7e5450cf" md5="5879f138474c01a8c9370a92b643e12a" sha1="90569d0e7c5b4a675d85a511c8fe169fbf211495"/>
 		<url>https://retroachievements.org/game/1479/hashes</url>
 		<hash>fdf4bbe03b31ae0f5faf376ee0153079</hash>
+	</game>
+	<game name="Kirby's Adventure (USA) (Rev 1) (Input Fix) (v1.0) (Controllerhead)" cloneof="Kirby's Adventure (USA) (Rev 1)">
+		<category>Retail</category>
+		<description>Kirby's Adventure (USA) (Rev 1) (Input Fix) (v1.0) (Controllerhead)</description>
+		<release name="Kirby's Adventure (USA) (Rev 1) (Input Fix) (v1.0) (Controllerhead)" region="USA"/>
+		<rom name="Kirby's Adventure (USA) (Rev 1) (Input Fix) (v1.0) (Controllerhead).nes" size="786448" crc="2b977fe3" md5="b459ab9b92f56b782e009c3773e4a0c9" sha1="e54cd9e1f07bf6c0027ffc2c0870e6f5901119ed"/>
+		<url>https://retroachievements.org/game/1479/hashes</url>
+		<hash>3607749a65ec3f8d3710fac0090ca1ca</hash>
 	</game>
 	
 	<game name="NewZealand Story, The (Europe)">

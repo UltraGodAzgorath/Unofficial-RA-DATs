@@ -5,8 +5,8 @@
 		<name>RA - Sony PlayStation</name>
 		<description>Sony PlayStation</description>
 		<category>Subfolders</category>
-		<version>20260214</version>
-		<date>14 February 2026</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/12/games</url>
@@ -129,6 +129,14 @@
 		<disk name="Castlevania - Symphony of the Night - Reborn (Normal Mode) (v1.5.1) (MAUK) (Hack).chd" sha1="3fe044361fdfe68e0b11b815a0583173b78127d9"/>
 		<url>https://retroachievements.or/game/32995/hashes</url>
 		<hash>e91d34ea5286a1a9867cadd3f1113884</hash>
+	</machine>
+	
+	<machine name="Hack/CTR - Crash Team Racing - Retro-Fueled (TheRedhotbr) (Hack)">
+		<category></category>
+		<description>CTR - Crash Team Racing - Retro-Fueled (TheRedhotbr) (Hack)</description>
+		<disk name="CTR - Crash Team Racing - Retro-Fueled (TheRedhotbr) (Hack).chd" sha1="70ecf2c040b3267be4512379efeb77bbb46622a1"/>
+		<url>https://retroachievements.org/game/21930/hashes</url>
+		<hash>d39e336f03c21fe13413ed6d0f6f2937</hash>
 	</machine>
 	
 	<machine name="Hack/Digimon World 2 (Alternative) (v6.0) (Grensuingo) (Hack)">
@@ -2894,14 +2902,6 @@
 		<hash>a48ba9b33a76abbff88aec11812945ed</hash>
 	</machine>
 	
-	<machine name="Subset/Final Fantasy Chronicles - Final Fantasy IV (Subset - Rare Drops)">
-		<category></category>
-		<description>Final Fantasy Chronicles - Final Fantasy IV (Subset - Rare Drops)</description>
-		<disk name="Final Fantasy Chronicles - Final Fantasy IV (Subset - Rare Drops).chd" sha1="a8a1cfebde7d3f94f4a64c5869b96a23ee4fd027"/>
-		<url>https://retroachievements.org/game/29038/hashes</url>
-		<hash>3ebf7f3e497e71ce62188c588e723d83</hash>
-	</machine>
-	
 	<machine name="Retail/Final Fantasy IX (USA)">
 		<category></category>
 		<description>Final Fantasy IX (USA)</description>
@@ -3668,6 +3668,14 @@
 		<disk name="Jigsaw World (Japan).chd" sha1="079ff355470f5fd31244575a0bba4bd467fbb99c"/>
 		<url>https://retroachievements.org/game/14953/hashes</url>
 		<hash>1c6ca4f6779f68c7810da0e0281f1167</hash>
+	</machine>
+	
+	<machine name="Retail/Jinx (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Jinx (Europe) (En,Fr,De,Es,It)</description>
+		<disk name="Jinx (Europe) (En,Fr,De,Es,It).chd" sha1="67f322f23996277909f00eaa7bda72245e7ad536"/>
+		<url>https://retroachievements.org/game/16331/hashes</url>
+		<hash>68ae066efe2d6d15ae080dab3915ac0a</hash>
 	</machine>
 	
 	<machine name="Retail/JoJo's Bizarre Adventure (USA)">
@@ -5199,6 +5207,14 @@
 		<hash>1b077a97e0899d1e6e1bae7ed2de68db</hash>
 	</machine>
 	
+	<machine name="Retail/Kids Station - Oja Majo DoReMi - Maho-dou Dance Carnival! (Japan)">
+		<category></category>
+		<description>Kids Station - Oja Majo DoReMi - Maho-dou Dance Carnival! (Japan)</description>
+		<disk name="Kids Station - Oja Majo DoReMi - Maho-dou Dance Carnival! (Japan).chd" sha1="1b3c687294bb15f65ae2f9b2f5f1c0e43d8cfce7"/>
+		<url>https://retroachievements.org/game/36183/hashes</url>
+		<hash>738cc5d8fb40d00ac382c7ae21474577</hash>
+	</machine>
+	
 	<machine name="Retail/Omega Boost (USA)">
 		<category></category>
 		<description>Omega Boost (USA)</description>
@@ -5770,6 +5786,29 @@
 		<disk name="Rayman (USA).chd" sha1="07f8272430ee6ec9d0707fef1667f0e4ebb5b23b"/>
 		<url>https://retroachievements.org/game/11346/hashes</url>
 		<hash>c6ff8745d23b4c666622b26ba2022e1f</hash>
+	</machine>
+	
+	<machine name="Retail/Rayman 2 - The Great Escape/Rayman 2 - The Great Escape (USA) (En,Fr,Es)">
+		<category></category>
+		<description>Rayman 2 - The Great Escape (USA) (En,Fr,Es)</description>
+		<release name="Rayman 2 - The Great Escape (USA) (En,Fr,Es)" region="USA"/>
+		<disk name="Rayman 2 - The Great Escape (USA) (En,Fr,Es).chd" sha1="580332fd7023842653c212cabd99421ad89dcb8c"/>
+		<url>https://retroachievements.org/game/11334/hashes</url>
+		<hash>ed764ac58e32ede09ca4d046c6e41d92</hash>
+	</machine>
+	<machine name="Retail/Rayman 2 - The Great Escape/Rayman 2 - The Great Escape (Europe) (En,Es,It)">
+		<category></category>
+		<description>Rayman 2 - The Great Escape (Europe) (En,Es,It)</description>
+		<disk name="Rayman 2 - The Great Escape (Europe) (En,Es,It).chd" sha1="c69049c715a0deec16f79ca6de90af88e107c943"/>
+		<url>https://retroachievements.org/game/11334/hashes</url>
+		<hash>7004f8f7fc57b20c06f9d9c5ac2c3e53</hash>
+	</machine>
+	<machine name="Retail/Rayman 2 - The Great Escape/Rayman 2 - The Great Escape (Europe) (Fr,De)">
+		<category></category>
+		<description>Rayman 2 - The Great Escape (Europe) (Fr,De)</description>
+		<disk name="Rayman 2 - The Great Escape (Europe) (Fr,De).chd" sha1="4447169fdd1c79cba4f01970cdf5265a9b9a82fd"/>
+		<url>https://retroachievements.org/game/11334/hashes</url>
+		<hash>060a7302ad441f32fba766271f20f440</hash>
 	</machine>
 	
 	<machine name="Retail/Rayman Rush (USA)">
@@ -7567,6 +7606,14 @@
 		<disk name="Three Stooges, The (USA).chd" sha1="01d519a07510122a1edb49a9553b0638cf49db71"/>
 		<url>https://retroachievements.org/game/32087/hashes</url>
 		<hash>4d8d5f88d7fce23ab92f01fc82e036b4</hash>
+	</machine>
+	
+	<machine name="Retail/Theme Hospital (Europe) (En,Fr,De,Es,It,Sv)">
+		<category></category>
+		<description>Theme Hospital (Europe) (En,Fr,De,Es,It,Sv)</description>
+		<disk name="Theme Hospital (Europe) (En,Fr,De,Es,It,Sv).chd" sha1="d99a836739d3d153983f01380e04b59fa92f393b"/>
+		<url>https://retroachievements.org/game/13969/hashes</url>
+		<hash>75e94d00ff8719f3137f175f18e1f4ee</hash>
 	</machine>
 	
 	<machine name="Retail/Threads of Fate (USA)">

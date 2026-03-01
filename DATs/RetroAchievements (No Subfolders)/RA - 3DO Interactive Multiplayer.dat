@@ -5,8 +5,8 @@
 		<name>RA - 3DO Interactive Multiplayer</name>
 		<description>3DO Interactive Multiplayer</description>
 		<category>No Subfolders</category>
-		<version>20260214</version>
-		<date>14 February 2026</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/43/games</url>
@@ -30,7 +30,7 @@
 		<url>https://retroachievements.org/game/8368/hashes</url>
 		<hash>4d7f2e1b2e8b9d9d14f083fae44d9760</hash>
 	</machine>
-
+	
 	<machine name="Alone in the Dark 2 (USA)">
 		<category>Retail</category>
 		<description>Alone in the Dark 2 (USA)</description>
@@ -38,7 +38,15 @@
 		<url>https://retroachievements.org/game/7895/hashes</url>
 		<hash>2b8f6037654255aac56ff5c12c0b44e6</hash>
 	</machine>
-
+	
+	<machine name="Bust-A-Move (USA)">
+		<category>Retail</category>
+		<description>Bust-A-Move (USA)</description>
+		<disk name="Bust-A-Move (USA).chd" sha1="263755f37264d8f0f862afe977e426d3b7592452"/>
+		<url>https://retroachievements.org/game/16642/hashes</url>
+		<hash>eaf126ac57d5cf5e83a8db06c9a3fdf8</hash>
+	</machine>
+	
 	<machine name="Drug Wars (USA)">
 		<category>Retail</category>
 		<description>Drug Wars (USA)</description>
@@ -46,7 +54,7 @@
 		<url>https://retroachievements.org/game/16827/hashes</url>
 		<hash>bdbcafe60b41f0be7ec07cac9515cb38</hash>
 	</machine>
-
+	
 	<machine name="Doom (USA, Japan)">
 		<category>Retail</category>
 		<description>Doom (USA, Japan)</description>
@@ -54,7 +62,7 @@
 		<url>https://retroachievements.org/game/16617/hashes</url>
 		<hash>c93cbef8e885c2ec83bc1732890a0d1f</hash>
 	</machine>
-
+	
 	<machine name="Dragon's Lair (USA, Korea)">
 		<category>Retail</category>
 		<description>Dragon's Lair (USA, Korea)</description>
@@ -62,7 +70,7 @@
 		<url>https://retroachievements.org/game/16826/hashes</url>
 		<hash>468d11b409bce3ff2facee054a8494ad</hash>
 	</machine>
-
+	
 	<machine name="Escape from Monster Manor (USA)">
 		<category>Retail</category>
 		<description>Escape from Monster Manor (USA)</description>
@@ -70,7 +78,7 @@
 		<url>https://retroachievements.org/game/17743/hashes</url>
 		<hash>76d55d10938f936b9707d4578e8440a7</hash>
 	</machine>
-
+	
 	<machine name="Fatty Bear's Birthday Surprise (USA)">
 		<category>Retail</category>
 		<description>Fatty Bear's Birthday Surprise (USA)</description>
@@ -78,7 +86,7 @@
 		<url>https://retroachievements.org/game/16411/hashes</url>
 		<hash>7a7a41a239fe4d026be6dfa761933fb5</hash>
 	</machine>
-
+	
 	<machine name="Fatty Bear's Funpack (USA)">
 		<category>Retail</category>
 		<description>Fatty Bear's Funpack (USA)</description>
@@ -110,7 +118,7 @@
 		<url>https://retroachievements.org/game/20239/hashes</url>
 		<hash>d215521cc942a81b1439162469c53809</hash>
 	</machine>
-
+	
 	<machine name="Jurassic Park Interactive (USA)">
 		<category>Retail</category>
 		<description>Jurassic Park Interactive (USA)</description>
@@ -118,7 +126,7 @@
 		<url>https://retroachievements.org/game/16640/hashes</url>
 		<hash>bbb1a1c3fc825365407dae73a65e2c61</hash>
 	</machine>
-
+	
 	<machine name="Kingdom - The Far Reaches (USA, Europe)">
 		<category>Retail</category>
 		<description>Kingdom - The Far Reaches (USA, Europe)</description>
@@ -126,7 +134,15 @@
 		<url>https://retroachievements.org/game/8400/hashes</url>
 		<hash>32295bd44a4885b170d2073739d4fec2</hash>
 	</machine>
-
+	
+	<machine name="Lost Eden (USA, Korea)">
+		<category>Retail</category>
+		<description>Lost Eden (USA, Korea)</description>
+		<disk name="Lost Eden (USA, Korea).chd" sha1="e54b5530785c655ff17770d6c22b44344c06ebdd"/>
+		<url>https://retroachievements.org/game/16391/hashes</url>
+		<hash>ffcdae9fd53f70a7cd5f55a8233b001f</hash>
+	</machine>
+	
 	<machine name="Mad Dog II - The Lost Gold (USA)">
 		<category>Retail</category>
 		<description>Mad Dog II - The Lost Gold (USA)</description>
@@ -134,7 +150,7 @@
 		<url>https://retroachievements.org/game/21265/hashes</url>
 		<hash>d2843fb9937587e9a0b77e067770b0ab</hash>
 	</machine>
-
+	
 	<machine name="MegaRace (USA, Europe) (En,Fr,De,Es,It)">
 		<category>Retail</category>
 		<description>MegaRace (USA, Europe) (En,Fr,De,Es,It)</description>
@@ -142,7 +158,7 @@
 		<url>https://retroachievements.org/game/16837/hashes</url>
 		<hash>6adf88dffbb1e563aac10098f3bf5fa7</hash>
 	</machine>
-
+	
 	<machine name="Mind Teazzer (USA)">
 		<category>Retail</category>
 		<description>Mind Teazzer (USA)</description>
@@ -150,7 +166,7 @@
 		<url>https://retroachievements.org/game/16550/hashes</url>
 		<hash>2d13fca9767858fb7b93da2c74f525f9</hash>
 	</machine>
-
+	
 	<machine name="Myst (USA)">
 		<category>Retail</category>
 		<description>Myst (USA)</description>
@@ -158,7 +174,7 @@
 		<url>https://retroachievements.org/game/16839/hashes</url>
 		<hash>e3254945201de3d713abe8ba9338efae</hash>
 	</machine>
-
+	
 	<machine name="Onee-san to Issho! Janken Paradise (Japan)">
 		<category>Retail</category>
 		<description>Onee-san to Issho! Janken Paradise (Japan)</description>
@@ -166,7 +182,7 @@
 		<url>https://retroachievements.org/game/20506/hashes</url>
 		<hash>d902e9258441bc01d81dc15f2a39d1d7</hash>
 	</machine>
-
+	
 	<machine name="Onee-san to Issho! Kisekae Paradise (Japan)">
 		<category>Retail</category>
 		<description>Onee-san to Issho! Kisekae Paradise (Japan)</description>
@@ -174,7 +190,7 @@
 		<url>https://retroachievements.org/game/20507/hashes</url>
 		<hash>c4cd53e4b988b699029ab11b27657c59</hash>
 	</machine>
-
+	
 	<machine name="Plumbers Don't Wear Ties (USA)">
 		<category>Retail</category>
 		<description>Plumbers Don't Wear Ties (USA)</description>
@@ -182,7 +198,7 @@
 		<url>https://retroachievements.org/game/16397/hashes</url>
 		<hash>4570e692ac07d2242ab9141f1bb9000d</hash>
 	</machine>
-
+	
 	<machine name="Pretty Soldier SailorMoon S (Japan)">
 		<category>Retail</category>
 		<description>Pretty Soldier SailorMoon S (Japan)</description>
@@ -214,7 +230,7 @@
 		<url>https://retroachievements.org/game/16852/hashes</url>
 		<hash>923d162e786de7c32c5e2496603914fb</hash>
 	</machine>
-
+	
 	<machine name="Seal of the Pharaoh (USA)">
 		<category>Retail</category>
 		<description>Seal of the Pharaoh (USA)</description>
@@ -246,7 +262,7 @@
 		<url>https://retroachievements.org/game/16864/hashes</url>
 		<hash>90e4b7dda0d2b9d5117086271bdfa5ff</hash>
 	</machine>
-
+	
 	<machine name="Starblade (Canada)">
 		<category>Retail</category>
 		<description>Starblade (Canada)</description>
@@ -254,7 +270,7 @@
 		<url>https://retroachievements.org/game/16865/hashes</url>
 		<hash>15a0ecf45f13bcb56e5ece58e0085622</hash>
 	</machine>
-
+	
 	<machine name="Strahl (USA)">
 		<category>Retail</category>
 		<description>Strahl (USA)</description>
@@ -262,7 +278,7 @@
 		<url>https://retroachievements.org/game/17739/hashes</url>
 		<hash>7df7061b2830e9d95e5f822a68cd2188</hash>
 	</machine>
-
+	
 	<machine name="Super Street Fighter II Turbo (USA)">
 		<category>Retail</category>
 		<description>Super Street Fighter II Turbo (USA)</description>
@@ -270,7 +286,7 @@
 		<url>https://retroachievements.org/game/16528/hashes</url>
 		<hash>c2a97a18e2db5297518bd25fdf047c85</hash>
 	</machine>
-
+	
 	<machine name="Incredible Machine, The (USA)">
 		<category>Retail</category>
 		<description>Incredible Machine, The (USA)</description>
@@ -294,7 +310,7 @@
 		<url>https://retroachievements.org/game/16508/hashes</url>
 		<hash>8657b3440b4c177edf2e6e9607b0c319</hash>
 	</machine>
-
+	
 	<machine name="Wolfenstein 3D (USA)">
 		<category>Retail</category>
 		<description>Wolfenstein 3D (USA)</description>
@@ -302,7 +318,7 @@
 		<url>https://retroachievements.org/game/16872/hashes</url>
 		<hash>71841df1c47503cce8a735dffd3898db</hash>
 	</machine>
-
+	
 	<machine name="Yu Yu Hakusho (Japan)">
 		<category>Retail</category>
 		<description>Yu Yu Hakusho (Japan)</description>

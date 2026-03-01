@@ -5,8 +5,8 @@
 		<name>RA - Super Nintendo Entertainment System</name>
 		<description>Super Nintendo Entertainment System</description>
 		<category>No Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/3/games</url>
@@ -29,6 +29,15 @@
 		<rom name="SMW - #0 IGGY'S CASTLE (v2.0.0) (Wakana) (Hack).sfc" size="4194304" crc="ab59c7e0" md5="fea5dc2292cf872e27b8384d71d21ecf" sha1="e1eb20f3d61ff0515586a1eb79d9f97f9ac46078"/>
 		<url>https://retroachievements.org/game/28134/hashes</url>
 		<hash>fea5dc2292cf872e27b8384d71d21ecf</hash>
+	</game>
+	
+	<game name="SMW - Jigsaw's Test (v1.0) (CaseP, Foursword4) (Hack)">
+		<category>Hack</category>
+		<description>SMW - Jigsaw's Test (v1.0) (CaseP, Foursword4) (Hack)</description>
+		<release name="SMW - Jigsaw's Test (v1.0) (CaseP, Foursword4) (Hack)" region="World"/>
+		<rom name="SMW - Jigsaw's Test (v1.0) (CaseP, Foursword4) (Hack).sfc" size="2097152" crc="13e875ba" md5="022c234a6e290b73edbf598fd61263c4" sha1="5030a73c6acad7b10103bad32c587a5b7141ca4d"/>
+		<url>https://retroachievements.org/game/38058/hashes</url>
+		<hash>022c234a6e290b73edbf598fd61263c4</hash>
 	</game>
 	
 	<game name="SMW - Super Alicorn Sisters - Return of the Tantabus (v0.05.2) (DPBOX) (Hack)">
@@ -533,21 +542,35 @@
 		<hash>9eecafa3a164c0ae0445eb17f6da00d7</hash>
 	</game>
 	
-	<game name="SMW - Crash Bandicoot and the Retro Dimension (En) (v1.07) (Bandicoot) (Hack)">
+	<game name="SMW - Crash Bandicoot and the Retro Dimension (En) (v1.07) (Bandicoot) (Hack)" cloneof="SMW - Crash Bandicoot and the Retro Dimension (En) (v1.08) (bandicoot) (Hack)">
 		<category>Hack</category>
 		<description>SMW - Crash Bandicoot and the Retro Dimension (En) (v1.07) (Bandicoot) (Hack)</description>
-		<release name="SMW - Crash Bandicoot and the Retro Dimension (En) (v1.07) (Bandicoot) (Hack)" region="English"/>
 		<rom name="SMW - Crash Bandicoot and the Retro Dimension (En) (v1.07) (Bandicoot) (Hack).sfc" size="4194304" crc="74597db3" md5="a19025d30d2f056b5d2f67c6d2df4fb0" sha1="22c6075dc86cdf28dfba3cebc5e9418dc58e23ce"/>
 		<url>https://retroachievements.org/game/34882/hashes</url>
 		<hash>a19025d30d2f056b5d2f67c6d2df4fb0</hash>
 	</game>
-	<game name="SMW - Crash Bandicoot and the Retro Dimension (Pt) (v1.07) (Bandicoot) (Hack)" cloneof="SMW - Crash Bandicoot and the Retro Dimension (En) (v1.07) (Bandicoot) (Hack)">
+	<game name="SMW - Crash Bandicoot and the Retro Dimension (Pt) (v1.07) (Bandicoot) (Hack)" cloneof="SMW - Crash Bandicoot and the Retro Dimension (En) (v1.08) (bandicoot) (Hack)">
 		<category>Hack</category>
 		<description>SMW - Crash Bandicoot and the Retro Dimension (Pt) (v1.07) (Bandicoot) (Hack)</description>
-		<release name="SMW - Crash Bandicoot and the Retro Dimension (Pt) (v1.07) (Bandicoot) (Hack)" region="Portugal"/>
 		<rom name="SMW - Crash Bandicoot and the Retro Dimension (Pt) (v1.07) (Bandicoot) (Hack).sfc" size="4194304" crc="3a003f0e" md5="5ad584a19226c0f1a21e48f16c1260de" sha1="0b33d43ff9b08aa42e143af0babdc2eed567bb16"/>
 		<url>https://retroachievements.org/game/34882/hashes</url>
 		<hash>5ad584a19226c0f1a21e48f16c1260de</hash>
+	</game>
+	<game name="SMW - Crash Bandicoot and the Retro Dimension (En) (v1.08) (bandicoot) (Hack)">
+		<category>Hack</category>
+		<description>SMW - Crash Bandicoot and the Retro Dimension (En) (v1.08) (bandicoot) (Hack)</description>
+		<release name="SMW - Crash Bandicoot and the Retro Dimension (En) (v1.08) (bandicoot) (Bandicoot) (Hack)" region="English"/>
+		<rom name="SMW - Crash Bandicoot and the Retro Dimension (En) (v1.08) (bandicoot) (Hack).sfc" size="4194304" crc="a4bc389c" md5="f5ed58c63d0580bdcd0237a5d23fd288" sha1="b956d4221109310b86d00c95dc9ae9c4f31c1b26"/>
+		<url>https://retroachievements.org/game/34882/hashes</url>
+		<hash>f5ed58c63d0580bdcd0237a5d23fd288</hash>
+	</game>
+	<game name="SMW - Crash Bandicoot e a Dimensao Retro (Pt) (v1.08) (bandicoot) (Hack)" cloneof="SMW - Crash Bandicoot and the Retro Dimension (En) (v1.08) (bandicoot) (Hack)">
+		<category>Hack</category>
+		<description>SMW - Crash Bandicoot e a Dimensao Retro (Pt) (v1.08) (bandicoot) (Hack)</description>
+		<release name="SMW - Crash Bandicoot e a Dimensao Retro (Pt) (v1.08) (bandicoot) (Hack)" region="Portugal"/>
+		<rom name="SMW - Crash Bandicoot e a Dimensao Retro (Pt) (v1.08) (bandicoot) (Hack).sfc" size="4194304" crc="ffd8c60d" md5="60793c171bb4808649a83f001b394c3f" sha1="bfa230e8c09115d004f29d60cd27d0d089279735"/>
+		<url>https://retroachievements.org/game/34882/hashes</url>
+		<hash>60793c171bb4808649a83f001b394c3f</hash>
 	</game>
 	
 	<game name="SMW - Cube's Kaizo World (v1.1) (Cube) (Hack)">
@@ -599,6 +622,15 @@
 		<rom name="SMW - Cuter Kaizo (v1.0) (slopcore) (Hack).sfc" size="2097152" crc="8a702f7e" md5="fd4c67e16c3cdfd03ee03633318081cc" sha1="63dfdb84f742509508f29c511dc34782b422072f"/>
 		<url>https://retroachievements.org/game/30513/hashes</url>
 		<hash>fd4c67e16c3cdfd03ee03633318081cc</hash>
+	</game>
+	
+	<game name="DKC - DKC X Mario (v1.107) (RainbowSprinklez) (Hack)">
+		<category>Hack</category>
+		<description>DKC - DKC X Mario (v1.107) (RainbowSprinklez) (Hack)</description>
+		<release name="DKC - DKC X Mario (v1.107) (RainbowSprinklez) (Hack)" region="World"/>
+		<rom name="DKC - DKC X Mario (v1.107) (RainbowSprinklez) (Hack).sfc" size="4194304" crc="6c60376b" md5="0a8d235184437cfaea4f763ac682f650" sha1="c006f76eec13f17efcf7ec0489ddcfc8021b51c9"/>
+		<url>https://retroachievements.org/game/32069/hashes</url>
+		<hash>0a8d235184437cfaea4f763ac682f650</hash>
 	</game>
 	
 	<game name="SMW - dlroW oiraM repuS (v1.4) (Dotsarecool) (Hack)">
@@ -1129,6 +1161,24 @@
 		<rom name="FFIII - General Leo Edition (Figaro Castle Cutscene Fix) (v0.1) (clymax, Cubear) (Hack).sfc" size="3145728" crc="7c47e7f2" md5="2ec77f4a2449c7915f0c0f5766c79bbb" sha1="eb5cd427e31b4a83921756d6587dbdc651daac44"/>
 		<url>https://retroachievements.org/game/32655/hashes</url>
 		<hash>2ec77f4a2449c7915f0c0f5766c79bbb</hash>
+	</game>
+	
+	<game name="FFVI - Hope Eternal and Love Everlasting (v1.1) (Piggy Chan!) (Hack)">
+		<category>Hack</category>
+		<description>FFVI - Hope Eternal and Love Everlasting (v1.1) (Piggy Chan!) (Hack)</description>
+		<release name="FFVI - Hope Eternal and Love Everlasting (v1.1) (Piggy Chan!) (Hack)" region="World"/>
+		<rom name="FFVI - Hope Eternal and Love Everlasting (v1.1) (Piggy Chan!).sfc" size="4194304" crc="5e4d120c" md5="1960361d6799e0159b82c1a922b3e426" sha1="71fe71b2344ab16d0a025cd5e7a17343d3370094"/>
+		<url>https://retroachievements.org/game/36930/hashes</url>
+		<hash>1960361d6799e0159b82c1a922b3e426</hash>
+	</game>
+	
+	<game name="FFVI - Omega-A (Final) (6vOWP2tBUM) (Hack)">
+		<category>Hack</category>
+		<description>FFVI - Omega-A (Final) (6vOWP2tBUM) (Hack)</description>
+		<release name="FFVI - Omega-A (Final) (6vOWP2tBUM) (Hack)" region="World"/>
+		<rom name="FFVI - Omega-A (Final) (6vOWP2tBUM) (Hack).sfc" size="6291456" crc="b79d62ec" md5="68411ebb05de528c5002ae6ce39316ff" sha1="4e29f09643894c14955973924b5b6ab7fb3ad0a4"/>
+		<url>https://retroachievements.org/game/35376/hashes</url>
+		<hash>68411ebb05de528c5002ae6ce39316ff</hash>
 	</game>
 	
 	<game name="FFVI - Presentiment Era (v3.3) (Mr. Branford) (Hack)" cloneof="FFVI - Presentiment Era (v3.3) (Marshal nonsense fix) (Mr. Branford, solidification) (Hack)">
@@ -1886,6 +1936,15 @@
 		<rom name="SMW - Marvel Quiz Quest (v3.0) (BillyTime! Games) (Hack).sfc" size="4194304" crc="0cc29cef" md5="6cb79ef3c0ea4d7acf11aaca84608179" sha1="88751afbd9ae83b7f2aadd340cbe84ee4c7985f9"/>
 		<url>https://retroachievements.org/game/29085/hashes</url>
 		<hash>6cb79ef3c0ea4d7acf11aaca84608179</hash>
+	</game>
+	
+	<game name="FFVI - Meeple Fantasy 6 (v1.7) (Meeplelard) (Hack)">
+		<category>Hack</category>
+		<description>FFVI - Meeple Fantasy 6 (v1.7) (Meeplelard) (Hack)</description>
+		<release name="FFVI - Meeple Fantasy 6 (v1.7) (Meeplelard) (Hack)" region="World"/>
+		<rom name="FFVI - Meeple Fantasy 6 (v1.7) (Meeplelard) (Hack).sfc" size="4194304" crc="c5ebbded" md5="ca1b45d2b2fd3eed0d43e4a5547446bb" sha1="9a952f7ef0634c6ff2f837c01d13aa90e2e3683d"/>
+		<url>https://retroachievements.org/game/34490/hashes</url>
+		<hash>ca1b45d2b2fd3eed0d43e4a5547446bb</hash>
 	</game>
 	
 	<game name="Mega Man Arkanoid (v1.1) (Supergamerguy) (Hack)">
@@ -3929,6 +3988,22 @@
 		<rom name="SMW - Joy of Kaizo, The (v1.6) (NaroGugul) (Hack).sfc" size="4194304" crc="edaa8c9c" md5="cf5f089c1d27aea35fc72adf9c6eac5f" sha1="09b08217be72bda146498299b53348433aa6ef50"/>
 		<url>https://retroachievements.org/game/16213/hashes</url>
 		<hash>cf5f089c1d27aea35fc72adf9c6eac5f</hash>
+	</game>
+	
+	<game name="LoZ - ALttP - 18 Hours Past (v1.0) (Letterbomb) (Hack)" cloneof="LoZ - ALttP - 18 Hours Past (v1.12) (Letterbomb) (Hack)">
+		<category>Hack</category>
+		<description>LoZ - ALttP - 18 Hours Past (v1.0) (Letterbomb) (Hack)</description>
+		<rom name="LoZ - ALttP - 18 Hours Past (v1.0) (Letterbomb) (Hack).sfc" size="2097152" crc="8cdfd8aa" md5="53ddf07ef065b78b63edfba4fdccd4db" sha1="2a2e77ea75008ef1151ec57470b437742b5f32f6"/>
+		<url>https://retroachievements.org/game/24132/hashes</url>
+		<hash>53ddf07ef065b78b63edfba4fdccd4db</hash>
+	</game>
+	<game name="LoZ - ALttP - 18 Hours Past (v1.12) (Letterbomb) (Hack)">
+		<category>Hack</category>
+		<description>LoZ - ALttP - 18 Hours Past (v1.12) (Letterbomb) (Hack)</description>
+		<release name="LoZ - ALttP - 18 Hours Past (v1.12) (Letterbomb) (Hack)" region="World"/>
+		<rom name="LoZ - ALttP - 18 Hours Past (v1.12) (Letterbomb) (Hack).sfc" size="2097152" crc="c2dc7b83" md5="6180c11cc3bfeea5196f42e67dc79ebf" sha1="b0315d744f0f6b8503f75345e7ede17564d68fff"/>
+		<url>https://retroachievements.org/game/24132/hashes</url>
+		<hash>6180c11cc3bfeea5196f42e67dc79ebf</hash>
 	</game>
 	
 	<game name="Legend of Zelda, The - A Link to the Islands (v2.5) (Darklink7884) (Hack)">
@@ -7508,6 +7583,15 @@
 		<rom name="Earthworm Jim 2 (USA).sfc" size="3145728" crc="393de197" md5="c3ff5fd4e3f46653fec94ba60d70281d" sha1="e4446c9f9c541a0d698e00ecbbb553df165a34f6"/>
 		<url>https://retroachievements.org/game/888/hashes</url>
 		<hash>c3ff5fd4e3f46653fec94ba60d70281d</hash>
+	</game>
+	
+	<game name="Eek! The Cat (USA)">
+		<category>Retail</category>
+		<description>Eek! The Cat (USA)</description>
+		<release name="Eek! The Cat (USA)" region="USA"/>
+		<rom name="Eek! The Cat (USA).sfc" size="1048576" crc="216f2fc7" md5="93051005958b352dd3ebd2d0545df15e" sha1="db072bcb550a0704830a383f7c39fcbf71f5a11b"/>
+		<url>https://retroachievements.org/game/890/hashes</url>
+		<hash>93051005958b352dd3ebd2d0545df15e</hash>
 	</game>
 	
 	<game name="Eien no Filerna (Japan)">
@@ -12385,7 +12469,6 @@
 	<game name="Shin Megami Tensei II (Japan) (En) (v1.0) (AGTP) (QoL) (v1.07) (Orden)" cloneof="Shin Megami Tensei II (Japan)">
 		<category>Retail</category>
 		<description>Shin Megami Tensei II (Japan) (En) (v1.0) (AGTP) (QoL) (v1.07) (Orden)</description>
-		<release name="Shin Megami Tensei II (Japan) (En) (v1.0) (AGTP) (QoL) (v1.07) (Orden)" region="English"/>
 		<rom name="Shin Megami Tensei II (Japan) (En) (v1.0) (AGTP) (QoL) (v1.07) (Orden).sfc" size="2621440" crc="fa23ca38" md5="db32e427711161b8ce6ec0f45f203437" sha1="16b3f127fb19f1c2892f65a6871b4ab39f70c030"/>
 		<url>https://retroachievements.org/game/3496/hashes</url>
 		<hash>db32e427711161b8ce6ec0f45f203437</hash>
@@ -12393,10 +12476,17 @@
 	<game name="Shin Megami Tensei II (Japan) (En) (v1.0) (AGTP) (QoL) (v1.09) (Orden)" cloneof="Shin Megami Tensei II (Japan)">
 		<category>Retail</category>
 		<description>Shin Megami Tensei II (Japan) (En) (v1.0) (AGTP) (QoL) (v1.09) (Orden)</description>
-		<release name="Shin Megami Tensei II (Japan) (En) (v1.0) (AGTP) (QoL) (v1.09) (Orden)" region="Spain"/>
+		<release name="Shin Megami Tensei II (Japan) (En) (v1.0) (AGTP) (QoL) (v1.09) (Orden)" region="English"/>
 		<rom name="Shin Megami Tensei II (Japan) (En) (v1.0) (AGTP) (QoL) (v1.09) (Orden).sfc" size="2621440" crc="76990875" md5="fbac878466d4690acfd678c5fe202cb4" sha1="14757efa1431818acae4769604a94b7eb836c2e7"/>
 		<url>https://retroachievements.org/game/3496/hashes</url>
 		<hash>fbac878466d4690acfd678c5fe202cb4</hash>
+	</game>
+	<game name="Shin Megami Tensei II (Japan) (En) (v1.0) (AGTP) (QoL) (v1.09) (Orden) (alt races)" cloneof="Shin Megami Tensei II (Japan)">
+		<category>Retail</category>
+		<description>Shin Megami Tensei II (Japan) (En) (v1.0) (AGTP) (QoL) (v1.09) (Orden) (alt races)</description>
+		<rom name="Shin Megami Tensei II (Japan) (En) (v1.0) (AGTP) (QoL) (v1.09) (Orden) (alt races).sfc" size="2621440" crc="7ec363f5" md5="730131a5ce745f9e5c5ab82a2dd45cf4" sha1="2c7028ccd5b0ace27ec81df25c8224bddf519f5f"/>
+		<url>https://retroachievements.org/game/3496/hashes</url>
+		<hash>730131a5ce745f9e5c5ab82a2dd45cf4</hash>
 	</game>
 	
 	<game name="Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan) (Ru) (Shedevr)" cloneof="Shin Nekketsu Kouha - Kunio-tachi no Banka (Japan)">

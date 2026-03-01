@@ -5,8 +5,8 @@
 		<name>RA - Sega CD</name>
 		<description>Sega CD</description>
 		<category>Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/9/games</url>
@@ -195,6 +195,14 @@
 		<disk name="Eternal Champions - Challenge from the Dark Side (USA) (RE).chd" sha1="6608bca9094b0412578a37b8250c9548f68bbbb1"/>
 		<url>https://retroachievements.org/game/16021/hashes</url>
 		<hash>59f664ff7637ce4f8fbbe2b77c66c487</hash>
+	</machine>
+	
+	<machine name="Retail/Eye of the Beholder (USA)">
+		<category></category>
+		<description>Eye of the Beholder (USA)</description>
+		<disk name="Eye of the Beholder (USA).chd" sha1="6394fc55f8b8bf36cf835ab3514fa11535652df1"/>
+		<url>https://retroachievements.org/game/14617/hashes</url>
+		<hash>59608bf529e780c51684555300111d55</hash>
 	</machine>
 	
 	<machine name="Retail/F1 Circus CD (Japan)">

@@ -5,8 +5,8 @@
 		<name>RA - Nintendo 64</name>
 		<description>Nintendo 64</description>
 		<category>Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/2/games</url>
@@ -627,6 +627,14 @@
 		<rom name="SM64 - Luigi's Mansion 64.5 Super Player Mode (v1.4) (LinCrash) (Hack).z64" size="67108864" crc="0d381103" md5="de1e8ddfdbb94c47c06e22f6886e34dc" sha1="d79eba31e675fedb2abe434a6c1ea403dda19083"/>
 		<url>https://retroachievements.org/game/35115/hashes</url>
 		<hash>de1e8ddfdbb94c47c06e22f6886e34dc</hash>
+	</game>
+	
+	<game name="Hack/Super Mario 64/SM64 - Mario Adventure 2 (v1.7) (aglab2) (Hack)">
+		<category>Nintendo 64</category>
+		<description>SM64 - Mario Adventure 2 (v1.7) (aglab2) (Hack)</description>
+		<rom name="SM64 - Mario Adventure 2 (v1.7) (aglab2) (Hack).z64" size="29831528" crc="65758c4f" md5="65c7435cf98c28df7eecc37b648a1b0c" sha1="6ff1957843822cd24d3de3119d0c39869cb843c6"/>
+		<url>https://retroachievements.org/game/36253/hashes</url>
+		<hash>65c7435cf98c28df7eecc37b648a1b0c</hash>
 	</game>
 	
 	<game name="Hack/Super Mario 64/SM64 - Mario Aimlessly Drives a Car Around the City 64 (RTA Edition) (CowQuack) (Hack)">
@@ -1402,6 +1410,14 @@
 		<rom name="SM64 - Phenomena (v1.3.3) (Various) (Hack).z64" size="67108864" crc="2a15c7c4" md5="3417bdde217aaaedc73c155ea92573bd" sha1="581f5a4f08f9439d000f1c1b9fd8d8de03f3701a"/>
 		<url>https://retroachievements.org/game/25309/hashes</url>
 		<hash>3417bdde217aaaedc73c155ea92573bd</hash>
+	</game>
+	
+	<game name="Hack/Super Mario 64/SM64 - Phi's Star Challenge (v3.0) (Narumi) (Hack)">
+		<category>Nintendo 64</category>
+		<description>SM64 - Phi's Star Challenge (v3.0) (Narumi) (Hack)</description>
+		<rom name="SM64 - Phi's Star Challenge (v3.0) (Narumi) (Hack).z64" size="67108864" crc="9ba76768" md5="1beaadc7b532ae9f6616126de0f19a8a" sha1="fc651478b0dd853b5adf4003d7c9f8b0ca3817ad"/>
+		<url>https://retroachievements.org/game/38012/hashes</url>
+		<hash>1beaadc7b532ae9f6616126de0f19a8a</hash>
 	</game>
 	
 	<game name="Hack/Super Mario 64/SM64 - Plutonium Mario 64 (v1.2) (usernamesarespiders) (Hack)">
@@ -3053,6 +3069,14 @@
 		<hash>2f9d9399f992ddc0511aeecabce7b527</hash>
 	</game>
 	
+	<game name="Hack/Super Mario 64/SM64 - Super Mario Jammin' Journey (v1.4) (goosedajuice) (Hack)">
+		<category>Nintendo 64</category>
+		<description>SM64 - Super Mario Jammin' Journey (v1.4) (goosedajuice) (Hack)</description>
+		<rom name="SM64 - Super Mario Jammin' Journey (v1.4) (goosedajuice) (Hack).z64" size="67108864" crc="aea4c3a5" md5="2613ed60f0851be77a7fdc26658e2b00" sha1="091ac9e6dd7fb5440cef7a291975427107015aa8"/>
+		<url>https://retroachievements.org/game/17052/hashes</url>
+		<hash>2613ed60f0851be77a7fdc26658e2b00</hash>
+	</game>
+	
 	<game name="Hack/Super Mario 64/SM64 - Super Mario Odyssey 64 (v1.0) (Hack)">
 		<category>Nintendo 64</category>
 		<description>SM64 - Super Mario Odyssey 64 (v1.0) (Hack)</description>
@@ -4664,14 +4688,6 @@
 		<hash>5cdee5503a57d14533c66b35a5848899</hash>
 	</game>
 	
-	<game name="Retail/Gauntlet Legends (USA)">
-		<category>Nintendo 64</category>
-		<description>Gauntlet Legends (USA)</description>
-		<rom name="Gauntlet Legends (USA).z64" size="16777216" crc="64765e82" md5="9cb963e8b71f18568f78ec1af120362e" sha1="0489dcce749c6a5102681d288ed0616a4b94e99d"/>
-		<url>https://retroachievements.org/game/10268/hashes</url>
-		<hash>9cb963e8b71f18568f78ec1af120362e</hash>
-	</game>
-	
 	<game name="Retail/Getter Love!! - Cho Renai Party Game Tanjou (Japan)">
 		<category>Nintendo 64</category>
 		<description>Getter Love!! - Cho Renai Party Game Tanjou (Japan)</description>
@@ -4831,6 +4847,14 @@
 		<rom name="Hydro Thunder (USA).z64" size="33554432" crc="e744456f" md5="54f43e6b68782e98caabea5e7976b2be" sha1="f5d5054f97da0d68857f9824130147ec38ee7a76"/>
 		<url>https://retroachievements.org/game/10383/hashes</url>
 		<hash>54f43e6b68782e98caabea5e7976b2be</hash>
+	</game>
+	
+	<game name="Retail/Iggy's Reckin' Balls (USA)">
+		<category>Nintendo 64</category>
+		<description>Iggy's Reckin' Balls (USA)</description>
+		<rom name="Iggy's Reckin' Balls (USA).z64" size="4194304" crc="6a6fbd5d" md5="464211abb602ee1005974d2d835a3bcf" sha1="1a32230e0ef147b3c8c07ece5aec96458286b4af"/>
+		<url>https://retroachievements.org/game/10795/hashes</url>
+		<hash>464211abb602ee1005974d2d835a3bcf</hash>
 	</game>
 	
 	<game name="Retail/Indiana Jones and the Infernal Machine (USA)">
@@ -5130,19 +5154,33 @@
 		<hash>f666e020218392e52662fddfa1ea4f21</hash>
 	</game>
 	
-	<game name="Retail/Paper Mario (USA)">
+	<game name="Retail/Paper Mario/Paper Mario (USA)">
 		<category>Nintendo 64</category>
 		<description>Paper Mario (USA)</description>
 		<rom name="Paper Mario (USA).z64" size="41943040" crc="a7f5cd7e" md5="a722f8161ff489943191330bf8416496" sha1="3837f44cda784b466c9a2d99df70d77c322b97a0"/>
 		<url>https://retroachievements.org/game/10154/hashes</url>
 		<hash>a722f8161ff489943191330bf8416496</hash>
 	</game>
-	<game name="Retail/Paper Mario (USA) (Pt) (Hokyuu)">
+	<game name="Retail/Paper Mario/Paper Mario (USA) (Pt) (Hokyuu)">
 		<category>Nintendo 64</category>
 		<description>Paper Mario (USA) (Pt) (Hokyuu)</description>
 		<rom name="Paper Mario (USA) (Pt) (Hokyuu).z64" size="41943040" crc="300009e3" md5="ac6c61e0652075869190e168a838e803" sha1="b2742c7f936f8120951fb4c94ded160db12cb6ae"/>
 		<url>https://retroachievements.org/game/10154/hashes</url>
 		<hash>ac6c61e0652075869190e168a838e803</hash>
+	</game>
+	<game name="Retail/Paper Mario/Mario Story (Japan)">
+		<category></category>
+		<description>Mario Story (Japan)</description>
+		<rom name="Mario Story (Japan).z64" size="41943040" crc="bd60ca66" md5="df54f17fb84fb5b5bcf6aa9af65b0942" sha1="b9cca3ff260b9ff427d981626b82f96de73586d3"/>
+		<url>https://retroachievements.org/game/10154/hashes</url>
+		<hash>df54f17fb84fb5b5bcf6aa9af65b0942</hash>
+	</game>
+	<game name="Retail/Paper Mario/Paper Mario (Europe) (En,Fr,De,Es)">
+		<category></category>
+		<description>Paper Mario (Europe) (En,Fr,De,Es)</description>
+		<rom name="Paper Mario (Europe) (En,Fr,De,Es).z64" size="50331648" crc="9fc00ce3" md5="3b5c99f5e7dba06bf8237e58f6d4196b" sha1="1273275142b79f7443f55bd35679a19670adfe3a"/>
+		<url>https://retroachievements.org/game/10154/hashes</url>
+		<hash>3b5c99f5e7dba06bf8237e58f6d4196b</hash>
 	</game>
 	
 	<game name="Subset/Paper Mario/Paper Mario (USA) (Exclusive Subset - Glitch Showcase)">

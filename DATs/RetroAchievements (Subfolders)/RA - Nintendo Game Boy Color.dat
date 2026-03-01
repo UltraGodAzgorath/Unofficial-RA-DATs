@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Color</name>
 		<description>Nintendo Game Boy Color</description>
 		<category>Subfolders</category>
-		<version>20260214</version>
-		<date>14 February 2026</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/6/games</url>
@@ -393,6 +393,14 @@
 		<rom name="Fighter on the Path of Glory (World) (En,Ja) (v1.00) (GB Compatible) (Aftermarket).gbc" size="524288" crc="38f208f3" md5="5be268f2761c76de1a0f86efc0f6bd50" sha1="a4034a72dfacfe33fc924ab689f9a9303656c43d"/>
 		<url>https://retroachievements.org/game/30820/hashes</url>
 		<hash>5be268f2761c76de1a0f86efc0f6bd50</hash>
+	</game>
+	
+	<game name="Homebrew/Fraiser Fantasy (World) (v1.0) (Aftermarket) (Unl)">
+		<category></category>
+		<description>Fraiser Fantasy (World) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Fraiser Fantasy (World) (v1.0) (Aftermarket) (Unl).gbc" size="1048576" crc="eed25d4f" md5="25ef30a66b243c1af2baffcfc835ac14" sha1="f5a0f63705746c822d720b583af4efbe9ba5c44c"/>
+		<url>https://retroachievements.org/game/28141/hashes</url>
+		<hash>25ef30a66b243c1af2baffcfc835ac14</hash>
 	</game>
 	
 	<game name="Homebrew/G-ZERO World GP (World) (Aftermarket)">
@@ -808,6 +816,14 @@
 		<rom name="Unearthed (World) (v1.3) (GB Compatible) (Aftermarket).gbc" size="2097152" crc="29bb9238" md5="09bc56a467f95a19a357174c5710db74" sha1="39fbfb220e9be0120090f770249049b3f3583f64"/>
 		<url>https://retroachievements.org/game/20559/hashes</url>
 		<hash>09bc56a467f95a19a357174c5710db74</hash>
+	</game>
+	
+	<game name="Homebrew/Walfie's Nonograms (World) (v1.1.0) (Aftermarket) (Walfie)">
+		<category></category>
+		<description>Walfie's Nonograms (World) (v1.1.0) (Aftermarket) (Walfie)</description>
+		<rom name="Walfie's Nonograms (World) (v1.1.0) (Aftermarket) (Walfie).gbc" size="262144" crc="35d3f216" md5="f5fdffc669c29483760655c7f5ff90f4" sha1="8541b57b091ea3b8630601c54195935bcb2f323a"/>
+		<url>https://retroachievements.org/game/38014/hashes</url>
+		<hash>f5fdffc669c29483760655c7f5ff90f4</hash>
 	</game>
 	
 	<game name="Homebrew/What Friends Are For (World) (v2.0) (GB Compatible) (Aftermarket)">
@@ -1810,6 +1826,21 @@
 		<hash>7b4345daf8ebda416a84c5932bf817ec</hash>
 	</game>
 	
+	<game name="Retail/Godzilla - The Series - Monster Wars/Godzilla - The Series - Monster Wars (Europe) (En,Fr,De)">
+		<category></category>
+		<description>Godzilla - The Series - Monster Wars (Europe) (En,Fr,De)</description>
+		<rom name="Godzilla - The Series - Monster Wars (Europe) (En,Fr,De).gbc" size="1048576" crc="a6007ce1" md5="6f67b154450bd3d88924c179f8165721" sha1="829c7efb45a9e32ee63cd6c9fe5716e457be7222"/>
+		<url>https://retroachievements.org/game/7736/hashes</url>
+		<hash>6f67b154450bd3d88924c179f8165721</hash>
+	</game>
+	<game name="Retail/Godzilla - The Series - Monster Wars/Godzilla - The Series - Monster Wars (USA) (En,Fr,De)">
+		<category></category>
+		<description>Godzilla - The Series - Monster Wars (USA) (En,Fr,De)</description>
+		<rom name="Godzilla - The Series - Monster Wars (USA) (En,Fr,De).gbc" size="1048576" crc="e7ebb394" md5="597bd5a8aa26af757cba57aff575eaa3" sha1="4137c24412deb560f2dab36f55c89253ca750b26"
+		<url>https://retroachievements.org/game/7736/hashes</url>
+		<hash>597bd5a8aa26af757cba57aff575eaa3</hash>
+	</game>
+	
 	<game name="Retail/Grandia - Parallel Trippers (Japan)">
 		<category></category>
 		<description>Grandia - Parallel Trippers (Japan)</description>
@@ -2303,6 +2334,14 @@
 		<rom name="Magical Chase GB - Minarai Mahoutsukai Kenja no Tani e (Japan).gbc" size="1048576" crc="15e5d499" md5="f722b68c0f532ed567397a3e53909ccf" sha1="3b13fc974d68a8b057ab8133a0ba7e3fbac23f11"/>
 		<url>https://retroachievements.org/game/12881/hashes</url>
 		<hash>f722b68c0f532ed567397a3e53909ccf</hash>
+	</game>
+	
+	<game name="Retail/Magical Drop (USA)">
+		<category></category>
+		<description>Magical Drop (USA)</description>
+		<rom name="Magical Drop (USA).gbc" size="1048576" crc="e4188a79" md5="af157e560d1ff87970c1bd2ee90d0932" sha1="2106b22776a87825d3edb408503e719f4927c3e6"/>
+		<url>https://retroachievements.org/game/13121/hashes</url>
+		<hash>af157e560d1ff87970c1bd2ee90d0932</hash>
 	</game>
 	
 	<game name="Retail/Magical Tetris Challenge (Europe) (En,Fr,De,Es,It,Nl,Sv) (Rev 1)">

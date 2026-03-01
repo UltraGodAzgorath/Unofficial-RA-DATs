@@ -5,8 +5,8 @@
 		<name>RA - Mattel Intellivision</name>
 		<description>Mattel Intellivision</description>
 		<category>Subfolders</category>
-		<version>20250622</version>
-		<date>22 June 2025</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/45/games</url>
@@ -155,6 +155,14 @@
 		<rom name="Demon Attack (USA, Europe).int" size="16384" crc="5e6a8cd8" md5="9855aefcc210df151ba3373d869e8b66" sha1="d6054e8ead16f3e076c26880fe641543e8519e18"/>
 		<url>https://retroachievements.org/game/8282/hashes</url>
 		<hash>9855aefcc210df151ba3373d869e8b66</hash>
+	</game>
+	
+	<game name="Retail/Dig Dug (USA)">
+		<category></category>
+		<description>Dig Dug (USA)</description>
+		<rom name="Dig Dug (USA).int" size="32768" crc="159af7f7" md5="a8f2aee64d0163309bf17e90c69fe5b9" sha1="6e281043c7bb37b20cfc48cfefb5f28922b3a3ce"/>
+		<url>https://retroachievements.org/game/33029/hashes</url>
+		<hash>a8f2aee64d0163309bf17e90c69fe5b9</hash>
 	</game>
 	
 	<game name="Retail/Diner (USA)">

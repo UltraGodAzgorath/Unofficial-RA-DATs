@@ -5,8 +5,8 @@
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
 		<category>Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/1/games</url>
@@ -541,6 +541,14 @@
 		<hash>073bef4bea44531dd1a217e801ab04b7</hash>
 	</game>
 	
+	<game name="Hack/Sonic the Hedgehog/Sonic 1 - Yakuza 1 Kiwami (Carlos Iagnecz) (Hack)">
+		<category></category>
+		<description>Sonic 1 - Yakuza 1 Kiwami (Carlos Iagnecz) (Hack)</description>
+		<rom name="Sonic 1 - Yakuza 1 Kiwami (Carlos Iagnecz) (Hack).md" size="4805587" crc="85411d48" md5="832b07b687cbe719964fa09df6045abe" sha1="c2ce0be78e8fd0784845534ead341c6b588a6a1c"/>
+		<url>https://retroachievements.org/game/29149/hashes</url>
+		<hash>832b07b687cbe719964fa09df6045abe</hash>
+	</game>
+	
 	<game name="Hack/Sonic the Hedgehog/Sonic 1 - Yeth (Release 3) (Banoon) (Hack)">
 		<category></category>
 		<description>Sonic 1 - Yeth (Release 3) (Banoon) (Hack)</description>
@@ -649,6 +657,14 @@
 		<rom name="Drunk as I Like (World) (Itch.io) (Aftermarket).md" size="385024" crc="cb40705b" md5="0e0c31d19894bcdcd5992ee0b9c7e62e" sha1="996f6c66cc9f1f2d164a245a02f0dedc0d09e856"/>
 		<url>https://retroachievements.org/game/22689/hashes</url>
 		<hash>0e0c31d19894bcdcd5992ee0b9c7e62e</hash>
+	</game>
+	
+	<game name="Unlicensed/Fix-It Felix Jr. (World) (Unl)">
+		<category></category>
+		<description>Fix-It Felix Jr. (World) (Unl)</description>
+		<rom name="Fix-It Felix Jr. (World) (Unl).md" size="601870" crc="424ff451" md5="38a3555768b31dc2abfc34d20ef546ca" sha1="2bad4a0db0f95a7588e75f344c25427a6e83522b"/>
+		<url>https://retroachievements.org/game/8393/hashes</url>
+		<hash>38a3555768b31dc2abfc34d20ef546ca</hash>
 	</game>
 	
 	<game name="Homebrew/Flappy Bird (World) (Ru) (Aftermarket)">
@@ -1006,14 +1022,6 @@
 		<rom name="Felix the Cat (Russia) (Unl).md" size="1048576" crc="bf9ba3bc" md5="a7ed2295964be206220b3853d05e08e2" sha1="bd06beda0abd2d4ed34fee21e4cc6f347681db43"/>
 		<url>https://retroachievements.org/game/14114/hashes</url>
 		<hash>a7ed2295964be206220b3853d05e08e2</hash>
-	</game>
-	
-	<game name="Unlicensed/Fix-It Felix Jr. (World) (Unl)">
-		<category></category>
-		<description>Fix-It Felix Jr. (World) (Unl)</description>
-		<rom name="Fix-It Felix Jr. (World) (Unl).md" size="601870" crc="424ff451" md5="38a3555768b31dc2abfc34d20ef546ca" sha1="2bad4a0db0f95a7588e75f344c25427a6e83522b"/>
-		<url>https://retroachievements.org/game/8393/hashes</url>
-		<hash>38a3555768b31dc2abfc34d20ef546ca</hash>
 	</game>
 	
 	<game name="Unlicensed/Lego Batman (Russia) (Unl)">
@@ -6132,6 +6140,14 @@
 		<hash>5b1bcb3793262d2d0282b49e0c2ee053</hash>
 	</game>
 
+	<game name="Retail/Adventures of Rocky and Bullwinkle and Friends, The (USA)">
+		<category></category>
+		<description>Adventures of Rocky and Bullwinkle and Friends, The (USA)</description>
+		<rom name="Adventures of Rocky and Bullwinkle and Friends, The (USA).md" size="1048576" crc="ef02d57b" md5="bbe09e07009bf4e24e9300b02e05a6c5" sha1="a70e83f25ff8ae8b0590920531558faa61738d0f"/>
+		<url>https://retroachievements.org/game/6120/hashes</url>
+		<hash>bbe09e07009bf4e24e9300b02e05a6c5</hash>
+	</game>
+	
 	<game name="Retail/Death and Return of Superman, The (USA)">
 		<category></category>
 		<description>Death and Return of Superman, The (USA)</description>

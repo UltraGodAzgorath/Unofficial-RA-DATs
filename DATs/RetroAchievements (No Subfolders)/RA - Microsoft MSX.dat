@@ -5,8 +5,8 @@
 		<name>RA - Microsoft MSX</name>
 		<description>Microsoft MSX</description>
 		<category>No Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org/</homepage>
 		<url>https://retroachievements.org/system/29/games</url>
@@ -1510,6 +1510,15 @@
 		<rom name="Put Up (World).dsk" size="737280" crc="0aa8c4c1" md5="223189c6823f7376d133d44507068d19" sha1="be2aead592892d133512cb337c251e09db156861"/>
 		<url>https://retroachievements.org/game/28365/hashes</url>
 		<hash>223189c6823f7376d133d44507068d19</hash>
+	</game>
+	
+	<game name="Q-bert (Japan)">
+		<category>Retail</category>
+		<description>Q-bert (Japan)</description>
+		<release name="Q-bert (Japan)" region="Japan"/>
+		<rom name="Q-bert (Japan).rom" size="32768" crc="0e988f0e" md5="977f313ed84fbf4b2308151547e040b7" sha1="531a7f736d86095d791d6d0f267be66eef07949c"/>
+		<url>https://retroachievements.org/game/36319/hashes</url>
+		<hash>977f313ed84fbf4b2308151547e040b7</hash>
 	</game>
 	
 	<game name="Quarth (Japan) (Wii U Virtual Console)">

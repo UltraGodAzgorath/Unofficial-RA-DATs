@@ -5,8 +5,8 @@
 		<name>RA - Nintendo DS</name>
 		<description>Nintendo DS</description>
 		<category>Subfolders</category>
-		<version>20260214</version>
-		<date>14 February 2026</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/18/games</url>
@@ -3229,6 +3229,14 @@
 		<hash>ba8769d38c5d59a58b9fc011c5ae23f6</hash>
 	</game>
 	
+	<game name="Retail/Meitantei Conan - Kieta Hakase to Machigai Sagashi no Tou (Japan)">
+		<category></category>
+		<description>Meitantei Conan - Kieta Hakase to Machigai Sagashi no Tou (Japan)</description>
+		<rom name="Meitantei Conan - Kieta Hakase to Machigai Sagashi no Tou (Japan).nds" size="33554432" crc="5196be67" md5="f29a1ac5114ce586d58e1c855ba76872" sha1="5d65e76f3ac519e11b87f23c1956b76518ba3e7a"/>
+		<url>https://retroachievements.org/game/27660/hashes</url>
+		<hash>811c951150c06e5b299e5a3d1bf4b6d3</hash>
+	</game>
+	
 	<game name="Retail/Metal Max 3 (Japan) (En) (v1.0) (Metal Dreamers)">
 		<category></category>
 		<description>Metal Max 3 (Japan) (En) (v1.0) (Metal Dreamers)</description>
@@ -3320,6 +3328,21 @@
 		<rom name="Monster Tale (USA).nds" size="67108864" crc="7c200814" md5="32e90c8a14130819895fcc938c0677fd" sha1="ed745bf90bfb3cbbc4022420be822f4198c2ecae"/>
 		<url>https://retroachievements.org/game/5708/hashes</url>
 		<hash>c28c2bd017631a063908bb933b12ef5f</hash>
+	</game>
+	
+	<game name="Retail/Monsters vs Aliens/Monsters vs Aliens (Europe) (Es,It)">
+		<category></category>
+		<description>Monsters vs Aliens (Europe) (Es,It)</description>
+		<rom name="Monsters vs Aliens (Europe) (Es,It).nds" size="67108864" crc="f15b594b" md5="c7ee1bf2d351ce84fa885dd97837b31b" sha1="e331b284bc9e309fa5e2f7fc1c209d6e4d3ea59d"/>
+		<url>https://retroachievements.org/game/24969/hashes</url>
+		<hash>6cbfd8c823f4f256080e98508c669d7d</hash>
+	</game>
+	<game name="Retail/Monsters vs Aliens/Monsters vs Aliens (Europe) (En,Fr,Nl,Sv)">
+		<category></category>
+		<description>Monsters vs Aliens (Europe) (En,Fr,Nl,Sv)</description>
+		<rom name="Monsters vs Aliens (Europe) (En,Fr,Nl,Sv).nds" size="67108864" crc="8d3eeab8" md5="2595dcbe95a4e07c8e469742cad82ee3" sha1="85e92b89eb29b73f05b7537aa5962d911b1d9a0b"/>
+		<url>https://retroachievements.org/game/24969/hashes</url>
+		<hash>f8a32d867ecd953a025d902b6704ae6f</hash>
 	</game>
 	
 	<game name="Retail/Mr Bean (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)">
@@ -4941,6 +4964,14 @@
 		<hash>c3aff3de85f5004bd3059e67b137640e</hash>
 	</game>
 	
+	<game name="Retail/Harvest Fishing (Europe) (En,Fr,De,Es,It)">
+		<category></category>
+		<description>Harvest Fishing (Europe) (En,Fr,De,Es,It)</description>
+		<rom name="Harvest Fishing (Europe) (En,Fr,De,Es,It).nds" size="67108864" crc="6deed5e2" md5="66e6f04d1b2a04e2c2f694e21b12f691" sha1="bb95265dff7da370eb4241beea61f6b3f7e89a66"/>
+		<url>https://retroachievements.org/game/16220/hashes</url>
+		<hash>16ebc822ee743818918339089100d080</hash>
+	</game>
+	
 	<game name="Retail/Roary the Racing Car (United Kingdom)">
 		<category></category>
 		<description>Roary the Racing Car (United Kingdom)</description>
@@ -5871,6 +5902,14 @@
 		<rom name="Wedding Dash (USA) (En,Fr).nds" size="16777216" crc="7598842e" md5="07a8da28206b0391a9ec0fe69b89653b" sha1="c238333d7cf729e1d04f2490747a37a3455d7a02"/>
 		<url>https://retroachievements.org/game/32945/hashes</url>
 		<hash>d56d0ec52d9f3a762137c61753becb6c</hash>
+	</game>
+	
+	<game name="Retail/Wizards of Waverly Place (Europe) (En,Fr,De,Es,It,Nl)">
+		<category></category>
+		<description>Wizards of Waverly Place (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<rom name="Wizards of Waverly Place (Europe) (En,Fr,De,Es,It,Nl).nds" size="67108864" crc="cb59890d" md5="c41d89916851c2dde0233431657bd282" sha1="40fa4114f0d150e4fd31aeeefff339fbdace8a59"/>
+		<url>https://retroachievements.org/game/18410/hashes</url>
+		<hash>e0043057746b822639d3e4ba9c5d4738</hash>
 	</game>
 	
 	<game name="Retail/Worms - Open Warfare (Europe) (En,Fr,De,Es,It)">

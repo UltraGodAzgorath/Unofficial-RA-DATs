@@ -5,8 +5,8 @@
 		<name>RA - Sony PSP</name>
 		<description>Sony PSP</description>
 		<category>No Subfolders</category>
-		<version>20260214</version>
-		<date>14 February 2026</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/41/games</url>
@@ -2207,6 +2207,38 @@
 		<hash>f6e123671e85305561e771a996f72262</hash>
 	</machine>
 	
+	<machine name="Need for Speed - Carbon - Own the City (USA)">
+		<category>Retail</category>
+		<description>Need for Speed - Carbon - Own the City (USA)</description>
+		<release name="Need for Speed - Carbon - Own the City (USA)" region="USA"/>
+		<disk name="Need for Speed - Carbon - Own the City (USA).chd" sha1="ee509f7d96ad92b4ddd54ec95b7ee8ee0b45f526"/>
+		<url>https://retroachievements.org/game/18149/hashes</url>
+		<hash>b0117fc7fe2558654905ecc53e363bd9</hash>
+	</machine>
+	<machine name="Need for Speed - Carbon - Own the City (Europe) (En,Fr,De,Es,It,Nl)" cloneof="Need for Speed - Carbon - Own the City (USA)">
+		<category>Retail</category>
+		<description>Need for Speed - Carbon - Own the City (Europe) (En,Fr,De,Es,It,Nl)</description>
+		<release name="Need for Speed - Carbon - Own the City (Europe) (En,Fr,De,Es,It,Nl)" region="Europe"/>
+		<disk name="Need for Speed - Carbon - Own the City (Europe) (En,Fr,De,Es,It,Nl).chd" sha1="df06748d660f0946519d9bd6cb06ae34502178c0"/>
+		<url>https://retroachievements.org/game/18149/hashes</url>
+		<hash>15fb87b21780a3ff791cd5e5fa8f8942</hash>
+	</machine>
+	<machine name="Need for Speed - Carbon - Own the City (Europe)" cloneof="Need for Speed - Carbon - Own the City (USA)">
+		<category>Retail</category>
+		<description>Need for Speed - Carbon - Own the City (Europe)</description>
+		<disk name="Need for Speed - Carbon - Own the City (Europe).chd" sha1="2147e1f8615d0f46d53f0988e4b14f20dbb86c3d"/>
+		<url>https://retroachievements.org/game/18149/hashes</url>
+		<hash>87183d0e377a3c8145eea39f8ffb360e</hash>
+	</machine>
+	<machine name="Need for Speed - Carbon - Own the City (Asia)" cloneof="Need for Speed - Carbon - Own the City (USA)">
+		<category>Retail</category>
+		<description>Need for Speed - Carbon - Own the City (Asia)</description>
+		<release name="Need for Speed - Carbon - Own the City (Asia)" region="Asia"/>
+		<disk name="Need for Speed - Carbon - Own the City (Asia).chd" sha1="d4bf8e9dad7b6eeeeb9d60598575793bb8457359"/>
+		<url>https://retroachievements.org/game/18149/hashes</url>
+		<hash>b06dba9b65395ee56db3499439eaf039</hash>
+	</machine>
+	
 	<machine name="Obscure - The Aftermath (USA) (En,Fr,Es) (PSP) (PSN)">
 		<category>Retail</category>
 		<description>Obscure - The Aftermath (USA) (En,Fr,Es) (PSP) (PSN)</description>
@@ -2603,6 +2635,14 @@
 		<disk name="Shin Megami Tensei - Persona 3 Portable (USA).chd" sha1="3aa77b036bf240298eb44ba27c205e5076e42810"/>
 		<url>https://retroachievements.org/game/3164/hashes</url>
 		<hash>f56e60e76a5f53ac8fb18da480c86f4a</hash>
+	</machine>
+	<machine name="Shin Megami Tensei - Persona 3 Portable (USA) (Portuguese by Atlantis Team)" cloneof="Shin Megami Tensei - Persona 3 Portable (USA)">
+		<category>Retail</category>
+		<description>Shin Megami Tensei - Persona 3 Portable (USA) (Portuguese by Atlantis Team)</description>
+		<release name="Shin Megami Tensei - Persona 3 Portable (USA) (Portuguese by Atlantis Team)" region="Portugal"/>
+		<disk name="Shin Megami Tensei - Persona 3 Portable (USA) (Portuguese by Atlantis Team).chd" sha1="b3926c4737c34b993db4ad5e2b7170677e37d452"/>
+		<url>https://retroachievements.org/game/3164/hashes</url>
+		<hash>f0d0a5ce764cca7e159e55188ac58833</hash>
 	</machine>
 	
 	<machine name="Shinseiki Evangelion - Koutetsu no Girlfriend 2nd -portable- (Japan) (En) (v1.01) (Mugi)" cloneof="Shinseiki Evangelion - Koutetsu no Girlfriend 2nd -portable- (Japan) (En) (v1.02) (Mugi)">

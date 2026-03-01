@@ -5,8 +5,8 @@
 		<name>RA - NEC PC-FX</name>
 		<description>NEC PC-FX</description>
 		<category>No Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/49/games</url>
@@ -133,7 +133,24 @@
 		<url>https://retroachievements.org/game/16450/hashes</url>
 		<hash>9c79291556d0b54a88c27420eced095a</hash>
 	</machine>
-
+	
+	<machine name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (En) (Addendum) (v1.0) (BabaJeanmel)" cloneof="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)">
+		<category>Retail</category>
+		<description>Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (En) (Addendum) (v1.0) (BabaJeanmel)</description>
+		<release name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (En) (Addendum) (v1.0) (BabaJeanmel)" region="English"/>
+		<disk name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan) (En) (Addendum) (v1.0) (BabaJeanmel).chd" sha1="12bc8065c429cc753c6914ee669e66940ba0bf65"/>
+		<url>https://retroachievements.org/game/9786/hashes</url>
+		<hash>7112e47698346656e5ba5656e11c0a86</hash>
+	</machine>
+	<machine name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)">
+		<category>Retail</category>
+		<description>Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)</description>
+		<release name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan)" region="Japan"/>
+		<disk name="Pia Carrot e Youkoso!! We've Been Waiting for You (Japan).chd" sha1="95a5c2f20d406dcaa0ab5e0ff692e3ee2cd4ad76"/>
+		<url>https://retroachievements.org/game/9786/hashes</url>
+		<hash>cdcdafd82876f1fbf532237c05b9e1fe</hash>
+	</machine>
+	
 	<machine name="Power DoLLS FX (Japan)">
 		<category>Retail</category>
 		<description>Power DoLLS FX (Japan)</description>

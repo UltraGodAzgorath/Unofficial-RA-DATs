@@ -5,8 +5,8 @@
 		<name>RA - Atari 2600</name>
 		<description>Atari 2600</description>
 		<category>No Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/25/games</url>
@@ -38,6 +38,15 @@
 		<rom name="Mega Man (NTSC) (David Galloway) (Demo) (Aftermarket).a26" size="32768" crc="9158b4ed" md5="c74ddb744209a92382616e2fa38d1378" sha1="c2fd4bf592d2c1948d4cba02da7980f1df8751f4"/>
 		<url>https://retroachievements.org/game/17048/hashes</url>
 		<hash>c74ddb744209a92382616e2fa38d1378</hash>
+	</game>
+	
+	<game name="SpongeBob PixelPants (NTSC) (v2006) (Aftermarket) (Chris Read)">
+		<category>Homebrew</category>
+		<description>SpongeBob PixelPants (NTSC) (v2006) (Aftermarket) (Chris Read)</description>
+		<release name="SpongeBob PixelPants (NTSC) (v2006) (Aftermarket) (Chris Read)" region="USA"/>
+		<rom name="SpongeBob PixelPants (NTSC) (v2006) (Aftermarket) (Chris Read).a26" size="4096" crc="1089ef09" md5="76b970b1497e9ec92ee9209895f4d682" sha1="1219b121472e233eb9c704c45b5fdaf455a4de23"/>
+		<url>https://retroachievements.org/game/38059/hashes</url>
+		<hash>76b970b1497e9ec92ee9209895f4d682</hash>
 	</game>
 	
 	<game name="Touhou (USA) (Demo) (Aftermarket)">
@@ -541,6 +550,15 @@
 		<rom name="Air-Sea Battle ~ Target Fun (Japan, USA) (En).a26" size="2048" crc="1fc6c0f1" md5="16cb43492987d2f32b423817cdaaf7c4" sha1="a746fdc82b336a9d499bf17f50b41e0193ba595e"/>
 		<url>https://retroachievements.org/game/13100/hashes</url>
 		<hash>16cb43492987d2f32b423817cdaaf7c4</hash>
+	</game>
+	
+	<game name="Alpha Beam with Ernie (USA) (Joystick Patch) (v2011.01.10)">
+		<category>Retail</category>
+		<description>Alpha Beam with Ernie (USA) (Joystick Patch) (v2011.01.10)</description>
+		<release name="Alpha Beam with Ernie (USA) (Joystick Patch) (v2011.01.10)" region="USA"/>
+		<rom name="Alpha Beam with Ernie (USA) (Joystick Patch) (v2011.01.10).a26" size="8192" crc="bbeeb804" md5="a5d82e469a499a41cfb6e459eba89ad0" sha1="e8519ca4397a4adeb6332017d9a5de63df045362"/>
+		<url>https://retroachievements.org/game/13207/hashes</url>
+		<hash>a5d82e469a499a41cfb6e459eba89ad0</hash>
 	</game>
 	
 	<game name="Asteroids (Japan, USA) (En)">
@@ -1785,6 +1803,15 @@
 		<rom name="Activision Decathlon, The (France).a26" size="8192" crc="716d9d1d" md5="ede4ab11ca346bd023b2c21d941e0c50" sha1="7da9cc2383d09835d345ec7d6e76d223591d2a2a"/>
 		<url>https://retroachievements.org/game/13208/hashes</url>
 		<hash>ede4ab11ca346bd023b2c21d941e0c50</hash>
+	</game>
+	
+	<game name="Official Frogger, The (USA)">
+		<category>Retail</category>
+		<description>Official Frogger, The (USA)</description>
+		<release name="Official Frogger, The (USA)" region="USA"/>
+		<rom name="Official Frogger, The (USA).a26" size="8448" crc="1228e48c" md5="c73ae5ba5a0a3f3ac77f0a9e14770e73" sha1="f84c15579d22f2536e94f1679642b9dc73b6f2fe"/>
+		<url>https://retroachievements.org/game/13139/hashes</url>
+		<hash>c73ae5ba5a0a3f3ac77f0a9e14770e73</hash>
 	</game>
 	
 	<game name="Smurf - Rescue in Gargamel's Castle (USA)">

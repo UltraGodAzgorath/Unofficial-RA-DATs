@@ -5,8 +5,8 @@
 		<name>RA - Sega Genesis</name>
 		<description>Sega Genesis</description>
 		<category>No Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/1/games</url>
@@ -599,6 +599,15 @@
 		<hash>073bef4bea44531dd1a217e801ab04b7</hash>
 	</game>
 	
+	<game name="Sonic 1 - Yakuza 1 Kiwami (Carlos Iagnecz) (Hack)">
+		<category>Hack</category>
+		<description>Sonic 1 - Yakuza 1 Kiwami (Carlos Iagnecz) (Hack)</description>
+		<release name="Sonic 1 - Yakuza 1 Kiwami (Carlos Iagnecz) (Hack)" region="World"/>
+		<rom name="Sonic 1 - Yakuza 1 Kiwami (Carlos Iagnecz) (Hack).md" size="4805587" crc="85411d48" md5="832b07b687cbe719964fa09df6045abe" sha1="c2ce0be78e8fd0784845534ead341c6b588a6a1c"/>
+		<url>https://retroachievements.org/game/29149/hashes</url>
+		<hash>832b07b687cbe719964fa09df6045abe</hash>
+	</game>
+	
 	<game name="Sonic 1 - Yeth (Release 3) (Banoon) (Hack)">
 		<category>Hack</category>
 		<description>Sonic 1 - Yeth (Release 3) (Banoon) (Hack)</description>
@@ -721,6 +730,15 @@
 		<rom name="Drunk as I Like (World) (Itch.io) (Aftermarket).md" size="385024" crc="cb40705b" md5="0e0c31d19894bcdcd5992ee0b9c7e62e" sha1="996f6c66cc9f1f2d164a245a02f0dedc0d09e856"/>
 		<url>https://retroachievements.org/game/22689/hashes</url>
 		<hash>0e0c31d19894bcdcd5992ee0b9c7e62e</hash>
+	</game>
+	
+	<game name="Fix-It Felix Jr. (World) (Unl)">
+		<category>Unlicensed</category>
+		<description>Fix-It Felix Jr. (World) (Unl)</description>
+		<release name="Fix-It Felix Jr. (World) (Unl)" region="World"/>
+		<rom name="Fix-It Felix Jr. (World) (Unl).md" size="601870" crc="424ff451" md5="38a3555768b31dc2abfc34d20ef546ca" sha1="2bad4a0db0f95a7588e75f344c25427a6e83522b"/>
+		<url>https://retroachievements.org/game/8393/hashes</url>
+		<hash>38a3555768b31dc2abfc34d20ef546ca</hash>
 	</game>
 	
 	<game name="Flappy Bird (World) (Ru) (Aftermarket)">
@@ -1121,15 +1139,6 @@
 		<rom name="Felix the Cat (Russia) (Unl).md" size="1048576" crc="bf9ba3bc" md5="a7ed2295964be206220b3853d05e08e2" sha1="bd06beda0abd2d4ed34fee21e4cc6f347681db43"/>
 		<url>https://retroachievements.org/game/14114/hashes</url>
 		<hash>a7ed2295964be206220b3853d05e08e2</hash>
-	</game>
-	
-	<game name="Fix-It Felix Jr. (World) (Unl)">
-		<category>Unlicensed</category>
-		<description>Fix-It Felix Jr. (World) (Unl)</description>
-		<release name="Fix-It Felix Jr. (World) (Unl)" region="World"/>
-		<rom name="Fix-It Felix Jr. (World) (Unl).md" size="601870" crc="424ff451" md5="38a3555768b31dc2abfc34d20ef546ca" sha1="2bad4a0db0f95a7588e75f344c25427a6e83522b"/>
-		<url>https://retroachievements.org/game/8393/hashes</url>
-		<hash>38a3555768b31dc2abfc34d20ef546ca</hash>
 	</game>
 	
 	<game name="Lego Batman (Russia) (Unl)">
@@ -6981,7 +6990,7 @@
 		<url>https://retroachievements.org/game/12/hashes</url>
 		<hash>eba5f964addea18b70336d292a08698d</hash>
 	</game>
-
+	
 	<game name="Adventures of Batman &amp; Robin, The (USA)">
 		<category>Retail</category>
 		<description>Adventures of Batman &amp; Robin, The (USA)</description>
@@ -6990,7 +6999,16 @@
 		<url>https://retroachievements.org/game/168/hashes</url>
 		<hash>5b1bcb3793262d2d0282b49e0c2ee053</hash>
 	</game>
-
+	
+	<game name="Adventures of Rocky and Bullwinkle and Friends, The (USA)">
+		<category>Retail</category>
+		<description>Adventures of Rocky and Bullwinkle and Friends, The (USA)</description>
+		<release name="Adventures of Rocky and Bullwinkle and Friends, The (USA)" region="USA"/>
+		<rom name="Adventures of Rocky and Bullwinkle and Friends, The (USA).md" size="1048576" crc="ef02d57b" md5="bbe09e07009bf4e24e9300b02e05a6c5" sha1="a70e83f25ff8ae8b0590920531558faa61738d0f"/>
+		<url>https://retroachievements.org/game/6120/hashes</url>
+		<hash>bbe09e07009bf4e24e9300b02e05a6c5</hash>
+	</game>
+	
 	<game name="Death and Return of Superman, The (USA)">
 		<category>Retail</category>
 		<description>Death and Return of Superman, The (USA)</description>
@@ -6999,7 +7017,7 @@
 		<url>https://retroachievements.org/game/2382/hashes</url>
 		<hash>960a409245913c8adf10c4b3ed23ab04</hash>
 	</game>
-
+	
 	<game name="Flintstones, The (USA) (Taito) (Pt) (EmuROMS)" cloneof="Flintstones, The (USA) (Taito)">
 		<category>Retail</category>
 		<description>Flintstones, The (USA) (Taito) (Pt) (EmuROMS)</description>
@@ -7024,7 +7042,7 @@
 		<url>https://retroachievements.org/game/1360/hashes</url>
 		<hash>e95d51aa0d45be974c59aa4b16c09d84</hash>
 	</game>
-
+	
 	<game name="Great Circus Mystery Starring Mickey &amp; Minnie, The (USA)">
 		<category>Retail</category>
 		<description>Great Circus Mystery Starring Mickey &amp; Minnie, The (USA)</description>
@@ -7033,7 +7051,7 @@
 		<url>https://retroachievements.org/game/618/hashes</url>
 		<hash>b51204d15148b5856d41eb29d23d242c</hash>
 	</game>
-
+	
 	<game name="Great Waldo Search, The (USA)">
 		<category>Retail</category>
 		<description>Great Waldo Search, The (USA)</description>
@@ -7042,7 +7060,7 @@
 		<url>https://retroachievements.org/game/4266/hashes</url>
 		<hash>d568aaed8e044287e5e1fcc0ffe02676</hash>
 	</game>
-
+	
 	<game name="Immortal, The (USA, Europe)">
 		<category>Retail</category>
 		<description>Immortal, The (USA, Europe)</description>
@@ -7052,7 +7070,7 @@
 		<url>https://retroachievements.org/game/313/hashes</url>
 		<hash>469c2c852005972bbcd2b51fdf9d1220</hash>
 	</game>
-
+	
 	<game name="Jungle Book, The (Europe)">
 		<category>Retail</category>
 		<description>Jungle Book, The (Europe)</description>
@@ -7077,7 +7095,7 @@
 		<url>https://retroachievements.org/game/4148/hashes</url>
 		<hash>2e1c1f784c9463152cd1a772f87677af</hash>
 	</game>
-
+	
 	<game name="Lawnmower Man, The (USA, Europe)">
 		<category>Retail</category>
 		<description>Lawnmower Man, The (USA, Europe)</description>
@@ -7087,7 +7105,7 @@
 		<url>https://retroachievements.org/game/4337/hashes</url>
 		<hash>a82335504728f3e160f2ea9fe8e0e969</hash>
 	</game>
-
+	
 	<game name="Legend of Galahad, The (USA, Europe)">
 		<category>Retail</category>
 		<description>Legend of Galahad, The (USA, Europe)</description>
@@ -7097,7 +7115,7 @@
 		<url>https://retroachievements.org/game/4338/hashes</url>
 		<hash>536e5a1ffb50d33632a9978b35db5df6</hash>
 	</game>
-
+	
 	<game name="Lion King, The (World)">
 		<category>Retail</category>
 		<description>Lion King, The (World)</description>

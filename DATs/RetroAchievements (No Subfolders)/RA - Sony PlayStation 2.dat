@@ -5,8 +5,8 @@
 		<name>RA - Sony Playstation 2</name>
 		<description>Sony Playstation 2</description>
 		<category>No Subfolders</category>
-		<version>20260214</version>
-		<date>14 February 2026</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/21/games</url>
@@ -1609,6 +1609,15 @@
 		<hash>4c2782cf33ae3cc20f8d65a1c6aec3af</hash>
 	</machine>
 	
+	<machine name="Crazy Taxi (USA) (Greatest Hits)">
+		<category>Retail</category>
+		<description>Crazy Taxi (USA) (Greatest Hits)</description>
+		<release name="Crazy Taxi (USA) (Greatest Hits)" region="USA"/>
+		<disk name="Crazy Taxi (USA) (Greatest Hits).chd" sha1="fd78f46e8a0facc856525f3d6faaa3b223ad856a"/>
+		<url>https://retroachievements.org/game/21860/hashes</url>
+		<hash>fc91535f54c1db1dc28c1ac3bb212839</hash>
+	</machine>
+	
 	<machine name="Culdcept (USA)">
 		<category>Retail</category>
 		<description>Culdcept (USA)</description>
@@ -2222,6 +2231,15 @@
 		<hash>156678801132e3c0625a3e3a16ff983f</hash>
 	</machine>
 	
+	<machine name="Dr. Muto (USA)">
+		<category>Retail</category>
+		<description>Dr. Muto (USA)</description>
+		<release name="Dr. Muto (USA)" region="USA"/>
+		<disk name="Dr. Muto (USA).chd" sha1="2209dc39e6d31813fa09006742d1c1791aa829c8"/>
+		<url>https://retroachievements.org/game/20813/hashes</url>
+		<hash>cbf1b0b4efd3cc555967f173dda514e9</hash>
+	</machine>
+	
 	<machine name="Dragon Ball Z - Budokai (USA)">
 		<category>Retail</category>
 		<description>Dragon Ball Z - Budokai (USA)</description>
@@ -2465,6 +2483,23 @@
 		<hash>3c6834c5ea3a0c1dbabe2897cedfeae3</hash>
 	</machine>
 	
+	<machine name="Echo Night - Beyond (USA)">
+		<category>Retail</category>
+		<description>Echo Night - Beyond (USA)</description>
+		<release name="Echo Night - Beyond (USA)" region="USA"/>
+		<disk name="Echo Night - Beyond (USA).chd" sha1="c630dc58b0d901f760ea8ff88eb63d5bd06ac5d2"/>
+		<url>https://retroachievements.org/game/19194/hashes</url>
+		<hash>bf17ca0722cae016ae2f37490e6c1443</hash>
+	</machine>
+	<machine name="Echo Night - Beyond (USA) (Es) (v1.0.1) (Tío Víctor)" cloneof="Echo Night - Beyond (USA)">
+		<category>Retail</category>
+		<description>Echo Night - Beyond (USA) (Es) (v1.0.1) (Tío Víctor)</description>
+		<release name="Echo Night - Beyond (USA) (Es) (v1.0.1) (Tío Víctor)" region="Spain"/>
+		<disk name="Echo Night - Beyond (USA) (Es) (v1.0.1) (Tío Víctor).chd" sha1="8170d2151d38ae8de0b1b9fa794c1bff2d3324a6"/>
+		<url>https://retroachievements.org/game/19194/hashes</url>
+		<hash>4bab193192d5955bab19deba5e21e6d3</hash>
+	</machine>
+	
 	<machine name="Ed, Edd n Eddy - The Mis-Edventures (USA) (En,Fr)">
 		<category>Retail</category>
 		<description>Ed, Edd n Eddy - The Mis-Edventures (USA) (En,Fr)</description>
@@ -2540,6 +2575,14 @@
 		<disk name="Fuga de Monkey Island, La (Spain).chd" sha1="ba58121d98b8cb1bd111e50fea31a986d7fee0ee"/>
 		<url>https://retroachievements.org/game/3306/hashes</url>
 		<hash>321791f2faeb22fb2f0c39c10a80bccd</hash>
+	</machine>
+	<machine name="Fuga da Monkey Island (Italy)" cloneof="Escape from Monkey Island (USA)">
+		<category>Retail</category>
+		<description>Fuga da Monkey Island (Italy)</description>
+		<release name="Fuga da Monkey Island (Italy)" region="Italy"/>
+		<disk name="Fuga da Monkey Island (Italy).chd" sha1="bd9cf89834e8d9bb9119aff55877aadf554390a1"/>
+		<url>https://retroachievements.org/game/3306/hashes</url>
+		<hash>57920208b5501150498cc0f171485d5e</hash>
 	</machine>
 	
 	<machine name="Eternal Ring (USA)">
@@ -2621,6 +2664,15 @@
 		<disk name="Fallout - Brotherhood of Steel (USA).chd" sha1="50d273adfebea25e143a0346057dfcbf8b13642e"/>
 		<url>https://retroachievements.org/game/19028/hashes</url>
 		<hash>584642f386a04d9f3d803c6cdc694b68</hash>
+	</machine>
+	
+	<machine name="Family Guy - Video Game! (USA)">
+		<category>Retail</category>
+		<description>Family Guy - Video Game! (USA)</description>
+		<release name="Family Guy - Video Game! (USA)" region="USA"/>
+		<disk name="Family Guy - Video Game! (USA).chd" sha1="13f9ecf1d29a75d9c91ca01605aa2d6bd5ce3895"/>
+		<url>https://retroachievements.org/game/20953/hashes</url>
+		<hash>e2184854a17a1454858f0cbe24159cd0</hash>
 	</machine>
 	
 	<machine name="Fatal Frame (USA)">
@@ -6700,6 +6752,15 @@
 		<hash>02697949478c19c0840cca7f13299260</hash>
 	</machine>
 	
+	<machine name="Shin Megami Tensei - Digital Devil Saga 2 (USA)">
+		<category>Retail</category>
+		<description>Shin Megami Tensei - Digital Devil Saga 2 (USA)</description>
+		<release name="Shin Megami Tensei - Digital Devil Saga 2 (USA)" region="USA"/>
+		<disk name="Shin Megami Tensei - Digital Devil Saga 2 (USA).chd" sha1="00dd08714617b9b5fb1aa260786b90d794d005b9"/>
+		<url>https://retroachievements.org/game/2652/hashes</url>
+		<hash>ec9cf226b0715b059ceca2228ab6fd81</hash>
+	</machine>
+	
 	<machine name="Shin Megami Tensei - Nocturne (USA)">
 		<category>Retail</category>
 		<description>Shin Megami Tensei - Nocturne (USA)</description>
@@ -7736,6 +7797,15 @@
 		<disk name="Surf's Up (Europe) (En,Fr,De,Es,It).chd" sha1="91147dedb47f0ddab3dfc2eae0ec480f82d12c3d"/>
 		<url>https://retroachievements.org/game/22076/hashes</url>
 		<hash>695d5190f23c53d384737ba12f7a303d</hash>
+	</machine>
+	
+	<machine name="SWAT - Global Strike Team (USA)">
+		<category>Retail</category>
+		<description>SWAT - Global Strike Team (USA)</description>
+		<release name="SWAT - Global Strike Team (USA)" region="USA"/>
+		<disk name="SWAT - Global Strike Team (USA).chd" sha1="55c42456085883f818b3dc63cd079bf9abc0c430"/>
+		<url>https://retroachievements.org/game/26357/hashes</url>
+		<hash>1183e13cbf3c5dd1d2e4ed4daabc4af7</hash>
 	</machine>
 	
 	<machine name="Syberia (Europe) (En,Fr,De,Es,It)">

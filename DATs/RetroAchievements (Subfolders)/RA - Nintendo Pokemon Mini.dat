@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Pokemon Mini</name>
 		<description>Nintendo Pokemon Mini</description>
 		<category>Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/24/games</url>
@@ -195,6 +195,14 @@
 		<rom name="PokeMaze (World) (Aftermarket).min" size="36040" crc="3db4b128" md5="d48392de0e6a80497c1955042ad38611" sha1="f808813cc780be023848a594b9568a06a27f59f4"/>
 		<url>https://retroachievements.org/game/19706/hashes</url>
 		<hash>d48392de0e6a80497c1955042ad38611</hash>
+	</game>
+	
+	<game name="Homebrew/Pokemon Mini Ambulation (World) (v1.0) (Aftermarket) (Inkbox)">
+		<category></category>
+		<description>Pokemon Mini Ambulation (World) (v1.0) (Aftermarket) (Inkbox)</description>
+		<rom name="Pokemon Mini Ambulation (World) (v1.0) (Aftermarket) (Inkbox).min" size="61512" crc="3ee81b35" md5="0156b0b9c002b4f9b9fec777d4503594" sha1="5c64e0228ebfa6a61797e92dc27c37c019af9144"/>
+		<url>https://retroachievements.org/game/38036/hashes</url>
+		<hash>0156b0b9c002b4f9b9fec777d4503594</hash>
 	</game>
 	
 	<game name="Homebrew/Pokemon Party mini 2 (World) (Aftermarket)">

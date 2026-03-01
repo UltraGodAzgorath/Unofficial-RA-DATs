@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Entertainment System</name>
 		<description>Nintendo Entertainment System</description>
 		<category>Subfolders</category>
-		<version>20260214</version>
-		<date>14 February 2026</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/7/games</url>
@@ -2535,6 +2535,14 @@
 		<hash>818cad96b53efd26b1bb5d593765440f</hash>
 	</game>
 	
+	<game name="Homebrew/Legends of Owlia, The (World) (Aftermarket) (Unl)">
+		<category></category>
+		<description>Legends of Owlia, The (World) (Aftermarket) (Unl)</description>
+		<rom name="Legends of Owlia, The (World) (Aftermarket) (Unl).nes" size="524304" crc="26858010" md5="2c853160353de6f1272ac503c2661223" sha1="406f293f6aa8ee93f42e12c4f991d7d593c78b44"/>
+		<url>https://retroachievements.org/game/13343/hashes</url>
+		<hash>6c4bd31e7652af846e62b122de7f4ab4</hash>
+	</game>
+	
 	<game name="Homebrew/Ninja of the 4 Seasons, The (World) (v1.1) (Aftermarket)">
 		<category></category>
 		<description>Ninja of the 4 Seasons, The (World) (v1.1) (Aftermarket)</description>
@@ -5008,13 +5016,6 @@
 		<url>https://retroachievements.org/game/1462/hashes</url>
 		<hash>728e05f245ab8b7fe61083f6919dc485</hash>
 	</game>
-	<game name="Retail/Castlevania (USA) (Red Scale) (EVC) (v1.0)">
-		<category></category>
-		<description>Castlevania (USA) (Red Scale) (EVC) (v1.0)</description>
-		<rom name="Castlevania (USA) (Red Scale) (EVC) (v1.0).nes" size="131088" crc="8b7d7650" md5="626758e0669429bc434118ef57469328" sha1="c64e9636f7a38fb263b98732b3144bf73cdc19f9"/>
-		<url>https://retroachievements.org/game/1462/hashes</url>
-		<hash>9c8623ca51f755a7e776e0b9f932f0ab</hash>
-	</game>
 	<game name="Retail/Castlevania (USA) (Rev 1) (Pl) (Voxar) (v1.0)">
 		<category></category>
 		<description>Castlevania (USA) (Rev 1) (Pl) (Voxar) (v1.0)</description>
@@ -6134,6 +6135,21 @@
 		<hash>9d961a26f2104e461667c6a1cc57ab21</hash>
 	</game>
 	
+	<game name="Retail/Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku/Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan)">
+		<category></category>
+		<description>Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan)</description>
+		<rom name="Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan).nes" size="524304" crc="b63e1069" md5="4c92346de71444811955951ee852ce4a" sha1="33eb849a139b89d21b2da48b810196a8971a0d0d"/>
+		<url>https://retroachievements.org/game/14425/hashes</url>
+		<hash>a0fffec6c04845233b92524f6ab396b8</hash>
+	</game>
+	<game name="Retail/Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku/Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan) (En) (v1.0) (Twilight Translations)">
+		<category></category>
+		<description>Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan) (En) (v1.0) (Twilight Translations)</description>
+		<rom name="Dragon Ball Z Gaiden - Saiya Jin Zetsumetsu Keikaku (Japan) (En) (v1.0) (Twilight Translations).nes" size="524304" crc="3835d2c5" md5="949d16eddc0fc0b9ebcac5966770aa64" sha1="aed8f7d66f9add2486bcda39cff5ee858f1612e0"/>
+		<url>https://retroachievements.org/game/14425/hashes</url>
+		<hash>918d86faa01eaf98e7a5da8e4b85c33f</hash>
+	</game>
+	
 	<game name="Retail/Dragon Ball Z II - Gekishin Freeza!! (Japan) (Rev 1)">
 		<category></category>
 		<description>Dragon Ball Z II - Gekishin Freeza!! (Japan) (Rev 1)</description>
@@ -6237,14 +6253,14 @@
 		<hash>d7047f1a9a63866719b11b39558d2260</hash>
 	</game>
 	
-	<game name="Retail/Dragon Fighter (USA)">
+	<game name="Retail/Dragon Fighter/Dragon Fighter (USA)">
 		<category></category>
 		<description>Dragon Fighter (USA)</description>
 		<rom name="Dragon Fighter (USA).nes" size="262160" crc="5dff9f09" md5="972dd5913984add4fff2c32a89f3e8a5" sha1="c0210e83e9b58b5700495e9d20c2dc376beb3e11"/>
 		<url>https://retroachievements.org/game/1665/hashes</url>
 		<hash>16bd158913f423f1812149951490e1d5</hash>
 	</game>
-	<game name="Retail/Dragon Fighter (Japan)">
+	<game name="Retail/Dragon Fighter/Dragon Fighter (Japan)">
 		<category></category>
 		<description>Dragon Fighter (Japan)</description>
 		<rom name="Dragon Fighter (Japan).nes" size="262160" crc="b7946748" md5="d1a0eb0a935ba834d6dea962c101516f" sha1="48fbf93deaa9487780626a84021f7dc729d6cb0f"/>
@@ -6252,50 +6268,64 @@
 		<hash>b3917b556c78ae7998274a1bfd753653</hash>
 	</game>
 	
-	<game name="Retail/Dragon Quest (Japan)">
+	<game name="Retail/Dragon Warrior/Dragon Quest (Japan)">
 		<category></category>
 		<description>Dragon Quest (Japan)</description>
 		<rom name="Dragon Quest (Japan).nes" size="65552" crc="e9f91164" md5="6890874f55ecc9c1d58c0e91aa87042d" sha1="5b7c80c3404b93523577521927f7c99ab4a7ad57"/>
 		<url>https://retroachievements.org/game/1471/hashes</url>
 		<hash>77b5548ac3aa59fe11f8cfac750faede</hash>
 	</game>
-	<game name="Retail/Dragon Warrior (USA) (Rev 1)">
+	<game name="Retail/Dragon Warrior/Dragon Warrior (USA) (Rev 1)">
 		<category></category>
 		<description>Dragon Warrior (USA) (Rev 1)</description>
 		<rom name="Dragon Warrior (USA) (Rev 1).nes" size="81936" crc="abf3c899" md5="161f31d9d8995838dee57a679dade537" sha1="66809063b828197d1fe12232ebd08ec0a498aa04"/>
 		<url>https://retroachievements.org/game/1471/hashes</url>
 		<hash>e0413c76f69f5aca4a1f5336b86851b6</hash>
 	</game>
-	<game name="Retail/Dragon Warrior (USA)">
+	<game name="Retail/Dragon Warrior/Dragon Warrior (USA)">
 		<category></category>
 		<description>Dragon Warrior (USA)</description>
 		<rom name="Dragon Warrior (USA).nes" size="81936" crc="b5896125" md5="04ecd6bf8fc486c60c16c0a15c3ddb83" sha1="a794907cdfc17c6056320ac2810461976c5d3403"/>
 		<url>https://retroachievements.org/game/1471/hashes</url>
 		<hash>e8382f82570bc616b0bcc02c843c1b79</hash>
 	</game>
-	<game name="Retail/Dragon Warrior (USA) (RE-Quest) (Choppasmith) (v1.3c)">
+	<game name="Retail/Dragon Warrior/Dragon Warrior (USA) (RE-Quest) (Choppasmith) (v1.3c)">
 		<category></category>
 		<description>Dragon Warrior (USA) (RE-Quest) (Choppasmith) (v1.3c)</description>
 		<rom name="Dragon Warrior (USA) (RE-Quest) (Choppasmith) (v1.3c).nes" size="147600" crc="7fddae9b" md5="eea7fb94d38b613efe2dacd1057ac854" sha1="fa8e67defc85f3d393b6f2ea4fe6800fb41a5bbc"/>
 		<url>https://retroachievements.org/game/1471/hashes</url>
 		<hash>e9bdb8adbc6e6eeffd2eb14ef8969e40</hash>
 	</game>
-	<game name="Retail/Dragon Warrior (USA) (Es) (Crackowia) (v1.02)">
+	<game name="Retail/Dragon Warrior/Dragon Warrior (USA) (Es) (Crackowia) (v1.02)">
 		<category></category>
 		<description>Dragon Warrior (USA) (Es) (Crackowia) (v1.02)</description>
 		<rom name="Dragon Warrior (USA) (Es) (Crackowia) (v1.02).nes" size="81936" crc="375964ed" md5="3169370c40c3b9f3e9ec95cdbbdb578b" sha1="ebacb07868139f01a517f17a1fbd57ed0bd6ec4e"/>
 		<url>https://retroachievements.org/game/1471/hashes</url>
 		<hash>fe6de71e47d7ebb24bb7b87ac70e461a</hash>
 	</game>
+	<game name="Retail/Dragon Warrior/Dragon Warrior (USA) (PT-BR) (v1.0) (TeacherGus)">
+		<category></category>
+		<description>Dragon Warrior (USA) (PT-BR) (v1.0) (TeacherGus)</description>
+		<rom name="Dragon Warrior (USA) (PT-BR) (v1.0) (TeacherGus).nes" size="81936" crc="d1eb2172" md5="3a901706794ae22bd175b6d50bb8c94c" sha1="b06379d8d00621b862ae57afc4507df5a63ff209"/>
+		<url>https://retroachievements.org/game/1471/hashes</url>
+		<hash>d4bcc21a88da3242bc5d6a21bc2f5f64</hash>
+	</game>
+	<game name="Retail/Dragon Warrior/Dragon Warrior (USA) (De) (v1.0) (Mephisto)">
+		<category>Retail</category>
+		<description>Dragon Warrior (USA) (De) (v1.0) (Mephisto)</description>
+		<rom name="Dragon Warrior (USA) (De) (v1.0) (Mephisto).nes" size="81936" crc="c4e64f1b" md5="8bc3918e22b860e898fd2a07017395bc" sha1="21d4ac7a3325bab099d1939105785b50495d4abf"/>
+		<url>https://retroachievements.org/game/1471/hashes</url>
+		<hash>1c31f4299dde7cad533f85bdec8b2f9f</hash>
+	</game>
 	
-	<game name="Retail/Dragon Quest II - Akuryou no Kamigami (Japan)">
+	<game name="Retail/Dragon Warrior II/Dragon Quest II - Akuryou no Kamigami (Japan)">
 		<category></category>
 		<description>Dragon Quest II - Akuryou no Kamigami (Japan)</description>
 		<rom name="Dragon Quest II - Akuryou no Kamigami (Japan).nes" size="131088" crc="ecfa97e3" md5="604ebaf033b95464c1db931844f48aa9" sha1="aed5ea59ceb93d0bc7ef6acdaa0a223145e3f81f"/>
 		<url>https://retroachievements.org/game/1470/hashes</url>
 		<hash>a60a16cdd7e711400200624177743552</hash>
 	</game>
-	<game name="Retail/Dragon Warrior II (USA)">
+	<game name="Retail/Dragon Warrior II/Dragon Warrior II (USA)">
 		<category></category>
 		<description>Dragon Warrior II (USA)</description>
 		<rom name="Dragon Warrior II (USA).nes" size="262160" crc="c3c2e266" md5="3188792f0e6baee937a9859542c8c155" sha1="c05b550694a8c0276b60736a61955d5bbf0c1f3d"/>
@@ -6303,42 +6333,42 @@
 		<hash>ccdb4563c9004d862dcf3a98c7937c22</hash>
 	</game>
 	
-	<game name="Retail/Dragon Warrior III (USA)">
+	<game name="Retail/Dragon Warrior III/Dragon Warrior III (USA)">
 		<category></category>
 		<description>Dragon Warrior III (USA)</description>
 		<rom name="Dragon Warrior III (USA).nes" size="524304" crc="5716bd04" md5="5f585a1c9d855a585e7fc92309f844dd" sha1="19ab26df82c3f92af545c93008022cab9c16f542"/>
 		<url>https://retroachievements.org/game/1667/hashes</url>
 		<hash>16a03048ce659d3d733026b6b72f2470</hash>
 	</game>
-	<game name="Retail/Dragon Warrior III (USA) (Fr) (Generation IX) (v1.0)">
+	<game name="Retail/Dragon Warrior III/Dragon Warrior III (USA) (Fr) (Generation IX) (v1.0)">
 		<category></category>
 		<description>Dragon Warrior III (USA) (Fr) (Generation IX) (v1.0)</description>
 		<rom name="Dragon Warrior III (USA) (Fr) (Generation IX) (v1.0).nes" size="524304" crc="029c4c40" md5="dacd6987d59a3f08ac8def81ad1b6572" sha1="1e9a3a480120615f56493371cb03fb382fc0c115"/>
 		<url>https://retroachievements.org/game/1667/hashes</url>
 		<hash>53c1b36072390deb0c1f4d435cf2e41f</hash>
 	</game>
-	<game name="Retail/Dragon Warrior III (USA) (Pt) (CBT) (v1.1)">
+	<game name="Retail/Dragon Warrior III/Dragon Warrior III (USA) (Pt) (CBT) (v1.1)">
 		<category></category>
 		<description>Dragon Warrior III (USA) (Pt) (CBT) (v1.1)</description>
 		<rom name="Dragon Warrior III (USA) (Pt) (CBT) (v1.1).nes" size="524304" crc="339508b7" md5="9ca548d63548cc68a2db8941ab78ac48" sha1="2800d87bcadfb1ec4d3f091919d2f5e5a1c15db9"/>
 		<url>https://retroachievements.org/game/1667/hashes</url>
 		<hash>57bc5e42907f566990514eb57dee296c</hash>
 	</game>
-	<game name="Retail/Dragon Quest III - Soshite Densetsu e... (Japan) (Rev 1)">
+	<game name="Retail/Dragon Warrior III/Dragon Quest III - Soshite Densetsu e... (Japan) (Rev 1)">
 		<category></category>
 		<description>Dragon Quest III - Soshite Densetsu e... (Japan) (Rev 1)</description>
 		<rom name="Dragon Quest III - Soshite Densetsu e... (Japan) (Rev 1).nes" size="262160" crc="c90d9be2" md5="f0358f1b35ac5e43d0366b9a45f7ff3a" sha1="ab614c7184f5ab4202341adacd43f8620ae019e5"/>
 		<url>https://retroachievements.org/game/1667/hashes</url>
 		<hash>5a0c984006b088c26db5a4f454b7a0ef</hash>
 	</game>
-	<game name="Retail/Dragon Warrior III (USA) (Pt) (CBT)">
+	<game name="Retail/Dragon Warrior III/Dragon Warrior III (USA) (Pt) (CBT)">
 		<category></category>
 		<description>Dragon Warrior III (USA) (Pt) (CBT)</description>
 		<rom name="Dragon Warrior III (USA) (Pt) (CBT).nes" size="524304" crc="3d415508" md5="f5a1c23388f5fa91790539e3c45579c9" sha1="074f6b00e6018eecd4d382a629d3e74e9785219b"/>
 		<url>https://retroachievements.org/game/1667/hashes</url>
 		<hash>615931aa63a3392891d4c8e768ee7ada</hash>
 	</game>
-	<game name="Retail/Dragon Quest III - Soshite Densetsu e... (Japan)">
+	<game name="Retail/Dragon Warrior III/Dragon Quest III - Soshite Densetsu e... (Japan)">
 		<category></category>
 		<description>Dragon Quest III - Soshite Densetsu e... (Japan)</description>
 		<rom name="Dragon Quest III - Soshite Densetsu e... (Japan).nes" size="262160" crc="eb03d290" md5="fb8970544cce4d5f0930dc12b0f7bb00" sha1="0518f091ecf5059e86eaabef12397433b76d5567"/>
@@ -6346,21 +6376,21 @@
 		<hash>b4b5416962ac800a77a0cf756bfd3fa0</hash>
 	</game>
 	
-	<game name="Retail/Dragon Quest IV - Michibikareshi Monotachi (Japan) (Rev 1)">
+	<game name="Retail/Dragon Quest IV - Michibikareshi Monotachi/Dragon Quest IV - Michibikareshi Monotachi (Japan) (Rev 1)">
 		<category></category>
 		<description>Dragon Quest IV - Michibikareshi Monotachi (Japan) (Rev 1)</description>
 		<rom name="Dragon Quest IV - Michibikareshi Monotachi (Japan) (Rev 1).nes" size="524304" crc="f8e81cb9" md5="2caa6345374363477c0c249c92eeaffe" sha1="ee0afb257550ed358546889457f88967c5e420fa"/>
 		<url>https://retroachievements.org/game/4612/hashes</url>
 		<hash>192f2997b7f5123ebc81b7b8c469c1ea</hash>
 	</game>
-	<game name="Retail/Dragon Quest IV - Michibikareshi Monotachi (Japan)">
+	<game name="Retail/Dragon Quest IV - Michibikareshi Monotachi/Dragon Quest IV - Michibikareshi Monotachi (Japan)">
 		<category></category>
 		<description>Dragon Quest IV - Michibikareshi Monotachi (Japan)</description>
 		<rom name="Dragon Quest IV - Michibikareshi Monotachi (Japan).nes" size="524304" crc="d2abf4d7" md5="8bb0cf53c7a501a4da9dc7b2b38ed8c7" sha1="8cdffd309e7ef6ffb4fdfa4a83d5d584f57af4c9"/>
 		<url>https://retroachievements.org/game/4612/hashes</url>
 		<hash>80d5683ac95537401f2f003a76379b8e</hash>
 	</game>
-	<game name="Retail/Dragon Warrior IV (USA)">
+	<game name="Retail/Dragon Quest IV - Michibikareshi Monotachi/Dragon Warrior IV (USA)">
 		<category></category>
 		<description>Dragon Warrior IV (USA)</description>
 		<rom name="Dragon Warrior IV (USA).nes" size="524304" crc="af12cb81" md5="33690b361265c840fda965418adf3143" sha1="993a171a99d29805d6634cf40190de138b4a99b9"/>
@@ -6368,14 +6398,14 @@
 		<hash>d8a1d610c93b96ad98e55e09dfcc7533</hash>
 	</game>
 	
-	<game name="Retail/Dragon Scroll - Yomigaerishi Maryuu (Japan)">
+	<game name="Retail/Dragon Scroll - Yomigaerishi Maryuu/Dragon Scroll - Yomigaerishi Maryuu (Japan)">
 		<category></category>
 		<description>Dragon Scroll - Yomigaerishi Maryuu (Japan)</description>
 		<rom name="Dragon Scroll - Yomigaerishi Maryuu (Japan).nes" size="262160" crc="169b8310" md5="e923d5e059cc86a1a6865eb5e25438cc" sha1="f06be0fa8ef550fbd5caea90294c6adf149576f2"/>
 		<url>https://retroachievements.org/game/5152/hashes</url>
 		<hash>695d86d2746758474ac2186b8bde2165</hash>
 	</game>
-	<game name="Retail/Dragon Scroll - Yomigaerishi Maryuu (Japan) (En) (KingMike) (v1.0)">
+	<game name="Retail/Dragon Scroll - Yomigaerishi Maryuu/Dragon Scroll - Yomigaerishi Maryuu (Japan) (En) (KingMike) (v1.0)">
 		<category></category>
 		<description>Dragon Scroll - Yomigaerishi Maryuu (Japan) (En) (KingMike) (v1.0)</description>
 		<rom name="Dragon Scroll - Yomigaerishi Maryuu (Japan) (En) (KingMike) (v1.0).nes" size="262160" crc="aa83fbe3" md5="5524ca365b0e6debe4f5064015344573" sha1="f7932f2cf5798bb267349faa7f58867dac291ad5"/>
@@ -6383,14 +6413,14 @@
 		<hash>0a0c3a31b0767cc5ec0e7b6bfebd0f42</hash>
 	</game>
 	
-	<game name="Retail/Dragon Spirit - The New Legend (USA)">
+	<game name="Retail/Dragon Spirit - The New Legend/Dragon Spirit - The New Legend (USA)">
 		<category></category>
 		<description>Dragon Spirit - The New Legend (USA)</description>
 		<rom name="Dragon Spirit - The New Legend (USA).nes" size="262160" crc="6c5b7e39" md5="3e853bb7b009559ef8824ab27a54d19b" sha1="e702ecbdc094c03cd0def87cbd39b8d9d2fbb047"/>
 		<url>https://retroachievements.org/game/1666/hashes</url>
 		<hash>3d012f801c162c7f0ca97d516c25bcd6</hash>
 	</game>
-	<game name="Retail/Dragon Spirit - Aratanaru Densetsu (Japan)">
+	<game name="Retail/Dragon Spirit - The New Legend/Dragon Spirit - Aratanaru Densetsu (Japan)">
 		<category></category>
 		<description>Dragon Spirit - Aratanaru Densetsu (Japan)</description>
 		<rom name="Dragon Spirit - Aratanaru Densetsu (Japan).nes" size="262160" crc="b999d928" md5="7b969fc51ee1aaede079193aef6afd21" sha1="7eba1eef2a342f72f435b9a0d923e1389a516b02"/>
@@ -6398,14 +6428,14 @@
 		<hash>6a3c632ab5e085f81dbfff0ef7f1f2e7</hash>
 	</game>
 	
-	<game name="Retail/Dragon's Lair (Japan)">
+	<game name="Retail/Dragon's Lair/Dragon's Lair (Japan)">
 		<category></category>
 		<description>Dragon's Lair (Japan)</description>
 		<rom name="Dragon's Lair (Japan).nes" size="262160" crc="7f343968" md5="a54e0bdacb3fd86d6c327c3d02245a60" sha1="365a75d779e2259306e4aa995faa4761a41a8a4d"/>
 		<url>https://retroachievements.org/game/1668/hashes</url>
 		<hash>e310e8e2a625cd71a698540cb529e2bc</hash>
 	</game>
-	<game name="Retail/Dragon's Lair (Europe)">
+	<game name="Retail/Dragon's Lair/Dragon's Lair (Europe)">
 		<category></category>
 		<description>Dragon's Lair (Europe)</description>
 		<rom name="Dragon's Lair (Europe).nes" size="262160" crc="864ebdc7" md5="eca56bcadb21e1bff5bc3ad62e2153b0" sha1="6b4c31ae5374232a0463321c409211289944193c"/>
@@ -6413,21 +6443,21 @@
 		<hash>f92bd9ade4753cba85e4f5ad6e210446</hash>
 	</game>
 	
-	<game name="Retail/Dream Master (Japan) (En) (Aishsha) (v1.01)">
+	<game name="Retail/Dream Master/Dream Master (Japan) (En) (Aishsha) (v1.01)">
 		<category></category>
 		<description>Dream Master (Japan) (En) (Aishsha) (v1.01)</description>
 		<rom name="Dream Master (Japan) (En) (Aishsha) (v1.01).nes" size="786448" crc="5ca2de71" md5="32cbb6cdc9042c46d02405af6d80819d" sha1="aff4b38aad368c0956b40099ebbddb53c337291e"/>
 		<url>https://retroachievements.org/game/12878/hashes</url>
 		<hash>4b485d045809c8cbd31e7b3c0d58e5c2</hash>
 	</game>
-	<game name="Retail/Dream Master (Japan) (Es) (Takkun57) (v1.0)">
+	<game name="Retail/Dream Master/Dream Master (Japan) (Es) (Takkun57) (v1.0)">
 		<category></category>
 		<description>Dream Master (Japan) (Es) (Takkun57) (v1.0)</description>
 		<rom name="Dream Master (Japan) (Es) (Takkun57) (v1.0).nes" size="786448" crc="99cc5eba" md5="50c0e93e5a52c5d12c71a7e4b5d3c275" sha1="ffbba34964934ca5dc5d8f5e80d571111b8e48b1"/>
 		<url>https://retroachievements.org/game/12878/hashes</url>
 		<hash>80790e2e077ded74fe84bcd6989c3081</hash>
 	</game>
-	<game name="Retail/Namco Prism Zone - Dream Master (Japan)">
+	<game name="Retail/Dream Master/Namco Prism Zone - Dream Master (Japan)">
 		<category></category>
 		<description>Namco Prism Zone - Dream Master (Japan)</description>
 		<rom name="Namco Prism Zone - Dream Master (Japan).nes" size="524304" crc="7906bdc7" md5="7c3fcf66917c7e176407a7c29a4f7a62" sha1="5f69472c3685bdabcb0d03b5d00d75edc599098b"/>
@@ -8876,54 +8906,61 @@
 		<hash>7b1016f649a7f21e6c27f3f69904218d</hash>
 	</game>
 	
-	<game name="Retail/Kirby's Adventure (Europe)">
+	<game name="Retail/Kirby's Adventure/Kirby's Adventure (Europe)">
 		<category></category>
 		<description>Kirby's Adventure (Europe)</description>
 		<rom name="Kirby's Adventure (Europe).nes" size="786448" crc="e0b3a241" md5="bcf7d2c7118212e05962cc4213852b18" sha1="e2452c0f30c5fb40a9b99ef40ca00abffb8ff3e1"/>
 		<url>https://retroachievements.org/game/1479/hashes</url>
 		<hash>09e21386297efe7e4bfd717b9c6a697d</hash>
 	</game>
-	<game name="Retail/Kirby's Adventure (USA)">
+	<game name="Retail/Kirby's Adventure/Kirby's Adventure (USA)">
 		<category></category>
 		<description>Kirby's Adventure (USA)</description>
 		<rom name="Kirby's Adventure (USA).nes" size="786448" crc="4f20b058" md5="15557e4b160880003b4d6b7ad8641c79" sha1="57f02801d29d3ac1fb9da7294f0603c43a6f439f"/>
 		<url>https://retroachievements.org/game/1479/hashes</url>
 		<hash>36ffa102acba11b5c57427d8ac5ad98e</hash>
 	</game>
-	<game name="Retail/Hoshi no Kirby - Yume no Izumi no Monogatari (Japan)">
+	<game name="Retail/Kirby's Adventure/Hoshi no Kirby - Yume no Izumi no Monogatari (Japan)">
 		<category></category>
 		<description>Hoshi no Kirby - Yume no Izumi no Monogatari (Japan)</description>
 		<rom name="Hoshi no Kirby - Yume no Izumi no Monogatari (Japan).nes" size="786448" crc="7cfe2e92" md5="b2827f0f8a238d99b7e5b02e4675512e" sha1="63dcab3395ab9d1cf98cc93bfc872c29fca6e6f3"/>
 		<url>https://retroachievements.org/game/1479/hashes</url>
 		<hash>4d22184ed99efec06bbec5cd7805cc56</hash>
 	</game>
-	<game name="Retail/Kirby's Adventure (USA) (Rev 1)">
+	<game name="Retail/Kirby's Adventure/Kirby's Adventure (USA) (Rev 1)">
 		<category></category>
 		<description>Kirby's Adventure (USA) (Rev 1)</description>
 		<rom name="Kirby's Adventure (USA) (Rev 1).nes" size="786448" crc="c68f0885" md5="a3dde61df4bc4ebce2a60c2cf869081e" sha1="5c2810bca7659f3aeb4a993b1c38f228b0fc1c0e"/>
 		<url>https://retroachievements.org/game/1479/hashes</url>
 		<hash>758744ec2d2fa3d1f2020586401f97e8</hash>
 	</game>
-	<game name="Retail/Kirby's Adventure (Germany)">
+	<game name="Retail/Kirby's Adventure/Kirby's Adventure (Germany)">
 		<category></category>
 		<description>Kirby's Adventure (Germany)</description>
 		<rom name="Kirby's Adventure (Germany).nes" size="786448" crc="dec65970" md5="17824190bd80109cff418c3625791b24" sha1="0e69e6f261fb03176d0c3c748dfb9b9926a6851e"/>
 		<url>https://retroachievements.org/game/1479/hashes</url>
 		<hash>868635e8bbcc61c73aaa4a56ddbe677c</hash>
 	</game>
-	<game name="Retail/Kirby's Adventure (Canada) (Fr)">
+	<game name="Retail/Kirby's Adventure/Kirby's Adventure (Canada) (Fr)">
 		<category></category>
 		<description>Kirby's Adventure (Canada) (Fr)</description>
 		<rom name="Kirby's Adventure (Canada) (Fr).nes" size="786448" crc="af51745b" md5="f35f4b27dee298245bff5f37b8292680" sha1="ef2799cab09a8420859bf5e0a3d043696cdfff7c"/>
 		<url>https://retroachievements.org/game/1479/hashes</url>
 		<hash>f397d53818b0697e6a80ee5cc30d2a23</hash>
 	</game>
-	<game name="Retail/Kirby's Adventure (France)">
+	<game name="Retail/Kirby's Adventure/Kirby's Adventure (France)">
 		<category></category>
 		<description>Kirby's Adventure (France)</description>
 		<rom name="Kirby's Adventure (France).nes" size="786448" crc="7e5450cf" md5="5879f138474c01a8c9370a92b643e12a" sha1="90569d0e7c5b4a675d85a511c8fe169fbf211495"/>
 		<url>https://retroachievements.org/game/1479/hashes</url>
 		<hash>fdf4bbe03b31ae0f5faf376ee0153079</hash>
+	</game>
+	<game name="Retail/Kirby's Adventure/Kirby's Adventure (USA) (Rev 1) (Input Fix) (v1.0) (Controllerhead)">
+		<category></category>
+		<description>Kirby's Adventure (USA) (Rev 1) (Input Fix) (v1.0) (Controllerhead)</description>
+		<rom name="Kirby's Adventure (USA) (Rev 1) (Input Fix) (v1.0) (Controllerhead).nes" size="786448" crc="2b977fe3" md5="b459ab9b92f56b782e009c3773e4a0c9" sha1="e54cd9e1f07bf6c0027ffc2c0870e6f5901119ed"/>
+		<url>https://retroachievements.org/game/1479/hashes</url>
+		<hash>3607749a65ec3f8d3710fac0090ca1ca</hash>
 	</game>
 	
 	<game name="Retail/NewZealand Story, The (Europe)">

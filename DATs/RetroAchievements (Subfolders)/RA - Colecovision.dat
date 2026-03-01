@@ -5,8 +5,8 @@
 		<name>RA - Colecovision</name>
 		<description>Colecovision</description>
 		<category>Subfolders</category>
-		<version>20251116</version>
-		<date>16 November 2025</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/44/games</url>
@@ -137,6 +137,14 @@
 		<rom name="Artillery Duel (USA).col" size="16384" crc="6f88fcf0" md5="fabbbf6dfcb0628fa33b476750a492f8" sha1="a2494b1ade772fe45779bd500139ff847dfe7afa"/>
 		<url>https://retroachievements.org/game/17275/hashes</url>
 		<hash>fabbbf6dfcb0628fa33b476750a492f8</hash>
+	</game>
+	
+	<game name="Retail/BurgerTime (USA, Europe)">
+		<category></category>
+		<description>BurgerTime (USA, Europe)</description>
+		<rom name="BurgerTime (USA, Europe).col" size="16384" crc="91346341" md5="927ce5ba5bf3e0f6c8c5a115db51f264" sha1="6ebf0d23f2d7cf60897ba6fe13b2293421c0a589"/>
+		<url>https://retroachievements.org/game/12770/hashes</url>
+		<hash>927ce5ba5bf3e0f6c8c5a115db51f264</hash>
 	</game>
 	
 	<game name="Retail/Carnival (USA, Europe)">

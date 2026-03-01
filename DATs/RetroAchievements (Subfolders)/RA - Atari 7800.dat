@@ -5,8 +5,8 @@
 		<name>RA - Atari 7800</name>
 		<description>Atari 7800</description>
 		<category>Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/51/games</url>
@@ -154,6 +154,14 @@
 		<rom name="Basketbrawl (Europe).a78" size="131072" crc="a4265d4b" md5="fba002089fcfa176454ab507e0eb76cb" sha1="e7ef6b11bb6836ff7d11a25f8d4e2c9361fa69b3"/>
 		<url>https://retroachievements.org/game/16943/hashes</url>
 		<hash>fba002089fcfa176454ab507e0eb76cb</hash>
+	</game>
+	
+	<game name="Retail/Centipede (USA)">
+		<category></category>
+		<description>Centipede (USA)</description>
+		<rom name="Centipede (USA).a78" size="16384" crc="020efe25" md5="5a09946e57dbe30408a8f253a28d07db" sha1="c8377ad7fb6afec5c88c14a23a68e2ecebba4e5a"/>
+		<url>https://retroachievements.org/game/13358/hashes</url>
+		<hash>5a09946e57dbe30408a8f253a28d07db</hash>
 	</game>
 	
 	<game name="Retail/Choplifter! (USA)">

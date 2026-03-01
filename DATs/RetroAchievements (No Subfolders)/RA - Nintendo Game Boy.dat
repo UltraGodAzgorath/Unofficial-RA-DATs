@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy</name>
 		<description>Nintendo Game Boy</description>
 		<category>No Subfolders</category>
-		<version>20260214</version>
-		<date>14 February 2026</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/4/games</url>
@@ -870,6 +870,15 @@
 		<hash>aa05bfdc3b5655d4cf6694f54a6262b0</hash>
 	</game>
 	
+	<game name="GB Dash (World) (v1.0) (Aftermarket) (TiTi)">
+		<category>Homebrew</category>
+		<description>GB Dash (World) (v1.0) (Aftermarket) (TiTi)</description>
+		<release name="GB Dash (World) (v1.0) (Aftermarket) (TiTi)" region="World"/>
+		<rom name="GB Dash (World) (v1.0) (Aftermarket) (TiTi).gb" size="32768" crc="5fc615e6" md5="7d38f43df5cd5613fa1256de1d351d33" sha1="6e16b44d1c63ca93801194e23232b51ab51e890d"/>
+		<url>https://retroachievements.org/game/38047/hashes</url>
+		<hash>7d38f43df5cd5613fa1256de1d351d33</hash>
+	</game>
+	
 	<game name="Gorf the Ghost Saves Halloween (World) (GB Compatible) (Aftermarket)">
 		<category>Homebrew</category>
 		<description>Gorf the Ghost Saves Halloween (World) (GB Compatible) (Aftermarket)</description>
@@ -1311,6 +1320,15 @@
 		<hash>6e684f059d3228b0c99e59cb69c3ee10</hash>
 	</game>
 	
+	<game name="Vampire Night Shift (World) (Aftermarket) (Unl)">
+   		<category>Homebrew</category>
+		<description>Vampire Night Shift (World) (Aftermarket) (Unl)</description>
+   		<release name="Vampire Night Shift (World) (Aftermarket) (Unl)" region="World"/>
+   		<rom name="Vampire Night Shift (World) (Aftermarket) (Unl).gb" size="262144" crc="88acbc1a" md5="8f86db5ca5019627325f722761db3015" sha1="ef617803c2cdb14cfe3b3b2111aa239a3744e29e"/>
+   		<url>https://retroachievements.org/game/37082/hashes</url>
+		<hash>8f86db5ca5019627325f722761db3015</hash>
+	</game>
+	
 	<game name="Virtual BMO (World) (v3.1) (GB Studio) (Grumpy Function) (Aftermarket)">
    		<category>Homebrew</category>
 		<description>Virtual BMO (World) (v3.1) (GB Studio) (Grumpy Function) (Aftermarket)</description>
@@ -1535,14 +1553,7 @@
 		<url>https://retroachievements.org/game/682/hashes</url>
 		<hash>138c5fea51e0c9b3ab9075370582717c</hash>
 	</game>
-	<game name="Alleyway (World) (Alleyway DX) (MojoDodo) (v1.0)" cloneof="Alleyway (World)">
-		<category>Retail</category>
-		<description>Alleyway (World) (Alleyway DX) (MojoDodo) (v1.0)</description>
-		<release name="Alleyway (World) (Alleyway DX) (MojoDodo) (v1.0)" region="World"/>
-		<rom name="Alleyway (World) (Alleyway DX) (MojoDodo) (v1.0).gb" size="32768" crc="e2280a81" md5="72c44e5ac726ed8f23efbc6c30e60f1b" sha1="9e3718cc0f13b968e102b9316951213d5cc833ea"/>
-		<url>https://retroachievements.org/game/682/hashes</url>
-		<hash>72c44e5ac726ed8f23efbc6c30e60f1b</hash>
-	</game>
+	
 	<game name="Alleyway (World)">
 		<category>Retail</category>
 		<description>Alleyway (World)</description>

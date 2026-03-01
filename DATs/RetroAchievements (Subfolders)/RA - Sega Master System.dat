@@ -5,8 +5,8 @@
 		<name>RA - Sega Master System</name>
 		<description>Sega Master System</description>
 		<category>Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/11/games</url>
@@ -47,6 +47,14 @@
 		<rom name="Alex Kidd 3 - Curse in Miracle World (World) (Es) (v1.1) (Aftermarket).sms" size="524288" crc="97d77051" md5="7b8297ebee031bd6ec6bf245c6c33b1c" sha1="69bc807c329ee05ba5b095d79c2a8df7401448bb"/>
 		<url>https://retroachievements.org/game/18048/hashes</url>
 		<hash>7b8297ebee031bd6ec6bf245c6c33b1c</hash>
+	</game>
+
+	<game name="Hack/Sonic 2 - Frenzy (v1.1) (Yoshister) (Hack)">
+		<category></category>
+		<description>Sonic 2 - Frenzy (v1.1) (Yoshister) (Hack)</description>
+		<rom name="Sonic 2 - Frenzy (v1.1) (Yoshister) (Hack).sms" size="524288" crc="217f7102" md5="1a0d27b65bc0aaec8853db5c4ecdfa50" sha1="050f9fe9d75eaa63b876151aad02704a11d0ecea"/>
+		<url>https://retroachievements.org/game/37773/hashes</url>
+		<hash>1a0d27b65bc0aaec8853db5c4ecdfa50</hash>
 	</game>
 
 	<game name="Hack/Sonic 1 - Triple Trouble (GG Conversion) (v0.4) (Glitch) (Hack)">

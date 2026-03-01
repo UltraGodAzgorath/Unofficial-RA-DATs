@@ -5,8 +5,8 @@
 		<name>RA - Nintendo GameCube</name>
 		<description>Nintendo GameCube</description>
 		<category>No Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/16/games</url>
@@ -31,6 +31,15 @@
 		<rom name="Super Monkey Ball 2 - Dart Monkey (v1.5143) (SHK) (Hack).rvz" size="753696108" crc="a1b95eca" md5="f3410d26f7f9402aa4d805dbf48f69ef" sha1="a06befa370b80e2e1926fb8dc8c24b9081694172"/>
 		<url>https://retroachievements.org/game/31185/hashes</url>
 		<hash>0b4fb1873f47b173590d679796c9948c</hash>
+	</game>
+	
+	<game name="SpongeBob SquarePants - The Movie - Floating Block Forever (v2023-02-11) (Eyepie) (Hack)">
+		<category>Hack</category>
+		<description>SpongeBob SquarePants - The Movie - Floating Block Forever (v2023-02-11) (Eyepie) (Hack)</description>
+		<release name="SpongeBob SquarePants - The Movie - Floating Block Forever (v2023-02-11) (Eyepie) (Hack)" region="World"/>
+		<rom name="SpongeBob SquarePants - The Movie - Floating Block Forever (v2023-02-11) (Eyepie) (Hack).rvz" size="691632456" crc="1de80724" md5="6e6f37d27cfe376025d6a028506e6dbb" sha1="9d68bbef9af47effa0b29af7115c90f13e03fc43"/>
+		<url>https://retroachievements.org/game/32112/hashes</url>
+		<hash>f4af71930f129e21f04f496a99d859cc</hash>
 	</game>
 	
 	<game name="Friday Night Funkin - Friday Night Pikmin (Hack)">
@@ -1659,6 +1668,15 @@
 		<rom name="Sonic Heroes (USA) (En,Ja,Fr,De,Es,It).rvz" size="1002178444" crc="42bd7e21" md5="c28a2a0db576d3615bbb0bd97292d45b" sha1="d89ec545dc1f3227b886f99a6e56edb47f765090"/>
 		<url>https://retroachievements.org/game/6313/hashes</url>
 		<hash>0d6cf5995685f52d80d789216d86f0a8</hash>
+	</game>
+	
+	<game name="Sonic Riders (Europe) (En,Ja,Fr,De,Es,It)">
+		<category>Retail</category>
+		<description>Sonic Riders (Europe) (En,Ja,Fr,De,Es,It)</description>
+		<release name="Sonic Riders (Europe) (En,Ja,Fr,De,Es,It)" region="Europe"/>
+		<rom name="Sonic Riders (Europe) (En,Ja,Fr,De,Es,It).rvz" size="1241457572" crc="26c9945a" md5="02bc9ea10473c6b1ba7b520263f642ec" sha1="567210576d2904c8ba00e91f68e0762c0bdd554e"/>
+		<url>https://retroachievements.org/game/6314/hashes</url>
+		<hash>b3fe27d7d71a3b02395a9df93ef295c3</hash>
 	</game>
 	
 	<game name="Soulcalibur II (USA)">

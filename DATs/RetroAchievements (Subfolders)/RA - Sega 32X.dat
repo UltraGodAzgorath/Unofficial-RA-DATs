@@ -5,8 +5,8 @@
 		<name>RA - Sega 32X</name>
 		<description>Sega 32X</description>
 		<category>Subfolders</category>
-		<version>20250711</version>
-		<date>11 July 2025</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/10/games</url>
@@ -52,12 +52,12 @@
 		<hash>f891f45238cf4a8a0956196d665612b8</hash>
 	</game>
 	
-	<game name="Homebrew/Sonic Robo Blast 2 (USA) (v0.1a) (SSNTails, Saxman) (Demo) (Aftermarket)">
+	<game name="Homebrew/Sonic Robo Blast 2 (USA) (v0.2a) (Aftermarket) (SSNTails, Saxman)">
 		<category></category>
-		<description>Sonic Robo Blast 2 (USA) (v0.1a) (SSNTails, Saxman) (Demo) (Aftermarket)</description>
-		<rom name="Sonic Robo Blast 2 (USA) (v0.1a) (SSNTails, Saxman) (Demo) (Aftermarket).32x" size="4194304" crc="a96b2a85" md5="c9dd33ba3cbdd64941dd19facb515adb" sha1="7cf865ea070560eb4e63e4f314cd2522312f4992"/>
+		<description>Sonic Robo Blast 2 (USA) (v0.2a) (Aftermarket) (SSNTails, Saxman)</description>
+		<rom name="Sonic Robo Blast 2 (USA) (v0.2a) (Aftermarket) (SSNTails, Saxman).32x" size="4194304" crc="fd23368f" md5="16a811628cd9245f2101e218581cd594" sha1="688dab802b8d17e624d00f45832ea33060065b79"/>
 		<url>https://retroachievements.org/game/33276/hashes</url>
-		<hash>c9dd33ba3cbdd64941dd19facb515adb</hash>
+		<hash>16a811628cd9245f2101e218581cd594</hash>
 	</game>
 	
 	<game name="Homebrew/Double Symbol (World) (v1.35) (Timur Lyazgiev) (Aftermarket)">

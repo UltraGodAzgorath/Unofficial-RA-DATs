@@ -5,8 +5,8 @@
 		<name>RA - Nintendo Game Boy Advance</name>
 		<description>Nintendo Game Boy Advance</description>
 		<category>Subfolders</category>
-		<version>20260214</version>
-		<date>14 February 2026</date>
+		<version>20260227</version>
+		<date>27 February 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/5/games</url>
@@ -449,6 +449,14 @@
 		<hash>44b5e18bb226cc98c2fbb0ea5be32484</hash>
 	</game>
 	
+	<game name="Hack/Pokemon - Emerald/Pokemon - Emerald Imperium (v1.3.1) (iriv24) (Hack)">
+		<category></category>
+		<description>Pokemon - Emerald Imperium (v1.3.1) (iriv24) (Hack)</description>
+		<rom name="Pokemon - Emerald Imperium (v1.3.1) (iriv24) (Hack).gba" size="33554432" crc="9c31cc4b" md5="b1cf145a9c92303a7990e1904602c1e1" sha1="1d20091c4d936f5eb122db8780554dd0829ffb63"/>
+		<url>https://retroachievements.org/game/32839/hashes</url>
+		<hash>b1cf145a9c92303a7990e1904602c1e1</hash>
+	</game>
+	
 	<game name="Hack/Pokemon - Emerald/Pokemon - Emerald Kaizo (Hack)">
 		<category></category>
 		<description>Pokemon - Emerald Kaizo (Hack)</description>
@@ -644,6 +652,13 @@
 		<rom name="Pokemon - Recharged Yellow (v1.9.0) (Jaizu) (Hack).gba" size="16777216" crc="e79d5999" md5="3d26111c90fc3041abe5b1ac4c8257b3" sha1="ac30d1ed80e75104a3fb92f71e2b9a51c26e80c8"/>
 		<url>https://retroachievements.org/game/29758/hashes</url>
 		<hash>3d26111c90fc3041abe5b1ac4c8257b3</hash>
+	</game>
+	<game name="Hack/Pokemon - Emerald/Pokemon - Recharged Yellow (v1.9.4) (Jaizu) (Hack)">
+		<category></category>
+		<description>Pokemon - Recharged Yellow (v1.9.4) (Jaizu) (Hack)</description>
+		<rom name="Pokemon - Recharged Yellow (v1.9.4) (Jaizu) (Hack).gba" size="16777216" crc="1ce28628" md5="30e6c02acdf3308cfd60ba082f611052" sha1="7d9fae6cf31c07bc7fa5cf7afe137ad5385cefb1"/>
+		<url>https://retroachievements.org/game/29758/hashes</url>
+		<hash>30e6c02acdf3308cfd60ba082f611052</hash>
 	</game>
 	
 	<game name="Hack/Pokemon - Emerald/Pokemon - Scorched Silver (v1.3) (Sloo) (Hack)">
@@ -1120,6 +1135,14 @@
 		<rom name="Getting Around It with Pheasant Birdy (World) (Aftermarket).gba" size="4770080" crc="cd007dbd" md5="e391eed848ae680be93bba1d691bd55b" sha1="d1886668327f4f691fb7bc935d1b2b43adba61f6"/>
 		<url>https://retroachievements.org/game/33564/hashes</url>
 		<hash>e391eed848ae680be93bba1d691bd55b</hash>
+	</game>
+	
+	<game name="Homebrew/Gold Miner (World) (v20230410) (Aftermarket) (FlashPig)">
+		<category></category>
+		<description>Gold Miner (World) (v20230410) (Aftermarket) (FlashPig)</description>
+		<rom name="Gold Miner (World) (v20230410) (Aftermarket) (FlashPig).gba" size="342352" crc="b5aa1e95" md5="4d128d44cb93d1244f033edde3d8dd14" sha1="17bb4ab3041c369ec4820d1639f1de063d834310"/>
+		<url>https://retroachievements.org/game/38061/hashes</url>
+		<hash>4d128d44cb93d1244f033edde3d8dd14</hash>
 	</game>
 	
 	<game name="Homebrew/Goodboy Galaxy (World) (v1.2) (Aftermarket)">
@@ -5996,12 +6019,19 @@
 		<hash>e4d4a68c43e58e1b583f89a416e16f48</hash>
 	</game>
 	
-	<game name="Retail/Ninja Five-0 (USA)">
+	<game name="Retail/Ninja Five-O/Ninja Five-0 (USA)">
 		<category></category>
 		<description>Ninja Five-0 (USA)</description>
 		<rom name="Ninja Five-0 (USA).gba" size="4194304" crc="eb3954c6" md5="04244f72a9b8f17ee33e0b5bff2b8b1f" sha1="3bc5789035c7400283b121e9fb3801aafae55364"/>
 		<url>https://retroachievements.org/game/4740/hashes</url>
 		<hash>04244f72a9b8f17ee33e0b5bff2b8b1f</hash>
+	</game>
+	<game name="Retail/Ninja Five-O/Ninja Five-O (USA) (Limited Run Games)">
+		<category></category>
+		<description>Ninja Five-O (USA) (Limited Run Games)</description>
+		<rom name="Ninja Five-O (USA) (Limited Run Games).gba" size="4194304" crc="a0f5cde4" md5="18d2087395473d38c083f4c49ca7afad" sha1="a4509556f75c0fe922b5eee2a4c6ddd35b9ffe7a"/>
+		<url>https://retroachievements.org/game/4740/hashes</url>
+		<hash>18d2087395473d38c083f4c49ca7afad</hash>
 	</game>
 	
 	<game name="Retail/Oddworld - Munch's Oddysee (USA, Europe)">
@@ -6224,75 +6254,82 @@
 		<hash>31446456df04356cb9f2145bada42ed2</hash>
 	</game>
 	
-	<game name="Retail/Pokemon - Fire Red Version (USA) (Es) (Kaifi) (v0.93)">
+	<game name="Retail/Pokemon FireRed Version/Pokemon - Fire Red Version (USA) (Es) (Kaifi) (v0.93)">
 		<category></category>
 		<description>Pokemon - Fire Red Version (USA) (Es) (Kaifi) (v0.93)</description>
 		<rom name="Pokemon - Fire Red Version (USA) (Es) (Kaifi) (v0.93).gba" size="16777200" crc="f2ac0803" md5="21c75cf6ea782231121270606bdd2e76" sha1="a0dc5ff47b73ea778b515e0266e703bd6872da86"/>
 		<url>https://retroachievements.org/game/515/hashes</url>
 		<hash>21c75cf6ea782231121270606bdd2e76</hash>
 	</game>
-	<game name="Retail/Pokemon - Fire Red Version (USA) (Moemon-Revival Project) (Magikarp-tan) (v2.6.0)">
+	<game name="Retail/Pokemon FireRed Version/Pokemon - Fire Red Version (USA) (Moemon-Revival Project) (Magikarp-tan) (v2.6.0)">
 		<category></category>
 		<description>Pokemon - Fire Red Version (USA) (Moemon-Revival Project) (Magikarp-tan) (v2.6.0)</description>
 		<rom name="Pokemon - Fire Red Version (USA) (Moemon-Revival Project) (Magikarp-tan) (v2.6.0).gba" size="16777216" crc="8bdeb3aa" md5="3135915853aa557889dbb36afb7d08f3" sha1="7607fc0ba0ee90ec7efc9267912dd5aa44a6502f"/>
 		<url>https://retroachievements.org/game/515/hashes</url>
 		<hash>3135915853aa557889dbb36afb7d08f3</hash>
 	</game>
-	<game name="Retail/Pokemon - Fire Red Version (USA) (Vanilla Moemon) (Unknown)">
+	<game name="Retail/Pokemon FireRed Version/Pokemon - Fire Red Version (USA) (Vanilla Moemon) (Unknown)">
 		<category></category>
 		<description>Pokemon - Fire Red Version (USA) (Vanilla Moemon) (Unknown)</description>
 		<rom name="Pokemon - Fire Red Version (USA) (Vanilla Moemon) (Unknown).gba" size="16777216" crc="16a5e325" md5="4fcc165aab4b781c75afb68d4290aa8c" sha1="e5dc486094453c214d379b2d23c22a762baf01fd"/>
 		<url>https://retroachievements.org/game/515/hashes</url>
 		<hash>4fcc165aab4b781c75afb68d4290aa8c</hash>
 	</game>
-	<game name="Retail/Pokemon - Fire Red Version (USA) (Moemon Gen 3) (v2.0)">
+	<game name="Retail/Pokemon FireRed Version/Pokemon - Fire Red Version (USA) (Moemon Gen 3) (v2.0)">
 		<category></category>
 		<description>Pokemon - Fire Red Version (USA) (Moemon Gen 3) (v2.0)</description>
 		<rom name="Pokemon - Fire Red Version (USA) (Moemon Gen 3) (v2.0).gba" size="16777216" crc="ce1a258b" md5="5c5c04fcc3640ef7f8e545d9bdcd2404" sha1="25d1a25b05b410da5ea6b0fe5476ad8077d49e7a"/>
 		<url>https://retroachievements.org/game/515/hashes</url>
 		<hash>5c5c04fcc3640ef7f8e545d9bdcd2404</hash>
 	</game>
-	<game name="Retail/Pokemon - Fire Red Version (USA) (Moemon-Revival Project)">
+	<game name="Retail/Pokemon FireRed Version/Pokemon - Fire Red Version (USA) (Moemon-Revival Project)">
 		<category></category>
 		<description>Pokemon - Fire Red Version (USA) (Moemon-Revival Project)</description>
 		<rom name="Pokemon - Fire Red Version (USA) (Moemon-Revival Project).gba" size="16777216" crc="d3ed1c2e" md5="69ea9b894e5fae7684129f59c01b94ab" sha1="2aa2d8514d757ab8907222604996400240de1f70"/>
 		<url>https://retroachievements.org/game/515/hashes</url>
 		<hash>69ea9b894e5fae7684129f59c01b94ab</hash>
 	</game>
-	<game name="Retail/Pokemon - Fire Red Version (USA) (Moemon-Revival Project) (v2.6.2)">
+	<game name="Retail/Pokemon FireRed Version/Pokemon - Fire Red Version (USA) (Moemon-Revival Project) (v2.6.2)">
 		<category></category>
 		<description>Pokemon - Fire Red Version (USA) (Moemon-Revival Project) (v2.6.2)</description>
 		<rom name="Pokemon - Fire Red Version (USA) (Moemon-Revival Project) (v2.6.2).gba" size="16777216" crc="85d180d2" md5="8cd2a5aaee48b501748de1c8f7b420ed" sha1="11d7dc99081c684fc28d71c8ccc5cbc99b989d52"/>
 		<url>https://retroachievements.org/game/515/hashes</url>
 		<hash>8cd2a5aaee48b501748de1c8f7b420ed</hash>
 	</game>
-	<game name="Retail/Pokemon - Fire Red Version (USA) (Cosmetic) (Magikarp-tan)">
+	<game name="Retail/Pokemon FireRed Version/Pokemon - Fire Red Version (USA) (Cosmetic) (Magikarp-tan)">
 		<category></category>
 		<description>Pokemon - Fire Red Version (USA) (Cosmetic) (Magikarp-tan)</description>
 		<rom name="Pokemon - Fire Red Version (USA) (Cosmetic) (Magikarp-tan).gba" size="16777216" crc="f72e578a" md5="9ed8f007c7548716f81ddd0700a6bce7" sha1="2c49ddc1e3e4ada70a88ec2dc4fe1babf4c62db2"/>
 		<url>https://retroachievements.org/game/515/hashes</url>
 		<hash>9ed8f007c7548716f81ddd0700a6bce7</hash>
 	</game>
-	<game name="Retail/Pokemon - Fire Red Version (USA) (Moemon-Revival Project) (v2.6.0)">
+	<game name="Retail/Pokemon FireRed Version/Pokemon - Fire Red Version (USA) (Moemon-Revival Project) (v2.6.0)">
 		<category></category>
 		<description>Pokemon - Fire Red Version (USA) (Moemon-Revival Project) (v2.6.0)</description>
 		<rom name="Pokemon - Fire Red Version (USA) (Moemon-Revival Project) (v2.6.0).gba" size="16777216" crc="a178923c" md5="cfbecda514aee8b964e5e5603e60b925" sha1="8652c4021e405c3290f85adbfa13424f1d33365f"/>
 		<url>https://retroachievements.org/game/515/hashes</url>
 		<hash>cfbecda514aee8b964e5e5603e60b925</hash>
 	</game>
-	<game name="Retail/Pokemon - FireRed Version (USA, Europe)">
+	<game name="Retail/Pokemon FireRed Version/Pokemon - FireRed Version (USA, Europe)">
 		<category></category>
 		<description>Pokemon - FireRed Version (USA, Europe)</description>
 		<rom name="Pokemon - FireRed Version (USA, Europe).gba" size="16777216" crc="dd88761c" md5="e26ee0d44e809351c8ce2d73c7400cdd" sha1="41cb23d8dccc8ebd7c649cd8fbb58eeace6e2fdc"/>
 		<url>https://retroachievements.org/game/515/hashes</url>
 		<hash>e26ee0d44e809351c8ce2d73c7400cdd</hash>
 	</game>
-	<game name="Retail/Pokemon - Fire Red Version (USA) (QoL Enhancement)">
+	<game name="Retail/Pokemon FireRed Version/Pokemon - FireRed Version (USA) (QoL Enhancement)">
 		<category></category>
-		<description>Pokemon - Fire Red Version (USA) (QoL Enhancement)</description>
-		<rom name="Pokemon - Fire Red Version (USA) (QoL Enhancement).gba" size="16777216" crc="c2a8a1f5" md5="e7e95ab0d167ea062a74c2accb299002" sha1="d891e91dc239086d709b988d1fcd6fa562be60a9"/>
+		<description>Pokemon - FireRed Version (USA) (QoL Enhancement)</description>
+		<rom name="Pokemon - FireRed Version (USA) (QoL Enhancement).gba" size="16777216" crc="c2a8a1f5" md5="e7e95ab0d167ea062a74c2accb299002" sha1="d891e91dc239086d709b988d1fcd6fa562be60a9"/>
 		<url>https://retroachievements.org/game/515/hashes</url>
 		<hash>e7e95ab0d167ea062a74c2accb299002</hash>
+	</game>
+	<game name="Retail/Pokemon FireRed Version/Pokemon - FireRed Version (USA, Europe) (Rev 1)">
+		<category></category>
+		<description>Pokemon - FireRed Version (USA, Europe) (Rev 1)</description>
+		<rom name="Pokemon - FireRed Version (USA, Europe) (Rev 1).gba" size="16777216" crc="84ee4776" md5="51901a6e40661b3914aa333c802e24e8" sha1="dd5945db9b930750cb39d00c84da8571feebf417"/>
+		<url>https://retroachievements.org/game/515/hashes</url>
+		<hash>51901a6e40661b3914aa333c802e24e8</hash>
 	</game>
 	
 	<game name="Subset/Pokemon - FireRed Version (Specialty Subset - Professor Oak Challenge)">
@@ -7106,6 +7143,14 @@
 		<rom name="Shining Soul II (Europe) (En,Fr,De,Es,It).gba" size="16777216" crc="55e503c1" md5="49aa688745111aaa51076a345f8f18c3" sha1="aa1288be9257337abdfe3034898cf6c7aa778fbc"/>
 		<url>https://retroachievements.org/game/7095/hashes</url>
 		<hash>49aa688745111aaa51076a345f8f18c3</hash>
+	</game>
+	
+	<game name="Retail/Shrek 2 (USA, Europe)">
+		<category></category>
+		<description>Shrek 2 (USA, Europe)</description>
+		<rom name="Shrek 2 (USA, Europe).gba" size="8388608" crc="52ff42d4" md5="9ef8e30824db751f3d42e048514a3624" sha1="d3c3201f4a401b337009e667f5b001d5e12ece83"/>
+		<url>https://retroachievements.org/game/6227/hashes</url>
+		<hash>9ef8e30824db751f3d42e048514a3624</hash>
 	</game>
 	
 	<game name="Retail/Shrek - Hassle at the Castle (Europe) (En,Fr,De,Es,It,Nl)">
