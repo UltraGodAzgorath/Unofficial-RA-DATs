@@ -525,42 +525,42 @@
 		<rom name="4rd-simm1.1" size="2097152" crc="5bc7faa6"/>
 		<rom name="4rd-simm1.2" size="2097152" crc="ec2eaa29"/>
 		<rom name="4rd-simm1.3" size="2097152" crc="41c4ce7c"/>
-		<rom name="sfiii3-simm2.0" merge="sfiii3-simm2.0" size="2097152" crc="06eb969e"/>
-		<rom name="sfiii3-simm2.1" merge="sfiii3-simm2.1" size="2097152" crc="e7039f82"/>
-		<rom name="sfiii3-simm2.2" merge="sfiii3-simm2.2" size="2097152" crc="645c96f7"/>
-		<rom name="sfiii3-simm2.3" merge="sfiii3-simm2.3" size="2097152" crc="610efab1"/>
-		<rom name="sfiii3-simm3.0" merge="sfiii3-simm3.0" size="2097152" crc="7baa1f79"/>
-		<rom name="sfiii3-simm3.1" merge="sfiii3-simm3.1" size="2097152" crc="234bf8fe"/>
-		<rom name="sfiii3-simm3.2" merge="sfiii3-simm3.2" size="2097152" crc="d9ebc308"/>
-		<rom name="sfiii3-simm3.3" merge="sfiii3-simm3.3" size="2097152" crc="293cba77"/>
-		<rom name="sfiii3-simm3.4" merge="sfiii3-simm3.4" size="2097152" crc="6055e747"/>
-		<rom name="sfiii3-simm3.5" merge="sfiii3-simm3.5" size="2097152" crc="499aa6fc"/>
-		<rom name="sfiii3-simm3.6" merge="sfiii3-simm3.6" size="2097152" crc="6c13879e"/>
-		<rom name="sfiii3-simm3.7" merge="sfiii3-simm3.7" size="2097152" crc="cf4f8ede"/>
-		<rom name="sfiii3-simm4.0" merge="sfiii3-simm4.0" size="2097152" crc="091fd5ba"/>
-		<rom name="sfiii3-simm4.1" merge="sfiii3-simm4.1" size="2097152" crc="0bca8917"/>
-		<rom name="sfiii3-simm4.2" merge="sfiii3-simm4.2" size="2097152" crc="a0fd578b"/>
-		<rom name="sfiii3-simm4.3" merge="sfiii3-simm4.3" size="2097152" crc="4bf8c699"/>
-		<rom name="sfiii3-simm4.4" merge="sfiii3-simm4.4" size="2097152" crc="137b8785"/>
-		<rom name="sfiii3-simm4.5" merge="sfiii3-simm4.5" size="2097152" crc="4fb70671"/>
-		<rom name="sfiii3-simm4.6" merge="sfiii3-simm4.6" size="2097152" crc="832374a4"/>
-		<rom name="sfiii3-simm4.7" merge="sfiii3-simm4.7" size="2097152" crc="1c88576d"/>
-		<rom name="sfiii3-simm5.0" merge="sfiii3-simm5.0" size="2097152" crc="c67d9190"/>
-		<rom name="sfiii3-simm5.1" merge="sfiii3-simm5.1" size="2097152" crc="6cb79868"/>
-		<rom name="sfiii3-simm5.2" merge="sfiii3-simm5.2" size="2097152" crc="df69930e"/>
-		<rom name="sfiii3-simm5.3" merge="sfiii3-simm5.3" size="2097152" crc="333754e0"/>
-		<rom name="sfiii3-simm5.4" merge="sfiii3-simm5.4" size="2097152" crc="78f6d417"/>
-		<rom name="sfiii3-simm5.5" merge="sfiii3-simm5.5" size="2097152" crc="8ccad9b1"/>
+		<rom name="sfiii3-simm2.0" size="2097152" crc="06eb969e"/>
+		<rom name="sfiii3-simm2.1" size="2097152" crc="e7039f82"/>
+		<rom name="sfiii3-simm2.2" size="2097152" crc="645c96f7"/>
+		<rom name="sfiii3-simm2.3" size="2097152" crc="610efab1"/>
+		<rom name="sfiii3-simm3.0" size="2097152" crc="7baa1f79"/>
+		<rom name="sfiii3-simm3.1" size="2097152" crc="234bf8fe"/>
+		<rom name="sfiii3-simm3.2" size="2097152" crc="d9ebc308"/>
+		<rom name="sfiii3-simm3.3" size="2097152" crc="293cba77"/>
+		<rom name="sfiii3-simm3.4" size="2097152" crc="6055e747"/>
+		<rom name="sfiii3-simm3.5" size="2097152" crc="499aa6fc"/>
+		<rom name="sfiii3-simm3.6" size="2097152" crc="6c13879e"/>
+		<rom name="sfiii3-simm3.7" size="2097152" crc="cf4f8ede"/>
+		<rom name="sfiii3-simm4.0" size="2097152" crc="091fd5ba"/>
+		<rom name="sfiii3-simm4.1" size="2097152" crc="0bca8917"/>
+		<rom name="sfiii3-simm4.2" size="2097152" crc="a0fd578b"/>
+		<rom name="sfiii3-simm4.3" size="2097152" crc="4bf8c699"/>
+		<rom name="sfiii3-simm4.4" size="2097152" crc="137b8785"/>
+		<rom name="sfiii3-simm4.5" size="2097152" crc="4fb70671"/>
+		<rom name="sfiii3-simm4.6" size="2097152" crc="832374a4"/>
+		<rom name="sfiii3-simm4.7" size="2097152" crc="1c88576d"/>
+		<rom name="sfiii3-simm5.0" size="2097152" crc="c67d9190"/>
+		<rom name="sfiii3-simm5.1" size="2097152" crc="6cb79868"/>
+		<rom name="sfiii3-simm5.2" size="2097152" crc="df69930e"/>
+		<rom name="sfiii3-simm5.3" size="2097152" crc="333754e0"/>
+		<rom name="sfiii3-simm5.4" size="2097152" crc="78f6d417"/>
+		<rom name="sfiii3-simm5.5" size="2097152" crc="8ccad9b1"/>
 		<rom name="4rd-simm5.6" size="2097152" crc="e9b61a56"/>
 		<rom name="4rd-simm5.7" size="2097152" crc="8db3a249"/>
-		<rom name="sfiii3-simm6.0" merge="sfiii3-simm6.0" size="2097152" crc="8da69042"/>
-		<rom name="sfiii3-simm6.1" merge="sfiii3-simm6.1" size="2097152" crc="1c8c7ac4"/>
-		<rom name="sfiii3-simm6.2" merge="sfiii3-simm6.2" size="2097152" crc="a671341d"/>
-		<rom name="sfiii3-simm6.3" merge="sfiii3-simm6.3" size="2097152" crc="1a990249"/>
-		<rom name="sfiii3-simm6.4" merge="sfiii3-simm6.4" size="2097152" crc="20cb39ac"/>
-		<rom name="sfiii3-simm6.5" merge="sfiii3-simm6.5" size="2097152" crc="5f844b2f"/>
-		<rom name="sfiii3-simm6.6" merge="sfiii3-simm6.6" size="2097152" crc="450e8d28"/>
-		<rom name="sfiii3-simm6.7" merge="sfiii3-simm6.7" size="2097152" crc="cc5f4187"/>
+		<rom name="sfiii3-simm6.0" size="2097152" crc="8da69042"/>
+		<rom name="sfiii3-simm6.1" size="2097152" crc="1c8c7ac4"/>
+		<rom name="sfiii3-simm6.2" size="2097152" crc="a671341d"/>
+		<rom name="sfiii3-simm6.3" size="2097152" crc="1a990249"/>
+		<rom name="sfiii3-simm6.4" size="2097152" crc="20cb39ac"/>
+		<rom name="sfiii3-simm6.5" size="2097152" crc="5f844b2f"/>
+		<rom name="sfiii3-simm6.6" size="2097152" crc="450e8d28"/>
+		<rom name="sfiii3-simm6.7" size="2097152" crc="cc5f4187"/>
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/31873/hashes</url>
@@ -3068,22 +3068,22 @@
 		<biosset name="bios12" description="epr-23610b (Australia)"/>
 		<biosset name="bios13" description="epr-23605c (multi-region hack)"/>
 		<rom name="317-0317-com.pic" size="16384" crc="ef65fe73" sha1="2c02d1570c1fdad56bc684c60bb17255c73c6d45"/>
-		<rom name="epr-23605.ic27" merge="epr-23605.ic27" size="2097152" crc="5731e446" sha1="787b0844fc408cf124c12405c095c59948709ea6"/>
-		<rom name="epr-23605a.ic27" merge="epr-23605a.ic27" size="2097152" crc="7bc3fc2d" sha1="a4a9531a7c66ff30046908cf71f6c7b6fb59c392"/>
-		<rom name="epr-23605b.ic27" merge="epr-23605b.ic27" size="2097152" crc="3a3242d4" sha1="aaca4df51ef91d926f8191d372f3dfe1d20d9484"/>
-		<rom name="epr-23605c.ic27" merge="epr-23605c.ic27" size="2097152" crc="297ea6ed" sha1="cfbfe57c80e6ee86a101fa83aec0a01e00c0f42a"/>
-		<rom name="epr-23605c_multi.ic27" merge="epr-23605c_multi.ic27" size="2097152" crc="353fdbcd" sha1="a8b7dce572b74e02e65cb949b2c366c87625157f"/>
-		<rom name="epr-23607.ic27" merge="epr-23607.ic27" size="2097152" crc="2b55add2" sha1="547de5f97d3183c8cd069c4fa3c09f13d8b637d9"/>
-		<rom name="epr-23607b.ic27" merge="epr-23607b.ic27" size="2097152" crc="f308c5e9" sha1="5470ab1cee6afecbd8ca8cf40f8fbe4ec2cb1471"/>
-		<rom name="epr-23607c.ic27" merge="epr-23607c.ic27" size="2097152" crc="750e254b" sha1="81d0b1a076c274c6bd7c53b65e7b80e14fe039e1"/>
-		<rom name="epr-23608.ic27" merge="epr-23608.ic27" size="2097152" crc="929cc3a6" sha1="47d00c818de23f733a4a33b1bbc72eb8aa729246"/>
-		<rom name="epr-23608a.ic27" merge="epr-23608a.ic27" size="2097152" crc="e8f884d1" sha1="28f4de747bb3cf860b9ebf897322fbc5d7c1e156"/>
-		<rom name="epr-23608b.ic27" merge="epr-23608b.ic27" size="2097152" crc="a554b1e3" sha1="343b727a3619d1c75a9b6d4cc156a9050447f155"/>
-		<rom name="epr-23608c.ic27" merge="epr-23608c.ic27" size="2097152" crc="6ef1dd8e" sha1="25ef957ec1c58fdaff5e89102002bca6c38832c5"/>
-		<rom name="epr-23609b.ic27" merge="epr-23609b.ic27" size="2097152" crc="99e3751f" sha1="8a244f75595c49d2a37a42ab96b6bab35163ca0e"/>
-		<rom name="epr-23610b.ic27" merge="epr-23610b.ic27" size="2097152" crc="de8e1267" sha1="0b3a36446c308fcbfe3647df45c848091e8797f1"/>
-		<rom name="main_eeprom.bin" merge="main_eeprom.bin" size="128" crc="fea29cbb" sha1="4099f1747aafa07db34f6e072cd9bfaa83bae10e"/>
-		<rom name="x76f100_eeprom.bin" merge="x76f100_eeprom.bin" size="132" crc="3ea24b6a" sha1="3a730ebcf56e0060fef6b1b02eb2eb7cfb7e61dc"/>
+		<rom name="epr-23605.ic27" size="2097152" crc="5731e446" sha1="787b0844fc408cf124c12405c095c59948709ea6"/>
+		<rom name="epr-23605a.ic27" size="2097152" crc="7bc3fc2d" sha1="a4a9531a7c66ff30046908cf71f6c7b6fb59c392"/>
+		<rom name="epr-23605b.ic27" size="2097152" crc="3a3242d4" sha1="aaca4df51ef91d926f8191d372f3dfe1d20d9484"/>
+		<rom name="epr-23605c.ic27" size="2097152" crc="297ea6ed" sha1="cfbfe57c80e6ee86a101fa83aec0a01e00c0f42a"/>
+		<rom name="epr-23605c_multi.ic27" size="2097152" crc="353fdbcd" sha1="a8b7dce572b74e02e65cb949b2c366c87625157f"/>
+		<rom name="epr-23607.ic27" size="2097152" crc="2b55add2" sha1="547de5f97d3183c8cd069c4fa3c09f13d8b637d9"/>
+		<rom name="epr-23607b.ic27" size="2097152" crc="f308c5e9" sha1="5470ab1cee6afecbd8ca8cf40f8fbe4ec2cb1471"/>
+		<rom name="epr-23607c.ic27" size="2097152" crc="750e254b" sha1="81d0b1a076c274c6bd7c53b65e7b80e14fe039e1"/>
+		<rom name="epr-23608.ic27" size="2097152" crc="929cc3a6" sha1="47d00c818de23f733a4a33b1bbc72eb8aa729246"/>
+		<rom name="epr-23608a.ic27" size="2097152" crc="e8f884d1" sha1="28f4de747bb3cf860b9ebf897322fbc5d7c1e156"/>
+		<rom name="epr-23608b.ic27" size="2097152" crc="a554b1e3" sha1="343b727a3619d1c75a9b6d4cc156a9050447f155"/>
+		<rom name="epr-23608c.ic27" size="2097152" crc="6ef1dd8e" sha1="25ef957ec1c58fdaff5e89102002bca6c38832c5"/>
+		<rom name="epr-23609b.ic27" size="2097152" crc="99e3751f" sha1="8a244f75595c49d2a37a42ab96b6bab35163ca0e"/>
+		<rom name="epr-23610b.ic27" size="2097152" crc="de8e1267" sha1="0b3a36446c308fcbfe3647df45c848091e8797f1"/>
+		<rom name="main_eeprom.bin" size="128" crc="fea29cbb" sha1="4099f1747aafa07db34f6e072cd9bfaa83bae10e"/>
+		<rom name="x76f100_eeprom.bin" size="132" crc="3ea24b6a" sha1="3a730ebcf56e0060fef6b1b02eb2eb7cfb7e61dc"/>
 		<disk name="gds-0014" sha1="2d784ed2f5c00189af8480c9ab5ae9d8b7a152d2" region="gdrom"/>
 		<device_ref name="sh7091"/>
 		<device_ref name="timer"/>
@@ -5445,11 +5445,11 @@
 		<category>FBNeo</category>
 		<rom name="cv01-u34.bin" size="524288" crc="be87f19d"/>
 		<rom name="cv01-u33.bin" size="524288" crc="e53a7db3"/>
-		<rom name="cv01-u25.bin" merge="cv01-u25.bin" size="4194304" crc="a6f6a95d"/>
-		<rom name="cv01-u26.bin" merge="cv01-u26.bin" size="4194304" crc="32edb62a"/>
-		<rom name="cv01-u50.bin" merge="cv01-u50.bin" size="2097152" crc="7a344417"/>
-		<rom name="cv01-u49.bin" merge="cv01-u49.bin" size="2097152" crc="d21cdda7"/>
-		<rom name="cv01-u19.bin" merge="cv01-u19.bin" size="4194304" crc="5f5514da"/>
+		<rom name="cv01-u25.bin" size="4194304" crc="a6f6a95d"/>
+		<rom name="cv01-u26.bin" size="4194304" crc="32edb62a"/>
+		<rom name="cv01-u50.bin" size="2097152" crc="7a344417"/>
+		<rom name="cv01-u49.bin" size="2097152" crc="d21cdda7"/>
+		<rom name="cv01-u19.bin" size="4194304" crc="5f5514da"/>
 		<rom name="eeprom-dfeveron.bin" size="128" crc="c3174959"/>
 		<video type="raster" orientation="vertical" width="240" height="320" aspectx="3" aspecty="4"/>
 		<driver status="good"/>
@@ -13112,18 +13112,18 @@
 		<rom name="vphj.08b" size="524288" crc="5a5c2bf5"/>
 		<rom name="vphj.09b" size="524288" crc="823d6d99"/>
 		<rom name="vphj.10b" size="524288" crc="32c7d8f0"/>
-		<rom name="vph.13m" merge="vph.13m" size="4194304" crc="c51baf99"/>
-		<rom name="vph.15m" merge="vph.15m" size="4194304" crc="3ce83c77"/>
-		<rom name="vph.17m" merge="vph.17m" size="4194304" crc="4f2408e0"/>
-		<rom name="vph.19m" merge="vph.19m" size="4194304" crc="9ff60250"/>
-		<rom name="vph.14m" merge="vph.14m" size="4194304" crc="7a0e1add"/>
-		<rom name="vph.16m" merge="vph.16m" size="4194304" crc="2f41ca75"/>
-		<rom name="vph.18m" merge="vph.18m" size="4194304" crc="64498eed"/>
-		<rom name="vph.20m" merge="vph.20m" size="4194304" crc="17f2433f"/>
-		<rom name="vph.01" merge="vph.01" size="131072" crc="5045dcac"/>
-		<rom name="vph.02" merge="vph.02" size="131072" crc="86b60e59"/>
-		<rom name="vph.11m" merge="vph.11m" size="2097152" crc="e1837d33"/>
-		<rom name="vph.12m" merge="vph.12m" size="2097152" crc="fbd3cd90"/>
+		<rom name="vph.13m" size="4194304" crc="c51baf99"/>
+		<rom name="vph.15m" size="4194304" crc="3ce83c77"/>
+		<rom name="vph.17m" size="4194304" crc="4f2408e0"/>
+		<rom name="vph.19m" size="4194304" crc="9ff60250"/>
+		<rom name="vph.14m" size="4194304" crc="7a0e1add"/>
+		<rom name="vph.16m" size="4194304" crc="2f41ca75"/>
+		<rom name="vph.18m" size="4194304" crc="64498eed"/>
+		<rom name="vph.20m" size="4194304" crc="17f2433f"/>
+		<rom name="vph.01" size="131072" crc="5045dcac"/>
+		<rom name="vph.02" size="131072" crc="86b60e59"/>
+		<rom name="vph.11m" size="2097152" crc="e1837d33"/>
+		<rom name="vph.12m" size="2097152" crc="fbd3cd90"/>
 		<rom name="vhuntj.key" size="20" crc="72854f68"/>
 		<video type="raster" orientation="horizontal" width="384" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
@@ -15470,44 +15470,44 @@
 		<rom name="264-m1.m1" size="131072" crc="4dbd7b43"/>
 		<rom name="264-v1.v1" size="8388608" crc="fa005812"/>
 		<rom name="264-v2.v2" size="8388608" crc="c3dc8bf0"/>
-		<rom name="sp-s3.sp1" merge="sp-s3.sp1" size="131072" crc="91b64be3"/>
-		<rom name="sp-s2.sp1" merge="sp-s2.sp1" size="131072" crc="9036d879"/>
-		<rom name="sp-s.sp1" merge="sp-s.sp1" size="131072" crc="c7f2fa45"/>
-		<rom name="sp-u2.sp1" merge="sp-u2.sp1" size="131072" crc="e72943de"/>
-		<rom name="sp1-u2" merge="sp1-u2" size="131072" crc="62f021f4"/>
-		<rom name="sp-e.sp1" merge="sp-e.sp1" size="131072" crc="2723a5b5"/>
-		<rom name="sp1-u4.bin" merge="sp1-u4.bin" size="131072" crc="1179a30f"/>
-		<rom name="sp1-u3.bin" merge="sp1-u3.bin" size="131072" crc="2025b7a2"/>
-		<rom name="vs-bios.rom" merge="vs-bios.rom" size="131072" crc="f0e8f27d"/>
-		<rom name="sp-j2.sp1" merge="sp-j2.sp1" size="131072" crc="acede59c"/>
-		<rom name="sp1.jipan.1024" merge="sp1.jipan.1024" size="131072" crc="9fb0abe4"/>
-		<rom name="sp-45.sp1" merge="sp-45.sp1" size="524288" crc="03cc9f6a"/>
-		<rom name="sp-j3.sp1" merge="sp-j3.sp1" size="524288" crc="486cb450"/>
-		<rom name="japan-j3.bin" merge="japan-j3.bin" size="131072" crc="dff6d41f"/>
-		<rom name="sp1-j3.bin" merge="sp1-j3.bin" size="131072" crc="fbc6d469"/>
-		<rom name="neo-po.bin" merge="neo-po.bin" size="131072" crc="16d0c132"/>
-		<rom name="neo-epo.bin" merge="neo-epo.bin" size="131072" crc="d27a71f1"/>
-		<rom name="neodebug.bin" merge="neodebug.bin" size="131072" crc="698ebb7d"/>
-		<rom name="sp-1v1_3db8c.bin" merge="sp-1v1_3db8c.bin" size="131072" crc="162f0ebe"/>
-		<rom name="uni-bios_4_0.rom" merge="uni-bios_4_0.rom" size="131072" crc="a7aab458"/>
-		<rom name="uni-bios_3_3.rom" merge="uni-bios_3_3.rom" size="131072" crc="24858466"/>
-		<rom name="uni-bios_3_2.rom" merge="uni-bios_3_2.rom" size="131072" crc="a4e8b9b3"/>
-		<rom name="uni-bios_3_1.rom" merge="uni-bios_3_1.rom" size="131072" crc="0c58093f"/>
-		<rom name="uni-bios_3_0.rom" merge="uni-bios_3_0.rom" size="131072" crc="a97c89a9"/>
-		<rom name="uni-bios_2_3.rom" merge="uni-bios_2_3.rom" size="131072" crc="27664eb5"/>
-		<rom name="uni-bios_2_3o.rom" merge="uni-bios_2_3o.rom" size="131072" crc="601720ae"/>
-		<rom name="uni-bios_2_2.rom" merge="uni-bios_2_2.rom" size="131072" crc="2d50996a"/>
-		<rom name="uni-bios_2_1.rom" merge="uni-bios_2_1.rom" size="131072" crc="8dabf76b"/>
-		<rom name="uni-bios_2_0.rom" merge="uni-bios_2_0.rom" size="131072" crc="0c12c2ad"/>
-		<rom name="uni-bios_1_3.rom" merge="uni-bios_1_3.rom" size="131072" crc="b24b44a0"/>
-		<rom name="uni-bios_1_2.rom" merge="uni-bios_1_2.rom" size="131072" crc="4fa698e9"/>
-		<rom name="uni-bios_1_2o.rom" merge="uni-bios_1_2o.rom" size="131072" crc="e19d3ce9"/>
-		<rom name="uni-bios_1_1.rom" merge="uni-bios_1_1.rom" size="131072" crc="5dda0d84"/>
-		<rom name="uni-bios_1_0.rom" merge="uni-bios_1_0.rom" size="131072" crc="0ce453a0"/>
-		<rom name="neopen.sp1" merge="neopen.sp1" size="131072" crc="cb915e76"/>
-		<rom name="sm1.sm1" merge="sm1.sm1" size="131072" crc="94416d67"/>
-		<rom name="sfix.sfix" merge="sfix.sfix" size="131072" crc="c2ea0cfd"/>
-		<rom name="000-lo.lo" merge="000-lo.lo" size="131072" crc="5a86cff2"/>
+		<rom name="sp-s3.sp1" size="131072" crc="91b64be3"/>
+		<rom name="sp-s2.sp1" size="131072" crc="9036d879"/>
+		<rom name="sp-s.sp1" size="131072" crc="c7f2fa45"/>
+		<rom name="sp-u2.sp1" size="131072" crc="e72943de"/>
+		<rom name="sp1-u2" size="131072" crc="62f021f4"/>
+		<rom name="sp-e.sp1" size="131072" crc="2723a5b5"/>
+		<rom name="sp1-u4.bin" size="131072" crc="1179a30f"/>
+		<rom name="sp1-u3.bin" size="131072" crc="2025b7a2"/>
+		<rom name="vs-bios.rom" size="131072" crc="f0e8f27d"/>
+		<rom name="sp-j2.sp1" size="131072" crc="acede59c"/>
+		<rom name="sp1.jipan.1024" size="131072" crc="9fb0abe4"/>
+		<rom name="sp-45.sp1" size="524288" crc="03cc9f6a"/>
+		<rom name="sp-j3.sp1" size="524288" crc="486cb450"/>
+		<rom name="japan-j3.bin" size="131072" crc="dff6d41f"/>
+		<rom name="sp1-j3.bin" size="131072" crc="fbc6d469"/>
+		<rom name="neo-po.bin" size="131072" crc="16d0c132"/>
+		<rom name="neo-epo.bin" size="131072" crc="d27a71f1"/>
+		<rom name="neodebug.bin" size="131072" crc="698ebb7d"/>
+		<rom name="sp-1v1_3db8c.bin" size="131072" crc="162f0ebe"/>
+		<rom name="uni-bios_4_0.rom" size="131072" crc="a7aab458"/>
+		<rom name="uni-bios_3_3.rom" size="131072" crc="24858466"/>
+		<rom name="uni-bios_3_2.rom" size="131072" crc="a4e8b9b3"/>
+		<rom name="uni-bios_3_1.rom" size="131072" crc="0c58093f"/>
+		<rom name="uni-bios_3_0.rom" size="131072" crc="a97c89a9"/>
+		<rom name="uni-bios_2_3.rom" size="131072" crc="27664eb5"/>
+		<rom name="uni-bios_2_3o.rom" size="131072" crc="601720ae"/>
+		<rom name="uni-bios_2_2.rom" size="131072" crc="2d50996a"/>
+		<rom name="uni-bios_2_1.rom" size="131072" crc="8dabf76b"/>
+		<rom name="uni-bios_2_0.rom" size="131072" crc="0c12c2ad"/>
+		<rom name="uni-bios_1_3.rom" size="131072" crc="b24b44a0"/>
+		<rom name="uni-bios_1_2.rom" size="131072" crc="4fa698e9"/>
+		<rom name="uni-bios_1_2o.rom" size="131072" crc="e19d3ce9"/>
+		<rom name="uni-bios_1_1.rom" size="131072" crc="5dda0d84"/>
+		<rom name="uni-bios_1_0.rom" size="131072" crc="0ce453a0"/>
+		<rom name="neopen.sp1" size="131072" crc="cb915e76"/>
+		<rom name="sm1.sm1" size="131072" crc="94416d67"/>
+		<rom name="sfix.sfix" size="131072" crc="c2ea0cfd"/>
+		<rom name="000-lo.lo" size="131072" crc="5a86cff2"/>
 		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/12228/hashes</url>
@@ -15529,44 +15529,44 @@
 		<rom name="264-m1d.m1" size="131072" crc="c5d36af9"/>
 		<rom name="264-v1d.v1" size="8388608" crc="2c49f3fa"/>
 		<rom name="264-v2d.v2" size="8388608" crc="967279da"/>
-		<rom name="sp-s3.sp1" merge="sp-s3.sp1" size="131072" crc="91b64be3"/>
-		<rom name="sp-s2.sp1" merge="sp-s2.sp1" size="131072" crc="9036d879"/>
-		<rom name="sp-s.sp1" merge="sp-s.sp1" size="131072" crc="c7f2fa45"/>
-		<rom name="sp-u2.sp1" merge="sp-u2.sp1" size="131072" crc="e72943de"/>
-		<rom name="sp1-u2" merge="sp1-u2" size="131072" crc="62f021f4"/>
-		<rom name="sp-e.sp1" merge="sp-e.sp1" size="131072" crc="2723a5b5"/>
-		<rom name="sp1-u4.bin" merge="sp1-u4.bin" size="131072" crc="1179a30f"/>
-		<rom name="sp1-u3.bin" merge="sp1-u3.bin" size="131072" crc="2025b7a2"/>
-		<rom name="vs-bios.rom" merge="vs-bios.rom" size="131072" crc="f0e8f27d"/>
-		<rom name="sp-j2.sp1" merge="sp-j2.sp1" size="131072" crc="acede59c"/>
-		<rom name="sp1.jipan.1024" merge="sp1.jipan.1024" size="131072" crc="9fb0abe4"/>
-		<rom name="sp-45.sp1" merge="sp-45.sp1" size="524288" crc="03cc9f6a"/>
-		<rom name="sp-j3.sp1" merge="sp-j3.sp1" size="524288" crc="486cb450"/>
-		<rom name="japan-j3.bin" merge="japan-j3.bin" size="131072" crc="dff6d41f"/>
-		<rom name="sp1-j3.bin" merge="sp1-j3.bin" size="131072" crc="fbc6d469"/>
-		<rom name="neo-po.bin" merge="neo-po.bin" size="131072" crc="16d0c132"/>
-		<rom name="neo-epo.bin" merge="neo-epo.bin" size="131072" crc="d27a71f1"/>
-		<rom name="neodebug.bin" merge="neodebug.bin" size="131072" crc="698ebb7d"/>
-		<rom name="sp-1v1_3db8c.bin" merge="sp-1v1_3db8c.bin" size="131072" crc="162f0ebe"/>
-		<rom name="uni-bios_4_0.rom" merge="uni-bios_4_0.rom" size="131072" crc="a7aab458"/>
-		<rom name="uni-bios_3_3.rom" merge="uni-bios_3_3.rom" size="131072" crc="24858466"/>
-		<rom name="uni-bios_3_2.rom" merge="uni-bios_3_2.rom" size="131072" crc="a4e8b9b3"/>
-		<rom name="uni-bios_3_1.rom" merge="uni-bios_3_1.rom" size="131072" crc="0c58093f"/>
-		<rom name="uni-bios_3_0.rom" merge="uni-bios_3_0.rom" size="131072" crc="a97c89a9"/>
-		<rom name="uni-bios_2_3.rom" merge="uni-bios_2_3.rom" size="131072" crc="27664eb5"/>
-		<rom name="uni-bios_2_3o.rom" merge="uni-bios_2_3o.rom" size="131072" crc="601720ae"/>
-		<rom name="uni-bios_2_2.rom" merge="uni-bios_2_2.rom" size="131072" crc="2d50996a"/>
-		<rom name="uni-bios_2_1.rom" merge="uni-bios_2_1.rom" size="131072" crc="8dabf76b"/>
-		<rom name="uni-bios_2_0.rom" merge="uni-bios_2_0.rom" size="131072" crc="0c12c2ad"/>
-		<rom name="uni-bios_1_3.rom" merge="uni-bios_1_3.rom" size="131072" crc="b24b44a0"/>
-		<rom name="uni-bios_1_2.rom" merge="uni-bios_1_2.rom" size="131072" crc="4fa698e9"/>
-		<rom name="uni-bios_1_2o.rom" merge="uni-bios_1_2o.rom" size="131072" crc="e19d3ce9"/>
-		<rom name="uni-bios_1_1.rom" merge="uni-bios_1_1.rom" size="131072" crc="5dda0d84"/>
-		<rom name="uni-bios_1_0.rom" merge="uni-bios_1_0.rom" size="131072" crc="0ce453a0"/>
-		<rom name="neopen.sp1" merge="neopen.sp1" size="131072" crc="cb915e76"/>
-		<rom name="sm1.sm1" merge="sm1.sm1" size="131072" crc="94416d67"/>
-		<rom name="sfix.sfix" merge="sfix.sfix" size="131072" crc="c2ea0cfd"/>
-		<rom name="000-lo.lo" merge="000-lo.lo" size="131072" crc="5a86cff2"/>
+		<rom name="sp-s3.sp1" size="131072" crc="91b64be3"/>
+		<rom name="sp-s2.sp1" size="131072" crc="9036d879"/>
+		<rom name="sp-s.sp1" size="131072" crc="c7f2fa45"/>
+		<rom name="sp-u2.sp1" size="131072" crc="e72943de"/>
+		<rom name="sp1-u2" size="131072" crc="62f021f4"/>
+		<rom name="sp-e.sp1" size="131072" crc="2723a5b5"/>
+		<rom name="sp1-u4.bin" size="131072" crc="1179a30f"/>
+		<rom name="sp1-u3.bin" size="131072" crc="2025b7a2"/>
+		<rom name="vs-bios.rom" size="131072" crc="f0e8f27d"/>
+		<rom name="sp-j2.sp1" size="131072" crc="acede59c"/>
+		<rom name="sp1.jipan.1024" size="131072" crc="9fb0abe4"/>
+		<rom name="sp-45.sp1" size="524288" crc="03cc9f6a"/>
+		<rom name="sp-j3.sp1" size="524288" crc="486cb450"/>
+		<rom name="japan-j3.bin" size="131072" crc="dff6d41f"/>
+		<rom name="sp1-j3.bin" size="131072" crc="fbc6d469"/>
+		<rom name="neo-po.bin" size="131072" crc="16d0c132"/>
+		<rom name="neo-epo.bin" size="131072" crc="d27a71f1"/>
+		<rom name="neodebug.bin" size="131072" crc="698ebb7d"/>
+		<rom name="sp-1v1_3db8c.bin" size="131072" crc="162f0ebe"/>
+		<rom name="uni-bios_4_0.rom" size="131072" crc="a7aab458"/>
+		<rom name="uni-bios_3_3.rom" size="131072" crc="24858466"/>
+		<rom name="uni-bios_3_2.rom" size="131072" crc="a4e8b9b3"/>
+		<rom name="uni-bios_3_1.rom" size="131072" crc="0c58093f"/>
+		<rom name="uni-bios_3_0.rom" size="131072" crc="a97c89a9"/>
+		<rom name="uni-bios_2_3.rom" size="131072" crc="27664eb5"/>
+		<rom name="uni-bios_2_3o.rom" size="131072" crc="601720ae"/>
+		<rom name="uni-bios_2_2.rom" size="131072" crc="2d50996a"/>
+		<rom name="uni-bios_2_1.rom" size="131072" crc="8dabf76b"/>
+		<rom name="uni-bios_2_0.rom" size="131072" crc="0c12c2ad"/>
+		<rom name="uni-bios_1_3.rom" size="131072" crc="b24b44a0"/>
+		<rom name="uni-bios_1_2.rom" size="131072" crc="4fa698e9"/>
+		<rom name="uni-bios_1_2o.rom" size="131072" crc="e19d3ce9"/>
+		<rom name="uni-bios_1_1.rom" size="131072" crc="5dda0d84"/>
+		<rom name="uni-bios_1_0.rom" size="131072" crc="0ce453a0"/>
+		<rom name="neopen.sp1" size="131072" crc="cb915e76"/>
+		<rom name="sm1.sm1" size="131072" crc="94416d67"/>
+		<rom name="sfix.sfix" size="131072" crc="c2ea0cfd"/>
+		<rom name="000-lo.lo" size="131072" crc="5a86cff2"/>
 		<video type="raster" orientation="horizontal" width="320" height="224" aspectx="4" aspecty="3"/>
 		<driver status="good"/>
 		<url>https://retroachievements.org/game/12228/hashes</url>
