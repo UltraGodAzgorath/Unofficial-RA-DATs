@@ -2380,7 +2380,6 @@
 	<game name="Retail/Asuka &amp; Asuka/asukaj" cloneof="asuka">
 		<description>Asuka &amp; Asuka (Japan, rev 1)</description>
 		<category>FBNeo</category>
-		<release name="asukaj" region="Japan"/>
 		<rom name="b68-09-1.ic23" size="131072" crc="d61be555"/>
 		<rom name="b68-08-1.ic8" size="131072" crc="e916f17b"/>
 		<rom name="b68-03.ic30" size="524288" crc="d3a59b10"/>
@@ -2400,7 +2399,6 @@
 	<game name="Retail/Asuka &amp; Asuka/asuka">
 		<description>Asuka &amp; Asuka (World)</description>
 		<category>FBNeo</category>
-		<release name="asuka" region="World"/>
 		<rom name="b68-13.ic23" size="131072" crc="855efb3e"/>
 		<rom name="b68-12.ic8" size="131072" crc="271eeee9"/>
 		<rom name="b68-03.ic30" size="524288" crc="d3a59b10"/>
@@ -3561,7 +3559,6 @@
 	<game name="Retail/bombjack">
 		<description>Bomb Jack</description>
 		<category>FBNeo</category>
-		<release name="bombjack" region="World"/>
 		<rom name="09_j01b.bin" size="8192" crc="c668dc30"/>
 		<rom name="10_l01b.bin" size="8192" crc="52a1e5fb"/>
 		<rom name="11_m01b.bin" size="8192" crc="b68a062a"/>
@@ -5132,7 +5129,6 @@
 	<game name="Retail/cookbib">
 		<description>Cookie &amp; Bibi (set 1)</description>
 		<category>FBNeo</category>
-		<release name="cookbib" region="World"/>
 		<rom name="prg2.ub17" size="131072" crc="2664a335"/>
 		<rom name="prg1.ub16" size="131072" crc="cda6335f"/>
 		<rom name="prg-s.ub5" size="65536" crc="547d6ea3"/>
@@ -5508,7 +5504,6 @@
 	<game name="Retail/dariusg">
 		<description>Darius Gaiden - Silver Hawk (Ver 2.5O 1994/09/19)</description>
 		<category>FBNeo</category>
-		<release name="dariusg" region="World"/>
 		<rom name="d87-12.bin" size="524288" crc="de78f328"/>
 		<rom name="d87-11.bin" size="524288" crc="f7bed18e"/>
 		<rom name="d87-10.bin" size="524288" crc="4149f66f"/>
@@ -12401,7 +12396,6 @@
 	<game name="Retail/mmpork">
 		<description>Muchi Muchi Pork! (2007/ 4/17 MASTER VER.)</description>
 		<category>FBNeo</category>
-		<release name="mmpork" region="World"/>
 		<rom name="u4" size="2097152" crc="d06cfa42"/>
 		<rom name="u2" size="138412032" crc="1ee961b8"/>
 		<rom name="u23" size="4194304" crc="4a4b36df"/>
@@ -13738,7 +13732,6 @@
 	<game name="Retail/pacland">
 		<description>Pac-Land (World)</description>
 		<category>FBNeo</category>
-		<release name="pacland" region="World"/>
 		<rom name="pl5_01b.8b" size="16384" crc="b0ea7631"/>
 		<rom name="pl5_02.8d" size="16384" crc="d903e84e"/>
 		<rom name="pl1_3.8e" size="16384" crc="aa9fa739"/>
