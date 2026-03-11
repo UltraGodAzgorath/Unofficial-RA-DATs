@@ -7170,20 +7170,20 @@
 		<hash>074c2b4a321ae345d9f42cff9a2531ab</hash>
 	</game>
 	
-	<game name="Pokemon - FireRed Version (Specialty Subset - Shinies &amp; Stuff)">
-		<category>Specialty Subset</category>
-		<description>Pokemon - FireRed Version (Specialty Subset - Shinies &amp; Stuff)</description>
-		<release name="Pokemon - FireRed Version (Specialty Subset - Shinies &amp; Stuff)" region="World"/>
-		<release name="Pokemon - FireRed Version (Specialty Subset - Shinies &amp; Stuff)" region="FireRed Version"/>
-		<rom name="Pokemon - FireRed Version (Specialty Subset - Shinies &amp; Stuff).gba" size="16777216" crc="01a3dbfd" md5="0f75499bd326e95b40d4880955157660" sha1="f9e9233142229bb4144e45be3c6fa1a1378a5806"/>
+	<game name="Pokemon - FireRed Version (Exclusive Subset - Shinies &amp; Stuff)">
+		<category>Exclusive Subset</category>
+		<description>Pokemon - FireRed Version (Exclusive Subset - Shinies &amp; Stuff)</description>
+		<release name="Pokemon - FireRed Version (Exclusive Subset - Shinies &amp; Stuff)" region="World"/>
+		<release name="Pokemon - FireRed Version (Exclusive Subset - Shinies &amp; Stuff)" region="FireRed Version"/>
+		<rom name="Pokemon - FireRed Version (Exclusive Subset - Shinies &amp; Stuff).gba" size="16777216" crc="01a3dbfd" md5="0f75499bd326e95b40d4880955157660" sha1="f9e9233142229bb4144e45be3c6fa1a1378a5806"/>
 		<url>https://retroachievements.org/game/24875/hashes</url>
 		<hash>0f75499bd326e95b40d4880955157660</hash>
 	</game>
-	<game name="Pokemon - LeafGreen Version (Specialty Subset - Shinies &amp; Stuff)" cloneof="Pokemon - FireRed Version (Specialty Subset - Shinies &amp; Stuff)">
-		<category>Specialty Subset</category>
-		<description>Pokemon - LeafGreen Version (Specialty Subset - Shinies &amp; Stuff)</description>
-		<release name="Pokemon - LeafGreen Version (Specialty Subset - Shinies &amp; Stuff)" region="LeafGreen Version"/>
-		<rom name="Pokemon - LeafGreen Version (Specialty Subset - Shinies &amp; Stuff).gba" size="16777216" crc="0ab73b2d" md5="b3b8da81bbf9fe06ba40bf15c3beaffd" sha1="cac8432a08858828f063042c1eb5c1b8e3470233"/>
+	<game name="Pokemon - LeafGreen Version (Exclusive Subset - Shinies &amp; Stuff)" cloneof="Pokemon - FireRed Version (Exclusive Subset - Shinies &amp; Stuff)">
+		<category>Exclusive Subset</category>
+		<description>Pokemon - LeafGreen Version (Exclusive Subset - Shinies &amp; Stuff)</description>
+		<release name="Pokemon - LeafGreen Version (Exclusive Subset - Shinies &amp; Stuff)" region="LeafGreen Version"/>
+		<rom name="Pokemon - LeafGreen Version (Exclusive Subset - Shinies &amp; Stuff).gba" size="16777216" crc="0ab73b2d" md5="b3b8da81bbf9fe06ba40bf15c3beaffd" sha1="cac8432a08858828f063042c1eb5c1b8e3470233"/>
 		<url>https://retroachievements.org/game/24875/hashes</url>
 		<hash>b3b8da81bbf9fe06ba40bf15c3beaffd</hash>
 	</game>
