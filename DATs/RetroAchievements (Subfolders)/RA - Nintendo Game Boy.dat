@@ -4034,14 +4034,43 @@
 		<hash>3d45c1ee9abd5738df46d2bdda8b57dc</hash>
 	</game>
 	
-	<game name="Retail/Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced)">
+	<game name="Exclusive Subset/Pokemon - Red Version/Pokemon - Red Version (Exclusive Subset - Glitch Showcase)">
+		<category></category>
+		<description>Pokemon - Red Version (Exclusive Subset - Glitch Showcase)</description>
+		<rom name="Pokemon - Red Version (Exclusive Subset - Glitch Showcase).gb" size="1048576" crc="6d20fe91" md5="25da61b495309bfb4d45ab54918d6135" sha1="4c533292bfb3b603a86c2f4f5238263bb89ed6e3"/>
+		<url>https://retroachievements.org/game/11632/hashes</url>
+		<hash>25da61b495309bfb4d45ab54918d6135</hash>
+	</game>
+	<game name="Exclusive Subset/Pokemon - Blue Version/Pokemon - Blue Version (Exclusive Subset - Glitch Showcase) (Fast Hack)">
+		<category></category>
+		<description>Pokemon - Blue Version (Exclusive Subset - Glitch Showcase) (Fast Hack)</description>
+		<rom name="Pokemon - Blue Version (Exclusive Subset - Glitch Showcase) (Fast Hack).gb" size="1048576" crc="b1b52369" md5="6e36ce35a35942e17bf9a2544481d8ce" sha1="8f9f3868670b0721b872e8a95f2876dc2cf0928a"/>
+		<url>https://retroachievements.org/game/11632/hashes</url>
+		<hash>6e36ce35a35942e17bf9a2544481d8ce</hash>
+	</game>
+	<game name="Exclusive Subset/Pokemon - Blue Version/Pokemon - Blue Version (Exclusive Subset - Glitch Showcase)">
+		<category></category>
+		<description>Pokemon - Blue Version (Exclusive Subset - Glitch Showcase)</description>
+		<rom name="Pokemon - Blue Version (Exclusive Subset - Glitch Showcase).gb" size="1048576" crc="1e5e8a21" md5="b309021c135c9967bfb2f16911061699" sha1="a2604af5ba346aca96f4ac52d6f292b48d911b1a"/>
+		<url>https://retroachievements.org/game/11632/hashes</url>
+		<hash>b309021c135c9967bfb2f16911061699</hash>
+	</game>
+	<game name="Exclusive Subset/Pokemon - Red Version/Pokemon - Red Version (Exclusive Subset - Glitch Showcase) (Fast Hack)">
+		<category></category>
+		<description>Pokemon - Red Version (Exclusive Subset - Glitch Showcase) (Fast Hack)</description>
+		<rom name="Pokemon - Red Version (Exclusive Subset - Glitch Showcase) (Fast Hack).gb" size="1048576" crc="bc6c208b" md5="b7711b4c6d3d77567951f4689675918b" sha1="7b1b3094990105a110ce7b880d9a460100bab9f4"/>
+		<url>https://retroachievements.org/game/11632/hashes</url>
+		<hash>b7711b4c6d3d77567951f4689675918b</hash>
+	</game>
+	
+	<game name="Retail/Pokemon - Yellow Version/Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced)">
 		<category></category>
 		<description>Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced)</description>
 		<rom name="Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced).gb" size="1048576" crc="7d527d62" md5="d9290db87b1f0a23b89f99ee4469e34b" sha1="cc7d03262ebfaf2f06772c1a480c7d9d5f4a38e1"/>
 		<url>https://retroachievements.org/game/723/hashes</url>
 		<hash>d9290db87b1f0a23b89f99ee4469e34b</hash>
 	</game>
-	<game name="Retail/Pokemon - Yellow Version (Playable Yellow) (v1.0)">
+	<game name="Retail/Pokemon - Yellow Version/Pokemon - Yellow Version (Playable Yellow) (v1.0)">
 		<category></category>
 		<description>Pokemon - Yellow Version (Playable Yellow) (v1.0)</description>
 		<rom name="Pokemon - Yellow Version (Playable Yellow) (v1.0).gbc" size="1048576" crc="98821f44" md5="ebbe3e5c1a2834c9876aad387f817896" sha1="b2211c76f59481b30bc163fd19d380d11396cfc8"/>
