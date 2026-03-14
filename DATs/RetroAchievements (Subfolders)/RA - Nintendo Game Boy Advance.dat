@@ -3585,12 +3585,19 @@
 		<hash>5d29999685413c4d2bec10d3160f6ee6</hash>
 	</game>
 	
-	<game name="Retail/Final Fantasy IV Advance (USA)">
+	<game name="Retail/Final Fantasy IV Advance/Final Fantasy IV Advance (USA)">
 		<category></category>
 		<description>Final Fantasy IV Advance (USA)</description>
 		<rom name="Final Fantasy IV Advance (USA).gba" size="8388608" crc="feeebde4" md5="c74dd5cc3ab6e5d4ac53b1677e1abd69" sha1="c49be22eaf999774d5f2983e12ed4aace2950f36"/>
 		<url>https://retroachievements.org/game/763/hashes</url>
 		<hash>c74dd5cc3ab6e5d4ac53b1677e1abd69</hash>
+	</game>
+	<game name="Retail/Final Fantasy IV Advance/Final Fantasy IV Advance (USA) - Bit Improvement for FF4A (v1.0a) (Deathlike2)">
+		<category></category>
+		<description>Final Fantasy IV Advance (USA) - Bit Improvement for FF4A (v1.0a) (Deathlike2)</description>
+		<rom name="Final Fantasy IV Advance (USA) - Bit Improvement for FF4A (v1.0a) (Deathlike2).gba" size="8388608" crc="0a965af8" md5="9f5913c0b6cd4f7bb243fe2e1f0cae77" sha1="30223c4957d4b3a9212a81035a499c9cddb150a5"/>
+		<url>https://retroachievements.org/game/37814/hashes</url>
+		<hash>9f5913c0b6cd4f7bb243fe2e1f0cae77</hash>
 	</game>
 	
 	<game name="Retail/Final Fantasy Tactics Advance (Europe) (En,Fr,De,Es,It)">
@@ -7763,6 +7770,14 @@
 		<rom name="Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Switches - RetroAchievements Edition).gba" size="4160784" crc="ce860480" md5="d904485be937fb3e30e4da5019e34a71" sha1="a726c7db3f177fffe963f5aeb047c8f7151f3de3"/>
 		<url>https://retroachievements.org/game/20277/hashes</url>
 		<hash>d904485be937fb3e30e4da5019e34a71</hash>
+	</game>
+	
+	<game name="Exclusive Subset/Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Virtual Console) (Exclusive Subset - World-e)">
+		<category></category>
+		<description>Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Virtual Console) (Exclusive Subset - World-e)</description>
+		<rom name="Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Virtual Console) (Exclusive Subset - World-e).gba" size="8388608" crc="d4c13ac3" md5="e7a2792c5913a8420a419f2d01358487" sha1="dd2879329ec52bd5372f26b75297a67f1a81215a"/>
+		<url>https://retroachievements.org/game/20277/hashes</url>
+		<hash>e7a2792c5913a8420a419f2d01358487</hash>
 	</game>
 	
 	<game name="Retail/Super Mario Advance 2 - Super Mario World (Europe) (Color Restoration) (Asaki) (v0.91)">
