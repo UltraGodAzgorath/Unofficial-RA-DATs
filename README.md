@@ -1,4 +1,4 @@
-![167408retroachievements png 087307d8883deb1c10ffcfb4d6e75518](https://github.com/user-attachments/assets/e986b177-16b0-49ca-b631-14d2a9e16d31)
+<img width="1536" height="1024" alt="My Logo 4" src="https://github.com/user-attachments/assets/e233ce24-fab9-48cd-95a4-ed857474ce6f" />
 
 Hey Everyone.
 
