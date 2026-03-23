@@ -1,7 +1,8 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
 <datafile>
-  <header>
-     <name>RA - Nintendo Wii</name>
+	<header>
+		<name>RA - Nintendo Wii</name>
 		<description>Nintendo Wii</description>
 		<category>Subfolders</category>
 		<version>20260320</version>
@@ -13,7 +14,7 @@
 		<hashcount>240</hashcount>
 		<clrmamepro forcepacking="unzip"/>
 		<romvault forcepacking="unzip"/>
-  </header>
+	</header>
 
   <game name="Hack/Pokemon Rumble - Weekend Edition (v1.5) (WindyPrairie) (Hack)">
     <category></category>
