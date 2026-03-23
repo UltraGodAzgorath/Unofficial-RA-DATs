@@ -1,0 +1,2160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<datafile>
+  <header>
+     <name>RA - Nintendo Wii</name>
+		<description>Nintendo Wii</description>
+		<category>No Subfolders</category>
+		<version>20260320</version>
+		<date>20 March 2026</date>
+		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
+		<homepage>https://retroachievements.org</homepage>
+		<url>https://retroachievements.org/system/19/games</url>
+		<titlecount>181</titlecount>
+		<hashcount>240</hashcount>
+		<clrmamepro forcepacking="unzip"/>
+		<romvault forcepacking="unzip"/>
+  </header>
+
+  <game name="Pokemon Rumble - Weekend Edition (v1.5) (WindyPrairie) (Hack)">
+    <category>Hack</category>
+    <description>Pokemon Rumble - Weekend Edition (v1.5) (WindyPrairie) (Hack)</description>
+    <release name="Pokemon Rumble - Weekend Edition (v1.5) (WindyPrairie) (Hack)" region="World"/>
+    <rom name="Pokemon Rumble - Weekend Edition (v1.5) (WindyPrairie) (Hack).wad" size="33759296" crc="f7435c54" md5="356bf939d22aaea2159210f1507bdbcd" sha1="dd8b0a581bcbc4d6bb6bf70d7518c134ab6a87a7"/>
+    <url>https://retroachievements.org/game/37212/hashes</url>
+    <hash>527679a6745f4151d750d5740de3d6a5</hash>
+  </game>
+
+  <game name="Boy and His Blob, A (USA)">
+    <category>Retail</category>
+    <description>Boy and His Blob, A (USA)</description>
+    <release name="Boy and His Blob, A (USA)" region="USA"/>
+    <rom name="Boy and His Blob, A (USA).rvz" size="995154796" crc="21c4a6b3" md5="7c1717af2afad8638a36815653aff003" sha1="25d78d2b7f6bbe74c0befc51fdad3868d9256fed"/>
+    <url>https://retroachievements.org/game/4121/hashes</url>
+    <hash>e08dd4f61988a5d5a9fb0a44830d188e</hash>
+  </game>
+
+  <game name="Adventure Island - The Beginning (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Adventure Island - The Beginning (USA) (WiiWare)</description>
+    <release name="Adventure Island - The Beginning (USA) (WiiWare)" region="USA"/>
+    <rom name="Adventure Island - The Beginning (USA) (WiiWare).wad" size="35940928" crc="65739fab" md5="6ec713ec9411c489cbe656953108631b" sha1="72b958ecd9d8065de5d1ccb5c89334621f7316f1"/>
+    <url>https://retroachievements.org/game/34638/hashes</url>
+    <hash>89ea4766f5d79f67981d225595e0ceca</hash>
+  </game>
+  <game name="Adventure Island - The Beginning (Europe) (WiiWare)" cloneof="Adventure Island - The Beginning (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Adventure Island - The Beginning (Europe) (WiiWare)</description>
+    <release name="Adventure Island - The Beginning (Europe) (WiiWare)" region="Europe"/>
+    <rom name="Adventure Island - The Beginning (Europe) (WiiWare).wad" size="40562048" crc="a428ec8b" md5="05260bc85b49eb4ada807d9ef91b2020" sha1="3ce24fb5a1d0d23a1d3eb7dd7b6b6148fdeab24e"/>
+    <url>https://retroachievements.org/game/34638/hashes</url>
+    <hash>050c3f795c7554c606814822adc50965</hash>
+  </game>
+
+  <game name="Alien Crush Returns (USA) (WiiWare) (DLC) (v1.0) (Vague Rant)">
+    <category>Retail</category>
+    <description>Alien Crush Returns (USA) (WiiWare) (DLC) (v1.0) (Vague Rant)</description>
+    <release name="Alien Crush Returns (USA) (WiiWare) (DLC) (v1.0) (Vague Rant)" region="USA"/>
+    <rom name="Alien Crush Returns (USA) (WiiWare) (DLC) (v1.0) (Vague Rant).rvz" size="39096128" crc="f9646f9e" md5="522eaf38d274849c6267c7e8bf92d271" sha1="cc5ba0ce667ce55243122c8b4a3daa533a9732d3"/>
+    <url>https://retroachievements.org/game/34728/hashes</url>
+    <hash>f7e4349409302a2779e49b367439627a</hash>
+  </game>
+  <game name="Alien Crush Returns (USA) (WiiWare) (Classic Controller + Aspect Ratio + DLC) (v1.0) (Vague Rant)" cloneof="Alien Crush Returns (USA) (WiiWare) (DLC) (v1.0) (Vague Rant)">
+    <category>Retail</category>
+    <description>Alien Crush Returns (USA) (WiiWare) (Classic Controller + Aspect Ratio + DLC) (v1.0) (Vague Rant)</description>
+    <release name="Alien Crush Returns (USA) (WiiWare) (Classic Controller + Aspect Ratio + DLC) (v1.0) (Vague Rant)" region="World"/>
+    <rom name="Alien Crush Returns (USA) (WiiWare) (Classic Controller + Aspect Ratio + DLC) (v1.0) (Vague Rant).rvz" size="39096576" crc="c1af383b" md5="4e3258f516669cb2b95e95d6e0b10149" sha1="321f01587b5d80ecb671abd8fb696ba2af587f81"/>
+    <url>https://retroachievements.org/game/34728/hashes</url>
+    <hash>87cb27d021c7eeb989b4a48ee78fe64e</hash>
+  </game>
+  <game name="Alien Crush Returns (Europe) (WiiWare) (DLC) (v1.0) (Vague Rant)" cloneof="Alien Crush Returns (USA) (WiiWare) (DLC) (v1.0) (Vague Rant)">
+    <category>Retail</category>
+    <description>Alien Crush Returns (Europe) (WiiWare) (DLC) (v1.0) (Vague Rant)</description>
+    <release name="Alien Crush Returns (Europe) (WiiWare) (DLC) (v1.0) (Vague Rant)" region="Europe"/>
+    <rom name="Alien Crush Returns (Europe) (WiiWare) (DLC) (v1.0) (Vague Rant).rvz" size="39067200" crc="104b05ff" md5="fa014a81395b41bdc45da4a97a4dcc2f" sha1="81fefc4c34cffa1922d15bc63a4fbc69d3c91c66"/>
+    <url>https://retroachievements.org/game/34728/hashes</url>
+    <hash>8d0815056b069c1c2736f7b22f7d82b8</hash>
+  </game>
+  <game name="Alien Crush Returns (Europe) (WiiWare) (Classic Controller + Aspect Ratio + DLC) (v1.0) (Vague Rant)" cloneof="Alien Crush Returns (USA) (WiiWare) (DLC) (v1.0) (Vague Rant)">
+    <category>Retail</category>
+    <description>Alien Crush Returns (Europe) (WiiWare) (Classic Controller + Aspect Ratio + DLC) (v1.0) (Vague Rant)</description>
+    <release name="Alien Crush Returns (Europe) (WiiWare) (Classic Controller + Aspect Ratio + DLC) (v1.0) (Vague Rant)" region="World"/>
+    <rom name="Alien Crush Returns (Europe) (WiiWare) (Classic Controller + Aspect Ratio + DLC) (v1.0) (Vague Rant).rvz" size="39067648" crc="76123b31" md5="cf4f1dd7c21fb3d299a18a0ff2285639" sha1="aabd4edd0769eac37f5c261432ac04eb8cc554da"/>
+    <url>https://retroachievements.org/game/34728/hashes</url>
+    <hash>8da18a8a7510cbe9fb759789852a801c</hash>
+  </game>
+  <game name="Alien Crush Returns (Japan) (WiiWare) (DLC) (v1.0) (Vague Rant)" cloneof="Alien Crush Returns (USA) (WiiWare) (DLC) (v1.0) (Vague Rant)">
+    <category>Retail</category>
+    <description>Alien Crush Returns (Japan) (WiiWare) (DLC) (v1.0) (Vague Rant)</description>
+    <release name="Alien Crush Returns (Japan) (WiiWare) (DLC) (v1.0) (Vague Rant)" region="Japan"/>
+    <rom name="Alien Crush Returns (Japan) (WiiWare) (DLC) (v1.0) (Vague Rant).rvz" size="39122624" crc="ca8c7e0e" md5="faa275d3bcfb7d1f16ce08c88a90dea2" sha1="b16f4978342fa327c9a058ddfc5cfca8fa659ff0"/>
+    <url>https://retroachievements.org/game/34728/hashes</url>
+    <hash>6692a180fc2d6bd190cb6aa74d4d5b5e</hash>
+  </game>
+  <game name="Alien Crush Returns (Japan) (WiiWare) (Classic Controller + Aspect Ratio + DLC) (v1.0) (Vague Rant)" cloneof="Alien Crush Returns (USA) (WiiWare) (DLC) (v1.0) (Vague Rant)">
+    <category>Retail</category>
+    <description>Alien Crush Returns (Japan) (WiiWare) (Classic Controller + Aspect Ratio + DLC) (v1.0) (Vague Rant)</description>
+    <release name="Alien Crush Returns (Japan) (WiiWare) (Classic Controller + Aspect Ratio + DLC) (v1.0) (Vague Rant)" region="World"/>
+    <rom name="Alien Crush Returns (Japan) (WiiWare) (Classic Controller + Aspect Ratio + DLC) (v1.0) (Vague Rant).rvz" size="39123136" crc="08e8ed43" md5="d7b68cd1e2a6ad0e940c06edf6103f08" sha1="ece0335d9fd0ab8453e8052289a6ffd1681c04bf"/>
+    <url>https://retroachievements.org/game/34728/hashes</url>
+    <hash>974ec8325d3352cead652364f1197589</hash>
+  </game>
+
+  <game name="Animal Crossing - City Folk (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Animal Crossing - City Folk (USA) (En,Fr,Es)</description>
+    <release name="Animal Crossing - City Folk (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Animal Crossing - City Folk (USA) (En,Fr,Es).rvz" size="311342532" crc="3034fa92" md5="031c7756fd5211e6c3d07f1cb1b63aa5" sha1="2fba8c6564d9c90da968babb6deeafb676b2f379"/>
+    <url>https://retroachievements.org/game/34566/hashes</url>
+    <hash>8d742de1faad9215f3be8887e5cf3783</hash>
+  </game>
+  <game name="Animal Crossing - City Folk (USA, Asia) (En,Fr,Es) (Rev 1)" cloneof="Animal Crossing - City Folk (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Animal Crossing - City Folk (USA, Asia) (En,Fr,Es) (Rev 1)</description>
+    <release name="Animal Crossing - City Folk (USA, Asia) (En,Fr,Es) (Rev 1)" region="USA, Asia"/>
+    <rom name="Animal Crossing - City Folk (USA, Asia) (En,Fr,Es) (Rev 1).rvz" size="311339268" crc="aabc470f" md5="80bd9ed2a971dad9b638e05d61274ab1" sha1="dbc7d28bf9658ed3c70beb42e076539c3f735a64"/>
+    <url>https://retroachievements.org/game/34566/hashes</url>
+    <hash>aacc76eff22469bad8d6b967cb772bf2</hash>
+  </game>
+  <game name="Animal Crossing - Let's Go to the City (Europe) (En,Fr,De,Es,It)" cloneof="Animal Crossing - City Folk (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Animal Crossing - Let's Go to the City (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Animal Crossing - Let's Go to the City (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Animal Crossing - Let's Go to the City (Europe) (En,Fr,De,Es,It).rvz" size="318207336" crc="66fc12cc" md5="3cce031aa2dcd5c9e50b5312b6fd91f0" sha1="38dc90e7330b73b1dab567a08399f9a8914375d7"/>
+    <url>https://retroachievements.org/game/34566/hashes</url>
+    <hash>ca5a777aae147cdd5abfc37c55269f07</hash>
+  </game>
+  <game name="Animal Crossing - Let's Go to the City (Europe) (En,Fr,De,Es,It) (Rev 1)" cloneof="Animal Crossing - City Folk (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Animal Crossing - Let's Go to the City (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
+    <release name="Animal Crossing - Let's Go to the City (Europe) (En,Fr,De,Es,It) (Rev 1)" region="World"/>
+    <rom name="Animal Crossing - Let's Go to the City (Europe) (En,Fr,De,Es,It) (Rev 1).rvz" size="318207844" crc="28e2c0d7" md5="c228cb4ffad1a68bea89209530bad619" sha1="c61dc5e0f6804343e304d6cd7580ecbca676689b"/>
+    <url>https://retroachievements.org/game/34566/hashes</url>
+    <hash>03630eabddabdaf9289ef7113a9f1285</hash>
+  </game>
+  <game name="Machi e Ikou yo - Doubutsu no Mori (Japan) (Rev 1)" cloneof="Animal Crossing - City Folk (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Machi e Ikou yo - Doubutsu no Mori (Japan) (Rev 1)</description>
+    <release name="Machi e Ikou yo - Doubutsu no Mori (Japan) (Rev 1)" region="Japan"/>
+    <rom name="Machi e Ikou yo - Doubutsu no Mori (Japan) (Rev 1).rvz" size="309212120" crc="6ba2ce74" md5="6b136d4859e4e0a1e6a97aab4e4d86da" sha1="c2daecae93e99cfb63b7493fa9014edec9a689a5"/>
+    <url>https://retroachievements.org/game/34566/hashes</url>
+    <hash>65e95310e9abb346161213703975089d</hash>
+  </game>
+  <game name="Tauneuro Nolleogayo - Dongmurui Sup (Korea) (Rev 1)" cloneof="Animal Crossing - City Folk (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Tauneuro Nolleogayo - Dongmurui Sup (Korea) (Rev 1)</description>
+    <release name="Tauneuro Nolleogayo - Dongmurui Sup (Korea) (Rev 1)" region="Korea"/>
+    <rom name="Tauneuro Nolleogayo - Dongmurui Sup (Korea) (Rev 1).rvz" size="229619316" crc="b3bcc604" md5="2eba56951a6e242b806c7a0a73a6f5b7" sha1="e20f5489d26ae3644720e3b7ab8e159db60c6216"/>
+    <url>https://retroachievements.org/game/34566/hashes</url>
+    <hash>48721d158d74803b5c3530b86c9b436b</hash>
+  </game>
+
+  <game name="Art of Balance (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Art of Balance (USA) (WiiWare)</description>
+    <release name="Art of Balance (USA) (WiiWare)" region="USA"/>
+    <rom name="Art of Balance (USA) (WiiWare).wad" size="36751552" crc="85f0d5de" md5="5be9ca02614c49dff6d80a1588913a7e" sha1="960f758c278a30d3f53c6995f237285438571014"/>
+    <url>https://retroachievements.org/game/35964/hashes</url>
+    <hash>4837cff21bd762c8980295f7e53497c3</hash>
+  </game>
+
+  <game name="Back to the Future - The Game (USA) (En,Fr,De)">
+    <category>Retail</category>
+    <description>Back to the Future - The Game (USA) (En,Fr,De)</description>
+    <release name="Back to the Future - The Game (USA) (En,Fr,De)" region="USA"/>
+    <rom name="Back to the Future - The Game (USA) (En,Fr,De).rvz" size="959184920" crc="5f3f74bc" md5="f83a35ac9666d8ce86016a82fbeb4fd1" sha1="9537ce0d3bc8d841c9deda5c8650badd3f817395"/>
+    <url>https://retroachievements.org/game/34570/hashes</url>
+    <hash>c6b0473d3de0fc228007d1aadffefe8d</hash>
+  </game>
+
+  <game name="Bit.Trip Complete (USA)">
+    <category>Retail</category>
+    <description>Bit.Trip Complete (USA)</description>
+    <release name="Bit.Trip Complete (USA)" region="USA"/>
+    <rom name="Bit.Trip Complete (USA).rvz" size="826664964" crc="b0f9077d" md5="26b5962545802f72722aa6148c221045" sha1="84dc6d1bdfe07dd3c4526ae29def8e49c67c1fcd"/>
+    <url>https://retroachievements.org/game/34618/hashes</url>
+    <hash>4fa8a90d3f2c4dce753878a8bd560734</hash>
+  </game>
+
+  <game name="Blaster Master - Overdrive (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Blaster Master - Overdrive (USA) (WiiWare)</description>
+    <release name="Blaster Master - Overdrive (USA) (WiiWare)" region="USA"/>
+    <rom name="Blaster Master - Overdrive (USA) (WiiWare).wad" size="36702144" crc="b74d199f" md5="5095e9b112aeee46a4b59d4cdefbfc90" sha1="8a2f871be3fa6299c6fe0a630cd39f3722dcd427"/>
+    <url>https://retroachievements.org/game/34730/hashes</url>
+    <hash>1df6b3fdad3512fd42f9553353dcbfe5</hash>
+  </game>
+
+  <game name="Bloons (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Bloons (USA) (WiiWare)</description>
+    <release name="Bloons (USA) (WiiWare)" region="USA"/>
+    <rom name="Bloons (USA) (WiiWare).wad" size="15609664" crc="052b579f" md5="73312740d2ff7427bb4383b7436867bc" sha1="5f0288c76cf395935e6ef3a04601f6904d0581c2"/>
+    <url>https://retroachievements.org/game/34738/hashes</url>
+    <hash>647d60682c13d5d3bf08b4025fb50c5f</hash>
+  </game>
+
+  <game name="Boom Blox (Europe) (En,Fr,De,Es,It,Nl)">
+    <category>Retail</category>
+    <description>Boom Blox (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <release name="Boom Blox (Europe) (En,Fr,De,Es,It,Nl)" region="Europe"/>
+    <rom name="Boom Blox (Europe) (En,Fr,De,Es,It,Nl).rvz" size="1444898924" crc="de143417" md5="73009fb09785eb11db4408601dde3a2c" sha1="cdeb81715e2224449da0d69fbadb94e8207321f5"/>
+    <url>https://retroachievements.org/game/34604/hashes</url>
+    <hash>7560c27b3bcfdc32ceb2194f96eba3d5</hash>
+  </game>
+  <game name="Boom Blox (USA) (En,Fr,Es)" cloneof="Boom Blox (Europe) (En,Fr,De,Es,It,Nl)">
+    <category>Retail</category>
+    <description>Boom Blox (USA) (En,Fr,Es)</description>
+    <release name="Boom Blox (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Boom Blox (USA) (En,Fr,Es).rvz" size="1440713900" crc="5298a68f" md5="9df02d710cd6fddf7108c60eedf9e9f8" sha1="e2a262360a906b6c1bd8c9c52d752764ade48d28"/>
+    <url>https://retroachievements.org/game/34604/hashes</url>
+    <hash>2380236ea04ab7cc0bb2c9b8d87af1c2</hash>
+  </game>
+
+  <game name="Broken Sword - Shadow of the Templars - The Director's Cut (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Broken Sword - Shadow of the Templars - The Director's Cut (USA) (En,Fr,Es)</description>
+    <release name="Broken Sword - Shadow of the Templars - The Director's Cut (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Broken Sword - Shadow of the Templars - The Director's Cut (USA) (En,Fr,Es).rvz" size="3601823296" crc="e0cd43f1" md5="2a3470ccd9db15588b5914e691c6ab4e" sha1="1fd3f57db0ff89f187b1eacc767cc8ea7b4005d1"/>
+    <url>https://retroachievements.org/game/35217/hashes</url>
+    <hash>100ca830d93af5dd6b2c7869e8197b5f</hash>
+  </game>
+
+  <game name="Bully - Scholarship Edition (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Bully - Scholarship Edition (USA) (En,Fr,Es)</description>
+    <release name="Bully - Scholarship Edition (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Bully - Scholarship Edition (USA) (En,Fr,Es).rvz" size="2942737068" crc="ecaa8e54" md5="71aea85d91c423ac4edc67e297645e10" sha1="82473350c8b69456c4ebd17c1fbf14f55ccb8caf"/>
+    <url>https://retroachievements.org/game/7775/hashes</url>
+    <hash>eff8921f3062eca576ce97691436c804</hash>
+  </game>
+
+  <game name="Burger Island (USA)">
+    <category>Retail</category>
+    <description>Burger Island (USA)</description>
+    <release name="Burger Island (USA)" region="USA"/>
+    <rom name="Burger Island (USA).rvz" size="259391060" crc="d0148229" md5="81540a056498a947b6b8fd133a6b5794" sha1="d741fc0b4b2e1a8cea850aa9d464e8f1e3838d94"/>
+    <url>https://retroachievements.org/game/35931/hashes</url>
+    <hash>918176b7c0e13fa5c45708b1d42c47eb</hash>
+  </game>
+
+  <game name="Call of Duty - Black Ops (USA)">
+    <category>Retail</category>
+    <description>Call of Duty - Black Ops (USA)</description>
+    <release name="Call of Duty - Black Ops (USA)" region="USA"/>
+    <rom name="Call of Duty - Black Ops (USA).rvz" size="3888326056" crc="9bad3144" md5="bd33b6dd647c2a49b8972ab6c47a1d5b" sha1="d19a8437dc87d49fa8f2e9ff974155d677f2f4bb"/>
+    <url>https://retroachievements.org/game/34603/hashes</url>
+    <hash>14950b4c02d1f2dc4dd0a0ac2fb56ff3</hash>
+  </game>
+
+  <game name="Call of Duty - Modern Warfare - Reflex (USA) (En,Fr)">
+    <category>Retail</category>
+    <description>Call of Duty - Modern Warfare - Reflex (USA) (En,Fr)</description>
+    <release name="Call of Duty - Modern Warfare - Reflex (USA) (En,Fr)" region="USA"/>
+    <rom name="Call of Duty - Modern Warfare - Reflex (USA) (En,Fr).rvz" size="3746268948" crc="335cb3ed" md5="d847d13867f08e71ec6eb80f1ddff0b5" sha1="e363dc14685c1a745956764d1dab29c21b8526e6"/>
+    <url>https://retroachievements.org/game/34657/hashes</url>
+    <hash>33f974ed6b5ab9afbbf31467ad8b0c80</hash>
+  </game>
+
+  <game name="Call of Duty - Modern Warfare 3 (USA)">
+    <category>Retail</category>
+    <description>Call of Duty - Modern Warfare 3 (USA)</description>
+    <release name="Call of Duty - Modern Warfare 3 (USA)" region="USA"/>
+    <rom name="Call of Duty - Modern Warfare 3 (USA).rvz" size="3756472392" crc="c2ae4eaf" md5="3534ddf8c8e535f275ca49c25c392315" sha1="a047318f7adebd1f8c9d18772661b12d82c03e10"/>
+    <url>https://retroachievements.org/game/34602/hashes</url>
+    <hash>ef10c101a16f3cd99617ca85024ede3d</hash>
+  </game>
+
+  <game name="Carnival Games (USA) (Rev 2)">
+    <category>Retail</category>
+    <description>Carnival Games (USA) (Rev 2)</description>
+    <release name="Carnival Games (USA) (Rev 2)" region="USA"/>
+    <rom name="Carnival Games (USA) (Rev 2).rvz" size="478791396" crc="7d2b314e" md5="d890e583bcfe4694eb56ee5c5617601a" sha1="62afc84b3d6284bdd43dd7e66f697b41ee56b029"/>
+    <url>https://retroachievements.org/game/34601/hashes</url>
+    <hash>b2b2424b0d17575620ce799f98ac761e</hash>
+  </game>
+
+  <game name="Carnival Games - MiniGolf (Europe) (En,Fr,De,Es,It,Nl)">
+    <category>Retail</category>
+    <description>Carnival Games - MiniGolf (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <release name="Carnival Games - MiniGolf (Europe) (En,Fr,De,Es,It,Nl)" region="Europe"/>
+    <rom name="Carnival Games - MiniGolf (Europe) (En,Fr,De,Es,It,Nl).rvz" size="2042317880" crc="4954f425" md5="9298b1739d2b97dac28fa273006d8b5d" sha1="666dbbfd5a233da1f36e46b6d3d7ad327e67136c"/>
+    <url>https://retroachievements.org/game/35587/hashes</url>
+    <hash>dc8fbea2ff398441b89d1359ebb35571</hash>
+  </game>
+
+  <game name="Castle of Shikigami III (USA)">
+    <category>Retail</category>
+    <description>Castle of Shikigami III (USA)</description>
+    <release name="Castle of Shikigami III (USA)" region="USA"/>
+    <rom name="Castle of Shikigami III (USA).rvz" size="1116324480" crc="3b32cb7a" md5="fffb1d034643969aedbbefcade5bf0d1" sha1="3713bdec2027c3b76dbb3b082bcdceb92e14c80c"/>
+    <url>https://retroachievements.org/game/35082/hashes</url>
+    <hash>d30d29b5bcc0ab82132cfa9f2783a570</hash>
+  </game>
+  <game name="Castle of Shikigami III (USA) (Undub) (v1.0) (swosho)" cloneof="Castle of Shikigami III (USA)">
+    <category>Retail</category>
+    <description>Castle of Shikigami III (USA) (Undub) (v1.0) (swosho)</description>
+    <release name="Castle of Shikigami III (USA) (Undub) (v1.0) (swosho)" region="World"/>
+    <rom name="Castle of Shikigami III (USA) (Undub) (v1.0) (swosho).rvz" size="1022806204" crc="e5e5afc9" md5="c680082fa0af4195e29501e6f6d9eaa3" sha1="b64d4f5cf76062eefb96fc9c3421acbe2195e583"/>
+    <url>https://retroachievements.org/game/35082/hashes</url>
+    <hash>bd40d5dee58bef2b0e39cedaf4405cfc</hash>
+  </game>
+
+  <game name="Castlevania Judgment (USA)">
+    <category>Retail</category>
+    <description>Castlevania Judgment (USA)</description>
+    <release name="Castlevania Judgment (USA)" region="USA"/>
+    <rom name="Castlevania Judgment (USA).rvz" size="1626183868" crc="4b11ebc7" md5="2d772f6d1110efed714c79c9d0bfaf38" sha1="955ff69d924f2a20b01b7e1550b0def4b36d84e2"/>
+    <url>https://retroachievements.org/game/34606/hashes</url>
+    <hash>c313d39e776f2acf46295b848362a4c7</hash>
+  </game>
+
+  <game name="Castlevania - The Adventure ReBirth (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Castlevania - The Adventure ReBirth (USA) (WiiWare)</description>
+    <release name="Castlevania - The Adventure ReBirth (USA) (WiiWare)" region="USA"/>
+    <rom name="Castlevania - The Adventure ReBirth (USA) (WiiWare).wad" size="36939840" crc="40470d65" md5="23908498a8f8944d9e3e6f67c2ee20a4" sha1="731139acd908361e585149f30961f22163882694"/>
+    <url>https://retroachievements.org/game/7739/hashes</url>
+    <hash>893a85b7dfe482faeacb855822780852</hash>
+  </game>
+
+  <game name="Cave Story (Europe) (WiiWare)">
+    <category>Retail</category>
+    <description>Cave Story (Europe) (WiiWare)</description>
+    <release name="Cave Story (Europe) (WiiWare)" region="Europe"/>
+    <rom name="Cave Story (Europe) (WiiWare).wad" size="31142784" crc="0d6a62f8" md5="874c8483bc0d7d255d7e41f3cce8ea27" sha1="61ab291cde87d2f933b152d143c5f5a4a890b6dd"/>
+    <url>https://retroachievements.org/game/275/hashes</url>
+    <hash>2c02541dcfe2123c7c0745a9b7339f8e</hash>
+  </game>
+  <game name="Cave Story (USA) (v258) (WiiWare)" cloneof="Cave Story (Europe) (WiiWare)">
+    <category>Retail</category>
+    <description>Cave Story (USA) (v258) (WiiWare)</description>
+    <release name="Cave Story (USA) (v258) (WiiWare)" region="USA"/>
+    <rom name="Cave Story (USA) (v258) (WiiWare).wad" size="29377088" crc="b31d5893" md5="84eec9022641e1bed1213355b6f5fb7a" sha1="7eb0064a1309a8e84be4a769fb7c1eb7cff15c9d"/>
+    <url>https://retroachievements.org/game/275/hashes</url>
+    <hash>e7ad0e731d0c933a9ee814fc34a8b48a</hash>
+  </game>
+
+  <game name="Chick Chick BOOM (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Chick Chick BOOM (USA) (WiiWare)</description>
+    <release name="Chick Chick BOOM (USA) (WiiWare)" region="USA"/>
+    <rom name="Chick Chick BOOM (USA) (WiiWare).wad" size="27923968" crc="d92245fb" md5="12ecb4d820d90c41509740c82ae68e87" sha1="cac255d599778ba3f5723c17fb5166da33ab73f1"/>
+    <url>https://retroachievements.org/game/36042/hashes</url>
+    <hash>fb3a2105a52f383a966603a76a4bfbd6</hash>
+  </game>
+  <game name="Chick Chick BOOM (Europe) (WiiWare)" cloneof="Chick Chick BOOM (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Chick Chick BOOM (Europe) (WiiWare)</description>
+    <release name="Chick Chick BOOM (Europe) (WiiWare)" region="Europe"/>
+    <rom name="Chick Chick BOOM (Europe) (WiiWare).wad" size="27923072" crc="614c79a3" md5="5091f42d915cf4e77c6963b310b50beb" sha1="10dbd6deae826b51128db1130386a9a509bd3191"/>
+    <url>https://retroachievements.org/game/36042/hashes</url>
+    <hash>36085093bdffd0286ad44a3451681f63</hash>
+  </game>
+
+  <game name="Chicken Shoot (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Chicken Shoot (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Chicken Shoot (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Chicken Shoot (Europe) (En,Fr,De,Es,It).rvz" size="107654992" crc="040f0209" md5="21f5d4389988464613bcbea2dfe42eb8" sha1="4d6b0dc3c4487781e0d7fb0a2459e43a3d650d6f"/>
+    <url>https://retroachievements.org/game/34583/hashes</url>
+    <hash>081a838f1f0718c080b2abd3b077e057</hash>
+  </game>
+
+  <game name="de Blob (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>de Blob (USA) (En,Fr,Es)</description>
+    <release name="de Blob (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="de Blob (USA) (En,Fr,Es).rvz" size="1785903904" crc="d81b4b57" md5="0c6da315237e2f929a0a908ccca189f3" sha1="a27b53fa96796fb6dcd441875a24c26fc4e22d8c"/>
+    <url>https://retroachievements.org/game/34822/hashes</url>
+    <hash>cce8ed6e4be24ae004bd1d59fc372bc3</hash>
+  </game>
+
+  <game name="Dead Rising - Chop Till You Drop (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Dead Rising - Chop Till You Drop (USA) (En,Fr,Es)</description>
+    <release name="Dead Rising - Chop Till You Drop (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Dead Rising - Chop Till You Drop (USA) (En,Fr,Es).rvz" size="2737700792" crc="a857a1d8" md5="4e084d027854ff7536bbaaf8d02121ea" sha1="422da0c251ee1fe034b967ec4d155144f6cdcbcf"/>
+    <url>https://retroachievements.org/game/7918/hashes</url>
+    <hash>d5d740d553128ffe97a59369235a67e0</hash>
+  </game>
+
+  <game name="Dead Space - Extraction (USA) (En,Fr)">
+    <category>Retail</category>
+    <description>Dead Space - Extraction (USA) (En,Fr)</description>
+    <release name="Dead Space - Extraction (USA) (En,Fr)" region="USA"/>
+    <rom name="Dead Space - Extraction (USA) (En,Fr).rvz" size="3273434264" crc="922d1a72" md5="e4082c3853cde66988c0c90334412750" sha1="3dc3d8ed53fecc395fef07ee2f23b8fa0613931f"/>
+    <url>https://retroachievements.org/game/199/hashes</url>
+    <hash>b71873eb296348742c5e2fa7d336221b</hash>
+  </game>
+  <game name="Dead Space - Extraction (Europe) (En,Fr,De,It)" cloneof="Dead Space - Extraction (USA) (En,Fr)">
+    <category>Retail</category>
+    <description>Dead Space - Extraction (Europe) (En,Fr,De,It)</description>
+    <release name="Dead Space - Extraction (Europe) (En,Fr,De,It)" region="Europe"/>
+    <rom name="Dead Space - Extraction (Europe) (En,Fr,De,It).rvz" size="3276398320" crc="56ffb580" md5="45e11949aeb686d480a3f364053e9825" sha1="39e473bdd429d2750c3249a33ef5df96df11a943"/>
+    <url>https://retroachievements.org/game/199/hashes</url>
+    <hash>1b6367023a5167f0bbe9088fd74eed65</hash>
+  </game>
+
+  <game name="Disaster - Day of Crisis (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Disaster - Day of Crisis (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Disaster - Day of Crisis (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Disaster - Day of Crisis (Europe) (En,Fr,De,Es,It).rvz" size="3965343620" crc="f00eec2d" md5="04ef6714d799f6493b56a22e3f5243d1" sha1="7bf362ea60e3e602e9eb568810e8adecd4feac5a"/>
+    <url>https://retroachievements.org/game/11072/hashes</url>
+    <hash>d5c642d77c9e98b84b195c8f4ba34c20</hash>
+  </game>
+
+  <game name="Doc Louis's Punch-Out!! (USA) (Club Nintendo) (WiiWare)">
+    <category>Retail</category>
+    <description>Doc Louis's Punch-Out!! (USA) (Club Nintendo) (WiiWare)</description>
+    <release name="Doc Louis's Punch-Out!! (USA) (Club Nintendo) (WiiWare)" region="USA"/>
+    <rom name="Doc Louis's Punch-Out!! (USA) (Club Nintendo) (WiiWare).wad" size="22736640" crc="ad30bd69" md5="70add2929c889bb905d80ff4a8f39e8f" sha1="63f5dc9277fc815dcb71e5f81a829c0e824d730c"/>
+    <url>https://retroachievements.org/game/34666/hashes</url>
+    <hash>904fffe4e4cc5daa96d76a7106d1bceb</hash>
+  </game>
+
+  <game name="Doctor Fizzwizzle's Animal Rescue (USA)">
+    <category>Retail</category>
+    <description>Doctor Fizzwizzle's Animal Rescue (USA)</description>
+    <release name="Doctor Fizzwizzle's Animal Rescue (USA)" region="USA"/>
+    <rom name="Doctor Fizzwizzle's Animal Rescue (USA).rvz" size="213671392" crc="e3cd8eae" md5="137d9c611d1a067abbc936f755f10c03" sha1="965416b4e03aa2db8d6b3c4b206b2b5eba478ba3"/>
+    <url>https://retroachievements.org/game/35114/hashes</url>
+    <hash>bd0d2e53e9e4d014b078c00d01171c79</hash>
+  </game>
+
+  <game name="Donkey Kong - Barrel Blast (USA)">
+    <category>Retail</category>
+    <description>Donkey Kong - Barrel Blast (USA)</description>
+    <release name="Donkey Kong - Barrel Blast (USA)" region="USA"/>
+    <rom name="Donkey Kong - Barrel Blast (USA).rvz" size="487124516" crc="455fc7a9" md5="614917ffa101a2ff07c33c674b7f947d" sha1="43211a78b9363dbb0c11136a92787375b2ebda0a"/>
+    <url>https://retroachievements.org/game/34755/hashes</url>
+    <hash>fe7f984bade5f8ab33a9f9e1c2955767</hash>
+  </game>
+
+  <game name="Donkey Kong Country Returns (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Donkey Kong Country Returns (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Donkey Kong Country Returns (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Donkey Kong Country Returns (Europe) (En,Fr,De,Es,It).rvz" size="3509642988" crc="52bcf351" md5="65a11739339e9eac815c14402e9b50a2" sha1="178ebf873793c43e3d3b68bf0da79c473d5e1b2d"/>
+    <url>https://retroachievements.org/game/89/hashes</url>
+    <hash>08ace2b678ea53db87a8c4133cc7b1a0</hash>
+  </game>
+  <game name="Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1)" cloneof="Donkey Kong Country Returns (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1)</description>
+    <release name="Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1)" region="USA"/>
+    <rom name="Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1).rvz" size="3492868500" crc="c9e36a74" md5="58a32dc7cf88aa159f157c54c8019c68" sha1="5c47f598f504c4e9b4cbe4a25515edf206887a14"/>
+    <url>https://retroachievements.org/game/89/hashes</url>
+    <hash>d1f63a973843f731f41a6f0ad0f3e565</hash>
+  </game>
+  <game name="Donkey Kong Country Returns (USA) (En,Fr,Es)" cloneof="Donkey Kong Country Returns (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Donkey Kong Country Returns (USA) (En,Fr,Es)</description>
+    <release name="Donkey Kong Country Returns (USA) (En,Fr,Es)" region="World"/>
+    <rom name="Donkey Kong Country Returns (USA) (En,Fr,Es).rvz" size="3504556500" crc="ec39db2c" md5="37302e2b8c260613fb41b6a053410886" sha1="f077aabe45d5759238cf3bcd55aa6a1d54ef068a"/>
+    <url>https://retroachievements.org/game/89/hashes</url>
+    <hash>aedd3e029b129d47b9d792b08b796e91</hash>
+  </game>
+
+  <game name="Dr. Mario Online Rx (USA) (v256) (WiiWare)">
+    <category>Retail</category>
+    <description>Dr. Mario Online Rx (USA) (v256) (WiiWare)</description>
+    <release name="Dr. Mario Online Rx (USA) (v256) (WiiWare)" region="USA"/>
+    <rom name="Dr. Mario Online Rx (USA) (v256) (WiiWare).wad" size="15677952" crc="f419561e" md5="592a5c6d61f57b602084c19ed72c175e" sha1="5becf5d781097a569ea6fb07900d073bb1c9a0f0"/>
+    <url>https://retroachievements.org/game/34674/hashes</url>
+    <hash>042895ec9016b97716b5177e54c9657c</hash>
+  </game>
+  <game name="Dr. Mario &amp; Germ Buster (Europe) (v256) (WiiWare)" cloneof="Dr. Mario Online Rx (USA) (v256) (WiiWare)">
+    <category>Retail</category>
+    <description>Dr. Mario &amp; Germ Buster (Europe) (v256) (WiiWare)</description>
+    <release name="Dr. Mario &amp; Germ Buster (Europe) (v256) (WiiWare)" region="Europe"/>
+    <rom name="Dr. Mario &amp; Germ Buster (Europe) (v256) (WiiWare).wad" size="17082816" crc="2d9dc0fe" md5="edcfb00bc4f2bbcf064fe2be0ca3f052" sha1="cec7cbac06be6ea641effc6419ca8fdfcf81c8f1"/>
+    <url>https://retroachievements.org/game/34674/hashes</url>
+    <hash>417bd8f60baa0d61501198c806e04c75</hash>
+  </game>
+  <game name="Dr. Mario &amp; Saikin Bokumetsu (Japan) (v256) (WiiWare)" cloneof="Dr. Mario Online Rx (USA) (v256) (WiiWare)">
+    <category>Retail</category>
+    <description>Dr. Mario &amp; Saikin Bokumetsu (Japan) (v256) (WiiWare)</description>
+    <release name="Dr. Mario &amp; Saikin Bokumetsu (Japan) (v256) (WiiWare)" region="Japan"/>
+    <rom name="Dr. Mario &amp; Saikin Bokumetsu (Japan) (v256) (WiiWare).wad" size="14920896" crc="a9487408" md5="0d329a38d67183bfb312a98648b6ff35" sha1="adea6e933b3a1d709e8ad355de7c6385050d470e"/>
+    <url>https://retroachievements.org/game/34674/hashes</url>
+    <hash>7293d34d38f524cca91cabd29808e080</hash>
+  </game>
+
+  <game name="Dragon Ball - Revenge of King Piccolo (USA)">
+    <category>Retail</category>
+    <description>Dragon Ball - Revenge of King Piccolo (USA)</description>
+    <release name="Dragon Ball - Revenge of King Piccolo (USA)" region="USA"/>
+    <rom name="Dragon Ball - Revenge of King Piccolo (USA).rvz" size="1602710960" crc="2c94b971" md5="5e0b2ffb498a3fcba95fd63aff29aa1b" sha1="dbf47268f557d2ecde9995e4d6728a8d586e74c6"/>
+    <url>https://retroachievements.org/game/35358/hashes</url>
+    <hash>acf73f61c48e2631102d4c61862a4af1</hash>
+  </game>
+
+  <game name="DreamWorks Super Star Kartz (Europe) (En,Fr,De,Es,It,Nl,Sv)">
+    <category>Retail</category>
+    <description>DreamWorks Super Star Kartz (Europe) (En,Fr,De,Es,It,Nl,Sv)</description>
+    <release name="DreamWorks Super Star Kartz (Europe) (En,Fr,De,Es,It,Nl,Sv)" region="Europe"/>
+    <rom name="DreamWorks Super Star Kartz (Europe) (En,Fr,De,Es,It,Nl,Sv).rvz" size="899588224" crc="38bdb7ef" md5="6a207cf48ce50278ec75ba13104950fb" sha1="1e901d43b2db9604789132aad5eb042c3ece0380"/>
+    <url>https://retroachievements.org/game/34609/hashes</url>
+    <hash>e8ad0999b4083664aea9daae252fa251</hash>
+  </game>
+  <game name="DreamWorks Super Star Kartz (USA) (En,Fr)" cloneof="DreamWorks Super Star Kartz (Europe) (En,Fr,De,Es,It,Nl,Sv)">
+    <category>Retail</category>
+    <description>DreamWorks Super Star Kartz (USA) (En,Fr)</description>
+    <release name="DreamWorks Super Star Kartz (USA) (En,Fr)" region="USA"/>
+    <rom name="DreamWorks Super Star Kartz (USA) (En,Fr).rvz" size="876994520" crc="ad9a9460" md5="1ccf2e7c704ef81581d59d31945ac861" sha1="8e98a91d0096af48e5b0fc55fd28563647a3c43f"/>
+    <url>https://retroachievements.org/game/34609/hashes</url>
+    <hash>835231cfbba26152380269273149f48f</hash>
+  </game>
+
+  <game name="Elebits (USA)">
+    <category>Retail</category>
+    <description>Elebits (USA)</description>
+    <release name="Elebits (USA)" region="USA"/>
+    <rom name="Elebits (USA).rvz" size="3009866088" crc="520ad05d" md5="d78ed7023641a2672944a4a2c040eace" sha1="2b338ec30266fdeec9372be2a56ae900965acd4e"/>
+    <url>https://retroachievements.org/game/7936/hashes</url>
+    <hash>58c257bba82c8f9e003ab4fb4e2339ff</hash>
+  </game>
+
+  <game name="Endless Ocean (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Endless Ocean (USA) (En,Fr,Es)</description>
+    <release name="Endless Ocean (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Endless Ocean (USA) (En,Fr,Es).rvz" size="764912564" crc="e76f01c1" md5="7ce882f5a3b5eeae618c4b4bc838eaf5" sha1="4ab786335d4df9ab50f78fbee2b3cd894b3e1b8b"/>
+    <url>https://retroachievements.org/game/34600/hashes</url>
+    <hash>4e98aa3ae32eb80e02ad5282069a460e</hash>
+  </game>
+
+  <game name="Disney Epic Mickey (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Disney Epic Mickey (USA) (En,Fr,Es)</description>
+    <release name="Disney Epic Mickey (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Disney Epic Mickey (USA) (En,Fr,Es).rvz" size="3312018468" crc="04ba9548" md5="f5c90f54f62b55baa3ac47aae38a70b4" sha1="95503bdd15b7e0974dd461b21f46c306888e4c22"/>
+    <url>https://retroachievements.org/game/115/hashes</url>
+    <hash>6b6f55150bdfc214423444d59b16ee1f</hash>
+  </game>
+
+  <game name="Excite Truck (USA)">
+    <category>Retail</category>
+    <description>Excite Truck (USA)</description>
+    <release name="Excite Truck (USA)" region="USA"/>
+    <rom name="Excite Truck (USA).rvz" size="391353988" crc="24bc7b78" md5="9911f83c90530e6328d1fe352eacfff4" sha1="68e3a97e81142c36d02f6d40e029ad76caceb9d1"/>
+    <url>https://retroachievements.org/game/34578/hashes</url>
+    <hash>500fec1a1e6f5fbea0f62230aede8f61</hash>
+  </game>
+  <game name="Excite Truck (Europe) (En,Fr,De,Es,It)" cloneof="Excite Truck (USA)">
+    <category>Retail</category>
+    <description>Excite Truck (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Excite Truck (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Excite Truck (Europe) (En,Fr,De,Es,It).rvz" size="392357692" crc="c63c2fb6" md5="c0d1ce19da5fe03e1f6962780c2e903d" sha1="1ef30e396bd5f0ed15af9953e606a9603fec3d6c"/>
+    <url>https://retroachievements.org/game/34578/hashes</url>
+    <hash>6767a6ea20740b059312a384fb079e07</hash>
+  </game>
+
+  <game name="ExciteBots - Trick Racing (USA)">
+    <category>Retail</category>
+    <description>ExciteBots - Trick Racing (USA)</description>
+    <release name="ExciteBots - Trick Racing (USA)" region="USA"/>
+    <rom name="ExciteBots - Trick Racing (USA).rvz" size="962519644" crc="84956119" md5="cf072f3248f43749d19e9d3e00350b78" sha1="2e40c9a0385520744a57df5570c9bf810da2c524"/>
+    <url>https://retroachievements.org/game/34789/hashes</url>
+    <hash>b01e9e5382eb0083e327a2157597131d</hash>
+  </game>
+
+  <game name="FAST - Racing League (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>FAST - Racing League (USA) (WiiWare)</description>
+    <release name="FAST - Racing League (USA) (WiiWare)" region="USA"/>
+    <rom name="FAST - Racing League (USA) (WiiWare).wad" size="46486912" crc="42b7d256" md5="f2a789f037bd28afce0f4cabda543b6f" sha1="0bb2bc1759f26ac4a72ca51896877a89de48ee2d"/>
+    <url>https://retroachievements.org/game/35968/hashes</url>
+    <hash>a0318b3c21745f60b27398bbbfd65a01</hash>
+  </game>
+
+  <game name="Fire Emblem - Radiant Dawn (USA)">
+    <category>Retail</category>
+    <description>Fire Emblem - Radiant Dawn (USA)</description>
+    <release name="Fire Emblem - Radiant Dawn (USA)" region="USA"/>
+    <rom name="Fire Emblem - Radiant Dawn (USA).rvz" size="2775740340" crc="20b3ae37" md5="bcfffd3a6ab4d64735a252fad0040cc0" sha1="aa53b7ba0d434c404c67c1f2ebb2cbba1f498833"/>
+    <url>https://retroachievements.org/game/38/hashes</url>
+    <hash>7e6ee7afb477e752f12f53b5dc16b332</hash>
+  </game>
+
+  <game name="Fortune Street (USA)">
+    <category>Retail</category>
+    <description>Fortune Street (USA)</description>
+    <release name="Fortune Street (USA)" region="USA"/>
+    <rom name="Fortune Street (USA).rvz" size="685496716" crc="50a42ee1" md5="370be6d0261989c360d9118d6b6b6be3" sha1="a0cf007fb230241958c413e6dad1e6443a12b895"/>
+    <url>https://retroachievements.org/game/34587/hashes</url>
+    <hash>8446a0a745b709b2dd257581ebd8fc48</hash>
+  </game>
+
+  <game name="Fragile Dreams - Farewell Ruins of the Moon (Europe) (En,Ja,Fr,De)">
+    <category>Retail</category>
+    <description>Fragile Dreams - Farewell Ruins of the Moon (Europe) (En,Ja,Fr,De)</description>
+    <release name="Fragile Dreams - Farewell Ruins of the Moon (Europe) (En,Ja,Fr,De)" region="Europe"/>
+    <rom name="Fragile Dreams - Farewell Ruins of the Moon (Europe) (En,Ja,Fr,De).rvz" size="3988692804" crc="fb962fd9" md5="df2d561a880020fd1d56a49ef6eb74f1" sha1="325b718039cde3339e1db5e6c614fd190af3e25c"/>
+    <url>https://retroachievements.org/game/131/hashes</url>
+    <hash>f0ed24f09b7f87b57252e59ec4a423ce</hash>
+  </game>
+  <game name="Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr)" cloneof="Fragile Dreams - Farewell Ruins of the Moon (Europe) (En,Ja,Fr,De)">
+    <category>Retail</category>
+    <description>Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr)</description>
+    <release name="Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr)" region="USA"/>
+    <rom name="Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr).rvz" size="3962104564" crc="881bd1fd" md5="fc070898ad7aa61413ac2f6eea147cb3" sha1="ac98d05b15a431226a64e31d926405c34ae13f18"/>
+    <url>https://retroachievements.org/game/131/hashes</url>
+    <hash>462320776f8bb3e8a4ceb926b34268bf</hash>
+  </game>
+  <game name="Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr) (Pt-Br) (v1.0) (Projeto New Dreams)" cloneof="Fragile Dreams - Farewell Ruins of the Moon (Europe) (En,Ja,Fr,De)">
+    <category>Retail</category>
+    <description>Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr) (Pt-Br) (v1.0) (Projeto New Dreams)</description>
+    <release name="Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr) (Pt-Br) (v1.0) (Projeto New Dreams)" region="Portugal"/>
+    <rom name="Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr) (Pt-Br) (v1.0) (Projeto New Dreams).rvz" size="3470430316" crc="a32f1bda" md5="829d106b4f3e28be3c305215c8d64d4c" sha1="eb26a8bc513ccecc69a5ebd5baf36adb4561f158"/>
+    <url>https://retroachievements.org/game/131/hashes</url>
+    <hash>ad74a5c8cad92d18a74a8bf2974511af</hash>
+  </game>
+
+  <game name="Geometry Wars - Galaxies (USA)">
+    <category>Retail</category>
+    <description>Geometry Wars - Galaxies (USA)</description>
+    <release name="Geometry Wars - Galaxies (USA)" region="USA"/>
+    <rom name="Geometry Wars - Galaxies (USA).rvz" size="235528788" crc="8d2f94b8" md5="f70d2886a2713b732fa18c34a80b4f6d" sha1="048143a3a95fb674295f329155d1a130d50bbde4"/>
+    <url>https://retroachievements.org/game/34588/hashes</url>
+    <hash>f3312bfadbdfd07c0b2b76ec1a6fa4be</hash>
+  </game>
+
+  <game name="Go Vacation (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Go Vacation (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Go Vacation (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Go Vacation (Europe) (En,Fr,De,Es,It).rvz" size="3189178840" crc="8a5a0bc1" md5="9fb5d1de134916b21c2a9ee56a48dc4b" sha1="454fc7b477ef46f1305f6fa4a225fda0e0231d72"/>
+    <url>https://retroachievements.org/game/35935/hashes</url>
+    <hash>b28075bee6d4424dab167369c478e2c5</hash>
+  </game>
+
+  <game name="Godzilla - Unleashed (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Godzilla - Unleashed (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Godzilla - Unleashed (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Godzilla - Unleashed (Europe) (En,Fr,De,Es,It).rvz" size="1655167716" crc="5aac6d27" md5="c69a7128e372226dacd5f50921b32a09" sha1="726ca6c61b0702c94341a403bfb7175788a8ae6d"/>
+    <url>https://retroachievements.org/game/34681/hashes</url>
+    <hash>95cc4a2fe1289a60684a7587a3129475</hash>
+  </game>
+  <game name="Godzilla - Unleashed (USA) (En,Fr,Es)" cloneof="Godzilla - Unleashed (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Godzilla - Unleashed (USA) (En,Fr,Es)</description>
+    <release name="Godzilla - Unleashed (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Godzilla - Unleashed (USA) (En,Fr,Es).rvz" size="1655201276" crc="8db6c03e" md5="600a3e4622a4409c64af2f622ee109fb" sha1="ab0409cb50402f22e31cb1aa98d6b60192eb1a49"/>
+    <url>https://retroachievements.org/game/34681/hashes</url>
+    <hash>c6913b8ee86156ce408320473bcb76d7</hash>
+  </game>
+
+  <game name="Grill-Off with Ultra Hand! (USA) (Club Nintendo) (WiiWare)">
+    <category>Retail</category>
+    <description>Grill-Off with Ultra Hand! (USA) (Club Nintendo) (WiiWare)</description>
+    <release name="Grill-Off with Ultra Hand! (USA) (Club Nintendo) (WiiWare)" region="USA"/>
+    <rom name="Grill-Off with Ultra Hand! (USA) (Club Nintendo) (WiiWare).wad" size="24434496" crc="4fb2ac67" md5="ccf1313792dbcb7d921e258ff9f829e3" sha1="40edc95bd0591a483864491d104c9e2b39a08371"/>
+    <url>https://retroachievements.org/game/36125/hashes</url>
+    <hash>8dd6b5b0ba7444ddc15a7734ab34690c</hash>
+  </game>
+
+  <game name="Guitar Hero - Warriors of Rock (USA) (En,Fr)">
+    <category>Retail</category>
+    <description>Guitar Hero - Warriors of Rock (USA) (En,Fr)</description>
+    <release name="Guitar Hero - Warriors of Rock (USA) (En,Fr)" region="USA"/>
+    <rom name="Guitar Hero - Warriors of Rock (USA) (En,Fr).rvz" size="3775024848" crc="ebf76435" md5="a41b65f37079f865de9e956134590b5c" sha1="9758bc390bc7180b9b0c66e1cfbe9e0893c9cf16"/>
+    <url>https://retroachievements.org/game/34685/hashes</url>
+    <hash>312810f2b249957787abedf27f3d4af6</hash>
+  </game>
+
+  <game name="Heavenly Guardian (USA)">
+    <category>Retail</category>
+    <description>Heavenly Guardian (USA)</description>
+    <release name="Heavenly Guardian (USA)" region="USA"/>
+    <rom name="Heavenly Guardian (USA).rvz" size="65631332" crc="d9c62de6" md5="88ae464466972b4bab43a3bffe32e481" sha1="0fc7aebc4eb0da08ee9f719196561c9a09202b89"/>
+    <url>https://retroachievements.org/game/34599/hashes</url>
+    <hash>508756fea23057f7551d26617f342642</hash>
+  </game>
+  <game name="Legend of Sayuki (Europe) (En,Fr,Es,It)" cloneof="Heavenly Guardian (USA)">
+    <category>Retail</category>
+    <description>Legend of Sayuki (Europe) (En,Fr,Es,It)</description>
+    <release name="Legend of Sayuki (Europe) (En,Fr,Es,It)" region="Europe"/>
+    <rom name="Legend of Sayuki (Europe) (En,Fr,Es,It).rvz" size="240864128" crc="aab5cb00" md5="568c785a7eeb9aaf512fb765a3e14cb1" sha1="4c0986c7e069fdb764c4574840afc04c413a9d7e"/>
+    <url>https://retroachievements.org/game/34599/hashes</url>
+    <hash>888780064139a88a7fb72f7072b11c46</hash>
+  </game>
+
+  <game name="Endless Ocean 2 - Adventures of the Deep (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Endless Ocean 2 - Adventures of the Deep (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Endless Ocean 2 - Adventures of the Deep (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Endless Ocean 2 - Adventures of the Deep (Europe) (En,Fr,De,Es,It).rvz" size="792090356" crc="1e9cbf61" md5="6c145864bdaf4072ca03e429ae836bdb" sha1="fcdaa80a1d531e9a2293c4bfadae66f5dd2cbc98"/>
+    <url>https://retroachievements.org/game/37212/hashes</url>
+    <hash>e1bafed99e2c36701edc73c7b70d3f78</hash>
+  </game>
+  <game name="Endless Ocean - Blue World (USA)" cloneof="Endless Ocean 2 - Adventures of the Deep (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Endless Ocean - Blue World (USA)</description>
+    <release name="Endless Ocean - Blue World (USA)" region="USA"/>
+    <rom name="Endless Ocean - Blue World (USA).rvz" size="788955296" crc="aa249496" md5="ac58338923fa433802f4d6599199a54f" sha1="b390750eee0aeb30d70d83b6b21be821d45d200f"/>
+    <url>https://retroachievements.org/game/37212/hashes</url>
+    <hash>9df5f52c738643dd3aca7ca7e313ec94</hash>
+  </game>
+
+  <game name="Fluidity (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Fluidity (USA) (WiiWare)</description>
+    <release name="Fluidity (USA) (WiiWare)" region="USA"/>
+    <rom name="Fluidity (USA) (WiiWare).wad" size="35578624" crc="74f0f9bb" md5="169222a95445267af1d0205ccbc09dde" sha1="bcde8ffb1e8a445d0e64558e7cf63045bcad194f"/>
+    <url>https://retroachievements.org/game/34777/hashes</url>
+    <hash>ace246625ffa7b4789c053e841c40caf</hash>
+  </game>
+
+  <game name="Ghost Squad (USA)">
+    <category>Retail</category>
+    <description>Ghost Squad (USA)</description>
+    <release name="Ghost Squad (USA)" region="USA"/>
+    <rom name="Ghost Squad (USA).rvz" size="374775820" crc="4b96c0e1" md5="17c8ba462413f8e0bef04cb881e26585" sha1="435dced4f26e3615364809d5e73db74cf0a2cb03"/>
+    <url>https://retroachievements.org/game/34589/hashes</url>
+    <hash>c2ea9a622d442a0d643ca4f078af2801</hash>
+  </game>
+
+  <game name="Gummy Bears - Magical Medallion (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Gummy Bears - Magical Medallion (USA) (En,Fr,Es)</description>
+    <release name="Gummy Bears - Magical Medallion (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Gummy Bears - Magical Medallion (USA) (En,Fr,Es).rvz" size="308033528" crc="f5aa79b7" md5="9ac7fcef97a891e2d8cc86969f17dc4e" sha1="30c1300afd15259c753d6648ca9ee5b4890a4959"/>
+    <url>https://retroachievements.org/game/35610/hashes</url>
+    <hash>3af8891c659d637ca3bb089d41926050</hash>
+  </game>
+
+  <game name="Help Wanted (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Help Wanted (USA) (En,Fr,Es)</description>
+    <release name="Help Wanted (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Help Wanted (USA) (En,Fr,Es).rvz" size="1036359144" crc="1046a46c" md5="5b62afe5d5b870ee0e92408be93c2003" sha1="dd8fc61fb03473269a0df4efea448faf8264b50e"/>
+    <url>https://retroachievements.org/game/34597/hashes</url>
+    <hash>2f04796a9307672e1979813bfcd57ae9</hash>
+  </game>
+  <game name="Hataraku Hito (Japan)" cloneof="Help Wanted (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Hataraku Hito (Japan)</description>
+	<release name="Hataraku Hito (Japan)" region="Japan"/>
+    <rom name="Hataraku Hito (Japan).rvz" size="810027144" crc="330cfce2" md5="576e0a64a51d82f4f4aafd4d897b849f" sha1="bd69d05660ad56c733fba26598bafdd5a2b6426f"/>
+    <url>https://retroachievements.org/game/34597/hashes</url>
+    <hash>c441c09807489d142409d1540353d5b6</hash>
+  </game>
+
+  <game name="Ice Age 3 - Dawn of the Dinosaurs (Europe) (En,Fr,De,Es,Nl,Sv)">
+    <category>Retail</category>
+    <description>Ice Age 3 - Dawn of the Dinosaurs (Europe) (En,Fr,De,Es,Nl,Sv)</description>
+    <release name="Ice Age 3 - Dawn of the Dinosaurs (Europe) (En,Fr,De,Es,Nl,Sv)" region="Europe"/>
+    <rom name="Ice Age 3 - Dawn of the Dinosaurs (Europe) (En,Fr,De,Es,Nl,Sv).rvz" size="3126143572" crc="353f5a7b" md5="66b72c13d39bec841cd37209d175d687" sha1="ba2b7619b96fccc6852a1c88a02c536db39b8d36"/>
+    <url>https://retroachievements.org/game/35411/hashes</url>
+    <hash>1b45b24533e7f2dbaed24abb1f9cfd6e</hash>
+  </game>
+
+  <game name="Illvelo Wii (Japan)">
+    <category>Retail</category>
+    <description>Illvelo Wii (Japan)</description>
+    <release name="Illvelo Wii (Japan)" region="Japan"/>
+    <rom name="Illvelo Wii (Japan).rvz" size="660512732" crc="a7212ae5" md5="b41d203a99369e562f4281659fb5e825" sha1="e20aba972bed2db076843cdf8e8e1e3a510f30a8"/>
+    <url>https://retroachievements.org/game/34621/hashes</url>
+    <hash>b5fd715bbf080b2b323c2dc0dd7f6935</hash>
+  </game>
+
+  <game name="Imagine - Party Babyz (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Imagine - Party Babyz (USA) (En,Fr,Es)</description>
+    <release name="Imagine - Party Babyz (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Imagine - Party Babyz (USA) (En,Fr,Es).rvz" size="976273976" crc="0bb04333" md5="4de06492ddc7c925a3861fc1a55cf42a" sha1="b34a1a86a877a424b1e585445595079c52a0da4d"/>
+    <url>https://retroachievements.org/game/7770/hashes</url>
+    <hash>565288b0df14cab146e1b575043724b8</hash>
+  </game>
+
+  <game name="Indiana Jones and the Staff of Kings (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Indiana Jones and the Staff of Kings (USA) (En,Fr,Es)</description>
+    <release name="Indiana Jones and the Staff of Kings (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Indiana Jones and the Staff of Kings (USA) (En,Fr,Es).rvz" size="2859674144" crc="28567de8" md5="cce917a198f02225408fc2d32f5820a4" sha1="116d726a535a97486cd780c2ba3f7417ca6b07ed"/>
+    <url>https://retroachievements.org/game/35305/hashes</url>
+    <hash>76e418faa67a36f496f24743d7a7557b</hash>
+  </game>
+
+  <game name="Ivy the Kiwi (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Ivy the Kiwi (USA) (En,Fr,Es)</description>
+    <release name="Ivy the Kiwi (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Ivy the Kiwi (USA) (En,Fr,Es).rvz" size="232971496" crc="ee139dd0" md5="55e436a29b8746b54f89c3ff6d390a03" sha1="04ee751d5ce1d80baaf8038c16d99e0adccbb80b"/>
+    <url>https://retroachievements.org/game/7738/hashes</url>
+    <hash>6bb936980ae5193c71f2bdcb35f47a29</hash>
+  </game>
+
+  <game name="Just Dance (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Just Dance (USA) (En,Fr,Es)</description>
+    <release name="Just Dance (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Just Dance (USA) (En,Fr,Es).rvz" size="4116443420" crc="9b343a1a" md5="eee438fb8c4e774f1d2719f803e3518b" sha1="46aac2c2eb2db0137a797cbadc9068f98d219aa3"/>
+    <url>https://retroachievements.org/game/34902/hashes</url>
+    <hash>588b7182a93adf27de1c0d0feebf75ff</hash>
+  </game>
+
+  <game name="Just Dance 2020 (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Just Dance 2020 (USA) (En,Fr,Es)</description>
+    <release name="Just Dance 2020 (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Just Dance 2020 (USA) (En,Fr,Es).rvz" size="4154234616" crc="655b7bfd" md5="cfd7d2235e2fde64bb467fdb3da0d0cb" sha1="5ad852097965d01abc40a90b31522e33de506be0"/>
+    <url>https://retroachievements.org/game/35619/hashes</url>
+    <hash>a33184fa7be73ad6a015e08be4fd46d1</hash>
+  </game>
+
+  <game name="Kirby's Epic Yarn (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Kirby's Epic Yarn (USA) (En,Fr,Es)</description>
+    <release name="Kirby's Epic Yarn (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Kirby's Epic Yarn (USA) (En,Fr,Es).rvz" size="1522450808" crc="2ce18972" md5="8a66dd269d44775f5c60b211fc048fd1" sha1="b75b65b691e6b440fe763317b63d395b6ad585f2"/>
+    <url>https://retroachievements.org/game/149/hashes</url>
+    <hash>e3fa09877455294e939121e50f91e428</hash>
+  </game>
+  <game name="Kirby's Epic Yarn (Europe) (En,Fr,De,Es,It)" cloneof="Kirby's Epic Yarn (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Kirby's Epic Yarn (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Kirby's Epic Yarn (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Kirby's Epic Yarn (Europe) (En,Fr,De,Es,It).rvz" size="1600179136" crc="c79de023" md5="74192bdb6eda7e66550937c74a80b534" sha1="fc86b48708999955b1d8cc4f57df1042a7ed6908"/>
+    <url>https://retroachievements.org/game/149/hashes</url>
+    <hash>91abc336e4f8ca34869443efffc08665</hash>
+  </game>
+
+  <game name="Kirby's Return to Dream Land (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Kirby's Return to Dream Land (USA) (En,Fr,Es)</description>
+    <release name="Kirby's Return to Dream Land (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Kirby's Return to Dream Land (USA) (En,Fr,Es).rvz" size="1308625404" crc="e254e953" md5="51c6fc4dcd0b35fd7e7926a98c0f0606" sha1="6ffa9505aba4445e0d16f980b8e33b7c254deaca"/>
+    <url>https://retroachievements.org/game/104/hashes</url>
+    <hash>ad50325115bee56a6ec875fed32aa711</hash>
+  </game>
+
+  <game name="Klonoa (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Klonoa (USA) (En,Fr,Es)</description>
+    <release name="Klonoa (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Klonoa (USA) (En,Fr,Es).rvz" size="1476813856" crc="9371f79f" md5="81df99ab1e5b3257ab3b9e34c0ebee90" sha1="d10a16a43761bee34d5e0116d22b1c69ea3b5d5e"/>
+    <url>https://retroachievements.org/game/213/hashes</url>
+    <hash>1e82ca2258ac300253b81f65fac6fa45</hash>
+  </game>
+
+  <game name="Kororinpa (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Kororinpa (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Kororinpa (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Kororinpa (Europe) (En,Fr,De,Es,It).rvz" size="260881136" crc="fcd3ce66" md5="1643e656f35fc6e7e3871b707da0004b" sha1="f5e4ff50062f799f2874ca0cf55e5ace59ddc763"/>
+    <url>https://retroachievements.org/game/34613/hashes</url>
+    <hash>3e901d8d22053712123b9dcf28478364</hash>
+  </game>
+
+  <game name="La-Mulana (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>La-Mulana (USA) (WiiWare)</description>
+    <release name="La-Mulana (USA) (WiiWare)" region="USA"/>
+    <rom name="La-Mulana (USA) (WiiWare).wad" size="44990592" crc="6f11702b" md5="022705c7952cc307b12526a5c8936303" sha1="63290fcd9fbfaae2b01a466f8262b4ca1cdcb1d0"/>
+    <url>https://retroachievements.org/game/144/hashes</url>
+    <hash>c559476e8bac5c177ef481b4477bccd5</hash>
+  </game>
+  <game name="La-Mulana (Europe) (WiiWare)" cloneof="La-Mulana (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>La-Mulana (Europe) (WiiWare)</description>
+    <release name="La-Mulana (Europe) (WiiWare)" region="Europe"/>
+    <rom name="La-Mulana (Europe) (WiiWare).wad" size="44990592" crc="21675fd8" md5="4e873778c61a372088c37c7bf75399f6" sha1="fe90024e7dbb946cee28bf618650e465c42178b9"/>
+    <url>https://retroachievements.org/game/144/hashes</url>
+    <hash>09c3c437786a8f85ed81d0c951f219e9</hash>
+  </game>
+
+  <game name="La-Mulana (Japan) (WiiWare) (Specialty Subset - DLC)">
+    <category>Specialty Subset</category>
+    <description>La-Mulana (Japan) (WiiWare) (Specialty Subset - DLC)</description>
+    <release name="La-Mulana (Japan) (WiiWare) (Specialty Subset - DLC)" region="Japan"/>
+    <rom name="La-Mulana (Japan) (WiiWare) (Specialty Subset - DLC).rvz" size="44906176" crc="d7518d7a" md5="00245eaf75dce159b115ee88d4f389b3" sha1="8b047897237f0f767c0dd369c25a47e548732dda"/>
+    <url>https://retroachievements.org/game/38087/hashes</url>
+    <hash>8facd46d1eb02fb7d5e1ea6fb895ea4c</hash>
+  </game>
+  <game name="La-Mulana (Japan) (WiiWare) (En) (Mulbruk) (Specialty Subset - DLC)" cloneof="La-Mulana (Japan) (WiiWare) (Specialty Subset - DLC)">
+    <category>Specialty Subset</category>
+    <description>La-Mulana (Japan) (WiiWare) (En) (Mulbruk) (Specialty Subset - DLC)</description>
+    <release name="La-Mulana (Japan) (WiiWare) (En) (Mulbruk) (Specialty Subset - DLC)" region="English"/>
+    <rom name="La-Mulana (Japan) (WiiWare) (En) (Mulbruk) (Specialty Subset - DLC).rvz" size="44906176" crc="d7518d7a" md5="00245eaf75dce159b115ee88d4f389b3" sha1="8b047897237f0f767c0dd369c25a47e548732dda"/>
+    <url>https://retroachievements.org/game/38087/hashes</url>
+    <hash>fc5926fc25a66da2ec1ae8fc8203a500</hash>
+  </game>
+
+  <game name="Learning with the PooYoos - Episode 1 (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Learning with the PooYoos - Episode 1 (USA) (WiiWare)</description>
+    <release name="Learning with the PooYoos - Episode 1 (USA) (WiiWare)" region="USA"/>
+    <rom name="Learning with the PooYoos - Episode 1 (USA) (WiiWare).wad" size="40609344" crc="339f097d" md5="301a33706f4d742eacf8a4c873737bdc" sha1="10efda016c36ee0bfa4777779c4d5500d86e4936"/>
+    <url>https://retroachievements.org/game/38156/hashes</url>
+    <hash>757b698ae55883d6e39f2625d249a8f7</hash>
+  </game>
+
+  <game name="LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da) (Rev 1)">
+    <category>Retail</category>
+    <description>LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da) (Rev 1)</description>
+    <release name="LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da) (Rev 1)" region="Europe"/>
+    <rom name="LEGO Harry Potter - Years 1-4 (Europe) (En,Fr,De,Es,It,Da) (Rev 1).rvz" size="2313819736" crc="d939c94a" md5="00e2f0af79a87e1e00f03b94ad63e480" sha1="91f8d0611127bcc009229a656d939127174a3aa1"/>
+    <url>https://retroachievements.org/game/11077/hashes</url>
+    <hash>b8603236889ca86547ca5f5dddeb8693</hash>
+  </game>
+
+  <game name="LEGO Indiana Jones 2 - The Adventure Continues (Europe) (En,Fr,De,Es,It,Da)">
+    <category>Retail</category>
+    <description>LEGO Indiana Jones 2 - The Adventure Continues (Europe) (En,Fr,De,Es,It,Da)</description>
+    <release name="LEGO Indiana Jones 2 - The Adventure Continues (Europe) (En,Fr,De,Es,It,Da)" region="Europe"/>
+    <rom name="LEGO Indiana Jones 2 - The Adventure Continues (Europe) (En,Fr,De,Es,It,Da).rvz" size="3508700612" crc="05ae2113" md5="389548bbdd6ef9965773936ca3cd583a" sha1="548d7e715bb692e048f9b7062703ea225c3a9986"/>
+    <url>https://retroachievements.org/game/11087/hashes</url>
+    <hash>3bb41bd39f402aaf90c4b12d7caf1912</hash>
+  </game>
+
+  <game name="LEGO Indiana Jones - The Original Adventures (Europe) (En,Fr,De,Es,It,Da)">
+    <category>Retail</category>
+    <description>LEGO Indiana Jones - The Original Adventures (Europe) (En,Fr,De,Es,It,Da)</description>
+    <release name="LEGO Indiana Jones - The Original Adventures (Europe) (En,Fr,De,Es,It,Da)" region="Europe"/>
+    <rom name="LEGO Indiana Jones - The Original Adventures (Europe) (En,Fr,De,Es,It,Da).rvz" size="1650441896" crc="6457bbdf" md5="27788024a4f4a96834dc1522bee480c8" sha1="6fbb21ac508fab287b837725f7bdb417d6b468d8"/>
+    <url>https://retroachievements.org/game/11086/hashes</url>
+    <hash>a668cf6f0843b6580e37b8251f9a4271</hash>
+  </game>
+
+  <game name="LEGO Pirates of the Caribbean - The Video Game (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)">
+    <category>Retail</category>
+    <description>LEGO Pirates of the Caribbean - The Video Game (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
+    <release name="LEGO Pirates of the Caribbean - The Video Game (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" region="Europe"/>
+    <rom name="LEGO Pirates of the Caribbean - The Video Game (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).rvz" size="1511139044" crc="463bfab1" md5="b817b1eecbac1d942378afcf483525bb" sha1="4ed5a970928423793ed6bbac65ae14fc131a0d60"/>
+    <url>https://retroachievements.org/game/11090/hashes</url>
+    <hash>456c06d2a05f397e27108422429d2ba0</hash>
+  </game>
+
+  <game name="LEGO Star Wars III - The Clone Wars (Europe, Australia) (En,Fr,De,Es,It,Da) (Rev 1)">
+    <category>Retail</category>
+    <description>LEGO Star Wars III - The Clone Wars (Europe, Australia) (En,Fr,De,Es,It,Da) (Rev 1)</description>
+    <release name="LEGO Star Wars III - The Clone Wars (Europe, Australia) (En,Fr,De,Es,It,Da) (Rev 1)" region="Europe, Australia"/>
+    <rom name="LEGO Star Wars III - The Clone Wars (Europe, Australia) (En,Fr,De,Es,It,Da) (Rev 1).rvz" size="1696126128" crc="3c17087b" md5="886972e9a0b2ccf3650aacce2c5ffe31" sha1="094400c12a8432a1c369cb24c103ceafa75f9564"/>
+    <url>https://retroachievements.org/game/11089/hashes</url>
+    <hash>bbb48136433c9e43f2b9be097c1a9c5d</hash>
+  </game>
+  <game name="LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es) (Rev 1)" cloneof="LEGO Star Wars III - The Clone Wars (Europe, Australia) (En,Fr,De,Es,It,Da) (Rev 1)">
+    <category>Retail</category>
+    <description>LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es) (Rev 1)</description>
+    <release name="LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es) (Rev 1)" region="USA"/>
+    <rom name="LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es) (Rev 1).rvz" size="1673358348" crc="0e482360" md5="bde88fc84d4156c5376d3142a8284a4a" sha1="5a9fb4bb1a8acaaf7d0ff433300da4a1efd1e8f9"/>
+    <url>https://retroachievements.org/game/11089/hashes</url>
+    <hash>85a76f302796611f47d6a1774f5f207a</hash>
+  </game>
+
+  <game name="LEGO Star Wars - The Complete Saga (Europe) (En,Fr,De,Es,It,Da) (Rev 1)">
+    <category>Retail</category>
+    <description>LEGO Star Wars - The Complete Saga (Europe) (En,Fr,De,Es,It,Da) (Rev 1)</description>
+    <release name="LEGO Star Wars - The Complete Saga (Europe) (En,Fr,De,Es,It,Da) (Rev 1)" region="Europe"/>
+    <rom name="LEGO Star Wars - The Complete Saga (Europe) (En,Fr,De,Es,It,Da) (Rev 1).rvz" size="2171381972" crc="66cebe22" md5="be0f99e58b397ffadf4504e03414e322" sha1="10350712ed0457f3183a8c453ba23a92bbdfbe28"/>
+    <url>https://retroachievements.org/game/11088/hashes</url>
+    <hash>e8a38d82cfe29b0784fe0ee8b1c5e432</hash>
+  </game>
+  <game name="LEGO Star Wars - The Complete Saga (USA) (En,Fr,Es) (Rev 1)" cloneof="LEGO Star Wars - The Complete Saga (Europe) (En,Fr,De,Es,It,Da) (Rev 1)">
+    <category>Retail</category>
+    <description>LEGO Star Wars - The Complete Saga (USA) (En,Fr,Es) (Rev 1)</description>
+    <release name="LEGO Star Wars - The Complete Saga (USA) (En,Fr,Es) (Rev 1)" region="USA"/>
+    <rom name="LEGO Star Wars - The Complete Saga (USA) (En,Fr,Es) (Rev 1).rvz" size="2168363732" crc="e7b61b1b" md5="a8f6bc1e7fe8d3b1c24c59f2d5c13082" sha1="08ef78ea2422cb4f79f3668a721cf3be84894252"/>
+    <url>https://retroachievements.org/game/11088/hashes</url>
+    <hash>239aff994ae430e60f42a37e1e941f13</hash>
+  </game>
+
+  <game name="Lilt Line (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Lilt Line (USA) (WiiWare)</description>
+    <release name="Lilt Line (USA) (WiiWare)" region="USA"/>
+    <rom name="Lilt Line (USA) (WiiWare).wad" size="47618880" crc="806fef89" md5="eb3f7e27629c81d46ff15c6b18429c5a" sha1="b7d5c7e756f577ddabd5ae4091916bc74a395afa"/>
+    <url>https://retroachievements.org/game/34673/hashes</url>
+    <hash>4a3319e52d7e91292dc693b8b588d342</hash>
+  </game>
+  <game name="Lilt Line (Europe) (WiiWare)" cloneof="Lilt Line (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Lilt Line (Europe) (WiiWare)</description>
+    <release name="Lilt Line (Europe) (WiiWare)" region="Europe"/>
+    <rom name="Lilt Line (Europe) (WiiWare).wad" size="47613120" crc="2f6f2601" md5="f487a0784affa2776541221a33d5e900" sha1="554c6ef27e69226ba6f9a0f1fc3dc0c8110370e5"/>
+    <url>https://retroachievements.org/game/34673/hashes</url>
+    <hash>1a1e3a924b1564d6b5799e5a51d25a98</hash>
+  </game>
+
+  <game name="Link's Crossbow Training (USA) (En,Fr,Es) (Rev 1)">
+    <category>Retail</category>
+    <description>Link's Crossbow Training (USA) (En,Fr,Es) (Rev 1)</description>
+    <release name="Link's Crossbow Training (USA) (En,Fr,Es) (Rev 1)" region="USA"/>
+    <rom name="Link's Crossbow Training (USA) (En,Fr,Es) (Rev 1).rvz" size="344773076" crc="a28fe2ec" md5="af2b7d74e0907d4354a21d4ad067d3ee" sha1="446575e8e6a3eaa9d325c3e2929d067a25b1ca62"/>
+    <url>https://retroachievements.org/game/4071/hashes</url>
+    <hash>ace72e3eb884479c378e6b4e87e5ef17</hash>
+  </game>
+
+  <game name="Lost in Shadow (USA) (En,Fr,Es) (Rev 1)">
+    <category>Retail</category>
+    <description>Lost in Shadow (USA) (En,Fr,Es) (Rev 1)</description>
+    <release name="Lost in Shadow (USA) (En,Fr,Es) (Rev 1)" region="USA"/>
+    <rom name="Lost in Shadow (USA) (En,Fr,Es) (Rev 1).rvz" size="1219318132" crc="66c81247" md5="8d20bd4c13e16afb4a91964daa483fc9" sha1="437dc3e2ea077c5ec9e03e46c0238ba5c161fbac"/>
+    <url>https://retroachievements.org/game/4118/hashes</url>
+    <hash>99c2579a1db6e97cdf7016545723e1d3</hash>
+  </game>
+  <game name="Shadow's Tale, A (Europe) (En,Fr,De,Es,It)" cloneof="Lost in Shadow (USA) (En,Fr,Es) (Rev 1)">
+    <category>Retail</category>
+    <description>Shadow's Tale, A (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Shadow's Tale, A (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Shadow's Tale, A (Europe) (En,Fr,De,Es,It).rvz" size="1223153384" crc="cc4dd134" md5="3e990097a137d7c1d819b0e28039641c" sha1="278db59a34ab1d4ef72279bc520a49148aaca250"/>
+    <url>https://retroachievements.org/game/4118/hashes</url>
+    <hash>a3400153acf3386b4cc906b7cd11f940</hash>
+  </game>
+  <game name="Kage no Tou (Japan)" cloneof="Lost in Shadow (USA) (En,Fr,Es) (Rev 1)">
+    <category>Retail</category>
+    <description>Kage no Tou (Japan)</description>
+    <release name="Kage no Tou (Japan)" region="Japan"/>
+    <rom name="Kage no Tou (Japan).rvz" size="1226121384" crc="53df70d3" md5="fb556b3637c52e6aa448b95b94de3d5b" sha1="bace36787df40c233429e498ca15185d1a79e0ec"/>
+    <url>https://retroachievements.org/game/4118/hashes</url>
+    <hash>83afb3f324a5960dff775ea3671c6734</hash>
+  </game>
+
+  <game name="M&amp;M's Kart Racing (USA)">
+    <category>Retail</category>
+    <description>M&amp;M's Kart Racing (USA)</description>
+    <release name="M&amp;M's Kart Racing (USA)" region="USA"/>
+    <rom name="M&amp;M's Kart Racing (USA).rvz" size="302107516" crc="a8dac013" md5="a1e5186091d2d88e52294f3d8f7624e3" sha1="ac968893c96abfd56f4cfe02e85e8131c549e22b"/>
+    <url>https://retroachievements.org/game/34596/hashes</url>
+    <hash>3c9175e016d8810e3610e252d118557b</hash>
+  </game>
+
+  <game name="Marbles! Balance Challenge (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Marbles! Balance Challenge (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Marbles! Balance Challenge (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Marbles! Balance Challenge (Europe) (En,Fr,De,Es,It).rvz" size="602688352" crc="3cc7fe94" md5="f512fb0890d70fb631b060cf80530347" sha1="8ccabef82bc98c6786e753aa8ce0c4b598e5cf60"/>
+    <url>https://retroachievements.org/game/34612/hashes</url>
+    <hash>1e98b8204e91b3d5d0462c0b09a0ee0b</hash>
+  </game>
+
+  <game name="Mario &amp; Sonic at the Olympic Games (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Mario &amp; Sonic at the Olympic Games (USA) (En,Fr,Es)</description>
+    <release name="Mario &amp; Sonic at the Olympic Games (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Mario &amp; Sonic at the Olympic Games (USA) (En,Fr,Es).rvz" size="2037363724" crc="843f5bb0" md5="006f3461d97eb49e32faf7d9270934a8" sha1="d614640e28b95a42c6715084f13ec50d795b2e10"/>
+    <url>https://retroachievements.org/game/35126/hashes</url>
+    <hash>6a59f4a8765c7bd458da26b3d9901d60</hash>
+  </game>
+
+  <game name="Mario Kart Wii (Europe, Australia) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Mario Kart Wii (Europe, Australia) (En,Fr,De,Es,It)</description>
+    <release name="Mario Kart Wii (Europe, Australia) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Mario Kart Wii (Europe, Australia) (En,Fr,De,Es,It).rvz" size="2791471796" crc="29cc5633" md5="ba68b5d7602bb6cd3d51f301f205e3dd" sha1="f370351503d430e3a94a43a23cca7e10bf66d30c"/>
+    <url>https://retroachievements.org/game/11071/hashes</url>
+    <hash>029d08a3cb382ed439e29d660523eab4</hash>
+  </game>
+  <game name="Mario Kart Wii (USA) (En,Fr,Es)" cloneof="Mario Kart Wii (Europe, Australia) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Mario Kart Wii (USA) (En,Fr,Es)</description>
+    <release name="Mario Kart Wii (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Mario Kart Wii (USA) (En,Fr,Es).rvz" size="2785150188" crc="79bd58c0" md5="8e3c6612bb41c08fc713b0a500267d21" sha1="9b1d77b54c733edd8831ed28456c1e1018b04be9"/>
+    <url>https://retroachievements.org/game/11071/hashes</url>
+    <hash>9ecf6959a4837316e1fceb90e84e5491</hash>
+  </game>
+  <game name="Mario Kart Wii (Japan)" cloneof="Mario Kart Wii (Europe, Australia) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Mario Kart Wii (Japan)</description>
+    <release name="Mario Kart Wii (Japan)" region="Japan"/>
+    <rom name="Mario Kart Wii (Japan).rvz" size="2784533544" crc="45e1bea7" md5="feef87d071bbf5efdf72ccb21e7b38f9" sha1="74684e807bf9f3e8b32c1d73d574b2ee45235e42"/>
+    <url>https://retroachievements.org/game/11071/hashes</url>
+    <hash>50e87c47675003723deab19d1a16d283</hash>
+  </game>
+  <game name="Mario Kart Wii (Korea)" cloneof="Mario Kart Wii (Europe, Australia) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Mario Kart Wii (Korea)</description>
+    <release name="Mario Kart Wii (Korea)" region="Korea"/>
+    <rom name="Mario Kart Wii (Korea).rvz" size="2653490064" crc="5be84873" md5="91e6fc43f7921479f13a00779fc4dc4b" sha1="cbde69e857d224bc5f10a0065d3d0da196e58579"/>
+    <url>https://retroachievements.org/game/11071/hashes</url>
+    <hash>83eb97965f26d0b5347f6d77942f515f</hash>
+  </game>
+
+  <game name="Mario Party 8 (Europe, Australia) (En,Fr,De,Es,It) (Rev 1)">
+    <category>Retail</category>
+    <description>Mario Party 8 (Europe, Australia) (En,Fr,De,Es,It) (Rev 1)</description>
+    <release name="Mario Party 8 (Europe, Australia) (En,Fr,De,Es,It) (Rev 1)" region="Europe, Australia"/>
+    <rom name="Mario Party 8 (Europe, Australia) (En,Fr,De,Es,It) (Rev 1).rvz" size="3263564500" crc="656b6e89" md5="7c14b736839e351a4948720e932a79e2" sha1="fae1655298cceb59f35ce47951378f2f76d4112a"/>
+    <url>https://retroachievements.org/game/34763/hashes</url>
+    <hash>3a3d42011a2c0a234fcbf74232b717a7</hash>
+  </game>
+
+  <game name="Mario Sports Mix (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Mario Sports Mix (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Mario Sports Mix (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Mario Sports Mix (Europe) (En,Fr,De,Es,It).rvz" size="2407085748" crc="aa27d570" md5="89af13322b1019453905ae5ee0eaf850" sha1="cbe6df47db0ce63f79d5a2c55c3b574795bf0968"/>
+    <url>https://retroachievements.org/game/34696/hashes</url>
+    <hash>f390bfc7188716cc9b56f0d8455f3845</hash>
+  </game>
+  <game name="Mario Sports Mix (USA) (En,Fr,Es)" cloneof="Mario Sports Mix (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Mario Sports Mix (USA) (En,Fr,Es)</description>
+    <release name="Mario Sports Mix (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Mario Sports Mix (USA) (En,Fr,Es).rvz" size="2360303220" crc="84ad0e02" md5="e9da5b695c46f27d6dd6407f944b2e84" sha1="68e91e5dc8a2e6916e99c1b384db37607bf26027"/>
+    <url>https://retroachievements.org/game/34696/hashes</url>
+    <hash>08442b9c897d0603ac41fd605ac9e02f</hash>
+  </game>
+
+  <game name="Mario Strikers Charged (USA) (En,Fr,Es) (Rev 1)">
+    <category>Retail</category>
+    <description>Mario Strikers Charged (USA) (En,Fr,Es) (Rev 1)</description>
+    <release name="Mario Strikers Charged (USA) (En,Fr,Es) (Rev 1)" region="USA"/>
+    <rom name="Mario Strikers Charged (USA) (En,Fr,Es) (Rev 1).rvz" size="1772142876" crc="d44e838b" md5="86dd3d87dc0c37a0ac378de3aff91545" sha1="b204b51052da6b435b429a8b5d233fdd684c5f4f"/>
+    <url>https://retroachievements.org/game/34698/hashes</url>
+    <hash>c25723a48c76937838502df8401470f9</hash>
+  </game>
+
+  <game name="Mega Man 10 (Europe) (WiiWare)">
+    <category>Retail</category>
+    <description>Mega Man 10 (Europe) (WiiWare)</description>
+    <release name="Mega Man 10 (Europe) (WiiWare)" region="Europe"/>
+    <rom name="Mega Man 10 (Europe) (WiiWare).wad" size="20057472" crc="6747c722" md5="d8e7c524429ec4434419c766ebb4d449" sha1="7bf1cc0652973eec0e449aaa78d0f9fe3ecc1917"/>
+    <url>https://retroachievements.org/game/72/hashes</url>
+    <hash>cbc3d28473ab991156417ebd9d2369dc</hash>
+  </game>
+  <game name="Mega Man 10 (USA) (WiiWare)" cloneof="Mega Man 10 (Europe) (WiiWare)">
+    <category>Retail</category>
+    <description>Mega Man 10 (USA) (WiiWare)</description>
+    <release name="Mega Man 10 (USA) (WiiWare)" region="USA"/>
+    <rom name="Mega Man 10 (USA) (WiiWare).wad" size="20057216" crc="23bdd90d" md5="2fa23090f8da6fe749b86e5ad35384d2" sha1="885a4d09e29a801102e486cc86a6119db5cfdbe3"/>
+    <url>https://retroachievements.org/game/72/hashes</url>
+    <hash>0d5d2d73baeb5bd8d82c5e2faeda5e7b</hash>
+  </game>
+
+  <game name="Mega Man 9 (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Mega Man 9 (USA) (WiiWare)</description>
+    <release name="Mega Man 9 (USA) (WiiWare)" region="USA"/>
+    <rom name="Mega Man 9 (USA) (WiiWare).wad" size="15929536" crc="bc2a8fee" md5="9a28ccceb1b819aee87df000e99454af" sha1="4cb8183bc6b2878e889ea957eef3599b99df43f3"/>
+    <url>https://retroachievements.org/game/71/hashes</url>
+    <hash>088a541ccdc2d906d6b432cfca7a7959</hash>
+  </game>
+
+  <game name="Metroid Prime 3 - Corruption (USA)">
+    <category>Retail</category>
+    <description>Metroid Prime 3 - Corruption (USA)</description>
+    <release name="Metroid Prime 3 - Corruption (USA)" region="USA"/>
+    <rom name="Metroid Prime 3 - Corruption (USA).rvz" size="4062965232" crc="95047193" md5="5be39211df380c8b4a7fff995ba78f0d" sha1="1eefe08d28a759743fee4cd6f04c88cc95d6726f"/>
+    <url>https://retroachievements.org/game/34689/hashes</url>
+    <hash>19a1c0da8cad36165fb6287c3ea4adde</hash>
+  </game>
+  <game name="Metroid Prime 3 - Corruption (Europe) (En,Fr,De,Es,It)" cloneof="Metroid Prime 3 - Corruption (USA)">
+    <category>Retail</category>
+    <description>Metroid Prime 3 - Corruption (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Metroid Prime 3 - Corruption (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Metroid Prime 3 - Corruption (Europe) (En,Fr,De,Es,It).rvz" size="3958127496" crc="b1295aed" md5="b500799ada512e401bc3b60f5d802a7c" sha1="31b1b3ea7385e1e76c9dae4658763ebdfd5c226a"/>
+    <url>https://retroachievements.org/game/34689/hashes</url>
+    <hash>af70ac448acf6534cc9548cbf7368fa4</hash>
+  </game>
+
+  <game name="Metroid - Other M (USA) (En,Fr,Es) (Rev 1)">
+    <category>Retail</category>
+    <description>Metroid - Other M (USA) (En,Fr,Es) (Rev 1)</description>
+    <release name="Metroid - Other M (USA) (En,Fr,Es) (Rev 1)" region="USA"/>
+    <rom name="Metroid - Other M (USA) (En,Fr,Es) (Rev 1).rvz" size="6261031232" crc="d24265f8" md5="71838e77914d8271242496fc9f3b6efc" sha1="9766ae142251bd48da1ac5967849aca70b001a51"/>
+    <url>https://retroachievements.org/game/254/hashes</url>
+    <hash>fdf13885a6d492e2709cc6e351d3ee0d</hash>
+  </game>
+  <game name="Metroid - Other M (Europe) (En,Fr,De,Es,It) (Rev 1)" cloneof="Metroid - Other M (USA) (En,Fr,Es) (Rev 1)">
+    <category>Retail</category>
+    <description>Metroid - Other M (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
+    <release name="Metroid - Other M (Europe) (En,Fr,De,Es,It) (Rev 1)" region="Europe"/>
+    <rom name="Metroid - Other M (Europe) (En,Fr,De,Es,It) (Rev 1).rvz" size="6283800004" crc="bc6ce421" md5="d8005d6d746a15a2d3fdd7c0b02e1acf" sha1="6606d93f5a9e02542831bc6b59e146e31ecd9415"/>
+    <url>https://retroachievements.org/game/254/hashes</url>
+    <hash>7ebb786a693d48e922710ac39f21f39b</hash>
+  </game>
+  <game name="Metroid - Other M (USA) (En,Fr,Es)" cloneof="Metroid - Other M (USA) (En,Fr,Es) (Rev 1)">
+    <category>Retail</category>
+    <description>Metroid - Other M (USA) (En,Fr,Es)</description>
+    <release name="Metroid - Other M (USA) (En,Fr,Es)" region="World"/>
+    <rom name="Metroid - Other M (USA) (En,Fr,Es).rvz" size="6261031216" crc="e3986eba" md5="09e0d4e7d0bd8ab6d07e2b8fe33a26ed" sha1="12004edbd0364abdcb23df4e4ce3a5a91b4e2867"/>
+    <url>https://retroachievements.org/game/254/hashes</url>
+    <hash>7f35eaa0226f5d4538d6242463ed9ed5</hash>
+  </game>
+  <game name="Metroid - Other M (Europe) (En,Fr,De,Es,It)" cloneof="Metroid - Other M (USA) (En,Fr,Es) (Rev 1)">
+    <category>Retail</category>
+    <description>Metroid - Other M (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Metroid - Other M (Europe) (En,Fr,De,Es,It)" region="World"/>
+    <rom name="Metroid - Other M (Europe) (En,Fr,De,Es,It).rvz" size="6283799984" crc="ca798efa" md5="743d159a608326fbaf66fa438898a8af" sha1="ab8701d84ff6fb878e30e624ab34135b6defed88"/>
+    <url>https://retroachievements.org/game/254/hashes</url>
+    <hash>600c2d1206e3ada0181d56f7acbbe936</hash>
+  </game>
+
+  <game name="Monopoly Streets (Europe) (En,Fr,De,Es,It,Nl)">
+    <category>Retail</category>
+    <description>Monopoly Streets (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <release name="Monopoly Streets (Europe) (En,Fr,De,Es,It,Nl)" region="Europe"/>
+    <rom name="Monopoly Streets (Europe) (En,Fr,De,Es,It,Nl).rvz" size="1423684728" crc="3de3f588" md5="3c49fded9186d11b56c71437018173a6" sha1="049fcd8613addee2504955b6919547f38d747519"/>
+    <url>https://retroachievements.org/game/35391/hashes</url>
+    <hash>7a17a39afb8054b78fdca0e919e64ae2</hash>
+  </game>
+
+  <game name="Monster Hunter Tri (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Monster Hunter Tri (USA) (En,Fr,Es)</description>
+    <release name="Monster Hunter Tri (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Monster Hunter Tri (USA) (En,Fr,Es).rvz" size="2469242752" crc="3ae2599e" md5="1f4ed6b883fc2535762aca7773bab5fd" sha1="932b6cc0414471dcfe797811202717f19d5b27cc"/>
+    <url>https://retroachievements.org/game/208/hashes</url>
+    <hash>c4d5b4b2b6d259dbb40350e506f9dd14</hash>
+  </game>
+  <game name="Monster Hunter Tri (Europe) (En,Fr,De,Es,It)" cloneof="Monster Hunter Tri (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Monster Hunter Tri (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Monster Hunter Tri (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Monster Hunter Tri (Europe) (En,Fr,De,Es,It).rvz" size="2472166476" crc="133fcfa2" md5="c7f94f4ac34366e61ebfc38f51c2edb5" sha1="23381cbbd2d4e0dbd93b3c9674299cba6b3e32b4"/>
+    <url>https://retroachievements.org/game/208/hashes</url>
+    <hash>6689a58978a1e79ad2b26404972834da</hash>
+  </game>
+
+  <game name="Monster Hunter Tri (USA) (Specialty Subset - Loc Lac)">
+    <category>Retail</category>
+    <description>Monster Hunter Tri (USA) (Specialty Subset - Loc Lac)</description>
+    <release name="Monster Hunter Tri (USA) (Specialty Subset - Loc Lac)" region="USA"/>
+    <rom name="Monster Hunter Tri (USA) (Specialty Subset - Loc Lac).rvz" size="2273667828" crc="5b03d8d2" md5="68aa2f7400d03959b31c8a631bb09ca0" sha1="e3062bc61a3fc8cbc2384c0d6f9b76f8763af727"/>
+    <url>https://retroachievements.org/game/36547/hashes</url>
+    <hash>86caebfba53b40c1a22c0893afefc8ef</hash>
+  </game>
+  <game name="Monster Hunter Tri (Europe) (Specialty Subset - Loc Lac)" cloneof="Monster Hunter Tri (USA) (Specialty Subset - Loc Lac)">
+    <category>Retail</category>
+    <description>Monster Hunter Tri (Europe) (Specialty Subset - Loc Lac)</description>
+    <release name="Monster Hunter Tri (Europe) (Specialty Subset - Loc Lac)" region="Europe"/>
+    <rom name="Monster Hunter Tri (Europe) (Specialty Subset - Loc Lac).rvz" size="2273436580" crc="d763575c" md5="ca90a01b7432c4244851616c77b06e06" sha1="43babf13e00d84ebf5ec0b90afbcde9bae36f58e"/>
+    <url>https://retroachievements.org/game/36547/hashes</url>
+    <hash>7692f4a261f3d48eaa650c42123c0748</hash>
+  </game>
+
+  <game name="Mortimer Beckett and the Secrets of Spooky Manor (USA)">
+    <category>Retail</category>
+    <description>Mortimer Beckett and the Secrets of Spooky Manor (USA)</description>
+    <release name="Mortimer Beckett and the Secrets of Spooky Manor (USA)" region="USA"/>
+    <rom name="Mortimer Beckett and the Secrets of Spooky Manor (USA).rvz" size="304515060" crc="eccf1801" md5="82e80a3f01dd3ae7fb986acaf1be2c54" sha1="6c79498470792ced150e11c75022317149aa17fc"/>
+    <url>https://retroachievements.org/game/35662/hashes</url>
+    <hash>e06b791a7bd5d5bc3580e879b582c4e2</hash>
+  </game>
+
+  <game name="Mr Bean's Wacky World (USA)">
+    <category>Retail</category>
+    <description>Mr Bean's Wacky World (USA)</description>
+    <release name="Mr Bean's Wacky World (USA)" region="USA"/>
+    <rom name="Mr Bean's Wacky World (USA).rvz" size="475244588" crc="23c7e6dd" md5="7ceba8bd57654aa53315f452225fa9dd" sha1="86f6f3ebcb788a3d5490f30aa1e5872ecf40f930"/>
+    <url>https://retroachievements.org/game/35105/hashes</url>
+    <hash>ed527fa04239fe9773668d0d74039d1c</hash>
+  </game>
+
+  <game name="Mr. Driller W (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Mr. Driller W (USA) (WiiWare)</description>
+    <release name="Mr. Driller W (USA) (WiiWare)" region="USA"/>
+    <rom name="Mr. Driller W (USA) (WiiWare).wad" size="20380544" crc="3347e710" md5="3d2a3c19fcaa66fd9446cd3638a14568" sha1="4688a40392c5358d24ef848dc84a8535e24be7f6"/>
+    <url>https://retroachievements.org/game/34665/hashes</url>
+    <hash>38fe4db9f2231e5bf82a01a73f26dfc2</hash>
+  </game>
+  <game name="Mr. Driller W (Europe) (WiiWare)" cloneof="Mr. Driller W (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Mr. Driller W (Europe) (WiiWare)</description>
+    <release name="Mr. Driller W (Europe) (WiiWare)" region="Europe"/>
+    <rom name="Mr. Driller W (Europe) (WiiWare).wad" size="20381504" crc="f5addc6a" md5="cd7d611fd99ab9f2712540a0885813f9" sha1="c0d70ce54edbd9adf852632c617e610c25375afa"/>
+    <url>https://retroachievements.org/game/34665/hashes</url>
+    <hash>7e41d0858d3eabc29a5fbe13b9c47753</hash>
+  </game>
+
+  <game name="Muramasa - The Demon Blade (USA)">
+    <category>Retail</category>
+    <description>Muramasa - The Demon Blade (USA)</description>
+    <release name="Muramasa - The Demon Blade (USA)" region="USA"/>
+    <rom name="Muramasa - The Demon Blade (USA).rvz" size="766522184" crc="f2f0559c" md5="909104eb6d34364084dfce8ec2503803" sha1="59e7fce332aebcf705e0a476780b225c108d331b"/>
+    <url>https://retroachievements.org/game/43/hashes</url>
+    <hash>3e8de2850c5716f932e2c2c1479e1c5a</hash>
+  </game>
+  <game name="Muramasa - The Demon Blade (Europe) (En,Fr,De,Es,It)" cloneof="Muramasa - The Demon Blade (USA)">
+    <category>Retail</category>
+    <description>Muramasa - The Demon Blade (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Muramasa - The Demon Blade (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Muramasa - The Demon Blade (Europe) (En,Fr,De,Es,It).rvz" size="817413304" crc="8bfd6096" md5="4aa2e1cf1cb2a3dd3e47df35e0966690" sha1="cd91e52a4c95af1821cbd6a519874b48952fd67b"/>
+    <url>https://retroachievements.org/game/43/hashes</url>
+    <hash>aa5cf58eca4d8f18921c76cd7c6b2260</hash>
+  </game>
+
+  <game name="Muscle March (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Muscle March (USA) (WiiWare)</description>
+    <release name="Muscle March (USA) (WiiWare)" region="USA"/>
+    <rom name="Muscle March (USA) (WiiWare).wad" size="40086976" crc="c4ab5256" md5="3788fb4c04e685ca626ae83d419fa7f7" sha1="ed99ce114d9793dbf21d5c9589d7947afebd4259"/>
+    <url>https://retroachievements.org/game/35260/hashes</url>
+    <hash>bca5f2f3adcf1c10b0d50c48525172c5</hash>
+  </game>
+  <game name="Muscle March (Europe) (WiiWare)" cloneof="Muscle March (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Muscle March (Europe) (WiiWare)</description>
+    <release name="Muscle March (Europe) (WiiWare)" region="Europe"/>
+    <rom name="Muscle March (Europe) (WiiWare).wad" size="41826112" crc="0211d0b3" md5="00fffce07c1e0ce73cc2068ad183c98d" sha1="6bf2b248412cad9639a7f2c98ccc970c684cb2d0"/>
+    <url>https://retroachievements.org/game/35260/hashes</url>
+    <hash>9d07e91bb51a9ec0e456b36bfe5bfa13</hash>
+  </game>
+
+  <game name="Mushroom Men - The Spore Wars (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Mushroom Men - The Spore Wars (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Mushroom Men - The Spore Wars (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Mushroom Men - The Spore Wars (Europe) (En,Fr,De,Es,It).rvz" size="1611826256" crc="f9139d37" md5="a8a750127e0129d0786a7456485d091f" sha1="e3ced61c07c5c95c275350c910d33288b170da82"/>
+    <url>https://retroachievements.org/game/34914/hashes</url>
+    <hash>0eac5fca60477d218d4d245aa72c4101</hash>
+  </game>
+
+  <game name="MySims Kingdom (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Fi,Pl,Cs,Hu)">
+    <category>Retail</category>
+    <description>MySims Kingdom (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Fi,Pl,Cs,Hu)</description>
+    <release name="MySims Kingdom (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Fi,Pl,Cs,Hu)" region="Europe"/>
+    <rom name="MySims Kingdom (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Fi,Pl,Cs,Hu).rvz" size="2772562296" crc="6f37f29d" md5="60f70b1b5d87d4fd12bffb2b0eea4cc3" sha1="6c26578b8d33a96d4284a45e1985c38a8f6bdaca"/>
+    <url>https://retroachievements.org/game/34721/hashes</url>
+    <hash>e910ec103d7ccaf7c8a6a6690e27b589</hash>
+  </game>
+  <game name="MySims Kingdom (USA) (En,Fr,Es)" cloneof="MySims Kingdom (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Fi,Pl,Cs,Hu)">
+    <category>Retail</category>
+    <description>MySims Kingdom (USA) (En,Fr,Es)</description>
+    <release name="MySims Kingdom (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="MySims Kingdom (USA) (En,Fr,Es).rvz" size="2769594560" crc="b1711162" md5="44f19826ad36bfaced1d077155b71b15" sha1="588e41da6b55633ced2d388b7625206c9f4ffda4"/>
+    <url>https://retroachievements.org/game/34721/hashes</url>
+    <hash>4e0816a7831918210c445687cc49a4fc</hash>
+  </game>
+
+  <game name="Naruto - Clash of Ninja Revolution (USA)">
+    <category>Retail</category>
+    <description>Naruto - Clash of Ninja Revolution (USA)</description>
+    <release name="Naruto - Clash of Ninja Revolution (USA)" region="USA"/>
+    <rom name="Naruto - Clash of Ninja Revolution (USA).rvz" size="1041576024" crc="ff0f9445" md5="5092247106e2c09aa70db096a828a858" sha1="6d167cca0638f6e694ef287e6a763ca42257c6b8"/>
+    <url>https://retroachievements.org/game/34646/hashes</url>
+    <hash>9f0fa30d5a6b5fa1a1d317cda0075c6d</hash>
+  </game>
+  <game name="Naruto - Clash of Ninja Revolution - European Version (Europe) (En,Fr,De,Es,It)" cloneof="Naruto - Clash of Ninja Revolution (USA)">
+    <category>Retail</category>
+    <description>Naruto - Clash of Ninja Revolution - European Version (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Naruto - Clash of Ninja Revolution - European Version (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Naruto - Clash of Ninja Revolution - European Version (Europe) (En,Fr,De,Es,It).rvz" size="1220244324" crc="8bbdcf6f" md5="b3ca4f8dfe643b9c70b8c12d1e3f05c1" sha1="015716444e06164b6ccef9a4b1a5f87f54373eb5"/>
+    <url>https://retroachievements.org/game/34646/hashes</url>
+    <hash>30d5cca84dfc87b676720e775201e1f3</hash>
+  </game>
+
+  <game name="Need for Speed - Nitro (Europe) (En,Fr,De,Es,It,Nl)">
+    <category>Retail</category>
+    <description>Need for Speed - Nitro (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <release name="Need for Speed - Nitro (Europe) (En,Fr,De,Es,It,Nl)" region="Europe"/>
+    <rom name="Need for Speed - Nitro (Europe) (En,Fr,De,Es,It,Nl).rvz" size="1561536816" crc="4b2b7e92" md5="281f78f3b675295855259382e1ebce15" sha1="2c7f4da917fce2554730ec1bc33c19bc8a492b67"/>
+    <url>https://retroachievements.org/game/34593/hashes</url>
+    <hash>92e857be81d2f16371e275c935ff5843</hash>
+  </game>
+
+  <game name="New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2)">
+    <category>Retail</category>
+    <description>New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2)</description>
+    <release name="New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2)" region="USA"/>
+    <rom name="New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).rvz" size="439557680" crc="c1623656" md5="f232a49ca6082769d817eaeb22601a6a" sha1="e21323b72acca3db448b5a0a370428851b922414"/>
+    <url>https://retroachievements.org/game/95/hashes</url>
+    <hash>22072114884813d3693de1bf8ab04270</hash>
+  </game>
+  <game name="New Super Mario Bros. Wii (Europe) (En,Fr,De,Es,It) (Rev 2)" cloneof="New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2)">
+    <category>Retail</category>
+    <description>New Super Mario Bros. Wii (Europe) (En,Fr,De,Es,It) (Rev 2)</description>
+    <release name="New Super Mario Bros. Wii (Europe) (En,Fr,De,Es,It) (Rev 2)" region="Europe"/>
+    <rom name="New Super Mario Bros. Wii (Europe) (En,Fr,De,Es,It) (Rev 2).rvz" size="443297352" crc="d4f82a63" md5="83ddc9c16a28b112bf65295ca5fea990" sha1="0207b5381e38c62b6d5d7da9da23c3ba7ccb6771"/>
+    <url>https://retroachievements.org/game/95/hashes</url>
+    <hash>d989877def8288eb15970fa3e1d398dd</hash>
+  </game>
+
+  <game name="Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It)</description>
+    <release name="Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It)" region="USA"/>
+    <rom name="Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It).rvz" size="3641081888" crc="65755ad6" md5="91322e34454f45c4c1d4bb09058e0434" sha1="625ff34e086cc60c1aa39c4ce38d7a7fc481d5f6"/>
+    <url>https://retroachievements.org/game/7870/hashes</url>
+    <hash>39a26357e9a3c794fb8b6a5f7a5d5fcb</hash>
+  </game>
+
+  <game name="No More Heroes (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>No More Heroes (USA) (En,Fr,Es)</description>
+    <release name="No More Heroes (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="No More Heroes (USA) (En,Fr,Es).rvz" size="2705227156" crc="9402f2a1" md5="02606b276d9aa800c3dd299924a07cbf" sha1="492be159410f0f744cae3fe49a95ba76f22716ef"/>
+    <url>https://retroachievements.org/game/196/hashes</url>
+    <hash>4aeb38327b5cee7b08dd7a84eade30c5</hash>
+  </game>
+
+  <game name="No More Heroes 2 - Desperate Struggle (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>No More Heroes 2 - Desperate Struggle (USA) (En,Fr,Es)</description>
+    <release name="No More Heroes 2 - Desperate Struggle (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="No More Heroes 2 - Desperate Struggle (USA) (En,Fr,Es).rvz" size="2907700944" crc="35032a90" md5="3a39790afffeefc77081b472eaad396e" sha1="f9538adb76570233375d511496cd5ae5a9ef3257"/>
+    <url>https://retroachievements.org/game/197/hashes</url>
+    <hash>0676ea2625a90ab903c13c266a829988</hash>
+  </game>
+
+  <game name="Onechanbara - Bikini Zombie Slayers (USA) (En,Fr)">
+    <category>Retail</category>
+    <description>Onechanbara - Bikini Zombie Slayers (USA) (En,Fr)</description>
+    <release name="Onechanbara - Bikini Zombie Slayers (USA) (En,Fr)" region="USA"/>
+    <rom name="Onechanbara - Bikini Zombie Slayers (USA) (En,Fr).rvz" size="937211616" crc="208595a3" md5="fea0e3584c2e57e2bddbfcfa1e89566f" sha1="c0a0dd66ae23ebd5e651d70766c4e84c8e187c60"/>
+    <url>https://retroachievements.org/game/34614/hashes</url>
+    <hash>e2700b20073b08dd8b601680e9125761</hash>
+  </game>
+  <game name="Oneechanbara Revolution (Japan)" cloneof="Onechanbara - Bikini Zombie Slayers (USA) (En,Fr)">
+    <category>Retail</category>
+    <description>Oneechanbara Revolution (Japan)</description>
+    <release name="Oneechanbara Revolution (Japan)" region="Japan"/>
+    <rom name="Oneechanbara Revolution (Japan).rvz" size="708692416" crc="afeccbbf" md5="da17a61d2bb311392b74674ad905eb3d" sha1="b1e34753b81c280457f19a3f038d77b75b32afe9"/>
+    <url>https://retroachievements.org/game/34614/hashes</url>
+    <hash>0499cb38f14bf51009bba05de47f31c8</hash>
+  </game>
+  <game name="Onechanbara - Bikini Zombie Slayers (Europe) (En,Fr) (Rev 1)" cloneof="Onechanbara - Bikini Zombie Slayers (USA) (En,Fr)">
+    <category>Retail</category>
+    <description>Onechanbara - Bikini Zombie Slayers (Europe) (En,Fr) (Rev 1)</description>
+    <release name="Onechanbara - Bikini Zombie Slayers (Europe) (En,Fr) (Rev 1)" region="Europe"/>
+    <rom name="Onechanbara - Bikini Zombie Slayers (Europe) (En,Fr) (Rev 1).rvz" size="940178588" crc="c7c3c7a3" md5="1230b6b2493ded7d4e32d2c3fb897a99" sha1="3e3d54a9203b31f301f2314069cf4069f4331cf0"/>
+    <url>https://retroachievements.org/game/34614/hashes</url>
+    <hash>cd9c0fe66accdf099152da95a7a236c8</hash>
+  </game>
+
+  <game name="Pajama Sam - Don't Fear the Dark (USA)">
+    <category>Retail</category>
+    <description>Pajama Sam - Don't Fear the Dark (USA)</description>
+    <release name="Pajama Sam - Don't Fear the Dark (USA)" region="USA"/>
+    <rom name="Pajama Sam - Don't Fear the Dark (USA).rvz" size="329583240" crc="67f33a68" md5="6ab9814ef71981b50490a8d024935c08" sha1="2c780ace60bb237bd5d4052ef1663154b4f0ffb7"/>
+    <url>https://retroachievements.org/game/34590/hashes</url>
+    <hash>0ed6d891b440e766e21a6ec5078ab3f6</hash>
+  </game>
+
+  <game name="Pangya! Golf with Style (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Pangya! Golf with Style (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Pangya! Golf with Style (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Pangya! Golf with Style (Europe) (En,Fr,De,Es,It).rvz" size="3303031912" crc="34db7555" md5="5a3ecb6229b2a6768aa9926e73f6cea3" sha1="218afeba9b11e44b87e3237395d7514cb9b9e60c"/>
+    <url>https://retroachievements.org/game/34693/hashes</url>
+    <hash>d7e8ad744422d35e163085a2116c8328</hash>
+  </game>
+
+  <game name="Petz - Catz 2 (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Petz - Catz 2 (USA) (En,Fr,Es)</description>
+    <release name="Petz - Catz 2 (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Petz - Catz 2 (USA) (En,Fr,Es).rvz" size="883108492" crc="adef5d0a" md5="b367207067885486597a20b3f880215c" sha1="f5cbc17c4c8ce18de3ccfcec8f83fd03154e8050"/>
+    <url>https://retroachievements.org/game/35736/hashes</url>
+    <hash>2931911b3e30709e0122f5f23a28a2a6</hash>
+  </game>
+  <game name="Nyanko to Mahou no Boushi (Japan)" cloneof="Petz - Catz 2 (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Nyanko to Mahou no Boushi (Japan)</description>
+    <release name="Nyanko to Mahou no Boushi (Japan)" region="Japan"/>
+    <rom name="Nyanko to Mahou no Boushi (Japan).rvz" size="878267876" crc="e83c6083" md5="f187c7e06c31961cfc185a483c83657c" sha1="7f94279d40350ed5e416d4bfe56e91c31b97ddaa"/>
+    <url>https://retroachievements.org/game/35736/hashes</url>
+    <hash>e67d4ebda42913c4ad8969a84fc9d888</hash>
+  </game>
+  <game name="Catz (Europe) (En,Fr,De,Es,It,Nl)" cloneof="Petz - Catz 2 (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Catz (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <release name="Catz (Europe) (En,Fr,De,Es,It,Nl)" region="Europe"/>
+    <rom name="Catz (Europe) (En,Fr,De,Es,It,Nl).rvz" size="924331152" crc="c6f6ffe0" md5="9304204598b6dba38582f93301893d01" sha1="98cc0711a3cb4270dbeb89707133fc69df5d47d0"/>
+    <url>https://retroachievements.org/game/35736/hashes</url>
+    <hash>8a2c99a51e9d6010873cdf6e77e8e1dd</hash>
+  </game>
+  <game name="Catz (Scandinavia) (En,Fr,De,Es,It,Nl,Sv,No,Da)" cloneof="Petz - Catz 2 (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Catz (Scandinavia) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
+    <release name="Catz (Scandinavia) (En,Fr,De,Es,It,Nl,Sv,No,Da)" region="World"/>
+    <rom name="Catz (Scandinavia) (En,Fr,De,Es,It,Nl,Sv,No,Da).rvz" size="938005916" crc="804abdb8" md5="d239fb92bc2f37d802cdd559b642f2d6" sha1="b7963b74d48c2285af71bc3b53b94852afafbd68"/>
+    <url>https://retroachievements.org/game/35736/hashes</url>
+    <hash>2addb37845f122d6306061dd5358d323</hash>
+  </game>
+
+  <game name="Disney Phineas and Ferb - Across the 2nd Dimension (Europe) (En,Fr,De,Es,It,Nl)">
+    <category>Retail</category>
+    <description>Disney Phineas and Ferb - Across the 2nd Dimension (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <release name="Disney Phineas and Ferb - Across the 2nd Dimension (Europe) (En,Fr,De,Es,It,Nl)" region="Europe"/>
+    <rom name="Disney Phineas and Ferb - Across the 2nd Dimension (Europe) (En,Fr,De,Es,It,Nl).rvz" size="1949385556" crc="6e37a397" md5="b91e63fda19cfe93335bbf3d43e14847" sha1="5d2033e589167d5d41bb3904fc9a64649df66e83"/>
+    <url>https://retroachievements.org/game/35332/hashes</url>
+    <hash>3ef12c5a102e48b840b2e4326dfbd6a0</hash>
+  </game>
+
+  <game name="Disney Phineas and Ferb - Quest for Cool Stuff (USA)">
+    <category>Retail</category>
+    <description>Disney Phineas and Ferb - Quest for Cool Stuff (USA)</description>
+    <release name="Disney Phineas and Ferb - Quest for Cool Stuff (USA)" region="USA"/>
+    <rom name="Disney Phineas and Ferb - Quest for Cool Stuff (USA).rvz" size="397956400" crc="b61b26bd" md5="b4cdb33310637d2b68df5ef42bfef277" sha1="7495d315323a6292403081fb975a252b42355bc1"/>
+    <url>https://retroachievements.org/game/35117/hashes</url>
+    <hash>2bd4591467fe0f522075bdd867dbc724</hash>
+  </game>
+
+  <game name="Pinocchio's Puzzle (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Pinocchio's Puzzle (USA) (WiiWare)</description>
+    <release name="Pinocchio's Puzzle (USA) (WiiWare)" region="USA"/>
+    <rom name="Pinocchio's Puzzle (USA) (WiiWare).wad" size="17295168" crc="dc3c9a31" md5="a21934b81048a7a332197b3ef90ca493" sha1="30b0e79dc41451bfb9c4fbd8618b69fe07f64bac"/>
+    <url>https://retroachievements.org/game/38162/hashes</url>
+    <hash>8b4ec988b9a5add51447d4b677014c9a</hash>
+  </game>
+
+  <game name="Pokemon Fushigi no Dungeon - Ikuzo! Arashi no Boukendan (Japan) (WiiWare)">
+    <category>Retail</category>
+    <description>Pokemon Fushigi no Dungeon - Ikuzo! Arashi no Boukendan (Japan) (WiiWare)</description>
+    <release name="Pokemon Fushigi no Dungeon - Ikuzo! Arashi no Boukendan (Japan) (WiiWare)" region="Japan"/>
+    <rom name="Pokemon Fushigi no Dungeon - Ikuzo! Arashi no Boukendan (Japan) (WiiWare).wad" size="28391552" crc="eca431e2" md5="38b75093fc9c21d20ed24d58c343f985" sha1="4fc3f48831147a4f1f1a968a034db0d43a1f7c6c"/>
+    <url>https://retroachievements.org/game/35257/hashes</url>
+    <hash>81db39544d3d789992201ac89e17d0b1</hash>
+  </game>
+  <game name="Pokemon Fushigi no Dungeon - Ikuzo! Arashi no Boukendan (Japan) (En) (v1.03) (Specialagentape)" cloneof="Pokemon Fushigi no Dungeon - Ikuzo! Arashi no Boukendan (Japan) (WiiWare)">
+    <category>Retail</category>
+    <description>Pokemon Fushigi no Dungeon - Ikuzo! Arashi no Boukendan (Japan) (En) (v1.03) (Specialagentape)</description>
+    <release name="Pokemon Fushigi no Dungeon - Ikuzo! Arashi no Boukendan (Japan) (En) (v1.03) (Specialagentape)" region="World"/>
+    <rom name="Pokemon Fushigi no Dungeon - Ikuzo! Arashi no Boukendan (Japan) (En) (v1.03) (Specialagentape).wad" size="30371776" crc="e240f76b" md5="65457c6ddcc2e367cc822d5dd6141b6b" sha1="c83094b31d107a88d6652ab321743525ddce51cf"/>
+    <url>https://retroachievements.org/game/35257/hashes</url>
+    <hash>999a4c66c6823170a5ce9aafdfb530f2</hash>
+  </game>
+
+  <game name="Pokemon Rumble (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Pokemon Rumble (USA) (WiiWare)</description>
+    <release name="Pokemon Rumble (USA) (WiiWare)" region="USA"/>
+    <rom name="Pokemon Rumble (USA) (WiiWare).wad" size="27330304" crc="26ba0575" md5="1d161b3bf45792b9cf3b749f79383d57" sha1="fa02ca7a05596498f5980ce0faf351533a1c1b91"/>
+    <url>https://retroachievements.org/game/34747/hashes</url>
+    <hash>ea1b12d8f685a5e35854ee9e2f910747</hash>
+  </game>
+
+  <game name="PokePark 2 - Wonders Beyond (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>PokePark 2 - Wonders Beyond (Europe) (En,Fr,De,Es,It)</description>
+    <release name="PokePark 2 - Wonders Beyond (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="PokePark 2 - Wonders Beyond (Europe) (En,Fr,De,Es,It).rvz" size="1575091740" crc="78d1f4ae" md5="623b6ed1465e555a68bc573721ad4091" sha1="c6712429a13f6fba8ba4b7c2a9e3558603a779b9"/>
+    <url>https://retroachievements.org/game/34630/hashes</url>
+    <hash>9944955d3827cf43161c13a70540d397</hash>
+  </game>
+
+  <game name="PokePark Wii - Pikachu's Adventure (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>PokePark Wii - Pikachu's Adventure (Europe) (En,Fr,De,Es,It)</description>
+    <release name="PokePark Wii - Pikachu's Adventure (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="PokePark Wii - Pikachu's Adventure (Europe) (En,Fr,De,Es,It).rvz" size="2113692844" crc="7d625fb0" md5="684e47b2bbfbcbdc962ff509a793072c" sha1="522738479750b922a7ca6b48eb9cd548bc936d0c"/>
+    <url>https://retroachievements.org/game/34629/hashes</url>
+    <hash>0b3d74a769e179a7533b5a2972325510</hash>
+  </game>
+
+  <game name="Professor Heinz Wolff's Gravity (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Professor Heinz Wolff's Gravity (USA) (En,Fr,Es)</description>
+    <release name="Professor Heinz Wolff's Gravity (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Professor Heinz Wolff's Gravity (USA) (En,Fr,Es).rvz" size="230535628" crc="efbfbd41" md5="0b94ac8ed42e660c2cf072650d28ae1e" sha1="4a3ea7d6271447834caad1859c5ced6d0212d8ef"/>
+    <url>https://retroachievements.org/game/36015/hashes</url>
+    <hash>fbc8bd8131b35c58677cba8494cfe979</hash>
+  </game>
+
+  <game name="Punch-Out!! (Europe, Australia) (En,Fr,De,Es,It) (Rev 1)">
+    <category>Retail</category>
+    <description>Punch-Out!! (Europe, Australia) (En,Fr,De,Es,It) (Rev 1)</description>
+    <release name="Punch-Out!! (Europe, Australia) (En,Fr,De,Es,It) (Rev 1)" region="Europe, Australia"/>
+    <rom name="Punch-Out!! (Europe, Australia) (En,Fr,De,Es,It) (Rev 1).rvz" size="3176094032" crc="bd6347a4" md5="cc5b8701d905fbfd3682b1358d349228" sha1="867c226bd2747e6e08f8f9353af23aec916564f2"/>
+    <url>https://retroachievements.org/game/171/hashes</url>
+    <hash>c43d198232981ac75a1dce7b4eb7f803</hash>
+  </game>
+
+  <game name="Puyo Puyo!! Puyopuyo 20th Anniversary (Japan)">
+    <category>Retail</category>
+    <description>Puyo Puyo!! Puyopuyo 20th Anniversary (Japan)</description>
+    <release name="Puyo Puyo!! Puyopuyo 20th Anniversary (Japan)" region="Japan"/>
+    <rom name="Puyo Puyo!! Puyopuyo 20th Anniversary (Japan).rvz" size="941856260" crc="e267a2d0" md5="85079a1075f92055327e7e06e2e1f816" sha1="75166831786d0c16b45274a0422ebc1c1aa01c46"/>
+    <url>https://retroachievements.org/game/35124/hashes</url>
+    <hash>ebafa08edd8805b9894aa9d2fcebeac9</hash>
+  </game>
+
+  <game name="Rabbids Go Home (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)">
+    <category>Retail</category>
+    <description>Rabbids Go Home (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
+    <release name="Rabbids Go Home (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)" region="Europe"/>
+    <rom name="Rabbids Go Home (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).rvz" size="1889198576" crc="6d9660e3" md5="919bf3e835347b7e4e06122bbe62e3d4" sha1="f3ab0646b8dc6668ba7036914b4ab0759eebaf3a"/>
+    <url>https://retroachievements.org/game/34701/hashes</url>
+    <hash>f4ea22aceb8441e55896e9f0239d6758</hash>
+  </game>
+
+  <game name="Rayman Origins (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Rayman Origins (USA) (En,Fr,Es)</description>
+    <release name="Rayman Origins (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Rayman Origins (USA) (En,Fr,Es).rvz" size="3417519680" crc="eae792ef" md5="b96bad20c92f22b13feb8d199b0a8d7c" sha1="f3700dd6fdfdf00807fae88a859d13e5c0336136"/>
+    <url>https://retroachievements.org/game/34703/hashes</url>
+    <hash>b7317accd9e670874bf8bf69979b0518</hash>
+  </game>
+  <game name="Rayman Origins (Europe) (En,Fr,De,Es,It,Nl)" cloneof="Rayman Origins (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Rayman Origins (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <release name="Rayman Origins (Europe) (En,Fr,De,Es,It,Nl)" region="Europe"/>
+    <rom name="Rayman Origins (Europe) (En,Fr,De,Es,It,Nl).rvz" size="3440350528" crc="a3b371b9" md5="dc27b0f93907d17d286883a87bf0a8eb" sha1="398f7bd68145777e38d9acf3e4f3f16081a8d306"/>
+    <url>https://retroachievements.org/game/34703/hashes</url>
+    <hash>8932db88d33468d51e803d9a2b2bc5ae</hash>
+  </game>
+
+  <game name="Rayman - Raving Rabbids 2 (USA) (En,Fr,Es) (Rev 1)">
+    <category>Retail</category>
+    <description>Rayman - Raving Rabbids 2 (USA) (En,Fr,Es) (Rev 1)</description>
+    <release name="Rayman - Raving Rabbids 2 (USA) (En,Fr,Es) (Rev 1)" region="USA"/>
+    <rom name="Rayman - Raving Rabbids 2 (USA) (En,Fr,Es) (Rev 1).rvz" size="3811707744" crc="d74bb38b" md5="aacf6e5538c3bd4a625570731057c20a" sha1="44a7e5bba27f796b239059513652a364d8c39642"/>
+    <url>https://retroachievements.org/game/34862/hashes</url>
+    <hash>495d4e7fd8ccdccc71d47f1a67ca3a5a</hash>
+  </game>
+
+  <game name="Resident Evil - The Darkside Chronicles (USA)">
+    <category>Retail</category>
+    <description>Resident Evil - The Darkside Chronicles (USA)</description>
+    <release name="Resident Evil - The Darkside Chronicles (USA)" region="USA"/>
+    <rom name="Resident Evil - The Darkside Chronicles (USA).rvz" size="3301457052" crc="9bad2fda" md5="6708da470e9d35090750ca3317436462" sha1="6b8491e997929b82a5dceae6ac072259a30a7c12"/>
+    <url>https://retroachievements.org/game/34766/hashes</url>
+    <hash>a550a2c42f020f31b91301218702aeab</hash>
+  </game>
+  <game name="Resident Evil - The Darkside Chronicles (Europe) (En,Ja,Fr,De,Es,It)" cloneof="Resident Evil - The Darkside Chronicles (USA)">
+    <category>Retail</category>
+    <description>Resident Evil - The Darkside Chronicles (Europe) (En,Ja,Fr,De,Es,It)</description>
+    <release name="Resident Evil - The Darkside Chronicles (Europe) (En,Ja,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Resident Evil - The Darkside Chronicles (Europe) (En,Ja,Fr,De,Es,It).rvz" size="3304287668" crc="de3bcea8" md5="5e98698be2704a17d36a86d8b4fd60f9" sha1="34d5cd3c01143dd4aeaa35391f014c4512c3bb0f"/>
+    <url>https://retroachievements.org/game/34766/hashes</url>
+    <hash>3882d4ccbec0798e256cd9f7b9ef0a05</hash>
+  </game>
+  <game name="Resident Evil - The Darkside Chronicles (USA) (Pt-Br) (v1.0) (Angel333119, Lobo Nintendista, Valclark Junior)" cloneof="Resident Evil - The Darkside Chronicles (USA)">
+    <category>Retail</category>
+    <description>Resident Evil - The Darkside Chronicles (USA) (Pt-Br) (v1.0) (Angel333119, Lobo Nintendista, Valclark Junior)</description>
+    <release name="Resident Evil - The Darkside Chronicles (USA) (Pt-Br) (v1.0) (Angel333119, Lobo Nintendista, Valclark Junior)" region="World"/>
+    <rom name="Resident Evil - The Darkside Chronicles (USA) (Pt-Br) (v1.0) (Angel333119, Lobo Nintendista, Valclark Junior).rvz" size="3133149900" crc="e2d098f1" md5="734da9453011685ae1e8db2a43b1cc16" sha1="0a14db5f647e450e5e6057a38879291f764fe17c"/>
+    <url>https://retroachievements.org/game/34766/hashes</url>
+    <hash>61dc0c56166adc0c4ea3859fc457bf90</hash>
+  </game>
+  <game name="Resident Evil - The Darkside Chronicles (USA) (Ru) (Metallist)" cloneof="Resident Evil - The Darkside Chronicles (USA)">
+    <category>Retail</category>
+    <description>Resident Evil - The Darkside Chronicles (USA) (Ru) (Metallist)</description>
+    <release name="Resident Evil - The Darkside Chronicles (USA) (Ru) (Metallist)" region="World"/>
+    <rom name="Resident Evil - The Darkside Chronicles (USA) (Ru) (Metallist).rvz" size="3300116384" crc="ee0a2fef" md5="2a885ab381f98549e1f20abb37bbe867" sha1="9019adba515069591f7f861a02a43a6bf31f0d9e"/>
+    <url>https://retroachievements.org/game/34766/hashes</url>
+    <hash>4f67f2810636756b7d78fb5c7b13dae7</hash>
+  </game>
+
+  <game name="Resident Evil - The Umbrella Chronicles (USA)">
+    <category>Retail</category>
+    <description>Resident Evil - The Umbrella Chronicles (USA)</description>
+    <release name="Resident Evil - The Umbrella Chronicles (USA)" region="USA"/>
+    <rom name="Resident Evil - The Umbrella Chronicles (USA).rvz" size="3359640752" crc="72c658ce" md5="da5e6c8ef6fc66abaeaced4c8be5fa6c" sha1="bc96c8d24c414bb9f79f12eb9157225b1abf2453"/>
+    <url>https://retroachievements.org/game/97/hashes</url>
+    <hash>935314eae9d0f4648ab9e50e9f9b9aa4</hash>
+  </game>
+  <game name="Biohazard - Umbrella Chronicles (Japan)" cloneof="Resident Evil - The Umbrella Chronicles (USA)">
+    <category>Retail</category>
+    <description>Biohazard - Umbrella Chronicles (Japan)</description>
+    <release name="Biohazard - Umbrella Chronicles (Japan)" region="Japan"/>
+    <rom name="Biohazard - Umbrella Chronicles (Japan).rvz" size="3359661884" crc="cbfa9722" md5="cbaecad7696b2bcf3a047922927dc47a" sha1="16fffeb223b0d7cd972a61f6692d6980aa6c24b8"/>
+    <url>https://retroachievements.org/game/97/hashes</url>
+    <hash>d5b2f5cc83e7969c89bc2a5150c84f7c</hash>
+  </game>
+  <game name="Resident Evil - The Umbrella Chronicles (USA) (Pt-Br) (Lobo Nintendista)" cloneof="Resident Evil - The Umbrella Chronicles (USA)">
+    <category>Retail</category>
+    <description>Resident Evil - The Umbrella Chronicles (USA) (Pt-Br) (Lobo Nintendista)</description>
+    <release name="Resident Evil - The Umbrella Chronicles (USA) (Pt-Br) (Lobo Nintendista)" region="Portugal"/>
+    <rom name="Resident Evil - The Umbrella Chronicles (USA) (Pt-Br) (Lobo Nintendista).rvz" size="3358918644" crc="8a0cdf4c" md5="052bc433eb3026624690f37865ca5b33" sha1="55879f2ce32b5f29dee001626db16e84676e3656"/>
+    <url>https://retroachievements.org/game/97/hashes</url>
+    <hash>0ed875fd7a2695a0d2906c4e37d1856d</hash>
+  </game>
+  <game name="Resident Evil - The Umbrella Chronicles (USA) (Ru) (Metallist)" cloneof="Resident Evil - The Umbrella Chronicles (USA)">
+    <category>Retail</category>
+    <description>Resident Evil - The Umbrella Chronicles (USA) (Ru) (Metallist)</description>
+    <release name="Resident Evil - The Umbrella Chronicles (USA) (Ru) (Metallist)" region="Russia"/>
+    <rom name="Resident Evil - The Umbrella Chronicles (USA) (Ru) (Metallist).rvz" size="4177526784" crc="6f99bb4b" md5="92563e0f82a6720df7bc1f66db11031e" sha1="316776056c3de6c271fc4a4bddc852024533773e"/>
+    <url>https://retroachievements.org/game/97/hashes</url>
+    <hash>a51b54ee15f2482ee17a90bb68e9315c</hash>
+  </game>
+
+  <game name="Retro City Rampage DX (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Retro City Rampage DX (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Retro City Rampage DX (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Retro City Rampage DX (Europe) (En,Fr,De,Es,It).rvz" size="193190196" crc="bd479885" md5="023591a3a0bc57ef65a6a8dcaeb02125" sha1="78b7416083461509fd15d89e89e84742e52bcf8e"/>
+    <url>https://retroachievements.org/game/34735/hashes</url>
+    <hash>b5a0491c83dc16458b9a6a9adc58faf9</hash>
+  </game>
+
+  <game name="Rodea the Sky Soldier (USA) (En,Ja,Fr,De)">
+    <category>Retail</category>
+    <description>Rodea the Sky Soldier (USA) (En,Ja,Fr,De)</description>
+    <release name="Rodea the Sky Soldier (USA) (En,Ja,Fr,De)" region="USA"/>
+    <rom name="Rodea the Sky Soldier (USA) (En,Ja,Fr,De).rvz" size="1771079096" crc="1afd5a9b" md5="13bf09fc71d927cd626f28afb99491fb" sha1="150082049e75eed8d5029713d49d9ce2616bdfbd"/>
+    <url>https://retroachievements.org/game/34706/hashes</url>
+    <hash>edf1a722735358310ffb089ccafd3bed</hash>
+  </game>
+
+  <game name="Samurai Warriors 3 (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Samurai Warriors 3 (USA) (En,Fr,Es)</description>
+    <release name="Samurai Warriors 3 (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Samurai Warriors 3 (USA) (En,Fr,Es).rvz" size="6425971144" crc="854f3af5" md5="a2f3d72bb5843d3ef503e460a3b51167" sha1="0c9b9a99f74c2f44ea50818a3597afd3934fec0a"/>
+    <url>https://retroachievements.org/game/34694/hashes</url>
+    <hash>f0f49f213e0c271943d42c50e122cb3a</hash>
+  </game>
+
+  <game name="Shakedown - Hawaii (Europe)">
+    <category>Retail</category>
+    <description>Shakedown - Hawaii (Europe)</description>
+    <release name="Shakedown - Hawaii (Europe)" region="Europe"/>
+    <rom name="Shakedown - Hawaii (Europe).rvz" size="230140860" crc="1223a151" md5="f96b51a4c799d12262dc2f87cb87af6d" sha1="0e1f25269883ff72259926452cd76ee979002b94"/>
+    <url>https://retroachievements.org/game/34770/hashes</url>
+    <hash>a6741708d5b59f4eebfbfc7d3c2df7f0</hash>
+  </game>
+
+  <game name="Skylanders - Spyro's Adventure (Europe, Australia) (En,Fr,De,Es,It,Nl) (Rev 3)">
+    <category>Retail</category>
+    <description>Skylanders - Spyro's Adventure (Europe, Australia) (En,Fr,De,Es,It,Nl) (Rev 3)</description>
+    <release name="Skylanders - Spyro's Adventure (Europe, Australia) (En,Fr,De,Es,It,Nl) (Rev 3)" region="Europe"/>
+    <rom name="Skylanders - Spyro's Adventure (Europe, Australia) (En,Fr,De,Es,It,Nl) (Rev 3).rvz" size="4146634192" crc="ad32d2e3" md5="df195c79dbfffd390f352063945d563f" sha1="6659c27384e5b247716dfb53b49963efe6aa692c"/>
+    <url>https://retroachievements.org/game/34714/hashes</url>
+    <hash>f1794d9a8cb80c91ebbf058a0a1af6fc</hash>
+  </game>
+  <game name="Skylanders - Spyro's Adventure (USA) (En,Fr) (Rev 1)" cloneof="Skylanders - Spyro's Adventure (Europe, Australia) (En,Fr,De,Es,It,Nl) (Rev 3)">
+    <category>Retail</category>
+    <description>Skylanders - Spyro's Adventure (USA) (En,Fr) (Rev 1)</description>
+    <release name="Skylanders - Spyro's Adventure (USA) (En,Fr) (Rev 1)" region="USA"/>
+    <rom name="Skylanders - Spyro's Adventure (USA) (En,Fr) (Rev 1).rvz" size="4123864112" crc="67642413" md5="f95a44cbc50eb23f42cfbe93d590132f" sha1="f7c6a70e86b0125edfaddf90c1c002fe57c3784f"/>
+    <url>https://retroachievements.org/game/34714/hashes</url>
+    <hash>be9ca2db44eaf64d7c69ff8024f75d0e</hash>
+  </game>
+<game name="Skylanders - Spyro's Adventure (Scandinavia) (Sv,No,Da,Fi) (Rev 3)" cloneof="Skylanders - Spyro's Adventure (Europe, Australia) (En,Fr,De,Es,It,Nl) (Rev 3)">
+    <category>Retail</category>
+    <description>Skylanders - Spyro's Adventure (Scandinavia) (Sv,No,Da,Fi) (Rev 3)</description>
+    <release name="Skylanders - Spyro's Adventure (Scandinavia) (Sv,No,Da,Fi) (Rev 3)" region="Scandinavia"/>
+    <rom name="Skylanders - Spyro's Adventure (Scandinavia) (Sv,No,Da,Fi) (Rev 3).rvz" size="3963832520" crc="d0267cdf" md5="87380804e085b37f2d1fe045d1330fb1" sha1="2412d7889f3ed0651d0e4c52e2501cbb5cc327ad"/>
+    <url>https://retroachievements.org/game/34714/hashes</url>
+    <hash>22f79d983871d1e52a164dc721184a9c</hash>
+  </game>
+  <game name="Skylanders - Spyro's Adventure (Brazil) (En,Es)" cloneof="Skylanders - Spyro's Adventure (Europe, Australia) (En,Fr,De,Es,It,Nl) (Rev 3)">
+    <category>Retail</category>
+    <description>Skylanders - Spyro's Adventure (Brazil) (En,Es)</description>
+	<release name="Skylanders - Spyro's Adventure (Brazil) (En,Es)" region="Brazil"/>
+    <rom name="Skylanders - Spyro's Adventure (Brazil) (En,Es).rvz" size="4123759048" crc="9624903d" md5="d8c586486775462e0f4cc73611811b28" sha1="40d847a1acc1e950e2c3125fc83e919695e46ce7"/>
+    <url>https://retroachievements.org/game/34714/hashes</url>
+    <hash>02b85939df279ddfedd75c0ee6e3434b</hash>
+  </game>
+
+  <game name="Snail Mail (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Snail Mail (USA) (WiiWare)</description>
+    <release name="Snail Mail (USA) (WiiWare)" region="USA"/>
+    <rom name="Snail Mail (USA) (WiiWare).wad" size="18390208" crc="43947d9c" md5="522479abb72d63938559da665632f01e" sha1="5ee4eb6038ed5a530333488192d2678e7bf5284f"/>
+    <url>https://retroachievements.org/game/34660/hashes</url>
+    <hash>0669a6e06bf4befe9ba6a103c6c3ed0a</hash>
+  </game>
+
+  <game name="Sonic and the Black Knight (Europe) (En,Ja,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Sonic and the Black Knight (Europe) (En,Ja,Fr,De,Es,It)</description>
+    <release name="Sonic and the Black Knight (Europe) (En,Ja,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Sonic and the Black Knight (Europe) (En,Ja,Fr,De,Es,It).rvz" size="3444725652" crc="5eb26991" md5="ceb9ea67fd7ee17eff7fac86c74a4a5c" sha1="942ce96499edcda5b573b99e23b0fb90f0782b0a"/>
+    <url>https://retroachievements.org/game/4039/hashes</url>
+    <hash>e728410927939796dabd5f665f0040d4</hash>
+  </game>
+
+  <game name="Sonic Colors (USA) (En,Ja,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Sonic Colors (USA) (En,Ja,Fr,De,Es,It)</description>
+    <release name="Sonic Colors (USA) (En,Ja,Fr,De,Es,It)" region="USA"/>
+    <rom name="Sonic Colors (USA) (En,Ja,Fr,De,Es,It).rvz" size="3779430928" crc="0a012133" md5="9485dc706b8bed29e82e8d093fbdb9e7" sha1="505e0d7448f7911d487a7278d19009c1b724263f"/>
+    <url>https://retroachievements.org/game/7858/hashes</url>
+    <hash>54c5157eb180b2066fe4d796e245f72f</hash>
+  </game>
+
+  <game name="Sonic the Hedgehog 4 - Episode I (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Sonic the Hedgehog 4 - Episode I (USA) (WiiWare)</description>
+    <release name="Sonic the Hedgehog 4 - Episode I (USA) (WiiWare)" region="USA"/>
+    <rom name="Sonic the Hedgehog 4 - Episode I (USA) (WiiWare).wad" size="48782656" crc="e6736e6a" md5="78ae1241d05ef997cd9e56f369f1f2ff" sha1="20c22cee8539d0d282a94e676d845faeaf1a2ca9"/>
+    <url>https://retroachievements.org/game/4040/hashes</url>
+    <hash>e0a92032201ad646713d5d7f4abc2099</hash>
+  </game>
+
+  <game name="Spectrobes - Origins (USA)">
+    <category>Retail</category>
+    <description>Spectrobes - Origins (USA)</description>
+    <release name="Spectrobes - Origins (USA)" region="USA"/>
+    <rom name="Spectrobes - Origins (USA).rvz" size="2612126984" crc="77e53378" md5="73653c714f0f02f899c9fda792ebf1e5" sha1="17ef4f8139cdf7d92d6b704cf7824b2d8bbf295f"/>
+    <url>https://retroachievements.org/game/35669/hashes</url>
+    <hash>f4a5e2e97327a4ba9b0c91b54b39cdc9</hash>
+  </game>
+
+  <game name="Nickelodeon SpongeBob SquigglePants (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Nickelodeon SpongeBob SquigglePants (USA) (En,Fr,Es)</description>
+    <release name="Nickelodeon SpongeBob SquigglePants (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Nickelodeon SpongeBob SquigglePants (USA) (En,Fr,Es).rvz" size="2749556220" crc="64adb1bf" md5="5b3c8a538438076ca58b7afb4f53cccb" sha1="d682b3aff12e582fc96db2051ca242ca3dfb58f2"/>
+    <url>https://retroachievements.org/game/34722/hashes</url>
+    <hash>004750212a5906a021e1329779f9b080</hash>
+  </game>
+
+  <game name="Nickelodeon SpongeBob's Truth or Square (USA)">
+    <category>Retail</category>
+    <description>Nickelodeon SpongeBob's Truth or Square (USA)</description>
+    <release name="Nickelodeon SpongeBob's Truth or Square (USA)" region="USA"/>
+    <rom name="Nickelodeon SpongeBob's Truth or Square (USA).rvz" size="2341785772" crc="f6f9856c" md5="4e0bfb1f2c40d8fc0d07756d634a4e83" sha1="b3f850e042dcbab520fe4cce9a0322cb9690fa67"/>
+    <url>https://retroachievements.org/game/34711/hashes</url>
+    <hash>478cb88ce342fccc90d2ebe83dd5ed9e</hash>
+  </game>
+
+  <game name="Star Wars - The Force Unleashed (USA) (En,Fr)">
+    <category>Retail</category>
+    <description>Star Wars - The Force Unleashed (USA) (En,Fr)</description>
+    <release name="Star Wars - The Force Unleashed (USA) (En,Fr)" region="USA"/>
+    <rom name="Star Wars - The Force Unleashed (USA) (En,Fr).rvz" size="3063342784" crc="416ae10c" md5="1bb4da6c738d2402fc8803bd8ea53e18" sha1="b0369674bbd9ce6d32421bd5b3f87a5889a9abf3"/>
+    <url>https://retroachievements.org/game/35301/hashes</url>
+    <hash>2281e4b3057f1db795c1f5e8ae808fd2</hash>
+  </game>
+
+  <game name="Super Mario Galaxy (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Super Mario Galaxy (USA) (En,Fr,Es)</description>
+    <release name="Super Mario Galaxy (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Super Mario Galaxy (USA) (En,Fr,Es).rvz" size="3425535460" crc="97cae8e5" md5="ea641172b518bffb03dbef5d7b0a22f1" sha1="058904768077f1c614b859185b5377647eefae4d"/>
+    <url>https://retroachievements.org/game/189/hashes</url>
+    <hash>4e0d0d2f2c5d3c13d758b027bbcc059f</hash>
+  </game>
+  <game name="Super Mario Galaxy (Europe, Australia) (En,Fr,De,Es,It)" cloneof="Super Mario Galaxy (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Super Mario Galaxy (Europe, Australia) (En,Fr,De,Es,It)</description>
+    <release name="Super Mario Galaxy (Europe, Australia) (En,Fr,De,Es,It)" region="Europe, Australia"/>
+    <rom name="Super Mario Galaxy (Europe, Australia) (En,Fr,De,Es,It).rvz" size="3429047096" crc="bd6d22cc" md5="158b1fa895943a110369b3069edef470" sha1="1dce8949e372e8aad8b52a4038880c28f59ff7a7"/>
+    <url>https://retroachievements.org/game/189/hashes</url>
+    <hash>0128a1e25b16d967b8dd3e404076efbc</hash>
+  </game>
+  <game name="Super Mario Galaxy (Japan)" cloneof="Super Mario Galaxy (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Super Mario Galaxy (Japan)</description>
+    <release name="Super Mario Galaxy (Japan)" region="Japan"/>
+    <rom name="Super Mario Galaxy (Japan).rvz" size="3426341256" crc="02fcdd0e" md5="4baad6839406a8cba8a78647e8d07519" sha1="a1b1395a69838318e3a745b8944b7ef96db1519c"/>
+    <url>https://retroachievements.org/game/189/hashes</url>
+    <hash>5c5ef042c38df9ae4f3cc43e8bc52c33</hash>
+  </game>
+
+  <game name="Super Mario Galaxy 2 (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Super Mario Galaxy 2 (USA) (En,Fr,Es)</description>
+    <release name="Super Mario Galaxy 2 (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Super Mario Galaxy 2 (USA) (En,Fr,Es).rvz" size="1438368956" crc="f37b0a9c" md5="ca180c43ebf77d4e8b7e633ebc283910" sha1="fdffa7a60536d90cc5fed7801eb7a2f4b831e8e0"/>
+    <url>https://retroachievements.org/game/190/hashes</url>
+    <hash>c40d458e2064edb1298cf4f11e4648a5</hash>
+  </game>
+  <game name="Super Mario Galaxy 2 (Europe) (En,Fr,De,Es,It)" cloneof="Super Mario Galaxy 2 (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Super Mario Galaxy 2 (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Super Mario Galaxy 2 (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Super Mario Galaxy 2 (Europe) (En,Fr,De,Es,It).rvz" size="1442924588" crc="0bcf0f2c" md5="d35758d61d28ce45ce50ab9c5e7642e0" sha1="d161b8cdfe57477468fe2d5d0aa6d89fda61760f"/>
+    <url>https://retroachievements.org/game/190/hashes</url>
+    <hash>201a78d50fe2cf7ea7ed213e5c472ef3</hash>
+  </game>
+
+  <game name="Super Paper Mario (Europe) (En,Fr,De,Es,It) (Rev 1)">
+    <category>Retail</category>
+    <description>Super Paper Mario (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
+    <release name="Super Paper Mario (Europe) (En,Fr,De,Es,It) (Rev 1)" region="Europe"/>
+    <rom name="Super Paper Mario (Europe) (En,Fr,De,Es,It) (Rev 1).rvz" size="337275392" crc="9f1b0c07" md5="9ca9c4d75ef7ef19422e66d32d7ce12d" sha1="88af10a10599eac6471a4f29843215f06667d1fb"/>
+    <url>https://retroachievements.org/game/187/hashes</url>
+    <hash>eb616534ac77318476e5fefef1db7cb2</hash>
+  </game>
+
+  <game name="Super Smash Bros. Brawl (Europe) (En,Fr,De,Es,It) (Rev 1)">
+    <category>Retail</category>
+    <description>Super Smash Bros. Brawl (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
+    <release name="Super Smash Bros. Brawl (Europe) (En,Fr,De,Es,It) (Rev 1)" region="Europe"/>
+    <rom name="Super Smash Bros. Brawl (Europe) (En,Fr,De,Es,It) (Rev 1).rvz" size="6196417612" crc="f5cd2dda" md5="8c68e265276457c19b28d64f7ed83c62" sha1="3c37f874b2ea985c450b174e1668a364849f4441"/>
+    <url>https://retroachievements.org/game/195/hashes</url>
+    <hash>9b943b134b9fd557975ff3f09de75e1d</hash>
+  </game>
+
+  <game name="Taiko no Tatsujin Wii (Japan)">
+    <category>Retail</category>
+    <description>Taiko no Tatsujin Wii (Japan)</description>
+    <release name="Taiko no Tatsujin Wii (Japan)" region="Japan"/>
+    <rom name="Taiko no Tatsujin Wii (Japan).rvz" size="1334507668" crc="29dfc93b" md5="c75f74ed744ff312d78515161f920bcc" sha1="da6f20c840a52e937d0607cb0c1552faf5cbb44b"/>
+    <url>https://retroachievements.org/game/35151/hashes</url>
+    <hash>1dafbac77a650aeaaf918030e84ebe6c</hash>
+  </game>
+
+  <game name="Tatsunoko vs. Capcom - Ultimate All-Stars (USA)">
+    <category>Retail</category>
+    <description>Tatsunoko vs. Capcom - Ultimate All-Stars (USA)</description>
+    <release name="Tatsunoko vs. Capcom - Ultimate All-Stars (USA)" region="USA"/>
+    <rom name="Tatsunoko vs. Capcom - Ultimate All-Stars (USA).rvz" size="1500305856" crc="9ee72e98" md5="1eafd5c01df27ab02d0723b62c088790" sha1="3097c52317b55e6f5147ffe4a4f0054790c067b1"/>
+    <url>https://retroachievements.org/game/4134/hashes</url>
+    <hash>6e4e409929d8884af41969d570732130</hash>
+  </game>
+
+  <game name="Tenchu - Shadow Assassins (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Tenchu - Shadow Assassins (USA) (En,Fr,Es)</description>
+    <release name="Tenchu - Shadow Assassins (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Tenchu - Shadow Assassins (USA) (En,Fr,Es).rvz" size="3533663088" crc="334683fd" md5="c0d429a518ec69cb972c58fe132d6725" sha1="e734cefb66aa1ccda4f2eb7ea94bb3be7d182b68"/>
+    <url>https://retroachievements.org/game/35266/hashes</url>
+    <hash>26901ddd4c7d46280b6398bd7192875a</hash>
+  </game>
+
+  <game name="House of the Dead 2 &amp; 3 Return, The (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>House of the Dead 2 &amp; 3 Return, The (USA) (En,Fr,Es)</description>
+    <release name="House of the Dead 2 &amp; 3 Return, The (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="House of the Dead 2 &amp; 3 Return, The (USA) (En,Fr,Es).rvz" size="2206456416" crc="a3170e3c" md5="ea3a1488f8cf91c28d5ab74823af14fc" sha1="5fef3fb44511f94fa9b32146197802f238a421b2"/>
+    <url>https://retroachievements.org/game/34724/hashes</url>
+    <hash>6b327c82419186b832103c8724cab2cd</hash>
+  </game>
+  <game name="House of the Dead 2 &amp; 3 Return, The (Europe) (En,Ja,Fr,De,Es,It)" cloneof="House of the Dead 2 &amp; 3 Return, The (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>House of the Dead 2 &amp; 3 Return, The (Europe) (En,Ja,Fr,De,Es,It)</description>
+    <release name="House of the Dead 2 &amp; 3 Return, The (Europe) (En,Ja,Fr,De,Es,It)" region="Europe"/>
+    <rom name="House of the Dead 2 &amp; 3 Return, The (Europe) (En,Ja,Fr,De,Es,It).rvz" size="2206429216" crc="60c446d5" md5="fe1f177ec9e82db2cca5571befd2ed40" sha1="ed4f5970be21023f8eb1451046bc081b565b8bd2"/>
+    <url>https://retroachievements.org/game/34724/hashes</url>
+    <hash>9774362e1080e06acee2926486daa351</hash>
+  </game>
+  <game name="House of the Dead 2 &amp; 3 Return, The (Japan)" cloneof="House of the Dead 2 &amp; 3 Return, The (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>House of the Dead 2 &amp; 3 Return, The (Japan)</description>
+    <release name="House of the Dead 2 &amp; 3 Return, The (Japan)" region="Japan"/>
+    <rom name="House of the Dead 2 &amp; 3 Return, The (Japan).rvz" size="2206429220" crc="0beb0116" md5="b789c82475a4d0d591fc0feaf07eeacd" sha1="51d835736e9d1f48a7fbc0179e30cc11b3f06ebc"/>
+    <url>https://retroachievements.org/game/34724/hashes</url>
+    <hash>21ef67f9936f94557ceeebb4762e0168</hash>
+  </game>
+
+  <game name="House of the Dead, The - Overkill (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>House of the Dead, The - Overkill (USA) (En,Fr,Es)</description>
+    <release name="House of the Dead, The - Overkill (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="House of the Dead, The - Overkill (USA) (En,Fr,Es).rvz" size="2621941580" crc="3fc7efad" md5="ee6f99875fb9053564d2be7f2a501d51" sha1="0f97a15b624b9a5c9e8265799c757f23b24367b6"/>
+    <url>https://retroachievements.org/game/7740/hashes</url>
+    <hash>aecbfbf7547163ccd16706503c4b96ef</hash>
+  </game>
+  <game name="House of the Dead, The - Overkill (Europe) (En,Fr,Es,It)" cloneof="House of the Dead, The - Overkill (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>House of the Dead, The - Overkill (Europe) (En,Fr,Es,It)</description>
+    <release name="House of the Dead, The - Overkill (Europe) (En,Fr,Es,It)" region="Europe"/>
+    <rom name="House of the Dead, The - Overkill (Europe) (En,Fr,Es,It).rvz" size="2624909260" crc="5537b6cc" md5="9abcca6a427e4f174e7e5d41f63cc183" sha1="27821a655ff7e9d1dd070fee55895f4b30249f29"/>
+    <url>https://retroachievements.org/game/7740/hashes</url>
+    <hash>685ddeedbf8627ef4a12f10b4960d1c8</hash>
+  </game>
+
+  <game name="Last Story, The (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Last Story, The (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Last Story, The (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Last Story, The (Europe) (En,Fr,De,Es,It).rvz" size="4909083124" crc="f7270bcb" md5="d91f5d307a51c88eeba8aac63dee0c12" sha1="edb01f21416c0b928b55a36fdb7bd0b8cc745778"/>
+    <url>https://retroachievements.org/game/27/hashes</url>
+    <hash>c6ad0865f0abffc0e64cd26cd6ef3569</hash>
+  </game>
+  <game name="Last Story, The (USA) (En,Fr,Es)" cloneof="Last Story, The (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Last Story, The (USA) (En,Fr,Es)</description>
+    <release name="Last Story, The (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Last Story, The (USA) (En,Fr,Es).rvz" size="4898009976" crc="dcc6707e" md5="e1fc4a3e64ee0cd9e81a137363c91d6a" sha1="ce4989aa783bbb6d01d06d1a1329167a4ff4b6dc"/>
+    <url>https://retroachievements.org/game/27/hashes</url>
+    <hash>fc7995d35ae54413420bf2e795d61049</hash>
+  </game>
+
+  <game name="Legend of Zelda, The - Twilight Princess (Europe, Australia) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Legend of Zelda, The - Twilight Princess (Europe, Australia) (En,Fr,De,Es,It)</description>
+    <release name="Legend of Zelda, The - Twilight Princess (Europe, Australia) (En,Fr,De,Es,It)" region="Europe, Australia"/>
+    <rom name="Legend of Zelda, The - Twilight Princess (Europe, Australia) (En,Fr,De,Es,It).rvz" size="1005846452" crc="050c78d6" md5="062775a5ba70ce4aec9eb4b2de36a2d3" sha1="65f908930fd05e4fe43f6705f4b4d2d68d86a0c6"/>
+    <url>https://retroachievements.org/game/204/hashes</url>
+    <hash>c6ea19732221b70bee2adafc31f39474</hash>
+  </game>
+
+  <game name="Munchables, The (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Munchables, The (USA) (En,Fr,Es)</description>
+    <release name="Munchables, The (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Munchables, The (USA) (En,Fr,Es).rvz" size="1587343012" crc="badece61" md5="fc98c0e70dbe71851fd646194dc4e8d6" sha1="574b8ada93aa67b163089ac186f835d6b72efd26"/>
+    <url>https://retroachievements.org/game/34718/hashes</url>
+    <hash>df20d7ce18b7eea04b0d5ebfa25073ac</hash>
+  </game>
+
+  <game name="Simpsons Game, The (USA)">
+    <category>Retail</category>
+    <description>Simpsons Game, The (USA)</description>
+    <release name="Simpsons Game, The (USA)" region="USA"/>
+    <rom name="Simpsons Game, The (USA).rvz" size="2415607896" crc="8e44aaeb" md5="ba8eb1952e16bc1b17a7e9e6a1a996db" sha1="9c91c45eb431a70a7ce3eac4ec3030168eba8968"/>
+    <url>https://retroachievements.org/game/34861/hashes</url>
+    <hash>8562f6eddd07c4ff995684e2ee2d86c0</hash>
+  </game>
+
+  <game name="Thomas &amp; Friends - Hero of the Rails (UK)">
+    <category>Retail</category>
+    <description>Thomas &amp; Friends - Hero of the Rails (UK)</description>
+    <release name="Thomas &amp; Friends - Hero of the Rails (UK)" region="UK"/>
+    <rom name="Thomas &amp; Friends - Hero of the Rails (UK).rvz" size="511560028" crc="34310914" md5="aa6ad189861ce7c5b3009a7aaa5cb17c" sha1="ec1ff621c2072ba0f2b63f394189e25998f9ca31"/>
+    <url>https://retroachievements.org/game/34716/hashes</url>
+    <hash>03a1e233b93ca0717e71b5afcc8a34e2</hash>
+  </game>
+
+  <game name="Toki Tori (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Toki Tori (USA) (WiiWare)</description>
+    <release name="Toki Tori (USA) (WiiWare)" region="USA"/>
+    <rom name="Toki Tori (USA) (WiiWare).wad" size="40857024" crc="a7b6df23" md5="d2b7abb69c6da43f0b8ff39c0333223a" sha1="98cad2e3680ed6d6ddd2cf47412c368c80d265fb"/>
+    <url>https://retroachievements.org/game/34668/hashes</url>
+    <hash>9daf4b57d207367310c4d529bb1994ee</hash>
+  </game>
+  <game name="Toki Tori (Europe) (WiiWare)" cloneof="Toki Tori (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Toki Tori (Europe) (WiiWare)</description>
+    <release name="Toki Tori (Europe) (WiiWare)" region="Europe"/>
+    <rom name="Toki Tori (Europe) (WiiWare).wad" size="40856384" crc="75ac06e4" md5="73211e5688296b3bf8cf4adc8f7e31d8" sha1="ac3130f918a2ceeb2a58578f85a0c394720b4955"/>
+    <url>https://retroachievements.org/game/34668/hashes</url>
+    <hash>47e862362a4ab8e097a60a601d7e27e2</hash>
+  </game>
+
+  <game name="TrackMania - Build to Race (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>TrackMania - Build to Race (USA) (En,Fr,Es)</description>
+    <release name="TrackMania - Build to Race (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="TrackMania - Build to Race (USA) (En,Fr,Es).rvz" size="753298804" crc="2572897e" md5="287c761679fd09061b943d84ec523f01" sha1="a1bf385a2a17d9ee5c48a2c5e482e9dfa3825ed7"/>
+    <url>https://retroachievements.org/game/34619/hashes</url>
+    <hash>a3132d549b21aab7abea70c52d351e2e</hash>
+  </game>
+
+  <game name="Trauma Center - Second Opinion (USA)">
+    <category>Retail</category>
+    <description>Trauma Center - Second Opinion (USA)</description>
+    <release name="Trauma Center - Second Opinion (USA)" region="USA"/>
+    <rom name="Trauma Center - Second Opinion (USA).rvz" size="734106916" crc="9bf93c82" md5="3bcc719bea0b7f6c3a13cf1a2e38d8ce" sha1="5e8d512d7561c877a3369e28c939b9868673975a"/>
+    <url>https://retroachievements.org/game/56/hashes</url>
+    <hash>b50249285515d011d041558c046b1a1e</hash>
+  </game>
+
+  <game name="Trauma Team (USA)">
+    <category>Retail</category>
+    <description>Trauma Team (USA)</description>
+    <release name="Trauma Team (USA)" region="USA"/>
+    <rom name="Trauma Team (USA).rvz" size="1743570180" crc="45ebd3f7" md5="b2a46e313a200272406b13eec8cbbc55" sha1="6c7560f9f7e12839487bceb4b364b25700deebb3"/>
+    <url>https://retroachievements.org/game/58/hashes</url>
+    <hash>93506fd7eec9b99b9eca6ebc61a79609</hash>
+  </game>
+
+  <game name="Disney-Pixar Up (USA) (En,Fr)">
+    <category>Retail</category>
+    <description>Disney-Pixar Up (USA) (En,Fr)</description>
+    <release name="Disney-Pixar Up (USA) (En,Fr)" region="USA"/>
+    <rom name="Disney-Pixar Up (USA) (En,Fr).rvz" size="1629220780" crc="7e6d4e64" md5="cdb2c704159c72f26cad1ecb2211e8ab" sha1="c27091147c05cc15c3c4b7ee9934597ce6f05543"/>
+    <url>https://retroachievements.org/game/35424/hashes</url>
+    <hash>637f38537071a7e2c4f37b2583c91bd1</hash>
+  </game>
+
+  <game name="Viral Survival (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>Viral Survival (USA) (WiiWare)</description>
+    <release name="Viral Survival (USA) (WiiWare)" region="USA"/>
+    <rom name="Viral Survival (USA) (WiiWare).wad" size="37083584" crc="0fa49426" md5="fd7ba5c7d955254e3c1dd3a420ac941d" sha1="2b15750b428a8a568a92b7aaec3adce15a7df2e1"/>
+    <url>https://retroachievements.org/game/36150/hashes</url>
+    <hash>89ade4c9b152554c82f406f1b9ebfb54</hash>
+  </game>
+
+  <game name="Wario Land - The Shake Dimension (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Wario Land - The Shake Dimension (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Wario Land - The Shake Dimension (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Wario Land - The Shake Dimension (Europe) (En,Fr,De,Es,It).rvz" size="2758479792" crc="a124edad" md5="04784a3f6800e844113988ecc67d9bc4" sha1="780c25fe93ee19d508ad989c97f94548098e9f9e"/>
+    <url>https://retroachievements.org/game/34690/hashes</url>
+    <hash>64a570020a6e859d1e5c5c6ede90e5a0</hash>
+  </game>
+  <game name="Wario Land - Shake It! (USA) (En,Fr,Es)" cloneof="Wario Land - The Shake Dimension (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Wario Land - Shake It! (USA) (En,Fr,Es)</description>
+    <release name="Wario Land - Shake It! (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Wario Land - Shake It! (USA) (En,Fr,Es).rvz" size="2740114352" crc="4950cd84" md5="452323e4b7a6707c6a5f424794d931ba" sha1="7280a3af28feb37252dd2f4227caa8b0e49a7af4"/>
+    <url>https://retroachievements.org/game/34690/hashes</url>
+    <hash>5238f309bcd208d3a79b300f735ccbcd</hash>
+  </game>
+
+  <game name="WarioWare D.I.Y. Showcase (USA) (WiiWare)">
+    <category>Retail</category>
+    <description>WarioWare D.I.Y. Showcase (USA) (WiiWare)</description>
+    <release name="WarioWare D.I.Y. Showcase (USA) (WiiWare)" region="USA"/>
+    <rom name="WarioWare D.I.Y. Showcase (USA) (WiiWare).wad" size="14535680" crc="a38a285b" md5="2e67730e84328fa5e44f50c3b1f1f56a" sha1="21b77d69c1a42dfe78c86e2c96ec8bc1b72d1c24"/>
+    <url>https://retroachievements.org/game/34669/hashes</url>
+    <hash>d7813231b99a5ec2e14866d9590fecab</hash>
+  </game>
+
+  <game name="We Wish You a Merry Christmas (USA)">
+    <category>Retail</category>
+    <description>We Wish You a Merry Christmas (USA)</description>
+    <release name="We Wish You a Merry Christmas (USA)" region="USA"/>
+    <rom name="We Wish You a Merry Christmas (USA).rvz" size="260616608" crc="a84de977" md5="77cca3336526d15720525d6a67596f1e" sha1="fc9e69a21a385a4ebce32a4b00ebfa3730c564f2"/>
+    <url>https://retroachievements.org/game/35950/hashes</url>
+    <hash>53338f5a6f4ded04ec7d76e065859d3e</hash>
+  </game>
+
+  <game name="Where the Wild Things Are (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Where the Wild Things Are (USA) (En,Fr,Es)</description>
+    <release name="Where the Wild Things Are (USA) (En,Fr,Es)" region="USA"/>
+    <rom name="Where the Wild Things Are (USA) (En,Fr,Es).rvz" size="2993607784" crc="d5dd7142" md5="5cc5fb4b26dddb36ab44cb1357d5f245" sha1="e16cf044176116a337ff7bdbb48f6d4cd75662cd"/>
+    <url>https://retroachievements.org/game/34833/hashes</url>
+    <hash>aad9a5a2fa90f5e399146a1f423fa6f9</hash>
+  </game>
+  <game name="Where the Wild Things Are - The Videogame (Europe) (En,Fr,De,Es,It)" cloneof="Where the Wild Things Are (USA) (En,Fr,Es)">
+    <category>Retail</category>
+    <description>Where the Wild Things Are - The Videogame (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Where the Wild Things Are - The Videogame (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Where the Wild Things Are - The Videogame (Europe) (En,Fr,De,Es,It).rvz" size="2996583460" crc="d2be3a0e" md5="017f1f3a7db55742f2f2888446a2eeb9" sha1="68a5e4cb6fd8984dec25c44f81ab1626da5d84a5"/>
+    <url>https://retroachievements.org/game/34833/hashes</url>
+    <hash>f75f342838560db722a63b65ce85e841</hash>
+  </game>
+
+  <game name="Who Wants to Be a Millionaire (Europe) (En,Fr,De,Es,It,Nl)">
+    <category>Retail</category>
+    <description>Who Wants to Be a Millionaire (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <release name="Who Wants to Be a Millionaire (Europe) (En,Fr,De,Es,It,Nl)" region="Europe"/>
+    <rom name="Who Wants to Be a Millionaire (Europe) (En,Fr,De,Es,It,Nl).rvz" size="882971876" crc="c3b92f6b" md5="cc873ab440645c2bca1bd041cc96307f" sha1="b9a7f7d5e3407b38221d6d4a1542c2a28d734914"/>
+    <url>https://retroachievements.org/game/35522/hashes</url>
+    <hash>b7a3150615d2478d969d6978dd0aa247</hash>
+  </game>
+
+  <game name="Wii Play (USA) (Rev 1)">
+    <category>Retail</category>
+    <description>Wii Play (USA) (Rev 1)</description>
+    <release name="Wii Play (USA) (Rev 1)" region="USA"/>
+    <rom name="Wii Play (USA) (Rev 1).rvz" size="235554716" crc="6d295904" md5="7389d2e424c8355bcf1798dd8431fae4" sha1="5a83f1f8b720627703c81b23fb8b9cf2da1f85c7"/>
+    <url>https://retroachievements.org/game/34879/hashes</url>
+    <hash>7eeb4d5958c26cde8469645c480f68a7</hash>
+  </game>
+
+  <game name="Wii Sports (Europe) (En,Fr,De,Es,It) (Rev 1)">
+    <category>Retail</category>
+    <description>Wii Sports (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
+    <release name="Wii Sports (Europe) (En,Fr,De,Es,It) (Rev 1)" region="Europe"/>
+    <rom name="Wii Sports (Europe) (En,Fr,De,Es,It) (Rev 1).rvz" size="663016484" crc="51a49eee" md5="813a6f5438a939984595d26aa99352ec" sha1="97f5ea04c272ca766f1421df9e28e7a577cd4797"/>
+    <url>https://retroachievements.org/game/248/hashes</url>
+    <hash>e036ae4290296d94cdc14c578d124ee4</hash>
+  </game>
+
+  <game name="Disney Wreck-It Ralph (USA) (En,Fr)">
+    <category>Retail</category>
+    <description>Disney Wreck-It Ralph (USA) (En,Fr)</description>
+    <release name="Disney Wreck-It Ralph (USA) (En,Fr)" region="USA"/>
+    <rom name="Disney Wreck-It Ralph (USA) (En,Fr).rvz" size="938506384" crc="9bf658fc" md5="03b20d73d66342b4daef9a62083893d0" sha1="ae46acda6ff2b72b5a3c80b47b2f1ba0d549a99c"/>
+    <url>https://retroachievements.org/game/34608/hashes</url>
+    <hash>b736576aa5c0f0046719a17cee0e019d</hash>
+  </game>
+
+  <game name="Xenoblade Chronicles (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Xenoblade Chronicles (Europe) (En,Fr,De,Es,It)</description>
+    <release name="Xenoblade Chronicles (Europe) (En,Fr,De,Es,It)" region="Europe"/>
+    <rom name="Xenoblade Chronicles (Europe) (En,Fr,De,Es,It).rvz" size="5110956488" crc="1c23e3a3" md5="5c86e119c0b412cb4eef47e36cde6a02" sha1="fa65d66de9df1493e1b7d1cad575ec36e9310cd2"/>
+    <url>https://retroachievements.org/game/100/hashes</url>
+    <hash>434f23367bd18bcacc28f0271877d994</hash>
+  </game>
+  <game name="Xenoblade Chronicles (USA, Asia) (En,Fr,Es)" cloneof="Xenoblade Chronicles (Europe) (En,Fr,De,Es,It)">
+    <category>Retail</category>
+    <description>Xenoblade Chronicles (USA, Asia) (En,Fr,Es)</description>
+    <release name="Xenoblade Chronicles (USA, Asia) (En,Fr,Es)" region="USA, Asia"/>
+    <rom name="Xenoblade Chronicles (USA, Asia) (En,Fr,Es).rvz" size="5099165372" crc="a9d4fc23" md5="2e6a7ec28db91bed8fd0b5fab1d52340" sha1="50eb587067d3fceda5daaaaa1a622e2cca0a2d6c"/>
+    <url>https://retroachievements.org/game/100/hashes</url>
+    <hash>45fb9e3b8437a63905221eef78127217</hash>
+  </game>
+</datafile>
