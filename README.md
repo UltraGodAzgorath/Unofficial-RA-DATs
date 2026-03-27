@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="Logo with transparent background.png" src="[https://github.com/user-attachments/assets/44f4e820-6b91-4303-91f8-ec2a558d790b](https://github.com/UltraGodAzgorath/UGA_RA_DATs/blob/main/Logo%20with%20transparent%20background.png?raw=true)"/>
+<[Logo with transparent background](https://github.com/UltraGodAzgorath/UGA_RA_DATs/blob/main/Logo%20with%20transparent%20background.png)/>
 
 Hey Everyone.
 
