@@ -1,5 +1,4 @@
-<[Logo with transparent background](https://github.com/UltraGodAzgorath/UGA_RA_DATs/blob/main/Logo%20with%20transparent%20background.png)/>
-
+https://github.com/UltraGodAzgorath/UGA_RA_DATs/blob/main/Logo%20with%20transparent%20background.png
 Hey Everyone.
 
 These are DATs that are meant to be used with rom managers such as ClrMamePro and RomVault for RetroAchievement rom collections. All the games that are listed in official DATs, such as No-Intro and Redump, are RA-linked are in these DATs. 
