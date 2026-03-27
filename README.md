@@ -1,5 +1,4 @@
-<img width="1536" height="1024" alt="My Logo 3" src="https://github.com/user-attachments/assets/44f4e820-6b91-4303-91f8-ec2a558d790b"/>
-
+<img width="1536" height="1024" alt="Logo with transparent background" src="https://github.com/user-attachments/assets/830b77d2-7bcd-4429-9681-194db6b7b5d7" />
 Hey Everyone.
 
 These are DATs that are meant to be used with rom managers such as ClrMamePro and RomVault for RetroAchievement rom collections. All the games that are listed in official DATs, such as No-Intro and Redump, are RA-linked are in these DATs. 
