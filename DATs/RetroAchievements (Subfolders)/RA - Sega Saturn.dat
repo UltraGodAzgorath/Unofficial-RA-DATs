@@ -355,33 +355,25 @@
 		<hash>f7b95a01fb1e635b0bfec4665930303c</hash>
 	</machine>
 	
-	<machine name="Retail/Deep Fear/Deep Fear (USA) (Disc 1) (Unl)">
+	<machine name="Retail/Deep Fear/Deep Fear (USA) (Unl)">
 		<category></category>
-		<description>Deep Fear (USA) (Disc 1) (Unl)</description>
+		<description>Deep Fear (USA) (Unl)</description>
+		<rom name="Deep Fear (USA) (Unl).m3u" size="000" crc="000" md5="000" sha1="000"/>
 		<disk name="Deep Fear (USA) (Disc 1) (Unl).chd" sha1="a1fd8d729ed351a5c7c8cf34ab36813859804644"/>
-		<url>https://retroachievements.org/game/8307/hashes</url>
-		<hash>0cb84f8a21db4b965d432445ae485c8b</hash>
-	</machine>
-	<machine name="Retail/Deep Fear/Deep Fear (Europe) (Disc 1)">
-		<category></category>
-		<description>Deep Fear (Europe) (Disc 1)</description>
-		<disk name="Deep Fear (Europe) (Disc 1).chd" sha1="e20537296367b6ee3b1c9cfbf4d71d3404314399"/>
-		<url>https://retroachievements.org/game/8307/hashes</url>
-		<hash>1c1f56cfa86d977624a45aa30e7b9f76</hash>
-	</machine>
-	<machine name="Retail/Deep Fear/Deep Fear (Europe) (Disc 2)">
-		<category></category>
-		<description>Deep Fear (Europe) (Disc 2)</description>
-		<disk name="Deep Fear (Europe) (Disc 2).chd" sha1="0ed6ba69bed5036f38c9ef0f1b683fc368edd489"/>
-		<url>https://retroachievements.org/game/8307/hashes</url>
-		<hash>27f2c4b2427a209c5cc43ada72223685</hash>
-	</machine>
-	<machine name="Retail/Deep Fear/Deep Fear (USA) (Disc 2) (Unl)">
-		<category></category>
-		<description>Deep Fear (USA) (Disc 2) (Unl)</description>
 		<disk name="Deep Fear (USA) (Disc 2) (Unl).chd" sha1="2f821cd694d68c2510716470c17d8a165b3cf357"/>
 		<url>https://retroachievements.org/game/8307/hashes</url>
+		<hash>0cb84f8a21db4b965d432445ae485c8b</hash>
 		<hash>cca651875bf4b4426339203924bb4fb8</hash>
+	</machine>
+	<machine name="Retail/Deep Fear/Deep Fear (Europe)">
+		<category></category>
+		<description>Deep Fear (Europe)</description>
+		<rom name="Deep Fear (Europe).m3u" size="000" crc="000" md5="000" sha1="000"/>
+		<disk name="Deep Fear (Europe) (Disc 1).chd" sha1="e20537296367b6ee3b1c9cfbf4d71d3404314399"/>
+		<disk name="Deep Fear (Europe) (Disc 2).chd" sha1="0ed6ba69bed5036f38c9ef0f1b683fc368edd489"/>
+		<url>https://retroachievements.org/game/8307/hashes</url>
+		<hash>1c1f56cfa86d977624a45aa30e7b9f76</hash>
+		<hash>27f2c4b2427a209c5cc43ada72223685</hash>
 	</machine>
 	
 	<machine name="Retail/DeJig - Aqua World (Japan)">
@@ -474,7 +466,7 @@
 	
 	<machine name="Retail/Dream Square - Hinagata Akiko (Japan) (2M)">
 		<category></category>
-		<description>Dragon Force (USA)</description>
+		<description>Dream Square - Hinagata Akiko (Japan) (2M)</description>
 		<disk name="Dream Square - Hinagata Akiko (Japan) (2M).chd" sha1="d48f4a8547018490f301d9f69b30251d7c7b115f"/>
 		<url>https://retroachievements.org/game/35835/hashes</url>
 		<hash>88a6b0747ebaec675654081b97d09ee6</hash>
