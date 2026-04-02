@@ -283,4 +283,76 @@
 		<url>https://retroachievements.org/game/5819/hashes</url>
 		<hash>dde8a651a7a57d58f1a0e6ad576f99c5</hash>
 	</game>
+	
+	<game name="Metroid (Japan) (Rev 1)">
+		<category>Retail</category>
+		<description>Metroid (Japan) (Rev 1)</description>
+		<release name="Metroid (Japan) (Rev 1)" region="Japan"/>
+		<rom name="Metroid (Japan) (Rev 1).fds" size="131000" crc="9c8045df" md5="867ea5239cd206c5e2cd8b4f131a965b" sha1="6c0f92d3fb532d689fdbb72472b1470afb54383f"/>
+		<url>https://retroachievements.org/game/38073/hashes</url>
+		<hash>867ea5239cd206c5e2cd8b4f131a965b</hash>
+	</game>
+	
+	<game name="Metroid (Japan) (Rev 2)">
+		<category>Retail</category>
+		<description>Metroid (Japan) (Rev 2)</description>
+		<release name="Metroid (Japan) (Rev 2)" region="Japan"/>
+		<rom name="Metroid (Japan) (Rev 2).fds" size="131000" crc="1ad64b0f" md5="d68f36d25a3474663bb1decfe0fcb395" sha1="d902169f4db2a5127d808cca8539c3ca924f4039"/>
+		<url>https://retroachievements.org/game/38073/hashes</url>
+		<hash>d68f36d25a3474663bb1decfe0fcb395</hash>
+	</game>
+	
+	<game name="Metroid (Japan) (Rev 3)">
+		<category>Retail</category>
+		<description>Metroid (Japan) (Rev 3)</description>
+		<release name="Metroid (Japan) (Rev 3)" region="Japan"/>
+		<rom name="Metroid (Japan) (Rev 3).fds" size="131000" crc="5e4f013d" md5="bb765939f75bcf9234b4bf77ca04281b" sha1="741e51b01c3d9d814ae9acdd4d1ab6d8c34ef446"/>
+		<url>https://retroachievements.org/game/38073/hashes</url>
+		<hash>bb765939f75bcf9234b4bf77ca04281b</hash>
+	</game>
+	
+	<game name="Othello (Japan) (DV 2)">
+		<category>Retail</category>
+		<description>Othello (Japan) (DV 2)</description>
+		<release name="Othello (Japan) (DV 2)" region="Japan"/>
+		<rom name="Othello (Japan) (DV 2).fds" size="65500" crc="39709bf6" md5="907f107fce9fe854c55827e9d0d72df5" sha1="bdd5e27203860d84d34fd5f126c5bbc2b8ec709f"/>
+		<url>https://retroachievements.org/game/25285/hashes</url>
+		<hash>907f107fce9fe854c55827e9d0d72df5</hash>
+	</game>
+	
+	<game name="Pac-Man (Japan) (Disk Writer)">
+		<category>Retail</category>
+		<description>Pac-Man (Japan) (Disk Writer)</description>
+		<release name="Pac-Man (Japan) (Disk Writer)" region="Japan"/>
+		<rom name="Pac-Man (Japan) (Disk Writer).fds" size="65500" crc="cdf3ca4b" md5="f1b5db7482fed253196ca299b67db218" sha1="1a0ac3f4c3d089f60f277831cf667b9fdfff2b5b"/>
+		<url>https://retroachievements.org/game/38072/hashes</url>
+		<hash>f1b5db7482fed253196ca299b67db218</hash>
+	</game>
+	
+	<game name="Akumajou Dracula (Japan)">
+		<category>Retail</category>
+		<description>Akumajou Dracula (Japan)</description>
+		<release name="Akumajou Dracula (Japan)" region="Japan"/>
+		<rom name="Akumajou Dracula (Japan).fds" size="131000" crc="90e99457" md5="62ce2cf11cca70f6db84f5e6d7ada1c4" sha1="85977c0dfbbbf4362fb714f663a653f2dd8fc753"/>
+		<url>https://retroachievements.org/game/36892/hashes</url>
+		<hash>62ce2cf11cca70f6db84f5e6d7ada1c4</hash>
+	</game>
+	
+	<game name="Akumajou Dracula (Japan) (Rev 1)">
+		<category>Retail</category>
+		<description>Akumajou Dracula (Japan) (Rev 1)</description>
+		<release name="Akumajou Dracula (Japan) (Rev 1)" region="Japan"/>
+		<rom name="Akumajou Dracula (Japan) (Rev 1).fds" size="131000" crc="9661e6a4" md5="fe739e10ec1f70888a4cac28d8562fae" sha1="3f32767a51c43d3472459240b7cc230dc6a11fd5"/>
+		<url>https://retroachievements.org/game/36892/hashes</url>
+		<hash>fe739e10ec1f70888a4cac28d8562fae</hash>
+	</game>
+	
+	<game name="Akumajou Dracula (Japan) (Rev 2) (Disk Writer)">
+		<category>Retail</category>
+		<description>Akumajou Dracula (Japan) (Rev 2) (Disk Writer)</description>
+		<release name="Akumajou Dracula (Japan) (Rev 2) (Disk Writer)" region="Japan"/>
+		<rom name="Akumajou Dracula (Japan) (Rev 2) (Disk Writer).fds" size="131000" crc="7448fb40" md5="33def5907d3561f6649a5e0ccf9a1d09" sha1="14366a2aba5905896418d8b7fe05f4229489a980"/>
+		<url>https://retroachievements.org/game/36892/hashes</url>
+		<hash>33def5907d3561f6649a5e0ccf9a1d09</hash>
+	</game>
 </datafile>
