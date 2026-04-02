@@ -256,4 +256,45 @@
 		<url>https://retroachievements.org/game/5819/hashes</url>
 		<hash>dde8a651a7a57d58f1a0e6ad576f99c5</hash>
 	</game>
+	
+	<game name="Retail/Metroid/Metroid (Japan) (Rev 1)">
+		<category></category>
+		<description>Metroid (Japan) (Rev 1)</description>
+		<rom name="Metroid (Japan) (Rev 1).fds" size="131072" crc="28dd6b89" md5="47cf5b45428d2bcf409b4573cda0849b" sha1="6e0b7db2259dc8137601794dc170e2376ba66fd8"/>
+		<url>https://retroachievements.org/game/38073/hashes</url>
+		<hash>867ea5239cd206c5e2cd8b4f131a965b</hash>
+	</game>
+
+	<game name="Retail/Metroid/Metroid (Japan) (Rev 2)">
+		<category></category>
+		<description>Metroid (Japan) (Rev 2)</description>
+		<rom name="Metroid (Japan) (Rev 2).fds" size="131072" crc="4b6a5bb6" md5="94fa6e424267e84e2caec48c9b659ead" sha1="752bc080ac9218eb46ae6cbc516a22f65e9d67c4"/>
+		<url>https://retroachievements.org/game/38073/hashes</url>
+		<hash>d68f36d25a3474663bb1decfe0fcb395</hash>
+	</game>
+
+	<game name="Retail/Metroid/Metroid (Japan) (Rev 3)">
+		<category></category>
+		<description>Metroid (Japan) (Rev 3)</description>
+		<rom name="Metroid (Japan) (Rev 3).fds" size="131072" crc="a7670211" md5="e27aab4676392698f570c32a57ad9036" sha1="07d33e73db7a5c764b8b53a4b0a353cfb6786881"/>
+		<url>https://retroachievements.org/game/38073/hashes</url>
+		<hash>bb765939f75bcf9234b4bf77ca04281b</hash>
+	</game>
+
+	<game name="Retail/Othello (Japan) (DV 2)">
+		<category></category>
+		<description>Othello (Japan) (DV 2)</description>
+		<rom name="Othello (Japan) (DV 2).fds" size="65536" crc="00f8c782" md5="65fc0aed845839bf2228d78e468da843" sha1="267ca583df4f0bb06bfd0e2f8886f3d2abf8e23e"/>
+		<url>https://retroachievements.org/game/25285/hashes</url>
+		<hash>907f107fce9fe854c55827e9d0d72df5</hash>
+	</game>
+
+	<game name="Retail/Pac-Man (Japan) (Disk Writer)">
+		<category></category>
+		<description>Pac-Man (Japan) (Disk Writer)</description>
+		<rom name="Pac-Man (Japan) (Disk Writer).fds" size="65536" crc="7e7b6cc6" md5="55afc5a95e0e44e9812ae013aa2e116b" sha1="c242bdd2ae8a6ce14d5ce51fa04ff2bf4ea9e3b8"/>
+		<url>https://retroachievements.org/game/38072/hashes</url>
+		<hash>f1b5db7482fed253196ca299b67db218</hash>
+	</game>
+
 </datafile>
