@@ -297,4 +297,28 @@
 		<hash>f1b5db7482fed253196ca299b67db218</hash>
 	</game>
 
+	<game name="Retail/Akumajou Dracula/Akumajou Dracula (Japan)">
+		<category></category>
+		<description>Akumajou Dracula (Japan)</description>
+		<rom name="Akumajou Dracula (Japan).fds" size="131000" crc="90e99457" md5="62ce2cf11cca70f6db84f5e6d7ada1c4" sha1="85977c0dfbbbf4362fb714f663a653f2dd8fc753"/>
+		<url>https://retroachievements.org/game/36892/hashes</url>
+		<hash>62ce2cf11cca70f6db84f5e6d7ada1c4</hash>
+	</game>
+
+	<game name="Retail/Akumajou Dracula/Akumajou Dracula (Japan) (Rev 1)">
+		<category></category>
+		<description>Akumajou Dracula (Japan) (Rev 1)</description>
+		<rom name="Akumajou Dracula (Japan) (Rev 1).fds" size="131000" crc="9661e6a4" md5="fe739e10ec1f70888a4cac28d8562fae" sha1="3f32767a51c43d3472459240b7cc230dc6a11fd5"/>
+		<url>https://retroachievements.org/game/36892/hashes</url>
+		<hash>fe739e10ec1f70888a4cac28d8562fae</hash>
+	</game>
+
+	<game name="Retail/Akumajou Dracula/Akumajou Dracula (Japan) (Rev 2) (Disk Writer)">
+		<category></category>
+		<description>Akumajou Dracula (Japan) (Rev 2) (Disk Writer)</description>
+		<rom name="Akumajou Dracula (Japan) (Rev 2) (Disk Writer).fds" size="131000" crc="7448fb40" md5="33def5907d3561f6649a5e0ccf9a1d09" sha1="14366a2aba5905896418d8b7fe05f4229489a980"/>
+		<url>https://retroachievements.org/game/36892/hashes</url>
+		<hash>33def5907d3561f6649a5e0ccf9a1d09</hash>
+	</game>
+
 </datafile>
