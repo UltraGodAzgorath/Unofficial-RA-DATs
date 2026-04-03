@@ -355,4 +355,22 @@
 		<url>https://retroachievements.org/game/36892/hashes</url>
 		<hash>33def5907d3561f6649a5e0ccf9a1d09</hash>
 	</game>
+	
+	<game name="Fire Rock (Japan)">
+		<category>Retail</category>
+		<description>Fire Rock (Japan)</description>
+		<release name="Fire Rock (Japan)" region="Japan"/>
+		<rom name="Fire Rock (Japan).fds" size="131000" crc="33b5b551" md5="0ba4a87a4920648109dd2d556f38827f" sha1="8fbc2ea7dd9fe79ef25511815dc0a154c4591c4b"/>
+		<url>https://retroachievements.org/game/5862/hashes</url>
+		<hash>0ba4a87a4920648109dd2d556f38827f</hash>
+	</game>
+	
+	<game name="Fire Rock (Japan) (Alt)">
+		<category>Retail</category>
+		<description>Fire Rock (Japan) (Alt)</description>
+		<release name="Fire Rock (Japan) (Alt)" region="Japan"/>
+		<rom name="Fire Rock (Japan) (Alt).fds" size="131000" crc="54d3ac61" md5="c257141c5116d52f1d4a91427d502625" sha1="b4fd0e29edf6b0312f4794cd0794699166fecc60"/>
+		<url>https://retroachievements.org/game/5862/hashes</url>
+		<hash>c257141c5116d52f1d4a91427d502625</hash>
+	</game>
 </datafile>
