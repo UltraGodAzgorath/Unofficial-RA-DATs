@@ -373,4 +373,22 @@
 		<url>https://retroachievements.org/game/5862/hashes</url>
 		<hash>c257141c5116d52f1d4a91427d502625</hash>
 	</game>
+	
+	<game name="Dracula II - Noroi no Fuuin (Japan)">
+		<category>Retail</category>
+		<description>Dracula II - Noroi no Fuuin (Japan)</description>
+		<release name="Dracula II - Noroi no Fuuin (Japan)" region="Japan"/>
+		<rom name="Dracula II - Noroi no Fuuin (Japan).fds" size="131000" crc="3a0bb17b" md5="0eda1dabca3cdd01cfe34e24ef5155b7" sha1="82be8e77c41c2e9d0675dac8f20d6bf85c7f8f19"/>
+		<url>https://retroachievements.org/game/38070/hashes</url>
+		<hash>0eda1dabca3cdd01cfe34e24ef5155b7</hash>
+	</game>
+	
+	<game name="Dracula II - Noroi no Fuuin (Japan) (En) (v1.0a) (BlackPaladin)">
+		<category>Retail</category>
+		<description>Dracula II - Noroi no Fuuin (Japan) (En) (v1.0a) (BlackPaladin)</description>
+		<release name="Dracula II - Noroi no Fuuin (Japan) (En) (v1.0a) (BlackPaladin)" region="Japan"/>
+		<rom name="Dracula II - Noroi no Fuuin (Japan) (En) (v1.0a) (BlackPaladin).fds" size="131000" crc="6cc6feb3" md5="319491958a3f8727168127a244cef2ff" sha1="f260077df3613bf08b9685d8eaec0ba5627002dc"/>
+		<url>https://retroachievements.org/game/38070/hashes</url>
+		<hash>319491958a3f8727168127a244cef2ff</hash>
+	</game>
 </datafile>
