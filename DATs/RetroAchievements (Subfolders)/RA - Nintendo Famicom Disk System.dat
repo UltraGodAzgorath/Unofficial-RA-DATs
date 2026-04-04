@@ -264,7 +264,7 @@
 		<url>https://retroachievements.org/game/38073/hashes</url>
 		<hash>867ea5239cd206c5e2cd8b4f131a965b</hash>
 	</game>
-
+	
 	<game name="Retail/Metroid/Metroid (Japan) (Rev 2)">
 		<category></category>
 		<description>Metroid (Japan) (Rev 2)</description>
@@ -272,7 +272,7 @@
 		<url>https://retroachievements.org/game/38073/hashes</url>
 		<hash>d68f36d25a3474663bb1decfe0fcb395</hash>
 	</game>
-
+	
 	<game name="Retail/Metroid/Metroid (Japan) (Rev 3)">
 		<category></category>
 		<description>Metroid (Japan) (Rev 3)</description>
@@ -280,7 +280,7 @@
 		<url>https://retroachievements.org/game/38073/hashes</url>
 		<hash>bb765939f75bcf9234b4bf77ca04281b</hash>
 	</game>
-
+	
 	<game name="Retail/Othello (Japan) (DV 2)">
 		<category></category>
 		<description>Othello (Japan) (DV 2)</description>
@@ -288,7 +288,7 @@
 		<url>https://retroachievements.org/game/25285/hashes</url>
 		<hash>907f107fce9fe854c55827e9d0d72df5</hash>
 	</game>
-
+	
 	<game name="Retail/Pac-Man (Japan) (Disk Writer)">
 		<category></category>
 		<description>Pac-Man (Japan) (Disk Writer)</description>
@@ -296,7 +296,7 @@
 		<url>https://retroachievements.org/game/38072/hashes</url>
 		<hash>f1b5db7482fed253196ca299b67db218</hash>
 	</game>
-
+	
 	<game name="Retail/Akumajou Dracula/Akumajou Dracula (Japan)">
 		<category></category>
 		<description>Akumajou Dracula (Japan)</description>
@@ -304,7 +304,7 @@
 		<url>https://retroachievements.org/game/36892/hashes</url>
 		<hash>62ce2cf11cca70f6db84f5e6d7ada1c4</hash>
 	</game>
-
+	
 	<game name="Retail/Akumajou Dracula/Akumajou Dracula (Japan) (Rev 1)">
 		<category></category>
 		<description>Akumajou Dracula (Japan) (Rev 1)</description>
@@ -312,7 +312,7 @@
 		<url>https://retroachievements.org/game/36892/hashes</url>
 		<hash>fe739e10ec1f70888a4cac28d8562fae</hash>
 	</game>
-
+	
 	<game name="Retail/Akumajou Dracula/Akumajou Dracula (Japan) (Rev 2) (Disk Writer)">
 		<category></category>
 		<description>Akumajou Dracula (Japan) (Rev 2) (Disk Writer)</description>
@@ -320,7 +320,7 @@
 		<url>https://retroachievements.org/game/36892/hashes</url>
 		<hash>33def5907d3561f6649a5e0ccf9a1d09</hash>
 	</game>
-
+	
 	<game name="Retail/Fire Rock/Fire Rock (Japan)">
 		<category></category>
 		<description>Fire Rock (Japan)</description>
@@ -328,12 +328,28 @@
 		<url>https://retroachievements.org/game/5862/hashes</url>
 		<hash>0ba4a87a4920648109dd2d556f38827f</hash>
 	</game>
-
+	
 	<game name="Retail/Fire Rock/Fire Rock (Japan) (Alt)">
 		<category></category>
 		<description>Fire Rock (Japan) (Alt)</description>
 		<rom name="Fire Rock (Japan) (Alt).fds" size="131000" crc="54d3ac61" md5="c257141c5116d52f1d4a91427d502625" sha1="b4fd0e29edf6b0312f4794cd0794699166fecc60"/>
 		<url>https://retroachievements.org/game/5862/hashes</url>
 		<hash>c257141c5116d52f1d4a91427d502625</hash>
+	</game>
+	
+	<game name="Retail/Dracula II - Noroi no Fuuin/Dracula II - Noroi no Fuuin (Japan)">
+		<category></category>
+		<description>Dracula II - Noroi no Fuuin (Japan)</description>
+		<rom name="Dracula II - Noroi no Fuuin (Japan).fds" size="131000" crc="3a0bb17b" md5="0eda1dabca3cdd01cfe34e24ef5155b7" sha1="82be8e77c41c2e9d0675dac8f20d6bf85c7f8f19"/>
+		<url>https://retroachievements.org/game/38070/hashes</url>
+		<hash>0eda1dabca3cdd01cfe34e24ef5155b7</hash>
+	</game>
+	
+	<game name="Retail/Dracula II - Noroi no Fuuin/Dracula II - Noroi no Fuuin (Japan) (En) (v1.0a) (BlackPaladin)">
+		<category></category>
+		<description>Dracula II - Noroi no Fuuin (Japan) (En) (v1.0a) (BlackPaladin)</description>
+		<rom name="Dracula II - Noroi no Fuuin (Japan) (En) (v1.0a) (BlackPaladin).fds" size="131000" crc="6cc6feb3" md5="319491958a3f8727168127a244cef2ff" sha1="f260077df3613bf08b9685d8eaec0ba5627002dc"/>
+		<url>https://retroachievements.org/game/38070/hashes</url>
+		<hash>319491958a3f8727168127a244cef2ff</hash>
 	</game>
 </datafile>
