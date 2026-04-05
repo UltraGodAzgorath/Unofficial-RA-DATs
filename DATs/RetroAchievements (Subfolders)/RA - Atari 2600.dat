@@ -1170,8 +1170,8 @@
 		<hash>3347a6dd59049b15a38394aa2dafa585</hash>
 	</game>
 	
-	<game name="Moon Patrol (USA)">
-		<category>Retail</category>
+	<game name="Retail/Moon Patrol (USA)">
+		<category></category>
 		<description>Moon Patrol (USA)</description>
 		<release name="Moon Patrol (USA)" region="USA"/>
 		<rom name="Moon Patrol (USA).a26" size="8192" crc="d641ef2d" md5="515046e3061b7b18aa3a551c3ae12673" sha1="dce778f397a325113f035722b7769492645d69eb"/>
@@ -1578,21 +1578,21 @@
 		<hash>42cdd6a9e42a3639e190722b8ea3fc51</hash>
 	</game>
 	
-	<game name="Retail/The Activision Decathlon/Activision Decathlon, The (USA)">
+	<game name="Retail/Activision Decathlon, The/Activision Decathlon, The (USA)">
 		<category></category>
 		<description>Activision Decathlon, The (USA)</description>
 		<rom name="Activision Decathlon, The (USA).a26" size="8192" crc="3feb39b1" md5="525f2dfc8b21b0186cff2568e0509bfc" sha1="e0d47565df935c064bc4055636f37a0432ab3727"/>
 		<url>https://retroachievements.org/game/13208/hashes</url>
 		<hash>525f2dfc8b21b0186cff2568e0509bfc</hash>
 	</game>
-	<game name="Retail/The Activision Decathlon/Activision Decathlon, The (Europe)">
+	<game name="Retail/Activision Decathlon, The/Activision Decathlon, The (Europe)">
 		<category></category>
 		<description>Activision Decathlon, The (Europe)</description>
 		<rom name="Activision Decathlon, The (Europe).a26" size="8192" crc="2452adab" md5="883258dcd68cefc6cd4d40b1185116dc" sha1="082fc914d6ebf415926fbb6cf781de209a4d052d"/>
 		<url>https://retroachievements.org/game/13208/hashes</url>
 		<hash>883258dcd68cefc6cd4d40b1185116dc</hash>
 	</game>
-	<game name="Retail/The Activision Decathlon/Activision Decathlon, The (France)">
+	<game name="Retail/Activision Decathlon, The/Activision Decathlon, The (France)">
 		<category></category>
 		<description>Activision Decathlon, The (France)</description>
 		<rom name="Activision Decathlon, The (France).a26" size="8192" crc="716d9d1d" md5="ede4ab11ca346bd023b2c21d941e0c50" sha1="7da9cc2383d09835d345ec7d6e76d223591d2a2a"/>

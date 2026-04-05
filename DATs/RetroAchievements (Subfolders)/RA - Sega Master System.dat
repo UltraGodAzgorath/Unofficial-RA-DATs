@@ -1189,8 +1189,8 @@
 		<hash>3dd2c025185e19ac9bf1ed16b695c629</hash>
 	</game>
 	
-	<game name="Super Smash T.V. (Europe)">
-		<category>Retail</category>
+	<game name="Retail/Super Smash T.V. (Europe)">
+		<category></category>
 		<description>Super Smash T.V. (Europe)</description>
 		<release name="Super Smash T.V. (Europe)" region="Europe"/>
 		<rom name="Super Smash T.V. (Europe).sms" size="262144" crc="e0b1aff8" md5="fd65b6794d6778c7948cd9b8b02a12f5" sha1="b4515aad1cad31980d041632e23d3be82aa31828"/>
@@ -1399,14 +1399,14 @@
 		<hash>e50336c0d146e8a341c7ae198a016527</hash>
 	</game>
 	
-	<game name="Retail/The Lucky Dime Caper Starring Donald Duck/Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En)">
+	<game name="Retail/Lucky Dime Caper Starring Donald Duck, The/Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En)">
 		<category></category>
 		<description>Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En)</description>
 		<rom name="Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (En).sms" size="262144" crc="a1710f13" md5="653f10042a5ee5854ccf971456641a4d" sha1="a08815d27e431f0bee70b4ebfb870a3196c2a732"/>
 		<url>https://retroachievements.org/game/10714/hashes</url>
 		<hash>653f10042a5ee5854ccf971456641a4d</hash>
 	</game>
-	<game name="Retail/The Lucky Dime Caper Starring Donald Duck/Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (Pt)">
+	<game name="Retail/Lucky Dime Caper Starring Donald Duck, The/Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (Pt)">
 		<category></category>
 		<description>Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (Pt)</description>
 		<rom name="Lucky Dime Caper Starring Donald Duck, The (Europe, Brazil) (Pt).sms" size="262144" crc="d79e51a8" md5="7de76abf927d6fec98d46e28de054e36" sha1="65a94f09a278b74052ae1cea009b0f97d6c4e8a8"/>
