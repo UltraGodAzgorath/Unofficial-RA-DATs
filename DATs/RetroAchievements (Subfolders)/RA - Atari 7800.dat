@@ -53,6 +53,14 @@
 		<hash>33dbb58f9ee73e9f476b4ebbc8190c88</hash>
 	</game>
 	
+	<game name="Homebrew/Lift (World) (v20240711) (Aftermarket) (Inufuto)">
+		<category></category>
+		<description>Lift (World) (v20240711) (Aftermarket) (Inufuto)</description>
+		<rom name="Lift (World) (v20240711) (Aftermarket) (Inufuto).a78" size="16512" crc="f7c9c471" md5="61d1c414c835ea9db7daca739043fa64" sha1="6344f9d52010ca54caf00ea9cc5f97c93b4ba107"/>
+		<url>https://retroachievements.org/game/38104/hashes</url>
+		<hash>6765d3723f4256d680d374327f9aa42c</hash>
+	</game>
+	
 	<game name="Homebrew/Meteor Shower/Meteor Shower (World) (v1.05) (NTSC) (Aftermarket) (Unl)">
 		<category></category>
 		<description>Meteor Shower (World) (v1.05) (NTSC) (Aftermarket) (Unl)</description>
@@ -258,6 +266,14 @@
 		<rom name="Kung-Fu Master (USA).a78" size="32768" crc="297899bb" md5="f57d0af323d4e173fb49ed447f0563d7" sha1="8824bffdf4f30a8191e581752a75259a663092ca"/>
 		<url>https://retroachievements.org/game/16945/hashes</url>
 		<hash>f57d0af323d4e173fb49ed447f0563d7</hash>
+	</game>
+	
+	<game name="Retail/Mario Bros. (USA)">
+		<category></category>
+		<description>Mario Bros. (USA)</description>
+		<rom name="Mario Bros. (USA).a78" size="49152" crc="8021a13b" md5="431ca060201ee1f9eb49d44962874049" sha1="12e04b67094af622641c536379c69ecad2ee98ed"/>
+		<url>https://retroachievements.org/game/13366/hashes</url>
+		<hash>431ca060201ee1f9eb49d44962874049</hash>
 	</game>
 	
 	<game name="Retail/Mean 18 Ultimate Golf (USA)">
