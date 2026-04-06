@@ -15,10 +15,10 @@
 		<clrmamepro forcepacking="unzip"/>
 		<romvault forcepacking="unzip"/>
 	</header>
-	<machine name="Wreckman (World) (v1.0.0) (retroloveletter) (Aftermarket)">
+	<machine name="Wreckman (World) (v1.0.0) (Aftermarket) (retroloveletter)">
 		<category>Homebrew</category>
-		<description>Wreckman (World) (v1.0.0) (retroloveletter) (Aftermarket)</description>
-		<disk name="Wreckman (World) (v1.0.0) (retroloveletter) (Aftermarket).chd" sha1="3f0b20fa82db7cd8778b386b3c1485aa8b535e23"/>
+		<description>Wreckman (World) (v1.0.0) (Aftermarket) (retroloveletter)</description>
+		<disk name="Wreckman (World) (v1.0.0) (Aftermarket) (retroloveletter).chd" sha1="3f0b20fa82db7cd8778b386b3c1485aa8b535e23"/>
 		<url>https://retroachievements.org/game/24160/hashes</url>
 		<hash>33031a9305cab3eb38af9f163fafe307</hash>
 	</machine>
