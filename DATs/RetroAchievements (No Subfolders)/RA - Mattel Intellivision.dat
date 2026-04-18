@@ -308,4 +308,21 @@
 		<url>https://retroachievements.org/game/24895/hashes</url>
 		<hash>e5836f66acd6ba7b31c7dccda23b34dc</hash>
 	</game>
+	
+	<game name="Lock 'N' Chase (USA, Europe) (Alt)">
+		<category>Retail</category>
+		<description>Lock 'N' Chase (USA, Europe) (Alt)</description>
+		<rom name="Lock 'N' Chase (USA, Europe) (Alt).int" size="16384" crc="e00d1399" md5="92c9ce0470cfc12e20df5b0246c60fea" sha1="3958c1d400a76a9534e05f03fb34efe90f32f113" />
+		<url>https://retroachievements.org/game/8562/hashes</url>
+		<hash>92c9ce0470cfc12e20df5b0246c60fea</hash>
+	</game>
+	
+	<game name="Q-bert (USA, Europe)">
+		<category>Retail</category>
+		<description>Q-bert (USA, Europe)</description>
+		<rom name="Q-bert (USA, Europe).int" size="16384" crc="d8c9856a" md5="1c697df0beb93eec95407bf87285a58a" sha1="60132870a1bf5f5b9d0aa19b4dd9c13a94702f70" />
+		<url>https://retroachievements.org/game/6751/hashes</url>
+		<hash>1c697df0beb93eec95407bf87285a58a</hash>
+	</game>
+	
 </datafile>
