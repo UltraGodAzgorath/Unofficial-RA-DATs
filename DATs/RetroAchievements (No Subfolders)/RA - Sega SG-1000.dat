@@ -271,6 +271,15 @@
 		<hash>b2ac0c7755e0d6ba0a737861ee190a53</hash>
 	</game>
 	
+	<game name="King's Valley (Taiwan) (Unl)">
+		<category>Unlicensed</category>
+		<description>King's Valley (Taiwan) (Unl)</description>
+		<release name="King's Valley (Taiwan) (Unl)" region="Taiwan"/>
+		<rom name="King's Valley (Taiwan) (Unl).sg" size="32768" crc="223397a1" md5="ff28e684eb3952ae3f7cf3e3d1c507ef" sha1="922d23895c12707b2fc382ea5cb769c5cb9b5755" />
+		<url>https://retroachievements.org/game/24546/hashes</url>
+		<hash>ff28e684eb3952ae3f7cf3e3d1c507ef</hash>
+	</game>
+	
 	<game name="Bank Panic (Japan)">
 		<category>Retail</category>
 		<description>Bank Panic (Japan)</description>
