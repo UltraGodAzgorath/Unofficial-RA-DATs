@@ -368,4 +368,29 @@
 		<url>https://retroachievements.org/game/6962/hashes</url>
 		<hash>e16495e3c8f726dcafa8e2ec0cd46507</hash>
 	</game>
+	
+	<game name="Retail/Egger Land (Japan)">
+		<category></category>
+		<description>Egger Land (Japan)</description>
+		<rom name="Egger Land (Japan).fds" size="131000" crc="34688660" md5="ec94e229cdd700bbdc66d283d0e3801f" sha1="8b84aa9a42046bda2f6b2d16eb1803f41b0e6437" />
+		<url>https://retroachievements.org/game/5094/hashes</url>
+		<hash>ec94e229cdd700bbdc66d283d0e3801f</hash>
+	</game>
+	
+	<game name="Retail/Nakayama Miho no Tokimeki High School/Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 10)">
+		<category></category>
+		<description>Egger Land (Japan)</description>
+		<rom name="Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (DV 10).fds" size="131000" crc="33525638" md5="8641f7afb326e29411d43e5e49c576a5" sha1="e1df981814e6fb34689bf46f2441831a2e17f413" />
+		<url>https://retroachievements.org/game/14086/hashes</url>
+		<hash>8641f7afb326e29411d43e5e49c576a5</hash>
+	</game>
+	
+	<game name="Retail/Nakayama Miho no Tokimeki High School/Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (En) (v1.0) (FCandChill)">
+		<category></category>
+		<description>Egger Land (Japan)</description>
+		<rom name="Idol Hotline - Nakayama Miho no Tokimeki High School (Japan) (En) (v1.0) (FCandChill).fds" size="131000" crc="772a6bcc" md5="18282fbfe1ebdf7061dbb8a8846db636" sha1="14d8ba1ed4deed5a753542c431e1dd607e0cc0c8" />
+		<url>https://retroachievements.org/game/14086/hashes</url>
+		<hash>18282fbfe1ebdf7061dbb8a8846db636</hash>
+	</game>
+	
 </datafile>
