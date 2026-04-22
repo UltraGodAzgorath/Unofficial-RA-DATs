@@ -347,4 +347,13 @@
 		<url>https://retroachievements.org/game/10196/hashes</url>
 		<hash>d008f41ec119e2c5c6a0782aebf148a8</hash>
 	</game>
+	
+	<game name="Retail/Pac-Land (USA, Europe)">
+		<category></category>
+		<description>Pac-Land (USA, Europe)</description>
+		<rom name="Pac-Land (USA, Europe).lnx" size="131072" crc="aa50dd22" md5="0a14754b351b4f11a1359e252b8eb992" sha1="58b57835703e3145a54e1c0ada38c9218bf4cd3d" />
+		<url>https://retroachievements.org/game/10600/hashes</url>
+		<hash>0a14754b351b4f11a1359e252b8eb992</hash>
+	</game>
+	
 </datafile>
