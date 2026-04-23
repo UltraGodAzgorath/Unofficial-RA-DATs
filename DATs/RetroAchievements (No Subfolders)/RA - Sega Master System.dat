@@ -1885,4 +1885,15 @@
 		<url>https://retroachievements.org/game/10969/hashes</url>
 		<hash>d4bf9e7bcf9a48da53785d2ae7bc4270</hash>
 	</game>
+	
+	<game name="Smurfs, The (Europe, Brazil) (En,Fr,De,Es)">
+		<category>Retail</category>
+		<description>Smurfs, The (Europe, Brazil) (En,Fr,De,Es)</description>
+		<release name="Smurfs, The (Europe, Brazil) (En,Fr,De,Es)" region="Brazil"/>
+		<release name="Smurfs, The (Europe, Brazil) (En,Fr,De,Es)" region="Europe"/>
+		<rom name="Smurfs, The (Europe, Brazil) (En,Fr,De,Es).sms" size="262144" crc="3e63768a" md5="fe2aa0402eb30cec17b3bf4504f8219b" sha1="82f75232e195b8bdcd9c0d852076d999899cc92e" />
+		<url>https://retroachievements.org/game/27244/hashes</url>
+		<hash>fe2aa0402eb30cec17b3bf4504f8219b</hash>
+	</game>
+	
 </datafile>
