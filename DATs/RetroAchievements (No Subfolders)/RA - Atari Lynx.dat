@@ -295,6 +295,16 @@
 		<hash>c9ed2a3bdefd6d5fdf67302d87b5cfb2</hash>
 	</game>
 	
+	<game name="Pac-Land (USA, Europe)">
+		<category>Retail</category>
+		<description>Pac-Land (USA, Europe)</description>
+		<release name="Pac-Land (USA, Europe)" region="Europe"/>
+		<release name="Pac-Land (USA, Europe)" region="USA"/>
+		<rom name="Pac-Land (USA, Europe).lyx" size="131072" crc="aa50dd22" md5="0a14754b351b4f11a1359e252b8eb992" sha1="58b57835703e3145a54e1c0ada38c9218bf4cd3d"/>
+		<url>https://retroachievements.org/game/10600/hashes</url>
+		<hash>0a14754b351b4f11a1359e252b8eb992</hash>
+	</game>
+	
 	<game name="Pinball Jam (USA, Europe)">
 		<category>Retail</category>
 		<description>Pinball Jam (USA, Europe)</description>
