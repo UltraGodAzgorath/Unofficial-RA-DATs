@@ -363,4 +363,21 @@
 		<url>https://retroachievements.org/game/16955/hashes</url>
 		<hash>8d64763db3100aadc552db5e6868506a</hash>
 	</game>
+	
+	<game name="Retail/Mario Bros. (USA)">
+		<category></category>
+		<description>Mario Bros. (USA)</description>
+		<rom name="Mario Bros. (USA).a78" size="49152" crc="8021a13b" md5="431ca060201ee1f9eb49d44962874049" sha1="12e04b67094af622641c536379c69ecad2ee98ed"/>
+		<url>https://retroachievements.org/game/13366/hashes</url>
+		<hash>431ca060201ee1f9eb49d44962874049</hash>
+	</game>
+	
+	<game name="Homebrew/Lift (World) (v20240711) (Aftermarket) (Inufuto)">
+		<category></category>
+		<description>Lift (World) (v20240711) (Aftermarket) (Inufuto)</description>
+		<rom name="Lift (World) (v20240711) (Aftermarket) (Inufuto).a78" size="16384" crc="d34fd674" md5="6765d3723f4256d680d374327f9aa42c" sha1="57e4b7db1071a2b68cf4afa6bf8751cd540ca8c4" />
+		<url>https://retroachievements.org/game/38104/hashes</url>
+		<hash>6765d3723f4256d680d374327f9aa42c</hash>
+	</game>
+	
 </datafile>
