@@ -437,4 +437,40 @@
 		<hash>18282fbfe1ebdf7061dbb8a8846db636</hash>
 	</game>
 	
+	<game name="Druid - Kyoufu no Tobira (Japan)">
+		<category>Retail</category>
+		<description>Druid - Kyoufu no Tobira (Japan)</description>
+		<release name="Druid - Kyoufu no Tobira (Japan)" region="Japan"/>
+		<rom name="Druid - Kyoufu no Tobira (Japan).fds" size="131000" crc="69139e45" md5="bf88d1c1fc7bf0d4783859264dd6bda5" sha1="7b0c175a94d11db939565ad0b40dd29d6a129a5d" />
+		<url>https://retroachievements.org/game/5823/hashes</url>
+		<hash>bf88d1c1fc7bf0d4783859264dd6bda5</hash>
+	</game>
+	
+	<game name="Electrician (Japan)">
+		<category>Retail</category>
+		<description>Electrician (Japan)</description>
+		<release name="Electrician (Japan)" region="Japan"/>
+		<rom name="Electrician (Japan).fds" size="131000" crc="2ca83dfb" md5="858c75bac6e034cee44afe665c23069f" sha1="da2027ea081a5abed68a92f5af5f9ad9d474c7aa" />
+		<url>https://retroachievements.org/game/13713/hashes</url>
+		<hash>858c75bac6e034cee44afe665c23069f</hash>
+	</game>
+	
+	<game name="Knight Move (Japan)">
+		<category>Retail</category>
+		<description>Knight Move (Japan)</description>
+		<release name="Knight Move (Japan)" region="Japan"/>
+		<rom name="Knight Move (Japan).fds" size="65500" crc="fd6ef8d7" md5="c1defd5a1b78f409b5951ad8988d820e" sha1="ca24c31db670cdff703677fce28f0a810b2d3350" />
+		<url>https://retroachievements.org/game/14084/hashes</url>
+		<hash>c1defd5a1b78f409b5951ad8988d820e</hash>
+	</game>
+	
+	<game name="Knight Move (Japan) (Rev 1) (Disk Writer)">
+		<category>Retail</category>
+		<description>Knight Move (Japan) (Rev 1) (Disk Writer)</description>
+		<release name="Knight Move (Japan) (Rev 1) (Disk Writer)" region="Japan"/>
+		<rom name="Knight Move (Japan) (Rev 1) (Disk Writer).fds" size="65500" crc="6d365e2f" md5="1eb851f60fc09f3d5b61ea16e13b71c6" sha1="ac81cecd0c99cb7657681ad11d530c673941b59f" />
+		<url>https://retroachievements.org/game/14084/hashes</url>
+		<hash>1eb851f60fc09f3d5b61ea16e13b71c6</hash>
+	</game>
+	
 </datafile>
