@@ -5,13 +5,13 @@
 		<name>RA - Atari 2600</name>
 		<description>Atari 2600</description>
 		<category>Subfolders</category>
-		<version>20260405</version>
-		<date>5 April 2026</date>
+		<version>20260428</version>
+		<date>28 April 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/25/games</url>
-		<titlecount>188</titlecount>
-		<hashcount>201</hashcount>
+		<titlecount>198</titlecount>
+		<hashcount>212</hashcount>
 	</header>
 	<game name="Demo/Pepsi Invaders - Coke Wins (NTSC) (Prototype)">
 		<category></category>
@@ -1112,6 +1112,14 @@
 		<rom name="Mario Bros. (USA).a26" size="8192" crc="8fbf7e90" md5="e908611d99890733be31733a979c62d8" sha1="49425ff154b92ca048abb4ce5e8d485c24935035"/>
 		<url>https://retroachievements.org/game/11465/hashes</url>
 		<hash>e908611d99890733be31733a979c62d8</hash>
+	</game>
+	
+	<game name="Retail/Masters of the Universe - The Power of He-Man (USA)">
+		<category></category>
+		<description>Masters of the Universe - The Power of He-Man (USA)</description>
+		<rom name="Masters of the Universe - The Power of He-Man (USA).a26" size="16384" crc="0603e177" md5="3b76242691730b2dd22ec0ceab351bc6" sha1="6db8fa65755db86438ada3d90f4c39cc288dcf84"/>
+		<url>https://retroachievements.org/game/25343/hashes</url>
+		<hash>3b76242691730b2dd22ec0ceab351bc6</hash>
 	</game>
 	
 	<game name="Retail/Math Gran Prix (USA)">
