@@ -10,6 +10,7 @@ rem
 rem Compatibility-first defaults:
 rem - 3DO, NEC PC-FX, and NEC TurboGrafx-CD use default CHD compression.
 rem - All other CHD-compatible RA folders here use ZSTD.
+rem - CD ZSTD uses cdzs,cdzl,cdfl. DVD ZSTD uses zstd,zlib,huff,flac.
 rem - PS2 uses one folder: .cue = createcd ZSTD, .iso = createdvd ZSTD.
 rem - Loose .bin files are ignored. Use the matching .cue file.
 rem
@@ -109,7 +110,7 @@ echo   3DO Interactive Multiplayer     *.cue, *.iso
 echo   NEC PC-FX                       *.cue
 echo   NEC TurboGrafx-CD               *.cue
 echo.
-echo ZSTD createcd:
+echo ZSTD createcd -c cdzs,cdzl,cdfl:
 echo   Sega CD                         *.cue
 echo   Sega Dreamcast                  *.gdi, *.cue
 echo   Sega Saturn                     *.cue
@@ -117,7 +118,7 @@ echo   SNK Neo Geo CD                  *.cue
 echo   Sony PlayStation                *.cue
 echo   Sony PlayStation 2              *.cue
 echo.
-echo ZSTD createdvd:
+echo ZSTD createdvd -c zstd,zlib,huff,flac:
 echo   Sony PlayStation 2              *.iso
 echo   Sony PlayStation Portable       *.iso
 echo.
@@ -330,12 +331,12 @@ if /I "%MODE%"=="CD_DEFAULT" (
 )
 
 if /I "%MODE%"=="CD_ZSTD" (
-    "%CHDMAN%" createcd -i "%INPUT%" -o "%OUTPUT%" -c zstd,flac
+    "%CHDMAN%" createcd -i "%INPUT%" -o "%OUTPUT%" -c cdzs,cdzl,cdfl
     goto CheckConvertResult
 )
 
 if /I "%MODE%"=="DVD_ZSTD" (
-    "%CHDMAN%" createdvd -i "%INPUT%" -o "%OUTPUT%" -c zstd
+    "%CHDMAN%" createdvd -i "%INPUT%" -o "%OUTPUT%" -c zstd,zlib,huff,flac
     goto CheckConvertResult
 )
 
@@ -613,7 +614,7 @@ goto FixCleanup
 if errorlevel 1 goto FixFailed
 
 if /I "%TARGET_COMP%"=="ZSTD" (
-    "%CHDMAN%" createcd -i "%TMPDIR%\source.cue" -o "%FIXED%" -c zstd,flac
+    "%CHDMAN%" createcd -i "%TMPDIR%\source.cue" -o "%FIXED%" -c cdzs,cdzl,cdfl
 ) else (
     "%CHDMAN%" createcd -i "%TMPDIR%\source.cue" -o "%FIXED%"
 )
@@ -625,7 +626,7 @@ goto FixReplace
 if errorlevel 1 goto FixFailed
 
 if /I "%TARGET_COMP%"=="ZSTD" (
-    "%CHDMAN%" createdvd -i "%TMPDIR%\source.iso" -o "%FIXED%" -c zstd
+    "%CHDMAN%" createdvd -i "%TMPDIR%\source.iso" -o "%FIXED%" -c zstd,zlib,huff,flac
 ) else (
     "%CHDMAN%" createdvd -i "%TMPDIR%\source.iso" -o "%FIXED%"
 )
