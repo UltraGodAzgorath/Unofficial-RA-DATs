@@ -17,15 +17,24 @@ rem
 rem Added checker/fixer:
 rem - Uses chdman info -v to inspect existing CHD metadata.
 rem - Detects CD CHD vs DVD CHD when metadata is available.
-rem - Detects ZSTD vs standard/default compression.
+rem - Detects ZSTD vs standard/default compression, including CD codec cdzs.
 rem - Can fix wrong compression by extracting to temp files and recompressing.
 rem - Original CHDs are renamed to .backup_RANDOM.chd after a successful fix.
+rem - CHD check/fix uses environment variables plus PowerShell for chdman calls,
+rem   so legal filename characters like %, ^, &, and ! do not need renaming.
+rem
+rem Added cleanup/convenience options:
+rem - Convert one selected system folder instead of all folders.
+rem - Fix wrong CHD compression for all folders or one selected folder.
+rem - Optionally move successfully converted source files to _Converted_Source.
 rem ============================================================
 
 set "ROOT=%~dp0"
 set "CHDMAN=%ROOT%chdman.exe"
 set "LOGDIR=%ROOT%_Logs"
 set "LOG=%LOGDIR%\CHD_Converter.log"
+set "MOVE_ORIGINALS=NO"
+set "NONINTERACTIVE=NO"
 
 if not exist "%LOGDIR%" mkdir "%LOGDIR%" >nul 2>nul
 
@@ -46,8 +55,8 @@ if not exist "%CHDMAN%" (
 
 call :EnsureFolders
 
-if /I "%~1"=="/AUTO" goto ConvertAll
-if /I "%~1"=="/RUN" goto ConvertAll
+if /I "%~1"=="/AUTO" set "NONINTERACTIVE=YES" & goto ConvertAll
+if /I "%~1"=="/RUN" set "NONINTERACTIVE=YES" & goto ConvertAll
 if /I "%~1"=="/CHECK" goto CheckCHDs
 if /I "%~1"=="/FIX" goto FixCHDs
 
@@ -64,20 +73,153 @@ echo chdman:
 echo %CHDMAN%
 echo.
 echo 1 - Convert all system folders to CHD
-echo 2 - Check existing CHD format/compression
-echo 3 - Fix wrong CHD compression
-echo 4 - Show folder/method list
-echo 5 - Verify chdman.exe
-echo 6 - Exit
+echo 2 - Convert one selected system folder to CHD
+echo 3 - Check existing CHD format/compression
+echo 4 - Fix wrong CHD compression for all systems
+echo 5 - Fix wrong CHD compression for one selected system
+echo 6 - Show folder/method list
+echo 7 - Verify chdman.exe
+echo 8 - Exit
 echo.
-choice /C 123456 /N /M "Choose an option: "
-if errorlevel 6 goto End
-if errorlevel 5 goto VerifyCHDMan
-if errorlevel 4 goto ShowMethods
-if errorlevel 3 goto FixCHDs
-if errorlevel 2 goto CheckCHDs
+choice /C 12345678 /N /M "Choose an option: "
+if errorlevel 8 goto End
+if errorlevel 7 goto VerifyCHDMan
+if errorlevel 6 goto ShowMethods
+if errorlevel 5 goto FixOneSystemMenu
+if errorlevel 4 goto FixCHDs
+if errorlevel 3 goto CheckCHDs
+if errorlevel 2 goto ConvertOneSystemMenu
 if errorlevel 1 goto ConvertAll
 
+goto MainMenu
+
+
+:ConvertOneSystemMenu
+cls
+echo ============================================================
+echo Convert One System Folder
+echo ============================================================
+echo.
+echo 1 - 3DO Interactive Multiplayer
+echo 2 - NEC PC-FX
+echo 3 - NEC TurboGrafx-CD
+echo 4 - Sega CD
+echo 5 - Sega Dreamcast
+echo 6 - Sega Saturn
+echo 7 - SNK Neo Geo CD
+echo 8 - Sony PlayStation
+echo 9 - Sony PlayStation 2
+echo 0 - Sony PlayStation Portable
+echo B - Back
+echo.
+choice /C 1234567890B /N /M "Choose a system: "
+if errorlevel 11 goto MainMenu
+if errorlevel 10 goto ConvertSystemPSP
+if errorlevel 9 goto ConvertSystemPS2
+if errorlevel 8 goto ConvertSystemPS1
+if errorlevel 7 goto ConvertSystemNGCD
+if errorlevel 6 goto ConvertSystemSaturn
+if errorlevel 5 goto ConvertSystemDreamcast
+if errorlevel 4 goto ConvertSystemSegaCD
+if errorlevel 3 goto ConvertSystemTGCD
+if errorlevel 2 goto ConvertSystemPCFX
+if errorlevel 1 goto ConvertSystem3DO
+
+goto MainMenu
+
+:ConvertSystem3DO
+call :ConvertSelectedSystem "3DO Interactive Multiplayer"
+goto MainMenu
+:ConvertSystemPCFX
+call :ConvertSelectedSystem "NEC PC-FX"
+goto MainMenu
+:ConvertSystemTGCD
+call :ConvertSelectedSystem "NEC TurboGrafx-CD"
+goto MainMenu
+:ConvertSystemSegaCD
+call :ConvertSelectedSystem "Sega CD"
+goto MainMenu
+:ConvertSystemDreamcast
+call :ConvertSelectedSystem "Sega Dreamcast"
+goto MainMenu
+:ConvertSystemSaturn
+call :ConvertSelectedSystem "Sega Saturn"
+goto MainMenu
+:ConvertSystemNGCD
+call :ConvertSelectedSystem "SNK Neo Geo CD"
+goto MainMenu
+:ConvertSystemPS1
+call :ConvertSelectedSystem "Sony PlayStation"
+goto MainMenu
+:ConvertSystemPS2
+call :ConvertSelectedSystem "Sony PlayStation 2"
+goto MainMenu
+:ConvertSystemPSP
+call :ConvertSelectedSystem "Sony PlayStation Portable"
+goto MainMenu
+
+:FixOneSystemMenu
+cls
+echo ============================================================
+echo Fix Wrong CHD Compression - One System Folder
+echo ============================================================
+echo.
+echo 1 - 3DO Interactive Multiplayer
+echo 2 - NEC PC-FX
+echo 3 - NEC TurboGrafx-CD
+echo 4 - Sega CD
+echo 5 - Sega Dreamcast
+echo 6 - Sega Saturn
+echo 7 - SNK Neo Geo CD
+echo 8 - Sony PlayStation
+echo 9 - Sony PlayStation 2
+echo 0 - Sony PlayStation Portable
+echo B - Back
+echo.
+choice /C 1234567890B /N /M "Choose a system to fix: "
+if errorlevel 11 goto MainMenu
+if errorlevel 10 goto FixSystemPSP
+if errorlevel 9 goto FixSystemPS2
+if errorlevel 8 goto FixSystemPS1
+if errorlevel 7 goto FixSystemNGCD
+if errorlevel 6 goto FixSystemSaturn
+if errorlevel 5 goto FixSystemDreamcast
+if errorlevel 4 goto FixSystemSegaCD
+if errorlevel 3 goto FixSystemTGCD
+if errorlevel 2 goto FixSystemPCFX
+if errorlevel 1 goto FixSystem3DO
+
+goto MainMenu
+
+:FixSystem3DO
+call :FixSelectedSystem "3DO Interactive Multiplayer"
+goto MainMenu
+:FixSystemPCFX
+call :FixSelectedSystem "NEC PC-FX"
+goto MainMenu
+:FixSystemTGCD
+call :FixSelectedSystem "NEC TurboGrafx-CD"
+goto MainMenu
+:FixSystemSegaCD
+call :FixSelectedSystem "Sega CD"
+goto MainMenu
+:FixSystemDreamcast
+call :FixSelectedSystem "Sega Dreamcast"
+goto MainMenu
+:FixSystemSaturn
+call :FixSelectedSystem "Sega Saturn"
+goto MainMenu
+:FixSystemNGCD
+call :FixSelectedSystem "SNK Neo Geo CD"
+goto MainMenu
+:FixSystemPS1
+call :FixSelectedSystem "Sony PlayStation"
+goto MainMenu
+:FixSystemPS2
+call :FixSelectedSystem "Sony PlayStation 2"
+goto MainMenu
+:FixSystemPSP
+call :FixSelectedSystem "Sony PlayStation Portable"
 goto MainMenu
 
 :VerifyCHDMan
@@ -137,7 +279,8 @@ echo.
 echo Notes:
 echo   - Output CHDs are created beside the source files.
 echo   - Existing CHDs are skipped during conversion.
-echo   - Source files are never deleted or moved by this BAT.
+echo   - Source files are never deleted.
+echo   - Optional cleanup can move successfully converted source files to _Converted_Source.
 echo   - Loose .bin files are ignored; convert from the matching .cue.
 echo   - chdman progress is shown live during conversion and fixing.
 echo   - Check/fix uses CHD metadata. Unknown CD/DVD type is logged and skipped by fixer.
@@ -160,6 +303,8 @@ set /a TOTAL_FOUND=0
 set /a TOTAL_TO_CONVERT=0
 set /a CURRENT=0
 
+call :ConfigureMoveOriginals
+
 echo Scanning folders...
 call :CountAll
 
@@ -175,6 +320,7 @@ echo Root: %ROOT%>>"%LOG%"
 echo chdman: %CHDMAN%>>"%LOG%"
 echo Candidates found: %TOTAL_FOUND%>>"%LOG%"
 echo Need conversion: %TOTAL_TO_CONVERT%>>"%LOG%"
+echo Move originals after success: %MOVE_ORIGINALS%>>"%LOG%"
 echo ============================================================>>"%LOG%"
 
 if %TOTAL_FOUND% EQU 0 (
@@ -237,6 +383,268 @@ if %FAILED% GTR 0 (
 pause
 goto MainMenu
 
+
+:ConfigureMoveOriginals
+set "MOVE_ORIGINALS=NO"
+if /I "%NONINTERACTIVE%"=="YES" exit /b 0
+echo.
+echo Cleanup option:
+echo   Successfully converted source files can be moved to:
+echo   %ROOT%_Converted_Source
+echo.
+echo This does not delete files. It only moves source files after a successful CHD is created.
+echo For CUE/GDI sets, the BAT will try to move referenced BIN/RAW files too.
+echo PS1 SBI files are left beside the CHD because some games need them for play.
+echo.
+choice /C YN /N /M "Move originals after successful conversion? [Y/N]: "
+if errorlevel 2 (
+    set "MOVE_ORIGINALS=NO"
+) else (
+    set "MOVE_ORIGINALS=YES"
+    if not exist "%ROOT%_Converted_Source" mkdir "%ROOT%_Converted_Source" >nul 2>nul
+)
+echo.
+echo Move originals after success: %MOVE_ORIGINALS%
+exit /b 0
+
+:ConvertSelectedSystem
+cls
+echo ============================================================
+echo RetroAchievements CHD Auto Converter - Convert One System
+echo ============================================================
+echo.
+echo Selected system:
+echo %~1
+echo.
+
+set /a FOUND=0
+set /a CONVERTED=0
+set /a SKIPPED=0
+set /a FAILED=0
+set /a TOTAL_FOUND=0
+set /a TOTAL_TO_CONVERT=0
+set /a CURRENT=0
+
+call :ConfigureMoveOriginals
+
+echo Scanning folder...
+call :CountSystem "%~1"
+
+echo.
+echo Candidates found: %TOTAL_FOUND%
+echo Need conversion:  %TOTAL_TO_CONVERT%
+echo.
+
+echo.>>"%LOG%"
+echo ============================================================>>"%LOG%"
+echo Convert selected-system run started: %DATE% %TIME%>>"%LOG%"
+echo System: %~1>>"%LOG%"
+echo Root: %ROOT%>>"%LOG%"
+echo chdman: %CHDMAN%>>"%LOG%"
+echo Candidates found: %TOTAL_FOUND%>>"%LOG%"
+echo Need conversion: %TOTAL_TO_CONVERT%>>"%LOG%"
+echo Move originals after success: %MOVE_ORIGINALS%>>"%LOG%"
+echo ============================================================>>"%LOG%"
+
+if %TOTAL_FOUND% EQU 0 (
+    echo No supported source files were found for this system.
+    echo.
+    pause
+    exit /b 0
+)
+
+if %TOTAL_TO_CONVERT% EQU 0 (
+    echo All supported source files for this system already have matching CHD files.
+    echo Nothing to convert.
+    echo.
+    pause
+    exit /b 0
+)
+
+call :ProcessSystem "%~1"
+
+echo.>>"%LOG%"
+echo Convert selected-system summary: Found=%FOUND% Converted=%CONVERTED% Skipped=%SKIPPED% Failed=%FAILED%>>"%LOG%"
+echo Convert selected-system run finished: %DATE% %TIME%>>"%LOG%"
+
+echo.
+echo ============================================================
+echo Done
+echo ============================================================
+echo System:    %~1
+echo Found:     %FOUND%
+echo Converted: %CONVERTED%
+echo Skipped:   %SKIPPED%
+echo Failed:    %FAILED%
+echo.
+echo Log file:
+echo %LOG%
+echo.
+if %FAILED% GTR 0 (
+    echo Some conversions failed. Check the log above.
+    echo Partial failed CHDs are deleted automatically when detected.
+    echo.
+)
+pause
+exit /b 0
+
+:CountSystem
+if /I "%~1"=="3DO Interactive Multiplayer" (
+    call :CountFiles "3DO Interactive Multiplayer" "*.cue"
+    call :CountFiles "3DO Interactive Multiplayer" "*.iso"
+    exit /b 0
+)
+if /I "%~1"=="NEC PC-FX" (
+    call :CountFiles "NEC PC-FX" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="NEC TurboGrafx-CD" (
+    call :CountFiles "NEC TurboGrafx-CD" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="Sega CD" (
+    call :CountFiles "Sega CD" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="Sega Dreamcast" (
+    call :CountFiles "Sega Dreamcast" "*.gdi"
+    call :CountFiles "Sega Dreamcast" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="Sega Saturn" (
+    call :CountFiles "Sega Saturn" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="SNK Neo Geo CD" (
+    call :CountFiles "SNK Neo Geo CD" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="Sony PlayStation" (
+    call :CountFiles "Sony PlayStation" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="Sony PlayStation 2" (
+    call :CountFiles "Sony PlayStation 2" "*.cue"
+    call :CountFiles "Sony PlayStation 2" "*.iso"
+    exit /b 0
+)
+if /I "%~1"=="Sony PlayStation Portable" (
+    call :CountFiles "Sony PlayStation Portable" "*.iso"
+    exit /b 0
+)
+exit /b 0
+
+:ProcessSystem
+if /I "%~1"=="3DO Interactive Multiplayer" (
+    call :ProcessCDDefault "3DO Interactive Multiplayer" "*.cue"
+    call :ProcessCDDefault "3DO Interactive Multiplayer" "*.iso"
+    exit /b 0
+)
+if /I "%~1"=="NEC PC-FX" (
+    call :ProcessCDDefault "NEC PC-FX" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="NEC TurboGrafx-CD" (
+    call :ProcessCDDefault "NEC TurboGrafx-CD" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="Sega CD" (
+    call :ProcessCDZstd "Sega CD" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="Sega Dreamcast" (
+    call :ProcessCDZstd "Sega Dreamcast" "*.gdi"
+    call :ProcessCDZstd "Sega Dreamcast" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="Sega Saturn" (
+    call :ProcessCDZstd "Sega Saturn" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="SNK Neo Geo CD" (
+    call :ProcessCDZstd "SNK Neo Geo CD" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="Sony PlayStation" (
+    call :ProcessCDZstd "Sony PlayStation" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="Sony PlayStation 2" (
+    call :ProcessCDZstd "Sony PlayStation 2" "*.cue"
+    call :ProcessDVDZstd "Sony PlayStation 2" "*.iso"
+    exit /b 0
+)
+if /I "%~1"=="Sony PlayStation Portable" (
+    call :ProcessDVDZstd "Sony PlayStation Portable" "*.iso"
+    exit /b 0
+)
+exit /b 0
+
+:MoveSourceSet
+set "MOVE_INPUT=%~1"
+set "MOVE_FOLDER=%~2"
+set "MOVE_EXT=%~x1"
+set "MOVE_SOURCE_ROOT=%ROOT%%~2"
+set "MOVE_DEST_ROOT=%ROOT%_Converted_Source\%~2"
+
+if not exist "%MOVE_DEST_ROOT%" mkdir "%MOVE_DEST_ROOT%" >nul 2>nul
+
+echo [MOVE] Moving source files for: "%MOVE_INPUT%"
+echo [MOVE] Moving source files for: "%MOVE_INPUT%">>"%LOG%"
+
+if /I "%MOVE_EXT%"==".cue" goto MoveCueSet
+if /I "%MOVE_EXT%"==".gdi" goto MoveGdiSet
+
+goto MoveSingleInput
+
+:MoveCueSet
+rem Move files referenced by quoted FILE lines before moving the CUE itself.
+for /f tokens^=2^ delims^=^" %%R in ('findstr /I /B /C:"FILE " "%MOVE_INPUT%" 2^>nul') do call :MoveOneFile "%~dp1%%~R" "%MOVE_SOURCE_ROOT%" "%MOVE_DEST_ROOT%"
+if exist "%~dpn1.sbi" (
+    echo [KEEP] SBI left beside CHD: "%~dpn1.sbi"
+    echo [KEEP] SBI left beside CHD: "%~dpn1.sbi">>"%LOG%"
+)
+goto MoveSingleInput
+
+:MoveGdiSet
+rem Common GDI format uses token 5 as the referenced track filename.
+for /f "usebackq skip=1 tokens=5" %%R in ("%MOVE_INPUT%") do call :MoveOneFile "%~dp1%%~R" "%MOVE_SOURCE_ROOT%" "%MOVE_DEST_ROOT%"
+goto MoveSingleInput
+
+:MoveSingleInput
+call :MoveOneFile "%MOVE_INPUT%" "%MOVE_SOURCE_ROOT%" "%MOVE_DEST_ROOT%"
+exit /b 0
+
+:MoveOneFile
+setlocal EnableDelayedExpansion
+set "SRC=%~1"
+set "SRCROOT=%~2"
+set "DESTROOT=%~3"
+if not exist "!SRC!" (
+    echo [MOVE WARN] Missing referenced source: "!SRC!"
+    echo [MOVE WARN] Missing referenced source: "!SRC!">>"%LOG%"
+    endlocal & exit /b 0
+)
+set "SRCDIR=%~dp1"
+set "RELDIR=!SRCDIR:%~2\=!"
+if "!RELDIR!"=="!SRCDIR!" set "RELDIR="
+set "DESTDIR=!DESTROOT!\!RELDIR!"
+if not exist "!DESTDIR!" mkdir "!DESTDIR!" >nul 2>nul
+if exist "!DESTDIR!\%~nx1" (
+    echo [MOVE SKIP] Destination already exists: "!DESTDIR!\%~nx1"
+    echo [MOVE SKIP] Destination already exists: "!DESTDIR!\%~nx1">>"%LOG%"
+    endlocal & exit /b 0
+)
+move "!SRC!" "!DESTDIR!\" >nul
+if errorlevel 1 (
+    echo [MOVE FAILED] "!SRC!"
+    echo [MOVE FAILED] "!SRC!">>"%LOG%"
+) else (
+    echo [MOVED] "!SRC!" -^> "!DESTDIR!\"
+    echo [MOVED] "!SRC!" -^> "!DESTDIR!\">>"%LOG%"
+)
+endlocal & exit /b 0
+
 :CountAll
 call :CountFiles "3DO Interactive Multiplayer" "*.cue"
 call :CountFiles "3DO Interactive Multiplayer" "*.iso"
@@ -276,7 +684,7 @@ if not exist "%SYSTEMDIR%" exit /b 0
 echo.
 echo [CD DEFAULT] %FOLDER% - %PATTERN%
 echo [CD DEFAULT] %FOLDER% - %PATTERN%>>"%LOG%"
-for /r "%SYSTEMDIR%" %%F in (%PATTERN%) do call :ConvertOne CD_DEFAULT "%%~fF"
+for /r "%SYSTEMDIR%" %%F in (%PATTERN%) do call :ConvertOne CD_DEFAULT "%FOLDER%" "%%~fF"
 exit /b 0
 
 :ProcessCDZstd
@@ -288,7 +696,7 @@ if not exist "%SYSTEMDIR%" exit /b 0
 echo.
 echo [CD ZSTD] %FOLDER% - %PATTERN%
 echo [CD ZSTD] %FOLDER% - %PATTERN%>>"%LOG%"
-for /r "%SYSTEMDIR%" %%F in (%PATTERN%) do call :ConvertOne CD_ZSTD "%%~fF"
+for /r "%SYSTEMDIR%" %%F in (%PATTERN%) do call :ConvertOne CD_ZSTD "%FOLDER%" "%%~fF"
 exit /b 0
 
 :ProcessDVDZstd
@@ -300,13 +708,14 @@ if not exist "%SYSTEMDIR%" exit /b 0
 echo.
 echo [DVD ZSTD] %FOLDER% - %PATTERN%
 echo [DVD ZSTD] %FOLDER% - %PATTERN%>>"%LOG%"
-for /r "%SYSTEMDIR%" %%F in (%PATTERN%) do call :ConvertOne DVD_ZSTD "%%~fF"
+for /r "%SYSTEMDIR%" %%F in (%PATTERN%) do call :ConvertOne DVD_ZSTD "%FOLDER%" "%%~fF"
 exit /b 0
 
 :ConvertOne
 set "MODE=%~1"
-set "INPUT=%~2"
-set "OUTPUT=%~dpn2.chd"
+set "CURRENT_FOLDER=%~2"
+set "INPUT=%~3"
+set "OUTPUT=%~dpn3.chd"
 
 set /a FOUND+=1
 
@@ -359,6 +768,7 @@ if errorlevel 1 (
     set /a CONVERTED+=1
     echo [OK] "%OUTPUT%"
     echo [OK] "%OUTPUT%">>"%LOG%"
+    if /I "%MOVE_ORIGINALS%"=="YES" call :MoveSourceSet "%INPUT%" "%CURRENT_FOLDER%"
     exit /b 0
 )
 
@@ -462,6 +872,115 @@ echo.
 pause
 goto MainMenu
 
+:FixSelectedSystem
+cls
+echo ============================================================
+echo Fix Wrong CHD Compression - One System
+echo ============================================================
+echo.
+echo Selected system:
+echo %~1
+echo.
+echo This will scan only this system folder, extract fixable wrong-compression
+echo CHDs to temporary files, then recompress them with the correct compression.
+echo.
+echo Original CHDs are not deleted. After a successful fix, the original CHD
+echo is renamed to:
+echo   game.backup_RANDOM.chd
+echo.
+echo Unknown CHD types are skipped. Wrong disc type for the folder is skipped.
+echo Make sure you have enough free disk space before continuing.
+echo.
+choice /C YN /N /M "Continue with fixing this system? [Y/N]: "
+if errorlevel 2 exit /b 0
+
+set /a CHD_CHECKED=0
+set /a CHD_OK=0
+set /a CHD_WRONG=0
+set /a CHD_UNKNOWN=0
+set /a CHD_FIXABLE=0
+set /a CHD_FIXED=0
+set /a CHD_FIX_FAILED=0
+set "CHECK_ACTION=FIX"
+
+echo.>>"%LOG%"
+echo ============================================================>>"%LOG%"
+echo CHD selected-system fix started: %DATE% %TIME%>>"%LOG%"
+echo System: %~1>>"%LOG%"
+echo ============================================================>>"%LOG%"
+
+call :RunCHDScanForSystem "%~1" FIX
+
+echo.>>"%LOG%"
+echo CHD selected-system fix summary: System=%~1 Checked=%CHD_CHECKED% OK=%CHD_OK% Wrong=%CHD_WRONG% Unknown=%CHD_UNKNOWN% Fixable=%CHD_FIXABLE% Fixed=%CHD_FIXED% FixFailed=%CHD_FIX_FAILED%>>"%LOG%"
+echo CHD selected-system fix finished: %DATE% %TIME%>>"%LOG%"
+
+echo.
+echo ============================================================
+echo Fix complete
+echo ============================================================
+echo System:     %~1
+echo Checked:    %CHD_CHECKED%
+echo OK:         %CHD_OK%
+echo Wrong:      %CHD_WRONG%
+echo Unknown:    %CHD_UNKNOWN%
+echo Fixable:    %CHD_FIXABLE%
+echo Fixed:      %CHD_FIXED%
+echo Fix failed: %CHD_FIX_FAILED%
+echo.
+echo Log file:
+echo %LOG%
+echo.
+pause
+exit /b 0
+
+:RunCHDScanForSystem
+set "SCAN_SYSTEM=%~1"
+set "CHECK_ACTION=%~2"
+if /I "%SCAN_SYSTEM%"=="3DO Interactive Multiplayer" (
+    call :ProcessCHDFolder "3DO Interactive Multiplayer" "CD" "STANDARD"
+    exit /b 0
+)
+if /I "%SCAN_SYSTEM%"=="NEC PC-FX" (
+    call :ProcessCHDFolder "NEC PC-FX" "CD" "STANDARD"
+    exit /b 0
+)
+if /I "%SCAN_SYSTEM%"=="NEC TurboGrafx-CD" (
+    call :ProcessCHDFolder "NEC TurboGrafx-CD" "CD" "STANDARD"
+    exit /b 0
+)
+if /I "%SCAN_SYSTEM%"=="Sega CD" (
+    call :ProcessCHDFolder "Sega CD" "CD" "ZSTD"
+    exit /b 0
+)
+if /I "%SCAN_SYSTEM%"=="Sega Dreamcast" (
+    call :ProcessCHDFolder "Sega Dreamcast" "CD" "ZSTD"
+    exit /b 0
+)
+if /I "%SCAN_SYSTEM%"=="Sega Saturn" (
+    call :ProcessCHDFolder "Sega Saturn" "CD" "ZSTD"
+    exit /b 0
+)
+if /I "%SCAN_SYSTEM%"=="SNK Neo Geo CD" (
+    call :ProcessCHDFolder "SNK Neo Geo CD" "CD" "ZSTD"
+    exit /b 0
+)
+if /I "%SCAN_SYSTEM%"=="Sony PlayStation" (
+    call :ProcessCHDFolder "Sony PlayStation" "CD" "ZSTD"
+    exit /b 0
+)
+if /I "%SCAN_SYSTEM%"=="Sony PlayStation 2" (
+    call :ProcessCHDFolder "Sony PlayStation 2" "ANY" "ZSTD"
+    exit /b 0
+)
+if /I "%SCAN_SYSTEM%"=="Sony PlayStation Portable" (
+    call :ProcessCHDFolder "Sony PlayStation Portable" "DVD" "ZSTD"
+    exit /b 0
+)
+echo [FIX ERROR] Unknown system: %SCAN_SYSTEM%
+echo [FIX ERROR] Unknown system: %SCAN_SYSTEM%>>"%LOG%"
+exit /b 1
+
 :RunCHDScan
 set "CHECK_ACTION=%~1"
 
@@ -491,7 +1010,1117 @@ if not exist "%SYSTEMDIR%" exit /b 0
 echo.
 echo [CHECK] %FOLDER%  Expected: %EXPECTED_TYPE% / %EXPECTED_COMP%
 echo [CHECK] %FOLDER% Expected=%EXPECTED_TYPE%/%EXPECTED_COMP%>>"%LOG%"
-for /r "%SYSTEMDIR%" %%F in (*.chd) do call :CheckOneCHD "%%~fF" "%EXPECTED_TYPE%" "%EXPECTED_COMP%" "%CHECK_ACTION%"
+for /r "%SYSTEMDIR%" %%F in (*.chd) do (
+    rem Avoid passing CHD paths through CALL arguments. This protects legal
+    rem filenames containing %, ^, &, !, etc.
+    set "CHD_CURRENT=%%~fF"
+    set "CHD_CURRENT_NAME=%%~nxF"
+    call :CheckCurrentCHD "%EXPECTED_TYPE%" "%EXPECTED_COMP%" "%CHECK_ACTION%"
+)
+exit /b 0
+
+:CheckCurrentCHD
+set "EXPECTED_TYPE=%~1"
+set "EXPECTED_COMP=%~2"
+set "ACTION=%~3"
+set /a CHD_CHECKED+=1
+
+call :DetectCurrentCHD
+
+set "STATUS=OK"
+set "REASON="
+set "FIXABLE=NO"
+
+if /I "%DETECT_TYPE%"=="UNKNOWN" (
+    set "STATUS=UNKNOWN"
+    set "REASON=Could not detect CD/DVD CHD type from metadata"
+    goto ReportCurrentCHDStatus
+)
+
+if /I not "%EXPECTED_TYPE%"=="ANY" (
+    if /I not "%DETECT_TYPE%"=="%EXPECTED_TYPE%" (
+        set "STATUS=WRONG"
+        set "REASON=Wrong disc type for this folder"
+        goto ReportCurrentCHDStatus
+    )
+)
+
+if /I not "%DETECT_COMP%"=="%EXPECTED_COMP%" (
+    set "STATUS=WRONG"
+    set "REASON=Wrong compression"
+    set "FIXABLE=YES"
+    goto ReportCurrentCHDStatus
+)
+
+:ReportCurrentCHDStatus
+if /I "%STATUS%"=="OK" (
+    set /a CHD_OK+=1
+    echo [OK]      %DETECT_TYPE% / %DETECT_COMP%  "%CHD_CURRENT%"
+    echo [OK] Type=%DETECT_TYPE% Compression=%DETECT_COMP% "%CHD_CURRENT%">>"%LOG%"
+    exit /b 0
+)
+
+if /I "%STATUS%"=="UNKNOWN" (
+    set /a CHD_UNKNOWN+=1
+    echo [UNKNOWN] %DETECT_TYPE% / %DETECT_COMP%  "%CHD_CURRENT%"
+    echo [UNKNOWN] %REASON% Type=%DETECT_TYPE% Compression=%DETECT_COMP% "%CHD_CURRENT%">>"%LOG%"
+    exit /b 0
+)
+
+set /a CHD_WRONG+=1
+echo [WRONG]   %DETECT_TYPE% / %DETECT_COMP% should be %EXPECTED_TYPE% / %EXPECTED_COMP%  "%CHD_CURRENT%"
+echo [WRONG] %REASON% Type=%DETECT_TYPE% Compression=%DETECT_COMP% Expected=%EXPECTED_TYPE%/%EXPECTED_COMP% "%CHD_CURRENT%">>"%LOG%"
+
+if /I "%FIXABLE%"=="YES" (
+    set /a CHD_FIXABLE+=1
+    if /I "%ACTION%"=="FIX" call :FixCurrentCHD
+)
+exit /b 0
+
+:DetectCurrentCHD
+set "DETECT_TYPE=UNKNOWN"
+set "DETECT_COMP=STANDARD"
+set "INFOFILE=%TEMP%\chd_info_%RANDOM%_%RANDOM%.txt"
+
+rem Run chdman through PowerShell using environment variables so the path is
+rem never parsed directly by CMD. This handles %, ^, &, !, etc.
+set "CHD_INFO_OUT=%INFOFILE%"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "$ErrorActionPreference='Continue'; $chd=$env:CHD_CURRENT; $out=$env:CHD_INFO_OUT; $tool=$env:CHDMAN; $r = & $tool info -v -i $chd 2>&1; $code=$LASTEXITCODE; $r | Out-File -LiteralPath $out -Encoding UTF8; exit $code"
+if errorlevel 1 (
+    set "DETECT_TYPE=UNKNOWN"
+    set "DETECT_COMP=UNKNOWN"
+    echo [INFO FAILED] "%CHD_CURRENT%">>"%LOG%"
+    if exist "%INFOFILE%" type "%INFOFILE%" >>"%LOG%"
+    if exist "%INFOFILE%" del /f /q "%INFOFILE%" >nul 2>nul
+    exit /b 1
+)
+
+rem Detect compression. CD ZSTD CHDs may show cdzs instead of zstd.
+findstr /I /C:"zstd" /C:"cdzs" "%INFOFILE%" >nul 2>nul
+if not errorlevel 1 set "DETECT_COMP=ZSTD"
+
+rem Detect CD/GD CHDs. Avoid fragile quoted Tag= patterns because chdman output varies.
+findstr /I /C:"CHT" /C:"CHTR" /C:"CHT2" /C:"CHCD" /C:"CHGD" /C:"CHGT" /C:"TRACK" /C:"CD-ROM" /C:"CDROM" /C:"GD-ROM" /C:"GDROM" "%INFOFILE%" >nul 2>nul
+if not errorlevel 1 set "DETECT_TYPE=CD"
+
+rem Detect createdvd CHDs. Only set DVD if CD was not already detected.
+if /I "%DETECT_TYPE%"=="UNKNOWN" (
+    findstr /I /C:"DVD" "%INFOFILE%" >nul 2>nul
+    if not errorlevel 1 set "DETECT_TYPE=DVD"
+)
+
+rem Fallback by sector/unit size. createcd CHDs usually use 2448-byte sectors; createdvd CHDs use 2048-byte sectors.
+if /I "%DETECT_TYPE%"=="UNKNOWN" (
+    findstr /I /C:"2448" /C:"2,448" "%INFOFILE%" >nul 2>nul
+    if not errorlevel 1 set "DETECT_TYPE=CD"
+)
+if /I "%DETECT_TYPE%"=="UNKNOWN" (
+    findstr /I /C:"2048" /C:"2,048" "%INFOFILE%" >nul 2>nul
+    if not errorlevel 1 set "DETECT_TYPE=DVD"
+)
+
+rem Final safe fallback by folder rule. If the selected folder only allows one disc type,
+rem classify unknown CHDs as that expected type so wrong-compression fixing can still work.
+rem PS2 remains ANY and therefore still requires metadata/size detection.
+if /I "%DETECT_TYPE%"=="UNKNOWN" (
+    if /I "%EXPECTED_TYPE%"=="CD" set "DETECT_TYPE=CD"
+)
+if /I "%DETECT_TYPE%"=="UNKNOWN" (
+    if /I "%EXPECTED_TYPE%"=="DVD" set "DETECT_TYPE=DVD"
+)
+
+if exist "%INFOFILE%" del /f /q "%INFOFILE%" >nul 2>nul
+exit /b 0
+
+:FixCurrentCHD
+set "TARGET_COMP=%EXPECTED_COMP%"
+
+echo.
+echo [FIX] %DETECT_TYPE% -^> %TARGET_COMP%
+echo Input:  %CHD_CURRENT%
+echo [FIX] Type=%DETECT_TYPE% Target=%TARGET_COMP% Input="%CHD_CURRENT%">>"%LOG%"
+
+rem Do the entire extract/recompress/replace operation in PowerShell using
+rem LiteralPath and environment variables. CMD never parses the CHD filename.
+set "FIX_PS_EXIT=0"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "$ErrorActionPreference='Stop'; $chd=$env:CHD_CURRENT; $tool=$env:CHDMAN; $type=$env:DETECT_TYPE; $target=$env:TARGET_COMP; $tmp=[IO.Path]::Combine($env:TEMP, ('chd_fix_' + [guid]::NewGuid().ToString('N'))); $fixed=[IO.Path]::Combine($env:TEMP, ('chd_fixed_' + [guid]::NewGuid().ToString('N') + '.chd')); [IO.Directory]::CreateDirectory($tmp) | Out-Null; try { if($type -eq 'CD'){ $cue=[IO.Path]::Combine($tmp, 'source.cue'); & $tool extractcd -i $chd -o $cue; if($LASTEXITCODE -ne 0){ exit 11 }; $args=@('createcd','-i',$cue,'-o',$fixed); if($target -eq 'ZSTD'){ $args += @('-c','cdzs,cdzl,cdfl') }; & $tool @args; if($LASTEXITCODE -ne 0){ exit 12 } } elseif($type -eq 'DVD'){ $iso=[IO.Path]::Combine($tmp, 'source.iso'); & $tool extractdvd -i $chd -o $iso; if($LASTEXITCODE -ne 0){ exit 21 }; $args=@('createdvd','-i',$iso,'-o',$fixed); if($target -eq 'ZSTD'){ $args += @('-c','zstd,zlib,huff,flac') }; & $tool @args; if($LASTEXITCODE -ne 0){ exit 22 } } else { exit 30 }; if(-not [IO.File]::Exists($fixed)){ exit 31 }; $dir=[IO.Path]::GetDirectoryName($chd); $base=[IO.Path]::GetFileNameWithoutExtension($chd); $backup=[IO.Path]::Combine($dir, ($base + '.backup_' + (Get-Date -Format 'yyyyMMdd_HHmmss') + '_' + (Get-Random -Maximum 99999) + '.chd')); [IO.File]::Move($chd, $backup); [IO.File]::Move($fixed, $chd); Write-Host ('[FIX OK] ' + $chd); exit 0 } catch { Write-Host ('[FIX FAILED] ' + $chd + ' :: ' + $_.Exception.Message); if([IO.File]::Exists($fixed)){ [IO.File]::Delete($fixed) }; exit 40 } finally { if([IO.Directory]::Exists($tmp)){ [IO.Directory]::Delete($tmp, $true) } }"
+if errorlevel 1 goto FixCurrentFailed
+
+set /a CHD_FIXED+=1
+echo [FIX OK] "%CHD_CURRENT%"
+echo [FIX OK] "%CHD_CURRENT%">>"%LOG%"
+exit /b 0
+
+:FixCurrentFailed
+set /a CHD_FIX_FAILED+=1
+echo [FIX FAILED] "%CHD_CURRENT%"
+echo [FIX FAILED] "%CHD_CURRENT%">>"%LOG%"
+exit /b 0
+
+:EnsureFolders
+
+if /I "%~1"=="/AUTO" set "NONINTERACTIVE=YES" & goto ConvertAll
+if /I "%~1"=="/RUN" set "NONINTERACTIVE=YES" & goto ConvertAll
+if /I "%~1"=="/CHECK" goto CheckCHDs
+if /I "%~1"=="/FIX" goto FixCHDs
+
+:MainMenu
+cls
+echo ============================================================
+echo RetroAchievements CHD Auto Converter
+echo ============================================================
+echo.
+echo Root folder:
+echo %ROOT%
+echo.
+echo chdman:
+echo %CHDMAN%
+echo.
+echo 1 - Convert all system folders to CHD
+echo 2 - Convert one selected system folder to CHD
+echo 3 - Check existing CHD format/compression
+echo 4 - Fix wrong CHD compression for all systems
+echo 5 - Fix wrong CHD compression for one selected system
+echo 6 - Show folder/method list
+echo 7 - Verify chdman.exe
+echo 8 - Exit
+echo.
+choice /C 12345678 /N /M "Choose an option: "
+if errorlevel 8 goto End
+if errorlevel 7 goto VerifyCHDMan
+if errorlevel 6 goto ShowMethods
+if errorlevel 5 goto FixOneSystemMenu
+if errorlevel 4 goto FixCHDs
+if errorlevel 3 goto CheckCHDs
+if errorlevel 2 goto ConvertOneSystemMenu
+if errorlevel 1 goto ConvertAll
+
+goto MainMenu
+
+
+:ConvertOneSystemMenu
+cls
+echo ============================================================
+echo Convert One System Folder
+echo ============================================================
+echo.
+echo 1 - 3DO Interactive Multiplayer
+echo 2 - NEC PC-FX
+echo 3 - NEC TurboGrafx-CD
+echo 4 - Sega CD
+echo 5 - Sega Dreamcast
+echo 6 - Sega Saturn
+echo 7 - SNK Neo Geo CD
+echo 8 - Sony PlayStation
+echo 9 - Sony PlayStation 2
+echo 0 - Sony PlayStation Portable
+echo B - Back
+echo.
+choice /C 1234567890B /N /M "Choose a system: "
+if errorlevel 11 goto MainMenu
+if errorlevel 10 goto ConvertSystemPSP
+if errorlevel 9 goto ConvertSystemPS2
+if errorlevel 8 goto ConvertSystemPS1
+if errorlevel 7 goto ConvertSystemNGCD
+if errorlevel 6 goto ConvertSystemSaturn
+if errorlevel 5 goto ConvertSystemDreamcast
+if errorlevel 4 goto ConvertSystemSegaCD
+if errorlevel 3 goto ConvertSystemTGCD
+if errorlevel 2 goto ConvertSystemPCFX
+if errorlevel 1 goto ConvertSystem3DO
+
+goto MainMenu
+
+:ConvertSystem3DO
+call :ConvertSelectedSystem "3DO Interactive Multiplayer"
+goto MainMenu
+:ConvertSystemPCFX
+call :ConvertSelectedSystem "NEC PC-FX"
+goto MainMenu
+:ConvertSystemTGCD
+call :ConvertSelectedSystem "NEC TurboGrafx-CD"
+goto MainMenu
+:ConvertSystemSegaCD
+call :ConvertSelectedSystem "Sega CD"
+goto MainMenu
+:ConvertSystemDreamcast
+call :ConvertSelectedSystem "Sega Dreamcast"
+goto MainMenu
+:ConvertSystemSaturn
+call :ConvertSelectedSystem "Sega Saturn"
+goto MainMenu
+:ConvertSystemNGCD
+call :ConvertSelectedSystem "SNK Neo Geo CD"
+goto MainMenu
+:ConvertSystemPS1
+call :ConvertSelectedSystem "Sony PlayStation"
+goto MainMenu
+:ConvertSystemPS2
+call :ConvertSelectedSystem "Sony PlayStation 2"
+goto MainMenu
+:ConvertSystemPSP
+call :ConvertSelectedSystem "Sony PlayStation Portable"
+goto MainMenu
+
+:FixOneSystemMenu
+cls
+echo ============================================================
+echo Fix Wrong CHD Compression - One System Folder
+echo ============================================================
+echo.
+echo 1 - 3DO Interactive Multiplayer
+echo 2 - NEC PC-FX
+echo 3 - NEC TurboGrafx-CD
+echo 4 - Sega CD
+echo 5 - Sega Dreamcast
+echo 6 - Sega Saturn
+echo 7 - SNK Neo Geo CD
+echo 8 - Sony PlayStation
+echo 9 - Sony PlayStation 2
+echo 0 - Sony PlayStation Portable
+echo B - Back
+echo.
+choice /C 1234567890B /N /M "Choose a system to fix: "
+if errorlevel 11 goto MainMenu
+if errorlevel 10 goto FixSystemPSP
+if errorlevel 9 goto FixSystemPS2
+if errorlevel 8 goto FixSystemPS1
+if errorlevel 7 goto FixSystemNGCD
+if errorlevel 6 goto FixSystemSaturn
+if errorlevel 5 goto FixSystemDreamcast
+if errorlevel 4 goto FixSystemSegaCD
+if errorlevel 3 goto FixSystemTGCD
+if errorlevel 2 goto FixSystemPCFX
+if errorlevel 1 goto FixSystem3DO
+
+goto MainMenu
+
+:FixSystem3DO
+call :FixSelectedSystem "3DO Interactive Multiplayer"
+goto MainMenu
+:FixSystemPCFX
+call :FixSelectedSystem "NEC PC-FX"
+goto MainMenu
+:FixSystemTGCD
+call :FixSelectedSystem "NEC TurboGrafx-CD"
+goto MainMenu
+:FixSystemSegaCD
+call :FixSelectedSystem "Sega CD"
+goto MainMenu
+:FixSystemDreamcast
+call :FixSelectedSystem "Sega Dreamcast"
+goto MainMenu
+:FixSystemSaturn
+call :FixSelectedSystem "Sega Saturn"
+goto MainMenu
+:FixSystemNGCD
+call :FixSelectedSystem "SNK Neo Geo CD"
+goto MainMenu
+:FixSystemPS1
+call :FixSelectedSystem "Sony PlayStation"
+goto MainMenu
+:FixSystemPS2
+call :FixSelectedSystem "Sony PlayStation 2"
+goto MainMenu
+:FixSystemPSP
+call :FixSelectedSystem "Sony PlayStation Portable"
+goto MainMenu
+
+:VerifyCHDMan
+cls
+echo ============================================================
+echo chdman verification
+echo ============================================================
+echo.
+echo Using:
+echo %CHDMAN%
+echo.
+"%CHDMAN%" >nul 2>nul
+if errorlevel 1 (
+    echo chdman.exe was found. Some versions return a non-zero code when run without arguments.
+) else (
+    echo chdman.exe was found and launched successfully.
+)
+echo.
+pause
+goto MainMenu
+
+:ShowMethods
+cls
+echo ============================================================
+echo Folder / conversion method list
+echo ============================================================
+echo.
+echo DEFAULT/STANDARD createcd:
+echo   3DO Interactive Multiplayer     *.cue, *.iso
+echo   NEC PC-FX                       *.cue
+echo   NEC TurboGrafx-CD               *.cue
+echo.
+echo ZSTD createcd -c cdzs,cdzl,cdfl:
+echo   Sega CD                         *.cue
+echo   Sega Dreamcast                  *.gdi, *.cue
+echo   Sega Saturn                     *.cue
+echo   SNK Neo Geo CD                  *.cue
+echo   Sony PlayStation                *.cue
+echo   Sony PlayStation 2              *.cue
+echo.
+echo ZSTD createdvd -c zstd,zlib,huff,flac:
+echo   Sony PlayStation 2              *.iso
+echo   Sony PlayStation Portable       *.iso
+echo.
+echo Existing CHD check/fix rules:
+echo   3DO Interactive Multiplayer     CD CHD, standard/default compression
+echo   NEC PC-FX                       CD CHD, standard/default compression
+echo   NEC TurboGrafx-CD               CD CHD, standard/default compression
+echo   Sega CD                         CD CHD, ZSTD compression
+echo   Sega Dreamcast                  CD CHD, ZSTD compression
+echo   Sega Saturn                     CD CHD, ZSTD compression
+echo   SNK Neo Geo CD                  CD CHD, ZSTD compression
+echo   Sony PlayStation                CD CHD, ZSTD compression
+echo   Sony PlayStation 2              CD or DVD CHD, ZSTD compression
+echo   Sony PlayStation Portable       DVD CHD, ZSTD compression
+echo.
+echo Notes:
+echo   - Output CHDs are created beside the source files.
+echo   - Existing CHDs are skipped during conversion.
+echo   - Source files are never deleted.
+echo   - Optional cleanup can move successfully converted source files to _Converted_Source.
+echo   - Loose .bin files are ignored; convert from the matching .cue.
+echo   - chdman progress is shown live during conversion and fixing.
+echo   - Check/fix uses CHD metadata. Unknown CD/DVD type is logged and skipped by fixer.
+echo.
+pause
+goto MainMenu
+
+:ConvertAll
+cls
+echo ============================================================
+echo RetroAchievements CHD Auto Converter - Convert
+echo ============================================================
+echo.
+
+set /a FOUND=0
+set /a CONVERTED=0
+set /a SKIPPED=0
+set /a FAILED=0
+set /a TOTAL_FOUND=0
+set /a TOTAL_TO_CONVERT=0
+set /a CURRENT=0
+
+call :ConfigureMoveOriginals
+
+echo Scanning folders...
+call :CountAll
+
+echo.
+echo Candidates found: %TOTAL_FOUND%
+echo Need conversion:  %TOTAL_TO_CONVERT%
+echo.
+
+echo.>>"%LOG%"
+echo ============================================================>>"%LOG%"
+echo Convert run started: %DATE% %TIME%>>"%LOG%"
+echo Root: %ROOT%>>"%LOG%"
+echo chdman: %CHDMAN%>>"%LOG%"
+echo Candidates found: %TOTAL_FOUND%>>"%LOG%"
+echo Need conversion: %TOTAL_TO_CONVERT%>>"%LOG%"
+echo Move originals after success: %MOVE_ORIGINALS%>>"%LOG%"
+echo ============================================================>>"%LOG%"
+
+if %TOTAL_FOUND% EQU 0 (
+    echo No supported source files were found in the system folders.
+    echo.
+    echo Put ROMs in the matching system folders, then run again.
+    echo.
+    pause
+    goto MainMenu
+)
+
+if %TOTAL_TO_CONVERT% EQU 0 (
+    echo All supported source files already have matching CHD files.
+    echo Nothing to convert.
+    echo.
+    pause
+    goto MainMenu
+)
+
+rem DEFAULT/STANDARD compression for compatibility-first folders.
+call :ProcessCDDefault "3DO Interactive Multiplayer" "*.cue"
+call :ProcessCDDefault "3DO Interactive Multiplayer" "*.iso"
+call :ProcessCDDefault "NEC PC-FX" "*.cue"
+call :ProcessCDDefault "NEC TurboGrafx-CD" "*.cue"
+
+rem ZSTD CD CHDs.
+call :ProcessCDZstd "Sega CD" "*.cue"
+call :ProcessCDZstd "Sega Dreamcast" "*.gdi"
+call :ProcessCDZstd "Sega Dreamcast" "*.cue"
+call :ProcessCDZstd "Sega Saturn" "*.cue"
+call :ProcessCDZstd "SNK Neo Geo CD" "*.cue"
+call :ProcessCDZstd "Sony PlayStation" "*.cue"
+call :ProcessCDZstd "Sony PlayStation 2" "*.cue"
+
+rem ZSTD DVD CHDs.
+call :ProcessDVDZstd "Sony PlayStation 2" "*.iso"
+call :ProcessDVDZstd "Sony PlayStation Portable" "*.iso"
+
+echo.>>"%LOG%"
+echo Convert summary: Found=%FOUND% Converted=%CONVERTED% Skipped=%SKIPPED% Failed=%FAILED%>>"%LOG%"
+echo Convert run finished: %DATE% %TIME%>>"%LOG%"
+
+echo.
+echo ============================================================
+echo Done
+echo ============================================================
+echo Found:     %FOUND%
+echo Converted: %CONVERTED%
+echo Skipped:   %SKIPPED%
+echo Failed:    %FAILED%
+echo.
+echo Log file:
+echo %LOG%
+echo.
+if %FAILED% GTR 0 (
+    echo Some conversions failed. Check the log above.
+    echo Partial failed CHDs are deleted automatically when detected.
+    echo.
+)
+pause
+goto MainMenu
+
+
+:ConfigureMoveOriginals
+set "MOVE_ORIGINALS=NO"
+if /I "%NONINTERACTIVE%"=="YES" exit /b 0
+echo.
+echo Cleanup option:
+echo   Successfully converted source files can be moved to:
+echo   %ROOT%_Converted_Source
+echo.
+echo This does not delete files. It only moves source files after a successful CHD is created.
+echo For CUE/GDI sets, the BAT will try to move referenced BIN/RAW files too.
+echo PS1 SBI files are left beside the CHD because some games need them for play.
+echo.
+choice /C YN /N /M "Move originals after successful conversion? [Y/N]: "
+if errorlevel 2 (
+    set "MOVE_ORIGINALS=NO"
+) else (
+    set "MOVE_ORIGINALS=YES"
+    if not exist "%ROOT%_Converted_Source" mkdir "%ROOT%_Converted_Source" >nul 2>nul
+)
+echo.
+echo Move originals after success: %MOVE_ORIGINALS%
+exit /b 0
+
+:ConvertSelectedSystem
+cls
+echo ============================================================
+echo RetroAchievements CHD Auto Converter - Convert One System
+echo ============================================================
+echo.
+echo Selected system:
+echo %~1
+echo.
+
+set /a FOUND=0
+set /a CONVERTED=0
+set /a SKIPPED=0
+set /a FAILED=0
+set /a TOTAL_FOUND=0
+set /a TOTAL_TO_CONVERT=0
+set /a CURRENT=0
+
+call :ConfigureMoveOriginals
+
+echo Scanning folder...
+call :CountSystem "%~1"
+
+echo.
+echo Candidates found: %TOTAL_FOUND%
+echo Need conversion:  %TOTAL_TO_CONVERT%
+echo.
+
+echo.>>"%LOG%"
+echo ============================================================>>"%LOG%"
+echo Convert selected-system run started: %DATE% %TIME%>>"%LOG%"
+echo System: %~1>>"%LOG%"
+echo Root: %ROOT%>>"%LOG%"
+echo chdman: %CHDMAN%>>"%LOG%"
+echo Candidates found: %TOTAL_FOUND%>>"%LOG%"
+echo Need conversion: %TOTAL_TO_CONVERT%>>"%LOG%"
+echo Move originals after success: %MOVE_ORIGINALS%>>"%LOG%"
+echo ============================================================>>"%LOG%"
+
+if %TOTAL_FOUND% EQU 0 (
+    echo No supported source files were found for this system.
+    echo.
+    pause
+    exit /b 0
+)
+
+if %TOTAL_TO_CONVERT% EQU 0 (
+    echo All supported source files for this system already have matching CHD files.
+    echo Nothing to convert.
+    echo.
+    pause
+    exit /b 0
+)
+
+call :ProcessSystem "%~1"
+
+echo.>>"%LOG%"
+echo Convert selected-system summary: Found=%FOUND% Converted=%CONVERTED% Skipped=%SKIPPED% Failed=%FAILED%>>"%LOG%"
+echo Convert selected-system run finished: %DATE% %TIME%>>"%LOG%"
+
+echo.
+echo ============================================================
+echo Done
+echo ============================================================
+echo System:    %~1
+echo Found:     %FOUND%
+echo Converted: %CONVERTED%
+echo Skipped:   %SKIPPED%
+echo Failed:    %FAILED%
+echo.
+echo Log file:
+echo %LOG%
+echo.
+if %FAILED% GTR 0 (
+    echo Some conversions failed. Check the log above.
+    echo Partial failed CHDs are deleted automatically when detected.
+    echo.
+)
+pause
+exit /b 0
+
+:CountSystem
+if /I "%~1"=="3DO Interactive Multiplayer" (
+    call :CountFiles "3DO Interactive Multiplayer" "*.cue"
+    call :CountFiles "3DO Interactive Multiplayer" "*.iso"
+    exit /b 0
+)
+if /I "%~1"=="NEC PC-FX" (
+    call :CountFiles "NEC PC-FX" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="NEC TurboGrafx-CD" (
+    call :CountFiles "NEC TurboGrafx-CD" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="Sega CD" (
+    call :CountFiles "Sega CD" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="Sega Dreamcast" (
+    call :CountFiles "Sega Dreamcast" "*.gdi"
+    call :CountFiles "Sega Dreamcast" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="Sega Saturn" (
+    call :CountFiles "Sega Saturn" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="SNK Neo Geo CD" (
+    call :CountFiles "SNK Neo Geo CD" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="Sony PlayStation" (
+    call :CountFiles "Sony PlayStation" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="Sony PlayStation 2" (
+    call :CountFiles "Sony PlayStation 2" "*.cue"
+    call :CountFiles "Sony PlayStation 2" "*.iso"
+    exit /b 0
+)
+if /I "%~1"=="Sony PlayStation Portable" (
+    call :CountFiles "Sony PlayStation Portable" "*.iso"
+    exit /b 0
+)
+exit /b 0
+
+:ProcessSystem
+if /I "%~1"=="3DO Interactive Multiplayer" (
+    call :ProcessCDDefault "3DO Interactive Multiplayer" "*.cue"
+    call :ProcessCDDefault "3DO Interactive Multiplayer" "*.iso"
+    exit /b 0
+)
+if /I "%~1"=="NEC PC-FX" (
+    call :ProcessCDDefault "NEC PC-FX" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="NEC TurboGrafx-CD" (
+    call :ProcessCDDefault "NEC TurboGrafx-CD" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="Sega CD" (
+    call :ProcessCDZstd "Sega CD" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="Sega Dreamcast" (
+    call :ProcessCDZstd "Sega Dreamcast" "*.gdi"
+    call :ProcessCDZstd "Sega Dreamcast" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="Sega Saturn" (
+    call :ProcessCDZstd "Sega Saturn" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="SNK Neo Geo CD" (
+    call :ProcessCDZstd "SNK Neo Geo CD" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="Sony PlayStation" (
+    call :ProcessCDZstd "Sony PlayStation" "*.cue"
+    exit /b 0
+)
+if /I "%~1"=="Sony PlayStation 2" (
+    call :ProcessCDZstd "Sony PlayStation 2" "*.cue"
+    call :ProcessDVDZstd "Sony PlayStation 2" "*.iso"
+    exit /b 0
+)
+if /I "%~1"=="Sony PlayStation Portable" (
+    call :ProcessDVDZstd "Sony PlayStation Portable" "*.iso"
+    exit /b 0
+)
+exit /b 0
+
+:MoveSourceSet
+set "MOVE_INPUT=%~1"
+set "MOVE_FOLDER=%~2"
+set "MOVE_EXT=%~x1"
+set "MOVE_SOURCE_ROOT=%ROOT%%~2"
+set "MOVE_DEST_ROOT=%ROOT%_Converted_Source\%~2"
+
+if not exist "%MOVE_DEST_ROOT%" mkdir "%MOVE_DEST_ROOT%" >nul 2>nul
+
+echo [MOVE] Moving source files for: "%MOVE_INPUT%"
+echo [MOVE] Moving source files for: "%MOVE_INPUT%">>"%LOG%"
+
+if /I "%MOVE_EXT%"==".cue" goto MoveCueSet
+if /I "%MOVE_EXT%"==".gdi" goto MoveGdiSet
+
+goto MoveSingleInput
+
+:MoveCueSet
+rem Move files referenced by quoted FILE lines before moving the CUE itself.
+for /f tokens^=2^ delims^=^" %%R in ('findstr /I /B /C:"FILE " "%MOVE_INPUT%" 2^>nul') do call :MoveOneFile "%~dp1%%~R" "%MOVE_SOURCE_ROOT%" "%MOVE_DEST_ROOT%"
+if exist "%~dpn1.sbi" (
+    echo [KEEP] SBI left beside CHD: "%~dpn1.sbi"
+    echo [KEEP] SBI left beside CHD: "%~dpn1.sbi">>"%LOG%"
+)
+goto MoveSingleInput
+
+:MoveGdiSet
+rem Common GDI format uses token 5 as the referenced track filename.
+for /f "usebackq skip=1 tokens=5" %%R in ("%MOVE_INPUT%") do call :MoveOneFile "%~dp1%%~R" "%MOVE_SOURCE_ROOT%" "%MOVE_DEST_ROOT%"
+goto MoveSingleInput
+
+:MoveSingleInput
+call :MoveOneFile "%MOVE_INPUT%" "%MOVE_SOURCE_ROOT%" "%MOVE_DEST_ROOT%"
+exit /b 0
+
+:MoveOneFile
+setlocal EnableDelayedExpansion
+set "SRC=%~1"
+set "SRCROOT=%~2"
+set "DESTROOT=%~3"
+if not exist "!SRC!" (
+    echo [MOVE WARN] Missing referenced source: "!SRC!"
+    echo [MOVE WARN] Missing referenced source: "!SRC!">>"%LOG%"
+    endlocal & exit /b 0
+)
+set "SRCDIR=%~dp1"
+set "RELDIR=!SRCDIR:%~2\=!"
+if "!RELDIR!"=="!SRCDIR!" set "RELDIR="
+set "DESTDIR=!DESTROOT!\!RELDIR!"
+if not exist "!DESTDIR!" mkdir "!DESTDIR!" >nul 2>nul
+if exist "!DESTDIR!\%~nx1" (
+    echo [MOVE SKIP] Destination already exists: "!DESTDIR!\%~nx1"
+    echo [MOVE SKIP] Destination already exists: "!DESTDIR!\%~nx1">>"%LOG%"
+    endlocal & exit /b 0
+)
+move "!SRC!" "!DESTDIR!\" >nul
+if errorlevel 1 (
+    echo [MOVE FAILED] "!SRC!"
+    echo [MOVE FAILED] "!SRC!">>"%LOG%"
+) else (
+    echo [MOVED] "!SRC!" -^> "!DESTDIR!\"
+    echo [MOVED] "!SRC!" -^> "!DESTDIR!\">>"%LOG%"
+)
+endlocal & exit /b 0
+
+:CountAll
+call :CountFiles "3DO Interactive Multiplayer" "*.cue"
+call :CountFiles "3DO Interactive Multiplayer" "*.iso"
+call :CountFiles "NEC PC-FX" "*.cue"
+call :CountFiles "NEC TurboGrafx-CD" "*.cue"
+call :CountFiles "Sega CD" "*.cue"
+call :CountFiles "Sega Dreamcast" "*.gdi"
+call :CountFiles "Sega Dreamcast" "*.cue"
+call :CountFiles "Sega Saturn" "*.cue"
+call :CountFiles "SNK Neo Geo CD" "*.cue"
+call :CountFiles "Sony PlayStation" "*.cue"
+call :CountFiles "Sony PlayStation 2" "*.cue"
+call :CountFiles "Sony PlayStation 2" "*.iso"
+call :CountFiles "Sony PlayStation Portable" "*.iso"
+exit /b 0
+
+:CountFiles
+set "SYSTEMDIR=%ROOT%%~1"
+set "PATTERN=%~2"
+if not exist "%SYSTEMDIR%" exit /b 0
+for /r "%SYSTEMDIR%" %%F in (%PATTERN%) do call :CountOne "%%~fF"
+exit /b 0
+
+:CountOne
+set "INPUT=%~1"
+set "OUTPUT=%~dpn1.chd"
+set /a TOTAL_FOUND+=1
+if not exist "%OUTPUT%" set /a TOTAL_TO_CONVERT+=1
+exit /b 0
+
+:ProcessCDDefault
+set "FOLDER=%~1"
+set "PATTERN=%~2"
+set "SYSTEMDIR=%ROOT%%~1"
+if not exist "%SYSTEMDIR%" exit /b 0
+
+echo.
+echo [CD DEFAULT] %FOLDER% - %PATTERN%
+echo [CD DEFAULT] %FOLDER% - %PATTERN%>>"%LOG%"
+for /r "%SYSTEMDIR%" %%F in (%PATTERN%) do call :ConvertOne CD_DEFAULT "%FOLDER%" "%%~fF"
+exit /b 0
+
+:ProcessCDZstd
+set "FOLDER=%~1"
+set "PATTERN=%~2"
+set "SYSTEMDIR=%ROOT%%~1"
+if not exist "%SYSTEMDIR%" exit /b 0
+
+echo.
+echo [CD ZSTD] %FOLDER% - %PATTERN%
+echo [CD ZSTD] %FOLDER% - %PATTERN%>>"%LOG%"
+for /r "%SYSTEMDIR%" %%F in (%PATTERN%) do call :ConvertOne CD_ZSTD "%FOLDER%" "%%~fF"
+exit /b 0
+
+:ProcessDVDZstd
+set "FOLDER=%~1"
+set "PATTERN=%~2"
+set "SYSTEMDIR=%ROOT%%~1"
+if not exist "%SYSTEMDIR%" exit /b 0
+
+echo.
+echo [DVD ZSTD] %FOLDER% - %PATTERN%
+echo [DVD ZSTD] %FOLDER% - %PATTERN%>>"%LOG%"
+for /r "%SYSTEMDIR%" %%F in (%PATTERN%) do call :ConvertOne DVD_ZSTD "%FOLDER%" "%%~fF"
+exit /b 0
+
+:ConvertOne
+set "MODE=%~1"
+set "CURRENT_FOLDER=%~2"
+set "INPUT=%~3"
+set "OUTPUT=%~dpn3.chd"
+
+set /a FOUND+=1
+
+if exist "%OUTPUT%" (
+    set /a SKIPPED+=1
+    echo [SKIP] "%OUTPUT%" already exists.
+    echo [SKIP] "%OUTPUT%" already exists.>>"%LOG%"
+    exit /b 0
+)
+
+set /a CURRENT+=1
+echo.
+echo Progress: %CURRENT% / %TOTAL_TO_CONVERT%
+echo Mode:     %MODE%
+echo Input:    %INPUT%
+echo Output:   %OUTPUT%
+echo [CONVERT] Mode=%MODE% Input="%INPUT%" Output="%OUTPUT%">>"%LOG%"
+
+if /I "%MODE%"=="CD_DEFAULT" (
+    "%CHDMAN%" createcd -i "%INPUT%" -o "%OUTPUT%"
+    goto CheckConvertResult
+)
+
+if /I "%MODE%"=="CD_ZSTD" (
+    "%CHDMAN%" createcd -i "%INPUT%" -o "%OUTPUT%" -c cdzs,cdzl,cdfl
+    goto CheckConvertResult
+)
+
+if /I "%MODE%"=="DVD_ZSTD" (
+    "%CHDMAN%" createdvd -i "%INPUT%" -o "%OUTPUT%" -c zstd,zlib,huff,flac
+    goto CheckConvertResult
+)
+
+echo [FAILED] Unknown mode: %MODE%
+echo [FAILED] Unknown mode: %MODE%>>"%LOG%"
+set /a FAILED+=1
+exit /b 1
+
+:CheckConvertResult
+if errorlevel 1 (
+    set /a FAILED+=1
+    echo [FAILED] "%INPUT%"
+    echo [FAILED] "%INPUT%">>"%LOG%"
+    if exist "%OUTPUT%" (
+        del /f /q "%OUTPUT%" >nul 2>nul
+        echo [CLEANUP] Deleted partial CHD: "%OUTPUT%">>"%LOG%"
+    )
+    exit /b 1
+) else (
+    set /a CONVERTED+=1
+    echo [OK] "%OUTPUT%"
+    echo [OK] "%OUTPUT%">>"%LOG%"
+    if /I "%MOVE_ORIGINALS%"=="YES" call :MoveSourceSet "%INPUT%" "%CURRENT_FOLDER%"
+    exit /b 0
+)
+
+:CheckCHDs
+cls
+echo ============================================================
+echo Existing CHD Format/Compression Check
+echo ============================================================
+echo.
+
+set /a CHD_CHECKED=0
+set /a CHD_OK=0
+set /a CHD_WRONG=0
+set /a CHD_UNKNOWN=0
+set /a CHD_FIXABLE=0
+set /a CHD_FIXED=0
+set /a CHD_FIX_FAILED=0
+set "CHECK_ACTION=CHECK"
+
+echo.>>"%LOG%"
+echo ============================================================>>"%LOG%"
+echo CHD check started: %DATE% %TIME%>>"%LOG%"
+echo ============================================================>>"%LOG%"
+
+call :RunCHDScan CHECK
+
+echo.>>"%LOG%"
+echo CHD check summary: Checked=%CHD_CHECKED% OK=%CHD_OK% Wrong=%CHD_WRONG% Unknown=%CHD_UNKNOWN% Fixable=%CHD_FIXABLE%>>"%LOG%"
+echo CHD check finished: %DATE% %TIME%>>"%LOG%"
+
+echo.
+echo ============================================================
+echo Check complete
+echo ============================================================
+echo Checked: %CHD_CHECKED%
+echo OK:      %CHD_OK%
+echo Wrong:   %CHD_WRONG%
+echo Unknown: %CHD_UNKNOWN%
+echo Fixable wrong-compression CHDs: %CHD_FIXABLE%
+echo.
+echo Log file:
+echo %LOG%
+echo.
+pause
+goto MainMenu
+
+:FixCHDs
+cls
+echo ============================================================
+echo Fix Wrong CHD Compression
+echo ============================================================
+echo.
+echo This will scan existing CHDs, extract fixable wrong-compression CHDs
+echo to temporary files, then recompress them with the correct compression.
+echo.
+echo Original CHDs are not deleted. After a successful fix, the original CHD
+echo is renamed to:
+echo   game.backup_RANDOM.chd
+echo.
+echo Unknown CHD types are skipped. Wrong disc type for the folder is skipped.
+echo Make sure you have enough free disk space before continuing.
+echo.
+choice /C YN /N /M "Continue with fixing wrong-compression CHDs? [Y/N]: "
+if errorlevel 2 goto MainMenu
+
+set /a CHD_CHECKED=0
+set /a CHD_OK=0
+set /a CHD_WRONG=0
+set /a CHD_UNKNOWN=0
+set /a CHD_FIXABLE=0
+set /a CHD_FIXED=0
+set /a CHD_FIX_FAILED=0
+set "CHECK_ACTION=FIX"
+
+echo.>>"%LOG%"
+echo ============================================================>>"%LOG%"
+echo CHD fix started: %DATE% %TIME%>>"%LOG%"
+echo ============================================================>>"%LOG%"
+
+call :RunCHDScan FIX
+
+echo.>>"%LOG%"
+echo CHD fix summary: Checked=%CHD_CHECKED% OK=%CHD_OK% Wrong=%CHD_WRONG% Unknown=%CHD_UNKNOWN% Fixable=%CHD_FIXABLE% Fixed=%CHD_FIXED% FixFailed=%CHD_FIX_FAILED%>>"%LOG%"
+echo CHD fix finished: %DATE% %TIME%>>"%LOG%"
+
+echo.
+echo ============================================================
+echo Fix complete
+echo ============================================================
+echo Checked:    %CHD_CHECKED%
+echo OK:         %CHD_OK%
+echo Wrong:      %CHD_WRONG%
+echo Unknown:    %CHD_UNKNOWN%
+echo Fixable:    %CHD_FIXABLE%
+echo Fixed:      %CHD_FIXED%
+echo Fix failed: %CHD_FIX_FAILED%
+echo.
+echo Log file:
+echo %LOG%
+echo.
+pause
+goto MainMenu
+
+:FixSelectedSystem
+cls
+echo ============================================================
+echo Fix Wrong CHD Compression - One System
+echo ============================================================
+echo.
+echo Selected system:
+echo %~1
+echo.
+echo This will scan only this system folder, extract fixable wrong-compression
+echo CHDs to temporary files, then recompress them with the correct compression.
+echo.
+echo Original CHDs are not deleted. After a successful fix, the original CHD
+echo is renamed to:
+echo   game.backup_RANDOM.chd
+echo.
+echo Unknown CHD types are skipped. Wrong disc type for the folder is skipped.
+echo Make sure you have enough free disk space before continuing.
+echo.
+choice /C YN /N /M "Continue with fixing this system? [Y/N]: "
+if errorlevel 2 exit /b 0
+
+set /a CHD_CHECKED=0
+set /a CHD_OK=0
+set /a CHD_WRONG=0
+set /a CHD_UNKNOWN=0
+set /a CHD_FIXABLE=0
+set /a CHD_FIXED=0
+set /a CHD_FIX_FAILED=0
+set "CHECK_ACTION=FIX"
+
+echo.>>"%LOG%"
+echo ============================================================>>"%LOG%"
+echo CHD selected-system fix started: %DATE% %TIME%>>"%LOG%"
+echo System: %~1>>"%LOG%"
+echo ============================================================>>"%LOG%"
+
+call :RunCHDScanForSystem "%~1" FIX
+
+echo.>>"%LOG%"
+echo CHD selected-system fix summary: System=%~1 Checked=%CHD_CHECKED% OK=%CHD_OK% Wrong=%CHD_WRONG% Unknown=%CHD_UNKNOWN% Fixable=%CHD_FIXABLE% Fixed=%CHD_FIXED% FixFailed=%CHD_FIX_FAILED%>>"%LOG%"
+echo CHD selected-system fix finished: %DATE% %TIME%>>"%LOG%"
+
+echo.
+echo ============================================================
+echo Fix complete
+echo ============================================================
+echo System:     %~1
+echo Checked:    %CHD_CHECKED%
+echo OK:         %CHD_OK%
+echo Wrong:      %CHD_WRONG%
+echo Unknown:    %CHD_UNKNOWN%
+echo Fixable:    %CHD_FIXABLE%
+echo Fixed:      %CHD_FIXED%
+echo Fix failed: %CHD_FIX_FAILED%
+echo.
+echo Log file:
+echo %LOG%
+echo.
+pause
+exit /b 0
+
+:RunCHDScanForSystem
+set "SCAN_SYSTEM=%~1"
+set "CHECK_ACTION=%~2"
+if /I "%SCAN_SYSTEM%"=="3DO Interactive Multiplayer" (
+    call :ProcessCHDFolder "3DO Interactive Multiplayer" "CD" "STANDARD"
+    exit /b 0
+)
+if /I "%SCAN_SYSTEM%"=="NEC PC-FX" (
+    call :ProcessCHDFolder "NEC PC-FX" "CD" "STANDARD"
+    exit /b 0
+)
+if /I "%SCAN_SYSTEM%"=="NEC TurboGrafx-CD" (
+    call :ProcessCHDFolder "NEC TurboGrafx-CD" "CD" "STANDARD"
+    exit /b 0
+)
+if /I "%SCAN_SYSTEM%"=="Sega CD" (
+    call :ProcessCHDFolder "Sega CD" "CD" "ZSTD"
+    exit /b 0
+)
+if /I "%SCAN_SYSTEM%"=="Sega Dreamcast" (
+    call :ProcessCHDFolder "Sega Dreamcast" "CD" "ZSTD"
+    exit /b 0
+)
+if /I "%SCAN_SYSTEM%"=="Sega Saturn" (
+    call :ProcessCHDFolder "Sega Saturn" "CD" "ZSTD"
+    exit /b 0
+)
+if /I "%SCAN_SYSTEM%"=="SNK Neo Geo CD" (
+    call :ProcessCHDFolder "SNK Neo Geo CD" "CD" "ZSTD"
+    exit /b 0
+)
+if /I "%SCAN_SYSTEM%"=="Sony PlayStation" (
+    call :ProcessCHDFolder "Sony PlayStation" "CD" "ZSTD"
+    exit /b 0
+)
+if /I "%SCAN_SYSTEM%"=="Sony PlayStation 2" (
+    call :ProcessCHDFolder "Sony PlayStation 2" "ANY" "ZSTD"
+    exit /b 0
+)
+if /I "%SCAN_SYSTEM%"=="Sony PlayStation Portable" (
+    call :ProcessCHDFolder "Sony PlayStation Portable" "DVD" "ZSTD"
+    exit /b 0
+)
+echo [FIX ERROR] Unknown system: %SCAN_SYSTEM%
+echo [FIX ERROR] Unknown system: %SCAN_SYSTEM%>>"%LOG%"
+exit /b 1
+
+:RunCHDScan
+set "CHECK_ACTION=%~1"
+
+call :ProcessCHDFolder "3DO Interactive Multiplayer" "CD" "STANDARD"
+call :ProcessCHDFolder "NEC PC-FX" "CD" "STANDARD"
+call :ProcessCHDFolder "NEC TurboGrafx-CD" "CD" "STANDARD"
+
+call :ProcessCHDFolder "Sega CD" "CD" "ZSTD"
+call :ProcessCHDFolder "Sega Dreamcast" "CD" "ZSTD"
+call :ProcessCHDFolder "Sega Saturn" "CD" "ZSTD"
+call :ProcessCHDFolder "SNK Neo Geo CD" "CD" "ZSTD"
+call :ProcessCHDFolder "Sony PlayStation" "CD" "ZSTD"
+
+rem PS2 can be CD or DVD. Metadata decides extraction/fix method.
+call :ProcessCHDFolder "Sony PlayStation 2" "ANY" "ZSTD"
+
+call :ProcessCHDFolder "Sony PlayStation Portable" "DVD" "ZSTD"
+exit /b 0
+
+:ProcessCHDFolder
+set "FOLDER=%~1"
+set "EXPECTED_TYPE=%~2"
+set "EXPECTED_COMP=%~3"
+set "SYSTEMDIR=%ROOT%%~1"
+if not exist "%SYSTEMDIR%" exit /b 0
+
+echo.
+echo [CHECK] %FOLDER%  Expected: %EXPECTED_TYPE% / %EXPECTED_COMP%
+echo [CHECK] %FOLDER% Expected=%EXPECTED_TYPE%/%EXPECTED_COMP%>>"%LOG%"
+for /r "%SYSTEMDIR%" %%F in (*.chd) do (
+    rem Avoid passing CHD paths through CALL arguments. This protects legal
+    rem filenames containing %, ^, &, !, etc.
+    set "CHD_CURRENT=%%~fF"
+    set "CHD_CURRENT_NAME=%%~nxF"
+    call :CheckCurrentCHD "%EXPECTED_TYPE%" "%EXPECTED_COMP%" "%CHECK_ACTION%"
+)
 exit /b 0
 
 :CheckOneCHD
@@ -568,16 +2197,39 @@ if errorlevel 1 (
     exit /b 1
 )
 
-findstr /I /C:"zstd" "%INFOFILE%" >nul 2>nul
+rem Detect compression. CD ZSTD CHDs may show cdzs instead of zstd.
+findstr /I /C:"zstd" /C:"cdzs" "%INFOFILE%" >nul 2>nul
 if not errorlevel 1 set "DETECT_COMP=ZSTD"
 
-rem CD CHDs made with createcd normally contain CD track metadata tags.
-findstr /I /C:"Tag='CHT" /C:"Tag=\"CHT" /C:"Tag='CHT2" /C:"TRACK" /C:"CD-ROM" /C:"CDROM" "%INFOFILE%" >nul 2>nul
+rem Detect CD/GD CHDs. Avoid fragile quoted Tag= patterns because chdman output varies.
+findstr /I /C:"CHT" /C:"CHTR" /C:"CHT2" /C:"CHCD" /C:"CHGD" /C:"CHGT" /C:"TRACK" /C:"CD-ROM" /C:"CDROM" /C:"GD-ROM" /C:"GDROM" "%INFOFILE%" >nul 2>nul
 if not errorlevel 1 set "DETECT_TYPE=CD"
 
-rem DVD CHDs made with createdvd normally contain DVD metadata tags.
-findstr /I /C:"Tag='DVD" /C:"Tag=\"DVD" /C:"DVD Metadata" /C:"DVD:" "%INFOFILE%" >nul 2>nul
-if not errorlevel 1 set "DETECT_TYPE=DVD"
+rem Detect createdvd CHDs. Only set DVD if CD was not already detected.
+if /I "%DETECT_TYPE%"=="UNKNOWN" (
+    findstr /I /C:"DVD" "%INFOFILE%" >nul 2>nul
+    if not errorlevel 1 set "DETECT_TYPE=DVD"
+)
+
+rem Fallback by sector/unit size. createcd CHDs usually use 2448-byte sectors; createdvd CHDs use 2048-byte sectors.
+if /I "%DETECT_TYPE%"=="UNKNOWN" (
+    findstr /I /C:"2448" /C:"2,448" "%INFOFILE%" >nul 2>nul
+    if not errorlevel 1 set "DETECT_TYPE=CD"
+)
+if /I "%DETECT_TYPE%"=="UNKNOWN" (
+    findstr /I /C:"2048" /C:"2,048" "%INFOFILE%" >nul 2>nul
+    if not errorlevel 1 set "DETECT_TYPE=DVD"
+)
+
+rem Final safe fallback by folder rule. If the selected folder only allows one disc type,
+rem classify unknown CHDs as that expected type so wrong-compression fixing can still work.
+rem PS2 remains ANY and therefore still requires metadata/size detection.
+if /I "%DETECT_TYPE%"=="UNKNOWN" (
+    if /I "%EXPECTED_TYPE%"=="CD" set "DETECT_TYPE=CD"
+)
+if /I "%DETECT_TYPE%"=="UNKNOWN" (
+    if /I "%EXPECTED_TYPE%"=="DVD" set "DETECT_TYPE=DVD"
+)
 
 if exist "%INFOFILE%" del /f /q "%INFOFILE%" >nul 2>nul
 exit /b 0
