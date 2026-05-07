@@ -63,6 +63,7 @@ if /I "%~1"=="/CHECK" goto CheckCHDs
 if /I "%~1"=="/FIX" goto FixCHDs
 
 :MainMenu
+set "SELECTED_SYSTEM="
 cls
 echo ============================================================
 echo RetroAchievements CHD Auto Converter
@@ -114,51 +115,22 @@ echo 9 - Sony PlayStation 2
 echo 0 - Sony PlayStation Portable
 echo B - Back
 echo.
-choice /C 1234567890B /N /M "Choose a system: "
-if errorlevel 11 goto MainMenu
-if errorlevel 10 goto ConvertSystemPSP
-if errorlevel 9 goto ConvertSystemPS2
-if errorlevel 8 goto ConvertSystemPS1
-if errorlevel 7 goto ConvertSystemNGCD
-if errorlevel 6 goto ConvertSystemSaturn
-if errorlevel 5 goto ConvertSystemDreamcast
-if errorlevel 4 goto ConvertSystemSegaCD
-if errorlevel 3 goto ConvertSystemTGCD
-if errorlevel 2 goto ConvertSystemPCFX
-if errorlevel 1 goto ConvertSystem3DO
-
-goto MainMenu
-
-:ConvertSystem3DO
-call :ConvertSelectedSystem "3DO Interactive Multiplayer"
-goto MainMenu
-:ConvertSystemPCFX
-call :ConvertSelectedSystem "NEC PC-FX"
-goto MainMenu
-:ConvertSystemTGCD
-call :ConvertSelectedSystem "NEC TurboGrafx-CD"
-goto MainMenu
-:ConvertSystemSegaCD
-call :ConvertSelectedSystem "Sega CD"
-goto MainMenu
-:ConvertSystemDreamcast
-call :ConvertSelectedSystem "Sega Dreamcast"
-goto MainMenu
-:ConvertSystemSaturn
-call :ConvertSelectedSystem "Sega Saturn"
-goto MainMenu
-:ConvertSystemNGCD
-call :ConvertSelectedSystem "SNK Neo Geo CD"
-goto MainMenu
-:ConvertSystemPS1
-call :ConvertSelectedSystem "Sony PlayStation"
-goto MainMenu
-:ConvertSystemPS2
-call :ConvertSelectedSystem "Sony PlayStation 2"
-goto MainMenu
-:ConvertSystemPSP
-call :ConvertSelectedSystem "Sony PlayStation Portable"
-goto MainMenu
+set "SYS_CHOICE="
+set /P "SYS_CHOICE=Choose a system: "
+if /I "%SYS_CHOICE%"=="B" goto MainMenu
+set "SELECTED_SYSTEM="
+if "%SYS_CHOICE%"=="1" set "SELECTED_SYSTEM=3DO Interactive Multiplayer"
+if "%SYS_CHOICE%"=="2" set "SELECTED_SYSTEM=NEC PC-FX"
+if "%SYS_CHOICE%"=="3" set "SELECTED_SYSTEM=NEC TurboGrafx-CD"
+if "%SYS_CHOICE%"=="4" set "SELECTED_SYSTEM=Sega CD"
+if "%SYS_CHOICE%"=="5" set "SELECTED_SYSTEM=Sega Dreamcast"
+if "%SYS_CHOICE%"=="6" set "SELECTED_SYSTEM=Sega Saturn"
+if "%SYS_CHOICE%"=="7" set "SELECTED_SYSTEM=SNK Neo Geo CD"
+if "%SYS_CHOICE%"=="8" set "SELECTED_SYSTEM=Sony PlayStation"
+if "%SYS_CHOICE%"=="9" set "SELECTED_SYSTEM=Sony PlayStation 2"
+if "%SYS_CHOICE%"=="0" set "SELECTED_SYSTEM=Sony PlayStation Portable"
+if not defined SELECTED_SYSTEM goto MainMenu
+goto ConvertSelectedSystem
 
 :FixOneSystemMenu
 cls
@@ -178,52 +150,22 @@ echo 9 - Sony PlayStation 2
 echo 0 - Sony PlayStation Portable
 echo B - Back
 echo.
-choice /C 1234567890B /N /M "Choose a system to fix: "
-if errorlevel 11 goto MainMenu
-if errorlevel 10 goto FixSystemPSP
-if errorlevel 9 goto FixSystemPS2
-if errorlevel 8 goto FixSystemPS1
-if errorlevel 7 goto FixSystemNGCD
-if errorlevel 6 goto FixSystemSaturn
-if errorlevel 5 goto FixSystemDreamcast
-if errorlevel 4 goto FixSystemSegaCD
-if errorlevel 3 goto FixSystemTGCD
-if errorlevel 2 goto FixSystemPCFX
-if errorlevel 1 goto FixSystem3DO
-
-goto MainMenu
-
-:FixSystem3DO
-call :FixSelectedSystem "3DO Interactive Multiplayer"
-goto MainMenu
-:FixSystemPCFX
-call :FixSelectedSystem "NEC PC-FX"
-goto MainMenu
-:FixSystemTGCD
-call :FixSelectedSystem "NEC TurboGrafx-CD"
-goto MainMenu
-:FixSystemSegaCD
-call :FixSelectedSystem "Sega CD"
-goto MainMenu
-:FixSystemDreamcast
-call :FixSelectedSystem "Sega Dreamcast"
-goto MainMenu
-:FixSystemSaturn
-call :FixSelectedSystem "Sega Saturn"
-goto MainMenu
-:FixSystemNGCD
-call :FixSelectedSystem "SNK Neo Geo CD"
-goto MainMenu
-:FixSystemPS1
-call :FixSelectedSystem "Sony PlayStation"
-goto MainMenu
-:FixSystemPS2
-call :FixSelectedSystem "Sony PlayStation 2"
-goto MainMenu
-:FixSystemPSP
-call :FixSelectedSystem "Sony PlayStation Portable"
-goto MainMenu
-
+set "SYS_CHOICE="
+set /P "SYS_CHOICE=Choose a system to fix: "
+if /I "%SYS_CHOICE%"=="B" goto MainMenu
+set "SELECTED_SYSTEM="
+if "%SYS_CHOICE%"=="1" set "SELECTED_SYSTEM=3DO Interactive Multiplayer"
+if "%SYS_CHOICE%"=="2" set "SELECTED_SYSTEM=NEC PC-FX"
+if "%SYS_CHOICE%"=="3" set "SELECTED_SYSTEM=NEC TurboGrafx-CD"
+if "%SYS_CHOICE%"=="4" set "SELECTED_SYSTEM=Sega CD"
+if "%SYS_CHOICE%"=="5" set "SELECTED_SYSTEM=Sega Dreamcast"
+if "%SYS_CHOICE%"=="6" set "SELECTED_SYSTEM=Sega Saturn"
+if "%SYS_CHOICE%"=="7" set "SELECTED_SYSTEM=SNK Neo Geo CD"
+if "%SYS_CHOICE%"=="8" set "SELECTED_SYSTEM=Sony PlayStation"
+if "%SYS_CHOICE%"=="9" set "SELECTED_SYSTEM=Sony PlayStation 2"
+if "%SYS_CHOICE%"=="0" set "SELECTED_SYSTEM=Sony PlayStation Portable"
+if not defined SELECTED_SYSTEM goto MainMenu
+goto FixSelectedSystem
 :VerifyCHDMan
 cls
 echo ============================================================
@@ -429,13 +371,14 @@ echo Source cleanup after success: %MOVE_ORIGINALS%
 exit /b 0
 
 :ConvertSelectedSystem
+if not defined SELECTED_SYSTEM goto MainMenu
 cls
 echo ============================================================
 echo RetroAchievements CHD Auto Converter - Convert One System
 echo ============================================================
 echo.
 echo Selected system:
-echo %~1
+echo %SELECTED_SYSTEM%
 echo.
 
 set /a FOUND=0
@@ -449,7 +392,7 @@ set /a CURRENT=0
 call :ConfigureMoveOriginals
 
 echo Scanning folder...
-call :CountSystem "%~1"
+call :CountSystem "%SELECTED_SYSTEM%"
 
 echo.
 echo Candidates found: %TOTAL_FOUND%
@@ -459,7 +402,7 @@ echo.
 echo.>>"%LOG%"
 echo ============================================================>>"%LOG%"
 echo Convert selected-system run started: %DATE% %TIME%>>"%LOG%"
-echo System: %~1>>"%LOG%"
+echo System: %SELECTED_SYSTEM%>>"%LOG%"
 echo Root: %ROOT%>>"%LOG%"
 echo chdman: %CHDMAN%>>"%LOG%"
 echo Candidates found: %TOTAL_FOUND%>>"%LOG%"
@@ -471,7 +414,7 @@ if %TOTAL_FOUND% EQU 0 (
     echo No supported source files were found for this system.
     echo.
     pause
-    exit /b 0
+    goto MainMenu
 )
 
 if %TOTAL_TO_CONVERT% EQU 0 (
@@ -479,10 +422,10 @@ if %TOTAL_TO_CONVERT% EQU 0 (
     echo Nothing to convert.
     echo.
     pause
-    exit /b 0
+    goto MainMenu
 )
 
-call :ProcessSystem "%~1"
+call :ProcessSystem "%SELECTED_SYSTEM%"
 
 echo.>>"%LOG%"
 echo Convert selected-system summary: Found=%FOUND% Converted=%CONVERTED% Skipped=%SKIPPED% Failed=%FAILED%>>"%LOG%"
@@ -492,7 +435,7 @@ echo.
 echo ============================================================
 echo Done
 echo ============================================================
-echo System:    %~1
+echo System:    %SELECTED_SYSTEM%
 echo Found:     %FOUND%
 echo Converted: %CONVERTED%
 echo Skipped:   %SKIPPED%
@@ -507,7 +450,7 @@ if %FAILED% GTR 0 (
     echo.
 )
 pause
-exit /b 0
+goto MainMenu
 
 :CountSystem
 if /I "%~1"=="3DO Interactive Multiplayer" (
@@ -906,13 +849,14 @@ pause
 goto MainMenu
 
 :FixSelectedSystem
+if not defined SELECTED_SYSTEM goto MainMenu
 cls
 echo ============================================================
 echo Fix Wrong CHD Compression - One System
 echo ============================================================
 echo.
 echo Selected system:
-echo %~1
+echo %SELECTED_SYSTEM%
 echo.
 echo This will scan only this system folder, extract fixable wrong-compression
 echo CHDs to temporary files, then recompress them with the correct compression.
@@ -925,7 +869,7 @@ echo Unknown CHD types are skipped. Wrong disc type for the folder is skipped.
 echo Make sure you have enough free disk space before continuing.
 echo.
 choice /C YN /N /M "Continue with fixing this system? [Y/N]: "
-if errorlevel 2 exit /b 0
+if errorlevel 2 goto MainMenu
 
 set /a CHD_CHECKED=0
 set /a CHD_OK=0
@@ -939,20 +883,20 @@ set "CHECK_ACTION=FIX"
 echo.>>"%LOG%"
 echo ============================================================>>"%LOG%"
 echo CHD selected-system fix started: %DATE% %TIME%>>"%LOG%"
-echo System: %~1>>"%LOG%"
+echo System: %SELECTED_SYSTEM%>>"%LOG%"
 echo ============================================================>>"%LOG%"
 
-call :RunCHDScanForSystem "%~1" FIX
+call :RunCHDScanForSystem "%SELECTED_SYSTEM%" FIX
 
 echo.>>"%LOG%"
-echo CHD selected-system fix summary: System=%~1 Checked=%CHD_CHECKED% OK=%CHD_OK% Wrong=%CHD_WRONG% Unknown=%CHD_UNKNOWN% Fixable=%CHD_FIXABLE% Fixed=%CHD_FIXED% FixFailed=%CHD_FIX_FAILED%>>"%LOG%"
+echo CHD selected-system fix summary: System=%SELECTED_SYSTEM% Checked=%CHD_CHECKED% OK=%CHD_OK% Wrong=%CHD_WRONG% Unknown=%CHD_UNKNOWN% Fixable=%CHD_FIXABLE% Fixed=%CHD_FIXED% FixFailed=%CHD_FIX_FAILED%>>"%LOG%"
 echo CHD selected-system fix finished: %DATE% %TIME%>>"%LOG%"
 
 echo.
 echo ============================================================
 echo Fix complete
 echo ============================================================
-echo System:     %~1
+echo System:     %SELECTED_SYSTEM%
 echo Checked:    %CHD_CHECKED%
 echo OK:         %CHD_OK%
 echo Wrong:      %CHD_WRONG%
@@ -965,7 +909,7 @@ echo Log file:
 echo %LOG%
 echo.
 pause
-exit /b 0
+goto MainMenu
 
 :RunCHDScanForSystem
 set "SCAN_SYSTEM=%~1"
