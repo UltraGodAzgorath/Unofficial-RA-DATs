@@ -103,32 +103,9 @@ echo ============================================================
 echo Convert One System Folder
 echo ============================================================
 echo.
-echo 1 - 3DO Interactive Multiplayer
-echo 2 - NEC PC-FX
-echo 3 - NEC TurboGrafx-CD
-echo 4 - Sega CD
-echo 5 - Sega Dreamcast
-echo 6 - Sega Saturn
-echo 7 - SNK Neo Geo CD
-echo 8 - Sony PlayStation
-echo 9 - Sony PlayStation 2
-echo 0 - Sony PlayStation Portable
-echo B - Back
-echo.
-set "SYS_CHOICE="
-set /P "SYS_CHOICE=Choose a system: "
-if /I "%SYS_CHOICE%"=="B" goto MainMenu
-set "SELECTED_SYSTEM="
-if "%SYS_CHOICE%"=="1" set "SELECTED_SYSTEM=3DO Interactive Multiplayer"
-if "%SYS_CHOICE%"=="2" set "SELECTED_SYSTEM=NEC PC-FX"
-if "%SYS_CHOICE%"=="3" set "SELECTED_SYSTEM=NEC TurboGrafx-CD"
-if "%SYS_CHOICE%"=="4" set "SELECTED_SYSTEM=Sega CD"
-if "%SYS_CHOICE%"=="5" set "SELECTED_SYSTEM=Sega Dreamcast"
-if "%SYS_CHOICE%"=="6" set "SELECTED_SYSTEM=Sega Saturn"
-if "%SYS_CHOICE%"=="7" set "SELECTED_SYSTEM=SNK Neo Geo CD"
-if "%SYS_CHOICE%"=="8" set "SELECTED_SYSTEM=Sony PlayStation"
-if "%SYS_CHOICE%"=="9" set "SELECTED_SYSTEM=Sony PlayStation 2"
-if "%SYS_CHOICE%"=="0" set "SELECTED_SYSTEM=Sony PlayStation Portable"
+call :PrintSystemMenu
+call :ReadInstantSystemChoice "Choose a system: "
+call :ResolveSystemChoice
 if not defined SELECTED_SYSTEM goto MainMenu
 goto ConvertSelectedSystem
 
@@ -138,6 +115,13 @@ echo ============================================================
 echo Fix Wrong CHD Compression - One System Folder
 echo ============================================================
 echo.
+call :PrintSystemMenu
+call :ReadInstantSystemChoice "Choose a system to fix: "
+call :ResolveSystemChoice
+if not defined SELECTED_SYSTEM goto MainMenu
+goto FixSelectedSystem
+
+:PrintSystemMenu
 echo 1 - 3DO Interactive Multiplayer
 echo 2 - NEC PC-FX
 echo 3 - NEC TurboGrafx-CD
@@ -150,10 +134,21 @@ echo 9 - Sony PlayStation 2
 echo 0 - Sony PlayStation Portable
 echo B - Back
 echo.
+exit /b 0
+
+:ReadInstantSystemChoice
 set "SYS_CHOICE="
-set /P "SYS_CHOICE=Choose a system to fix: "
-if /I "%SYS_CHOICE%"=="B" goto MainMenu
+<nul set /p "=%~1"
+for /f "usebackq delims=" %%K in (`powershell.exe -NoProfile -ExecutionPolicy Bypass -Command "$Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown').Character" 2^>nul`) do set "SYS_CHOICE=%%K"
+echo.
+if not defined SYS_CHOICE (
+    set /P "SYS_CHOICE=%~1"
+)
+exit /b 0
+
+:ResolveSystemChoice
 set "SELECTED_SYSTEM="
+if /I "%SYS_CHOICE%"=="B" exit /b 0
 if "%SYS_CHOICE%"=="1" set "SELECTED_SYSTEM=3DO Interactive Multiplayer"
 if "%SYS_CHOICE%"=="2" set "SELECTED_SYSTEM=NEC PC-FX"
 if "%SYS_CHOICE%"=="3" set "SELECTED_SYSTEM=NEC TurboGrafx-CD"
@@ -164,8 +159,8 @@ if "%SYS_CHOICE%"=="7" set "SELECTED_SYSTEM=SNK Neo Geo CD"
 if "%SYS_CHOICE%"=="8" set "SELECTED_SYSTEM=Sony PlayStation"
 if "%SYS_CHOICE%"=="9" set "SELECTED_SYSTEM=Sony PlayStation 2"
 if "%SYS_CHOICE%"=="0" set "SELECTED_SYSTEM=Sony PlayStation Portable"
-if not defined SELECTED_SYSTEM goto MainMenu
-goto FixSelectedSystem
+exit /b 0
+
 :VerifyCHDMan
 cls
 echo ============================================================
