@@ -63,6 +63,7 @@ if /I "%~1"=="/CHECK" goto CheckCHDs
 if /I "%~1"=="/FIX" goto FixCHDs
 
 :MainMenu
+set "SELECTED_SYSTEM="
 cls
 echo ============================================================
 echo RetroAchievements CHD Auto Converter
@@ -102,63 +103,11 @@ echo ============================================================
 echo Convert One System Folder
 echo ============================================================
 echo.
-echo 1 - 3DO Interactive Multiplayer
-echo 2 - NEC PC-FX
-echo 3 - NEC TurboGrafx-CD
-echo 4 - Sega CD
-echo 5 - Sega Dreamcast
-echo 6 - Sega Saturn
-echo 7 - SNK Neo Geo CD
-echo 8 - Sony PlayStation
-echo 9 - Sony PlayStation 2
-echo 0 - Sony PlayStation Portable
-echo B - Back
-echo.
-choice /C 1234567890B /N /M "Choose a system: "
-if errorlevel 11 goto MainMenu
-if errorlevel 10 goto ConvertSystemPSP
-if errorlevel 9 goto ConvertSystemPS2
-if errorlevel 8 goto ConvertSystemPS1
-if errorlevel 7 goto ConvertSystemNGCD
-if errorlevel 6 goto ConvertSystemSaturn
-if errorlevel 5 goto ConvertSystemDreamcast
-if errorlevel 4 goto ConvertSystemSegaCD
-if errorlevel 3 goto ConvertSystemTGCD
-if errorlevel 2 goto ConvertSystemPCFX
-if errorlevel 1 goto ConvertSystem3DO
-
-goto MainMenu
-
-:ConvertSystem3DO
-call :ConvertSelectedSystem "3DO Interactive Multiplayer"
-goto MainMenu
-:ConvertSystemPCFX
-call :ConvertSelectedSystem "NEC PC-FX"
-goto MainMenu
-:ConvertSystemTGCD
-call :ConvertSelectedSystem "NEC TurboGrafx-CD"
-goto MainMenu
-:ConvertSystemSegaCD
-call :ConvertSelectedSystem "Sega CD"
-goto MainMenu
-:ConvertSystemDreamcast
-call :ConvertSelectedSystem "Sega Dreamcast"
-goto MainMenu
-:ConvertSystemSaturn
-call :ConvertSelectedSystem "Sega Saturn"
-goto MainMenu
-:ConvertSystemNGCD
-call :ConvertSelectedSystem "SNK Neo Geo CD"
-goto MainMenu
-:ConvertSystemPS1
-call :ConvertSelectedSystem "Sony PlayStation"
-goto MainMenu
-:ConvertSystemPS2
-call :ConvertSelectedSystem "Sony PlayStation 2"
-goto MainMenu
-:ConvertSystemPSP
-call :ConvertSelectedSystem "Sony PlayStation Portable"
-goto MainMenu
+call :PrintSystemMenu
+call :ReadInstantSystemChoice "Choose a system: "
+call :ResolveSystemChoice
+if not defined SELECTED_SYSTEM goto MainMenu
+goto ConvertSelectedSystem
 
 :FixOneSystemMenu
 cls
@@ -166,6 +115,13 @@ echo ============================================================
 echo Fix Wrong CHD Compression - One System Folder
 echo ============================================================
 echo.
+call :PrintSystemMenu
+call :ReadInstantSystemChoice "Choose a system to fix: "
+call :ResolveSystemChoice
+if not defined SELECTED_SYSTEM goto MainMenu
+goto FixSelectedSystem
+
+:PrintSystemMenu
 echo 1 - 3DO Interactive Multiplayer
 echo 2 - NEC PC-FX
 echo 3 - NEC TurboGrafx-CD
@@ -178,51 +134,32 @@ echo 9 - Sony PlayStation 2
 echo 0 - Sony PlayStation Portable
 echo B - Back
 echo.
-choice /C 1234567890B /N /M "Choose a system to fix: "
-if errorlevel 11 goto MainMenu
-if errorlevel 10 goto FixSystemPSP
-if errorlevel 9 goto FixSystemPS2
-if errorlevel 8 goto FixSystemPS1
-if errorlevel 7 goto FixSystemNGCD
-if errorlevel 6 goto FixSystemSaturn
-if errorlevel 5 goto FixSystemDreamcast
-if errorlevel 4 goto FixSystemSegaCD
-if errorlevel 3 goto FixSystemTGCD
-if errorlevel 2 goto FixSystemPCFX
-if errorlevel 1 goto FixSystem3DO
+exit /b 0
 
-goto MainMenu
+:ReadInstantSystemChoice
+set "SYS_CHOICE="
+<nul set /p "=%~1"
+for /f "usebackq delims=" %%K in (`powershell.exe -NoProfile -ExecutionPolicy Bypass -Command "$Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown').Character" 2^>nul`) do set "SYS_CHOICE=%%K"
+echo.
+if not defined SYS_CHOICE (
+    set /P "SYS_CHOICE=%~1"
+)
+exit /b 0
 
-:FixSystem3DO
-call :FixSelectedSystem "3DO Interactive Multiplayer"
-goto MainMenu
-:FixSystemPCFX
-call :FixSelectedSystem "NEC PC-FX"
-goto MainMenu
-:FixSystemTGCD
-call :FixSelectedSystem "NEC TurboGrafx-CD"
-goto MainMenu
-:FixSystemSegaCD
-call :FixSelectedSystem "Sega CD"
-goto MainMenu
-:FixSystemDreamcast
-call :FixSelectedSystem "Sega Dreamcast"
-goto MainMenu
-:FixSystemSaturn
-call :FixSelectedSystem "Sega Saturn"
-goto MainMenu
-:FixSystemNGCD
-call :FixSelectedSystem "SNK Neo Geo CD"
-goto MainMenu
-:FixSystemPS1
-call :FixSelectedSystem "Sony PlayStation"
-goto MainMenu
-:FixSystemPS2
-call :FixSelectedSystem "Sony PlayStation 2"
-goto MainMenu
-:FixSystemPSP
-call :FixSelectedSystem "Sony PlayStation Portable"
-goto MainMenu
+:ResolveSystemChoice
+set "SELECTED_SYSTEM="
+if /I "%SYS_CHOICE%"=="B" exit /b 0
+if "%SYS_CHOICE%"=="1" set "SELECTED_SYSTEM=3DO Interactive Multiplayer"
+if "%SYS_CHOICE%"=="2" set "SELECTED_SYSTEM=NEC PC-FX"
+if "%SYS_CHOICE%"=="3" set "SELECTED_SYSTEM=NEC TurboGrafx-CD"
+if "%SYS_CHOICE%"=="4" set "SELECTED_SYSTEM=Sega CD"
+if "%SYS_CHOICE%"=="5" set "SELECTED_SYSTEM=Sega Dreamcast"
+if "%SYS_CHOICE%"=="6" set "SELECTED_SYSTEM=Sega Saturn"
+if "%SYS_CHOICE%"=="7" set "SELECTED_SYSTEM=SNK Neo Geo CD"
+if "%SYS_CHOICE%"=="8" set "SELECTED_SYSTEM=Sony PlayStation"
+if "%SYS_CHOICE%"=="9" set "SELECTED_SYSTEM=Sony PlayStation 2"
+if "%SYS_CHOICE%"=="0" set "SELECTED_SYSTEM=Sony PlayStation Portable"
+exit /b 0
 
 :VerifyCHDMan
 cls
@@ -343,23 +280,23 @@ if %TOTAL_TO_CONVERT% EQU 0 (
 )
 
 rem DEFAULT/STANDARD compression for compatibility-first folders.
-call :ProcessCDDefault "3DO Interactive Multiplayer" "*.cue"
-call :ProcessCDDefault "3DO Interactive Multiplayer" "*.iso"
-call :ProcessCDDefault "NEC PC-FX" "*.cue"
-call :ProcessCDDefault "NEC TurboGrafx-CD" "*.cue"
+call :ProcessCDDefaultSafe "3DO Interactive Multiplayer" "*.cue"
+call :ProcessCDDefaultSafe "3DO Interactive Multiplayer" "*.iso"
+call :ProcessCDDefaultSafe "NEC PC-FX" "*.cue"
+call :ProcessCDDefaultSafe "NEC TurboGrafx-CD" "*.cue"
 
 rem ZSTD CD CHDs.
-call :ProcessCDZstd "Sega CD" "*.cue"
-call :ProcessCDZstd "Sega Dreamcast" "*.gdi"
-call :ProcessCDZstd "Sega Dreamcast" "*.cue"
-call :ProcessCDZstd "Sega Saturn" "*.cue"
-call :ProcessCDZstd "SNK Neo Geo CD" "*.cue"
-call :ProcessCDZstd "Sony PlayStation" "*.cue"
-call :ProcessCDZstd "Sony PlayStation 2" "*.cue"
+call :ProcessCDZstdSafe "Sega CD" "*.cue"
+call :ProcessCDZstdSafe "Sega Dreamcast" "*.gdi"
+call :ProcessCDZstdSafe "Sega Dreamcast" "*.cue"
+call :ProcessCDZstdSafe "Sega Saturn" "*.cue"
+call :ProcessCDZstdSafe "SNK Neo Geo CD" "*.cue"
+call :ProcessCDZstdSafe "Sony PlayStation" "*.cue"
+call :ProcessCDZstdSafe "Sony PlayStation 2" "*.cue"
 
 rem ZSTD DVD CHDs.
-call :ProcessDVDZstd "Sony PlayStation 2" "*.iso"
-call :ProcessDVDZstd "Sony PlayStation Portable" "*.iso"
+call :ProcessDVDZstdSafe "Sony PlayStation 2" "*.iso"
+call :ProcessDVDZstdSafe "Sony PlayStation Portable" "*.iso"
 
 echo.>>"%LOG%"
 echo Convert summary: Found=%FOUND% Converted=%CONVERTED% Skipped=%SKIPPED% Failed=%FAILED%>>"%LOG%"
@@ -429,13 +366,14 @@ echo Source cleanup after success: %MOVE_ORIGINALS%
 exit /b 0
 
 :ConvertSelectedSystem
+if not defined SELECTED_SYSTEM goto MainMenu
 cls
 echo ============================================================
 echo RetroAchievements CHD Auto Converter - Convert One System
 echo ============================================================
 echo.
 echo Selected system:
-echo %~1
+echo %SELECTED_SYSTEM%
 echo.
 
 set /a FOUND=0
@@ -449,7 +387,7 @@ set /a CURRENT=0
 call :ConfigureMoveOriginals
 
 echo Scanning folder...
-call :CountSystem "%~1"
+call :CountSystem "%SELECTED_SYSTEM%"
 
 echo.
 echo Candidates found: %TOTAL_FOUND%
@@ -459,7 +397,7 @@ echo.
 echo.>>"%LOG%"
 echo ============================================================>>"%LOG%"
 echo Convert selected-system run started: %DATE% %TIME%>>"%LOG%"
-echo System: %~1>>"%LOG%"
+echo System: %SELECTED_SYSTEM%>>"%LOG%"
 echo Root: %ROOT%>>"%LOG%"
 echo chdman: %CHDMAN%>>"%LOG%"
 echo Candidates found: %TOTAL_FOUND%>>"%LOG%"
@@ -471,7 +409,7 @@ if %TOTAL_FOUND% EQU 0 (
     echo No supported source files were found for this system.
     echo.
     pause
-    exit /b 0
+    goto MainMenu
 )
 
 if %TOTAL_TO_CONVERT% EQU 0 (
@@ -479,10 +417,10 @@ if %TOTAL_TO_CONVERT% EQU 0 (
     echo Nothing to convert.
     echo.
     pause
-    exit /b 0
+    goto MainMenu
 )
 
-call :ProcessSystem "%~1"
+call :ProcessSystem "%SELECTED_SYSTEM%"
 
 echo.>>"%LOG%"
 echo Convert selected-system summary: Found=%FOUND% Converted=%CONVERTED% Skipped=%SKIPPED% Failed=%FAILED%>>"%LOG%"
@@ -492,7 +430,7 @@ echo.
 echo ============================================================
 echo Done
 echo ============================================================
-echo System:    %~1
+echo System:    %SELECTED_SYSTEM%
 echo Found:     %FOUND%
 echo Converted: %CONVERTED%
 echo Skipped:   %SKIPPED%
@@ -507,7 +445,7 @@ if %FAILED% GTR 0 (
     echo.
 )
 pause
-exit /b 0
+goto MainMenu
 
 :CountSystem
 if /I "%~1"=="3DO Interactive Multiplayer" (
@@ -557,46 +495,46 @@ exit /b 0
 
 :ProcessSystem
 if /I "%~1"=="3DO Interactive Multiplayer" (
-    call :ProcessCDDefault "3DO Interactive Multiplayer" "*.cue"
-    call :ProcessCDDefault "3DO Interactive Multiplayer" "*.iso"
+    call :ProcessCDDefaultSafe "3DO Interactive Multiplayer" "*.cue"
+    call :ProcessCDDefaultSafe "3DO Interactive Multiplayer" "*.iso"
     exit /b 0
 )
 if /I "%~1"=="NEC PC-FX" (
-    call :ProcessCDDefault "NEC PC-FX" "*.cue"
+    call :ProcessCDDefaultSafe "NEC PC-FX" "*.cue"
     exit /b 0
 )
 if /I "%~1"=="NEC TurboGrafx-CD" (
-    call :ProcessCDDefault "NEC TurboGrafx-CD" "*.cue"
+    call :ProcessCDDefaultSafe "NEC TurboGrafx-CD" "*.cue"
     exit /b 0
 )
 if /I "%~1"=="Sega CD" (
-    call :ProcessCDZstd "Sega CD" "*.cue"
+    call :ProcessCDZstdSafe "Sega CD" "*.cue"
     exit /b 0
 )
 if /I "%~1"=="Sega Dreamcast" (
-    call :ProcessCDZstd "Sega Dreamcast" "*.gdi"
-    call :ProcessCDZstd "Sega Dreamcast" "*.cue"
+    call :ProcessCDZstdSafe "Sega Dreamcast" "*.gdi"
+    call :ProcessCDZstdSafe "Sega Dreamcast" "*.cue"
     exit /b 0
 )
 if /I "%~1"=="Sega Saturn" (
-    call :ProcessCDZstd "Sega Saturn" "*.cue"
+    call :ProcessCDZstdSafe "Sega Saturn" "*.cue"
     exit /b 0
 )
 if /I "%~1"=="SNK Neo Geo CD" (
-    call :ProcessCDZstd "SNK Neo Geo CD" "*.cue"
+    call :ProcessCDZstdSafe "SNK Neo Geo CD" "*.cue"
     exit /b 0
 )
 if /I "%~1"=="Sony PlayStation" (
-    call :ProcessCDZstd "Sony PlayStation" "*.cue"
+    call :ProcessCDZstdSafe "Sony PlayStation" "*.cue"
     exit /b 0
 )
 if /I "%~1"=="Sony PlayStation 2" (
-    call :ProcessCDZstd "Sony PlayStation 2" "*.cue"
-    call :ProcessDVDZstd "Sony PlayStation 2" "*.iso"
+    call :ProcessCDZstdSafe "Sony PlayStation 2" "*.cue"
+    call :ProcessDVDZstdSafe "Sony PlayStation 2" "*.iso"
     exit /b 0
 )
 if /I "%~1"=="Sony PlayStation Portable" (
-    call :ProcessDVDZstd "Sony PlayStation Portable" "*.iso"
+    call :ProcessDVDZstdSafe "Sony PlayStation Portable" "*.iso"
     exit /b 0
 )
 exit /b 0
@@ -693,7 +631,7 @@ exit /b 0
 set "SYSTEMDIR=%ROOT%%~1"
 set "PATTERN=%~2"
 if not exist "%SYSTEMDIR%" exit /b 0
-for /r "%SYSTEMDIR%" %%F in (%PATTERN%) do call :CountOne "%%~fF"
+for /f "delims=" %%F in ('dir /b /s /a:-d "%SYSTEMDIR%\%PATTERN%" 2^>nul') do call :CountOne "%%~fF"
 exit /b 0
 
 :CountOne
@@ -712,7 +650,7 @@ if not exist "%SYSTEMDIR%" exit /b 0
 echo.
 echo [CD DEFAULT] %FOLDER% - %PATTERN%
 echo [CD DEFAULT] %FOLDER% - %PATTERN%>>"%LOG%"
-for /r "%SYSTEMDIR%" %%F in (%PATTERN%) do call :ConvertOne CD_DEFAULT "%FOLDER%" "%%~fF"
+for /f "delims=" %%F in ('dir /b /s /a:-d "%SYSTEMDIR%\%PATTERN%" 2^>nul') do call :ConvertOne CD_DEFAULT "%FOLDER%" "%%~fF"
 exit /b 0
 
 :ProcessCDZstd
@@ -724,7 +662,7 @@ if not exist "%SYSTEMDIR%" exit /b 0
 echo.
 echo [CD ZSTD] %FOLDER% - %PATTERN%
 echo [CD ZSTD] %FOLDER% - %PATTERN%>>"%LOG%"
-for /r "%SYSTEMDIR%" %%F in (%PATTERN%) do call :ConvertOne CD_ZSTD "%FOLDER%" "%%~fF"
+for /f "delims=" %%F in ('dir /b /s /a:-d "%SYSTEMDIR%\%PATTERN%" 2^>nul') do call :ConvertOne CD_ZSTD "%FOLDER%" "%%~fF"
 exit /b 0
 
 :ProcessDVDZstd
@@ -736,141 +674,7 @@ if not exist "%SYSTEMDIR%" exit /b 0
 echo.
 echo [DVD ZSTD] %FOLDER% - %PATTERN%
 echo [DVD ZSTD] %FOLDER% - %PATTERN%>>"%LOG%"
-for /r "%SYSTEMDIR%" %%F in (%PATTERN%) do call :ConvertOne DVD_ZSTD "%FOLDER%" "%%~fF"
-exit /b 0
-
-:ConvertOne
-set "MODE=%~1"
-set "CURRENT_FOLDER=%~2"
-set "INPUT=%~3"
-set "OUTPUT=%~dpn3.chd"
-
-set /a FOUND+=1
-
-if exist "%OUTPUT%" (
-    set /a SKIPPED+=1
-    echo [SKIP] "%OUTPUT%" already exists.
-    echo [SKIP] "%OUTPUT%" already exists.>>"%LOG%"
-    exit /b 0
-)
-
-set /a CURRENT+=1
-echo.
-echo Progress: %CURRENT% / %TOTAL_TO_CONVERT%
-echo Mode:     %MODE%
-echo Input:    "%INPUT%"
-echo Output:   "%OUTPUT%"
-echo [CONVERT] Mode=%MODE% Input="%INPUT%" Output="%OUTPUT%">>"%LOG%"
-
-if /I "%MODE%"=="CD_DEFAULT" (
-    "%CHDMAN%" createcd -i "%INPUT%" -o "%OUTPUT%"
-    goto CheckConvertResult
-)
-
-if /I "%MODE%"=="CD_ZSTD" (
-    "%CHDMAN%" createcd -i "%INPUT%" -o "%OUTPUT%" -c cdzs,cdzl,cdfl
-    goto CheckConvertResult
-)
-
-if /I "%MODE%"=="DVD_ZSTD" (
-    "%CHDMAN%" createdvd -i "%INPUT%" -o "%OUTPUT%" -c zstd,zlib,huff,flac
-    goto CheckConvertResult
-)
-
-echo [FAILED] Unknown mode: %MODE%
-echo [FAILED] Unknown mode: %MODE%>>"%LOG%"
-set /a FAILED+=1
-exit /b 1
-
-:CheckConvertResult
-if errorlevel 1 (
-    set /a FAILED+=1
-    echo [FAILED] "%INPUT%"
-    echo [FAILED] "%INPUT%">>"%LOG%"
-    if exist "%OUTPUT%" (
-        del /f /q "%OUTPUT%" >nul 2>nul
-        echo [CLEANUP] Deleted partial CHD: "%OUTPUT%">>"%LOG%"
-    )
-    exit /b 1
-) else (
-    set /a CONVERTED+=1
-    echo [OK] "%OUTPUT%"
-    echo [OK] "%OUTPUT%">>"%LOG%"
-    if /I "%MOVE_ORIGINALS%"=="YES" call :MoveSourceSet "%INPUT%" "%CURRENT_FOLDER%"
-    if /I "%MOVE_ORIGINALS%"=="DELETE" (
-        set "CLEANUP_INPUT=%INPUT%"
-        set "CLEANUP_FOLDER=%CURRENT_FOLDER%"
-        call :DeleteSourceSet
-if not defined CLEANUP_INPUT exit /b 0
-echo [DELETE] Deleting source files for: "%CLEANUP_INPUT%"
-echo [DELETE] Deleting source files for: "%CLEANUP_INPUT%">>"%LOG%"
-powershell -NoProfile -ExecutionPolicy Bypass -Command "$ErrorActionPreference='Continue'; $inputPath=$env:CLEANUP_INPUT; $log=$env:LOG; $dir=[IO.Path]::GetDirectoryName($inputPath); $ext=[IO.Path]::GetExtension($inputPath).ToLowerInvariant(); $paths=New-Object 'System.Collections.Generic.List[string]'; $paths.Add($inputPath); if($ext -eq '.cue' -and [IO.File]::Exists($inputPath)){ foreach($line in [IO.File]::ReadLines($inputPath)){ $m=[regex]::Match($line, '^\s*FILE\s+\x22([^\x22]+)\x22', 'IgnoreCase'); if($m.Success){ $paths.Add([IO.Path]::Combine($dir,$m.Groups[1].Value)) } }; $sbi=[IO.Path]::ChangeExtension($inputPath,'.sbi'); if([IO.File]::Exists($sbi)){ Write-Host ('[KEEP] SBI left beside CHD: ' + $sbi); Add-Content -LiteralPath $log -Value ('[KEEP] SBI left beside CHD: ' + $sbi) } } elseif($ext -eq '.gdi' -and [IO.File]::Exists($inputPath)){ $lines=[IO.File]::ReadAllLines($inputPath); for($i=1; $i -lt $lines.Count; $i++){ $parts=$lines[$i] -split '\s+'; if($parts.Count -ge 5){ $paths.Add([IO.Path]::Combine($dir,$parts[4])) } } }; $seen=@{}; foreach($p in $paths){ if([string]::IsNullOrWhiteSpace($p)){ continue }; $full=[IO.Path]::GetFullPath($p); if($seen.ContainsKey($full)){ continue }; $seen[$full]=$true; if([IO.File]::Exists($full)){ try{ Remove-Item -LiteralPath $full -Force -ErrorAction Stop; Write-Host ('[DELETED] ' + $full); Add-Content -LiteralPath $log -Value ('[DELETED] ' + $full) } catch { Write-Host ('[DELETE FAILED] ' + $full + ' :: ' + $_.Exception.Message); Add-Content -LiteralPath $log -Value ('[DELETE FAILED] ' + $full + ' :: ' + $_.Exception.Message) } } else { Write-Host ('[DELETE WARN] Missing referenced source: ' + $full); Add-Content -LiteralPath $log -Value ('[DELETE WARN] Missing referenced source: ' + $full) } }"
-exit /b 0
-
-:CountAll
-call :CountFiles "3DO Interactive Multiplayer" "*.cue"
-call :CountFiles "3DO Interactive Multiplayer" "*.iso"
-call :CountFiles "NEC PC-FX" "*.cue"
-call :CountFiles "NEC TurboGrafx-CD" "*.cue"
-call :CountFiles "Sega CD" "*.cue"
-call :CountFiles "Sega Dreamcast" "*.gdi"
-call :CountFiles "Sega Dreamcast" "*.cue"
-call :CountFiles "Sega Saturn" "*.cue"
-call :CountFiles "SNK Neo Geo CD" "*.cue"
-call :CountFiles "Sony PlayStation" "*.cue"
-call :CountFiles "Sony PlayStation 2" "*.cue"
-call :CountFiles "Sony PlayStation 2" "*.iso"
-call :CountFiles "Sony PlayStation Portable" "*.iso"
-exit /b 0
-
-:CountFiles
-set "SYSTEMDIR=%ROOT%%~1"
-set "PATTERN=%~2"
-if not exist "%SYSTEMDIR%" exit /b 0
-for /r "%SYSTEMDIR%" %%F in (%PATTERN%) do call :CountOne "%%~fF"
-exit /b 0
-
-:CountOne
-set "INPUT=%~1"
-set "OUTPUT=%~dpn1.chd"
-set /a TOTAL_FOUND+=1
-if not exist "%OUTPUT%" set /a TOTAL_TO_CONVERT+=1
-exit /b 0
-
-:ProcessCDDefault
-set "FOLDER=%~1"
-set "PATTERN=%~2"
-set "SYSTEMDIR=%ROOT%%~1"
-if not exist "%SYSTEMDIR%" exit /b 0
-
-echo.
-echo [CD DEFAULT] %FOLDER% - %PATTERN%
-echo [CD DEFAULT] %FOLDER% - %PATTERN%>>"%LOG%"
-for /r "%SYSTEMDIR%" %%F in (%PATTERN%) do call :ConvertOne CD_DEFAULT "%FOLDER%" "%%~fF"
-exit /b 0
-
-:ProcessCDZstd
-set "FOLDER=%~1"
-set "PATTERN=%~2"
-set "SYSTEMDIR=%ROOT%%~1"
-if not exist "%SYSTEMDIR%" exit /b 0
-
-echo.
-echo [CD ZSTD] %FOLDER% - %PATTERN%
-echo [CD ZSTD] %FOLDER% - %PATTERN%>>"%LOG%"
-for /r "%SYSTEMDIR%" %%F in (%PATTERN%) do call :ConvertOne CD_ZSTD "%FOLDER%" "%%~fF"
-exit /b 0
-
-:ProcessDVDZstd
-set "FOLDER=%~1"
-set "PATTERN=%~2"
-set "SYSTEMDIR=%ROOT%%~1"
-if not exist "%SYSTEMDIR%" exit /b 0
-
-echo.
-echo [DVD ZSTD] %FOLDER% - %PATTERN%
-echo [DVD ZSTD] %FOLDER% - %PATTERN%>>"%LOG%"
-for /r "%SYSTEMDIR%" %%F in (%PATTERN%) do call :ConvertOne DVD_ZSTD "%FOLDER%" "%%~fF"
+for /f "delims=" %%F in ('dir /b /s /a:-d "%SYSTEMDIR%\%PATTERN%" 2^>nul') do call :ConvertOne DVD_ZSTD "%FOLDER%" "%%~fF"
 exit /b 0
 
 :ConvertOne
@@ -1040,13 +844,14 @@ pause
 goto MainMenu
 
 :FixSelectedSystem
+if not defined SELECTED_SYSTEM goto MainMenu
 cls
 echo ============================================================
 echo Fix Wrong CHD Compression - One System
 echo ============================================================
 echo.
 echo Selected system:
-echo %~1
+echo %SELECTED_SYSTEM%
 echo.
 echo This will scan only this system folder, extract fixable wrong-compression
 echo CHDs to temporary files, then recompress them with the correct compression.
@@ -1059,7 +864,7 @@ echo Unknown CHD types are skipped. Wrong disc type for the folder is skipped.
 echo Make sure you have enough free disk space before continuing.
 echo.
 choice /C YN /N /M "Continue with fixing this system? [Y/N]: "
-if errorlevel 2 exit /b 0
+if errorlevel 2 goto MainMenu
 
 set /a CHD_CHECKED=0
 set /a CHD_OK=0
@@ -1073,20 +878,20 @@ set "CHECK_ACTION=FIX"
 echo.>>"%LOG%"
 echo ============================================================>>"%LOG%"
 echo CHD selected-system fix started: %DATE% %TIME%>>"%LOG%"
-echo System: %~1>>"%LOG%"
+echo System: %SELECTED_SYSTEM%>>"%LOG%"
 echo ============================================================>>"%LOG%"
 
-call :RunCHDScanForSystem "%~1" FIX
+call :RunCHDScanForSystem "%SELECTED_SYSTEM%" FIX
 
 echo.>>"%LOG%"
-echo CHD selected-system fix summary: System=%~1 Checked=%CHD_CHECKED% OK=%CHD_OK% Wrong=%CHD_WRONG% Unknown=%CHD_UNKNOWN% Fixable=%CHD_FIXABLE% Fixed=%CHD_FIXED% FixFailed=%CHD_FIX_FAILED%>>"%LOG%"
+echo CHD selected-system fix summary: System=%SELECTED_SYSTEM% Checked=%CHD_CHECKED% OK=%CHD_OK% Wrong=%CHD_WRONG% Unknown=%CHD_UNKNOWN% Fixable=%CHD_FIXABLE% Fixed=%CHD_FIXED% FixFailed=%CHD_FIX_FAILED%>>"%LOG%"
 echo CHD selected-system fix finished: %DATE% %TIME%>>"%LOG%"
 
 echo.
 echo ============================================================
 echo Fix complete
 echo ============================================================
-echo System:     %~1
+echo System:     %SELECTED_SYSTEM%
 echo Checked:    %CHD_CHECKED%
 echo OK:         %CHD_OK%
 echo Wrong:      %CHD_WRONG%
@@ -1099,7 +904,7 @@ echo Log file:
 echo %LOG%
 echo.
 pause
-exit /b 0
+goto MainMenu
 
 :RunCHDScanForSystem
 set "SCAN_SYSTEM=%~1"
@@ -1186,14 +991,16 @@ for /r "%SYSTEMDIR%" %%F in (*.chd) do (
 )
 exit /b 0
 
-:CheckOneCHD
-set "CHD_FILE=%~1"
-set "EXPECTED_TYPE=%~2"
-set "EXPECTED_COMP=%~3"
-set "ACTION=%~4"
+:CheckCurrentCHD
+rem CHD path is read from CHD_CURRENT so legal filename chars are not passed through CALL arguments.
+set "CHD_FILE=%CHD_CURRENT%"
+set "EXPECTED_TYPE=%~1"
+set "EXPECTED_COMP=%~2"
+set "ACTION=%~3"
+
 set /a CHD_CHECKED+=1
 
-call :DetectCHD "%CHD_FILE%"
+call :DetectCHD
 
 set "STATUS=OK"
 set "REASON="
@@ -1241,12 +1048,12 @@ echo [WRONG] %REASON% Type=%DETECT_TYPE% Compression=%DETECT_COMP% Expected=%EXP
 
 if /I "%FIXABLE%"=="YES" (
     set /a CHD_FIXABLE+=1
-    if /I "%ACTION%"=="FIX" call :FixOneCHD "%CHD_FILE%" "%DETECT_TYPE%" "%EXPECTED_COMP%"
+    if /I "%ACTION%"=="FIX" call :FixCurrentCHD "%DETECT_TYPE%" "%EXPECTED_COMP%"
 )
 exit /b 0
 
 :DetectCHD
-set "CHD_FILE=%~1"
+rem CHD_FILE is set by CheckCurrentCHD from CHD_CURRENT.
 set "DETECT_TYPE=UNKNOWN"
 set "DETECT_COMP=STANDARD"
 set "INFOFILE=%TEMP%\chd_info_%RANDOM%_%RANDOM%.txt"
@@ -1297,13 +1104,18 @@ if /I "%DETECT_TYPE%"=="UNKNOWN" (
 if exist "%INFOFILE%" del /f /q "%INFOFILE%" >nul 2>nul
 exit /b 0
 
-:FixOneCHD
-set "CHD_FILE=%~1"
-set "DETECT_TYPE=%~2"
-set "TARGET_COMP=%~3"
-set "TMPDIR=%~dpn1__chd_fix_tmp"
-set "FIXED=%~dpn1.fixed.chd"
-set "BACKUP=%~dpn1.backup_%RANDOM%.chd"
+:FixCurrentCHD
+rem CHD path is read from CHD_CURRENT so legal filename chars are not passed through CALL arguments.
+set "CHD_FILE=%CHD_CURRENT%"
+set "DETECT_TYPE=%~1"
+set "TARGET_COMP=%~2"
+for %%A in ("%CHD_FILE%") do (
+    set "CHD_DIR=%%~dpA"
+    set "CHD_BASE=%%~nA"
+)
+set "TMPDIR=%TEMP%\chd_fix_%RANDOM%_%RANDOM%"
+set "FIXED=%TMPDIR%\fixed.chd"
+set "BACKUP=%CHD_DIR%%CHD_BASE%.backup_%RANDOM%.chd"
 
 echo.
 echo [FIX] %DETECT_TYPE% -> %TARGET_COMP%
@@ -1374,6 +1186,19 @@ if exist "%FIXED%" del /f /q "%FIXED%" >nul 2>nul
 :FixCleanup
 if exist "%TMPDIR%" rmdir /s /q "%TMPDIR%" >nul 2>nul
 exit /b 0
+
+
+:ProcessCDDefaultSafe
+call :ProcessCDDefault "%~1" "%~2"
+exit /b %ERRORLEVEL%
+
+:ProcessCDZstdSafe
+call :ProcessCDZstd "%~1" "%~2"
+exit /b %ERRORLEVEL%
+
+:ProcessDVDZstdSafe
+call :ProcessDVDZstd "%~1" "%~2"
+exit /b %ERRORLEVEL%
 
 :EnsureFolders
 if not exist "%ROOT%3DO Interactive Multiplayer" mkdir "%ROOT%3DO Interactive Multiplayer" >nul 2>nul
