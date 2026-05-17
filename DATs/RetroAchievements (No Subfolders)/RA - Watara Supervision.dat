@@ -5,109 +5,109 @@
 		<name>RA - Watara Supervision</name>
 		<description>Watara Supervision</description>
 		<category>No Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260428</version>
+		<date>28 April 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/63/games</url>
 		<titlecount>75</titlecount>
-		<hashcount>81</hashcount>
+		<hashcount>82</hashcount>
 	</header>
-	<game name="AntiAir Mini (World) (v20240422) (Inufuto) (Aftermarket)">
+	<game name="AntiAir Mini (World) (v20240422) (Aftermarket) (Inufuto)">
 		<category>Homebrew</category>
-		<description>AntiAir Mini (World) (v20240422) (Inufuto) (Aftermarket)</description>
-		<release name="AntiAir Mini (World) (v20240422) (Inufuto) (Aftermarket)" region="World"/>
-		<rom name="AntiAir Mini (World) (v20240422) (Inufuto) (Aftermarket).sv" size="16384" crc="b10634c0" md5="8b5071a6648aecbf86fe6e44a5a2e3c7" sha1="e9c3e4763ca6a80ddfff9c26c7c2012667d889bd"/>
+		<description>AntiAir Mini (World) (v20240422) (Aftermarket) (Inufuto)</description>
+		<release name="AntiAir Mini (World) (v20240422) (Aftermarket) (Inufuto)" region="World"/>
+		<rom name="AntiAir Mini (World) (v20240422) (Aftermarket) (Inufuto).sv" size="16384" crc="b10634c0" md5="8b5071a6648aecbf86fe6e44a5a2e3c7" sha1="e9c3e4763ca6a80ddfff9c26c7c2012667d889bd"/>
 		<url>https://retroachievements.org/game/33069/hashes</url>
 		<hash>8b5071a6648aecbf86fe6e44a5a2e3c7</hash>
 	</game>
 	
-	<game name="Assembloids (World) (Aftermarket)">
+	<game name="Assembloids (World) (Digital) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Assembloids (World) (Aftermarket)</description>
-		<release name="Assembloids (World) (Aftermarket)" region="World"/>
-		<rom name="Assembloids (World) (Aftermarket).sv" size="65536" crc="c71131e4" md5="6dd574473abfe47583c81a2fe33d3d02" sha1="79831275a6a30064d400b21c7eff709403ebcecc"/>
+		<description>Assembloids (World) (Digital) (Aftermarket) (Unl)</description>
+		<release name="Assembloids (World) (Digital) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Assembloids (World) (Digital) (Aftermarket) (Unl).sv" size="65536" crc="c71131e4" md5="6dd574473abfe47583c81a2fe33d3d02" sha1="79831275a6a30064d400b21c7eff709403ebcecc"/>
 		<url>https://retroachievements.org/game/17660/hashes</url>
 		<hash>6dd574473abfe47583c81a2fe33d3d02</hash>
 	</game>
 	
-	<game name="Cross Bomber (World) (Aftermarket)">
+	<game name="Cross Bomber (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Cross Bomber (World) (Aftermarket)</description>
-		<release name="Cross Bomber (World) (Aftermarket)" region="World"/>
-		<rom name="Cross Bomber (World) (Aftermarket).sv" size="32768" crc="5fac2aa3" md5="7a905b02571bfd0a7fdbb03b0637af4f" sha1="d579049862297d05ad8fbf318cf21f5423ed9b64"/>
+		<description>Cross Bomber (World) (Aftermarket) (Unl)</description>
+		<release name="Cross Bomber (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Cross Bomber (World) (Aftermarket) (Unl).sv" size="32768" crc="5fac2aa3" md5="7a905b02571bfd0a7fdbb03b0637af4f" sha1="d579049862297d05ad8fbf318cf21f5423ed9b64"/>
 		<url>https://retroachievements.org/game/23775/hashes</url>
 		<hash>7a905b02571bfd0a7fdbb03b0637af4f</hash>
 	</game>
 	
-	<game name="Cross Chase (World) (Aftermarket)">
+	<game name="Cross Chase (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Cross Chase (World) (Aftermarket)</description>
-		<release name="Cross Chase (World) (Aftermarket)" region="World"/>
-		<rom name="Cross Chase (World) (Aftermarket).sv" size="32768" crc="346a7bba" md5="c077ce97c8d134230a68006ccc788b60" sha1="6564e4644e66005d8fb9fe23018b514503e0c869"/>
+		<description>Cross Chase (World) (Aftermarket) (Unl)</description>
+		<release name="Cross Chase (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Cross Chase (World) (Aftermarket) (Unl).sv" size="32768" crc="346a7bba" md5="c077ce97c8d134230a68006ccc788b60" sha1="6564e4644e66005d8fb9fe23018b514503e0c869"/>
 		<url>https://retroachievements.org/game/23771/hashes</url>
 		<hash>c077ce97c8d134230a68006ccc788b60</hash>
 	</game>
 	
-	<game name="Cross Horde (World) (Aftermarket)">
+	<game name="Cross Horde (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Cross Horde (World) (Aftermarket)</description>
-		<release name="Cross Horde (World) (Aftermarket)" region="World"/>
-		<rom name="Cross Horde (World) (Aftermarket).sv" size="32768" crc="7885ce58" md5="4048c11b1be067483fa948724fbb9869" sha1="a09c3c83ea7e8f610611be852a4f51262d94e280"/>
+		<description>Cross Horde (World) (Aftermarket) (Unl)</description>
+		<release name="Cross Horde (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Cross Horde (World) (Aftermarket) (Unl).sv" size="32768" crc="7885ce58" md5="4048c11b1be067483fa948724fbb9869" sha1="a09c3c83ea7e8f610611be852a4f51262d94e280"/>
 		<url>https://retroachievements.org/game/23770/hashes</url>
 		<hash>4048c11b1be067483fa948724fbb9869</hash>
 	</game>
 	
-	<game name="Cross Shoot (World) (Aftermarket)">
+	<game name="Cross Shoot (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Cross Shoot (World) (Aftermarket)</description>
-		<release name="Cross Shoot (World) (Aftermarket)" region="World"/>
-		<rom name="Cross Shoot (World) (Aftermarket).sv" size="32768" crc="017f75af" md5="19b3812f3a3ffbf3eff501521078c5a2" sha1="8b734d620eb8d28f4ab932fe686fc884b9299910"/>
+		<description>Cross Shoot (World) (Aftermarket) (Unl)</description>
+		<release name="Cross Shoot (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Cross Shoot (World) (Aftermarket) (Unl).sv" size="32768" crc="017f75af" md5="19b3812f3a3ffbf3eff501521078c5a2" sha1="8b734d620eb8d28f4ab932fe686fc884b9299910"/>
 		<url>https://retroachievements.org/game/23772/hashes</url>
 		<hash>19b3812f3a3ffbf3eff501521078c5a2</hash>
 	</game>
 	
-	<game name="Cross Shuriken (World) (Aftermarket)">
+	<game name="Cross Shuriken (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Cross Shuriken (World) (Aftermarket)</description>
-		<release name="Cross Shuriken (World) (Aftermarket)" region="World"/>
-		<rom name="Cross Shuriken (World) (Aftermarket).sv" size="32768" crc="36a6a62b" md5="6f4938e6ea4b8e62479a0081c4ab3ab5" sha1="c244b0075a81e1175e359f5e7bf56d8f26269a1b"/>
+		<description>Cross Shuriken (World) (Aftermarket) (Unl)</description>
+		<release name="Cross Shuriken (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Cross Shuriken (World) (Aftermarket) (Unl).sv" size="32768" crc="36a6a62b" md5="6f4938e6ea4b8e62479a0081c4ab3ab5" sha1="c244b0075a81e1175e359f5e7bf56d8f26269a1b"/>
 		<url>https://retroachievements.org/game/29755/hashes</url>
 		<hash>6f4938e6ea4b8e62479a0081c4ab3ab5</hash>
 	</game>
 	
-	<game name="Cross Snake (World) (Aftermarket)">
+	<game name="Cross Snake (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Cross Snake (World) (Aftermarket)</description>
-		<release name="Cross Snake (World) (Aftermarket)" region="World"/>
-		<rom name="Cross Snake (World) (Aftermarket).sv" size="32768" crc="24b141f7" md5="a7055f5cd9a3101e26ce62dd022c3635" sha1="50d811b555e4471765121a36173f4356d971363a"/>
+		<description>Cross Snake (World) (Aftermarket) (Unl)</description>
+		<release name="Cross Snake (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Cross Snake (World) (Aftermarket) (Unl).sv" size="32768" crc="24b141f7" md5="a7055f5cd9a3101e26ce62dd022c3635" sha1="50d811b555e4471765121a36173f4356d971363a"/>
 		<url>https://retroachievements.org/game/23773/hashes</url>
 		<hash>a7055f5cd9a3101e26ce62dd022c3635</hash>
 	</game>
 	
-	<game name="Cross Stinger (World) (Aftermarket)">
+	<game name="Cross Stinger (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Cross Stinger (World) (Aftermarket)</description>
-		<release name="Cross Stinger (World) (Aftermarket)" region="World"/>
-		<rom name="Cross Stinger (World) (Aftermarket).sv" size="32768" crc="b79492ae" md5="6cfe4c52ddc5afca426889a210eb1e99" sha1="93dffde8ccd6c13e7cbb8a1c5ea830b07980ab52"/>
+		<description>Cross Stinger (World) (Aftermarket) (Unl)</description>
+		<release name="Cross Stinger (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Cross Stinger (World) (Aftermarket) (Unl).sv" size="32768" crc="b79492ae" md5="6cfe4c52ddc5afca426889a210eb1e99" sha1="93dffde8ccd6c13e7cbb8a1c5ea830b07980ab52"/>
 		<url>https://retroachievements.org/game/29756/hashes</url>
 		<hash>6cfe4c52ddc5afca426889a210eb1e99</hash>
 	</game>
 	
-	<game name="Cross Verbix (World) (Aftermarket)">
+	<game name="Cross Verbix (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Cross Verbix (World) (Aftermarket)</description>
-		<release name="Cross Verbix (World) (Aftermarket)" region="World"/>
-		<rom name="Cross Verbix (World) (Aftermarket).sv" size="32768" crc="2606a717" md5="a989076fdf62db8e63b5604d579a1e72" sha1="0aa4e96ea1c6c76a7f6639adbc4d1ef7e5e1303f"/>
+		<description>Cross Verbix (World) (Aftermarket) (Unl)</description>
+		<release name="Cross Verbix (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Cross Verbix (World) (Aftermarket) (Unl).sv" size="32768" crc="2606a717" md5="a989076fdf62db8e63b5604d579a1e72" sha1="0aa4e96ea1c6c76a7f6639adbc4d1ef7e5e1303f"/>
 		<url>https://retroachievements.org/game/23774/hashes</url>
 		<hash>a989076fdf62db8e63b5604d579a1e72</hash>
 	</game>
 	
-	<game name="Mazy Mini (World) (v20240311) (Inufuto) (Aftermarket)">
+	<game name="Mazy Mini (World) (v20240311) (Aftermarket) (Inufuto)">
 		<category>Homebrew</category>
-		<description>Mazy Mini (World) (v20240311) (Inufuto) (Aftermarket)</description>
-		<release name="Mazy Mini (World) (v20240311) (Inufuto) (Aftermarket)" region="World"/>
-		<rom name="Mazy Mini (World) (v20240311) (Inufuto) (Aftermarket).sv" size="16384" crc="0d236cba" md5="646dfa79b64831f3b32b8b7b4b209ac4" sha1="3806f6b6ac4307e9362632f74c7d7280d40028bf"/>
+		<description>Mazy Mini (World) (v20240311) (Aftermarket) (Inufuto)</description>
+		<release name="Mazy Mini (World) (v20240311) (Aftermarket) (Inufuto)" region="World"/>
+		<rom name="Mazy Mini (World) (v20240311) (Aftermarket) (Inufuto).sv" size="16384" crc="0d236cba" md5="646dfa79b64831f3b32b8b7b4b209ac4" sha1="3806f6b6ac4307e9362632f74c7d7280d40028bf"/>
 		<url>https://retroachievements.org/game/31767/hashes</url>
 		<hash>646dfa79b64831f3b32b8b7b4b209ac4</hash>
 	</game>
@@ -602,6 +602,13 @@
 		<hash>504d378933cb037f9d047279306ed520</hash>
 	</game>
 	
+	<game name="Police Bust (USA, Europe)" cloneof="Police Bust (USA, Europe) (Level 11 Fix) (PixieGlow)">
+		<category>Retail</category>
+		<description>Police Bust (USA, Europe)</description>
+		<rom name="Police Bust (USA, Europe).sv" size="65536" crc="531f0b51" md5="427488cb0f3251a46e923f9e8608ff80" sha1="9fa06b4d171d9ade2f9e4a639e80feba15c963f9"/>
+		<url>https://retroachievements.org/game/17621/hashes</url>
+		<hash>427488cb0f3251a46e923f9e8608ff80</hash>
+	</game>
 	<game name="Police Bust (USA, Europe) (Level 11 Fix) (PixieGlow)">
 		<category>Retail</category>
 		<description>Police Bust (USA, Europe) (Level 11 Fix) (PixieGlow)</description>
@@ -610,13 +617,6 @@
 		<rom name="Police Bust (USA, Europe) (Level 11 Fix) (PixieGlow).sv" size="65536" crc="a37ae594" md5="3abc347ec03fe567dacfb851bec308f8" sha1="da89b0143886d5c78429eec47138336a2750b7fe"/>
 		<url>https://retroachievements.org/game/17621/hashes</url>
 		<hash>3abc347ec03fe567dacfb851bec308f8</hash>
-	</game>
-	<game name="Police Bust (USA, Europe)" cloneof="Police Bust (USA, Europe) (Level 11 Fix) (PixieGlow)">
-		<category>Retail</category>
-		<description>Police Bust (USA, Europe)</description>
-		<rom name="Police Bust (USA, Europe).sv" size="65536" crc="531f0b51" md5="427488cb0f3251a46e923f9e8608ff80" sha1="9fa06b4d171d9ade2f9e4a639e80feba15c963f9"/>
-		<url>https://retroachievements.org/game/17621/hashes</url>
-		<hash>427488cb0f3251a46e923f9e8608ff80</hash>
 	</game>
 	
 	<game name="Popo Team (USA, Europe)">
@@ -649,21 +649,21 @@
 		<hash>0a07c444324d0b41546e2363679360da</hash>
 	</game>
 	
-	<game name="Scaffolder (USA, Europe) (Level Fix by Hotscrock)">
-		<category>Retail</category>
-		<description>Scaffolder (USA, Europe) (Level Fix by Hotscrock)</description>
-		<release name="Scaffolder (USA, Europe) (Level Fix by Hotscrock)" region="Europe"/>
-		<release name="Scaffolder (USA, Europe) (Level Fix by Hotscrock)" region="USA"/>
-		<rom name="Scaffolder (USA, Europe) (Level Fix by Hotscrock).sv" size="65536" crc="4d5f6666" md5="7816deddb48c44df99c6bb3535c1dc88" sha1="88bddc446c3e761750b1ec9736cf47d7e1830f8c"/>
-		<url>https://retroachievements.org/game/17599/hashes</url>
-		<hash>7816deddb48c44df99c6bb3535c1dc88</hash>
-	</game>
-	<game name="Scaffolder (USA, Europe)" cloneof="Scaffolder (USA, Europe) (Level Fix by Hotscrock)">
+	<game name="Scaffolder (USA, Europe)" cloneof="Scaffolder (USA, Europe) (Level Fix) (Hotscrock)">
 		<category>Retail</category>
 		<description>Scaffolder (USA, Europe)</description>
 		<rom name="Scaffolder (USA, Europe).sv" size="65536" crc="46fb22c5" md5="c07638809b49f2c922c4d4d7519e6f9c" sha1="4fd487ce62c8b7a6f3d4000fcd72f2a269d32fc2"/>
 		<url>https://retroachievements.org/game/17599/hashes</url>
 		<hash>c07638809b49f2c922c4d4d7519e6f9c</hash>
+	</game>
+	<game name="Scaffolder (USA, Europe) (Level Fix) (Hotscrock)">
+		<category>Retail</category>
+		<description>Scaffolder (USA, Europe) (Level Fix) (Hotscrock)</description>
+		<release name="Scaffolder (USA, Europe) (Level Fix) (Hotscrock)" region="Europe"/>
+		<release name="Scaffolder (USA, Europe) (Level Fix) (Hotscrock)" region="USA"/>
+		<rom name="Scaffolder (USA, Europe) (Level Fix) (Hotscrock).sv" size="65536" crc="4d5f6666" md5="7816deddb48c44df99c6bb3535c1dc88" sha1="88bddc446c3e761750b1ec9736cf47d7e1830f8c"/>
+		<url>https://retroachievements.org/game/17599/hashes</url>
+		<hash>7816deddb48c44df99c6bb3535c1dc88</hash>
 	</game>
 	
 	<game name="Soccer Champion (USA, Europe)">

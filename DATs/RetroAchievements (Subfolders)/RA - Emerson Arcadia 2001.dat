@@ -5,26 +5,26 @@
 		<name>RA - Emerson Arcadia 2001</name>
 		<description>Emerson Arcadia 2001</description>
 		<category>Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260428</version>
+		<date>28 April 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/73/games</url>
-		<titlecount>29</titlecount>
-		<hashcount>31</hashcount>
+		<titlecount>32</titlecount>
+		<hashcount>34</hashcount>
 	</header>
-	<game name="Homebrew/JTron (World) (2003) (Amigan Software) (Aftermarket)">
+	<game name="Homebrew/JTron (World) (2003) (Amigan Software)">
 		<category></category>
-		<description>JTron (World) (2003) (Amigan Software) (Aftermarket)</description>
-		<rom name="JTron (World) (2003) (Amigan Software) (Aftermarket).bin" size="2048" crc="a768c764" md5="906040af349e793bae5b062f3074e71e" sha1="9f6ace424cfbba87eaf06c165fa561099f8d8634"/>
+		<description>JTron (World) (2003) (Amigan Software)</description>
+		<rom name="JTron (World) (2003) (Amigan Software).bin" size="2048" crc="a768c764" md5="906040af349e793bae5b062f3074e71e" sha1="9f6ace424cfbba87eaf06c165fa561099f8d8634"/>
 		<url>https://retroachievements.org/game/24924/hashes</url>
 		<hash>906040af349e793bae5b062f3074e71e</hash>
 	</game>
 	
-	<game name="Homebrew/Tetris (Austria) (2003) (Peter Trauner) (Aftermarket)">
+	<game name="Homebrew/Tetris (Austria) (2003) (Peter Trauner)">
 		<category></category>
-		<description>Tetris (Austria) (2003) (Peter Trauner) (Aftermarket)</description>
-		<rom name="Tetris (Austria) (2003) (Peter Trauner) (Aftermarket).bin" size="4096" crc="296c8465" md5="69cf3728f7db96c311bc8b3b8917baff" sha1="ee910ce4753986989ac44fc9ead97920f14d1571"/>
+		<description>Tetris (Austria) (2003) (Peter Trauner)</description>
+		<rom name="Tetris (Austria) (2003) (Peter Trauner).bin" size="4096" crc="296c8465" md5="69cf3728f7db96c311bc8b3b8917baff" sha1="ee910ce4753986989ac44fc9ead97920f14d1571"/>
 		<url>https://retroachievements.org/game/24691/hashes</url>
 		<hash>69cf3728f7db96c311bc8b3b8917baff</hash>
 	</game>
@@ -93,6 +93,14 @@
 		<hash>2938509d9c2a2316b460b2a617581771</hash>
 	</game>
 	
+	<game name="Retail/Dr. Slump (Japan) (1983) (Bandai)">
+		<category></category>
+		<description>Dr. Slump (Japan) (1983) (Bandai)</description>
+		<rom name="Dr. Slump (Japan) (1983) (Bandai).bin" size="8192" crc="927c375a" md5="2a636fc1b2c414f87c078c06f279d618" sha1="389259f1505deef5c0fb83f9cf8b0f7fa4ed5d04"/>
+		<url>https://retroachievements.org/game/24687/hashes</url>
+		<hash>2a636fc1b2c414f87c078c06f279d618</hash>
+	</game>
+	
 	<game name="Retail/Escape (USA, Europe)">
 		<category></category>
 		<description>Escape (USA, Europe)</description>
@@ -117,10 +125,10 @@
 		<hash>9640b53728b797b11f90c912a8ccadaf</hash>
 	</game>
 	
-	<game name="Retail/Jump Bug/Jump Bug (1982) (UA) (DE)">
+	<game name="Retail/Jump Bug/Jump Bug (1982)(UA)(DE)">
 		<category></category>
-		<description>Jump Bug (1982) (UA) (DE)</description>
-		<rom name="Jump Bug (1982) (UA) (DE).bin" size="8192" crc="dc0264b8" md5="6f2cfbf3c07d1b096f096fc8a763e500" sha1="bf3ccf7a54409f22ca4295b1df1c01bfbbe9f0a2"/>
+		<description>Jump Bug (1982)(UA)(DE)</description>
+		<rom name="Jump Bug (1982)(UA)(DE).bin" size="8192" crc="dc0264b8" md5="6f2cfbf3c07d1b096f096fc8a763e500" sha1="bf3ccf7a54409f22ca4295b1df1c01bfbbe9f0a2"/>
 		<url>https://retroachievements.org/game/21597/hashes</url>
 		<hash>6f2cfbf3c07d1b096f096fc8a763e500</hash>
 	</game>
@@ -148,10 +156,10 @@
 		<hash>4a9404e44df9a747549f7af0b18df632</hash>
 	</game>
 	
-	<game name="Retail/Mobile Soldier Gundam (Japan) (1983) (Bandai)">
+	<game name="Retail/Mobile Soldier Gundam (1983)(Bandai)(JP)">
 		<category></category>
-		<description>Mobile Soldier Gundam (Japan) (1983) (Bandai)</description>
-		<rom name="Mobile Soldier Gundam (Japan) (1983) (Bandai).bin" size="8192" crc="1241f128" md5="eca02a18e0ff4222283ab16947fe6911" sha1="4b07a88b06008ddfc3676983e826e107caf3ba0f"/>
+		<description>Mobile Soldier Gundam (1983)(Bandai)(JP)</description>
+		<rom name="Mobile Soldier Gundam (1983)(Bandai)(JP).bin" size="8192" crc="1241f128" md5="eca02a18e0ff4222283ab16947fe6911" sha1="4b07a88b06008ddfc3676983e826e107caf3ba0f"/>
 		<url>https://retroachievements.org/game/24688/hashes</url>
 		<hash>eca02a18e0ff4222283ab16947fe6911</hash>
 	</game>
@@ -211,6 +219,14 @@
 		<hash>376d97f9f74ab1c64fc888385506027b</hash>
 	</game>
 	
+	<game name="Retail/Space Attack (USA, Europe)">
+		<category></category>
+		<description>Space Attack (USA, Europe)</description>
+		<rom name="Space Attack (USA, Europe).bin" size="4096" crc="e3794a2c" md5="dbd76221e35fa6c8133a03f57dfe79d2" sha1="25a27466dc3ffb6013cd4f632947834002c80105"/>
+		<url>https://retroachievements.org/game/21610/hashes</url>
+		<hash>dbd76221e35fa6c8133a03f57dfe79d2</hash>
+	</game>
+	
 	<game name="Retail/Space Mission (USA, Europe)">
 		<category></category>
 		<description>Space Mission (USA, Europe)</description>
@@ -235,18 +251,18 @@
 		<hash>463fcdc2f5667e23700e6c8f75495fa9</hash>
 	</game>
 	
-	<game name="Retail/Super Bug (Europe)">
+	<game name="Retail/Super Bug (1983)(UA)(EU)">
 		<category></category>
-		<description>Super Bug (Europe)</description>
-		<rom name="Super Bug (Europe).bin" size="4096" crc="fef2aae9" md5="40c65c30b00b8458d3567389d777a47a" sha1="1e7f7b81ecd2f766c94bd5ff17763374fb0318f1"/>
+		<description>Super Bug (1983)(UA)(EU)</description>
+		<rom name="Super Bug (1983)(UA)(EU).bin" size="4096" crc="fef2aae9" md5="40c65c30b00b8458d3567389d777a47a" sha1="1e7f7b81ecd2f766c94bd5ff17763374fb0318f1"/>
 		<url>https://retroachievements.org/game/24923/hashes</url>
 		<hash>40c65c30b00b8458d3567389d777a47a</hash>
 	</game>
 	
-	<game name="Retail/Super Dimension Fortress Macross (Japan) (1983) (Bandai)">
+	<game name="Retail/Super Dimension Fortress Macross (1983)(Bandai)(JP)">
 		<category></category>
-		<description>Super Dimension Fortress Macross (Japan) (1983) (Bandai)</description>
-		<rom name="Super Dimension Fortress Macross (Japan) (1983) (Bandai).bin" size="8192" crc="4c885af2" md5="60ee33a137802d27b5b0567ff4de52ae" sha1="3d24ab9e42ff44a223bb53c5491dea7f41691df2"/>
+		<description>Super Dimension Fortress Macross (1983)(Bandai)(JP)</description>
+		<rom name="Super Dimension Fortress Macross (1983)(Bandai)(JP).bin" size="8192" crc="4c885af2" md5="60ee33a137802d27b5b0567ff4de52ae" sha1="3d24ab9e42ff44a223bb53c5491dea7f41691df2"/>
 		<url>https://retroachievements.org/game/24689/hashes</url>
 		<hash>60ee33a137802d27b5b0567ff4de52ae</hash>
 	</game>
@@ -259,10 +275,10 @@
 		<hash>3bc3df43b6d82f10cf9651372a784f9b</hash>
 	</game>
 	
-	<game name="Retail/End, The (Europe)">
+	<game name="Retail/The End (Europe)">
 		<category></category>
-		<description>End, The (Europe)</description>
-		<rom name="End, The (Europe).bin" size="4096" crc="e66f362d" md5="f0a5e571220685d852e64bb217c8eae8" sha1="1148aa1525d7b46640babb50b004c79abec45d3a"/>
+		<description>The End (Europe)</description>
+		<rom name="The End (Europe).bin" size="4096" crc="e66f362d" md5="f0a5e571220685d852e64bb217c8eae8" sha1="1148aa1525d7b46640babb50b004c79abec45d3a"/>
 		<url>https://retroachievements.org/game/21590/hashes</url>
 		<hash>f0a5e571220685d852e64bb217c8eae8</hash>
 	</game>

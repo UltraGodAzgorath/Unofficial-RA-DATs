@@ -5,8 +5,8 @@
 		<name>RA - Atari Jaguar CD</name>
 		<description>Atari Jaguar CD</description>
 		<category>No Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260417</version>
+		<date>17 April 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/77/games</url>
@@ -15,72 +15,72 @@
 		<clrmamepro forcepacking="unzip"/>
 		<romvault forcepacking="unzip"/>
 	</header>
-	<game name="Home Run Derby (World) (v2.0) (MGNS8M) (Demo) (Aftermarket)">
+	<game name="Home Run Derby (World) (v2.0) (Aftermarket) (Unl) (MGNS8M)">
 		<category>Homebrew</category>
-		<description>Home Run Derby (World) (v2.0) (MGNS8M) (Demo) (Aftermarket)</description>
-		<release name="Home Run Derby (World) (v2.0) (MGNS8M) (Demo) (Aftermarket)" region="World"/>
-		<rom name="Home Run Derby (World) (v2.0) (MGNS8M) (Demo) (Aftermarket).cdi" size="16334440" crc="37dcea03" md5="82aede01ec23dd9f4a8c9131c439a6c8" sha1="5934c163cde32b46f531413b26c009a4c8dc9e2f"/>
+		<description>Home Run Derby (World) (v2.0) (Aftermarket) (Unl) (MGNS8M)</description>
+		<release name="Home Run Derby (World) (v2.0) (Aftermarket) (Unl) (MGNS8M)" region="World"/>
+		<rom name="Home Run Derby (World) (v2.0) (Aftermarket) (Unl) (MGNS8M).cdi" size="16334440" crc="37dcea03" md5="82aede01ec23dd9f4a8c9131c439a6c8" sha1="5934c163cde32b46f531413b26c009a4c8dc9e2f"/>
 		<url>https://retroachievements.org/game/26665/hashes</url>
 		<hash>bc696313d459a3829c209c81a04e5f6a</hash>
 	</game>
-	<game name="Home Run Derby (World) (v1.0) (MGNS8M) (Demo) (Aftermarket)" cloneof="Home Run Derby (World) (v2.0) (MGNS8M) (Demo) (Aftermarket)">
+	<game name="Home Run Derby (World) (v1.0) (Aftermarket) (Unl) (MGNS8M)" cloneof="Home Run Derby (World) (v2.0) (Aftermarket) (Unl) (MGNS8M)">
 		<category>Homebrew</category>
-		<description>Home Run Derby (World) (v1.0) (MGNS8M) (Demo) (Aftermarket)</description>
-		<rom name="Home Run Derby (World) (v1.0) (MGNS8M) (Demo) (Aftermarket).cdi" size="16334440" crc="5df9cee0" md5="8a202ef9ce960d36232ca00bd8dd0e5e" sha1="50ce7774a4df542b251f850a50f9611e867cf518"/>
+		<description>Home Run Derby (World) (v1.0) (Aftermarket) (Unl) (MGNS8M)</description>
+		<rom name="Home Run Derby (World) (v1.0) (Aftermarket) (Unl) (MGNS8M).cdi" size="16334440" crc="5df9cee0" md5="8a202ef9ce960d36232ca00bd8dd0e5e" sha1="50ce7774a4df542b251f850a50f9611e867cf518"/>
 		<url>https://retroachievements.org/game/26665/hashes</url>
 		<hash>89c1de1195d7f25bda63875201445f25</hash>
 	</game>
 	
-	<game name="Alice's Mom's Rescue (World) (OrionSoft) (Aftermarket)">
+	<game name="Alice's Mom's Rescue (World) (Aftermarket) (Unl) (OrionSoft)">
 		<category>Homebrew</category>
-		<description>Alice's Mom's Rescue (World) (OrionSoft) (Aftermarket)</description>
-		<release name="Alice's Mom's Rescue (World) (OrionSoft) (Aftermarket)" region="World"/>
-		<rom name="Alice's Mom's Rescue (World) (OrionSoft) (Aftermarket).cdi" size="40635552" crc="6129069f" md5="a1c193c1cfd73378835851bf88f0d79a" sha1="5b72dff04d71a85776e50c3b5c4829f7c9835bed"/>
+		<description>Alice's Mom's Rescue (World) (Aftermarket) (Unl) (OrionSoft)</description>
+		<release name="Alice's Mom's Rescue (World) (Aftermarket) (Unl) (OrionSoft)" region="World"/>
+		<rom name="Alice's Mom's Rescue (World) (Aftermarket) (Unl) (OrionSoft).cdi" size="40635552" crc="6129069f" md5="a1c193c1cfd73378835851bf88f0d79a" sha1="5b72dff04d71a85776e50c3b5c4829f7c9835bed"/>
 		<url>https://retroachievements.org/game/22942/hashes</url>
 		<hash>7a3837f8d61c7e60d09e7e3864195c0b</hash>
 	</game>
 	
-	<game name="Downfall (World) (Reboot) (Aftermarket)">
+	<game name="Downfall (World) (Aftermarket) (Unl) (Reboot)">
 		<category>Homebrew</category>
-		<description>Downfall (World) (Reboot) (Aftermarket)</description>
-		<release name="Downfall (World) (Reboot) (Aftermarket)" region="World"/>
-		<rom name="Downfall (World) (Reboot) (Aftermarket).cdi" size="16334440" crc="8bed0f08" md5="51a69397824d347e67ec8f0efc69f6f5" sha1="bb3f3205853263b9929a28ef19844f9462953acd"/>
+		<description>Downfall (World) (Aftermarket) (Unl) (Reboot)</description>
+		<release name="Downfall (World) (Aftermarket) (Unl) (Reboot)" region="World"/>
+		<rom name="Downfall (World) (Aftermarket) (Unl) (Reboot).cdi" size="16334440" crc="8bed0f08" md5="51a69397824d347e67ec8f0efc69f6f5" sha1="bb3f3205853263b9929a28ef19844f9462953acd"/>
 		<url>https://retroachievements.org/game/24459/hashes</url>
 		<hash>ef4b4b04e5857bb172e5dc804f075ea1</hash>
 	</game>
 	
-	<game name="Elansar (World) (OrionSoft) (Aftermarket)">
+	<game name="Elansar (World) (Aftermarket) (Unl) (OrionSoft)">
 		<category>Homebrew</category>
-		<description>Elansar (World) (OrionSoft) (Aftermarket)</description>
-		<release name="Elansar (World) (OrionSoft) (Aftermarket)" region="World"/>
-		<rom name="Elansar (World) (OrionSoft) (Aftermarket).cdi" size="52705749" crc="7f5723e2" md5="efccb8ad7c1c395e4aecd9e653348173" sha1="47591e96a7ca152d2f851050ebfa0d2e1a81c269"/>
+		<description>Elansar (World) (Aftermarket) (Unl) (OrionSoft)</description>
+		<release name="Elansar (World) (Aftermarket) (Unl) (OrionSoft)" region="World"/>
+		<rom name="Elansar (World) (Aftermarket) (Unl) (OrionSoft).cdi" size="52705749" crc="7f5723e2" md5="efccb8ad7c1c395e4aecd9e653348173" sha1="47591e96a7ca152d2f851050ebfa0d2e1a81c269"/>
 		<url>https://retroachievements.org/game/24515/hashes</url>
 		<hash>87a5b4eecd0b5ebd56a44d924fa54077</hash>
 	</game>
 
-	<game name="Full Circle - Rocketeer (World) (Promo) (Reboot) (Aftermarket)">
+	<game name="Full Circle - Rocketeer (World) (Promo) (Aftermarket) (Unl) (Reboot)">
 		<category>Homebrew</category>
-		<description>Full Circle - Rocketeer (World) (Promo) (Reboot) (Aftermarket)</description>
-		<release name="Full Circle - Rocketeer (World) (Promo) (Reboot) (Aftermarket)" region="World"/>
-		<rom name="Full Circle - Rocketeer (World) (Promo) (Reboot) (Aftermarket).cdi" size="16334440" crc="67b0c629" md5="651f6076fe47024f1e64944ab27b8ff7" sha1="75f0fe79d6662e96fc2b56983f7cbea40e07d2d7"/>
+		<description>Full Circle - Rocketeer (World) (Promo) (Aftermarket) (Unl) (Reboot)</description>
+		<release name="Full Circle - Rocketeer (World) (Promo) (Aftermarket) (Unl) (Reboot)" region="World"/>
+		<rom name="Full Circle - Rocketeer (World) (Promo) (Aftermarket) (Unl) (Reboot).cdi" size="16334440" crc="67b0c629" md5="651f6076fe47024f1e64944ab27b8ff7" sha1="75f0fe79d6662e96fc2b56983f7cbea40e07d2d7"/>
 		<url>https://retroachievements.org/game/24462/hashes</url>
 		<hash>97f5012d44f6332ad2e3c020715787b7</hash>
 	</game>
 
-	<game name="Jagmatch (World) (Sebastian Mihai) (Aftermarket)">
+	<game name="Jagmatch (World) (Aftermarket) (Unl) (Sebastian Mihai)">
 		<category>Homebrew</category>
-		<description>Jagmatch (World) (Sebastian Mihai) (Aftermarket)</description>
-		<release name="Jagmatch (World) (Sebastian Mihai) (Aftermarket)" region="World"/>
-		<rom name="Jagmatch (World) (Sebastian Mihai) (Aftermarket).cdi" size="16334440" crc="ee114035" md5="7f7eb633f7415703b83620af49449bed" sha1="8254706690c7bf411973f3894e0430aff0dde2a5"/>
+		<description>Jagmatch (World) (Aftermarket) (Unl) (Sebastian Mihai)</description>
+		<release name="Jagmatch (World) (Aftermarket) (Unl) (Sebastian Mihai)" region="World"/>
+		<rom name="Jagmatch (World) (Aftermarket) (Unl) (Sebastian Mihai).cdi" size="16334440" crc="ee114035" md5="7f7eb633f7415703b83620af49449bed" sha1="8254706690c7bf411973f3894e0430aff0dde2a5"/>
 		<url>https://retroachievements.org/game/24304/hashes</url>
 		<hash>b406a7402a14c406e26aa21f4e4b8817</hash>
 	</game>
 	
-	<game name="Kobayashi Maru (World) (Promo-Final) (Reboot) (Aftermarket)">
+	<game name="Kobayashi Maru (World) (Promo-Final) (Aftermarket) (Unl) (Reboot)">
 		<category>Homebrew</category>
-		<description>Kobayashi Maru (World) (Promo-Final) (Reboot) (Aftermarket)</description>
-		<release name="Kobayashi Maru (World) (Promo-Final) (Reboot) (Aftermarket)" region="World"/>
-		<rom name="Kobayashi Maru (World) (Promo-Final) (Reboot) (Aftermarket).cdi" size="16334440" crc="efbbe60b" md5="e796fc84fdb4f4b2e5ea94c98a83bd51" sha1="188d60d8ced4440a93bde68990d31853e97a59bb"/>
+		<description>Kobayashi Maru (World) (Promo-Final) (Aftermarket) (Unl) (Reboot)</description>
+		<release name="Kobayashi Maru (World) (Promo-Final) (Aftermarket) (Unl) (Reboot)" region="World"/>
+		<rom name="Kobayashi Maru (World) (Promo-Final) (Aftermarket) (Unl) (Reboot).cdi" size="16334440" crc="efbbe60b" md5="e796fc84fdb4f4b2e5ea94c98a83bd51" sha1="188d60d8ced4440a93bde68990d31853e97a59bb"/>
 		<url>https://retroachievements.org/game/24385/hashes</url>
 		<hash>1afcfa7cc6565e8b774ac2556ce8d8ca</hash>
 	</game>
@@ -99,11 +99,11 @@
 		<hash>D19987D55D2B0AA6D0FF82EF9D859341</hash>
 	</game>
 	
-	<game name="SuperFly DX (World) (v1.1) (Reboot) (Aftermarket)">
+	<game name="SuperFly DX (World) (v1.1) (Aftermarket) (Unl) (Reboot)">
 		<category>Homebrew</category>
-		<description>SuperFly DX (World) (v1.1) (Reboot) (Aftermarket)</description>
-		<release name="SuperFly DX (World) (v1.1) (Reboot) (Aftermarket)" region="World"/>
-		<rom name="SuperFly DX (World) (v1.1) (Reboot) (Aftermarket).cdi" size="16334440" crc="6abbf100" md5="dd749830a6e7447f23a7f1f3a85803d3" sha1="7cf73aa7420bf8837aae735ec777bb2a0a2d8852"/>
+		<description>SuperFly DX (World) (v1.1) (Aftermarket) (Unl) (Reboot)</description>
+		<release name="SuperFly DX (World) (v1.1) (Aftermarket) (Unl) (Reboot)" region="World"/>
+		<rom name="SuperFly DX (World) (v1.1) (Aftermarket) (Unl) (Reboot).cdi" size="16334440" crc="6abbf100" md5="dd749830a6e7447f23a7f1f3a85803d3" sha1="7cf73aa7420bf8837aae735ec777bb2a0a2d8852"/>
 		<url>https://retroachievements.org/game/24088/hashes</url>
 		<hash>b7a6ddb06827fc8cbaa3fee0369e6fda</hash>
 	</game>

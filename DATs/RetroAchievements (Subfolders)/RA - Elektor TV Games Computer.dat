@@ -5,13 +5,13 @@
 		<name>RA - Elektor TV Games Computer</name>
 		<description>Elektor TV Games Computer</description>
 		<category>Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260428</version>
+		<date>28 April 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/75/games</url>
-		<titlecount>26</titlecount>
-		<hashcount>26</hashcount>
+		<titlecount>29</titlecount>
+		<hashcount>29</hashcount>
 	</header>
 	<game name="Retail/Asteroids (Europe) (ESS-011-5)">
 		<category></category>
@@ -195,6 +195,14 @@
 		<rom name="Rocket Hunting (Europe) (ESS-010-9).tvc" size="5875" crc="76f288a3" md5="ff5f7f6c0bba34a081acb131653ca758" sha1="09ae6cf098e1182d3744f8be2f35cf6f3d385daa"/>
 		<url>https://retroachievements.org/game/24661/hashes</url>
 		<hash>ff5f7f6c0bba34a081acb131653ca758</hash>
+	</game>
+	
+	<game name="Retail/Rocket Shooting (Europe) (ESS-006-3)">
+		<category></category>
+		<description>Rocket Shooting (Europe) (ESS-006-3)</description>
+		<rom name="Rocket Shooting (Europe) (ESS-006-3).tvc" size="1077" crc="f8b41252" md5="472a9af429b440ba09a84ed6bc4630a6" sha1="392dafc12acae84bf2631f924f2519cddc00f556"/>
+		<url>https://retroachievements.org/game/24662/hashes</url>
+		<hash>472a9af429b440ba09a84ed6bc4630a6</hash>
 	</game>
 	
 	<game name="Retail/Snakes and Ladders (Europe) (ESS-011-1)">

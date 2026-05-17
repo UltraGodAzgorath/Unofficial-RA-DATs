@@ -5,74 +5,82 @@
 		<name>RA - Mattel Intellivision</name>
 		<description>Mattel Intellivision</description>
 		<category>No Subfolders</category>
-		<version>20260227</version>
-		<date>27 February 2026</date>
+		<version>20260428</version>
+		<date>28 April 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/45/games</url>
-		<titlecount>36</titlecount>
-		<hashcount>36</hashcount>
+		<titlecount>38</titlecount>
+		<hashcount>38</hashcount>
 	</header>
-	<game name="4-Tris (World) (Aftermarket)">
+	<game name="4-Tris (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>4-Tris (World) (Aftermarket)</description>
-		<rom name="4-Tris (World) (Aftermarket).rom" size="16441" crc="7fd2a11a" md5="bdf1ffe620738e6f54740ded6e175693" sha1="17efae049715528a2a85c9412f5c0ec4824f3557"/>
+		<description>4-Tris (World) (Aftermarket) (Unl)</description>
+		<rom name="4-Tris (World) (Aftermarket) (Unl).rom" size="16441" crc="7fd2a11a" md5="bdf1ffe620738e6f54740ded6e175693" sha1="17efae049715528a2a85c9412f5c0ec4824f3557"/>
 		<url>https://retroachievements.org/game/17712/hashes</url>
 		<hash>bdf1ffe620738e6f54740ded6e175693</hash>
 	</game>
 	
-	<game name="Antarctic Tales - Enhanced Edition (World) (v20210707) (Aftermarket)">
+	<game name="Antarctic Tales (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Antarctic Tales - Enhanced Edition (World) (v20210707) (Aftermarket)</description>
-		<rom name="Antarctic Tales - Enhanced Edition (World) (v20210707) (Aftermarket).rom" size="77396" crc="9ba5a798" md5="27051b100ff89970d8a24291e8b6cb67" sha1="bc8d07fc972770dabf6a77ef73a7be15c0521c3e"/>
+		<description>Antarctic Tales (World) (Aftermarket) (Unl)</description>
+		<rom name="Antarctic Tales (World) (Aftermarket) (Unl).rom" size="77396" crc="9ba5a798" md5="27051b100ff89970d8a24291e8b6cb67" sha1="bc8d07fc972770dabf6a77ef73a7be15c0521c3e"/>
 		<url>https://retroachievements.org/game/24890/hashes</url>
 		<hash>27051b100ff89970d8a24291e8b6cb67</hash>
 	</game>
 	
-	<game name="DK Arcade (World) (Intelligentvision) (Aftermarket)">
+	<game name="DK Arcade (World) (Intelligentvision) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>DK Arcade (World) (Intelligentvision) (Aftermarket)</description>
-		<rom name="DK Arcade (World) (Intelligentvision) (Aftermarket).int" size="49152" crc="ef1bec41" md5="607d0a959d1c64f6feb66433b4171d5f" sha1="fad323a8c88b7155ec4456e8909fe21e3cdbbe07"/>
+		<description>DK Arcade (World) (Intelligentvision) (Aftermarket) (Unl)</description>
+		<rom name="DK Arcade (World) (Intelligentvision) (Aftermarket) (Unl).int" size="49152" crc="ef1bec41" md5="607d0a959d1c64f6feb66433b4171d5f" sha1="fad323a8c88b7155ec4456e8909fe21e3cdbbe07"/>
 		<url>https://retroachievements.org/game/31167/hashes</url>
 		<hash>607d0a959d1c64f6feb66433b4171d5f</hash>
 	</game>
 	
-	<game name="Flapee Bird (World) (Aftermarket)">
+	<game name="Flapee Bird (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Flapee Bird (World) (Aftermarket)</description>
-		<rom name="Flapee Bird (World) (Aftermarket).bin" size="9728" crc="9c7de352" md5="5b065c30735a4b0feee2aac48ebaf633" sha1="f91d4507baf41626d839308659e68de048c767c8"/>
+		<description>Flapee Bird (World) (Aftermarket) (Unl)</description>
+		<rom name="Flapee Bird (World) (Aftermarket) (Unl).bin" size="9728" crc="9c7de352" md5="5b065c30735a4b0feee2aac48ebaf633" sha1="f91d4507baf41626d839308659e68de048c767c8"/>
 		<url>https://retroachievements.org/game/20037/hashes</url>
 		<hash>5b065c30735a4b0feee2aac48ebaf633</hash>
 	</game>
 	
-	<game name="Princess Quest (World) (Aftermarket)">
+	<game name="Intellivania (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Princess Quest (World) (Aftermarket)</description>
-		<rom name="Princess Quest (World) (Aftermarket).rom" size="76357" crc="38e9ef48" md5="ed8e8a3c94b8f3b59579047a297cac32" sha1="a9841432efa5aeea64ca44155a034efaded2201e"/>
+		<description>Intellivania (World) (Aftermarket) (Unl)</description>
+		<rom name="Intellivania (World) (Aftermarket) (Unl).int" size="88656" crc="b7a33e8e" md5="7431758763b233ab4b14155c4cf0f001" sha1="6490f5cfba9bd69c05ad89a0d1a7a9d71bc0e43a"/>
+		<url>https://retroachievements.org/game/33028/hashes</url>
+		<hash>7431758763b233ab4b14155c4cf0f001</hash>
+	</game>
+	
+	<game name="Princess Quest (World) (Aftermarket) (Unl)">
+		<category>Homebrew</category>
+		<description>Princess Quest (World) (Aftermarket) (Unl)</description>
+		<rom name="Princess Quest (World) (Aftermarket) (Unl).rom" size="76357" crc="38e9ef48" md5="ed8e8a3c94b8f3b59579047a297cac32" sha1="a9841432efa5aeea64ca44155a034efaded2201e"/>
 		<url>https://retroachievements.org/game/22456/hashes</url>
 		<hash>ed8e8a3c94b8f3b59579047a297cac32</hash>
 	</game>
 	
-	<game name="Pumpkin Attack (World) (Aftermarket)">
+	<game name="Pumpkin Attack (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Pumpkin Attack (World) (Aftermarket)</description>
-		<rom name="Pumpkin Attack (World) (Aftermarket).rom" size="26685" crc="26e0bcaa" md5="b593690baa3643df336e2385e9c24dfe" sha1="4288013866edc5e398fc58ba2c686fe2ac781fb4"/>
+		<description>Pumpkin Attack (World) (Aftermarket) (Unl)</description>
+		<rom name="Pumpkin Attack (World) (Aftermarket) (Unl).rom" size="26685" crc="26e0bcaa" md5="b593690baa3643df336e2385e9c24dfe" sha1="4288013866edc5e398fc58ba2c686fe2ac781fb4"/>
 		<url>https://retroachievements.org/game/29151/hashes</url>
 		<hash>b593690baa3643df336e2385e9c24dfe</hash>
 	</game>
 	
-	<game name="Tag-Along Todd (World) (v3.13) (Aftermarket)">
+	<game name="Tag-Along Todd (World) (v3.13) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Tag-Along Todd (World) (v3.13) (Aftermarket)</description>
-		<rom name="Tag-Along Todd (World) (v3.13) (Aftermarket).bin" size="10752" crc="1ecdd51b" md5="57e82ac5ef6c1bff0b810874c4b2c30c" sha1="9e1666a68d50bb4a1f618cc2f9bcd7dfbadc8188"/>
+		<description>Tag-Along Todd (World) (v3.13) (Aftermarket) (Unl)</description>
+		<rom name="Tag-Along Todd (World) (v3.13) (Aftermarket) (Unl).bin" size="10752" crc="1ecdd51b" md5="57e82ac5ef6c1bff0b810874c4b2c30c" sha1="9e1666a68d50bb4a1f618cc2f9bcd7dfbadc8188"/>
 		<url>https://retroachievements.org/game/20050/hashes</url>
 		<hash>57e82ac5ef6c1bff0b810874c4b2c30c</hash>
 	</game>
 	
-	<game name="Ultimate Pong (World) (v9.0) (Aftermarket)">
+	<game name="Ultimate Pong (World) (v9.0) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Ultimate Pong (World) (v9.0) (Aftermarket)</description>
-		<rom name="Ultimate Pong (World) (v9.0) (Aftermarket).bin" size="57925" crc="30575596" md5="03a20a7287601bdae309693ca4f6f0b9" sha1="9469d231a910777b8f46276fa497dc75d7a6a88f"/>
+		<description>Ultimate Pong (World) (v9.0) (Aftermarket) (Unl)</description>
+		<rom name="Ultimate Pong (World) (v9.0) (Aftermarket) (Unl).bin" size="57925" crc="30575596" md5="03a20a7287601bdae309693ca4f6f0b9" sha1="9469d231a910777b8f46276fa497dc75d7a6a88f"/>
 		<url>https://retroachievements.org/game/24463/hashes</url>
 		<hash>03a20a7287601bdae309693ca4f6f0b9</hash>
 	</game>

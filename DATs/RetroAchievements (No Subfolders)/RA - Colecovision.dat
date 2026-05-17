@@ -5,114 +5,114 @@
 		<name>RA - Colecovision</name>
 		<description>Colecovision</description>
 		<category>No Subfolders</category>
-		<version>20260227</version>
-		<date>27 February 2026</date>
+		<version>20260424</version>
+		<date>24 April 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/44/games</url>
 		<titlecount>40</titlecount>
 		<hashcount>42</hashcount>
 	</header>
-	<game name="Dragon's Lair (World) (Aftermarket)">
+	<game name="Dragon's Lair (World) (SGM) (Aftermarket) (Team Pixelboy)">
 		<category>Homebrew</category>
-		<description>Dragon's Lair (World) (Aftermarket)</description>
-		<release name="Dragon's Lair (World) (Aftermarket)" region="World"/>
-		<rom name="Dragon's Lair (World) (Aftermarket).col" size="262144" crc="12ceee08" md5="3568ed427a9e33de164b44402103ae64" sha1="e74f80fef5276ee6d58b2ed6ee8ebeec668db324"/>
+		<description>Dragon's Lair (World) (SGM) (Aftermarket) (Team Pixelboy)</description>
+		<release name="Dragon's Lair (World) (SGM) (Aftermarket) (Team Pixelboy)" region="World"/>
+		<rom name="Dragon's Lair (World) (SGM) (Aftermarket) (Team Pixelboy).col" size="262144" crc="12ceee08" md5="3568ed427a9e33de164b44402103ae64" sha1="e74f80fef5276ee6d58b2ed6ee8ebeec668db324"/>
 		<url>https://retroachievements.org/game/33722/hashes</url>
 		<hash>3568ed427a9e33de164b44402103ae64</hash>
 	</game>
 	
-	<game name="Frostbite (World) (Aftermarket)">
+	<game name="Frostbite (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Frostbite (World) (Aftermarket)</description>
-		<release name="Frostbite (World) (Aftermarket)" region="World"/>
-		<rom name="Frostbite (World) (Aftermarket).col" size="32768" crc="b3212318" md5="9c3a581843ce1efe220e7e726cadb9ea" sha1="92ed60d081e192053823b62b90a647279b241dd5"/>
+		<description>Frostbite (World) (Aftermarket) (Unl)</description>
+		<release name="Frostbite (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Frostbite (World) (Aftermarket) (Unl).col" size="32768" crc="b3212318" md5="9c3a581843ce1efe220e7e726cadb9ea" sha1="92ed60d081e192053823b62b90a647279b241dd5"/>
 		<url>https://retroachievements.org/game/25263/hashes</url>
 		<hash>9c3a581843ce1efe220e7e726cadb9ea</hash>
 	</game>
 	
-	<game name="Ice Muncher (World) (v1.0) (Aftermarket)" cloneof="Ice Muncher (World) (v1.1) (Aftermarket)">
+	<game name="Ice Muncher (World) (v1.0) (Aftermarket) (Unl)" cloneof="Ice Muncher (World) (v1.1) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Ice Muncher (World) (v1.0) (Aftermarket)</description>
-		<rom name="Ice Muncher (World) (v1.0) (Aftermarket).col" size="29615" crc="8cf16f2f" md5="d0c499b2af27b4d717de879f47607625" sha1="e15b10be51112035fe69ed84f260b2bbe192d3b7"/>
+		<description>Ice Muncher (World) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Ice Muncher (World) (v1.0) (Aftermarket) (Unl).col" size="29615" crc="8cf16f2f" md5="d0c499b2af27b4d717de879f47607625" sha1="e15b10be51112035fe69ed84f260b2bbe192d3b7"/>
 		<url>https://retroachievements.org/game/25104/hashes</url>
 		<hash>d0c499b2af27b4d717de879f47607625</hash>
 	</game>
-	<game name="Ice Muncher (World) (v1.1) (Aftermarket)">
+	<game name="Ice Muncher (World) (v1.1) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Ice Muncher (World) (v1.1) (Aftermarket)</description>
-		<release name="Ice Muncher (World) (v1.1) (Aftermarket)" region="World"/>
-		<rom name="Ice Muncher (World) (v1.1) (Aftermarket).col" size="29580" crc="9be9516f" md5="47210914b12d9bd06c15d9f5f9e896fe" sha1="e9296cabf5b0054a710e1c54df920131bde36e1b"/>
+		<description>Ice Muncher (World) (v1.1) (Aftermarket) (Unl)</description>
+		<release name="Ice Muncher (World) (v1.1) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Ice Muncher (World) (v1.1) (Aftermarket) (Unl).col" size="29580" crc="9be9516f" md5="47210914b12d9bd06c15d9f5f9e896fe" sha1="e9296cabf5b0054a710e1c54df920131bde36e1b"/>
 		<url>https://retroachievements.org/game/25104/hashes</url>
 		<hash>47210914b12d9bd06c15d9f5f9e896fe</hash>
 	</game>
 	
-	<game name="Minesweeper (World) (Aftermarket)">
+	<game name="Minesweeper (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Minesweeper (World) (Aftermarket)</description>
-		<release name="Minesweeper (World) (Aftermarket)" region="World"/>
-		<rom name="Minesweeper (World) (Aftermarket).col" size="13604" crc="5cd9d34a" md5="53021bab905ed4bc85a00ccc0e2bf595" sha1="f8eb14dd0916042028907477997ab9ee44655208"/>
+		<description>Minesweeper (World) (Aftermarket) (Unl)</description>
+		<release name="Minesweeper (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Minesweeper (World) (Aftermarket) (Unl).col" size="13604" crc="5cd9d34a" md5="53021bab905ed4bc85a00ccc0e2bf595" sha1="f8eb14dd0916042028907477997ab9ee44655208"/>
 		<url>https://retroachievements.org/game/22414/hashes</url>
 		<hash>53021bab905ed4bc85a00ccc0e2bf595</hash>
 	</game>
 	
-	<game name="Multiverse (World) (Aftermarket)">
+	<game name="Multiverse (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Multiverse (World) (Aftermarket)</description>
-		<release name="Multiverse (World) (Aftermarket)" region="World"/>
-		<rom name="Multiverse (World) (Aftermarket).col" size="32768" crc="d45475ac" md5="f8f57b1c5171a771b3987be56ef9f0ff" sha1="86cd2a4011957f417d50c3de8dd52c4c14e8e52a"/>
+		<description>Multiverse (World) (Aftermarket) (Unl)</description>
+		<release name="Multiverse (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Multiverse (World) (Aftermarket) (Unl).col" size="32768" crc="d45475ac" md5="f8f57b1c5171a771b3987be56ef9f0ff" sha1="86cd2a4011957f417d50c3de8dd52c4c14e8e52a"/>
 		<url>https://retroachievements.org/game/29939/hashes</url>
 		<hash>f8f57b1c5171a771b3987be56ef9f0ff</hash>
 	</game>
 	
-	<game name="Pac-Man Collection (World) (Aftermarket)">
+	<game name="Pac-Man Collection (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Pac-Man Collection (World) (Aftermarket)</description>
-		<release name="Pac-Man Collection (World) (Aftermarket)" region="World"/>
-		<rom name="Pac-Man Collection (World) (Aftermarket).col" size="131072" crc="f3ccacb3" md5="9cebe6571aa12803eadcefd9cde6b1b6" sha1="b88ea5f1b052a224068bcc920c6a18760f263c8f"/>
+		<description>Pac-Man Collection (World) (Aftermarket) (Unl)</description>
+		<release name="Pac-Man Collection (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Pac-Man Collection (World) (Aftermarket) (Unl).col" size="131072" crc="f3ccacb3" md5="9cebe6571aa12803eadcefd9cde6b1b6" sha1="b88ea5f1b052a224068bcc920c6a18760f263c8f"/>
 		<url>https://retroachievements.org/game/29868/hashes</url>
 		<hash>9cebe6571aa12803eadcefd9cde6b1b6</hash>
 	</game>
 	
-	<game name="Quest for the Golden Chalice (World) (Aftermarket)">
+	<game name="Quest for the Golden Chalice (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Quest for the Golden Chalice (World) (Aftermarket)</description>
-		<release name="Quest for the Golden Chalice (World) (Aftermarket)" region="World"/>
-		<rom name="Quest for the Golden Chalice (World) (Aftermarket).col" size="32768" crc="6da37da8" md5="eabcb4a9a1eac2c6f8a7d002987d9e55" sha1="21398973ba4ebd563ccfb0f3c1c03c6a447f4eea"/>
+		<description>Quest for the Golden Chalice (World) (Aftermarket) (Unl)</description>
+		<release name="Quest for the Golden Chalice (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Quest for the Golden Chalice (World) (Aftermarket) (Unl).col" size="32768" crc="6da37da8" md5="eabcb4a9a1eac2c6f8a7d002987d9e55" sha1="21398973ba4ebd563ccfb0f3c1c03c6a447f4eea"/>
 		<url>https://retroachievements.org/game/24468/hashes</url>
 		<hash>eabcb4a9a1eac2c6f8a7d002987d9e55</hash>
 	</game>
 	
-	<game name="Sega Flipper (SG-1000 Conversion) (World) (Aftermarket)">
+	<game name="Sega Flipper (SG-1000 Conversion) (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Sega Flipper (SG-1000 Conversion) (World) (Aftermarket)</description>
-		<release name="Sega Flipper (SG-1000 Conversion) (World) (Aftermarket)" region="World"/>
-		<rom name="Sega Flipper (SG-1000 Conversion) (World) (Aftermarket).col" size="16384" crc="e7739f82" md5="e61ca91de0e9591fb16204e8a626923a" sha1="4a6d106f0fe36ed9dbe7823f1c9044e17aeea181"/>
+		<description>Sega Flipper (SG-1000 Conversion) (World) (Aftermarket) (Unl)</description>
+		<release name="Sega Flipper (SG-1000 Conversion) (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Sega Flipper (SG-1000 Conversion) (World) (Aftermarket) (Unl).col" size="16384" crc="e7739f82" md5="e61ca91de0e9591fb16204e8a626923a" sha1="4a6d106f0fe36ed9dbe7823f1c9044e17aeea181"/>
 		<url>https://retroachievements.org/game/25957/hashes</url>
 		<hash>e61ca91de0e9591fb16204e8a626923a</hash>
 	</game>
 	
-	<game name="Sudoku (World) (v1.0) (Aftermarket)" cloneof="Sudoku (World) (v2.0) (Aftermarket)">
+	<game name="Sudoku (World) (v1.0) (Aftermarket) (Unl)" cloneof="Sudoku (World) (v2.0) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Sudoku (World) (v1.0) (Aftermarket)</description>
-		<rom name="Sudoku (World) (v1.0) (Aftermarket).col" size="10496" crc="12144312" md5="94476e431aca0f9590964d6797d5dee9" sha1="0124ba683340188c7a9a89122af7a54db07e1edb"/>
+		<description>Sudoku (World) (v1.0) (Aftermarket) (Unl)</description>
+		<rom name="Sudoku (World) (v1.0) (Aftermarket) (Unl).col" size="10496" crc="12144312" md5="94476e431aca0f9590964d6797d5dee9" sha1="0124ba683340188c7a9a89122af7a54db07e1edb"/>
 		<url>https://retroachievements.org/game/14471/hashes</url>
 		<hash>94476e431aca0f9590964d6797d5dee9</hash>
 	</game>
-	<game name="Sudoku (World) (v2.0) (Aftermarket)">
+	<game name="Sudoku (World) (v2.0) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Sudoku (World) (v2.0) (Aftermarket)</description>
-		<release name="Sudoku (World) (v2.0) (Aftermarket)" region="World"/>
-		<rom name="Sudoku (World) (v2.0) (Aftermarket).col" size="10496" crc="2aa3abb2" md5="e34e775b40367815197dc4086aab2f89" sha1="499c9746f0dacab59a3fb23f80169df34cfbb91a"/>
+		<description>Sudoku (World) (v2.0) (Aftermarket) (Unl)</description>
+		<release name="Sudoku (World) (v2.0) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Sudoku (World) (v2.0) (Aftermarket) (Unl).col" size="10496" crc="2aa3abb2" md5="e34e775b40367815197dc4086aab2f89" sha1="499c9746f0dacab59a3fb23f80169df34cfbb91a"/>
 		<url>https://retroachievements.org/game/14471/hashes</url>
 		<hash>e34e775b40367815197dc4086aab2f89</hash>
 	</game>
 	
-	<game name="Where's Derpy (USA) (v1.2) (gameblabla) (Aftermarket)">
+	<game name="Where's Derpy (USA) (v1.2) (Aftermarket) (gameblabla)">
 		<category>Homebrew</category>
-		<description>Where's Derpy (USA) (v1.2) (gameblabla) (Aftermarket)</description>
-		<release name="Where's Derpy (USA) (v1.2) (gameblabla) (Aftermarket)" region="USA"/>
-		<rom name="Where's Derpy (USA) (v1.2) (gameblabla) (Aftermarket).col" size="27740" crc="53059516" md5="291282d0946c56d3763044d73fbff74c" sha1="a595ebac485814cd6e4c40b33dfbcab25d0e9c03"/>
+		<description>Where's Derpy (USA) (v1.2) (Aftermarket) (gameblabla)</description>
+		<release name="Where's Derpy (USA) (v1.2) (Aftermarket) (gameblabla)" region="USA"/>
+		<rom name="Where's Derpy (USA) (v1.2) (Aftermarket) (gameblabla).col" size="27740" crc="53059516" md5="291282d0946c56d3763044d73fbff74c" sha1="a595ebac485814cd6e4c40b33dfbcab25d0e9c03"/>
 		<url>https://retroachievements.org/game/34944/hashes</url>
 		<hash>291282d0946c56d3763044d73fbff74c</hash>
 	</game>
@@ -371,6 +371,16 @@
 		<rom name="Popeye (USA).col" size="16384" crc="a095454d" md5="a7773e1265e0089bc8f148527256a20e" sha1="f54f110ba5864bb3418f84e1c2cdc5c856dda771"/>
 		<url>https://retroachievements.org/game/18259/hashes</url>
 		<hash>a7773e1265e0089bc8f148527256a20e</hash>
+	</game>
+	
+	<game name="Rocky - Super Action Boxing (USA, Europe)">
+		<category>Retail</category>
+		<description>Rocky - Super Action Boxing (USA, Europe)</description>
+		<release name="Rocky - Super Action Boxing (USA, Europe)" region="Europe"/>
+		<release name="Rocky - Super Action Boxing (USA, Europe)" region="USA"/>
+		<rom name="Rocky - Super Action Boxing (USA, Europe).col" size="20480" crc="37f144d3" md5="d35fdb81f4a733925b0a33dfb53d9d78" sha1="11def2adb622bbf62bfd2ac14d8151c8f2f772eb"/>
+		<url>https://retroachievements.org/game/32358/hashes</url>
+		<hash>d35fdb81f4a733925b0a33dfb53d9d78</hash>
 	</game>
 	
 	<game name="Spy Hunter (USA)">

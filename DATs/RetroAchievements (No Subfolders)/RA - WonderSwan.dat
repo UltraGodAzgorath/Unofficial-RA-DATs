@@ -5,46 +5,46 @@
 		<name>RA - WonderSwan</name>
 		<description>WonderSwan</description>
 		<category>No Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260427</version>
+		<date>27 April 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/53/games</url>
-		<titlecount>48</titlecount>
-		<hashcount>65</hashcount>
+		<titlecount>49</titlecount>
+		<hashcount>66</hashcount>
 	</header>
-	<game name="Atop the Witch's Tower (World) (v1.1) (Aftermarket)">
+	<game name="Atop the Witch's Tower (World) (v1.1) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Atop the Witch's Tower (World) (v1.1) (Aftermarket)</description>
-		<release name="Atop the Witch's Tower (World) (v1.1) (Aftermarket)" region="World"/>
-		<rom name="Atop the Witch's Tower (World) (v1.1) (Aftermarket).wsc" size="131072" crc="23e814cc" md5="db3569afdb8d8f553da626970f1804e7" sha1="1487a981e576bf8248818b1f1a12c947760be511"/>
+		<description>Atop the Witch's Tower (World) (v1.1) (Aftermarket) (Unl)</description>
+		<release name="Atop the Witch's Tower (World) (v1.1) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Atop the Witch's Tower (World) (v1.1) (Aftermarket) (Unl).wsc" size="131072" crc="23e814cc" md5="db3569afdb8d8f553da626970f1804e7" sha1="1487a981e576bf8248818b1f1a12c947760be511"/>
 		<url>https://retroachievements.org/game/26483/hashes</url>
 		<hash>db3569afdb8d8f553da626970f1804e7</hash>
 	</game>
 	
-	<game name="Cracky Mini (World) (v20240612) (Aftermarket)">
+	<game name="Cracky Mini (World) (v20240612) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Cracky Mini (World) (v20240612) (Aftermarket)</description>
-		<release name="Cracky Mini (World) (v20240612) (Aftermarket)" region="World"/>
-		<rom name="Cracky Mini (World) (v20240612) (Aftermarket).wsc" size="65536" crc="3071302b" md5="2ad72633b07f623b6eb0a641ec44dfd3" sha1="0323adb8a740466f7d2b6f29dc55acaee357be48"/>
+		<description>Cracky Mini (World) (v20240612) (Aftermarket) (Unl)</description>
+		<release name="Cracky Mini (World) (v20240612) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Cracky Mini (World) (v20240612) (Aftermarket) (Unl).wsc" size="65536" crc="3071302b" md5="2ad72633b07f623b6eb0a641ec44dfd3" sha1="0323adb8a740466f7d2b6f29dc55acaee357be48"/>
 		<url>https://retroachievements.org/game/32532/hashes</url>
 		<hash>2ad72633b07f623b6eb0a641ec44dfd3</hash>
 	</game>
 	
-	<game name="Mazy Mini (World) (v20230618) (Aftermarket)">
+	<game name="Mazy (World) (v20230618) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Mazy Mini (World) (v20230618) (Aftermarket)</description>
-		<release name="Mazy Mini (World) (v20230618) (Aftermarket)" region="World"/>
-		<rom name="Mazy Mini (World) (v20230618) (Aftermarket).wsc" size="65536" crc="2620c258" md5="4ea83a19867a3e32749b1c9d898583ca" sha1="d7dd04a77d8c0edee79df61a3cd7f308fdde611d"/>
+		<description>Mazy (World) (v20230618) (Aftermarket) (Unl)</description>
+		<release name="Mazy (World) (v20230618) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Mazy (World) (v20230618) (Aftermarket) (Unl).wsc" size="65536" crc="2620c258" md5="4ea83a19867a3e32749b1c9d898583ca" sha1="d7dd04a77d8c0edee79df61a3cd7f308fdde611d"/>
 		<url>https://retroachievements.org/game/32952/hashes</url>
 		<hash>4ea83a19867a3e32749b1c9d898583ca</hash>
 	</game>
 	
-	<game name="Wondersnake (World) (Aftermarket)">
+	<game name="Wondersnake (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Wondersnake (World) (Aftermarket)</description>
-		<release name="Wondersnake (World) (Aftermarket)" region="World"/>
-		<rom name="Wondersnake (World) (Aftermarket).wsc" size="524288" crc="a0591f00" md5="f8706cc921099ce84b2dd154b3cbbac6" sha1="fec915b4993f2d84ea30bd0fa4d8575e9074d292"/>
+		<description>Wondersnake (World) (Aftermarket) (Unl)</description>
+		<release name="Wondersnake (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Wondersnake (World) (Aftermarket) (Unl).wsc" size="524288" crc="a0591f00" md5="f8706cc921099ce84b2dd154b3cbbac6" sha1="fec915b4993f2d84ea30bd0fa4d8575e9074d292"/>
 		<url>https://retroachievements.org/game/19897/hashes</url>
 		<hash>f8706cc921099ce84b2dd154b3cbbac6</hash>
 	</game>
@@ -67,11 +67,11 @@
 		<hash>b814e71eb1d079466a9535566d605280</hash>
 	</game>
 	
-	<game name="Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket)">
+	<game name="Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket) (Unl)">
 		<category>Unlicensed</category>
-		<description>Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket)</description>
-		<release name="Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket)" region="World"/>
-		<rom name="Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket).wsc" size="524288" crc="deaec59b" md5="50425331b91ee4273df1d56d7dcd519f" sha1="0a250a6e7d09787ea2062347a69f0452412c6b8d"/>
+		<description>Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket) (Unl)</description>
+		<release name="Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket) (Unl).wsc" size="524288" crc="deaec59b" md5="50425331b91ee4273df1d56d7dcd519f" sha1="0a250a6e7d09787ea2062347a69f0452412c6b8d"/>
 		<url>https://retroachievements.org/game/22100/hashes</url>
 		<hash>50425331b91ee4273df1d56d7dcd519f</hash>
 	</game>
@@ -101,11 +101,11 @@
 		<url>https://retroachievements.org/game/14874/hashes</url>
 		<hash>8f0ba3401662a40e8da5ebcfe7b85e81</hash>
 	</game>
-	<game name="Clock Tower for WonderSwan (Japan) (En) (v1.1) (Team C.U.T.S.)" cloneof="Clock Tower for WonderSwan (Japan) (Rev 1)">
+	<game name="Clock Tower for WonderSwan (Japan) (Rev 1) (En) (v1.1) (Team C.U.T.S.)" cloneof="Clock Tower for WonderSwan (Japan) (Rev 1)">
 		<category>Retail</category>
-		<description>Clock Tower for WonderSwan (Japan) (En) (v1.1) (Team C.U.T.S.)</description>
-		<release name="Clock Tower for WonderSwan (Japan) (En) (v1.1) (Team C.U.T.S.)" region="English"/>
-		<rom name="Clock Tower for WonderSwan (Japan) (En) (v1.1) (Team C.U.T.S.).ws" size="2097152" crc="d536a070" md5="bdaacc5193951ca7fff2845b1664d451" sha1="245b722f978bbe0ea301a14d41afbf6a2040b903"/>
+		<description>Clock Tower for WonderSwan (Japan) (Rev 1) (En) (v1.1) (Team C.U.T.S.)</description>
+		<release name="Clock Tower for WonderSwan (Japan) (Rev 1) (En) (v1.1) (Team C.U.T.S.)" region="English"/>
+		<rom name="Clock Tower for WonderSwan (Japan) (Rev 1) (En) (v1.1) (Team C.U.T.S.).ws" size="2097152" crc="d536a070" md5="bdaacc5193951ca7fff2845b1664d451" sha1="245b722f978bbe0ea301a14d41afbf6a2040b903"/>
 		<url>https://retroachievements.org/game/14874/hashes</url>
 		<hash>bdaacc5193951ca7fff2845b1664d451</hash>
 	</game>
@@ -136,6 +136,15 @@
 		<hash>d5f7fbf06c57aa50f08c14e64d2e02a2</hash>
 	</game>
 	
+	<game name="Digimon Adventure 02 - D1 Tamers (Japan) (En) (v0.97) (USC)">
+		<category>Retail</category>
+		<description>Digimon Adventure 02 - D1 Tamers (Japan) (En) (v0.97) (USC)</description>
+		<release name="Digimon Adventure 02 - D1 Tamers (Japan) (En) (v0.97) (USC)" region="English"/>
+		<rom name="Digimon Adventure 02 - D1 Tamers (Japan) (En) (v0.97) (USC).wsc" size="4194304" crc="74A1AE86" md5="0b4973f8406e90f325198b6747b4e632" sha1="4ad4642abc8b97fd9291b90f98f610bc1462d2d6"/>
+		<url>https://retroachievements.org/game/16142/hashes</url>
+		<hash>0b4973f8406e90f325198b6747b4e632</hash>
+	</game>
+	
 	<game name="Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1)">
 		<category>Retail</category>
 		<description>Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1)</description>
@@ -144,11 +153,11 @@
 		<url>https://retroachievements.org/game/16143/hashes</url>
 		<hash>2cb264ba76b88452d7576992f2b90dbf</hash>
 	</game>
-	<game name="Digimon Adventure 02 - Tag Tamers (Japan) (En) (v1.4.5) (USC)" cloneof="Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1)">
+	<game name="Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1) (En) (v1.4.5) (USC)" cloneof="Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1)">
 		<category>Retail</category>
-		<description>Digimon Adventure 02 - Tag Tamers (Japan) (En) (v1.4.5) (USC)</description>
-		<release name="Digimon Adventure 02 - Tag Tamers (Japan) (En) (v1.4.5) (USC)" region="English"/>
-		<rom name="Digimon Adventure 02 - Tag Tamers (Japan) (En) (v1.4.5) (USC).ws" size="2097152" crc="885058a9" md5="521dee8107ef14ffc0e0b3795207d9fd" sha1="5dd7f045071c15451ee5828154566a0c6be24cc2"/>
+		<description>Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1) (En) (v1.4.5) (USC)</description>
+		<release name="Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1) (En) (v1.4.5) (USC)" region="English"/>
+		<rom name="Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1) (En) (v1.4.5) (USC).ws" size="2097152" crc="885058a9" md5="521dee8107ef14ffc0e0b3795207d9fd" sha1="5dd7f045071c15451ee5828154566a0c6be24cc2"/>
 		<url>https://retroachievements.org/game/16143/hashes</url>
 		<hash>521dee8107ef14ffc0e0b3795207d9fd</hash>
 	</game>
@@ -188,14 +197,6 @@
 		<hash>bfafb9bc64fc88bb71f5936172c2abcd</hash>
 	</game>
 	
-	<game name="Final Fantasy (Japan) (En) (v0.91) (Kalas)" cloneof="Final Fantasy (Japan)">
-		<category>Retail</category>
-		<description>Final Fantasy (Japan) (En) (v0.91) (Kalas)</description>
-		<release name="Final Fantasy (Japan) (En) (v0.91) (Kalas)" region="English"/>
-		<rom name="Final Fantasy (Japan) (En) (v0.91) (Kalas).wsc" size="4194304" crc="df94a149" md5="0d5c239eb1b99b4ab756acda11992ce3" sha1="08e70b98918df5e5cf2fe057908ce5e8a69e05fe"/>
-		<url>https://retroachievements.org/game/15580/hashes</url>
-		<hash>0d5c239eb1b99b4ab756acda11992ce3</hash>
-	</game>
 	<game name="Final Fantasy (Japan)">
 		<category>Retail</category>
 		<description>Final Fantasy (Japan)</description>
@@ -203,6 +204,14 @@
 		<rom name="Final Fantasy (Japan).wsc" size="4194304" crc="b7243e88" md5="e36650ac50df69d1832a0d496c165db2" sha1="26628eb76c16880b6faf2e706778d91a60144078"/>
 		<url>https://retroachievements.org/game/15580/hashes</url>
 		<hash>e36650ac50df69d1832a0d496c165db2</hash>
+	</game>
+	<game name="Final Fantasy (Japan) (En) (v0.91) (Kalas)" cloneof="Final Fantasy (Japan)">
+		<category>Retail</category>
+		<description>Final Fantasy (Japan) (En) (v0.91) (Kalas)</description>
+		<release name="Final Fantasy (Japan) (En) (v0.91) (Kalas)" region="English"/>
+		<rom name="Final Fantasy (Japan) (En) (v0.91) (Kalas).wsc" size="4194304" crc="df94a149" md5="0d5c239eb1b99b4ab756acda11992ce3" sha1="08e70b98918df5e5cf2fe057908ce5e8a69e05fe"/>
+		<url>https://retroachievements.org/game/15580/hashes</url>
+		<hash>0d5c239eb1b99b4ab756acda11992ce3</hash>
 	</game>
 	
 	<game name="Final Fantasy II (Japan)">
@@ -293,14 +302,6 @@
 		<hash>816c81b156146be62a45edd7d7d49fc6</hash>
 	</game>
 	
-	<game name="Hataraku Chocobo (Japan) (En) (v1.01) (Specialagentape)" cloneof="Hataraku Chocobo (Japan)">
-		<category>Retail</category>
-		<description>Hataraku Chocobo (Japan) (En) (v1.01) (Specialagentape)</description>
-		<release name="Hataraku Chocobo (Japan) (En) (v1.01) (Specialagentape)" region="English"/>
-		<rom name="Hataraku Chocobo (Japan) (En) (v1.01) (Specialagentape).wsc" size="1048576" crc="b6528093" md5="907ed96e5e12c55212bb15265d59801b" sha1="580be88475d0fe5acc0629b42278df9e97d9a98f"/>
-		<url>https://retroachievements.org/game/17766/hashes</url>
-		<hash>907ed96e5e12c55212bb15265d59801b</hash>
-	</game>
 	<game name="Hataraku Chocobo (Japan)">
 		<category>Retail</category>
 		<description>Hataraku Chocobo (Japan)</description>
@@ -308,6 +309,14 @@
 		<rom name="Hataraku Chocobo (Japan).wsc" size="1048576" crc="7a29e9a6" md5="ebab0f1f4148d54437834971d9756431" sha1="9bd63ed48926b27be70333fbe07da2ceed56328a"/>
 		<url>https://retroachievements.org/game/17766/hashes</url>
 		<hash>ebab0f1f4148d54437834971d9756431</hash>
+	</game>
+	<game name="Hataraku Chocobo (Japan) (En) (v1.01) (Specialagentape)" cloneof="Hataraku Chocobo (Japan)">
+		<category>Retail</category>
+		<description>Hataraku Chocobo (Japan) (En) (v1.01) (Specialagentape)</description>
+		<release name="Hataraku Chocobo (Japan) (En) (v1.01) (Specialagentape)" region="English"/>
+		<rom name="Hataraku Chocobo (Japan) (En) (v1.01) (Specialagentape).wsc" size="1048576" crc="b6528093" md5="907ed96e5e12c55212bb15265d59801b" sha1="580be88475d0fe5acc0629b42278df9e97d9a98f"/>
+		<url>https://retroachievements.org/game/17766/hashes</url>
+		<hash>907ed96e5e12c55212bb15265d59801b</hash>
 	</game>
 	
 	<game name="Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21)">
@@ -482,14 +491,6 @@
 		<hash>cadd7d9a54d7debffc52a02ff127a5b7</hash>
 	</game>
 	
-	<game name="Rockman EXE WS (Japan) (En) (v1.0) (Greiga Master)" cloneof="Rockman EXE WS (Japan)">
-		<category>Retail</category>
-		<description>Rockman EXE WS (Japan) (En) (v1.0) (Greiga Master)</description>
-		<release name="Rockman EXE WS (Japan) (En) (v1.0) (Greiga Master)" region="English"/>
-		<rom name="Rockman EXE WS (Japan) (En) (v1.0) (Greiga Master).wsc" size="4194304" crc="a8c02e74" md5="20379c41873b0d99a2baaf2ef959e1e6" sha1="79f7821791d99a4e6a912ff60bb10eb8ccb0bcd0"/>
-		<url>https://retroachievements.org/game/14596/hashes</url>
-		<hash>20379c41873b0d99a2baaf2ef959e1e6</hash>
-	</game>
 	<game name="Rockman EXE WS (Japan)">
 		<category>Retail</category>
 		<description>Rockman EXE WS (Japan)</description>
@@ -497,6 +498,14 @@
 		<rom name="Rockman EXE WS (Japan).wsc" size="4194304" crc="658c4b98" md5="a66390da2c2defcf092eb107edaf4fa0" sha1="b4a3ff3b72639f27d1a6f449b0335074aeb9e603"/>
 		<url>https://retroachievements.org/game/14596/hashes</url>
 		<hash>a66390da2c2defcf092eb107edaf4fa0</hash>
+	</game>
+	<game name="Rockman EXE WS (Japan) (En) (v1.0) (Greiga Master)" cloneof="Rockman EXE WS (Japan)">
+		<category>Retail</category>
+		<description>Rockman EXE WS (Japan) (En) (v1.0) (Greiga Master)</description>
+		<release name="Rockman EXE WS (Japan) (En) (v1.0) (Greiga Master)" region="English"/>
+		<rom name="Rockman EXE WS (Japan) (En) (v1.0) (Greiga Master).wsc" size="4194304" crc="a8c02e74" md5="20379c41873b0d99a2baaf2ef959e1e6" sha1="79f7821791d99a4e6a912ff60bb10eb8ccb0bcd0"/>
+		<url>https://retroachievements.org/game/14596/hashes</url>
+		<hash>20379c41873b0d99a2baaf2ef959e1e6</hash>
 	</game>
 	
 	<game name="Rockman EXE - N1 Battle (Japan) (Rev 1)">
@@ -598,14 +607,6 @@
 		<hash>144b29a9997c016fb4b2bb05e3965cfe</hash>
 	</game>
 	
-	<game name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan) (En) (v1.1) (Hengki Kusuma Adi)" cloneof="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan)">
-		<category>Retail</category>
-		<description>Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan) (En) (v1.1) (Hengki Kusuma Adi)</description>
-		<release name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan) (En) (v1.1) (Hengki Kusuma Adi)" region="English"/>
-		<rom name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan) (En) (v1.1) (Hengki Kusuma Adi).wsc" size="2097152" crc="2c055c98" md5="a9eca898b6014e7ce23b9493b2d12efe" sha1="22fca73a28893a213f3760f54d3d61a81c95753c"/>
-		<url>https://retroachievements.org/game/14595/hashes</url>
-		<hash>a9eca898b6014e7ce23b9493b2d12efe</hash>
-	</game>
 	<game name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan)">
 		<category>Retail</category>
 		<description>Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan)</description>
@@ -613,6 +614,14 @@
 		<rom name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan).wsc" size="2097152" crc="15e55706" md5="f0ba64cd7b88eab7add0f7af02080072" sha1="c1ad383d337dba8a63295cfb8c7ca8470c893c67"/>
 		<url>https://retroachievements.org/game/14595/hashes</url>
 		<hash>f0ba64cd7b88eab7add0f7af02080072</hash>
+	</game>
+	<game name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan) (En) (v1.1) (Hengki Kusuma Adi)" cloneof="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan)">
+		<category>Retail</category>
+		<description>Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan) (En) (v1.1) (Hengki Kusuma Adi)</description>
+		<release name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan) (En) (v1.1) (Hengki Kusuma Adi)" region="English"/>
+		<rom name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan) (En) (v1.1) (Hengki Kusuma Adi).wsc" size="2097152" crc="2c055c98" md5="a9eca898b6014e7ce23b9493b2d12efe" sha1="22fca73a28893a213f3760f54d3d61a81c95753c"/>
+		<url>https://retroachievements.org/game/14595/hashes</url>
+		<hash>a9eca898b6014e7ce23b9493b2d12efe</hash>
 	</game>
 	<game name="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan) (En) (v1.1) (WonderGate Unlock) (v1.0) (Justin Gibbins)" cloneof="Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan)">
 		<category>Retail</category>

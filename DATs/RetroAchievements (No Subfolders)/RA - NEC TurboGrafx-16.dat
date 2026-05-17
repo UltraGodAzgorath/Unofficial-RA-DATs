@@ -5,40 +5,40 @@
 		<name>RA - NEC TurboGrafx-16</name>
 		<description>NEC TurboGrafx-16</description>
 		<category>No Subfolders</category>
-		<version>20260208</version>
-		<date>08 February 2026</date>
+		<version>20260429</version>
+		<date>29 April 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/8/games</url>
-		<titlecount>136</titlecount>
-		<hashcount>177/228</hashcount>
+		<titlecount>134</titlecount>
+		<hashcount>176/227</hashcount>
 	</header>
-	<game name="Atlantean (World) (Aftermarket)">
+	<game name="Atlantean (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Atlantean (World) (Aftermarket)</description>
-		<release name="Atlantean (World) (Aftermarket)" region="World"/>
-		<rom name="Atlantean (World) (Aftermarket).pce" size="524800" crc="ef596649" md5="b407192527c9472a489fea0aeac00f8d" sha1="d76f867256c3ff192b0cde8a1c685d558c2066c2"/>
+		<description>Atlantean (World) (Aftermarket) (Unl)</description>
+		<release name="Atlantean (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Atlantean (World) (Aftermarket) (Unl).pce" size="524288" crc="fddc5814" md5="29abb6671fc4a4217473cd955cb76ae8" sha1="518341d715c8fb651edc1bacb2848dbb0acae097"/>
 		<url>https://retroachievements.org/game/18084/hashes</url>
 		<hash>29abb6671fc4a4217473cd955cb76ae8</hash>
 	</game>
 	
-	<game name="HuZERO (World) (Aftermarket)">
+	<game name="HuZERO (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>HuZERO (World) (Aftermarket)</description>
-		<release name="HuZERO (World) (Aftermarket)" region="World"/>
-		<rom name="HuZERO (World) (Aftermarket).pce" size="262144" crc="2871c4c0" md5="b14e14493c7c45b8d61c160236ac0f85" sha1="4328878a56f4cf34a9b62f6a4a2982bb57d695e8"/>
+		<description>HuZERO (World) (Aftermarket) (Unl)</description>
+		<release name="HuZERO (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="HuZERO (World) (Aftermarket) (Unl).pce" size="262144" crc="2871c4c0" md5="b14e14493c7c45b8d61c160236ac0f85" sha1="4328878a56f4cf34a9b62f6a4a2982bb57d695e8"/>
 		<url>https://retroachievements.org/game/20488/hashes</url>
 		<hash>b14e14493c7c45b8d61c160236ac0f85</hash>
 	</game>
 	
-	<game name="Maria (World) (Aftermarket) (No-Intro)">
+	<game name="Maria (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Maria (World) (Aftermarket) (No-Intro)</description>
-		<rom name="Maria (World) (Aftermarket) (No-Intro).pce" size="491520" crc="192a5924" md5="de25a604c8f59525ef061ac5bb3567bd" sha1="cf64c8cf29c11310924362ff03dd7d8120debf8f"/>
+		<description>Maria (World) (Aftermarket) (Unl)</description>
+		<rom name="Maria (World) (Aftermarket) (Unl).pce" size="491520" crc="192a5924" md5="de25a604c8f59525ef061ac5bb3567bd" sha1="cf64c8cf29c11310924362ff03dd7d8120debf8f"/>
 		<url>https://retroachievements.org/game/13669/hashes</url>
 		<hash>de25a604c8f59525ef061ac5bb3567bd</hash>
 	</game>
-	<game name="Maria (World) (Aftermarket) (Itch.io)" cloneof="Maria (World) (Aftermarket) (No-Intro)">
+	<game name="Maria (World) (Aftermarket) (Itch.io)" cloneof="Maria (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
 		<description>Maria (World) (Aftermarket) (Itch.io)</description>
 		<release name="Maria (World) (Aftermarket) (Itch.io)" region="World"/>
@@ -47,65 +47,65 @@
 		<hash>79e74b94605e3842fe5958bc0e37cc3f</hash>
 	</game>
 	
-	<game name="Mega Man 2 (World) (v0.87) (Aftermarket)">
+	<game name="Mega Man 2 (World) (v0.87) (Proto) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Mega Man 2 (World) (v0.87) (Aftermarket)</description>
-		<release name="Mega Man 2 (World) (v0.87) (Aftermarket)" region="World"/>
-		<rom name="Mega Man 2 (World) (v0.87) (Aftermarket).pce" size="524288" crc="2fc86aff" md5="83079124c8efce1eee4c3a34a89441a5" sha1="3bad484a43682a11b79bb5e3ca39755922807e19"/>
+		<description>Mega Man 2 (World) (v0.87) (Proto) (Aftermarket) (Unl)</description>
+		<release name="Mega Man 2 (World) (v0.87) (Proto) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Mega Man 2 (World) (v0.87) (Proto) (Aftermarket) (Unl).pce" size="524288" crc="2fc86aff" md5="83079124c8efce1eee4c3a34a89441a5" sha1="3bad484a43682a11b79bb5e3ca39755922807e19"/>
 		<url>https://retroachievements.org/game/18611/hashes</url>
 		<hash>83079124c8efce1eee4c3a34a89441a5</hash>
 	</game>
 	
-	<game name="Mega Man 2 (World) (v0.87) (Aftermarket) (Subset - Bonus)">
+	<game name="Mega Man 2 (World) (v0.87) (Proto) (Aftermarket) (Unl) (Subset - Bonus)">
 		<category>Subset</category>
-		<description>Mega Man 2 (World) (v0.87) (Aftermarket) (Subset - Bonus)</description>
-		<release name="Mega Man 2 (World) (v0.87) (Aftermarket) (Subset - Bonus)" region="World"/>
-		<rom name="Mega Man 2 (World) (v0.87) (Aftermarket) (Subset - Bonus).pce" size="524288" crc="64c67a8f" md5="e68b97f12b236e7b827dc77f98d29cd5" sha1="a6ac4b848d3d0d168c22a1d9954d636c5528aaea"/>
+		<description>Mega Man 2 (World) (v0.87) (Proto) (Aftermarket) (Unl) (Subset - Bonus)</description>
+		<release name="Mega Man 2 (World) (v0.87) (Proto) (Aftermarket) (Unl) (Subset - Bonus)" region="World"/>
+		<rom name="Mega Man 2 (World) (v0.87) (Proto) (Aftermarket) (Unl) (Subset - Bonus).pce" size="524288" crc="64c67a8f" md5="e68b97f12b236e7b827dc77f98d29cd5" sha1="a6ac4b848d3d0d168c22a1d9954d636c5528aaea"/>
 		<url>https://retroachievements.org/game/18643/hashes</url>
 		<hash>e68b97f12b236e7b827dc77f98d29cd5</hash>
 	</game>
 	
-	<game name="Nantettatte Engine (World) (Aftermarket)">
+	<game name="Nantettatte Engine (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Nantettatte Engine (World) (Aftermarket)</description>
-		<release name="Nantettatte Engine (World) (Aftermarket)" region="World"/>
-		<rom name="Nantettatte Engine (World) (Aftermarket).pce" size="262144" crc="3974fb41" md5="a8264f87f8c2a9a97fe46c2fa3249deb" sha1="4b9cd0d86b6406142a306adcafe6ae9efbcd9b6b"/>
+		<description>Nantettatte Engine (World) (Aftermarket) (Unl)</description>
+		<release name="Nantettatte Engine (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Nantettatte Engine (World) (Aftermarket) (Unl).pce" size="262144" crc="3974fb41" md5="a8264f87f8c2a9a97fe46c2fa3249deb" sha1="4b9cd0d86b6406142a306adcafe6ae9efbcd9b6b"/>
 		<url>https://retroachievements.org/game/28326/hashes</url>
 		<hash>a8264f87f8c2a9a97fe46c2fa3249deb</hash>
 	</game>
 	
-	<game name="Reflectron (World) (Aftermarket)">
+	<game name="Reflectron (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Reflectron (World) (Aftermarket)</description>
-		<release name="Reflectron (World) (Aftermarket)" region="World"/>
-		<rom name="Reflectron (World) (Aftermarket).pce" size="262144" crc="6a3727e2" md5="40540be45e4f802344cfcb9f43b527b0" sha1="982a7627233c30cc23b85c666536d69faf3c2dbc"/>
+		<description>Reflectron (World) (Aftermarket) (Unl)</description>
+		<release name="Reflectron (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Reflectron (World) (Aftermarket) (Unl).pce" size="262144" crc="6a3727e2" md5="40540be45e4f802344cfcb9f43b527b0" sha1="982a7627233c30cc23b85c666536d69faf3c2dbc"/>
 		<url>https://retroachievements.org/game/26878/hashes</url>
 		<hash>40540be45e4f802344cfcb9f43b527b0</hash>
 	</game>
 	
-	<game name="Santatlantean (World) (Aftermarket)">
+	<game name="Santatlantean (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Santatlantean (World) (Aftermarket)</description>
-		<release name="Santatlantean (World) (Aftermarket)" region="World"/>
-		<rom name="Santatlantean (World) (Aftermarket).pce" size="524288" crc="f436b4ac" md5="12c9cb92855185a15b315435ec8eadf7" sha1="9e79251dc99a24ea03a2a431cac26a66e6c6a543"/>
+		<description>Santatlantean (World) (Aftermarket) (Unl)</description>
+		<release name="Santatlantean (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Santatlantean (World) (Aftermarket) (Unl).pce" size="524288" crc="f436b4ac" md5="12c9cb92855185a15b315435ec8eadf7" sha1="9e79251dc99a24ea03a2a431cac26a66e6c6a543"/>
 		<url>https://retroachievements.org/game/18085/hashes</url>
 		<hash>12c9cb92855185a15b315435ec8eadf7</hash>
 	</game>
 	
-	<game name="Great Fumo Binning, The (World) (Aftermarket)">
+	<game name="Great Fumo Binning, The (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Great Fumo Binning, The (World) (Aftermarket)</description>
-		<release name="Great Fumo Binning, The (World) (Aftermarket)" region="World"/>
-		<rom name="Great Fumo Binning, The (World) (Aftermarket).pce" size="73728" crc="8f92ac67" md5="de60a6746244d36a1bc9b8cc0abc481b" sha1="f81162d7eee56ab1e69abc33d7048e8ad127f11f"/>
+		<description>Great Fumo Binning, The (World) (Aftermarket) (Unl)</description>
+		<release name="Great Fumo Binning, The (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Great Fumo Binning, The (World) (Aftermarket) (Unl).pce" size="73728" crc="8f92ac67" md5="de60a6746244d36a1bc9b8cc0abc481b" sha1="f81162d7eee56ab1e69abc33d7048e8ad127f11f"/>
 		<url>https://retroachievements.org/game/25183/hashes</url>
 		<hash>de60a6746244d36a1bc9b8cc0abc481b</hash>
 	</game>
 	
-	<game name="Tongueman's Logic (World) (Aftermarket)">
+	<game name="Tongueman's Logic (World) (Aftermarket) (Unl)">
 		<category>Homebrew</category>
-		<description>Tongueman's Logic (World) (Aftermarket)</description>
-		<release name="Tongueman's Logic (World) (Aftermarket)" region="World"/>
-		<rom name="Tongueman's Logic (World) (Aftermarket).pce" size="524288" crc="fe451c22" md5="15107f07c3b7a65a7e784add44349961" sha1="456c4a07b6e5d0a4e231aad3a479f97f3df02e21"/>
+		<description>Tongueman's Logic (World) (Aftermarket) (Unl)</description>
+		<release name="Tongueman's Logic (World) (Aftermarket) (Unl)" region="World"/>
+		<rom name="Tongueman's Logic (World) (Aftermarket) (Unl).pce" size="524288" crc="fe451c22" md5="15107f07c3b7a65a7e784add44349961" sha1="456c4a07b6e5d0a4e231aad3a479f97f3df02e21"/>
 		<url>https://retroachievements.org/game/14467/hashes</url>
 		<hash>15107f07c3b7a65a7e784add44349961</hash>
 	</game>
@@ -118,11 +118,11 @@
 		<url>https://retroachievements.org/game/9565/hashes</url>
 		<hash>71c5cffeab1cb60a04b5e77a338117ac</hash>
 	</game>
-	<game name="Lady Sword (Japan) (En) (v1.0) (EsperKnight,filler,Grant Laughlin,Tomaitheous) (Unl)" cloneof="Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl)">
+	<game name="Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (En) (v1.0) (EsperKnight,filler,Grant Laughlin,Tomaitheous) (Unl)" cloneof="Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (Unl)">
 		<category>Unlicensed</category>
-		<description>Lady Sword (Japan) (En) (v1.0) (EsperKnight,filler,Grant Laughlin,Tomaitheous) (Unl)</description>
-		<release name="Lady Sword (Japan) (En) (v1.0) (EsperKnight,filler,Grant Laughlin,Tomaitheous) (Unl)" region="English"/>
-		<rom name="Lady Sword (Japan) (En) (v1.0) (EsperKnight,filler,Grant Laughlin,Tomaitheous) (Unl).pce" size="1048576" crc="ff461dcd" md5="6b56d548b740cdbbc2993b5a8f03ffd4" sha1="7e6cf9b1c8ef96147129d297e0b39a2217d499f1"/>
+		<description>Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (En) (v1.0) (EsperKnight,filler,Grant Laughlin,Tomaitheous) (Unl)</description>
+		<release name="Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (En) (v1.0) (EsperKnight,filler,Grant Laughlin,Tomaitheous) (Unl)" region="English"/>
+		<rom name="Lady Sword - Ryakudatsu Sareta 10-nin no Otome (Japan) (En) (v1.0) (EsperKnight,filler,Grant Laughlin,Tomaitheous) (Unl).pce" size="1048576" crc="ff461dcd" md5="6b56d548b740cdbbc2993b5a8f03ffd4" sha1="7e6cf9b1c8ef96147129d297e0b39a2217d499f1"/>
 		<url>https://retroachievements.org/game/9565/hashes</url>
 		<hash>6b56d548b740cdbbc2993b5a8f03ffd4</hash>
 	</game>
@@ -391,7 +391,32 @@
 		<url>https://retroachievements.org/game/2285/hashes</url>
 		<hash>60bb0116b706fc30a76840ed0b5da458</hash>
 	</game>
-
+	
+	<game name="City Hunter (Japan)">
+		<category>Retail</category>
+		<description>City Hunter (Japan)</description>
+		<release name="City Hunter (Japan)" region="Japan"/>
+		<rom name="City Hunter (Japan).pce" size="393216" crc="f91b055f" md5="32a6a97aa9e69fa8091bfda374609922" sha1="8265cb33901609ec1cf156b8e0c7fc3884bc1acd"/>
+		<url>https://retroachievements.org/game/9171/hashes</url>
+		<hash>32a6a97aa9e69fa8091bfda374609922</hash>
+	</game>
+	<game name="City Hunter (Japan) (En) (v1.1) (filler,cabbage)" cloneof="City Hunter (Japan)">
+		<category>Retail</category>
+		<description>City Hunter (Japan) (En) (v1.1) (filler,cabbage)</description>
+		<release name="City Hunter (Japan) (En) (v1.1) (filler,cabbage)" region="English"/>
+		<rom name="City Hunter (Japan) (En) (v1.1) (filler,cabbage).pce" size="393216" crc="23f3df33" md5="9dcfed2ba5b59fa8f97387e01bb96f66" sha1="b92baeda4e71a0f348e2294a9deaa6fafa7bef6f"/>
+		<url>https://retroachievements.org/game/9171/hashes</url>
+		<hash>9dcfed2ba5b59fa8f97387e01bb96f66</hash>
+	</game>
+	<game name="City Hunter (Japan) (Fr) (v1.0) (Terminus Traduction)" cloneof="City Hunter (Japan)">
+		<category>Retail</category>
+		<description>City Hunter (Japan) (Fr) (v1.0) (Terminus Traduction)</description>
+		<release name="City Hunter (Japan) (Fr) (v1.0) (Terminus Traduction)" region="France"/>
+		<rom name="City Hunter (Japan) (Fr) (v1.0) (Terminus Traduction).pce" size="393216" crc="6301c5af" md5="ff76216eb5d8c0d773f20b3cb220f5ff" sha1="49e1113c8b3d8f4ea67c7a426a4c20d6967367ac"/>
+		<url>https://retroachievements.org/game/9171/hashes</url>
+		<hash>ff76216eb5d8c0d773f20b3cb220f5ff</hash>
+	</game>
+	
 	<game name="Columns (Japan)">
 		<category>Retail</category>
 		<description>Columns (Japan)</description>
@@ -637,11 +662,11 @@
 		<url>https://retroachievements.org/game/13409/hashes</url>
 		<hash>b928568fd7258f90b5ac410c7f65c48c</hash>
 	</game>
-	<game name="Energy (Japan) (En) (v1.01) (onionzoo, cabbage)" cloneof="Energy (Japan)">
+	<game name="Energy (Japan) (En) (v1.01) (onionzoo,cabbage)" cloneof="Energy (Japan)">
 		<category>Retail</category>
-		<description>Energy (Japan) (En) (v1.01) (onionzoo, cabbage)</description>
-		<release name="Energy (Japan) (En) (v1.01) (onionzoo, cabbage)" region="English"/>
-		<rom name="Energy (Japan) (En) (v1.01) (onionzoo, cabbage).pce" size="262144" crc="370fa62c" md5="7fc06f2e3131c1cfcddff6c69d54b8b9" sha1="d237dff176ef5193885fdc4abb469f6435dd2aac"/>
+		<description>Energy (Japan) (En) (v1.01) (onionzoo,cabbage)</description>
+		<release name="Energy (Japan) (En) (v1.01) (onionzoo,cabbage)" region="English"/>
+		<rom name="Energy (Japan) (En) (v1.01) (onionzoo,cabbage).pce" size="262144" crc="370fa62c" md5="7fc06f2e3131c1cfcddff6c69d54b8b9" sha1="d237dff176ef5193885fdc4abb469f6435dd2aac"/>
 		<url>https://retroachievements.org/game/13409/hashes</url>
 		<hash>7fc06f2e3131c1cfcddff6c69d54b8b9</hash>
 	</game>
@@ -689,11 +714,11 @@
 		<url>https://retroachievements.org/game/7193/hashes</url>
 		<hash>3e0cd9af31efe11acf733fb15dc31131</hash>
 	</game>
-	<game name="Fushigi no Yume no Alice (Japan) (En) (v1.0)" cloneof="Fushigi no Yume no Alice (Japan)">
+	<game name="Fushigi no Yume no Alice (Japan) (En) (v1.0) (Dave Shadoff,filler,MooZ,Diogo Ribeiro)" cloneof="Fushigi no Yume no Alice (Japan)">
 		<category>Retail</category>
-		<description>Fushigi no Yume no Alice (Japan) (En) (v1.0)</description>
-		<release name="Fushigi no Yume no Alice (Japan) (En) (v1.0)" region="English"/>
-		<rom name="Fushigi no Yume no Alice (Japan) (En) (v1.0).pce" size="393216" crc="c21f25c4" md5="4ed3f4820b238d5c1cb49dcaf24f382a" sha1="9868a3049e6bbc75a537415a2db8bbda17dc1864"/>
+		<description>Fushigi no Yume no Alice (Japan) (En) (v1.0) (Dave Shadoff,filler,MooZ,Diogo Ribeiro)</description>
+		<release name="Fushigi no Yume no Alice (Japan) (En) (v1.0) (Dave Shadoff,filler,MooZ,Diogo Ribeiro)" region="English"/>
+		<rom name="Fushigi no Yume no Alice (Japan) (En) (v1.0) (Dave Shadoff,filler,MooZ,Diogo Ribeiro).pce" size="393216" crc="c21f25c4" md5="4ed3f4820b238d5c1cb49dcaf24f382a" sha1="9868a3049e6bbc75a537415a2db8bbda17dc1864"/>
 		<url>https://retroachievements.org/game/7193/hashes</url>
 		<hash>4ed3f4820b238d5c1cb49dcaf24f382a</hash>
 	</game>
@@ -750,7 +775,7 @@
 		<url>https://retroachievements.org/game/14455/hashes</url>
 		<hash>144eb9109d75c8fd1fa09a20bde6a6cd</hash>
 	</game>
-
+	
 	<game name="Gomola Speed (Japan) (En)">
 		<category>Retail</category>
 		<description>Gomola Speed (Japan) (En)</description>
@@ -769,11 +794,11 @@
 		<hash>16fe78b1630a790bee6755e3c850a366</hash>
 	</game>
 	
-	<game name="Hanii in the Sky (Japan) (En) (v1.0) (filler, cabbage)">
+	<game name="Hanii in the Sky (Japan) (En) (v1.0) (filler,cabbage)">
 		<category>Retail</category>
-		<description>Hanii in the Sky (Japan) (En) (v1.0) (filler, cabbage)</description>
-		<release name="Hanii in the Sky (Japan) (En) (v1.0) (filler, cabbage)" region="English"/>
-		<rom name="Hanii in the Sky (Japan) (En) (v1.0) (filler, cabbage).pce" size="262144" crc="d1dc2f66" md5="015b8a761e1c3a8d0d474ef7e1063a55" sha1="ef3e666d73293e766e88c77e8bdfa331399789a6"/>
+		<description>Hanii in the Sky (Japan) (En) (v1.0) (filler,cabbage)</description>
+		<release name="Hanii in the Sky (Japan) (En) (v1.0) (filler,cabbage)" region="English"/>
+		<rom name="Hanii in the Sky (Japan) (En) (v1.0) (filler,cabbage).pce" size="262144" crc="d1dc2f66" md5="015b8a761e1c3a8d0d474ef7e1063a55" sha1="ef3e666d73293e766e88c77e8bdfa331399789a6"/>
 		<url>https://retroachievements.org/game/18741/hashes</url>
 		<hash>015b8a761e1c3a8d0d474ef7e1063a55</hash>
 	</game>
@@ -803,7 +828,7 @@
 		<url>https://retroachievements.org/game/7444/hashes</url>
 		<hash>23df0b354e83876a94e9c128a7a9eb80</hash>
 	</game>
-
+	
 	<game name="Jackie Chan's Action Kung Fu (USA)">
 		<category>Retail</category>
 		<description>Jackie Chan's Action Kung Fu (USA)</description>
@@ -891,7 +916,7 @@
 		<url>https://retroachievements.org/game/2306/hashes</url>
 		<hash>74d9f1bd96ba2690ed4cb989ebaeb948</hash>
 	</game>
-
+	
 	<game name="Makai Hakkenden - Shada (Japan)">
 		<category>Retail</category>
 		<description>Makai Hakkenden - Shada (Japan)</description>
@@ -900,11 +925,11 @@
 		<url>https://retroachievements.org/game/22775/hashes</url>
 		<hash>06c9c65e0e1c0669be28cc99ace61f54</hash>
 	</game>
-	<game name="Makai Hakkenden - Shada (Japan) (En) (v1.0) (Shubibiman, cabbage)" cloneof="Makai Hakkenden - Shada (Japan)">
+	<game name="Makai Hakkenden - Shada (Japan) (En) (v1.0) (Shubibiman,cabbage)" cloneof="Makai Hakkenden - Shada (Japan)">
 		<category>Retail</category>
-		<description>Makai Hakkenden - Shada (Japan) (En) (v1.0) (Shubibiman, cabbage)</description>
-		<release name="Makai Hakkenden - Shada (Japan) (En) (v1.0) (Shubibiman, cabbage)" region="English"/>
-		<rom name="Makai Hakkenden - Shada (Japan) (En) (v1.0) (Shubibiman, cabbage).pce" size="262144" crc="017de16d" md5="6b33184f381d3bfc9870f5ad55b8c78a" sha1="448991d34538c40cb8d7738ed1093b86c4dd1cfd"/>
+		<description>Makai Hakkenden - Shada (Japan) (En) (v1.0) (Shubibiman,cabbage)</description>
+		<release name="Makai Hakkenden - Shada (Japan) (En) (v1.0) (Shubibiman,cabbage)" region="English"/>
+		<rom name="Makai Hakkenden - Shada (Japan) (En) (v1.0) (Shubibiman,cabbage).pce" size="262144" crc="017de16d" md5="6b33184f381d3bfc9870f5ad55b8c78a" sha1="448991d34538c40cb8d7738ed1093b86c4dd1cfd"/>
 		<url>https://retroachievements.org/game/22775/hashes</url>
 		<hash>6b33184f381d3bfc9870f5ad55b8c78a</hash>
 	</game>
@@ -926,11 +951,11 @@
 		<url>https://retroachievements.org/game/19923/hashes</url>
 		<hash>887b9fa8296ff3c98839e11cc7039763</hash>
 	</game>
-	<game name="Maerchen Maze (Japan) (En) (v1.1) (MooZ &amp; Shubibiman)" cloneof="Maerchen Maze (Japan)">
+	<game name="Maerchen Maze (Japan) (En) (v1.1) (MooZ,Shubibiman)" cloneof="Maerchen Maze (Japan)">
 		<category>Retail</category>
-		<description>Maerchen Maze (Japan) (En) (v1.1) (MooZ &amp; Shubibiman)</description>
-		<release name="Maerchen Maze (Japan) (En) (v1.1) (MooZ &amp; Shubibiman)" region="English"/>
-		<rom name="Maerchen Maze (Japan) (En) (v1.1) (MooZ &amp; Shubibiman).pce" size="262144" crc="b7166358" md5="f34299acd4a789ad51e7b10be3a8947d" sha1="caf03a4bd2b8e74746b98c0b8be312231e447064"/>
+		<description>Maerchen Maze (Japan) (En) (v1.1) (MooZ,Shubibiman)</description>
+		<release name="Maerchen Maze (Japan) (En) (v1.1) (MooZ,Shubibiman)" region="English"/>
+		<rom name="Maerchen Maze (Japan) (En) (v1.1) (MooZ,Shubibiman).pce" size="262144" crc="b7166358" md5="f34299acd4a789ad51e7b10be3a8947d" sha1="caf03a4bd2b8e74746b98c0b8be312231e447064"/>
 		<url>https://retroachievements.org/game/19923/hashes</url>
 		<hash>f34299acd4a789ad51e7b10be3a8947d</hash>
 	</game>
@@ -961,7 +986,7 @@
 		<url>https://retroachievements.org/game/2308/hashes</url>
 		<hash>1b10baf9f65c8339a507e382bda5ed44</hash>
 	</game>
-
+	
 	<game name="Neutopia - Frey no Shou (Japan)" cloneof="Neutopia (USA)">
 		<category>Retail</category>
 		<description>Neutopia - Frey no Shou (Japan)</description>
@@ -1222,7 +1247,7 @@
 		<url>https://retroachievements.org/game/6026/hashes</url>
 		<hash>1659d9fa2ed7628d342fd7c7fbe6d439</hash>
 	</game>
-
+	
 	<game name="Shiryou Sensen - War of the Dead (Japan) (En) (v1.0) (Nebulous Translations)" cloneof="Shiryou Sensen - War of the Dead (Japan)">
 		<category>Retail</category>
 		<description>Shiryou Sensen - War of the Dead (Japan) (En) (v1.0) (Nebulous Translations)</description>

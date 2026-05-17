@@ -5,34 +5,34 @@
 		<name>RA - Interton VC 4000</name>
 		<description>Interton VC 4000</description>
 		<category>Subfolders</category>
-		<version>20251225</version>
-		<date>25 December 2025</date>
+		<version>20260428</version>
+		<date>28 April 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/74/games</url>
-		<titlecount>34</titlecount>
-		<hashcount>37</hashcount>
+		<titlecount>36</titlecount>
+		<hashcount>39</hashcount>
 	</header>
-	<game name="Homebrew/Canabalt (World) (v20180101) (senilyDeluxe) (Aftermarket)">
+	<game name="Homebrew/Canabalt (World) (v20180101) (Aftermarket) (senilyDeluxe)">
 		<category></category>
-		<description>Canabalt (World) (v20180101) (senilyDeluxe) (Aftermarket)</description>
-		<rom name="Canabalt (World) (v20180101) (senilyDeluxe) (Aftermarket).bin" size="4031" crc="c8311b54" md5="82c999bc12e38600ad9e70508d2dab8c" sha1="17c2adfd214a273114a9519ccce8d0a0de1efd38"/>
+		<description>Canabalt (World) (v20180101) (Aftermarket) (senilyDeluxe)</description>
+		<rom name="Canabalt (World) (v20180101) (Aftermarket) (senilyDeluxe).bin" size="4031" crc="c8311b54" md5="82c999bc12e38600ad9e70508d2dab8c" sha1="17c2adfd214a273114a9519ccce8d0a0de1efd38"/>
 		<url>https://retroachievements.org/game/24634/hashes</url>
 		<hash>82c999bc12e38600ad9e70508d2dab8c</hash>
 	</game>
 	
-	<game name="Homebrew/Flappy Birds 2 (World) (v20170530) (senilyDeluxe) (Aftermarket)">
+	<game name="Homebrew/Flappy Birds 2 (World) (v20170530) (Aftermarket) (senilyDeluxe)">
 		<category></category>
-		<description>Flappy Birds 2 (World) (v20170530) (senilyDeluxe) (Aftermarket)</description>
-		<rom name="Flappy Birds 2 (World) (v20170530) (senilyDeluxe) (Aftermarket).bin" size="2048" crc="e6f6830a" md5="312050bd0346e2bb54ec2308d7f281ef" sha1="7a78690e755a4634437e653a272b1ba17fad82f6"/>
+		<description>Flappy Birds 2 (World) (v20170530) (Aftermarket) (senilyDeluxe)</description>
+		<rom name="Flappy Birds 2 (World) (v20170530) (Aftermarket) (senilyDeluxe).bin" size="2048" crc="e6f6830a" md5="312050bd0346e2bb54ec2308d7f281ef" sha1="7a78690e755a4634437e653a272b1ba17fad82f6"/>
 		<url>https://retroachievements.org/game/24633/hashes</url>
 		<hash>312050bd0346e2bb54ec2308d7f281ef</hash>
 	</game>
 	
-	<game name="Homebrew/Tetris (World) (v20200922) (SimonAugustin) (Aftermarket)">
+	<game name="Homebrew/Tetris (World) (v20200922) (Aftermarket) (SimonAugustin)">
 		<category></category>
-		<description>Tetris (World) (v20200922) (SimonAugustin) (Aftermarket)</description>
-		<rom name="Tetris (World) (v20200922) (SimonAugustin) (Aftermarket).bin" size="4096" crc="9cbb3c2e" md5="0cbac5ace65a63613587152d2ef87311" sha1="abeb3c61a7818914b3219ee74018a8d2d3176dcc"/>
+		<description>Tetris (World) (v20200922) (Aftermarket) (SimonAugustin)</description>
+		<rom name="Tetris (World) (v20200922) (Aftermarket) (SimonAugustin).bin" size="4096" crc="9cbb3c2e" md5="0cbac5ace65a63613587152d2ef87311" sha1="abeb3c61a7818914b3219ee74018a8d2d3176dcc"/>
 		<url>https://retroachievements.org/game/24632/hashes</url>
 		<hash>0cbac5ace65a63613587152d2ef87311</hash>
 	</game>
@@ -75,6 +75,14 @@
 		<rom name="Circus (Europe).bin" size="2048" crc="0ab80f3e" md5="7f3916bb403c86b40f12847362ef3904" sha1="cff0b7066669aad1e35803767fd98ecef4ea162d"/>
 		<url>https://retroachievements.org/game/21629/hashes</url>
 		<hash>7f3916bb403c86b40f12847362ef3904</hash>
+	</game>
+	
+	<game name="Retail/Come Come (Europe) (19xx) (Palson)">
+		<category></category>
+		<description>Come Come (Europe) (19xx) (Palson)</description>
+		<rom name="Come Come (Europe) (19xx) (Palson).bin" size="4096" crc="bd90fca7" md5="dd262c3a2df1e273c012cd076ce7b8bf" sha1="a739e585b6e7a58295b656d81d7781f9646546ca"/>
+		<url>https://retroachievements.org/game/24635/hashes</url>
+		<hash>dd262c3a2df1e273c012cd076ce7b8bf</hash>
 	</game>
 	
 	<game name="Retail/Crazy Crab (World) (1983) (Radofin Electronics)">
@@ -228,10 +236,10 @@
 		<hash>dff0d751378612a78da0dfa015374664</hash>
 	</game>
 	
-	<game name="Retail/Munch &amp; Crunch/Munch &amp; Crunch - Enhanced (World) (1982) (Voltmace - Derek Andrews)">
+	<game name="Retail/Munch &amp; Crunch/Munch &amp; Crunch (World) (1982) (Voltmace - Derek Andrews) (Enhanced)">
 		<category></category>
-		<description>Munch &amp; Crunch - Enhanced (World) (1982) (Voltmace - Derek Andrews)</description>
-		<rom name="Munch &amp; Crunch - Enhanced (World) (1982) (Voltmace - Derek Andrews).bin" size="4121" crc="2bef2934" md5="266bd11247683b0ff4da015fb305b9c4" sha1="157cf0085e8663efe33f3a64415bf8e2bbe3f70f"/>
+		<description>Munch &amp; Crunch (World) (1982) (Voltmace - Derek Andrews) (Enhanced)</description>
+		<rom name="Munch &amp; Crunch (World) (1982) (Voltmace - Derek Andrews) (Enhanced).bin" size="4121" crc="2bef2934" md5="266bd11247683b0ff4da015fb305b9c4" sha1="157cf0085e8663efe33f3a64415bf8e2bbe3f70f"/>
 		<url>https://retroachievements.org/game/24639/hashes</url>
 		<hash>266bd11247683b0ff4da015fb305b9c4</hash>
 	</game>

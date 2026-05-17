@@ -5,34 +5,42 @@
 		<name>RA - Sega Game Gear</name>
 		<description>Sega Game Gear</description>
 		<category>Subfolders</category>
-		<version>20260214</version>
-		<date>14 February 2026</date>
+		<version>20260428</version>
+		<date>28 April 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/15/games</url>
-		<titlecount>113</titlecount>
-		<hashcount>137/138</hashcount>
+		<titlecount>119</titlecount>
+		<hashcount>143/144</hashcount>
 	</header>
-	<game name="Homebrew/Hamburgers en Route to Switzerland (World) (v0.75) (Proto) (Aftermarket)">
+	<game name="Homebrew/Hamburgers en Route to Switzerland (World) (Proto 2) (Aftermarket) (Unl)">
 		<category></category>
-		<description>Hamburgers en Route to Switzerland (World) (v0.75) (Proto) (Aftermarket)</description>
-		<rom name="Hamburgers en Route to Switzerland (World) (v0.75) (Proto) (Aftermarket).gg" size="131072" crc="f4fad7c2" md5="c91f1bcc0b4ab1abac998ce8a02bbafb" sha1="de7f24f7bcc6b6a225b994c82d4e2ea6aac0f4e7"/>
+		<description>Hamburgers en Route to Switzerland (World) (Proto 2) (Aftermarket) (Unl)</description>
+		<rom name="Hamburgers en Route to Switzerland (World) (Proto 2) (Aftermarket) (Unl).gg" size="131072" crc="f4fad7c2" md5="c91f1bcc0b4ab1abac998ce8a02bbafb" sha1="de7f24f7bcc6b6a225b994c82d4e2ea6aac0f4e7"/>
 		<url>https://retroachievements.org/game/28834/hashes</url>
 		<hash>c91f1bcc0b4ab1abac998ce8a02bbafb</hash>
 	</game>
 	
-	<game name="Homebrew/Snepzhen Solitaire (World) (v1.0) (Wainstop) (Aftermarket)">
+	<game name="Homebrew/Hopman Mini (World) (Aftermarket) (Unl)">
 		<category></category>
-		<description>Snepzhen Solitaire (World) (v1.0) (Wainstop) (Aftermarket)</description>
-		<rom name="Snepzhen Solitaire (World) (v1.0) (Wainstop) (Aftermarket).gg" size="32768" crc="fd06798c" md5="aca63448b5d887239fc8821760d36efb" sha1="891811a7b86222b01f9a43664db8186e2f8001b8"/>
+		<description>Hopman Mini (World) (Aftermarket) (Unl)</description>
+		<rom name="Hopman Mini (World) (Aftermarket) (Unl).gg" size="16368" crc="84fd672d" md5="73cda8d9cf406c5ad1d69747333482e9" sha1="920aa9c3d64073d140280bf0baed64fe2aaa5dfa"/>
+		<url>https://retroachievements.org/game/32992/hashes</url>
+		<hash>73cda8d9cf406c5ad1d69747333482e9</hash>
+	</game>
+	
+	<game name="Homebrew/Snepzhen Solitaire (World) (Aftermarket) (Unl)">
+		<category></category>
+		<description>Snepzhen Solitaire (World) (Aftermarket) (Unl)</description>
+		<rom name="Snepzhen Solitaire (World) (Aftermarket) (Unl).gg" size="32768" crc="fd06798c" md5="aca63448b5d887239fc8821760d36efb" sha1="891811a7b86222b01f9a43664db8186e2f8001b8"/>
 		<url>https://retroachievements.org/game/30932/hashes</url>
 		<hash>aca63448b5d887239fc8821760d36efb</hash>
 	</game>
 	
-	<game name="Homebrew/Swabby (World) (v1.11) (Aftermarket)">
+	<game name="Homebrew/Swabby (World) (v1.11) (Aftermarket) (Unl)">
 		<category></category>
-		<description>Swabby (World) (v1.11) (Aftermarket)</description>
-		<rom name="Swabby (World) (v1.11) (Aftermarket).gg" size="131072" crc="b814ad3d" md5="db672d52225564b6f520e8a0a4b1a4c7" sha1="64f7350ca2c37c44b679e35f9bfd2766c7259cb9"/>
+		<description>Swabby (World) (v1.11) (Aftermarket) (Unl)</description>
+		<rom name="Swabby (World) (v1.11) (Aftermarket) (Unl).gg" size="131072" crc="b814ad3d" md5="db672d52225564b6f520e8a0a4b1a4c7" sha1="64f7350ca2c37c44b679e35f9bfd2766c7259cb9"/>
 		<url>https://retroachievements.org/game/26880/hashes</url>
 		<hash>db672d52225564b6f520e8a0a4b1a4c7</hash>
 	</game>
@@ -186,10 +194,10 @@
 		<hash>90bd4681e3e4b07445eaf35e83b223db</hash>
 	</game>
 	
-	<game name="Retail/Crayon Shin-chan - Taiketsu! Kantam Panic!! (Japan) (En)">
+	<game name="Retail/Crayon Shin-chan - Taiketsu! Kantam Panic!! (Japan)">
 		<category></category>
-		<description>Crayon Shin-chan - Taiketsu! Kantam Panic!! (Japan) (En)</description>
-		<rom name="Crayon Shin-chan - Taiketsu! Kantam Panic!! (Japan) (En).gg" size="524288" crc="48c18828" md5="3788f49e16ddb70d0af7b2cf63456246" sha1="01aac4e14ae71d3980cf968cc2bd6831e3987ab1"/>
+		<description>Crayon Shin-chan - Taiketsu! Kantam Panic!! (Japan)</description>
+		<rom name="Crayon Shin-chan - Taiketsu! Kantam Panic!! (Japan).gg" size="524288" crc="48c18828" md5="3788f49e16ddb70d0af7b2cf63456246" sha1="01aac4e14ae71d3980cf968cc2bd6831e3987ab1"/>
 		<url>https://retroachievements.org/game/29324/hashes</url>
 		<hash>3788f49e16ddb70d0af7b2cf63456246</hash>
 	</game>
@@ -265,10 +273,10 @@
 		<url>https://retroachievements.org/game/14297/hashes</url>
 		<hash>c58d6291da8a4919328b8f42be8640a7</hash>
 	</game>
-	<game name="Retail/Eternal Legend/Eternal Legend - Eien no Densetsu (Japan) (En) (No-Encounter) (v1.0) (LIPEMCO!,Searo)">
+	<game name="Retail/Eternal Legend/Eternal Legend (Japan) (En) (No-Encounter) (v1.0) (LIPEMCO!,Searo)">
 		<category></category>
-		<description>Eternal Legend - Eien no Densetsu (Japan) (En) (No-Encounter) (v1.0) (LIPEMCO!,Searo)</description>
-		<rom name="Eternal Legend - Eien no Densetsu (Japan) (En) (No-Encounter) (v1.0) (LIPEMCO!,Searo).gg" size="1048576" crc="75988ab3" md5="e8f49ea568e174b50079f725ce29f45d" sha1="5a5cf544317465db0b486e4edc6d1354b693f0a8"/>
+		<description>Eternal Legend (Japan) (En) (No-Encounter) (v1.0) (LIPEMCO!,Searo)</description>
+		<rom name="Eternal Legend (Japan) (En) (No-Encounter) (v1.0) (LIPEMCO!,Searo).gg" size="1048576" crc="75988ab3" md5="e8f49ea568e174b50079f725ce29f45d" sha1="5a5cf544317465db0b486e4edc6d1354b693f0a8"/>
 		<url>https://retroachievements.org/game/14297/hashes</url>
 		<hash>e8f49ea568e174b50079f725ce29f45d</hash>
 	</game>
@@ -297,10 +305,10 @@
 		<hash>43301e7c15fe11f66b29b00e6ec47a52</hash>
 	</game>
 	
-	<game name="Retail/GG Aleste 3 (Japan) (En) (Playability Patch)">
+	<game name="Retail/GG Aleste 3 (Japan) (En) (Aleste Collection) (Playability Patch)">
 		<category></category>
-		<description>GG Aleste 3 (Japan) (En) (Playability Patch)</description>
-		<rom name="GG Aleste 3 (Japan) (En) (Playability Patch).gg" size="1048576" crc="717fd9e3" md5="41f9b360571a8aae3b01e780e90a9f68" sha1="b2948f2498d3095aebdb5fe4a62590c12c8ea846"/>
+		<description>GG Aleste 3 (Japan) (En) (Aleste Collection) (Playability Patch)</description>
+		<rom name="GG Aleste 3 (Japan) (En) (Aleste Collection) (Playability Patch).gg" size="1048576" crc="717fd9e3" md5="41f9b360571a8aae3b01e780e90a9f68" sha1="b2948f2498d3095aebdb5fe4a62590c12c8ea846"/>
 		<url>https://retroachievements.org/game/27591/hashes</url>
 		<hash>41f9b360571a8aae3b01e780e90a9f68</hash>
 	</game>
@@ -320,7 +328,7 @@
 		<url>https://retroachievements.org/game/17036/hashes</url>
 		<hash>82d3c23cf9617174aa47bed8e76438df</hash>
 	</game>
-
+	
 	<game name="Gunstar Heroes (Japan)">
 		<category>Retail</category>
 		<description>Gunstar Heroes (Japan)</description>
@@ -329,7 +337,7 @@
 		<url>https://retroachievements.org/game/12624/hashes</url>
 		<hash>c46d46f3ab4873cb1ed7ae8b9b70f2b4</hash>
 	</game>
-
+	
 	<game name="Retail/Halley Wars (USA, Europe, Brazil) (En)">
 		<category></category>
 		<description>Halley Wars (USA, Europe, Brazil) (En)</description>
@@ -383,10 +391,10 @@
 		<url>https://retroachievements.org/game/12896/hashes</url>
 		<hash>ac6ed281ac8e9d71af186602951cfd7a</hash>
 	</game>
-	<game name="Retail/Kishin Douji Zenki/Kishin Douji Zenki (Japan) (En) (v1.0) (LIPEMCO Translations)">
+	<game name="Retail/Kishin Douji Zenki/Kishin Douji Zenki (Japan) (En) (v1.0) (LIPEMCO! Translations)">
 		<category></category>
-		<description>Kishin Douji Zenki (Japan) (En) (v1.0) (LIPEMCO Translations)</description>
-		<rom name="Kishin Douji Zenki (Japan) (En) (v1.0) (LIPEMCO Translations).gg" size="1048576" crc="dcd63e4c" md5="b0f8f7a3b573468f1d65b660c173dc82" sha1="048e3bddc01f4079d0a6a54efbeca1254d10d1f2"/>
+		<description>Kishin Douji Zenki (Japan) (En) (v1.0) (LIPEMCO! Translations)</description>
+		<rom name="Kishin Douji Zenki (Japan) (En) (v1.0) (LIPEMCO! Translations).gg" size="1048576" crc="dcd63e4c" md5="b0f8f7a3b573468f1d65b660c173dc82" sha1="048e3bddc01f4079d0a6a54efbeca1254d10d1f2"/>
 		<url>https://retroachievements.org/game/12896/hashes</url>
 		<hash>b0f8f7a3b573468f1d65b660c173dc82</hash>
 	</game>
@@ -609,10 +617,10 @@
 		<hash>4d0d6d25dfef7e1a509d828f157d515f</hash>
 	</game>
 	
-	<game name="Retail/Pengo/Pengo (Japan)">
+	<game name="Retail/Pengo/Pengo (Japan) (En)">
 		<category></category>
-		<description>Pengo (Japan)</description>
-		<rom name="Pengo (Japan).gg" size="32768" crc="ce863dba" md5="95cea3a33a3f5915942904b4817b2010" sha1="5883e2d19ab7126d52abc177a97d44bc88c319de"/>
+		<description>Pengo (Japan) (En)</description>
+		<rom name="Pengo (Japan) (En).gg" size="32768" crc="ce863dba" md5="95cea3a33a3f5915942904b4817b2010" sha1="5883e2d19ab7126d52abc177a97d44bc88c319de"/>
 		<url>https://retroachievements.org/game/12251/hashes</url>
 		<hash>95cea3a33a3f5915942904b4817b2010</hash>
 	</game>
@@ -632,19 +640,19 @@
 		<hash>c069464b6a0f9fa547c22133f143b75c</hash>
 	</game>
 	
-	<game name="Retail/Phantasy Star Gaiden/Phantasy Star Gaiden (Japan) (En) (v1.012) (Dynamic Designs)">
-		<category></category>
-		<description>Phantasy Star Gaiden (Japan) (En) (v1.012) (Dynamic Designs)</description>
-		<rom name="Phantasy Star Gaiden (Japan) (En) (v1.012) (Dynamic Designs).gg" size="262144" crc="17e64f1e" md5="39aa719b13cd1c50c30232cf5ac80059" sha1="adab47ecc3c0d574243205ddd6edbae6c12bce64"/>
-		<url>https://retroachievements.org/game/12884/hashes</url>
-		<hash>39aa719b13cd1c50c30232cf5ac80059</hash>
-	</game>
 	<game name="Retail/Phantasy Star Gaiden/Phantasy Star Gaiden (Japan)">
 		<category></category>
 		<description>Phantasy Star Gaiden (Japan)</description>
 		<rom name="Phantasy Star Gaiden (Japan).gg" size="262144" crc="a942514a" md5="54be96ca21885145108f1c02e4d88eba" sha1="914f1e693f396794a37b5d99acaf5db54fe529c2"/>
 		<url>https://retroachievements.org/game/12884/hashes</url>
 		<hash>54be96ca21885145108f1c02e4d88eba</hash>
+	</game>
+	<game name="Retail/Phantasy Star Gaiden/Phantasy Star Gaiden (Japan) (En) (v1.012) (Dynamic Designs)">
+		<category></category>
+		<description>Phantasy Star Gaiden (Japan) (En) (v1.012) (Dynamic Designs)</description>
+		<rom name="Phantasy Star Gaiden (Japan) (En) (v1.012) (Dynamic Designs).gg" size="262144" crc="17e64f1e" md5="39aa719b13cd1c50c30232cf5ac80059" sha1="adab47ecc3c0d574243205ddd6edbae6c12bce64"/>
+		<url>https://retroachievements.org/game/12884/hashes</url>
+		<hash>39aa719b13cd1c50c30232cf5ac80059</hash>
 	</game>
 	<game name="Retail/Phantasy Star Gaiden/Phantasy Star Gaiden (Japan) (En) (Wide Font) (v1.012) (Dynamic Designs)">
 		<category></category>
@@ -654,10 +662,10 @@
 		<hash>ba091114cbc5a4b3482e6887094070bb</hash>
 	</game>
 	
-	<game name="Retail/Pop Breaker (Japan)">
+	<game name="Retail/Pop Breaker (Japan) (En)">
 		<category></category>
-		<description>Pop Breaker (Japan)</description>
-		<rom name="Pop Breaker (Japan).gg" size="131072" crc="71deba5a" md5="e0e2fbd5834c04574795c923b0147f39" sha1="9c358504d3c106dd62bd8981132b47cdb95903de"/>
+		<description>Pop Breaker (Japan) (En)</description>
+		<rom name="Pop Breaker (Japan) (En).gg" size="131072" crc="71deba5a" md5="e0e2fbd5834c04574795c923b0147f39" sha1="9c358504d3c106dd62bd8981132b47cdb95903de"/>
 		<url>https://retroachievements.org/game/14301/hashes</url>
 		<hash>e0e2fbd5834c04574795c923b0147f39</hash>
 	</game>
@@ -693,10 +701,10 @@
 		<url>https://retroachievements.org/game/14059/hashes</url>
 		<hash>52cfddc12af6a3a64030f62ccf6aca83</hash>
 	</game>
-	<game name="Retail/Psychic World/Psychic World (Japan) (En)">
+	<game name="Retail/Psychic World/Psychic World (Japan)">
 		<category></category>
-		<description>Psychic World (Japan) (En)</description>
-		<rom name="Psychic World (Japan) (En).sms" size="131072" crc="afcc7828" md5="a764b44555aadb48c519e7c85bdf7895" sha1="1c0074c811ed4eb369be31c1bc7d851e40ae8797"/>
+		<description>Psychic World (Japan)</description>
+		<rom name="Psychic World (Japan).sms" size="131072" crc="afcc7828" md5="a764b44555aadb48c519e7c85bdf7895" sha1="1c0074c811ed4eb369be31c1bc7d851e40ae8797"/>
 		<url>https://retroachievements.org/game/14059/hashes</url>
 		<hash>a764b44555aadb48c519e7c85bdf7895</hash>
 	</game>
@@ -708,11 +716,11 @@
 		<url>https://retroachievements.org/game/26242/hashes</url>
 		<hash>dcec1000aea3882b218b0cc0aed5a5d8</hash>
 	</game>
-
-	<game name="Retail/Rastan Saga (Japan)">
+	
+	<game name="Retail/Rastan Saga (Japan) (En)">
 		<category></category>
-		<description>Rastan Saga (Japan)</description>
-		<rom name="Rastan Saga (Japan).sms" size="262144" crc="9c76fb3a" md5="fd82af26ebbed24f57c4eea8eddf3136" sha1="96bf8a67919218aac91fb74cde80a16f90df77d5"/>
+		<description>Rastan Saga (Japan) (En)</description>
+		<rom name="Rastan Saga (Japan) (En).sms" size="262144" crc="9c76fb3a" md5="fd82af26ebbed24f57c4eea8eddf3136" sha1="96bf8a67919218aac91fb74cde80a16f90df77d5"/>
 		<url>https://retroachievements.org/game/17698/hashes</url>
 		<hash>fd82af26ebbed24f57c4eea8eddf3136</hash>
 	</game>
@@ -764,10 +772,10 @@
 		<hash>f96d7da86e4f63d66175b1903f976b2c</hash>
 	</game>
 	
-	<game name="Retail/Shining Force Gaiden/Shining Force Gaiden - Final Conflict (Japan) (En) (Debug Patch) (Bartis1989)">
+	<game name="Retail/Shining Force Gaiden/Shining Force Gaiden - Final Conflict (Japan) (En) (Debug Patch) (Shining Force Central,Bartis1989)">
 		<category></category>
-		<description>Shining Force Gaiden - Final Conflict (Japan) (En) (Debug Patch) (Bartis1989)</description>
-		<rom name="Shining Force Gaiden - Final Conflict (Japan) (En) (Debug Patch) (Bartis1989).gg" size="524288" crc="88d26fcd" md5="219b1a3f5e055fce7245d869e1fc9249" sha1="a7f5ee9d8287a32e7d9c18ff8f491555785f5ed1"/>
+		<description>Shining Force Gaiden - Final Conflict (Japan) (En) (Debug Patch) (Shining Force Central,Bartis1989)</description>
+		<rom name="Shining Force Gaiden - Final Conflict (Japan) (En) (Debug Patch) (Shining Force Central,Bartis1989).gg" size="524288" crc="88d26fcd" md5="219b1a3f5e055fce7245d869e1fc9249" sha1="a7f5ee9d8287a32e7d9c18ff8f491555785f5ed1"/>
 		<url>https://retroachievements.org/game/12640/hashes</url>
 		<hash>219b1a3f5e055fce7245d869e1fc9249</hash>
 	</game>
@@ -779,10 +787,10 @@
 		<hash>b7b023b6c716c8c984c3268a962cf99b</hash>
 	</game>
 	
-	<game name="Retail/Shining Force - The Sword of Hajya/Shining Force - The Sword of Hajya (USA) (Debug Patch) (Bartis 1989)">
+	<game name="Retail/Shining Force - The Sword of Hajya/Shining Force - The Sword of Hajya (USA) (Debug Patch) (Bartis1989)">
 		<category></category>
-		<description>Shining Force - The Sword of Hajya (USA) (Debug Patch) (Bartis 1989)</description>
-		<rom name="Shining Force - The Sword of Hajya (USA) (Debug Patch) (Bartis 1989).gg" size="524288" crc="90ac7c6a" md5="4c749140795a0fb69a06574d5187cd25" sha1="c010b70d2ab6dd010bee676da11bf69a90c39a01"/>
+		<description>Shining Force - The Sword of Hajya (USA) (Debug Patch) (Bartis1989)</description>
+		<rom name="Shining Force - The Sword of Hajya (USA) (Debug Patch) (Bartis1989).gg" size="524288" crc="90ac7c6a" md5="4c749140795a0fb69a06574d5187cd25" sha1="c010b70d2ab6dd010bee676da11bf69a90c39a01"/>
 		<url>https://retroachievements.org/game/12639/hashes</url>
 		<hash>4c749140795a0fb69a06574d5187cd25</hash>
 	</game>
@@ -1093,6 +1101,22 @@
 		<rom name="X-Men (USA).gg" size="524288" crc="567a5ee6" md5="21d75ed09b6f73037544894580933a0b" sha1="215e5f761475ca17a091371e39f636718f213403"/>
 		<url>https://retroachievements.org/game/13394/hashes</url>
 		<hash>21d75ed09b6f73037544894580933a0b</hash>
+	</game>
+	
+	<game name="Retail/X-Men - Gamemaster's Legacy (USA, Europe)">
+		<category></category>
+		<description>X-Men - Gamemaster's Legacy (USA, Europe)</description>
+		<rom name="X-Men - Gamemaster's Legacy (USA, Europe).gg" size="524288" crc="c169c344" md5="571ac03b80e3075c699cd583bf8651fd" sha1="872596d40aae1755c9dda99180cb165166267904"/>
+		<url>https://retroachievements.org/game/13396/hashes</url>
+		<hash>571ac03b80e3075c699cd583bf8651fd</hash>
+	</game>
+	
+	<game name="Retail/X-Men - Mojo World (USA)">
+		<category></category>
+		<description>X-Men - Mojo World (USA)</description>
+		<rom name="X-Men - Mojo World (USA).gg" size="524288" crc="c2cba9d7" md5="ca15f2ba2507ebd836c42d9d10231eb1" sha1="cff15c4a3e555c2868af93c55386b5ab3d3db4e3"/>
+		<url>https://retroachievements.org/game/26255/hashes</url>
+		<hash>ca15f2ba2507ebd836c42d9d10231eb1</hash>
 	</game>
 	
 	<game name="Retail/Yu Yu Hakusho II/Yu Yu Hakusho II - Gekitou! Nanakyou no Tatakai (Japan)">

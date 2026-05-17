@@ -5,8 +5,8 @@
 		<name>RA - Sega 32X</name>
 		<description>Sega 32X</description>
 		<category>Subfolders</category>
-		<version>20260227</version>
-		<date>27 February 2026</date>
+		<version>20260427</version>
+		<date>27 April 2026</date>
 		<author>AzgoRAth, NeoRetroGamer (Contributor), Jumphil (Contributor)</author>
 		<homepage>https://retroachievements.org</homepage>
 		<url>https://retroachievements.org/system/10/games</url>
@@ -60,34 +60,34 @@
 		<hash>16a811628cd9245f2101e218581cd594</hash>
 	</game>
 	
-	<game name="Homebrew/Double Symbol (World) (v1.35) (Timur Lyazgiev) (Aftermarket)">
+	<game name="Homebrew/Double Symbol (World) (v1.35) (Aftermarket) (Timur Lyazgiev)">
 		<category></category>
-		<description>Double Symbol (World) (v1.35) (Timur Lyazgiev) (Aftermarket)</description>
-		<rom name="Double Symbol (World) (v1.35) (Timur Lyazgiev) (Aftermarket).32x" size="484748" crc="2812d4fe" md5="4b14e8c22a97b4fd164e077a4980c582" sha1="54421dcfeecb9d00d1e6deeb191d921baa323a4e"/>
+		<description>Double Symbol (World) (v1.35) (Aftermarket) (Timur Lyazgiev)</description>
+		<rom name="Double Symbol (World) (v1.35) (Aftermarket) (Timur Lyazgiev).32x" size="484748" crc="2812d4fe" md5="4b14e8c22a97b4fd164e077a4980c582" sha1="54421dcfeecb9d00d1e6deeb191d921baa323a4e"/>
 		<url>https://retroachievements.org/game/33570/hashes</url>
 		<hash>4b14e8c22a97b4fd164e077a4980c582</hash>
 	</game>
 	
-	<game name="Homebrew/xRick (USA) (v2011-04-30) (Chilly Willy) (Aftermarket)">
+	<game name="Homebrew/xRick (World) (Aftermarket) (Unl)">
 		<category></category>
-		<description>xRick (USA) (v2011-04-30) (Chilly Willy) (Aftermarket)</description>
-		<rom name="xRick (USA) (v2011-04-30) (Chilly Willy) (Aftermarket).bin" size="4194304" crc="fd07db46" md5="f642e289bfb670022e0ae001786bdf94" sha1="f951890e6cd3cfd5e4cba13be8c8aea4f70d36a5"/>
+		<description>xRick (World) (Aftermarket) (Unl)</description>
+		<rom name="xRick (World) (Aftermarket) (Unl).32x" size="4194304" crc="fd07db46" md5="f642e289bfb670022e0ae001786bdf94" sha1="f951890e6cd3cfd5e4cba13be8c8aea4f70d36a5"/>
 		<url>https://retroachievements.org/game/17682/hashes</url>
 		<hash>f642e289bfb670022e0ae001786bdf94</hash>
 	</game>
 	
-	<game name="Prototype/ClayFighter 2 (USA) (Proto) (1995-04-28)">
+	<game name="Prototype/ClayFighter 2 (USA) (Proto)">
 		<category></category>
-		<description>ClayFighter 2 (USA) (Proto) (1995-04-28)</description>
-		<rom name="ClayFighter 2 (USA) (Proto) (1995-04-28).32x" size="1048576" crc="59701755" md5="dee27ac83240ddebdcaa92e9f58fde4f" sha1="1d3c372b55fa1418556aea1949995f997227b5fa"/>
+		<description>ClayFighter 2 (USA) (Proto)</description>
+		<rom name="ClayFighter 2 (USA) (Proto).32x" size="1048576" crc="59701755" md5="dee27ac83240ddebdcaa92e9f58fde4f" sha1="1d3c372b55fa1418556aea1949995f997227b5fa"/>
 		<url>https://retroachievements.org/game/16794/hashes</url>
 		<hash>dee27ac83240ddebdcaa92e9f58fde4f</hash>
 	</game>
 	
-	<game name="Prototype/Pinocchio (Europe) (Proto) (1995-12-06)">
+	<game name="Prototype/Pinocchio (Europe) (Proto)">
 		<category></category>
-		<description>Pinocchio (Europe) (Proto) (1995-12-06)</description>
-		<rom name="Pinocchio (Europe) (Proto) (1995-12-06).32x" size="4194304" crc="390a90f9" md5="406ab3e46797d8459c3d9efbbc044282" sha1="39ccf67e516bdaec879f1e30b23d5f253e82b6c8"/>
+		<description>Pinocchio (Europe) (Proto)</description>
+		<rom name="Pinocchio (Europe) (Proto).32x" size="4194304" crc="390a90f9" md5="406ab3e46797d8459c3d9efbbc044282" sha1="39ccf67e516bdaec879f1e30b23d5f253e82b6c8"/>
 		<url>https://retroachievements.org/game/16800/hashes</url>
 		<hash>406ab3e46797d8459c3d9efbbc044282</hash>
 	</game>
